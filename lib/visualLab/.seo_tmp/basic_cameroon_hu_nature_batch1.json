@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-nyos-nature-v2",
+      "description": "A Nyos-tó vulkáni eredetű krátertó Kamerun északnyugati részén. Különleges természeti formája miatt ismert.",
+      "facts": ["krátertó", "vulkáni eredet", "északi Nyugat-Kamerun"]
+    },
+    {
+      "id": "nkam-river-nature-v2",
+      "description": "Az Nkam folyó a nyugati esőerdős területek vízrendszeréhez tartozik. Fontos mellékfolyója a kameruni vízhálózatnak.",
+      "facts": ["folyó Nyugat-Kamerunban", "vízgyűjtő rész", "esőerdős térség"]
+    },
+    {
+      "id": "lake-chad-nature-v2",
+      "description": "A Csád-tó Kamerun északi peremének fontos vízfelülete. A száraz és fél-száraz térség életét támogatja.",
+      "facts": ["északi tópart", "fél-száraz öv", "fontos vízkészlet"]
+    },
+    {
+      "id": "kribi-sea-nature-v2",
+      "description": "Kribi tengerpartja az Atlanti-óceán kameruni partszakasza. A homokos partok és a halászat jellemzik.",
+      "facts": ["atlanti partvidék", "homokos strandok", "halászati övezet"]
+    },
+    {
+      "id": "mungo-river-nature-v2",
+      "description": "A Mungo folyó a délnyugati és nyugati régiók fontos vízfolyása. Termékeny völgyeket és mezőgazdasági területeket táplál.",
+      "facts": ["fontos folyó", "termékeny völgyek", "mezőgazdasági térség"]
+    },
+    {
+      "id": "lake-oku-nature-v2",
+      "description": "Az Oku-tó egy magasföldi krátertó a Bamenda-fennsíkon. Környezete gazdag élővilágáról ismert.",
+      "facts": ["magashegységi tó", "krátertó", "gazdag élővilág"]
+    },
+    {
+      "id": "buea-mountain-nature-v2",
+      "description": "A Buea-hegy a Mount Cameroon déli lejtőinek része. A várost a vulkáni táj fölé emeli.",
+      "facts": ["Mount Cameroon lejtői", "vulkáni táj", "Buea fölött"]
+    },
+    {
+      "id": "manengouba-mountain-nature-v2",
+      "description": "A Manengouba-hegység Kamerun nyugati magashegységi tája. Két vulkáni tó és erdős lejtők kapcsolódnak hozzá.",
+      "facts": ["nyugati hegység", "vulkáni eredet", "erdős lejtők"]
+    },
+    {
+      "id": "nkam-basin-nature-v2",
+      "description": "Az Nkam-medence a nyugati Kamerun egyik fontos vízgyűjtője. A dús csapadékú térségek lefolyását gyűjti össze.",
+      "facts": ["vízgyűjtő medence", "csapadékos vidék", "nyugati Kamerun"]
+    },
+    {
+      "id": "kribi-forest-nature-v2",
+      "description": "Kribi környékén parti esőerdők húzódnak. A tenger és az erdő találkozása jellemzi a tájat.",
+      "facts": ["parti esőerdő", "Kribi környéke", "tenger és erdő"]
+    }
+  ]
+}

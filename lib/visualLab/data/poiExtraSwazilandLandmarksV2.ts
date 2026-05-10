@@ -23,8 +23,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Körülbelül 20 000 néző befogadására alkalmas", "Somhlolo királyról nevezték el"],
       ro: ["Capacitate de aproximativ 20.000 de spectatori", "Numit după regele Somhlolo"],
       en: ["Capacity of approximately 20,000 spectators", "Named after King Somhlolo"]
-    }
-  },
+    }, image: "/poi-images/somhlolo-national-stadium-landmarks-v2.webp"},
   {
     id: "parliament-building-swaziland-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Múzeumot és mauzóleumot is tartalmaz", "A nemzeti büszkeség fontos helyszíne"],
       ro: ["Include un muzeu și un mauzoleu", "Loc important pentru mândria națională"],
       en: ["Includes a museum and a mausoleum", "Important site for national pride"]
-    }
-  },
+    }, image: "/poi-images/king-sobhuza-ii-memorial-park-landmarks-v2.webp"},
   {
     id: "ludzidzini-royal-village-landmarks-v2",
     type: "landmark",
@@ -95,8 +93,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["A szvázi hagyományok központja", "Az Umhlanga nádtánc ceremónia helyszíne"],
       ro: ["Centrul tradiției Swazi", "Locul ceremoniei de dans al trestiei Umhlanga"],
       en: ["Center of Swazi tradition", "Site of the Umhlanga Reed Dance ceremony"]
-    }
-  },
+    }, image: "/poi-images/ludzidzini-royal-village-landmarks-v2.webp"},
   {
     id: "lozitha-royal-palace-landmarks-v2",
     type: "landmark",
@@ -119,8 +116,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Modern királyi rezidencia", "A nagyközönség számára nem látogatható"],
       ro: ["Reședință regală modernă", "Nu este deschis publicului larg"],
       en: ["Modern royal residence", "Not open to the general public"]
-    }
-  },
+    }, image: "/poi-images/lozitha-royal-palace-landmarks-v2.webp"},
   {
     id: "cathedral-lady-assumption-manzini-landmarks-v2",
     type: "landmark",
@@ -143,8 +139,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["A katolikus püspök székhelye", "A keresztény közösség központja"],
       ro: ["Sediul episcopului catolic", "Centrul comunității creștine"],
       en: ["Seat of the Catholic Bishop", "Center of the Christian community"]
-    }
-  },
+    }, image: "/poi-images/cathedral-lady-assumption-manzini-landmarks-v2.webp"},
   {
     id: "king-mswati-iii-international-airport-landmarks-v2",
     type: "landmark",
@@ -167,8 +162,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["2014-ben nyitották meg", "Fontos infrastrukturális projekt"],
       ro: ["Deschis în 2014", "Proiect major de infrastructură"],
       en: ["Opened in 2014", "Major infrastructure project"]
-    }
-  },
+    }, image: "/poi-images/king-mswati-iii-international-airport-landmarks-v2.webp"},
   {
     id: "swaziland-national-museum-landmarks-v2",
     type: "landmark",
@@ -215,8 +209,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["A kreatív szcéna központja", "Ananászföldek közepén található"],
       ro: ["Centrul scenei creative", "Situat în mijlocul câmpurilor de ananas"],
       en: ["Center of the creative scene", "Located amidst pineapple fields"]
-    }
-  },
+    }, image: "/poi-images/house-on-fire-malkerns-landmarks-v2.webp"},
   {
     id: "royal-swazi-spa-ezulwini-landmarks-v2",
     type: "landmark",
@@ -239,8 +232,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Golfpályájáról ismert", "Fontos turisztikai jelkép"],
       ro: ["Cunoscut pentru terenul său de golf", "Punct de reper turistic important"],
       en: ["Known for its golf course", "Major tourist landmark"]
-    }
-  },
+    }, image: "/poi-images/royal-swazi-spa-ezulwini-landmarks-v2.webp"},
   {
     id: "mbabane-central-market-landmarks-v2",
     type: "landmark",
@@ -263,8 +255,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["A város gazdasági csomópontja", "A hagyományos orvoslás helyszíne"],
       ro: ["Nodul economic al orașului", "Loc pentru medicină tradițională"],
       en: ["Economic hub of the city", "Place for traditional medicine"]
-    }
-  },
+    }, image: "/poi-images/mbabane-central-market-landmarks-v2.webp"},
   {
     id: "all-saints-cathedral-mbabane-landmarks-v2",
     type: "landmark",
@@ -287,8 +278,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Anglikán jelkép", "Történelmi templomépítészet"],
       ro: ["Simbol anglican", "Arhitectură bisericească istorică"],
       en: ["Anglican landmark", "Historical church architecture"]
-    }
-  },
+    }, image: "/poi-images/all-saints-cathedral-mbabane-landmarks-v2.webp"},
   {
     id: "central-bank-eswatini-building-landmarks-v2",
     type: "landmark",
@@ -359,8 +349,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Modern fogyasztói központ", "Turisták és helyiek találkozóhelye"],
       ro: ["Cel mai modern centru comercial", "Loc de întâlnire pentru turiști și localnici"],
       en: ["Most modern retail hub", "Meeting point for tourists and locals"]
-    }
-  },
+    }, image: "/poi-images/gables-shopping-centre-landmarks-v2.webp"},
   {
     id: "mavuso-trade-exhibition-centre-landmarks-v2",
     type: "landmark",
@@ -383,8 +372,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Fontos a regionális kereskedelem számára", "A Nemzetközi Kereskedelmi Vásár helyszíne"],
       ro: ["Important pentru comerțul regional", "Locul de desfășurare a Târgului Internațional de Comerț"],
       en: ["Important for regional trade", "Venue for the International Trade Fair"]
-    }
-  },
+    }, image: "/poi-images/mavuso-trade-exhibition-centre-landmarks-v2.webp"},
   {
     id: "mbabane-clock-tower-landmarks-v2",
     type: "landmark",
@@ -407,8 +395,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Klasszikus óratorony", "Népszerű találkozóhely"],
       ro: ["Turn cu ceas clasic", "Loc de întâlnire popular"],
       en: ["Classic clock tower", "Popular meeting point"]
-    }
-  },
+    }, image: "/poi-images/mbabane-clock-tower-landmarks-v2.webp"},
   {
     id: "big-bend-bridge-landmarks-v2",
     type: "landmark",
@@ -431,8 +418,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Átszeli a legnagyobb folyót", "Stratégiai közlekedési összeköttetés"],
       ro: ["Traversează cel mai mare râu", "Legătură de transport strategică"],
       en: ["Crosses the largest river", "Strategic transport link"]
-    }
-  },
+    }, image: "/poi-images/big-bend-bridge-landmarks-v2.webp"},
   {
     id: "maguga-dam-wall-landmarks-v2",
     type: "landmark",
@@ -455,8 +441,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["115 méter magas", "A modern technika lenyűgöző példája"],
       ro: ["115 metri înălțime", "Exemplu impresionant de inginerie modernă"],
       en: ["115 meters high", "Impressive example of modern engineering"]
-    }
-  },
+    }, image: "/poi-images/maguga-dam-wall-landmarks-v2.webp"},
   {
     id: "waterford-kamhlaba-college-landmarks-v2",
     type: "landmark",
@@ -479,8 +464,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Az első többnemzetiségű iskola", "A United World Colleges tagja"],
       ro: ["Prima școală multirasială", "Parte a United World Colleges"],
       en: ["First multi-racial school", "Part of the United World Colleges"]
-    }
-  },
+    }, image: "/poi-images/waterford-kamhlaba-college-landmarks-v2.webp"},
   {
     id: "salesian-high-school-manzini-landmarks-v2",
     type: "landmark",
@@ -503,8 +487,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Az akadémiai kiválóságra összpontosít", "Jelentős oktatási központ"],
       ro: ["Se concentrează pe excelența academică", "Centru educațional semnificativ"],
       en: ["Focus on academic excellence", "Significant educational center"]
-    }
-  },
+    }, image: "/poi-images/salesian-high-school-manzini-landmarks-v2.webp"},
   {
     id: "swazi-plaza-mbabane-landmarks-v2",
     type: "landmark",
@@ -527,8 +510,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Üzletek széles választéka", "Központi találkozóhely"],
       ro: ["Gamă largă de magazine", "Loc de întâlnire central"],
       en: ["Extensive range of shops", "Central gathering place"]
-    }
-  },
+    }, image: "/poi-images/swazi-plaza-mbabane-landmarks-v2.webp"},
   {
     id: "un-house-eswatini-landmarks-v2",
     type: "landmark",
@@ -575,8 +557,7 @@ export const poiExtraSwazilandLandmarksV2: POI[] = [
       hu: ["Az éjszakai élet központja", "Szállodákkal és éttermekkel rendelkezik"],
       ro: ["Centru al vieții de noapte", "Oferă hoteluri și restaurante"],
       en: ["Hub of nightlife", "Features hotels and restaurants"]
-    }
-  },
+    }, image: "/poi-images/happy-valley-casino-ezulwini-landmarks-v2.webp"},
   {
     id: "mhlume-club-building-landmarks-v2",
     type: "landmark",

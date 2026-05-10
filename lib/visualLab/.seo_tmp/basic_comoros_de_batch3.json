@@ -1,0 +1,64 @@
+{
+  "lang": "de",
+  "country": "Comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mairie-de-fomboni-landmarks-v2",
+      "description": "Das Rathaus von Fomboni ist das Verwaltungszentrum von Moh?li und der wichtigste Ort der Stadtverwaltung. Hier laufen die lokalen Amtsgesch?fte der Inselhauptstadt zusammen.",
+      "facts": [
+        "Verwaltungssitz von Moh?li",
+        "Zentrum der Stadtverwaltung",
+        "In Fomboni gelegen"
+      ]
+    },
+    {
+      "id": "chissioua-mchaco-nature-v2",
+      "description": "Chissioua Mchaco ist eine kleine felsige Insel ?stlich von Moh?li. Sie ist unbewohnt und dient vor allem Seev?geln als R?ckzugsort.",
+      "facts": [
+        "?stlich von Moh?li",
+        "Unbewohnte Felseninsel",
+        "Wichtiger Nistplatz"
+      ]
+    },
+    {
+      "id": "chissioua-chandzi-nature-v2",
+      "description": "Chissioua Chandzi ist eine kleine Insel vor Moh?li mit markantem Vulkanfelsen. Das Umland im Meer ist von Korallen und K?stenleben gepr?gt.",
+      "facts": [
+        "Bei Moh?li gelegen",
+        "Vulkanische Felsen",
+        "Von Korallen umgeben"
+      ]
+    },
+    {
+      "id": "moya-beach-nature-v2",
+      "description": "Moya Beach ist ein Strand im S?den von Anjouan mit Sand und Klippen im Hintergrund. Der Ort eignet sich gut zum Baden und f?r ruhige Tage am Meer.",
+      "facts": [
+        "S?den von Anjouan",
+        "Sandstrand mit Klippen",
+        "Gut zum Baden"
+      ]
+    },
+    {
+      "id": "hantsindzi-beach-nature-v2",
+      "description": "Hantsindzi Beach liegt im Norden von Grande Comore und wirkt deutlich abgelegener als die Str?nde nahe Moroni. Wei?e Sandfl?chen und schwarze Felsen wechseln sich hier ab.",
+      "facts": [
+        "Norden von Grande Comore",
+        "Abgelegener Strand",
+        "Wei?e Sand- und Felsk?ste"
+      ]
+    },
+    {
+      "id": "chiroroni-beach-nature-v2",
+      "description": "Chiroroni Beach liegt im S?dosten von Anjouan und zeigt die typische Mischung aus klarem Wasser und schwarzem Vulkangestein. Der Abschnitt geh?rt zu den ruhigeren K?stenorten der Insel.",
+      "facts": [
+        "S?dosten von Anjouan",
+        "Klares Wasser",
+        "Schwarze Vulkanfelsen"
+      ]
+    }
+  ]
+}

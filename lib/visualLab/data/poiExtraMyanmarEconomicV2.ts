@@ -30,8 +30,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "It is a joint venture between Myanmar and Japan.",
         "Commercial operations began in September 2015."
       ]
-    }
-  },
+    }, image: "/poi-images/thilawa-special-economic-zone-economic-v2.webp"},
   {
     id: "kanbauk-gas-terminal-economic-v2",
     type: "energy",
@@ -61,8 +60,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The terminal receives gas from the Yadanar project.",
         "The gas pipeline routes directly to Thailand's Ratchaburi province."
       ]
-    }
-  },
+    }, image: "/poi-images/kanbauk-gas-terminal-economic-v2.webp"},
   {
     id: "letpadaung-copper-mine-economic-v2",
     type: "mine",
@@ -92,8 +90,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The project is operated by Wanbao Mining from China.",
         "The mine is located in the Sagaing Region."
       ]
-    }
-  },
+    }, image: "/poi-images/letpadaung-copper-mine-economic-v2.webp"},
   {
     id: "hpakant-jade-mine-economic-v2",
     type: "mine",
@@ -123,8 +120,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The mines produce nearly 70 percent of the world's high-quality jadeite.",
         "Landslides are a constant and deadly hazard in the region."
       ]
-    }
-  },
+    }, image: "/poi-images/hpakant-jade-mine-economic-v2.webp"},
   {
     id: "myawaddy-border-trade-hub-economic-v2",
     type: "trade-hub",
@@ -154,8 +150,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "It connects the Thai city of Mae Sot with Kayin State.",
         "The new Asian Highway has significantly improved the trade routes here."
       ]
-    }
-  },
+    }, image: "/poi-images/myawaddy-border-trade-hub-economic-v2.webp"},
   {
     id: "mogok-ruby-mines-economic-v2",
     type: "mine",
@@ -185,8 +180,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The region is often referred to as the 'Valley of Rubies'.",
         "Besides rubies, sapphires and spinels are also mined here."
       ]
-    }
-  },
+    }, image: "/poi-images/mogok-ruby-mines-economic-v2.webp"},
   {
     id: "105-mile-trade-zone-economic-v2",
     type: "trade-hub",
@@ -247,8 +241,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The facility has an installed capacity of 790 megawatts.",
         "It is a major roller-compacted concrete dam project."
       ]
-    }
-  },
+    }, image: "/poi-images/yeywa-hydropower-plant-economic-v2.webp"},
   {
     id: "dawei-deep-sea-port-project-economic-v2",
     type: "port",
@@ -278,8 +271,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The project aims to bypass the Strait of Malacca.",
         "Development has faced repeated delays due to funding issues."
       ]
-    }
-  },
+    }, image: "/poi-images/dawei-deep-sea-port-project-economic-v2.webp"},
   {
     id: "kyaukpyu-special-economic-zone-economic-v2",
     type: "industry",
@@ -309,8 +301,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The deep-sea port here serves as the starting point for oil and gas pipelines to China.",
         "A significant portion of the site is situated on Ramree Island."
       ]
-    }
-  },
+    }, image: "/poi-images/kyaukpyu-special-economic-zone-economic-v2.webp"},
   {
     id: "tagaung-taung-nickel-mine-economic-v2",
     type: "mine",
@@ -340,8 +331,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The project was realized with substantial Chinese investment.",
         "It is the largest nickel plant in Myanmar."
       ]
-    }
-  },
+    }, image: "/poi-images/tagaung-taung-nickel-mine-economic-v2.webp"},
   {
     id: "mann-oil-field-economic-v2",
     type: "energy",
@@ -371,8 +361,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The field was discovered in 1970.",
         "It is among the most densely drilled oil fields in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/mann-oil-field-economic-v2.webp"},
   {
     id: "chauk-oil-field-economic-v2",
     type: "energy",
@@ -402,8 +391,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "Oil production in this region began as early as 1902.",
         "It is a major hub of the domestic petrochemical industry."
       ]
-    }
-  },
+    }, image: "/poi-images/chauk-oil-field-economic-v2.webp"},
   {
     id: "belin-sugar-mill-economic-v2",
     type: "industry",
@@ -433,8 +421,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The mill supports thousands of local sugarcane farmers.",
         "It plays a key role in the regional economy."
       ]
-    }
-  },
+    }, image: "/poi-images/belin-sugar-mill-economic-v2.webp"},
   {
     id: "shweli-1-hydropower-station-economic-v2",
     type: "energy",
@@ -464,8 +451,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "The power station has an installed capacity of 600 megawatts.",
         "It was developed as a Build-Operate-Transfer (BOT) project."
       ]
-    }
-  },
+    }, image: "/poi-images/shweli-1-hydropower-station-economic-v2.webp"},
   {
     id: "yangon-inner-port-economic-v2",
     type: "port",
@@ -495,8 +481,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "It handles nearly 90 percent of the country's legal imports and exports.",
         "The port is situated about 30 kilometers inland from the Andaman Sea."
       ]
-    }
-  },
+    }, image: "/poi-images/yangon-inner-port-economic-v2.webp"},
   {
     id: "myanmar-industrial-port-economic-v2",
     type: "port",
@@ -588,8 +573,7 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
         "It has a rated capacity of roughly 120 megawatts.",
         "Coal is sourced from the nearby Tigyit open-pit mines."
       ]
-    }
-  },
+    }, image: "/poi-images/tigyit-coal-power-plant-economic-v2.webp"},
   {
     id: "myingyan-steel-mill-economic-v2",
     type: "industry",

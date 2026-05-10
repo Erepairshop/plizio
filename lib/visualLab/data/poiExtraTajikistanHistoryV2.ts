@@ -23,8 +23,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["A 18. században épült.", "Hatalmas bejárati kapui máig állnak."],
       ro: ["Construită în secolul al XVIII-lea.", "Porțile masive s-au păstrat."],
       en: ["Built in the 18th century.", "The massive entrance gates still stand."]
-    }
-  },
+    }, image: "/poi-images/tj-hissar-fortress-history-v2.webp"},
   {
     id: "tj-sarazm-history-v2",
     type: "ruin",
@@ -47,8 +46,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Több mint 5000 éves.", "2010 óta UNESCO világörökség."],
       ro: ["Veche de peste 5000 de ani.", "Site din Patrimoniul Mondial UNESCO."],
       en: ["Over 5000 years old.", "A UNESCO World Heritage site since 2010."]
-    }
-  },
+    }, image: "/poi-images/tj-sarazm-history-v2.webp"},
   {
     id: "tj-ancient-penjikent-history-v2",
     type: "ruin",
@@ -71,8 +69,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Közép-Ázsia Pompejiének is nevezik.", "Arab hódítók pusztították el."],
       ro: ["Supranumit Pompeiul Asiei Centrale.", "Distrus de invadatorii arabi."],
       en: ["Often called the Pompeii of Central Asia.", "Destroyed by Arab invaders."]
-    }
-  },
+    }, image: "/poi-images/tj-ancient-penjikent-history-v2.webp"},
   {
     id: "tj-hulbuk-palace-history-v2",
     type: "historical-site",
@@ -95,8 +92,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Kurbonshaheed település közelében található.", "Alaposan restaurálták."],
       ro: ["Situat lângă localitatea Kurbonshaheed.", "A fost amplu restaurat."],
       en: ["Located near the village of Kurbonshaheed.", "Has been extensively restored."]
-    }
-  },
+    }, image: "/poi-images/tj-hulbuk-palace-history-v2.webp"},
   {
     id: "tj-ajina-tepa-history-v2",
     type: "ruin",
@@ -119,8 +115,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Itt találtak egy hatalmas fekvő Buddhát.", "Bohtar városának közelében van."],
       ro: ["Aici a fost găsit un Buddha uriaș dormind.", "Este situat în apropiere de Bochtar."],
       en: ["A giant sleeping Buddha was found here.", "Located near the city of Bokhtar."]
-    }
-  },
+    }, image: "/poi-images/tj-ajina-tepa-history-v2.webp"},
   {
     id: "tj-takhti-sangin-history-v2",
     type: "ruin",
@@ -143,8 +138,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["A Kr. e. 4. században épült.", "Az Oxus-kincs feltételezett lelőhelye."],
       ro: ["Construit în secolul al IV-lea î.Hr.", "Locul probabil al descoperirii tezaurului Oxus."],
       en: ["Built in the 4th century BC.", "Probable discovery site of the Oxus Treasure."]
-    }
-  },
+    }, image: "/poi-images/tj-takhti-sangin-history-v2.webp"},
   {
     id: "tj-yamchun-fortress-history-v2",
     type: "ruin",
@@ -167,8 +161,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["A Kr. e. 3. századból származik.", "Lenyűgöző kilátást nyújt a Hindukusra."],
       ro: ["Datează din secolul al III-lea î.Hr.", "Oferă vederi spectaculoase asupra Hindu Kush."],
       en: ["Dates back to the 3rd century BC.", "Offers spectacular views of the Hindu Kush."]
-    }
-  },
+    }, image: "/poi-images/tj-yamchun-fortress-history-v2.webp"},
   {
     id: "tj-khujand-fortress-history-v2",
     type: "historical-site",
@@ -191,8 +184,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Eredete az ókorig nyúlik vissza.", "Ma történelmi múzeum működik benne."],
       ro: ["Originile sale datează din antichitate.", "Găzduiește astăzi un muzeu istoric."],
       en: ["Origins trace back to antiquity.", "Today it houses a historical museum."]
-    }
-  },
+    }, image: "/poi-images/tj-khujand-fortress-history-v2.webp"},
   {
     id: "tj-ali-hamadani-mausoleum-history-v2",
     type: "monument",
@@ -215,8 +207,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["A tudós vitte el az iszlámot Kasmírba.", "Az építmény a 14. századból származik."],
       ro: ["Eruditul a adus islamul în Kashmir.", "Structura datează din secolul al XIV-lea."],
       en: ["The scholar brought Islam to Kashmir.", "The structure dates back to the 14th century."]
-    }
-  },
+    }, image: "/poi-images/tj-ali-hamadani-mausoleum-history-v2.webp"},
   {
     id: "tj-khoja-mashkhad-history-v2",
     type: "historical-site",
@@ -239,8 +230,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["A 9. században épült.", "Az ország déli részén, Sahritusz közelében található."],
       ro: ["Construit în secolul al IX-lea.", "Se află în sudul țării, lângă Shahritus."],
       en: ["Built in the 9th century.", "Located in the south of the country near Shahritus."]
-    }
-  },
+    }, image: "/poi-images/tj-khoja-mashkhad-history-v2.webp"},
   {
     id: "tj-kah-kaha-fortress-history-v2",
     type: "ruin",
@@ -287,8 +277,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Az emlékmű több mint 25 méter magas.", "A nemzeti identitás szimbólumának tekintik."],
       ro: ["Monumentul are o înălțime de peste 25 de metri.", "Este considerat un simbol al identității naționale."],
       en: ["The monument is over 25 meters high.", "Considered a symbol of national identity."]
-    }
-  },
+    }, image: "/poi-images/tj-ismoil-somoni-monument-history-v2.webp"},
   {
     id: "tj-rudaki-monument-history-v2",
     type: "monument",
@@ -311,8 +300,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Rudaki a 9. században élt.", "Az emlékművet a függetlenség tiszteletére emelték."],
       ro: ["Rudaki a trăit în secolul al IX-lea.", "Monumentul a fost ridicat cu ocazia independenței."],
       en: ["Rudaki lived in the 9th century.", "The monument was erected for independence."]
-    }
-  },
+    }, image: "/poi-images/tj-rudaki-monument-history-v2.webp"},
   {
     id: "tj-mug-teppe-history-v2",
     type: "ruin",
@@ -335,8 +323,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Az erőd az óvárosra néz.", "A bejárati kaput 2002-ben építették újjá."],
       ro: ["Fortăreața domină orașul vechi.", "Poarta de la intrare a fost reconstruită în 2002."],
       en: ["The fortress overlooks the old town.", "The entrance gate was reconstructed in 2002."]
-    }
-  },
+    }, image: "/poi-images/tj-mug-teppe-history-v2.webp"},
   {
     id: "tj-vrang-stupa-history-v2",
     type: "historical-site",
@@ -359,8 +346,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["A 4. századból származik.", "A közelben buddhista szerzetesek barlangjai találhatók."],
       ro: ["Datează din secolul al IV-lea.", "Există peșteri ale călugărilor budiști în apropiere."],
       en: ["Dates back to the 4th century.", "There are caves of Buddhist monks nearby."]
-    }
-  },
+    }, image: "/poi-images/tj-vrang-stupa-history-v2.webp"},
   {
     id: "tj-sheikh-muslihiddin-mausoleum-history-v2",
     type: "historical-site",
@@ -383,8 +369,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["A 12. századi uralkodónak szentelték.", "Jelentős zarándokhely."],
       ro: ["Dedicat conducătorului din secolul al XII-lea.", "Un loc important de pelerinaj."],
       en: ["Dedicated to the 12th-century ruler.", "A major pilgrimage site."]
-    }
-  },
+    }, image: "/poi-images/tj-sheikh-muslihiddin-mausoleum-history-v2.webp"},
   {
     id: "tj-hazrati-shoh-mausoleum-history-v2",
     type: "monument",
@@ -407,8 +392,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Az épület a 18. századból származik.", "A szentély előtt egy szent forrás fakad."],
       ro: ["Clădirea datează din secolul al XVIII-lea.", "Un izvor sfânt curge în fața sanctuarului."],
       en: ["The building dates from the 18th century.", "A sacred spring flows in front of the shrine."]
-    }
-  },
+    }, image: "/poi-images/tj-hazrati-shoh-mausoleum-history-v2.webp"},
   {
     id: "tj-victory-park-monument-history-v2",
     type: "monument",
@@ -431,8 +415,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["1985-ben, a győzelem 40. évfordulóján nyílt meg.", "Panorámás kilátást nyújt Dusanbéra."],
       ro: ["Deschis în 1985 pentru a 40-a aniversare a victoriei.", "Oferă o vedere panoramică asupra orașului Dușanbe."],
       en: ["Opened in 1985 for the 40th anniversary of victory.", "Offers a panoramic view of Dushanbe."]
-    }
-  },
+    }, image: "/poi-images/tj-victory-park-monument-history-v2.webp"},
   {
     id: "tj-karon-ruins-history-v2",
     type: "ruin",
@@ -455,8 +438,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Tádzsikisztán Machu Picchujaként emlegetik.", "Zoroasztriánus tűztemplomok is találhatók itt."],
       ro: ["Este supranumit Machu Picchu al Tadjikistanului.", "Include temple de foc zoroastriene."],
       en: ["Referred to as the Machu Picchu of Tajikistan.", "Features Zoroastrian fire temples."]
-    }
-  },
+    }, image: "/poi-images/tj-karon-ruins-history-v2.webp"},
   {
     id: "tj-bunjikat-history-v2",
     type: "ruin",

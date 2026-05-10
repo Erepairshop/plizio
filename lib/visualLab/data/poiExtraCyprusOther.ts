@@ -35,8 +35,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Limassoli Állatkert Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Limassol Zoo is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-limassol-zoo-extra.webp"},
   {
     id: "animal-habitat-pafos-zoo-extra",
     type: "animal-habitat",
@@ -65,8 +64,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Páfoszi Állatkert Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Pafos Zoo is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-pafos-zoo-extra.webp"},
   {
     id: "animal-habitat-camel-park-mazotos-extra",
     type: "animal-habitat",
@@ -95,8 +93,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Mazotosi Tevepark Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Camel Park Mazotos is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-camel-park-mazotos-extra.webp"},
   {
     id: "animal-habitat-golden-donkeys-farm-extra",
     type: "animal-habitat",
@@ -125,8 +122,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Arany Szamarak Farmja Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Golden Donkeys Farm is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-golden-donkeys-farm-extra.webp"},
   {
     id: "animal-habitat-cyprus-donkey-sanctuary-extra",
     type: "animal-habitat",
@@ -155,8 +151,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ciprusi Szamármenedék Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Cyprus Donkey Sanctuary is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-cyprus-donkey-sanctuary-extra.webp"},
   {
     id: "animal-habitat-akrotiri-marsh-extra",
     type: "animal-habitat",
@@ -185,8 +180,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Akrotiri-láp Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Akrotiri Marsh is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-akrotiri-marsh-extra.webp"},
   {
     id: "animal-habitat-mouflon-enclosure-stavros-tis-psokas-extra",
     type: "animal-habitat",
@@ -215,8 +209,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Muflon-karám Stavros tis Psokas Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Mouflon Enclosure Stavros tis Psokas is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-mouflon-enclosure-stavros-tis-psokas-extra.webp"},
   {
     id: "animal-habitat-larnaca-salt-lake-birds-extra",
     type: "animal-habitat",
@@ -245,8 +238,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Madármegfigyelés a Lárnakai Sós-tónál Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Larnaca Salt Lake Bird Watching is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-larnaca-salt-lake-birds-extra.webp"},
   {
     id: "animal-habitat-petrides-farm-park-extra",
     type: "animal-habitat",
@@ -275,8 +267,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Petrides Farm Park Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Petrides Farm Park is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-petrides-farm-park-extra.webp"},
   {
     id: "animal-habitat-melios-pet-park-extra",
     type: "animal-habitat",
@@ -305,8 +296,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Melios Állatpark Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Melios Pet Park is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-melios-pet-park-extra.webp"},
   {
     id: "animal-habitat-riverland-bio-farm-extra",
     type: "animal-habitat",
@@ -335,8 +325,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Riverland Biofarm Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Riverland Bio Farm is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-riverland-bio-farm-extra.webp"},
   {
     id: "animal-habitat-sayious-adventure-park-animals-extra",
     type: "animal-habitat",
@@ -365,8 +354,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Sayious Kalandpark Állatai Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Sayious Adventure Park Animals is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-sayious-adventure-park-animals-extra.webp"},
   {
     id: "animal-habitat-larnaka-municipal-gardens-zoo-extra",
     type: "animal-habitat",
@@ -395,8 +383,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lárnakai Városi Kert és Állatkert Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Larnaka Municipal Gardens Zoo is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-larnaka-municipal-gardens-zoo-extra.webp"},
   {
     id: "animal-habitat-white-river-beach-turtles-extra",
     type: "animal-habitat",
@@ -425,8 +412,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Teknősfészkelőhely a White River Beachen Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["White River Beach Turtle Nesting is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-white-river-beach-turtles-extra.webp"},
   {
     id: "animal-habitat-latsi-sea-turtles-extra",
     type: "animal-habitat",
@@ -455,8 +441,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Tengeri teknős megfigyelés Latsiban Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Latsi Sea Turtle Watching is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-latsi-sea-turtles-extra.webp"},
   {
     id: "animal-habitat-oro-klini-lake-extra",
     type: "animal-habitat",
@@ -485,8 +470,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Oroklini-tó Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Oroklini Lake is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-oro-klini-lake-extra.webp"},
   {
     id: "animal-habitat-paralimni-lake-extra",
     type: "animal-habitat",
@@ -515,8 +499,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Paralimni-tó Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Paralimni Lake is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-paralimni-lake-extra.webp"},
   {
     id: "animal-habitat-karpas-national-park-extra",
     type: "animal-habitat",
@@ -545,8 +528,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Karpas Nemzeti Park Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Karpas National Park is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-karpas-national-park-extra.webp"},
   {
     id: "animal-habitat-akrotiri-environmental-centre-extra",
     type: "animal-habitat",
@@ -575,8 +557,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Akrotiri Környezeti Oktatóközpont Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Akrotiri Environmental Education Centre is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-akrotiri-environmental-centre-extra.webp"},
   {
     id: "animal-habitat-asprokremmos-dam-birds-extra",
     type: "animal-habitat",
@@ -605,8 +586,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Madármegfigyelés az Asprokremmos-gátnál Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Asprokremmos Dam Birdwatching is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-asprokremmos-dam-birds-extra.webp"},
   {
     id: "animal-habitat-troodos-environmental-info-centre-extra",
     type: "animal-habitat",
@@ -635,8 +615,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Troodos Környezeti Információs Központ Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Troodos Environmental Information Centre is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-troodos-environmental-info-centre-extra.webp"},
   {
     id: "animal-habitat-cyprus-reptile-park-extra",
     type: "animal-habitat",
@@ -695,8 +674,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Paramali Teknős Strand Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Paramali Turtle Beach is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-paramali-turtle-beach-extra.webp"},
   {
     id: "animal-habitat-kouris-dam-birdlife-extra",
     type: "animal-habitat",
@@ -725,8 +703,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) A Kouris-gát madárvilága Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Kouris Dam Birdlife is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-kouris-dam-birdlife-extra.webp"},
   {
     id: "animal-habitat-cape-greco-environmental-centre-extra",
     type: "animal-habitat",
@@ -755,8 +732,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Greco-fok Környezetvédelmi Központ Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Cape Greco Environmental Centre is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-cape-greco-environmental-centre-extra.webp"},
   {
     id: "animal-habitat-episkopi-bay-griffon-vultures-extra",
     type: "animal-habitat",
@@ -785,8 +761,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Fakókeselyűk az Episkopi-öbölben Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Episkopi Bay Griffon Vultures is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-episkopi-bay-griffon-vultures-extra.webp"},
   {
     id: "animal-habitat-molos-park-promenade-birds-extra",
     type: "animal-habitat",
@@ -815,8 +790,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Madarak a Molos Park sétányán Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Molos Park Promenade Birds is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-molos-park-promenade-birds-extra.webp"},
   {
     id: "animal-habitat-cyherbia-botanical-park-animals-extra",
     type: "animal-habitat",
@@ -845,8 +819,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Cyherbia Botanikus Park állatai Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Cyherbia Botanical Park Animals is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-cyherbia-botanical-park-animals-extra.webp"},
   {
     id: "animal-habitat-pafos-forest-wildlife-extra",
     type: "animal-habitat",
@@ -875,8 +848,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) A Páfoszi erdő vadvilága Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Pafos Forest Wildlife is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-pafos-forest-wildlife-extra.webp"},
   {
     id: "animal-habitat-kellia-bird-watching-extra",
     type: "animal-habitat",
@@ -905,8 +877,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kellia madármegfigyelő terület Cipruson talalhato, autoval kenyelmesen megkozelitheto.", "A helyszin honos es betelepitett allatfajokat egyarant bemutat.", "A tobbnyelvű tablak megkonnyitik a hazai es kulfoldi csaladok latogatasat.", "Bemutato anyagok ismertetik a vedelmi, tenyesztesi es visszatelepitesi programokat.", "A fedett reszek es ivovizvetelek nyaron is kellemesse teszik az ott tartozkodast.", "A gyermekbarat jatszoteruletek es piknikhelyek beleilleszkednek a teruletbe.", "A helyszin egesz evben latogathato megfizetheto belepojeggyel."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Kellia Bird Watching Area is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-kellia-bird-watching-extra.webp"},
 
   /*
    *
@@ -971,8 +942,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Fasouri Watermania Vízipark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Fasouri Watermania Waterpark is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-fasouri-watermania-limassol-extra.webp"},
   {
     id: "kid-landmark-paphos-aphrodite-waterpark-extra",
     type: "kid-landmark",
@@ -1001,8 +971,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Páfoszi Aphrodite Vízipark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Paphos Aphrodite Waterpark is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-paphos-aphrodite-waterpark-extra.webp"},
   {
     id: "kid-landmark-lucky-star-park-aradippou-extra",
     type: "kid-landmark",
@@ -1031,8 +1000,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lucky Star Park kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Lucky Star Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-lucky-star-park-aradippou-extra.webp"},
   {
     id: "kid-landmark-parko-paliatso-luna-park-ayia-napa-extra",
     type: "kid-landmark",
@@ -1061,8 +1029,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Parko Paliatso Vidámpark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Parko Paliatso Luna Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-parko-paliatso-luna-park-ayia-napa-extra.webp"},
   {
     id: "kid-landmark-adventure-mountain-park-kyperounta-extra",
     type: "kid-landmark",
@@ -1091,8 +1058,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Hegyi Kalandpark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Adventure Mountain Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-adventure-mountain-park-kyperounta-extra.webp"},
   {
     id: "kid-landmark-sayious-adventure-park-asgata-extra",
     type: "kid-landmark",
@@ -1121,8 +1087,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Sayious Kalandpark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Sayious Adventure Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-sayious-adventure-park-asgata-extra.webp"},
   {
     id: "kid-landmark-sparti-platres-rope-adventure-park-extra",
     type: "kid-landmark",
@@ -1151,8 +1116,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Sparti Platres Kötélpályás Kalandpark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Sparti Platres Rope Adventure Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-sparti-platres-rope-adventure-park-extra.webp"},
   {
     id: "kid-landmark-ocean-aquarium-protaras-extra",
     type: "kid-landmark",
@@ -1181,8 +1145,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ócenárium kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Ocean Aquarium is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-ocean-aquarium-protaras-extra.webp"},
   {
     id: "kid-landmark-masterland-limassol-extra",
     type: "kid-landmark",
@@ -1211,8 +1174,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Masterland, a Kisiparosok Gyermekvárosa kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Masterland The Children's City of Craftsmen is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-masterland-limassol-extra.webp"},
   {
     id: "kid-landmark-cyprus-on-ice-limassol-extra",
     type: "kid-landmark",
@@ -1241,8 +1203,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Jégbe Zárt Ciprus kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Cyprus on Ice is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-cyprus-on-ice-limassol-extra.webp"},
   {
     id: "kid-landmark-wow-action-park-nicosia-extra",
     type: "kid-landmark",
@@ -1271,8 +1232,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) WOW Akciópark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["WOW Action Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-wow-action-park-nicosia-extra.webp"},
   {
     id: "kid-landmark-paphos-luna-park-extra",
     type: "kid-landmark",
@@ -1301,8 +1261,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Páfoszi Vidámpark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Paphos Luna Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-paphos-luna-park-extra.webp"},
   {
     id: "kid-landmark-galactica-entertainment-limassol-extra",
     type: "kid-landmark",
@@ -1331,8 +1290,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Galactica Szórakoztatóközpont kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Galactica Entertainment is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-galactica-entertainment-limassol-extra.webp"},
   {
     id: "kid-landmark-dolfins-luna-park-ayia-napa-extra",
     type: "kid-landmark",
@@ -1361,8 +1319,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Dolfins Vidámpark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Dolfins Luna Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-dolfins-luna-park-ayia-napa-extra.webp"},
   {
     id: "kid-landmark-cyprus-planetarium-tamasos-extra",
     type: "kid-landmark",
@@ -1391,8 +1348,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ciprusi Planetárium és Obszervatórium kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["The Cyprus Planetarium & Observatory is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-cyprus-planetarium-tamasos-extra.webp"},
   {
     id: "kid-landmark-kozal-bubbles-limassol-extra",
     type: "kid-landmark",
@@ -1421,8 +1377,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kozal Bubbles kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Kozal Bubbles is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-kozal-bubbles-limassol-extra.webp"},
   {
     id: "kid-landmark-pafos-karting-centre-extra",
     type: "kid-landmark",
@@ -1451,8 +1406,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Páfoszi Gokart Központ kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Pafos Karting Centre is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-pafos-karting-centre-extra.webp"},
   {
     id: "kid-landmark-cyprus-maze-extra",
     type: "kid-landmark",
@@ -1481,8 +1435,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ciprusi Labirintus (a Cyherbia-nál) kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Cyprus Maze (at Cyherbia) is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-cyprus-maze-extra.webp"},
   {
     id: "kid-landmark-play-lounge-nicosia-extra",
     type: "kid-landmark",
@@ -1511,8 +1464,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) P&P Játszó-Lounge kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["P&P Play-Lounge is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-play-lounge-nicosia-extra.webp"},
   {
     id: "kid-landmark-bubble-park-limassol-extra",
     type: "kid-landmark",
@@ -1541,8 +1493,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Bubble Park kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Bubble Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-bubble-park-limassol-extra.webp"},
   {
     id: "kid-landmark-extreme-park-nicosia-extra",
     type: "kid-landmark",
@@ -1571,8 +1522,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Extrém Park kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Extreme Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-extreme-park-nicosia-extra.webp"},
   {
     id: "kid-landmark-papafilipou-luna-park-nicosia-extra",
     type: "kid-landmark",
@@ -1601,8 +1551,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Papafilippou Vidámpark kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Papafilippou Luna Park is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-papafilipou-luna-park-nicosia-extra.webp"},
   {
     id: "kid-landmark-the-land-of-dreams-larnaca-extra",
     type: "kid-landmark",
@@ -1631,8 +1580,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Álmok Földje kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["The Land of Dreams is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-the-land-of-dreams-larnaca-extra.webp"},
   {
     id: "kid-landmark-molos-playgrounds-limassol-extra",
     type: "kid-landmark",
@@ -1661,8 +1609,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Molos Park játszóterek kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Molos Park Playgrounds is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-molos-playgrounds-limassol-extra.webp"},
   {
     id: "kid-landmark-larnaka-promenade-playground-extra",
     type: "kid-landmark",
@@ -1691,8 +1638,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lárnakai sétány játszótere kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Larnaka Promenade Playground is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-larnaka-promenade-playground-extra.webp"},
   {
     id: "kid-landmark-camel-park-playground-mazotos-extra",
     type: "kid-landmark",
@@ -1721,8 +1667,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Teve Park játszótér kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Camel Park Playground is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-camel-park-playground-mazotos-extra.webp"},
   {
     id: "kid-landmark-protaras-magic-dancing-waters-extra",
     type: "kid-landmark",
@@ -1751,8 +1696,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Magic Dancing Waters élő show kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Magic Dancing Waters Show Live is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-protaras-magic-dancing-waters-extra.webp"},
   {
     id: "kid-landmark-lithos-rock-climbing-nicosia-extra",
     type: "kid-landmark",
@@ -1781,8 +1725,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lithos Sziklamászás kifejezetten csaladokat es gyermekeket varja.", "A tematikus reszek es az interaktiv allomasok valtozatossagot adnak.", "A szuletesnapi es iskolai programok bovitik a kinalatot.", "A fedett reszek, pelenkazok es bufek kenyelmesseteszik a latogatast.", "Egyetlen napon tobb tevekenyseg is kombinalhato a helyszinen.", "A megkozelites autoval es buszal egyarant kenyelmes.", "A szezonalis esemenyek egesz evben uj programokat hoznak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Lithos Rock Climbing is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
-    },
-  },
+    }, image: "/poi-images/kid-landmark-lithos-rock-climbing-nicosia-extra.webp"},
 
   /*
    *
@@ -1847,8 +1790,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Tsiakkas Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Tsiakkas Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-tsiakkas-winery-pelendri-extra.webp"},
   {
     id: "agriculture-vouni-panayia-winery-extra",
     type: "agriculture",
@@ -1877,8 +1819,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Vouni Panayia Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Vouni Panayia Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-vouni-panayia-winery-extra.webp"},
   {
     id: "agriculture-zambartas-wineries-agios-ambrosios-extra",
     type: "agriculture",
@@ -1907,8 +1848,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Zambartas Borászatok a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Zambartas Wineries is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-zambartas-wineries-agios-ambrosios-extra.webp"},
   {
     id: "agriculture-kolios-winery-statos-agios-fotios-extra",
     type: "agriculture",
@@ -1937,8 +1877,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kolios Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Kolios Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-kolios-winery-statos-agios-fotios-extra.webp"},
   {
     id: "agriculture-oleastro-olive-park-anogyra-extra",
     type: "agriculture",
@@ -1967,8 +1906,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Oleastro Olajfa Park és Múzeum a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Oleastro Olive Park and Museum is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-oleastro-olive-park-anogyra-extra.webp"},
   {
     id: "agriculture-agros-rose-factory-extra",
     type: "agriculture",
@@ -2027,8 +1965,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Anogyrai Szentjánoskenyér Múzeum és Gyár a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Anogyra Carob Museum and Factory is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-anogyra-carob-museum-extra.webp"},
   {
     id: "agriculture-cyherbia-botanical-park-avgorou-extra",
     type: "agriculture",
@@ -2057,8 +1994,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Cyherbia Botanikus Park a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Cyherbia Botanical Park is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-cyherbia-botanical-park-avgorou-extra.webp"},
   {
     id: "agriculture-letymbou-vines-extra",
     type: "agriculture",
@@ -2087,8 +2023,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Letymbou falu szőlőültetvényei a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Letymbou Village Vineyards is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-letymbou-vines-extra.webp"},
   {
     id: "agriculture-krasochoria-wine-villages-extra",
     type: "agriculture",
@@ -2177,8 +2112,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Golden Donkeys Farm Olívaolaj a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Golden Donkeys Farm Olive Oil is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-golden-donkeys-olive-oil-extra.webp"},
   {
     id: "agriculture-dafermou-winery-lefkara-extra",
     type: "agriculture",
@@ -2207,8 +2141,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Dafermou Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Dafermou Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-dafermou-winery-lefkara-extra.webp"},
   {
     id: "agriculture-vlasides-winery-kilani-extra",
     type: "agriculture",
@@ -2237,8 +2170,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Vlasides Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Vlasides Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-vlasides-winery-kilani-extra.webp"},
   {
     id: "agriculture-loukoumi-geroskipou-extra",
     type: "agriculture",
@@ -2267,8 +2199,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Geroskipou-i lokum (OFJ) a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Geroskipou Loukoumi PGI is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-loukoumi-geroskipou-extra.webp"},
   {
     id: "agriculture-red-soil-potatoes-kokkinochoria-extra",
     type: "agriculture",
@@ -2297,8 +2228,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Vörös Föld Burgonyaföldek (Kokkinochoria) a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Red Soil Potato Fields (Kokkinochoria) is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-red-soil-potatoes-kokkinochoria-extra.webp"},
   {
     id: "agriculture-tsangarides-winery-lemone-extra",
     type: "agriculture",
@@ -2327,8 +2257,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Tsangarides Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Tsangarides Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-tsangarides-winery-lemone-extra.webp"},
   {
     id: "agriculture-christoudia-winery-kato-drys-extra",
     type: "agriculture",
@@ -2357,8 +2286,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Christoudia Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Christoudia Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-christoudia-winery-kato-drys-extra.webp"},
   {
     id: "agriculture-ayia-mavri-winery-kilani-extra",
     type: "agriculture",
@@ -2387,8 +2315,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ayia Mavri Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Ayia Mavri Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-ayia-mavri-winery-kilani-extra.webp"},
   {
     id: "agriculture-citrus-groves-fasouri-extra",
     type: "agriculture",
@@ -2417,8 +2344,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Fasouri citrusligetei a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Citrus Groves of Fasouri is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-citrus-groves-fasouri-extra.webp"},
   {
     id: "agriculture-agrovino-lofou-extra",
     type: "agriculture",
@@ -2477,8 +2403,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Commandaria Múzeum a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Commandaria Museum is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-commandaria-museum-zoopigi-extra.webp"},
   {
     id: "agriculture-mitsides-flour-mill-nicosia-extra",
     type: "agriculture",
@@ -2507,8 +2432,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Mitsides Lisztmalom a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Mitsides Flour Mill is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-mitsides-flour-mill-nicosia-extra.webp"},
   {
     id: "agriculture-drapia-farm-kato-drys-extra",
     type: "agriculture",
@@ -2537,8 +2461,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Drapia Farm a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Drapia Farm is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-drapia-farm-kato-drys-extra.webp"},
   {
     id: "agriculture-bio-land-products-larnaca-extra",
     type: "agriculture",
@@ -2597,8 +2520,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Fikardos Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Fikardos Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-fito-winery-kato-platres-extra.webp"},
   {
     id: "agriculture-bee-and-embroidery-museum-kato-drys-extra",
     type: "agriculture",
@@ -2627,8 +2549,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Méhészeti és Hímzésmúzeum a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Bee & Embroidery Museum is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-bee-and-embroidery-museum-kato-drys-extra.webp"},
   {
     id: "agriculture-ekfraseis-winery-chandria-extra",
     type: "agriculture",
@@ -2657,8 +2578,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ekfraseis Borászat a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Ekfraseis Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-ekfraseis-winery-chandria-extra.webp"},
   {
     id: "agriculture-kalopanayiotis-dam-fishery-extra",
     type: "agriculture",
@@ -2687,8 +2607,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kalopanayiotis-gát Halászata a mediterran ciprusi mezogazdasag jellegzetes peldaja.", "A termeszetes es a modern technikak egymas mellett vannak jelen.", "A csepegteto ontozes es az integralt novenyvedelem szelesoltal elterjedt.", "A szezonalis idoszakokban gazdasagi vasarlast es kostolokat is tartanak.", "Az EU-s minosegi standardok ma mar a legtobb gazdasagra jellemzoek.", "A turautak es a tavernak gasztronomiailag is gazdagitjak az elmenyt.", "A csaladi gazdasagok kulcsszerepet jatszanak a videki kozosseg eleteben."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Kalopanayiotis Dam Fishery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
-    },
-  },
+    }, image: "/poi-images/agriculture-kalopanayiotis-dam-fishery-extra.webp"},
 
   /*
    *
@@ -2753,8 +2672,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Vasilikos Erőmű a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Vasilikos Power Station reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-vasilikos-power-station-extra.webp"},
   {
     id: "industry-dhekelia-power-station-extra",
     type: "industry",
@@ -2783,8 +2701,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Dhekelia Erőmű a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Dhekelia Power Station reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-dhekelia-power-station-extra.webp"},
   {
     id: "industry-skouriotissa-copper-mine-extra",
     type: "industry",
@@ -2813,8 +2730,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Skouriotissa Rézbánya a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Skouriotissa Copper Mine reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-skouriotissa-copper-mine-extra.webp"},
   {
     id: "industry-keo-brewery-limassol-extra",
     type: "industry",
@@ -2843,8 +2759,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) KEO Sörfőzde a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["KEO Brewery reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-keo-brewery-limassol-extra.webp"},
   {
     id: "industry-carlsberg-brewery-nicosia-extra",
     type: "industry",
@@ -2903,8 +2818,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lárnakai Ipari Terület a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Larnaca Industrial Area reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-larnaca-industrial-area-extra.webp"},
   {
     id: "industry-strovolos-industrial-zone-extra",
     type: "industry",
@@ -2933,8 +2847,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Strovolosi Ipari Övezet a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Strovolos Industrial Zone reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-strovolos-industrial-zone-extra.webp"},
   {
     id: "industry-vttv-vasiliko-oil-terminal-extra",
     type: "industry",
@@ -2963,8 +2876,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) VTTV Vasiliko Olajterminál a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["VTTV Vasiliko Oil Terminal reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-vttv-vasiliko-oil-terminal-extra.webp"},
   {
     id: "industry-ypsonas-industrial-area-limassol-extra",
     type: "industry",
@@ -2993,8 +2905,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ypsonasi Ipari Terület a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Ypsonas Industrial Area reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-ypsonas-industrial-area-limassol-extra.webp"},
   {
     id: "industry-desalination-plant-larnaca-extra",
     type: "industry",
@@ -3023,8 +2934,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lárnakai Sótalanító Üzem a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Larnaca Desalination Plant reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-desalination-plant-larnaca-extra.webp"},
   {
     id: "industry-episkopi-desalination-plant-extra",
     type: "industry",
@@ -3053,8 +2963,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Episkopi Sótalanító Üzem a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Episkopi Desalination Plant reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-episkopi-desalination-plant-extra.webp"},
   {
     id: "industry-charalambides-christis-dairy-extra",
     type: "industry",
@@ -3083,8 +2992,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Charalambides Christis Tejüzem a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Charalambides Christis Dairy reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-charalambides-christis-dairy-extra.webp"},
   {
     id: "industry-pharmanel-pharmaceuticals-extra",
     type: "industry",
@@ -3113,8 +3021,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Pharmanel Gyógyszergyár a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Pharmanel Pharmaceuticals reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-pharmanel-pharmaceuticals-extra.webp"},
   {
     id: "industry-medochemie-pharmaceuticals-extra",
     type: "industry",
@@ -3143,8 +3050,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Medochemie Gyógyszergyár a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Medochemie Pharmaceuticals reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-medochemie-pharmaceuticals-extra.webp"},
   {
     id: "industry-pafos-industrial-area-extra",
     type: "industry",
@@ -3173,8 +3079,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Páfoszi Ipari Terület a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Pafos Industrial Area reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-pafos-industrial-area-extra.webp"},
   {
     id: "industry-moni-power-station-extra",
     type: "industry",
@@ -3203,8 +3108,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Moni Erőmű a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Moni Power Station reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-moni-power-station-extra.webp"},
   {
     id: "industry-kalavasos-dam-extra",
     type: "industry",
@@ -3233,8 +3137,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kalavasos-gát a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Kalavasos Dam reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-kalavasos-dam-extra.webp"},
   {
     id: "industry-dali-industrial-area-extra",
     type: "industry",
@@ -3263,8 +3166,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Dali Ipari Terület a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Dali Industrial Area reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-dali-industrial-area-extra.webp"},
   {
     id: "industry-athienou-industrial-area-extra",
     type: "industry",
@@ -3293,8 +3195,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Athienou Ipari Terület a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Athienou Industrial Area reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-athienou-industrial-area-extra.webp"},
   {
     id: "industry-sopharma-trading-cyprus-extra",
     type: "industry",
@@ -3323,8 +3224,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Sopharma Trading Ciprus a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Sopharma Trading Cyprus reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-sopharma-trading-cyprus-extra.webp"},
   {
     id: "industry-helios-solar-power-plant-extra",
     type: "industry",
@@ -3353,8 +3253,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Helios Naperőmű a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Helios Solar Power Plant reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-helios-solar-power-plant-extra.webp"},
   {
     id: "industry-lafasia-quarries-extra",
     type: "industry",
@@ -3383,8 +3282,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lafarge Vassiliko Kőbányák a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Lafarge Vassiliko Quarries reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-lafasia-quarries-extra.webp"},
   {
     id: "industry-pervolia-desalination-plant-extra",
     type: "industry",
@@ -3413,8 +3311,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Pervoliai Sótalanító Üzem a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Pervolia Desalination Plant reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-pervolia-desalination-plant-extra.webp"},
   {
     id: "industry-synergas-lpg-terminal-extra",
     type: "industry",
@@ -3443,8 +3340,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Synergas LPG Terminál a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Synergas LPG Terminal reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-synergas-lpg-terminal-extra.webp"},
   {
     id: "industry-asgata-industrial-area-extra",
     type: "industry",
@@ -3473,8 +3369,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Asgatai Ipari Terület a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Asgata Industrial Area reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-asgata-industrial-area-extra.webp"},
   {
     id: "industry-petrolina-larnaca-depot-extra",
     type: "industry",
@@ -3503,8 +3398,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Petrolina Lárnakai Depó a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Petrolina Larnaca Depot reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-petrolina-larnaca-depot-extra.webp"},
   {
     id: "industry-aphrodite-hills-wastewater-treatment-extra",
     type: "industry",
@@ -3533,8 +3427,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Aphrodite Hills Szennyvíztisztító a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Aphrodite Hills Wastewater Treatment reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-aphrodite-hills-wastewater-treatment-extra.webp"},
   {
     id: "industry-tersefanou-solar-park-extra",
     type: "industry",
@@ -3563,8 +3456,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Tersefanou Szolárpark a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Tersefanou Solar Park reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-tersefanou-solar-park-extra.webp"},
   {
     id: "industry-kivides-poultry-extra",
     type: "industry",
@@ -3593,8 +3485,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kivides Baromfitenyésztés a turizmus melletti gazdasagi sokszinűseget kepviseli.", "A feldolgozas, logisztika es kezműves szektor a hely fő pillerei.", "A csaladi gazdasagok es a modernebb uzemek egyutt vannak jelen.", "A digitalis fejlesztesek es a kornyezetvedelmi szabalyok meghatarozoak.", "A kozlekedesi tengelyek osszekotik a helyszint a kikotokkel es varosokkal.", "A lakofunkcio es a munkahelyek gyakran egymas mellett tallhatok.", "A klasszikus utikonyvek altalaban nem mutatjak be reszletesen."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Kivides Poultry Production reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
-    },
-  },
+    }, image: "/poi-images/industry-kivides-poultry-extra.webp"},
 
   /*
    *
@@ -3659,8 +3550,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lárnakai kikötő fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Larnaca Port is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-larnaca-port-extra.webp"},
   {
     id: "port-paphos-harbour-extra",
     type: "port",
@@ -3689,8 +3579,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Páfoszi kikötő fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Paphos Harbour is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-paphos-harbour-extra.webp"},
   {
     id: "port-limassol-marina-extra",
     type: "port",
@@ -3719,8 +3608,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Limassoli Marina fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Limassol Marina is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-limassol-marina-extra.webp"},
   {
     id: "port-larnaca-marina-extra",
     type: "port",
@@ -3749,8 +3637,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lárnakai Marina fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Larnaca Marina is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-larnaca-marina-extra.webp"},
   {
     id: "port-latsi-port-extra",
     type: "port",
@@ -3779,8 +3666,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Latsi kikötő fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Latsi Port is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-latsi-port-extra.webp"},
   {
     id: "port-zygi-fishing-shelter-extra",
     type: "port",
@@ -3839,8 +3725,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ayia Napa kikötője fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Ayia Napa Harbour is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-ayia-napa-harbour-extra.webp"},
   {
     id: "port-larnaca-international-airport-glafcos-clerides-extra",
     type: "port",
@@ -3869,8 +3754,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lárnakai nemzetközi repülőtér (LCA) fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Larnaca International Airport (LCA) is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-larnaca-international-airport-glafcos-clerides-extra.webp"},
   {
     id: "port-paphos-international-airport-pfo-extra",
     type: "port",
@@ -3929,8 +3813,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ercan nemzetközi repülőtér (ECN) fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Ercan International Airport (ECN) is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-ercan-international-airport-ecn-extra.webp"},
   {
     id: "port-pomos-fishing-shelter-extra",
     type: "port",
@@ -3959,8 +3842,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Pomos Halászkikötő fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Pomos Fishing Shelter is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-pomos-fishing-shelter-extra.webp"},
   {
     id: "port-kyrenia-harbour-extra",
     type: "port",
@@ -3989,8 +3871,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kerínia kikötője fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Kyrenia Harbour is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-kyrenia-harbour-extra.webp"},
   {
     id: "port-famagusta-port-extra",
     type: "port",
@@ -4019,8 +3900,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Famagustai kikötő fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Famagusta Port is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-famagusta-port-extra.webp"},
   {
     id: "port-agia-triada-fishing-shelter-extra",
     type: "port",
@@ -4049,8 +3929,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Agia Triada Halászkikötő fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Agia Triada Fishing Shelter is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-agia-triada-fishing-shelter-extra.webp"},
   {
     id: "port-pernera-harbour-extra",
     type: "port",
@@ -4079,8 +3958,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Pernera kikötője fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Pernera Harbour is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-pernera-harbour-extra.webp"},
   {
     id: "port-st-raphael-marina-limassol-extra",
     type: "port",
@@ -4109,8 +3987,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Szent Rafael Marina fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["St. Raphael Marina is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-st-raphael-marina-limassol-extra.webp"},
   {
     id: "port-liopetri-river-fishing-shelter-extra",
     type: "port",
@@ -4139,8 +4016,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Liopetri folyami halászkikötő fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Liopetri River Fishing Shelter is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-liopetri-river-fishing-shelter-extra.webp"},
   {
     id: "port-nicosia-central-bus-station-extra",
     type: "port",
@@ -4169,8 +4045,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Solomou téri központi buszpályaudvar fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Solomou Square Central Bus Station is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-nicosia-central-bus-station-extra.webp"},
   {
     id: "port-limassol-old-port-bus-station-extra",
     type: "port",
@@ -4199,8 +4074,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) EMEL központi buszpályaudvar (Régi kikötő) fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["EMEL Central Bus Station (Old Port) is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-limassol-old-port-bus-station-extra.webp"},
   {
     id: "port-paphos-karavella-bus-station-extra",
     type: "port",
@@ -4229,8 +4103,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Karavella buszpályaudvar fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Karavella Bus Station is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-paphos-karavella-bus-station-extra.webp"},
   {
     id: "port-larnaca-central-bus-station-extra",
     type: "port",
@@ -4259,8 +4132,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lárnakai központi buszpályaudvar fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Larnaca Central Bus Station is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-larnaca-central-bus-station-extra.webp"},
   {
     id: "port-ayia-napa-central-bus-station-extra",
     type: "port",
@@ -4289,8 +4161,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ayia Napa központi buszpályaudvar fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Ayia Napa Central Bus Station is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-ayia-napa-central-bus-station-extra.webp"},
   {
     id: "port-ormidhia-fishing-shelter-extra",
     type: "port",
@@ -4319,8 +4190,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Ormidhia Halászkikötő fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Ormidhia Fishing Shelter is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-ormidhia-fishing-shelter-extra.webp"},
   {
     id: "port-agios-georgios-peyias-harbour-extra",
     type: "port",
@@ -4349,8 +4219,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Agios Georgios Pegeias kikötője fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Agios Georgios Pegeias Harbour is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-agios-georgios-peyias-harbour-extra.webp"},
   {
     id: "port-paralimni-marina-extra",
     type: "port",
@@ -4379,8 +4248,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Paralimni Marina fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Paralimni Marina is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-paralimni-marina-extra.webp"},
   {
     id: "port-nicosia-international-airport-abandoned-extra",
     type: "port",
@@ -4469,8 +4337,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Eurogate Konténerterminál Limassol fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Eurogate Container Terminal Limassol is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-eurogate-container-terminal-limassol-extra.webp"},
   {
     id: "port-old-limassol-port-extra",
     type: "port",
@@ -4499,8 +4366,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Régi Limassoli kikötő fontos tengeri csomopont Cipruson.", "Itt talalkozik a hajozas, halaszat es turizmus.", "Aru-, halasz- es jachtkikoto reszek egyarant elofordulhatnak.", "A setanyok, halaszettermek es kis uzletek a kikoto karakteret adjak.", "Korszerű navigacios es biztonsagi rendszerek tamogatjak az uzemeltetést.", "A kikoto jol mutatja a tengeri ut fontossagat a sziget eleteben.", "A hajos kirandulasok es kilatopontok a turistakat is vonzzak."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Old Limassol Port is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
-    },
-  },
+    }, image: "/poi-images/port-old-limassol-port-extra.webp"},
 
   /*
    *
@@ -4565,8 +4431,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Cédrus-völgy az egyik okologiailag legertekesebb erdoterulet Cipruson.", "Az aleppoi fenyo, a tolgyek es a macchia adjak a novenyzet karakteret.", "Az erdei utak es turaosvenyek kimello modon teszik feltarhatova a teruletet.", "A tablak ismertetik a foldtant, a flórat es a faunat.", "Nyaron az erdo termeszetes klimakent szolgal.", "A tűzvedelmi es kutatasi intezkedesek folyamatosan zajlanak.", "A piknikhelyek beleilleszkednek a teruletbe."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Cedar Valley is one of the most ecologically valuable forest areas in Cyprus.", "Aleppo pine, oaks and Mediterranean maquis dominate the canopy.", "Forest roads and walking trails open the area without overloading it.", "Information panels explain local geology, flora and fauna.", "In summer the canopy acts like natural air-conditioning.", "Fire-prevention and research efforts run continuously.", "Picnic sites are integrated within the protected area."]
-    },
-  },
+    }, image: "/poi-images/landscape-cedar-valley-extra.webp"},
   {
     id: "landscape-kouris-dam-extra",
     type: "lake",
@@ -4595,8 +4460,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kouris-gát fontos elohely a gazlo es vizimadaraknak.", "A sotartalom es a vizszint az evszakok soran latvanyosan valtozik.", "A nadasok es a saros zonak taplalekot es feszkelőhelyet biztosi tnak.", "A kilatopontok az allatok zavarasa nelkul teszik lehetove a megfigyelest.", "Tavasszal es osszel nagy madarcsapatok jelennek meg.", "A terulet fotografiailag is kuelonosen latvanyos.", "A to a felugyelt termeszetvedelmi program resze."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Kouris Dam is an important habitat for wading and water birds.", "Salinity and water levels change significantly through the year.", "Reedbeds and mudflats provide food and breeding sites.", "Viewing points allow observation without disturbing wildlife.", "Large flocks gather here during spring and autumn migration.", "The area is also exceptionally rewarding for photography.", "The lake forms part of a monitored conservation framework."]
-    },
-  },
+    }, image: "/poi-images/landscape-kouris-dam-extra.webp"},
   {
     id: "landscape-millomeris-waterfall-extra",
     type: "landmark",
@@ -4625,8 +4489,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Millomeris-vízesés Cipruson egyik legismertebb latnivaloja.", "Az epitészet, a fekves es a szimbolika fotograafiai forropont.", "A tablak es a vezetett programok bemutatjak a hatteret.", "A kornyezo terek, kavezok es kilatopontok hosszas idozesre csabitanak.", "A megkozelites autoval, busszal vagy gyalog egyarant kenyelmes.", "A karbantartas es a műemlekvedelmi munkak folyamatosan zajlanak.", "A helyszin meghatarozo szerepet jatszik a regio kepeben."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Millomeris Waterfall ranks among the best-known landmarks in Cyprus.", "Architecture, setting and symbolism make it a photographic hotspot.", "Signage and guided tours unpack background and building phases.", "Nearby squares, cafes and viewpoints encourage longer stays.", "It is reachable by car, bus or on foot with relative ease.", "Ongoing conservation and maintenance work protect the site.", "The landmark contributes strongly to the region's identity."]
-    },
-  },
+    }, image: "/poi-images/landscape-millomeris-waterfall-extra.webp"},
   {
     id: "landscape-caledonia-waterfall-extra",
     type: "landmark",
@@ -4655,8 +4518,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kaledónia-vízesés Cipruson egyik legismertebb latnivaloja.", "Az epitészet, a fekves es a szimbolika fotograafiai forropont.", "A tablak es a vezetett programok bemutatjak a hatteret.", "A kornyezo terek, kavezok es kilatopontok hosszas idozesre csabitanak.", "A megkozelites autoval, busszal vagy gyalog egyarant kenyelmes.", "A karbantartas es a műemlekvedelmi munkak folyamatosan zajlanak.", "A helyszin meghatarozo szerepet jatszik a regio kepeben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Caledonia Waterfall ranks among the best-known landmarks in Cyprus.", "Architecture, setting and symbolism make it a photographic hotspot.", "Signage and guided tours unpack background and building phases.", "Nearby squares, cafes and viewpoints encourage longer stays.", "It is reachable by car, bus or on foot with relative ease.", "Ongoing conservation and maintenance work protect the site.", "The landmark contributes strongly to the region's identity."]
-    },
-  },
+    }, image: "/poi-images/landscape-caledonia-waterfall-extra.webp"},
   {
     id: "landscape-pedieos-river-extra",
     type: "river",
@@ -4685,8 +4547,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Pedieos folyó osszekoti a hegyvidekes belso teruletet a partvidekel Cipruson.", "A forras, a kozepso szakasz es a torkolat valtozatos elohelyeket teremt.", "A szurdokok, arterek es galeriaerdok okologiai folyosokent szolgalnak.", "Hidak, regi malmok es ontozorendszerek kiserik a folyot.", "Nyaron a vizszint a mediterran folyokra jellemzoen leesik.", "A part menten festoi szakaszok varjak a turazokat es kerekparosokat.", "A vizfolyas a regiо fontos eletadora."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Pedieos River connects upland zones with the coastal plain in Cyprus.", "Headwaters, middle reaches and mouth create varied habitats.", "Gorges, floodplains and gallery woodland act as ecological corridors.", "Bridges, old mills and irrigation works line its course.", "Summer flow drops in line with typical Mediterranean rivers.", "Walkers and cyclists find scenic stretches along the banks.", "The river remains a central lifeline for the region."]
-    },
-  },
+    }, image: "/poi-images/landscape-pedieos-river-extra.webp"},
   {
     id: "landscape-germasogeia-dam-extra",
     type: "lake",
@@ -4715,8 +4576,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Germasogeia-gát fontos elohely a gazlo es vizimadaraknak.", "A sotartalom es a vizszint az evszakok soran latvanyosan valtozik.", "A nadasok es a saros zonak taplalekot es feszkelőhelyet biztosi tnak.", "A kilatopontok az allatok zavarasa nelkul teszik lehetove a megfigyelest.", "Tavasszal es osszel nagy madarcsapatok jelennek meg.", "A terulet fotografiailag is kuelonosen latvanyos.", "A to a felugyelt termeszetvedelmi program resze."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Germasogeia Dam is an important habitat for wading and water birds.", "Salinity and water levels change significantly through the year.", "Reedbeds and mudflats provide food and breeding sites.", "Viewing points allow observation without disturbing wildlife.", "Large flocks gather here during spring and autumn migration.", "The area is also exceptionally rewarding for photography.", "The lake forms part of a monitored conservation framework."]
-    },
-  },
+    }, image: "/poi-images/landscape-germasogeia-dam-extra.webp"},
   {
     id: "landscape-sea-caves-ayia-napa-extra",
     type: "geo",
@@ -4745,8 +4605,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Tengeri barlangok (Ayia Napa) szemleletes peldaja a ciprusi foldtorténetnek.", "Tektonika, eroziо es mallas alakitottak a formaciot.", "A tablak ismertetik a kőzetek tipusait es retegsorait.", "A fotografusok kulonosen ertekelik a fenyhatasokat.", "A jelzett utak vedik a kenyes szerkezeteket.", "Alkalmilag szakmai nyilt napokat is tartanak.", "A hely jol kiegeszit egy strand- vagy varosi napot."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Sea Caves (Ayia Napa) is a vivid example of Cypriot earth history.", "Tectonics, erosion and weathering have shaped the formation.", "Information panels describe rock types and stratigraphy.", "Photographers particularly value the local lighting conditions.", "Marked paths protect sensitive structures from foot damage.", "Occasional open days bring scientific context to visitors.", "The site offers a welcome contrast to beach and city days."]
-    },
-  },
+    }, image: "/poi-images/landscape-sea-caves-ayia-napa-extra.webp"},
   {
     id: "landscape-sea-caves-paphos-extra",
     type: "geo",
@@ -4775,8 +4634,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Tengeri barlangok (Páfosz) szemleletes peldaja a ciprusi foldtorténetnek.", "Tektonika, eroziо es mallas alakitottak a formaciot.", "A tablak ismertetik a kőzetek tipusait es retegsorait.", "A fotografusok kulonosen ertekelik a fenyhatasokat.", "A jelzett utak vedik a kenyes szerkezeteket.", "Alkalmilag szakmai nyilt napokat is tartanak.", "A hely jol kiegeszit egy strand- vagy varosi napot."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Sea Caves (Paphos) is a vivid example of Cypriot earth history.", "Tectonics, erosion and weathering have shaped the formation.", "Information panels describe rock types and stratigraphy.", "Photographers particularly value the local lighting conditions.", "Marked paths protect sensitive structures from foot damage.", "Occasional open days bring scientific context to visitors.", "The site offers a welcome contrast to beach and city days."]
-    },
-  },
+    }, image: "/poi-images/landscape-sea-caves-paphos-extra.webp"},
   {
     id: "landscape-pentadaktylos-mountains-extra",
     type: "mountain",
@@ -4805,8 +4663,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Pentadaktylos (Kerínia)-hegység Cipruson egyik legmarkansabb hegyvideki celja.", "A magassag es az eghajlat valtozatos elohelyeket eredmenyez.", "Az endemikus novenyek es allatok itt kuelonosen jelenten lannak.", "Jelzett osvenyek, menedekek es kilatopontok segitik a turazast.", "Nyaron a magashegyseg kellemes alternativaja a partnak.", "Telen a magasabb teruleteken eloforul ho.", "A kornyezo falvak es tavernak gazdagitjak az elmenyt."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Pentadaktylos (Kyrenia) Mountains is one of the most striking mountain destinations in Cyprus.", "Altitude and climate generate a varied set of habitats.", "Endemic plants and animals are particularly visible here.", "Marked trails, huts and viewpoints support a wide range of hikers.", "Summer brings a cool, breezy alternative to the coast.", "Higher slopes can receive snow during the winter months.", "Surrounding villages and tavernas round out the experience."]
-    },
-  },
+    }, image: "/poi-images/landscape-pentadaktylos-mountains-extra.webp"},
   {
     id: "landscape-asprokremmos-dam-extra",
     type: "lake",
@@ -4835,8 +4692,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Asprokremmos-gát fontos elohely a gazlo es vizimadaraknak.", "A sotartalom es a vizszint az evszakok soran latvanyosan valtozik.", "A nadasok es a saros zonak taplalekot es feszkelőhelyet biztosi tnak.", "A kilatopontok az allatok zavarasa nelkul teszik lehetove a megfigyelest.", "Tavasszal es osszel nagy madarcsapatok jelennek meg.", "A terulet fotografiailag is kuelonosen latvanyos.", "A to a felugyelt termeszetvedelmi program resze."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Asprokremmos Dam is an important habitat for wading and water birds.", "Salinity and water levels change significantly through the year.", "Reedbeds and mudflats provide food and breeding sites.", "Viewing points allow observation without disturbing wildlife.", "Large flocks gather here during spring and autumn migration.", "The area is also exceptionally rewarding for photography.", "The lake forms part of a monitored conservation framework."]
-    },
-  },
+    }, image: "/poi-images/landscape-asprokremmos-dam-extra.webp"},
   {
     id: "landscape-governor-s-beach-white-rocks-extra",
     type: "geo",
@@ -4865,8 +4721,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kormányzói strand fehér sziklái szemleletes peldaja a ciprusi foldtorténetnek.", "Tektonika, eroziо es mallas alakitottak a formaciot.", "A tablak ismertetik a kőzetek tipusait es retegsorait.", "A fotografusok kulonosen ertekelik a fenyhatasokat.", "A jelzett utak vedik a kenyes szerkezeteket.", "Alkalmilag szakmai nyilt napokat is tartanak.", "A hely jol kiegeszit egy strand- vagy varosi napot."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Governor's Beach White Rocks is a vivid example of Cypriot earth history.", "Tectonics, erosion and weathering have shaped the formation.", "Information panels describe rock types and stratigraphy.", "Photographers particularly value the local lighting conditions.", "Marked paths protect sensitive structures from foot damage.", "Occasional open days bring scientific context to visitors.", "The site offers a welcome contrast to beach and city days."]
-    },
-  },
+    }, image: "/poi-images/landscape-governor-s-beach-white-rocks-extra.webp"},
   {
     id: "landscape-chantara-waterfall-foini-extra",
     type: "landmark",
@@ -4895,8 +4750,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Chantara-vízesés Cipruson egyik legismertebb latnivaloja.", "Az epitészet, a fekves es a szimbolika fotograafiai forropont.", "A tablak es a vezetett programok bemutatjak a hatteret.", "A kornyezo terek, kavezok es kilatopontok hosszas idozesre csabitanak.", "A megkozelites autoval, busszal vagy gyalog egyarant kenyelmes.", "A karbantartas es a műemlekvedelmi munkak folyamatosan zajlanak.", "A helyszin meghatarozo szerepet jatszik a regio kepeben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Chantara Waterfall ranks among the best-known landmarks in Cyprus.", "Architecture, setting and symbolism make it a photographic hotspot.", "Signage and guided tours unpack background and building phases.", "Nearby squares, cafes and viewpoints encourage longer stays.", "It is reachable by car, bus or on foot with relative ease.", "Ongoing conservation and maintenance work protect the site.", "The landmark contributes strongly to the region's identity."]
-    },
-  },
+    }, image: "/poi-images/landscape-chantara-waterfall-foini-extra.webp"},
   {
     id: "landscape-pafos-forest-extra",
     type: "forest",
@@ -4925,8 +4779,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Páfoszi erdő az egyik okologiailag legertekesebb erdoterulet Cipruson.", "Az aleppoi fenyo, a tolgyek es a macchia adjak a novenyzet karakteret.", "Az erdei utak es turaosvenyek kimello modon teszik feltarhatova a teruletet.", "A tablak ismertetik a foldtant, a flórat es a faunat.", "Nyaron az erdo termeszetes klimakent szolgal.", "A tűzvedelmi es kutatasi intezkedesek folyamatosan zajlanak.", "A piknikhelyek beleilleszkednek a teruletbe."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Pafos Forest is one of the most ecologically valuable forest areas in Cyprus.", "Aleppo pine, oaks and Mediterranean maquis dominate the canopy.", "Forest roads and walking trails open the area without overloading it.", "Information panels explain local geology, flora and fauna.", "In summer the canopy acts like natural air-conditioning.", "Fire-prevention and research efforts run continuously.", "Picnic sites are integrated within the protected area."]
-    },
-  },
+    }, image: "/poi-images/landscape-pafos-forest-extra.webp"},
   {
     id: "landscape-trooditissa-waterfall-extra",
     type: "landmark",
@@ -4955,8 +4808,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Mesa Potamos-vízesés Cipruson egyik legismertebb latnivaloja.", "Az epitészet, a fekves es a szimbolika fotograafiai forropont.", "A tablak es a vezetett programok bemutatjak a hatteret.", "A kornyezo terek, kavezok es kilatopontok hosszas idozesre csabitanak.", "A megkozelites autoval, busszal vagy gyalog egyarant kenyelmes.", "A karbantartas es a műemlekvedelmi munkak folyamatosan zajlanak.", "A helyszin meghatarozo szerepet jatszik a regio kepeben."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Mesa Potamos Waterfall ranks among the best-known landmarks in Cyprus.", "Architecture, setting and symbolism make it a photographic hotspot.", "Signage and guided tours unpack background and building phases.", "Nearby squares, cafes and viewpoints encourage longer stays.", "It is reachable by car, bus or on foot with relative ease.", "Ongoing conservation and maintenance work protect the site.", "The landmark contributes strongly to the region's identity."]
-    },
-  },
+    }, image: "/poi-images/landscape-trooditissa-waterfall-extra.webp"},
   {
     id: "landscape-karpasia-peninsula-extra",
     type: "region",
@@ -4985,8 +4837,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Karpas-félsziget a tajat, a kulturat es a gazdasagot egyseges utazasi terre fűzi.", "Falvak, partok, hegyek es fold ek valtozatos mozaikot alkotnak.", "A regionalis utak es a kozlekedes feltarjak a regiot.", "A piacok, fesztivalok es kezműves termekek autentikus kepet adnak a mindennapokrol.", "Tobbnapos utak ajanlottak a regio mely megismeresehez.", "A regio jelentos szerepet jatszik a mediterran eletersben.", "A foldrajz, a tortenelem es az eletmod itt szorosan osszefonodik."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Karpasia Peninsula weaves landscape, culture and economy into a coherent travel space.", "Villages, coast, mountains and farmland form a varied mosaic.", "Regional roads and public transport open up the area.", "Markets, festivals and crafts give an authentic look at daily life.", "Multi-day visits are recommended to grasp the region's profile.", "It plays a noticeable role in shaping local Mediterranean lifestyle.", "Geography, history and lifestyle are tightly interwoven here."]
-    },
-  },
+    }, image: "/poi-images/landscape-karpasia-peninsula-extra.webp"},
   {
     id: "landscape-evretou-dam-extra",
     type: "lake",
@@ -5015,8 +4866,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Evretou-gát fontos elohely a gazlo es vizimadaraknak.", "A sotartalom es a vizszint az evszakok soran latvanyosan valtozik.", "A nadasok es a saros zonak taplalekot es feszkelőhelyet biztosi tnak.", "A kilatopontok az allatok zavarasa nelkul teszik lehetove a megfigyelest.", "Tavasszal es osszel nagy madarcsapatok jelennek meg.", "A terulet fotografiailag is kuelonosen latvanyos.", "A to a felugyelt termeszetvedelmi program resze."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Evretou Dam is an important habitat for wading and water birds.", "Salinity and water levels change significantly through the year.", "Reedbeds and mudflats provide food and breeding sites.", "Viewing points allow observation without disturbing wildlife.", "Large flocks gather here during spring and autumn migration.", "The area is also exceptionally rewarding for photography.", "The lake forms part of a monitored conservation framework."]
-    },
-  },
+    }, image: "/poi-images/landscape-evretou-dam-extra.webp"},
   {
     id: "landscape-aderfi-forest-extra",
     type: "forest",
@@ -5045,8 +4895,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Adelfoi-erdő az egyik okologiailag legertekesebb erdoterulet Cipruson.", "Az aleppoi fenyo, a tolgyek es a macchia adjak a novenyzet karakteret.", "Az erdei utak es turaosvenyek kimello modon teszik feltarhatova a teruletet.", "A tablak ismertetik a foldtant, a flórat es a faunat.", "Nyaron az erdo termeszetes klimakent szolgal.", "A tűzvedelmi es kutatasi intezkedesek folyamatosan zajlanak.", "A piknikhelyek beleilleszkednek a teruletbe."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Adelfoi Forest is one of the most ecologically valuable forest areas in Cyprus.", "Aleppo pine, oaks and Mediterranean maquis dominate the canopy.", "Forest roads and walking trails open the area without overloading it.", "Information panels explain local geology, flora and fauna.", "In summer the canopy acts like natural air-conditioning.", "Fire-prevention and research efforts run continuously.", "Picnic sites are integrated within the protected area."]
-    },
-  },
+    }, image: "/poi-images/landscape-aderfi-forest-extra.webp"},
   {
     id: "landscape-madari-peak-extra",
     type: "mountain",
@@ -5075,8 +4924,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Madari-csúcs Cipruson egyik legmarkansabb hegyvideki celja.", "A magassag es az eghajlat valtozatos elohelyeket eredmenyez.", "Az endemikus novenyek es allatok itt kuelonosen jelenten lannak.", "Jelzett osvenyek, menedekek es kilatopontok segitik a turazast.", "Nyaron a magashegyseg kellemes alternativaja a partnak.", "Telen a magasabb teruleteken eloforul ho.", "A kornyezo falvak es tavernak gazdagitjak az elmenyt."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Madari Peak is one of the most striking mountain destinations in Cyprus.", "Altitude and climate generate a varied set of habitats.", "Endemic plants and animals are particularly visible here.", "Marked trails, huts and viewpoints support a wide range of hikers.", "Summer brings a cool, breezy alternative to the coast.", "Higher slopes can receive snow during the winter months.", "Surrounding villages and tavernas round out the experience."]
-    },
-  },
+    }, image: "/poi-images/landscape-madari-peak-extra.webp"},
   {
     id: "landscape-xeros-river-valley-extra",
     type: "river",
@@ -5105,8 +4953,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Xeros-folyó völgye osszekoti a hegyvidekes belso teruletet a partvidekel Cipruson.", "A forras, a kozepso szakasz es a torkolat valtozatos elohelyeket teremt.", "A szurdokok, arterek es galeriaerdok okologiai folyosokent szolgalnak.", "Hidak, regi malmok es ontozorendszerek kiserik a folyot.", "Nyaron a vizszint a mediterran folyokra jellemzoen leesik.", "A part menten festoi szakaszok varjak a turazokat es kerekparosokat.", "A vizfolyas a regiо fontos eletadora."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Xeros River Valley connects upland zones with the coastal plain in Cyprus.", "Headwaters, middle reaches and mouth create varied habitats.", "Gorges, floodplains and gallery woodland act as ecological corridors.", "Bridges, old mills and irrigation works line its course.", "Summer flow drops in line with typical Mediterranean rivers.", "Walkers and cyclists find scenic stretches along the banks.", "The river remains a central lifeline for the region."]
-    },
-  },
+    }, image: "/poi-images/landscape-xeros-river-valley-extra.webp"},
   {
     id: "landscape-gialia-river-extra",
     type: "river",
@@ -5135,8 +4982,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Gialia folyó osszekoti a hegyvidekes belso teruletet a partvidekel Cipruson.", "A forras, a kozepso szakasz es a torkolat valtozatos elohelyeket teremt.", "A szurdokok, arterek es galeriaerdok okologiai folyosokent szolgalnak.", "Hidak, regi malmok es ontozorendszerek kiserik a folyot.", "Nyaron a vizszint a mediterran folyokra jellemzoen leesik.", "A part menten festoi szakaszok varjak a turazokat es kerekparosokat.", "A vizfolyas a regiо fontos eletadora."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Gialia River connects upland zones with the coastal plain in Cyprus.", "Headwaters, middle reaches and mouth create varied habitats.", "Gorges, floodplains and gallery woodland act as ecological corridors.", "Bridges, old mills and irrigation works line its course.", "Summer flow drops in line with typical Mediterranean rivers.", "Walkers and cyclists find scenic stretches along the banks.", "The river remains a central lifeline for the region."]
-    },
-  },
+    }, image: "/poi-images/landscape-gialia-river-extra.webp"},
   {
     id: "landscape-kourou-monastiri-caves-extra",
     type: "geo",
@@ -5165,8 +5011,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kouyou Kourou Monastiri barlangok szemleletes peldaja a ciprusi foldtorténetnek.", "Tektonika, eroziо es mallas alakitottak a formaciot.", "A tablak ismertetik a kőzetek tipusait es retegsorait.", "A fotografusok kulonosen ertekelik a fenyhatasokat.", "A jelzett utak vedik a kenyes szerkezeteket.", "Alkalmilag szakmai nyilt napokat is tartanak.", "A hely jol kiegeszit egy strand- vagy varosi napot."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Kouyou Kourou Monastiri Caves is a vivid example of Cypriot earth history.", "Tectonics, erosion and weathering have shaped the formation.", "Information panels describe rock types and stratigraphy.", "Photographers particularly value the local lighting conditions.", "Marked paths protect sensitive structures from foot damage.", "Occasional open days bring scientific context to visitors.", "The site offers a welcome contrast to beach and city days."]
-    },
-  },
+    }, image: "/poi-images/landscape-kourou-monastiri-caves-extra.webp"},
   {
     id: "landscape-kannaviou-dam-extra",
     type: "lake",
@@ -5195,8 +5040,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kannaviou-gát fontos elohely a gazlo es vizimadaraknak.", "A sotartalom es a vizszint az evszakok soran latvanyosan valtozik.", "A nadasok es a saros zonak taplalekot es feszkelőhelyet biztosi tnak.", "A kilatopontok az allatok zavarasa nelkul teszik lehetove a megfigyelest.", "Tavasszal es osszel nagy madarcsapatok jelennek meg.", "A terulet fotografiailag is kuelonosen latvanyos.", "A to a felugyelt termeszetvedelmi program resze."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Kannaviou Dam is an important habitat for wading and water birds.", "Salinity and water levels change significantly through the year.", "Reedbeds and mudflats provide food and breeding sites.", "Viewing points allow observation without disturbing wildlife.", "Large flocks gather here during spring and autumn migration.", "The area is also exceptionally rewarding for photography.", "The lake forms part of a monitored conservation framework."]
-    },
-  },
+    }, image: "/poi-images/landscape-kannaviou-dam-extra.webp"},
   {
     id: "landscape-diarizos-river-extra",
     type: "river",
@@ -5225,8 +5069,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Diarizos folyó osszekoti a hegyvidekes belso teruletet a partvidekel Cipruson.", "A forras, a kozepso szakasz es a torkolat valtozatos elohelyeket teremt.", "A szurdokok, arterek es galeriaerdok okologiai folyosokent szolgalnak.", "Hidak, regi malmok es ontozorendszerek kiserik a folyot.", "Nyaron a vizszint a mediterran folyokra jellemzoen leesik.", "A part menten festoi szakaszok varjak a turazokat es kerekparosokat.", "A vizfolyas a regiо fontos eletadora."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Diarizos River connects upland zones with the coastal plain in Cyprus.", "Headwaters, middle reaches and mouth create varied habitats.", "Gorges, floodplains and gallery woodland act as ecological corridors.", "Bridges, old mills and irrigation works line its course.", "Summer flow drops in line with typical Mediterranean rivers.", "Walkers and cyclists find scenic stretches along the banks.", "The river remains a central lifeline for the region."]
-    },
-  },
+    }, image: "/poi-images/landscape-diarizos-river-extra.webp"},
   {
     id: "landscape-lefkara-dam-extra",
     type: "lake",
@@ -5255,8 +5098,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Lefkarai-gát fontos elohely a gazlo es vizimadaraknak.", "A sotartalom es a vizszint az evszakok soran latvanyosan valtozik.", "A nadasok es a saros zonak taplalekot es feszkelőhelyet biztosi tnak.", "A kilatopontok az allatok zavarasa nelkul teszik lehetove a megfigyelest.", "Tavasszal es osszel nagy madarcsapatok jelennek meg.", "A terulet fotografiailag is kuelonosen latvanyos.", "A to a felugyelt termeszetvedelmi program resze."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Lefkara Dam is an important habitat for wading and water birds.", "Salinity and water levels change significantly through the year.", "Reedbeds and mudflats provide food and breeding sites.", "Viewing points allow observation without disturbing wildlife.", "Large flocks gather here during spring and autumn migration.", "The area is also exceptionally rewarding for photography.", "The lake forms part of a monitored conservation framework."]
-    },
-  },
+    }, image: "/poi-images/landscape-lefkara-dam-extra.webp"},
   {
     id: "landscape-akrounta-dam-extra",
     type: "lake",
@@ -5285,8 +5127,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Akrountai-gát fontos elohely a gazlo es vizimadaraknak.", "A sotartalom es a vizszint az evszakok soran latvanyosan valtozik.", "A nadasok es a saros zonak taplalekot es feszkelőhelyet biztosi tnak.", "A kilatopontok az allatok zavarasa nelkul teszik lehetove a megfigyelest.", "Tavasszal es osszel nagy madarcsapatok jelennek meg.", "A terulet fotografiailag is kuelonosen latvanyos.", "A to a felugyelt termeszetvedelmi program resze."],
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Akrounta Dam is an important habitat for wading and water birds.", "Salinity and water levels change significantly through the year.", "Reedbeds and mudflats provide food and breeding sites.", "Viewing points allow observation without disturbing wildlife.", "Large flocks gather here during spring and autumn migration.", "The area is also exceptionally rewarding for photography.", "The lake forms part of a monitored conservation framework."]
-    },
-  },
+    }, image: "/poi-images/landscape-akrounta-dam-extra.webp"},
   {
     id: "landscape-tripylos-peak-extra",
     type: "mountain",
@@ -5315,8 +5156,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Tripylos-csúcs Cipruson egyik legmarkansabb hegyvideki celja.", "A magassag es az eghajlat valtozatos elohelyeket eredmenyez.", "Az endemikus novenyek es allatok itt kuelonosen jelenten lannak.", "Jelzett osvenyek, menedekek es kilatopontok segitik a turazast.", "Nyaron a magashegyseg kellemes alternativaja a partnak.", "Telen a magasabb teruleteken eloforul ho.", "A kornyezo falvak es tavernak gazdagitjak az elmenyt."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Tripylos Peak is one of the most striking mountain destinations in Cyprus.", "Altitude and climate generate a varied set of habitats.", "Endemic plants and animals are particularly visible here.", "Marked trails, huts and viewpoints support a wide range of hikers.", "Summer brings a cool, breezy alternative to the coast.", "Higher slopes can receive snow during the winter months.", "Surrounding villages and tavernas round out the experience."]
-    },
-  },
+    }, image: "/poi-images/landscape-tripylos-peak-extra.webp"},
   {
     id: "landscape-kantara-castle-viewpoint-extra",
     type: "landmark",
@@ -5345,8 +5185,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Kantarai vár kilátója Cipruson egyik legismertebb latnivaloja.", "Az epitészet, a fekves es a szimbolika fotograafiai forropont.", "A tablak es a vezetett programok bemutatjak a hatteret.", "A kornyezo terek, kavezok es kilatopontok hosszas idozesre csabitanak.", "A megkozelites autoval, busszal vagy gyalog egyarant kenyelmes.", "A karbantartas es a műemlekvedelmi munkak folyamatosan zajlanak.", "A helyszin meghatarozo szerepet jatszik a regio kepeben."],
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Kantara Castle Viewpoint ranks among the best-known landmarks in Cyprus.", "Architecture, setting and symbolism make it a photographic hotspot.", "Signage and guided tours unpack background and building phases.", "Nearby squares, cafes and viewpoints encourage longer stays.", "It is reachable by car, bus or on foot with relative ease.", "Ongoing conservation and maintenance work protect the site.", "The landmark contributes strongly to the region's identity."]
-    },
-  },
+    }, image: "/poi-images/landscape-kantara-castle-viewpoint-extra.webp"},
   {
     id: "landscape-dipotamos-dam-extra",
     type: "lake",
@@ -5375,8 +5214,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Dipotamos-gát fontos elohely a gazlo es vizimadaraknak.", "A sotartalom es a vizszint az evszakok soran latvanyosan valtozik.", "A nadasok es a saros zonak taplalekot es feszkelőhelyet biztosi tnak.", "A kilatopontok az allatok zavarasa nelkul teszik lehetove a megfigyelest.", "Tavasszal es osszel nagy madarcsapatok jelennek meg.", "A terulet fotografiailag is kuelonosen latvanyos.", "A to a felugyelt termeszetvedelmi program resze."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Dipotamos Dam is an important habitat for wading and water birds.", "Salinity and water levels change significantly through the year.", "Reedbeds and mudflats provide food and breeding sites.", "Viewing points allow observation without disturbing wildlife.", "Large flocks gather here during spring and autumn migration.", "The area is also exceptionally rewarding for photography.", "The lake forms part of a monitored conservation framework."]
-    },
-  },
+    }, image: "/poi-images/landscape-dipotamos-dam-extra.webp"},
   {
     id: "landscape-macheras-forest-extra",
     type: "forest",
@@ -5405,8 +5243,7 @@ export const cyprusOtherPoi: POI[] = [
       hu: ["A(z) Machairas-erdő az egyik okologiailag legertekesebb erdoterulet Cipruson.", "Az aleppoi fenyo, a tolgyek es a macchia adjak a novenyzet karakteret.", "Az erdei utak es turaosvenyek kimello modon teszik feltarhatova a teruletet.", "A tablak ismertetik a foldtant, a flórat es a faunat.", "Nyaron az erdo termeszetes klimakent szolgal.", "A tűzvedelmi es kutatasi intezkedesek folyamatosan zajlanak.", "A piknikhelyek beleilleszkednek a teruletbe."],
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Machairas Forest is one of the most ecologically valuable forest areas in Cyprus.", "Aleppo pine, oaks and Mediterranean maquis dominate the canopy.", "Forest roads and walking trails open the area without overloading it.", "Information panels explain local geology, flora and fauna.", "In summer the canopy acts like natural air-conditioning.", "Fire-prevention and research efforts run continuously.", "Picnic sites are integrated within the protected area."]
-    },
-  },
+    }, image: "/poi-images/landscape-macheras-forest-extra.webp"},
 ];
 
 

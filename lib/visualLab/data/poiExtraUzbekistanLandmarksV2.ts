@@ -13,8 +13,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["1985-ben nyitották meg.", "Egy forgóétterem is működik benne.", "Közép-Ázsia legmagasabb tévétornya."],
       ro: ["Deschis în anul 1985.", "Are un restaurant rotativ.", "Este cel mai înalt turn TV din Asia Centrală."],
       en: ["Opened in 1985.", "Features a revolving restaurant.", "It is the tallest TV tower in Central Asia."]
-    }
-  },
+    }, image: "/poi-images/tashkent-tv-tower-landmarks-v2.webp"},
   {
     id: "chorsu-bazaar-landmarks-v2",
     type: "tourist-attraction",
@@ -27,8 +26,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["A történelmi központban található.", "Híres a friss fűszerekről és a helyi kézműves termékekről.", "A jelenlegi épület a szovjet érában épült."],
       ro: ["Este situat în centrul istoric.", "Cunoscut pentru condimentele proaspete și meșteșugurile locale.", "Clădirea actuală datează din era sovietică."],
       en: ["Located in the historical center.", "Known for fresh spices and local crafts.", "The building dates back to the Soviet era."]
-    }
-  },
+    }, image: "/poi-images/chorsu-bazaar-landmarks-v2.webp"},
   {
     id: "amir-timur-museum-landmarks-v2",
     type: "landmark",
@@ -41,8 +39,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["1996-ban nyitotta meg kapuit.", "Több mint 5000 kiállítási tárggyal rendelkezik.", "Timur születésének 660. évfordulójára épült."],
       ro: ["A fost deschis în 1996.", "Găzduiește peste 5.000 de exponate.", "Construit pentru a marca a 660-a aniversare a lui Timur."],
       en: ["Opened in 1996.", "Houses over 5,000 exhibits.", "Commemorates the 660th anniversary of Timur's birth."]
-    }
-  },
+    }, image: "/poi-images/amir-timur-museum-landmarks-v2.webp"},
   {
     id: "minor-mosque-landmarks-v2",
     type: "landmark",
@@ -55,8 +52,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["2014-ben adták át.", "Több mint 2400 hívő befogadására alkalmas.", "Gyakran \"Fehér mecsetnek\" is nevezik."],
       ro: ["Inaugurată în anul 2014.", "Are o capacitate de peste 2.400 de credincioși.", "Adesea numită \"Moscheea Albă\"."],
       en: ["Opened in 2014.", "Can accommodate over 2,400 worshippers.", "Often referred to as the \"White Mosque\"."]
-    }
-  },
+    }, image: "/poi-images/minor-mosque-landmarks-v2.webp"},
   {
     id: "navoi-theater-landmarks-v2",
     type: "landmark",
@@ -69,8 +65,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["Alekszej Scsusev tervezte az épületet.", "Japán hadifoglyok is részt vettek az építésében.", "A színház előtti téren gyönyörű szökőkút található."],
       ro: ["Proiectat de Alexei Șciusev.", "Prizonierii de război japonezi au ajutat la construcție.", "Piața din față are o fântână arteziană."],
       en: ["Designed by Alexey Shchusev.", "Japanese prisoners of war helped in the construction.", "The square in front features a large fountain."]
-    }
-  },
+    }, image: "/poi-images/navoi-theater-landmarks-v2.webp"},
   {
     id: "monument-of-courage-landmarks-v2",
     type: "monument",
@@ -83,8 +78,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["Az emlékművön lévő óra 5:23-at mutat.", "A kőben lévő repedés magát a rengést szimbolizálja.", "A Szovjetunió minden részéből érkező segítőknek dedikálták."],
       ro: ["Ceasul de pe monument arată ora 5:23.", "O crăpătură în piatră simbolizează cutremurul.", "Dedicat salvatorilor din întreaga Uniune Sovietică."],
       en: ["The clock on the monument shows 5:23 AM.", "A crack in the stone symbolizes the earthquake itself.", "Dedicated to the helpers from across the Soviet Union."]
-    }
-  },
+    }, image: "/poi-images/monument-of-courage-landmarks-v2.webp"},
   {
     id: "kukeldash-madrasah-landmarks-v2",
     type: "landmark",
@@ -97,8 +91,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["Körülbelül 1570-ben épült.", "Egykor karavánszerájként is funkcionált.", "Ma is vallási iskolaként működik."],
       ro: ["A fost construită în jurul anului 1570.", "A funcționat cândva și ca un caravanserai.", "Funcționează și astăzi ca școală religioasă."],
       en: ["Built around 1570.", "Once served as a caravanserai.", "Still operates as a religious school today."]
-    }
-  },
+    }, image: "/poi-images/kukeldash-madrasah-landmarks-v2.webp"},
   {
     id: "sitorai-mokhi-khosa-landmarks-v2",
     type: "landmark",
@@ -111,8 +104,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["1912 és 1918 között épült.", "A neve azt jelenti: \"A holdhoz hasonló csillag\".", "Ma egy iparművészeti múzeumnak ad otthont."],
       ro: ["Construit între 1912 și 1918.", "Numele său înseamnă \"Steaua asemeni lunii\".", "Astăzi găzduiește un muzeu de artă aplicată."],
       en: ["Built between 1912 and 1918.", "The name translates to \"Star like the Moon\".", "Today it houses a museum of applied arts."]
-    }
-  },
+    }, image: "/poi-images/sitorai-mokhi-khosa-landmarks-v2.webp"},
   {
     id: "lyab-i-hauz-landmarks-v2",
     type: "tourist-attraction",
@@ -125,8 +117,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["A 17. században épült.", "A medence régen ivóvízzel látta el a várost.", "Népszerű találkozóhely ősi eperfákkal."],
       ro: ["Construit în secolul al XVII-lea.", "Bazinul oferea odinioară apă potabilă orașului.", "Un loc popular de întâlnire, cu duzi bătrâni."],
       en: ["Built in the 17th century.", "The pool once provided the city with drinking water.", "A popular meeting place with ancient mulberry trees."]
-    }
-  },
+    }, image: "/poi-images/lyab-i-hauz-landmarks-v2.webp"},
   {
     id: "bolo-hauz-mosque-landmarks-v2",
     type: "landmark",
@@ -139,8 +130,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["1712-ben készült el.", "20 faragott faoszloppal rendelkezik.", "Az emír pénteki mecsetjeként szolgált."],
       ro: ["A fost finalizată în 1712.", "Are 20 de coloane din lemn sculptat.", "A servit drept moschee de vineri pentru emir."],
       en: ["Completed in 1712.", "Features 20 carved wooden columns.", "Served as a Friday mosque for the Emir."]
-    }
-  },
+    }, image: "/poi-images/bolo-hauz-mosque-landmarks-v2.webp"},
   {
     id: "magok-i-attari-landmarks-v2",
     type: "landmark",
@@ -153,8 +143,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["A legrégebbi része a 9. századból származik.", "Egy zoroasztriánus templom romjaira épült.", "Ma egy szőnyegmúzeumnak ad otthont."],
       ro: ["Cea mai veche parte datează din secolul al IX-lea.", "A fost construită pe ruinele unui templu zoroastrian.", "Astăzi găzduiește un muzeu al covoarelor."],
       en: ["The oldest part dates back to the 9th century.", "Built on the ruins of a Zoroastrian temple.", "Today it houses a carpet museum."]
-    }
-  },
+    }, image: "/poi-images/magok-i-attari-landmarks-v2.webp"},
   {
     id: "siyob-bazaar-landmarks-v2",
     type: "tourist-attraction",
@@ -167,8 +156,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["A Bibi-Hanim mecset mellett található.", "Híres a kerek, mintás kenyérről (\"Szamarkand non\").", "Friss aszalványokat és magvakat kínál."],
       ro: ["Situat lângă Moscheea Bibi-Khanym.", "Renumit pentru pâinea rotundă \"Samarkand Non\".", "Oferă fructe uscate și nuci proaspete."],
       en: ["Located next to the Bibi-Khanym Mosque.", "Famous for the round bread \"Samarkand Non\".", "Offers fresh dried fruits and nuts."]
-    }
-  },
+    }, image: "/poi-images/siyob-bazaar-landmarks-v2.webp"},
   {
     id: "prophet-daniel-mausoleum-landmarks-v2",
     type: "monument",
@@ -181,8 +169,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["A sírkamra több mint 18 méter hosszú.", "A legenda szerint a próféta teste folyamatosan növekszik.", "A Sziab folyó partján fekszik."],
       ro: ["Mormântul are o lungime de peste 18 metri.", "Legenda spune că trupul profetului crește în mod constant.", "Este situat pe malul râului Siab."],
       en: ["The tomb is over 18 meters long.", "Legend says the prophet's body continues to grow.", "Situated on the banks of the Siab river."]
-    }
-  },
+    }, image: "/poi-images/prophet-daniel-mausoleum-landmarks-v2.webp"},
   {
     id: "hazrat-khizr-mosque-landmarks-v2",
     type: "landmark",
@@ -195,8 +182,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["Eredetileg a 8. században építették.", "A legendás iszlám szent, Hizr nevét viseli.", "Itt nyugszik Üzbegisztán első elnöke, Iszlam Karimov."],
       ro: ["Construită inițial în secolul al VIII-lea.", "Numită după legendarul sfânt Khizr.", "Este locul de odihnă al primului președinte, Islam Karimov."],
       en: ["Originally built in the 8th century.", "Named after the legendary saint Khizr.", "It is the resting place of the first president, Islam Karimov."]
-    }
-  },
+    }, image: "/poi-images/hazrat-khizr-mosque-landmarks-v2.webp"},
   {
     id: "afrosiyob-museum-landmarks-v2",
     type: "landmark",
@@ -209,8 +195,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["1970-ben nyitották meg.", "Itt láthatók a híres \"Követek freskói\".", "Az Afrasziab ásatási terület közelében áll."],
       ro: ["Deschis în 1970.", "Expune faimoasele \"fresce ale ambasadorilor\".", "Situat în apropierea sitului arheologic Afrasiab."],
       en: ["Opened in 1970.", "Features the famous \"Ambassadors frescoes\".", "Located near the Afrasiab archaeological site."]
-    }
-  },
+    }, image: "/poi-images/afrosiyob-museum-landmarks-v2.webp"},
   {
     id: "pahlavan-mahmud-mausoleum-landmarks-v2",
     type: "landmark",
@@ -223,8 +208,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["Pahlavan Mahmud ismert költő és birkózó volt.", "Ez Híva városának legnagyobb kupolája.", "A belső csempedíszítés igazi mestermunka."],
       ro: ["Pahlavan Mahmud a fost poet și luptător.", "Cupola este cea mai mare din Khiva.", "Lucrările din ceramică din interior sunt o capodoperă."],
       en: ["Pahlavan Mahmud was a poet and a wrestler.", "The dome is the largest in Khiva.", "The tilework inside is considered a masterpiece."]
-    }
-  },
+    }, image: "/poi-images/pahlavan-mahmud-mausoleum-landmarks-v2.webp"},
   {
     id: "islam-khoja-minaret-landmarks-v2",
     type: "landmark",
@@ -251,8 +235,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["A neve azt jelenti: \"Rövid minaret\".", "Az iszlám világ legmagasabb minaretjének tervezték.", "Az építkezés 1855-ben, az uralkodó halála után állt le."],
       ro: ["Numele înseamnă \"Minaretul scurt\".", "Se dorea a fi cel mai înalt minaret din lumea islamică.", "Construcția a fost oprită în 1855 după moartea conducătorului."],
       en: ["The name means \"Short Minaret\".", "It was intended to be the tallest minaret in the Islamic world.", "Construction halted in 1855 after the ruler's death."]
-    }
-  },
+    }, image: "/poi-images/kalta-minor-landmarks-v2.webp"},
   {
     id: "tash-khauli-palace-landmarks-v2",
     type: "landmark",
@@ -265,8 +248,7 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       hu: ["A 19. század elején épült.", "Hárem, fogadótermek és bíróság is helyet kapott benne.", "Több mint 150 szobával rendelkezik."],
       ro: ["Construit la începutul secolului al XIX-lea.", "Găzduiește un harem, săli de recepție și un tribunal.", "Dispune de peste 150 de încăperi."],
       en: ["Built in the early 19th century.", "Features a harem, reception rooms, and a court.", "Contains over 150 rooms."]
-    }
-  },
+    }, image: "/poi-images/tash-khauli-palace-landmarks-v2.webp"},
   {
     id: "savitsky-art-museum-landmarks-v2",
     type: "landmark",

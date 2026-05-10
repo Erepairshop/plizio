@@ -39,8 +39,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Part of the Obô National Park.",
         "Formed by volcanic activity millions of years ago."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-de-sao-tome-nature-v2.webp"},
   {
     id: "pico-cao-grande-nature-v2",
     type: "mountain",
@@ -79,8 +78,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Composed of hard phonolite rock.",
         "One of the most difficult peaks to climb in Africa."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-cao-grande-nature-v2.webp"},
   {
     id: "ilheu-das-rolas-nature-v2",
     type: "island",
@@ -119,8 +117,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Known for spectacular snorkeling sites.",
         "Only accessible by boat from Porto Alegre."
       ]
-    }
-  },
+    }, image: "/poi-images/ilheu-das-rolas-nature-v2.webp"},
   {
     id: "parque-nacional-obo-nature-v2",
     type: "forest",
@@ -159,8 +156,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Home to over 130 endemic plant species.",
         "Important for the protection of endangered bird species like the dwarf ibis."
       ]
-    }
-  },
+    }, image: "/poi-images/parque-nacional-obo-nature-v2.webp"},
   {
     id: "lagoa-azul-nature-v2",
     type: "sea",
@@ -199,8 +195,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Unique occurrence of baobabs directly by the sea.",
         "Historical site of the first lighthouse in the region."
       ]
-    }
-  },
+    }, image: "/poi-images/lagoa-azul-nature-v2.webp"},
   {
     id: "rio-io-grande-nature-v2",
     type: "river",
@@ -239,8 +234,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Offers spectacular gorges in its upper course.",
         "Known for its diverse freshwater fish."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-io-grande-nature-v2.webp"},
   {
     id: "pico-maria-fernandes-nature-v2",
     type: "mountain",
@@ -319,8 +313,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Offers excellent conditions for scuba diving.",
         "Visible from almost every point in the town of Santana."
       ]
-    }
-  },
+    }, image: "/poi-images/ilheu-santana-nature-v2.webp"},
   {
     id: "pico-do-principe-nature-v2",
     type: "mountain",
@@ -359,8 +352,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Home to many species found only on this one island.",
         "Surrounded by dramatic basaltic rock formations."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-do-principe-nature-v2.webp"},
   {
     id: "rio-contador-nature-v2",
     type: "river",
@@ -399,8 +391,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Important habitat for the rare São Tomé mountain wagtail.",
         "Known for its deep, natural swimming pools."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-contador-nature-v2.webp"},
   {
     id: "rio-abade-nature-v2",
     type: "river",
@@ -439,8 +430,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Known for its gentle river bends and idyllic picnic spots.",
         "An important location for local birdwatching."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-abade-nature-v2.webp"},
   {
     id: "lagoa-amelia-nature-v2",
     type: "lake",
@@ -479,8 +469,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Actually a silted-up crater lake.",
         "Only accessible on foot via steep forest paths."
       ]
-    }
-  },
+    }, image: "/poi-images/lagoa-amelia-nature-v2.webp"},
   {
     id: "ilheu-bom-bom-nature-v2",
     type: "island",
@@ -519,8 +508,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "An important spot for watching humpback whales (seasonally).",
         "The waters around the island are strictly protected."
       ]
-    }
-  },
+    }, image: "/poi-images/ilheu-bom-bom-nature-v2.webp"},
   {
     id: "pico-papagaio-nature-v2",
     type: "mountain",
@@ -559,8 +547,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "An important nesting site for the grey parrot.",
         "Surrounded by almost inaccessible primary rainforest."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-papagaio-nature-v2.webp"},
   {
     id: "rio-manuel-jorge-nature-v2",
     type: "river",
@@ -599,8 +586,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Known for the Cascata de Manuel Jorge.",
         "A popular spot for traditional washing by the river."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-manuel-jorge-nature-v2.webp"},
   {
     id: "baia-das-agulhas-nature-v2",
     type: "sea",
@@ -679,8 +665,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Known for its calm sections inviting for bathing.",
         "Houses a diverse flora along its banks."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-cantagalo-nature-v2.webp"},
   {
     id: "pico-mesa-nature-v2",
     type: "mountain",
@@ -719,8 +704,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Offers a 360-degree view in clear weather.",
         "An important site for botanical studies."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-mesa-nature-v2.webp"},
   {
     id: "ilheu-caroco-nature-v2",
     type: "island",
@@ -759,8 +743,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Uninhabited and strictly protected.",
         "An important landmark for shipping in the south."
       ]
-    }
-  },
+    }, image: "/poi-images/ilheu-caroco-nature-v2.webp"},
   {
     id: "rio-caue-nature-v2",
     type: "river",
@@ -799,8 +782,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Provides access to some of the most remote parts of the rainforest.",
         "Known for its spectacular estuary into the Atlantic."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-caue-nature-v2.webp"},
   {
     id: "praia-jale-nature-v2",
     type: "sea",
@@ -839,8 +821,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Houses a simple but vital eco-camp for conservationists.",
         "Famous for the nightly spectacle of turtle egg-laying."
       ]
-    }
-  },
+    }, image: "/poi-images/praia-jale-nature-v2.webp"},
   {
     id: "rio-lemba-nature-v2",
     type: "river",
@@ -879,8 +860,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Known for its extremely fast currents during the rainy season.",
         "An important corridor for endemic forest animals."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-lemba-nature-v2.webp"},
   {
     id: "cascata-sao-nicolau-nature-v2",
     type: "river",
@@ -919,8 +899,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Surrounded by lush, moisture-loving vegetation.",
         "A popular motif for postcards and travel guides."
       ]
-    }
-  },
+    }, image: "/poi-images/cascata-sao-nicolau-nature-v2.webp"},
   {
     id: "rio-agua-grande-nature-v2",
     type: "river",
@@ -959,8 +938,7 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
         "Played a crucial role in choosing the capital's location.",
         "Known for its historic bridges in the city center."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-agua-grande-nature-v2.webp"},
   {
     id: "golfo-de-guine-nature-v2",
     type: "sea",

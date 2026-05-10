@@ -13,8 +13,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Az 5. században épült.", "UNESCO Világörökség része."],
       ro: ["Construită în secolul al V-lea.", "Sit al Patrimoniului Mondial UNESCO."],
       en: ["Built in the 5th century.", "UNESCO World Heritage Site."]
-    }
-  },
+    }, image: "/poi-images/sigiriya-history-v2.webp"},
   {
     id: "polonnaruwa-history-v2",
     type: "ruin",
@@ -27,8 +26,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Virágkorát a 12. században élte.", "A Gal Vihara kőszobrairól ismert."],
       ro: ["A înflorit în secolul al XII-lea.", "Cunoscut pentru sculpturile Gal Vihara."],
       en: ["Flourished in the 12th century.", "Known for the Gal Vihara rock sculptures."]
-    }
-  },
+    }, image: "/poi-images/polonnaruwa-history-v2.webp"},
   {
     id: "anuradhapura-history-v2",
     type: "ruin",
@@ -41,8 +39,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Kr. e. 4. században alapították.", "A Sri Maha Bodhi fa otthona."],
       ro: ["Fondat în secolul al IV-lea î.Hr.", "Adăpostește copacul Sri Maha Bodhi."],
       en: ["Founded in the 4th century BC.", "Home to the Sri Maha Bodhi tree."]
-    }
-  },
+    }, image: "/poi-images/anuradhapura-history-v2.webp"},
   {
     id: "tooth-relic-temple-history-v2",
     type: "historical-site",
@@ -55,8 +52,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["A királyi palotakomplexumban található.", "Fontos zarándokhely."],
       ro: ["Situat în complexul palatului regal.", "Important loc de pelerinaj."],
       en: ["Located in the royal palace complex.", "Major pilgrimage site."]
-    }
-  },
+    }, image: "/poi-images/tooth-relic-temple-history-v2.webp"},
   {
     id: "dambulla-cave-history-v2",
     type: "historical-site",
@@ -69,8 +65,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Több mint 150 Buddha-szobrot tartalmaz.", "Több mint 22 évszázada használják."],
       ro: ["Conține peste 150 de statui ale lui Buddha.", "Folosit de peste 22 de secole."],
       en: ["Contains over 150 Buddha statues.", "In use for over 22 centuries."]
-    }
-  },
+    }, image: "/poi-images/dambulla-cave-history-v2.webp"},
   {
     id: "galle-fort-history-v2",
     type: "monument",
@@ -83,8 +78,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["1588-ban épült.", "Európai építészeti hatásokat mutat."],
       ro: ["Construit în anul 1588.", "Prezintă influențe arhitecturale europene."],
       en: ["Built in 1588.", "Shows European architectural influences."]
-    }
-  },
+    }, image: "/poi-images/galle-fort-history-v2.webp"},
   {
     id: "ruwanwelisaya-history-v2",
     type: "monument",
@@ -97,8 +91,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Dutugemunu király építtette.", "103 méter magas."],
       ro: ["Construită de regele Dutugemunu.", "Are 103 metri înălțime."],
       en: ["Built by King Dutugemunu.", "Stands 103 meters tall."]
-    }
-  },
+    }, image: "/poi-images/ruwanwelisaya-history-v2.webp"},
   {
     id: "jetavanaramaya-history-v2",
     type: "ruin",
@@ -111,8 +104,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Eredetileg 122 méter magas volt.", "A 3. században épült."],
       ro: ["Inițial avea 122 de metri înălțime.", "Construită în secolul al III-lea."],
       en: ["Originally 122 meters tall.", "Constructed in the 3rd century."]
-    }
-  },
+    }, image: "/poi-images/jetavanaramaya-history-v2.webp"},
   {
     id: "yapahuwa-history-v2",
     type: "ruin",
@@ -125,8 +117,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Meredek, díszes lépcsőjéről híres.", "I. Bhuvenakabahu király építtette."],
       ro: ["Faimoasă pentru scara sa ornamentală abruptă.", "Construită de regele Bhuvenakabahu I."],
       en: ["Famous for its steep ornamental staircase.", "Built by King Bhuvenakabahu I."]
-    }
-  },
+    }, image: "/poi-images/yapahuwa-history-v2.webp"},
   {
     id: "mihintale-history-v2",
     type: "historical-site",
@@ -139,8 +130,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Számos templomból és szentélyből áll.", "1840 gránitlépcső vezet fel rá."],
       ro: ["Este format din numeroase temple și sanctuare.", "Are 1840 de trepte din granit."],
       en: ["Consists of multiple temples and shrines.", "Features 1840 granite steps."]
-    }
-  },
+    }, image: "/poi-images/mihintale-history-v2.webp"},
   {
     id: "independence-memorial-history-v2",
     type: "monument",
@@ -153,8 +143,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Függetlenedés a britektől 1948-ban.", "Építészete a Királyi Kihallgatási Csarnokon alapul."],
       ro: ["Independența față de britanici în 1948.", "Arhitectura se bazează pe Sala Regală de Audiențe."],
       en: ["Independence from the British in 1948.", "Architecture is based on the Royal Audience Hall."]
-    }
-  },
+    }, image: "/poi-images/independence-memorial-history-v2.webp"},
   {
     id: "mulkirigala-history-v2",
     type: "historical-site",
@@ -167,8 +156,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Hét barlangtemplommal rendelkezik.", "A 3. századból származik."],
       ro: ["Dispune de șapte temple în peșteră.", "Datează din secolul al III-lea."],
       en: ["Features seven cave temples.", "Dates back to the 3rd century."]
-    }
-  },
+    }, image: "/poi-images/mulkirigala-history-v2.webp"},
   {
     id: "abhayagiri-vihara-history-v2",
     type: "ruin",
@@ -181,8 +169,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["A Kr. e. 2. században alapították.", "Fontos szellemi központ volt."],
       ro: ["Fondat în secolul al II-lea î.Hr.", "A fost un centru spiritual major."],
       en: ["Founded in the 2nd century BC.", "Was a major spiritual and educational center."]
-    }
-  },
+    }, image: "/poi-images/abhayagiri-vihara-history-v2.webp"},
   {
     id: "koneswaram-temple-history-v2",
     type: "historical-site",
@@ -209,8 +196,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Részletes szobrairól híres.", "Gyönyörű falfestményekkel büszkélkedhet."],
       ro: ["Faimos pentru sculpturile sale detaliate.", "Prezintă picturi murale frumoase."],
       en: ["Famous for its intricate sculptures.", "Features beautiful mural paintings."]
-    }
-  },
+    }, image: "/poi-images/kelaniya-vihara-history-v2.webp"},
   {
     id: "jaffna-fort-history-v2",
     type: "ruin",
@@ -223,8 +209,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Eredetileg 1618-ban épült.", "A polgárháborúban súlyosan megsérült."],
       ro: ["Construit inițial în 1618.", "A suferit daune majore în timpul războiului civil."],
       en: ["Originally built in 1618.", "Suffered major damage during the civil war."]
-    }
-  },
+    }, image: "/poi-images/jaffna-fort-history-v2.webp"},
   {
     id: "dimbulagala-history-v2",
     type: "historical-site",
@@ -237,8 +222,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Kr. e. 300 körül alapították.", "Számos barlang és felirat otthona."],
       ro: ["Fondată în jurul anului 300 î.Hr.", "Adăpostește numeroase peșteri și inscripții."],
       en: ["Founded around 300 BC.", "Home to many caves and inscriptions."]
-    }
-  },
+    }, image: "/poi-images/dimbulagala-history-v2.webp"},
   {
     id: "embekka-devalaya-history-v2",
     type: "monument",
@@ -251,8 +235,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["III. Vikramabahu király építtette.", "Bonyolult faoszlopokkal rendelkezik."],
       ro: ["Construit de regele Vikramabahu III.", "Prezintă stâlpi de lemn complex sculptați."],
       en: ["Built by King Vikramabahu III.", "Features intricately carved wooden pillars."]
-    }
-  },
+    }, image: "/poi-images/embekka-devalaya-history-v2.webp"},
   {
     id: "nallur-kandaswamy-history-v2",
     type: "historical-site",
@@ -265,8 +248,7 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
       hu: ["Az eredeti templom 948-ban épült.", "Gyakran átépítették és áthelyezték."],
       ro: ["Templul original a fost construit în 948.", "Reconstruit și mutat de mai multe ori."],
       en: ["The original temple was built in 948.", "Rebuilt and relocated several times."]
-    }
-  },
+    }, image: "/poi-images/nallur-kandaswamy-history-v2.webp"},
   {
     id: "elephant-pass-history-v2",
     type: "battlefield",

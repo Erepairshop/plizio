@@ -39,8 +39,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "Its walls are built from massive, intricately decorated coral blocks.",
         "The grounds include a cemetery with historical coral tombstones."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-hukuru-miskiy-history-v2.webp"},
   {
     id: "mv-utheemu-ganduvaru-history-v2",
     type: "historical-site",
@@ -119,8 +118,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "Al-Barbari is revered as a national saint of the Maldives.",
         "The site is a popular destination for pilgrims and those interested in history."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-medhu-ziyaaraiy-history-v2.webp"},
   {
     id: "mv-tsunami-monument-history-v2",
     type: "monument",
@@ -159,8 +157,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "The names of all Maldivian victims are engraved into the structure.",
         "It is located near the ocean to emphasize the connection to the sea."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-tsunami-monument-history-v2.webp"},
   {
     id: "mv-victory-monument-history-v2",
     type: "monument",
@@ -199,8 +196,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "The center of the monument is a ring, symbolizing unity.",
         "It is one of the central gathering places for national celebrations."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-victory-monument-history-v2.webp"},
   {
     id: "mv-muleeaage-history-v2",
     type: "historical-site",
@@ -239,8 +235,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "It was long used as the headquarters of the executive branch of the Maldives.",
         "The white and blue colors are a striking feature of the palace."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-muleeaage-history-v2.webp"},
   {
     id: "mv-isdhoo-buddhist-ruins-history-v2",
     type: "ruin",
@@ -279,8 +274,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "They were built from local coral limestone.",
         "The site was an important religious center before the 12th century."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-isdhoo-buddhist-ruins-history-v2.webp"},
   {
     id: "mv-kuruhinna-thariagandu-history-v2",
     type: "ruin",
@@ -399,8 +393,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "The carvings feature floral patterns, as images of living beings are forbidden in Islam.",
         "The historical structure is protected today as a significant cultural heritage."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-eid-miskiy-history-v2.webp"},
   {
     id: "mv-kalhuvakaru-miskiy-history-v2",
     type: "historical-site",
@@ -479,8 +472,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "The statue is one of the most valuable exhibits in the National Museum.",
         "The temple likely dates back to the 3rd or 4th century AD."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-thoddoo-buddhist-ruins-history-v2.webp"},
   {
     id: "mv-raf-base-gan-history-v2",
     type: "ruin",
@@ -519,8 +511,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "The British built the first major airfield in the region.",
         "After the British withdrew, the island was partially developed for tourism."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-raf-base-gan-history-v2.webp"},
   {
     id: "mv-fenfushi-mosque-history-v2",
     type: "historical-site",
@@ -559,8 +550,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "It was built at the end of the 17th century.",
         "The complex includes an old coral well for ritual ablutions."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-fenfushi-mosque-history-v2.webp"},
   {
     id: "mv-landhoo-ruins-history-v2",
     type: "ruin",
@@ -599,8 +589,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "It is considered one of the largest Buddhist finds in the northern atoll.",
         "The ruins prove that Landhoo was once a spiritual center."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-landhoo-ruins-history-v2.webp"},
   {
     id: "mv-nilandhoo-aasaari-miskiy-history-v2",
     type: "historical-site",
@@ -679,8 +668,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "His tomb is decorated with artistic Arabic inscriptions.",
         "He successfully defended the Maldives against enemy fleets."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-tomb-sultan-iskandar-history-v2.webp"},
   {
     id: "mv-vashafaru-ruins-history-v2",
     type: "ruin",
@@ -759,8 +747,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
         "Archaeologists found tools here suggesting pre-Islamic settlement.",
         "The site is associated with myths about ancient seafarers."
       ]
-    }
-  },
+    }, image: "/poi-images/mv-dhadimagi-kilhi-sites-history-v2.webp"},
   {
     id: "mv-kinbidhoo-ruins-history-v2",
     type: "ruin",

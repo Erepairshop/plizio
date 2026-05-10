@@ -23,8 +23,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1624-ben alapították.", "Tajnan városában található."],
       ro: ["A fost fondat în 1624.", "Se află în orașul Tainan."],
       en: ["Founded in 1624.", "Located in Tainan city."]
-    }
-  },
+    }, image: "/poi-images/fort-zeelandia-history-v2.webp"},
   {
     id: "chihkan-tower-history-v2",
     type: "historical-site",
@@ -47,8 +46,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["Eredeti neve Fort Provintia volt.", "Tajnan központjában található."],
       ro: ["Numit inițial Fort Provintia.", "Situat în centrul orașului Tainan."],
       en: ["Originally called Fort Provintia.", "Located in central Tainan."]
-    }
-  },
+    }, image: "/poi-images/chihkan-tower-history-v2.webp"},
   {
     id: "chiang-kai-shek-memorial-hall-history-v2",
     type: "monument",
@@ -71,8 +69,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1980-ban nyitották meg.", "Fehér márványfalakkal rendelkezik."],
       ro: ["A fost deschisă în 1980.", "Are pereți din marmură albă."],
       en: ["Opened in 1980.", "Features white marble walls."]
-    }
-  },
+    }, image: "/poi-images/chiang-kai-shek-memorial-hall-history-v2.webp"},
   {
     id: "national-revolutionary-martyrs-shrine-history-v2",
     type: "monument",
@@ -95,8 +92,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1969-ben épült.", "Híres az őrségváltási ceremóniájáról."],
       ro: ["Construit în 1969.", "Renumit pentru ceremonia de schimbare a gărzii."],
       en: ["Built in 1969.", "Famous for its guard changing ceremony."]
-    }
-  },
+    }, image: "/poi-images/national-revolutionary-martyrs-shrine-history-v2.webp"},
   {
     id: "lin-family-mansion-and-garden-history-v2",
     type: "historical-site",
@@ -119,8 +115,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1851-ben épült.", "Területe mintegy 20 000 négyzetméter."],
       ro: ["Construit în 1851.", "Acoperă o suprafață de 20.000 de metri pătrați."],
       en: ["Built in 1851.", "Covers an area of 20,000 square meters."]
-    }
-  },
+    }, image: "/poi-images/lin-family-mansion-and-garden-history-v2.webp"},
   {
     id: "eternal-golden-castle-history-v2",
     type: "historical-site",
@@ -143,8 +138,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1876-ban készült el.", "Armstrong ágyúkkal szerelték fel."],
       ro: ["Finalizat în 1876.", "Echipat cu tunuri Armstrong."],
       en: ["Completed in 1876.", "Equipped with Armstrong cannons."]
-    }
-  },
+    }, image: "/poi-images/eternal-golden-castle-history-v2.webp"},
   {
     id: "fort-san-domingo-history-v2",
     type: "historical-site",
@@ -167,8 +161,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1628-ban épült.", "Tamszuj kerületében található."],
       ro: ["Construit în 1628.", "Situat în districtul Tamsui."],
       en: ["Built in 1628.", "Located in Tamsui District."]
-    }
-  },
+    }, image: "/poi-images/fort-san-domingo-history-v2.webp"},
   {
     id: "wufeng-lin-family-mansion-history-v2",
     type: "historical-site",
@@ -191,8 +184,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["A Csing-dinasztia idején épült.", "Az 1999-es földrengés során megsérült."],
       ro: ["Construit în timpul Dinastiei Qing.", "A fost avariat în cutremurul din 1999."],
       en: ["Built during the Qing Dynasty.", "Was damaged during the 1999 earthquake."]
-    }
-  },
+    }, image: "/poi-images/wufeng-lin-family-mansion-history-v2.webp"},
   {
     id: "jhaishan-tunnel-history-v2",
     type: "historical-site",
@@ -215,8 +207,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["Építése 1961-ben kezdődött.", "42 hajó számára biztosít helyet."],
       ro: ["Construcția a început în 1961.", "Oferă spațiu pentru 42 de bărci."],
       en: ["Construction began in 1961.", "Can accommodate up to 42 boats."]
-    }
-  },
+    }, image: "/poi-images/jhaishan-tunnel-history-v2.webp"},
   {
     id: "guningtou-battlefield-history-v2",
     type: "battlefield",
@@ -239,8 +230,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["A csata 1949-ben zajlott.", "A konfliktus fordulópontját jelentette."],
       ro: ["Bătălia a avut loc în 1949.", "A marcat un punct de cotitură în conflict."],
       en: ["Battle occurred in 1949.", "Marked a turning point in the conflict."]
-    }
-  },
+    }, image: "/poi-images/guningtou-battlefield-history-v2.webp"},
   {
     id: "mengjia-longshan-temple-history-v2",
     type: "historical-site",
@@ -263,8 +253,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["Több háborút és földrengést túlélt.", "Kuan-jin bódhiszattvának szentelték."],
       ro: ["A supraviețuit mai multor războaie și cutremure.", "Este dedicat lui Guanyin, Bodhisattva milei."],
       en: ["Survived multiple wars and earthquakes.", "Dedicated to the Bodhisattva Guanyin."]
-    }
-  },
+    }, image: "/poi-images/mengjia-longshan-temple-history-v2.webp"},
   {
     id: "remains-of-the-thirteen-levels-history-v2",
     type: "ruin",
@@ -311,8 +300,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["Körülbelül 3000 éves.", "Taitung megyében található."],
       ro: ["Are o vechime de aproximativ 3000 de ani.", "Se află în județul Taitung."],
       en: ["About 3000 years old.", "Located in Taitung County."]
-    }
-  },
+    }, image: "/poi-images/beinan-cultural-park-history-v2.webp"},
   {
     id: "qihou-fort-history-v2",
     type: "historical-site",
@@ -335,8 +323,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1875-ben épült.", "Kínai stílusú bejárati kapuval rendelkezik."],
       ro: ["Construită în 1875.", "Are o poartă de intrare în stil chinezesc."],
       en: ["Built in 1875.", "Features a Chinese-style entrance gate."]
-    }
-  },
+    }, image: "/poi-images/qihou-fort-history-v2.webp"},
   {
     id: "eluanbi-lighthouse-history-v2",
     type: "monument",
@@ -359,8 +346,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1883-ban épült.", "Védelmi célokat szolgáló lövészárkokkal rendelkezik."],
       ro: ["Construit în 1883.", "Are tranșee pentru apărare."],
       en: ["Built in 1883.", "Features defensive trenches."]
-    }
-  },
+    }, image: "/poi-images/eluanbi-lighthouse-history-v2.webp"},
   {
     id: "hobe-fort-history-v2",
     type: "historical-site",
@@ -383,8 +369,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1886-ban épült.", "Szerepet játszott a kínai-francia háborúban."],
       ro: ["Construită în 1886.", "A jucat un rol în războiul chino-francez."],
       en: ["Built in 1886.", "Played a role in the Sino-French War."]
-    }
-  },
+    }, image: "/poi-images/hobe-fort-history-v2.webp"},
   {
     id: "beigang-chaotian-temple-history-v2",
     type: "historical-site",
@@ -407,8 +392,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1694-ben alapították.", "Évente zarándokok millióit vonzza."],
       ro: ["A fost fondat în 1694.", "Atrage milioane de pelerini anual."],
       en: ["Founded in 1694.", "Attracts millions of pilgrims annually."]
-    }
-  },
+    }, image: "/poi-images/beigang-chaotian-temple-history-v2.webp"},
   {
     id: "august-23-artillery-battle-museum-history-v2",
     type: "battlefield",
@@ -431,8 +415,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["Az 1958-as tajvani-szorosi válságnak állít emléket.", "Történelmi fegyvereket és dokumentumokat mutat be."],
       ro: ["Amintește de criza din Strâmtoarea Taiwan din 1958.", "Expune arme și documente istorice."],
       en: ["Commemorates the 1958 Taiwan Strait Crisis.", "Displays historical weapons and documents."]
-    }
-  },
+    }, image: "/poi-images/august-23-artillery-battle-museum-history-v2.webp"},
   {
     id: "hatta-yoichi-memorial-park-history-v2",
     type: "monument",
@@ -455,8 +438,7 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["A vízgazdálkodás egyik úttörője előtt tiszteleg.", "Hagyományos japán faházaknak ad otthont."],
       ro: ["Onorează un pionier al managementului apei.", "Găzduiește case tradiționale japoneze din lemn."],
       en: ["Honors a pioneer in water management.", "Houses traditional Japanese wooden buildings."]
-    }
-  },
+    }, image: "/poi-images/hatta-yoichi-memorial-park-history-v2.webp"},
   {
     id: "daxi-old-street-history-v2",
     type: "historical-site",

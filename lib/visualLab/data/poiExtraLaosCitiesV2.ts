@@ -41,8 +41,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Pha That Luang is a national symbol.",
         "Located right on the border with Thailand."
       ]
-    }
-  },
+    }, image: "/poi-images/vientiane-cities-v2.webp"},
   {
     id: "luang-prabang-cities-v2",
     type: "city",
@@ -83,8 +82,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Former royal capital.",
         "Located at the confluence of the Mekong and Nam Khan rivers."
       ]
-    }
-  },
+    }, image: "/poi-images/luang-prabang-cities-v2.webp"},
   {
     id: "pakse-cities-v2",
     type: "city",
@@ -125,8 +123,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Founded by the French in 1905.",
         "Home to Pakse Airport."
       ]
-    }
-  },
+    }, image: "/poi-images/pakse-cities-v2.webp"},
   {
     id: "savannakhet-cities-v2",
     type: "city",
@@ -167,8 +164,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Second-largest city in Laos.",
         "Has a long trading history."
       ]
-    }
-  },
+    }, image: "/poi-images/savannakhet-cities-v2.webp"},
   {
     id: "thakhek-cities-v2",
     type: "city",
@@ -209,8 +205,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Border town with Thailand.",
         "Popular for cave tours."
       ]
-    }
-  },
+    }, image: "/poi-images/thakhek-cities-v2.webp"},
   {
     id: "vang-vieng-cities-v2",
     type: "city",
@@ -251,8 +246,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Known for karst formations.",
         "Center for adventure tourism."
       ]
-    }
-  },
+    }, image: "/poi-images/vang-vieng-cities-v2.webp"},
   {
     id: "phonsavan-cities-v2",
     type: "city",
@@ -293,8 +287,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Near the Plain of Jars.",
         "Known for the Secret War."
       ]
-    }
-  },
+    }, image: "/poi-images/phonsavan-cities-v2.webp"},
   {
     id: "xam-neua-cities-v2",
     type: "city",
@@ -335,8 +328,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Located in a deep valley.",
         "Rarely visited provincial capital."
       ]
-    }
-  },
+    }, image: "/poi-images/xam-neua-cities-v2.webp"},
   {
     id: "luang-namtha-cities-v2",
     type: "city",
@@ -377,8 +369,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Center for ecotourism.",
         "Near the Nam Ha National Park."
       ]
-    }
-  },
+    }, image: "/poi-images/luang-namtha-cities-v2.webp"},
   {
     id: "huay-xai-cities-v2",
     type: "city",
@@ -419,8 +410,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Important border crossing.",
         "Starting point for Mekong boats."
       ]
-    }
-  },
+    }, image: "/poi-images/huay-xai-cities-v2.webp"},
   {
     id: "muang-xay-cities-v2",
     type: "city",
@@ -461,8 +451,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Most important transport hub in the north.",
         "Has a large Chinese community."
       ]
-    }
-  },
+    }, image: "/poi-images/muang-xay-cities-v2.webp"},
   {
     id: "sainyabuli-cities-v2",
     type: "city",
@@ -503,8 +492,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Known for the elephant festival.",
         "Provincial capital."
       ]
-    }
-  },
+    }, image: "/poi-images/sainyabuli-cities-v2.webp"},
   {
     id: "pakxan-cities-v2",
     type: "city",
@@ -545,8 +533,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Located on the Nam San River.",
         "Important trading hub."
       ]
-    }
-  },
+    }, image: "/poi-images/pakxan-cities-v2.webp"},
   {
     id: "attapeu-cities-v2",
     type: "city",
@@ -587,8 +574,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Also known as Samakkhixay.",
         "Center of the timber industry."
       ]
-    }
-  },
+    }, image: "/poi-images/attapeu-cities-v2.webp"},
   {
     id: "salavan-cities-v2",
     type: "city",
@@ -671,8 +657,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Northernmost provincial capital.",
         "Located at 1,400 meters altitude."
       ]
-    }
-  },
+    }, image: "/poi-images/phongsaly-cities-v2.webp"},
   {
     id: "sekong-cities-v2",
     type: "city",
@@ -755,8 +740,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Capital of the youngest province.",
         "Surrounded by wild mountains."
       ]
-    }
-  },
+    }, image: "/poi-images/xaisomboun-cities-v2.webp"},
   {
     id: "phonhong-cities-v2",
     type: "city",
@@ -797,8 +781,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Administrative center of Vientiane Province.",
         "Important transport axis."
       ]
-    }
-  },
+    }, image: "/poi-images/phonhong-cities-v2.webp"},
   {
     id: "kasi-cities-v2",
     type: "city",
@@ -839,8 +822,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Located on Route 13.",
         "Offers spectacular views."
       ]
-    }
-  },
+    }, image: "/poi-images/kasi-cities-v2.webp"},
   {
     id: "champasak-cities-v2",
     type: "city",
@@ -881,8 +863,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Former center of a kingdom.",
         "Near the Vat Phou temple."
       ]
-    }
-  },
+    }, image: "/poi-images/champasak-cities-v2.webp"},
   {
     id: "pak-lay-cities-v2",
     type: "city",
@@ -923,8 +904,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Town on the Mekong.",
         "Known for French architecture."
       ]
-    }
-  },
+    }, image: "/poi-images/pak-lay-cities-v2.webp"},
   {
     id: "seno-cities-v2",
     type: "city",
@@ -965,8 +945,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Important transport hub.",
         "Known for its military base."
       ]
-    }
-  },
+    }, image: "/poi-images/seno-cities-v2.webp"},
   {
     id: "muang-long-cities-v2",
     type: "city",
@@ -1007,8 +986,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Town in the northwest.",
         "Near the border with Myanmar."
       ]
-    }
-  },
+    }, image: "/poi-images/muang-long-cities-v2.webp"},
   {
     id: "boun-neua-cities-v2",
     type: "city",
@@ -1091,8 +1069,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Main town on Don Khong island.",
         "Quiet atmosphere."
       ]
-    }
-  },
+    }, image: "/poi-images/muang-khong-cities-v2.webp"},
   {
     id: "sepon-cities-v2",
     type: "city",
@@ -1133,8 +1110,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Historic site of the Vietnam War.",
         "Known for copper mining."
       ]
-    }
-  },
+    }, image: "/poi-images/sepon-cities-v2.webp"},
   {
     id: "muang-sing-cities-v2",
     type: "city",
@@ -1175,8 +1151,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Near the Chinese border.",
         "Former center for the opium trade."
       ]
-    }
-  },
+    }, image: "/poi-images/muang-sing-cities-v2.webp"},
   {
     id: "nong-khiaw-cities-v2",
     type: "city",
@@ -1217,8 +1192,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
         "Located on the Nam Ou River.",
         "Popular for outdoor activities."
       ]
-    }
-  },
+    }, image: "/poi-images/nong-khiaw-cities-v2.webp"},
   {
     id: "viengxay-cities-v2",
     type: "city",

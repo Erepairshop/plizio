@@ -25,8 +25,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["A legmagasabb torony magassága 182 méter.", "A komplexum 2012-ben készült el.", "A teljes építési költség körülbelül 350 millió dollár volt.", "A homlokzatot több mint 10 000 nagy teljesítményű LED-lámpatest borítja.", "A három torony neve: 1. torony (lakóépület), 2. torony (szálloda) és 3. torony (irodák).", "A HOK (Hellmuth, Obata + Kassabaum) tervezte.", "A komplexumban található szálloda a Fairmont Baku.", "A tornyok a modern, posztszovjet Azerbajdzsán szimbólumai."],
       ro: ["Înălțimea celui mai înalt turn este de 182 de metri.", "Complexul a fost finalizat în 2012.", "Costul total al construcției a fost de aproximativ 350 de milioane de dolari.", "Fațada este acoperită cu peste 10.000 de corpuri de iluminat LED de mare putere.", "Cele trei turnuri sunt denumite Turnul 1 (rezidențial), Turnul 2 (Hotel) și Turnul 3 (birouri).", "A fost proiectat de HOK (Hellmuth, Obata + Kassabaum).", "Hotelul din complex este Fairmont Baku.", "Turnurile sunt un simbol al Azerbaidjanului modern, post-sovietic."],
       en: ["Height of the tallest tower is 182 meters.", "The complex was completed in 2012.", "Total cost of construction was approximately $350 million.", "The facade is covered with more than 10,000 high-power LED luminaires.", "The three towers are named Tower 1 (Residential), Tower 2 (Hotel), and Tower 3 (Offices).", "It was designed by HOK (Hellmuth, Obata + Kassabaum).", "The hotel within the complex is the Fairmont Baku.", "The towers are a symbol of modern, post-Soviet Azerbaijan."]
-    }
-  },
+    }, image: "/poi-images/flame-towers-landmarks-v2.webp"},
   {
     id: "maiden-tower-landmarks-v2",
     type: "monument",
@@ -51,8 +50,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["2000-ben felvették az UNESCO Világörökség listájára.", "A torony 29,5 méter magas.", "Az alapnál a falak 5 méter vastagok.", "A belső tér nyolc különálló emeletet tartalmaz.", "Építésének valódi célja rejtély marad.", "Szerepel az azerbajdzsáni bankjegyeken.", "A torony szerkezetében egy mély vizeskút található.", "Központi eleme az azerbajdzsáni Novruz (újév) ünnepségeknek."],
       ro: ["A fost înscris în Patrimoniul Mondial UNESCO în 2000.", "Turnul are 29,5 metri înălțime.", "Zidurile de la bază au o grosime de 5 metri.", "Interiorul conține opt etaje distincte.", "Adevăratul scop al construcției sale rămâne un mister.", "Este prezentat pe bancnotele din Azerbaidjan.", "O fântână adâncă de apă este situată în structura turnului.", "Este o caracteristică centrală a festivităților de Novruz (Anul Nou) din Azerbaidjan."],
       en: ["It was inscribed as a UNESCO World Heritage Site in 2000.", "The tower is 29.5 meters high.", "The walls at the base are 5 meters thick.", "The interior contains eight distinct floors.", "The true purpose of its construction remains a mystery.", "It is featured on Azerbaijani currency notes.", "A deep water well is located within the tower's structure.", "It is a central feature of the Novruz (New Year) festivities in Azerbaijan."]
-    }
-  },
+    }, image: "/poi-images/maiden-tower-landmarks-v2.webp"},
   {
     id: "shirvanshahs-palace-landmarks-v2",
     type: "landmark",
@@ -77,8 +75,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["Az építkezés a 15. században kezdődött.", "Kulcsfontosságú része a Bakui Óváros UNESCO helyszínének.", "A komplexum magában foglal egy fő palotát, egy mecsetet, egy mauzóleumot és fürdőket.", "Ez volt az uralkodó Sirván-sah dinasztia székhelye.", "A Divan-khana egy egyedülálló nyolcszögletű pavilon.", "A palotát 1723-ban egy orosz tengeri bombázás megrongálta.", "Az azerbajdzsáni 10 000 manatos bankjegyen (régi valuta) ábrázolják.", "A komplexum a középkori iszlám építészet különböző stílusait mutatja be."],
       ro: ["Construcția a început în secolul al XV-lea.", "Este o parte cheie a sitului UNESCO Orașul Vechi din Baku.", "Complexul include un palat principal, o moschee, un mausoleu și băi.", "A fost sediul dinastiei conducătoare Șirvanșah.", "Divan-khana este un pavilion octogonal unic.", "Palatul a fost avariat de un bombardament naval rusesc în 1723.", "Este înfățișat pe bancnota azeră de 10.000 de manat (monedă veche).", "Complexul prezintă diverse stiluri de arhitectură islamică medievală."],
       en: ["Construction started in the 15th century.", "It's a key part of the Baku Old City UNESCO site.", "The complex includes a main palace, a mosque, a mausoleum, and baths.", "It was the seat of the ruling Shirvanshah dynasty.", "The Divan-khana is a unique octagonal pavilion.", "The palace was damaged by a Russian naval bombardment in 1723.", "It is depicted on the Azerbaijani 10,000 manat banknote (old currency).", "The complex showcases various styles of medieval Islamic architecture."]
-    }
-  },
+    }, image: "/poi-images/shirvanshahs-palace-landmarks-v2.webp"},
   {
     id: "heydar-aliyev-center-landmarks-v2",
     type: "icon",
@@ -103,8 +100,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["A világhírű építész, Zaha Hadid tervezte.", "Az épületet 2012-ben nyitották meg.", "2014-ben elnyerte a Design Museum Év Tervezése díját.", "Az építmény területe 57 500 négyzetméter.", "A tervezés szándékosan kerüli az egyenes vonalakat vagy éles szögeket.", "Az épület burkolata üvegszál-erősítésű betonból (GFRC) készült.", "Heydər Əliyevről, Azerbajdzsán harmadik elnökéről nevezték el.", "Szakítást jelent a szovjet korszak merev építészeti stílusával."],
       ro: ["Proiectat de arhitecta de renume mondial Zaha Hadid.", "Clădirea a fost inaugurată în 2012.", "A câștigat premiul Design of the Year al Muzeului de Design în 2014.", "Structura acoperă o suprafață de 57.500 de metri pătrați.", "Designul evită în mod intenționat orice linii drepte sau unghiuri ascuțite.", "Învelișul clădirii este realizat din beton armat cu fibră de sticlă (GFRC).", "Este numit după Heydar Aliyev, al treilea președinte al Azerbaidjanului.", "Reprezintă o ruptură față de stilul arhitectural rigid al erei sovietice."],
       en: ["Designed by world-renowned architect Zaha Hadid.", "The building was opened in 2012.", "It won the Design Museum's Design of the Year Award in 2014.", "The structure covers an area of 57,500 square meters.", "The design intentionally avoids any straight lines or sharp angles.", "The building's skin is made from Glass Fibre Reinforced Concrete (GFRC).", "It is named after Heydar Aliyev, the third President of Azerbaijan.", "It represents a break from the rigid architectural style of the Soviet era."]
-    }
-  },
+    }, image: "/poi-images/heydar-aliyev-center-landmarks-v2.webp"},
   {
     id: "gobustan-rock-art-landmarks-v2",
     type: "tourist-attraction",
@@ -129,8 +125,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["2007-ben felvették az UNESCO Világörökség listájára.", "Több mint 6000 sziklavésetet (petroglifát) tartalmaz.", "A faragványok 40 000 éves időszakot ölelnek fel.", "Az ábrázolások között emberek, állatok és csatajelenetek is szerepelnek.", "A területen iszapvulkánok is találhatók.", "Egy 1. századi római feliratot találtak itt.", "A helyszíni múzeum kontextust ad a faragványokhoz.", "A Gobustan név 'szakadékok földjét' jelenti."],
       ro: ["Înscris în Patrimoniul Mondial UNESCO în 2007.", "Conține peste 6.000 de gravuri în stâncă (petroglife).", "Gravurile acoperă o perioadă de 40.000 de ani.", "Reprezentările includ oameni, animale și scene de luptă.", "Zona prezintă și vulcani noroioși.", "Aici a fost găsită o inscripție romană din secolul I d.Hr.", "Muzeul de la fața locului oferă context pentru sculpturi.", "Numele Gobustan înseamnă 'ținutul ravenelor'."],
       en: ["Inscribed as a UNESCO World Heritage Site in 2007.", "Contains over 6,000 rock engravings (petroglyphs).", "The carvings span a period of 40,000 years.", "Depictions include people, animals, and battle scenes.", "The area also features mud volcanoes.", "A Roman inscription from the 1st century AD was found here.", "The on-site museum provides context for the carvings.", "The name Gobustan means 'land of ravines'."]
-    }
-  },
+    }, image: "/poi-images/gobustan-rock-art-landmarks-v2.webp"},
   {
     id: "gobustan-mud-volcanoes-landmarks-v2",
     type: "tourist-attraction",
@@ -155,8 +150,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["Azerbajdzsán ad otthont a világ sárvulkánjainak közel felének.", "A Gobustan körzetében több mint 350 sárvulkán található.", "A kitöréseket a föld alatti gázok okozzák, nem a magma.", "A kilövellt sár hideg, gyakran fagypont feletti.", "Néhány vulkán kitöréskor lángokat lövellhet a magasba.", "A sárnak gyógyító tulajdonságokat tulajdonítanak.", "A tájat gyakran hold- vagy marsbelinek írják le.", "Az egyik legnagyobb sárvulkán neve Turaghai."],
       ro: ["Azerbaidjanul găzduiește aproape jumătate din vulcanii noroioși ai lumii.", "Există peste 350 de vulcani noroioși în zona Gobustan.", "Erupțiile sunt determinate de gaze subterane, nu de magmă.", "Nămolul ejectat este rece, adesea chiar peste punctul de îngheț.", "Unii vulcani pot arunca flăcări înalte în aer în timpul erupțiilor.", "Nămolul se crede că are proprietăți medicinale.", "Peisajul este adesea descris ca fiind lunar sau marțian.", "Unul dintre cei mai mari vulcani noroioși se numește Turaghai."],
       en: ["Azerbaijan is home to nearly half of the world's mud volcanoes.", "There are over 350 mud volcanoes in the Gobustan area.", "The eruptions are driven by subterranean gases, not magma.", "The ejected mud is cold, often just above freezing.", "Some volcanoes can shoot flames high into the air during eruptions.", "The mud is believed to have medicinal properties.", "The landscape is often described as lunar or Martian.", "One of the largest mud volcanoes is named Turaghai."]
-    }
-  },
+    }, image: "/poi-images/gobustan-mud-volcanoes-landmarks-v2.webp"},
   {
     id: "ateshgah-baku-landmarks-v2",
     type: "monument",
@@ -181,8 +175,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["A komplexum a 17-18. században épült.", "Hindu, szikh és zoroasztriánus hívők használták.", "Az 'Ateshgah' név jelentése 'a tűz otthona'.", "A központi lángot eredetileg egy természetes gázkitörés táplálta.", "A komplexum ötszögletű, központi udvarral rendelkezik.", "1883 után megszűnt istentiszteleti hely lenni.", "1975-ben múzeummá alakították.", "A helyszínt 1998-ban jelölték az UNESCO Világörökség státuszára."],
       ro: ["Complexul a fost construit în secolele XVII-XVIII.", "A fost folosit de credincioșii hinduși, sikhi și zoroastrieni.", "Numele 'Ateshgah' înseamnă 'casa focului'.", "Flacăra centrală a fost alimentată inițial de o sursă naturală de gaz.", "Complexul are o formă pentagonală cu o curte centrală.", "A încetat să mai fie un lăcaș de cult după 1883.", "A fost transformat în muzeu în 1975.", "Situl a fost nominalizat pentru statutul de Patrimoniu Mondial UNESCO în 1998."],
       en: ["The complex was built in the 17th-18th centuries.", "It was used by Hindu, Sikh, and Zoroastrian worshippers.", "The name 'Ateshgah' means 'home of fire'.", "The central flame was originally fed by a natural gas vent.", "The complex has a pentagonal shape with a central courtyard.", "It ceased to be a place of worship after 1883.", "It was converted into a museum in 1975.", "The site was nominated for UNESCO World Heritage status in 1998."]
-    }
-  },
+    }, image: "/poi-images/ateshgah-baku-landmarks-v2.webp"},
   {
     id: "yanar-dag-landmarks-v2",
     type: "tourist-attraction",
@@ -207,8 +200,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["A Yanar Dağ név jelentése 'égő hegy'.", "A tűz évezredek óta folyamatosan ég.", "A lángok elérhetik a 3 méteres magasságot.", "A földből természetes, állandó gázszivárgás táplálja.", "A helyszín az Absheron-félszigeten található.", "Az időjárási viszonyoktól függetlenül ég.", "Marco Polo a 13. században feljegyzéseket készített a régióban tapasztalható hasonló tüzekről.", "A helyszín a turisták és a zoroasztrizmus követőinek egyik fő vonzereje."],
       ro: ["Numele Yanar Dağ se traduce prin 'muntele arzând'.", "Focul arde continuu de mii de ani.", "Flăcările pot atinge o înălțime de 3 metri.", "Este alimentat de o scurgere naturală și constantă de gaz din pământ.", "Situl este situat în Peninsula Absheron.", "Arde indiferent de condițiile meteorologice.", "Marco Polo a făcut note despre incendii similare în regiune în secolul al XIII-lea.", "Situl este o atracție majoră pentru turiști și adepții zoroastrismului."],
       en: ["The name Yanar Dağ translates to 'burning mountain'.", "The fire has been burning continuously for thousands of years.", "The flames can reach a height of 3 meters.", "It is fueled by a natural, steady seep of gas from the ground.", "The site is located on the Absheron Peninsula.", "It burns regardless of the weather conditions.", "Marco Polo made notes about similar fires in the region in the 13th century.", "The site is a major draw for tourists and followers of Zoroastrianism."]
-    }
-  },
+    }, image: "/poi-images/yanar-dag-landmarks-v2.webp"},
   {
     id: "bibi-heybat-mosque-landmarks-v2",
     type: "landmark",
@@ -233,8 +225,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["Az eredeti mecset a 13. században épült.", "A szovjetek 1936-ban teljesen elpusztították.", "A jelenlegi épület egy 1998-ban befejezett restaurálás eredménye.", "Mohamed próféta egyik leszármazottjának sírját tartalmazza.", "Az építészeti stílus a sirváni iskola képviselője.", "Alexandre Dumas úti visszaemlékezéseiben írt a mecsetről.", "A régió muszlimjainak spirituális központja.", "A mecsetnek három kupolája és két minaretje van."],
       ro: ["Moscheea originală a fost construită în secolul al XIII-lea.", "A fost complet distrusă de sovietici în 1936.", "Clădirea actuală este o restaurare finalizată în 1998.", "Conține mormântul unui descendent al profetului Mahomed.", "Stilul arhitectural este reprezentativ pentru școala Șirvan.", "Alexandre Dumas a descris moscheea în memoriile sale de călătorie.", "Este un centru spiritual pentru musulmanii din regiune.", "Moscheea are trei cupole și două minarete."],
       en: ["The original mosque was built in the 13th century.", "It was completely destroyed by the Soviets in 1936.", "The current building is a restoration completed in 1998.", "It contains the tomb of a descendant of the Prophet Muhammad.", "The architectural style is representative of the Shirvan school.", "Alexandre Dumas described the mosque in his travel memoirs.", "It is a spiritual center for Muslims of the region.", "The mosque features three domes and two minarets."]
-    }
-  },
+    }, image: "/poi-images/bibi-heybat-mosque-landmarks-v2.webp"},
   {
     id: "shaki-khans-palace-landmarks-v2",
     type: "monument",
@@ -259,8 +250,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["1797-ben épült a Şəki kánok nyári rezidenciájaként.", "Híres 'shebeke' ólomüvegéről, amelyet szögek és ragasztó nélkül állítanak össze.", "A homlokzaton háborús és vadászjeleneteket ábrázoló falfestmények láthatók.", "A belső falakat összetett freskók borítják.", "2019-ben felvették az UNESCO Világörökség listájára.", "Az építkezés során a hagyományos és a perzsa építészeti stílus keverékét alkalmazták.", "A nagyobb Şəki erőd komplexumon belül áll.", "A palota építésénél nem használtak szögeket."],
       ro: ["A fost construit în 1797 ca reședință de vară pentru hanii din Șaki.", "Renumit pentru vitraliile sale 'shebeke', asamblate fără cuie sau lipici.", "Fațada prezintă picturi murale care înfățișează scene de război și vânătoare.", "Pereții interiori sunt acoperiți cu fresce complexe.", "A fost înscris pe lista Patrimoniului Mondial UNESCO în 2019.", "Construcția a folosit un amestec de stiluri arhitecturale tradiționale și persane.", "Se află în cadrul complexului mai mare al cetății Șaki.", "La construcția palatului nu s-au folosit cuie."],
       en: ["It was built in 1797 as a summer residence for the Shaki Khans.", "Famous for its 'shebeke' stained glass, assembled without nails or glue.", "The facade features murals depicting scenes of war and hunting.", "The interior walls are covered with complex frescoes.", "It was inscribed on the UNESCO World Heritage list in 2019.", "The construction used a mix of traditional and Persian architectural styles.", "It stands within the larger Shaki Fortress complex.", "No nails were used in the construction of the palace."]
-    }
-  },
+    }, image: "/poi-images/shaki-khans-palace-landmarks-v2.webp"},
   {
     id: "church-of-kish-landmarks-v2",
     type: "monument",
@@ -285,8 +275,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["A Kaukázus-régió legrégebbi templomának tartják.", "A jelenlegi szerkezet a 12. századból származik.", "Régészeti leletek egy sokkal régebbi kultikus hely létezésére utalnak itt.", "A Kaukázusi Albánia ősi keresztény királyságához kötik.", "A templomot Szent Elizeusnak szentelték.", "Thor Heyerdahl itt végzett kutatásokat, összekapcsolva azt az ősi skandináv eredettel.", "Ma múzeumként működik, bemutatva a történetét.", "A helyreállítási projekt Azerbajdzsán és Norvégia közös erőfeszítése volt."],
       ro: ["Este considerată cea mai veche biserică din regiunea Caucazului.", "Structura actuală datează din secolul al XII-lea.", "Descoperirile arheologice sugerează existența unui lăcaș de cult mult mai vechi aici.", "Este asociată cu vechiul regat creștin al Albaniei Caucaziene.", "Biserica este dedicată Sfântului Elisei.", "Thor Heyerdahl a efectuat cercetări aici, legând-o de originile scandinave antice.", "Acum funcționează ca un muzeu care îi prezintă istoria.", "Proiectul de restaurare a fost un efort comun al Azerbaidjanului și Norvegiei."],
       en: ["It is considered the oldest church in the Caucasus region.", "The current structure dates back to the 12th century.", "Archaeological finds suggest a much older cult site existed here.", "It is associated with the ancient Christian kingdom of Caucasian Albania.", "The church is dedicated to Saint Elisæus.", "Thor Heyerdahl conducted research here, linking it to ancient Scandinavian origins.", "It now functions as a museum showcasing its history.", "The restoration project was a joint effort between Azerbaijan and Norway."]
-    }
-  },
+    }, image: "/poi-images/church-of-kish-landmarks-v2.webp"},
   {
     id: "momine-khatun-mausoleum-landmarks-v2",
     type: "monument",
@@ -311,8 +300,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["1186-ban épült Nahicseván városában.", "Ajami Nakhchivani építész tervezte.", "A szerkezet egy 10 oldalú téglatorony.", "Atabeg Jahan Pehlevan rendelte meg felesége, Momine Khatun számára.", "A homlokzatot bonyolult geometrikus minták és kúfi írás díszíti.", "Eredeti magassága 34 méter volt, de a kúpos kupola ma már hiányzik.", "Néha 'a sakk-királynő sírjának' is nevezik.", "A nahicseváni építészeti iskola központi műemléke."],
       ro: ["Construit în 1186 în orașul Nahicevan.", "A fost proiectat de arhitectul Ajami Nakhchivani.", "Structura este un turn de cărămidă cu 10 laturi.", "A fost comandat de Atabeg Jahan Pehlevan pentru soția sa, Momine Khatun.", "Fațada este împodobită cu modele geometrice complicate și scriere kufică.", "Înălțimea sa inițială a fost de 34 de metri, dar cupola conică lipsește acum.", "Uneori este denumit 'Mormântul Reginei Șahului'.", "Este un monument central al școlii de arhitectură din Nahicevan."],
       en: ["Built in 1186 in the city of Nakhchivan.", "It was designed by the architect Ajami Nakhchivani.", "The structure is a 10-sided brick tower.", "It was commissioned by Atabeg Jahan Pehlevan for his wife, Momine Khatun.", "The facade is adorned with intricate geometric patterns and Kufic script.", "Its original height was 34 meters, but the conical dome is now missing.", "It is sometimes referred to as the 'Chess Queen's Tomb'.", "It is a central monument of the Nakhchivan school of architecture."]
-    }
-  },
+    }, image: "/poi-images/momine-khatun-mausoleum-landmarks-v2.webp"},
   {
     id: "alinja-castle-landmarks-v2",
     type: "monument",
@@ -337,8 +325,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["A vár a Nahicseváni Autonóm Köztársaságban található.", "Gyakran 'Azerbajdzsán Machu Picchujának' is nevezik.", "A 12-13. században az azerbajdzsáni atabégek fontos erődítménye volt.", "A erőd híresen ellenállt Timur (Tamerlán) 14 éves ostromának.", "A helyszínen paloták, lakóépületek és vízgyűjtők romjai találhatók.", "Több mint 1500 lépcső vezet fel a fő erődítményhez.", "2014-ben fejeződtek be a kiterjedt helyreállítási munkálatok.", "Panorámás kilátást nyújt a környező tájra és az Alinja folyóra."],
       ro: ["Castelul este situat în Republica Autonomă Nahicevan.", "Este adesea numit 'Machu Picchu al Azerbaidjanului'.", "A servit ca o fortăreață majoră pentru atabegii din Azerbaidjan în secolele XII-XIII.", "Cetatea a rezistat în mod faimos unui asediu de 14 ani al lui Timur (Tamerlan).", "Situl include ruine de palate, clădiri rezidențiale și cisterne de apă.", "Peste 1.500 de trepte duc la cetatea principală.", "Lucrări ample de restaurare au fost finalizate în 2014.", "Oferă vederi panoramice ale peisajului înconjurător și ale râului Alinja."],
       en: ["The castle is located in the Nakhchivan Autonomous Republic.", "It is often called the 'Machu Picchu of Azerbaijan'.", "It served as a major stronghold for the Atabegs of Azerbaijan in the 12th-13th centuries.", "The fortress famously resisted a 14-year siege by Timur (Tamerlane).", "The site includes ruins of palaces, residential buildings, and water cisterns.", "Over 1,500 steps lead up to the main fortress.", "Extensive restoration works were completed in 2014.", "It offers panoramic views of the surrounding landscape and Alinja river."]
-    }
-  },
+    }, image: "/poi-images/alinja-castle-landmarks-v2.webp"},
   {
     id: "nizami-mausoleum-landmarks-v2",
     type: "monument",
@@ -363,8 +350,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["A mauzóleumot a 12. századi költőnek, Nizami Ganjavinak szentelték.", "Ganjában, a költő szülővárosában található.", "A jelenlegi építményt 1991-ben építették, egy régebbi, szovjet korabeli emlékmű helyére.", "Nizamit Azerbajdzsán nemzeti költőjének tartják.", "Az épület gránitból készült és körülbelül 20 méter magas.", "A mauzóleum körüli területen kert és szereplőinek szobrai találhatók.", "Azerbajdzsán egyik legfontosabb kulturális zarándokhelye.", "Leghíresebb műve a 'Khamsa' (Ötös), öt epikus költeményből álló gyűjtemény."],
       ro: ["Mausoleul este dedicat poetului din secolul al XII-lea Nizami Ganjavi.", "Este situat în Ganja, orașul natal al poetului.", "Structura actuală a fost construită în 1991, înlocuind un monument mai vechi din epoca sovietică.", "Nizami este considerat un poet național al Azerbaidjanului.", "Clădirea este din granit și are o înălțime de aproximativ 20 de metri.", "Zona din jurul mausoleului include o grădină și statui ale personajelor sale.", "Este un important sit de pelerinaj cultural în Azerbaidjan.", "Cea mai faimoasă lucrare a sa este 'Khamsa' (Cvintetul), o colecție de cinci poeme epice."],
       en: ["The mausoleum is dedicated to the 12th-century poet Nizami Ganjavi.", "It is located in Ganja, the city of the poet's birth.", "The current structure was built in 1991, replacing an older Soviet-era monument.", "Nizami is considered a national poet of Azerbaijan.", "The building is made of granite and stands about 20 meters tall.", "The area around the mausoleum includes a garden and statues of his characters.", "It is a major site of cultural pilgrimage in Azerbaijan.", "His most famous work is the 'Khamsa' (Quintet), a collection of five epic poems."]
-    }
-  },
+    }, image: "/poi-images/nizami-mausoleum-landmarks-v2.webp"},
   {
     id: "diri-baba-mausoleum-landmarks-v2",
     type: "monument",
@@ -389,8 +375,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["A mauzóleum 1402-ben épült.", "Ez egy kétszintes építmény, amelyet közvetlenül egy sziklafalba építettek.", "A sirván-abseroni építészeti iskola kulcsfontosságú emlékműve.", "A 'Diri Baba' név jelentése 'Élő Nagyapa'.", "A legenda szerint az itt eltemetett szent a halál után sértetlen maradt.", "A hely a szúfi misztikusok történelmi gyülekezőhelye volt.", "A homlokzaton bonyolult kőfaragások és kalligráfia látható.", "Maraza városában található, Qobustan közelében."],
       ro: ["Mausoleul a fost construit în 1402.", "Este o structură cu două etaje construită direct într-o faleză.", "Este un monument cheie al școlii de arhitectură Șirvan-Abșeron.", "Numele 'Diri Baba' înseamnă 'Bunicul viu'.", "Legenda spune că sfântul îngropat aici a rămas necorupt după moarte.", "Situl a fost un loc de adunare istoric pentru misticii sufi.", "Fațada prezintă sculpturi complicate în piatră și caligrafie.", "Este situat în orașul Maraza, lângă Qobustan."],
       en: ["The mausoleum was built in 1402.", "It is a two-story structure built directly into a cliffside.", "It is a key monument of the Shirvan-Absheron architectural school.", "The name 'Diri Baba' means 'Living Grandfather'.", "Legend says the saint buried here remained incorrupt after death.", "The site was a historical gathering place for Sufi mystics.", "The facade features intricate stone carving and calligraphy.", "It is located in the city of Maraza, near Qobustan."]
-    }
-  },
+    }, image: "/poi-images/diri-baba-mausoleum-landmarks-v2.webp"},
   {
     id: "juma-mosque-shamakhi-landmarks-v2",
     type: "monument",
@@ -415,8 +400,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["Eredetileg 743-ban épült, ezzel Azerbajdzsán első mecsete.", "A Kaukázus második legrégebbi mecsetének tartják.", "A mecsetet földrengések miatt többször lerombolták és újjáépítették.", "A jelenlegi szerkezet egy 2009-2013 közötti nagy rekonstrukció eredménye.", "A Sirván-sah állam fő mecseteként szolgált.", "Az elrendezést a damaszkuszi nagy mecset ihlette.", "Egy nagy központi kupolája és két kisebb kupolája van.", "A mecset a síita iszlám fontos központja az országban."],
       ro: ["Construită inițial în 743 d.Hr., ceea ce o face prima moschee din Azerbaidjan.", "Este considerată a doua cea mai veche moschee din Caucaz.", "Moscheea a fost distrusă și reconstruită de mai multe ori din cauza cutremurelor.", "Structura actuală este rezultatul unei reconstrucții majore în 2009-2013.", "A servit drept moscheea principală a statului Șirvanșah.", "Planul este inspirat de Marea Moschee din Damasc.", "Are o cupolă centrală mare și două cupole mai mici.", "Moscheea este un centru important pentru islamul șiit din țară."],
       en: ["Originally built in 743 AD, making it the first mosque in Azerbaijan.", "It is considered the second oldest mosque in the Caucasus.", "The mosque has been destroyed and rebuilt several times due to earthquakes.", "The current structure is the result of a major reconstruction in 2009-2013.", "It served as the main mosque of the Shirvanshah state.", "The layout is inspired by the Great Mosque of Damascus.", "It has a large central dome and two smaller domes.", "The mosque is an important center for Shia Islam in the country."]
-    }
-  },
+    }, image: "/poi-images/juma-mosque-shamakhi-landmarks-v2.webp"},
   {
     id: "baku-crystal-hall-landmarks-v2",
     type: "landmark",
@@ -441,8 +425,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["Kifejezetten a 2012-es Eurovíziós Dalfesztiválra épült.", "Az aréna befogadóképessége akár 25 000 fő is lehet.", "Az építkezés mindössze nyolc hónap alatt készült el.", "A homlokzatot több ezer LED panel világítja meg.", "A komplexum teljes területe több mint 30 000 négyzetméter.", "Olyan művészek koncertjeinek adott otthont, mint Jennifer Lopez, Shakira és Rihanna.", "Nagyobb sportesemények, például röplabda és ökölvívás helyszínéül is szolgál.", "A projekt mögött álló építésziroda a német GMP Architekten volt."],
       ro: ["A fost construit special pentru Eurovision Song Contest 2012.", "Arena are o capacitate de până la 25.000 de persoane.", "Construcția a fost finalizată în doar opt luni.", "Fațada este iluminată de mii de panouri LED.", "Suprafața totală a complexului este de peste 30.000 de metri pătrați.", "A găzduit concerte ale unor artiști precum Jennifer Lopez, Shakira și Rihanna.", "De asemenea, servește ca loc de desfășurare pentru evenimente sportive majore, cum ar fi volei și box.", "Firma de arhitectură din spatele proiectului a fost GMP Architekten din Germania."],
       en: ["It was built specifically for the Eurovision Song Contest 2012.", "The arena has a capacity of up to 25,000 people.", "Construction was completed in only eight months.", "The facade is illuminated by thousands of LED panels.", "The total area of the complex is over 30,000 square meters.", "It has hosted concerts by artists like Jennifer Lopez, Shakira, and Rihanna.", "It also serves as a venue for major sporting events like volleyball and boxing.", "The architectural firm behind the project was GMP Architekten from Germany."]
-    }
-  },
+    }, image: "/poi-images/baku-crystal-hall-landmarks-v2.webp"},
   {
     id: "azerbaijan-carpet-museum-landmarks-v2",
     type: "icon",
@@ -467,8 +450,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["A múzeum épülete híresen egy feltekert szőnyeg alakú.", "A világ legnagyobb azerbajdzsáni szőnyeggyűjteményének ad otthont.", "Az új épületet az osztrák építész, Franz Janz tervezte és 2014-ben nyitották meg.", "Az azerbajdzsáni szőnyegszövés 2010-ben felkerült az UNESCO Szellemi Kulturális Örökség listájára.", "A gyűjtemény több mint 10 000 tárgyat tartalmaz, köztük kerámiákat, fémmunkákat és ékszereket.", "A múzeumot először 1967-ben alapították.", "Különböző regionális szőnyegszövő iskolákat mutat be.", "A kiállítási tárgyak a bronzkortól a modern korig terjednek."],
       ro: ["Clădirea muzeului este faimoasă pentru forma sa de covor rulat.", "Găzduiește cea mai mare colecție de covoare azere din lume.", "Noua clădire a fost proiectată de arhitectul austriac Franz Janz și deschisă în 2014.", "Țesutul covoarelor din Azerbaidjan a fost adăugat pe Lista Patrimoniului Cultural Imaterial UNESCO în 2010.", "Colecția include peste 10.000 de articole, inclusiv ceramică, lucrări metalice și bijuterii.", "Muzeul a fost înființat pentru prima dată în 1967.", "Demonstrează diferite școli regionale de țesut de covoare.", "Exponatele acoperă perioada de la epoca bronzului până în epoca modernă."],
       en: ["The museum building is famously shaped like a rolled carpet.", "It houses the largest collection of Azerbaijani carpets in the world.", "The new building was designed by Austrian architect Franz Janz and opened in 2014.", "Azerbaijani carpet weaving was added to the UNESCO Intangible Cultural Heritage List in 2010.", "The collection includes over 10,000 items, including ceramics, metalwork, and jewelry.", "The museum was first established in 1967.", "It demonstrates different regional schools of carpet weaving.", "The exhibits span from the Bronze Age to the modern era."]
-    }
-  },
+    }, image: "/poi-images/azerbaijan-carpet-museum-landmarks-v2.webp"},
   {
     id: "shaki-caravanserai-landmarks-v2",
     type: "monument",
@@ -493,8 +475,7 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       hu: ["Két fő karavánszeráj található Şəkiben: Felső és Alsó.", "A 18. században épültek, hogy a Selyemút kereskedőit szolgálják.", "A komplexumok egy nagy központi udvar köré épültek.", "Menedéket nyújtottak a kereskedőknek, árujuknak és állataiknak.", "Az Alsó Karavánszerájt szállodává alakították át.", "Az Alsó Karavánszeráj teljes területe mintegy 8000 négyzetméter.", "Magas boltívekkel és tágas szobákkal rendelkeznek.", "Ezek az építmények a középkori azerbajdzsáni polgári építészet kiváló példái."],
       ro: ["Există două caravanseraiuri principale în Șaki: cel de Sus și cel de Jos.", "Au fost construite în secolul al XVIII-lea pentru a servi comercianților de pe Drumul Mătăsii.", "Complexele sunt construite în jurul unei curți centrale mari.", "Au oferit adăpost pentru negustori, bunurile și animalele lor.", "Caravanseraiul de Jos a fost transformat în hotel.", "Suprafața totală a Caravanseraiului de Jos este de aproximativ 8000 de metri pătrați.", "Acestea prezintă arcade înalte și camere spațioase.", "Aceste structuri sunt exemple de primă clasă ale arhitecturii civile medievale azere."],
       en: ["There are two main caravanserais in Shaki: Upper and Lower.", "They were built in the 18th century to serve Silk Road traders.", "The complexes are built around a large central courtyard.", "They provided shelter for merchants, their goods, and their animals.", "The Lower Caravanserai has been converted into a hotel.", "The total area of the Lower Caravanserai is about 8000 square meters.", "They feature high arches and spacious rooms.", "These structures are prime examples of medieval Azerbaijani civil architecture."]
-    }
-  },
+    }, image: "/poi-images/shaki-caravanserai-landmarks-v2.webp"},
   {
     id: "lahij-village-landmarks-v2",
     type: "tourist-attraction",

@@ -38,8 +38,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "Accessible only by traditional longboats.",
         "Home to rare hornbill species."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-ulu-temburong-national-park-nature-v2.webp"},
   {
     id: "bn-tasek-merimbun-nature-v2",
     type: "lake",
@@ -77,8 +76,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "The area is rich in carnivorous pitcher plants.",
         "Provides habitat for numerous rare bird species."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-tasek-merimbun-nature-v2.webp"},
   {
     id: "bn-bukit-patoi-forest-recreation-park-nature-v2",
     type: "forest",
@@ -116,8 +114,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "A wooden boardwalk crosses the steeper sections.",
         "Starting point for the Peradayan Forest Reserve."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-bukit-patoi-forest-recreation-park-nature-v2.webp"},
   {
     id: "bn-belait-river-nature-v2",
     type: "river",
@@ -155,8 +152,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "Its water is dark-colored due to peat.",
         "Important habitat for crocodiles and proboscis monkeys."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-belait-river-nature-v2.webp"},
   {
     id: "bn-brunei-river-nature-v2",
     type: "river",
@@ -194,8 +190,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "Mangrove swamps are found along the banks.",
         "Proboscis monkeys are often seen in the early morning hours."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-brunei-river-nature-v2.webp"},
   {
     id: "bn-bukit-shahbandar-nature-v2",
     type: "forest",
@@ -233,8 +228,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "A popular training spot for trail runners.",
         "Offers a panoramic view of the South China Sea."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-bukit-shahbandar-nature-v2.webp"},
   {
     id: "bn-luagan-lalak-nature-v2",
     type: "lake",
@@ -272,8 +266,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "It is a popular spot for sunset photography.",
         "The area is characterized by Lepironia sedge."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-luagan-lalak-nature-v2.webp"},
   {
     id: "bn-andulau-forest-reserve-nature-v2",
     type: "forest",
@@ -311,8 +304,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "An important area for forestry research.",
         "The terrain is often sandy, resulting in a unique flora."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-andulau-forest-reserve-nature-v2.webp"},
   {
     id: "bn-sungai-liang-forest-park-nature-v2",
     type: "forest",
@@ -350,8 +342,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "Many trees in the park are labeled with their names.",
         "The trails are family-friendly and easy to walk."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-sungai-liang-forest-park-nature-v2.webp"},
   {
     id: "bn-peradayan-forest-reserve-nature-v2",
     type: "forest",
@@ -428,8 +419,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "It is one of the best areas for butterfly watching.",
         "The mountain offers a breathtaking view over the peat bogs."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-bukit-teraja-nature-v2.webp"},
   {
     id: "bn-temburong-river-nature-v2",
     type: "river",
@@ -506,8 +496,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "The water provides sand for the local construction industry.",
         "Crocodile sightings are possible in the lower river sections."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-tutong-river-nature-v2.webp"},
   {
     id: "bn-bukit-ladan-forest-reserve-nature-v2",
     type: "forest",
@@ -545,8 +534,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "A retreat for endangered plant species.",
         "A portion of the reserve is used for forestry studies."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-bukit-ladan-forest-reserve-nature-v2.webp"},
   {
     id: "bn-wasai-kandal-nature-v2",
     type: "forest",
@@ -584,8 +572,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "Well-marked trails lead to the various pools.",
         "Many wild orchids bloom in the dense undergrowth."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-wasai-kandal-nature-v2.webp"},
   {
     id: "bn-bukit-pagon-nature-v2",
     type: "mountain",
@@ -623,8 +610,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "Climbing it is a demanding multi-day expedition.",
         "The mountain is often shrouded in thick clouds."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-bukit-pagon-nature-v2.webp"},
   {
     id: "bn-bukit-retak-nature-v2",
     type: "mountain",
@@ -662,8 +648,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "Researchers frequently discover new insect species here.",
         "Numerous rare rhododendron species bloom here."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-bukit-retak-nature-v2.webp"},
   {
     id: "bn-berakas-forest-park-nature-v2",
     type: "forest",
@@ -701,8 +686,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "The park was previously severely affected by forest fires.",
         "A wooden observation tower offers a view of the sea."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-berakas-forest-park-nature-v2.webp"},
   {
     id: "bn-selirong-island-forest-reserve-nature-v2",
     type: "forest",
@@ -740,8 +724,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
         "Giant mudskippers and crabs live here.",
         "An important breeding area for many migratory birds."
       ]
-    }
-  },
+    }, image: "/poi-images/bn-selirong-island-forest-reserve-nature-v2.webp"},
   {
     id: "bn-labi-forest-reserve-nature-v2",
     type: "forest",

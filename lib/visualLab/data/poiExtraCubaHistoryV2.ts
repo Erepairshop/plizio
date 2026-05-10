@@ -40,14 +40,14 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-82.3486, 23.1467],
     name: { de: "Fortaleza de la Cabaña", hu: "Fortaleza de la Cabaña erőd", ro: "Fortaleza de la Cabaña", en: "Fortaleza de la Cabaña" },
     description: {
-      de: "Große Festung aus dem 18. Jahrhundert östlich der Hafeneinfahrt.",
-      hu: "Nagy 18. századi erődítmény a kikötő bejáratától keletre.",
+      de: "Die Fortaleza de la Cabaña ist eine große Festung aus dem 18. Jahrhundert am Eingang der Bucht von Havanna. Sie gehört zu den bekanntesten Verteidigungsanlagen der Stadt.",
+      hu: "Havanna híres 18. századi erődítménye a kikötő bejáratánál.",
       ro: "Fortăreață mare din secolul al XVIII-lea la est de intrarea în port.",
       en: "Large 18th-century fortress east of the harbor entrance."
     },
     facts: {
-      de: ["Erbaut ab 1763", "Diente als Gefängnis", "Teil des militärischen Verteidigungssystems", "Tägliche Zeremonien"],
-      hu: ["1763-tól épült", "Börtönként szolgált", "A védelmi rendszer része", "Napi szertartások"],
+      de: ["Erbaut ab 1763", "Am Eingang der Bucht von Havanna", "Teil des kolonialen Verteidigungssystems"],
+      hu: ["1763 után épült", "Havanna-öböl mellett", "Korábbi börtön"],
       ro: ["Construită din 1763", "A servit drept închisoare", "Parte a sistemului de apărare", "Ceremonii zilnice"],
       en: ["Construction started in 1763", "Used as a prison after the revolution", "Part of the city's colonial defense system", "Hosts evening cannon ceremonies"]
     }, image: "/poi-images/fortaleza-cabana-history-v2.webp",
@@ -164,16 +164,16 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-75.828, 20.021],
     name: { de: "Haus von Diego Velázquez", hu: "Diego Velázquez háza", ro: "Casa lui Diego Velázquez", en: "Diego Velázquez House" },
     description: {
-      de: "Das älteste Haus Kubas in Santiago, einst Wohnsitz des Gouverneurs.",
-      hu: "Kuba legrégebbi háza Santiago de Cubában, a kormányzó egykori otthona.",
-      ro: "Cea mai veche casă din Cuba în Santiago, fosta reședință a guvernatorului.",
-      en: "The oldest house in Cuba, located in Santiago de Cuba."
+      de: "Das Haus von Diego Velázquez in Santiago de Cuba gilt als eine der ältesten kolonialen Residenzen der Insel. Heute dient es als Museum und zeigt frühe Stadtgeschichte.",
+      hu: "Santiago de Cuba legrégebbi fennmaradt háza, egykori gyarmati rezidencia.",
+      ro: "Cea mai veche casă din Cuba, aflată în Santiago de Cuba. A fost reședința guvernatorului și funcționează astăzi ca muzeu.",
+      en: "One of the oldest colonial houses in Cuba, now a museum in Santiago de Cuba."
     },
     facts: {
-      de: ["Gegründet um 1515", "Älteste koloniale Residenz", "Heute Museum", "Mudejar-Stil"],
-      hu: ["1515 körül alapították", "A legrégebbi gyarmati rezidencia", "Ma múzeum", "Mudejar stílus"],
-      ro: ["Fondată în jurul anului 1515", "Cea mai veche reședință colonială", "Astăzi muzeu", "Stil Mudejar"],
-      en: ["Built around 1515", "The oldest colonial residence in Cuba", "Now a museum", "Unique Mudejar architectural style"]
+      de: ["Um 1515 erbaut", "Älteste Kolonialresidenz Kubas", "Heute Museum"],
+      hu: ["1515 körül épült", "Santiago de Cuba", "Ma múzeum"],
+      ro: ["fondată în jurul lui 1515", "cea mai veche reședință colonială", "astăzi muzeu", "stil mudejar"],
+      en: ["Built around 1515", "Old colonial residence", "Now a museum"]
     }, image: "/poi-images/casa-diego-velazquez-history-v2.webp",
     descriptionAdvanced: {
       de: "Das älteste Haus Kubas in Santiago, einst Wohnsitz des Gouverneurs. Gegründet um 1515. Älteste koloniale Residenz. Heute Museum. Mudejar-Stil. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden.",
@@ -197,13 +197,13 @@ export const poiExtraCubaHistoryV2: POI[] = [
     description: {
       de: "Ort des Angriffs von 1953, der die Revolution auslöste.",
       hu: "Az 1953-as támadás helyszíne, amely elindította a forradalmat.",
-      ro: "Locul atacului din 1953 care a declanșat revoluția.",
+      ro: "Cazarma Moncada din Santiago de Cuba este locul atacului din 1953 care a declanșat Revoluția Cubaneză. Clădirea are astăzi valoare simbolică și muzeală.",
       en: "Site of the 1953 attack that triggered the Cuban Revolution."
     },
     facts: {
       de: ["Angriff 1953 durch Castro", "Heute Schule und Museum", "Symbolischer Ort", "Historische Einschusslöcher"],
       hu: ["Castro támadása 1953-ban", "Ma iskola és múzeum", "Szimbolikus hely", "Történelmi golyónyomok"],
-      ro: ["Atacul lui Castro din 1953", "Astăzi școală și muzeu", "Loc simbolic", "Urme istorice de gloanțe"],
+      ro: ["atacul din 1953", "loc simbolic", "astăzi școală și muzeu", "urme istorice de gloanțe"],
       en: ["Castro's 1953 attack occurred here", "Currently functions as a school and museum", "Symbolic site of the revolution", "Historical bullet holes still visible"]
     }, image: "/poi-images/moncada-barracks-history-v2.webp",
     descriptionAdvanced: {
@@ -226,14 +226,14 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-75.84, 19.97],
     name: { de: "Leuchtturm von Santiago", hu: "Santiago-i világítótorony", ro: "Farul din Santiago", en: "Santiago Lighthouse" },
     description: {
-      de: "Historischer Leuchtturm an der Festung Castillo de San Pedro.",
-      hu: "Történelmi világítótorony a Castillo de San Pedro erődnél.",
+      de: "Der Leuchtturm am Morro von Santiago de Cuba markiert die Einfahrt zur Bucht. Er ist Teil des historischen Festungskomplexes an der Küste.",
+      hu: "Santiago de Cuba történelmi világítótornya a kikötő védelmi rendszerében.",
       ro: "Far istoric la fortăreața Castillo de San Pedro.",
       en: "Historic lighthouse at Castillo de San Pedro fortress."
     },
     facts: {
-      de: ["Teil des Festungskomplexes", "Navigationshilfe", "Koloniale Ära", "UNESCO-geschützt"],
-      hu: ["Az erődrendszer része", "Navigációs segédeszköz", "Gyarmati korszak", "UNESCO-védelem"],
+      de: ["An der Bucht von Santiago", "Teil des Castillo de San Pedro", "Historische Navigationshilfe"],
+      hu: ["A kikötő bejáratánál", "A Morro-erődhöz kötődik", "Tengerészeti jelzőpont"],
       ro: ["Parte a complexului fortificat", "Ajutor de navigație", "Epoca colonială", "Protejat UNESCO"],
       en: ["Part of the fortification complex", "Historic navigation aid", "Colonial era structure", "UNESCO-protected"]
     }, image: "/poi-images/faro-morro-santiago-history-v2.webp",
@@ -320,13 +320,13 @@ export const poiExtraCubaHistoryV2: POI[] = [
     name: { de: "Festung von Cojímar", hu: "Cojímar erődje", ro: "Fortăreața din Cojímar", en: "Fortress of Cojímar" },
     description: {
       de: "Kleine Festung in der Nähe von Havanna, oft mit Hemingway verbunden.",
-      hu: "Kis erőd Havanna közelében, gyakran kötik Hemingway-hez.",
+      hu: "Kis parti erőd Havanna közelében, a tengerparti védelem részeként ismert.",
       ro: "Mică fortăreață lângă Havana, des asociată cu Hemingway.",
       en: "Small fortress near Havana, often associated with Ernest Hemingway."
     },
     facts: {
       de: ["Küstenverteidigung", "Verbindung zu 'Der alte Mann und das Meer'", "Koloniale Architektur", "Historischer Standort"],
-      hu: ["Parti védelem", "Kapcsolat 'Az öreg halász és a tenger'-hez", "Gyarmati építészet", "Történelmi helyszín"],
+      hu: ["Havanna közelében", "Parti védelem", "Hemingwayhez kapcsolódik"],
       ro: ["Apărarea coastei", "Legătură cu 'Bătrânul și marea'", "Arhitectură colonială", "Locație istorică"],
       en: ["Coastal defense structure", "Connected to Hemingway's 'Old Man and the Sea'", "Colonial era design", "Historic coastal location"]
     }, image: "/poi-images/fuerte-cojimar-history-v2.webp",
@@ -350,15 +350,15 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-82.35, 23.13],
     name: { de: "Geburtshaus von José Martí", hu: "José Martí szülőháza", ro: "Casa natală a lui José Martí", en: "José Martí Birthplace" },
     description: {
-      de: "Geburtshaus des Nationalhelden Kubas in Havanna.",
+      de: "Das Geburtshaus von José Martí in Havanna erinnert an den Nationalhelden Kubas. Das Museum zeigt sein frühes Leben und seinen politischen Hintergrund.",
       hu: "Kuba nemzeti hősének szülőháza Havannában.",
-      ro: "Casa natală a eroului național al Cubei în Havana.",
+      ro: "Casa natală a lui José Martí din Havana comemorează eroul național al Cubei. Muzeul prezintă viața sa timpurie și contextul istoric.",
       en: "Birthplace of Cuba's national hero in Havana."
     },
     facts: {
-      de: ["Museum für Martí", "19. Jahrhundert Architektur", "Nationaldenkmal", "Besuchsort"],
+      de: ["Geburtsort von José Martí", "Museum in Havanna", "Widmet sich dem Nationalhelden"],
       hu: ["Múzeum Martí számára", "19. századi építészet", "Nemzeti emlékhely", "Látogatott hely"],
-      ro: ["Muzeu pentru Martí", "Arhitectură din secolul al XIX-lea", "Monument național", "Loc vizitat"],
+      ro: ["muzeu dedicat lui Martí", "arhitectură din secolul al XIX-lea", "monument național", "loc vizitat"],
       en: ["Museum dedicated to Martí", "19th-century architecture", "National Monument", "Popular historical site"]
     }, image: "/poi-images/casa-natal-marti-history-v2.webp",
     descriptionAdvanced: {
@@ -381,15 +381,15 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-81.57, 23.04],
     name: { de: "Museo Farmacéutico", hu: "Gyógyszerészeti Múzeum", ro: "Muzeul Farmaceutic", en: "Pharmaceutical Museum" },
     description: {
-      de: "Historische Apotheke in Matanzas, eine der ältesten in Lateinamerika.",
+      de: "Die historische Apotheke in Matanzas zählt zu den bekanntesten Apothekenmuseen Lateinamerikas. Ihre Originaleinrichtung vermittelt einen seltenen Blick auf das 19. Jahrhundert.",
       hu: "Történelmi gyógyszertár Matanzasban, az egyik legrégebbi Latin-Amerikában.",
-      ro: "Farmacie istorică în Matanzas, una dintre cele mai vechi din America Latină.",
+      ro: "Farmacie istorică din Matanzas, una dintre cele mai vechi din America Latină. Interiorul păstrează mobilierul și atmosfera originală.",
       en: "Historic pharmacy in Matanzas, one of the oldest in Latin America."
     },
     facts: {
-      de: ["Gegründet 1882", "Umfangreiche Sammlung", "Historische Einrichtung", "Einzigartiges Erbe"],
+      de: ["In Matanzas", "Gegründet 1882", "Originalmöbel und Gefäße"],
       hu: ["1882-ben alapították", "Kiterjedt gyűjtemény", "Történelmi berendezés", "Egyedülálló örökség"],
-      ro: ["Fondată în 1882", "Colecție vastă", "Mobilier istoric", "Moștenire unică"],
+      ro: ["fondată în 1882", "colecție vastă", "mobilier istoric", "moștenire unică"],
       en: ["Founded in 1882", "Extensive collection of jars", "Original historic furniture", "Unique heritage site"]
     }, image: "/poi-images/museo-farmacia-history-v2.webp",
     descriptionAdvanced: {
@@ -412,15 +412,15 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-79.55, 22.48],
     name: { de: "Historisches Remedios", hu: "Történelmi Remedios", ro: "Remedios istoric", en: "Historic Remedios" },
     description: {
-      de: "Eine der ältesten Städte Kubas mit gut erhaltenem Zentrum.",
+      de: "Remedios gehört zu den ältesten Städten Kubas und ist für sein gut erhaltenes koloniales Zentrum bekannt. Die Stadt ist auch mit dem Fest Las Parrandas verbunden.",
       hu: "Kuba egyik legrégebbi városa, jól megőrzött központtal.",
-      ro: "Unul dintre cele mai vechi orașe din Cuba, cu un centru bine conservat.",
+      ro: "Una dintre cele mai vechi localități din Cuba, Remedios are un centru colonial bine păstrat. Orașul este legat și de festivalul Las Parrandas.",
       en: "One of Cuba's oldest towns with a well-preserved historic center."
     },
     facts: {
-      de: ["Gegründet 1513", "Koloniale Architektur", "Traditionelle Feste", "Historischer Ort"],
+      de: ["Gegründet 1513", "Bekannt für Las Parrandas", "Gut erhaltenes Kolonialzentrum"],
       hu: ["1513-ban alapították", "Gyarmati építészet", "Hagyományos ünnepségek", "Történelmi hely"],
-      ro: ["Fondat în 1513", "Arhitectură colonială", "Sărbători tradiționale", "Loc istoric"],
+      ro: ["fondat în 1513", "arhitectură colonială", "sărbători tradiționale", "loc istoric"],
       en: ["Founded in 1513", "Colonial era architecture", "Famous for Las Parrandas festival", "Important historic town"]
     }, image: "/poi-images/fuerte-remedios-history-v2.webp",
     descriptionAdvanced: {
@@ -443,16 +443,16 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-79.46, 22.51],
     name: { de: "Museo de Caibarién", hu: "Caibariéni Múzeum", ro: "Muzeul din Caibarién", en: "Caibarién Museum" },
     description: {
-      de: "Museum in der Küstenstadt Caibarién mit lokaler Geschichte.",
-      hu: "Múzeum Caibarién tengerparti városában, helytörténeti gyűjteménnyel.",
+      de: "Das Museum in Caibarién zeigt die Geschichte der Küstenstadt mit Fokus auf Hafenleben und Fischerei. Es ist ein wichtiger Ort für das lokale Gedächtnis.",
+      hu: "Caibarién tengerparti múzeuma a város helytörténetét és halászati múltját mutatja be.",
       ro: "Muzeu în orașul de coastă Caibarién cu istorie locală.",
-      en: "Museum in the coastal town of Caibarién featuring local history."
+      en: "A local history museum in the coastal town of Caibarien."
     },
     facts: {
-      de: ["Küstengeschichte", "Lokales Erbe", "Fischerei-Tradition", "Kulturelles Zentrum"],
-      hu: ["Partmenti történelem", "Helyi örökség", "Halászati hagyomány", "Kulturális központ"],
+      de: ["In Caibarién", "Bezug zu Fischerei und Hafen", "Lokales Geschichtsmuseum"],
+      hu: ["Caibarién városa", "Partmenti történelem", "Halászati hagyomány"],
       ro: ["Istoria coastei", "Moștenire locală", "Tradiție pescărească", "Centru cultural"],
-      en: ["Coastal history", "Local heritage", "Fishing tradition focus", "Cultural center"]
+      en: ["Coastal heritage", "Fishing tradition", "Local history"]
     }, image: "/poi-images/museo-caibarien-history-v2.webp",
     descriptionAdvanced: {
       de: "Museum in der Küstenstadt Caibarién mit lokaler Geschichte. Küstengeschichte. Lokales Erbe. Fischerei-Tradition. Kulturelles Zentrum. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -474,16 +474,16 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-77.91, 21.38],
     name: { de: "Casa del Patrimonio", hu: "Örökség Háza (Camagüey)", ro: "Casa Patrimoniului (Camagüey)", en: "Heritage House (Camagüey)" },
     description: {
-      de: "Museum in Camagüey zur Bewahrung des städtischen Erbes.",
-      hu: "Múzeum Camagüeyben a városi örökség megőrzésére.",
+      de: "Das Haus in Camagüey bewahrt das städtische Erbe der Altstadt. Es gibt einen kompakten Überblick über die koloniale Architektur der Region.",
+      hu: "Camagüey örökségi háza a belvárosi épített örökség megőrzésére szolgál.",
       ro: "Muzeu în Camagüey pentru păstrarea moștenirii urbane.",
-      en: "Museum in Camagüey dedicated to preserving urban heritage."
+      en: "A museum in Camaguey focused on urban heritage and colonial architecture."
     },
     facts: {
-      de: ["Stadtgeschichte", "Denkmalschutz", "Architektonisches Erbe", "Kulturelles Wissen"],
-      hu: ["Várostörténet", "Műemlékvédelem", "Építészeti örökség", "Kulturális tudás"],
+      de: ["In Camagüey", "Bewahrt städtisches Erbe", "Bezug zur Kolonialarchitektur"],
+      hu: ["Camagüey városa", "Városi örökség", "Koloniális építészet"],
       ro: ["Istoria orașului", "Conservarea monumentelor", "Moștenire arhitecturală", "Cunoștințe culturale"],
-      en: ["City history", "Monuments protection", "Architectural heritage", "Cultural insight"]
+      en: ["Camaguey city", "Historic center", "Colonial heritage"]
     }, image: "/poi-images/casa-camaguey-history-v2.webp",
     descriptionAdvanced: {
       de: "Museum in Camagüey zur Bewahrung des städtischen Erbes. Stadtgeschichte. Denkmalschutz. Architektonisches Erbe. Kulturelles Wissen. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -508,13 +508,13 @@ export const poiExtraCubaHistoryV2: POI[] = [
       de: "UNESCO-Welterbe-Region mit Ruinen alter Zuckermühlen.",
       hu: "UNESCO Világörökségi régió, régi cukormalmok romjaival.",
       ro: "Regiune în Patrimoniul Mondial UNESCO, cu ruine ale vechilor mori de zahăr.",
-      en: "UNESCO World Heritage region featuring ruins of old sugar mills."
+      en: "UNESCO-listed ruins of old sugar mills in the Valle de los Ingenios."
     },
     facts: {
       de: ["Zucker-Geschichte", "Sklavenarbeit-Erinnerung", "Turm von Manaca Iznaga", "Landwirtschaftliches Erbe"],
       hu: ["Cukor-történelem", "Rabszolgamunka emlékezete", "Manaca Iznaga torony", "Mezőgazdasági örökség"],
       ro: ["Istoria zahărului", "Memoria muncii sclavilor", "Turnul Manaca Iznaga", "Moștenire agricolă"],
-      en: ["Sugar history", "Slavery memory", "Manaca Iznaga tower", "Agricultural heritage"]
+      en: ["Sugar history", "Colonial economy", "UNESCO site"]
     }, image: "/poi-images/ruinas-ingenios-history-v2.webp",
     descriptionAdvanced: {
       de: "UNESCO-Welterbe-Region mit Ruinen alter Zuckermühlen. Zucker-Geschichte. Sklavenarbeit-Erinnerung. Turm von Manaca Iznaga. Landwirtschaftliches Erbe. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -536,16 +536,16 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-81.57, 23.05],
     name: { de: "Castillo de San Severino", hu: "San Severino-vár", ro: "Castelul San Severino", en: "Castillo de San Severino" },
     description: {
-      de: "Festung in Matanzas zum Schutz vor Angriffen.",
-      hu: "Erődítmény Matanzasban, támadások elleni védelemre.",
-      ro: "Fortăreață în Matanzas pentru protecția împotriva atacurilor.",
-      en: "Fortress in Matanzas built for coastal defense."
+      de: "Das Castillo de San Severino in Matanzas ist eine Festung aus der Kolonialzeit. Heute erinnert der Ort an die militärische Verteidigung der Hafenstadt.",
+      hu: "A castillói erőd Matanzas gyarmati védelmi rendszerének része volt.",
+      ro: "Fortăreața San Severino din Matanzas a fost construită pentru apărarea coastei. Astăzi funcționează ca muzeu al istoriei locale.",
+      en: "A colonial fortress in Matanzas built for coastal defense."
     },
     facts: {
-      de: ["Erbaut im 18. Jahrhundert", "Koloniale Verteidigung", "Museum", "Historisches Mauerwerk"],
-      hu: ["A 18. században épült", "Gyarmati védelem", "Múzeum", "Történelmi falazat"],
-      ro: ["Construit în secolul al XVIII-lea", "Apărare colonială", "Muzeu", "Zidărie istorică"],
-      en: ["Built in the 18th century", "Colonial defense", "Museum", "Historic stone masonry"]
+      de: ["In Matanzas", "Bau im 18. Jahrhundert", "Teil der Kolonialverteidigung"],
+      hu: ["Matanzas városa", "18. századi erőd", "Parti védelem"],
+      ro: ["construit în secolul al XVIII-lea", "apărare colonială", "muzeu", "zidărie istorică"],
+      en: ["Matanzas", "18th century", "Defense fort"]
     }, image: "/poi-images/castillo-severo-history-v2.webp",
     descriptionAdvanced: {
       de: "Festung in Matanzas zum Schutz vor Angriffen. Erbaut im 18. Jahrhundert. Koloniale Verteidigung. Museum. Historisches Mauerwerk. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -567,16 +567,16 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-77.06, 20.38],
     name: { de: "Iglesia Mayor de Bayamo", hu: "Bayamo főtemploma", ro: "Biserica Mare din Bayamo", en: "Major Church of Bayamo" },
     description: {
-      de: "Historische Kirche in Bayamo, der zweitältesten Stadt Kubas.",
+      de: "Die Iglesia Mayor de Bayamo ist eine historische Kirche im Zentrum der Stadt. Sie gehört zu den wichtigen Zeugnissen der kolonialen Vergangenheit Bayamos.",
       hu: "Történelmi templom Bayamóban, Kuba második legrégebbi városában.",
-      ro: "Biserică istorică în Bayamo, al doilea cel mai vechi oraș din Cuba.",
-      en: "Historic church in Bayamo, Cuba's second oldest city."
+      ro: "Biserica Mare din Bayamo este un reper istoric și religios al orașului. Face parte din nucleul colonial bine cunoscut al localității.",
+      en: "A historic church in Bayamo and a key part of the old colonial center."
     },
     facts: {
-      de: ["Historischer Ort", "Koloniale Ära", "Religiöses Zentrum", "Architektonisches Symbol"],
+      de: ["In Bayamo", "Historische Pfarrkirche", "Kolonialer Stadtkern"],
       hu: ["Történelmi hely", "Gyarmati korszak", "Vallási központ", "Építészeti jelkép"],
-      ro: ["Loc istoric", "Epoca colonială", "Centru religios", "Simbol arhitectural"],
-      en: ["Historic site", "Colonial era", "Religious center", "Architectural icon"]
+      ro: ["loc istoric", "epoca colonială", "centru religios", "simbol arhitectural"],
+      en: ["Bayamo", "Historic church", "Colonial core"]
     }, image: "/poi-images/iglesia-mayor-history-v2.webp",
     descriptionAdvanced: {
       de: "Historische Kirche in Bayamo, der zweitältesten Stadt Kubas. Historischer Ort. Koloniale Ära. Religiöses Zentrum. Architektonisches Symbol. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -598,15 +598,15 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-81.0, 22.2],
     name: { de: "Museo de la Comandancia", hu: "Parancsnoksági Múzeum", ro: "Muzeul Comandamentului", en: "Command Museum" },
     description: {
-      de: "Museum an der Schweinebucht über den historischen Kommandopunkt.",
-      hu: "Múzeum a Disznó-öbölnél a történelmi parancsnoki pontról.",
-      ro: "Muzeu la Golful Porcilor despre punctul istoric de comandă.",
+      de: "Das Museum in der Schweinebucht erinnert an den historischen Kommandoposten der Invasion von 1961. Der Ort ist eng mit dem militärischen Verlauf der Operation verbunden.",
+      hu: "A Disznó-öbölnél álló múzeum az 1961-es invázió parancsnoki pontját idézi fel.",
+      ro: "Muzeu la Golful Porcilor care amintește punctul de comandă din timpul invaziei din 1961. Situl are o puternică încărcătură istorică și militară.",
       en: "Museum at the Bay of Pigs regarding the historic command point."
     },
     facts: {
-      de: ["Historischer Kommandopunkt", "Invasions-Geschichte", "Militär-Museum", "Wichtiger Ort"],
-      hu: ["Történelmi parancsnoki pont", "Invázió története", "Hadtörténeti múzeum", "Fontos hely"],
-      ro: ["Punct istoric de comandă", "Istoria invaziei", "Muzeu militar", "Loc important"],
+      de: ["In Playa Girón", "Zur Invasion von 1961", "Ehemaliger Kommandopunkt"],
+      hu: ["Playa Girón", "1961-es invázió", "Hadtörténeti múzeum"],
+      ro: ["punct istoric de comandă", "istoria invaziei", "muzeu militar", "loc important"],
       en: ["Historic command point", "Invasion history", "Military museum", "Crucial location"]
     }, image: "/poi-images/museo-bata-history-v2.webp",
     descriptionAdvanced: {
@@ -630,15 +630,15 @@ export const poiExtraCubaHistoryV2: POI[] = [
     name: { de: "Cueva del Indio", hu: "Indiai-barlang", ro: "Peștera Indianului", en: "Cave of the Indian" },
     description: {
       de: "Höhle in Viñales, einst von Ureinwohnern genutzt.",
-      hu: "Barlang Viñalesben, egykor őslakosok használták.",
-      ro: "Peșteră în Viñales, folosită cândva de indigeni.",
-      en: "Cave in Viñales once used by indigenous people."
+      hu: "A Viñalesben található Cueva del Indio természetes barlang, amelyet egykor az őslakosok használtak.",
+      ro: "Peștera Indianului din Viñales este o peșteră naturală folosită cândva de indigeni. Vizitatorii pot vedea și un râu subteran.",
+      en: "A limestone cave in Vinales with an underground river and indigenous history."
     },
     facts: {
       de: ["Ureinwohner-Geschichte", "Natürliche Höhle", "Unterirdischer Fluss", "Archäologischer Ort"],
-      hu: ["Őslakos történelem", "Természetes barlang", "Föld alatti folyó", "Régészeti hely"],
-      ro: ["Istoria indigenilor", "Peșteră naturală", "Râu subteran", "Loc arheologic"],
-      en: ["Indigenous history", "Natural cave", "Underground river boat trip", "Archaeological site"]
+      hu: ["Viñales völgye", "Természetes barlang", "Föld alatti folyó"],
+      ro: ["istoria indigenilor", "peșteră naturală", "râu subteran", "loc arheologic"],
+      en: ["Vinales", "Natural cave", "Underground river"]
     }, image: "/poi-images/cueva-indio-history-v2.webp",
     descriptionAdvanced: {
       de: "Höhle in Viñales, einst von Ureinwohnern genutzt. Ureinwohner-Geschichte. Natürliche Höhle. Unterirdischer Fluss. Archäologischer Ort. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -660,16 +660,16 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-80.45, 22.14],
     name: { de: "Teatro Tomás Terry", hu: "Teatro Tomás Terry", ro: "Teatrul Tomás Terry", en: "Tomás Terry Theater" },
     description: {
-      de: "Prächtiges historisches Opernhaus in Cienfuegos.",
-      hu: "Pompás történelmi operaház Cienfuegosban.",
-      ro: "Splendid teatru de operă istoric în Cienfuegos.",
-      en: "Magnificent historic opera house in Cienfuegos."
+      de: "Das Teatro Tomás Terry ist ein prächtiges Opernhaus in Cienfuegos. Es steht für die kulturelle Blüte der Stadt im späten 19. Jahrhundert.",
+      hu: "Cienfuegos ismert történelmi színháza, gazdag belső díszítéssel.",
+      ro: "Teatrul Tomás Terry din Cienfuegos este un vechi teatru de operă cu o arhitectură remarcabilă. Reprezintă una dintre reperele culturale ale orașului.",
+      en: "A 19th-century theater in Cienfuegos known for its ornate interior."
     },
     facts: {
-      de: ["Erbaut 1890", "Prächtiges Design", "Kulturelles Erbe", "Historische Bühne"],
-      hu: ["1890-ben épült", "Pompás formatervezés", "Kulturális örökség", "Történelmi színpad"],
-      ro: ["Construit în 1890", "Design splendid", "Moștenire culturală", "Scenă istorică"],
-      en: ["Built in 1890", "Magnificent design", "Cultural heritage", "Historic performance stage"]
+      de: ["Erbaut 1890", "Opernhaus in Cienfuegos", "Kulturelles Erbe"],
+      hu: ["1889-ben épült", "Cienfuegos kulturális jelképe", "Olasz freskós mennyezet"],
+      ro: ["construit în 1890", "design splendid", "moștenire culturală", "scenă istorică"],
+      en: ["Built in 1889", "Italian frescoes", "Cienfuegos landmark"]
     }, image: "/poi-images/teatro-tomas-terry-history-v2.webp",
     descriptionAdvanced: {
       de: "Prächtiges historisches Opernhaus in Cienfuegos. Erbaut 1890. Prächtiges Design. Kulturelles Erbe. Historische Bühne. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -691,13 +691,13 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-77.5, 20.9],
     name: { de: "Faro Roncador", hu: "Faro Roncador világítótorony", ro: "Farul Roncador", en: "Roncador Lighthouse" },
     description: {
-      de: "Historischer Leuchtturm entlang der Küste.",
+      de: "Der Faro Roncador ist ein historischer Leuchtturm an der kubanischen Küste. Er gehört zu den maritimen Zeugnissen der Kolonialzeit.",
       hu: "Történelmi világítótorony a part mentén.",
       ro: "Far istoric de-a lungul coastei.",
       en: "Historic lighthouse along the coastline."
     },
     facts: {
-      de: ["Navigationspunkt", "Kolonialer Bau", "Küsten-Erbe", "Historisches Denkmal"],
+      de: ["Küstenleuchtturm", "Koloniales Bauwerk", "Navigationspunkt"],
       hu: ["Navigációs pont", "Gyarmati építmény", "Part menti örökség", "Történelmi emlék"],
       ro: ["Punct de navigație", "Construcție colonială", "Moștenirea coastei", "Monument istoric"],
       en: ["Navigation point", "Colonial construction", "Coastal heritage", "Historic monument"]
@@ -722,15 +722,15 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-82.38, 23.12],
     name: { de: "Cementerio de Colón", hu: "Kolumbusz temető", ro: "Cimitirul Colon", en: "Colon Cemetery" },
     description: {
-      de: "Einer der historisch bedeutendsten Friedhöfe der Welt in Havanna.",
-      hu: "A világ egyik történelmileg legjelentősebb temetője Havannában.",
-      ro: "Unul dintre cele mai importante cimitire din punct de vedere istoric din lume, în Havana.",
+      de: "Der Cementerio de Colón in Havanna zählt zu den bekanntesten Friedhöfen Amerikas. Seine Grabarchitektur macht ihn zu einem wichtigen Kulturort.",
+      hu: "A havannai Colón temető Kuba legismertebb sírkertjei közé tartozik.",
+      ro: "Cimitirul Colón din Havana este unul dintre cele mai cunoscute cimitire istorice din lume. Monumentele funerare îl fac un loc cultural important.",
       en: "One of the most historically significant cemeteries in the world, in Havana."
     },
     facts: {
-      de: ["Gründung 1876", "Prächtige Grabmale", "Nationaldenkmal", "Kulturelle Stätte"],
-      hu: ["Alapítás 1876", "Pompás síremlékek", "Nemzeti emlékhely", "Kulturális helyszín"],
-      ro: ["Fondat în 1876", "Monumente funerare splendide", "Monument național", "Sit cultural"],
+      de: ["In Havanna", "Gegründet 1876", "Kubas Nationaldenkmal"],
+      hu: ["Havanna", "1876-ban alapították", "Nemzeti emlékhely"],
+      ro: ["fondat în 1876", "monumente funerare splendide", "monument național", "sit cultural"],
       en: ["Founded in 1876", "Stunning funerary monuments", "National Monument", "Cultural heritage site"]
     }, image: "/poi-images/cementerio-cristobal-colon-history-v2.webp",
     descriptionAdvanced: {
@@ -754,15 +754,15 @@ export const poiExtraCubaHistoryV2: POI[] = [
     name: { de: "Fortín de la Loma de la Cruz", hu: "Loma de la Cruz erődítmény", ro: "Fortăreața Loma de la Cruz", en: "Fortress of Loma de la Cruz" },
     description: {
       de: "Historische Anlage auf dem Hügel in Holguín.",
-      hu: "Történelmi erődítmény a dombon Holguínban.",
+      hu: "A holguíni Loma de la Cruz erődítménye városi jelkép és régi kilátópont.",
       ro: "Complex istoric pe dealul din Holguín.",
-      en: "Historic site on the hill in Holguin."
+      en: "A hilltop historic site in Holguin with local religious and city symbolism."
     },
     facts: {
       de: ["Historischer Aussichtspunkt", "Religiöse Bedeutung", "Stadt-Wahrzeichen", "Kolonialer Ursprung"],
-      hu: ["Történelmi kilátó", "Vallási jelentőség", "Városi jelkép", "Gyarmati eredet"],
+      hu: ["Holguín városa", "Dombi kilátó", "Gyarmati eredet"],
       ro: ["Punct de belvedere istoric", "Semnificație religioasă", "Simbol al orașului", "Origine colonială"],
-      en: ["Historic lookout point", "Religious significance", "City landmark", "Colonial origins"]
+      en: ["Holguin", "Hill lookout", "City landmark"]
     }, image: "/poi-images/fortin-loma-cruz-history-v2.webp",
     descriptionAdvanced: {
       de: "Historische Anlage auf dem Hügel in Holguín. Historischer Aussichtspunkt. Religiöse Bedeutung. Stadt-Wahrzeichen. Kolonialer Ursprung. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -784,16 +784,16 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-75.8, 20.02],
     name: { de: "Parque de los Mártires", hu: "Mártírok Parkja", ro: "Parcul Martirilor", en: "Martyrs Park" },
     description: {
-      de: "Gedenkstätte für die Gefallenen der Revolution.",
-      hu: "Emlékhely a forradalom elesettjeiért.",
-      ro: "Memorial pentru cei căzuți în revoluție.",
-      en: "Memorial site for those fallen in the revolution."
+      de: "Der Parque de los Mártires ist eine Gedenkstätte für die Gefallenen der Revolution. Der Ort verbindet Erinnerungskultur und Stadtgeschichte.",
+      hu: "A Mártírok Parkja a forradalom elesettjeinek szentelt emlékhely Santiago de Cubában.",
+      ro: "Parcul Martirilor din Santiago de Cuba este un memorial dedicat celor căzuți în revoluție. Spațiul are rol de comemorare și identitate urbană.",
+      en: "A memorial park in Santiago de Cuba dedicated to revolutionary martyrs."
     },
     facts: {
-      de: ["Revolutionäres Erbe", "Gedenkstätte", "Historischer Standort", "Kulturelles Zentrum"],
-      hu: ["Forradalmi örökség", "Emlékhely", "Történelmi helyszín", "Kulturális központ"],
-      ro: ["Moștenire revoluționară", "Memorial", "Locație istorică", "Centru cultural"],
-      en: ["Revolutionary legacy", "Memorial site", "Historic location", "Cultural center"]
+      de: ["In Santiago de Cuba", "Revolutionäres Memorial", "Historischer Erinnerungsort"],
+      hu: ["Santiago de Cuba", "Emlékpark", "Forradalmi emlékezet"],
+      ro: ["moștenire revoluționară", "memorial", "locație istorică", "centru cultural"],
+      en: ["Santiago de Cuba", "Memorial park", "Revolutionary memory"]
     }, image: "/poi-images/parque-martires-history-v2.webp",
     descriptionAdvanced: {
       de: "Gedenkstätte für die Gefallenen der Revolution. Revolutionäres Erbe. Gedenkstätte. Historischer Standort. Kulturelles Zentrum. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -815,16 +815,16 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-80.4, 22.0],
     name: { de: "Castillo de Jagua", hu: "Jagua-vár", ro: "Castelul Jagua", en: "Castillo de Jagua" },
     description: {
-      de: "Festung am Eingang der Bucht von Cienfuegos.",
+      de: "Die Fortaleza de Jagua bewacht die Einfahrt zur Bucht von Cienfuegos. Die Festung wurde im 18. Jahrhundert gegen Piratenangriffe errichtet.",
       hu: "Erődítmény a Cienfuegos-öböl bejáratánál.",
       ro: "Fortăreață la intrarea în Golful Cienfuegos.",
-      en: "Fortress guarding the entrance to the Bay of Cienfuegos."
+      en: "A colonial fortress at the entrance to the Bay of Cienfuegos."
     },
     facts: {
-      de: ["Gegründet 1745", "Schutz gegen Piraten", "Koloniale Architektur", "Historische Anlage"],
+      de: ["An der Bucht von Cienfuegos", "Gegründet 1745", "Schutz vor Piraten"],
       hu: ["1745-ben alapították", "Kalózok elleni védelem", "Gyarmati építészet", "Történelmi létesítmény"],
       ro: ["Fondat în 1745", "Protecție împotriva piraților", "Arhitectură colonială", "Complex istoric"],
-      en: ["Founded in 1745", "Protection against pirates", "Colonial architecture", "Historic site"]
+      en: ["Founded 1745", "Pirate defense", "Cienfuegos Bay"]
     }, image: "/poi-images/fortaleza-jagua-history-v2.webp",
     descriptionAdvanced: {
       de: "Festung am Eingang der Bucht von Cienfuegos. Gegründet 1745. Schutz gegen Piraten. Koloniale Architektur. Historische Anlage. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -846,14 +846,14 @@ export const poiExtraCubaHistoryV2: POI[] = [
     coords: [-75.82, 20.02],
     name: { de: "Antiguo Ayuntamiento", hu: "Antiguo Ayuntamiento", ro: "Antiguo Ayuntamiento", en: "Antiguo Ayuntamiento" },
     description: {
-      de: "Ehemaliges Rathaus in Santiago, historischer Regierungsort.",
-      hu: "Korábbi városháza Santiago de Cubában, történelmi kormányzati helyszín.",
+      de: "Das Antiguo Ayuntamiento war das ehemalige Rathaus von Santiago de Cuba. Das Gebäude steht für die koloniale Verwaltungsgeschichte der Stadt.",
+      hu: "Az egykori városháza Santiago de Cuba gyarmati közigazgatási múltját őrzi.",
       ro: "Fosta primărie din Santiago, loc istoric de guvernare.",
       en: "Former City Hall in Santiago, historic site of governance."
     },
     facts: {
-      de: ["Regierungssitz", "Kolonialzeit", "Historisches Gebäude", "Stadtverwaltung"],
-      hu: ["Kormányzati központ", "Gyarmati időszak", "Történelmi épület", "Városvezetés"],
+      de: ["Ehemaliges Rathaus", "In Santiago de Cuba", "Koloniales Verwaltungsgebäude"],
+      hu: ["Santiago de Cuba", "Volt városháza", "Gyarmati közigazgatás"],
       ro: ["Sediu guvernamental", "Perioada colonială", "Clădire istorică", "Administrație urbană"],
       en: ["Seat of government", "Colonial period", "Historic building", "City administration"]
     },

@@ -30,8 +30,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "It is 97 meters tall, symbolizing the year 1997.",
         "The top sphere contains a handprint of the first president."
       ]
-    }
-  },
+    }, image: "/poi-images/bayterek-tower-landmarks-v2.webp"},
   {
     id: "khan-shatyr-landmarks-v2",
     type: "landmark",
@@ -61,8 +60,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "It was designed by British architect Norman Foster.",
         "It even features an artificial beach with sand from the Maldives."
       ]
-    }
-  },
+    }, image: "/poi-images/khan-shatyr-landmarks-v2.webp"},
   {
     id: "khoja-ahmed-yasawi-landmarks-v2",
     type: "monument",
@@ -92,8 +90,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "It was commissioned by Timur (Tamerlane) in 1389.",
         "The building was declared a UNESCO World Heritage Site in 2003."
       ]
-    }
-  },
+    }, image: "/poi-images/khoja-ahmed-yasawi-landmarks-v2.webp"},
   {
     id: "medeu-rink-landmarks-v2",
     type: "tourist-attraction",
@@ -123,8 +120,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "The rink is situated at an elevation of nearly 1700 meters above sea level.",
         "Countless speed skating world records have been broken here."
       ]
-    }
-  },
+    }, image: "/poi-images/medeu-rink-landmarks-v2.webp"},
   {
     id: "ascension-cathedral-landmarks-v2",
     type: "monument",
@@ -154,8 +150,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "It was completed in 1907 and survived a massive earthquake in 1911.",
         "At over 50 meters, it is one of the tallest wooden buildings in the world."
       ]
-    }
-  },
+    }, image: "/poi-images/ascension-cathedral-landmarks-v2.webp"},
   {
     id: "kok-tobe-landmarks-v2",
     type: "tourist-attraction",
@@ -185,8 +180,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "The summit can be reached by a cable car that was modernized in 2006.",
         "The huge television tower on the mountain is visible from all over the city."
       ]
-    }
-  },
+    }, image: "/poi-images/kok-tobe-landmarks-v2.webp"},
   {
     id: "palace-of-peace-landmarks-v2",
     type: "landmark",
@@ -247,8 +241,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "It can accommodate up to 10,000 worshippers at the same time.",
         "The mosque features a massive 51-meter main dome and four minarets."
       ]
-    }
-  },
+    }, image: "/poi-images/hazret-sultan-mosque-landmarks-v2.webp"},
   {
     id: "independence-monument-almaty-landmarks-v2",
     type: "monument",
@@ -278,8 +271,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "The obelisk is 28 meters tall.",
         "It was inaugurated in 1996 to celebrate the fifth anniversary of independence."
       ]
-    }
-  },
+    }, image: "/poi-images/independence-monument-almaty-landmarks-v2.webp"},
   {
     id: "tamgaly-petroglyphs-landmarks-v2",
     type: "monument",
@@ -309,8 +301,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "Most of the carvings date back to the Bronze Age.",
         "The site was inscribed on the UNESCO World Heritage list in 2004."
       ]
-    }
-  },
+    }, image: "/poi-images/tamgaly-petroglyphs-landmarks-v2.webp"},
   {
     id: "arystan-bab-landmarks-v2",
     type: "monument",
@@ -340,8 +331,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "The original building dates back to the 12th century but has been rebuilt several times.",
         "Pilgrims often visit this mausoleum first before traveling on to Turkistan."
       ]
-    }
-  },
+    }, image: "/poi-images/arystan-bab-landmarks-v2.webp"},
   {
     id: "national-museum-kazakhstan-landmarks-v2",
     type: "tourist-attraction",
@@ -371,8 +361,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "It is the largest museum in all of Central Asia.",
         "Highlights include the Hall of Gold featuring artifacts from Scythian nomads."
       ]
-    }
-  },
+    }, image: "/poi-images/national-museum-kazakhstan-landmarks-v2.webp"},
   {
     id: "shymbulak-resort-landmarks-v2",
     type: "tourist-attraction",
@@ -402,8 +391,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "The ski resort is located at an altitude of 2200 meters.",
         "It hosted events for the 2011 Asian Winter Games."
       ]
-    }
-  },
+    }, image: "/poi-images/shymbulak-resort-landmarks-v2.webp"},
   {
     id: "aisha-bibi-landmarks-v2",
     type: "monument",
@@ -433,8 +421,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "Legend says it was built for a young bride who was bitten by a snake.",
         "The building is decorated with over 60 different patterns of terracotta."
       ]
-    }
-  },
+    }, image: "/poi-images/aisha-bibi-landmarks-v2.webp"},
   {
     id: "beket-ata-landmarks-v2",
     type: "landmark",
@@ -495,8 +482,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "The building was opened in 2013 on the initiative of the Kazakh president.",
         "The main hall can seat over 1,200 spectators."
       ]
-    }
-  },
+    }, image: "/poi-images/astana-opera-landmarks-v2.webp"},
   {
     id: "otrar-ruins-landmarks-v2",
     type: "monument",
@@ -526,8 +512,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "Otrar was the birthplace of the famous philosopher Al-Farabi.",
         "Excavations have uncovered bathhouses, mosques, and extensive fortifications."
       ]
-    }
-  },
+    }, image: "/poi-images/otrar-ruins-landmarks-v2.webp"},
   {
     id: "alzhir-memorial-landmarks-v2",
     type: "monument",
@@ -557,8 +542,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "ALZHIR was the largest Soviet women's camp of its kind.",
         "The museum complex features the Arch of Sorrow."
       ]
-    }
-  },
+    }, image: "/poi-images/alzhir-memorial-landmarks-v2.webp"},
   {
     id: "kazakh-eli-monument-landmarks-v2",
     type: "monument",
@@ -588,8 +572,7 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
         "The monument is 91 meters high, commemorating the year of independence, 1991.",
         "Atop the pillar sits the mythical golden bird Samruk."
       ]
-    }
-  },
+    }, image: "/poi-images/kazakh-eli-monument-landmarks-v2.webp"},
   {
     id: "central-mosque-almaty-landmarks-v2",
     type: "monument",

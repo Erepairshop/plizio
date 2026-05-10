@@ -1,0 +1,56 @@
+{
+  "lang": "de",
+  "country": "Chad",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChadNatureV2.ts",
+    "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rig-rig-cities-v2",
+      "description": "Rig-Rig ist eine Oasenstadt in Kanem im trockenen Norden des Tschad. Sie dient als lokales Zentrum für Handel und Kamelzucht.",
+      "facts": ["Oasenstadt in Kanem", "Lage im trockenen Norden", "Zentrum für Kamelzucht", "Lokaler Handelsort"]
+    },
+    {
+      "id": "lake-lere-nature-v2",
+      "description": "Der Léré-See ist ein flacher Süßwassersee im Südwesten des Tschad. Er ist für Fische, Vögel und die lokale Versorgung wichtig.",
+      "facts": ["Südwestlicher Süßwassersee", "Wichtig für den Fischfang", "Lebensraum für Vögel", "Teil des Mayo-Kebbi-Systems"]
+    },
+    {
+      "id": "abou-telfane-massif-relief-v2",
+      "description": "Das Abou-Telfane-Massiv ragt in der Guéra-Region deutlich über die Ebene. Es prägt das lokale Mikroklima und sammelt Wasser für die Umgebung.",
+      "facts": ["Massiv in der Guéra-Region", "Überragt die Ebene", "Prägt das Mikroklima", "Wichtige Wasserquelle"]
+    },
+    {
+      "id": "angamma-escarpment-relief-v2",
+      "description": "Die Angamma-Kante ist eine markante Geländestufe in der Borkou-Region. Sie trennt Landschaftsräume und zeigt die geologische Schichtung des Nordens.",
+      "facts": ["Geologische Geländestufe", "In der Borkou-Region", "Trennt Landschaftsräume", "Sichtbare Gesteinsschichten"]
+    },
+    {
+      "id": "djoli-hills-relief-v2",
+      "description": "Das Djoli-Hügelland liegt im Osten des Tschad und bildet einen sanften Übergang zur trockeneren Umgebung. Es ist wichtig als Weidegebiet für Hirten.",
+      "facts": ["Hügelland im Osten", "Übergang zur Sahelzone", "Wichtige Weideflächen", "Genutzt von Hirten"]
+    },
+    {
+      "id": "biltine-plateau-relief-v2",
+      "description": "Das Biltine-Plateau ist ein trockenes Hochland im Osten des Tschad. Nomadische Viehhalter nutzen die kargen Weideflächen.",
+      "facts": ["Trockenes Hochland", "Im Osten des Tschad", "Karge Weideflächen", "Nutzung durch Nomaden"]
+    },
+    {
+      "id": "tchigai-plateau-relief-v2",
+      "description": "Das Tchigai-Plateau liegt an der Nordgrenze des Tibesti und gehört zu den einsamsten Wüstenräumen des Landes. Fast ohne Vegetation zeigt es eine karge Steinlandschaft.",
+      "facts": ["Nordgrenze des Tibesti", "Sehr abgelegen", "Fast ohne Vegetation", "Karge Steinlandschaft"]
+    },
+    {
+      "id": "gere-massif-relief-v2",
+      "description": "Das Gere-Massiv ist ein Gebirgszug in der Guéra-Region mit markanten Granitfelsen. Es bietet Schutz für lokale Pflanzen und Tiere.",
+      "facts": ["Gebirgszug in Guéra", "Markante Granitfelsen", "Schutz für Arten", "Wichtiger Landschaftsanker"]
+    },
+    {
+      "id": "dougui-forest-relief-v2",
+      "description": "Der Dougui-Wald gehört zu den seltenen dichten Waldflächen im Süden des Tschad. Er schützt den Boden vor Erosion und bietet Lebensraum für tropische Arten.",
+      "facts": ["Seltener Wald im Süden", "Schützt vor Erosion", "Lebensraum für Tropenarten", "Wichtige ökologische Nische"]
+    }
+  ]
+}

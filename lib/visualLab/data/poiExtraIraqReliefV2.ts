@@ -24,8 +24,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Wüste bedeckt eine Fläche von über 500.000 Quadratkilometern im Nahen Osten.", "Sie bildete eine historische Barriere und Handelsroute zwischen dem Irak und Syrien.", "Die Landschaft besteht hauptsächlich aus Kalkstein- und Kiesflächen.", "Nomadische Beduinen durchqueren die Region seit über 2000 Jahren.", "Niederschläge betragen hier oft weniger als 125 Millimeter pro Jahr.", "Die Sommertemperaturen können regelmäßig Werte von über 45 Grad Celsius erreichen.", "Zahlreiche trockene Flussbetten (Wadis) durchziehen die felsige Landschaft."]
-    }
-  },
+    }, image: "/poi-images/syrian-desert-relief-v2.webp"},
   {
     id: "al-jazira-plateau-relief-v2",
     type: "plateau",
@@ -74,8 +73,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Bergkette erstreckt sich über eine Länge von etwa 150 Kilometern.", "Die höchste Erhebung der Hamrin-Berge erreicht knapp über 500 Meter.", "Sie fungiert historisch als Demarkationslinie zwischen verschiedenen Volksgruppen.", "Der Fluss Diyala schneidet in seinem Lauf durch einen Teil dieses Gebirges.", "In der Region befinden sich mehrere strategisch wichtige Öl- und Gasfelder.", "Das raue Terrain war oft Schauplatz historischer militärischer Auseinandersetzungen.", "Die Vegetation in den Bergen ist spärlich und stark an die Trockenheit angepasst."]
-    }
-  },
+    }, image: "/poi-images/hamrin-mountains-relief-v2.webp"},
   {
     id: "mount-korek-relief-v2",
     type: "mountain",
@@ -99,8 +97,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Berggipfel erreicht eine beeindruckende Höhe von 2.127 Metern über dem Meeresspiegel.", "Das Erbil-Observatorium auf dem Berg sollte einst das größte im Nahen Osten werden.", "Eine fast 4 Kilometer lange Seilbahn bringt Besucher bequem auf das Bergplateau.", "Der Berg ist ein Zentrum für das jährliche kurdische Neujahrsfest Newroz.", "In den Wintermonaten verwandelt sich die Region in ein beliebtes Skigebiet.", "Die Fahrt von der Stadt Erbil zum Fuß des Berges dauert etwa zwei Stunden.", "Der Berg bietet hervorragende Bedingungen für Wanderer und Kletterer."]
-    }
-  },
+    }, image: "/poi-images/mount-korek-relief-v2.webp"},
   {
     id: "mount-bradost-relief-v2",
     type: "mountain",
@@ -124,8 +121,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Berg erreicht Höhen von über 2.000 Metern im Zagros-Gebirge.", "Die Shanidar-Höhle an seinen Hängen ist berühmt für Neandertaler-Fossilien aus der Zeit vor 65.000 Jahren.", "Die Region ist reich an endemischer Flora, die typisch für das Zagros-Gebirge ist.", "Zahlreiche kleine Bergquellen entspringen an den Flanken des Massivs.", "Im Winter sind die Gipfel des Bradost oft monatelang mit Schnee bedeckt.", "Der Berg bietet ein wichtiges Rückzugsgebiet für wilde Bergziegen und Bären.", "Archäologische Funde deuten auf eine sehr frühe menschliche Besiedlung der Region hin."]
-    }
-  },
+    }, image: "/poi-images/mount-bradost-relief-v2.webp"},
   {
     id: "mount-safin-relief-v2",
     type: "mountain",
@@ -149,8 +145,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Berg dominiert die Landschaft um die Stadt Shaqlawa in der Provinz Erbil.", "Seine Hänge sind dicht mit verschiedenen Eichenarten und Wildobstbäumen bewaldet.", "Das kühlere Klima macht den Berg im Sommer zu einem beliebten Rückzugsort.", "Zahlreiche Süßwasserquellen entspringen an den Abhängen des Berges.", "Die höchste Erhebung des Safin-Berges erreicht fast 1.500 Meter.", "Das Gebiet ist ein wichtiges Ziel für den wachsenden Ökotourismus in Kurdistan.", "Im Herbst bietet der Laubwald ein spektakuläres Farbenspiel."]
-    }
-  },
+    }, image: "/poi-images/mount-safin-relief-v2.webp"},
   {
     id: "mount-gara-relief-v2",
     type: "mountain",
@@ -174,8 +169,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Berggipfel erreicht eine Höhe von etwa 2.150 Metern über dem Meeresspiegel.", "Von oben hat man einen direkten Blick auf das Felsplateau der Stadt Amediye.", "Auf dem Berg befinden sich die Ruinen eines ehemaligen Palastes aus den 1980er Jahren.", "Die Region um den Berg ist reich an wilden Bergblumen und Heilkräutern.", "Es gibt mehrere gut ausgebaute Straßen, die hoch in die Bergregion führen.", "Der Berg ist im Frühling ein beliebtes Ziel für Picknicks und Wanderungen.", "Im Winter ist der Gipfel des Berges regelmäßig von einer dicken Schneeschicht bedeckt."]
-    }
-  },
+    }, image: "/poi-images/mount-gara-relief-v2.webp"},
   {
     id: "mount-pira-magrun-relief-v2",
     type: "mountain",
@@ -199,8 +193,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Mit 2.611 Metern ist er einer der höchsten Berge in der Provinz Sulaimaniyya.", "Sein markantes Profil ist ein Wahrzeichen für die Einwohner von Sulaimaniyya.", "Der Name des Berges soll auf historische oder mythologische Figuren der Region zurückgehen.", "Die Hänge sind oft stark mit Eichenwäldern und Sträuchern bewachsen.", "Für die Besteigung des Gipfels werden oft zwei bis drei Tage eingeplant.", "Die Bergregion ist ein wichtiges Wassereinzugsgebiet für die umliegenden Täler.", "Im Winter fallen hier große Mengen Schnee, die bis in den Frühsommer liegen bleiben."]
-    }
-  },
+    }, image: "/poi-images/mount-pira-magrun-relief-v2.webp"},
   {
     id: "makhoul-mountains-relief-v2",
     type: "mountain",
@@ -224,8 +217,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Bergkette verläuft über Dutzende von Kilometern nahezu parallel zum Fluss Tigris.", "Sie trennen das Flusstal von der weiten Al-Dschazira-Ebene im Westen.", "Auf den Bergen befinden sich Ruinen von Burgen aus der islamischen und vorislamischen Zeit.", "Die Berge bestehen größtenteils aus Kalkstein und Gipsformationen.", "In der Region wurden in den 2000er Jahren Staudammprojekte in Betracht gezogen.", "Die maximale Höhe der Makhoul-Berge überschreitet selten 600 Meter.", "Das Gebiet ist bekannt für archäologische Fundstätten in den Tälern zum Tigris."]
-    }
-  },
+    }, image: "/poi-images/makhoul-mountains-relief-v2.webp"},
   {
     id: "al-faw-coast-relief-v2",
     type: "coast",
@@ -249,8 +241,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die gesamte Küstenlinie des Irak am Persischen Golf misst nur etwa 58 Kilometer.", "Sie ist der strategisch wichtigste Knotenpunkt für die irakische Ölexportwirtschaft.", "Die Halbinsel war Schauplatz schwerer Kämpfe im Ersten Golfkrieg (1980–1988).", "Das Gebiet ist stark von den Gezeitenströmungen des Persischen Golfs beeinflusst.", "Die Küste besteht überwiegend aus flachen Schlamm- und Sumpfgebieten.", "Zahlreiche Offshore-Ölterminals liegen knapp vor der Küste im tieferen Wasser.", "Die Region ist ein wichtiges Winterquartier für viele Zugvogelarten."]
-    }
-  },
+    }, image: "/poi-images/al-faw-coast-relief-v2.webp"},
   {
     id: "southern-desert-relief-v2",
     type: "desert",
@@ -299,8 +290,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Berg bildet die nordöstliche natürliche Grenze der Stadt Sulaimaniyya.", "Er erreicht eine Höhe von etwa 1.700 Metern über dem Meeresspiegel.", "Eine asphaltierte Panoramastraße windet sich in vielen Kurven den Berg hinauf.", "Besonders an warmen Sommerabenden ist er ein sehr beliebter Treffpunkt.", "Zusammen mit dem Berg Goizha prägt er das Mikroklima der darunter liegenden Stadt.", "Auf den Hängen wachsen im Frühling zahlreiche endemische Wildblumen.", "Im Winter fallen hier oft die ersten Schneeflocken der Region, was viele Besucher anzieht."]
-    }
-  },
+    }, image: "/poi-images/mount-azmar-relief-v2.webp"},
   {
     id: "mount-goizha-relief-v2",
     type: "mountain",
@@ -324,8 +314,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Berg verschmilzt geografisch oft mit dem direkt angrenzenden Azmar-Berg.", "Er dient der Stadt Sulaimaniyya als natürliche Barriere und Klimascheide.", "Die Gipfel des Berges erreichen Höhen von deutlich über 1.500 Metern.", "Zahlreiche Wanderwege und Maultierpfade führen durch das steile Gelände.", "Von den Hängen hat man bei klarem Wetter einen weiten Blick über die Shahrizor-Ebene.", "Die Bewaldung besteht primär aus niedrigen Sträuchern und vereinzelten Eichen.", "Der Name des Berges ist ein häufiges Motiv in der kurdischen Poesie und Literatur."]
-    }
-  },
+    }, image: "/poi-images/mount-goizha-relief-v2.webp"},
   {
     id: "mount-khantur-relief-v2",
     type: "mountain",
@@ -349,8 +338,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Berg liegt nur wenige Kilometer von der irakisch-türkischen Grenze entfernt.", "Seine steilen Felswände prägen das Landschaftsbild nördlich der Stadt Zakho.", "Das Gebirge beherbergt ein Netz von schwer zugänglichen, natürlichen Karsthöhlen.", "Der Gipfel erreicht eine beachtliche Höhe von über 2.500 Metern.", "In der lokalen Folklore wird der Berg oft als Ort mystischer Begebenheiten beschrieben.", "Die Hänge sind in den höheren Lagen größtenteils kahl und felsig.", "Das Gebiet ist ein wichtiger Korridor für Wildtiere im Zagros-Gebirge."]
-    }
-  },
+    }, image: "/poi-images/mount-khantur-relief-v2.webp"},
   {
     id: "mount-maqlub-relief-v2",
     type: "mountain",
@@ -374,8 +362,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das historische Kloster Mor Mattai wurde im 4. Jahrhundert an seinen Hängen gegründet.", "Der Berg erhebt sich markant um fast 1.000 Meter über die umgebende Ninive-Ebene.", "Er ist ein heiliger Berg für die christlichen Gemeinschaften im Nordirak.", "Der Bergkamm verläuft in nordwestlich-südöstlicher Richtung.", "Aufgrund seiner steilen Hänge bietet er natürliche Verteidigungslinien.", "Zahlreiche kleine Höhlen am Berg wurden historisch von Eremiten bewohnt.", "Die Region um den Berg ist reich an Olivenhainen und Weinbergen."]
-    }
-  },
+    }, image: "/poi-images/mount-maqlub-relief-v2.webp"},
   {
     id: "shahrizor-plain-relief-v2",
     type: "plateau",
@@ -424,8 +411,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Wasserfall in der Schlucht ist so ikonisch, dass er auf der 10.000-Dinar-Banknote abgebildet ist.", "Die Hamilton-Straße, die durch die Schlucht führt, wurde zwischen 1928 und 1932 erbaut.", "Die Schlucht trennt die Bergmassive des Korek und des Bradost voneinander.", "An einigen Stellen erheben sich die Felswände der Schlucht über 800 Meter hoch.", "Die Region ist im Sommer ein sehr beliebtes Ziel für Touristen aus dem Zentralirak.", "Der Fluss Rawanduz fließt mit starker Strömung durch den Grund der Schlucht.", "In der Schlucht herrscht aufgrund der Beschattung ein deutlich kühleres Mikroklima."]
-    }
-  },
+    }, image: "/poi-images/gali-ali-beg-canyon-relief-v2.webp"},
   {
     id: "bahr-al-najaf-depression-relief-v2",
     type: "valley",
@@ -449,8 +435,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Senke erstreckt sich über eine Länge von mehr als 40 Kilometern in nord-südlicher Richtung.", "In der Vergangenheit erstreckten sich die Wasserflächen oft bis nahe an die Stadtgrenzen von Nadschaf.", "Das Gebiet ist bekannt für seine reichen Salzvorkommen, die lokal abgebaut werden.", "Die Senke bildet eine natürliche Grenze zwischen dem Euphrat-Tal und der westlichen Wüste.", "Zahlreiche Dattelpalmenhaine säumen die fruchtbaren östlichen Ränder der Senke.", "Historisch galt das Feuchtgebiet als wichtiger Lebensraum für Fische und Wasservögel.", "Der Wasserstand wird durch Grundwasserquellen, Regen und Abflüsse aus dem Euphrat gespeist."]
-    }
-  },
+    }, image: "/poi-images/bahr-al-najaf-depression-relief-v2.webp"},
   {
     id: "soran-valley-relief-v2",
     type: "valley",
@@ -474,8 +459,7 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Tal liegt an einem strategischen Knotenpunkt nahe der Grenzen zu Iran und der Türkei.", "Es ist umgeben von den hohen Gipfeln der Bradost-, Korek- und Halgurd-Berge.", "Die Region ist ein Zentrum für Outdoor-Aktivitäten wie Wandern, Rafting und Skifahren.", "Die Stadt Soran hat sich in den letzten Jahrzehnten rasant entwickelt und stark vergrößert.", "Das Tal wird vom Fluss Rawanduz und seinen Nebenflüssen durchzogen und bewässert.", "Das Mikroklima sorgt für kühle und angenehme Sommer und kalte, schneereiche Winter.", "Die Gegend war historisch ein Teil des kurdischen Soran-Emirats im 19. Jahrhundert."]
-    }
-  },
+    }, image: "/poi-images/soran-valley-relief-v2.webp"},
   {
     id: "western-desert-relief-v2",
     type: "desert",

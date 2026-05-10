@@ -39,8 +39,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Located in the southern part of the Obô National Park.",
         "The vegetation on the slopes consists of primary mountain rainforest."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-cabumbe-relief-v2.webp"},
   {
     id: "pico-ana-chaves-relief-v2",
     type: "mountain",
@@ -79,8 +78,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "The summit often offers a wide view over the central highlands.",
         "The rock is predominantly of basaltic origin."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-ana-chaves-relief-v2.webp"},
   {
     id: "pico-do-fogo-relief-v2",
     type: "mountain",
@@ -119,8 +117,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Belongs to the chain of volcanic elevations in the south.",
         "Important sanctuary for endemic flora."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-do-fogo-relief-v2.webp"},
   {
     id: "pico-maria-amelia-relief-v2",
     type: "mountain",
@@ -159,8 +156,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Part of the mountainous terrain of the Caué district.",
         "Provides nesting sites for various rare birds of prey."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-maria-amelia-relief-v2.webp"},
   {
     id: "pico-bastiao-relief-v2",
     type: "mountain",
@@ -199,8 +195,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Important landmark for hikers in the island's interior.",
         "Home to many plant species endemic to Príncipe."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-bastiao-relief-v2.webp"},
   {
     id: "pico-carvalhal-relief-v2",
     type: "mountain",
@@ -239,8 +234,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Provides protection from strong Atlantic winds for the valleys.",
         "Often referred to as the 'green giant' of Mé-Zóchi."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-carvalhal-relief-v2.webp"},
   {
     id: "pico-vinte-e-cinco-relief-v2",
     type: "mountain",
@@ -279,8 +273,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Access is difficult due to dense vegetation.",
         "Part of the pristine Obô virgin forest."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-vinte-e-cinco-relief-v2.webp"},
   {
     id: "pico-formoso-relief-v2",
     type: "mountain",
@@ -319,8 +312,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Humidity here stays above 90% almost year-round.",
         "Home to rare orchid species."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-formoso-relief-v2.webp"},
   {
     id: "morro-fundao-relief-v2",
     type: "relief",
@@ -359,8 +351,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Important site for local agricultural projects.",
         "Geologically composed of older volcanic deposits."
       ]
-    }
-  },
+    }, image: "/poi-images/morro-fundao-relief-v2.webp"},
   {
     id: "morro-vilela-relief-v2",
     type: "relief",
@@ -399,8 +390,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Notorious for strong winds and rough seas.",
         "Provides habitat for numerous seabirds."
       ]
-    }
-  },
+    }, image: "/poi-images/morro-vilela-relief-v2.webp"},
   {
     id: "pico-palmira-relief-v2",
     type: "mountain",
@@ -439,8 +429,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "An important destination for agritourism hikes.",
         "Belongs to the catchment area of the Rio Manuel Jorge."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-palmira-relief-v2.webp"},
   {
     id: "pico-gago-coutinho-relief-v2",
     type: "mountain",
@@ -479,8 +468,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Part of the protected Obô National Park.",
         "Volcanic rock formations are clearly visible here."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-gago-coutinho-relief-v2.webp"},
   {
     id: "pico-esperanca-relief-v2",
     type: "mountain",
@@ -519,8 +507,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Important site for local forestry.",
         "Offers excellent viewpoints over the Gulf of Guinea."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-esperanca-relief-v2.webp"},
   {
     id: "pico-sao-joao-relief-v2",
     type: "mountain",
@@ -559,8 +546,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "The slopes are often covered by low-hanging clouds.",
         "A paradise for botanists and nature enthusiasts."
       ]
-    }
-  },
+    }, image: "/poi-images/pico-sao-joao-relief-v2.webp"},
   {
     id: "morro-estrela-relief-v2",
     type: "relief",
@@ -599,8 +585,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Located in the remote Lembá district.",
         "A popular spot for sunset watching."
       ]
-    }
-  },
+    }, image: "/poi-images/morro-estrela-relief-v2.webp"},
   {
     id: "pico-sao-pedro-relief-v2",
     type: "mountain",
@@ -679,8 +664,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Often referred to as the 'African Galapagos'.",
         "Much of the forest is untouched primary forest."
       ]
-    }
-  },
+    }, image: "/poi-images/principe-rainforest-relief-v2.webp"},
   {
     id: "me-zochi-cloudforest-relief-v2",
     type: "forest",
@@ -719,8 +703,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Home to the rare São Tomé Fiscal (bird species).",
         "Trees are often smaller and more gnarled than in lowland forests."
       ]
-    }
-  },
+    }, image: "/poi-images/me-zochi-cloudforest-relief-v2.webp"},
   {
     id: "porto-alegre-mangrove-relief-v2",
     type: "forest",
@@ -759,8 +742,7 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
         "Can best be explored by boat.",
         "Filters sediments and protects the offshore coral reef."
       ]
-    }
-  },
+    }, image: "/poi-images/porto-alegre-mangrove-relief-v2.webp"},
   {
     id: "sao-tome-volcanic-massif-relief-v2",
     type: "relief",

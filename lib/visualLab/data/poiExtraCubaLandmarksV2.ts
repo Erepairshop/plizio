@@ -34,12 +34,12 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     parent: "CU-03",
     coords: [-82.358, 23.138],
     name: { de: "Gran Teatro de La Habana", hu: "Havannai Nagyszínház", ro: "Marele Teatru din Havana", en: "Great Theatre of Havana" },
-    description: { de: "Ein prachtvolles Gebäude im neobarocken Stil, Heimat des Nationalballetts von Kuba.", hu: "Neobarokk stílusú pompás épület, a Kubai Nemzeti Balett otthona.", ro: "O clădire magnifică în stil neobaroc, sediul Baletului Național din Cuba.", en: "A magnificent building in neobaroque style, home to the Cuban National Ballet." },
+    description: { de: "Ein prachtvolles Gebäude im neobarocken Stil, Heimat des Nationalballetts von Kuba.", hu: "A Havannai Nagyszínház neobarokk épület, a Kubai Nemzeti Balett otthona.", ro: "O clădire magnifică în stil neobaroc, sediul Baletului Național din Cuba.", en: "A grand theater in Havana and a major symbol of the city's cultural life." },
     facts: {
       de: ["Erbaut im Jahr 1838", "Architekt war Paul Belau", "Bekannt für seine architektonischen Details"],
-      hu: ["1838-ban épült", "Építésze Paul Belau volt", "Építészeti részleteiről híres"],
+      hu: ["1838-ban épült", "Paul Belau tervezte", "Neobarokk stílusú"],
       ro: ["Construită în 1838", "Arhitectul a fost Paul Belau", "Cunoscută pentru detaliile sale arhitecturale"],
-      en: ["Built in 1838", "Architect was Paul Belau", "Known for its architectural details"]
+      en: ["Built in 1838", "Neobaroque style", "National Ballet home"]
     }, image: "/poi-images/cuba-landmarks-v2-02.webp",
     descriptionAdvanced: {
       de: "Ein prachtvolles Gebäude im neobarocken Stil, Heimat des Nationalballetts von Kuba. Erbaut im Jahr 1838. Architekt war Paul Belau. Bekannt für seine architektonischen Details. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden.",
@@ -60,9 +60,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     parent: "CU-03",
     coords: [-82.352, 23.137],
     name: { de: "Kathedrale von Havanna", hu: "Havannai katedrális", ro: "Catedrala din Havana", en: "Havana Cathedral" },
-    description: { de: "Eine der ältesten Kathedralen Amerikas, erbaut im barocken Stil auf dem Plaza de la Catedral.", hu: "Amerika egyik legrégebbi katedrálisa, barokk stílusban épült a katedrális téren.", ro: "Una dintre cele mai vechi catedrale din America, construită în stil baroc în Piața Catedralei.", en: "One of the oldest cathedrals in the Americas, built in baroque style on the Cathedral Plaza." },
+    description: { de: "Die Kathedrale von Havanna ist eine der ältesten Kathedralen Amerikas und prägt den historischen Stadtkern. Sie steht auf dem Plaza de la Catedral.", hu: "Amerika egyik legrégebbi katedrálisa, barokk stílusban épült a katedrális téren.", ro: "Una dintre cele mai vechi catedrale din America, construită în stil baroc în Piața Catedralei.", en: "One of the oldest cathedrals in the Americas, built in baroque style on the Cathedral Plaza." },
     facts: {
-      de: ["Baubeginn 1748", "Widmung an die Unbefleckte Empfängnis", "Gehört zum UNESCO-Welterbe"],
+      de: ["Barocke Kathedrale", "Baubeginn 1748", "UNESCO-Welterbe"],
       hu: ["Építése 1748-ban kezdődött", "A Szeplőtelen Fogantatásnak szentelve", "Az UNESCO világörökség része"],
       ro: ["Construcția a început în 1748", "Dedicată Neprihănitei Zămisliri", "Face parte din patrimoniul mondial UNESCO"],
       en: ["Construction started in 1748", "Dedicated to the Immaculate Conception", "Part of the UNESCO World Heritage"]
@@ -138,11 +138,11 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     parent: "CU-03",
     coords: [-82.355, 23.141],
     name: { de: "Palacio de los Capitanes Generales", hu: "Kapitányok Palotája", ro: "Palatul Căpitanilor Generali", en: "Palace of the Captains General" },
-    description: { de: "Der ehemalige Sitz der spanischen Gouverneure in Havanna, heute das Stadtmuseum.", hu: "A spanyol kormányzók egykori székhelye Havannában, ma a városi múzeum.", ro: "Fostul sediu al guvernatorilor spanioli din Havana, astăzi muzeul orașului.", en: "Former seat of Spanish governors in Havana, now the city museum." },
+    description: { de: "Der ehemalige Sitz der spanischen Gouverneure in Havanna, heute das Stadtmuseum.", hu: "A spanyol kormányzók egykori székhelye Havannában, ma a városi múzeum.", ro: "Palatul foștilor căpitani generali din Havana, astăzi muzeul orașului. Este unul dintre cele mai importante repere coloniale ale capitalei.", en: "Former seat of Spanish governors in Havana, now the city museum." },
     facts: {
       de: ["Baustil ist Barock", "Fertiggestellt im Jahr 1791", "Liegt am Plaza de Armas"],
       hu: ["Barokk építészeti stílus", "1791-ben készült el", "A Plaza de Armas téren található"],
-      ro: ["Stilul baroc", "Finalizat în 1791", "Situat în Plaza de Armas"],
+      ro: ["stilul baroc", "finalizat în 1791", "situat în Plaza de Armas"],
       en: ["Baroque architectural style", "Completed in 1791", "Located at Plaza de Armas"]
     }, image: "/poi-images/cuba-landmarks-v2-06.webp",
     descriptionAdvanced: {
@@ -242,9 +242,9 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     parent: "CU-12",
     coords: [-75.845, 19.986],
     name: { de: "Casa de Diego Velázquez", hu: "Diego Velázquez-ház", ro: "Casa lui Diego Velázquez", en: "Diego Velázquez House" },
-    description: { de: "Das älteste Haus Kubas, das noch steht, erbaut für den spanischen Eroberer.", hu: "Kuba legrégebbi fennmaradt háza, amelyet a spanyol hódító számára építettek.", ro: "Cea mai veche casă din Cuba care mai stă în picioare, construită pentru conchistadorul spaniol.", en: "The oldest house in Cuba still standing, built for the Spanish conqueror." },
+    description: { de: "Das Haus von Diego Velázquez in Santiago de Cuba gilt als eine der ältesten kolonialen Residenzen der Insel. Heute dient es als Museum und zeigt frühe Stadtgeschichte.", hu: "Kuba legrégebbi fennmaradt háza, amelyet a spanyol hódító számára építettek.", ro: "Cea mai veche casă din Cuba care mai stă în picioare, construită pentru conchistadorul spaniol.", en: "The oldest house in Cuba still standing, built for the Spanish conqueror." },
     facts: {
-      de: ["Erbaut um 1515", "Zeigt maurische Stilelemente", "Diente als Wohnsitz und Handelskontor"],
+      de: ["Um 1515 erbaut", "Älteste Kolonialresidenz Kubas", "Heute Museum"],
       hu: ["1515 körül épült", "Mór építészeti elemeket tartalmaz", "Lakóházként és kereskedelmi központként szolgált"],
       ro: ["Construită în jurul anului 1515", "Prezintă elemente de stil maur", "A servit ca reședință și birou comercial"],
       en: ["Built around 1515", "Shows Moorish style elements", "Served as residence and trading house"]
@@ -398,10 +398,10 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     parent: "CU-12",
     coords: [-75.832, 20.021],
     name: { de: "Castillo de San Pedro de la Roca", hu: "San Pedro de la Roca-vár", ro: "Castelul San Pedro de la Roca", en: "Castillo de San Pedro de la Roca" },
-    description: { de: "Eine bedeutende Festung in Santiago de Cuba, geschützt durch die UNESCO.", hu: "Jelentős erőd Santiago de Cubában, az UNESCO védelme alatt.", ro: "O fortăreață importantă în Santiago de Cuba, protejată de UNESCO.", en: "A major fortress in Santiago de Cuba, protected by UNESCO." },
+    description: { de: "Das Castillo de San Pedro de la Roca ist eine bedeutende Festung in Santiago de Cuba und ein UNESCO-geschütztes Bauwerk. Es wurde zum Schutz vor Piratenangriffen errichtet.", hu: "A Castillo de San Pedro de la Roca Santiago de Cuba híres erődje és az UNESCO által védett műemlék.", ro: "O fortăreață importantă în Santiago de Cuba, protejată de UNESCO.", en: "A major fortress in Santiago de Cuba, protected by UNESCO." },
     facts: {
-      de: ["Erbaut ab 1638", "Sollte Piratenangriffe abwehren", "Beste Beispiel spanisch-amerikanischer Militärarchitektur"],
-      hu: ["1638-tól épült", "Kalóztámadások elhárítására tervezték", "A spanyol-amerikai katonai építészet legjobb példája"],
+      de: ["Bau ab 1638", "Zum Schutz vor Piraten", "UNESCO-geschützt"],
+      hu: ["1638-tól épült", "Kalóztámadások ellen", "UNESCO-védelem alatt"],
       ro: ["Construită începând cu 1638", "Menită să respingă atacurile piraților", "Cel mai bun exemplu de arhitectură militară spaniol-americană"],
       en: ["Built starting 1638", "Meant to repel pirate attacks", "Best example of Spanish-American military architecture"]
     }, image: "/poi-images/cuba-landmarks-v2-16.webp",
@@ -528,12 +528,12 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     parent: "CU-09",
     coords: [-79.451, 21.936],
     name: { de: "Teatro Tomás Terry", hu: "Tomás Terry Színház", ro: "Teatrul Tomás Terry", en: "Tomás Terry Theatre" },
-    description: { de: "Ein berühmtes Theater in Cienfuegos mit beeindruckender Innenausstattung.", hu: "Híres színház Cienfuegosban lenyűgöző belső kialakítással.", ro: "Un teatru faimos în Cienfuegos cu un design interior impresionant.", en: "A famous theatre in Cienfuegos with an impressive interior design." },
+    description: { de: "Ein berühmtes Theater in Cienfuegos mit beeindruckender Innenausstattung.", hu: "A Tomás Terry Színház Cienfuegos egyik legszebb történelmi épülete.", ro: "Un teatru faimos în Cienfuegos cu un design interior impresionant.", en: "A famous theater in Cienfuegos with an ornate interior and strong historic character." },
     facts: {
       de: ["Erbaut im Jahr 1889", "Besitzt eine Decke mit italienischen Fresken", "Ein Symbol für den Wohlstand der Region"],
-      hu: ["1889-ben épült", "Olasz freskókkal díszített mennyezettel rendelkezik", "A régió jólétének szimbóluma"],
+      hu: ["1889-ben épült", "Olasz freskós mennyezet", "A város kulturális jelképe"],
       ro: ["Construit în 1889", "Are un tavan cu fresce italiene", "Un simbol al prosperității regiunii"],
-      en: ["Built in 1889", "Features a ceiling with Italian frescoes", "A symbol of the region's prosperity"]
+      en: ["Built in 1889", "Italian frescoes", "Cienfuegos landmark"]
     }, image: "/poi-images/cuba-landmarks-v2-21.webp",
     descriptionAdvanced: {
       de: "Ein berühmtes Theater in Cienfuegos mit beeindruckender Innenausstattung. Erbaut im Jahr 1889. Besitzt eine Decke mit italienischen Fresken. Ein Symbol für den Wohlstand der Region. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden.",
@@ -606,12 +606,12 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     parent: "CU-03",
     coords: [-82.355, 23.145],
     name: { de: "Calle Obispo", hu: "Calle Obispo", ro: "Calle Obispo", en: "Calle Obispo" },
-    description: { de: "Eine belebte Fußgängerzone voller Geschäfte, Cafés und historischer Gebäude.", hu: "Forgalmas gyalogos zóna, tele üzletekkel, kávézókkal és történelmi épületekkel.", ro: "O zonă pietonală animată plină de magazine, cafenele și clădiri istorice.", en: "A busy pedestrian street full of shops, cafes, and historic buildings." },
+    description: { de: "Eine belebte Fußgängerzone voller Geschäfte, Cafés und historischer Gebäude.", hu: "Forgalmas gyalogos zóna, tele üzletekkel, kávézókkal és történelmi épületekkel.", ro: "O zonă pietonală animată plină de magazine, cafenele și clădiri istorice.", en: "A busy pedestrian street in Old Havana lined with shops, cafes, and historic buildings." },
     facts: {
       de: ["Verbindet Plaza de Armas mit Parque Central", "Historische Adresse des Schriftstellers Ernest Hemingway", "Sehr touristisch"],
       hu: ["Összeköti a Plaza de Armast a Parque Centralral", "Ernest Hemingway író történelmi címe", "Nagyon népszerű a turisták körében"],
       ro: ["Conectează Plaza de Armas cu Parque Central", "Adresa istorică a scriitorului Ernest Hemingway", "Foarte turistică"],
-      en: ["Connects Plaza de Armas with Parque Central", "Historical address of writer Ernest Hemingway", "Very touristic"]
+      en: ["Old Havana", "Pedestrian street", "Tourist hub"]
     }, image: "/poi-images/cuba-landmarks-v2-24.webp",
     descriptionAdvanced: {
       de: "Eine belebte Fußgängerzone voller Geschäfte, Cafés und historischer Gebäude. Verbindet Plaza de Armas mit Parque Central. Historische Adresse des Schriftstellers Ernest Hemingway. Sehr touristisch. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden.",
@@ -658,12 +658,12 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     parent: "CU-03",
     coords: [-82.352, 23.145],
     name: { de: "Castillo de la Punta", hu: "Castillo de la Punta", ro: "Castelul de la Punta", en: "Castillo de la Punta" },
-    description: { de: "Ein historisches Fort, das gegenüber dem Castillo del Morro am Hafeneingang liegt.", hu: "Történelmi erőd, amely a Castillo del Morroval szemben fekszik a kikötő bejáratánál.", ro: "Un fort istoric situat vizavi de Castillo del Morro la intrarea în port.", en: "A historic fort located opposite to Castillo del Morro at the entrance to the harbor." },
+    description: { de: "Ein historisches Fort, das gegenüber dem Castillo del Morro am Hafeneingang liegt.", hu: "A Castillo de la Punta a havannai kikötő bejáratának régi védelmi erődje.", ro: "Un fort istoric situat vizavi de Castillo del Morro la intrarea în port.", en: "A historic fort at the entrance to Havana Bay, opposite Castillo del Morro." },
     facts: {
       de: ["Erbaut im späten 16. Jahrhundert", "Teil des Verteidigungssystems", "Heute ein Museum"],
       hu: ["A 16. század végén épült", "A védelmi rendszer része", "Ma múzeum"],
       ro: ["Construit la sfârșitul secolului al XVI-lea", "Parte a sistemului de apărare", "Astăzi este un muzeu"],
-      en: ["Built in late 16th century", "Part of the defense system", "Today a museum"]
+      en: ["Late 16th century", "Harbor defense", "Now a museum"]
     }, image: "/poi-images/cuba-landmarks-v2-26.webp",
     descriptionAdvanced: {
       de: "Ein historisches Fort, das gegenüber dem Castillo del Morro am Hafeneingang liegt. Erbaut im späten 16. Jahrhundert. Teil des Verteidigungssystems. Heute ein Museum. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden.",
@@ -684,11 +684,11 @@ export const poiExtraCubaLandmarksV2: POI[] = [
     parent: "CU-03",
     coords: [-82.355, 23.132],
     name: { de: "Cementerio de Colón", hu: "Colón temető", ro: "Cimitirul Colón", en: "Colón Cemetery" },
-    description: { de: "Einer der monumentalsten Friedhöfe Amerikas, bekannt für seine Grabarchitektur.", hu: "Amerika egyik legmonumentálisabb temetője, sírépítészetéről ismert.", ro: "Unul dintre cele mai monumentale cimitire din America, cunoscut pentru arhitectura funerară.", en: "One of the most monumental cemeteries in the Americas, known for its funerary architecture." },
+    description: { de: "Der Cementerio de Colón in Havanna gehört zu den monumentalsten Friedhöfen Amerikas. Er ist für seine aufwendigen Gräber und Denkmäler bekannt.", hu: "Amerika egyik legmonumentálisabb temetője, sírépítészetéről ismert.", ro: "Unul dintre cele mai monumentale cimitire din America, cunoscut pentru arhitectura funerară. Este un monument național cubanez.", en: "One of the most monumental cemeteries in the Americas, known for its funerary architecture." },
     facts: {
-      de: ["Gegründet 1876", "Enthält tausende aufwendig gestaltete Gräber", "Ernannt zum kubanischen Nationaldenkmal"],
+      de: ["Gegründet 1876", "Aufwendige Grabarchitektur", "Kubas Nationaldenkmal"],
       hu: ["1876-ban alapították", "Több ezer kidolgozott sírhelyet tartalmaz", "Kubai nemzeti emlékké nyilvánították"],
-      ro: ["Fondat în 1876", "Conține mii de morminte elaborate", "Declarat monument național cubanez"],
+      ro: ["fondat în 1876", "mii de morminte elaborate", "monument național cubanez"],
       en: ["Founded in 1876", "Contains thousands of elaborate tombs", "Declared a Cuban national monument"]
     }, image: "/poi-images/cuba-landmarks-v2-27.webp",
     descriptionAdvanced: {

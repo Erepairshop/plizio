@@ -13,8 +13,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Törökország legnagyobb gátja.", "Hatalmas mennyiségű vízenergiát termel."],
       ro: ["Cel mai mare baraj din Turcia.", "Generează cantități masive de energie hidroelectrică."],
       en: ["The largest dam in Turkey.", "Generates massive amounts of hydroelectric power."]
-    }
-  },
+    }, image: "/poi-images/ataturk-dam-economic-v2.webp"},
   {
     id: "ambarli-port-economic-v2",
     type: "port",
@@ -27,8 +26,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Az ország legnagyobb konténerkikötője.", "Isztambul kereskedelmének fontos kapuja."],
       ro: ["Cel mai mare port de containere din țară.", "Poartă importantă pentru comerțul din Istanbul."],
       en: ["The largest container port in the country.", "An important gateway for Istanbul's trade."]
-    }
-  },
+    }, image: "/poi-images/ambarli-port-economic-v2.webp"},
   {
     id: "mersin-international-port-economic-v2",
     type: "port",
@@ -41,8 +39,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Fontos exportkikötő a Földközi-tengeren.", "Támogatja az ipart és a mezőgazdaságot."],
       ro: ["Port important de export la Marea Mediterană.", "Sprijină industria și agricultura locală."],
       en: ["Important export port on the Mediterranean.", "Supports local industry and agriculture."]
-    }
-  },
+    }, image: "/poi-images/mersin-international-port-economic-v2.webp"},
   {
     id: "karakaya-dam-economic-v2",
     type: "energy",
@@ -55,8 +52,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Fontos vízi erőmű.", "A második erőmű az Eufráteszen."],
       ro: ["Centrală hidroelectrică importantă.", "A doua centrală pe râul Eufrat."],
       en: ["Important hydroelectric power plant.", "The second power plant on the Euphrates."]
-    }
-  },
+    }, image: "/poi-images/karakaya-dam-economic-v2.webp"},
   {
     id: "togg-gemlik-facility-economic-v2",
     type: "industry",
@@ -69,8 +65,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Elektromos autók gyártóüzeme.", "2022-ben nyitották meg."],
       ro: ["Unitate de producție pentru mașini electrice.", "A fost deschisă în 2022."],
       en: ["Production facility for electric cars.", "Opened in the year 2022."]
-    }
-  },
+    }, image: "/poi-images/togg-gemlik-facility-economic-v2.webp"},
   {
     id: "vestel-city-economic-v2",
     type: "industry",
@@ -83,8 +78,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Az egyik legnagyobb ipari komplexum.", "Elektronikát gyárt egész Európa számára."],
       ro: ["Unul dintre cele mai mari complexe industriale.", "Produce electronice pentru toată Europa."],
       en: ["One of the largest industrial complexes.", "Produces electronics for all of Europe."]
-    }
-  },
+    }, image: "/poi-images/vestel-city-economic-v2.webp"},
   {
     id: "isdemir-economic-v2",
     type: "industry",
@@ -97,8 +91,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Törökország második legnagyobb acélműve.", "A tengerparton, İskenderunban található."],
       ro: ["A doua cea mai mare uzină siderurgică.", "Situată pe coastă, în İskenderun."],
       en: ["Second largest steelworks in Turkey.", "Located on the coast in İskenderun."]
-    }
-  },
+    }, image: "/poi-images/isdemir-economic-v2.webp"},
   {
     id: "erdemir-economic-v2",
     type: "industry",
@@ -125,8 +118,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Nagy olajfinomító Aliağában.", "Csökkenti az importfüggőséget."],
       ro: ["Mare rafinărie de petrol în Aliağa.", "Reduce dependența de importuri."],
       en: ["Large oil refinery in Aliağa.", "Reduces import dependency."]
-    }
-  },
+    }, image: "/poi-images/star-refinery-economic-v2.webp"},
   {
     id: "kirka-boron-mine-economic-v2",
     type: "mine",
@@ -139,8 +131,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["A világ legnagyobb bórlelőhelye.", "Törökország fontos exportcikke."],
       ro: ["Cel mai mare zăcământ de bor.", "Articol de export important pentru Turcia."],
       en: ["The largest boron deposit in the world.", "Important export item for Turkey."]
-    }
-  },
+    }, image: "/poi-images/kirka-boron-mine-economic-v2.webp"},
   {
     id: "soma-coal-mine-economic-v2",
     type: "mine",
@@ -153,8 +144,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["A szénbányászat fontos központja.", "Manisa tartományban található."],
       ro: ["Centru important pentru extracția cărbunelui.", "Situat în provincia Manisa."],
       en: ["Important center for coal mining.", "Located in the Manisa province."]
-    }
-  },
+    }, image: "/poi-images/soma-coal-mine-economic-v2.webp"},
   {
     id: "afsin-elbistan-power-plant-economic-v2",
     type: "energy",
@@ -167,8 +157,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Törökország legnagyobb szénerőműve.", "Helyi barnaszénkészleteket használ."],
       ro: ["Cea mai mare centrală pe cărbune.", "Folosește zăcăminte locale de lignit."],
       en: ["Largest coal power plant in Turkey.", "Uses local lignite deposits."]
-    }
-  },
+    }, image: "/poi-images/afsin-elbistan-power-plant-economic-v2.webp"},
   {
     id: "deriner-dam-economic-v2",
     type: "energy",
@@ -181,8 +170,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Törökország legmagasabb gátja.", "Egy mély szurdokban épült."],
       ro: ["Cel mai înalt baraj din Turcia.", "Construit într-un defileu adânc."],
       en: ["The tallest dam in Turkey.", "Built in a deep gorge."]
-    }
-  },
+    }, image: "/poi-images/deriner-dam-economic-v2.webp"},
   {
     id: "akkuyu-nuclear-plant-economic-v2",
     type: "energy",
@@ -195,8 +183,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Törökország első atomerőműve.", "Jelenleg építés alatt áll Mersinben."],
       ro: ["Prima centrală nucleară din Turcia.", "În prezent în construcție în Mersin."],
       en: ["Turkey's first nuclear power plant.", "Currently under construction in Mersin."]
-    }
-  },
+    }, image: "/poi-images/akkuyu-nuclear-plant-economic-v2.webp"},
   {
     id: "gebze-industrial-zone-economic-v2",
     type: "industry",
@@ -209,8 +196,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Innovációs és ipari központ.", "Számos csúcstechnológiai vállalat otthona."],
       ro: ["Centru de inovație și industrie.", "Găzduiește multe companii de înaltă tehnologie."],
       en: ["Innovation and industrial center.", "Home to many high-tech companies."]
-    }
-  },
+    }, image: "/poi-images/gebze-industrial-zone-economic-v2.webp"},
   {
     id: "limakport-iskenderun-economic-v2",
     type: "port",
@@ -237,8 +223,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Az ország első olajfinomítója.", "Helyben kitermelt kőolajat dolgoz fel."],
       ro: ["Prima rafinărie de petrol din țară.", "Procesează țiței extras local."],
       en: ["The country's first oil refinery.", "Processes locally extracted crude oil."]
-    }
-  },
+    }, image: "/poi-images/tupras-batman-refinery-economic-v2.webp"},
   {
     id: "oyak-renault-bursa-economic-v2",
     type: "industry",
@@ -265,8 +250,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       hu: ["Fontos haszongépjármű-gyár.", "A Ford Motor Company vegyesvállalata."],
       ro: ["Fabrică importantă pentru vehicule utilitare.", "O companie mixtă cu Ford Motor Company."],
       en: ["Important commercial vehicle plant.", "A joint venture with Ford Motor Company."]
-    }
-  },
+    }, image: "/poi-images/ford-otosan-golcuk-economic-v2.webp"},
   {
     id: "emet-boron-mine-economic-v2",
     type: "mine",

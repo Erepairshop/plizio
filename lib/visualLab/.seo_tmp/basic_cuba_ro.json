@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCubaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCubaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCubaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCubaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCubaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sierra-del-esccambray-sur-relief-v2",
+      "description": "Ramificațiile sudice ale munților Escambray spre mare. Zonă cu pante abrupte și peisaj montan.",
+      "facts": ["pante abrupte", "peisaj montan"]
+    },
+    {
+      "id": "loma-del-gallo-relief-v2",
+      "description": "O colină lângă coastă, în centrul Cubei. Este o formă de relief simplă, dar vizibilă în peisaj.",
+      "facts": ["deal", "peisaj"]
+    },
+    {
+      "id": "cuchillas-de-baracoa-relief-v2",
+      "description": "O zonă montană accidentată lângă Baracoa. Crestele muntoase și pădurea densă îi dau un aspect sălbatic.",
+      "facts": ["pădure densă", "creste muntoase"]
+    },
+    {
+      "id": "meseta-de-maisí-relief-v2",
+      "description": "Un platou proeminent în cel mai estic punct al Cubei. Poziția sa costieră îl face ușor de recunoscut.",
+      "facts": ["platou", "poziție costieră"]
+    },
+    {
+      "id": "loma-la-vigia-relief-v2",
+      "description": "Un deal de belvedere lângă Trinidad. Oferă o perspectivă bună asupra împrejurimilor.",
+      "facts": ["deal", "belvedere"]
+    },
+    {
+      "id": "alturas-de-perez-relief-v2",
+      "description": "Ținut deluros în provincia vestică. Relieful are un caracter rural și blând.",
+      "facts": ["deal", "peisaj"]
+    },
+    {
+      "id": "loma-de-la-gloria-relief-v2",
+      "description": "O colină în regiunea Camagüey. Este un punct simplu de relief, vizibil în câmpia locală.",
+      "facts": ["deal", "peisaj"]
+    },
+    {
+      "id": "loma-del-taburete-relief-v2",
+      "description": "Un munte în inima regiunii Escambray. Face parte din relieful montan al Cubei centrale.",
+      "facts": ["munte", "natură"]
+    },
+    {
+      "id": "pico-san-juan-relief-v2",
+      "description": "Cel mai înalt punct din munții Escambray. Este un reper important al regiunii montane centrale.",
+      "facts": ["vârful cel mai înalt", "Escambray"]
+    },
+    {
+      "id": "loma-del-capiro-relief-v2",
+      "description": "Un deal proeminent lângă Santa Clara, cunoscut ca punct de belvedere. Are și o semnificație locală istorică.",
+      "facts": ["deal istoric", "belvedere"]
+    },
+    {
+      "id": "cuba-landmarks-v2-06",
+      "description": "Palatul foștilor căpitani generali din Havana, astăzi muzeul orașului. Este unul dintre cele mai importante repere coloniale ale capitalei.",
+      "facts": ["stilul baroc", "finalizat în 1791", "situat în Plaza de Armas"]
+    },
+    {
+      "id": "cuba-landmarks-v2-27",
+      "description": "Unul dintre cele mai monumentale cimitire din America, cunoscut pentru arhitectura funerară. Este un monument național cubanez.",
+      "facts": ["fondat în 1876", "mii de morminte elaborate", "monument național cubanez"]
+    }
+  ]
+}

@@ -35,8 +35,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["Irán és Katar közösen birtokolja a 9700 négyzetkilométeres gázmezőt.", "Az iráni oldal (Déli Pars) körülbelül 3700 négyzetkilométer kiterjedésű.", "A becslések szerint a világ teljes földgázkészletének mintegy 8 százaléka található itt.", "A gázmezőből napi szinten több százmillió köbméter földgázt nyernek ki.", "A termelés első fázisai a 2000-es évek elején indultak meg az iráni szektorban.", "A kitermelt gáz jelentős részét az Aszaluje ipari zónában dolgozzák fel."],
       ro: ["Zăcământul a fost descoperit în 1990 de către compania NIOC.", "Suprafața totală a câmpului este de aproximativ 9.700 de kilometri pătrați.", "Dintre aceștia, circa 3.700 de kilometri pătrați se află în apele teritoriale iraniene.", "Găzduiește rezerve estimate la 14 trilioane de metri cubi de gaze naturale.", "Rezervele de condensat de gaze sunt evaluate la peste 18 miliarde de barili.", "Extracția este divizată în zeci de faze complexe de dezvoltare industrială.", "Gazul extras este esențial pentru industria internă și pentru piețele de export."],
       en: ["The gas field was discovered in 1990 by the NIOC.", "The total area of the field is around 9,700 square kilometers.", "About 3,700 square kilometers are located within Iranian territorial waters.", "It holds an estimated 14 trillion cubic meters of natural gas.", "Gas condensate reserves are estimated at over 18 billion barrels.", "Extraction is divided into dozens of complex development phases.", "The extracted gas is essential for domestic industry and exports."]
-    }
-  },
+    }, image: "/poi-images/south-pars-gas-field-economic-v2.webp"},
   {
     id: "bandar-abbas-port-economic-v2",
     type: "port",
@@ -71,8 +70,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A kikötő az iráni tengeri áruforgalom több mint 70 százalékát bonyolítja le.", "Stratégiai elhelyezkedése miatt közvetlen hozzáférést biztosít az Indiai-óceánhoz.", "A létesítmény több mint 30 hajóállással és kilométeres hosszúságú rakpartokkal rendelkezik.", "Az itt található finomító napi szinten mintegy 350 ezer hordó kőolajat dolgoz fel.", "A kikötő közvetlen vasúti összeköttetésben áll Közép-Ázsia és Oroszország tranzitútvonalaival.", "Külön terminálokkal rendelkezik a konténeres, ömlesztett és folyékony áruk fogadására."],
       ro: ["Portul gestionează peste 80% din traficul iranian de containere.", "Are o capacitate totală de manipulare de peste 100 de milioane de tone anual.", "Complexul se întinde pe o suprafață impresionantă de peste 2.400 de hectare.", "Aproximativ 40 de dane sunt disponibile pentru ancorarea navelor de diferite dimensiuni.", "Este conectat direct la Coridorul Internațional de Transport Nord-Sud (INSTC).", "Portul se află la circa 20 de kilometri vest de orașul cu același nume, Bandar Abbas.", "Un terminal petrolier specializat este dedicat transferului de produse petrochimice."],
       en: ["The port handles over 80 percent of Iranian container traffic.", "It has a total capacity of over 100 million tons per year.", "The complex covers an impressive area of more than 2,400 hectares.", "Around 40 berths are available for ships of various sizes.", "It is directly connected to the International North-South Transport Corridor.", "The port is located about 20 kilometers west of Bandar Abbas city.", "A dedicated oil terminal is responsible for transferring petrochemical products."]
-    }
-  },
+    }, image: "/poi-images/bandar-abbas-port-economic-v2.webp"},
   {
     id: "sarcheshmeh-copper-mine-economic-v2",
     type: "mine",
@@ -107,8 +105,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["Ez a Közel-Kelet legnagyobb rézlelőhelye és a világ egyik legjelentősebb rézbányája.", "A lelőhely becsült tartaléka meghaladja az 1,2 milliárd tonna rézércet.", "A bányászat egy 2500 méteres tengerszint feletti magasságban lévő fennsíkon zajlik.", "A réz mellett jelentős mennyiségű molibdén, arany és ezüst is kitermelésre kerül.", "A helyi kohászati komplexum évente több százezer tonna rézkatódot állít elő.", "A bánya mélysége eléri a több száz métert, és folyamatosan bővítik a kitermelési területet."],
       ro: ["Zăcământul de minereu a fost documentat geologic pentru prima dată în anul 1928.", "Exploatarea industrială efectivă pe scară largă a debutat în deceniul 1970.", "Rezervele sunt estimate la peste 1,2 miliarde de tone de minereu cu conținut de cupru.", "Conținutul mediu de cupru din minereul extras este de aproximativ 0,7 procente.", "Anual se obțin sute de tone de concentrat de molibden ca produs secundar.", "Mina se află la aproximativ 160 de kilometri sud-vest de capitala provinciei, Kerman.", "Reprezintă unul dintre cei mai mari angajatori pentru populația locală din sud-estul Iranului."],
       en: ["The ore deposit was first documented geologically in 1928.", "Actual large-scale industrial exploitation began in the 1970s.", "Reserves are estimated at over 1.2 billion tons of copper-bearing ore.", "The average copper content in the extracted ore is about 0.7 percent.", "Hundreds of tons of molybdenum concentrate are produced annually.", "The mine is located about 160 kilometers southwest of Kerman city.", "It is one of the largest employers for the regional population."]
-    }
-  },
+    }, image: "/poi-images/sarcheshmeh-copper-mine-economic-v2.webp"},
   {
     id: "mobarakeh-steel-company-economic-v2",
     type: "industry",
@@ -143,8 +140,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["Az acélmű Irán teljes acéltermelésének több mint 50 százalékát adja.", "A komplexumot hivatalosan 1993-ban adták át és indították be az ipari termelést.", "Éves gyártókapacitása meghaladja a 10 millió tonna hengerelt acélterméket.", "Az üzem közvetlenül több mint 14 ezer embernek ad munkát a régióban.", "Az acélgyártáshoz szükséges vasérc jelentős része hazai, iráni bányákból származik.", "A gyár saját, zárt láncú víztisztító rendszert üzemeltet a sivatagi vízhiány enyhítésére."],
       ro: ["Construcția acestei facilități uriașe a început la sfârșitul anilor 1970.", "Punerea oficială în funcțiune a avut loc, după mai multe întârzieri, în 1993.", "Capacitatea anuală de producție depășește 10 milioane de tone de oțel brut.", "Platforma industrială ocupă o suprafață vastă de 35 de kilometri pătrați.", "Compania asigură peste 50% din necesarul total de oțel al pieței iraniene.", "Combinatul utilizează tehnologii avansate de reducere directă pentru prelucrarea minereului de fier.", "Oferă locuri de muncă directe și indirecte pentru aproape 350.000 de persoane."],
       en: ["Construction of the massive facility began in the late 1970s.", "Official commissioning took place after delays in 1993.", "The annual production capacity exceeds 10 million tons of crude steel.", "The plant area covers an impressive 35 square kilometers.", "MSC supplies over 50 percent of the total Iranian steel demand.", "The plant uses advanced direct reduction processes for iron ore.", "It directly and indirectly employs an estimated 350,000 people."]
-    }
-  },
+    }, image: "/poi-images/mobarakeh-steel-company-economic-v2.webp"},
   {
     id: "chabahar-port-economic-v2",
     type: "port",
@@ -179,8 +175,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A kikötő két fő terminálból áll: a Sahíd Kalantari és a Sahíd Behesti kikötőrészekből.", "India több mint 500 millió dolláros befektetéssel járult hozzá a kikötő fejlesztéséhez 2016 után.", "Ez a kikötő az Észak-Dél Nemzetközi Tranzitfolyosó (INSTC) egyik kulcsfontosságú állomása.", "Földrajzi fekvése révén védve van a Perzsa-öböl esetleges lezárásának kockázataitól.", "A kikötő áteresztőképessége a fejlesztések révén évi 8,5 millió tonnára növekedett.", "A terület különleges gazdasági övezetként működik, adó- és vámkedvezményeket biztosítva."],
       ro: ["Portul este alcătuit din două complexe principale: Shahid Kalantari și Shahid Beheshti.", "În 2016, India, Iran și Afganistan au semnat un acord de tranzit istoric.", "India s-a angajat să investească sute de milioane de dolari în dezvoltarea terminalelor.", "Portul reduce semnificativ timpul de transport către Afganistan comparativ cu rutele pakistaneze.", "Capacitatea este planificată să crească de la 2,5 milioane la peste 8 milioane de tone anual.", "O nouă linie ferată va conecta Chabahar de orașul strategic Zahedan.", "Joacă un rol fundamental în Coridorul Internațional de Transport Nord-Sud."],
       en: ["The port consists of two main complexes: Shahid Kalantari and Shahid Beheshti.", "In 2016, India, Iran, and Afghanistan signed a landmark transit agreement.", "India committed to investing hundreds of millions of dollars in terminal expansion.", "The port significantly reduces transport time to Afghanistan compared to Pakistani routes.", "Capacity is planned to increase from 2.5 million to over 8 million tons annually.", "A planned railway line will connect Chabahar to the city of Zahedan.", "It plays a central role in the International North-South Transport Corridor."]
-    }
-  },
+    }, image: "/poi-images/chabahar-port-economic-v2.webp"},
   {
     id: "tabriz-petrochemical-economic-v2",
     type: "industry",
@@ -215,8 +210,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A vállalatot 1990-ben alapították az iráni petrolkémiai ipar bővítési programjának keretében.", "Az üzem évente mintegy 800 ezer tonna különféle petrolkémiai terméket állít elő.", "A komplexum alapanyag-ellátását részben a szomszédos tebrizi olajfinomító biztosítja.", "Termékpalettáján olyan anyagok szerepelnek, mint a propilén, a polietilén és a butadién.", "A kombinát a belföldi műanyagipar legfőbb alapanyag-szállítója Északnyugat-Iránban.", "Az üzem saját hőerőművel rendelkezik a folyamatos energiaellátás biztosítása érdekében."],
       ro: ["Planificarea complexului industrial a debutat la sfârșitul anilor 1980.", "Deschiderea oficială și începerea producției au avut loc în anul 1998.", "Producția include polietilenă, polistiren și mase plastice de tip ABS.", "Unitatea are o capacitate de producție anuală de sute de mii de tone de polimeri.", "Materiile prime principale provin predominant de la rafinăria adiacentă din Tabriz.", "Este unul dintre puținele centre petrochimice iraniene care nu se află în sud, la Golful Persic.", "O mare parte a producției susține cererea masivă de materiale plastice de pe piața internă."],
       en: ["Planning for the industrial complex began in the late 1980s.", "The official opening and start of production took place in 1998.", "Production includes polyethylene, polystyrene, and ABS plastics.", "TPC has an annual production capacity of hundreds of thousands of tons of polymers.", "The plant sources its primary raw materials mostly from the nearby Tabriz refinery.", "It is one of the few Iranian petrochemical centers not located in the south.", "A large part of the products meets the massive domestic demand for plastics."]
-    }
-  },
+    }, image: "/poi-images/tabriz-petrochemical-economic-v2.webp"},
   {
     id: "ahvaz-oil-field-economic-v2",
     type: "energy",
@@ -251,8 +245,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A lelőhelyet 1953-ban fedezték fel, és 1954-ben kezdődött meg a kitermelés.", "Kiterjedése eléri a 67 kilométer hosszúságot és a 6 kilométer szélességet.", "A mező becsült eredeti olajkészlete meghaladta a 65 milliárd hordót.", "Az Ahváz mezőből származik az iráni olajtermelés jelentős százaléka, napi több százezer hordóval.", "A kitermelt nyersolaj egy része az Abadáni és a Teheráni finomítókba kerül feldolgozásra.", "A kőolaj kitermelése során jelentős mennyiségű kísérőgázt is a felszínre hoznak."],
       ro: ["Câmpul a fost descoperit în 1958 de companii internaționale de explorare.", "Se întinde pe o lungime uriașă de aproape 70 de kilometri liniari.", "Rezervele de petrol recuperabil sunt estimate la aproximativ 37 de miliarde de barili.", "Produce în medie peste 700.000 de barili de țiței în fiecare zi.", "Extracția se realizează în principal din formațiunile geologice Asmari și Bangestan.", "O rețea complexă de conducte subterane și terestre leagă zăcământul de terminalele de export.", "Căldura extremă de vară din Khuzestan face ca munca pe câmp să fie deosebit de dificilă."],
       en: ["The field was discovered in 1958 by international exploration companies.", "It stretches over a massive length of almost 70 linear kilometers.", "Recoverable oil reserves are estimated at around 37 billion barrels.", "It produces an average of over 700,000 barrels of crude oil daily.", "Extraction mainly occurs from the Asmari and Bangestan geological formations.", "A complex network of underground and surface pipelines connects it to export terminals.", "The extreme summer heat in Khuzestan makes working conditions very challenging."]
-    }
-  },
+    }, image: "/poi-images/ahvaz-oil-field-economic-v2.webp"},
   {
     id: "bafgh-iron-ore-mine-economic-v2",
     type: "mine",
@@ -287,8 +280,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A Bafgh környéki vasérc-régió adja Irán bizonyított vasérc-tartalékának mintegy egyharmadát.", "A bányaüzem területén az érc vastartalma gyakran meghaladja az 50-60 százalékot is.", "A kitermelés nagy részét az 1971-ben alapított Central Iron Ore Company of Iran (Choghart) végzi.", "A bányászat több mint 200 méter mély nyílt színi kráterekben történik.", "A helyi bányászati komplexum pelletáló üzemet is működtet az érc előkészítésére.", "Bafgh városa a bányászati termékek egyik legfőbb vasúti csomópontja az országban."],
       ro: ["Complexul minier, cunoscut ca Central Iron Ore Company, a început operațiunile în 1971.", "Una dintre cele mai faimoase și mai mari secțiuni este renumita mină Choghart.", "Inițial, rezervele doar din zona Choghart au fost estimate la peste 400 de milioane de tone.", "Complexul furnizează concentrat de minereu, minereu peletizat și minereu concasat.", "O linie de cale ferată construită special conectează Bafgh cu centrul siderurgic Isfahan.", "Metodele moderne de extracție permit exploatarea rentabilă și a minereurilor mai sărace.", "Mineritul a transformat orașul Bafgh într-un nod industrial de importanță națională."],
       en: ["The mining complex, known as Central Iron Ore Company, began operations in 1971.", "One of the most famous and largest sections is the renowned Choghart mine.", "Initially, reserves in Choghart alone were estimated at over 400 million tons.", "The complex supplies iron ore concentrate, pelletized ore, and crushed ore.", "A specially built railway line connects Bafgh with the Isfahan steel center.", "Modern extraction methods allow profitable use of ores with lower iron content.", "Mining has caused the city of Bafgh to grow into a major industrial hub."]
-    }
-  },
+    }, image: "/poi-images/bafgh-iron-ore-mine-economic-v2.webp"},
   {
     id: "asaluyeh-industrial-area-economic-v2",
     type: "industry",
@@ -323,8 +315,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["Az ipari övezetet a Pars Különleges Energia-Gazdasági Övezet (PSEEZ) keretében hozták létre 1998-ban.", "A terület mintegy 100 négyzetkilométeren terül el a Perzsa-öböl és a Zagrosz-hegység között.", "Itt működik a világ egyik legnagyobb koncentrált petrolkémiai feldolgozó kapacitása.", "Az üzemek a földgázból többek között metanolt, propánt, butánt és ként állítanak elő.", "Aszaluje nemzetközi repülőteret is kapott a hatalmas mérnöki és munkásgárda kiszolgálására.", "A komplexum naponta több százmillió köbméter gázt tisztít meg és készít elő exportra vagy hazai használatra."],
       ro: ["Zona economică specială PSEEZ a fost înființată oficial în anul 1998.", "Aria industrială se întinde pe o suprafață totală de peste 10.000 de hectare.", "Găzduiește zeci de faze masive de prelucrare destinate gazului din South Pars.", "Miliarde de dolari, din surse interne și externe, au fost investite în dezvoltarea sa.", "Un aeroport internațional a fost construit special pentru a deservi necesitățile logistice ale zonei.", "Rețeaua uriașă de facle din Asaluyeh este vizibilă în mod clar din spațiu.", "Zona generează o parte semnificativă din veniturile valutare non-petroliere ale Iranului."],
       en: ["The PSEEZ special economic zone was officially established in 1998.", "The area spans a total surface of more than 10,000 hectares.", "It houses over a dozen massive gas processing phases for South Pars.", "Billions of dollars in both domestic and foreign investments funded its expansion.", "An international airport was specifically built to handle the region's logistics.", "The vast network of flares in Asaluyeh is clearly visible from space.", "The zone generates a significant portion of Iran's non-oil foreign exchange revenues."]
-    }
-  },
+    }, image: "/poi-images/asaluyeh-industrial-area-economic-v2.webp"},
   {
     id: "bandar-imam-khomeini-economic-v2",
     type: "port",
@@ -359,8 +350,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A kikötő eredeti neve Bandar Sahpur volt, melyet az 1979-es forradalom után változtattak meg.", "Területe meghaladja az 1000 hektárt, ezzel az ország egyik legkiterjedtebb logisztikai központja.", "Évente több mint 30 millió tonna áru halad át a kikötő különböző termináljain.", "Külön erre a célra épült silókkal rendelkezik a nagy mennyiségű importált gabona tárolására.", "A kikötőt a Transziráni Vasút köti össze az ország északi felével és a Kaszpi-tengerrel.", "A helyi petrolkémiai komplexum a Közel-Kelet legnagyobbjai közé tartozik."],
       ro: ["Portul a fost construit în anii 1930 și se numea inițial Bandar Shahpur.", "A primit numele actual după victoria Revoluției Islamice din anul 1979.", "Dispune de aproape 40 de dane operaționale capabile să deservească diverse tipuri de nave.", "Complexul se întinde pe o suprafață uluitoare de aproximativ 10.000 de hectare.", "Este cel mai important punct de tranzit pentru produsele agricole vrac din Iran.", "Poate acomoda nave cu un pescaj maxim de până la 13,5 metri.", "Majoritatea exporturilor petrochimice sunt încărcate prin intermediul terminalelor sale specializate."],
       en: ["The port was built in the 1930s and was originally named Bandar Shahpur.", "It received its current name after the Islamic Revolution of 1979.", "It features nearly 40 active berths for ships of all kinds.", "The complex covers a staggering area of 10,000 hectares.", "It is the most important transit point for agricultural bulk goods in Iran.", "The port can accommodate vessels with a draft of up to 13.5 meters.", "A large part of Iranian petrochemical exports is loaded via specialized terminals here."]
-    }
-  },
+    }, image: "/poi-images/bandar-imam-khomeini-economic-v2.webp"},
   {
     id: "arak-machine-sazi-economic-v2",
     type: "industry",
@@ -395,8 +385,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A gyárat 1967-ben alapították, és hivatalosan 1971-ben kezdte meg működését.", "A komplexum területe meghaladja a 130 hektárt az araki ipari zónában.", "A vállalat évente több tízezer tonna nehézipari berendezést és acélszerkezetet gyárt.", "Ők gyártották az első iráni tervezésű és kivitelezésű hatalmas petrolkémiai reaktorokat.", "A gyár speciális hegesztési és fémvizsgálati laboratóriumokkal is rendelkezik.", "A Machine Sazi Arak több mint tucatnyi jelentős folyami és völgyhíd szerkezetét szállította le az országnak."],
       ro: ["Fabrica a fost înființată în anul 1968 beneficiind de sprijin tehnologic sovietic.", "Operațiunile în această uriașă facilitate au demarat oficial în anul 1972.", "Platforma industrială ocupă o suprafață impresionantă de circa 134 de hectare.", "MSA a proiectat și produs componente pentru sute de poduri metalice din întreaga țară.", "Produce rezervoare sferice sub presiune extrem de specializate pentru stocarea gazului lichefiat.", "Compania dispune de propriul centru dedicat instruirii sudorilor și tehnicienilor calificați.", "A fost prima companie de industrie grea din Iran care a primit certificate internaționale de calitate."],
       en: ["The factory was established in 1968 with Soviet technological assistance.", "Operations at the giant facility officially started in 1972.", "The plant area covers an impressive 134 hectares.", "MSA has constructed hundreds of large steel bridges across the country.", "It produces highly specialized spherical pressure tanks for storing liquefied gas.", "The company has its own dedicated training facility for welders and technicians.", "It was the first heavy industry company in Iran to receive international quality certificates."]
-    }
-  },
+    }, image: "/poi-images/arak-machine-sazi-economic-v2.webp"},
   {
     id: "chadormalu-mining-economic-v2",
     type: "mine",
@@ -431,8 +420,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A lelőhelyet geológusok fedezték fel 1940-ben, de az ipari bányászat csak az 1990-es években indult el.", "A bánya feltárt és becsült vasérc-készlete meghaladja a 320 millió tonnát.", "A komplexum évente több mint 10 millió tonna vasérc-koncentrátumot állít elő.", "A bányászati terület mintegy 180 kilométerre fekszik a legközelebbi nagyvárostól, Jazdtól.", "A kitermelt érc átlagos vastartalma viszonylag magas, 55 százalék körüli.", "A vállalat saját gázturbinás erőművet épített az energiaintenzív feldolgozás támogatására."],
       ro: ["Zăcământul masiv a fost descoperit prin studii geologice aprofundate în 1940.", "Cu toate acestea, extracția propriu-zisă a minereului a început abia în anul 1999.", "Rezervele totale estimate se ridică la aproximativ 400 de milioane de tone de minereu de fier.", "Minereul extras se mândrește cu un conținut mediu de fier de peste 55 la sută.", "O conductă specială de 170 de kilometri furnizează apă complexului din orașul Yazd.", "Unitatea poate produce până la 10,5 milioane de tone de concentrat de fier anual.", "O centrală electrică adiacentă garantează aprovizionarea energetică independentă a minei."],
       en: ["The massive deposit was discovered through geological surveys in 1940.", "Actual mining of the ores only began in 1999.", "Estimated total reserves amount to around 400 million tons of iron ore.", "The extracted ore has an average iron content of over 55 percent.", "A special 170-kilometer pipeline supplies water to the complex from Yazd.", "The facility produces up to 10.5 million tons of iron ore concentrate annually.", "An attached power plant ensures the mine's independent energy supply."]
-    }
-  },
+    }, image: "/poi-images/chadormalu-mining-economic-v2.webp"},
   {
     id: "abadan-refinery-economic-v2",
     type: "energy",
@@ -467,8 +455,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["Az 1912-ben alapított finomító egykor a világ legnagyobb ilyen létesítménye volt.", "Az 1980-as évekig napi több mint 600 ezer hordó nyersolajat dolgozott fel.", "Az irak-iráni háborúban (1980-1988) a finomító majdnem teljesen megsemmisült.", "A háború utáni újjáépítést követően a feldolgozóképességet napi mintegy 400 ezer hordóra állították vissza.", "A finomító adja Irán belföldi benzin- és dízelüzemanyag-ellátásának jelentős részét.", "A létesítmény hatalmas katalitikus krakkoló egységekkel rendelkezik a nehéz olajfrakciók hasznosítására."],
       ro: ["Rafinăria a fost pusă în funcțiune în anul 1912 de către Anglo-Persian Oil Company.", "Până în 1980, capacitatea sa de rafinare ajunsese la enorma cifră de 630.000 de barili pe zi.", "În timpul celor opt ani de război, producția a fost oprită complet din cauza bombardamentelor.", "După reconstrucție, unitatea și-a reluat activitatea cu capacitate redusă în anul 1993.", "În prezent, instalația prelucrează zilnic circa 400.000 de barili de țiței brut.", "Produce o mare parte din benzina auto consumată zilnic pe piața din Iran.", "O rețea specială de conducte conectează direct rafinăria la câmpurile petroliere Ahvaz."],
       en: ["The refinery was commissioned in 1912 by the Anglo-Persian Oil Company.", "By 1980, its processing capacity had reached a massive 630,000 barrels per day.", "During the eight-year Iran-Iraq War, production ceased entirely due to bombings.", "Following reconstruction, it resumed operations with reduced capacity in 1993.", "Today, the facility processes around 400,000 barrels of crude oil daily.", "It produces a significant portion of the automotive gasoline consumed in Iran.", "A dedicated pipeline network connects the refinery directly to the Ahvaz oil fields."]
-    }
-  },
+    }, image: "/poi-images/abadan-refinery-economic-v2.webp"},
   {
     id: "bandar-lengeh-economic-v2",
     type: "port",
@@ -503,8 +490,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A kikötő a 19. század végén és a 20. század elején a Perzsa-öböl legfőbb gyöngykereskedelmi központja volt.", "A partvonal hosszúsága és a vízmélység korlátozza a gigantikus óceánjárók fogadását.", "Rendszeres utas- és teherkompjáratok kötik össze az Egyesült Arab Emírségekkel.", "A kikötő az Iránon belüli szigeti turizmus (például Kis szigete) egyik fő kiszolgálója.", "Évente több százezer tonna ömlesztett áru és mezőgazdasági termék cserél itt gazdát.", "A városban számos történelmi, széltoronnyal (bádgir) rendelkező kereskedőház maradt fenn."],
       ro: ["De la sfârșitul secolului 18 până la începutul secolului 20, era supranumit „Capitala Perlelor”.", "Introducerea perlelor de cultură japoneze în anii 1930 a distrus vechiul comerț maritim.", "Astăzi, prin port tranzitează anual peste 1,5 milioane de tone de mărfuri diverse.", "Este un important terminal de feriboturi care transportă pasageri spre insulele Kish și Qeshm.", "Multe dintre bunurile exportate sunt produse agricole provenite din interiorul Iranului.", "Portul dispune de facilități special adaptate comerțului tradițional de coastă.", "Mare parte din arhitectura istorică a orașului portuar reflectă stilul arăbesc de la Golf."],
       en: ["From the late 18th to early 20th century, it was known as the 'Pearl Capital'.", "The introduction of Japanese cultured pearls in the 1930s destroyed the historic trade.", "Today, the port handles over 1.5 million tons of cargo annually.", "It is an important ferry terminal carrying passengers to Kish and Qeshm islands.", "Many of the exported goods are agricultural products from inland Iran.", "The port has specialized facilities for traditional coastal trading.", "Much of the historical architecture in the port city features Arab Gulf styles."]
-    }
-  },
+    }, image: "/poi-images/bandar-lengeh-economic-v2.webp"},
   {
     id: "bushehr-nuclear-plant-economic-v2",
     type: "energy",
@@ -539,8 +525,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["Az erőmű építését 1975-ben kezdte meg a német Kraftwerk Union, de a forradalom után leállították.", "A munkálatokat a 90-es évek közepén az orosz Roszatom vette át és fejezte be.", "A létesítmény első, 1000 megawattos nyomottvizes reaktorblokkja 2011-ben csatlakozott az elektromos hálózathoz.", "Az erőmű VVER-1000 típusú reaktortechnológiát használ, orosz dúsított urán fűtőelemekkel.", "A létesítmény fűtőanyag-ellátását és a kiégett fűtőelemek visszaszállítását nemzetközi egyezmények szabályozzák.", "Busehr területén a tervek szerint további két reaktorblokk építése is zajlik a kapacitás növelése érdekében."],
       ro: ["Construcția a fost demarată în 1975 de compania vest-germană Kraftwerk Union (KWU).", "Lucrările de pe șantier au fost suspendate complet în 1979 după Revoluția Islamică.", "În 1995, Iranul a semnat un acord cu corporația rusă Rosatom pentru finalizarea centralei.", "Primul reactor (Bushehr-1) are o putere electrică netă generată de aproximativ 915 megawați.", "Centrala a fost racordată oficial la rețeaua electrică iraniană în luna septembrie 2011.", "Instalația folosește un reactor cu apă sub presiune de design rusesc, modelul VVER-1000.", "Rusia furnizează combustibilul nuclear necesar și recuperează elementele uzate, conform contractului."],
       en: ["Construction of the plant was started in 1975 by the German company Kraftwerk Union.", "Work was abruptly suspended in 1979 following the Islamic Revolution.", "In 1995, Iran signed a contract with Russia's Rosatom to complete the facility.", "The first reactor (Bushehr-1) has a net electrical output of about 915 megawatts.", "The power plant was officially connected to the Iranian power grid in September 2011.", "The facility uses a Russian-designed VVER-1000 pressurized water reactor.", "Russia supplies the nuclear fuel and takes back the spent fuel assemblies."]
-    }
-  },
+    }, image: "/poi-images/bushehr-nuclear-plant-economic-v2.webp"},
   {
     id: "iran-khodro-tehran-economic-v2",
     type: "industry",
@@ -575,8 +560,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A vállalatot 1962-ben alapították, kezdetben buszok összeszerelésére fókuszálva.", "Leghíresebb korai modelljük a Paykan volt, amely több mint három évtizedig volt az iráni utak leggyakoribb autója.", "A gyár kapacitása meghaladja az évi egymillió járművet, kiszolgálva a belső és regionális piacokat.", "A saját fejlesztésű Samand modellt \"Irán nemzeti autójának\" is nevezik.", "Az üzemben Peugeot és Renault modellek lokalizált verzióit is nagy számban gyártják.", "A vállalat saját motorfejlesztő részlege felelős az EF7 nevű, benzin-gáz üzemű hajtóműcsaládért."],
       ro: ["Compania a fost fondată în 1962 de frații Ahmad și Mahmoud Khayami ca „Iran National”.", "Cel mai faimos model istoric a fost Paykan, care a dominat drumurile iraniene decenii la rând.", "Complexul găzduiește secții uriașe de ștanțare, sudură robotizată și vopsitorie auto.", "IKCO produce anual peste 500.000 de vehicule dintr-o gamă largă de modele.", "În trecut, compania a colaborat strâns cu mari producători precum Peugeot și Suzuki.", "Prin modelul „Samand”, compania a lansat în 2002 prima sa mașină integral autohtonă.", "Întreprinderea operează de asemenea facilități de asamblare în Siria, Senegal și Azerbaidjan."],
       en: ["The company was founded in 1962 by brothers Ahmad and Mahmoud Khayami as 'Iran National'.", "Its most famous historic model was the Paykan, which dominated Iranian roads for decades.", "The factory complex houses massive stamping, welding, and painting centers.", "IKCO produces over 500,000 vehicles annually across various model lines.", "The company historically collaborated closely with Peugeot and Suzuki.", "With the 'Samand' model in 2002, the company launched its first completely proprietary car.", "The firm also maintains production facilities in countries like Syria, Senegal, and Azerbaijan."]
-    }
-  },
+    }, image: "/poi-images/iran-khodro-tehran-economic-v2.webp"},
   {
     id: "golgohar-iron-ore-economic-v2",
     type: "mine",
@@ -611,8 +595,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A Golgohar régió hat különálló, de egymáshoz közeli nagy érclelőhelyből áll.", "A terület bizonyított vasérckészletét több mint egymilliárd tonnára becsülik.", "A bánya évente mintegy 15-20 millió tonna vasérc-koncentrátumot és pelletet állít elő.", "A komplexum közvetlenül látja el alapanyaggal a közeli Mobáraké és Huzesztáni acélműveket.", "A bányászatot komolyan nehezíti a sivatagi környezet miatti krónikus vízhiány.", "A vállalat jelentős beruházásokat hajt végre a Perzsa-öbölből érkező tengervíz-sótalanító vezetékek kiépítésében."],
       ro: ["Descoperirea primelor corpuri de minereu în această regiune a avut loc încă din anul 1969.", "Rezervele totale dovedite depășesc incredibila cantitate de 1,2 miliarde de tone.", "Anomalia 1, care a fost exploatată prima dată, este considerată o mină de top pe plan național.", "Mina folosește benzi transportoare moderne și autobasculante uriașe cu capacitate de încărcare extremă.", "Dispune de fabrici de peletizare cu o capacitate uimitoare de mai multe milioane de tone anual.", "Pentru a acoperi necesarul enorm de apă, a fost construită o conductă tocmai de la Golful Persic.", "Complexul livrează materia primă esențială oțelăriilor din Khuzestan, Mobarakeh și din restul țării."],
       en: ["The first ore bodies in the area were discovered back in 1969.", "Proven total reserves of the region exceed a staggering 1.2 billion tons.", "Anomaly 1, which was exploited first, is considered one of the country's most productive mines.", "The mine utilizes modern conveyor belts and massive haul trucks with enormous payload capacity.", "It features pelletizing plants with a capacity of several million tons per year.", "To meet immense water needs, a pipeline was built all the way from the Persian Gulf.", "The complex supplies raw materials to steel mills nationwide, including Khuzestan and Mobarakeh."]
-    }
-  },
+    }, image: "/poi-images/golgohar-iron-ore-economic-v2.webp"},
   {
     id: "khorramshahr-port-economic-v2",
     type: "port",
@@ -647,8 +630,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["Az 1980 előtti időszakban ez a kikötő bonyolította Irán tengeri importjának és exportjának döntő többségét.", "Az irak-iráni háború alatt (1980-88) a kikötői infrastruktúra és a város szinte teljes egészében megsemmisült.", "A létesítmény mintegy 20 aktív hajóállással rendelkezik a folyóparti rakpartokon.", "Speciális terminálokat alakítottak ki a személyforgalom, különösen a vallási zarándokok kiszolgálására Irak felé.", "A folyó korlátozott merülése miatt elsősorban a közepes és kisebb kapacitású hajók használják.", "A terület a \"Arvand Szabadkereskedelmi Övezet\" része, ami ösztönzi a határokon átnyúló üzleti tevékenységet."],
       ro: ["Înainte de 1980, portul beneficia de 20 de dane active și o infrastructură fără egal.", "În timpul marii Bătălii de la Khorramshahr din 1980, unitatea a fost rasă de pe fața pământului.", "Mii de epave de nave și muniții neexplodate au trebuit îndepărtate minuțios din ape după război.", "Reluarea oficială a activităților portuare, la capacitate redusă, s-a produs la finalul anului 1992.", "În prezent, complexul oferă din nou terminale de containere și facilități pentru pasageri moderne.", "Portul profită semnificativ de conexiunea sa directă cu rețeaua feroviară iraniană la Ahvaz.", "O rută maritimă regulată transportă atât pasageri, cât și diverse bunuri comerciale către Kuweit."],
       en: ["Before 1980, the port had 20 active berths and an unmatched infrastructure.", "During the Battle of Khorramshahr in 1980, the facility was almost completely leveled.", "Thousands of shipwrecks and unexploded ordnance had to be cleared from the waters.", "Official operations resumed with reduced capacity at the end of 1992.", "Today, the port again offers modern container terminals and passenger facilities.", "It benefits greatly from its direct connection to the national railway network in Ahvaz.", "A regular ferry service transports passengers and goods to Kuwait."]
-    }
-  },
+    }, image: "/poi-images/khorramshahr-port-economic-v2.webp"},
   {
     id: "gachsaran-oil-field-economic-v2",
     type: "energy",
@@ -683,8 +665,7 @@ export const poiExtraIranEconomicV2: POI[] = [
       hu: ["A lelőhelyet 1928-ban fedezték fel, és ezzel az iráni olajipar egyik legrégebbi termelő mezője.", "A mező 120 kilométer hosszú és 10-15 kilométer széles területen fekszik a Zagrosz gyűrődéses övezetében.", "A becsült eredeti kitermelhető olajvagyon mintegy 23 milliárd hordót tett ki.", "Az innen kitermelt nyersolajat nagynyomású csővezetékeken a Kharg-szigeti exportterminálra szállítják.", "A mező olaja viszonylag magas kéntartalmú, így a feldolgozása speciális finomítói eljárásokat igényel.", "Gacsszarán térsége jelentős földgáz-kísérőgáz termeléssel is rendelkezik, amelyet külön üzemekben hasznosítanak."],
       ro: ["Prima sondă forată cu succes (Sonda Gachsaran Nr. 1) a fost finalizată în anul 1928.", "Se clasează pe locul al doilea în topul marilor câmpuri petroliere din Iran, după Ahvaz.", "Rezervele inițiale de petrol estimate au fost la peste 52 de miliarde de barili de țiței.", "Petrolul extras este dens și sulfuros, necesitând un proces de desulfurare riguros înainte de export.", "Capacitatea de producție zilnică se menține la aproximativ o jumătate de milion de barili.", "Roca rezervor este alcătuită preponderent din calcare geologice din așa-numita formațiune Asmari.", "Gazele naturale care se extrag simultan cu petrolul sunt separate și direcționate către industria petrochimică."],
       en: ["The first successful well (Gachsaran No. 1) was drilled in 1928.", "It is the second-largest oil field in Iran after Ahvaz.", "Estimated initial oil reserves were over 52 billion barrels.", "The extracted oil is heavy and sour, requiring complex desulfurization before export.", "The daily production capacity is around half a million barrels.", "The reservoir rock consists mainly of limestone from the Asmari formation.", "Associated gas produced alongside the oil is separated and sent to the petrochemical industry."]
-    }
-  },
+    }, image: "/poi-images/gachsaran-oil-field-economic-v2.webp"},
   {
     id: "qeshm-free-trade-zone-economic-v2",
     type: "trade-hub",

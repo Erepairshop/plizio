@@ -1,0 +1,80 @@
+{
+  "lang": "hu",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "saskatchewan-cranberry-life-v2",
+      "description": "A Saskatchewanban termesztett tőzegáfonya a hűvösebb, nedvesebb termőterületekhez kötődik. A növény a helyi gyümölcstermesztés egyik kisebb, de ismert ága.",
+      "facts": ["Saskatchewanhoz kötődik", "Tőzegáfonya-termesztés", "Nedves termőterületeket igényel"]
+    },
+    {
+      "id": "gaspereau-valley-wines-life-v2",
+      "description": "A Gaspereau-völgy Nova Scotia egyik ismert borvidéke. A hűvös éghajlat és a lankás dombok kedveznek a szőlőnek.",
+      "facts": ["Nova Scotiában található", "Ismert borvidék", "Hűvös éghajlat jellemzi"]
+    },
+    {
+      "id": "montreal-insectarium-life-v2",
+      "description": "A montréali Insectarium a rovarok bemutatására és kutatására épülő intézmény. A város Space for Life negyedének fontos része.",
+      "facts": ["Montrealban van", "Rovarokra specializálódott", "A Space for Life része"]
+    },
+    {
+      "id": "mount-assiniboine-nature-v2",
+      "description": "A Mount Assiniboine a Sziklás-hegység egyik legismertebb csúcsa. A környező tartományi park magashegyi tavakkal és alpesi tájjal ismert.",
+      "facts": ["Brit Columbia és Alberta határvidékén van", "Magashegyi csúcs", "Tartományi park övezi"]
+    },
+    {
+      "id": "south-nahanni-river-nature-v2",
+      "description": "A South Nahanni folyó Kanada északnyugati részének vad folyója. Mély kanyonjai és vízesései miatt a nemzeti park egyik fő értéke.",
+      "facts": ["Az Északnyugati területeken folyik", "A Nahanni térségéhez tartozik", "Kanyonok és vízesések kísérik"]
+    },
+    {
+      "id": "great-slave-lake-nature-v2",
+      "description": "A Great Slave Lake Kanada egyik legnagyobb és legmélyebb tava. Az Északnyugati területek meghatározó vízteste, jeges északi környezettel.",
+      "facts": ["Az Északnyugati területeken található", "Kanada egyik legnagyobb tava", "Rendkívül mély víztest"]
+    },
+    {
+      "id": "haida-gwaii-islands-nature-v2",
+      "description": "A Haida Gwaii-szigetek Brit Columbia partjainál fekszenek. Esőerdők, tengerparti sziklák és a Haida kultúra együtt adják a térség karakterét.",
+      "facts": ["Brit Columbia partjai mellett van", "Szigetcsoport", "Esőerdők és tengerpartok jellemzik"]
+    },
+    {
+      "id": "carmanah-walbran-provincial-park-forest-nature-v2",
+      "description": "A Carmanah-Walbran Provincial Park Brit Columbia egyik híres öreg erdős területe. A mérsékelt övi esőerdő hatalmas fáiról ismert.",
+      "facts": ["Brit Columbiában található", "Öreg erdő és esőerdő", "Hatalmas fák jellemzik"]
+    },
+    {
+      "id": "coast-mountains-relief-v2",
+      "description": "A Coast Mountains a Csendes-óceán partja mentén húzódó nagy hegyvonulat Brit Columbiában. Meredek lejtők, fjordok és jég által formált völgyek jellemzik.",
+      "facts": ["Brit Columbia partvidékén fut", "Nagy hegyvonulat", "Fjordokkal tagolt táj"]
+    },
+    {
+      "id": "laurentian-mountains-relief-v2",
+      "description": "A Laurentian-hegység Québec egyik legrégebbi domb- és hegyvidéke. A Scut Canadian ősi kőzeteiből felépülő táj sok tóval és erdővel tagolt.",
+      "facts": ["Québecben található", "Ősi kőzetekből áll", "Sok tó és erdő kíséri"]
+    },
+    {
+      "id": "columbia-icefield-relief-v2",
+      "description": "A Columbia Icefield a Kanadai Sziklás-hegység nagy jégmezője. Alberta és Brit Columbia határvidékén több gleccser forrása is innen indul.",
+      "facts": ["Az Alberta-Brit Columbia határon van", "Nagy jégmező", "Több gleccsert táplál"]
+    },
+    {
+      "id": "mackenzie-mountains-relief-v2",
+      "description": "A Mackenzie-hegység Kanada északi részének távoli hegyvidéke. A zord terep és a ritka települések miatt vadon jellegű tájként ismert.",
+      "facts": ["Az Északnyugati területek és Yukon környékén van", "Távoli hegyvidék", "Sok helyen érintetlen vadon"]
+    },
+    {
+      "id": "torngat-mountains-relief-v2",
+      "description": "A Torngat-hegység Labrador északi csúcsainál emelkedik. Jeges csúcsai és mély völgyei Kanada egyik legsarkibb hegyvidéki táját adják.",
+      "facts": ["Labrador északi részén van", "Arktikus hegyvidék", "Jeges csúcsok és völgyek jellemzik"]
+    }
+  ]
+}

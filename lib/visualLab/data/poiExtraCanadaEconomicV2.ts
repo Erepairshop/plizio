@@ -65,12 +65,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-SK",
     coords: [-106.66, 52.13],
     name: { de: "Kali-Bergbau Saskatchewan", hu: "Saskatchewani káliműtrágya-bányászat", ro: "Mineritul de potasă Saskatchewan", en: "Saskatchewan Potash Mining" },
-    description: { de: "Einer der weltgrößten Produzenten von Kalisalzen.", hu: "A világ egyik legnagyobb kálisó-termelője.", ro: "Unul dintre cei mai mari producători de săruri de potasiu din lume.", en: "One of the world's largest producers of potash." },
+    description: { de: "Ein Zentrum des kanadischen Kalibergbaus in Saskatchewan.", hu: "A világ egyik legnagyobb kálisó-termelője.", ro: "Unul dintre cei mai mari producători de săruri de potasiu din lume.", en: "Saskatchewan's potash industry is one of the world's most important fertilizer supply chains. It centres on large mines that feed global agriculture." },
     facts: {
-      de: ["Kalisalz-Abbau", "Dünger-Export"],
+      de: ["In Saskatchewan", "Wichtiger Rohstoff für Dünger", "Teil eines weltgroßen Potash-Sektors"],
       hu: ["Kálisó-bányászat", "Műtrágya export"],
       ro: ["Mineritul de săruri de potasiu", "Export de îngrășăminte"],
-      en: ["Potash mining", "Fertilizer export"]
+      en: ["World-leading potash region", "Used mainly for fertilizer", "Closely linked to Nutrien"]
     },
     descriptionAdvanced: {
       de: "PotashCorp, heute Teil von Nutrien, machte Saskatchewan zum weltweit führenden Produzenten von Kalisalz. Die riesigen Vorkommen in der Prärieprovinz sind für die weltweite Landwirtschaft zur Düngerproduktion unverzichtbar. Wirtschaft K7 — Landwirtschaft und Rohstoffe."
@@ -85,12 +85,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-NL",
     coords: [-54.57, 48.95],
     name: { de: "Gander Logistikzentrum", hu: "Gander logisztikai központ", ro: "Centrul logistic Gander", en: "Gander Logistics Center" },
-    description: { de: "Strategischer Knotenpunkt für Frachtverkehr.", hu: "Stratégiai csomópont a teherszállításban.", ro: "Nod strategic pentru transportul de marfă.", en: "Strategic hub for freight transport." },
+    description: { de: "Strategischer Knotenpunkt für Frachtverkehr.", hu: "Stratégiai csomópont a teherszállításban.", ro: "Nod strategic pentru transportul de marfă.", en: "Gander International Airport became famous as a major transatlantic stop in Newfoundland. It still carries a strong aviation legacy and regional transport role." },
     facts: {
       de: ["Frachtknotenpunkt", "Logistikzentrum"],
       hu: ["Teherszállítási csomópont", "Logisztikai központ"],
       ro: ["Nod de transport de marfă", "Centru logistic"],
-      en: ["Freight hub", "Logistics center"]
+      en: ["Known as the Crossroads of the World", "Major transatlantic stop", "Important wartime aviation site"]
     },
     descriptionAdvanced: {
       de: "Der Gander International Airport in Neufundland spielte eine strategisch entscheidende Rolle in der Geschichte der Transatlantikflüge. Bekannt wurde er auch für seine Gastfreundschaft gegenüber gestrandeten Passagieren nach den Ereignissen vom 11. September. Geschichte K8 — Transatlantik-Luftfahrt."
@@ -118,12 +118,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-NB",
     coords: [-66.05, 45.26],
     name: { de: "Hafen Saint John", hu: "Saint John-i kikötő", ro: "Portul Saint John", en: "Port of Saint John" },
-    description: { de: "Wichtiger Industriehafen in New Brunswick.", hu: "Fontos ipari kikötő New Brunswickben.", ro: "Port industrial important în New Brunswick.", en: "Important industrial port in New Brunswick." },
+    description: { de: "Ein wichtiger Hafen an der Bay of Fundy in New Brunswick.", hu: "Saint John kikötője New Brunswick egyik legfontosabb tengeri kapuja. A Fundy-öbölben fekvő mélyvizű kikötő egész évben fontos áruforgalmat kezel.", ro: "Port industrial important în New Brunswick.", en: "The Port of Saint John is a major deepwater port on the Bay of Fundy. It supports cargo traffic, industry, and Atlantic Canada's trade links." },
     facts: {
-      de: ["Industriehafen", "Wichtiger Handelsknoten"],
-      hu: ["Ipari kikötő", "Fontos kereskedelmi csomópont"],
+      de: ["In Saint John, New Brunswick", "Tiefwasserhafen", "Umschlagplatz für Güter und Energie"],
+      hu: ["New Brunswickban található", "A Fundy-öböl partján van", "Mélyvizű kereskedelmi kikötő"],
       ro: ["Port industrial", "Nod comercial important"],
-      en: ["Industrial port", "Key trade hub"]
+      en: ["On the Bay of Fundy", "Major industrial port", "Key Atlantic trade gateway"]
     }, image: "/poi-images/saint-john-port-economic-v2.webp"},
   {
     id: "thunder-bay-port-economic-v2",
@@ -157,10 +157,10 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-QC",
     coords: [-66.38, 50.2],
     name: { de: "Hafen Sept-Îles", hu: "Sept-Îles-i kikötő", ro: "Portul Sept-Îles", en: "Port of Sept-Îles" },
-    description: { de: "Wichtiger Hafen für den Export von Eisenerz.", hu: "Fontos kikötő vasérc exportjára.", ro: "Port important pentru exportul de minereu de fier.", en: "Major port for the export of iron ore." },
+    description: { de: "Wichtiger Hafen für den Export von Eisenerz.", hu: "Sept-Îles kikötője Québec északi partjának egyik kulcsfontosságú gazdasági pontja. Különösen az ércszállítás és a tengeri teherforgalom miatt jelentős.", ro: "Port important pentru exportul de minereu de fier.", en: "Major port for the export of iron ore." },
     facts: {
       de: ["Eisenerz-Export", "Tiefwasserhafen"],
-      hu: ["Vasérc-export", "Mélyvízi kikötő"],
+      hu: ["Québec északi partján fekszik", "Az érckivitelhez kapcsolódik", "Fontos tengeri teherkikötő"],
       ro: ["Export de minereu de fier", "Port de apă adâncă"],
       en: ["Iron ore export", "Deep-water port"]
     }, image: "/poi-images/sept-iles-port-economic-v2.webp"},
@@ -183,10 +183,10 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-ON",
     coords: [-83.0, 42.3],
     name: { de: "Windsor Fahrzeugwerk", hu: "Windsori autógyár", ro: "Uzina auto Windsor", en: "Windsor Assembly Plant" },
-    description: { de: "Großes Montagewerk für Automobile in Ontario.", hu: "Nagy autó összeszerelő üzem Ontarióban.", ro: "Uzina mare de asamblare auto în Ontario.", en: "Major automobile assembly plant in Ontario." },
+    description: { de: "Großes Montagewerk für Automobile in Ontario.", hu: "Windsor autógyártó üzeme az ontariói járműipar egyik ismert helyszíne. Az amerikai határhoz közeli város régóta az összeszerelőipar része.", ro: "Uzina mare de asamblare auto în Ontario.", en: "Major automobile assembly plant in Ontario." },
     facts: {
       de: ["Automobilproduktion", "Exportorientiert"],
-      hu: ["Autógyártás", "Exportorientált"],
+      hu: ["Windsorban, Ontarioban van", "Az autóiparhoz kapcsolódik", "A határ menti ipari zóna része"],
       ro: ["Producția de automobile", "Orientată spre export"],
       en: ["Automobile production", "Export-oriented"]
     }, image: "/poi-images/windsor-assembly-plant-economic-v2.webp"},
@@ -196,12 +196,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-SK",
     coords: [-106.6, 52.1],
     name: { de: "Uran-Bergbau Saskatchewan", hu: "Saskatchewani uránbányászat", ro: "Mineritul de uraniu Saskatchewan", en: "Saskatchewan Uranium Mining" },
-    description: { de: "Region mit bedeutenden Uranvorkommen und Abbau.", hu: "Régió jelentős uránkészletekkel és bányászattal.", ro: "Regiune cu zăcăminte semnificative de uraniu și exploatare.", en: "Region with significant uranium deposits and mining." },
+    description: { de: "Saskatoon ist ein wichtiger Dienstleistungsstandort für den Uransektor in Saskatchewan.", hu: "Saskatoon az uránbányászat és az ahhoz kapcsolódó vállalati háttér egyik kanadai központja. A város és környéke fontos szerepet játszik Saskatchewan bányászati gazdaságában.", ro: "Saskatoon este un centru de servicii pentru sectorul uraniului din Saskatchewan. Ora?ul g?zduie?te firme ?i activit??i legate de exploatare ?i prelucrare.", en: "Saskatoon is a service and corporate centre for Saskatchewan's uranium industry. It supports the wider mining sector linked to the Athabasca Basin." },
     facts: {
-      de: ["Uranabbau", "Weltweit führend"],
-      hu: ["Uránbányászat", "Világelső"],
-      ro: ["Mineritul de uraniu", "Lider mondial"],
-      en: ["Uranium mining", "World leader"]
+      de: ["Im Uransektor von Saskatchewan", "Saskatoon als Unternehmensstandort", "Nördliches Athabasca-Becken als Quelle"],
+      hu: ["Saskatchewan legnagyobb városai közé tartozik", "Az urániparhoz kötődik", "Bányászati szolgáltató központ"],
+      ro: ["?n Saskatchewan", "Legat de uraniu", "Centru de servicii"],
+      en: ["Linked to the Athabasca Basin", "Home to uranium company offices", "Part of the nuclear fuel supply chain"]
     }
   },
   {
@@ -236,12 +236,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-ON",
     coords: [-80.1, 42.8],
     name: { de: "Nanticoke Stahlwerk", hu: "Nanticoke acélmű", ro: "Oțelăria Nanticoke", en: "Nanticoke Steel Plant" },
-    description: { de: "Großes Stahlwerk an den Großen Seen.", hu: "Nagy acélmű a Nagy-tavaknál.", ro: "Oțelărie mare la Marile Lacuri.", en: "Large steel plant on the Great Lakes." },
+    description: { de: "Großes Stahlwerk an den Großen Seen.", hu: "A nanticoke-i ipari övezet Ontario déli részének nehézipari térsége. A vas- és acélfeldolgozás mellett az energiaipar is meghatározó itt.", ro: "Nanticoke este asociat cu activit??i siderurgice din sudul Ontariului. Zona industrial? a sus?inut mult timp produc?ia de o?el ?i energie.", en: "Nanticoke is a major steel-industrial site on the Lake Erie shore in southern Ontario. It reflects the heavy-industry side of the Great Lakes economy." },
     facts: {
       de: ["Stahlproduktion", "Schwerindustrie"],
-      hu: ["Acélgyártás", "Nehézipar"],
-      ro: ["Producția de oțel", "Industrie grea"],
-      en: ["Steel production", "Heavy industry"]
+      hu: ["Dél-ontariói ipari térség", "A nehéziparhoz kötődik", "Acél- és energiaipari múltja van"],
+      ro: ["Sudul Ontariului", "Industrie siderurgic?", "Legat de energie"],
+      en: ["On Lake Erie", "Part of southern Ontario heavy industry", "Linked to steel production"]
     }, image: "/poi-images/nanticoke-steel-plant-economic-v2.webp"},
   {
     id: "columbia-river-hydro-economic-v2",
@@ -249,10 +249,10 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-BC",
     coords: [-117.5, 49.3],
     name: { de: "Wasserkraft Columbia River", hu: "Columbia-folyó vízerőmű", ro: "Hidrocentrala Columbia River", en: "Columbia River Hydroelectric" },
-    description: { de: "Große Wasserkraftanlage zur Stromerzeugung.", hu: "Nagy vízerőmű áramtermelésre.", ro: "Hidrocentrală mare pentru producerea de energie electrică.", en: "Large hydroelectric facility for power generation." },
+    description: { de: "Ein Wasserkraftkomplex am Columbia River in British Columbia.", hu: "A Columbia folyó vízenergia-rendszere Brit Columbia egyik legfontosabb energiatermelő bázisa. A gátak és erőművek a tartomány villamosenergia-ellátását támogatják.", ro: "Hidrocentrală mare pentru producerea de energie electrică.", en: "Large hydroelectric facility for power generation." },
     facts: {
-      de: ["Stromerzeugung", "Erneuerbare Energie"],
-      hu: ["Áramtermelés", "Megújuló energia"],
+      de: ["In British Columbia", "Am Columbia River", "Wichtige Stromquelle"],
+      hu: ["Brit Columbiában található", "Vízenergia-termelésre épül", "Gátak és erőművek sora alkotja"],
       ro: ["Producția de energie electrică", "Energie regenerabilă"],
       en: ["Power generation", "Renewable energy"]
     }, image: "/poi-images/columbia-river-hydro-economic-v2.webp"},
@@ -262,12 +262,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.8, 43.3],
     name: { de: "Hafen Hamilton", hu: "Hamiltoni kikötő", ro: "Portul Hamilton", en: "Port of Hamilton" },
-    description: { de: "Wichtiger Binnenhafen an den Großen Seen.", hu: "Fontos belvízi kikötő a Nagy-tavaknál.", ro: "Port interior important la Marile Lacuri.", en: "Important inland port on the Great Lakes." },
+    description: { de: "Der Hafen von Hamilton am Ontariosee ist ein zentraler Umschlagpunkt der Großen Seen.", hu: "Hamilton kikötője az Ontario-tó nyugati medencéjének egyik legforgalmasabb áruforgalmi pontja. A város ipari arculatához szorosan kapcsolódik a nagy tömegű szállítmányozás.", ro: "Portul Hamilton este unul dintre punctele importante de marf? de pe Marile Lacuri. Sprijin? economia industrial? a ora?ului ?i traficul de m?rfuri.", en: "The Port of Hamilton is one of the most important inland ports on the Great Lakes. It supports shipping for steel, bulk cargo, and regional trade." },
     facts: {
-      de: ["Industriehafen", "Handelsknotenpunkt"],
-      hu: ["Ipari kikötő", "Kereskedelmi csomópont"],
-      ro: ["Port industrial", "Nod comercial"],
-      en: ["Industrial port", "Trade hub"]
+      de: ["Am Ontariosee", "Teil der Großen-Seen-Schifffahrt", "Wichtig für Stahl und Schüttgut"],
+      hu: ["Az Ontario-tó partján van", "Nagy áruforgalmat kezel", "Az ipari Hamilton része"],
+      ro: ["?n Hamilton, Ontario", "Pe Marile Lacuri", "Port de marf?"],
+      en: ["On Lake Ontario", "Major Great Lakes port", "Important for steel and bulk cargo"]
     }, image: "/poi-images/hamilton-port-economic-v2.webp"},
   {
     id: "sarnia-petrochemical-economic-v2",
@@ -275,12 +275,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-ON",
     coords: [-82.4, 43.0],
     name: { de: "Sarnia Chemiepark", hu: "Sarnia vegyipari park", ro: "Parcul chimic Sarnia", en: "Sarnia Chemical Park" },
-    description: { de: "Großer Standort der petrochemischen Industrie.", hu: "A petrolkémiai ipar nagy központja.", ro: "Centru major al industriei petrochimice.", en: "Major hub of the petrochemical industry." },
+    description: { de: "Sarnia ist ein petrochemisches Zentrum am südlichen Ende des Huronsees.", hu: "Sarnia petrolkémiai övezete Kanada egyik legismertebb vegyipari központja. A St. Clair-folyó környéki ipar a finomításra és a feldolgozásra épül.", ro: "Sarnia este un centru petrochimic major din sud-vestul Ontariului. Rafinarea ?i procesarea chimic? definesc o mare parte din profilul s?u industrial.", en: "Sarnia is one of Canada's best-known petrochemical centres, located near the St. Clair River and Lake Huron. Its industrial zone is closely tied to refining and chemical production." },
     facts: {
-      de: ["Petrochemie", "Kunststoffherstellung"],
-      hu: ["Petrolkémia", "Műanyaggyártás"],
-      ro: ["Petrochimie", "Producția de mase plastice"],
-      en: ["Petrochemicals", "Plastic production"]
+      de: ["In Ontario", "Teil der Chemical Valley", "Stark in Raffinerien und Chemie"],
+      hu: ["Ontario délnyugati részén van", "Petrolkémiai központ", "A St. Clair-folyó közelében fekszik"],
+      ro: ["Sud-vestul Ontariului", "Centru petrochimic", "Rafinare ?i chimie"],
+      en: ["Part of Chemical Valley", "Near the St. Clair River", "Strong refining and chemical base"]
     }, image: "/poi-images/sarnia-petrochemical-economic-v2.webp"},
   {
     id: "vancouver-grain-terminals-economic-v2",
@@ -288,12 +288,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-BC",
     coords: [-123.1, 49.3],
     name: { de: "Vancouver Getreideterminals", hu: "Vancouveri gabonaterminálok", ro: "Terminalele de cereale Vancouver", en: "Vancouver Grain Terminals" },
-    description: { de: "Spezialisierte Terminals für Getreideexporte nach Asien.", hu: "Speciális terminálok gabonaexportra Ázsiába.", ro: "Terminaluri specializate pentru exportul de cereale către Asia.", en: "Specialized terminals for grain exports to Asia." },
+    description: { de: "Die Getreideterminals in Vancouver sind ein wichtiger Exportpunkt für kanadisches Getreide nach Übersee.", hu: "Vancouver gabonatermináljai a kanadai nyugati export egyik kulcshelyszínei. A kikötőn át a prérik gabonája jut el a csendes-óceáni piacokra.", ro: "Terminaluri specializate pentru exportul de cereale către Asia.", en: "Vancouver's grain terminals are a major export gateway for Prairie grain headed overseas. They connect western Canadian agriculture with Pacific shipping routes." },
     facts: {
-      de: ["Getreideexport", "Hochleistungsumschlag"],
-      hu: ["Gabonaexport", "Nagy teljesítményű átrakodás"],
+      de: ["Im Hafen von Vancouver", "Export von Prärie-Getreide", "Wichtige Pazifik-Logistik"],
+      hu: ["Brit Columbia partján működik", "Gabonakivitelhez kapcsolódik", "A nyugati export fontos csomópontja"],
       ro: ["Export de cereale", "Transbordare de înaltă performanță"],
-      en: ["Grain export", "High-capacity transshipment"]
+      en: ["In the Port of Vancouver", "Handles Prairie grain exports", "Key Pacific logistics point"]
     }, image: "/poi-images/vancouver-grain-terminals-economic-v2.webp"},
   {
     id: "charlottetown-port-economic-v2",
@@ -301,12 +301,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-PE",
     coords: [-63.1, 46.2],
     name: { de: "Hafen Charlottetown", hu: "Charlottetowni kikötő", ro: "Portul Charlottetown", en: "Port of Charlottetown" },
-    description: { de: "Wichtiger regionaler Hafen auf Prince Edward Island.", hu: "Fontos regionális kikötő Prince Edward Islanden.", ro: "Port regional important în Prince Edward Island.", en: "Important regional port on Prince Edward Island." },
+    description: { de: "Der Hafen von Charlottetown ist der regionale Seezugang von Prince Edward Island.", hu: "Charlottetown kikötője Prince Edward-sziget tartományi fővárosának tengeri kapcsolatait szolgálja. A kisebb kikötő helyi szállítást, kereskedelmet és turizmust támogat.", ro: "Portul Charlottetown deserve?te capitala provinciei Prince Edward Island. Are un rol important pentru transportul maritim ?i economia local?.", en: "The Port of Charlottetown is the main harbour for Prince Edward Island's capital. It supports local freight, fishing, and seasonal marine traffic." },
     facts: {
-      de: ["Regionaler Umschlag", "Fischereihafen"],
-      hu: ["Regionális átrakodás", "Halászkikötő"],
-      ro: ["Transbordare regională", "Port pescăresc"],
-      en: ["Regional transshipment", "Fishing port"]
+      de: ["Auf Prince Edward Island", "Regionaler Umschlaghafen", "Wichtig für Fracht und Passagiere"],
+      hu: ["Prince Edward-szigeten van", "A tartományi főváros kikötője", "Helyi kereskedelmet szolgál"],
+      ro: ["?n Charlottetown", "Prince Edward Island", "Transport maritim"],
+      en: ["In Charlottetown", "Main harbour of PEI", "Supports freight and fishing"]
     }, image: "/poi-images/charlottetown-port-economic-v2.webp"},
   {
     id: "oilsands-pipe-infrastructure-economic-v2",
@@ -314,12 +314,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-AB",
     coords: [-112.0, 54.0],
     name: { de: "Ölsand Pipeline-Infrastruktur", hu: "Olajhomok csővezeték-hálózat", ro: "Infrastructura de conducte pentru nisipuri bituminoase", en: "Oil Sands Pipeline Infrastructure" },
-    description: { de: "Großes Netzwerk für den Transport von Bitumen.", hu: "Nagy hálózat bitumen szállítására.", ro: "Rețea majoră pentru transportul bitumului.", en: "Large network for transporting bitumen." },
+    description: { de: "Die Pipeline-Infrastruktur der Ölsande verbindet die Fördergebiete in Alberta mit Raffinerien und Exportwegen.", hu: "Az olajhomok vezetékes infrastruktúrája Alberta északi energiatérségének része. Az olaj szállítását köti össze a feldolgozó és exportáló pontokkal.", ro: "Infrastructura de conducte pentru nisipurile bituminoase sus?ine transportul energiei din Alberta. Ea leag? zonele de extrac?ie de rafin?rii ?i terminale.", en: "Oil sands pipeline infrastructure carries bitumen and crude oil from northern Alberta to refineries and export routes. It is a central part of Canada's energy network." },
     facts: {
-      de: ["Pipelines", "Transportlogistik"],
-      hu: ["Csővezetékek", "Szállítási logisztika"],
-      ro: ["Conducte", "Logistica transportului"],
-      en: ["Pipelines", "Transport logistics"]
+      de: ["In Alberta", "Transport von Bitumen und Öl", "Zentrale Energieinfrastruktur"],
+      hu: ["Alberta olajhomok-régiójához kötődik", "Szállítási hálózat", "Az energiaexportot szolgálja"],
+      ro: ["?n Alberta", "Legat? de nisipurile bituminoase", "Transport energetic"],
+      en: ["Located in Alberta", "Moves bitumen and crude oil", "Core energy infrastructure"]
     }, image: "/poi-images/oilsands-pipe-infrastructure-economic-v2.webp"},
   {
     id: "st-johns-port-economic-v2",
@@ -327,12 +327,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-NL",
     coords: [-52.7, 47.5],
     name: { de: "Hafen St. John's", hu: "St. John's-i kikötő", ro: "Portul St. John's", en: "Port of St. John's" },
-    description: { de: "Wichtiger Hafen an der Ostküste von Neufundland.", hu: "Fontos kikötő Új-Fundland keleti partján.", ro: "Port important pe coasta de est a Newfoundland.", en: "Important port on the east coast of Newfoundland." },
+    description: { de: "Wichtiger Hafen an der Ostküste von Neufundland.", hu: "St. John's kikötője Newfoundland és Labrador legfontosabb tengeri kapcsolatai közé tartozik. A halászat, a teherforgalom és az atlanti kereskedelem is fontos benne.", ro: "Portul din St. John's este poarta maritim? principal? a Newfoundland and Labrador. Sus?ine comer?ul, pescuitul ?i leg?turile oceanice.", en: "The Port of St. John's is a deepwater harbour on Newfoundland's Atlantic coast. It serves as a supply base for shipping, offshore work, and local trade." },
     facts: {
       de: ["Versorgungshafen", "Atlantische Basis"],
-      hu: ["Ellátó kikötő", "Atlanti bázis"],
-      ro: ["Port de aprovizionare", "Bază atlantică"],
-      en: ["Supply port", "Atlantic base"]
+      hu: ["Newfoundland és Labradorban van", "Atlanti kikötő", "Halászat és teherforgalom is használja"],
+      ro: ["?n St. John's", "Newfoundland and Labrador", "Port Atlantic"],
+      en: ["On the Atlantic coast", "Deepwater harbour", "Supports offshore and supply traffic"]
     }, image: "/poi-images/st-johns-port-economic-v2.webp"},
   {
     id: "guelph-manufacturing-hub-economic-v2",
@@ -340,12 +340,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-ON",
     coords: [-80.2, 43.5],
     name: { de: "Guelph Industriestandort", hu: "Guelphi ipari központ", ro: "Centru industrial Guelph", en: "Guelph Industrial Hub" },
-    description: { de: "Diversifiziertes Industriezentrum in Ontario.", hu: "Diverzifikált ipari központ Ontarióban.", ro: "Centru industrial diversificat în Ontario.", en: "Diversified industrial hub in Ontario." },
+    description: { de: "Diversifiziertes Industriezentrum in Ontario.", hu: "Guelph Ontario egyik erős gyártóipari központja. Az autóipari beszállítás, az élelmiszer-feldolgozás és a gépgyártás is jelen van itt.", ro: "Centru industrial diversificat în Ontario.", en: "Guelph is a manufacturing and engineering centre in southwestern Ontario. Its industrial base supports food processing, machinery, and advanced production." },
     facts: {
       de: ["Fertigungsindustrie", "Technologiezentrum"],
-      hu: ["Gyáripar", "Technológiai központ"],
+      hu: ["Ontarioban található", "Gyártóipari központ", "Autóipari beszállítók is működnek"],
       ro: ["Industrie prelucrătoare", "Centru tehnologic"],
-      en: ["Manufacturing", "Technology hub"]
+      en: ["In southwestern Ontario", "Strong manufacturing base", "Linked to food and machinery production"]
     }, image: "/poi-images/guelph-manufacturing-hub-economic-v2.webp"},
   {
     id: "baffin-mining-project-economic-v2",
@@ -353,12 +353,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-NU",
     coords: [-75.0, 71.0],
     name: { de: "Baffin Bergbauprojekt", hu: "Baffin-szigeti bányászati projekt", ro: "Proiect minier Baffin", en: "Baffin Mining Project" },
-    description: { de: "Eisenerz-Abbau in der Arktis.", hu: "Vasérc-bányászat az Északi-sarkvidéken.", ro: "Mineritul minereului de fier în regiunea arctică.", en: "Iron ore mining in the Arctic." },
+    description: { de: "Eisenerz-Abbau in der Arktis.", hu: "Vasérc-bányászat az Északi-sarkvidéken.", ro: "Proiectul minier din Baffin se afl? ?ntr-o zon? arctic? izolat? din Nunavut. Este legat de extrac?ia resurselor ?i de logistic? dificil?.", en: "The Baffin mining project represents Arctic resource development on Baffin Island in Nunavut. It depends on specialized logistics in a remote northern setting." },
     facts: {
       de: ["Arktischer Bergbau", "Spezialisierte Logistik"],
       hu: ["Sarkvidéki bányászat", "Speciális logisztika"],
-      ro: ["Minerit arctic", "Logistică specializată"],
-      en: ["Arctic mining", "Specialized logistics"]
+      ro: ["?n Nunavut", "Zon? arctic? izolat?", "Proiect de resurse"],
+      en: ["On Baffin Island", "Arctic mining operation", "Depends on seasonal shipping"]
     }, image: "/poi-images/baffin-mining-project-economic-v2.webp"},
   {
     id: "fraser-valley-agriculture-logistics-economic-v2",
@@ -366,11 +366,11 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-BC",
     coords: [-122.0, 49.1],
     name: { de: "Fraser Valley Agrar-Logistik", hu: "Fraser-völgyi agrár-logisztika", ro: "Logistică agricolă Fraser Valley", en: "Fraser Valley Agriculture Logistics" },
-    description: { de: "Logistikknotenpunkt für Agrarprodukte in British Columbia.", hu: "Logisztikai csomópont agrártermékeknek British Columbiában.", ro: "Nod logistic pentru produse agricole în Columbia Britanică.", en: "Logistics hub for agricultural products in British Columbia." },
+    description: { de: "Im Fraser Valley bündeln Landwirtschaft und Logistik die Versorgung des Großraums Vancouver.", hu: "A Fraser-völgy Brit Columbiában fontos mezőgazdasági és logisztikai térség. A termékeny síkságok a Vancouver felé irányuló ellátást is támogatják.", ro: "Fraser Valley este una dintre cele mai importante regiuni agricole din Columbia Britanic?. Logistica local? leag? fermele de pie?ele urbane ?i de export.", en: "Logistics hub for agricultural products in British Columbia." },
     facts: {
-      de: ["Agrar-Export", "Kühlhaus-Logistik"],
-      hu: ["Agrárexport", "Hűtőház-logisztika"],
-      ro: ["Export agricol", "Logistică de depozitare frigorifică"],
+      de: ["In British Columbia", "Starker Gemüse- und Obstbau", "Nahe der US-Grenze"],
+      hu: ["Brit Columbiában van", "Mezőgazdasági térség", "Vancouver ellátásában szerepet kap"],
+      ro: ["?n Columbia Britanic?", "Regiune agricol?", "Legat? de distribu?ie"],
       en: ["Agricultural export", "Cold chain logistics"]
     }, image: "/poi-images/fraser-valley-agriculture-logistics-economic-v2.webp"}
 ]

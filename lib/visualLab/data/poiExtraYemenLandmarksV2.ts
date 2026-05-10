@@ -18,8 +18,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["A régi városfal egyetlen fennmaradt kapuja", "Közvetlenül a hagyományos szúkba vezet", "Több mint 1000 éves"],
       ro: ["Singura poartă rămasă din vechiul zid al orașului", "Conduce direct în souq-ul tradițional", "Are o vechime de peste 1000 de ani"],
       en: ["The only surviving gate of the old city wall", "Leads directly into the traditional souq", "Over 1,000 years old"]
-    }
-  },
+    }, image: "/poi-images/bab-al-yemen-landmarks-v2.webp"},
   {
     id: "dar-al-hajar-landmarks-v2",
     type: "landmark",
@@ -37,8 +36,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["Egyetlen sziklaoszlopra épült", "Jahja imám nyári rezidenciája volt", "Ötemeletes építészet"],
       ro: ["Construit pe un singur vârf de stâncă", "A servit drept reședință de vară pentru Imamul Yahya", "Arhitectură pe cinci etaje"],
       en: ["Built on a single rock pinnacle", "Served as Imam Yahya's summer residence", "Five-story architecture"]
-    }
-  },
+    }, image: "/poi-images/dar-al-hajar-landmarks-v2.webp"},
   {
     id: "al-saleh-mosque-landmarks-v2",
     type: "landmark",
@@ -56,8 +54,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["Jemen legnagyobb mecsetje", "44 000 ember befogadására alkalmas", "2008-ban nyitották meg"],
       ro: ["Cea mai mare moschee din Yemen", "Poate găzdui 44.000 de persoane", "Inaugurată în anul 2008"],
       en: ["Yemen's largest mosque", "Accommodates 44,000 people", "Opened in 2008"]
-    }
-  },
+    }, image: "/poi-images/al-saleh-mosque-landmarks-v2.webp"},
   {
     id: "great-mosque-of-sanaa-landmarks-v2",
     type: "monument",
@@ -75,8 +72,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["A világ egyik legrégebbi mecsetje", "Ősi Korán-töredékeket őriz", "Az óváros részeként UNESCO világörökség"],
       ro: ["Una dintre cele mai vechi moschei din lume", "Păstrează fragmente antice din Coran", "Patrimoniu UNESCO ca parte a orașului vechi"],
       en: ["One of the oldest mosques in the world", "Preserves ancient Quranic fragments", "UNESCO World Heritage as part of the Old City"]
-    }
-  },
+    }, image: "/poi-images/great-mosque-of-sanaa-landmarks-v2.webp"},
   {
     id: "tawila-cisterns-landmarks-v2",
     type: "landmark",
@@ -94,8 +90,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["Több millió literes kapacitás", "Vulkanikus kőzetbe vájták", "Valószínűleg a himjarita időszakból származnak"],
       ro: ["Capacitate de milioane de litri", "Sculptate în rocă vulcanică", "Datează probabil din perioada himyarită"],
       en: ["Capacity of millions of liters", "Carved into volcanic rock", "Likely date back to the Himyarite period"]
-    }
-  },
+    }, image: "/poi-images/tawila-cisterns-landmarks-v2.webp"},
   {
     id: "sira-fortress-landmarks-v2",
     type: "monument",
@@ -113,8 +108,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["A Sira vulkanikus szigetre épült", "Fontos történelmi védelmi építmény", "Panorámás kilátást nyújt Ádenre"],
       ro: ["Construită pe insula vulcanică Sira", "Importantă structură defensivă istorică", "Oferă vederi panoramice asupra Adenului"],
       en: ["Built on the volcanic Sira Island", "Important historical defensive structure", "Offers panoramic views of Aden"]
-    }
-  },
+    }, image: "/poi-images/sira-fortress-landmarks-v2.webp"},
   {
     id: "qahira-castle-taiz-landmarks-v2",
     type: "monument",
@@ -132,8 +126,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["Az egész Taiz városára kilátás nyílik", "A raszulida dinasztia fő rezidenciája volt", "Részben gondosan felújították"],
       ro: ["Domină întregul oraș Taiz", "Reședința principală a dinastiei rasulizilor", "A fost parțial restaurată cu grijă"],
       en: ["Overlooks the entire city of Taiz", "Main residence of the Rasulid dynasty", "Has been partially and extensively restored"]
-    }
-  },
+    }, image: "/poi-images/qahira-castle-taiz-landmarks-v2.webp"},
   {
     id: "ashrafiya-mosque-landmarks-v2",
     type: "monument",
@@ -151,8 +144,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["A 13. vagy 14. században épült", "Értékes raszulida freskókat őriz", "Jellegzetes fehér kupolákkal rendelkezik"],
       ro: ["Construită în secolul al XIII-lea sau al XIV-lea", "Adăpostește fresce rasulide valoroase", "Are cupole albe caracteristice"],
       en: ["Built in the 13th or 14th century", "Houses valuable Rasulid frescoes", "Features distinctive white domes"]
-    }
-  },
+    }, image: "/poi-images/ashrafiya-mosque-landmarks-v2.webp"},
   {
     id: "shibam-skyscrapers-landmarks-v2",
     type: "icon",
@@ -170,8 +162,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["A sivatag Manhattanje", "A világ legrégebbi felhőkarcoló-városa", "UNESCO világörökség"],
       ro: ["Manhattan-ul deșertului", "Cel mai vechi oraș de zgârie-nori din lume", "Patrimoniu mondial UNESCO"],
       en: ["The Manhattan of the Desert", "Oldest skyscraper city in the world", "UNESCO World Heritage Site"]
-    }
-  },
+    }, image: "/poi-images/shibam-skyscrapers-landmarks-v2.webp"},
   {
     id: "great-dam-marib-landmarks-v2",
     type: "monument",
@@ -189,8 +180,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["Az ókori mérnöki munka csodája", "A gát átszakadását a Korán is említi", "A szabeus civilizáció alapköve"],
       ro: ["Minune a ingineriei antice", "Ruperea barajului este menționată în Coran", "Piatra de temelie a civilizației sabee"],
       en: ["Marvel of ancient engineering", "The breaking of the dam is mentioned in the Quran", "Cornerstone of the Sabaean civilization"]
-    }
-  },
+    }, image: "/poi-images/great-dam-marib-landmarks-v2.webp"},
   {
     id: "awam-temple-landmarks-v2",
     type: "monument",
@@ -208,8 +198,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["Almakah szabeus holdistennek szentelték", "Mahram Bilkisz (Sába királynőjének szentélye) néven is ismert", "Kiterjedt régészeti ásatások helyszíne"],
       ro: ["Dedicat zeului sabean al lunii Almaqah", "Cunoscut și ca Mahram Bilqis (Sanctuarul Reginei din Saba)", "Excavații extinse efectuate de arheologi"],
       en: ["Dedicated to the Sabaean moon god Almaqah", "Also known as Mahram Bilqis (Sanctuary of the Queen of Sheba)", "Site of extensive archaeological excavations"]
-    }
-  },
+    }, image: "/poi-images/awam-temple-landmarks-v2.webp"},
   {
     id: "baran-temple-landmarks-v2",
     type: "monument",
@@ -227,8 +216,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["'Bilkisz trónja' néven ismert", "Jellegzetes monolitikus oszlopokkal rendelkezik", "A szabeusok fontos vallási helyszíne"],
       ro: ["Cunoscut ca 'Tronul lui Bilqis'", "Are coloane monolitice distinctive", "Important sit religios al sabeenilor"],
       en: ["Known as the 'Throne of Bilqis'", "Features distinctive monolithic pillars", "Important religious site of the Sabaeans"]
-    }
-  },
+    }, image: "/poi-images/baran-temple-landmarks-v2.webp"},
   {
     id: "al-mihdar-minaret-landmarks-v2",
     type: "monument",
@@ -246,8 +234,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["A világ legmagasabb vályogminaretje", "Körülbelül 50 méter magas", "Tarim tudósvárosának központja"],
       ro: ["Cel mai înalt minaret din lut din lume", "Are aproximativ 50 de metri înălțime", "Centrul orașului savanților Tarim"],
       en: ["The tallest mud-brick minaret in the world", "Approximately 50 meters high", "Center of the scholarly city of Tarim"]
-    }
-  },
+    }, image: "/poi-images/al-mihdar-minaret-landmarks-v2.webp"},
   {
     id: "shaharah-bridge-landmarks-v2",
     type: "landmark",
@@ -265,8 +252,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["A 17. században épült", "Egy 300 méter mély szurdokon ível át", "Jemen híres fotótémája"],
       ro: ["Construit în secolul al XVII-lea", "Traversează un defileu de 300 de metri adâncime", "Motiv fotografic celebru din Yemen"],
       en: ["Built in the 17th century", "Spans a 300-meter deep gorge", "Famous photographic motif of Yemen"]
-    }
-  },
+    }, image: "/poi-images/shaharah-bridge-landmarks-v2.webp"},
   {
     id: "queen-arwa-mosque-landmarks-v2",
     type: "monument",
@@ -284,8 +270,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["Arva al-Szulajhi királynő sírhelye", "Egykori királyi palota", "Fontos történelmi zarándokhely"],
       ro: ["Mormântul reginei Arwa al-Sulayhi", "Fost palat regal", "Important loc de pelerinaj istoric"],
       en: ["Tomb of Queen Arwa al-Sulayhi", "Former royal palace", "Important historical pilgrimage site"]
-    }
-  },
+    }, image: "/poi-images/queen-arwa-mosque-landmarks-v2.webp"},
   {
     id: "amiriya-mosque-landmarks-v2",
     type: "monument",
@@ -303,8 +288,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["Amír ibn Abd al-Vahháb szultán építtette", "Az Aga Khan építészeti díj nyertese", "Egyedülálló stukkódíszítések"],
       ro: ["Construită de sultanul Amir ibn 'Abd al-Wahhab", "Câștigătoarea Premiului Aga Khan pentru Arhitectură", "Decorațiuni unice din stuc"],
       en: ["Built by Sultan Amir ibn 'Abd al-Wahhab", "Winner of the Aga Khan Award for Architecture", "Unique stucco decorations"]
-    }
-  },
+    }, image: "/poi-images/amiriya-mosque-landmarks-v2.webp"},
   {
     id: "kawkaban-old-city-landmarks-v2",
     type: "tourist-attraction",
@@ -322,8 +306,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       hu: ["Körülbelül 2800 méteres magasságban fekszik", "Gyakran nyújtott menedéket a betolakodók elől", "Klasszikus jemeni hegyi erőd"],
       ro: ["Situat la aproximativ 2.800 de metri altitudine", "A fost adesea un refugiu împotriva invadatorilor", "Fortăreață montană clasică din Yemen"],
       en: ["Located at around 2,800 meters altitude", "Was often a retreat from invaders", "Classic Yemeni mountain fortress"]
-    }
-  },
+    }, image: "/poi-images/kawkaban-old-city-landmarks-v2.webp"},
   {
     id: "thula-fortress-landmarks-v2",
     type: "tourist-attraction",

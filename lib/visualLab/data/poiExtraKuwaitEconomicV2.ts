@@ -119,8 +119,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Surrounded by a massive industrial zone.",
         "Plays a key role in the logistics chain."
       ]
-    }
-  },
+    }, image: "/poi-images/shuaiba-port-economic-v2.webp"},
   {
     id: "shuwaikh-port-economic-v2",
     type: "port",
@@ -159,8 +158,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Has 21 berths for various types of ships.",
         "Located next to the free trade zone."
       ]
-    }
-  },
+    }, image: "/poi-images/shuwaikh-port-economic-v2.webp"},
   {
     id: "doha-port-kuwait-economic-v2",
     type: "port",
@@ -199,8 +197,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "An important hub for light freight.",
         "Offers a water depth of about 4.3 meters."
       ]
-    }
-  },
+    }, image: "/poi-images/doha-port-kuwait-economic-v2.webp"},
   {
     id: "burgan-field-economic-v2",
     type: "energy",
@@ -239,8 +236,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Made Kuwait a leading oil exporter.",
         "Severely damaged during the 1991 Gulf War."
       ]
-    }
-  },
+    }, image: "/poi-images/burgan-field-economic-v2.webp"},
   {
     id: "raudhatain-field-economic-v2",
     type: "energy",
@@ -279,8 +275,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Features complex geological reservoirs.",
         "Produces both light crude oil and natural gas."
       ]
-    }
-  },
+    }, image: "/poi-images/raudhatain-field-economic-v2.webp"},
   {
     id: "sabriya-field-economic-v2",
     type: "energy",
@@ -319,8 +314,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Discovered in the late 1950s.",
         "Utilizes state-of-the-art injection tech."
       ]
-    }
-  },
+    }, image: "/poi-images/sabriya-field-economic-v2.webp"},
   {
     id: "magwa-field-economic-v2",
     type: "energy",
@@ -359,8 +353,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Identified as a separate uplift in 1951.",
         "Contributes significantly to overall output."
       ]
-    }
-  },
+    }, image: "/poi-images/magwa-field-economic-v2.webp"},
   {
     id: "minagish-field-economic-v2",
     type: "energy",
@@ -399,8 +392,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Uses water injection to maintain pressure.",
         "A core field of the western directorate."
       ]
-    }
-  },
+    }, image: "/poi-images/minagish-field-economic-v2.webp"},
   {
     id: "kuwait-free-trade-zone-economic-v2",
     type: "trade-hub",
@@ -479,8 +471,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Includes a seawater desalination plant.",
         "Critical for northern Kuwait's development."
       ]
-    }
-  },
+    }, image: "/poi-images/subiya-power-plant-economic-v2.webp"},
   {
     id: "az-zour-north-power-plant-economic-v2",
     type: "energy",
@@ -639,8 +630,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Supports the booming construction sector.",
         "Located west of the capital with good transit."
       ]
-    }
-  },
+    }, image: "/poi-images/amghara-industrial-area-economic-v2.webp"},
   {
     id: "sabhan-industrial-area-economic-v2",
     type: "industry",
@@ -679,8 +669,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Reduces dependence on food imports.",
         "Benefits from major transport routes."
       ]
-    }
-  },
+    }, image: "/poi-images/sabhan-industrial-area-economic-v2.webp"},
   {
     id: "equate-petrochemical-complex-economic-v2",
     type: "industry",
@@ -719,8 +708,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Produces millions of tons of plastic annually.",
         "Relies on state-of-the-art green tech."
       ]
-    }
-  },
+    }, image: "/poi-images/equate-petrochemical-complex-economic-v2.webp"},
   {
     id: "wafra-oil-field-economic-v2",
     type: "energy",
@@ -759,8 +747,7 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
         "Operated jointly by KGOC and Chevron.",
         "Extraction requires steam injection."
       ]
-    }
-  },
+    }, image: "/poi-images/wafra-oil-field-economic-v2.webp"},
   {
     id: "al-zour-refinery-economic-v2",
     type: "energy",

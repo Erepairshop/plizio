@@ -13,8 +13,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Fontos kereskedelmi csomópont a régióban.", "A levantei térség logisztikai kapujának számít."],
       ro: ["Hub important pentru comerțul regional.", "Considerat poarta logistică către Levant."],
       en: ["Important hub for regional trade.", "Considered the logistical gateway to the Levant."]
-    }
-  },
+    }, image: "/poi-images/aqaba-container-terminal-economic-v2.webp"},
   {
     id: "arab-potash-company-economic-v2",
     type: "mine",
@@ -27,8 +26,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["A legnagyobb kálium-klorid-gyártók közé tartozik.", "A Holt-tenger párolgását hasznosítja a kitermeléshez."],
       ro: ["Printre cei mai mari producători de clorură de potasiu.", "Folosește evaporarea Mării Moarte pentru extracție."],
       en: ["Among the largest producers of potassium chloride.", "Uses the evaporation of the Dead Sea for extraction."]
-    }
-  },
+    }, image: "/poi-images/arab-potash-company-economic-v2.webp"},
   {
     id: "zarqa-petroleum-refinery-economic-v2",
     type: "industry",
@@ -55,8 +53,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Fontos a jordán agrárexport szempontjából.", "Több ezer munkavállalót foglalkoztat a régióban."],
       ro: ["Important pentru exporturile agricole ale Iordaniei.", "Angajează mii de muncitori în regiune."],
       en: ["Important for Jordan's agricultural exports.", "Employs thousands of workers in the region."]
-    }
-  },
+    }, image: "/poi-images/eshidiya-phosphate-mine-economic-v2.webp"},
   {
     id: "al-hassan-industrial-estate-economic-v2",
     type: "industry",
@@ -83,8 +80,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Kihasználja Szíria és Irak közelségét.", "A közlekedésre és a könnyűiparra koncentrál."],
       ro: ["Profită de proximitatea cu Siria și Irak.", "Se concentrează pe transport și industria ușoară."],
       en: ["Capitalizes on its proximity to Syria and Iraq.", "Focuses on transportation and light industry."]
-    }
-  },
+    }, image: "/poi-images/mafraq-development-area-economic-v2.webp"},
   {
     id: "tafilah-wind-farm-economic-v2",
     type: "energy",
@@ -97,8 +93,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Kapacitása 117 megawatt.", "Jelentősen csökkenti az ország szén-dioxid-kibocsátását."],
       ro: ["Are o capacitate de 117 megawați.", "Reduce semnificativ emisiile de CO2 ale țării."],
       en: ["Has a capacity of 117 megawatts.", "Significantly reduces the country's CO2 emissions."]
-    }
-  },
+    }, image: "/poi-images/tafilah-wind-farm-economic-v2.webp"},
   {
     id: "shams-maan-solar-plant-economic-v2",
     type: "energy",
@@ -111,8 +106,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Jordánia teljes energiájának mintegy egy százalékát termeli.", "Több millió napelemet használ."],
       ro: ["Produce aproximativ unu la sută din energia totală a Iordaniei.", "Folosește milioane de panouri solare."],
       en: ["Produces about one percent of Jordan's total energy.", "Uses millions of solar panels."]
-    }
-  },
+    }, image: "/poi-images/shams-maan-solar-plant-economic-v2.webp"},
   {
     id: "king-hussein-airport-economic-v2",
     type: "trade-hub",
@@ -125,8 +119,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Légi árufuvarozási szabadkereskedelmi övezettel rendelkezik.", "Fontos az Akabai Különleges Gazdasági Övezet számára."],
       ro: ["Are o zonă de liber schimb pentru mărfurile aeriene.", "Important pentru Zona Economică Specială Aqaba."],
       en: ["Has a free trade zone for air cargo.", "Important for the Aqaba Special Economic Zone."]
-    }
-  },
+    }, image: "/poi-images/king-hussein-airport-economic-v2.webp"},
   {
     id: "queen-alia-airport-economic-v2",
     type: "trade-hub",
@@ -139,8 +132,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["A jordán légi árufuvarozás nagy részét kezeli.", "Többször díjazták modern kialakításáért."],
       ro: ["Gestionează cea mai mare parte a mărfurilor aeriene iordaniene.", "A fost premiat de mai multe ori pentru designul său modern."],
       en: ["Manages the majority of Jordanian air cargo.", "Has been awarded multiple times for its modern design."]
-    }
-  },
+    }, image: "/poi-images/queen-alia-airport-economic-v2.webp"},
   {
     id: "sahab-industrial-estate-economic-v2",
     type: "industry",
@@ -153,8 +145,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Az élelmiszer-, vegy- és műanyagiparáról ismert.", "Több tízezer embernek biztosít munkát."],
       ro: ["Cunoscut pentru producția de alimente, chimicale și plastice.", "Oferă locuri de muncă pentru zeci de mii de oameni."],
       en: ["Known for food, chemical, and plastics production.", "Provides jobs for tens of thousands of people."]
-    }
-  },
+    }, image: "/poi-images/sahab-industrial-estate-economic-v2.webp"},
   {
     id: "aqaba-special-economic-zone-economic-v2",
     type: "trade-hub",
@@ -181,8 +172,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Hozzájárul az energiaforrások diverzifikálásához.", "Az ország egyik legnagyobb beruházási projektje."],
       ro: ["Contribuie la diversificarea surselor de energie.", "Unul dintre cele mai mari proiecte de investiții din țară."],
       en: ["Contributes to the diversification of energy sources.", "One of the largest investment projects in the country."]
-    }
-  },
+    }, image: "/poi-images/attarat-oil-shale-power-plant-economic-v2.webp"},
   {
     id: "samra-electric-power-plant-economic-v2",
     type: "energy",
@@ -195,8 +185,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Földgázt használ elsődleges tüzelőanyagként.", "Többször bővítették a kapacitás növelése érdekében."],
       ro: ["Folosește gazele naturale ca combustibil principal.", "A fost extinsă de mai multe ori pentru a crește capacitatea."],
       en: ["Uses natural gas as its primary fuel.", "Has been expanded several times to increase capacity."]
-    }
-  },
+    }, image: "/poi-images/samra-electric-power-plant-economic-v2.webp"},
   {
     id: "risha-gas-field-economic-v2",
     type: "energy",
@@ -209,8 +198,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["A Nemzeti Kőolajtársaság üzemelteti.", "Közvetlenül egy közeli erőművet lát el gázzal."],
       ro: ["Este operat de Compania Națională de Petrol.", "Furnizează gaz direct unei centrale electrice din apropiere."],
       en: ["Operated by the National Petroleum Company.", "Supplies gas directly to a nearby power plant."]
-    }
-  },
+    }, image: "/poi-images/risha-gas-field-economic-v2.webp"},
   {
     id: "al-hasa-phosphate-mine-economic-v2",
     type: "mine",
@@ -223,8 +211,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Az ország egyik legrégebbi foszfátbányája.", "Folyamatosan modernizálják a hatékonyság növelése érdekében."],
       ro: ["Considerată una dintre cele mai vechi mine de fosfat din țară.", "Este modernizată continuu pentru a crește eficiența."],
       en: ["Considered one of the oldest phosphate mines in the country.", "Continuously modernized to increase efficiency."]
-    }
-  },
+    }, image: "/poi-images/al-hasa-phosphate-mine-economic-v2.webp"},
   {
     id: "jifco-fertilizer-plant-economic-v2",
     type: "industry",
@@ -251,8 +238,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Felváltotta a régi belvárosi fő kikötőt.", "Speciális terminálokkal rendelkezik a különböző áruk számára."],
       ro: ["A înlocuit vechiul port principal din centrul orașului.", "Include terminale specializate pentru diferite mărfuri."],
       en: ["Replaced the old main port in the city center.", "Includes specialized terminals for various goods."]
-    }
-  },
+    }, image: "/poi-images/aqaba-new-port-economic-v2.webp"},
   {
     id: "baynouna-solar-power-project-economic-v2",
     type: "energy",
@@ -265,8 +251,7 @@ export const poiExtraJordanEconomicV2: POI[] = [
       hu: ["Elegendő áramot termel több ezer háztartás ellátásához.", "Egy nemzetközi konzorcium finanszírozta."],
       ro: ["Generează suficientă energie electrică pentru a alimenta mii de gospodării.", "A fost finanțat de un consorțiu internațional."],
       en: ["Generates enough electricity to power thousands of homes.", "Was financed by an international consortium."]
-    }
-  },
+    }, image: "/poi-images/baynouna-solar-power-project-economic-v2.webp"},
   {
     id: "zarqa-free-zone-economic-v2",
     type: "trade-hub",

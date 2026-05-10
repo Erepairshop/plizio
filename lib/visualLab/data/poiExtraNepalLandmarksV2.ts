@@ -30,8 +30,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
       hu: ["Magasság: 5364 méter a tengerszint felett.", "Helyszín: A nepáli Khumbu-gleccseren.", "Szezon: A főszezon tavasszal van (márciustól májusig).", "Megközelítés: Általában 8-10 napos túra Luklából.", "Látogatók száma: Évente több mint 40 000 túrázó.", "UNESCO státusz: A Sagarmatha Nemzeti Park része, 1979 óta világörökség.", "Kommunikáció: Műholdas telefonok és lassú internet elérhető.", "Orvosi ellátás: A Himalájai Mentőszövetség szezonális klinikája."],
       ro: ["Altitudine: 5.364 de metri deasupra nivelului mării.", "Locație: În ghețarul Khumbu din Nepal.", "Sezon: Sezonul de vârf este primăvara (martie-mai).", "Acces: De obicei, 8-10 zile de trekking de la Lukla.", "Număr de vizitatori: Peste 40.000 de trekkeri pe an.", "Statut UNESCO: Parte a Parcului Național Sagarmatha, sit al patrimoniului mondial din 1979.", "Comunicații: Sunt disponibile telefoane prin satelit și internet lent.", "Asistență medicală: Clinică sezonieră a Asociației de Salvare din Himalaya."],
       en: ["Altitude: 5,364 meters above sea level.", "Location: In the Khumbu Glacier in Nepal.", "Season: Peak season is in spring (March to May).", "Access: Usually an 8-10 day trek from Lukla.", "Visitor numbers: Over 40,000 trekkers per year.", "UNESCO Status: Part of Sagarmatha National Park, a World Heritage Site since 1979.", "Communication: Satellite phones and slow internet are available.", "Medical care: Seasonal clinic run by the Himalayan Rescue Association."]
-    }
-  },
+    }, image: "/poi-images/np-everest-base-camp-landmarks-v2.webp"},
   {
     id: "np-shanti-stupa-pokhara-landmarks-v2",
     type: "landmark",
@@ -61,8 +60,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Helyszín: Anadu-hegy, Pokhara.", "Magasság: kb. 1100 méter.", "Építő: Nipponzan-Myōhōji, egy japán buddhista szervezet.", "Felavatás: 1999. október 30.", "Szimbolika: A világbéke szimbóluma.", "Szobrok: 4 Buddha-szobor Japánból, Srí Lankáról, Thaiföldről és Nepálból.", "Szerkezet: 35 méter magas, 115 méter átmérőjű.", "Megközelíthetőség: Gyalog, a Phewa-tavon csónakázva vagy úton érhető el."],
         ro: ["Locație: Dealul Anadu, Pokhara.", "Altitudine: aprox. 1100 de metri.", "Constructor: Nipponzan-Myōhōji, o organizație budistă japoneză.", "Inaugurare: 30 octombrie 1999.", "Simbolism: Un simbol al păcii mondiale.", "Statuete: 4 statui ale lui Buddha din Japonia, Sri Lanka, Thailanda și Nepal.", "Structură: 35 de metri înălțime, 115 metri în diametru.", "Accesibilitate: Se poate ajunge pe jos, cu barca pe lacul Phewa sau pe șosea."],
         en: ["Location: Anadu Hill, Pokhara.", "Altitude: approx. 1100 meters.", "Builder: Nipponzan-Myōhōji, a Japanese Buddhist organization.", "Inauguration: October 30, 1999.", "Symbolism: A symbol of world peace.", "Statues: 4 Buddha statues from Japan, Sri Lanka, Thailand, and Nepal.", "Structure: 35 meters high, 115 meters in diameter.", "Accessibility: Accessible by hiking, boating across Phewa Lake, or road."]
-    }
-  },
+    }, image: "/poi-images/np-shanti-stupa-pokhara-landmarks-v2.webp"},
   {
     id: "np-kopan-monastery-landmarks-v2",
     type: "landmark",
@@ -92,8 +90,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Alapítás: 1969-ben Láma Yeshe és Láma Zopa Rinpocse által.", "Hagyomány: Tibeti buddhizmus (Gelug hagyomány).", "Szervezet: A Mahájána Hagyomány Megőrzéséért Alapítvány (FPMT) része.", "Lakók: Több mint 360 szerzetes, láma, tanár és munkás.", "Kurzusok: Egy-tíz napos kurzusokat és egy egyhónapos meditációs kurzust kínál.", "Helyszín: Kopan-hegy, Bodnathtól északra, Katmandu.", "Különlegesség: Nyugati dharma-tanulók oktatási központjaként ismert.", "Újjáépítés: A 2015-ös földrengés után kiterjedt újjáépítési munkálatok folytak."],
         ro: ["Fondare: 1969 de către Lama Yeshe și Lama Zopa Rinpoche.", "Tradiție: Budism tibetan (tradiția Gelug).", "Organizație: Parte a Fundației pentru Păstrarea Tradiției Mahayana (FPMT).", "Locuitori: Peste 360 de călugări, lama, profesori și muncitori.", "Cursuri: Oferă cursuri de una până la zece zile și un curs de meditație de o lună.", "Locație: Dealul Kopan, la nord de Bodnath, Kathmandu.", "Specialitate: Cunoscut ca centru de predare pentru studenții occidentali de Dharma.", "Reconstrucție: Lucrări extinse de reconstrucție au fost efectuate după cutremurul din 2015."],
         en: ["Founded: 1969 by Lama Yeshe and Lama Zopa Rinpoche.", "Tradition: Tibetan Buddhism (Gelug tradition).", "Organization: Part of the Foundation for the Preservation of the Mahayana Tradition (FPMT).", "Residents: Over 360 monks, lamas, teachers, and workers.", "Courses: Offers one- to ten-day courses and a one-month meditation course.", "Location: Kopan Hill, north of Bodnath, Kathmandu.", "Specialty: Known as a teaching center for Western Dharma students.", "Reconstruction: Extensive reconstruction work was carried out after the 2015 earthquake."]
-    }
-  },
+    }, image: "/poi-images/np-kopan-monastery-landmarks-v2.webp"},
   {
     id: "np-tengboche-monastery-landmarks-v2",
     type: "landmark",
@@ -123,8 +120,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Magasság: 3,867 méter.", "Alapítás: 1916-ban Gulu láma által.", "Újjáépítés: 1934 (földrengés után), 1989 (tűzvész után).", "Elhelyezkedés: Khumbu régió, az Everest-alaptábor felé vezető úton.", "Kilátás: Panorámás kilátás az Everestre, Lhotséra, Ama Dablamra.", "Fesztivál: A Mani Rimdu fesztivál fontos helyszíne.", "Közösség: Körülbelül 60 szerzetesnek ad otthont.", "Újranyitás: A tűzvész után 1993-ban nyitották meg újra."],
         ro: ["Altitudine: 3.867 de metri.", "Fondare: 1916 de către Lama Gulu.", "Reconstrucție: 1934 (după cutremur), 1989 (după incendiu).", "Locație: Regiunea Khumbu, pe drumul spre Tabăra de Bază Everest.", "Vedere: Panoramă spre Everest, Lhotse, Ama Dablam.", "Festival: Loc important pentru festivalul Mani Rimdu.", "Comunitate: Găzduiește aproximativ 60 de călugări.", "Redeschidere: Redeschis în 1993 după incendiu."],
         en: ["Altitude: 3,867 meters.", "Founded: 1916 by Lama Gulu.", "Rebuilt: 1934 (after earthquake), 1989 (after fire).", "Location: Khumbu region, on the way to Everest Base Camp.", "View: Panoramic view of Everest, Lhotse, Ama Dablam.", "Festival: Important venue for the Mani Rimdu festival.", "Community: Houses about 60 monks.", "Reopened: Reopened in 1993 after the fire."]
-    }
-  },
+    }, image: "/poi-images/np-tengboche-monastery-landmarks-v2.webp"},
   {
     id: "np-dakshinkali-temple-landmarks-v2",
     type: "landmark",
@@ -154,8 +150,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Elkötelezettség: Káli istennő, Párvati egyik megtestesülése.", "Helyszín: 22 km-re délre Katmandutól.", "Rituálék: Állatáldozatok (kakasok és kecskék) minden kedden és szombaton.", "Alapító: Pratap Malla király a 17. században.", "Építészet: Hagyományos Newari stílusban épült.", "Jelentőség: Nepál egyik legfontosabb hindu szentélye.", "Név: A Dakshin 'déli'-t jelent, Káli pedig az istennő.", "Környezet: Egy szurdokban fekszik két szent patak összefolyásánál."],
         ro: ["Dedicare: Zeița Kali, o încarnare a lui Parvati.", "Locație: 22 km la sud de Kathmandu.", "Ritualuri: Sacrificii de animale (cocoși și capre) în fiecare marți și sâmbătă.", "Fondator: Regele Pratap Malla în secolul al XVII-lea.", "Arhitectură: Construit în stil tradițional Newari.", "Importanță: Unul dintre cele mai importante sanctuare hinduse din Nepal.", "Nume: Dakshin înseamnă 'sud' și Kali este zeița.", "Mediu: Situat într-un defileu la confluența a două pârâuri sacre."],
         en: ["Dedication: Goddess Kali, an incarnation of Parvati.", "Location: 22 km south of Kathmandu.", "Rituals: Animal sacrifices (roosters and goats) every Tuesday and Saturday.", "Founder: King Pratap Malla in the 17th century.", "Architecture: Built in traditional Newari style.", "Significance: One of the most important Hindu shrines in Nepal.", "Name: Dakshin means 'south' and Kali is the goddess.", "Environment: Located in a gorge at the confluence of two sacred streams."]
-    }
-  },
+    }, image: "/poi-images/np-dakshinkali-temple-landmarks-v2.webp"},
   {
     id: "np-manakamana-temple-landmarks-v2",
     type: "landmark",
@@ -185,8 +180,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Istennő: Bhagwati, Párvati egyik megtestesülése.", "Név jelentése: 'Szív' (mana) + 'kívánság' (kamana).", "Magasság: 1302 méter.", "Helyszín: Gorkha kerület, Nepál.", "Drótkötélpálya: Egy 2,8 km hosszú drótkötélpálya, amelyet 1998-ban helyeztek üzembe.", "Hit: Teljesíti a zarándokok kívánságait.", "Építészet: Kétszintes pagoda Newari stílusban.", "Pap: Hagyományosan egy magar pap."],
         ro: ["Zeiță: Bhagwati, o încarnare a lui Parvati.", "Semnificația numelui: 'Inimă' (mana) + 'dorință' (kamana).", "Altitudine: 1.302 metri.", "Locație: Districtul Gorkha, Nepal.", "Telecabină: O telecabină de 2,8 km inaugurată în 1998.", "Credință: Îndeplinește dorințele pelerinilor.", "Arhitectură: Pagodă cu două etaje în stil Newari.", "Preot: Tradițional un preot Magar."],
         en: ["Goddess: Bhagwati, an incarnation of Parvati.", "Meaning of the name: 'Heart' (mana) + 'wish' (kamana).", "Altitude: 1,302 meters.", "Location: Gorkha District, Nepal.", "Cable Car: A 2.8 km long cable car inaugurated in 1998.", "Belief: Fulfills the wishes of pilgrims.", "Architecture: Two-story pagoda in Newari style.", "Priest: Traditionally a Magar priest."]
-    }
-  },
+    }, image: "/poi-images/np-manakamana-temple-landmarks-v2.webp"},
   {
     id: "np-tal-barahi-temple-landmarks-v2",
     type: "landmark",
@@ -216,8 +210,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Helyszín: Egy szigeten a Phewa-tóban, Pokhara.", "Istennő: Barahi, Durga egyik megtestesülése.", "Építészet: Kétszintes pagoda.", "Megközelíthetőség: Csak csónakkal érhető el.", "Jelentőség: Fontos vallási központ Pokharában.", "Becenév: 'Tavi templom'.", "Újjáépítés: Az eredeti építtető által újjáépítve egy összeomlás után.", "Látogatók: Népszerű mind a hinduk, mind a turisták körében."],
         ro: ["Locație: Pe o insulă în lacul Phewa, Pokhara.", "Zeiță: Barahi, o încarnare a Durgăi.", "Arhitectură: Pagodă cu două etaje.", "Accesibilitate: Accesibil doar cu barca.", "Importanță: Centru religios important în Pokhara.", "Poreclă: 'Templul Lacului'.", "Reconstrucție: Reconstruit de constructorul original după o prăbușire.", "Vizitatori: Popular atât printre hinduși, cât și printre turiști."],
         en: ["Location: On an island in Phewa Lake, Pokhara.", "Goddess: Barahi, an incarnation of Durga.", "Architecture: Two-story pagoda.", "Accessibility: Only reachable by boat.", "Significance: Important religious center in Pokhara.", "Nickname: 'Lake Temple'.", "Reconstruction: Rebuilt by the original builder after a collapse.", "Visitors: Popular with Hindus and tourists alike."]
-    }
-  },
+    }, image: "/poi-images/np-tal-barahi-temple-landmarks-v2.webp"},
   {
     id: "np-bindhyabasini-temple-landmarks-v2",
     type: "landmark",
@@ -247,8 +240,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Istennő: Bhagwati, Durga egyik formája.", "Helyszín: Egy dombon Pokhara északi részén.", "Alapítás: Feltehetően a 17. században Khadag Bum Malla király által.", "Fő kultikus tárgy: Egy saligram (kövesült ammonitesz).", "Építészet: Pagoda stílus.", "Kilátás: Panorámás kilátás Pokharára és az Annapurna-masszívumra.", "Rituálék: Állatáldozatok szombatonként és keddenként.", "Fesztivál: A Dashain fesztivál fő vonzereje."],
         ro: ["Zeiță: Bhagwati, o formă a Durgăi.", "Locație: Pe un deal în partea de nord a orașului Pokhara.", "Fondare: Probabil în secolul al XVII-lea de către regele Khadag Bum Malla.", "Imagine principală de cult: Un Saligram (amonit fosilizat).", "Arhitectură: Stil pagodă.", "Vedere: Vedere panoramică a orașului Pokhara și a masivului Annapurna.", "Ritualuri: Sacrificii de animale sâmbăta și marțea.", "Festival: Atracție principală în timpul festivalului Dashain."],
         en: ["Goddess: Bhagwati, a form of Durga.", "Location: On a hill in the north of Pokhara.", "Founded: Presumably in the 17th century by King Khadag Bum Malla.", "Main cult image: A Saligram (fossilized ammonite).", "Architecture: Pagoda style.", "View: Panoramic view of Pokhara and the Annapurna massif.", "Rituals: Animal sacrifices on Saturdays and Tuesdays.", "Festival: Main attraction during the Dashain festival."]
-    }
-  },
+    }, image: "/poi-images/np-bindhyabasini-temple-landmarks-v2.webp"},
   {
     id: "np-davis-falls-landmarks-v2",
     type: "landmark",
@@ -278,8 +270,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Helyi név: Patale Chhango (Alvilági-vízesés).", "Helyszín: Pokhara, Kaski kerület, Nepál.", "Forrás: A Phewa-tó lefolyása.", "Különlegesség: A víz egy föld alatti alagútba zuhan.", "Névadás: Egy svájci turistáról nevezték el, aki 1961-ben itt fulladt meg.", "Legjobb látogatási idő: Monszun időszak (júniustól szeptemberig) a maximális vízmennyiségért.", "Alagút mélysége: Kb. 30 méter (100 láb).", "Közeli látnivaló: Gupteshwor Mahadev-barlang."],
         ro: ["Nume local: Patale Chhango (Cascada Lumii de Dincolo).", "Locație: Pokhara, districtul Kaski, Nepal.", "Sursă: Scurgerea lacului Phewa.", "Caracteristică specială: Apa se prăbușește într-un tunel subteran.", "Denumire: Numită după o turistă elvețiană care s-a înecat aici în 1961.", "Cel mai bun moment pentru vizită: Sezonul musonic (iunie-septembrie) pentru un debit maxim de apă.", "Adâncimea tunelului: Aprox. 30 de metri (100 de picioare).", "Atracție în apropiere: Peștera Gupteshwor Mahadev."],
         en: ["Local name: Patale Chhango (Underworld Waterfall).", "Location: Pokhara, Kaski District, Nepal.", "Source: Outflow of Phewa Lake.", "Special feature: Water plunges into an underground tunnel.", "Naming: Named after a Swiss tourist who drowned there in 1961.", "Best time to visit: Monsoon season (June to September) for maximum water flow.", "Depth of the tunnel: Approx. 30 meters (100 feet).", "Nearby attraction: Gupteshwor Mahadev Cave."]
-    }
-  },
+    }, image: "/poi-images/np-davis-falls-landmarks-v2.webp"},
   {
     id: "np-gupteshwor-mahadev-cave-landmarks-v2",
     type: "landmark",
@@ -309,8 +300,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Helyszín: A Davis-vízeséssel szemben, Pokharában.", "Hossz: Körülbelül 3 kilométer, de csak egy része látogatható.", "Felfedezés: Mai formájában az 1990-es években fedezték fel.", "Szentély: Egy sztalagmit, amelyet Shiva-lingamként tisztelnek.", "Összeköttetés: Az alsó rész összeköttetésben áll a Davis-vízeséssel.", "Különlegesség: Pokhara második legnagyobb föld alatti barlangja.", "Fotózás: A fő szentélyben tilos a fotózás.", "Szerkezet: Két fő kamrából áll."],
         ro: ["Locație: Vizavi de Cascada Davis în Pokhara.", "Lungime: Aproximativ 3 kilometri, dar doar o parte este accesibilă.", "Descoperire: Descoperită în forma sa actuală în anii 1990.", "Sanctuar: O stalagmită venerată ca Shiva Lingam.", "Conexiune: Partea inferioară este conectată la Cascada Davis.", "Caracteristică specială: A doua cea mai mare peșteră subterană din Pokhara.", "Fotografiere: Fotografiatul este interzis în sanctuarul principal.", "Structură: Constă din două camere principale."],
         en: ["Location: Opposite Davis Falls in Pokhara.", "Length: Approximately 3 kilometers, but only a part is accessible.", "Discovery: Discovered in its present form in the 1990s.", "Sanctuary: A stalagmite revered as a Shiva Lingam.", "Connection: The lower part is connected to Davis Falls.", "Special Feature: Second largest underground cave in Pokhara.", "Photography: Photography is forbidden in the main sanctuary.", "Structure: Consists of two main chambers."]
-    }
-  },
+    }, image: "/poi-images/np-gupteshwor-mahadev-cave-landmarks-v2.webp"},
   {
     id: "np-international-mountain-museum-landmarks-v2",
     type: "landmark",
@@ -340,8 +330,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Megnyitás: 2004. február 4.", "Alapító: Nepáli Hegymászó Szövetség (NMA).", "Helyszín: Pokhara, Nepál.", "Terület: Több mint 1800 négyzetméter kiállítási terület.", "Témák: Hegymászás, kultúra, geológia, a Himalája flórája és faunája.", "Kiállítótermek: A Nagy Himalája Csarnoka, a Hírességek Csarnoka, a Világ Hegycsúcsai Csarnoka.", "Különlegesség: 21 méter magas mászófal, amely a Manaszlu hegyet mintázza.", "Építészet: A tető egy hegyláncot formáz."],
         ro: ["Deschidere: 4 februarie 2004.", "Fondat de: Asociația de Alpinism din Nepal (NMA).", "Locație: Pokhara, Nepal.", "Suprafață: Peste 1.800 de metri pătrați de spațiu expozițional.", "Teme: Alpinism, cultură, geologie, floră și faună din Himalaya.", "Săli de expoziție: Sala Marilor Himalaya, Sala Celebrităților, Sala Munților Lumii.", "Caracteristică specială: Zid de cățărare de 21 de metri care reproduce Muntele Manaslu.", "Arhitectură: Acoperișul este proiectat să semene cu un lanț muntos."],
         en: ["Opening: February 4, 2004.", "Founded by: Nepal Mountaineering Association (NMA).", "Location: Pokhara, Nepal.", "Area: Over 1,800 square meters of exhibition space.", "Themes: Mountaineering, culture, geology, flora and fauna of the Himalayas.", "Exhibition Halls: Hall of Great Himalayas, Hall of Fame, Hall of World Mountains.", "Special feature: 21-meter high climbing wall replicating Mount Manaslu.", "Architecture: The roof is designed to resemble a mountain range."]
-    }
-  },
+    }, image: "/poi-images/np-international-mountain-museum-landmarks-v2.webp"},
   {
     id: "np-sarangkot-viewpoint-landmarks-v2",
     type: "landmark",
@@ -371,8 +360,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Magasság: 1592 méter.", "Helyszín: Pokharától északnyugatra.", "Kilátás: Panorámás kilátás a Dhaulagiri, Annapurna és Manaszlu hegyláncokra.", "Híresség: Napfelkelte és naplemente a Himalája felett.", "Tevékenységek: Népszerű hely a siklóernyőzéshez és a zipline-hoz.", "Megközelíthetőség: Kb. 45 perces autóút Pokharából.", "Struktúra: Kilátótorony a csúcson.", "Történelem: Egy régi erőd (Kaskikot) romjai a közelben találhatók."],
         ro: ["Altitudine: 1.592 de metri.", "Locație: La nord-vest de Pokhara.", "Vedere: Panoramă asupra lanțurilor Dhaulagiri, Annapurna și Manaslu.", "Celebritate: Răsărit și apus de soare peste Himalaya.", "Activități: Loc popular pentru parapantă și tiroliană.", "Accesibilitate: Aproximativ 45 de minute cu mașina de la Pokhara.", "Structură: Turn de observație pe vârf.", "Istorie: Ruinele unei vechi fortărețe (Kaskikot) se află în apropiere."],
         en: ["Altitude: 1,592 meters.", "Location: Northwest of Pokhara.", "View: Panoramic view of the Dhaulagiri, Annapurna and Manaslu ranges.", "Fame: Sunrise and sunset over the Himalayas.", "Activities: Popular spot for paragliding and ziplining.", "Accessibility: Approx. 45-minute drive from Pokhara.", "Structure: Observation tower on the summit.", "History: Ruins of an old fort (Kaskikot) are located nearby."]
-    }
-  },
+    }, image: "/poi-images/np-sarangkot-viewpoint-landmarks-v2.webp"},
   {
     id: "np-garden-of-dreams-landmarks-v2",
     type: "landmark",
@@ -402,8 +390,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Épült: 1920-as évek.", "Építtető: Kaiser Shamsher Rana tábornagy.", "Stílus: Neoklasszicista, angol kertek ihlették.", "Restaurálás: 2000-2007 között osztrák segítséggel.", "Helyszín: Katmandu szívében, Thamel.", "Pavilonok: Eredetileg 6 pavilon, amelyek Nepál 6 évszakát szimbolizálják.", "Terület: Eredetileg 1,6 hektár, ma körülbelül a fele van helyreállítva.", "Különlegesség: Amfiteátrumot, kávézót és könyvtárat foglal magában."],
         ro: ["Construit: Anii 1920.", "Constructor: Feldmareșalul Kaiser Shamsher Rana.", "Stil: Neoclasic, inspirat de grădinile englezești.", "Restaurare: 2000-2007 cu ajutor austriac.", "Locație: În inima orașului Kathmandu, Thamel.", "Pavilioane: Inițial 6 pavilioane simbolizând cele 6 anotimpuri ale Nepalului.", "Suprafață: Inițial 1,6 hectare, astăzi aproximativ jumătate este restaurată.", "Caracteristică specială: Găzduiește un amfiteatru, o cafenea și o bibliotecă."],
         en: ["Built: 1920s.", "Builder: Field Marshal Kaiser Shamsher Rana.", "Style: Neoclassical, inspired by English gardens.", "Restoration: 2000-2007 with Austrian assistance.", "Location: In the heart of Kathmandu, Thamel.", "Pavilions: Originally 6 pavilions symbolizing the 6 seasons of Nepal.", "Area: Originally 1.6 hectares, today about half is restored.", "Special feature: Houses an amphitheater, a café, and a library."]
-    }
-  },
+    }, image: "/poi-images/np-garden-of-dreams-landmarks-v2.webp"},
   {
     id: "np-narayanhiti-palace-museum-landmarks-v2",
     type: "landmark",
@@ -433,8 +420,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Funkció: A nepáli uralkodók egykori fő rezidenciája.", "Építési év: A jelenlegi palota 1963-ban készült el.", "Építész: Benjamin Polk, egy amerikai építész.", "Esemény: A 2001-es nepáli királyi mészárlás helyszíne.", "Átalakítás: 2008-ban nyilvános múzeummá alakították át.", "Név: Narayana (Visnu egyik formája) + Hiti (vízkút).", "Terület: 3794 négyzetmétert foglal el.", "Kiállítás: Bemutatja a Shah királyok életmódját és a koronaékszereket."],
         ro: ["Funcție: Fosta reședință principală a monarhilor nepalezi.", "Anul construcției: Palatul actual a fost finalizat în 1963.", "Arhitect: Benjamin Polk, un arhitect american.", "Eveniment: Locul masacrului regal nepalez din 2001.", "Transformare: Transformat în muzeu public în 2008.", "Nume: Narayana (o formă de Vishnu) + Hiti (fântână de apă).", "Suprafață: Acoperă o suprafață de 3.794 de metri pătrați.", "Expoziție: Prezintă stilul de viață al regilor Shah și bijuteriile coroanei."],
         en: ["Function: Former main residence of the Nepalese monarchs.", "Year of construction: The current palace was completed in 1963.", "Architect: Benjamin Polk, an American architect.", "Event: Site of the 2001 Nepalese royal massacre.", "Conversion: Converted into a public museum in 2008.", "Name: Narayana (a form of Vishnu) + Hiti (water spout).", "Area: Covers an area of 3,794 square meters.", "Exhibition: Showcases the lifestyle of the Shah kings and the crown jewels."]
-    }
-  },
+    }, image: "/poi-images/np-narayanhiti-palace-museum-landmarks-v2.webp"},
   {
     id: "np-budhanilkantha-temple-landmarks-v2",
     type: "landmark",
@@ -464,8 +450,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Szobor: 5 méter hosszú fekvő Visnu-szobor.", "Anyag: Egyetlen fekete bazalttömb.", "Kor: Feltehetően a 7. századból (Licchavi-korszak).", "Helyszín: A Shivapuri-hegy lábánál, Katmandu.", "Medence: A szobor egy 13 méter hosszú vizes medencében fekszik.", "Név: Jelentése 'Öreg kék torok', bár Visnut ábrázol.", "Királyi tilalom: A nepáli királyoknak tilos volt meglátogatniuk.", "Fesztiválok: A Haribodhini Ekadashi fontos központja."],
         ro: ["Statuie: Statuie culcată de 5 metri a lui Vishnu.", "Material: Un singur bloc de piatră de bazalt negru.", "Vârstă: Probabil din secolul al VII-lea (perioada Licchavi).", "Locație: La poalele dealului Shivapuri, Kathmandu.", "Bazin: Statuia se află într-un bazin de apă de 13 metri lungime.", "Nume: Înseamnă 'Gâtul Albastru Bătrân', deși îl înfățișează pe Vishnu.", "Interdicție regală: Regilor nepalezi le era interzis să o viziteze.", "Festivaluri: Centru important pentru Haribodhini Ekadashi."],
         en: ["Statue: 5-meter long reclining statue of Vishnu.", "Material: Single block of black basalt stone.", "Age: Presumably from the 7th century (Licchavi period).", "Location: At the foot of the Shivapuri Hill, Kathmandu.", "Pool: The statue lies in a 13-meter long pool of water.", "Name: Means 'Old Blue Throat', although it depicts Vishnu.", "Royal Prohibition: Nepalese kings were forbidden to visit.", "Festivals: Important center for Haribodhini Ekadashi."]
-    }
-  },
+    }, image: "/poi-images/np-budhanilkantha-temple-landmarks-v2.webp"},
   {
     id: "np-asan-tole-landmarks-v2",
     type: "landmark",
@@ -495,8 +480,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Típus: Történelmi piactér és közlekedési csomópont.", "Helyszín: Katmandu óvárosának központjában.", "Kereszteződés: Itt hat utca találkozik.", "Fő templom: Annapurna Ajimā templom (a bőség istennőjének temploma).", "Piac: Híres a széles áruválasztékáról, különösen a fűszerekről.", "Történelmi jelentőség: Fontos pont az ősi India-Tibet kereskedelmi útvonalon.", "Építészet: Hagyományos Newari építészet veszi körül.", "Kultúra: A Newari kultúra és a mindennapi élet központja."],
         ro: ["Tip: Piață istorică și intersecție.", "Locație: În centrul orașului vechi Kathmandu.", "Intersecție: Aici se întâlnesc șase străzi.", "Templul principal: Templul Annapurna Ajimā (templul zeiței abundenței).", "Piață: Cunoscută pentru o gamă largă de bunuri, în special condimente.", "Importanță istorică: Punct important pe vechea rută comercială India-Tibet.", "Arhitectură: Înconjurat de arhitectură tradițională Newari.", "Cultură: Un centru al culturii Newari și al vieții de zi cu zi."],
         en: ["Type: Historic market square and intersection.", "Location: In the center of old Kathmandu.", "Intersection: Six streets meet here.", "Main temple: Annapurna Ajimā Temple (temple of the goddess of abundance).", "Market: Known for a wide range of goods, especially spices.", "Historical significance: Important point on the ancient India-Tibet trade route.", "Architecture: Surrounded by traditional Newari architecture.", "Culture: A center of Newari culture and daily life."]
-    }
-  },
+    }, image: "/poi-images/np-asan-tole-landmarks-v2.webp"},
   {
     id: "np-halesi-mahadev-cave-landmarks-v2",
     type: "landmark",
@@ -526,8 +510,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Helyszín: Khotang kerület, Kelet-Nepál.", "Magasság: 1436 méter.", "Becenév: Kelet Pashupatinathja.", "Jelentőség: Szent hely a hinduk, buddhisták és kirátok számára.", "Barlangkomplexum: Három fő barlang.", "Hindu legenda: Shiva itt rejtőzött el Bhasmasur démon elől.", "Buddhista legenda: Guru Rinpocse itt meditált és elérte a halhatatlanságot.", "Szerkezet: Természetes mészkőbarlang."],
         ro: ["Locație: Districtul Khotang, estul Nepalului.", "Altitudine: 1.436 de metri.", "Poreclă: Pashupatinath al Estului.", "Importanță: Loc sfânt pentru hinduși, budiști și kirats.", "Complex de peșteri: Trei peșteri principale.", "Legendă hindusă: Shiva s-a ascuns aici de demonul Bhasmasur.", "Legendă budistă: Guru Rinpoche a meditat aici și a atins nemurirea.", "Structură: Peșteră naturală de calcar."],
         en: ["Location: Khotang District, Eastern Nepal.", "Altitude: 1,436 meters.", "Nickname: Pashupatinath of the East.", "Significance: Holy site for Hindus, Buddhists, and Kirats.", "Cave Complex: Three main caves.", "Hindu Legend: Shiva hid here from the demon Bhasmasur.", "Buddhist Legend: Guru Rinpoche meditated here and attained immortality.", "Structure: Natural limestone cave."]
-    }
-  },
+    }, image: "/poi-images/np-halesi-mahadev-cave-landmarks-v2.webp"},
   {
     id: "np-pathibhara-devi-temple-landmarks-v2",
     type: "landmark",
@@ -557,8 +540,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Magasság: 3794 méter.", "Helyszín: Taplejung kerület, Kelet-Nepál.", "Istennő: Pathibhara Devi (Durga egyik megnyilvánulása).", "Jelentőség: Egyike a 31 'Shakti Peeth'-nek Nepálban.", "Hit: Teljesíti a meddő nők és gyermektelen párok kívánságait.", "Zarándoklat: Igényes, többnapos túrát igényel.", "Kilátás: Panorámás kilátás a Kancsendzönga és Kumbhakarna hegyláncokra.", "Áldozatok: Az állatáldozatok gyakoriak."],
         ro: ["Altitudine: 3.794 de metri.", "Locație: Districtul Taplejung, estul Nepalului.", "Zeiță: Pathibhara Devi (o manifestare a Durgăi).", "Importanță: Unul dintre cele 31 de 'Shakti Peeths' din Nepal.", "Credință: Îndeplinește dorințele femeilor sterile și ale cuplurilor fără copii.", "Pelerinaj: Necesită o drumeție solicitantă de mai multe zile.", "Vedere: Panoramă asupra lanțurilor Kanchenjunga și Kumbhakarna.", "Ofrande: Sacrificiile de animale sunt comune."],
         en: ["Altitude: 3,794 meters.", "Location: Taplejung District, Eastern Nepal.", "Goddess: Pathibhara Devi (a manifestation of Durga).", "Significance: One of the 31 'Shakti Peeths' in Nepal.", "Belief: Fulfills the wishes of barren women and childless couples.", "Pilgrimage: Requires a demanding multi-day trek.", "View: Panoramic view of the Kanchenjunga and Kumbhakarna ranges.", "Offerings: Animal sacrifices are common."]
-    }
-  },
+    }, image: "/poi-images/np-pathibhara-devi-temple-landmarks-v2.webp"},
   {
     id: "np-bajrayogini-temple-landmarks-v2",
     type: "landmark",
@@ -588,8 +570,7 @@ export const poiExtraNepalLandmarksV2: POI[] = [
         hu: ["Helyszín: Sankhu, Katmandu-völgy.", "Istennő: Bajrayogini (egy tantrikus istennő).", "Tisztelet: Mind a hinduk, mind a buddhisták tisztelik.", "Építési év: A fő templomot a 17. században építtette Pratap Malla király.", "Építészet: Háromszintes templom aranyozott tetőkkel.", "Különlegesség: Az istennő szobrának vörös arca és három szeme van.", "Megközelítés: Egy hosszú kőlépcsőn keresztül érhető el.", "Szinkretizmus: A hinduizmus és a buddhizmus összeolvadásának példája."],
         ro: ["Locație: Sankhu, Valea Kathmandu.", "Zeiță: Bajrayogini (o zeiță tantrică).", "Venerare: Venerată atât de hinduși, cât și de budiști.", "Anul construcției: Templul principal a fost construit în secolul al XVII-lea de regele Pratap Malla.", "Arhitectură: Templu cu trei etaje cu acoperișuri aurite.", "Caracteristică specială: Statuia zeiței are o față roșie și trei ochi.", "Acces: Accesibil printr-o scară lungă de piatră.", "Sincretism: Un exemplu de fuziune a hinduismului și budismului."],
         en: ["Location: Sankhu, Kathmandu Valley.", "Goddess: Bajrayogini (a tantric goddess).", "Veneration: Revered by both Hindus and Buddhists.", "Year of construction: Main temple built in the 17th century by King Pratap Malla.", "Architecture: Three-story temple with gilded roofs.", "Special feature: The goddess's statue has a red face and three eyes.", "Access: Accessible via a long stone staircase.", "Syncretism: An example of the fusion of Hinduism and Buddhism."]
-    }
-  },
+    }, image: "/poi-images/np-bajrayogini-temple-landmarks-v2.webp"},
   {
     id: "np-guhyeshwari-temple-landmarks-v2",
     type: "landmark",

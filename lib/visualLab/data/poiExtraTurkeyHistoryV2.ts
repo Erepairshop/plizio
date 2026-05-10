@@ -13,8 +13,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Az emberiség első templomának tartják.", "Hatalmas, T alakú mészkőoszlopokból áll."],
       ro: ["Considerat primul templu al omenirii.", "Este format din stâlpi masivi de calcar în formă de T."],
       en: ["Considered the first temple of humanity.", "Consists of massive, T-shaped limestone pillars."]
-    }
-  },
+    }, image: "/poi-images/gobekli-tepe-history-v2.webp"},
   {
     id: "ephesus-history-v2",
     type: "ruin",
@@ -27,8 +26,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Az ókori világ hét csodája közé tartozó Artemisz-templom otthona.", "A Celsus-könyvtár egy híres nevezetesség."],
       ro: ["Găzduia Templul lui Artemis, una dintre cele șapte minuni ale lumii.", "Biblioteca lui Celsus este un punct de reper faimos."],
       en: ["Home to the Temple of Artemis, one of the Seven Wonders of the World.", "The Library of Celsus is a famous landmark."]
-    }
-  },
+    }, image: "/poi-images/ephesus-history-v2.webp"},
   {
     id: "troy-history-v2",
     type: "ruin",
@@ -41,8 +39,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Heinrich Schliemann fedezte fel a 19. században.", "Több településrétegből áll."],
       ro: ["Descoperit în secolul al XIX-lea de Heinrich Schliemann.", "Este format din mai multe straturi de așezări."],
       en: ["Discovered in the 19th century by Heinrich Schliemann.", "Consists of multiple settlement layers."]
-    }
-  },
+    }, image: "/poi-images/troy-history-v2.webp"},
   {
     id: "hattusa-history-v2",
     type: "historical-site",
@@ -55,8 +52,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Az Oroszlános kapuról és a Királykapuról ismert.", "Itt találták meg a legrégebbi ismert békeszerződést."],
       ro: ["Cunoscut pentru Poarta Leilor și Poarta Regelui.", "Aici a fost găsit cel mai vechi tratat de pace cunoscut."],
       en: ["Known for the Lion Gate and the King's Gate.", "The oldest known peace treaty was found here."]
-    }
-  },
+    }, image: "/poi-images/hattusa-history-v2.webp"},
   {
     id: "gallipoli-history-v2",
     type: "battlefield",
@@ -69,8 +65,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["A csata 1915-ben zajlott.", "Jelentős emlékhely Ausztrália és Új-Zéland (ANZAC) számára."],
       ro: ["Bătălia a avut loc în 1915.", "Un important loc de comemorare pentru Australia și Noua Zeelandă (ANZAC)."],
       en: ["The battle took place in 1915.", "A major memorial site for Australia and New Zealand (ANZAC)."]
-    }
-  },
+    }, image: "/poi-images/gallipoli-history-v2.webp"},
   {
     id: "mount-nemrut-history-v2",
     type: "monument",
@@ -83,8 +78,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["A hegy 2150 méter magas.", "A szobrok feje ma már le van választva a törzsükről."],
       ro: ["Muntele are 2150 de metri înălțime.", "Capetele statuilor sunt acum separate de trup."],
       en: ["The mountain is 2150 meters high.", "The statue heads are now separated from their bodies."]
-    }
-  },
+    }, image: "/poi-images/mount-nemrut-history-v2.webp"},
   {
     id: "sumela-monastery-history-v2",
     type: "historical-site",
@@ -97,8 +91,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["A 4. század végén alapították.", "Az Altındere Nemzeti Parkban, 1200 méteres magasságban található."],
       ro: ["Fondată la sfârșitul secolului al IV-lea.", "Situată la o altitudine de 1200 de metri în Parcul Național Altındere."],
       en: ["Founded in the late 4th century.", "Located at an altitude of 1200 meters in the Altındere National Park."]
-    }
-  },
+    }, image: "/poi-images/sumela-monastery-history-v2.webp"},
   {
     id: "hierapolis-history-v2",
     type: "ruin",
@@ -111,8 +104,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Nagyon jól megőrzött római színházzal rendelkezik.", "Az ókorban jelentős gyógyközpontnak számított."],
       ro: ["Are un teatru roman foarte bine conservat.", "A fost considerat un important centru de vindecare în antichitate."],
       en: ["Features a very well-preserved Roman theater.", "Considered a major healing center in antiquity."]
-    }
-  },
+    }, image: "/poi-images/hierapolis-history-v2.webp"},
   {
     id: "topkapi-palace-history-v2",
     type: "historical-site",
@@ -125,8 +117,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Isztambul 1453-as elfoglalása után épült.", "Szent iszlám ereklyéknek ad otthont."],
       ro: ["Construit după cucerirea Istanbulului în 1453.", "Găzduiește relicve sacre islamice."],
       en: ["Built after the conquest of Istanbul in 1453.", "Houses sacred Islamic relics."]
-    }
-  },
+    }, image: "/poi-images/topkapi-palace-history-v2.webp"},
   {
     id: "hagia-sophia-history-v2",
     type: "monument",
@@ -139,8 +130,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["A 6. században épült I. Justinianus császár alatt.", "Később mecsetként és múzeumként is használták."],
       ro: ["Construită în secolul al VI-lea sub împăratul Iustinian.", "A fost folosită mai târziu ca moschee și muzeu."],
       en: ["Built in the 6th century under Emperor Justinian.", "Was later used as a mosque and a museum."]
-    }
-  },
+    }, image: "/poi-images/hagia-sophia-history-v2.webp"},
   {
     id: "ani-history-v2",
     type: "ruin",
@@ -153,8 +143,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Az 1001 templom városaként ismert.", "A selyemút egyik fontos csomópontja volt."],
       ro: ["Cunoscut sub numele de Orașul celor 1001 de Biserici.", "A fost un punct cheie pe Drumul Mătăsii."],
       en: ["Known as the City of 1001 Churches.", "Was a key hub on the Silk Road."]
-    }
-  },
+    }, image: "/poi-images/ani-history-v2.webp"},
   {
     id: "catalhoyuk-history-v2",
     type: "historical-site",
@@ -167,8 +156,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["A házaknak nem voltak ajtajuk, a tetőn keresztül jutottak be.", "Kr. e. 7100 és 5700 között lakták."],
       ro: ["Casele nu aveau uși și se intra prin acoperiș.", "Locuit între anii 7100 și 5700 î.Hr."],
       en: ["The houses had no doors and were entered through the roof.", "Inhabited between 7100 and 5700 BC."]
-    }
-  },
+    }, image: "/poi-images/catalhoyuk-history-v2.webp"},
   {
     id: "pergamon-history-v2",
     type: "ruin",
@@ -181,8 +169,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Az ókori világ második legnagyobb könyvtárával rendelkezett.", "Az eredeti Pergamon-oltár ma Berlinben található."],
       ro: ["Deținea a doua cea mai mare bibliotecă din lumea antică.", "Altarul original de la Pergam se află astăzi la Berlin."],
       en: ["Housed the second-largest library in the ancient world.", "The original Pergamon Altar is now located in Berlin."]
-    }
-  },
+    }, image: "/poi-images/pergamon-history-v2.webp"},
   {
     id: "aphrodisias-history-v2",
     type: "ruin",
@@ -195,8 +182,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["A városnak nagyra becsült szobrásziskolája volt.", "Az ókori stadion a világ egyik legjobb állapotban fennmaradt stadionja."],
       ro: ["Orașul avea o școală de sculptură foarte apreciată.", "Stadionul antic este unul dintre cele mai bine conservate din lume."],
       en: ["The city had a highly regarded school of sculpture.", "The ancient stadium is one of the best-preserved in the world."]
-    }
-  },
+    }, image: "/poi-images/aphrodisias-history-v2.webp"},
   {
     id: "termessos-history-v2",
     type: "ruin",
@@ -209,8 +195,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Még Nagy Sándor is kudarcot vallott a város meghódítási kísérleténél.", "Több mint 1000 méteres magasságban található."],
       ro: ["Chiar și Alexandru cel Mare a eșuat în încercarea de a cuceri orașul.", "Se află la o altitudine de peste 1000 de metri."],
       en: ["Even Alexander the Great failed in his attempt to conquer the city.", "Located at an altitude of over 1000 meters."]
-    }
-  },
+    }, image: "/poi-images/termessos-history-v2.webp"},
   {
     id: "derinkuyu-history-v2",
     type: "historical-site",
@@ -223,8 +208,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Körülbelül 85 méteres mélységet ér el.", "Több, alagutakkal összekötött szintből áll."],
       ro: ["Atinge o adâncime de aproximativ 85 de metri.", "Este format din mai multe niveluri conectate prin tuneluri."],
       en: ["Reaches a depth of about 85 meters.", "Consists of multiple levels connected by tunnels."]
-    }
-  },
+    }, image: "/poi-images/derinkuyu-history-v2.webp"},
   {
     id: "myra-history-v2",
     type: "ruin",
@@ -237,8 +221,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Myrai Szent Miklós itt volt püspök a 4. században.", "A lükiai sziklasírok a sziklafalba vannak vésve."],
       ro: ["Nicolae de Myra a fost episcop aici în secolul al IV-lea.", "Mormintele rupestre liciene sunt sculptate în stânci."],
       en: ["Nicholas of Myra was bishop here in the 4th century.", "The Lycian rock tombs are carved into the cliffs."]
-    }
-  },
+    }, image: "/poi-images/myra-history-v2.webp"},
   {
     id: "anitkabir-history-v2",
     type: "monument",
@@ -251,8 +234,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["Az építkezés majdnem tíz évig tartott, 1944-től 1953-ig.", "Évente látogatók millióit vonzza."],
       ro: ["Construcția a durat aproape zece ani, din 1944 până în 1953.", "Atrage milioane de vizitatori anual."],
       en: ["Construction took nearly ten years from 1944 to 1953.", "Attracts millions of visitors annually."]
-    }
-  },
+    }, image: "/poi-images/anitkabir-history-v2.webp"},
   {
     id: "zeugma-history-v2",
     type: "ruin",
@@ -265,8 +247,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       hu: ["A város nagy részét egy gát elárasztotta.", "A gaziantepi Zeugma Mozaikmúzeum ad otthont a leleteknek."],
       ro: ["O mare parte a orașului a fost inundată de un baraj.", "Muzeul Mozaicurilor din Zeugma din Gaziantep găzduiește descoperirile."],
       en: ["A large part of the city was flooded by a dam.", "The Zeugma Mosaic Museum in Gaziantep houses the finds."]
-    }
-  },
+    }, image: "/poi-images/zeugma-history-v2.webp"},
   {
     id: "aspendos-history-v2",
     type: "historical-site",

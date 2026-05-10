@@ -339,14 +339,14 @@ export const poiExtraCongoReliefV2: POI[] = [
       en: "Bihoua Cave"
     },
     description: {
-      de: "Ein ausgedehntes Höhlensystem im Kalkstein der Bouenza-Region, bekannt für seine bizarren Felsformationen.",
-      hu: "Kiterjedt barlangrendszer a Bouenza-régió mészkőrétegeiben, amely bizarr kőzetformációiról ismert.",
+      de: "Die Grotte de Bihoua ist eine Höhle im südlichen Kongo mit lokalem Naturwert. Sie ist ein kleines, aber markantes Zeugnis der Karstlandschaft der Region.",
+      hu: "A Bihoua-barlang egy term?szetes ?reg a d?li Kong? dombvid?k?n. A k?pz?dm?ny a helyi k?zetek ?s az er?zi? nyom?t ?rzi.",
       ro: "Un sistem extins de peșteri în calcarul regiunii Bouenza, cunoscut pentru formațiunile sale stâncoase bizare.",
       en: "An extensive cave system in the limestone of the Bouenza region, known for its bizarre rock formations."
     },
     facts: {
-      de: ["Stalaktiten und Stalagmiten", "Wichtiger Ort für Fledermäuse", "Karstphänomen", "Noch nicht vollständig erforscht"],
-      hu: ["Sztalaktitok és sztalagmitok", "Fontos denevér-élőhely", "Karsztjelenség", "Még nem teljesen feltárt"],
+      de: ["Höhle im Süden", "Karstlandschaft", "Lokaler Naturwert", "Markantes Naturdenkmal"],
+      hu: ["Term?szetes barlang", "D?li dombvid?k", "K?zetk?pz?dm?ny", "Geol?giai helysz?n"],
       ro: ["Stalactite și stalagmite", "Loc important pentru lilieci", "Fenomen carstic", "Nu este încă explorată complet"],
       en: ["Stalactites and stalagmites", "Important bat habitat", "Karst phenomenon", "Not yet fully explored"]
     }, image: "/poi-images/grotte-de-bihoua-relief-v2.webp"},
@@ -386,13 +386,13 @@ export const poiExtraCongoReliefV2: POI[] = [
     },
     description: {
       de: "Ein markantes Bergmassiv im Kouilou-Gebiet, das zum Mayombe-Gebirgssystem gehört und reich an Mineralien ist.",
-      hu: "Jellegzetes hegytömb Kouilou térségében, amely a Mayombe-hegységrendszerhez tartozik és ásványokban gazdag.",
+      hu: "A Mont Bamba egy kisebb hegyvid?ki pont a Kong? d?li r?sz?n. A k?rny?k dombos t?jk?p?hez tartozik.",
       ro: "Un masiv muntos proeminent în zona Kouilou, aparținând sistemului muntos Mayombe și bogat în minerale.",
       en: "A prominent mountain massif in the Kouilou area, belonging to the Mayombe mountain system and rich in minerals."
     },
     facts: {
       de: ["Glimmerschiefer-Formationen", "Dichte Waldkrone", "Wichtig für lokale Orographie", "Vorkommen von Erzen"],
-      hu: ["Csillámpala formációk", "Sűrű erdőkorona", "Fontos helyi orográfiai elem", "Érclelőhelyek"],
+      hu: ["Hegyi pont", "D?li orsz?gr?sz", "Dombos t?j", "Helyi relief"],
       ro: ["Formațiuni de micasisturi", "Coroană forestieră densă", "Important pentru orografia locală", "Prezența minereurilor"],
       en: ["Mica schist formations", "Dense forest canopy", "Important for local orography", "Presence of ores"]
     }

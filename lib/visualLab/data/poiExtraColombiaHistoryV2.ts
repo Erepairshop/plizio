@@ -424,12 +424,12 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       de: "Eine Festung auf der Insel Tierrabomba, die die Hauptzufahrt zur Bucht von Cartagena schützte.",
       hu: "Egy erőd a Tierrabomba szigeten, amely a Cartagena-öböl fő bejáratát védte.",
       ro: "Un fort pe insula Tierrabomba care proteja principala intrare în Golful Cartagena.",
-      en: "A fortress on Tierrabomba Island that protected the main entrance to the Bay of Cartagena." },
+      en: "An 18th-century fortress on Tierra Bomba Island that guarded the main entrance to Cartagena Bay. Its horseshoe layout was designed to help defend the Bocachica channel." },
     facts: {
       de: ["Erbaut im Jahr 1753.", "Hatte eine hufeisenförmige Struktur, um Artilleriefeuer abzuwehren."],
       hu: ["1753-ban épült.", "Patkó alakú szerkezete volt a tüzérségi tűz kivédésére."],
       ro: ["Construit în anul 1753.", "A avut o structură în formă de potcoavă pentru a devia focul de artilerie."],
-      en: ["Built in 1753.", "Had a horseshoe-shaped structure to deflect artillery fire."]
+      en: ["Built in 1753", "Guarded Cartagena's southern approach", "Horseshoe-shaped defensive design", "Part of Cartagena's historic fortifications"]
     },
     
      image: "/poi-images/fort-san-fernando-bocachica-history-v2.webp",
@@ -806,12 +806,12 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       de: "Ein koloniales Gebäude in Cartagena, das einst als Sitz der Spanischen Inquisition diente und heute ein historisches Museum ist.",
       hu: "Egy gyarmati épület Cartagenában, amely egykor a spanyol inkvizíció székhelyeként szolgált, ma pedig történelmi múzeum.",
       ro: "O clădire colonială în Cartagena care a servit odată ca sediu al Inchiziției spaniole și este astăzi un muzeu istoric.",
-      en: "A colonial building in Cartagena that once served as the seat of the Spanish Inquisition and is now a historical museum." },
+      en: "A colonial building in Cartagena that once housed the Spanish Inquisition. Today it is a museum and a reminder of the city's colonial past." },
     facts: {
       de: ["Erbaut im Jahr 1770.", "Hat eine der schönsten barocken Türen der Stadt."],
       hu: ["1770-ben épült.", "A város egyik legszebb barokk ajtajával rendelkezik."],
       ro: ["Construit în 1770.", "Are una dintre cele mai frumoase uși baroce din oraș."],
-      en: ["Built in 1770.", "Features one of the most beautiful baroque doors in the city."]
+      en: ["Completed in 1770", "Located in Plaza de Bolívar", "Known for its baroque entrance", "Now the Cartagena Historical Museum"]
     },
     
      image: "/poi-images/palacio-de-la-inquisicion-history-v2.webp",

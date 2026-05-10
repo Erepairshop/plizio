@@ -13,8 +13,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["2963 méter magas.", "Kelet-Timor legmagasabb hegye.", "Szűz Mária-szobor a csúcson."],
       ro: ["2963 metri înălțime.", "Cel mai înalt munte din Timorul de Est.", "Statuia Fecioarei Maria se află pe vârf."],
       en: ["2,963 metres high.", "Highest mountain in East Timor.", "Statue of the Virgin Mary on the summit."]
-    }
-  },
+    }, image: "/poi-images/tatamailau-nature-v2.webp"},
   {
     id: "nino-konis-santana-national-park-nature-v2",
     type: "national-park",
@@ -27,8 +26,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Az ország első nemzeti parkja.", "2007-ben alapították.", "Szárazföldi és tengeri területeket is véd."],
       ro: ["Primul parc național al țării.", "Înființat în 2007.", "Protejează zone terestre și marine."],
       en: ["First national park of the country.", "Established in 2007.", "Protects both terrestrial and marine areas."]
-    }
-  },
+    }, image: "/poi-images/nino-konis-santana-national-park-nature-v2.webp"},
   {
     id: "lake-ira-lalaro-nature-v2",
     type: "lake",
@@ -41,8 +39,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Az ország legnagyobb tava.", "Bordáskrokodilok otthona.", "Egy karsztmedencében (polje) fekszik."],
       ro: ["Cel mai mare lac din țară.", "Găzduiește crocodili de apă sărată.", "Situat într-o polie (depresiune carstică)."],
       en: ["Largest lake in the country.", "Home to saltwater crocodiles.", "Located in a polje (karst depression)."]
-    }
-  },
+    }, image: "/poi-images/lake-ira-lalaro-nature-v2.webp"},
   {
     id: "mount-matebian-nature-v2",
     type: "mountain",
@@ -55,8 +52,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["2316 méter magas.", "Jelentése „Holtak hegye”.", "Jelentős történelmi helyszín."],
       ro: ["2316 metri înălțime.", "Se traduce prin „Muntele Morților”.", "Sit istoric semnificativ."],
       en: ["2,316 metres high.", "Translates to \"Mountain of the Dead\".", "Significant historical site."]
-    }
-  },
+    }, image: "/poi-images/mount-matebian-nature-v2.webp"},
   {
     id: "lois-river-nature-v2",
     type: "river",
@@ -69,8 +65,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Kelet-Timor leghosszabb állandó folyója.", "A Savu-tengerbe torkollik.", "Fontos a mezőgazdaság számára."],
       ro: ["Cel mai lung râu permanent din Timorul de Est.", "Se varsă în Marea Savu.", "Important pentru agricultură."],
       en: ["Longest permanent river in East Timor.", "Flows into the Savu Sea.", "Important for agriculture."]
-    }
-  },
+    }, image: "/poi-images/lois-river-nature-v2.webp"},
   {
     id: "mount-kablaki-nature-v2",
     type: "mountain",
@@ -83,8 +78,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Több mint 2000 méter magas.", "Jelentős mészkőhegy.", "Sűrűn erdősített lejtők."],
       ro: ["Peste 2000 de metri înălțime.", "Munte de calcar important.", "Pante dens împădurite."],
       en: ["Over 2,000 metres high.", "Important limestone mountain.", "Densely forested slopes."]
-    }
-  },
+    }, image: "/poi-images/mount-kablaki-nature-v2.webp"},
   {
     id: "lake-seloi-nature-v2",
     type: "lake",
@@ -97,8 +91,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Szezonális tó.", "Fontos vizes élőhely.", "Az Aileu körzetben fekszik."],
       ro: ["Lac sezonier.", "Zonă umedă importantă.", "Situat în districtul Aileu."],
       en: ["Seasonal lake.", "Important wetland.", "Located in the Aileu district."]
-    }
-  },
+    }, image: "/poi-images/lake-seloi-nature-v2.webp"},
   {
     id: "mount-mundo-perdido-nature-v2",
     type: "mountain",
@@ -111,8 +104,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Biológiai sokféleség védett területe.", "Jelentése „Elveszett világ”.", "Endemikus madarak otthona."],
       ro: ["Zonă protejată pentru biodiversitate.", "Se traduce prin „Lumea Pierdută”.", "Găzduiește păsări endemice."],
       en: ["Protected biodiversity area.", "Translates to \"Lost World\".", "Home to endemic birds."]
-    }
-  },
+    }, image: "/poi-images/mount-mundo-perdido-nature-v2.webp"},
   {
     id: "seical-river-nature-v2",
     type: "river",
@@ -125,8 +117,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["A Baucau körzeten folyik keresztül.", "Termékeny rizsföldeket hoz létre.", "A Wetar-szorosba torkollik."],
       ro: ["Curge prin districtul Baucau.", "Creează orezării fertile.", "Se varsă în Strâmtoarea Wetar."],
       en: ["Flows through the Baucau district.", "Creates fertile rice paddies.", "Flows into the Wetar Strait."]
-    }
-  },
+    }, image: "/poi-images/seical-river-nature-v2.webp"},
   {
     id: "tono-river-nature-v2",
     type: "river",
@@ -139,8 +130,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Oecusse fő folyója.", "Fontos a helyi öntözésben.", "A Savu-tengerbe torkollik."],
       ro: ["Râul principal din Oecusse.", "Important pentru irigațiile locale.", "Se varsă în Marea Savu."],
       en: ["Main river in Oecusse.", "Important for local irrigation.", "Flows into the Savu Sea."]
-    }
-  },
+    }, image: "/poi-images/tono-river-nature-v2.webp"},
   {
     id: "mount-taroman-nature-v2",
     type: "mountain",
@@ -153,8 +143,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Több mint 1700 méter magas.", "Covalimában található.", "Sűrű trópusi erdők."],
       ro: ["Peste 1700 de metri înălțime.", "Situat în Covalima.", "Păduri tropicale dense."],
       en: ["Over 1,700 metres high.", "Located in Covalima.", "Dense tropical forests."]
-    }
-  },
+    }, image: "/poi-images/mount-taroman-nature-v2.webp"},
   {
     id: "caraulun-river-nature-v2",
     type: "river",
@@ -167,8 +156,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["A Timor-tenger felé folyik.", "Erős szezonális ingadozások.", "Meghatározza a Manufahi körzetet."],
       ro: ["Curge spre Marea Timor.", "Fluctuații sezoniere puternice.", "Formează districtul Manufahi."],
       en: ["Flows to the Timor Sea.", "Strong seasonal fluctuations.", "Shapes the Manufahi district."]
-    }
-  },
+    }, image: "/poi-images/caraulun-river-nature-v2.webp"},
   {
     id: "north-laclo-river-nature-v2",
     type: "river",
@@ -181,8 +169,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Az egyik leghosszabb folyó.", "Sólepárlás a deltában.", "A Wetar-szorosba torkollik."],
       ro: ["Unul dintre cele mai lungi râuri.", "Extracția sării în deltă.", "Se varsă în Strâmtoarea Wetar."],
       en: ["One of the longest rivers.", "Salt extraction in the delta.", "Flows into the Wetar Strait."]
-    }
-  },
+    }, image: "/poi-images/north-laclo-river-nature-v2.webp"},
   {
     id: "south-laclo-river-nature-v2",
     type: "river",
@@ -195,8 +182,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Dél felé folyik le.", "A régió fontos éltető eleme.", "Trópusi flóra veszi körül."],
       ro: ["Se scurge spre sud.", "Coloană vertebrală importantă a regiunii.", "Înconjurat de floră tropicală."],
       en: ["Drains to the south.", "Important lifeline of the region.", "Surrounded by tropical flora."]
-    }
-  },
+    }, image: "/poi-images/south-laclo-river-nature-v2.webp"},
   {
     id: "mount-curi-nature-v2",
     type: "mountain",
@@ -209,8 +195,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Körülbelül 1300 méter magas.", "Száraz erdők borítják a lejtőit.", "Fontos terület madármegfigyeléshez."],
       ro: ["Aproximativ 1300 de metri înălțime.", "Pădurile uscate domină pantele.", "Important pentru observarea păsărilor."],
       en: ["Around 1,300 metres high.", "Dry forests dominate the slopes.", "Important for birdwatching."]
-    }
-  },
+    }, image: "/poi-images/mount-curi-nature-v2.webp"},
   {
     id: "lore-reserve-nature-v2",
     type: "forest",
@@ -237,8 +222,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Jelentős madárvédelmi terület.", "Partmenti tó Maubara közelében.", "Trópusi növényzet veszi körül."],
       ro: ["Zonă importantă pentru păsări.", "Lac de coastă lângă Maubara.", "Înconjurat de vegetație tropicală."],
       en: ["Important bird sanctuary.", "Coastal lake near Maubara.", "Surrounded by tropical vegetation."]
-    }
-  },
+    }, image: "/poi-images/lake-maubara-nature-v2.webp"},
   {
     id: "be-malae-lake-nature-v2",
     type: "lake",
@@ -251,8 +235,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Szent tóként tisztelik.", "Bobonaro körzetben található.", "Fontos a hagyományos rítusokhoz."],
       ro: ["Considerat un lac sacru.", "Situat în districtul Bobonaro.", "Important pentru riturile tradiționale."],
       en: ["Considered a sacred lake.", "Located in the Bobonaro district.", "Important for traditional rites."]
-    }
-  },
+    }, image: "/poi-images/be-malae-lake-nature-v2.webp"},
   {
     id: "belulik-river-nature-v2",
     type: "river",
@@ -265,8 +248,7 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["A déli parton folyik a tengerbe.", "Tipikus monszunfolyó.", "Széles, köves folyómeder."],
       ro: ["Se varsă în mare pe coasta de sud.", "Râu tipic musonic.", "Albie lată și pietroasă."],
       en: ["Flows into the sea on the south coast.", "Typical monsoon river.", "Broad, stony riverbed."]
-    }
-  },
+    }, image: "/poi-images/belulik-river-nature-v2.webp"},
   {
     id: "irabere-river-nature-v2",
     type: "river",

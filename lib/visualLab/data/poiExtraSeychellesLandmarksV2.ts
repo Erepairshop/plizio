@@ -23,8 +23,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Az ország egyetlen hindu temploma", "Színes Gopuram torony", "1992-ben alapították", "Az indiai közösség központja"],
       ro: ["Singurul templu hindu din țară", "Turn Gopuram colorat", "Fondat în 1992", "Centrul comunității indiene"],
       en: ["Only Hindu temple in the country", "Colorful Gopuram tower", "Established in 1992", "Center of the Indian community"]
-    }
-  },
+    }, image: "/poi-images/arul-mihu-temple-landmarks-v2.webp"},
   {
     id: "national-assembly-landmarks-v2",
     type: "landmark",
@@ -47,8 +46,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["A törvényhozás székhelye", "Az Ile du Port szigeten található", "Modern építészet", "2009-ben adták át"],
       ro: ["Sediul legislativului", "Situată pe Ile du Port", "Arhitectură modernă", "Inaugurată în 2009"],
       en: ["Seat of the legislature", "Located on Ile du Port", "Modern architecture", "Opened in 2009"]
-    }
-  },
+    }, image: "/poi-images/national-assembly-landmarks-v2.webp"},
   {
     id: "palais-de-justice-landmarks-v2",
     type: "landmark",
@@ -71,8 +69,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["A Legfelsőbb Bíróság székhelye", "Impozáns épület", "Az Ile du Port szigeten", "Modern igazságügyi igazgatás"],
       ro: ["Sediul Curții Supreme", "Clădire impunătoare", "Pe Ile du Port", "Administrație judiciară modernă"],
       en: ["Seat of the Supreme Court", "Imposing structure", "On Ile du Port", "Modern judicial administration"]
-    }
-  },
+    }, image: "/poi-images/palais-de-justice-landmarks-v2.webp"},
   {
     id: "stade-linite-landmarks-v2",
     type: "landmark",
@@ -95,8 +92,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Nemzeti stadion", "10 000 fős kapacitás", "A válogatott otthona", "1992-ben nyílt meg"],
       ro: ["Stadion național", "Capacitate de 10.000 locuri", "Casa echipei naționale", "Deschis în 1992"],
       en: ["National stadium", "Capacity of 10,000", "Home of the national team", "Opened in 1992"]
-    }
-  },
+    }, image: "/poi-images/stade-linite-landmarks-v2.webp"},
   {
     id: "eden-plaza-landmarks-v2",
     type: "landmark",
@@ -119,8 +115,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Modern bevásárlóközpont", "Az Eden-szigeten található", "Kilátás a jachtkikötőre", "Színvonalas gasztronómia"],
       ro: ["Centru comercial modern", "Situat pe Eden Island", "Vedere spre portul de iahturi", "Gastronomie de lux"],
       en: ["Modern shopping center", "Located on Eden Island", "Marina views", "Upscale dining"]
-    }
-  },
+    }, image: "/poi-images/eden-plaza-landmarks-v2.webp"},
   {
     id: "central-bank-seychelles-landmarks-v2",
     type: "landmark",
@@ -167,8 +162,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Csúcstalálkozók helyszíne", "Victoria központjában", "Nagy előadóterem", "Kulturális központ"],
       ro: ["Locație pentru summituri", "Central în Victoria", "Auditoriu mare", "Centru cultural"],
       en: ["Venue for summits", "Central Victoria", "Large auditorium", "Cultural hub"]
-    }
-  },
+    }, image: "/poi-images/iccs-victoria-landmarks-v2.webp"},
   {
     id: "national-library-modern-landmarks-v2",
     type: "landmark",
@@ -215,8 +209,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["A város egyetlen mecsetje", "Elegáns minaret", "Vallási sokszínűség", "A muzulmán közösség központja"],
       ro: ["Singura moschee din oraș", "Minaret elegant", "Diversitate religioasă", "Centrul comunității musulmane"],
       en: ["Only mosque in town", "Elegant minaret", "Religious diversity", "Center of the Muslim community"]
-    }
-  },
+    }, image: "/poi-images/victoria-mosque-landmarks-v2.webp"},
   {
     id: "independence-house-landmarks-v2",
     type: "landmark",
@@ -239,8 +232,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Fontos kormányzati épület", "Victoria központjában", "Minisztériumok székhelye", "Közigazgatási központ"],
       ro: ["Clădire guvernamentală cheie", "Central în Victoria", "Sediul unor ministere", "Centru administrativ"],
       en: ["Key government building", "Central Victoria", "Home to ministries", "Administrative hub"]
-    }
-  },
+    }, image: "/poi-images/independence-house-landmarks-v2.webp"},
   {
     id: "maison-queau-quinssy-landmarks-v2",
     type: "landmark",
@@ -263,8 +255,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["A Külügyminisztérium székhelye", "Mont Fleuri-ben található", "Történelmileg jelentős név", "Diplomáciai központ"],
       ro: ["Sediul Ministerului de Externe", "Situată în Mont Fleuri", "Nume istoric semnificativ", "Centru diplomatic"],
       en: ["Ministry of Foreign Affairs seat", "Located in Mont Fleuri", "Historically significant name", "Diplomatic hub"]
-    }
-  },
+    }, image: "/poi-images/maison-queau-quinssy-landmarks-v2.webp"},
   {
     id: "st-francis-assisi-baie-lazare-landmarks-v2",
     type: "landmark",
@@ -287,8 +278,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Gótikus stílusjegyek", "Baie Lazare jelképe", "Katolikus egyházközség", "Festői elhelyezkedés"],
       ro: ["Elemente stil gotic", "Simbol al Baie Lazare", "Comunitate catolică", "Locație pitorească"],
       en: ["Gothic style elements", "Landmark of Baie Lazare", "Catholic parish", "Picturesque setting"]
-    }
-  },
+    }, image: "/poi-images/st-francis-assisi-baie-lazare-landmarks-v2.webp"},
   {
     id: "st-joseph-church-praslin-landmarks-v2",
     type: "landmark",
@@ -311,8 +301,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Praslin főtemploma", "Grand Anse-ban található", "Vallási központ", "Hagyományos építészet"],
       ro: ["Biserica principală din Praslin", "Situată în Grand Anse", "Centru religios", "Arhitectură tradițională"],
       en: ["Main church of Praslin", "Located in Grand Anse", "Religious center", "Traditional architecture"]
-    }
-  },
+    }, image: "/poi-images/st-joseph-church-praslin-landmarks-v2.webp"},
   {
     id: "st-mary-church-la-digue-landmarks-v2",
     type: "landmark",
@@ -335,8 +324,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["La Digue legfontosabb temploma", "Sárga homlokzat", "Közösségi központ", "Történelmi épület"],
       ro: ["Cea mai importantă biserică de pe La Digue", "Fațadă galbenă", "Centru al comunității", "Construcție istorică"],
       en: ["Main church of La Digue", "Yellow facade", "Community hub", "Historic building"]
-    }
-  },
+    }, image: "/poi-images/st-mary-church-la-digue-landmarks-v2.webp"},
   {
     id: "denis-island-lighthouse-landmarks-v2",
     type: "landmark",
@@ -359,8 +347,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["1910-ben épült", "Fontos navigációs jel", "Denis-szigeten található", "Vasszerkezetű torony"],
       ro: ["Construit în 1910", "Semn de navigație important", "Pe insula Denis", "Turn de fier"],
       en: ["Built in 1910", "Important navigation aid", "On Denis Island", "Iron tower"]
-    }
-  },
+    }, image: "/poi-images/denis-island-lighthouse-landmarks-v2.webp"},
   {
     id: "victoria-gymnasium-landmarks-v2",
     type: "landmark",
@@ -383,8 +370,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Központi sportlétesítmény", "Teremsport központ", "Victoriában található", "Versenyek helyszíne"],
       ro: ["Facilitate sportivă centrală", "Centru pentru sporturi de interior", "Situat în Victoria", "Loc pentru competiții"],
       en: ["Central sports venue", "Indoor sports hub", "Located in Victoria", "Venue for competitions"]
-    }
-  },
+    }, image: "/poi-images/victoria-gymnasium-landmarks-v2.webp"},
   {
     id: "palais-des-sports-landmarks-v2",
     type: "landmark",
@@ -407,8 +393,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Legnagyobb sportcsarnok", "Roche Caimanban", "Multifunkcionális aréna", "Az Indiai-óceáni Szigeti Játékok helyszíne"],
       ro: ["Cea mai mare arenă sportivă", "În Roche Caiman", "Arenă multifuncțională", "Gazda Jocurilor Insulelor din Oceanul Indian"],
       en: ["Largest indoor arena", "In Roche Caiman", "Multipurpose arena", "Venue for Indian Ocean Island Games"]
-    }
-  },
+    }, image: "/poi-images/palais-des-sports-landmarks-v2.webp"},
   {
     id: "unity-stadium-landmarks-v2",
     type: "landmark",
@@ -455,8 +440,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Olimpiai úszómedence", "Nemzeti edzőközpont", "Roche Caimanban", "Vízi sportok helyszíne"],
       ro: ["Piscină olimpică", "Centru național de antrenament", "În Roche Caiman", "Locație pentru sporturi nautice"],
       en: ["Olympic-sized pool", "National training center", "In Roche Caiman", "Venue for aquatic sports"]
-    }
-  },
+    }, image: "/poi-images/roche-caiman-swimming-pool-landmarks-v2.webp"},
   {
     id: "peace-memorial-victoria-landmarks-v2",
     type: "landmark",
@@ -479,8 +463,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["A béke szimbóluma", "Victoriában található", "Az egység emlékműve", "Központi találkozóhely"],
       ro: ["Simbol al păcii", "În Victoria", "Monument al unității", "Punct de întâlnire central"],
       en: ["Symbol of peace", "In Victoria", "Monument of unity", "Central meeting point"]
-    }
-  },
+    }, image: "/poi-images/peace-memorial-victoria-landmarks-v2.webp"},
   {
     id: "diamond-jubilee-monument-landmarks-v2",
     type: "landmark",
@@ -527,8 +510,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Hajóbérlési központ", "Victoria kikötőjében", "Kapu az óceánra", "Gazdaságilag jelentős"],
       ro: ["Centru de charter maritim", "În portul Victoria", "Poartă către ocean", "Important din punct de vedere economic"],
       en: ["Boat charter hub", "At Victoria harbor", "Gateway to the ocean", "Economically important"]
-    }
-  },
+    }, image: "/poi-images/marine-charter-building-landmarks-v2.webp"},
   {
     id: "freedom-square-victoria-landmarks-v2",
     type: "landmark",
@@ -551,8 +533,7 @@ export const poiExtraSeychellesLandmarksV2: POI[] = [
       hu: ["Központi közösségi tér", "Ünnepségek helyszíne", "Victoriában található", "Történelmileg jelentős"],
       ro: ["Piață publică centrală", "Loc pentru festivități", "Situată în Victoria", "Semnificativă istoric"],
       en: ["Central public square", "Venue for celebrations", "Located in Victoria", "Historically significant"]
-    }
-  },
+    }, image: "/poi-images/freedom-square-victoria-landmarks-v2.webp"},
   {
     id: "siad-au-cap-landmarks-v2",
     type: "landmark",

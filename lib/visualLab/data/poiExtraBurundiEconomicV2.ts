@@ -19,7 +19,20 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Compania a fost fondată în 1955.", "Este principalul contribuabil la bugetul statului prin accize.", "Producător de bere, băuturi răcoritoare și apă minerală.", "Folosește materii prime agricole locale în procesul de producție.", "O componentă esențială a sectorului industrial din Bujumbura.", "Compania are un impact major asupra distribuției comerciale la nivel național."]
-    }, image: "/poi-images/brarudi-brauerei-economic-v2.webp"},
+    }, image: "/poi-images/brarudi-brauerei-economic-v2.webp",
+    description: {
+      de: "Brarudi ist die wichtigste Brauerei des Landes in Bujumbura. Das Unternehmen prägt den Getränkemarkt und ist ein bekannter Industriebetrieb im Alltag vieler Menschen.",
+      hu: "Brarudi Burundi legfontosabb sörgyára Bujumburában. A vállalat meghatározza az italpiacot, és sokak mindennapjainak ismert ipari szereplője.",
+      ro: "Brarudi este cel mai cunoscut producător de băuturi din Burundi și o piesă centrală a industriei locale. Compania este strâns legată de piața din Bujumbura și de distribuția națională.",
+      en: "Brarudi is Burundi's best-known brewery and a major beverage producer in Bujumbura. It is closely tied to the country's everyday drink market and industrial base."
+    },
+    facts: {
+      de: ["Bujumbura", "Bier und Getränke", "wichtiger Arbeitgeber"],
+      hu: ["Bujumbura", "sör és üdítők", "fontos munkaadó"],
+      ro: ["Bujumbura", "bere și băuturi", "companie industrială"],
+      en: ["Bujumbura brewery", "beverage producer", "major employer"]
+    }
+  },
   {
     id: "sosumo-zuckerfabrik-economic-v2",
     type: "industry",
@@ -37,7 +50,20 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situată în provincia Ruyigi, în regiunea fertilă Moso.", "Principalul producător de zahăr din Burundi.", "Joacă un rol cheie în economia rurală și dezvoltarea regiunii.", "Procesează trestie de zahăr cultivată în zonele limitrofe.", "Compania este esențială pentru reducerea dependenței de importurile de zahăr.", "Sosumo a fost înființată pentru a valorifica potențialul agricol al văii Moso."]
-    }, image: "/poi-images/sosumo-zuckerfabrik-economic-v2.webp"},
+    }, image: "/poi-images/sosumo-zuckerfabrik-economic-v2.webp",
+    description: {
+      de: "SOSUMO verarbeitet Zuckerrohr im Osten Burundis und ist zentral für die heimische Zuckerproduktion. Die Anlage verbindet Landwirtschaft und Industrie in einer ländlichen Region.",
+      hu: "SOSUMO Kelet-Burundiban dolgozza fel a cukornádat, és kulcsfontosságú a hazai cukortermelésben. Az üzem a mezőgazdaságot és az ipart kapcsolja össze egy vidéki térségben.",
+      ro: "SOSUMO procesează trestia de zahăr din estul Burundiului și are un rol important în producția internă de zahăr. Fabrica leagă agricultura din Moso de industria alimentară.",
+      en: "SOSUMO processes sugarcane in eastern Burundi and anchors the country's sugar industry. It connects rural cane fields with local factory production."
+    },
+    facts: {
+      de: ["Ostburundi", "Zuckerrohr", "landwirtschaftliche Industrie"],
+      hu: ["Kelet-Burundi", "cukornád", "mezőgazdasági ipar"],
+      ro: ["regiunea Moso", "zahăr", "industrie agricolă"],
+      en: ["eastern Burundi", "sugarcane processing", "local sugar supply"]
+    }
+  },
   {
     id: "buceco-zementwerk-economic-v2",
     type: "industry",
@@ -213,13 +239,13 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     description: {
       de: "Wichtige Teeverarbeitungsstation in der südlichen Hochlandregion Bururis.",
       hu: "Fontos teafeldolgozó állomás Bururi déli felföldi régiójában.",
-      ro: "Stație importantă de procesare a ceaiului în regiunea muntoasă de sud a Bururi.",
+      ro: "Fabrica de ceai OTB Tora face parte din lanțul de procesare a ceaiului din Burundi. Ea valorifică producția din zonele înalte și susține exportul agricol.",
       en: "Important tea processing station in the southern highland region of Bururi."
     },
     facts: {
       de: ["Große Plantagen", "Hochland-Qualität"],
       hu: ["Nagy ültetvények", "Felföldi minőség"],
-      ro: ["Plantații mari", "Calitate de munte"],
+      ro: ["procesare ceai", "zone înalte", "export agricol"],
       en: ["Large plantations", "Highland quality"]
     }, image: "/poi-images/otb-teefabrik-tora-economic-v2.webp"},
   {
@@ -283,13 +309,13 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       de: "Eine bedeutende Mühle in Bujumbura zur Herstellung von Mehl aus lokalem Getreide.",
       hu: "Bujumbura egyik jelentős malma, amely helyi gabonából készít lisztet.",
       ro: "O moară importantă din Bujumbura pentru producerea făinii din cereale locale.",
-      en: "A significant mill in Bujumbura for producing flour from local grains."
+      en: "Minoloc is a grain-milling operation that supports Burundi's food supply chain. Its work turns harvested cereals into products used by local households and businesses."
     },
     facts: {
       de: ["Nahrungsmittelsicherheit", "Moderne Anlagen"],
       hu: ["Élelmiszerbiztonság", "Modern berendezések"],
       ro: ["Siguranță alimentară", "Instalații moderne"],
-      en: ["Food security", "Modern facilities"]
+      en: ["grain milling", "food supply chain", "cereal processing"]
     }, image: "/poi-images/minoloc-getreidemuehle-economic-v2.webp"},
   {
     id: "hafen-von-nyanza-lac-economic-v2",
@@ -303,14 +329,14 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       en: "Port of Nyanza-Lac"
     },
     description: {
-      de: "Ein strategischer Hafen am südlichen Ende des Tanganjikasees für den Handel mit Tansania.",
-      hu: "Stratégiai kikötő a Tanganjika-tó déli végén a Tanzániával való kereskedelemhez.",
+      de: "Der Hafen von Nyanza-Lac liegt am südlichen Tanganjikasee und dient dem Handel mit Tansania. Er ist zugleich ein wichtiger Punkt für Fischerei und lokale Versorgung.",
+      hu: "A Nyanza-Lac-i kikötő a Tanganyika-tó déli részén fekszik, és Tanzániával folytatott kereskedelmet szolgál. A halászat és a helyi ellátás szintén fontos szerepet kap itt.",
       ro: "Un port strategic la capătul sudic al lacului Tanganyika pentru comerțul cu Tanzania.",
       en: "A strategic port at the southern end of Lake Tanganyika for trade with Tanzania."
     },
     facts: {
-      de: ["Grenznah", "Wichtiger Fischereihafen"],
-      hu: ["Közel a határhoz", "Fontos halászkikötő"],
+      de: ["Südufer des Sees", "Handel", "Fischerei"],
+      hu: ["tó déli partja", "kereskedelem", "halászat"],
       ro: ["Aproape de graniță", "Port pescăresc important"],
       en: ["Near the border", "Important fishing port"]
     }, image: "/poi-images/hafen-von-nyanza-lac-economic-v2.webp"},
@@ -326,16 +352,16 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       en: "Port of Rumonge"
     },
     description: {
-      de: "Ein lebhaftes Handelszentrum am Seeufer, bekannt für den Umschlag von Palmöl.",
-      hu: "Nyüzsgő kereskedelmi központ a tóparton, a pálmaolaj rakodásáról ismert.",
+      de: "Der Hafen von Rumonge liegt am Seeufer und unterstützt den Handel der Stadt mit dem südlichen Umland. Besonders der Umschlag von Fisch und Palmöl spielt hier eine Rolle.",
+      hu: "A Rumonge-i kikötő a tóparton található, és támogatja a város kereskedelmét a déli vidékkel. A hal és a pálmaolaj átrakása különösen fontos itt.",
       ro: "Un centru comercial plin de viață pe malul lacului, cunoscut pentru manipularea uleiului de palmier.",
-      en: "A bustling commercial hub on the lakeshore, known for palm oil handling."
+      en: "The port of Rumonge handles lake-based movement on the Tanganyika shoreline. It supports fishing, trade, and transport for the western lakeside corridor."
     },
     facts: {
-      de: ["Palmöl-Zentrum", "Traditionelle Boote"],
-      hu: ["Pálmaolaj központ", "Hagyományos hajók"],
+      de: ["Rumonge", "Seehafen", "Palmöl und Fisch"],
+      hu: ["Rumonge", "tóparti kikötő", "pálmaolaj és hal"],
       ro: ["Centru de ulei de palmier", "Barcă tradițională"],
-      en: ["Palm oil hub", "Traditional boats"]
+      en: ["Lake Tanganyika", "fishing trade", "shoreline transport"]
     }, image: "/poi-images/hafen-von-rumonge-economic-v2.webp"},
   {
     id: "hafen-von-gitaza-economic-v2",
@@ -351,13 +377,13 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     description: {
       de: "Ein lokaler Hafen südlich von Bujumbura, der als Anlegestelle für den Warentransport dient.",
       hu: "Bujumburától délre fekvő helyi kikötő, amely az áruszállítás kikötőhelyeként szolgál.",
-      ro: "Un port local la sud de Bujumbura, care servește ca punct de acostare pentru transportul de mărfuri.",
+      ro: "Portul Gitaza este un punct local de acostare la sud de Bujumbura. El susține transportul de mărfuri și conexiunea dintre lac și piețele din interior.",
       en: "A local port south of Bujumbura, serving as a docking point for goods transport."
     },
     facts: {
       de: ["Regionale Logistik", "Marktplatz am Wasser"],
       hu: ["Regionális logisztika", "Vízparti piactér"],
-      ro: ["Logistică regională", "Piață pe apă"],
+      ro: ["sud de Bujumbura", "transport de mărfuri", "acostare pe lac"],
       en: ["Regional logistics", "Waterside marketplace"]
     }, image: "/poi-images/hafen-von-gitaza-economic-v2.webp"},
   {
@@ -443,14 +469,14 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     description: {
       de: "Ein ausgewiesenes Industriegebiet in Bujumbura mit verschiedenen Fertigungsbetrieben.",
       hu: "Kijelölt ipari övezet Bujumburában, különféle gyártóüzemekkel.",
-      ro: "O zonă industrială desemnată în Bujumbura, cu diverse unități de producție.",
-      en: "A designated industrial zone in Bujumbura featuring various manufacturing plants."
+      ro: "Zona industrială Kinindo din Bujumbura reunește mai multe activități de producție și depozitare. Ea reprezintă un spațiu important pentru economia urbană a capitalei.",
+      en: "Kinindo is an industrial zone in Bujumbura with workshops, storage sites, and small manufacturing activity. It helps concentrate urban production close to the city network."
     },
     facts: {
       de: ["Wirtschaftsknotenpunkt", "Viele Arbeitsplätze"],
       hu: ["Gazdasági csomópont", "Sok munkahely"],
-      ro: ["Hub economic", "Multe locuri de muncă"],
-      en: ["Economic hub", "Many jobs"]
+      ro: ["Bujumbura", "producție", "zonă industrială"],
+      en: ["Bujumbura district", "workshops and storage", "urban industry"]
     }
   }
 ];

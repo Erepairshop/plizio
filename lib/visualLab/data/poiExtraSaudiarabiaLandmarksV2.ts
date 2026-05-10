@@ -18,8 +18,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["Szaúd-Arábia első UNESCO világörökségi helyszíne.", "Több mint 100 monumentális sziklasír található itt.", "A nabateusok déli fővárosa volt.", "Az építmények a Kr. e. 1. századból származnak."],
       ro: ["Primul sit UNESCO din Arabia Saudită.", "Găzduiește peste 100 de morminte monumentale din stâncă.", "A fost capitala sudică a nabateenilor.", "Structurile datează din secolul 1 î.Hr."],
       en: ["Saudi Arabia's first UNESCO World Heritage site.", "Houses over 100 monumental rock-cut tombs.", "Served as the southern capital of the Nabataeans.", "The structures date back to the 1st century BC."]
-    }
-  },
+    }, image: "/poi-images/hegra-landmarks-v2.webp"},
   {
     id: "kingdom-centre-landmarks-v2",
     type: "landmark",
@@ -37,8 +36,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["Az épület 302 méter magas.", "Az égi híd panorámás kilátást nyújt Rijádra.", "Bevásárlóközpont és luxusapartmanok találhatók benne.", "2002-ben készült el."],
       ro: ["Clădirea are 302 metri înălțime.", "Puntea celestă oferă vederi panoramice asupra Riadului.", "Găzduiește un mall și apartamente de lux.", "A fost finalizată în 2002."],
       en: ["The building is 302 meters tall.", "The sky bridge offers panoramic views of Riyadh.", "Houses a shopping mall and luxury apartments.", "It was completed in 2002."]
-    }
-  },
+    }, image: "/poi-images/kingdom-centre-landmarks-v2.webp"},
   {
     id: "masmak-fortress-landmarks-v2",
     type: "landmark",
@@ -56,8 +54,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["1865-ben épült.", "Ibn Szaúd 1902-ben foglalta el.", "Agyagból és vályogtéglából készült.", "Ma múzeumként működik."],
       ro: ["A fost construită în 1865.", "Capturată de Ibn Saud în 1902.", "Este făcută din lut și cărămizi nearsă.", "Astăzi funcționează ca muzeu."],
       en: ["Built in 1865.", "Captured by Ibn Saud in 1902.", "Made of clay and mud-brick.", "Today it serves as a museum."]
-    }
-  },
+    }, image: "/poi-images/masmak-fortress-landmarks-v2.webp"},
   {
     id: "kaaba-landmarks-v2",
     type: "landmark",
@@ -75,8 +72,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["Több mint egymilliárd muszlim spirituális központja világszerte.", "A muszlimok imairánya (kibla).", "Egy fekete selyemlepel (kiszva) borítja.", "Az éves zarándoklat, a haddzs központi helyszíne."],
       ro: ["Centrul spiritual pentru peste un miliard de musulmani din întreaga lume.", "Este direcția de rugăciune (Qibla) pentru musulmani.", "Este acoperită cu o pânză de mătase neagră (Kiswa).", "Un loc central al pelerinajului anual Hajj."],
       en: ["The spiritual center for over a billion Muslims worldwide.", "It is the direction of prayer (Qibla) for Muslims.", "Covered with a black silk cloth (Kiswa).", "A central site of the annual Hajj pilgrimage."]
-    }
-  },
+    }, image: "/poi-images/kaaba-landmarks-v2.webp"},
   {
     id: "abraj-al-bait-landmarks-v2",
     type: "landmark",
@@ -94,8 +90,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["A központi szálloda 601 méter magas.", "A világ legnagyobb számlapjával rendelkezik.", "Az építési költségeket 15 milliárd dollárra becsülik.", "2012-ben készült el."],
       ro: ["Hotelul central are o înălțime de 601 metri.", "Deține cel mai mare cadran de ceas din lume.", "Costurile de construcție au fost estimate la 15 miliarde de dolari.", "A fost finalizat în 2012."],
       en: ["The central hotel is 601 meters tall.", "Features the largest clock face in the world.", "Construction costs were estimated at 15 billion dollars.", "It was completed in 2012."]
-    }
-  },
+    }, image: "/poi-images/abraj-al-bait-landmarks-v2.webp"},
   {
     id: "prophets-mosque-landmarks-v2",
     type: "landmark",
@@ -113,8 +108,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["Eredetileg a próféta lakóháza volt.", "A Zöld Kupola jelzi Mohamed sírját.", "Több mint egymillió hívőt képes befogadni.", "A világ egyik legnagyobb mecsete."],
       ro: ["Inițial a fost casa Profetului.", "Cupola Verde marchează mormântul lui Mahomed.", "Poate găzdui peste un milion de credincioși.", "Este una dintre cele mai mari moschei din lume."],
       en: ["Originally the Prophet's house.", "The Green Dome marks the tomb of Muhammad.", "Can accommodate over a million worshippers.", "It is one of the largest mosques in the world."]
-    }
-  },
+    }, image: "/poi-images/prophets-mosque-landmarks-v2.webp"},
   {
     id: "king-fahds-fountain-landmarks-v2",
     type: "landmark",
@@ -132,8 +126,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["A világ legmagasabb szökőkútja.", "A vízsugár akár a 312 méteres magasságot is eléri.", "Éjszaka 500 fényszóró világítja meg.", "A Vörös-tenger sós vizét használja."],
       ro: ["Cea mai înaltă fântână arteziană din lume.", "Jetul de apă ajunge până la 312 metri înălțime.", "Este iluminată noaptea de 500 de reflectoare.", "Folosește apă sărată din Marea Roșie."],
       en: ["The tallest fountain in the world.", "The water jet reaches up to 312 meters high.", "Illuminated at night by 500 spotlights.", "Uses saltwater from the Red Sea."]
-    }
-  },
+    }, image: "/poi-images/king-fahds-fountain-landmarks-v2.webp"},
   {
     id: "edge-of-the-world-landmarks-v2",
     type: "landmark",
@@ -151,8 +144,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["A Tuvajk-hegység része.", "Szinte függőlegesen zuhan 300 métert a mélybe.", "Egykor egy történelem előtti óceán feneke volt.", "Népszerű úti cél a túrázók és a természetkedvelők körében."],
       ro: ["Parte a lanțului muntos Tuwaiq.", "Se prăbușește aproape vertical 300 de metri.", "A fost cândva fundul unui ocean preistoric.", "O destinație populară pentru drumeții și iubitorii de natură."],
       en: ["Part of the Tuwaiq Escarpment.", "Drops almost vertically 300 meters down.", "Was once the bottom of a prehistoric ocean.", "A popular destination for hikers and nature lovers."]
-    }
-  },
+    }, image: "/poi-images/edge-of-the-world-landmarks-v2.webp"},
   {
     id: "al-ula-old-town-landmarks-v2",
     type: "landmark",
@@ -170,8 +162,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["Több mint 900 történelmi épületből áll.", "A 12. században alapították.", "Egy 10. századi vár is található itt.", "Nemrég felújították és megnyitották a turisták előtt."],
       ro: ["Este alcătuit din peste 900 de clădiri istorice.", "A fost fondat în secolul al XII-lea.", "Are un castel din secolul al X-lea.", "A fost restaurat recent și deschis turiștilor."],
       en: ["Consists of over 900 historical buildings.", "Founded in the 12th century.", "Features a 10th-century castle.", "Has been recently restored and opened to tourists."]
-    }
-  },
+    }, image: "/poi-images/al-ula-old-town-landmarks-v2.webp"},
   {
     id: "elephant-rock-landmarks-v2",
     type: "landmark",
@@ -189,8 +180,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["Al-Ula nevezetessége, Jabal AlFil néven is ismert.", "A szikla 52 méter magas.", "Évmilliók szél- és vízeróziója formálta.", "Különösen naplementekor népszerű fotótéma."],
       ro: ["Simbolul din Al-Ula, cunoscut și sub numele de Jabal AlFil.", "Stânca are 52 de metri înălțime.", "Modelată de milioane de ani de eroziune eoliană și acvatică.", "Un subiect popular pentru fotografii, mai ales la apus."],
       en: ["The landmark of Al-Ula, also known as Jabal AlFil.", "The rock is 52 meters tall.", "Shaped by millions of years of wind and water erosion.", "A popular photo subject, especially at sunset."]
-    }
-  },
+    }, image: "/poi-images/elephant-rock-landmarks-v2.webp"},
   {
     id: "at-turaif-landmarks-v2",
     type: "landmark",
@@ -208,8 +198,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["2010 óta UNESCO világörökség.", "A modern szaúdi állam szülőhelyének tekintik.", "Híres a vályogból készült nadzsdi építészetről.", "A települést a 15. században alapították."],
       ro: ["Este sit al Patrimoniului Mondial UNESCO din 2010.", "Considerat locul de naștere al statului saudit modern.", "Renumit pentru arhitectura sa Najdi din lut.", "Așezarea a fost fondată în secolul al XV-lea."],
       en: ["A UNESCO World Heritage site since 2010.", "Considered the birthplace of the modern Saudi state.", "Famous for its mud-brick Najdi architecture.", "The settlement was founded in the 15th century."]
-    }
-  },
+    }, image: "/poi-images/at-turaif-landmarks-v2.webp"},
   {
     id: "quba-mosque-landmarks-v2",
     type: "landmark",
@@ -227,8 +216,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["Az alapkövet Mohamed próféta rakta le.", "Kr. u. 622-ben épült.", "A 20. században jelentősen kibővítették és felújították.", "Évente zarándokok millióit vonzza."],
       ro: ["Piatra de temelie a fost pusă de Profetul Mahomed.", "A fost construită în anul 622 d.Hr.", "Extinsă și renovată pe scară largă în secolul al XX-lea.", "Atrage milioane de pelerini anual."],
       en: ["The foundation stone was laid by the Prophet Muhammad.", "Built in 622 AD.", "Extensively expanded and renovated in the 20th century.", "Attracts millions of pilgrims annually."]
-    }
-  },
+    }, image: "/poi-images/quba-mosque-landmarks-v2.webp"},
   {
     id: "al-faisaliyah-centre-landmarks-v2",
     type: "landmark",
@@ -246,8 +234,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["Az épület 267 méter magas.", "Az aranygömb egy luxusétteremnek ad otthont.", "A 2000-es elkészültekor Szaúd-Arábia legmagasabb épülete volt.", "A brit építész, Norman Foster tervezte."],
       ro: ["Clădirea are o înălțime de 267 de metri.", "Sfera aurie găzduiește un restaurant de lux.", "La finalizarea sa în 2000, a fost cea mai înaltă clădire din Arabia Saudită.", "Proiectată de arhitectul britanic Norman Foster."],
       en: ["The building is 267 meters tall.", "The golden globe houses a luxury restaurant.", "When completed in 2000, it was the tallest building in Saudi Arabia.", "Designed by British architect Norman Foster."]
-    }
-  },
+    }, image: "/poi-images/al-faisaliyah-centre-landmarks-v2.webp"},
   {
     id: "jabal-al-nour-landmarks-v2",
     type: "landmark",
@@ -265,8 +252,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["A név fordítása \"A Fény hegye\".", "A hegy 642 méter magas.", "A Híra barlangban kapta meg Mohamed az első kinyilatkoztatását.", "A zarándokok kedvelt célpontja a haddzs idején."],
       ro: ["Numele se traduce prin \"Muntele Luminii\".", "Muntele are 642 de metri înălțime.", "Se crede că Mahomed a primit prima sa revelație în Peștera Hira.", "O destinație populară pentru pelerini în timpul Hajj."],
       en: ["The name translates to \"Mountain of Light\".", "The mountain is 642 meters high.", "Muhammad is believed to have received his first revelation in the Cave of Hira.", "A popular destination for pilgrims during Hajj."]
-    }
-  },
+    }, image: "/poi-images/jabal-al-nour-landmarks-v2.webp"},
   {
     id: "maraya-concert-hall-landmarks-v2",
     type: "landmark",
@@ -284,8 +270,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["A világ legnagyobb tükörborítású épülete.", "Közel 10 000 négyzetméter tükörfelülettel rendelkezik.", "500 koncertlátogató számára kínál helyet.", "Építészeti délibábként olvad be a természetbe."],
       ro: ["Cea mai mare clădire acoperită cu oglinzi din lume.", "Are aproape 10.000 de metri pătrați de suprafață de oglindă.", "Oferă locuri pentru 500 de spectatori la concerte.", "Se îmbină cu natura ca un miraj arhitectural."],
       en: ["The largest mirrored building in the world.", "Features nearly 10,000 square meters of mirror surface.", "Seats 500 concertgoers.", "Blends into nature as an architectural mirage."]
-    }
-  },
+    }, image: "/poi-images/maraya-concert-hall-landmarks-v2.webp"},
   {
     id: "al-wahbah-crater-landmarks-v2",
     type: "landmark",
@@ -303,8 +288,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["A kráter átmérője 2 kilométer.", "Körülbelül 250 méter mély.", "Freatomagmás robbanás következtében jött létre.", "A fenekét gyakran fehér sóréteg borítja."],
       ro: ["Craterul are un diametru de 2 kilometri.", "Are o adâncime de aproximativ 250 de metri.", "S-a format printr-o explozie freatomagmatică.", "Fundul este adesea acoperit cu un strat de sare albă."],
       en: ["The crater has a diameter of 2 kilometers.", "Is approximately 250 meters deep.", "Formed by a phreatomagmatic explosion.", "The bottom is often covered with a white salt layer."]
-    }
-  },
+    }, image: "/poi-images/al-wahbah-crater-landmarks-v2.webp"},
   {
     id: "kapsarc-landmarks-v2",
     type: "landmark",
@@ -322,8 +306,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["A sztárépítész, Zaha Hadid tervezte.", "Méhsejtszerű, kristályos szerkezetekből áll.", "Az energiagazdaságtanra és a környezeti kutatásokra összpontosít.", "A fenntarthatóságért LEED Platina minősítéssel tüntették ki."],
       ro: ["Proiectat de arhitecta vedetă Zaha Hadid.", "Constă în structuri cristaline în formă de fagure.", "Se concentrează pe economia energiei și cercetarea mediului.", "A primit certificarea LEED Platinum pentru sustenabilitate."],
       en: ["Designed by the star architect Zaha Hadid.", "Consists of honeycomb, crystalline structures.", "Focuses on energy economics and environmental research.", "Awarded LEED Platinum certification for sustainability."]
-    }
-  },
+    }, image: "/poi-images/kapsarc-landmarks-v2.webp"},
   {
     id: "rijal-almaa-landmarks-v2",
     type: "landmark",
@@ -341,8 +324,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["A kőtornyok közül sok több mint 700 éves.", "A házak kvarckőből és vályogból épültek.", "Kiváló múzeummal rendelkezik a regionális kultúráról.", "Fontos kereskedelmi központ volt Jemen és Mekka között."],
       ro: ["Multe dintre turnurile de piatră au peste 700 de ani.", "Casele sunt construite din piatră de cuarț și lut.", "Are un muzeu excelent dedicat culturii regionale.", "A fost un important centru comercial între Yemen și Mecca."],
       en: ["Many of the stone towers are over 700 years old.", "The houses are built of quartz rock and mud.", "Features an excellent museum on regional culture.", "Was an important trading hub between Yemen and Mecca."]
-    }
-  },
+    }, image: "/poi-images/rijal-almaa-landmarks-v2.webp"},
   {
     id: "ithra-center-landmarks-v2",
     type: "landmark",
@@ -360,8 +342,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       hu: ["A norvég Snøhetta építésziroda tervezte.", "A dizájnt a sivatagi sima sziklák ihlették.", "Hatalmas könyvtárnak, színháznak és múzeumoknak ad otthont.", "A Saudi Aramco olajvállalat támogatta a létrehozását."],
       ro: ["Proiectat de firma norvegiană de arhitectură Snøhetta.", "Designul este inspirat de rocile netede din deșert.", "Găzduiește o bibliotecă imensă, un teatru și muzee.", "A fost sponsorizat de compania petrolieră saudită Saudi Aramco."],
       en: ["Designed by the Norwegian architectural firm Snøhetta.", "The design is inspired by smooth rocks in the desert.", "Houses a vast library, a theater, and museums.", "Sponsored by the Saudi oil company Saudi Aramco."]
-    }
-  },
+    }, image: "/poi-images/ithra-center-landmarks-v2.webp"},
   {
     id: "mount-uhud-landmarks-v2",
     type: "landmark",

@@ -29,8 +29,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["A Seychelle-szigetek fővárosa", "A Big Benhez hasonló óratoronnyal rendelkezik", "Gazdasági központ"],
       ro: ["Capitala insulelor Seychelles", "Are un turn cu ceas similar cu Big Ben", "Centru economic"],
       en: ["Capital of the Seychelles", "Features a clock tower similar to Big Ben", "Economic center"]
-    }
-  },
+    }, image: "/poi-images/sc-victoria-cities-v2.webp"},
   {
     id: "sc-anse-boileau-cities-v2",
     type: "city",
@@ -59,8 +58,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Egy sekély öbölben fekszik", "Fontos halászati központ", "Történelmi temploma van"],
       ro: ["Situat într-un golf puțin adânc", "Centru important de pescuit", "Are o biserică istorică"],
       en: ["Located in a shallow bay", "Important fishing center", "Has a historic church"]
-    }
-  },
+    }, image: "/poi-images/sc-anse-boileau-cities-v2.webp"},
   {
     id: "sc-beau-vallon-cities-v2",
     type: "city",
@@ -89,8 +87,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Híres homokos strand", "Búvárkodás és sznorkelezés központja", "Élénk éjszakai élet"],
       ro: ["Plajă faimoasă cu nisip", "Centru pentru scufundări și snorkeling", "Viață de noapte animată"],
       en: ["Famous sandy beach", "Center for diving and snorkeling", "Lively nightlife"]
-    }
-  },
+    }, image: "/poi-images/sc-beau-vallon-cities-v2.webp"},
   {
     id: "sc-anse-royale-cities-v2",
     type: "city",
@@ -119,8 +116,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Egyetemi székhely", "Történelmi fűszerkert a közelben", "Sekély, tiszta víz"],
       ro: ["Sediu universitar", "Grădină istorică de condimente în apropiere", "Apă puțin adâncă și limpede"],
       en: ["University seat", "Historic spice garden nearby", "Shallow, clear water"]
-    }
-  },
+    }, image: "/poi-images/sc-anse-royale-cities-v2.webp"},
   {
     id: "sc-cascade-cities-v2",
     type: "city",
@@ -149,8 +145,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Közel a nemzetközi repülőtérhez", "Dombos táj", "Buja növényzet"],
       ro: ["Aproape de aeroportul internațional", "Peisaj deluros", "Vegetație luxuriantă"],
       en: ["Close to the international airport", "Hilly landscape", "Lush vegetation"]
-    }
-  },
+    }, image: "/poi-images/sc-cascade-cities-v2.webp"},
   {
     id: "sc-anse-etoile-cities-v2",
     type: "city",
@@ -179,8 +174,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Lakóövezet", "Tengerparti út óceáni kilátással", "A fővárostól északra"],
       ro: ["Zonă rezidențială", "Drum de coastă cu vedere la ocean", "La nord de capitală"],
       en: ["Residential area", "Coastal road with ocean views", "North of the capital"]
-    }
-  },
+    }, image: "/poi-images/sc-anse-etoile-cities-v2.webp"},
   {
     id: "sc-glacis-cities-v2",
     type: "city",
@@ -209,8 +203,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Gránitképződményeiről ismert", "Csendes lakónegyed", "Gyönyörű naplementék"],
       ro: ["Cunoscut pentru formațiunile de granit", "Zonă rezidențială liniștită", "Apusuri de soare frumoase"],
       en: ["Known for granite formations", "Quiet residential area", "Beautiful sunsets"]
-    }
-  },
+    }, image: "/poi-images/sc-glacis-cities-v2.webp"},
   {
     id: "sc-bel-ombre-cities-v2",
     type: "city",
@@ -239,8 +232,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Az Anse Major kapuja", "Halászkikötő", "Luxus üdülőhelyek"],
       ro: ["Poarta către Anse Major", "Port de pescuit", "Resorturi de lux"],
       en: ["Gateway to Anse Major", "Fishing harbor", "Luxury resorts"]
-    }
-  },
+    }, image: "/poi-images/sc-bel-ombre-cities-v2.webp"},
   {
     id: "sc-grand-anse-praslin-cities-v2",
     type: "city",
@@ -329,8 +321,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["La Digue egyetlen kikötője", "Rengeteg kerékpár", "Gyarmati építészet"],
       ro: ["Singurul port de pe La Digue", "Multe biciclete", "Arhitectură colonială"],
       en: ["Only port on La Digue", "Many bicycles", "Colonial architecture"]
-    }
-  },
+    }, image: "/poi-images/sc-la-passe-cities-v2.webp"},
   {
     id: "sc-port-glaud-cities-v2",
     type: "city",
@@ -359,8 +350,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Szemben a Therese-szigettel", "Mangroveerdők", "Vízesések a közelben"],
       ro: ["Vis-a-vis de insula Therese", "Păduri de mangrove", "Cascade în apropiere"],
       en: ["Opposite Therese Island", "Mangrove forests", "Waterfalls nearby"]
-    }
-  },
+    }, image: "/poi-images/sc-port-glaud-cities-v2.webp"},
   {
     id: "sc-takamaka-cities-v2",
     type: "city",
@@ -389,8 +379,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Legdélebbi körzet", "Csendes strandok", "Hagyományos farmok"],
       ro: ["Cel mai sudic district", "Plaje liniștite", "Ferme tradiționale"],
       en: ["Southernmost district", "Quiet beaches", "Traditional farms"]
-    }
-  },
+    }, image: "/poi-images/sc-takamaka-cities-v2.webp"},
   {
     id: "sc-baie-lazare-cities-v2",
     type: "city",
@@ -419,8 +408,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Történelmi helyszín", "Gótikus templom", "Népszerű a művészek körében"],
       ro: ["Loc istoric", "Biserică gotică", "Popular printre artiști"],
       en: ["Historic site", "Gothic church", "Popular with artists"]
-    }
-  },
+    }, image: "/poi-images/sc-baie-lazare-cities-v2.webp"},
   {
     id: "sc-pointe-larue-cities-v2",
     type: "city",
@@ -449,8 +437,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["A repülőtér helyszíne", "Közlekedési csomópont", "Tengerparti közelség"],
       ro: ["Locația aeroportului", "Hub de transport", "Aproape de coastă"],
       en: ["Location of the airport", "Transportation hub", "Coastal proximity"]
-    }
-  },
+    }, image: "/poi-images/sc-pointe-larue-cities-v2.webp"},
   {
     id: "sc-au-cap-cities-v2",
     type: "city",
@@ -479,8 +466,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Hosszú sekély strand", "A 'Craft Village' helyszíne", "Ideális sznorkelezéshez"],
       ro: ["Plajă lungă și puțin adâncă", "Locația 'Craft Village'", "Ideal pentru snorkeling"],
       en: ["Long shallow beach", "Home to the 'Craft Village'", "Ideal for snorkeling"]
-    }
-  },
+    }, image: "/poi-images/sc-au-cap-cities-v2.webp"},
   {
     id: "sc-anse-aux-pins-cities-v2",
     type: "city",
@@ -509,8 +495,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Hagyományos piac", "Golfpálya a közelben", "Keleti parti központ"],
       ro: ["Piață tradițională", "Teren de golf în apropiere", "Centru de pe coasta de est"],
       en: ["Traditional market", "Golf course nearby", "East coast hub"]
-    }
-  },
+    }, image: "/poi-images/sc-anse-aux-pins-cities-v2.webp"},
   {
     id: "sc-english-river-cities-v2",
     type: "city",
@@ -539,8 +524,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Victoria része", "Oktatási központ", "Lakó- és kormányzati negyed"],
       ro: ["Parte a Victoriei", "Centru educațional", "Zonă rezidențială și guvernamentală"],
       en: ["Part of Victoria", "Educational hub", "Residential and government district"]
-    }
-  },
+    }, image: "/poi-images/sc-english-river-cities-v2.webp"},
   {
     id: "sc-mont-fleuri-cities-v2",
     type: "city",
@@ -569,8 +553,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Botanikus kert", "Kórház helyszíne", "Domboldali lakónegyed"],
       ro: ["Grădină Botanică", "Locația spitalului", "Zonă rezidențială pe deal"],
       en: ["Botanical Gardens", "Hospital location", "Hillside residential area"]
-    }
-  },
+    }, image: "/poi-images/sc-mont-fleuri-cities-v2.webp"},
   {
     id: "sc-plaisance-cities-v2",
     type: "city",
@@ -599,8 +582,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Victoriától délre", "Kilátás az Eden-szigetre", "Fontos lakóövezet"],
       ro: ["La sud de Victoria", "Vedere spre Eden Island", "Zonă rezidențială importantă"],
       en: ["South of Victoria", "Views of Eden Island", "Important residential area"]
-    }
-  },
+    }, image: "/poi-images/sc-plaisance-cities-v2.webp"},
   {
     id: "sc-les-mamelles-cities-v2",
     type: "city",
@@ -629,8 +611,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Tengerparti körzet", "Kilátás a tengerre", "Modern települések"],
       ro: ["District de coastă", "Vedere la mare", "Așezări moderne"],
       en: ["Coastal district", "Ocean views", "Modern settlements"]
-    }
-  },
+    }, image: "/poi-images/sc-les-mamelles-cities-v2.webp"},
   {
     id: "sc-roche-caiman-cities-v2",
     type: "city",
@@ -659,8 +640,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Nemzeti stadion", "Feltöltött területre épült", "Lakókomplexumok"],
       ro: ["Stadionul Național", "Construit pe teren recuperat", "Complexe rezidențiale"],
       en: ["National Stadium", "Built on reclaimed land", "Residential complexes"]
-    }
-  },
+    }, image: "/poi-images/sc-roche-caiman-cities-v2.webp"},
   {
     id: "sc-saint-louis-cities-v2",
     type: "city",
@@ -689,8 +669,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Dombos fekvés", "Panorámás kilátás", "Infrastrukturális központ"],
       ro: ["Locație deluroasă", "Vedere panoramică", "Centru de infrastructură"],
       en: ["Hilly location", "Panoramic views", "Infrastructural hub"]
-    }
-  },
+    }, image: "/poi-images/sc-saint-louis-cities-v2.webp"},
   {
     id: "sc-bel-air-cities-v2",
     type: "city",
@@ -719,8 +698,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Történelmi temető", "Victoria része", "Gyarmati történelem"],
       ro: ["Cimitir istoric", "Parte a Victoriei", "Istorie colonială"],
       en: ["Historic cemetery", "Part of Victoria", "Colonial history"]
-    }
-  },
+    }, image: "/poi-images/sc-bel-air-cities-v2.webp"},
   {
     id: "sc-mont-buxton-cities-v2",
     type: "city",
@@ -749,8 +727,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Kilátás a kikötőre", "Sűrűn lakott", "Dombos terep"],
       ro: ["Vedere la port", "Dens populat", "Teren deluros"],
       en: ["Harbor views", "Densely populated", "Hilly terrain"]
-    }
-  },
+    }, image: "/poi-images/sc-mont-buxton-cities-v2.webp"},
   {
     id: "sc-perseverance-i-cities-v2",
     type: "city",
@@ -779,8 +756,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Mesterséges sziget", "Modern építészet", "Victoria közelében"],
       ro: ["Insulă artificială", "Arhitectură modernă", "Lângă Victoria"],
       en: ["Artificial island", "Modern architecture", "Near Victoria"]
-    }
-  },
+    }, image: "/poi-images/sc-perseverance-i-cities-v2.webp"},
   {
     id: "sc-perseverance-ii-cities-v2",
     type: "city",
@@ -809,8 +785,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Feltöltési projekt", "Új lakóövezet", "Sziget-elrendezés"],
       ro: ["Proiect de recuperare a terenului", "Zonă rezidențială nouă", "Aspect de insulă"],
       en: ["Reclamation project", "New residential area", "Island layout"]
-    }
-  },
+    }, image: "/poi-images/sc-perseverance-ii-cities-v2.webp"},
   {
     id: "sc-anse-kerlan-cities-v2",
     type: "city",
@@ -869,8 +844,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Repülőtér közelsége", "Tengerparti település", "Könnyű elérhetőség"],
       ro: ["Proximitate de aeroport", "Așezare de coastă", "Accesibilitate ușoară"],
       en: ["Airport proximity", "Coastal settlement", "Easy accessibility"]
-    }
-  },
+    }, image: "/poi-images/sc-amitie-cities-v2.webp"},
   {
     id: "sc-consolation-cities-v2",
     type: "city",
@@ -899,8 +873,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Vad partvidék", "Kevés turista", "Természetközeli"],
       ro: ["Coastă sălbatică", "Puțini turiști", "Natural"],
       en: ["Wild coastline", "Few tourists", "Natural state"]
-    }
-  },
+    }, image: "/poi-images/sc-consolation-cities-v2.webp"},
   {
     id: "sc-cote-dor-cities-v2",
     type: "city",
@@ -959,8 +932,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["A nyugati part leghosszabb strandja", "Erős hullámzás", "Természeti szépség"],
       ro: ["Cea mai lungă plajă din vest", "Valuri puternice", "Frumusețe naturală"],
       en: ["Longest beach in the west", "Strong surf", "Natural beauty"]
-    }
-  },
+    }, image: "/poi-images/sc-grand-anse-mahe-cities-v2.webp"},
   {
     id: "sc-barbarons-cities-v2",
     type: "city",
@@ -989,8 +961,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Vacoa tanösvény", "Nyugati parti fekvés", "Üdülőhelyi helyszín"],
       ro: ["Traseul natural Vacoa", "Locație pe coasta de vest", "Locație de resort"],
       en: ["Vacoa Nature Trail", "West coast location", "Resort location"]
-    }
-  },
+    }, image: "/poi-images/sc-barbarons-cities-v2.webp"},
   {
     id: "sc-misere-cities-v2",
     type: "city",
@@ -1019,8 +990,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Kilátópont", "Hűvösebb éghajlat", "Központi hegyi út"],
       ro: ["Punct de belvedere", "Climat mai răcoros", "Drum montan central"],
       en: ["Viewpoint", "Cooler climate", "Central mountain road"]
-    }
-  },
+    }, image: "/poi-images/sc-misere-cities-v2.webp"},
   {
     id: "sc-foret-noire-cities-v2",
     type: "city",
@@ -1049,8 +1019,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Buja erdők", "Összekötő út", "Tanösvények"],
       ro: ["Păduri luxuriante", "Drum de legătură", "Trasee naturale"],
       en: ["Lush forests", "Connecting road", "Nature trails"]
-    }
-  },
+    }, image: "/poi-images/sc-foret-noire-cities-v2.webp"},
   {
     id: "sc-port-launay-cities-v2",
     type: "city",
@@ -1079,8 +1048,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Tengeri nemzeti park", "Nyugodt víz", "Népszerű piknikezőhely"],
       ro: ["Parc Național Marin", "Apă liniștită", "Popular pentru picnicuri"],
       en: ["Marine National Park", "Calm water", "Popular for picnics"]
-    }
-  },
+    }, image: "/poi-images/sc-port-launay-cities-v2.webp"},
   {
     id: "sc-baie-ternay-cities-v2",
     type: "city",
@@ -1109,8 +1077,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Elszigetelt fekvés", "Kiváló sznorkelezés", "Érintetlen természet"],
       ro: ["Locație izolată", "Snorkeling excelent", "Natură neatinsă"],
       en: ["Remote location", "Excellent snorkeling", "Pristine nature"]
-    }
-  },
+    }, image: "/poi-images/sc-baie-ternay-cities-v2.webp"},
   {
     id: "sc-danzil-cities-v2",
     type: "city",
@@ -1169,8 +1136,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Beau Vallon közelében", "Lakóövezet", "Turisztikai szállások"],
       ro: ["Lângă Beau Vallon", "Zonă rezidențială", "Unități de cazare turistice"],
       en: ["Near Beau Vallon", "Residential area", "Tourist accommodations"]
-    }
-  },
+    }, image: "/poi-images/sc-mare-anglaise-cities-v2.webp"},
   {
     id: "sc-machabee-cities-v2",
     type: "city",
@@ -1199,8 +1165,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Mahé északi partja", "Sziklás partok", "Kevésbé kiépített"],
       ro: ["Coasta de nord a Mahé", "Țărmuri stâncoase", "Mai puțin dezvoltat"],
       en: ["North coast of Mahé", "Rocky shores", "Less developed"]
-    }
-  },
+    }, image: "/poi-images/sc-machabee-cities-v2.webp"},
   {
     id: "sc-de-quincey-cities-v2",
     type: "city",
@@ -1229,8 +1194,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Domboldali lakóövezet", "A fővárostól északra", "Csendes légkör"],
       ro: ["Zonă rezidențială pe deal", "La nord de capitală", "Atmosferă liniștită"],
       en: ["Hillside residential area", "North of the capital", "Quiet atmosphere"]
-    }
-  },
+    }, image: "/poi-images/sc-de-quincey-cities-v2.webp"},
   {
     id: "sc-petit-paris-cities-v2",
     type: "city",
@@ -1259,8 +1223,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Keleti parti út", "Kis település", "Hegyi díszlet"],
       ro: ["Drumul de pe coasta de est", "Așezare mică", "Decor montan"],
       en: ["East coast road", "Small settlement", "Mountainous backdrop"]
-    }
-  },
+    }, image: "/poi-images/sc-petit-paris-cities-v2.webp"},
   {
     id: "sc-brillant-cities-v2",
     type: "city",
@@ -1289,8 +1252,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Repülőtér közelsége", "Ipari terület", "Tengerparti fekvés"],
       ro: ["Lângă aeroport", "Zonă industrială", "Locație pe coastă"],
       en: ["Airport proximity", "Industrial area", "Coastal location"]
-    }
-  },
+    }, image: "/poi-images/sc-brillant-cities-v2.webp"},
   {
     id: "sc-providence-cities-v2",
     type: "city",
@@ -1319,8 +1281,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Kereskedelmi övezet", "Gazdasági szív", "Feltöltött területen"],
       ro: ["Zonă comercială", "Inima economică", "Pe teren recuperat"],
       en: ["Commercial zone", "Economic heart", "On reclaimed land"]
-    }
-  },
+    }, image: "/poi-images/sc-providence-cities-v2.webp"},
   {
     id: "sc-turtle-bay-cities-v2",
     type: "city",
@@ -1349,8 +1310,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Au Cap területén", "Népszerű strand", "Történelmi név"],
       ro: ["Situat în Au Cap", "Plajă populară", "Nume istoric"],
       en: ["Located in Au Cap", "Popular beach", "Historic name"]
-    }
-  },
+    }, image: "/poi-images/sc-turtle-bay-cities-v2.webp"},
   {
     id: "sc-val-dendore-cities-v2",
     type: "city",
@@ -1379,8 +1339,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Mezőgazdasági völgy", "Dél-Mahé", "Zöld táj"],
       ro: ["Vale agricolă", "Sudul Mahé", "Peisaj verde"],
       en: ["Agricultural valley", "South Mahé", "Green landscape"]
-    }
-  },
+    }, image: "/poi-images/sc-val-dendore-cities-v2.webp"},
   {
     id: "sc-quatre-bornes-cities-v2",
     type: "city",
@@ -1409,8 +1368,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Vidéki település", "Dél-Mahé", "Hagyományos élet"],
       ro: ["Așezare rurală", "Sudul Mahé", "Viață tradițională"],
       en: ["Rural settlement", "South Mahé", "Traditional life"]
-    }
-  },
+    }, image: "/poi-images/sc-quatre-bornes-cities-v2.webp"},
   {
     id: "sc-sans-souci-cities-v2",
     type: "city",
@@ -1439,8 +1397,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Hűvös éghajlat", "Exkluzív villák", "Kilátás Victoriára"],
       ro: ["Climat răcoros", "Vile exclusiviste", "Vedere la Victoria"],
       en: ["Cool climate", "Exclusive villas", "Views of Victoria"]
-    }
-  },
+    }, image: "/poi-images/sc-sans-souci-cities-v2.webp"},
   {
     id: "sc-vista-do-mar-cities-v2",
     type: "city",
@@ -1469,8 +1426,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Glacis területén", "Kilátás a tengerre", "Csendes környék"],
       ro: ["Situat în Glacis", "Vedere la mare", "Cartier liniștit"],
       en: ["Located in Glacis", "Sea views", "Quiet neighborhood"]
-    }
-  },
+    }, image: "/poi-images/sc-vista-do-mar-cities-v2.webp"},
   {
     id: "sc-quincy-village-cities-v2",
     type: "city",

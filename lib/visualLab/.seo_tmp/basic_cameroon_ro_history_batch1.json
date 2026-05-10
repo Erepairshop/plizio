@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "foumban-royal-palace-history-v2",
+      "description": "Palatul Regal din Foumban este centrul simbolic al regatului Bamoun. Găzduiește colecții legate de istoria și arta curții regale.",
+      "facts": ["reședința tradițională a bamunilor", "include un muzeu al curții", "în orașul Foumban"]
+    },
+    {
+      "id": "bimbia-slave-port-history-v2",
+      "description": "Bimbia este un sit istoric asociat cu comerțul transatlantic cu sclavi. Locul amintește de o etapă dureroasă din istoria coastei cameruneze.",
+      "facts": ["pe coasta de sud-vest", "legat de comerțul cu sclavi", "sit memorial istoric"]
+    },
+    {
+      "id": "kribi-lighthouse-history-v2",
+      "description": "Farul din Kribi a ghidat mult timp navele de pe coasta atlantică. Clădirea este legată de navigația și de istoria portuară a orașului.",
+      "facts": ["pe coasta Atlanticului", "util pentru navigație", "parte din istoria maritimă"]
+    },
+    {
+      "id": "prime-ministers-lodge-history-v2",
+      "description": "Prime Ministers Lodge este asociat cu reședința oficială a premierului în Buea. Locul reflectă istoria administrativă a capitalei regionale.",
+      "facts": ["în Buea", "reședință oficială", "legat de administrația regională"]
+    },
+    {
+      "id": "bismarck-fountain-history-v2",
+      "description": "Fântâna Bismarck din Douala este un vestigiu al perioadei coloniale germane. Ea marchează memoria urbană a unuia dintre cele mai vechi centre ale orașului.",
+      "facts": ["în Douala", "monument din epoca germană", "reper urban istoric"]
+    },
+    {
+      "id": "charles-atangana-palace-history-v2",
+      "description": "Palatul lui Charles Atangana amintește de unul dintre cei mai cunoscuți lideri tradiționali din zona Yaoundé. Clădirea păstrează memoria elitei locale de la începutul secolului XX.",
+      "facts": ["în Yaoundé", "legat de Charles Atangana", "lider tradițional influent"]
+    },
+    {
+      "id": "mankon-fons-palace-history-v2",
+      "description": "Palatul Fonului din Mankon este un centru al tradiției din zona Bamenda. El rămâne un simbol al autorității culturale și al continuității locale.",
+      "facts": ["în Bamenda", "palat tradițional", "centru cultural Mankon"]
+    },
+    {
+      "id": "bafut-palace-history-v2",
+      "description": "Palatul din Bafut este unul dintre cele mai cunoscute centre tradiționale din nord-vestul Camerunului. Complexul include spații ceremoniale și colecții muzeale.",
+      "facts": ["în Bafut", "palat al fonului", "are și funcție muzeală"]
+    },
+    {
+      "id": "notre-dame-des-victoires-history-v2",
+      "description": "Catedrala Notre-Dame-des-Victoires este una dintre bisericile importante din Yaoundé. Edificiul are un rol religios și urban în centrul capitalei.",
+      "facts": ["în Yaoundé", "catedrală catolică", "reper central al orașului"]
+    },
+    {
+      "id": "reunification-monument-history-v2",
+      "description": "Monumentul Reunificării din Yaoundé marchează un moment-cheie din istoria Camerunului modern. El simbolizează unirea fostelor teritorii administrate separat.",
+      "facts": ["în Yaoundé", "simbol al reunificării", "dedicat istoriei moderne"]
+    },
+    {
+      "id": "palace-of-rey-bouba-history-v2",
+      "description": "Palatul din Rey Bouba este reședința tradițională a lamidatului local. Complexul reflectă structura politică și ceremonială a nordului camerunez.",
+      "facts": ["în nordul Camerunului", "reședința unui lamido", "centru tradițional important"]
+    },
+    {
+      "id": "bandjoun-chiefdom-history-v2",
+      "description": "Chiefdomul din Bandjoun este un centru al autorității tradiționale bamileke. Locul păstrează arhitectura și ritualurile comunității locale.",
+      "facts": ["în regiunea Ouest", "chiefdom bamileke", "tradiții și ceremonii locale"]
+    }
+  ]
+}

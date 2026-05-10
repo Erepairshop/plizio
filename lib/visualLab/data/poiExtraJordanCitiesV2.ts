@@ -44,8 +44,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 4,5 Millionen Einwohner in der Metropolregion", "Antiker Name Rabbat Ammon, später Philadelphia ab dem 3. Jahrhundert v. Chr.", "Mitglied der römischen Dekapolis", "Römisches Theater aus dem Jahr 165 n. Chr. mit 6.000 Plätzen", "Zitadelle mit Herkulestempel auf dem Jabal al-Qalʿa", "Hauptstadt des Emirats Transjordanien seit 1921", "Britisches Mandat 1921 bis 1946", "Stadt erstreckt sich über 19 Hügel (Jabal)"]
-    }
-  },
+    }, image: "/poi-images/amman-cities-v2.webp"},
   {
     id: "zarqa-cities-v2",
     type: "city",
@@ -89,8 +88,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 1,4 Millionen Einwohner, zweitgrößte Stadt Jordaniens", "25 Kilometer nordöstlich von Amman", "Gegründet 1902 von tschetschenischen Flüchtlingen", "Hauptquartier der Arabischen Legion im britischen Mandat 1921 bis 1946", "Größte Erdölraffinerie Jordaniens, eröffnet 1961", "Raffineriekapazität rund 100.000 Barrel pro Tag", "Bedeutender Anteil palästinensischer Flüchtlinge", "Name bedeutet die Blaue auf Arabisch"]
-    }
-  },
+    }, image: "/poi-images/zarqa-cities-v2.webp"},
   {
     id: "irbid-cities-v2",
     type: "city",
@@ -134,8 +132,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 600.000 Einwohner, drittgrößte Stadt Jordaniens", "85 Kilometer nördlich von Amman", "Antiker Name Arbila beziehungsweise Arabella in der Dekapolis", "Besiedlung seit der Bronzezeit um 3000 v. Chr.", "Yarmouk-Universität gegründet 1976 mit rund 40.000 Studierenden", "Jordan University of Science and Technology seit 1986", "Britisches Mandat 1921 bis 1946", "Wichtige Region für Olivenanbau und Weizen"]
-    }
-  },
+    }, image: "/poi-images/irbid-cities-v2.webp"},
   {
     id: "aqaba-cities-v2",
     type: "city",
@@ -179,8 +176,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 150.000 Einwohner, einziger Seehafen Jordaniens", "330 Kilometer südlich von Amman am Roten Meer", "Antike Siedlung Aila an der Weihrauchstraße", "Mamluken-Festung erbaut um 1510 bis 1517", "Eroberung durch arabische Truppen am 6. Juli 1917", "Britisches Mandat 1921 bis 1946", "Sonderwirtschaftszone ASEZA seit 2001", "Beliebtes Tauchziel mit Korallenriffen"]
-    }
-  },
+    }, image: "/poi-images/aqaba-cities-v2.webp"},
   {
     id: "russeifa-cities-v2",
     type: "city",
@@ -224,8 +220,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 500.000 Einwohner, viertgrößte Stadt Jordaniens", "Phosphatvorkommen entdeckt 1935", "Jordan Phosphate Mines Company seit 1949", "Hauptförderstandort bis zur Schließung 1985", "Britisches Mandat 1921 bis 1946", "Starker Zuzug palästinensischer Flüchtlinge ab 1948", "Teil der Metropolregion Amman-Zarqa", "Zarqa-Fluss durchquert das Stadtgebiet"]
-    }
-  },
+    }, image: "/poi-images/russeifa-cities-v2.webp"},
   {
     id: "madaba-cities-v2",
     type: "city",
@@ -269,8 +264,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 70.000 Einwohner auf 770 Metern Höhe", "30 Kilometer südwestlich von Amman", "Biblische Erwähnung als Medeba im 4. Buch Mose 21,30", "Mosaikkarte des Heiligen Landes aus dem 6. Jahrhundert", "157 Ortsnamen auf der Karte in St.-Georgs-Kirche", "Byzantinische Blütezeit 4. bis 7. Jahrhundert", "Berg Nebo nur 9 Kilometer entfernt", "Britisches Mandat 1921 bis 1946"]
-    }
-  },
+    }, image: "/poi-images/madaba-cities-v2.webp"},
   {
     id: "ar-ramtha-cities-v2",
     type: "city",
@@ -314,8 +308,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 130.000 Einwohner an der syrischen Grenze", "90 Kilometer nördlich von Amman", "Grenzübergang Jaber-Nasib wichtigster Übergang nach Syrien", "Historische Karawanenroute Damaskus-Mekka", "Jordan University of Science and Technology seit 1986", "Über 25.000 Studierende an der JUST", "Britisches Mandat 1921 bis 1946", "Aufnahme syrischer Flüchtlinge seit 2011"]
-    }
-  },
+    }, image: "/poi-images/ar-ramtha-cities-v2.webp"},
   {
     id: "mafraq-cities-v2",
     type: "city",
@@ -359,8 +352,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 100.000 Einwohner in der Wüstensteppe", "80 Kilometer nordöstlich von Amman", "Name bedeutet Kreuzung auf Arabisch", "Hedschasbahn-Station seit 1908", "Luftwaffenbasis King Hussein, ursprünglich RAF Mafraq seit 1934", "Britisches Mandat 1921 bis 1946", "Zaatari-Flüchtlingslager seit 2012, zeitweise 80.000 Flüchtlinge", "Al al-Bayt-Universität gegründet 1992"]
-    }
-  },
+    }, image: "/poi-images/mafraq-cities-v2.webp"},
   {
     id: "maan-cities-v2",
     type: "city",
@@ -404,8 +396,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 50.000 Einwohner auf 1.070 Metern Höhe", "220 Kilometer südlich von Amman", "Historischer Hedschasbahnhof seit 1904", "Wichtige Station auf der Pilgerroute nach Mekka", "Kurzzeitig Hauptstadt des Königreichs Hidschas-Ma'an 1920 bis 1925", "Britisches Mandat 1921 bis 1946", "Al-Hussein Bin Talal Universität seit 1999", "Petra nur 35 Kilometer westlich"]
-    }
-  },
+    }, image: "/poi-images/maan-cities-v2.webp"},
   {
     id: "jerash-cities-v2",
     type: "city",
@@ -449,8 +440,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 50.000 Einwohner, 50 Kilometer nördlich von Amman", "Antike Stadt Gerasa der römischen Dekapolis", "Hadriansbogen erbaut 129 n. Chr.", "Ovales Forum mit 56 ionischen Säulen", "Artemistempel aus dem späten 2. Jahrhundert", "Erdbeben im Januar 749 zerstörte die Stadt", "Wiederentdeckung durch Ulrich Jasper Seetzen 1806", "Jerash Festival seit 1981"]
-    }
-  },
+    }, image: "/poi-images/jerash-cities-v2.webp"},
   {
     id: "karak-cities-v2",
     type: "city",
@@ -494,8 +484,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 35.000 Einwohner auf 950 Metern Höhe", "140 Kilometer südlich von Amman", "Kreuzritterburg ab 1142 unter Pagan dem Mundschenk", "Reginald von Châtillon ab 1176 als Burgherr", "Belagerung durch Saladin nach Hattin 1187", "Eroberung durch Saladin 1188 nach achtmonatiger Belagerung", "Mamlukische Erweiterungen im 13. Jahrhundert", "Britisches Mandat 1921 bis 1946"]
-    }
-  },
+    }, image: "/poi-images/karak-cities-v2.webp"},
   {
     id: "tafilah-cities-v2",
     type: "city",
@@ -539,8 +528,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 30.000 Einwohner auf 950 Metern Höhe", "180 Kilometer südlich von Amman", "Biblische Erwähnung als Tophel im 5. Buch Mose 1,1", "Schlacht von Tafilah am 25. Januar 1918", "Sieg unter T. E. Lawrence und Scherif Said", "Biosphärenreservat Dana seit 1989, 308 Quadratkilometer", "Britisches Mandat 1921 bis 1946", "Tafila Technical University gegründet 2005"]
-    }
-  },
+    }, image: "/poi-images/tafilah-cities-v2.webp"},
   {
     id: "ajloun-cities-v2",
     type: "city",
@@ -584,8 +572,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 15.000 Einwohner auf 750 Metern Höhe", "75 Kilometer nordwestlich von Amman", "Burg Qalʿat ar-Rabad erbaut 1184 unter Izz ad-Din Usama", "Errichtet als ayyubidischer Vorposten gegen die Kreuzritter", "Mongolische Besetzung 1260 unter Hülegü", "Erdbebenschäden 1837 und 1927", "Britisches Mandat 1921 bis 1946", "Ajloun Forest Reserve seit 1987, 13 Quadratkilometer"]
-    }
-  },
+    }, image: "/poi-images/ajloun-cities-v2.webp"},
   {
     id: "as-salt-cities-v2",
     type: "city",
@@ -629,8 +616,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 90.000 Einwohner auf 850 Metern Höhe", "30 Kilometer nordwestlich von Amman", "Wichtigstes Zentrum vor der Wahl Ammans 1921 zur Hauptstadt", "Über 1.000 historische Salti-Stil-Häuser", "Abu Jaber Museum von 1892", "Rund 25 Prozent christliche Bevölkerung", "Britisches Mandat 1921 bis 1946", "UNESCO-Weltkulturerbe seit 2021"]
-    }
-  },
+    }, image: "/poi-images/as-salt-cities-v2.webp"},
   {
     id: "sahab-cities-v2",
     type: "city",
@@ -674,8 +660,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 170.000 Einwohner, 12 Kilometer südöstlich von Amman", "Archäologische Ausgrabungen seit 1972", "Spätbronzezeitliche Siedlung um 1500 v. Chr.", "King Abdullah II Industrial City seit 1984, 250 Hektar", "Über 400 Fabriken mit rund 16.000 Arbeitern", "Britisches Mandat 1921 bis 1946", "Größter islamischer Friedhof Jordaniens seit den 1980er Jahren", "Größte Industrievorstadt Ammans"]
-    }
-  },
+    }, image: "/poi-images/sahab-cities-v2.webp"},
   {
     id: "ain-basha-cities-v2",
     type: "city",
@@ -719,8 +704,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 110.000 Einwohner mit Umland", "12 Kilometer nordwestlich von Amman", "Name bedeutet Quelle des Paschas", "Osmanische Quelle aus dem 19. Jahrhundert", "Britisches Mandat 1921 bis 1946", "Baqʿa-Flüchtlingslager benachbart, eingerichtet 1968", "Über 100.000 registrierte palästinensische Flüchtlinge im Lager", "Hauptstraße zwischen Amman und Jerash"]
-    }
-  },
+    }, image: "/poi-images/ain-basha-cities-v2.webp"},
   {
     id: "al-jiza-cities-v2",
     type: "city",
@@ -764,8 +748,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 50.000 Einwohner, 30 Kilometer südlich von Amman", "Queen Alia International Airport eröffnet 1983", "Über 9 Millionen Passagiere pro Jahr", "Neues Terminal von Norman Foster 2013 fertiggestellt", "Historische Pilgerroute Darb al-Hadsch nach Mekka", "Römisch-byzantinische Zisterne Birka Zizya", "Zisternenkapazität rund 30.000 Kubikmeter", "Britisches Mandat 1921 bis 1946"]
-    }
-  },
+    }, image: "/poi-images/al-jiza-cities-v2.webp"},
   {
     id: "ghor-es-safi-cities-v2",
     type: "city",
@@ -809,8 +792,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 25.000 Einwohner, 360 Meter unter dem Meeresspiegel", "Identifiziert mit dem biblischen Zoar (1. Mose 19,22-23)", "Byzantinische Siedlung mit Mosaikkirchen", "Archäologische Ausgrabungen seit 1986", "Lowest Point Museum eröffnet 2012", "Arab Potash Company seit 1956", "Jährlich rund 2,5 Millionen Tonnen Kalisalz", "Britisches Mandat 1921 bis 1946"]
-    }
-  },
+    }, image: "/poi-images/ghor-es-safi-cities-v2.webp"},
   {
     id: "al-husn-cities-v2",
     type: "city",
@@ -854,8 +836,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 25.000 Einwohner, 8 Kilometer südlich von Irbid", "Name bedeutet die Festung auf Arabisch", "Besiedlung seit der Frühbronzezeit um 3000 v. Chr.", "Antiker Name Capitolias in der Dekapolis-Region", "Byzantinische Kirche St. Georg aus dem 5. bis 6. Jahrhundert", "Etwa ein Drittel griechisch-orthodoxe Christen", "Britisches Mandat 1921 bis 1946", "Husn College der Al-Balqaʿ Universität seit 1981"]
-    }
-  },
+    }, image: "/poi-images/al-husn-cities-v2.webp"},
   {
     id: "kufranja-cities-v2",
     type: "city",
@@ -944,8 +925,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 22.000 Einwohner auf 800 Metern Höhe", "18 Kilometer nordwestlich von Amman", "Rund 90 Prozent christliche Bevölkerung", "Kirche St. George von 1860, erneuert 1986", "Christliche Migration aus Karak im 18. Jahrhundert", "Britisches Mandat 1921 bis 1946", "Lafarge-Zementfabrik 1951 bis 2018", "Fuheis Festival seit 1992"]
-    }
-  },
+    }, image: "/poi-images/fuheis-cities-v2.webp"},
   {
     id: "ash-shunah-ash-shamaliyah-cities-v2",
     type: "city",
@@ -989,8 +969,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 30.000 Einwohner, 250 Meter unter dem Meeresspiegel", "90 Kilometer nordwestlich von Amman", "Nahe der israelischen Grenze und dem See Genezareth", "Verbindung mit dem antiken Pella der Dekapolis", "Grab des Prophetengefährten Muʿadh ibn Jabal", "King Abdullah Canal seit 1961", "Wichtigstes Anbaugebiet für Zitrus und Bananen", "Britisches Mandat 1921 bis 1946"]
-    }
-  },
+    }, image: "/poi-images/ash-shunah-ash-shamaliyah-cities-v2.webp"},
   {
     id: "al-mazar-al-janubi-cities-v2",
     type: "city",
@@ -1034,8 +1013,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 18.000 Einwohner auf 1.150 Metern Höhe", "15 Kilometer südlich von Karak", "Schlacht von Muʾtah am 8. September 629", "Tod von Zaid ibn Haritha und Jaʿfar ibn Abi Talib", "Khalid ibn al-Walid übernahm das Kommando", "Mamlukische Mausoleen aus dem 14. Jahrhundert", "Bedeutender islamischer Pilgerort", "Britisches Mandat 1921 bis 1946"]
-    }
-  },
+    }, image: "/poi-images/al-mazar-al-janubi-cities-v2.webp"},
   {
     id: "deir-abi-saeed-cities-v2",
     type: "city",
@@ -1079,8 +1057,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 17.000 Einwohner auf 525 Metern Höhe", "25 Kilometer westlich von Irbid", "Name bedeutet Kloster des Abi Saeed", "Byzantinische Klostervergangenheit 5. bis 6. Jahrhundert", "Über 1.000 Jahre alte Olivenbäume", "Tell Abu al-Kharaz seit 1989 ausgegraben", "Funde seit der Frühbronzezeit um 3200 v. Chr.", "Britisches Mandat 1921 bis 1946"]
-    }
-  },
+    }, image: "/poi-images/deir-abi-saeed-cities-v2.webp"},
   {
     id: "al-muwaqqar-cities-v2",
     type: "city",
@@ -1124,8 +1101,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 30.000 Einwohner, 25 Kilometer östlich von Amman", "Umayyadischer Palast Qasr al-Muwaqqar 720 bis 750 n. Chr.", "Erbaut unter Kalif Yazid II. und al-Walid II.", "Inschriften-Steinplatten im Archäologischen Museum Amman", "Britisches Mandat 1921 bis 1946", "Sesshaftwerdung von Beduinenstämmen seit den 1980er Jahren", "Standort mehrerer moderner Solarkraftwerke", "Übergang zur jordanischen Wüste"]
-    }
-  },
+    }, image: "/poi-images/al-muwaqqar-cities-v2.webp"},
   {
     id: "mahis-cities-v2",
     type: "city",
@@ -1169,8 +1145,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 12.000 Einwohner auf 850 Metern Höhe", "18 Kilometer nordwestlich von Amman", "Schrein des al-Khidr auf dem Berg Mar Elias", "Geburtsort des Propheten Elias", "Besuch von Papst Johannes Paul II. im Jahr 2000", "Byzantinische Kirchen aus dem 6. Jahrhundert mit Mosaiken", "Britisches Mandat 1921 bis 1946", "Berühmt für Granatäpfel und Feigen"]
-    }
-  },
+    }, image: "/poi-images/mahis-cities-v2.webp"},
   {
     id: "al-hashimiyah-cities-v2",
     type: "city",

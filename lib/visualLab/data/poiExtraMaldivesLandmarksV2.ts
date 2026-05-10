@@ -13,8 +13,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["1658-ban épült.", "Szerepel az UNESCO világörökségi javaslati listáján."],
       ro: ["Construită în 1658.", "Se află pe lista propunerilor pentru Patrimoniul Mondial UNESCO."],
       en: ["Built in 1658.", "It is on the UNESCO World Heritage tentative list."]
-    }
-  },
+    }, image: "/poi-images/male-friday-mosque-landmarks-v2.webp"},
   {
     id: "muleeaage-landmarks-v2",
     type: "landmark",
@@ -27,8 +26,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["A 20. század elején épült.", "Eredetileg a szultán palotájának szánták."],
       ro: ["Construit la începutul secolului al XX-lea.", "Inițial a fost destinat să fie palatul sultanului."],
       en: ["Built in the early 20th century.", "Originally intended as a palace for the Sultan."]
-    }
-  },
+    }, image: "/poi-images/muleeaage-landmarks-v2.webp"},
   {
     id: "maldives-national-museum-landmarks-v2",
     type: "landmark",
@@ -41,8 +39,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["1952-ben nyitotta meg kapuit.", "A korábbi Szultán Park területén található."],
       ro: ["A fost deschis în 1952.", "Este situat în fosta zonă a Parcului Sultanului."],
       en: ["Opened in 1952.", "Located in the former Sultan Park area."]
-    }
-  },
+    }, image: "/poi-images/maldives-national-museum-landmarks-v2.webp"},
   {
     id: "tsunami-monument-landmarks-v2",
     type: "landmark",
@@ -55,8 +52,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["Az acélgömbök az érintett atollokat szimbolizálják.", "A dizájn a magasba tornyosuló hullámokat jelképezi."],
       ro: ["Sferele de oțel reprezintă atolurile afectate.", "Designul simbolizează valurile care se înalță."],
       en: ["The steel spheres represent the affected atolls.", "The design symbolizes the rising waves."]
-    }
-  },
+    }, image: "/poi-images/tsunami-monument-landmarks-v2.webp"},
   {
     id: "sinamale-bridge-landmarks-v2",
     type: "landmark",
@@ -69,8 +65,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["2018-ban adták át a forgalomnak.", "A híd két kilométer hosszú."],
       ro: ["A fost deschis circulației în 2018.", "Podul are o lungime de doi kilometri."],
       en: ["Opened to traffic in 2018.", "The bridge is two kilometers long."]
-    }
-  },
+    }, image: "/poi-images/sinamale-bridge-landmarks-v2.webp"},
   {
     id: "grand-friday-mosque-landmarks-v2",
     type: "landmark",
@@ -83,8 +78,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["Több mint 5000 hívő befogadására alkalmas.", "1984-ben avatták fel."],
       ro: ["Moscheea poate găzdui peste 5000 de credincioși.", "A fost inaugurată în 1984."],
       en: ["The mosque accommodates over 5,000 worshippers.", "It was inaugurated in 1984."]
-    }
-  },
+    }, image: "/poi-images/grand-friday-mosque-landmarks-v2.webp"},
   {
     id: "victory-monument-landmarks-v2",
     type: "landmark",
@@ -97,8 +91,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["A fehér szín a békét szimbolizálja.", "A Köztársaság tér közelében található."],
       ro: ["Culoarea albă simbolizează pacea.", "Este situat lângă Piața Republicii."],
       en: ["The white color symbolizes peace.", "Located near Republic Square."]
-    }
-  },
+    }, image: "/poi-images/victory-monument-landmarks-v2.webp"},
   {
     id: "republic-square-landmarks-v2",
     type: "landmark",
@@ -125,8 +118,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["Nemrég átnevezték Rasrani Bageecha-ra.", "Számos trópusi fafajnak ad otthont."],
       ro: ["Redenumit recent Rasrani Bageecha.", "Găzduiește multe specii de arbori tropicali."],
       en: ["Recently renamed to Rasrani Bageecha.", "Home to many tropical tree species."]
-    }
-  },
+    }, image: "/poi-images/sultan-park-landmarks-v2.webp"},
   {
     id: "utheemu-ganduvaru-landmarks-v2",
     type: "landmark",
@@ -153,8 +145,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["Fontos zarándokhely Malé városában.", "A régi Péntek-mecset közelében található."],
       ro: ["Un important loc de pelerinaj în Malé.", "Este situat lângă vechea Moschee de Vineri."],
       en: ["An important pilgrimage site in Malé.", "Located near the old Friday Mosque."]
-    }
-  },
+    }, image: "/poi-images/medhu-ziyaaraiy-landmarks-v2.webp"},
   {
     id: "hanifaru-bay-landmarks-v2",
     type: "landmark",
@@ -167,8 +158,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["Egy UNESCO bioszféra-rezervátum része.", "A legjobb időszak a látogatásra májustól novemberig tart."],
       ro: ["Face parte dintr-o Rezervație a Biosferei UNESCO.", "Cel mai bun moment pentru a vizita este din mai până în noiembrie."],
       en: ["Part of a UNESCO Biosphere Reserve.", "The best time to visit is from May to November."]
-    }
-  },
+    }, image: "/poi-images/hanifaru-bay-landmarks-v2.webp"},
   {
     id: "banana-reef-landmarks-v2",
     type: "landmark",
@@ -209,8 +199,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["Öt méterrel a tengerszint alatt található.", "A Rangali-szigeten építették."],
       ro: ["Situat la cinci metri sub nivelul mării.", "A fost construit pe insula Rangali."],
       en: ["Located five meters below sea level.", "Built on Rangali Island."]
-    }
-  },
+    }, image: "/poi-images/ithaa-undersea-restaurant-landmarks-v2.webp"},
   {
     id: "hp-reef-landmarks-v2",
     type: "landmark",
@@ -223,8 +212,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["Színei miatt „Szivárvány-zátonynak” is hívják.", "A tapasztalt búvárok igazi paradicsoma."],
       ro: ["Datorită culorilor sale este numit și „Reciful Curcubeu”.", "Un paradis pentru scafandrii experimentați."],
       en: ["Also known as the 'Rainbow Reef' due to its colors.", "A paradise for experienced divers."]
-    }
-  },
+    }, image: "/poi-images/hp-reef-landmarks-v2.webp"},
   {
     id: "bikini-beach-maafushi-landmarks-v2",
     type: "landmark",
@@ -237,8 +225,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["A Maafushi-sziget a helyi turizmus központja.", "Finom fehér homokot és kristálytiszta vizet kínál."],
       ro: ["Insula Maafushi este un centru al turismului local.", "Oferă nisip alb fin și ape cristaline."],
       en: ["Maafushi Island is a hub for local tourism.", "Features fine white sand and crystal-clear waters."]
-    }
-  },
+    }, image: "/poi-images/bikini-beach-maafushi-landmarks-v2.webp"},
   {
     id: "artificial-beach-landmarks-v2",
     type: "landmark",
@@ -251,8 +238,7 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
       hu: ["Gyakran ad otthont élőzenés rendezvényeknek és fesztiváloknak.", "Különösen a helyiek körében nagyon kedvelt."],
       ro: ["Deseori gazda unor evenimente cu muzică live și festivaluri.", "Foarte populară în rândul localnicilor."],
       en: ["Often a venue for live music and festivals.", "Very popular among local residents."]
-    }
-  },
+    }, image: "/poi-images/artificial-beach-landmarks-v2.webp"},
   {
     id: "manta-point-landmarks-v2",
     type: "landmark",

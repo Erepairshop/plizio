@@ -71,8 +71,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Régiókat választ el", "Népszerű túrahely", "Tagolt terep", "Központi felföld"],
       ro: ["Separă regiunile", "Zonă populară de drumeție", "Teren accidentat", "Podișul central"],
       en: ["Separates regions", "Popular hiking area", "Rugged terrain", "Central highland"]
-    }
-  },
+    }, image: "/poi-images/bulunga-mountains-relief-v2.webp"},
   {
     id: "gobholo-caves-relief-v2",
     type: "relief",
@@ -95,8 +94,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Legnagyobb gránitbarlangok", "Mbabane közelében", "Összetett alagútrendszer", "Denevérpopulációk"],
       ro: ["Cele mai mari peșteri de granit", "Lângă capitala Mbabane", "Sistem complex de tuneluri", "Populații de lilieci"],
       en: ["Largest granite caves", "Near the capital Mbabane", "Complex tunnel system", "Bat populations"]
-    }
-  },
+    }, image: "/poi-images/gobholo-caves-relief-v2.webp"},
   {
     id: "dlangeni-hills-relief-v2",
     type: "relief",
@@ -143,8 +141,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Érintetlen hegyvidék", "Gazdag élővilág", "A Lubombo körzetben", "Ideális túravidék"],
       ro: ["Natură montană curată", "Biodiversitate bogată", "În districtul Lubombo", "Zonă ideală de drumeție"],
       en: ["Pristine highlands", "Rich biodiversity", "In the Lubombo district", "Ideal hiking area"]
-    }
-  },
+    }, image: "/poi-images/sinceni-mountains-relief-v2.webp"},
   {
     id: "makonjwa-mountains-relief-v2",
     type: "mountain",
@@ -167,8 +164,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Ősi kőzetek", "Földtani jelentőség", "Eswatini északnyugati részén", "UNESCO világörökség várományos"],
       ro: ["Roci străvechi", "Importanță geologică", "În nord-vestul Eswatini", "Potențial de patrimoniu UNESCO"],
       en: ["Ancient rocks", "Geological importance", "In northwestern Eswatini", "UNESCO World Heritage potential"]
-    }
-  },
+    }, image: "/poi-images/makonjwa-mountains-relief-v2.webp"},
   {
     id: "mahamba-mountain-relief-v2",
     type: "mountain",
@@ -191,8 +187,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Déli tájékozódási pont", "A Mahamba-szurdok felett", "Dél-Afrika közelében", "Népszerű kilátóhely"],
       ro: ["Reper sudic", "Deasupra Cheilor Mahamba", "Lângă Africa de Sud", "Popular pentru vederi"],
       en: ["Southern landmark", "Above Mahamba Gorge", "Near South Africa", "Popular for views"]
-    }
-  },
+    }, image: "/poi-images/mahamba-mountain-relief-v2.webp"},
   {
     id: "lubombo-plateau-relief-v2",
     type: "relief",
@@ -239,8 +234,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Geológiai peremvidék", "Meredek szintkülönbség", "Látványos völgyek", "Nyugati felföld"],
       ro: ["Escarpament geologic", "Diferențe de nivel", "Văi spectaculoase", "Podișul vestic"],
       en: ["Geological escarpment", "Striking elevation steps", "Spectacular valleys", "Western highlands"]
-    }
-  },
+    }, image: "/poi-images/highveld-escarpment-relief-v2.webp"},
   {
     id: "middleveld-hills-relief-v2",
     type: "relief",
@@ -287,8 +281,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Sík szavanna", "Forró Lowveld klíma", "Keleti régiók", "Cukornádtermesztés"],
       ro: ["Teren de savană plan", "Climat cald de Lowveld", "Regiuni estice", "Cultivarea trestiei de zahăr"],
       en: ["Flat savanna land", "Hot Lowveld climate", "Eastern regions", "Sugar cane farming"]
-    }
-  },
+    }, image: "/poi-images/lowveld-plain-relief-v2.webp"},
   {
     id: "grand-valley-relief-v2",
     type: "relief",
@@ -311,8 +304,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Mély folyóvölgy", "A Mkondo folyása", "Dél-Eswatiniben", "Természeti szépség"],
       ro: ["Vale adâncă a râului", "Cursul râului Mkondo", "În sudul Eswatini", "Frumusețe scenică"],
       en: ["Deep river valley", "Mkondo river course", "In southern Eswatini", "Scenic beauty"]
-    }
-  },
+    }, image: "/poi-images/grand-valley-relief-v2.webp"},
   {
     id: "great-usutu-basin-relief-v2",
     type: "relief",
@@ -359,8 +351,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Fenyőerdő", "Hűvös hegyi klíma", "Erdészeti zóna", "Ködös felföld"],
       ro: ["Zonă de pini", "Climat montan răcoros", "Zonă forestieră", "Munți cețoși"],
       en: ["Pine forest area", "Cool mountain climate", "Forestry zone", "Misty highlands"]
-    }
-  },
+    }, image: "/poi-images/mhlambanyatsi-forest-relief-v2.webp"},
   {
     id: "peak-fine-forest-relief-v2",
     type: "forest",
@@ -383,8 +374,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Fakitermelés", "Piggs Peak közelében", "Sűrű erdők", "Északi felföld"],
       ro: ["Producție de lemn", "Lângă Piggs Peak", "Zonă forestieră densă", "Munții din nord"],
       en: ["Timber production", "Near Piggs Peak", "Dense forest areas", "Northern highlands"]
-    }
-  },
+    }, image: "/poi-images/peak-fine-forest-relief-v2.webp"},
   {
     id: "ngonini-forest-relief-v2",
     type: "forest",
@@ -431,8 +421,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Határmenti erdő", "Az Usutu-öv része", "Nyugati felföld", "Fontos faforrás"],
       ro: ["Pădure de frontieră", "Parte a centurii Usutu", "Podișul vestic", "Sursă importantă de lemn"],
       en: ["Border highland forest", "Part of Usutu belt", "Western highlands", "Major timber source"]
-    }
-  },
+    }, image: "/poi-images/sandlane-forest-relief-v2.webp"},
   {
     id: "gege-forest-relief-v2",
     type: "forest",
@@ -455,8 +444,7 @@ export const poiExtraSwazilandReliefV2: POI[] = [
       hu: ["Délnyugati erdő", "Dombos felföld", "Fajgazdag állományok", "Látványos vidék"],
       ro: ["Pădurea de sud-vest", "Podiș deluros", "Arborete diverse", "Peisaj pitoresc"],
       en: ["Southwestern forest", "Hilly highlands", "Species-rich stands", "Scenic area"]
-    }
-  },
+    }, image: "/poi-images/gege-forest-relief-v2.webp"},
   {
     id: "shiselweni-forest-relief-v2",
     type: "forest",

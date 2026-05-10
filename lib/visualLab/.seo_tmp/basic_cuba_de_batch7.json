@@ -1,0 +1,64 @@
+{
+  "lang": "de",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCubaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCubaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCubaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCubaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zoologico-nacional-cuba-life-v2",
+      "description": "Der Nationalzoo von Kuba liegt in Havanna und zeigt viele afrikanische Tierarten. Große Freigehege prägen die Anlage.",
+      "facts": ["In Havanna", "Afrikanische Tierarten", "Große Freigehege"]
+    },
+    {
+      "id": "finca-la-vigia-life-v2",
+      "description": "Die Gärten von Finca Vigía gehören zum historischen Anwesen von Ernest Hemingway. Sie zeigen tropische Pflanzen und ruhige Spazierwege.",
+      "facts": ["Mit Ernest Hemingway verbunden", "Tropische Pflanzen", "Historischer Garten"]
+    },
+    {
+      "id": "jardines-del-rey-flora-life-v2",
+      "description": "Das Schutzgebiet in Jardines del Rey bewahrt einheimische Vögel und Reptilien. Es ist auch für Vogelbeobachtung und natürliche Strände interessant.",
+      "facts": ["Schutzgebiet auf den Inseln", "Vögel und Reptilien", "Gut für Vogelbeobachtung"]
+    },
+    {
+      "id": "plantacion-cafe-escambray-life-v2",
+      "description": "Die Kaffeeplantage im Escambray-Gebirge steht für traditionellen Anbau im Bergklima. Sie ist ein typischer Ort für hochwertigen kubanischen Kaffee.",
+      "facts": ["Im Escambray-Gebirge", "Traditioneller Kaffeeanbau", "Bergklima"]
+    },
+    {
+      "id": "parque-kike-acosta-life-v2",
+      "description": "Der Parque Kike Acosta ist ein kleiner, kinderfreundlicher Park in Havanna. Er dient der Nachbarschaft als ruhiger Treffpunkt mit Grünflächen.",
+      "facts": ["In Havanna", "Spielplatz und Grünflächen", "Ruhiger Ort"]
+    },
+    {
+      "id": "finca-organic-matanzas-life-v2",
+      "description": "Die Bio-Farm in Matanzas arbeitet mit modernen und nachhaltigen Methoden. Sie verbindet Gemüseanbau, Besuchsangebote und Direktverkauf.",
+      "facts": ["In Matanzas", "Nachhaltige Landwirtschaft", "Direktverkauf"]
+    },
+    {
+      "id": "parque-holguin-life-v2",
+      "description": "Der Parque Calixto García ist ein zentraler Park in Holguín mit schattigen Wegen. Er ist ein beliebter Treffpunkt für Familien und Spaziergänger.",
+      "facts": ["In Holguín", "Zentraler Treffpunkt", "Schattige Wege"]
+    },
+    {
+      "id": "finca-cacao-guantanamo-life-v2",
+      "description": "Die Kakaofarm in Guantánamo zeigt kleinen Kakaoanbau mit nachhaltigem Ansatz. Sie steht für lokale Produktion und Bildung.",
+      "facts": ["In Guantánamo", "Kakaoproduktion", "Nachhaltigkeit"]
+    },
+    {
+      "id": "zoologico-de-matanzas-life-v2",
+      "description": "Der Zoo von Matanzas zeigt lokale Tiere in einer ruhigen Umgebung. Er ist ein einfacher Ausflugspunkt für Familien und Kinder.",
+      "facts": ["In Matanzas", "Lokale Tiere", "Familienausflug"]
+    },
+    {
+      "id": "parque-infantil-matanzas-life-v2",
+      "description": "Der Kinderpark in Matanzas ist ein einfacher Spielplatz für Familien. Er bietet Raum für Sicherheit, Entspannung und Freizeit.",
+      "facts": ["In Matanzas", "Spielplatz", "Freizeit und Entspannung"]
+    }
+  ]
+}

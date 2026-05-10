@@ -34,8 +34,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "It is considered one of the largest copper deposits globally.",
       "The site covers an area of approximately 40 square kilometers.",
       "Ancient artifacts found include statues, manuscripts, and coins."
-    ]
-  },
+    ], image: "/poi-images/mes-aynak-mine-economic-v2.webp"},
   {
     id: "hajigak-mine-economic-v2",
     type: "mine",
@@ -69,8 +68,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "The project is stalled due to security and infrastructure issues.",
       "The ore has a high iron content of over 60%.",
       "Potential to create a domestic steel industry in Afghanistan."
-    ]
-  },
+    ], image: "/poi-images/hajigak-mine-economic-v2.webp"},
   {
     id: "sher-khan-bandar-economic-v2",
     type: "port",
@@ -104,8 +102,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Key trade route for goods from Central Asia.",
       "Facilitates export of Afghan products like cotton and dried fruit.",
       "Handles several hundred trucks per day."
-    ]
-  },
+    ], image: "/poi-images/sher-khan-bandar-economic-v2.webp"},
   {
     id: "hairatan-port-economic-v2",
     type: "port",
@@ -139,8 +136,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Key entry point for humanitarian aid.",
       "Located in Balkh Province.",
       "Crucial for importing fuel, construction materials, and grain."
-    ]
-  },
+    ], image: "/poi-images/hairatan-port-economic-v2.webp"},
   {
     id: "islam-qala-hub-economic-v2",
     type: "trade-hub",
@@ -209,8 +205,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Handles a large volume of pedestrian and vehicular traffic daily.",
       "It is a significant source of customs revenue.",
       "The Durand Line, which forms the border, is a point of contention."
-    ]
-  },
+    ], image: "/poi-images/spin-boldak-hub-economic-v2.webp"},
   {
     id: "torkham-hub-economic-v2",
     type: "trade-hub",
@@ -244,8 +239,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Gateway for Afghan transit trade via Pakistani seaports.",
       "The border is open 24/7 since 2019 for trade.",
       "Site of frequent closures due to political tensions."
-    ]
-  },
+    ], image: "/poi-images/torkham-hub-economic-v2.webp"},
   {
     id: "kajaki-hydro-economic-v2",
     type: "energy",
@@ -279,8 +273,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "The dam is 100 meters high and 270 meters long.",
       "Its reservoir can hold 1.7 billion cubic meters of water.",
       "The plant provides power to the cities of Lashkargah and Kandahar."
-    ]
-  },
+    ], image: "/poi-images/kajaki-hydro-economic-v2.webp"},
   {
     id: "naghlou-hydro-economic-v2",
     type: "energy",
@@ -314,8 +307,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Its reservoir has a storage capacity of 550 million cubic meters.",
       "It provides a significant portion of Kabul's electricity.",
       "The plant underwent major rehabilitation funded by the World Bank."
-    ]
-  },
+    ], image: "/poi-images/naghlou-hydro-economic-v2.webp"},
   {
     id: "salma-dam-economic-v2",
     type: "energy",
@@ -349,8 +341,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Provides irrigation for 75,000 hectares of land.",
       "The dam is 107.5 meters high and 550 meters long.",
       "The project faced numerous security challenges during construction."
-    ]
-  },
+    ], image: "/poi-images/salma-dam-economic-v2.webp"},
   {
     id: "aqina-port-economic-v2",
     type: "port",
@@ -419,8 +410,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "It is part of the Lapis Lazuli Corridor.",
       "Historically, it was a significant point on the Silk Road.",
       "Plays a vital role in trade for northwestern Afghanistan."
-    ]
-  },
+    ], image: "/poi-images/torghundi-port-economic-v2.webp"},
   {
     id: "sheberghan-gas-economic-v2",
     type: "energy",
@@ -454,8 +444,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Estimated reserves are in the trillions of cubic feet.",
       "The region is considered for the route of the TAPI pipeline.",
       "Production has been hampered by conflict and lack of investment."
-    ]
-  },
+    ], image: "/poi-images/sheberghan-gas-economic-v2.webp"},
   {
     id: "amu-darya-oil-economic-v2",
     type: "industry",
@@ -489,8 +478,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Development includes drilling new wells and operating a refinery.",
       "The project represents a significant foreign investment in Afghanistan.",
       "Security and logistical challenges have slowed down full-scale development."
-    ]
-  },
+    ], image: "/poi-images/amu-darya-oil-economic-v2.webp"},
   {
     id: "jangalak-complex-economic-v2",
     type: "industry",
@@ -524,8 +512,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "It was heavily damaged during the civil war in the 1990s.",
       "Efforts have been made to privatize and revitalize the complex.",
       "Today, it hosts a variety of smaller private factories."
-    ]
-  },
+    ], image: "/poi-images/jangalak-complex-economic-v2.webp"},
   {
     id: "baghlan-sugar-economic-v2",
     type: "industry",
@@ -594,8 +581,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Reduces Afghanistan's reliance on cement imports from Pakistan and Iran.",
       "It is a major industrial employer in the northern region.",
       "The factory utilizes local limestone and clay deposits."
-    ]
-  },
+    ], image: "/poi-images/ghori-cement-economic-v2.webp"},
   {
     id: "jabal-siraj-cement-economic-v2",
     type: "industry",
@@ -629,8 +615,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Operations were halted for many years due to war and decay.",
       "There have been recent efforts to rehabilitate the old factory.",
       "It stands as a monument to Afghanistan's early industrial ambitions."
-    ]
-  },
+    ], image: "/poi-images/jabal-siraj-cement-economic-v2.webp"},
   {
     id: "bagrami-park-economic-v2",
     type: "industry",
@@ -664,8 +649,7 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Provides tenants with improved security and infrastructure like electricity.",
       "Home to major Afghan companies, including beverage producers.",
       "Represents a significant hub of formal employment in the capital."
-    ]
-  },
+    ], image: "/poi-images/bagrami-park-economic-v2.webp"},
   {
     id: "herat-industrial-economic-v2",
     type: "industry",

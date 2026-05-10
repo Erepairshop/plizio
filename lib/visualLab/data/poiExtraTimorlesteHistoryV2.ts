@@ -39,8 +39,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "It was originally a gift from the Indonesian government.",
         "Over 500 steps must be climbed to reach it."
       ]
-    }
-  },
+    }, image: "/poi-images/cristo-rei-dili-history-v2.webp"},
   {
     id: "santa-cruz-cemetery-history-v2",
     type: "historical-site",
@@ -79,8 +78,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "It was a turning point in the country's history.",
         "Today, the site serves as an important memorial."
       ]
-    }
-  },
+    }, image: "/poi-images/santa-cruz-cemetery-history-v2.webp"},
   {
     id: "chega-museum-balide-history-v2",
     type: "historical-site",
@@ -159,8 +157,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "It preserves archives of the FALINTIL resistance army.",
         "The building was renovated with international assistance."
       ]
-    }
-  },
+    }, image: "/poi-images/resistance-museum-dili-history-v2.webp"},
   {
     id: "balibo-fort-history-v2",
     type: "historical-site",
@@ -199,8 +196,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "The original fortification is over 400 years old.",
         "An on-site museum commemorates the murdered journalists."
       ]
-    }
-  },
+    }, image: "/poi-images/balibo-fort-history-v2.webp"},
   {
     id: "lifau-monument-oecusse-history-v2",
     type: "monument",
@@ -239,8 +235,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "Lifau was the capital until 1769 before it was moved to Dili.",
         "The monument was erected in 2015 to mark the 500th anniversary."
       ]
-    }
-  },
+    }, image: "/poi-images/lifau-monument-oecusse-history-v2.webp"},
   {
     id: "mercado-municipal-baucau-history-v2",
     type: "historical-site",
@@ -279,8 +274,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "It was once considered the most beautiful market building in East Timor.",
         "The structure features distinctive arched entrances."
       ]
-    }
-  },
+    }, image: "/poi-images/mercado-municipal-baucau-history-v2.webp"},
   {
     id: "pousada-de-maubisse-history-v2",
     type: "historical-site",
@@ -319,8 +313,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "It is located at an altitude of over 1,400 meters.",
         "The garden is planted with roses and pine trees, atypical for the tropics."
       ]
-    }
-  },
+    }, image: "/poi-images/pousada-de-maubisse-history-v2.webp"},
   {
     id: "dare-memorial-history-v2",
     type: "monument",
@@ -359,8 +352,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "A small museum next to the cafe displays historical photographs.",
         "Many Timorese risked their lives to help the Australians."
       ]
-    }
-  },
+    }, image: "/poi-images/dare-memorial-history-v2.webp"},
   {
     id: "motael-church-dili-history-v2",
     type: "historical-site",
@@ -399,8 +391,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "The church was rebuilt during World War II.",
         "It provided sanctuary to activists during the occupation."
       ]
-    }
-  },
+    }, image: "/poi-images/motael-church-dili-history-v2.webp"},
   {
     id: "pope-john-paul-ii-monument-history-v2",
     type: "monument",
@@ -439,8 +430,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "Political protests occurred during the Papal Mass in 1989.",
         "It is an important pilgrimage site for Timorese Catholics."
       ]
-    }
-  },
+    }, image: "/poi-images/pope-john-paul-ii-monument-history-v2.webp"},
   {
     id: "venilale-japanese-caves-history-v2",
     type: "ruin",
@@ -479,8 +469,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "They are strategically located in the mountains.",
         "Many Timorese forced laborers died during the construction."
       ]
-    }
-  },
+    }, image: "/poi-images/venilale-japanese-caves-history-v2.webp"},
   {
     id: "lautem-fort-history-v2",
     type: "ruin",
@@ -519,8 +508,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "It was built in the 18th century.",
         "Traditional sacred houses are located nearby."
       ]
-    }
-  },
+    }, image: "/poi-images/lautem-fort-history-v2.webp"},
   {
     id: "soibada-mission-history-v2",
     type: "historical-site",
@@ -559,8 +547,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "The theological college was widely renowned.",
         "During the conflicts, it served as a sanctuary."
       ]
-    }
-  },
+    }, image: "/poi-images/soibada-mission-history-v2.webp"},
   {
     id: "baguia-fort-history-v2",
     type: "ruin",
@@ -599,8 +586,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "Today only overgrown ruins are visible.",
         "The region was often the site of local rebellions."
       ]
-    }
-  },
+    }, image: "/poi-images/baguia-fort-history-v2.webp"},
   {
     id: "iliomar-resistance-hideouts-history-v2",
     type: "battlefield",
@@ -639,8 +625,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "The region was one of the last centers of resistance.",
         "Today, abandoned camps bear witness to the long struggle."
       ]
-    }
-  },
+    }, image: "/poi-images/iliomar-resistance-hideouts-history-v2.webp"},
   {
     id: "matebian-caves-history-v2",
     type: "historical-site",
@@ -679,8 +664,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "The region was besieged by Indonesian forces in 1978.",
         "Thousands of civilians fled into these caves."
       ]
-    }
-  },
+    }, image: "/poi-images/matebian-caves-history-v2.webp"},
   {
     id: "palacio-do-governo-dili-history-v2",
     type: "historical-site",
@@ -759,8 +743,7 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "The church can accommodate thousands of worshippers.",
         "Its distinctive white tower is visible from afar."
       ]
-    }
-  },
+    }, image: "/poi-images/dili-cathedral-history-v2.webp"},
   {
     id: "aileu-massacre-memorial-history-v2",
     type: "monument",

@@ -23,8 +23,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["A QatarEnergy központja.", "Hatalmas kikötői létesítmények.", "Fontos a globális energiaellátásban."],
       ro: ["Sediul QatarEnergy.", "Facilități portuare uriașe.", "Important pentru aprovizionarea globală cu energie."],
       en: ["Headquarters of QatarEnergy.", "Massive port facilities.", "Important for global energy supply."]
-    }
-  },
+    }, image: "/poi-images/ras-laffan-industrial-city-economic-v2.webp"},
   {
     id: "hamad-port-economic-v2",
     type: "port",
@@ -71,8 +70,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["Az 1940-es években alapították.", "Fontos mélyvízi kikötő.", "A Qatar Steel otthona."],
       ro: ["Fondat în anii 1940.", "Port important de adâncime.", "Sediul Qatar Steel."],
       en: ["Founded in the 1940s.", "Important deep-water port.", "Home of Qatar Steel."]
-    }
-  },
+    }, image: "/poi-images/mesaieed-industrial-city-economic-v2.webp"},
   {
     id: "dukhan-oil-field-economic-v2",
     type: "energy",
@@ -95,8 +93,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["1939-ben fedezték fel.", "Első olajexport 1949-ben.", "Gazdag kiváló minőségű kőolajban."],
       ro: ["Descoperit în 1939.", "Primele exporturi de petrol în 1949.", "Bogat în țiței de înaltă calitate."],
       en: ["Discovered in 1939.", "First oil exports in 1949.", "Rich in high-quality crude oil."]
-    }
-  },
+    }, image: "/poi-images/dukhan-oil-field-economic-v2.webp"},
   {
     id: "north-field-economic-v2",
     type: "energy",
@@ -119,8 +116,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["1971-ben fedezték fel.", "Iránnal közös mező.", "Hatalmas gáztartalékokat rejt."],
       ro: ["Descoperit în 1971.", "Împarte câmpul cu Iranul.", "Conține rezerve uriașe de gaze."],
       en: ["Discovered in 1971.", "Shares the field with Iran.", "Contains massive gas reserves."]
-    }
-  },
+    }, image: "/poi-images/north-field-economic-v2.webp"},
   {
     id: "qatar-science-and-technology-park-economic-v2",
     type: "trade-hub",
@@ -143,8 +139,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["A Qatar Foundation része.", "Támogatja a technológiai start-upokat.", "Vonzza a nemzetközi tech-óriásokat."],
       ro: ["Parte a Qatar Foundation.", "Sprijină start-up-urile tehnologice.", "Atrage giganții tehnologici internaționali."],
       en: ["Part of the Qatar Foundation.", "Supports technology start-ups.", "Attracts international tech giants."]
-    }
-  },
+    }, image: "/poi-images/qatar-science-and-technology-park-economic-v2.webp"},
   {
     id: "al-ruwais-port-economic-v2",
     type: "port",
@@ -167,8 +162,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["Nemrég korszerűsítették.", "Fókuszban a regionális teherszállítás.", "Támogatja az északi gazdaságot."],
       ro: ["Modernizat recent.", "Concentrează-te pe marfă regională.", "Sprijină economia nordică."],
       en: ["Recently modernized.", "Focus on regional cargo.", "Supports the northern economy."]
-    }
-  },
+    }, image: "/poi-images/al-ruwais-port-economic-v2.webp"},
   {
     id: "qatar-financial-centre-economic-v2",
     type: "trade-hub",
@@ -239,8 +233,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["Közös vállalat a Norsk Hydróval.", "Elsődleges alumíniumot gyárt.", "A legkorszerűbb technológiát használja."],
       ro: ["O societate mixtă cu Norsk Hydro.", "Produce aluminiu primar.", "Folosește tehnologie de ultimă oră."],
       en: ["Joint venture with Norsk Hydro.", "Produces primary aluminum.", "Uses cutting-edge technology."]
-    }
-  },
+    }, image: "/poi-images/qatalum-aluminum-plant-economic-v2.webp"},
   {
     id: "pearl-gtl-plant-economic-v2",
     type: "energy",
@@ -263,8 +256,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["Együttműködés a Shell-lel.", "Tiszta dízelt állít elő.", "Technológiai mestermű."],
       ro: ["Colaborare cu Shell.", "Produce motorină curată.", "O capodoperă tehnologică."],
       en: ["Collaboration with Shell.", "Produces clean diesel.", "A technological masterpiece."]
-    }
-  },
+    }, image: "/poi-images/pearl-gtl-plant-economic-v2.webp"},
   {
     id: "halul-island-oil-terminal-economic-v2",
     type: "energy",
@@ -287,8 +279,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["Messze a partoktól található.", "Fontos exportcsomópont.", "Szigorú biztonsági előírások."],
       ro: ["Situat departe în larg.", "Un nod important pentru export.", "Standarde stricte de siguranță."],
       en: ["Located far offshore.", "Important hub for export.", "Strict safety standards."]
-    }
-  },
+    }, image: "/poi-images/halul-island-oil-terminal-economic-v2.webp"},
   {
     id: "barzan-gas-project-economic-v2",
     type: "energy",
@@ -311,8 +302,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["Fókuszban a helyi piac.", "Az Északi Mezőből származó gázt dolgozza fel.", "Támogatja a vízsótalanítást."],
       ro: ["Se concentrează pe piața locală.", "Procesează gazul din Câmpul Nord.", "Sprijină desalinizarea apei."],
       en: ["Focus on the local market.", "Processes gas from the North Field.", "Supports water desalination."]
-    }
-  },
+    }, image: "/poi-images/barzan-gas-project-economic-v2.webp"},
   {
     id: "doha-port-economic-v2",
     type: "port",
@@ -335,8 +325,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["Doha központjában található.", "Fókuszban a tengeri turizmus.", "Történelmi jelentőségű."],
       ro: ["Situat central în Doha.", "Concentrează-te pe turismul de croazieră.", "Semnificație istorică."],
       en: ["Centrally located in Doha.", "Focus on cruise tourism.", "Historical significance."]
-    }
-  },
+    }, image: "/poi-images/doha-port-economic-v2.webp"},
   {
     id: "umm-bab-cement-plant-economic-v2",
     type: "industry",
@@ -359,8 +348,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["Kiváló minőségű cementet gyárt.", "Fontos az infrastruktúra számára.", "Helyi nyersanyagokat használ."],
       ro: ["Produce ciment de înaltă calitate.", "Important pentru infrastructură.", "Folosește materii prime locale."],
       en: ["Produces high-quality cement.", "Important for infrastructure.", "Uses local raw materials."]
-    }
-  },
+    }, image: "/poi-images/umm-bab-cement-plant-economic-v2.webp"},
   {
     id: "ras-bufontas-free-zone-economic-v2",
     type: "trade-hub",
@@ -383,8 +371,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["Adókedvezményeket kínál.", "Fókuszban a technológia és a logisztika.", "Nemzetközi cégeket vonz."],
       ro: ["Oferă stimulente fiscale.", "Concentrează-te pe tehnologie și logistică.", "Atrage companii internaționale."],
       en: ["Offers tax incentives.", "Focus on technology and logistics.", "Attracts international companies."]
-    }
-  },
+    }, image: "/poi-images/ras-bufontas-free-zone-economic-v2.webp"},
   {
     id: "umm-al-houl-power-plant-economic-v2",
     type: "energy",
@@ -407,8 +394,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["A vízigény nagy részét fedezi.", "Korszerű technológia.", "A Hamad Kikötő közelében található."],
       ro: ["Acoperă o mare parte din necesarul de apă.", "Tehnologie de ultimă generație.", "Situat lângă Portul Hamad."],
       en: ["Covers much of the water demand.", "State-of-the-art technology.", "Located near Hamad Port."]
-    }
-  },
+    }, image: "/poi-images/umm-al-houl-power-plant-economic-v2.webp"},
   {
     id: "al-rayyan-industrial-area-economic-v2",
     type: "industry",
@@ -455,8 +441,7 @@ export const poiExtraQatarEconomicV2: POI[] = [
       hu: ["A karbamid legnagyobb exportőre a világon.", "Mesaieedben található.", "Hozzájárul az élelmezésbiztonsághoz."],
       ro: ["Cel mai mare exportator de uree din lume.", "Situat în Mesaieed.", "Contribuie la securitatea alimentară."],
       en: ["World's largest exporter of urea.", "Located in Mesaieed.", "Contributes to food security."]
-    }
-  },
+    }, image: "/poi-images/qafco-fertilizer-plant-economic-v2.webp"},
   {
     id: "oryx-gtl-plant-economic-v2",
     type: "energy",

@@ -25,8 +25,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["Az Eufrátesz folyó partján épült fel.", "Hammurapi alatt, Kr. e. 1792 és 1750 között emelkedett fel először.", "Az Újbabiloni Birodalom idején érte el legnagyobb kiterjedését.", "II. Nabú-kudurri-uszur építtette a híres Istár-kaput.", "A városfalak egy kettős erődrendszert alkottak.", "Az Étemenanki zikkurat Marduk főisten tiszteletére épült."],
       ro: ["Suprafața orașului în perioada sa de apogeu acoperea aproape 900 de hectare.", "Regele Nabucodonosor al II-lea a condus Imperiul Neobabilonian între anii 605 și 562 î.Hr.", "Monumentala Poartă a lui Iștar a fost construită în jurul anului 575 î.Hr.", "Arheologul Robert Koldewey a început excavațiile la fața locului în anul 1899.", "Situl arheologic se află la aproximativ 85 de kilometri sud de capitala Bagdad.", "Ziguratul Etemenanki a fost dedicat zeului principal al orașului, Marduk.", "În anul 2019, ruinele Babilonului au fost incluse în Patrimoniul Mondial UNESCO."],
       en: []
-    }
-  },
+    }, image: "/poi-images/babylon-history-v2.webp"},
   {
     id: "ur-ziggurat-history-v2",
     type: "monument",
@@ -51,8 +50,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["Kr. e. 2100 körül épült Ur-Nammu király parancsára.", "Alaprajza egy 64 méter hosszú és 45 méter széles téglalap.", "Az eredeti építmény három lépcsős szintből állt.", "Nanna holdistennek, Ur városának védelmezőjének szentelték.", "A Kr. e. 6. században Nabonidusz király felújíttatta.", "Az 1980-as években az alsó szintet részben restaurálták."],
       ro: ["Fundația ziguratului formează un dreptunghi cu dimensiunile de 64 pe 45 de metri.", "Construcția a început sub domnia regelui Ur-Nammu, în jurul anului 2100 î.Hr.", "Templul a fost dedicat zeului sumerian al lunii, cunoscut sub numele de Nanna.", "Cărămizile exterioare au fost fixate folosind un mortar impermeabil pe bază de bitum.", "Arheologul britanic Sir Leonard Woolley a început cercetările sistematice în anul 1922.", "Structura originală era formată din trei terase masive suprapuse.", "În anii 1980, nivelul inferior și scările principale au fost parțial restaurate."],
       en: []
-    }
-  },
+    }, image: "/poi-images/ur-ziggurat-history-v2.webp"},
   {
     id: "hatra-history-v2",
     type: "ruin",
@@ -77,8 +75,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["A Pártus Birodalom egyik legfontosabb erődített városa volt.", "A Kr. u. 1. és 2. században élte legnagyobb felvirágzását.", "Kettős várfalrendszere megvédte a római támadásoktól.", "116-ban Traianus római császár seregét is visszaverte.", "241-ben a szászánida I. Sápúr seregei pusztították el.", "1985-ben került fel az UNESCO világörökségi listájára."],
       ro: ["Zidul circular interior al fortificației avea o lungime de aproape doi kilometri.", "Marele Templu din centrul orașului acoperea o suprafață totală de 1,2 hectare.", "Orașul a atins apogeul dezvoltării economice în secolele I și II d.Hr.", "Fortificațiile au respins atacul armatei romane conduse de Traian în anul 116 d.Hr.", "În anul 241 d.Hr., Hatra a fost cucerită și distrusă de armata sasanidă a lui Șapur I.", "Ruinele reprezintă o fuziune arhitecturală de elemente elenistice, romane și orientale.", "Situl arheologic Hatra a fost înscris pe lista Patrimoniului Mondial UNESCO în anul 1985."],
       en: []
-    }
-  },
+    }, image: "/poi-images/hatra-history-v2.webp"},
   {
     id: "nineveh-history-v2",
     type: "ruin",
@@ -103,8 +100,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["A Tigris folyó keleti partján, a mai Moszul mellett feküdt.", "Szín-ahhé-eríba alatt lett az Asszír Birodalom fővárosa.", "Egy 12 kilométer hosszú, 15 kapuval rendelkező fal védte.", "Itt találták meg Assur-bán-apli több mint 30 ezres agyagtábla-könyvtárát.", "A régészeti ásatások feltárták a híres Gilgames-eposz töredékeit.", "Kr. e. 612-ben az egyesített méd és babilóniai seregek elpusztították."],
       ro: ["În perioada sa de glorie, suprafața orașului Ninive măsura aproximativ 750 de hectare.", "Zidul de incintă avea o lungime de 12 kilometri și era prevăzut cu 15 porți.", "Regele Sanherib a transformat Ninive în capitala Imperiului Asirian în anul 700 î.Hr.", "Biblioteca lui Assurbanipal conținea peste 30.000 de tăblițe cuneiforme din argilă.", "Orașul a fost distrus complet în anul 612 î.Hr. de armatele aliate ale mezilor și babilonienilor.", "Excavațiile au scos la lumină fragmente din epopeea antică a lui Ghilgameș.", "Numeroase reliefuri asiriene din piatră descoperite aici sunt expuse la British Museum."],
       en: []
-    }
-  },
+    }, image: "/poi-images/nineveh-history-v2.webp"},
   {
     id: "samarra-great-mosque-history-v2",
     type: "monument",
@@ -129,8 +125,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["I. al-Mutavakkil kalifa uralkodása alatt épült 848 és 851 között.", "Alapterülete elérte a 38 ezer négyzetmétert.", "A híres csigalépcsős (malvíja) minaret 52 méter magasra emelkedik.", "A mecset külső falait 44 félkör alakú támfal tagolta.", "Az építmény nagyrészt elpusztult a mongolok 13. századi támadása során.", "A romterület 2007 óta az UNESCO világörökség része."],
       ro: ["Construcția moscheii a fost realizată între anii 848 și 851, sub califul Al-Mutawakkil.", "Suprafața bazei formează un dreptunghi impresionant de 240 pe 156 de metri.", "Minaretul în spirală Malwiya atinge o înălțime totală de 52 de metri.", "Zidurile exterioare din cărămidă sunt susținute de 44 de turnuri semicirculare.", "În secolul al IX-lea, Samarra a funcționat ca sediu administrativ al Califatului Abbasid.", "Orașul Samarra se află la o distanță de circa 120 de kilometri nord de Bagdad.", "Complexul istoric a fost adăugat pe lista Patrimoniului Mondial UNESCO în anul 2007."],
       en: []
-    }
-  },
+    }, image: "/poi-images/samarra-great-mosque-history-v2.webp"},
   {
     id: "nimrud-history-v2",
     type: "ruin",
@@ -155,8 +150,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["A Kr. e. 9. században II. Assur-nászir-apli tette a birodalom fővárosává.", "A város kiterjedése a fénykorában elérte a 360 hektárt.", "Palotáit hatalmas, emberfejű szárnyas bikák, lamasszuk őrizték.", "Az első modern ásatásokat Austen Henry Layard végezte az 1840-es években.", "Rendkívül finoman kidolgozott asszír elefántcsont faragványokat találtak itt.", "A 21. században az épített örökség nagy része célzott pusztítás áldozata lett."],
       ro: ["Așezarea a fost fondată inițial de regele Salmanasar I în secolul al XIII-lea î.Hr.", "Sub domnia lui Assurnasirpal al II-lea (secolul IX î.Hr.), Nimrud a devenit capitală imperială.", "Palatul de Nord-Vest acoperea o suprafață vastă de aproximativ 24 de hectare.", "Statuile monumentale cunoscute sub numele de lamassu cântăreau adesea peste 30 de tone.", "Suprafața totală a orașului antic asirian se întindea pe aproximativ 360 de hectare.", "Arheologul britanic Austen Henry Layard a început cercetările la fața locului în 1845.", "Între 2015 și 2016, o mare parte a patrimoniului construit a fost distrusă deliberat."],
       en: []
-    }
-  },
+    }, image: "/poi-images/nimrud-history-v2.webp"},
   {
     id: "erbil-citadel-history-v2",
     type: "historical-site",
@@ -181,8 +175,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["Több mint 6000 éve folyamatosan lakott terület.", "Egy 30 méter magas, évezredek alatt felhalmozódott mesterséges dombon áll.", "Az ókori Asszír Birodalom idején Istár istennő egyik fő kultuszközpontja volt.", "Jelenlegi arculatát a 19. századi oszmán építészet határozza meg.", "Az erőd falai ellipszis alakban, 430 méter hosszan ölelik körbe a dombot.", "2014-ben hivatalosan is elnyerte az UNESCO világörökségi státuszt."],
       ro: ["Colina artificială pe care este situată citadela acoperă o suprafață de 10 hectare.", "Structura se ridică la o înălțime de 32 de metri deasupra nivelului orașului de jos.", "Dovezile arheologice atestă o locuire continuă încă din mileniul 5 î.Hr.", "Fațada exterioară caracteristică a fost construită în mare parte în secolul al XIX-lea.", "Orașul antic, Arbela, a fost un important centru de cult al zeiței Iștar.", "Zidurile exterioare se întind pe un perimetru de aproximativ 430 de metri.", "Situl a fost inclus în Patrimoniul Mondial UNESCO în cursul anului 2014."],
       en: []
-    }
-  },
+    }, image: "/poi-images/erbil-citadel-history-v2.webp"},
   {
     id: "taq-kasra-history-v2",
     type: "monument",
@@ -207,8 +200,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["A szászánida birodalmi főváros, Ktésziphón maradványa.", "Valószínűleg I. Huszrau király uralkodása alatt (531–579) épült.", "Ez a világ legnagyobb szabadon álló, vasalatlan téglaíve.", "A boltív fesztávolsága eléri a 25,5 métert, magassága a 35 métert.", "Egy hatalmas, több mint 50 méter mély iván (fogadócsarnok) fölé borul.", "A 637-es arab hódítás után a palotakomplexum elnéptelenedett."],
       ro: ["Bolta de cărămidă a structurii Taq Kasra atinge o înălțime maximă de circa 35 de metri.", "Arcul posedă o deschidere uluitoare, nemaiîntâlnită, de 25,5 metri.", "Pereții exteriori care susțin structura principală au o grosime de 7 metri la bază.", "Adâncimea sălii palatului antic depășește dimensiunea de 50 de metri.", "Monumentul este poziționat la 35 de kilometri distanță, la sud-est de orașul Bagdad.", "Construcția a fost realizată probabil în secolul al VI-lea, sub conducerea lui Khosrau I.", "Reprezintă oficial cel mai mare arc liber din cărămidă construit în antichitate."],
       en: []
-    }
-  },
+    }, image: "/poi-images/taq-kasra-history-v2.webp"},
   {
     id: "assur-history-v2",
     type: "ruin",
@@ -233,8 +225,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["A Kr. e. 3. évezredben alapították a Tigris folyó partján.", "Az Asszír Birodalom névadó istene, Assur földi lakhelyeként tisztelték.", "Az óasszír korban jelentős anatóliai kereskedelmi hálózatot irányított.", "Politikai hanyatlása ellenére a birodalom végéig szakrális központ maradt.", "Kr. e. 614-ben a médek seregei foglalták el és pusztították el.", "A régészeti terület 2003-ban felkerült a világörökségek listájára."],
       ro: ["Orașul a fost fondat pe malul vestic al fluviului Tigru în mileniul 3 î.Hr.", "Ruinele se găsesc la o distanță de 110 kilometri sud de actualul oraș Mosul.", "La apogeul asirian, orașul includea mai mult de 34 de temple dedicate zeilor.", "Zidurile duble asigurau o protecție masivă împotriva oricărui atac extern.", "Trupele medice au distrus capitala religioasă în anul 614 î.Hr.", "Arheologul german Walter Andrae a demarat excavațiile oficiale în anul 1903.", "În anul 2003, situl Assur a fost declarat Patrimoniu Mondial UNESCO în pericol."],
       en: []
-    }
-  },
+    }, image: "/poi-images/assur-history-v2.webp"},
   {
     id: "al-ukhaidir-fortress-history-v2",
     type: "historical-site",
@@ -259,8 +250,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["Karbala városától 50 kilométerre délre, a sivatagban épült.", "A 8. század végén, 775 körül emelték az Abbászida Kalifátus idején.", "A komplexum egy 175 méter hosszú és 169 méter széles területet foglal el.", "Félköríves bástyákkal és erős kőfalakkal vették körül.", "A belső udvarokban mecset és díszes palota is helyet kapott.", "Építészetében a szászánida ívek és az iszlám díszítések keverednek."],
       ro: ["Dimensiunile fortăreței rectangulare sunt de 175 de metri lungime și 169 de metri lățime.", "Edificiul a fost construit în jurul anului 775 d.Hr. în perioada Califatului Abbasid.", "Fortificația se află la 50 de kilometri distanță sud-vest de orașul Karbala.", "Zidurile masive din calcar atingeau o înălțime considerabilă de 17 metri.", "Arhitectura combină bolțile tradiționale sasanide cu motivele islamice timpurii.", "Fațadele exterioare sunt susținute constant de turnuri de apărare semicirculare.", "În perimetrul apărat exista o moschee proprie și un vast palat rezidențial."],
       en: []
-    }
-  },
+    }, image: "/poi-images/al-ukhaidir-fortress-history-v2.webp"},
   {
     id: "dur-kurigalzu-history-v2",
     type: "ruin",
@@ -285,8 +275,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["A Kr. e. 14. században alapította I. Kurigalzu kasszita uralkodó.", "A város neve akkád nyelven annyit tesz: Kurigalzu erődje.", "A ma is álló zikkurat magja mintegy 57 méter magasan emelkedik a síkság fölé.", "A lépcsős templomot Enlilnek, a vihar és a levegő istenének szentelték.", "A zikkurat építésénél nádgyékényt és bitument használtak erősítésként.", "A város a Kr. e. 12. századig működött a kassziták fővárosaként."],
       ro: ["Orașul a fost fondat în secolul al XIV-lea î.Hr. de către regele Kurigalzu I.", "Ruinele se situează la 30 de kilometri spre vest față de centrul Bagdadului.", "Miezul antic al ziguratului atinge o înălțime de aproximativ 57 de metri.", "Ziguratul a fost construit în onoarea zeului sumerian Enlil, stăpânul furtunilor.", "Straturi de rogojini din trestie au fost folosite pentru consolidarea structurii de cărămidă.", "Capitala administrativă kasită a fost devastată de armatele elamite în secolul al XII-lea î.Hr.", "Primele campanii arheologice sistematice au fost întreprinse în anii 1940."],
       en: []
-    }
-  },
+    }, image: "/poi-images/dur-kurigalzu-history-v2.webp"},
   {
     id: "borsippa-history-v2",
     type: "ruin",
@@ -311,8 +300,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["Babilontól körülbelül 20 kilométerre délnyugatra helyezkedik el.", "Nabunak, az írás és bölcsesség babiloni istenének fő kultuszhelye volt.", "Leghíresebb építménye az Ezida-templomhoz tartozó zikkurat.", "A romokat a későbbi hagyomány gyakran a bábeli toronnyal azonosította.", "Zikkuratját II. Nabú-kudurri-uszur újjáépíttette a Kr. e. 6. században.", "A település egészen a hellenisztikus korszakig lakott maradt."],
       ro: ["Orașul Borsippa era localizat la 20 de kilometri distanță sud-vest de Babilon.", "Centrul a servit drept loc de venerare principal pentru zeul babilonian Nabu.", "Ruina impozantă a ziguratului central poartă astăzi denumirea de Birs Nimrud.", "Structura a fost amplu reconstruită de Nabucodonosor al II-lea în secolul al VI-lea î.Hr.", "Cărămizile ruinei indică urme vizibile de topire provocate de temperaturi extreme.", "Un drum ceremonial antic conecta direct orașul Borsippa cu marea metropolă Babilon.", "Tradițiile posterioare asociau greșit aceste ruine cu turnul descris în scrierile biblice."],
       en: []
-    }
-  },
+    }, image: "/poi-images/borsippa-history-v2.webp"},
   {
     id: "uruk-history-v2",
     type: "ruin",
@@ -337,8 +325,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["Kr. e. 2900 körül a világ legnagyobb városa lehetett, akár 80 ezer lakossal.", "A régészeti leletek itt bizonyítják legkorábban az írás (ékírás) kialakulását.", "Anu és Inanna (Istár) isteneinek hatalmas kultuszközpontja volt.", "A legendák szerint Gilgames, a híres eposz hőse uralkodott itt.", "A város monumentális kőmozaikos templomairól is ismertté vált.", "Egy közel 9 kilométer hosszú, masszív téglafal vette körül."],
       ro: ["În anul 2900 î.Hr., orașul se întindea pe o zonă uriașă de 250 de hectare.", "Populația ajunsese la aproximativ 80.000 de locuitori în perioada de maximă prosperitate.", "Zidul defensiv din cărămidă, cu o lungime de aproape 9 kilometri, înconjura metropola.", "Scrierea cuneiformă timpurie a fost atestată aici în jurul anului 3200 î.Hr.", "Orașul deținea complexe de temple monumentale pentru zeii principali Anu și Inanna.", "Arheologii germani au inaugurat săpăturile științifice la Uruk în anul 1912.", "Așezarea a fost ocupată neîntrerupt până târziu, în secolul al III-lea d.Hr."],
       en: []
-    }
-  },
+    }, image: "/poi-images/uruk-history-v2.webp"},
   {
     id: "eridu-history-v2",
     type: "ruin",
@@ -363,8 +350,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["A sumer királylista szerint az özönvíz előtti világ első városa volt.", "A Kr. e. 6. évezred végén (kb. Kr. e. 5400) alapították Dél-Mezopotámiában.", "Enki, a víz, a tudás és a mágia istenének fő kultuszhelyeként működött.", "Központi temploma, az E-Abzu, 18 egymásra épült építési fázist mutat.", "A korai sumer építészet fejlődésének egyik legfontosabb régészeti lelőhelye.", "A Kr. e. 2. évezredre, a környezeti változások miatt teljesen elhagyatottá vált."],
       ro: ["Urmele arheologice timpurii indică înființarea orașului în anul 5400 î.Hr.", "Tradiția sumeriană îl denumește primul oraș format pe pământ înainte de Potop.", "Templul antic al orașului era consacrat zeului sumerian al apelor dulci, Enki.", "Arheologii au documentat cu succes 18 niveluri suprapuse de construcție ale templului.", "Situl arheologic este situat la aproximativ 12 kilometri sud-vest de orașul Ur.", "Un zigurat extins a fost construit sub ordinul monarhului Amar-Suena în 2040 î.Hr.", "Până în cursul mileniului al II-lea î.Hr., așezarea a devenit total nepopulată."],
       en: []
-    }
-  },
+    }, image: "/poi-images/eridu-history-v2.webp"},
   {
     id: "lalish-temple-history-v2",
     type: "historical-site",
@@ -389,8 +375,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["A kurdisztáni hegyekben, Moszultól 60 kilométerre északra található.", "A világ több mint egymilliós jazidi közösségének legfőbb szentélye.", "Itt nyugszik Sejk Adi ibn Musafir, a 12. századi vallási reformer.", "A templom fölé emelkedő bordázott kúpok a nap sugarait jelképezik.", "A templom területén a vallási előírások szerint csak mezítláb szabad belépni.", "Az őszi Csema ünnep idején zarándokok tízezrei látogatják meg a völgyet."],
       ro: ["Valea sanctuarului este poziționată la aproximativ 60 de kilometri nord de Mosul.", "Tradiția spirituală a zonei are o vechime care depășește numărul de 4000 de ani.", "Șeicul Adi ibn Musafir, fondatorul modern al cultului, a decedat în anul 1162.", "Acoperișurile templelor sunt decorate distinctiv cu domuri ascuțite de formă conică.", "Două izvoare subterane cu ape purificatoare se află în incinta sanctuarului central.", "Credincioșii practică un ritual strict prin care pășesc doar desculți în perimetrul sfânt.", "Cel mai important pelerinaj de toamnă adună comunitatea yazidi în luna octombrie."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lalish-temple-history-v2.webp"},
   {
     id: "kish-history-v2",
     type: "ruin",
@@ -415,8 +400,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["Babilontól 12 kilométerre keletre fekvő ősi sumer városállam volt.", "A sumer hagyomány szerint az özönvíz után itt jött létre az első dinasztia.", "A Kis királya cím később az egész Mezopotámia feletti uralmat szimbolizálta.", "A kora dinasztikus időszakban (Kr. e. 2900–2350) élte legnagyobb virágkorát.", "Itt tárták fel az egyik legkorábbi monumentális világi palotaépületet.", "Akkád nagy királya, Sarrukín innen indult el a birodalomalapító hódításaira."],
       ro: ["Situl uriaș cuprinde peste 40 de coline arheologice extinse pe 24 de kilometri pătrați.", "Orașul antic se situa la exact 12 kilometri est de renumitul centru Babilon.", "Monarhia sumeriană originară a fost înființată aici imediat după episodul Marelui Potop.", "Așezarea a atins o putere imperială maximă în intervalul 2900–2350 î.Hr.", "Templele de interes primordial erau dedicate divinităților mesopotamiene Zababa și Inanna.", "Cele mai vechi roți de car de transport cunoscute au fost excavate pe acest teritoriu.", "În 1923, echipele internaționale au început săpăturile conduse de arheologul Stephen Langdon."],
       en: []
-    }
-  },
+    }, image: "/poi-images/kish-history-v2.webp"},
   {
     id: "imam-ali-mosque-history-v2",
     type: "historical-site",
@@ -441,8 +425,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["Nedzsef városában található, és Ali ibn Abi Tálib sírját rejti.", "A síita iszlám világ harmadik legfontosabb zarándokhelyeként tartják számon.", "Az első jelentős épületet a 10. században (977-ben) emelték a sír fölé.", "Központi kupoláját és két 35 méteres minaretjét több ezer aranyozott csempe borítja.", "A 17. századi perzsa uralkodók jelentősen bővítették és díszítették a komplexumot.", "A mecset körül alakult ki a híres Vádi asz-Szalám, a világ legnagyobb temetője."],
       ro: ["Prima variantă a monumentului a fost construită în anul 977 de către Adud al-Dawla.", "Ali ibn Abi Talib, primul imam al credinței șiite, a fost înhumat în anul 661.", "Cupola strălucitoare este împodobită deasupra cu un număr precis de 7777 plăci de aur.", "Intrarea monumentală dispune de două minarete cu o înălțime exactă de 35 de metri.", "Îmbunătățiri spectaculoase din punct de vedere vizual au fost adăugate în secolul al XVII-lea.", "Orașul Najaf se mândrește vizual cu cel mai mare cimitir islamic din lume, Wadi-us-Salaam.", "Anual, pelerinii sosesc în număr de câteva milioane din întreaga lume islamică șiită."],
       en: []
-    }
-  },
+    }, image: "/poi-images/imam-ali-mosque-history-v2.webp"},
   {
     id: "imam-husayn-shrine-history-v2",
     type: "historical-site",
@@ -467,8 +450,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["Karbala városában, a 680-as történelmi csata helyszínén áll.", "Huszein ibn Ali harmadik síita imám, Mohamed próféta unokája nyugszik itt.", "A sír fölé először a 7. század végén, röviddel a csata után emeltek tetőt.", "A komplexumot egy hatalmas aranykupola és díszes minaretek jellemzik.", "Belső tereit ezüsttel, üvegmozaikokkal és drágakövekkel gazdagon díszítették.", "Az Arbaín ünnepe során évente több mint húszmillió ember zarándokol el ide."],
       ro: ["Husayn ibn Ali a pierdut viața sub stindard de martir în cursul anului 680 d.Hr.", "Un prim sanctuar a fost elaborat în același areal abia către finele secolului al VII-lea.", "Mausoleul somptuos include o poartă din argint masiv prelucrat rafinat, numită zarih.", "Arhitectura spațiilor interne radiază o mulțime de prisme rezultate din sticla cu oglindă.", "Comunitățile islamice au lărgit permanent aria curții pentru adăpostirea credincioșilor.", "La sărbătoarea pașnică Arba'in vizitează orașul până la douăzeci de milioane de practicanți.", "Complexul se înalță măiestuos deasupra clădirilor joase prezente în centrul Karbalei."],
       en: []
-    }
-  },
+    }, image: "/poi-images/imam-husayn-shrine-history-v2.webp"},
   {
     id: "al-mustansiriya-university-history-v2",
     type: "historical-site",
@@ -493,8 +475,7 @@ export const poiExtraIraqHistoryV2: POI[] = [
       hu: ["1227-ben alapította Al-Musztanszir abbászida kalifa Bagdad központjában.", "A szunnita iszlám mind a négy jogi iskoláját egy intézményben oktatták.", "Az iszlám jog mellett matematikát, asztronómiát és orvoslást is tanítottak.", "Egyike a mongol inváziót (1258) túlélt ritka bagdadi építményeknek.", "Az épület az abbászida téglaépítészet és a díszes téglaberakások mesterműve.", "A 20. század modernizációs munkálatai során teljes körűen restaurálták."],
       ro: ["Construcția masivă de cărămidă a fost elaborată de califul Al-Mustansir în 1227.", "Instituția superioară a asigurat predarea din unghiul tuturor celor patru școli sunnite.", "Tematica studiilor avansa până la prelegeri pe bază de medicină superioară și astronomie.", "Fațadele edificiului de cărămidă poartă un mozaic caligrafic impresionant nedeteriorat de timp.", "Madrasa este printre puținele structuri care au supraviețuit după devastarea mongolă din 1258.", "O curte imensă funcționează ca placă turnantă spre iwan-urile destinate lectorilor avansați.", "Campanii solide de restaurare au acoperit clădirea începând cu mijlocul secolului al XX-lea."],
       en: []
-    }
-  },
+    }, image: "/poi-images/al-mustansiriya-university-history-v2.webp"},
   {
     id: "al-shaheed-monument-history-v2",
     type: "monument",

@@ -554,13 +554,13 @@ export const poiExtraChinaHistoryV2: POI[] = [
       en: "Nanjing Massacre Memorial Hall"
     },
     description: {
-      de: "Eine Gedenkstätte zum Gedenken an diejenigen, die im Massaker von Nanjing 1937 durch die kaiserlich-japanische Armee getötet wurden.",
+      de: "Eine Gedenkstätte in Nanjing, die an die Opfer des Massakers von 1937 erinnert. Der Ort verbindet Museum, Erinnerung und historische Dokumentation.",
       hu: "Emlékmű, amely az 1937-es nankingi mészárlásban a Japán Császári Hadsereg által meggyilkoltakra emlékezik.",
       ro: "Un memorial pentru a comemora pe cei uciși în Masacrul de la Nanjing din 1937 de către Armata Imperială Japoneză.",
       en: "A memorial to commemorate those who were killed in the 1937 Nanjing Massacre by the Imperial Japanese Army."
     },
     facts: {
-      de: ["Eröffnet 1985.", "Enthält historische Dokumente, Fotos und Massengräber.", "Ein Ort der Erinnerung und des Friedens."],
+      de: ["In Nanjing, Jiangsu", "Eröffnet 1985", "Erinnert an 1937", "Mit historischen Dokumenten"],
       hu: ["1985-ben nyílt meg.", "Történelmi dokumentumokat, fényképeket és tömegsírokat tartalmaz.", "Az emlékezés és a béke helye."],
       ro: ["Deschis în 1985.", "Conține documente istorice, fotografii și gropi comune.", "Un loc de amintire și pace."],
       en: ["Opened in 1985.", "Contains historical documents, photos, and mass graves.", "A place for remembrance and peace."]

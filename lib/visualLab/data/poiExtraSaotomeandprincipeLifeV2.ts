@@ -39,8 +39,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "Nighttime observation tours are offered under strict regulations.",
         "A center for environmental education and local research projects."
       ]
-    }
-  },
+    }, image: "/poi-images/schildkroeten-praia-grande-life-v2.webp"},
   {
     id: "versuchszentrum-poto-life-v2",
     type: "agriculture",
@@ -79,8 +78,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "Conducts training programs for local farmers.",
         "Specializes in the breeding of high-quality hybrid cocoa."
       ]
-    }
-  },
+    }, image: "/poi-images/versuchszentrum-poto-life-v2.webp"},
   {
     id: "kinderpark-sao-tome-life-v2",
     type: "kid-landmark",
@@ -119,8 +117,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "Regular venue for children's birthday parties and local festivals.",
         "A safe space for interactive play and social contact."
       ]
-    }
-  },
+    }, image: "/poi-images/kinderpark-sao-tome-life-v2.webp"},
   {
     id: "garten-bom-successo-life-v2",
     type: "animal-habitat",
@@ -159,8 +156,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "An important starting point for guided nature hikes.",
         "Features a herbarium with one of the largest plant collections in the region."
       ]
-    }
-  },
+    }, image: "/poi-images/garten-bom-successo-life-v2.webp"},
   {
     id: "vanille-farm-henrique-life-v2",
     type: "agriculture",
@@ -199,8 +195,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "Pollination is done exclusively by hand by experienced workers.",
         "The farm uses organic cultivation methods without chemical fertilizers."
       ]
-    }
-  },
+    }, image: "/poi-images/vanille-farm-henrique-life-v2.webp"},
   {
     id: "papageien-principe-life-v2",
     type: "animal-habitat",
@@ -239,8 +234,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "The sanctuary works closely with international conservation organizations.",
         "Bird watching is only allowed when accompanied by licensed rangers."
       ]
-    }
-  },
+    }, image: "/poi-images/papageien-principe-life-v2.webp"},
   {
     id: "kaffee-nova-moca-life-v2",
     type: "agriculture",
@@ -279,8 +273,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "Offers tastings directly in the plantation's historic manor house.",
         "Supports local communities through educational programs."
       ]
-    }
-  },
+    }, image: "/poi-images/kaffee-nova-moca-life-v2.webp"},
   {
     id: "schildkroeten-morro-peixe-life-v2",
     type: "animal-habitat",
@@ -319,8 +312,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "A small museum provides information about the marine animals' life cycle.",
         "Opportunity to witness the release of newly hatched turtles."
       ]
-    }
-  },
+    }, image: "/poi-images/schildkroeten-morro-peixe-life-v2.webp"},
   {
     id: "kinderzentrum-principe-life-v2",
     type: "kid-landmark",
@@ -399,8 +391,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "The spices are still traditionally dried in the sun.",
         "A major supplier for gourmet restaurants worldwide."
       ]
-    }
-  },
+    }, image: "/poi-images/gewuerzfarm-uba-budo-life-v2.webp"},
   {
     id: "wal-beobachtung-leba-life-v2",
     type: "animal-habitat",
@@ -479,8 +470,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "Harvest waste is used for composting.",
         "An important supplier for the region's schools and markets."
       ]
-    }
-  },
+    }, image: "/poi-images/bananen-generosa-life-v2.webp"},
   {
     id: "korallen-micolo-life-v2",
     type: "animal-habitat",
@@ -519,8 +509,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "Snorkeling is only allowed in designated areas.",
         "Part of a nationwide network for the protection of marine ecosystems."
       ]
-    }
-  },
+    }, image: "/poi-images/korallen-micolo-life-v2.webp"},
   {
     id: "kakaohof-diogo-vaz-life-v2",
     type: "agriculture",
@@ -599,8 +588,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "An important research center for botanical studies.",
         "The garden promotes the protection of natural orchid habitats."
       ]
-    }
-  },
+    }, image: "/poi-images/orchideengarten-cantagalo-life-v2.webp"},
   {
     id: "spielplatz-independencia-life-v2",
     type: "kid-landmark",
@@ -639,8 +627,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "Regular maintenance by the municipal administration.",
         "Provides shaded areas for hot afternoons."
       ]
-    }
-  },
+    }, image: "/poi-images/spielplatz-independencia-life-v2.webp"},
   {
     id: "palmoel-ribeira-peixe-life-v2",
     type: "agriculture",
@@ -719,8 +706,7 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
         "Bird watching platforms allow an undisturbed view of the riverbank.",
         "An important site for long-term ecological monitoring studies."
       ]
-    }
-  },
+    }, image: "/poi-images/vogelplatz-io-grande-life-v2.webp"},
   {
     id: "abenteuerspielplatz-neves-life-v2",
     type: "kid-landmark",

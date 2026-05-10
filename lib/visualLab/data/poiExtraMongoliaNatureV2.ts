@@ -23,8 +23,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["A mongol édesvízkészlet mintegy 70%-át tartalmazza.", "Mélysége eléri a 260 métert."],
       ro: ["Conține aproximativ 70% din apa dulce a Mongoliei.", "Atinge o adâncime de peste 260 de metri."],
       en: ["Holds about 70% of Mongolia's freshwater.", "Reaches a depth of over 260 meters."]
-    }
-  },
+    }, image: "/poi-images/khovsgol-lake-nature-v2.webp"},
   {
     id: "orkhon-river-nature-v2",
     type: "river",
@@ -47,8 +46,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Hossza eléri az 1124 kilométert.", "Végül a Szelenga folyóba ömlik."],
       ro: ["Are o lungime de 1124 de kilometri.", "Se varsă în cele din urmă în Selenga."],
       en: ["Has a length of 1,124 kilometers.", "Eventually empties into the Selenge."]
-    }
-  },
+    }, image: "/poi-images/orkhon-river-nature-v2.webp"},
   {
     id: "gobi-gurvansaikhan-nature-v2",
     type: "national-park",
@@ -71,8 +69,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Majdnem 27 000 négyzetkilométeren terül el.", "Neve magyarul azt jelenti: 'A Góbi három szépsége'."],
       ro: ["Se întinde pe aproape 27.000 de kilometri pătrați.", "Numele său se traduce prin „Cele trei frumuseți ale deșertului Gobi”."],
       en: ["Covers nearly 27,000 square kilometers.", "Its name translates to 'The Three Beauties of the Gobi'."]
-    }
-  },
+    }, image: "/poi-images/gobi-gurvansaikhan-nature-v2.webp"},
   {
     id: "uvs-lake-nature-v2",
     type: "lake",
@@ -95,8 +92,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Területét tekintve Mongólia legnagyobb tava.", "Környéke az UNESCO Világörökség része."],
       ro: ["Cel mai mare lac din Mongolia ca suprafață.", "Împrejurimile sale sunt incluse în Patrimoniul Mondial UNESCO."],
       en: ["The largest lake in Mongolia by surface area.", "Its surroundings are a UNESCO World Heritage Site."]
-    }
-  },
+    }, image: "/poi-images/uvs-lake-nature-v2.webp"},
   {
     id: "tuul-river-nature-v2",
     type: "river",
@@ -119,8 +115,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Hossza 704 kilométer.", "Vize novembertől április közepéig be van fagyva."],
       ro: ["Are o lungime de 704 de kilometri.", "Apa sa este înghețată din noiembrie până la jumătatea lunii aprilie."],
       en: ["Has a length of 704 kilometers.", "Its waters are frozen from November to mid-April."]
-    }
-  },
+    }, image: "/poi-images/tuul-river-nature-v2.webp"},
   {
     id: "kharkhiraa-mountain-nature-v2",
     type: "mountain",
@@ -143,8 +138,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["A főcsúcs magassága meghaladja a 4000 métert.", "Népszerű a hegymászók és kalandorok körében."],
       ro: ["Vârful principal atinge o înălțime de peste 4000 de metri.", "Popular printre alpiniști și aventurieri."],
       en: ["The main peak reaches an elevation of over 4,000 meters.", "Popular with mountaineers and adventurers."]
-    }
-  },
+    }, image: "/poi-images/kharkhiraa-mountain-nature-v2.webp"},
   {
     id: "otgontenger-mountain-nature-v2",
     type: "mountain",
@@ -167,8 +161,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["4008 méter magas.", "Mongólia három legszentebb hegyének egyike."],
       ro: ["Are o înălțime de 4008 metri.", "Este unul dintre cei trei munți sacri ai Mongoliei."],
       en: ["Is 4,008 meters high.", "It is one of the three most sacred mountains in Mongolia."]
-    }
-  },
+    }, image: "/poi-images/otgontenger-mountain-nature-v2.webp"},
   {
     id: "khar-us-lake-nature-v2",
     type: "lake",
@@ -191,8 +184,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["A tó hatalmas kárókatona-kolóniának ad otthont.", "Télen teljesen befagy."],
       ro: ["Lacul găzduiește o uriașă colonie de cormorani.", "Îngheață complet în timpul iernii."],
       en: ["The lake is home to a huge cormorant colony.", "Freezes completely in winter."]
-    }
-  },
+    }, image: "/poi-images/khar-us-lake-nature-v2.webp"},
   {
     id: "onon-river-nature-v2",
     type: "river",
@@ -215,8 +207,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Tovább folyik az orosz Amur-medencébe.", "A régió egyik ritka, érintetlen folyórendszere."],
       ro: ["Curge mai departe în bazinul rus Amur.", "Este unul dintre puținele sisteme fluviale neatinse din regiune."],
       en: ["Flows further into the Russian Amur basin.", "Is one of the few pristine river systems in the region."]
-    }
-  },
+    }, image: "/poi-images/onon-river-nature-v2.webp"},
   {
     id: "khar-lake-zavkhan-nature-v2",
     type: "lake",
@@ -239,8 +230,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["A Bor-Khyar homokdűnék szélén található.", "Föld alatti források táplálják."],
       ro: ["Este situat la marginea dunelor de nisip Bor-Khyar.", "Este alimentat de izvoare subterane."],
       en: ["Located on the edge of the Bor-Khyar sand dunes.", "Is fed by underground springs."]
-    }
-  },
+    }, image: "/poi-images/khar-lake-zavkhan-nature-v2.webp"},
   {
     id: "selenge-river-nature-v2",
     type: "river",
@@ -263,8 +253,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["A Bajkál-tó vízhozamának majdnem felét adja.", "Széles, termékeny völgyeken folyik keresztül."],
       ro: ["Contribuie cu aproape jumătate din fluxul de apă al Lacului Baikal.", "Curge prin văi largi și fertile."],
       en: ["Contributes almost half of Lake Baikal's inflow.", "Flows through wide, fertile valleys."]
-    }
-  },
+    }, image: "/poi-images/selenge-river-nature-v2.webp"},
   {
     id: "khangai-mountains-nature-v2",
     type: "mountain",
@@ -287,8 +276,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Mongólia számos nagy folyójának forrásvidéke.", "Szelíd, lekerekített csúcsairól ismert."],
       ro: ["Este sursa multor râuri mari din Mongolia.", "Cunoscut pentru vârfurile sale blânde și rotunjite."],
       en: ["Is the source of many of Mongolia's major rivers.", "Known for its gentle, rounded peaks."]
-    }
-  },
+    }, image: "/poi-images/khangai-mountains-nature-v2.webp"},
   {
     id: "khentii-mountains-nature-v2",
     type: "mountain",
@@ -311,8 +299,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["A szent Burhan Haldun hegy otthonaként tartják számon.", "Barna medvék és farkasok élőhelye."],
       ro: ["Considerat a fi casa muntelui sacru Burkhan Khaldun.", "Oferă habitat pentru urșii bruni și lupi."],
       en: ["Considered the home of the sacred mountain Burkhan Khaldun.", "Provides habitat for brown bears and wolves."]
-    }
-  },
+    }, image: "/poi-images/khentii-mountains-nature-v2.webp"},
   {
     id: "buir-lake-nature-v2",
     type: "lake",
@@ -335,8 +322,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Homokos strandjai népszerű helyi kirándulóhelyek.", "A tó télen szinte a fenekéig befagy."],
       ro: ["Plajele sale de nisip sunt o destinație populară pentru excursii locale.", "Lacul îngheață iarna aproape până la fund."],
       en: ["Its sandy beaches are a popular local excursion destination.", "The lake freezes almost to the bottom in winter."]
-    }
-  },
+    }, image: "/poi-images/buir-lake-nature-v2.webp"},
   {
     id: "ikh-bogd-mountain-nature-v2",
     type: "mountain",
@@ -359,8 +345,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Magassága eléri a 3957 métert.", "1957-ben egy erős földrengés rázta meg."],
       ro: ["Atinge o înălțime de 3957 metri.", "A fost zguduit de un cutremur sever în 1957."],
       en: ["Reaches a height of 3,957 meters.", "Was shaken by a severe earthquake in 1957."]
-    }
-  },
+    }, image: "/poi-images/ikh-bogd-mountain-nature-v2.webp"},
   {
     id: "mongolian-altai-nature-v2",
     type: "mountain",
@@ -383,8 +368,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Több mint 900 kilométer hosszan nyúlik el.", "Az argali juhok és a szibériai kőszáli kecskék otthona."],
       ro: ["Se întinde pe o lungime de 900 de kilometri.", "Găzduiește mufloni asiatici și ibecși siberieni."],
       en: ["Extends over 900 kilometers in length.", "Home to argalis and Siberian ibexes."]
-    }
-  },
+    }, image: "/poi-images/mongolian-altai-nature-v2.webp"},
   {
     id: "kherlen-river-nature-v2",
     type: "river",
@@ -407,8 +391,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Több mint 1200 kilométer hosszú.", "Végül a távoli kínai Hulun-tóba ömlik."],
       ro: ["Peste 1200 de kilometri lungime.", "Se varsă în cele din urmă în îndepărtatul lac Hulun din China."],
       en: ["Over 1,200 kilometers long.", "It eventually empties into the distant Hulun Lake in China."]
-    }
-  },
+    }, image: "/poi-images/kherlen-river-nature-v2.webp"},
   {
     id: "khan-khentii-forest-nature-v2",
     type: "forest",
@@ -431,8 +414,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Szigorúan védett rezervátum.", "Szinte kizárólag nyírfák és fenyők uralják."],
       ro: ["Este o rezervație strict protejată.", "Este dominat aproape exclusiv de mesteceni și pini."],
       en: ["Is a strictly protected reserve.", "Is dominated almost exclusively by birch and pine trees."]
-    }
-  },
+    }, image: "/poi-images/khan-khentii-forest-nature-v2.webp"},
   {
     id: "egiin-gol-nature-v2",
     type: "river",
@@ -455,8 +437,7 @@ export const poiExtraMongoliaNatureV2: POI[] = [
       hu: ["Körülbelül 475 kilométer hosszú.", "A tajmen horgászat egyik legjobb helyszíneként tartják számon."],
       ro: ["Are o lungime de aproximativ 475 de kilometri.", "Este considerat unul dintre cele mai bune locuri pentru pescuitul la muscă al lostriței siberiene."],
       en: ["It is about 475 kilometers long.", "Considered one of the best spots for fly fishing for taimen."]
-    }
-  },
+    }, image: "/poi-images/egiin-gol-nature-v2.webp"},
   {
     id: "bogd-khan-uul-forest-nature-v2",
     type: "forest",

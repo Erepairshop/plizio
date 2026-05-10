@@ -1,0 +1,123 @@
+{
+  "lang": "ro",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "north-bay-cities-v2",
+      "description": "North Bay este un ora? din nord-estul Ontariului, pe malul lacului Nipissing. Pozi?ia lui l-a f?cut un nod important de transport ?i ap?rare.",
+      "facts": [
+        "Nord-estul Ontariului",
+        "Pe lacul Nipissing",
+        "Nod de transport"
+      ]
+    },
+    {
+      "id": "belleville-cities-v2",
+      "description": "Belleville este un ora? din estul Ontariului, pe ??rmul golfului Quinte. Are o economie local? divers? ?i o pozi?ie bun? ?ntre Toronto ?i Ottawa.",
+      "facts": [
+        "Estul Ontariului",
+        "Pe golful Quinte",
+        "?ntre Toronto ?i Ottawa"
+      ]
+    },
+    {
+      "id": "sault-ste-marie-cities-v2",
+      "description": "Sault Ste. Marie este un ora? de frontier? din nordul Ontariului, pe r?ul St. Marys. Este cunoscut pentru ?antierele industriale ?i pentru leg?tura cu Marile Lacuri.",
+      "facts": [
+        "La grani?a cu SUA",
+        "Pe r?ul St. Marys",
+        "Legat de Marile Lacuri"
+      ]
+    },
+    {
+      "id": "kawartha-lakes-cities-v2",
+      "description": "Kawartha Lakes este o municipalitate din Ontario cunoscut? pentru numeroase lacuri ?i canale. Zona este asociat? cu turismul ?i locuin?ele de vacan??.",
+      "facts": [
+        "?n Ontario",
+        "Multe lacuri ?i canale",
+        "Turism ?i case de vacan??"
+      ]
+    },
+    {
+      "id": "clarington-cities-v2",
+      "description": "Clarington este o municipalitate din estul zonei Greater Toronto, ?n Ontario. ?mbin? comunit??i suburbane cu terenuri agricole ?i industrie local?.",
+      "facts": [
+        "Estul Greater Toronto",
+        "?n Ontario",
+        "Suburban ?i agricol"
+      ]
+    },
+    {
+      "id": "oakville-cities-v2",
+      "description": "Oakville este un ora? de pe ??rmul lacului Ontario, ?ntre Toronto ?i Hamilton. Este cunoscut pentru cartierele reziden?iale ?i pentru portul s?u.",
+      "facts": [
+        "?ntre Toronto ?i Hamilton",
+        "Pe lacul Ontario",
+        "Ora? reziden?ial"
+      ]
+    },
+    {
+      "id": "cambridge-cities-v2",
+      "description": "Cambridge se afl? ?n regiunea Waterloo, ?n Ontario, ?i s-a format prin unirea a trei ora?e. Este legat de industrie, educa?ie ?i r?ul Grand.",
+      "facts": [
+        "?n regiunea Waterloo",
+        "Format din trei ora?e",
+        "Pe r?ul Grand"
+      ]
+    },
+    {
+      "id": "halton-hills-cities-v2",
+      "description": "Halton Hills este o municipalitate din sudul Ontariului, la vest de Toronto. Include localit??i precum Georgetown ?i Acton, cu un caracter semi-rural.",
+      "facts": [
+        "La vest de Toronto",
+        "?n sudul Ontariului",
+        "Caracter semi-rural"
+      ]
+    },
+    {
+      "id": "newmarket-cities-v2",
+      "description": "Newmarket este un ora? din regiunea York, la nord de Toronto. Este cunoscut pentru centrul istoric ?i pentru rolul s?u suburban.",
+      "facts": [
+        "?n regiunea York",
+        "La nord de Toronto",
+        "Centru istoric"
+      ]
+    },
+    {
+      "id": "caledon-cities-v2",
+      "description": "Caledon este o municipalitate mare din sudul Ontariului, la nord-vest de zona Toronto. Are sate mici, dealuri ?i multe spa?ii verzi.",
+      "facts": [
+        "Nord-vest de Toronto",
+        "?n sudul Ontariului",
+        "Sate ?i spa?ii verzi"
+      ]
+    },
+    {
+      "id": "salaberry-de-valleyfield-cities-v2",
+      "description": "Salaberry-de-Valleyfield este un ora? din sud-vestul Quebecului, la intersec?ia unor canale ?i bra?e ale fluviului St. Lawrence. Are o tradi?ie industrial? ?i portuar?.",
+      "facts": [
+        "?n sud-vestul Quebecului",
+        "Legat de canale",
+        "Tradi?ie industrial?"
+      ]
+    },
+    {
+      "id": "saint-jerome-cities-v2",
+      "description": "Saint-J?r?me este un ora? din Quebec, la poarta regiunii Laurentides. Este un centru local important pentru servicii ?i transport.",
+      "facts": [
+        "?n Quebec",
+        "Poarta c?tre Laurentides",
+        "Centru de servicii"
+      ]
+    }
+  ]
+}

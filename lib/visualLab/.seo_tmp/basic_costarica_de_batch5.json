@@ -1,0 +1,111 @@
+{
+  "lang": "de",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sabanero-culture-life-v2",
+      "description": "Die stolze Cowboy-Tradition der Guanacaste-Ebenen.",
+      "facts": [
+        "Guanacaste Cowboys",
+        "Rinderzucht",
+        "Fiestas und Rodeos"
+      ]
+    },
+    {
+      "id": "tortilla-tradition-life-v2",
+      "description": "Die Kunst, Maistortillas auf einem Comal zu backen.",
+      "facts": [
+        "Handgefertigt",
+        "Antike Technik",
+        "Mais-Basis"
+      ]
+    },
+    {
+      "id": "boruca-masks-life-v2",
+      "description": "Farbenfrohe handgeschnitzte Masken der Boruca-Indigenen.",
+      "facts": [
+        "Indigene Tradition",
+        "Balsaholz",
+        "Naturmotive"
+      ]
+    },
+    {
+      "id": "gallo-pinto-life-v2",
+      "description": "Das Nationalgericht aus Reis und Bohnen.",
+      "facts": [
+        "Frühstücks-Favorit",
+        "Reis und Bohnen",
+        "Salsa Lizano"
+      ]
+    },
+    {
+      "id": "balsa-wood-crafts-life-v2",
+      "description": "Leichtes Kunsthandwerk aus dem weichen Holz des Balsabaums.",
+      "facts": [
+        "Extrem leicht",
+        "Schnell wachsend",
+        "Handbemalt"
+      ]
+    },
+    {
+      "id": "limon-carnival-life-v2",
+      "description": "Ein energiegeladenes Fest mit afro-karibischen Rhythmen.",
+      "facts": [
+        "Im Oktober",
+        "Reggae und Calypso",
+        "Straßenparaden"
+      ]
+    },
+    {
+      "id": "banana-plantation-life-v2",
+      "description": "Die riesigen Felder, die Costa Rica zum Top-Exporteur machten.",
+      "facts": [
+        "Hauptexportgut",
+        "Tropisches Klima",
+        "Intensive Landwirtschaft"
+      ]
+    },
+    {
+      "id": "chorotega-pottery-life-v2",
+      "description": "Antike Töpfertraditionen in Guaitil.",
+      "facts": [
+        "Indigenes Erbe",
+        "Naturfarben",
+        "Handgetöpfert"
+      ]
+    },
+    {
+      "id": "fishing-village-life-v2",
+      "description": "Das ruhige Leben am Meer, bestimmt durch die Gezeiten.",
+      "facts": [
+        "Küstenkultur",
+        "Täglicher Fang",
+        "Handwerkliches Fischen"
+      ]
+    },
+    {
+      "id": "yoga-wellness-life-v2",
+      "description": "Ein Rückzugsort für Gesundheit und Achtsamkeit in der Natur.",
+      "facts": [
+        "Natur-Retreats",
+        "Ganzheitliche Gesundheit",
+        "Öko-Wellness"
+      ]
+    },
+    {
+      "id": "cocoa-tradition-life-v2",
+      "description": "Die heilige Kunst der Kakaoherstellung der Bribri-Indigenen.",
+      "facts": [
+        "Heilige Pflanze",
+        "Indigenes Wissen",
+        "Bio-Produktion"
+      ]
+    }
+  ]
+}

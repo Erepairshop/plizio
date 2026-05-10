@@ -13,8 +13,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Fontos fészkelőhely gémek számára", "Népszerű kajaktúrák helyszíne", "Erősen árapályfüggő", "Védi a partot az eróziótól"],
       ro: ["Zonă importantă de cuibărit pentru stârci", "Populară pentru tururi cu caiacul", "Puternic dependentă de maree", "Protejează coasta de eroziune"],
       en: ["Important nesting area for herons", "Popular for kayak tours", "Highly dependent on tides", "Protects the coast from erosion"]
-    }
-  },
+    }, image: "/poi-images/qa-al-thakhira-mangroves-nature-v2.webp"},
   {
     id: "qa-khor-al-adaid-nature-v2",
     type: "lake",
@@ -27,8 +26,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["UNESCO által elismert természetvédelmi terület", "Ritka teknősök otthona", "A nap folyamán változtatja a színét", "Csak terepjáróval megközelíthető"],
       ro: ["Rezervație naturală recunoscută de UNESCO", "Casa unor broaște țestoase rare", "Își schimbă culoarea pe parcursul zilei", "Accesibilă doar cu vehicule de teren"],
       en: ["UNESCO-recognized nature reserve", "Home to rare turtles", "Changes color throughout the day", "Accessible only by off-road vehicles"]
-    }
-  },
+    }, image: "/poi-images/qa-khor-al-adaid-nature-v2.webp"},
   {
     id: "qa-al-reem-biosphere-nature-v2",
     type: "national-park",
@@ -41,8 +39,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Az arab bejza otthona", "Az ország területének majdnem 10 százalékát lefedi", "Az UNESCO bioszféra-rezervátumként ismeri el", "Gazelláknak és struccoknak is otthont ad"],
       ro: ["Casa orixului arab", "Acoperă aproape 10% din suprafața țării", "Recunoscută de UNESCO ca rezervație a biosferei", "Găzduiește și gazele și struți"],
       en: ["Home to the Arabian oryx", "Covers nearly 10 percent of the country's landmass", "Recognized as a UNESCO Biosphere Reserve", "Also houses gazelles and ostriches"]
-    }
-  },
+    }, image: "/poi-images/qa-al-reem-biosphere-nature-v2.webp"},
   {
     id: "qa-singing-sand-dunes-nature-v2",
     type: "mountain",
@@ -55,8 +52,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["A homokszemek súrlódása hozza létre", "Különösen száraz időben hallható", "Népszerű a sandboardozók körében", "Akár 40 méteres magasságot is elérhetnek"],
       ro: ["Generate de frecarea boabelor de nisip", "Audibile în special pe vreme uscată", "Populare printre practicanții de sandboarding", "Ating înălțimi de până la 40 de metri"],
       en: ["Created by the friction of sand grains", "Especially audible in dry weather", "Popular among sandboarders", "Reach heights of up to 40 meters"]
-    }
-  },
+    }, image: "/poi-images/qa-singing-sand-dunes-nature-v2.webp"},
   {
     id: "qa-ras-abrouq-formations-nature-v2",
     type: "mountain",
@@ -69,8 +65,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Népszerű hely a látványos naplementékhez", "Érintetlen homokos strandokat kínál", "Gyakran használják forgatási helyszínként", "Vadon élő struccoknak ad otthont"],
       ro: ["Loc popular pentru apusuri de soare spectaculoase", "Oferă plaje de nisip imaculate", "Adesea folosit ca platou de filmare", "Găzduiește struți sălbatici"],
       en: ["Popular spot for spectacular sunsets", "Features pristine sandy beaches", "Frequently used as a film set", "Home to wild ostriches"]
-    }
-  },
+    }, image: "/poi-images/qa-ras-abrouq-formations-nature-v2.webp"},
   {
     id: "qa-alkaraana-lagoons-nature-v2",
     type: "lake",
@@ -83,8 +78,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Halászsasokat és ritka réceféléket vonz", "Három nagy mesterséges tóval rendelkezik", "Katar fontos környezetvédelmi projektje", "Ma már halaknak és hüllőknek ad otthont"],
       ro: ["Atrage vulturi pescari și specii rare de rațe", "Dispune de trei lacuri artificiale mari", "Proiect important de mediu pentru Qatar", "Găzduiește acum pești și reptile"],
       en: ["Attracts ospreys and rare duck species", "Features three large artificial lakes", "Important environmental project for Qatar", "Now accommodates fish and reptiles"]
-    }
-  },
+    }, image: "/poi-images/qa-alkaraana-lagoons-nature-v2.webp"},
   {
     id: "qa-umm-tais-national-park-nature-v2",
     type: "national-park",
@@ -97,8 +91,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Fontos védett terület a cserepesteknősök számára", "Gazdag madárvilággal rendelkezik", "Szigorúan védett a beépítés ellen", "Ritka sós mocsarakat foglal magában"],
       ro: ["Zonă protejată importantă pentru țestoasele hawksbill", "Are o avifaună bogată", "Strict protejat împotriva dezvoltării", "Include mlaștini sărate rare"],
       en: ["Important protected area for hawksbill turtles", "Features a rich birdlife", "Strictly protected from development", "Includes rare salt marshes"]
-    }
-  },
+    }, image: "/poi-images/qa-umm-tais-national-park-nature-v2.webp"},
   {
     id: "qa-dhal-al-misfir-nature-v2",
     type: "mountain",
@@ -111,8 +104,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Korát százezer évekre becsülik", "A kőzet holdszerű, csillogó tükröződéseket hoz létre", "Népszerű a kalandvágyó felfedezők körében", "Hűvösebb mikroklíma uralkodik a belsejében"],
       ro: ["Vârsta sa este estimată la sute de mii de ani", "Roca produce reflexii strălucitoare asemănătoare lunii", "Populară printre exploratorii aventuroși", "În interior predomină un microclimat mai răcoros"],
       en: ["Its age is estimated at hundreds of thousands of years", "The rock produces moon-like glittering reflections", "Popular among adventurous explorers", "A cooler microclimate prevails inside"]
-    }
-  },
+    }, image: "/poi-images/qa-dhal-al-misfir-nature-v2.webp"},
   {
     id: "qa-wadi-hubara-nature-v2",
     type: "river",
@@ -125,8 +117,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["A galléros túzokról (Hubara) kapta a nevét", "Figyelemreméltó sivatagi flórát mutat", "Rövid ideig összegyűjti az esővizet", "Fontos a helyi ökoszisztéma számára"],
       ro: ["Numită după dropia gulerată (Hubara)", "Prezintă o floră deșertică remarcabilă", "Colectează apa de ploaie pentru o perioadă scurtă", "Importantă pentru ecosistemul local"],
       en: ["Named after the houbara bustard", "Displays remarkable desert flora", "Collects rainwater for short periods", "Important for the local ecosystem"]
-    }
-  },
+    }, image: "/poi-images/qa-wadi-hubara-nature-v2.webp"},
   {
     id: "qa-wadi-al-banat-nature-v2",
     type: "river",
@@ -139,8 +130,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Lefordítva a Lányok Völgyét jelenti", "Menedéket nyújt a sivatagi rókáknak", "Jelentős geológiai képződmény", "Piknikezésre is kedvelt hely"],
       ro: ["Tradus înseamnă Valea Fetelor", "Oferă adăpost pentru vulpile de deșert", "O caracteristică geologică semnificativă", "Apreciată pentru picnicuri"],
       en: ["Translates to Valley of the Girls", "Provides shelter for desert foxes", "A significant geological feature", "Appreciated for picnics"]
-    }
-  },
+    }, image: "/poi-images/qa-wadi-al-banat-nature-v2.webp"},
   {
     id: "qa-al-safliya-island-nature-v2",
     type: "national-park",
@@ -153,8 +143,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Nincsenek mesterséges építményei", "Nagyszerű kilátást nyújt Doha sziluettjére", "Számos kárókatona otthona", "Környezetbarát hajótúrák kedvelt célpontja"],
       ro: ["Nu are structuri artificiale", "Oferă vederi minunate asupra orizontului din Doha", "Casa a numeroși cormorani", "Populară pentru excursii ecologice cu barca"],
       en: ["Has no artificial structures", "Offers great views of the Doha skyline", "Home to numerous cormorants", "Popular for eco-friendly boat tours"]
-    }
-  },
+    }, image: "/poi-images/qa-al-safliya-island-nature-v2.webp"},
   {
     id: "qa-al-aliya-island-nature-v2",
     type: "national-park",
@@ -167,8 +156,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Fontos halívóhely", "A környezetvédelmi hatóság felügyeli", "A nemzeti tengeri védelem része", "A belépés szigorúan szabályozott"],
       ro: ["Zonă importantă de depunere a icrelor pentru pești", "Monitorizată de autoritatea de mediu", "Face parte din protecția maritimă națională", "Accesul este strict reglementat"],
       en: ["Important spawning ground for fish", "Monitored by the environmental authority", "Part of the national marine conservation", "Access is strictly regulated"]
-    }
-  },
+    }, image: "/poi-images/qa-al-aliya-island-nature-v2.webp"},
   {
     id: "qa-jebel-fuwairit-nature-v2",
     type: "mountain",
@@ -181,8 +169,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["A sziklák árnyékot nyújtanak a tengeri madaraknak", "Főleg mészkőből áll", "Egyedülálló geológiai törésvonalak", "A hegymászók és fotósok kedvelt helye"],
       ro: ["Stâncile oferă umbră păsărilor marine", "Constă în principal din calcar", "Falii geologice unice", "Popular printre alpiniști și fotografi"],
       en: ["The cliffs provide shade for seabirds", "Consists predominantly of limestone", "Unique geological fault lines", "Popular among climbers and photographers"]
-    }
-  },
+    }, image: "/poi-images/qa-jebel-fuwairit-nature-v2.webp"},
   {
     id: "qa-halul-reef-nature-v2",
     type: "national-park",
@@ -195,8 +182,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Színes lágykoralljairól ismert", "Rendszeresen látni cetcápákat", "Tiszta víz nagy látótávolsággal", "A fűrészesfogú sügérek élőhelye"],
       ro: ["Cunoscut pentru coralii moi colorați", "Observări regulate ale rechinilor-balenă", "Apă limpede cu vizibilitate mare", "Habitat pentru bibani de mare"],
       en: ["Known for colorful soft corals", "Regular sightings of whale sharks", "Clear water with high visibility", "Habitat for groupers"]
-    }
-  },
+    }, image: "/poi-images/qa-halul-reef-nature-v2.webp"},
   {
     id: "qa-irkaya-bird-sanctuary-nature-v2",
     type: "national-park",
@@ -209,8 +195,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Több mint 200 madárfajt regisztráltak", "Sólymokat és sasokat vonz", "Körkörös zöld mezők a sivatagban", "Madármegfigyelők paradicsoma"],
       ro: ["Au fost înregistrate peste 200 de specii de păsări", "Atrage șoimi și vulturi", "Câmpuri verzi circulare în deșert", "Paradis pentru observatorii de păsări"],
       en: ["Over 200 bird species have been recorded", "Attracts falcons and eagles", "Circular green fields in the desert", "Paradise for birdwatchers"]
-    }
-  },
+    }, image: "/poi-images/qa-irkaya-bird-sanctuary-nature-v2.webp"},
   {
     id: "qa-abu-galawa-sinkhole-nature-v2",
     type: "lake",
@@ -223,8 +208,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Élőhelyet biztosít sivatagi varangyoknak", "Titkos tipp a természetkedvelők körében", "Ritka sivatagi virágoknak ad otthont", "Csak szezonálisan telik meg vízzel"],
       ro: ["Oferă habitat pentru broaștele deșertului", "Un pont secret printre iubitorii de natură", "Găzduiește flori rare de deșert", "Umplută cu apă doar sezonier"],
       en: ["Provides habitat for desert toads", "An insider tip among nature lovers", "Hosts rare desert flowers", "Filled with water only seasonally"]
-    }
-  },
+    }, image: "/poi-images/qa-abu-galawa-sinkhole-nature-v2.webp"},
   {
     id: "qa-al-wabra-preservation-nature-v2",
     type: "national-park",
@@ -237,8 +221,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["A Spix-ara sikeres tenyésztése", "Globális jelentőségű magánkezdeményezés", "Szigorú állatorvosi szabványok", "Fajokat ment meg a kihalástól"],
       ro: ["Creșterea cu succes a papagalului Spix", "Inițiativă privată cu importanță globală", "Standarde veterinare stricte", "Salvează speciile de la dispariție"],
       en: ["Successful breeding of the Spix's macaw", "Private initiative with global importance", "Strict veterinary standards", "Saves species from extinction"]
-    }
-  },
+    }, image: "/poi-images/qa-al-wabra-preservation-nature-v2.webp"},
   {
     id: "qa-wadi-al-askar-nature-v2",
     type: "river",
@@ -251,8 +234,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Fontos történelmi karavánút", "Esőzések után talajvizet gyűjt", "Sivatagi nyulak és gyíkok otthona", "Csendes hely, távol a civilizációtól"],
       ro: ["Rută istorică importantă a caravanelor", "Colectează ape subterane după ploi", "Casa iepurilor de deșert și a șopârlelor", "Loc liniștit departe de civilizație"],
       en: ["Important historical caravan route", "Collects groundwater after rain showers", "Home to desert hares and lizards", "Quiet place far from civilization"]
-    }
-  },
+    }, image: "/poi-images/qa-wadi-al-askar-nature-v2.webp"},
   {
     id: "qa-qatof-forest-nature-v2",
     type: "forest",
@@ -265,8 +247,7 @@ export const poiExtraQatarNatureV2: POI[] = [
       hu: ["Újrahasznosított vizet használ öntözésre", "Csökkenti a helyi környezeti hőmérsékletet", "A fenntartható fejlődést szolgálja", "Elősegíti a rovarfajok visszatérését"],
       ro: ["Folosește apă reciclată pentru irigare", "Scade temperatura mediului local", "Servește dezvoltării durabile", "Promovează întoarcerea speciilor de insecte"],
       en: ["Uses recycled water for irrigation", "Lowers the local ambient temperature", "Serves sustainable development", "Promotes the return of insect species"]
-    }
-  },
+    }, image: "/poi-images/qa-qatof-forest-nature-v2.webp"},
   {
     id: "qa-abu-nakhla-lake-nature-v2",
     type: "lake",

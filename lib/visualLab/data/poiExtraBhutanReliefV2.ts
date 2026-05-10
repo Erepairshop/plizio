@@ -23,7 +23,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Annual Black-Necked Crane Festival in November.", "Altitude: Approx. 3,000 meters.", "Part of Jigme Singye Wangchuck National Park.", "Home to 14 vulnerable wildlife species.", "Major rivers: Nakay Chhu and Gay Chhu.", "Electricity lines are underground to protect cranes.", "Gangtey Monastery founded in 1613.", "The valley floor is a protected Ramsar site."]
-    }},
+    }, image: "/poi-images/phobjikha-valley-relief-v2.webp"},
   {
     id: "haa-valley-relief-v2",
     type: "valley",
@@ -69,7 +69,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Home to Bhutan's only international airport (PBH).", "Location of the iconic Taktshang (Tiger's Nest) Monastery.", "Rinpung Dzong, a major fortress, was built in 1646.", "The National Museum is housed in the Ta Dzong watchtower.", "Altitude of the valley floor is around 2,200 meters.", "Known for its high-quality red rice cultivation.", "The Paro Chhu river flows through the valley.", "Kyichu Lhakhang is one of Bhutan's oldest temples, from the 7th century."]
-    }},
+    }, image: "/poi-images/paro-valley-relief-v2.webp"},
   {
     id: "punakha-valley-relief-v2",
     type: "valley",
@@ -92,7 +92,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Former capital of Bhutan until 1955.", "Altitude is around 1,200 meters.", "Punakha Dzong was built in 1637 by Zhabdrung Ngawang Namgyal.", "The Pho Chhu and Mo Chhu rivers converge here.", "Climate allows for two rice harvests annually.", "Site of the royal wedding of King Jigme Khesar Namgyel Wangchuck in 2011.", "Home to Chimi Lhakhang, the temple of the Divine Madman.", "A 160-meter long suspension bridge is a popular attraction."]
-    }},
+    }, image: "/poi-images/punakha-valley-relief-v2.webp"},
   {
     id: "bumthang-valley-relief-v2",
     type: "valley",
@@ -138,7 +138,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Location of Thimphu, the capital city of Bhutan.", "Altitude: Approx. 2,320 meters.", "The only world capital without traffic lights.", "Site of the 51.5-meter tall Buddha Dordenma statue.", "Tashichho Dzong is the main secretariat building.", "The Wang Chhu river flows through the valley.", "Home to the National Memorial Chorten, built in 1974.", "The Motithang Takin Preserve is located in the valley."]
-    }},
+    }, image: "/poi-images/thimphu-valley-relief-v2.webp"},
   {
     id: "ura-valley-relief-v2",
     type: "valley",
@@ -161,7 +161,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Highest of the four valleys in Bumthang.", "Altitude: Approx. 3,100 meters.", "Characterized by clustered stone houses.", "Main crops are potatoes and wheat due to the high altitude.", "Hosts the annual Ura Yakchoe festival.", "Accessed via the 3,600-meter-high Ura La pass.", "Known for its traditional knitted products.", "The people are known as Uraps."]
-    }},
+    }, image: "/poi-images/ura-valley-relief-v2.webp"},
   {
     id: "tang-valley-relief-v2",
     type: "valley",
@@ -184,7 +184,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["One of the most remote valleys in Bumthang.", "Famous for Mebar Tsho (The Burning Lake).", "Pema Lingpa discovered 'terma' (treasures) here in the 15th century.", "Features the Ogyen Choling Museum, a restored manor.", "The Tang Chhu river flows through it.", "Livelihood is based on buckwheat, potatoes, and livestock.", "Altitude is around 2,800 meters.", "Known for its rugged and pristine landscape."]
-    }},
+    }, image: "/poi-images/tang-valley-relief-v2.webp"},
   {
     id: "chokhor-valley-relief-v2",
     type: "valley",
@@ -253,7 +253,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Ancestral home of the Bhutanese Royal Family (House of Wangchuck).", "Located in northeastern Bhutan, one of the most remote areas.", "Famous for producing 'Kishuthara', the finest silk textiles.", "Khoma village is the center of Kishuthara weaving.", "Lhuentse Dzong sits on a high ridge overlooking the Kuri Chhu river.", "The region is known for its rugged terrain and scenic beauty.", "Home to the pilgrimage site of Singye Dzong.", "The region has a notable diversity of ethnic groups and dialects."]
-    }},
+    }, image: "/poi-images/lhuentse-valley-relief-v2.webp"},
   {
     id: "trashigang-valley-relief-v2",
     type: "valley",
@@ -276,7 +276,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Largest and most populous district in Bhutan.", "Trashigang Dzong, 'The Fortress of the Auspicious Hill', was built in 1659.", "Historically a major trade center with Tibet.", "Home to the Sharchops, the 'people of the east'.", "Sherubtse College, Bhutan's first accredited college, is located here.", "The town is built on a mountainside overlooking the Drangme Chhu.", "Gom Kora and Chador Lhakhang are important pilgrimage sites.", "Gateway to the Sakteng Wildlife Sanctuary."]
-    }},
+    }, image: "/poi-images/trashigang-valley-relief-v2.webp"},
   {
     id: "black-mountains-bhutan-relief-v2",
     type: "mountain",
@@ -299,7 +299,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Forms a natural divide between western and central/eastern Bhutan.", "Highest peak is Durgang La, nearly 5,000 meters.", "Separates the Mo Chhu and Mangde Chhu river basins.", "Largely protected within Jigme Singye Wangchuck National Park.", "Historically a formidable barrier to travel.", "The range has created distinct linguistic and cultural zones.", "Habitat for red pandas, tigers, and golden langurs.", "The main highway crosses the range at Pele La pass (3,420 m)."]
-    }},
+    }, image: "/poi-images/black-mountains-bhutan-relief-v2.webp"},
   {
     id: "masang-kang-relief-v2",
     type: "mountain",
@@ -322,7 +322,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Elevation: 7,194 meters (23,602 ft).", "Located in the Lunana region of northern Bhutan.", "Part of the Jigme Dorji National Park.", "First climbed on October 13, 1985, by a Japanese team.", "Belongs to the Great Himalayan Range.", "Its name is linked to a local protective deity.", "The peak is characterized by its steep, pyramid-like shape.", "Considered a technically challenging climb due to icefalls and crevasses."]
-    }},
+    }, image: "/poi-images/masang-kang-relief-v2.webp"},
   {
     id: "kangphu-kang-relief-v2",
     type: "mountain",
@@ -345,7 +345,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Elevation: 7,204 meters (23,635 ft).", "Located on the border of Bhutan and Tibet, China.", "40th highest mountain in the world.", "First ascended on September 29, 2002, by a South Korean team.", "Considered a highly challenging climb.", "Situated in the remote and sparsely inhabited Lunana region.", "The name translates to 'Snow Mountain of the Raven'.", "The main summit is Kangphu Kang I; there is also a Kangphu Kang II (6,945 m)."]
-    }},
+    }, image: "/poi-images/kangphu-kang-relief-v2.webp"},
   {
     id: "teri-kang-relief-v2",
     type: "mountain",
@@ -368,7 +368,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Elevation: 7,124 meters (23,373 ft).", "Located in the remote Lunana region of northern Bhutan.", "Fully situated within Bhutan's borders.", "Part of the Jigme Dorji National Park.", "Considered a satellite peak of Tongshanjiabu.", "The first ascent is disputed or unconfirmed.", "Lies along the path of the challenging Snowman Trek.", "Surrounded by large glaciers and high-altitude lakes."]
-    }},
+    }, image: "/poi-images/teri-kang-relief-v2.webp"},
   {
     id: "zongphu-kang-relief-v2",
     type: "mountain",
@@ -391,7 +391,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Elevation: 7,044 meters (23,110 ft).", "Also known as 'Table Mountain' due to its flat summit.", "Located entirely within the Lunana region of Bhutan.", "Considered one of the highest unclimbed peaks in Bhutan.", "Part of the Jigme Dorji National Park.", "Its climbing status is 'unclimbed' as of the early 2020s.", "The surrounding area is a high-altitude glacial wilderness.", "Bhutan's policy restricting mountaineering on sacred peaks keeps it protected."]
-    }},
+    }, image: "/poi-images/zongphu-kang-relief-v2.webp"},
   {
     id: "tongshanjiabu-relief-v2",
     type: "mountain",
@@ -414,7 +414,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Elevation: 7,207 meters (23,645 ft).", "One of the highest unclimbed mountains in the world.", "Located on the disputed border between Bhutan and China.", "Ranked as the 103rd highest mountain globally.", "Its ascent is prohibited by the Bhutanese government.", "Situated in the remote Lunana region.", "The peak is part of the main Himalayan watershed.", "Characterized by extreme remoteness and objective dangers like avalanches."]
-    }},
+    }, image: "/poi-images/tongshanjiabu-relief-v2.webp"},
   {
     id: "tsenda-kang-relief-v2",
     type: "mountain",
@@ -437,7 +437,7 @@ export const poiExtraBhutanReliefV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Elevation: Approx. 6,960 meters (22,835 ft).", "Located in the Lunana region, near Gangkhar Puensum.", "Features a prominent, steep pyramidal shape.", "Lies entirely within Bhutan's borders.", "Part of Jigme Dorji National Park.", "Remains unclimbed due to Bhutan's mountaineering restrictions.", "Considered a sacred peak by local communities.", "The area is a habitat for snow leopards."]
-    }},
+    }, image: "/poi-images/tsenda-kang-relief-v2.webp"},
   {
     id: "zhemgang-valley-relief-v2",
     type: "valley",

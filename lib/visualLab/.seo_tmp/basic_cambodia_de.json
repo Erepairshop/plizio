@@ -1,0 +1,80 @@
+{
+  "lang": "de",
+  "country": "Cambodia",
+  "files": [
+    "lib/visualLab/data/poiExtraCambodiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCambodiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ta-prohm-history-v2",
+      "description": "Ta Prohm ist ein Tempel im Angkor-Komplex, der wegen seiner von Bäumen überwachsenen Mauern bekannt ist. Die Anlage zeigt besonders gut, wie Architektur und Dschungel hier ineinandergreifen.",
+      "facts": [
+        "Tempel aus dem späten 12. Jahrhundert",
+        "Von Jayavarman VII für seine Mutter errichtet",
+        "Teil des Angkor-Archaeologieparks",
+        "Bekannt für mächtige Wurzeln und Türme"
+      ]
+    },
+    {
+      "id": "preah-khan-history-v2",
+      "description": "Preah Khan ist ein großer Tempelkomplex in Angkor, der einst als Kloster und Lernort diente. Heute gehört er zu den wichtigsten Ruinen der Anlage.",
+      "facts": [
+        "Erbaut im Jahr 1191",
+        "Von Jayavarman VII für seinen Vater gestiftet",
+        "Name bedeutet „Heiliges Schwert“",
+        "Teil des Angkor-Komplexes"
+      ]
+    },
+    {
+      "id": "neak-pean-history-v2",
+      "description": "Neak Pean ist ein kleiner Tempel auf einer künstlichen Insel in Angkor. Der Ort war mit Wasser und ritueller Reinigung verbunden.",
+      "facts": [
+        "Spätes 12. Jahrhundert",
+        "Künstliche Insel in einem runden Becken",
+        "Mit Heilung und Waschritualen verbunden",
+        "Als heiliger Wasserort bekannt"
+      ]
+    },
+    {
+      "id": "phnom-kulen-national-park-nature-v2",
+      "description": "Der Phnom-Kulen-Nationalpark liegt auf einem heiligen Berg bei Siem Reap. Er verbindet Wald, Wasserfälle und frühe Khmer-Geschichte.",
+      "facts": [
+        "Als heiliger Berg verehrt",
+        "Quelle mehrerer Flüsse für Angkor",
+        "Bekannt für Wasserfälle",
+        "Mit der Gründung des Khmer-Reiches verbunden"
+      ]
+    },
+    {
+      "id": "kirirom-national-park-nature-v2",
+      "description": "Der Kirirom-Nationalpark liegt auf einem kühlen Hochplateau im Süden Kambodschas. Kiefernwälder und Wasserläufe prägen das Gelände.",
+      "facts": [
+        "Kambodschas erster Nationalpark",
+        "Offiziell 1993 ausgewiesen",
+        "Liegt in Kampong Speu und Koh Kong",
+        "Rund 670 Meter über dem Meer"
+      ]
+    },
+    {
+      "id": "tonle-san-river-nature-v2",
+      "description": "Der Tonle-San-Fluss fließt durch Nordost-Kambodscha und ist ein wichtiger Nebenfluss des Mekong. Er prägt Fischfang und Wasserkraft in der Region.",
+      "facts": [
+        "Nebenfluss des Mekong",
+        "Fließt auch durch Vietnam",
+        "Teilweise Grenzfluss zu Vietnam",
+        "Wichtig für Fischerei und Wasserkraft"
+      ]
+    },
+    {
+      "id": "prey-lang-forest-nature-v2",
+      "description": "Der Prey-Lang-Wald ist eines der größten zusammenhängenden Waldgebiete Kambodschas. Er liegt in mehreren Provinzen und ist für seine Artenvielfalt bekannt.",
+      "facts": [
+        "Name bedeutet auf Kuy: unser Wald",
+        "Verbreitet über vier Provinzen",
+        "Sehr artenreich",
+        "Stark durch Abholzung bedroht"
+      ]
+    }
+  ]
+}

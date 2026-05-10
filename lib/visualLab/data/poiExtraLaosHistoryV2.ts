@@ -23,8 +23,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["Az 5. és a 15. század között épült.", "2001 óta az UNESCO Világörökség része."],
       ro: ["Construit între secolele al V-lea și al XV-lea.", "Patrimoniu Mondial UNESCO din anul 2001."],
       en: ["Constructed between the 5th and 15th centuries.", "A UNESCO World Heritage Site since 2001."]
-    }
-  },
+    }, image: "/poi-images/wat-phu-history-v2.webp"},
   {
     id: "pha-that-luang-history-v2",
     type: "monument",
@@ -47,8 +46,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["Eredetileg a 3. században alapították.", "A jelenlegi építmény 1566-ból származik."],
       ro: ["A fost fondată inițial în secolul al III-lea.", "Structura actuală datează din anul 1566."],
       en: ["Originally founded in the 3rd century.", "The current structure dates from the year 1566."]
-    }
-  },
+    }, image: "/poi-images/pha-that-luang-history-v2.webp"},
   {
     id: "patuxai-history-v2",
     type: "monument",
@@ -71,8 +69,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["1957 és 1968 között épült.", "A francia építészetet ötvözi a laoszi motívumokkal."],
       ro: ["Construit între anii 1957 și 1968.", "Combină arhitectura franceză cu motivele laotiene."],
       en: ["Built between 1957 and 1968.", "Combines French architecture with Laotian motifs."]
-    }
-  },
+    }, image: "/poi-images/patuxai-history-v2.webp"},
   {
     id: "wat-xieng-thong-history-v2",
     type: "historical-site",
@@ -95,8 +92,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["Szethathirath király építtette 1560-ban.", "Túlélte a Fekete Zászlósok fosztogatását 1887-ben."],
       ro: ["A fost construit în anul 1560 de regele Setthathirath.", "A supraviețuit jefuirii de către Steagurile Negre în 1887."],
       en: ["Built in 1560 by King Setthathirath.", "Survived the sacking by the Black Flags in 1887."]
-    }
-  },
+    }, image: "/poi-images/wat-xieng-thong-history-v2.webp"},
   {
     id: "haw-kham-history-v2",
     type: "historical-site",
@@ -119,8 +115,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["1904-ben épült a francia gyarmati időszakban.", "Itt őrzik a szent Phra Bang Buddha-szobrot."],
       ro: ["Construit în anul 1904 în perioada colonială franceză.", "Găzduiește statuia sacră a lui Buddha, Phra Bang."],
       en: ["Built in 1904 during the French colonial era.", "Houses the sacred Phra Bang Buddha statue."]
-    }
-  },
+    }, image: "/poi-images/haw-kham-history-v2.webp"},
   {
     id: "viengxay-caves-history-v2",
     type: "historical-site",
@@ -143,8 +138,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["Akár 23 000 embernek is menedéket nyújtott a bombázások idején.", "Kórházakat, iskolákat és katonai központokat is magában foglalt."],
       ro: ["A adăpostit până la 23.000 de oameni în timpul bombardamentelor.", "Includea spitale, școli și cartiere militare."],
       en: ["Sheltered up to 23,000 people during the bombings.", "Included hospitals, schools, and military headquarters."]
-    }
-  },
+    }, image: "/poi-images/viengxay-caves-history-v2.webp"},
   {
     id: "that-ing-hang-history-v2",
     type: "monument",
@@ -167,8 +161,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["A kilenc méter magas sztúpát a 16. században építették át.", "A nőknek a látogatás során hagyományos sinh szoknyát kell viselniük."],
       ro: ["Stupa are o înălțime de nouă metri și a fost reconstruită în secolul al XVI-lea.", "Femeile trebuie să poarte fuste tradiționale Sinh la vizitare."],
       en: ["The nine-meter-tall stupa was rebuilt in the 16th century.", "Women must wear traditional Sinh skirts when visiting."]
-    }
-  },
+    }, image: "/poi-images/that-ing-hang-history-v2.webp"},
   {
     id: "wat-sisaket-history-v2",
     type: "historical-site",
@@ -191,8 +184,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["1818-ban épült sziámi építészeti stílusban.", "Több mint 6800 fa, kő és bronz Buddha-képmást őriz."],
       ro: ["Construit în anul 1818 în stil arhitectural siamez.", "Adăpostește peste 6.800 de imagini ale lui Buddha din lemn, piatră și bronz."],
       en: ["Built in 1818 in the Siamese architectural style.", "Houses more than 6,800 Buddha images made of wood, stone, and bronze."]
-    }
-  },
+    }, image: "/poi-images/wat-sisaket-history-v2.webp"},
   {
     id: "that-dam-history-v2",
     type: "monument",
@@ -215,8 +207,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["Egykor aranyréteggel volt borítva.", "Az aranyat 1828-ban, a sziámi invázió során rabolták el."],
       ro: ["Odinioară a fost acoperită cu un strat de aur.", "Aurul a fost jefuit în anul 1828 în timpul invaziei siameze."],
       en: ["Was once covered with a layer of gold.", "The gold was looted in 1828 during the Siamese invasion."]
-    }
-  },
+    }, image: "/poi-images/that-dam-history-v2.webp"},
   {
     id: "wat-mai-history-v2",
     type: "historical-site",
@@ -239,8 +230,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["A 18. század végén építtette Anourout király.", "Laosz legfőbb buddhista pátriárkájának rezidenciájaként szolgált."],
       ro: ["Construit la sfârșitul secolului al XVIII-lea de regele Anourout.", "A servit drept reședință pentru cel mai înalt patriarh budist din Laos."],
       en: ["Built in the late 18th century by King Anourout.", "Served as the residence for the highest Buddhist patriarch of Laos."]
-    }
-  },
+    }, image: "/poi-images/wat-mai-history-v2.webp"},
   {
     id: "wat-visoun-history-v2",
     type: "historical-site",
@@ -263,8 +253,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["Eredetileg fából épült 1513-ban.", "A dinnye alakú sztúpát 1932-ben építették újjá."],
       ro: ["Construit inițial din lemn în anul 1513.", "Stupa în formă de pepene a fost reconstruită în 1932."],
       en: ["Originally constructed of wood in 1513.", "The watermelon stupa was reconstructed in 1932."]
-    }
-  },
+    }, image: "/poi-images/wat-visoun-history-v2.webp"},
   {
     id: "oum-muong-history-v2",
     type: "ruin",
@@ -311,8 +300,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["A csata 1968 márciusában zajlott le.", "A radarállomás támogatta az Észak-Vietnam elleni légicsapásokat."],
       ro: ["Bătălia a avut loc în martie 1968.", "Stația radar a sprijinit atacurile aeriene asupra Vietnamului de Nord."],
       en: ["The battle took place in March 1968.", "The radar station provided support for airstrikes on North Vietnam."]
-    }
-  },
+    }, image: "/poi-images/lima-site-85-history-v2.webp"},
   {
     id: "long-tieng-history-v2",
     type: "historical-site",
@@ -335,8 +323,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["Az 1960-as években egy időre Laosz második legnagyobb városa lett.", "Vang Pao tábornok főhadiszállása volt."],
       ro: ["În anii 1960 a devenit temporar al doilea cel mai mare oraș din Laos.", "A fost sediul generalului Vang Pao."],
       en: ["During the 1960s, it briefly became the second largest city in Laos.", "Served as the headquarters for General Vang Pao."]
-    }
-  },
+    }, image: "/poi-images/long-tieng-history-v2.webp"},
   {
     id: "muang-khoun-history-v2",
     type: "ruin",
@@ -359,8 +346,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["A város egykor hatalmas sztúpáiról és templomairól volt híres.", "Az indokínai háború során súlyos találatokat kapott."],
       ro: ["Orașul era odinioară faimos pentru stupele și templele sale magnifice.", "A fost puternic lovit în timpul Războiului din Indochina."],
       en: ["The city was once famous for its magnificent stupas and temples.", "Was heavily damaged during the Indochina War."]
-    }
-  },
+    }, image: "/poi-images/muang-khoun-history-v2.webp"},
   {
     id: "wat-phia-wat-history-v2",
     type: "ruin",
@@ -383,8 +369,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["A nagy Buddha-szobor szinte sértetlenül vészelte át a támadásokat.", "1564-ben építették."],
       ro: ["Marea statuie a lui Buddha a supraviețuit atacurilor aproape intactă.", "A fost construit în anul 1564."],
       en: ["The large Buddha statue survived the attacks mostly intact.", "Constructed in the year 1564."]
-    }
-  },
+    }, image: "/poi-images/wat-phia-wat-history-v2.webp"},
   {
     id: "that-sikhot-history-v2",
     type: "monument",
@@ -407,8 +392,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["Eredetileg a khmerek építették a 6. században.", "A sztúpa közel harminc méter magas."],
       ro: ["Construită inițial în secolul al VI-lea de către Khmer.", "Stupa are o înălțime de aproape treizeci de metri."],
       en: ["Originally built in the 6th century by the Khmer.", "The stupa stands nearly thirty meters tall."]
-    }
-  },
+    }, image: "/poi-images/that-sikhot-history-v2.webp"},
   {
     id: "nong-tang-battlefield-history-v2",
     type: "battlefield",
@@ -431,8 +415,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["A területen még mindig rengeteg hatalmas bombakráter látható.", "A közelben katonai bunkerként funkcionáló barlangok vannak."],
       ro: ["Zona arată încă multe cratere uriașe de bombe.", "În apropiere există peșteri care au servit drept buncăre militare."],
       en: ["The area still prominently features many massive bomb craters.", "Nearby caves were utilized as military bunkers."]
-    }
-  },
+    }, image: "/poi-images/nong-tang-battlefield-history-v2.webp"},
   {
     id: "wat-aham-history-v2",
     type: "historical-site",
@@ -455,8 +438,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       hu: ["1818-ban épült a Vat Viszun közelében.", "A területén álló két hatalmas banyanfáról is ismert."],
       ro: ["Construit în anul 1818, aproape de Wat Visoun.", "Renumit pentru doi copaci mari Banyan din curte."],
       en: ["Constructed in 1818 near Wat Visoun.", "Known for two large banyan trees on its grounds."]
-    }
-  },
+    }, image: "/poi-images/wat-aham-history-v2.webp"},
   {
     id: "ho-phra-keo-history-v2",
     type: "historical-site",

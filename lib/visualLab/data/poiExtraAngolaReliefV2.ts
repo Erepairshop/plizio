@@ -25,8 +25,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Átlagos magasság 1500 méter.", "Vízválasztó sok folyó számára.", "Nagy fennsík Angola központjában.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Altitudine medie 1500 metri.", "Bazin hidrografic pentru multe râuri.", "Mare podi? în centrul Angolei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Average elevation 1500 meters.", "Watershed for many rivers.", "Large high plateau in central Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/planalto-de-bie-relief-v2.webp"},
   {
     id: "serra-da-chela-relief-v2",
     type: "mountain",
@@ -51,8 +50,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Meredek lejto a tengerparti síkságra.", "A vonulat legmagasabb pontja.", "Hegyvonulat Délnyugat-Angolában.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Panta abrupta spre câmpia de coasta.", "Cel mai înalt punct al lan?ului.", "Lan? muntos în sud-vestul Angolei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Steep drop to coastal lowland.", "Highest point of the range.", "Mountain range in southwest Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/serra-da-chela-relief-v2.webp"},
   {
     id: "monte-moco-relief-v2",
     type: "mountain",
@@ -77,8 +75,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Huambo tartományban található.", "Magassága 2620 méter.", "Angola legmagasabb hegye.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Situat în provincia Huambo.", "Înal?ime 2620 metri.", "Cel mai înalt munte din Angola.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Located in Huambo province.", "Elevation 2620 meters.", "The highest mountain in Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/monte-moco-relief-v2.webp"},
   {
     id: "serra-da-leba-relief-v2",
     type: "relief",
@@ -103,8 +100,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Látványos szerpentinút.", "Fontos átkelo.", "Merdek lépcso a Huíla-fennsík és a part között.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["?osea cu serpentine spectaculoase.", "Trecatoare importanta.", "Panta abrupta dintre Podi?ul Huíla ?i coasta.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Spectacular switchback road.", "Important crossing.", "Steep escarpment between Huíla plateau and coast.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/serra-da-leba-relief-v2.webp"},
   {
     id: "bacia-do-congo-relief-v2",
     type: "forest",
@@ -129,8 +125,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Nagyon párás éghajlat.", "Suru trópusi erdok.", "Régió a Kongó-medence peremén.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Clima foarte umeda.", "Paduri tropicale dense.", "Regiune la marginea bazinului Congo.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Very humid climate.", "Dense tropical forests.", "Region at the edge of the Congo Basin.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/bacia-do-congo-relief-v2.webp"},
   {
     id: "planalto-de-huila-relief-v2",
     type: "relief",
@@ -181,8 +176,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Nagyon száraz terep.", "Homokdunék a tengerparton.", "A Namib-sivatag part menti övezete.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Teren foarte uscat.", "Dune de nisip pe coasta.", "Zona de coasta a deșertului Namib.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Very dry terrain.", "Sand dunes on the coast.", "Coastal zone of the Namib Desert.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/deserto-do-namibe-relief-v2.webp"},
   {
     id: "vale-do-kwanza-relief-v2",
     type: "relief",
@@ -207,8 +201,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Fontos eróziós forma.", "Nagy völgyi fekvés.", "A központi folyóvölgy.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Forma importanta de eroziune.", "Poziție în vale vasta.", "Valea centrala a râului.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Important erosion form.", "Large valley position.", "The central river valley.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/vale-do-kwanza-relief-v2.webp"},
   {
     id: "montes-de-lunda-relief-v2",
     type: "mountain",
@@ -259,8 +252,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Geológiai átmenet.", "Nagy magasságkülönbségek.", "Atlanti-óceán felé lejto lépcso.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Tranziție geologica.", "Diferen?e mari de altitudine.", "Trepa coborând spre Atlantic.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Geological transition.", "Large altitude differences.", "Escarpment descending to the Atlantic.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/escarpamento-ocidental-relief-v2.webp"},
   {
     id: "monte-namba-relief-v2",
     type: "mountain",
@@ -285,8 +277,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["A hegyvonulat része.", "Erosen mállott.", "Csúcs a központi felföldön.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Parte a lan?ului muntos.", "Puternic erodat.", "Vârf în podi?ul central.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Part of the range.", "Heavily weathered.", "Peak in the central highlands.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/monte-namba-relief-v2.webp"},
   {
     id: "vale-do-cunene-relief-v2",
     type: "relief",
@@ -311,8 +302,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Folyó táj.", "Szezonális áradások.", "Völgyi mélyedés a déli határon.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Peisaj fluvial.", "Inundații sezoniere.", "Depresiune de vale la grani?a de sud.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["River landscape.", "Seasonal flooding.", "Valley depression on the southern border.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/vale-do-cunene-relief-v2.webp"},
   {
     id: "monte-benguela-relief-v2",
     type: "mountain",
@@ -389,8 +379,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Átmenet a Kongó-medencéhez.", "Meredek profil.", "Tereplépcso északkeleten.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Tranziție spre bazinul Congo.", "Profil abrupt.", "Trepa de teren în nord-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Transition to Congo basin.", "Steep profile.", "Escarpment in the northeast.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/escarpa-de-lunda-relief-v2.webp"},
   {
     id: "colinas-de-uige-relief-v2",
     type: "relief",
@@ -415,8 +404,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Nagyon zöld.", "Magas csapadék.", "Dombvidék északon.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Foarte verde.", "Precipitații mari.", "?inut colinar în nord.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Very green.", "High rainfall.", "Hilly landscape in the north.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/colinas-de-uige-relief-v2.webp"},
   {
     id: "monte-kaparanga-relief-v2",
     type: "mountain",
@@ -441,8 +429,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Geológiailag régi.", "Gránitmasszívum.", "Emelkedo Huambóban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Geologic vechi.", "Masiv granitic.", "Elevație în Huambo.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Geologically old.", "Granite massif.", "Elevation in Huambo.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/monte-kaparanga-relief-v2.webp"},
   {
     id: "planicie-do-namibe-relief-v2",
     type: "relief",
@@ -545,8 +532,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Látványos szakadék.", "Nagyon magas.", "Merdek szakadék Lubango közelében.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Abis spectaculos.", "Foarte înalt.", "Prapastie abrupta lânga Lubango.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Spectacular abyss.", "Very high.", "Steep escarpment near Lubango.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/monte-tundavala-relief-v2.webp"},
   {
     id: "planalto-de-humpata-relief-v2",
     type: "relief",
@@ -597,8 +583,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Lapos csúcsok.", "Szavannás táj.", "Emelkedo keleten.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Vârfuri plate.", "Peisaj de savana.", "Elevație în est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Flat peaks.", "Savannah landscape.", "Elevation in the east.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/monte-mochico-relief-v2.webp"},
   {
     id: "planalto-de-lunda-relief-v2",
     type: "relief",
@@ -623,8 +608,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
       hu: ["Gyémántlelohelyek.", "Fontos domborzati elem.", "Széles fennsík.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Zacaminte de diamante.", "Element de relief important.", "Podi? vast.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Diamond deposits.", "Important relief element.", "Vast plateau.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }
-  },
+    }, image: "/poi-images/planalto-de-lunda-relief-v2.webp"},
   {
     id: "vale-do-cuanza-relief-v2",
     type: "relief",

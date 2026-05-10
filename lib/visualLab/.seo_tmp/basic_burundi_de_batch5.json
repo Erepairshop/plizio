@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gitega-national-museum-history-v2",
+      "description": "Das Gitega Nationalmuseum sammelt Ausstellungsstücke zur Geschichte und Kultur des Landes. Es ist ein zentraler Ort, um die burundische Erinnerungskultur kennenzulernen.",
+      "facts": ["Gitega", "Kulturgeschichte", "Museumsbestand"]
+    },
+    {
+      "id": "livingstone-stanley-monument-history-v2",
+      "description": "Das Livingstone-Stanley-Denkmal erinnert an die Begegnung der beiden Forscher am Tanganjikasee. Der Ort ist ein bekannter historischer Bezugspunkt am Seeufer.",
+      "facts": ["am Tanganjikasee", "Forscherdenkmal", "Kolonialzeit"]
+    },
+    {
+      "id": "gitega-royal-palace-history-v2",
+      "description": "Der Königspalast von Gitega verweist auf die monarchische Vergangenheit Burundis. Der Ort ist eng mit der Geschichte des Königshauses verbunden.",
+      "facts": ["ehemalige Monarchie", "Gitega", "königliche Tradition"]
+    },
+    {
+      "id": "gishora-drum-sanctuary-history-v2",
+      "description": "Das Trommelheiligtum von Gishora bewahrt die burundische Trommeltradition. Hier stehen rituelle Aufführungen und kulturelle Weitergabe im Mittelpunkt.",
+      "facts": ["Trommeltradition", "Kulturerbe", "nahe Gitega"]
+    },
+    {
+      "id": "muramvya-ancient-palace-history-v2",
+      "description": "Der alte Palast von Muramvya erinnert an die frühere königliche Macht im Zentrum des Landes. Die Stätte gehört zum historischen Kerngebiet Burundis.",
+      "facts": ["Muramvya", "Monarchie", "historischer Palast"]
+    }
+  ]
+}

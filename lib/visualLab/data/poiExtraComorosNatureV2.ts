@@ -83,14 +83,14 @@ export const poiExtraComorosNatureV2: POI[] = [
     name: { de: "Dziani Boudouni", hu: "Dziani Boudouni", ro: "Dziani Boudouni", en: "Dziani Boudouni" },
     description: {
       de: "Dziani Boudouni ist ein schwefelhaltiger Kratersee im Süden der Insel Mohéli.",
-      hu: "A Dziani Boudouni egy kénes krátertó Mohéli szigetének déli részén.",
-      ro: "Dziani Boudouni este un lac de crater sulfuros în sudul insulei Mohéli.",
+      hu: "A Dziani Boudouni egy csendes, partközeli víztest Mohéli szigetén. A környezetét mocsaras növényzet és nyugodt szigeti táj jellemzi.",
+      ro: "Dziani Boudouni este un lac de crater de pe Mohéli, cunoscut pentru cadrul său vulcanic. Face parte din peisajul natural protejat al insulei.",
       en: "Dziani Boudouni is a sulfurous crater lake in the south of Mohéli island."
     },
     facts: {
       de: ["Schwefelhaltiges Wasser", "Bedeutendes Feuchtgebiet", "Ramsar-Schutzgebiet"],
-      hu: ["Kénes víz", "Jelentős vizes élőhely", "Ramsari terület"],
-      ro: ["Apă sulfuroasă", "Zonă umedă semnificativă", "Sit protejat Ramsar"],
+      hu: ["Mohéli szigetén", "Partközeli víztest", "Mocsaras növényzet"],
+      ro: ["lac de crater", "pe Mohéli", "peisaj vulcanic"],
       en: ["Sulfurous water", "Significant wetland", "Ramsar protected site"]
     }, image: "/poi-images/dziani-boudouni-nature-v2.webp"},
   {
@@ -102,13 +102,13 @@ export const poiExtraComorosNatureV2: POI[] = [
     description: {
       de: "Die Nioumachoua-Inseln sind eine Gruppe kleiner unbewohnter Inseln vor der Südküste von Mohéli.",
       hu: "A Nioumachoua-szigetek apró, lakatlan szigetek csoportja Mohéli déli partjainál.",
-      ro: "Insulele Nioumachoua sunt un grup de insulițe nelocuite în largul coastei de sud a insulei Mohéli.",
+      ro: "Insulițele Nioumachoua se află în largul coastei sudice a lui Mohéli, în fața localității Nioumachoua. Ele sunt legate de zona marină protejată din jur.",
       en: "The Nioumachoua Islets are a group of small uninhabited islands off the south coast of Mohéli."
     },
     facts: {
       de: ["Teil des Meeresparks", "Kristallklares Wasser", "Ideal zum Schnorcheln"],
       hu: ["A tengeri park része", "Kristálytiszta víz", "Ideális búvárkodáshoz"],
-      ro: ["Parte a parcului marin", "Apă de cristal", "Ideal pentru snorkeling"],
+      ro: ["grup de insulițe", "pe Mohéli", "lângă Nioumachoua"],
       en: ["Part of the marine park", "Crystal clear water", "Ideal for snorkeling"]
     }, image: "/poi-images/nioumachoua-islets-nature-v2.webp"},
   {
@@ -118,16 +118,16 @@ export const poiExtraComorosNatureV2: POI[] = [
     coords: [43.95, -12.3667],
     name: { de: "Chissioua Mchaco", hu: "Chissioua Mchaco", ro: "Chissioua Mchaco", en: "Chissioua Mchaco" },
     description: {
-      de: "Chissioua Mchaco ist eine kleine, felsige Insel östlich von Mohéli, bekannt für ihre Seevogelkolonien.",
-      hu: "Chissioua Mchaco egy apró, sziklás sziget Mohélitől keletre, amely tengeri madárkolóniáiról ismert.",
-      ro: "Chissioua Mchaco este o insulă mică și stâncoasă la est de Mohéli, cunoscută pentru coloniile de păsări marine.",
-      en: "Chissioua Mchaco is a small, rocky island east of Mohéli, known for its seabird colonies."
+      de: "Chissioua Mchaco ist eine kleine felsige Insel ?stlich von Moh?li. Sie ist unbewohnt und dient vor allem Seev?geln als R?ckzugsort.",
+      hu: "Chissioua Mchaco egy apró, sziklás sziget Mohéli mellett. A száraz part és a nyílt tenger miatt madaraknak és tengeri élőlényeknek is fontos hely.",
+      ro: "Chissioua Mchaco este o insuliță din Mohéli, mică și izolată, cu un cadru natural maritim. Face parte din sistemul de insule din largul coastei sudice.",
+      en: "Chissioua Mchaco is a small rocky island east of Mohéli. It is best known as a seabird refuge and offshore nesting site."
     },
     facts: {
-      de: ["Wichtiger Nistplatz", "Vulkanischen Ursprungs", "Unbewohnt"],
-      hu: ["Fontos fészkelőhely", "Vulkanikus eredetű", "Lakatlan"],
-      ro: ["Loc de cuibărit important", "Origine vulcanică", "Nelocuită"],
-      en: ["Important nesting site", "Volcanic origin", "Uninhabited"]
+      de: ["?stlich von Moh?li", "Unbewohnte Felseninsel", "Wichtiger Nistplatz"],
+      hu: ["Mohéli mellett", "Apró sziklás sziget", "Madarak pihenőhelye"],
+      ro: ["insuliță din Mohéli", "în largul coastei", "peisaj marin"],
+      en: ["East of Mohéli", "Rocky offshore island", "Seabird nesting site"]
     }, image: "/poi-images/chissioua-mchaco-nature-v2.webp"},
   {
     id: "chissioua-ouenefou-nature-v2",
@@ -137,15 +137,15 @@ export const poiExtraComorosNatureV2: POI[] = [
     name: { de: "Chissioua Ouénéfou", hu: "Chissioua Ouénéfou", ro: "Chissioua Ouénéfou", en: "Chissioua Ouénéfou" },
     description: {
       de: "Chissioua Ouénéfou ist eine der größeren Inseln im Nioumachoua-Archipel vor Mohéli.",
-      hu: "Chissioua Ouénéfou a Mohéli melletti Nioumachoua-szigetcsoport egyik nagyobb szigete.",
-      ro: "Chissioua Ouénéfou este una dintre insulele mai mari din arhipelagul Nioumachoua, lângă Mohéli.",
-      en: "Chissioua Ouénéfou is one of the larger islands in the Nioumachoua archipelago off Mohéli."
+      hu: "Chissioua Ouenefou egy kis szigetecske az Anjouan közelében fekvő tengeri térségben. A partot sziklák és sekély víz váltakozása teszi változatossá.",
+      ro: "Chissioua Ouénéfou este o insulă mică din apropierea lui Mohéli, cunoscută pentru caracterul ei natural. Zona este asociată cu fauna și habitatele marine ale parcului.",
+      en: "Chissioua Ouénéfou is one of the larger islets off Mohéli in the Nioumachoua group. It sits in protected waters with rich marine life."
     },
     facts: {
       de: ["Reiche Meeresfauna", "Geschützte Bucht", "Üppige Vegetation"],
-      hu: ["Gazdag tengeri élővilág", "Védett öböl", "Buja növényzet"],
-      ro: ["Faună marină bogată", "Golf protejat", "Vegetație luxuriantă"],
-      en: ["Rich marine life", "Protected bay", "Lush vegetation"]
+      hu: ["Anjouan közelében", "Kis szigetecske", "Sziklás partszegély"],
+      ro: ["insulă din Mohéli", "zonă naturală", "parte din mediul marin"],
+      en: ["Nioumachoua islet group", "Protected waters", "Rich marine life"]
     }, image: "/poi-images/chissioua-ouenefou-nature-v2.webp"},
   {
     id: "chissioua-chandzi-nature-v2",
@@ -154,16 +154,16 @@ export const poiExtraComorosNatureV2: POI[] = [
     coords: [43.7333, -12.4333],
     name: { de: "Chissioua Chandzi", hu: "Chissioua Chandzi", ro: "Chissioua Chandzi", en: "Chissioua Chandzi" },
     description: {
-      de: "Chissioua Chandzi ist eine markante kleine Insel, die für ihre charakteristische Form bekannt ist.",
+      de: "Chissioua Chandzi ist eine kleine Insel vor Moh?li mit markantem Vulkanfelsen. Das Umland im Meer ist von Korallen und K?stenleben gepr?gt.",
       hu: "Chissioua Chandzi egy jellegzetes kis sziget, amely egyedi alakjáról ismert.",
-      ro: "Chissioua Chandzi este o insuliță distinctivă cunoscută pentru forma sa caracteristică.",
-      en: "Chissioua Chandzi is a distinctive small island known for its characteristic shape."
+      ro: "Chissioua Chandzi este o mică insulă din arhipelagul Mohéli, situată aproape de alte insulițe din zonă. Numele ei apare în hărțile naturii de pe coasta sudică.",
+      en: "Chissioua Chandzi is a small offshore island with volcanic rock and coral around it. Its compact shape makes it a clear marker in the Mohéli seascape."
     },
     facts: {
-      de: ["Vulkanische Felsen", "Umgeben von Korallen", "Naturdenkmal"],
+      de: ["Bei Moh?li gelegen", "Vulkanische Felsen", "Von Korallen umgeben"],
       hu: ["Vulkanikus sziklák", "Korallok veszik körül", "Természeti emlék"],
-      ro: ["Roci vulcanice", "Înconjurată de corali", "Monument natural"],
-      en: ["Volcanic rocks", "Surrounded by corals", "Natural monument"]
+      ro: ["insuliță din Mohéli", "aproape de alte insule mici", "pe coastă sudică"],
+      en: ["Off Mohéli", "Volcanic rocks", "Coral surroundings"]
     }
   },
   {
@@ -174,15 +174,15 @@ export const poiExtraComorosNatureV2: POI[] = [
     name: { de: "Chissioua Méa", hu: "Chissioua Méa", ro: "Chissioua Méa", en: "Chissioua Méa" },
     description: {
       de: "Chissioua Méa ist eine idyllische Insel im Meerespark von Mohéli.",
-      hu: "Chissioua Méa egy idilli sziget Mohéli tengeri parkjában.",
-      ro: "Chissioua Méa este o insulă idilică în parcul marin din Mohéli.",
-      en: "Chissioua Méa is an idyllic island in the marine park of Mohéli."
+      hu: "Chissioua Méa egy kisebb, lakatlan sziget a comore-i szigettengerben. A környező víz és a part menti élővilág miatt természetközeli hely.",
+      ro: "Chissioua Mea este o insulă mică din zona Mohéli, cu relief scăzut și peisaj marin deschis. Ea completează grupul de insulițe din largul insulei.",
+      en: "Chissioua Méa is a small island in the Mohéli marine park. Its white sand and calm water make it a simple turtle habitat."
     },
     facts: {
       de: ["Weißer Sandstrand", "Türkisfarbenes Wasser", "Schildkrötenhabitat"],
-      hu: ["Fehér homokos strand", "Türkizkék víz", "Teknősök élőhelye"],
-      ro: ["Plajă cu nisip alb", "Apă turcoaz", "Habitat pentru țestoase"],
-      en: ["White sand beach", "Turquoise water", "Turtle habitat"]
+      hu: ["Lakatlan sziget", "A szigettenger része", "Tengeri élővilág"],
+      ro: ["insuliță din Mohéli", "relief redus", "zonă marină"],
+      en: ["Mohéli marine park", "White sand", "Turtle habitat"]
     }, image: "/poi-images/chissioua-mea-nature-v2.webp"},
   {
     id: "bimbini-peninsula-nature-v2",
@@ -192,15 +192,15 @@ export const poiExtraComorosNatureV2: POI[] = [
     name: { de: "Bimbini Peninsula", hu: "Bimbini-félsziget", ro: "Peninsula Bimbini", en: "Bimbini Peninsula" },
     description: {
       de: "Die Bimbini-Halbinsel ist eine zerklüftete Landzunge im Westen von Anjouan.",
-      hu: "A Bimbini-félsziget egy egyenetlen földnyelv Anjouan nyugati részén.",
-      ro: "Peninsula Bimbini este o limbă de pământ accidentată în vestul insulei Anjouan.",
-      en: "The Bimbini Peninsula is a rugged headland in the west of Anjouan."
+      hu: "A Bimbini-félsziget Anjouan egyik jól felismerhető partszakasza. A félsziget körül a sziklák, az áramlások és a nyílt víz határozzák meg a tájat.",
+      ro: "Peninsula Bimbini se află pe Anjouan și este cunoscută pentru țărmul ei variat și pentru zonele naturale de lângă coastă. Aici se întâlnesc mangrovele, recifele și plajele liniștite.",
+      en: "The Bimbini Peninsula is a rugged headland on Anjouan's coast. Strong surf and volcanic rock define the shoreline."
     },
     facts: {
       de: ["Vulkanische Küste", "Starke Brandung", "Naturbelassene Landschaft"],
-      hu: ["Vulkanikus partvidék", "Erős hullámverés", "Érintetlen táj"],
-      ro: ["Coastă vulcanică", "Valuri puternice", "Peisaj natural"],
-      en: ["Volcanic coastline", "Strong surf", "Pristine landscape"]
+      hu: ["Anjouan partján", "Félsziget", "Sziklás tengerpart"],
+      ro: ["pe Anjouan", "peninsulă de coastă", "mangrove și recife"],
+      en: ["Anjouan coastline", "Rugged headland", "Strong surf"]
     }, image: "/poi-images/bimbini-peninsula-nature-v2.webp"},
   {
     id: "vassy-forest-nature-v2",
@@ -245,16 +245,16 @@ export const poiExtraComorosNatureV2: POI[] = [
     coords: [44.4333, -12.3167],
     name: { de: "Moya Beach", hu: "Moya-strand", ro: "Plaja Moya", en: "Moya Beach" },
     description: {
-      de: "Moya Beach ist ein malerischer Sandstrand im Süden von Anjouan, umgeben von Klippen.",
+      de: "Moya Beach ist ein Strand im S?den von Anjouan mit Sand und Klippen im Hintergrund. Der Ort eignet sich gut zum Baden und f?r ruhige Tage am Meer.",
       hu: "A Moya-strand egy festői homokos part Anjouan déli részén, sziklákkal körülvéve.",
-      ro: "Plaja Moya este o plajă pitorească de nisip în sudul insulei Anjouan, înconjurată de stânci.",
-      en: "Moya Beach is a picturesque sandy beach in the south of Anjouan, surrounded by cliffs."
+      ro: "Plaja Moya este una dintre plajele cunoscute ale lui Anjouan, cu apă limpede și țărm liniștit. Este un loc simplu, legat de ritmul relaxat al coastei.",
+      en: "Moya Beach is a sandy beach in southern Anjouan with cliffs behind it. It is a calm place for swimming and seaside stops."
     },
     facts: {
-      de: ["Goldener Sand", "Ideal zum Schwimmen", "Schildkröten-Nistplatz"],
+      de: ["S?den von Anjouan", "Sandstrand mit Klippen", "Gut zum Baden"],
       hu: ["Aranyhomokos part", "Ideális úszáshoz", "Teknős fészkelőhely"],
-      ro: ["Nisip auriu", "Ideal pentru înot", "Loc de cuibărit pentru țestoase"],
-      en: ["Golden sand", "Ideal for swimming", "Turtle nesting site"]
+      ro: ["pe Anjouan", "plajă de coastă", "apă limpede"],
+      en: ["Southern Anjouan", "Sandy beach", "Cliff backdrop"]
     }, image: "/poi-images/moya-beach-nature-v2.webp"},
   {
     id: "trou-du-prophete-nature-v2",
@@ -265,14 +265,14 @@ export const poiExtraComorosNatureV2: POI[] = [
     description: {
       de: "Trou du Prophète ist eine wunderschöne, geschützte Bucht im Norden von Grande Comore.",
       hu: "A Próféta lyuka (Trou du Prophète) egy gyönyörű, védett öböl Grande Comore északi részén.",
-      ro: "Trou du Prophète este un golf frumos și protejat în nordul insulei Grande Comore.",
-      en: "Trou du Prophète is a beautiful, sheltered bay in the north of Grande Comore."
+      ro: "Trou du Prophète este o formațiune naturală de coastă de pe Grande Comore, lângă Mitsamiouli. Bazinul de apă și stâncile vulcanice îi dau un aspect ușor de recunoscut.",
+      en: "Trou du Prophète is a sheltered bay on the north coast of Grande Comore. Its clear water and rock walls make it easy to recognize."
     },
     facts: {
       de: ["Kristallklares Wasser", "Sicherer Ankerplatz", "Umgeben von Felsen"],
       hu: ["Kristálytiszta víz", "Biztonságos horgonyzóhely", "Sziklák veszik körül"],
-      ro: ["Apă de cristal", "Loc sigur de ancorare", "Înconjurat de stânci"],
-      en: ["Crystal clear water", "Safe anchorage", "Surrounded by rocks"]
+      ro: ["pe Grande Comore", "lângă Mitsamiouli", "formațiune vulcanică"],
+      en: ["North Grande Comore", "Sheltered bay", "Clear water"]
     }
   },
   {
@@ -282,16 +282,16 @@ export const poiExtraComorosNatureV2: POI[] = [
     coords: [43.35, -11.4167],
     name: { de: "Hantsindzi Beach", hu: "Hantsindzi-strand", ro: "Plaja Hantsindzi", en: "Hantsindzi Beach" },
     description: {
-      de: "Hantsindzi Beach ist ein abgelegener Strand im Norden von Grande Comore.",
-      hu: "A Hantsindzi-strand egy távoli tengerpart Grande Comore északi részén.",
-      ro: "Plaja Hantsindzi este o plajă izolată în nordul insulei Grande Comore.",
-      en: "Hantsindzi Beach is a remote beach in the north of Grande Comore."
+      de: "Hantsindzi Beach liegt im Norden von Grande Comore und wirkt deutlich abgelegener als die Str?nde nahe Moroni. Wei?e Sandfl?chen und schwarze Felsen wechseln sich hier ab.",
+      hu: "Hantsindzi Beach Grande Comore északi részén, viszonylag eldugott partszakaszon fekszik. A fehér homok és a fekete kőzetek látványa erősen kontrasztos.",
+      ro: "Plaja Hantsindzi este o plajă de pe Grande Comore, cunoscută pentru fâșia ei de nisip și pentru atmosfera liniștită. Se află aproape de satul Hantsindzi și de țărmul nordic.",
+      en: "Hantsindzi Beach is a quiet stretch of coast in northern Grande Comore. White sand and volcanic rocks give it a strong contrast."
     },
     facts: {
-      de: ["Weißer Sand", "Vulkanische Felsen", "Ruhige Atmosphäre"],
-      hu: ["Fehér homok", "Vulkanikus sziklák", "Nyugodt légkör"],
-      ro: ["Nisip alb", "Roci vulcanice", "Atmosferă liniștită"],
-      en: ["White sand", "Volcanic rocks", "Quiet atmosphere"]
+      de: ["Norden von Grande Comore", "Abgelegener Strand", "Wei?e Sand- und Felsk?ste"],
+      hu: ["Grande Comore északa", "Eldugott strand", "Fehér homok és fekete kövek"],
+      ro: ["pe Grande Comore", "lângă Hantsindzi", "plajă de nisip"],
+      en: ["Northern Grande Comore", "Quiet beach", "White sand and rocks"]
     }, image: "/poi-images/hantsindzi-beach-nature-v2.webp"},
   {
     id: "maloudja-beach-nature-v2",
@@ -319,13 +319,13 @@ export const poiExtraComorosNatureV2: POI[] = [
     name: { de: "Galawa Beach", hu: "Galawa-strand", ro: "Plaja Galawa", en: "Galawa Beach" },
     description: {
       de: "Galawa Beach ist einer der berühmtesten Strände der Komoren, gelegen im Norden von Grande Comore.",
-      hu: "A Galawa-strand a Comore-szigetek egyik leghíresebb strandja Grande Comore északi részén.",
+      hu: "Galawa Beach Grande Comore egyik ismert tengerparti szakasza. A hosszú homokos part és a nyugodtabb víz miatt gyakran pihenésre használják.",
       ro: "Plaja Galawa este una dintre cele mai faimoase plaje din Comore, situată în nordul Grande Comore.",
       en: "Galawa Beach is one of the most famous beaches in the Comoros, located in the north of Grande Comore."
     },
     facts: {
       de: ["Langer Sandstrand", "Früherer Standort eines Luxushotels", "Klares blaues Wasser"],
-      hu: ["Hosszú homokos strand", "Egykori luxusszálloda helyszíne", "Tiszta kék víz"],
+      hu: ["Grande Comore partja", "Hosszú homokos strand", "Pihenésre alkalmas"],
       ro: ["Plajă lungă cu nisip", "Fost loc al unui hotel de lux", "Apă albastră limpede"],
       en: ["Long sandy beach", "Former site of a luxury hotel", "Clear blue water"]
     }, image: "/poi-images/galawa-beach-nature-v2.webp"},
@@ -336,16 +336,16 @@ export const poiExtraComorosNatureV2: POI[] = [
     coords: [44.5167, -12.35],
     name: { de: "Chiroroni Beach", hu: "Chiroroni-strand", ro: "Plaja Chiroroni", en: "Chiroroni Beach" },
     description: {
-      de: "Chiroroni Beach ist ein wunderschöner Küstenabschnitt im Südosten von Anjouan.",
-      hu: "A Chiroroni-strand egy gyönyörű tengerparti szakasz Anjouan délkeleti részén.",
-      ro: "Plaja Chiroroni este o porțiune frumoasă de coastă în sud-estul insulei Anjouan.",
-      en: "Chiroroni Beach is a beautiful stretch of coastline in the southeast of Anjouan."
+      de: "Chiroroni Beach liegt im S?dosten von Anjouan und zeigt die typische Mischung aus klarem Wasser und schwarzem Vulkangestein. Der Abschnitt geh?rt zu den ruhigeren K?stenorten der Insel.",
+      hu: "Chiroroni Beach Anjouan délkeleti partján található, tiszta vízzel és sötét vulkanikus sziklákkal. A strand csendesebb, természetközeli helyek közé tartozik.",
+      ro: "Plaja Chiroroni este o plajă de pe Anjouan, legată de localitatea cu același nume. Coasta ei oferă un cadru simplu, cu apă și stânci de țărm.",
+      en: "Chiroroni Beach is a coastal stretch in southeastern Anjouan. Clear water and dark volcanic rocks define the scene."
     },
     facts: {
-      de: ["Klares Wasser", "Schwarze Vulkanfelsen", "Fischreiche Gewässer"],
-      hu: ["Tiszta víz", "Fekete vulkáni sziklák", "Halakban gazdag vizek"],
-      ro: ["Apă limpede", "Roci vulcanice negre", "Ape bogate în pește"],
-      en: ["Clear water", "Black volcanic rocks", "Fish-rich waters"]
+      de: ["S?dosten von Anjouan", "Klares Wasser", "Schwarze Vulkanfelsen"],
+      hu: ["Anjouan délkeleti partja", "Tiszta víz", "Vulkanikus sziklák"],
+      ro: ["pe Anjouan", "lângă Chiroroni", "plajă de coastă"],
+      en: ["Southeastern Anjouan", "Clear water", "Volcanic rocks"]
     }, image: "/poi-images/chiroroni-beach-nature-v2.webp"},
   {
     id: "mount-mfiti-nature-v2",
@@ -447,13 +447,13 @@ export const poiExtraComorosNatureV2: POI[] = [
       de: "Dieses Meeresgebiet vor Grande Comore ist berühmt für das Vorkommen des lebenden Fossils Quastenflosser (Latimeria).",
       hu: "Ez a Grande Comore előtti tengeri terület híres az élő kövületnek számító bojtosúszós maradványhal (Latimeria) előfordulásáról.",
       ro: "Această zonă marină de lângă Grande Comore este faimoasă pentru prezența fosilei vii, peștele Coelacanth (Latimeria).",
-      en: "This marine area off Grande Comore is famous for the occurrence of the living fossil, the Coelacanth (Latimeria)."
+      en: "The Coelacanth Marine Area off Grande Comore is linked to the famous living fossil. Deep water and offshore caves make it scientifically important."
     },
     facts: {
       de: ["Heimat der Latimeria", "Tiefe Meereshöhlen", "Wissenschaftlich bedeutend"],
       hu: ["A Latimeria otthona", "Mélytengeri barlangok", "Tudományos jelentőségű"],
       ro: ["Găzduiește peștele Latimeria", "Peșteri marine adânci", "Semnificație științifică"],
-      en: ["Home to the Latimeria", "Deep sea caves", "Scientifically significant"]
+      en: ["Off Grande Comore", "Coelacanth habitat", "Scientific significance"]
     }
   }
 ];

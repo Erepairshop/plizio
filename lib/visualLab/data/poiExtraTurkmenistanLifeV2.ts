@@ -13,8 +13,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["1929-ben alapították.", "Több mint 500 növényfajnak ad otthont."],
       ro: ["Fondată în anul 1929.", "Găzduiește peste 500 de specii de plante."],
       en: ["Founded in the year 1929.", "Home to over 500 plant species."]
-    }
-  },
+    }, image: "/poi-images/tm-ashgabat-botanical-garden-life-v2.webp"},
   {
     id: "tm-ashgabat-zoo-life-v2",
     type: "kid-friendly",
@@ -27,8 +26,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["Az állatkert 40 hektáron terül el.", "2010-ben nyitotta meg kapuit."],
       ro: ["Grădina zoologică acoperă o suprafață de 40 de hectare.", "A fost deschisă în anul 2010."],
       en: ["The zoo covers an area of 40 hectares.", "It was opened in the year 2010."]
-    }
-  },
+    }, image: "/poi-images/tm-ashgabat-zoo-life-v2.webp"},
   {
     id: "tm-akhal-teke-stud-farm-life-v2",
     type: "agriculture",
@@ -41,8 +39,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["Ez a lófajta a kitartásáról híres.", "A lovak szőre gyakran fémesen csillogó."],
       ro: ["Această rasă de cai este cunoscută pentru rezistența sa.", "Caii au adesea o blană cu luciu metalic."],
       en: ["This horse breed is known for its endurance.", "The horses often have a metallic shining coat."]
-    }
-  },
+    }, image: "/poi-images/tm-akhal-teke-stud-farm-life-v2.webp"},
   {
     id: "tm-gokdere-gorge-life-v2",
     type: "wildlife-area",
@@ -55,8 +52,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["Népszerű célpont a túrázók körében.", "Számos hagyományos türkmén gyermektábor található itt."],
       ro: ["O destinație populară pentru drumeții.", "Aici se află multe tabere tradiționale turkmene pentru copii."],
       en: ["A popular destination for hikers.", "Many traditional Turkmen children summer camps are located here."]
-    }
-  },
+    }, image: "/poi-images/tm-gokdere-gorge-life-v2.webp"},
   {
     id: "tm-ashgabat-park-10-years-life-v2",
     type: "park",
@@ -69,8 +65,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["Ez a főváros egyik legnagyobb parkja.", "A park a gondozott zöldterületeiről híres."],
       ro: ["Este unul dintre cele mai mari parcuri din capitală.", "Parcul este cunoscut pentru spațiile sale verzi îngrijite."],
       en: ["It is one of the largest parks in the capital.", "The park is known for its well-maintained green spaces."]
-    }
-  },
+    }, image: "/poi-images/tm-ashgabat-park-10-years-life-v2.webp"},
   {
     id: "tm-mary-cotton-fields-life-v2",
     type: "agriculture",
@@ -83,8 +78,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["A pamut Türkmenisztán egyik legfontosabb exportcikke.", "A betakarítás hagyományosan ősszel történik."],
       ro: ["Bumbacul este unul dintre cele mai importante exporturi ale Turkmenistanului.", "Recoltarea are loc tradițional toamna."],
       en: ["Cotton is one of Turkmenistan most important exports.", "Harvesting traditionally takes place in the autumn."]
-    }
-  },
+    }, image: "/poi-images/tm-mary-cotton-fields-life-v2.webp"},
   {
     id: "tm-amudarya-wetlands-life-v2",
     type: "wildlife-area",
@@ -97,8 +91,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["Ezek a területek létfontosságúak a vándormadarak számára.", "A folyó határozza meg a régió teljes ökológiáját."],
       ro: ["Aceste zone sunt esențiale pentru păsările migratoare.", "Râul definește întreaga ecologie a regiunii."],
       en: ["These areas are essential for migratory birds.", "The river defines the entire ecology of the region."]
-    }
-  },
+    }, image: "/poi-images/tm-amudarya-wetlands-life-v2.webp"},
   {
     id: "tm-ertegi-dunyasi-life-v2",
     type: "kid-friendly",
@@ -111,8 +104,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["A parkot a türkmén Disneylandként tervezték.", "A park több mint 50 különböző attrakciót kínál."],
       ro: ["A fost conceput ca un Disneyland turkmen.", "Parcul oferă peste 50 de atracții diferite."],
       en: ["It was designed as a Turkmen Disneyland.", "The park offers over 50 different attractions."]
-    }
-  },
+    }, image: "/poi-images/tm-ertegi-dunyasi-life-v2.webp"},
   {
     id: "tm-kopetdag-flora-sanctuary-life-v2",
     type: "wildlife-area",
@@ -125,8 +117,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["Számos endemikus növényfaj él itt.", "A terület a vadon nyíló tulipánjairól ismert."],
       ro: ["Aici cresc numeroase specii de plante endemice.", "Zona este cunoscută pentru înflorirea lalelelor sălbatice."],
       en: ["Numerous endemic plant species grow here.", "The area is known for its wild tulip blooming."]
-    }
-  },
+    }, image: "/poi-images/tm-kopetdag-flora-sanctuary-life-v2.webp"},
   {
     id: "tm-karakum-camel-breeding-life-v2",
     type: "agriculture",
@@ -153,8 +144,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["A parkot speciális öntözőrendszerek tartják zölden.", "Esténként népszerű találkozóhely."],
       ro: ["Parcul este menținut verde prin sisteme speciale de irigații.", "Este un loc de întâlnire popular seara."],
       en: ["The park is kept green by special irrigation systems.", "It is a popular meeting place in the evening."]
-    }
-  },
+    }, image: "/poi-images/tm-balkanabat-central-park-life-v2.webp"},
   {
     id: "tm-khojapil-dinosaur-plateau-life-v2",
     type: "kid-friendly",
@@ -167,8 +157,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["Több mint 2500 megkövesedett lábnyom található itt.", "A nyomok a jura időszakból származnak."],
       ro: ["Aici există peste 2500 de urme pietrificate.", "Urmele datează din perioada Jurasic."],
       en: ["There are over 2500 fossilized footprints here.", "The tracks date back to the Jurassic period."]
-    }
-  },
+    }, image: "/poi-images/tm-khojapil-dinosaur-plateau-life-v2.webp"},
   {
     id: "tm-agricultural-university-fields-life-v2",
     type: "agriculture",
@@ -181,8 +170,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["A fókusz a víztakarékos öntözési technológiákon van.", "A diákok szárazságtűrő búzafajtákat tesztelnek itt."],
       ro: ["Accentul este pus pe tehnologiile de irigare care economisesc apa.", "Studenții testează aici soiuri de grâu rezistente la secetă."],
       en: ["Focus is on water-saving irrigation technologies.", "Students test drought-resistant wheat varieties here."]
-    }
-  },
+    }, image: "/poi-images/tm-agricultural-university-fields-life-v2.webp"},
   {
     id: "tm-awaza-aqua-park-life-v2",
     type: "kid-friendly",
@@ -195,8 +183,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["A park számos csúszdát és medencét kínál.", "A hatalmas Awaza turisztikai projekt része."],
       ro: ["Parcul oferă numeroase tobogane și piscine.", "Face parte din uriașul proiect turistic Awaza."],
       en: ["The park offers numerous slides and swimming pools.", "It is part of the massive Awaza tourism project."]
-    }
-  },
+    }, image: "/poi-images/tm-awaza-aqua-park-life-v2.webp"},
   {
     id: "tm-karakum-flora-reserve-life-v2",
     type: "wildlife-area",
@@ -209,8 +196,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["A szakszaul fák kulcsfontosságú fajok ebben a régióban.", "A növények gyökerei akár 20 méter mélyre is nyúlnak."],
       ro: ["Arborii Saxaul sunt o specie cheie în această regiune.", "Rădăcinile plantelor ajung până la 20 de metri adâncime."],
       en: ["Saxaul trees are a key species in this region.", "Plant roots reach up to 20 meters deep."]
-    }
-  },
+    }, image: "/poi-images/tm-karakum-flora-reserve-life-v2.webp"},
   {
     id: "tm-ruhyyet-park-life-v2",
     type: "park",
@@ -223,8 +209,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["A parkot fehér márványutak kövezik.", "Tökéletes kilátást nyújt a városközpontra."],
       ro: ["Parcul este pavat cu alei din marmură albă.", "Oferă o vedere perfectă asupra centrului orașului."],
       en: ["The park is paved with white marble paths.", "It offers a perfect view of the city center."]
-    }
-  },
+    }, image: "/poi-images/tm-ruhyyet-park-life-v2.webp"},
   {
     id: "tm-dashoguz-melon-farms-life-v2",
     type: "agriculture",
@@ -251,8 +236,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["A tengeri szellő kellemes menedékké teszi.", "Innen gyönyörű naplementéket lehet megfigyelni."],
       ro: ["Briza mării îl face un loc de refugiu plăcut.", "De aici se pot observa apusuri frumoase."],
       en: ["The sea breeze makes it a pleasant retreat.", "Beautiful sunsets can be observed from here."]
-    }
-  },
+    }, image: "/poi-images/tm-turkmenbashi-seaside-park-life-v2.webp"},
   {
     id: "tm-caspian-seal-habitat-life-v2",
     type: "wildlife-area",
@@ -265,8 +249,7 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       hu: ["A kaszpi fóka a Kaszpi-tenger egyetlen tengeri emlősfaja.", "Állományukat szigorúan ellenőrzik."],
       ro: ["Foca caspică este singura specie de mamifer marin din Marea Caspică.", "Populația lor este strict monitorizată."],
       en: ["The Caspian seal is the only marine mammal species in the Caspian Sea.", "Their population is strictly monitored."]
-    }
-  },
+    }, image: "/poi-images/tm-caspian-seal-habitat-life-v2.webp"},
   {
     id: "tm-ashgabat-cable-car-park-life-v2",
     type: "kid-friendly",

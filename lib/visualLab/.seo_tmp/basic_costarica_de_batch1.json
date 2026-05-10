@@ -1,0 +1,152 @@
+{
+  "lang": "de",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "terminal-punta-arenas-economic-v2",
+      "description": "Ein bedeutender Hafen und Ausgangspunkt für Kreuzfahrtschiffe.",
+      "facts": [
+        "Kreuzfahrtterminal",
+        "Fischerei-Hub",
+        "Tourismus-Ausgangspunkt",
+        "Historischer Hafen"
+      ]
+    },
+    {
+      "id": "terminal-ferry-nicoya-economic-v2",
+      "description": "Wichtige Fährverbindung zwischen Festland und Nicoya-Halbinsel.",
+      "facts": [
+        "Wichtige Transportroute",
+        "Touristen-Logistik",
+        "Auto-Transport",
+        "Guanacaste-Anbindung"
+      ]
+    },
+    {
+      "id": "puerto-golfito-economic-v2",
+      "description": "Historischer Hafen im Süden des Landes.",
+      "facts": [
+        "Südlicher Hafen",
+        "Zollfreies Einkaufsgebiet",
+        "Früher Bananen-Zentrum",
+        "Fischerei"
+      ]
+    },
+    {
+      "id": "zona-franca-el-coyol-economic-v2",
+      "description": "Ein führender Industriepark für Medizintechnik und Fertigung.",
+      "facts": [
+        "Medizintechnik",
+        "Spitzen-Technologie",
+        "Export-Hub",
+        "Wirtschaftszentrum"
+      ]
+    },
+    {
+      "id": "puerto-cocos-economic-v2",
+      "description": "Ein geschützter Ankerplatz auf der abgelegenen Kokosinsel.",
+      "facts": [
+        "Forschungs-Stützpunkt",
+        "Abgelegen",
+        "UNESCO-Weltnaturerbe",
+        "Ankerplatz"
+      ]
+    },
+    {
+      "id": "planta-energia-valle-central-economic-v2",
+      "description": "Ein bedeutendes Projekt für Windenergie im Zentraltal.",
+      "facts": [
+        "Erneuerbare Energie",
+        "Windkraft",
+        "Strom für San José",
+        "Zentraltal-Lage"
+      ]
+    },
+    {
+      "id": "zona-franca-la-negrita-economic-v2",
+      "description": "Industriepark mit Fokus auf Produktion und Export in Cartago.",
+      "facts": [
+        "Exportgüter",
+        "Produktionscluster",
+        "Steuerliche Anreize",
+        "Cartago-Region"
+      ]
+    },
+    {
+      "id": "puerto-cito-economic-v2",
+      "description": "Ein kleiner regionaler Anlegesteg für die Karibikküste.",
+      "facts": [
+        "Lokaler Handel",
+        "Fischerei-Pier",
+        "Kleiner Umschlag",
+        "Küstenversorgung"
+      ]
+    },
+    {
+      "id": "zona-franca-saret-economic-v2",
+      "description": "Industriepark für Fertigung bei Alajuela.",
+      "facts": [
+        "Fertigungsindustrie",
+        "Exportzentrum",
+        "Günstige Standortwahl",
+        "Logistik-Nähe"
+      ]
+    },
+    {
+      "id": "planta-energia-don-pedro-economic-v2",
+      "description": "Eine Wasserkraftanlage in Heredia.",
+      "facts": [
+        "Erneuerbare Energie",
+        "Heredia-Flusssystem",
+        "Stromnetz-Anbindung",
+        "Wasserkraft"
+      ]
+    },
+    {
+      "id": "puerto-cacao-economic-v2",
+      "description": "Ein kleiner Hafen für landwirtschaftliche Exporte.",
+      "facts": [
+        "Agrar-Export",
+        "Karibische Küste",
+        "Lokaler Umschlag",
+        "Landwirtschafts-Logistik"
+      ]
+    },
+    {
+      "id": "parque-industrial-barreal-economic-v2",
+      "description": "Industrieller Standort für Produktion bei Heredia.",
+      "facts": [
+        "Produktion",
+        "Export",
+        "Industrie-Cluster",
+        "Wirtschaftlicher Standort"
+      ]
+    },
+    {
+      "id": "zona-franca-global-park-economic-v2",
+      "description": "Ein bedeutender Industriepark in der Region San José.",
+      "facts": [
+        "Technologie",
+        "Business-Services",
+        "Export-Hub",
+        "San-José-Wirtschaft"
+      ]
+    },
+    {
+      "id": "terminal-puerto-tamarindo-economic-v2",
+      "description": "Kleiner Hafen für den Tourismus-Verkehr.",
+      "facts": [
+        "Tourismus-Boote",
+        "Küsten-Logistik",
+        "Guanacaste-Küste",
+        "Freizeit-Hafen"
+      ]
+    }
+  ]
+}

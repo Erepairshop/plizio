@@ -43,8 +43,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The collection includes over 50,000 items.",
         "Particularly famous for the large reclining Buddha."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-national-museum-landmarks-v2.webp"},
   {
     id: "tj-ismoil-somoni-monument-landmarks-v2",
     type: "monument",
@@ -87,8 +86,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "Erected to commemorate the Samanid Empire.",
         "A popular photo subject in the capital."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-ismoil-somoni-monument-landmarks-v2.webp"},
   {
     id: "tj-hisor-fortress-landmarks-v2",
     type: "landmark",
@@ -131,8 +129,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "It was restored in the 20th century.",
         "An important cultural center of the Hisor Valley."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-hisor-fortress-landmarks-v2.webp"},
   {
     id: "tj-nurek-dam-landmarks-v2",
     type: "landmark",
@@ -175,8 +172,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The reservoir covers an area of almost 100 square kilometers.",
         "It provides a large part of the country's energy."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-nurek-dam-landmarks-v2.webp"},
   {
     id: "tj-dushanbe-flagpole-landmarks-v2",
     type: "landmark",
@@ -219,8 +215,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The flag weighs about 700 kilograms.",
         "At its opening in 2011, it was the tallest free-standing flagpole in the world."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-dushanbe-flagpole-landmarks-v2.webp"},
   {
     id: "tj-palace-of-nations-landmarks-v2",
     type: "landmark",
@@ -263,8 +258,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The building includes over 500 magnificent rooms.",
         "A symbol of modern Tajik statehood."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-palace-of-nations-landmarks-v2.webp"},
   {
     id: "tj-karakul-lake-landmarks-v2",
     type: "tourist-attraction",
@@ -307,8 +301,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The water is extremely salty and contains no fish.",
         "In winter, the lake is completely frozen."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-karakul-lake-landmarks-v2.webp"},
   {
     id: "tj-yamchun-fortress-landmarks-v2",
     type: "landmark",
@@ -351,8 +344,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The walls offer a wide view over the valley.",
         "Nearby hot springs were part of the fortress infrastructure."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-yamchun-fortress-landmarks-v2.webp"},
   {
     id: "tj-panjshanbe-bazaar-landmarks-v2",
     type: "tourist-attraction",
@@ -395,8 +387,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The name 'Panjshanbe' literally means 'Thursday'.",
         "It is the commercial heart of the city of Khujand."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-panjshanbe-bazaar-landmarks-v2.webp"},
   {
     id: "tj-khujand-fortress-landmarks-v2",
     type: "landmark",
@@ -439,8 +430,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "Today it houses the Historical Museum of Sughd Province.",
         "Part of the complex has been elaborately restored."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-khujand-fortress-landmarks-v2.webp"},
   {
     id: "tj-arbob-cultural-palace-landmarks-v2",
     type: "landmark",
@@ -483,8 +473,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The architecture was inspired by the palaces in St. Petersburg.",
         "It is surrounded by extensive gardens and fountains."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-arbob-cultural-palace-landmarks-v2.webp"},
   {
     id: "tj-mausoleum-ali-hamadani-landmarks-v2",
     type: "monument",
@@ -527,8 +516,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The complex is an important pilgrimage site for Muslims.",
         "The building impresses with fine brickwork and carvings."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-mausoleum-ali-hamadani-landmarks-v2.webp"},
   {
     id: "tj-haji-yaqub-mosque-landmarks-v2",
     type: "landmark",
@@ -571,8 +559,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "Its bright blue mosaic domes are striking.",
         "It also serves as an Islamic educational center."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-haji-yaqub-mosque-landmarks-v2.webp"},
   {
     id: "tj-garm-chashma-landmarks-v2",
     type: "tourist-attraction",
@@ -615,8 +602,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The minerals in the water are believed to have healing properties.",
         "A popular destination for health stays in the Pamir."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-garm-chashma-landmarks-v2.webp"},
   {
     id: "tj-rudaki-park-landmarks-v2",
     type: "tourist-attraction",
@@ -659,8 +645,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "Numerous sculptures adorn the well-kept paths.",
         "At night, the fountains are colorfully illuminated."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-rudaki-park-landmarks-v2.webp"},
   {
     id: "tj-takhti-sangin-landmarks-v2",
     type: "landmark",
@@ -703,8 +688,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "It was an important center of ancient Bactria.",
         "The temple was dedicated to the river god Oxus."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-takhti-sangin-landmarks-v2.webp"},
   {
     id: "tj-navruz-palace-landmarks-v2",
     type: "landmark",
@@ -791,8 +775,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "It offers performances of classical and traditional Tajik works.",
         "The magnificent interior impresses with chandeliers and velvet."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-ayni-opera-landmarks-v2.webp"},
   {
     id: "tj-seven-lakes-landmarks-v2",
     type: "tourist-attraction",
@@ -835,8 +818,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
         "The colors vary from deep blue to turquoise green.",
         "The highest lake is located at an altitude of nearly 2400 meters."
       ]
-    }
-  },
+    }, image: "/poi-images/tj-seven-lakes-landmarks-v2.webp"},
   {
     id: "tj-iskanderkul-landmarks-v2",
     type: "tourist-attraction",

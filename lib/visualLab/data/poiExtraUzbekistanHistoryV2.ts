@@ -13,8 +13,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["A 15. és 17. század között épült", "Az UNESCO világörökség része", "A Timurida dinasztia központja"],
       ro: ["Construit între secolele XV și XVII", "Parte a Patrimoniului Mondial UNESCO", "Centrul dinastiei Timuride"],
       en: ["Built between the 15th and 17th centuries", "Part of the UNESCO World Heritage", "Center of the Timurid dynasty"]
-    }
-  },
+    }, image: "/poi-images/registan-samarkand-history-v2.webp"},
   {
     id: "gur-e-amir-samarkand-history-v2",
     type: "historical-site",
@@ -27,8 +26,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["1404-ben készült el", "Híres azúrkék kupolájáról", "Timur hódító végső nyughelye"],
       ro: ["Finalizat în 1404", "Renumit pentru domul său azuriu", "Locul de veci al cuceritorului Timur"],
       en: ["Completed in 1404", "Famous for its azure dome", "Final resting place of conqueror Timur"]
-    }
-  },
+    }, image: "/poi-images/gur-e-amir-samarkand-history-v2.webp"},
   {
     id: "shah-i-zinda-samarkand-history-v2",
     type: "historical-site",
@@ -41,8 +39,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["Jelentése Az élő király", "A 11. és 19. század között épült", "Fontos iszlám zarándokhely"],
       ro: ["Înseamnă Regele viu", "Construit între secolele XI și XIX", "Loc important de pelerinaj islamic"],
       en: ["Means The Living King", "Built between the 11th and 19th centuries", "Important Islamic pilgrimage site"]
-    }
-  },
+    }, image: "/poi-images/shah-i-zinda-samarkand-history-v2.webp"},
   {
     id: "ichan-kala-khiva-history-v2",
     type: "historical-site",
@@ -55,8 +52,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["10 méter magas agyagfal veszi körül", "Több mint 50 történelmi emlékművel rendelkezik", "1990 óta UNESCO világörökség"],
       ro: ["Înconjurat de un zid de lut de 10 metri înălțime", "Deține peste 50 de monumente istorice", "Patrimoniu Mondial UNESCO din 1990"],
       en: ["Surrounded by a 10 meter high clay wall", "Has over 50 historical monuments", "UNESCO World Heritage since 1990"]
-    }
-  },
+    }, image: "/poi-images/ichan-kala-khiva-history-v2.webp"},
   {
     id: "ark-of-bukhara-history-v2",
     type: "historical-site",
@@ -69,8 +65,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["Eredetileg az 5. században épült", "1920-ban súlyosan megrongálódott", "Egykor híres könyvtárnak adott otthont"],
       ro: ["Construită inițial în secolul al V-lea", "Grav avariată în 1920", "A găzduit cândva o bibliotecă faimoasă"],
       en: ["Originally built in the 5th century", "Severely damaged in 1920", "Once housed a famous library"]
-    }
-  },
+    }, image: "/poi-images/ark-of-bukhara-history-v2.webp"},
   {
     id: "po-i-kalyan-bukhara-history-v2",
     type: "historical-site",
@@ -83,8 +78,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["A Kalján-minaret 45 méter magas", "1127-ben épült", "Az iszlám Buhara központja"],
       ro: ["Minaretul Kalyan are 45 de metri înălțime", "Construit în anul 1127", "Centrul Bukharei islamice"],
       en: ["Kalyan Minaret is 45 meters high", "Built in the year 1127", "The center of Islamic Bukhara"]
-    }
-  },
+    }, image: "/poi-images/po-i-kalyan-bukhara-history-v2.webp"},
   {
     id: "chor-minor-bukhara-history-v2",
     type: "monument",
@@ -97,8 +91,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["1807-ben épült", "Neve azt jelenti, hogy Négy minaret", "Minden minaret egyedi dizájnnal rendelkezik"],
       ro: ["Construit în anul 1807", "Numele înseamnă Patru minarete", "Fiecare minaret are un design unic"],
       en: ["Built in 1807", "The name means Four Minarets", "Each minaret has a unique design"]
-    }
-  },
+    }, image: "/poi-images/chor-minor-bukhara-history-v2.webp"},
   {
     id: "bibi-khanym-mosque-history-v2",
     type: "historical-site",
@@ -111,8 +104,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["Építési ideje 1399-től 1404-ig", "Földrengések részben lerombolták", "A főportál 35 méter magas"],
       ro: ["Timp de construcție între 1399 și 1404", "Parțial distrusă de cutremure", "Portalul principal are 35 de metri înălțime"],
       en: ["Construction time from 1399 to 1404", "Partially destroyed by earthquakes", "The main portal is 35 meters high"]
-    }
-  },
+    }, image: "/poi-images/bibi-khanym-mosque-history-v2.webp"},
   {
     id: "ulugh-beg-observatory-history-v2",
     type: "historical-site",
@@ -125,8 +117,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["Az 1420-as években épült", "A szextáns sugara 40 méter", "1908-ban régészek fedezték fel újra"],
       ro: ["Construit în anii 1420", "Raza sextantului de 40 de metri", "Redescoperit de arheologi în 1908"],
       en: ["Built in the 1420s", "Sextant radius of 40 meters", "Rediscovered by archaeologists in 1908"]
-    }
-  },
+    }, image: "/poi-images/ulugh-beg-observatory-history-v2.webp"},
   {
     id: "ayaz-kala-history-v2",
     type: "ruin",
@@ -139,8 +130,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["I. e. 4. században keletkezett", "Három erődítmény maradt fenn", "A 7. század körül hagyták el"],
       ro: ["Creată în secolul al IV-lea î.Hr.", "Trei fortificații s-au păstrat", "Abandonată în jurul secolului al VII-lea"],
       en: ["Created in the 4th century BC", "Three fortifications preserved", "Abandoned around the 7th century"]
-    }
-  },
+    }, image: "/poi-images/ayaz-kala-history-v2.webp"},
   {
     id: "toprak-kala-history-v2",
     type: "ruin",
@@ -153,8 +143,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["Fénykora a 2. és 3. században volt", "Az ásatások 1938-ban kezdődtek", "Ősi freskóiról ismert"],
       ro: ["Perioada de glorie în secolele II și III", "Excavațiile au început în 1938", "Cunoscută pentru frescele sale vechi"],
       en: ["Heyday in the 2nd and 3rd centuries", "Excavations began in 1938", "Known for its ancient frescoes"]
-    }
-  },
+    }, image: "/poi-images/toprak-kala-history-v2.webp"},
   {
     id: "khazrati-imam-tashkent-history-v2",
     type: "historical-site",
@@ -167,8 +156,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["A 8. századi Oszmán-Korán otthona", "Taskent első imámjának szentelték", "Egy 16. századi földrengés után építették újjá"],
       ro: ["Găzduiește Coranul Uthman din secolul al VIII-lea", "Dedicat primului imam din Tașkent", "Reconstruit după un cutremur în secolul al XVI-lea"],
       en: ["Home of the 8th-century Uthman Quran", "Dedicated to the first Imam of Tashkent", "Rebuilt after an earthquake in the 16th century"]
-    }
-  },
+    }, image: "/poi-images/khazrati-imam-tashkent-history-v2.webp"},
   {
     id: "palace-of-khudayar-khan-history-v2",
     type: "historical-site",
@@ -181,8 +169,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["1863 és 1874 között épült", "Eredetileg 119 szobával rendelkezett", "Ma a helyi történelem múzeuma"],
       ro: ["Construit între 1863 și 1874", "Dotat inițial cu 119 camere", "Astăzi un muzeu de istorie locală"],
       en: ["Built between 1863 and 1874", "Originally featured 119 rooms", "Today a museum of local history"]
-    }
-  },
+    }, image: "/poi-images/palace-of-khudayar-khan-history-v2.webp"},
   {
     id: "samanid-mausoleum-history-v2",
     type: "monument",
@@ -195,8 +182,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["A 9. vagy a 10. században épült", "Égetett téglából készült", "Évszázadokig a homok alatt vészelte át"],
       ro: ["Construit în secolul al IX-lea sau al X-lea", "Făcut din cărămizi arse", "A supraviețuit secole ascuns sub nisip"],
       en: ["Built in the 9th or 10th century", "Made of baked bricks", "Survived centuries hidden under sand"]
-    }
-  },
+    }, image: "/poi-images/samanid-mausoleum-history-v2.webp"},
   {
     id: "fayaz-tepe-history-v2",
     type: "ruin",
@@ -209,8 +195,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["Az 1. és 3. századból származik", "Falfestményeket és sztúpákat mutat be", "1968-ban fedezték fel"],
       ro: ["Datează din secolele I - III", "Prezintă picturi murale și stupe", "Descoperit în anul 1968"],
       en: ["Dates from the 1st to 3rd century", "Features wall paintings and stupas", "Discovered in 1968"]
-    }
-  },
+    }, image: "/poi-images/fayaz-tepe-history-v2.webp"},
   {
     id: "kampyr-tepe-history-v2",
     type: "ruin",
@@ -223,8 +208,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["Nagy Sándor alapította", "A 2. századig virágzott", "Az ásatások görög hatást mutatnak"],
       ro: ["Fondată de Alexandru cel Mare", "A prosperat până în secolul al II-lea", "Excavațiile arată influența greacă"],
       en: ["Founded by Alexander the Great", "Flourished until the 2nd century", "Excavations show Greek influence"]
-    }
-  },
+    }, image: "/poi-images/kampyr-tepe-history-v2.webp"},
   {
     id: "hakim-al-termezi-mausoleum-history-v2",
     type: "historical-site",
@@ -237,8 +221,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["9. századi temetkezési hely", "Sok muszlim zarándokhelye", "Részletes stukkómunkáiról ismert"],
       ro: ["Loc de înmormântare din secolul al IX-lea", "Destinație de pelerinaj pentru mulți musulmani", "Cunoscut pentru stucaturile sale detaliate"],
       en: ["9th-century burial site", "Pilgrimage destination for many Muslims", "Known for its detailed stucco work"]
-    }
-  },
+    }, image: "/poi-images/hakim-al-termezi-mausoleum-history-v2.webp"},
   {
     id: "ak-saray-palace-shahrisabz-history-v2",
     type: "ruin",
@@ -251,8 +234,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["Az építkezés 1380-ban kezdődött", "A bejárati portál több mint 65 méter magas volt", "A név azt jelenti, hogy Fehér Palota"],
       ro: ["Construcția a început în anul 1380", "Portalul de intrare avea peste 65 de metri înălțime", "Numele înseamnă Palatul Alb"],
       en: ["Construction began in 1380", "The entrance portal was over 65 meters high", "The name means White Palace"]
-    }
-  },
+    }, image: "/poi-images/ak-saray-palace-shahrisabz-history-v2.webp"},
   {
     id: "juma-mosque-khiva-history-v2",
     type: "historical-site",
@@ -265,8 +247,7 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       hu: ["Eredetileg a 10. században épült", "A jelenlegi épület 1788-ból származik", "Néhány oszlop több mint 1000 éves"],
       ro: ["Construită inițial în secolul al X-lea", "Clădirea actuală datează din 1788", "Unii stâlpi au o vechime de peste 1000 de ani"],
       en: ["Originally built in the 10th century", "Current building dates from 1788", "Some pillars are over 1000 years old"]
-    }
-  },
+    }, image: "/poi-images/juma-mosque-khiva-history-v2.webp"},
   {
     id: "kok-gumbaz-mosque-shahrisabz-history-v2",
     type: "monument",

@@ -13,8 +13,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["Mintegy 720 négyzetkilométeres területet ölel fel.", "2011-ben az UNESCO Világörökség részévé nyilvánították."],
       ro: ["Acoperă o suprafață de aproximativ 720 de kilometri pătrați.", "A fost declarat Patrimoniu Mondial UNESCO în 2011."],
       en: ["Covers an area of around 720 square kilometers.", "Was declared a UNESCO World Heritage Site in 2011."]
-    }
-  },
+    }, image: "/poi-images/wadi-rum-nature-v2.webp"},
   {
     id: "totes-meer-nature-v2",
     type: "lake",
@@ -27,8 +26,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["Sótartalma eléri a majdnem 34 százalékot.", "A víz rendkívül nagy sűrűséggel rendelkezik."],
       ro: ["Conținutul de sare este de aproape 34 la sută.", "Apa are o densitate extrem de mare."],
       en: ["The salt content is almost 34 percent.", "The water has an extremely high density."]
-    }
-  },
+    }, image: "/poi-images/totes-meer-nature-v2.webp"},
   {
     id: "dana-biosphere-nature-v2",
     type: "national-park",
@@ -41,8 +39,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["1989-ben alapították.", "Több mint 800 növényfajnak ad otthont."],
       ro: ["A fost fondată în 1989.", "Găzduiește peste 800 de specii de plante."],
       en: ["Was established in 1989.", "Is home to over 800 plant species."]
-    }
-  },
+    }, image: "/poi-images/dana-biosphere-nature-v2.webp"},
   {
     id: "mujib-reserve-nature-v2",
     type: "national-park",
@@ -55,8 +52,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["Akár 410 méterrel a tengerszint alatt fekszik.", "Közvetlenül a Holt-tengerrel határos."],
       ro: ["Se află la până la 410 metri sub nivelul mării.", "Se învecinează direct cu Marea Moartă."],
       en: ["Lies up to 410 meters below sea level.", "Borders directly on the Dead Sea."]
-    }
-  },
+    }, image: "/poi-images/mujib-reserve-nature-v2.webp"},
   {
     id: "azraq-wetland-nature-v2",
     type: "national-park",
@@ -69,8 +65,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["1978-ban nemzetközi védelem alá helyezték.", "Mesterségesen fenntartott tavakkal rendelkezik a madarak számára."],
       ro: ["A fost plasată sub protecție internațională în 1978.", "Are iazuri întreținute artificial pentru păsări."],
       en: ["Was placed under international protection in 1978.", "Has artificially maintained ponds for birds."]
-    }
-  },
+    }, image: "/poi-images/azraq-wetland-nature-v2.webp"},
   {
     id: "shaumari-wildlife-nature-v2",
     type: "national-park",
@@ -83,8 +78,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["Az arab bejzát itt sikeresen tenyésztették újra.", "A rezervátum mindössze 22 négyzetkilométeres."],
       ro: ["Oryxul arab a fost crescut aici cu succes.", "Rezervația are doar 22 de kilometri pătrați."],
       en: ["The Arabian oryx was successfully bred here.", "The reserve is only 22 square kilometers in size."]
-    }
-  },
+    }, image: "/poi-images/shaumari-wildlife-nature-v2.webp"},
   {
     id: "ajloun-forest-nature-v2",
     type: "forest",
@@ -97,8 +91,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["Akár 1100 méteres magasságban fekszik.", "Jordánia eredeti erdeinek egyik maradványa."],
       ro: ["Se află la o altitudine de până la 1100 de metri.", "Este o rămășiță a pădurilor originale ale Iordaniei."],
       en: ["Lies at an altitude of up to 1100 meters.", "Is a remnant of Jordan's original forests."]
-    }
-  },
+    }, image: "/poi-images/ajloun-forest-nature-v2.webp"},
   {
     id: "dibbeen-forest-nature-v2",
     type: "forest",
@@ -111,8 +104,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["2004-ben nyilvánították védett területté.", "Ritka orchideafajoknak ad otthont."],
       ro: ["A fost desemnată zonă protejată în 2004.", "Găzduiește specii rare de orhidee."],
       en: ["Was designated as a protected area in 2004.", "Is home to rare orchid species."]
-    }
-  },
+    }, image: "/poi-images/dibbeen-forest-nature-v2.webp"},
   {
     id: "jordan-river-nature-v2",
     type: "river",
@@ -125,8 +117,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["Délen a Holt-tengerbe torkollik.", "Teljes hossza körülbelül 251 kilométer."],
       ro: ["Se varsă în Marea Moartă în sud.", "Lungimea sa totală este de aproximativ 251 de kilometri."],
       en: ["Flows into the Dead Sea in the south.", "Its total length is about 251 kilometers."]
-    }
-  },
+    }, image: "/poi-images/jordan-river-nature-v2.webp"},
   {
     id: "yarmouk-river-nature-v2",
     type: "river",
@@ -139,8 +130,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["A szíriai Hauran-vidéken ered.", "A történelmi jarmuki csata színhelye volt."],
       ro: ["Izvorăște în regiunea Hauran din Siria.", "A fost scena istoricei bătălii de la Yarmouk."],
       en: ["Originates in the Hauran region in Syria.", "Was the site of the historical Battle of Yarmouk."]
-    }
-  },
+    }, image: "/poi-images/yarmouk-river-nature-v2.webp"},
   {
     id: "zarqa-river-nature-v2",
     type: "river",
@@ -153,8 +143,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["A Biblia Jabbok folyóként említi.", "Vizét intenzíven használják mezőgazdasági célokra."],
       ro: ["Este menționat în Biblie ca râul Iaboc.", "Apa sa este folosită intens pentru agricultură."],
       en: ["Is mentioned in the Bible as the river Jabbok.", "Its water is used intensively for agriculture."]
-    }
-  },
+    }, image: "/poi-images/zarqa-river-nature-v2.webp"},
   {
     id: "jabal-umm-ad-dami-nature-v2",
     type: "mountain",
@@ -167,8 +156,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["Eléri az 1854 méteres magasságot.", "Tiszta időben innen látni a Vörös-tengert."],
       ro: ["Atinge o altitudine de 1854 de metri.", "În zilele senine se poate vedea Marea Roșie de aici."],
       en: ["Reaches an altitude of 1854 meters.", "On clear days, the Red Sea can be seen from here."]
-    }
-  },
+    }, image: "/poi-images/jabal-umm-ad-dami-nature-v2.webp"},
   {
     id: "jabal-ram-nature-v2",
     type: "mountain",
@@ -181,8 +169,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["Karakteres sziklái sok hegymászót vonzanak.", "1734 méterrel emelkedik a tengerszint fölé."],
       ro: ["Stâncile sale izbitoare atrag mulți alpiniști.", "Se ridică la 1734 de metri deasupra nivelului mării."],
       en: ["Its striking cliffs attract many climbers.", "Rises 1734 meters above sea level."]
-    }
-  },
+    }, image: "/poi-images/jabal-ram-nature-v2.webp"},
   {
     id: "fifa-nature-reserve-nature-v2",
     type: "national-park",
@@ -223,8 +210,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["2010-ben hozták létre hivatalosan.", "Megőrzi a táj szépségét az ország északi részén."],
       ro: ["A fost înființată oficial în 2010.", "Păstrează frumusețea peisajului din nordul țării."],
       en: ["Was officially established in 2010.", "Preserves the scenic beauty in the north of the country."]
-    }
-  },
+    }, image: "/poi-images/yarmouk-forest-reserve-nature-v2.webp"},
   {
     id: "wadi-mujib-river-nature-v2",
     type: "river",
@@ -237,8 +223,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["Mély, vizet vezető szurdokokkal rendelkezik.", "Népszerű helyszín a kanyonozáshoz (canyoning)."],
       ro: ["Are defileuri adânci care transportă apă.", "Este un loc popular pentru canioning."],
       en: ["Features deep, water-bearing gorges.", "Is a popular spot for canyoning."]
-    }
-  },
+    }, image: "/poi-images/wadi-mujib-river-nature-v2.webp"},
   {
     id: "wadi-hasa-nature-v2",
     type: "river",
@@ -251,8 +236,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["A vádin átvezető túraútvonal mintegy 24 kilométer hosszú.", "A víz egész évben folyik benne."],
       ro: ["Traseul de drumeție prin ued are o lungime de aproximativ 24 de kilometri.", "Apa curge pe tot parcursul anului."],
       en: ["The hiking trail through the wadi is around 24 kilometers long.", "The water flows all year round."]
-    }
-  },
+    }, image: "/poi-images/wadi-hasa-nature-v2.webp"},
   {
     id: "king-talal-dam-nature-v2",
     type: "lake",
@@ -265,8 +249,7 @@ export const poiExtraJordanNatureV2: POI[] = [
       hu: ["A víztározó kapacitása 75 millió köbméter.", "Főként a Zarka-folyó táplálja."],
       ro: ["Rezervorul are o capacitate de 75 de milioane de metri cubi.", "Este alimentat în principal de râul Zarqa."],
       en: ["The reservoir has a capacity of 75 million cubic meters.", "It is mainly fed by the Zarqa River."]
-    }
-  },
+    }, image: "/poi-images/king-talal-dam-nature-v2.webp"},
   {
     id: "wadi-numeira-nature-v2",
     type: "river",

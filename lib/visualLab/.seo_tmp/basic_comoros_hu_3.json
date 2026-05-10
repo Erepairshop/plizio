@@ -1,0 +1,63 @@
+{
+  "lang": "hu",
+  "country": "Comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosCitiesV2.ts",
+    "lib/visualLab/data/poiExtraComorosHistoryV2.ts",
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosLifeV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "itsandzeni-cities-v2",
+      "description": "Itsandzeni Grande Comore északi részén található, lávamezők közelében. Moroni felé jó az elérhetősége, ezért a főváros vonzáskörzetéhez tartozik.",
+      "facts": ["Grande Comore északa", "Lávamezők közelében", "Moroni felé kapcsolódik"]
+    },
+    {
+      "id": "tsidje-cities-v2",
+      "description": "Tsidje Moroni szélén fekvő elővárosi település. Sok lakó naponta a fővárosba jár dolgozni vagy tanulni.",
+      "facts": ["Moroni pereme", "Elővárosi szerep", "Napi ingázás"]
+    },
+    {
+      "id": "bambao-cities-v2",
+      "description": "Bambao Anjouan északi részén található, és a ylang-ylang termesztésével hozható kapcsolatba. A település a sziget illóolaj-kultúrájának része.",
+      "facts": ["Anjouan északi része", "Ylang-ylang termesztés", "Illóolaj-termelés"]
+    },
+    {
+      "id": "ntsaoueni-moschee-history-v2",
+      "description": "Az Ntsaoueni mecset a Grande Comore északi részén álló helyi vallási épület. A mecset a környék közösségi és mindennapi életének fontos pontja.",
+      "facts": ["Grande Comore északa", "Helyi mecset", "Közösségi szerep"]
+    },
+    {
+      "id": "fomboni-moschee-history-v2",
+      "description": "A fomboni mecset Mohéli fővárosának ismert vallási helyszíne. A városközpontban a helyi közösség egyik legfontosabb gyűjtőpontja.",
+      "facts": ["Fomboni központja", "Mohéli vallási helyszíne", "Közösségi találkozópont"]
+    },
+    {
+      "id": "waterfront-domoni-landmarks-v2",
+      "description": "Domoni partszakasza a város tengerhez kötődő oldalát mutatja meg. A sétány és a kikötőközeli rész a mindennapi forgalom része.",
+      "facts": ["Domoni partja", "Kikötőközeli terület", "Sétány és forgalom"]
+    },
+    {
+      "id": "marche-volovolo-landmarks-v2",
+      "description": "A Volovolo piac Moroni egyik legélénkebb helye. Itt a zöldség, a hal, a fűszerek és a mindennapi bevásárlás találkozik.",
+      "facts": ["Moroni piaca", "Friss élelmiszer", "Napi bevásárlás"]
+    },
+    {
+      "id": "gewuerzgarten-moroni-life-v2",
+      "description": "A moroni fűszerkert a városi kertészkedés és az illatos növények világát mutatja be. A hely jól kapcsolja össze a hétköznapi életet és a helyi növénykultúrát.",
+      "facts": ["Moroni városában", "Fűszernövények", "Városi kertészkedés"]
+    },
+    {
+      "id": "kokosnuss-haine-mitsamiouli-life-v2",
+      "description": "Mitsamiouli kókuszligetei a part menti táj egyik jellegzetes elemei. A fák árnyéka és a kis parcellák a hagyományos szigetgazdálkodást idézik.",
+      "facts": ["Mitsamiouli környéke", "Kókuszpálmák", "Hagyományos gazdálkodás"]
+    },
+    {
+      "id": "naturlehrpfad-karthala-life-v2",
+      "description": "A Karthala tanösvénye a vulkáni lejtők növényvilágát mutatja be. A sétaút a helyi természetet és a sziget geológiáját egyszerre közelíti meg.",
+      "facts": ["Karthala lejtői", "Tanösvény", "Növény- és kőzetvilág"]
+    }
+  ]
+}

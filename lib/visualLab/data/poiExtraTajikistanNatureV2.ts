@@ -35,8 +35,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Peaks over 7000 meters high",
         "Home to the Fedchenko Glacier"
       ]
-    }
-  },
+    }, image: "/poi-images/pamir-mountains-nature-v2.webp"},
   {
     id: "iskanderkul-nature-v2",
     type: "lake",
@@ -71,8 +70,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Located at 2195 meters altitude",
         "Triangular lake of glacial origin"
       ]
-    }
-  },
+    }, image: "/poi-images/iskanderkul-nature-v2.webp"},
   {
     id: "karakul-lake-nature-v2",
     type: "lake",
@@ -107,8 +105,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Water level at 3914 meters",
         "Has no natural outflow"
       ]
-    }
-  },
+    }, image: "/poi-images/karakul-lake-nature-v2.webp"},
   {
     id: "sarez-lake-nature-v2",
     type: "lake",
@@ -143,8 +140,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Formed in February 1911",
         "Volume of about 16 cubic kilometers"
       ]
-    }
-  },
+    }, image: "/poi-images/sarez-lake-nature-v2.webp"},
   {
     id: "peak-ismoil-somoni-nature-v2",
     type: "mountain",
@@ -179,8 +175,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Summit at 7495 meters",
         "Previously known as Peak Communism"
       ]
-    }
-  },
+    }, image: "/poi-images/peak-ismoil-somoni-nature-v2.webp"},
   {
     id: "peak-ibn-sina-nature-v2",
     type: "mountain",
@@ -215,8 +210,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Reaches a height of 7134 meters",
         "Internationally often referred to as Lenin Peak"
       ]
-    }
-  },
+    }, image: "/poi-images/peak-ibn-sina-nature-v2.webp"},
   {
     id: "pyanj-river-nature-v2",
     type: "river",
@@ -287,8 +281,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Feeds the massive Nurek Dam",
         "Flows for 524 kilometers"
       ]
-    }
-  },
+    }, image: "/poi-images/vakhsh-river-nature-v2.webp"},
   {
     id: "zeravshan-river-nature-v2",
     type: "river",
@@ -323,8 +316,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Originates from the Zeravshan Glacier",
         "Today peters out in the desert in Uzbekistan"
       ]
-    }
-  },
+    }, image: "/poi-images/zeravshan-river-nature-v2.webp"},
   {
     id: "yashilkul-nature-v2",
     type: "lake",
@@ -359,8 +351,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Name means 'Green Lake'",
         "Located at an altitude of 3734 meters"
       ]
-    }
-  },
+    }, image: "/poi-images/yashilkul-nature-v2.webp"},
   {
     id: "zorkul-nature-v2",
     type: "lake",
@@ -395,8 +386,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Historically known as Lake Victoria",
         "Important habitat for the Marco Polo sheep"
       ]
-    }
-  },
+    }, image: "/poi-images/zorkul-nature-v2.webp"},
   {
     id: "fann-mountains-nature-v2",
     type: "mountain",
@@ -431,8 +421,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Highest point is Chimtarga (5489 m)",
         "More than 100 mountain lakes in the region"
       ]
-    }
-  },
+    }, image: "/poi-images/fann-mountains-nature-v2.webp"},
   {
     id: "peak-korzhenevskaya-nature-v2",
     type: "mountain",
@@ -467,8 +456,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Summit height is 7105 meters",
         "First successfully climbed in 1953"
       ]
-    }
-  },
+    }, image: "/poi-images/peak-korzhenevskaya-nature-v2.webp"},
   {
     id: "bartang-river-nature-v2",
     type: "river",
@@ -503,8 +491,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Important tributary of the Pyanj",
         "Valley is often isolated by landslides"
       ]
-    }
-  },
+    }, image: "/poi-images/bartang-river-nature-v2.webp"},
   {
     id: "gunt-river-nature-v2",
     type: "river",
@@ -539,8 +526,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "296 kilometers long",
         "Has several small hydroelectric power plants"
       ]
-    }
-  },
+    }, image: "/poi-images/gunt-river-nature-v2.webp"},
   {
     id: "bulunkul-lake-nature-v2",
     type: "lake",
@@ -575,8 +561,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Temperature record of -63 degrees Celsius",
         "Important stopover for migratory birds"
       ]
-    }
-  },
+    }, image: "/poi-images/bulunkul-lake-nature-v2.webp"},
   {
     id: "haft-kul-nature-v2",
     type: "lake",
@@ -611,8 +596,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "The lowest lake is at 1598 meters",
         "Each lake has its own Persian name"
       ]
-    }
-  },
+    }, image: "/poi-images/haft-kul-nature-v2.webp"},
   {
     id: "tigrovaya-balka-nature-v2",
     type: "national-park",
@@ -647,8 +631,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Covers about 49,700 hectares",
         "UNESCO World Heritage site since 2023"
       ]
-    }
-  },
+    }, image: "/poi-images/tigrovaya-balka-nature-v2.webp"},
   {
     id: "tajik-national-park-nature-v2",
     type: "national-park",
@@ -683,8 +666,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Largest national park in Central Asia",
         "Home to endangered snow leopards"
       ]
-    }
-  },
+    }, image: "/poi-images/tajik-national-park-nature-v2.webp"},
   {
     id: "shirkent-national-park-nature-v2",
     type: "national-park",

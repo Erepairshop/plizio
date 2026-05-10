@@ -20,7 +20,20 @@ export const poiExtraBurundiNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Este al doilea cel mai adânc lac din lume (după Baikal).", "Găzduiește sute de specii de pești care nu se găsesc nicăieri altundeva.", "Lacul este o sursă principală de apă și hrană pentru Burundi.", "Bazinul lacului a fost format prin activități tectonice în Riftul African.", "Navigația pe lac este un element cheie pentru comerțul regional.", "Ecosistemul este fragil și necesită eforturi comune de conservare."]
-    }, image: "/poi-images/tanganyika-lake-nature-v2.webp"},
+    }, image: "/poi-images/tanganyika-lake-nature-v2.webp",
+    description: {
+      de: "Der Tanganjikasee ist der gewaltige Ostafrikanische Grabenbruchsee an Burundis Westgrenze. Für Fischerei, Verkehr und Klima ist er für das Land zentral.",
+      hu: "A Tanganyika-tó hatalmas kelet-afrikai ároktavi tó Burundi nyugati határánál. Az ország számára a halászatban, a közlekedésben és az éghajlatban is központi szerepe van.",
+      ro: "Lacul Tanganyika formează granița vestică a Burundiului și este una dintre cele mai importante resurse naturale ale țării. Apa, pescuitul și transportul de pe lac au o influență directă asupra vieții de aici.",
+      en: "Lake Tanganyika forms Burundi's western edge and shapes much of the country's shoreline life. It is a major fishing, transport, and water landscape in the region."
+    },
+    facts: {
+      de: ["Westgrenze", "tiefer See", "Fischerei und Verkehr"],
+      hu: ["nyugati határ", "mély tó", "halászat és közlekedés"],
+      ro: ["granița vestică", "foarte adânc", "pescuit și transport"],
+      en: ["western border", "Great Lake", "fishing and transport"]
+    }
+  },
   {
     id: "ruzizi-river-nature-v2",
     type: "river",
@@ -39,7 +52,20 @@ export const poiExtraBurundiNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Râul curge între lacurile Kivu și Tanganyika.", "Este sursa principală de apă pentru irigații în câmpia Imbo.", "Apele râului sunt utilizate pentru producția de energie hidroelectrică.", "Ruzizi marchează parțial frontiera dintre Burundi și RDC.", "Ecosistemele de pe malurile râului sunt bogate în faună.", "Managementul resurselor râului este esențial pentru stabilitatea agricolă."]
-    }, image: "/poi-images/ruzizi-river-nature-v2.webp"},
+    }, image: "/poi-images/ruzizi-river-nature-v2.webp",
+    description: {
+      de: "Der Rusizi-Fluss prägt den Nordwesten Burundis und verbindet das Land mit den Seenlandschaften der Region. Seine Niederungen gehören zu den feuchteren Zonen des Landes.",
+      hu: "A Rusizi folyó Burundi északnyugati részét formálja, és összeköti az országot a régió tóvidékeivel. Az árterei az ország nedvesebb zónái közé tartoznak.",
+      ro: "Râul Ruzizi leagă zona lacului Kivu de lacul Tanganyika și trece printr-un coridor natural important. Valea lui este folosită pentru irigații și susține zone umede fertile.",
+      en: "The Ruzizi River links the lake country north of Burundi with Lake Tanganyika. Its valley is an important wetland and border corridor."
+    },
+    facts: {
+      de: ["Nordwesten", "Feuchtgebiete", "Grenzregion"],
+      hu: ["északnyugat", "vizes élőhelyek", "határvidék"],
+      ro: ["între Kivu și Tanganyika", "irigații", "zonă de frontieră"],
+      en: ["river valley", "wetland corridor", "links to Tanganyika"]
+    }
+  },
   {
     id: "kibira-forest-nature-v2",
     type: "forest",
@@ -58,7 +84,20 @@ export const poiExtraBurundiNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Este cel mai mare parc național din țară dedicat conservării pădurilor.", "Habitat pentru cimpanzei și diverse alte primate.", "Pădurea acționează ca un rezervor natural de apă pentru regiune.", "Kibira a fost istoric o zonă sacră, păzită de regii Burundiului.", "Parcul acoperă creasta Nil-Congo.", "Biodiversitatea bogată face din Kibira un loc de cercetare ecologică."]
-    }, image: "/poi-images/kibira-forest-nature-v2.webp"},
+    }, image: "/poi-images/kibira-forest-nature-v2.webp",
+    description: {
+      de: "Der Kibira-Wald ist ein großer Bergregenwald im Nordwesten Burundis. Er schützt Wasserquellen und ist ein wichtiger Naturraum für Pflanzen und Tiere.",
+      hu: "A Kibira-erdő Burundi északnyugati részének nagy hegyvidéki esőerdeje. Védi a vízforrásokat, és fontos élőhely növényeknek és állatoknak.",
+      ro: "Pădurea Kibira este unul dintre cele mai mari masive forestiere montane din Burundi. Ea protejează izvoarele de apă și adăpostește o biodiversitate bogată.",
+      en: "Kibira is a large mountain forest in northwestern Burundi. It is one of the country's key water catchment areas and a protected natural zone."
+    },
+    facts: {
+      de: ["Regenwald", "Wasserschutz", "Nationalpark"],
+      hu: ["esőerdő", "vízvédelem", "nemzeti park"],
+      ro: ["pădure montană", "izvoare de apă", "parc național"],
+      en: ["mountain forest", "water catchment", "protected area"]
+    }
+  },
   {
     id: "ruvubu-river-nature-v2",
     type: "river",
@@ -77,7 +116,20 @@ export const poiExtraBurundiNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Ruvubu este unul dintre principalele cursuri de apă din estul țării.", "Parcul Național Ruvubu este cel mai întins parc din Burundi.", "Râul este vital pentru supraviețuirea faunei în sezonul secetos.", "Peisajul este caracterizat prin savane și păduri riverane.", "Este un important habitat pentru antilope și specii acvatice.", "Ruvubu face parte din bazinul hidrografic al Nilului."]
-    }, image: "/poi-images/ruvubu-river-nature-v2.webp"},
+    }, image: "/poi-images/ruvubu-river-nature-v2.webp",
+    description: {
+      de: "Der Ruvubu ist einer der wichtigsten Flüsse Burundis. Er durchzieht östliche und zentrale Landesteile und formt Auen und Täler.",
+      hu: "A Ruvubu Burundi egyik legfontosabb folyója. Keleten és az ország középső részein halad át, és ártereket, völgyeket formál.",
+      ro: "Râul Ruvubu traversează estul Burundiului și susține peisajele de savană și zonele umede din jur. El este strâns legat de fauna și de parcul național cu același nume.",
+      en: "The Ruvubu River is one of Burundi's major waterways. It crosses eastern landscapes and supports wildlife, farming, and riverine habitats."
+    },
+    facts: {
+      de: ["wichtiger Fluss", "Ostburundi", "Auen"],
+      hu: ["fontos folyó", "Kelet-Burundi", "árterek"],
+      ro: ["estul țării", "savană", "parc național"],
+      en: ["major river", "eastern Burundi", "riverine habitats"]
+    }
+  },
   {
     id: "heha-mountain-nature-v2",
     type: "mountain",
@@ -96,7 +148,20 @@ export const poiExtraBurundiNatureV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Cu o altitudine de 2684 m, este cel mai înalt vârf din Burundi.", "Face parte din lanțul muntos Mitumba, o ramură a Riftului African.", "Muntele oferă vederi panoramice asupra peisajului burundez.", "Climatul de pe vârf este considerabil mai răcoros decât în zonele joase.", "Regiunea este bogată în specii de plante endemice.", "Este o provocare populară pentru pasionații de drumeții montane."]
-    }, image: "/poi-images/heha-mountain-nature-v2.webp"},
+    }, image: "/poi-images/heha-mountain-nature-v2.webp",
+    description: {
+      de: "Der Heha ist der höchste Berg Burundis. Er liegt im zentralen Westen und ragt deutlich über die umliegenden Hochländer hinaus.",
+      hu: "A Heha Burundi legmagasabb hegye. Az ország középső-nyugati részén emelkedik, és messze a környező fennsíkok fölé magasodik.",
+      ro: "Muntele Heha este cel mai înalt punct din Burundi și domină relieful din vestul central al țării. La altitudine mare, clima este mai rece și peisajul devine mai aspru.",
+      en: "Mount Heha is Burundi's highest peak and a defining point in the country's uplands. Its slopes belong to the Congo-Nile divide and overlook central highland terrain."
+    },
+    facts: {
+      de: ["höchster Gipfel", "Zentralwesten", "Hochland"],
+      hu: ["legmagasabb csúcs", "középnyugat", "magaslati térség"],
+      ro: ["cel mai înalt vârf", "2684 m", "vestul central"],
+      en: ["highest peak", "Congo-Nile divide", "central uplands"]
+    }
+  },
   {
     id: "kagera-river-nature-v2",
     type: "river",
@@ -158,13 +223,13 @@ export const poiExtraBurundiNatureV2: POI[] = [
       de: "Ein See im Norden Burundis, bekannt für seine Sumpflandschaften.",
       hu: "Tó Burundi északi részén, amely mocsaras tájairól ismert.",
       ro: "Un lac din nordul Burundi, cunoscut pentru peisajele sale mlaștinoase.",
-      en: "A lake in northern Burundi, known for its marshy landscapes."
+      en: "Lake Rweru lies in the northern border area and supports wetlands around its shores. The lake is part of a quiet freshwater landscape shared with neighboring regions."
     },
     facts: {
       de: ["Südlichster Punkt des Nils.", "Reiche Avifauna."],
       hu: ["A Nílus legdélebbi pontja.", "Gazdag madárvilág."],
       ro: ["Cel mai sudic punct al Nilului.", "Avifaună bogată."],
-      en: ["Southernmost point of the Nile.", "Rich avifauna."]
+      en: ["northern border area", "wetlands", "freshwater lake"]
     }, image: "/poi-images/rweru-lake-nature-v2.webp"},
   {
     id: "karera-falls-nature-v2",
@@ -203,14 +268,14 @@ export const poiExtraBurundiNatureV2: POI[] = [
     description: {
       de: "Der südlichste Punkt, der als Quelle des mächtigen Nil-Flusses gilt.",
       hu: "A hatalmas Nílus-folyó forrásának tartott legdélebbi pont.",
-      ro: "Cel mai sudic punct considerat izvorul puternicului râu Nil.",
-      en: "The southernmost point considered the source of the mighty Nile River."
+      ro: "Izvorul Nilului din sud-estul Burundiului este un loc simbolic legat de unul dintre cele mai mari fluvii ale Africii. Situl este marcat ca punct geografic important lângă Rutovu.",
+      en: "The source of the Nile in southern Burundi is a symbolic geographic point tied to the river's long journey north. It is associated with the country's highland interior and watershed history."
     },
     facts: {
       de: ["In der Nähe von Rutana.", "Durch eine Pyramide markiert."],
       hu: ["Rutana közelében.", "Piramis jelöli."],
-      ro: ["Lângă Rutana.", "Marcat de o piramidă."],
-      en: ["Near Rutana.", "Marked by a pyramid."]
+      ro: ["lângă Rutovu", "sursă simbolică", "Nilul"],
+      en: ["southern Burundi", "Nile source", "watershed point"]
     }, image: "/poi-images/nile-source-nature-v2.webp"},
   {
     id: "vyanda-forest-nature-v2",
@@ -225,14 +290,14 @@ export const poiExtraBurundiNatureV2: POI[] = [
     },
     description: {
       de: "Ein Reservat im Süden Burundis, das Schutz für Primaten bietet.",
-      hu: "Erdőrezervátum Burundi déli részén, amely védelmet nyújt a főemlősöknek.",
-      ro: "O rezervație din sudul Burundi care oferă protecție primatelor.",
+      hu: "A Vyanda-erdőrezervátum Burundi déli részén található, és főemlősök védelmét szolgálja. Az erdős terület fontos természetvédelmi hely.",
+      ro: "Rezervația forestieră Vyanda este o pădure de protecție din sudul Burundiului. Ea este cunoscută pentru habitatele de primate și pentru terenul ei deluros.",
       en: "A reserve in southern Burundi providing protection for primates."
     },
     facts: {
       de: ["Schimpansen-Population.", "Bergiges Gelände."],
-      hu: ["Csimpánzpopuláció.", "Hegyes terep."],
-      ro: ["Populație de cimpanzei.", "Teren muntos."],
+      hu: ["Dél-Burundi", "főemlősök", "védett erdő"],
+      ro: ["sudul țării", "primate", "pădure protejată"],
       en: ["Chimpanzee population.", "Mountainous terrain."]
     }
   },
@@ -294,16 +359,16 @@ export const poiExtraBurundiNatureV2: POI[] = [
       en: "Monge Forest Reserve"
     },
     description: {
-      de: "Ein geschütztes Waldgebiet in der Nähe der Hauptstadt Bujumbura.",
-      hu: "Védett erdőterület Bujumbura főváros közelében.",
-      ro: "O zonă forestieră protejată lângă capitala Bujumbura.",
-      en: "A protected forest area near the capital Bujumbura."
+      de: "Der Monge-Wald gehört zu den kleineren Waldgebieten im Süden Burundis. Er ist Teil einer hügeligen Landschaft mit Bedeutung für den lokalen Wasserhaushalt.",
+      hu: "A Monge-erdő Burundi déli részének kisebb erdőterületei közé tartozik. Dombos táj része, és a helyi vízháztartás szempontjából is fontos.",
+      ro: "Rezervația forestieră Monge este o zonă forestieră mică, dar importantă, din sudul Burundiului. Rolul ei este legat de echilibrul apei și de protecția locală a mediului.",
+      en: "Monge Forest is a local forest landscape in Burundi's interior. It adds tree cover, habitat, and a quieter rural atmosphere to the surrounding area."
     },
     facts: {
-      de: ["Erholunggebiet.", "Reiche Flora."],
-      hu: ["Rekreációs terület.", "Gazdag flóra."],
-      ro: ["Zonă de recreere.", "Floră bogată."],
-      en: ["Recreational area.", "Rich flora."]
+      de: ["Süden", "Waldgebiet", "Wasserhaushalt"],
+      hu: ["déli erdő", "vízháztartás", "dombvidék"],
+      ro: ["zonă forestieră", "echilibru hidric", "sudul țării"],
+      en: ["forest landscape", "interior Burundi", "local habitat"]
     }, image: "/poi-images/monge-forest-nature-v2.webp"},
   {
     id: "rwihinda-lake-nature-v2",
@@ -318,13 +383,13 @@ export const poiExtraBurundiNatureV2: POI[] = [
     },
     description: {
       de: "Bekannt als 'Vogelsee', ist er ein Paradies für Zugvögel.",
-      hu: "Madarak tavaként ismert, a vándormadarak paradicsoma.",
+      hu: "A Rwihinda-tó, más néven Madártó, a vonuló madarak egyik fontos pihenőhelye. A tó környezete természetvédelmi szempontból kiemelt.",
       ro: "Cunoscut sub numele de 'Lacul Păsărilor', este un paradis pentru păsările migratoare.",
       en: "Known as the 'Bird Lake', it is a paradise for migratory birds."
     },
     facts: {
       de: ["Schutzgebiet für Vögel.", "Schwimmende Inseln."],
-      hu: ["Madárvédelmi terület.", "Úszó szigetek."],
+      hu: ["madártó", "védett terület", "vonuló madarak"],
       ro: ["Rezervație pentru păsări.", "Insule plutitoare."],
       en: ["Bird sanctuary.", "Floating islands."]
     }, image: "/poi-images/rwihinda-lake-nature-v2.webp"},
@@ -363,14 +428,14 @@ export const poiExtraBurundiNatureV2: POI[] = [
       en: "Mount Twinyoni"
     },
     description: {
-      de: "Ein markanter Berg im Nordwesten Burundis.",
-      hu: "Jellegzetes hegy Burundi északnyugati részén.",
+      de: "Der Twinyoni-Berg liegt in einer hügeligen Region Burundis und prägt die umliegenden Dörfer. Die Hänge werden oft landwirtschaftlich genutzt.",
+      hu: "A Twinyoni-hegy Burundi egyik dombos régiójában emelkedik. Lejtőit gyakran mezőgazdasági használat alatt tartják.",
       ro: "Un munte proeminent în nord-vestul Burundi.",
       en: "A prominent mountain in northwestern Burundi."
     },
     facts: {
-      de: ["Aussicht auf das Ruzizi-Tal.", "Wanderziel."],
-      hu: ["Kilátás a Ruzizi-völgyre.", "Túracélpont."],
+      de: ["Hügelland", "ländliche Nutzung", "Aussicht"],
+      hu: ["dombvidék", "falusi használat", "kilátás"],
       ro: ["Vedere spre valea Ruzizi.", "Destinație de drumeție."],
       en: ["Views of the Ruzizi valley.", "Hiking destination."]
     }, image: "/poi-images/twinyoni-mountain-nature-v2.webp"},
@@ -386,16 +451,16 @@ export const poiExtraBurundiNatureV2: POI[] = [
       en: "Mount Mukike"
     },
     description: {
-      de: "Einer der hohen Gipfel des Nil-Kongo-Wasserscheide-Gebirges.",
-      hu: "A Nílus-Kongó vízválasztó hegység egyik magas csúcsa.",
-      ro: "Unul dintre vârfurile înalte ale munților cumpenei apelor Nil-Congo.",
-      en: "One of the high peaks of the Nile-Congo watershed mountains."
+      de: "Der Mukike-Berg gehört zu den markanten Erhebungen südwestlich von Bujumbura. Er liegt in einem Übergang von Stadtland zu Hochland.",
+      hu: "A Mukike-hegy Bujumburától délnyugatra található, és a városi és a magaslati táj közti átmenetet jelzi. Kiemelkedő pont a környék dombjai között.",
+      ro: "Muntele Mukike se află la sud-vest de Bujumbura și marchează trecerea spre zonele de altitudine. Este un reper natural vizibil în peisajul colinar din jur.",
+      en: "Mount Mukike rises in Burundi's highland terrain and is part of the country's upland relief. Its slopes fit the cooler, more rugged landscape of the interior."
     },
     facts: {
-      de: ["Kühles Bergklima.", "Dichte Nebel."],
-      hu: ["Hűvös hegyi éghajlat.", "Sűrű köd."],
-      ro: ["Climat montan răcoros.", "Ceață densă."],
-      en: ["Cool mountain climate.", "Dense mists."]
+      de: ["südwestlich von Bujumbura", "Erhebung", "Übergangszone"],
+      hu: ["Bujumburától délnyugatra", "kiemelkedés", "átmeneti zóna"],
+      ro: ["sud-vest de Bujumbura", "reper natural", "zonă de altitudine"],
+      en: ["highland terrain", "upland relief", "cooler slopes"]
     }, image: "/poi-images/mukike-mountain-nature-v2.webp"},
   {
     id: "manga-mountain-nature-v2",
@@ -409,13 +474,13 @@ export const poiExtraBurundiNatureV2: POI[] = [
       en: "Mount Manga"
     },
     description: {
-      de: "Ein heiliger Berg für die traditionelle burundische Kultur.",
+      de: "Der Manga-Berg ist eine lokale Erhebung in einer bergigen Region Burundis. Er gehört zu den Höhenzügen, die das zentrale Hochland formen.",
       hu: "Szent hegy a hagyományos burundi kultúra számára.",
       ro: "Un munte sfânt pentru cultura tradițională burundeză.",
       en: "A sacred mountain for traditional Burundian culture."
     },
     facts: {
-      de: ["Kulturelle Bedeutung.", "Panoramablick."],
+      de: ["zentrales Hochland", "Bergkette", "landwirtschaftliche Hänge"],
       hu: ["Kulturális jelentőség.", "Panorámás kilátás."],
       ro: ["Semnificație culturală.", "Vedere panoramică."],
       en: ["Cultural significance.", "Panoramic view."]
@@ -435,13 +500,13 @@ export const poiExtraBurundiNatureV2: POI[] = [
       de: "Eine Bergkette, die die Einzugsgebiete von Nil und Kongo trennt.",
       hu: "Hegylánc, amely elválasztja a Nílus és a Kongó vízgyűjtő területeit.",
       ro: "Un lanț muntos care separă bazinele Nilului și Congoului.",
-      en: "A mountain range separating the drainage basins of the Nile and Congo."
+      en: "The Nile-Congo crest is a watershed ridge running through Burundi's western highlands. It separates drainage basins and shapes the country's physical geography."
     },
     facts: {
       de: ["Wichtige Klimascheide.", "Hohe Niederschläge."],
       hu: ["Fontos éghajlati választóvonal.", "Magas csapadék."],
       ro: ["Cumpănă climatică importantă.", "Precipitații mari."],
-      en: ["Important climatic divide.", "High rainfall."]
+      en: ["watershed ridge", "western highlands", "drainage divide"]
     }, image: "/poi-images/nile-congo-crest-nature-v2.webp"},
   {
     id: "dogodogo-lake-nature-v2",
@@ -455,16 +520,16 @@ export const poiExtraBurundiNatureV2: POI[] = [
       en: "Lake Dogodogo"
     },
     description: {
-      de: "Ein kleiner See in der Nähe der Ruzizi-Ebene im Nordwesten.",
-      hu: "Kis tó a Ruzizi-síkság közelében, északnyugaton.",
+      de: "Der Dogodogo-See ist ein kleinerer See in Burundi und Teil einer lokalen Wasserlandschaft. Solche Gewässer sind wichtig für Landwirtschaft und Alltag.",
+      hu: "A Dogodogo-tó egy kisebb burundi tó egy helyi vízfelületi rendszer részeként. Az ilyen vizek fontosak a mezőgazdaság és a mindennapi élet szempontjából.",
       ro: "Un lac mic lângă câmpia Ruzizi din nord-vest.",
-      en: "A small lake near the Ruzizi plain in the northwest."
+      en: "Dogodogo Lake is a small inland lake in Burundi's countryside. It contributes to the local water landscape and nearby rural ecology."
     },
     facts: {
-      de: ["Fischreiches Gewässer.", "Vogelhabitat."],
-      hu: ["Halakban gazdag víz.", "Madár élőhely."],
+      de: ["kleiner See", "Wasserreserve", "ländliche Nutzung"],
+      hu: ["kis tó", "víztartalék", "vidéki használat"],
       ro: ["Apă bogată în pește.", "Habitat pentru păsări."],
-      en: ["Fish-rich water.", "Bird habitat."]
+      en: ["small inland lake", "rural setting", "local ecology"]
     }, image: "/poi-images/dogodogo-lake-nature-v2.webp"},
   {
     id: "gacamirindi-lake-nature-v2",
@@ -524,16 +589,16 @@ export const poiExtraBurundiNatureV2: POI[] = [
       en: "Mount Murungu"
     },
     description: {
-      de: "Ein bedeutender Berg in der östlichen Provinz Rutana.",
-      hu: "Jelentős hegy Rutana keleti tartományában.",
+      de: "Der Murungu-Berg steht für die hügelige Reliefstruktur im zentralen Burundi. Die Erhebung gehört zu den vielen Höhenzügen des Landesinneren.",
+      hu: "A Murungu-hegy Burundi középső belső magasföldjének jellegzetes domborzati pontja. Az ország sok völgyébe és dombjába illeszkedik.",
       ro: "Un munte semnificativ în provincia de est Rutana.",
-      en: "A significant mountain in the eastern province of Rutana."
+      en: "Mount Murungu is part of Burundi's hilly interior and adds height to the surrounding rural land. It reflects the country's mix of slopes, ridges, and cultivated valley floors."
     },
     facts: {
-      de: ["Wanderwege.", "Heimat von Greifvögeln."],
-      hu: ["Túraútvonalak.", "Ragadozó madarak otthona."],
+      de: ["Zentralburundi", "Hügelland", "Reliefpunkt"],
+      hu: ["Közép-Burundi", "dombvidék", "reliefpont"],
       ro: ["Trasee de drumeție.", "Casa păsărilor de pradă."],
-      en: ["Hiking trails.", "Home to birds of prey."]
+      en: ["hilly interior", "rural land", "ridge landscape"]
     }, image: "/poi-images/murungu-mountain-nature-v2.webp"},
   {
     id: "mpanda-river-nature-v2",

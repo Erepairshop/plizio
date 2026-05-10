@@ -1,0 +1,120 @@
+{
+  "lang": "ro",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cr-muelle-de-puntarenas-landmarks-v2",
+      "description": "Muelle de Puntarenas este emblema portuară a orașului și unul dintre cele mai recunoscute locuri de pe coasta Pacificului. Aici se simte legătura dintre oraș, turism și transportul maritim.",
+      "facts": [
+        "Pe coasta Pacificului",
+        "Simbol al orașului Puntarenas",
+        "Folosit pentru activități portuare și turistice"
+      ]
+    },
+    {
+      "id": "cr-iglesia-de-metal-grecia-landmarks-v2",
+      "description": "Biserica de metal din Grecia este un reper unic, construit din piese metalice prefabricate. Clădirea a devenit simbolul orașului Grecia din provincia Alajuela.",
+      "facts": [
+        "În Grecia, Alajuela",
+        "Construcție metalică",
+        "Reper foarte cunoscut"
+      ]
+    },
+    {
+      "id": "cr-sanatorio-duran-landmarks-v2",
+      "description": "Sanatorio Durán este un vechi sanatoriu de tuberculoză din Cartago, astăzi transformat într-un sit istoric. Ruinele lui sunt cunoscute atât pentru valoarea lor patrimonială, cât și pentru poveștile locale.",
+      "facts": [
+        "În provincia Cartago",
+        "Fost sanatoriu de tuberculoză",
+        "A rămas ca sit istoric"
+      ]
+    },
+    {
+      "id": "cr-sloth-sanctuary-landmarks-v2",
+      "description": "Sloth Sanctuary este un centru de salvare și reabilitare pentru leneși, pe coasta caraibiană a Costa Ricăi. Locul combină protecția faunei cu tururi educative pentru vizitatori.",
+      "facts": [
+        "Lângă Cahuita",
+        "Centru pentru leneși",
+        "Axat pe salvare și educație"
+      ]
+    },
+    {
+      "id": "cr-basilica-santo-domingo-heredia-landmarks-v2",
+      "description": "Basílica de Santo Domingo din Heredia este unul dintre reperele religioase importante ale provinciei. Templul are un rol central în viața comunității locale din Santo Domingo.",
+      "facts": [
+        "În provincia Heredia",
+        "Reper religios major",
+        "Parte din comunitatea din Santo Domingo"
+      ]
+    },
+    {
+      "id": "cr-iglesia-de-san-rafael-de-heredia-landmarks-v2",
+      "description": "Biserica San Rafael de Heredia este un templu neogotic cunoscut în tot cantonul. Fațada ei și restaurarea atentă au făcut-o unul dintre simbolurile locale.",
+      "facts": [
+        "În San Rafael de Heredia",
+        "Stil neogotic",
+        "Reper arhitectural al cantonului"
+      ]
+    },
+    {
+      "id": "mercado-central-life-v2",
+      "description": "Mercado Central din San José este unul dintre cele mai vii locuri din capitală. Aici se amestecă tarabele cu produse, micile localuri și ritmul zilnic al orașului.",
+      "facts": [
+        "În centrul capitalei",
+        "Piață tradițională",
+        "Loc de gastronomie locală"
+      ]
+    },
+    {
+      "id": "teatro-nacional-life-v2",
+      "description": "Teatrul Național din Costa Rica este clădirea-simbol a eleganței urbane din San José. A fost ridicat din prosperitatea cafelei și a devenit o referință culturală a țării.",
+      "facts": [
+        "În San José",
+        "Finanțat de exportul de cafea",
+        "Simbol cultural național"
+      ]
+    },
+    {
+      "id": "finca-cafe-life-v2",
+      "description": "Finca de cafea este imaginea clasică a agriculturii din zonele înalte ale Costa Ricăi. Solul vulcanic și clima mai răcoroasă favorizează cafeaua Arabica de calitate.",
+      "facts": [
+        "În zonele înalte",
+        "Sol vulcanic",
+        "Cafea Arabica"
+      ]
+    },
+    {
+      "id": "tortilla-tradition-life-v2",
+      "description": "Tradiția tortilla face parte din masa zilnică din Costa Rica. Turtele de porumb sunt preparate simplu și servite alături de multe feluri locale.",
+      "facts": [
+        "Pe bază de porumb",
+        "Gătită pe comal",
+        "Parte din bucătăria de zi cu zi"
+      ]
+    },
+    {
+      "id": "boruca-masks-life-v2",
+      "description": "Măștile Boruca sunt o formă puternică de artă indigenă din Costa Rica. Ele sunt sculptate și pictate manual și sunt legate de tradiția Diablitos.",
+      "facts": [
+        "Tradiție indigenă",
+        "Sculptate din lemn",
+        "Legate de Diablitos"
+      ]
+    },
+    {
+      "id": "gallo-pinto-life-v2",
+      "description": "Gallo pinto este unul dintre cele mai cunoscute feluri de mâncare din Costa Rica. Amestecul de orez și fasole apare des la micul dejun și în meniurile tradiționale.",
+      "facts": [
+        "Orez și fasole",
+        "Mic dejun obișnuit",
+        "Fel național foarte cunoscut"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "lang": "ro",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-henry-kingston-history-v2",
+      "description": "Fort Henry este o fortifica?ie istoric? din Kingston, pe malul lacului Ontario. A f?cut parte din sistemul de ap?rare al estului Canadei.",
+      "facts": [
+        "?n Kingston",
+        "Pe lacul Ontario",
+        "Fortifica?ie istoric?"
+      ]
+    },
+    {
+      "id": "klondike-gold-rush-history-v2",
+      "description": "Goana dup? aur din Klondike a atras mii de oameni ?n Yukon la sf?r?itul secolului al XIX-lea. A schimbat rapid dezvoltarea nordului canadian.",
+      "facts": [
+        "?n Yukon",
+        "Sf?r?itul secolului XIX",
+        "A atras mii de prospectori"
+      ]
+    },
+    {
+      "id": "fort-langley-history-v2",
+      "description": "Fort Langley a fost un post comercial istoric din Fraser Valley. Este legat de comer?ul cu bl?nuri ?i de ?nceputurile coloniale ale Columbiei Britanice.",
+      "facts": [
+        "?n Fraser Valley",
+        "Post comercial istoric",
+        "Legat de comer?ul cu bl?nuri"
+      ]
+    },
+    {
+      "id": "royal-bc-museum-history-v2",
+      "description": "Royal BC Museum din Victoria este unul dintre muzeele majore ale Columbiei Britanice. Reune?te colec?ii despre natur? ?i istoria uman? a provinciei.",
+      "facts": [
+        "?n Victoria",
+        "Muzeu provincial important",
+        "Natur? ?i istorie uman?"
+      ]
+    },
+    {
+      "id": "fort-malden-amherstburg-history-v2",
+      "description": "Fort Malden este un fort istoric din Amherstburg, pe r?ul Detroit. Este legat de istoria militar? a zonei ?i de R?zboiul din 1812.",
+      "facts": [
+        "?n Amherstburg",
+        "Pe r?ul Detroit",
+        "Legat de R?zboiul din 1812"
+      ]
+    },
+    {
+      "id": "confederation-bridge-landmarks-v2",
+      "description": "Confederation Bridge leag? insula Prince Edward de New Brunswick. Este un pasaj fix important peste apele ?nghe?ate ale golfului.",
+      "facts": [
+        "?ntre PEI ?i New Brunswick",
+        "Pasaj fix",
+        "Traverseaz? golful"
+      ]
+    },
+    {
+      "id": "olympic-stadium-montreal-landmarks-v2",
+      "description": "Stadionul Olimpic din Montreal a fost construit pentru Jocurile din 1976. R?m?ne unul dintre cele mai recunoscute repere sportive ale ora?ului.",
+      "facts": [
+        "?n Montreal",
+        "Pentru JO 1976",
+        "Reper sportiv"
+      ]
+    },
+    {
+      "id": "bc-place-stadium-landmarks-v2",
+      "description": "BC Place este stadionul multifunc?ional din Vancouver, cunoscut pentru acoperi?ul s?u ?i pentru evenimentele majore. Este un punct central al zonei sportive locale.",
+      "facts": [
+        "?n Vancouver",
+        "Stadion multifunc?ional",
+        "Cunoscut pentru acoperi?"
+      ]
+    },
+    {
+      "id": "royal-ontario-museum-landmarks-v2",
+      "description": "Royal Ontario Museum din Toronto este unul dintre cele mai mari muzee din Canada. Colec?iile sale acoper? istorie natural?, art? ?i cultur?.",
+      "facts": [
+        "?n Toronto",
+        "Printre cele mai mari muzee",
+        "Colec?ii variate"
+      ]
+    },
+    {
+      "id": "casa-loma-landmarks-v2",
+      "description": "Casa Loma este un castel urban din Toronto, ridicat la ?nceputul secolului al XX-lea. Cl?direa este ast?zi un reper turistic foarte cunoscut.",
+      "facts": [
+        "?n Toronto",
+        "Castel urban",
+        "Construit la ?nceputul secolului XX"
+      ]
+    },
+    {
+      "id": "macdonald-bridge-halifax-landmarks-v2",
+      "description": "Macdonald Bridge leag? Halifax de Dartmouth peste portul ora?ului. Este una dintre conexiunile clasice ale zonei metropolitane Halifax.",
+      "facts": [
+        "Halifax ?i Dartmouth",
+        "Peste port",
+        "Pod suspendat"
+      ]
+    },
+    {
+      "id": "winnipeg-legislative-building-landmarks-v2",
+      "description": "Cl?direa Legislativului din Winnipeg g?zduie?te parlamentul provinciei Manitoba. Este cunoscut? pentru arhitectura sa neoclasic? ?i pentru dom.",
+      "facts": [
+        "?n Winnipeg",
+        "Sediul legislativului Manitobei",
+        "Arhitectur? neoclasic?"
+      ]
+    }
+  ]
+}

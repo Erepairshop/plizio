@@ -53,8 +53,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Ende des Bürgerkriegs 2009 löste Bauboom aus",
         "Port City-Großprojekt auf 269 Hektar Landgewinnung"
       ]
-    }
-  },
+    }, image: "/poi-images/colombo-cities-v2.webp"},
   {
     id: "kandy-cities-v2",
     type: "state-capital",
@@ -107,8 +106,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Britische Kolonialzeit 1815-1948",
         "Esala Perahera als bedeutendste Prozession Sri Lankas"
       ]
-    }
-  },
+    }, image: "/poi-images/kandy-cities-v2.webp"},
   {
     id: "galle-cities-v2",
     type: "state-capital",
@@ -161,8 +159,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Festung 36 Hektar groß aus Korallen- und Granitstein",
         "Größte europäisch erbaute Festung Asiens"
       ]
-    }
-  },
+    }, image: "/poi-images/galle-cities-v2.webp"},
   {
     id: "jaffna-cities-v2",
     type: "state-capital",
@@ -215,8 +212,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Wiedereröffnung der Bibliothek 2003",
         "Nallur Kandaswamy Tempel von 1734"
       ]
-    }
-  },
+    }, image: "/poi-images/jaffna-cities-v2.webp"},
   {
     id: "trincomalee-cities-v2",
     type: "state-capital",
@@ -269,8 +265,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Koneswaram-Tempel ab dem 5. Jahrhundert",
         "Tempel 1622 zerstört, 1952 wiederaufgebaut"
       ]
-    }
-  },
+    }, image: "/poi-images/trincomalee-cities-v2.webp"},
   {
     id: "kurunegala-cities-v2",
     type: "state-capital",
@@ -323,8 +318,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Über 70% der Kokosnussproduktion aus dem Dreieck",
         "94 Kilometer nordöstlich von Colombo"
       ]
-    }
-  },
+    }, image: "/poi-images/kurunegala-cities-v2.webp"},
   {
     id: "anuradhapura-cities-v2",
     type: "state-capital",
@@ -377,8 +371,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "UNESCO-Weltkulturerbe seit 1982",
         "Britische Kolonialzeit 1815-1948 mit Wiederausgrabung"
       ]
-    }
-  },
+    }, image: "/poi-images/anuradhapura-cities-v2.webp"},
   {
     id: "badulla-cities-v2",
     type: "state-capital",
@@ -431,8 +424,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Uva-Tee als hochwertiger Ceylon-Tee",
         "Muthiyangana Raja Maha Vihara als heilige Stätte"
       ]
-    }
-  },
+    }, image: "/poi-images/badulla-cities-v2.webp"},
   {
     id: "ratnapura-cities-v2",
     type: "state-capital",
@@ -485,8 +477,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Handgrabungen bis 30 Meter Tiefe",
         "National Museum of Sabaragamuwa"
       ]
-    }
-  },
+    }, image: "/poi-images/ratnapura-cities-v2.webp"},
   {
     id: "dehiwala-mount-lavinia-cities-v2",
     type: "city",
@@ -539,8 +530,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Zoo 22 Hektar groß mit rund 3.000 Tieren",
         "Coastal Railway Line direkt nach Colombo"
       ]
-    }
-  },
+    }, image: "/poi-images/dehiwala-mount-lavinia-cities-v2.webp"},
   {
     id: "moratuwa-cities-v2",
     type: "city",
@@ -593,8 +583,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Kulturelle Heimat der Baila-Musik",
         "Bolgoda-Lagune 374 Hektar groß"
       ]
-    }
-  },
+    }, image: "/poi-images/moratuwa-cities-v2.webp"},
   {
     id: "sri-jayawardenepura-kotte-cities-v2",
     type: "city",
@@ -647,8 +636,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Architekt Kenzo Tange",
         "Parlament im Diyawanna-See gelegen"
       ]
-    }
-  },
+    }, image: "/poi-images/sri-jayawardenepura-kotte-cities-v2.webp"},
   {
     id: "negombo-cities-v2",
     type: "city",
@@ -701,8 +689,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Tsunami 26. Dezember 2004 mit 350 Toten",
         "Osterterroranschlag 21. April 2019 mit 113 Opfern"
       ]
-    }
-  },
+    }, image: "/poi-images/negombo-cities-v2.webp"},
   {
     id: "batticaloa-cities-v2",
     type: "city",
@@ -755,8 +742,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Tsunami 26. Dezember 2004 mit 2.800 Opfern",
         "Bürgerkrieg 1983-2009"
       ]
-    }
-  },
+    }, image: "/poi-images/batticaloa-cities-v2.webp"},
   {
     id: "gampaha-cities-v2",
     type: "city",
@@ -809,8 +795,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Expressway E03 als Anbindung",
         "Grundstein der asiatischen Kautschukindustrie"
       ]
-    }
-  },
+    }, image: "/poi-images/gampaha-cities-v2.webp"},
   {
     id: "matara-cities-v2",
     type: "city",
@@ -863,8 +848,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Southern Expressway E01 seit 2014",
         "Dondra Head als südlichster Punkt mit Leuchtturm 1890"
       ]
-    }
-  },
+    }, image: "/poi-images/matara-cities-v2.webp"},
   {
     id: "nuwara-eliya-cities-v2",
     type: "city",
@@ -917,8 +901,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Ceylon-Hochlandtee ab 1867 durch James Taylor",
         "Lake Gregory 1873 angelegt"
       ]
-    }
-  },
+    }, image: "/poi-images/nuwara-eliya-cities-v2.webp"},
   {
     id: "kalutara-cities-v2",
     type: "city",
@@ -971,8 +954,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Tsunami 26. Dezember 2004 mit 270 Opfern",
         "Berühmt für Mangostan und Korbflechterei"
       ]
-    }
-  },
+    }, image: "/poi-images/kalutara-cities-v2.webp"},
   {
     id: "puttalam-cities-v2",
     type: "city",
@@ -1025,8 +1007,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Bürgerkrieg 1983-2009",
         "Wilpattu-Nationalpark in 30 Kilometer Entfernung"
       ]
-    }
-  },
+    }, image: "/poi-images/puttalam-cities-v2.webp"},
   {
     id: "polonnaruwa-cities-v2",
     type: "city",
@@ -1079,8 +1060,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "UNESCO-Weltkulturerbe seit 1982",
         "Königspalast mit einst sieben Stockwerken"
       ]
-    }
-  },
+    }, image: "/poi-images/polonnaruwa-cities-v2.webp"},
   {
     id: "matale-cities-v2",
     type: "city",
@@ -1133,8 +1113,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Tempel mit über 1.000 Skulpturen",
         "26 Kilometer nördlich von Kandy"
       ]
-    }
-  },
+    }, image: "/poi-images/matale-cities-v2.webp"},
   {
     id: "vavuniya-cities-v2",
     type: "city",
@@ -1187,8 +1166,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Wiederaufbau der Bahnstrecke 2014",
         "Manik-Farm-Camp mit 290.000 Vertriebenen 2009"
       ]
-    }
-  },
+    }, image: "/poi-images/vavuniya-cities-v2.webp"},
   {
     id: "mannar-cities-v2",
     type: "city",
@@ -1241,8 +1219,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Bürgerkrieg 1983-2009 traf Region schwer",
         "Bahnstrecke 1990 unterbrochen, 2010 wiedereröffnet"
       ]
-    }
-  },
+    }, image: "/poi-images/mannar-cities-v2.webp"},
   {
     id: "chilaw-cities-v2",
     type: "city",
@@ -1295,8 +1272,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Eisenbahnstrecke aus Colombo seit 1879",
         "Tsunami 26. Dezember 2004 mit rund 100 Opfern"
       ]
-    }
-  },
+    }, image: "/poi-images/chilaw-cities-v2.webp"},
   {
     id: "hambantota-cities-v2",
     type: "city",
@@ -1349,8 +1325,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Hafen 2017 für 99 Jahre an China verpachtet",
         "70 Prozent des Speisesalzes aus Lewaya-Salinen"
       ]
-    }
-  },
+    }, image: "/poi-images/hambantota-cities-v2.webp"},
   {
     id: "ampara-cities-v2",
     type: "city",
@@ -1403,8 +1378,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Gal Oya-Nationalpark mit schwimmenden Elefanten",
         "Erstes Großbewässerungsprojekt des unabhängigen Sri Lanka"
       ]
-    }
-  },
+    }, image: "/poi-images/ampara-cities-v2.webp"},
   {
     id: "kilinochchi-cities-v2",
     type: "city",
@@ -1457,8 +1431,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Britische Kolonialzeit 1815-1948",
         "Northern Line der Eisenbahn von 1905"
       ]
-    }
-  },
+    }, image: "/poi-images/kilinochchi-cities-v2.webp"},
   {
     id: "mullaitivu-cities-v2",
     type: "city",
@@ -1511,8 +1484,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Stadt 2004 vollständig zerstört",
         "Wiederaufbau nach 2009 nur schleppend"
       ]
-    }
-  },
+    }, image: "/poi-images/mullaitivu-cities-v2.webp"},
   {
     id: "kegalle-cities-v2",
     type: "city",
@@ -1565,8 +1537,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
         "Pinnawala-Elefantenwaisenhaus seit 1975",
         "Rund 90 Elefanten in Pinnawala"
       ]
-    }
-  },
+    }, image: "/poi-images/kegalle-cities-v2.webp"},
   {
     id: "moneragala-cities-v2",
     type: "city",

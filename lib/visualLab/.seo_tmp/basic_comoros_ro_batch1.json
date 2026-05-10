@@ -1,0 +1,77 @@
+{
+  "lang": "ro",
+  "country": "Comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosCitiesV2.ts",
+    "lib/visualLab/data/poiExtraComorosHistoryV2.ts",
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ouani-cities-v2",
+      "description": "Ouani este o localitate de pe insula Anjouan, cunoscută pentru rolul ei ca punct de acces pentru nordul insulei. Atmosfera este cea a unui centru insular mic, legat de transport și de viața comunității.",
+      "facts": ["localitate din Comore", "pe insula Anjouan", "legată de aeroportul Ouani"]
+    },
+    {
+      "id": "iconi-cities-v2",
+      "description": "Iconi este un oraș de pe Grande Comore, cunoscut pentru poziția sa de coastă și pentru trecutul său istoric. Localitatea păstrează o identitate puternic legată de tradițiile insulei.",
+      "facts": ["oraș pe Grande Comore", "aproape de Moroni", "centru vechi de coastă"]
+    },
+    {
+      "id": "sima-cities-v2",
+      "description": "Sima este un oraș de pe insula Anjouan, unde viața locală este strâns legată de drumurile de coastă și de agricultură. Este una dintre așezările importante din vestul insulei.",
+      "facts": ["localitate din Anjouan", "parte din Comore", "are rol regional"]
+    },
+    {
+      "id": "tsembehou-cities-v2",
+      "description": "Tsembehou este un oraș din Anjouan, situat în zona centrală a insulei. Este cunoscut ca un nod local pentru comunitățile din jur.",
+      "facts": ["oraș din Anjouan", "una dintre așezările mari ale insulei", "centru local"]
+    },
+    {
+      "id": "adda-doueni-cities-v2",
+      "description": "Adda-Douéni este un oraș din Anjouan, cu un profil urban modest și legături puternice cu satele din jur. Așezarea face parte din ritmul cotidian al estului insulei.",
+      "facts": ["localitate din Anjouan", "în Comore", "comunitate insulară"]
+    },
+    {
+      "id": "moya-cities-v2",
+      "description": "Moya este un oraș de pe Anjouan, asociat cu partea sud-estică a insulei. Are o viață locală liniștită și un cadru tipic pentru așezările comoriene.",
+      "facts": ["localitate pe Anjouan", "din Comore", "mediu insular"]
+    },
+    {
+      "id": "djoyezi-cities-v2",
+      "description": "Djoyezi este o localitate de pe Mohéli, cu un ritm de viață legat de insulă și de activitățile locale. Face parte din peisajul urban mic al arhipelagului.",
+      "facts": ["localitate pe Mohéli", "din Comore", "așezare insulară"]
+    },
+    {
+      "id": "mbatse-cities-v2",
+      "description": "Mbatsé este o localitate de pe Mohéli, unde comunitatea și viața de zi cu zi dau forma locului. Numele apare în peisajul micilor orașe ale insulei.",
+      "facts": ["pe Mohéli", "localitate din Comore", "comunitate mică"]
+    },
+    {
+      "id": "bandamadji-cities-v2",
+      "description": "Bandamadji este o localitate din Grande Comore, cu profil de sat sau suburbie rurală. Este legată de zona locuită din jurul capitalei insulei.",
+      "facts": ["pe Grande Comore", "din Comore", "așezare locală"]
+    },
+    {
+      "id": "chembenyouba-cities-v2",
+      "description": "Chembenyouba este o localitate insulară din arhipelagul Comorelor, cu viață de comunitate și servicii locale. Este un punct mic, dar relevant pentru harta așezărilor din zonă.",
+      "facts": ["localitate insulară", "din arhipelag", "comunitate locală"]
+    },
+    {
+      "id": "dembeni-cities-v2",
+      "description": "Dembeni este un oraș de pe Grande Comore, cunoscut ca așezare importantă din partea centrală a insulei. Are o poziție utilă pentru legăturile dintre localitățile din jur.",
+      "facts": ["pe Grande Comore", "din Comore", "oraș local"]
+    },
+    {
+      "id": "djoumoichongo-cities-v2",
+      "description": "Djoumoichongo este o localitate din Grande Comore, cu caracter rural și legături strânse cu satele vecine. Face parte din rețeaua densă de așezări a insulei.",
+      "facts": ["pe Grande Comore", "din Comore", "localitate rurală"]
+    },
+    {
+      "id": "dzahani-cities-v2",
+      "description": "Dzahani este un sat din Grande Comore, unde viața zilnică rămâne legată de comunitatea locală. Este una dintre numeroasele așezări mici ale insulei.",
+      "facts": ["sat pe Grande Comore", "din Comore", "comunitate locală"]
+    }
+  ]
+}

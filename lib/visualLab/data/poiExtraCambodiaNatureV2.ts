@@ -18,8 +18,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["A Mekong vízrendszerének része.", "Úszó falvak jellemzik a tájat.", "1997 óta UNESCO bioszféra-rezervátum.", "Ritka vízimadarak otthona."],
       ro: ["Face parte din sistemul râului Mekong.", "Satele plutitoare domină peisajul.", "Rezervație a biosferei UNESCO din 1997.", "Adăpost pentru păsări de apă rare."],
       en: ["Part of the Mekong river system.", "Floating villages dominate the landscape.", "UNESCO biosphere reserve since 1997.", "Home to rare waterbirds."]
-    }
-  },
+    }, image: "/poi-images/tonle-sap-lake-nature-v2.webp"},
   {
     id: "phnom-kulen-national-park-nature-v2",
     type: "national-park",
@@ -27,18 +26,17 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     coords: [104.1000, 13.6000],
     name: { de: "Phnom Kulen Nationalpark", hu: "Phnom Kulen Nemzeti Park", ro: "Parcul Național Phnom Kulen", en: "Phnom Kulen National Park" },
     description: {
-      de: "Ein heiliger Gebirgszug und Nationalpark, der als Geburtsort des alten Khmer-Reiches gilt und für seine wunderschönen Wasserfälle bekannt ist.",
-      hu: "Szent hegység és nemzeti park, amely az ősi khmer birodalom szülőhelyének számít, és gyönyörű vízeséseiről ismert.",
-      ro: "Un lanț muntos sacru și un parc național considerat locul de naștere al vechiului imperiu Khmer, renumit pentru cascadele sale frumoase.",
-      en: "A sacred mountain range and national park considered the birthplace of the ancient Khmer Empire, known for its beautiful waterfalls."
+      de: "Der Phnom-Kulen-Nationalpark liegt auf einem heiligen Berg bei Siem Reap. Er verbindet Wald, Wasserfälle und frühe Khmer-Geschichte.",
+      hu: "A Phnom Kulen Nemzeti Park szent hegyvidéke vízeséseiről és vallási helyszíneiről ismert. A terület fontos zarándokhely, és a khmer történelem korai emlékeihez kötődik.",
+      ro: "Un parc național de pe muntele sacru Phnom Kulen, la nord de Siem Reap. Zona include cascade și situri vechi khmere, inclusiv Râul celor 1000 de lingamuri.",
+      en: "Phnom Kulen National Park covers a sacred mountain range north of Siem Reap. It is known for waterfalls, forest, and early Khmer history."
     },
     facts: {
-      de: ["Höchste Erhebung etwa 487 Meter.", "Verfügt über den \"Fluss der 1000 Lingas\".", "Wichtiger Pilgerort für Buddhisten.", "Schutzgebiet seit 1993."],
-      hu: ["Legmagasabb pontja körülbelül 487 méter.", "Itt található az \"1000 linga folyója\".", "Fontos zarándokhely a buddhisták számára.", "1993 óta védett terület."],
-      ro: ["Cota maximă este de aproximativ 487 metri.", "Include \"Râul celor 1000 de lingas\".", "Loc important de pelerinaj pentru budiști.", "Zonă protejată din 1993."],
-      en: ["Highest elevation is about 487 meters.", "Features the \"River of 1000 Lingas\".", "Important pilgrimage site for Buddhists.", "Protected area since 1993."]
-    }
-  },
+      de: ["Als heiliger Berg verehrt", "Quelle mehrerer Flüsse für Angkor", "Bekannt für Wasserfälle", "Mit der Gründung des Khmer-Reiches verbunden"],
+      hu: ["Csúcsának magassága 487 méter", "A '1000 linga folyója' itt található", "Fontos zarándokhely", "Védett területként működik"],
+      ro: ["Munte sacru pentru khmeri", "Aproape 487 m altitudine", "Include cascade cunoscute", "Legat de începuturile imperiului Khmer"],
+      en: ["Located in Siem Reap Province.", "Home to the River of a Thousand Lingas.", "Known for the Phnom Kulen waterfalls.", "Linked to early Khmer kings."]
+    }, image: "/poi-images/phnom-kulen-national-park-nature-v2.webp"},
   {
     id: "cardamom-mountains-nature-v2",
     type: "mountain",
@@ -56,8 +54,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Egészen Thaiföldig húzódik.", "Ködöspárducok és maláj medvék otthona.", "Nagyon gyéren lakott régió.", "Ökológiai hotspotnak számít."],
       ro: ["Se întinde până în Thailanda.", "Adăpostește leoparzi pătați și urși malaezi.", "Regiune foarte slab populată.", "Considerat un punct fierbinte ecologic."],
       en: ["Extends into Thailand.", "Home to clouded leopards and sun bears.", "Very sparsely populated region.", "Considered an ecological hotspot."]
-    }
-  },
+    }, image: "/poi-images/cardamom-mountains-nature-v2.webp"},
   {
     id: "mekong-river-cambodia-nature-v2",
     type: "river",
@@ -75,8 +72,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Laoszból folyik Vietnam felé.", "Központi forrás a halászat és mezőgazdaság számára.", "Összekapcsolódik a Tonlé Szap-tóval.", "Évszázadok óta a legfontosabb kereskedelmi útvonal."],
       ro: ["Curge din Laos spre Vietnam.", "Sursă centrală pentru pescuit și agricultură.", "Se conectează cu lacul Tonle Sap.", "Cea mai importantă rută comercială de secole."],
       en: ["Flows from Laos towards Vietnam.", "Central source for fishing and agriculture.", "Connects with the Tonle Sap lake.", "Most important trade route for centuries."]
-    }
-  },
+    }, image: "/poi-images/mekong-river-cambodia-nature-v2.webp"},
   {
     id: "virachey-national-park-nature-v2",
     type: "national-park",
@@ -94,8 +90,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["1993-ban alapították.", "Területe 3325 négyzetkilométer.", "Laosszal és Vietnámmal határos.", "Az ASEAN Örökség Park hálózat része."],
       ro: ["Fondat în anul 1993.", "Acoperă o suprafață de 3.325 kilometri pătrați.", "Se învecinează cu Laos și Vietnam.", "Face parte din rețeaua ASEAN Heritage Parks."],
       en: ["Founded in the year 1993.", "Covers an area of 3,325 square kilometers.", "Borders Laos and Vietnam.", "Part of the ASEAN Heritage Park network."]
-    }
-  },
+    }, image: "/poi-images/virachey-national-park-nature-v2.webp"},
   {
     id: "ream-national-park-nature-v2",
     type: "national-park",
@@ -113,8 +108,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Sihanoukville tartományban található.", "Területe körülbelül 210 négyzetkilométer.", "Delfineknek és teknősöknek is otthont ad.", "Néhány kisebb szigetet is magába foglal."],
       ro: ["Situat în provincia Sihanoukville.", "Suprafață de aproximativ 210 kilometri pătrați.", "Adăpostește delfini și țestoase.", "Include și câteva insule mici."],
       en: ["Located in Sihanoukville province.", "Area of about 210 square kilometers.", "Home to dolphins and turtles.", "Also includes several small islands."]
-    }
-  },
+    }, image: "/poi-images/ream-national-park-nature-v2.webp"},
   {
     id: "yeak-laom-lake-nature-v2",
     type: "lake",
@@ -132,8 +126,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Körülbelül 4000 éves.", "Legnagyobb mélysége 48 méter.", "Átmérője majdnem 800 méter.", "Vize rendkívül tiszta és átlátszó."],
       ro: ["Aproximativ 4.000 de ani vechime.", "Adâncime maximă de 48 de metri.", "Diametru de aproape 800 de metri.", "Apa este extrem de clară și curată."],
       en: ["About 4,000 years old.", "Maximum depth of 48 meters.", "Diameter of almost 800 meters.", "The water is extremely clear and clean."]
-    }
-  },
+    }, image: "/poi-images/yeak-laom-lake-nature-v2.webp"},
   {
     id: "kirirom-national-park-nature-v2",
     type: "national-park",
@@ -141,18 +134,17 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     coords: [104.0500, 11.3167],
     name: { de: "Kirirom Nationalpark", hu: "Kirirom Nemzeti Park", ro: "Parcul Național Kirirom", en: "Kirirom National Park" },
     description: {
-      de: "Ein hoch gelegener Park mit kühlem Klima, dominiert von ausgedehnten Kiefernwäldern, die einen starken Kontrast zum tropischen Kambodscha bilden.",
-      hu: "Magasan fekvő park hűvös klímával, amelyet kiterjedt fenyőerdők uralnak, erős kontrasztot alkotva a trópusi Kambodzsával.",
-      ro: "Un parc situat la altitudine cu un climat răcoros, dominat de păduri extinse de pini care contrastează puternic cu Cambodgia tropicală.",
-      en: "A high-altitude park with a cool climate, dominated by extensive pine forests that contrast sharply with tropical Cambodia."
+      de: "Der Kirirom-Nationalpark liegt auf einem kühlen Hochplateau im Süden Kambodschas. Kiefernwälder und Wasserläufe prägen das Gelände.",
+      hu: "A Kirirom Nemzeti Park egy hűvösebb, magasabban fekvő terület, ahol fenyvesek és vízfolyások uralják a tájat. A kambodzsai alföldtől nagyon eltérő, nyugodtabb hegyvidéki környezetet mutat.",
+      ro: "Un parc național de platou, cu climat mai răcoros decât în restul Cambodgiei. Este cunoscut pentru pădurile de pin și traseele liniștite.",
+      en: "Kirirom National Park is a cool highland park in southwestern Cambodia. Pine forest, streams, and hiking trails make it different from the lowland plains."
     },
     facts: {
-      de: ["Erster offizieller Nationalpark des Landes.", "Gegründet im Jahr 1940.", "Der Name bedeutet \"Berg der Freude\".", "Liegt etwa 700 Meter über dem Meeresspiegel."],
-      hu: ["Az ország első hivatalos nemzeti parkja.", "1940-ben alapították.", "Neve azt jelenti, hogy \"Az öröm hegye\".", "Körülbelül 700 méterrel a tengerszint felett fekszik."],
-      ro: ["Primul parc național oficial al țării.", "Fondat în 1940.", "Numele înseamnă \"Muntele Bucuriei\".", "Situat la aproximativ 700 de metri deasupra nivelului mării."],
-      en: ["First official national park of the country.", "Founded in 1940.", "The name means \"Mountain of Joy\".", "Located about 700 meters above sea level."]
-    }
-  },
+      de: ["Kambodschas erster Nationalpark", "Offiziell 1993 ausgewiesen", "Liegt in Kampong Speu und Koh Kong", "Rund 670 Meter über dem Meer"],
+      hu: ["Kambodzsa első nemzeti parkja", "1993-ban jelölték ki", "Fenyőerdőiről ismert", "Kampong Speu térségében fekszik"],
+      ro: ["Creat ca parc național în 1993", "În provincia Kampong Speu", "Cunoscut pentru păduri de pin", "Are relief de platou montan"],
+      en: ["Located in Kampong Speu and Koh Kong.", "Known for pine forest.", "First national park in Cambodia.", "Sits on a high plateau."]
+    }, image: "/poi-images/kirirom-national-park-nature-v2.webp"},
   {
     id: "kep-national-park-nature-v2",
     type: "national-park",
@@ -170,8 +162,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["8 kilométer hosszú túraútvonallal rendelkezik.", "Trópusi esőerdőket véd.", "Makákó majmok otthona.", "Nagyon népszerű az ökoturisták körében."],
       ro: ["Traseu de drumeție circular de 8 kilometri.", "Protejează pădurile tropicale umede.", "Adăpost pentru maimuțele macac.", "Foarte popular printre ecoturiști."],
       en: ["8-kilometer long circular hiking trail.", "Protects tropical wet forests.", "Home to macaque monkeys.", "Very popular with ecotourists."]
-    }
-  },
+    }, image: "/poi-images/kep-national-park-nature-v2.webp"},
   {
     id: "bokor-national-park-nature-v2",
     type: "national-park",
@@ -189,8 +180,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Preah Monivong Nemzeti Parkként is ismert.", "Legmagasabb pontja 1081 méteren található.", "A gyarmati időszakban népszerű pihenőhely volt.", "Sűrű örökzöld erdőket foglal magába."],
       ro: ["Cunoscut și sub numele de Parcul Național Preah Monivong.", "Cel mai înalt punct este la 1.081 metri.", "Loc de refugiu popular în perioada colonială.", "Include păduri dense veșnic verzi."],
       en: ["Also known as Preah Monivong National Park.", "The highest point is at 1,081 meters.", "Popular retreat during the colonial era.", "Includes dense evergreen forests."]
-    }
-  },
+    }, image: "/poi-images/bokor-national-park-nature-v2.webp"},
   {
     id: "phnom-aural-nature-v2",
     type: "mountain",
@@ -208,8 +198,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Magassága eléri az 1813 métert.", "Az Aural Természetvédelmi Terület része.", "Kihívást jelentő célpont a hegymászók számára.", "Súlyosan veszélyeztetett madárfajok élőhelye."],
       ro: ["Atinge o înălțime de 1.813 metri.", "Face parte din Rezervația Naturală Aural.", "O destinație provocatoare pentru alpiniști.", "Habitat pentru specii de păsări pe cale de dispariție."],
       en: ["Reaches a height of 1,813 meters.", "Part of the Aural Wildlife Sanctuary.", "A challenging destination for mountaineers.", "Habitat for critically endangered bird species."]
-    }
-  },
+    }, image: "/poi-images/phnom-aural-nature-v2.webp"},
   {
     id: "tonle-san-river-nature-v2",
     type: "river",
@@ -217,18 +206,17 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     coords: [106.1833, 13.5667],
     name: { de: "Tonle San", hu: "Tonlé San folyó", ro: "Râul Tonle San", en: "Tonle San River" },
     description: {
-      de: "Einer der wichtigsten Nebenflüsse des Mekong, der im zentralen Hochland von Vietnam entspringt und im Nordosten Kambodschas fließt.",
-      hu: "A Mekong egyik legfontosabb mellékfolyója, amely Vietnám középső hegyvidékén ered, és Kambodzsa északkeleti részén folyik.",
+      de: "Der Tonle-San-Fluss fließt durch Nordost-Kambodscha und ist ein wichtiger Nebenfluss des Mekong. Er prägt Fischfang und Wasserkraft in der Region.",
+      hu: "A Tonlé San a Mekong egyik fontos mellékfolyója, amely Északkelet-Kambodzsa vízrendszerének meghatározó eleme. A környék halászatát és vízgazdálkodását is erősen befolyásolja.",
       ro: "Unul dintre cei mai importanți afluenți ai râului Mekong, care izvorăște în zonele înalte centrale din Vietnam și curge în nord-estul Cambodgiei.",
-      en: "One of the most important tributaries of the Mekong River, originating in the central highlands of Vietnam and flowing through northeastern Cambodia."
+      en: "The Tonle San River flows through northeastern Cambodia and continues into Vietnam. It is one of the main tributaries in the Sesan river system."
     },
     facts: {
-      de: ["Fließt in Stung Treng in den Mekong.", "Länge von über 230 Kilometern.", "Essentiell für die Fischerei der Indigenen.", "Teil des \"Drei Flüsse\"-Netzwerks (Sesan, Srepok, Sekong)."],
-      hu: ["Stung Trengnél ömlik a Mekongba.", "Hossza több mint 230 kilométer.", "Nélkülözhetetlen az őslakosok halászata számára.", "A \"Három folyó\" hálózat része (Sesan, Srepok, Sekong)."],
+      de: ["Nebenfluss des Mekong", "Fließt auch durch Vietnam", "Teilweise Grenzfluss zu Vietnam", "Wichtig für Fischerei und Wasserkraft"],
+      hu: ["A Mekong mellékfolyója", "Északkelet-Kambodzsán folyik át", "A Sesan néven is ismert", "Fontos szerepe van a halászatban"],
       ro: ["Se varsă în Mekong la Stung Treng.", "Lungime de peste 230 de kilometri.", "Esențial pentru pescuitul indigen.", "Face parte din rețeaua \"Trei Râuri\" (Sesan, Srepok, Sekong)."],
-      en: ["Flows into the Mekong at Stung Treng.", "Length of over 230 kilometers.", "Essential for indigenous fishing.", "Part of the \"Three Rivers\" network (Sesan, Srepok, Sekong)."]
-    }
-  },
+      en: ["Also called the Sesan River.", "Part of the Mekong basin.", "Crosses the Cambodia-Vietnam region.", "Important for fishing and hydropower."]
+    }, image: "/poi-images/tonle-san-river-nature-v2.webp"},
   {
     id: "prey-lang-forest-nature-v2",
     type: "forest",
@@ -236,18 +224,17 @@ export const poiExtraCambodiaNatureV2: POI[] = [
     coords: [105.1000, 13.5000],
     name: { de: "Prey Lang Wald", hu: "Prey Lang erdő", ro: "Pădurea Prey Lang", en: "Prey Lang Forest" },
     description: {
-      de: "Das größte noch verbleibende Tiefland-Regenwaldgebiet in ganz Indochina, das von indigenen Gemeinschaften geschützt wird und eine immense Artenvielfalt birgt.",
-      hu: "Indokína legnagyobb megmaradt síkvidéki esőerdeje, amelyet az őslakos közösségek védenek, és hatalmas fajgazdagságot rejt.",
-      ro: "Cea mai mare zonă de pădure tropicală de câmpie rămasă în toată Indochina, protejată de comunitățile indigene și găzduind o biodiversitate imensă.",
-      en: "The largest remaining lowland rainforest area in all of Indochina, protected by indigenous communities and harboring immense biodiversity."
+      de: "Der Prey-Lang-Wald ist eines der größten zusammenhängenden Waldgebiete Kambodschas. Er liegt in mehreren Provinzen und ist für seine Artenvielfalt bekannt.",
+      hu: "A Prey Lang erdő Kambodzsa egyik legnagyobb összefüggő síkvidéki erdősége. Az őslakos közösségek számára fontos terület, de az illegális fakitermelés miatt erős nyomás alatt áll.",
+      ro: "Cea mai mare pădure de câmpie rămasă în Cambodgia, întinsă pe mai multe provincii. Comunitățile locale o apără de tăierile ilegale.",
+      en: "Prey Lang Forest is one of Cambodia's largest remaining lowland forests. It is a major biodiversity area and an important homeland for local communities."
     },
     facts: {
-      de: ["Bedeutet übersetzt \"Unser Wald\".", "Erstreckt sich über vier Provinzen.", "Heimat von rund 20 gefährdeten Säugetierarten.", "Wird leider stark durch illegale Abholzung bedroht."],
-      hu: ["A neve azt jelenti, hogy \"A mi erdőnk\".", "Négy tartományra terjed ki.", "Körülbelül 20 veszélyeztetett emlősfaj otthona.", "Sajnos az illegális fakitermelés súlyosan fenyegeti."],
-      ro: ["Numele se traduce prin \"Pădurea noastră\".", "Se întinde pe patru provincii.", "Adăpostește aproximativ 20 de specii de mamifere pe cale de dispariție.", "Din păcate, este puternic amenințată de defrișările ilegale."],
-      en: ["The name translates to \"Our Forest\".", "Spans across four provinces.", "Home to around 20 endangered mammal species.", "Unfortunately heavily threatened by illegal logging."]
-    }
-  },
+      de: ["Name bedeutet auf Kuy: unser Wald", "Verbreitet über vier Provinzen", "Sehr artenreich", "Stark durch Abholzung bedroht"],
+      hu: ["A nagy síkvidéki esőerdők közé tartozik", "Több tartományra kiterjed", "Őslakos közösségek védik", "Az illegális fakitermelés veszélyezteti"],
+      ro: ["Se întinde pe patru provincii", "Pădure tropicală de câmpie", "Habitat pentru specii rare", "Amenințată de defrișări ilegale"],
+      en: ["Spans several provinces.", "Known for dense lowland forest.", "Home to many endangered species.", "Threatened by illegal logging."]
+    }, image: "/poi-images/prey-lang-forest-nature-v2.webp"},
   {
     id: "tonle-srepok-nature-v2",
     type: "river",
@@ -265,8 +252,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Hossza körülbelül 400 kilométer.", "Vietnámban ered.", "A Lomphat Természetvédelmi Területen folyik keresztül.", "Ritka, nagy testű halfajokban gazdag."],
       ro: ["Lungime de aproximativ 400 de kilometri.", "Izvorăște în Vietnam.", "Curge prin Rezervația Naturală Lomphat.", "Bogat în specii rare de pești mari."],
       en: ["Length of about 400 kilometers.", "Originates in Vietnam.", "Flows through the Lomphat Wildlife Sanctuary.", "Rich in rare large fish species."]
-    }
-  },
+    }, image: "/poi-images/tonle-srepok-nature-v2.webp"},
   {
     id: "keo-seima-wildlife-sanctuary-nature-v2",
     type: "forest",
@@ -284,8 +270,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Több mint 2900 négyzetkilométer kiterjedésű.", "A főemlősök egyik legnagyobb sűrűsége itt található.", "A veszélyeztetett aranyarcú gibbon otthona.", "Nemzetközi civil szervezetek támogatják."],
       ro: ["Acoperă peste 2.900 de kilometri pătrați.", "Una dintre cele mai mari densități de primate din lume.", "Casa gibonului cu obraji galbeni, aflat pe cale de dispariție.", "Este sprijinită de ONG-uri internaționale."],
       en: ["Covers over 2,900 square kilometers.", "One of the highest primate densities in the world.", "Home to the endangered yellow-cheeked crested gibbon.", "Supported by international NGOs."]
-    }
-  },
+    }, image: "/poi-images/keo-seima-wildlife-sanctuary-nature-v2.webp"},
   {
     id: "tatai-river-nature-v2",
     type: "river",
@@ -303,8 +288,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Híres a Tatai-vízesésekről.", "Tiszta, gyakran smaragdzöld vize van.", "Népszerű a kajakos ökoturisták körében.", "A vízesések szinte soha nem száradnak ki."],
       ro: ["Renumit pentru Cascadele Tatai.", "Apă limpede, adesea de culoare verde smarald.", "Popular pentru caiac în ecoturism.", "Cascadele nu seacă aproape niciodată."],
       en: ["Famous for the Tatai Waterfalls.", "Clear, often emerald green water.", "Popular for kayaking in ecotourism.", "The waterfalls almost never dry up."]
-    }
-  },
+    }, image: "/poi-images/tatai-river-nature-v2.webp"},
   {
     id: "phnom-samkos-nature-v2",
     type: "mountain",
@@ -322,8 +306,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["Magassága eléri az 1717 métert.", "A Phnom Samkos Természetvédelmi Terület központja.", "Rendszeresen fedeznek fel itt új kétéltűfajokat.", "Nagyon nehezen megközelíthető."],
       ro: ["Atinge 1.717 metri înălțime.", "Centrul Rezervației Naturale Phnom Samkos.", "Aici se descoperă în mod regulat noi specii de amfibieni.", "Foarte greu accesibil."],
       en: ["Reaches 1,717 meters in height.", "Center of the Phnom Samkos Wildlife Sanctuary.", "New amphibian species are regularly discovered here.", "Very difficult to access."]
-    }
-  },
+    }, image: "/poi-images/phnom-samkos-nature-v2.webp"},
   {
     id: "areng-valley-nature-v2",
     type: "river",
@@ -341,8 +324,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["A bennszülött chong nép otthona.", "A sziámi krokodilok egyik utolsó menedéke.", "Egy vitatott gátépítési projekt fenyegette.", "Erősen a közösségi alapú ökoturizmusra épít."],
       ro: ["Casa poporului indigen Chong.", "Unul dintre ultimele refugii pentru crocodilii siamezi.", "A fost amenințată de un controversat proiect de baraj.", "Puternic axată pe ecoturismul comunitar."],
       en: ["Home to the indigenous Chong people.", "One of the last refuges for Siamese crocodiles.", "Was threatened by a controversial dam project.", "Strongly focused on community-based ecotourism."]
-    }
-  },
+    }, image: "/poi-images/areng-valley-nature-v2.webp"},
   {
     id: "lumphat-wildlife-sanctuary-nature-v2",
     type: "forest",
@@ -360,8 +342,7 @@ export const poiExtraCambodiaNatureV2: POI[] = [
       hu: ["1993-ban alapították.", "Területe körülbelül 2225 négyzetkilométer.", "Vadtulkokról, mint például a banteng, híres.", "Az ültetvények miatt az élőhely jelentősen csökkent."],
       ro: ["Fondat în 1993.", "Suprafață de aproximativ 2.225 kilometri pătrați.", "Cunoscut pentru bovinele sălbatice precum bantengul.", "Declin puternic al habitatului din cauza plantațiilor."],
       en: ["Founded in 1993.", "Size of about 2,225 square kilometers.", "Known for wild cattle such as the banteng.", "Strong decline in habitat due to plantations."]
-    }
-  },
+    }, image: "/poi-images/lumphat-wildlife-sanctuary-nature-v2.webp"},
   {
     id: "central-cardamom-forest-nature-v2",
     type: "forest",

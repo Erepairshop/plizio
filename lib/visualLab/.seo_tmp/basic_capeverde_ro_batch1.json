@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "porto-grande-mindelo-economic-v2",
+      "description": "Porto Grande este portul principal al orașului Mindelo, pe insula São Vicente. Are un bazin natural protejat și este poarta maritimă centrală a insulei.",
+      "facts": ["Mindelo, São Vicente", "bazin natural protejat", "port principal pentru marfă și pasageri"]
+    },
+    {
+      "id": "porto-da-praia-economic-v2",
+      "description": "Porto da Praia deservește capitala Praia, pe insula Santiago. Este unul dintre cele mai importante porturi din rețea, cu trafic de marfă și pasageri.",
+      "facts": ["Praia, Santiago", "poartă maritimă a capitalei", "operat de ENAPOR"]
+    },
+    {
+      "id": "porto-de-palmeira-economic-v2",
+      "description": "Porto da Palmeira se află pe insula Sal, în localitatea Palmeira. Portul susține comerțul, pescuitul și traficul legat de turismul maritim.",
+      "facts": ["Palmeira, Sal", "al treilea port al țării la marfă", "trafic comercial și pescuit"]
+    },
+    {
+      "id": "porto-novo-harbour-economic-v2",
+      "description": "Portul Porto Novo este principalul acces maritim pentru insula Santo Antão. Leagă insula de restul arhipelagului și susține aprovizionarea locală.",
+      "facts": ["Porto Novo, Santo Antão", "principalul acces maritim", "important pentru ferry și aprovizionare"]
+    },
+    {
+      "id": "porto-vale-cavaleiros-economic-v2",
+      "description": "Porto de Vale de Cavaleiros deservește insula Fogo, aproape de São Filipe. După modernizarea din 2013, a devenit un nod important pentru marfă și pasageri.",
+      "facts": ["Vale de Cavaleiros, Fogo", "reconstruit în 2013", "are chei pentru marfă și Ro-Ro"]
+    },
+    {
+      "id": "cv-cidade-velha-history-v2",
+      "description": "Cidade Velha a fost prima capitală a Capului Verde și nucleul vechii Ribeira Grande. Astăzi este sit UNESCO și cel mai important ansamblu istoric colonial din arhipelag.",
+      "facts": ["Ribeira Grande de Santiago", "prima capitală a țării", "UNESCO din 2009"]
+    },
+    {
+      "id": "cv-fortaleza-real-sao-filipe-history-v2",
+      "description": "Fortaleza Real de São Filipe domină Cidade Velha de pe înălțimea Achada de São Filipe. A fost ridicată în secolul al XVI-lea pentru apărare împotriva atacurilor maritime.",
+      "facts": ["sec. al XVI-lea", "deasupra Cidade Velha", "fortificație de apărare"]
+    },
+    {
+      "id": "cv-pelourinho-cidade-velha-history-v2",
+      "description": "Pelourinho din Cidade Velha este coloana de piatră din centrul vechiului oraș colonial. A marcat autoritatea locală și pedeapsa publică în perioada colonială.",
+      "facts": ["în zona UNESCO", "coloană de piatră", "simbol al puterii coloniale"]
+    },
+    {
+      "id": "cv-ruinas-se-catedral-history-v2",
+      "description": "Ruinele Sé-Catedralei din Cidade Velha păstrează urmele uneia dintre cele mai vechi biserici coloniale din Capul Verde. Ele fac parte din centrul istoric al vechii Ribeira Grande.",
+      "facts": ["sec. al XVI-lea", "lângă centrul istoric", "ruine ale catedralei vechi"]
+    },
+    {
+      "id": "cv-tarrafal-concentration-camp-history-v2",
+      "description": "Lagărul Tarrafal de pe Santiago a funcționat ca închisoare politică în perioada Estado Novo. Astăzi este un loc de memorie și patrimoniu național.",
+      "facts": ["deschis în 1936", "închisoare politică", "azi sit memorial"]
+    }
+  ]
+}

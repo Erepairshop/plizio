@@ -18,8 +18,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["1995-ben alapították.", "Több mint 3000 méteres magasságban fekszik.", "Fontos hópárduc-védelmi terület.", "Az Iszik-köl Bioszféra Rezervátum magterülete."],
       ro: ["Fondată în anul 1995.", "Situată la o altitudine de peste 3.000 de metri.", "Zonă importantă de protecție pentru leopardul de zăpadă.", "Zona centrală a rezervației biosferei Issyk-Kul."],
       en: ["Founded in 1995.", "Located at an altitude of over 3,000 meters.", "Important conservation area for snow leopards.", "Core area of the Issyk-Kul Biosphere Reserve."]
-    }
-  },
+    }, image: "/poi-images/sary-chat-ertash-reserve-life-v2.webp"},
   {
     id: "naryn-state-reserve-life-v2",
     type: "wildlife-area",
@@ -56,8 +55,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["1979-ben alapították a mormoták védelmére.", "Közvetlenül határos Üzbegisztánnal.", "A nyugati Tien-san része.", "2016 óta az UNESCO Világörökség része."],
       ro: ["Fondată în 1979 pentru protecția marmotelor.", "Se învecinează direct cu Uzbekistanul.", "Face parte din vestul Tian Shan.", "Patrimoniu Mondial UNESCO din 2016."],
       en: ["Founded in 1979 to protect marmots.", "Borders directly with Uzbekistan.", "Part of the western Tian Shan.", "UNESCO World Heritage Site since 2016."]
-    }
-  },
+    }, image: "/poi-images/besh-aral-reserve-life-v2.webp"},
   {
     id: "padysha-ata-reserve-life-v2",
     type: "wildlife-area",
@@ -75,8 +73,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["2003-ban hozták létre.", "A Szemjonov-jegenyefenyő megőrzésének fontos helyszíne.", "Mély, erdős szurdokokat foglal magában.", "Biztosítja a régió vízellátását."],
       ro: ["Înființată în anul 2003.", "Loc important pentru conservarea bradului Semenov.", "Include defileuri adânci și împădurite.", "Asigură aprovizionarea cu apă a regiunii."],
       en: ["Established in 2003.", "Important site for the preservation of the Semenov fir.", "Includes deep, forested gorges.", "Secures the water supply of the region."]
-    }
-  },
+    }, image: "/poi-images/padysha-ata-reserve-life-v2.webp"},
   {
     id: "karatal-japyryk-reserve-life-v2",
     type: "wildlife-area",
@@ -94,8 +91,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["1994-ben alapították Narin régióban.", "Magában foglalja a festői Szon-köl tavat.", "Vízimadarak fontos költőhelye.", "Védi a magashegyi legelők érzékeny ökológiáját."],
       ro: ["Fondată în 1994 în regiunea Naryn.", "Include pitorescul lac Son-Kul.", "Loc important de cuibărit pentru păsările de apă.", "Protejează ecologia fragilă a pășunilor montane înalte."],
       en: ["Founded in 1994 in the Naryn region.", "Includes the picturesque Son-Kul lake.", "Important breeding ground for waterfowl.", "Protects the fragile ecology of the high pastures."]
-    }
-  },
+    }, image: "/poi-images/karatal-japyryk-reserve-life-v2.webp"},
   {
     id: "kulun-ata-reserve-life-v2",
     type: "wildlife-area",
@@ -113,8 +109,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["2004-ben hozták létre.", "A központi Kulun-tóról kapta a nevét.", "Sűrű tűlevelű és lombhullató erdőket véd.", "Gazdag gyógynövényekben és hegyi faunában."],
       ro: ["Înființată în anul 2004.", "Numită după lacul central Kulun.", "Protejează păduri dense de conifere și foioase.", "Bogată în plante medicinale și faună montană."],
       en: ["Established in 2004.", "Named after the central Kulun Lake.", "Protects dense coniferous and deciduous forests.", "Rich in medicinal plants and mountain fauna."]
-    }
-  },
+    }, image: "/poi-images/kulun-ata-reserve-life-v2.webp"},
   {
     id: "surma-tash-reserve-life-v2",
     type: "wildlife-area",
@@ -132,8 +127,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["2009-ben alapították.", "Az ország egyik legfiatalabb védett területe.", "Az alpesi ragadozók védelmére fókuszál.", "Az Alaj-hegység északi lejtőin található."],
       ro: ["Fondată în anul 2009.", "Una dintre cele mai noi arii protejate din țară.", "Se concentrează pe protecția prădătorilor alpini.", "Situată pe versanții nordici ai Munților Alai."],
       en: ["Founded in 2009.", "One of the newest protected areas in the country.", "Focuses on the protection of alpine predators.", "Located on the northern slopes of the Alai Mountains."]
-    }
-  },
+    }, image: "/poi-images/surma-tash-reserve-life-v2.webp"},
   {
     id: "dashman-reserve-life-v2",
     type: "wildlife-area",
@@ -151,8 +145,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["Természetes dió- és gyümölcserdőket véd.", "Arszlanbob közelében található.", "A genetikai növényi sokféleség fontos központja.", "Számos erdei madárfaj otthona."],
       ro: ["Protejează pădurile naturale de nuci și fructe.", "Situată în apropiere de Arslanbob.", "Centru important pentru diversitatea genetică a plantelor.", "Cămin pentru numeroase specii de păsări de pădure."],
       en: ["Protects natural walnut and fruit forests.", "Located near Arslanbob.", "Important center for plant genetic diversity.", "Home to numerous forest bird species."]
-    }
-  },
+    }, image: "/poi-images/dashman-reserve-life-v2.webp"},
   {
     id: "kyrgyz-ata-national-park-life-v2",
     type: "park",
@@ -189,8 +182,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["Pezsgő gyógyforrásairól ismert.", "Fenyő- és lombhullató erdőket egyaránt tartalmaz.", "A helyi egészségügyi kempingezés népszerű célpontja.", "A délnyugati Tien-san rendszerben található."],
       ro: ["Cunoscut pentru izvoarele sale vindecătoare.", "Include atât păduri de brazi, cât și de foioase.", "Destinație populară pentru campingul local de sănătate.", "Situat în sistemul sud-vestic Tian Shan."],
       en: ["Known for sparkling healing springs.", "Includes both fir and deciduous forests.", "Popular destination for local health camping.", "Located in the southwestern Tian Shan system."]
-    }
-  },
+    }, image: "/poi-images/kara-shoro-national-park-life-v2.webp"},
   {
     id: "sarkent-national-park-life-v2",
     type: "park",
@@ -208,8 +200,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["2009-ben alapították.", "A Turkesztán-hegylánc része.", "Barnamedvék és hópárducok otthona.", "Meredek, drámai sziklafalakkal nyűgöz le."],
       ro: ["Fondat în anul 2009.", "Face parte din lanțul muntos Turkestan.", "Casa urșilor bruni și a leoparzilor de zăpadă.", "Impresionează cu pereții de stâncă abrupți și dramatici."],
       en: ["Founded in 2009.", "Part of the Turkestan mountain range.", "Home to brown bears and snow leopards.", "Impresses with steep, dramatic rock walls."]
-    }
-  },
+    }, image: "/poi-images/sarkent-national-park-life-v2.webp"},
   {
     id: "saimaluu-tash-park-life-v2",
     type: "park",
@@ -227,8 +218,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["Több mint 10 000 őskori petroglifát tartalmaz.", "3200 méteres magasságban található.", "Csak júliustól augusztusig érhető el hómentesen.", "Ötvözi a természetvédelmet és a történelmi megőrzést."],
       ro: ["Conține peste 10.000 de petroglife preistorice.", "Situat la o altitudine de 3.200 de metri.", "Accesibil fără zăpadă doar din iulie până în august.", "Combină conservarea naturii și păstrarea istorică."],
       en: ["Contains over 10,000 prehistoric petroglyphs.", "Located at an altitude of 3,200 meters.", "Only accessible snow-free from July to August.", "Combines nature conservation and historical preservation."]
-    }
-  },
+    }, image: "/poi-images/saimaluu-tash-park-life-v2.webp"},
   {
     id: "panfilov-park-bishkek-life-v2",
     type: "park",
@@ -246,8 +236,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["Biskek legnépszerűbb városi parkja.", "Ivan Panfilov tábornokról nevezték el.", "Az óriáskerékről nagyszerű kilátás nyílik a városra.", "Nyáron a szórakozás nyüzsgő központja."],
       ro: ["Cel mai popular parc urban din Bișkek.", "Numit după generalul Ivan Panfilov.", "Roata panoramică oferă o priveliște minunată asupra orașului.", "Un centru plin de viață al divertismentului în timpul verii."],
       en: ["Most popular city park in Bishkek.", "Named after General Ivan Panfilov.", "The Ferris wheel offers a great view over the city.", "A lively center of entertainment in summer."]
-    }
-  },
+    }, image: "/poi-images/panfilov-park-bishkek-life-v2.webp"},
   {
     id: "bishkek-botanical-garden-life-v2",
     type: "park",
@@ -265,8 +254,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["1938-ban alapították.", "Közép-Ázsia egyik legnagyobb botanikus kertje.", "Több mint 5500 különböző növényfajnak ad otthont.", "A Nemzeti Tudományos Akadémia kezeli."],
       ro: ["Fondată în anul 1938.", "Una dintre cele mai mari grădini botanice din Asia Centrală.", "Găzduiește peste 5.500 de specii diferite de plante.", "Gestionată de Academia Națională de Științe."],
       en: ["Founded in 1938.", "One of the largest botanical gardens in Central Asia.", "Houses over 5,500 different plant species.", "Managed by the National Academy of Sciences."]
-    }
-  },
+    }, image: "/poi-images/bishkek-botanical-garden-life-v2.webp"},
   {
     id: "batken-apricot-orchards-life-v2",
     type: "agriculture",
@@ -284,8 +272,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["A híres 'Batkeni sárgabarack' termelője.", "Éves sárgabarackfesztivál ('Uruk Zar') szüret idején.", "A helyi lakosság fontos gazdasági ágazata.", "A szárított gyümölcsöket egész Közép-Ázsiába exportálják."],
       ro: ["Produce faimoasa 'caisă de Batken'.", "Festival anual al caiselor ('Uruk Zar') la recoltare.", "Sector economic important pentru populația locală.", "Fructele uscate sunt exportate în toată Asia Centrală."],
       en: ["Produces the famous 'Batken apricot'.", "Annual apricot festival ('Uruk Zar') at harvest time.", "Important economic sector for the local population.", "The dried fruits are exported throughout Central Asia."]
-    }
-  },
+    }, image: "/poi-images/batken-apricot-orchards-life-v2.webp"},
   {
     id: "chui-valley-agriculture-life-v2",
     type: "agriculture",
@@ -303,8 +290,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["Az ország legfontosabb mezőgazdasági központja.", "Erősen függ a Csu folyó vizétől.", "A kirgiz gabona nagy részét termeli.", "Öntözőcsatornák sűrű hálózata jellemzi."],
       ro: ["Cel mai important centru agricol al țării.", "Depinde puternic de apa râului Chui.", "Produce cea mai mare parte a cerealelor kârgâze.", "Se caracterizează printr-o rețea densă de canale de irigații."],
       en: ["The country's most important agricultural center.", "Heavily dependent on the water of the Chu River.", "Produces the majority of Kyrgyz grain.", "Characterized by a dense network of irrigation canals."]
-    }
-  },
+    }, image: "/poi-images/chui-valley-agriculture-life-v2.webp"},
   {
     id: "fergana-cotton-kg-life-v2",
     type: "agriculture",
@@ -360,8 +346,7 @@ export const poiExtraKyrgyzstanLifeV2: POI[] = [
       hu: ["A főváros legnagyobb klasszikus vidámparkja.", "Látványosságokat kínál kisgyermekek és tinédzserek számára egyaránt.", "Különösen ünnepek idején nagyon látogatott.", "Számos vattacukrot és rágcsálnivalót árusító bódéval rendelkezik."],
       ro: ["Cel mai mare parc de distracții clasic din capitală.", "Oferă atracții pentru copii mici și adolescenți.", "Foarte vizitat mai ales în zilele de sărbătoare.", "Are numeroase standuri cu vată de zahăr și gustări."],
       en: ["Largest classic amusement park in the capital.", "Offers attractions for toddlers and teenagers.", "Particularly crowded on public holidays.", "Features numerous stalls with cotton candy and snacks."]
-    }
-  },
+    }, image: "/poi-images/flamingo-amusement-park-bishkek-life-v2.webp"},
   {
     id: "aitmatov-park-bishkek-life-v2",
     type: "park",

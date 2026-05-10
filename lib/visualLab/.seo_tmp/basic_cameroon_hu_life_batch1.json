@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ngaoundere-rinderranch-life-v2",
+      "description": "Ngaoundéré környéke Kamerun egyik legfontosabb marhatenyésztő vidéke. A szarvasmarha-tartás a helyi élet része.",
+      "facts": ["marhatenyésztés", "északi fennsík", "állattartó térség"]
+    },
+    {
+      "id": "garoua-flussfischerei-life-v2",
+      "description": "A Garoua környéki folyami halászat a Benue és mellékfolyói mentén zajlik. Sok helyi család megélhetését adja.",
+      "facts": ["folyami halászat", "Benue mentén", "helyi megélhetés"]
+    },
+    {
+      "id": "ebolowa-kakaogarten-life-v2",
+      "description": "Az Ebolowa környéki kakaókertek a déli termőövezet részei. A kakaótermesztés a helyi gazdaság fontos eleme.",
+      "facts": ["kakaótermesztés", "déli termőövezet", "ültetvényes gazdálkodás"]
+    },
+    {
+      "id": "foumban-handwerkermarkt-life-v2",
+      "description": "A foumbani kézműves piac a hagyományos díszítő- és használati tárgyak központja. A város kulturális életének része.",
+      "facts": ["kézműves piac", "hagyományos tárgyak", "kulturális kereskedelem"]
+    },
+    {
+      "id": "bafoussam-maisfeld-life-v2",
+      "description": "A Bafoussam környéki kukoricaföldek a Nyugati-fennsík mezőgazdaságát mutatják. A gabonatermelés itt mindennapi tevékenység.",
+      "facts": ["kukoricatermelés", "Nyugati-fennsík", "gabonaalapú mezőgazdaság"]
+    },
+    {
+      "id": "bertoua-waldhonig-life-v2",
+      "description": "Bertoua környékén az erdei mézgyűjtés és a méhészkedés is fontos. A keleti erdőségek termékeihez kötődik.",
+      "facts": ["erdei méz", "méhészkedés", "keleti erdőségek"]
+    },
+    {
+      "id": "mbam-tierreservat-life-v2",
+      "description": "A Mbam térség vadrezervátuma az erdei állatvilág megőrzéséhez kapcsolódik. A természetközeli élet és a vadőrzés területe.",
+      "facts": ["vadrezervátum", "erdőlakó állatok", "természetvédelem"]
+    },
+    {
+      "id": "waza-vogelbeobachtung-life-v2",
+      "description": "A Waza térsége a madármegfigyelés egyik ismert kameruni helyszíne. A vizes élőhelyek sok fajt vonzanak.",
+      "facts": ["madármegfigyelés", "vizes élőhelyek", "északi parkvidék"]
+    },
+    {
+      "id": "djoum-regenwald-life-v2",
+      "description": "A Djoum környéki esőerdő a déli Kamerun sűrű erdős tájait képviseli. A helyi élet az erdő erőforrásaihoz kapcsolódik.",
+      "facts": ["esőerdő", "déli Kamerun", "erdei megélhetés"]
+    },
+    {
+      "id": "mbalmayo-forstgarten-life-v2",
+      "description": "A mbalmaiói erdészeti faiskola a fák nevelésére és az újratelepítésre szolgál. A környék erdőgazdálkodásának része.",
+      "facts": ["erdészeti faiskola", "fanevelés", "újratelepítés"]
+    },
+    {
+      "id": "douala-botanischer-garten-life-v2",
+      "description": "A doualai botanikus kert városi zöld tér és oktatási helyszín. A trópusi növények bemutatására is szolgál.",
+      "facts": ["városi botanikus kert", "trópusi növények", "oktatási helyszín"]
+    },
+    {
+      "id": "buea-fruchtgarten-life-v2",
+      "description": "A Buea környéki gyümölcsösök a vulkáni lejtők termékeny földjét használják. A helyi kertgazdálkodás fontos elemei.",
+      "facts": ["gyümölcstermesztés", "vulkáni lejtők", "kertgazdálkodás"]
+    },
+    {
+      "id": "garoua-rindermarkt-life-v2",
+      "description": "A garouai marhavásár az északi állattartó gazdaság egyik központja. A régió kereskedelmi életéhez szorosan kapcsolódik.",
+      "facts": ["marhavásár", "északi állattartás", "kereskedelmi központ"]
+    }
+  ]
+}

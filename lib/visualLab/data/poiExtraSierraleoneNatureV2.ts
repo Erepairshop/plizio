@@ -39,8 +39,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Home to rich biodiversity in its montane forests.",
         "A challenging destination for mountain climbers and hikers."
       ]
-    }
-  },
+    }, image: "/poi-images/mount-bintumani-nature-v2.webp"},
   {
     id: "rokel-river-nature-v2",
     type: "river",
@@ -79,8 +78,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Major water source for the Bumbuna hydroelectric dam.",
         "A lifeline for agriculture and transportation."
       ]
-    }
-  },
+    }, image: "/poi-images/rokel-river-nature-v2.webp"},
   {
     id: "sewa-river-nature-v2",
     type: "river",
@@ -119,8 +117,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Known for diamond mining along its banks.",
         "Empties into the Atlantic near Sherbro Island."
       ]
-    }
-  },
+    }, image: "/poi-images/sewa-river-nature-v2.webp"},
   {
     id: "moa-river-nature-v2",
     type: "river",
@@ -159,8 +156,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Important for local fishing and irrigation.",
         "Marks parts of the border with Liberia."
       ]
-    }
-  },
+    }, image: "/poi-images/moa-river-nature-v2.webp"},
   {
     id: "little-scarcies-river-nature-v2",
     type: "river",
@@ -279,8 +275,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Home to over 300 species of birds.",
         "Critical habitat for pygmy hippos and chimpanzees."
       ]
-    }
-  },
+    }, image: "/poi-images/gola-rainforest-nature-v2.webp"},
   {
     id: "tiwai-island-nature-v2",
     type: "island",
@@ -319,8 +314,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Key center for ecological research.",
         "Home to the rare pygmy hippopotamus."
       ]
-    }
-  },
+    }, image: "/poi-images/tiwai-island-nature-v2.webp"},
   {
     id: "sherbro-island-nature-v2",
     type: "island",
@@ -359,8 +353,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Famous for giant tarpon fishing.",
         "Surrounded by vast mangrove forests."
       ]
-    }
-  },
+    }, image: "/poi-images/sherbro-island-nature-v2.webp"},
   {
     id: "banana-islands-nature-v2",
     type: "island",
@@ -399,8 +392,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Popular destination for diving and snorkeling.",
         "Rich in colonial history."
       ]
-    }
-  },
+    }, image: "/poi-images/banana-islands-nature-v2.webp"},
   {
     id: "turtle-islands-nature-v2",
     type: "island",
@@ -439,8 +431,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Important nesting ground for sea turtles.",
         "Inhabitants live traditionally from fishing."
       ]
-    }
-  },
+    }, image: "/poi-images/turtle-islands-nature-v2.webp"},
   {
     id: "lake-sonfon-nature-v2",
     type: "lake",
@@ -479,8 +470,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Important resting place for migratory birds.",
         "Surrounded by gold-rich hills."
       ]
-    }
-  },
+    }, image: "/poi-images/lake-sonfon-nature-v2.webp"},
   {
     id: "lake-mape-nature-v2",
     type: "lake",
@@ -519,8 +509,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Surrounded by fertile agricultural land.",
         "Provides habitat for numerous water birds."
       ]
-    }
-  },
+    }, image: "/poi-images/lake-mape-nature-v2.webp"},
   {
     id: "lake-mabesi-nature-v2",
     type: "lake",
@@ -559,8 +548,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Key resource for the local population.",
         "Known for its rich fish fauna."
       ]
-    }
-  },
+    }, image: "/poi-images/lake-mabesi-nature-v2.webp"},
   {
     id: "outamba-kilimi-nature-v2",
     type: "forest",
@@ -599,8 +587,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Consists of savanna and dense forests.",
         "A major protected area for large mammals."
       ]
-    }
-  },
+    }, image: "/poi-images/outamba-kilimi-nature-v2.webp"},
   {
     id: "western-area-forest-nature-v2",
     type: "forest",
@@ -639,8 +626,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "One of the few places where rainforest meets the sea.",
         "Important site for primate watching."
       ]
-    }
-  },
+    }, image: "/poi-images/western-area-forest-nature-v2.webp"},
   {
     id: "loma-mountains-nature-v2",
     type: "mountain",
@@ -679,8 +665,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Major catchment area for several large rivers.",
         "An isolated ecosystem with unique flora."
       ]
-    }
-  },
+    }, image: "/poi-images/loma-mountains-nature-v2.webp"},
   {
     id: "wara-wara-mountains-nature-v2",
     type: "mountain",
@@ -719,8 +704,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Site of traditional mountain festivals.",
         "A popular destination for hiking."
       ]
-    }
-  },
+    }, image: "/poi-images/wara-wara-mountains-nature-v2.webp"},
   {
     id: "kangari-hills-nature-v2",
     type: "mountain",
@@ -759,8 +743,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Home to various endangered animal species.",
         "Known for its dense montane forests."
       ]
-    }
-  },
+    }, image: "/poi-images/kangari-hills-nature-v2.webp"},
   {
     id: "tingi-hills-nature-v2",
     type: "mountain",
@@ -799,8 +782,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "An important bird area for conservation.",
         "Offer breathtaking panoramic views."
       ]
-    }
-  },
+    }, image: "/poi-images/tingi-hills-nature-v2.webp"},
   {
     id: "yawri-bay-nature-v2",
     type: "sea",
@@ -839,8 +821,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Key breeding ground for fish.",
         "One of the most important sites for salt production."
       ]
-    }
-  },
+    }, image: "/poi-images/yawri-bay-nature-v2.webp"},
   {
     id: "jong-river-nature-v2",
     type: "river",
@@ -919,8 +900,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Flows through dense tropical rainforest.",
         "Important for regional economic cooperation."
       ]
-    }
-  },
+    }, image: "/poi-images/mano-river-nature-v2.webp"},
   {
     id: "tasso-island-nature-v2",
     type: "island",
@@ -959,8 +939,7 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
         "Offers insights into traditional island life.",
         "Located near the historic Bunce Island."
       ]
-    }
-  },
+    }, image: "/poi-images/tasso-island-nature-v2.webp"},
   {
     id: "mount-aureol-nature-v2",
     type: "mountain",

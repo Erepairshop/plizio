@@ -25,8 +25,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Magasság: 7492 méter", "Hegység: Hindukus", "Hely: Vahán-folyosó, Badahsán tartomány", "Első megmászás: 1960-ban egy japán expedíció", "A Hindukus második legmagasabb csúcsa", "Az első afgán megmászás 2009-ben történt", "Nyugati fala Afganisztánban található", "Jelentős gleccsereiről ismert terület"],
       ro: ["Altitudine: 7.492 de metri", "Lanț muntos: Hindu Kush", "Localizare: Coridorul Wakhan, provincia Badakhshan", "Prima ascensiune: 1960 de către o expediție japoneză", "Al doilea cel mai înalt vârf din Hindu Kush", "Prima ascensiune afgană a avut loc în 2009", "Fața sa vestică este situată în Afganistan", "Zona este cunoscută pentru ghețarii săi semnificativi"],
       en: ["Elevation: 7,492 meters (24,580 ft)", "Mountain Range: Hindu Kush", "Location: Wakhan Corridor, Badakhshan Province", "First Ascent: 1960 by a Japanese expedition", "Second highest peak in the Hindu Kush", "The first Afghan ascent was in 2009", "Its western face is located in Afghanistan", "The area is known for its significant glaciers"]
-    }
-  },
+    }, image: "/poi-images/noshaq-relief-v2.webp"},
   {
     id: "hindu-kush-relief-v2",
     type: "mountain",
@@ -51,8 +50,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Hossz: kb. 800 km", "Legmagasabb csúcs: Tirich Mir (7708 m) Pakisztánban", "Legmagasabb csúcs Afganisztánban: Noshak (7492 m)", "Fontos vízválasztó Közép- és Dél-Ázsia számára", "Geológiailag aktív, gyakori földrengésekkel", "Összeköti a Pamír és a Karakorum hegységeket", "Történelmileg a Selyemút hálózatának része", "A Szalang-hágó a hegységen áthaladó fő útvonal"],
       ro: ["Lungime: aproximativ 800 km", "Cel mai înalt vârf: Tirich Mir (7.708 m) în Pakistan", "Cel mai înalt vârf din Afganistan: Noshaq (7.492 m)", "Cumpănă a apelor importantă pentru Asia Centrală și de Sud", "Zonă activă geologic, cu cutremure frecvente", "Face legătura cu lanțurile muntoase Pamir și Karakorum", "Istoric, parte a rețelei Drumului Mătăsii", "Pasul Salang este o rută principală prin munți"],
       en: ["Length: Approximately 800 km (500 miles)", "Highest Peak: Tirich Mir (7,708 m) in Pakistan", "Highest Peak in Afghanistan: Noshaq (7,492 m)", "Acts as a major watershed for Central and South Asia", "Geologically active, with frequent earthquakes", "Connects to the Pamir and Karakoram ranges", "Historically part of the Silk Road network", "The Salang Pass is a major route through the mountains"]
-    }
-  },
+    }, image: "/poi-images/hindu-kush-relief-v2.webp"},
   {
     id: "wakhan-valley-relief-v2",
     type: "valley",
@@ -77,8 +75,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Földszárazföldi folyosót képez Északkelet-Afganisztánban", "Tádzsikisztánnal, Pakisztánnal és Kínával határos", "A Pamír és a Hindukus hegységek szegélyezik", "A Pandzs folyó folyik át a völgyön", "Történelmileg a Selyemút kulcsfontosságú útvonala", "A váhik és a nomád kirgizek otthona", "Átlagos magassága több mint 4000 méter", "2014-ben Vahán Nemzeti Parkká nyilvánították"],
       ro: ["Formează un coridor terestru în nord-estul Afganistanului", "Se învecinează cu Tadjikistan, Pakistan și China", "Flancată de munții Pamir și Hindu Kush", "Râul Panj curge prin vale", "Istoric, o rută cheie a Drumului Mătăsii", "Locuită de poporul Wakhi și nomazi kârgâzi", "Altitudine medie de peste 4.000 de metri", "Desemnată Parc Național Wakhan în 2014"],
       en: ["Forms a land corridor in northeastern Afghanistan", "Borders Tajikistan, Pakistan, and China", "Flanked by the Pamir and Hindu Kush mountains", "The Panj River flows through the valley", "Historically a key route of the Silk Road", "Home to the Wakhi and nomadic Kyrgyz people", "Average altitude is over 4,000 meters", "Designated as the Wakhan National Park in 2014"]
-    }
-  },
+    }, image: "/poi-images/wakhan-valley-relief-v2.webp"},
   {
     id: "panjshir-valley-relief-v2",
     type: "valley",
@@ -103,8 +100,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Elhelyezkedés: Kabultól északkeletre", "Neve perzsa nyelven 'Öt Oroszlánt' jelent", "A Pandzssír folyó otthona", "Történelmileg az ellenállás központja", "Híres a kiváló minőségű smaragdbányáiról", "Több mint 100 kilométer hosszú", "Ahmad Shah Massoud vezette az ellenállás alatt", "A völgy termékeny és támogatja a mezőgazdaságot"],
       ro: ["Situată la nord-est de Kabul", "Numele înseamnă 'Cinci Lei' în persană", "Găzduiește râul Panjshir", "Istoric, un centru al rezistenței", "Faimoasă pentru minele sale de smarald de înaltă calitate", "Peste 100 de kilometri lungime", "Condusă de Ahmad Shah Massoud în timpul rezistenței", "Valea este fertilă și susține agricultura"],
       en: ["Located northeast of Kabul", "Name means 'Five Lions' in Persian", "Home to the Panjshir River", "Historically a center of resistance", "Famous for its high-quality emerald mines", "Over 100 kilometers long", "Led by Ahmad Shah Massoud during resistance", "The valley floor is fertile and supports agriculture"]
-    }
-  },
+    }, image: "/poi-images/panjshir-valley-relief-v2.webp"},
   {
     id: "registan-desert-relief-v2",
     type: "desert",
@@ -129,8 +125,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Elhelyezkedés: Dél-Afganisztán (Helmand/Kandahár tartományok)", "Terület: kb. 15 000 km²", "Jellemzők: Nagy, vörös transzverzális homokdűnék", "Dűnék magassága: Akár 30 méter", "Éghajlat: Száraz sivatag, nagyon kevés csapadékkal", "Lakosság: Hagyományosan beludzs és pastu nomádok", "Etimológia: A név perzsa nyelven 'Homokföldet' jelent", "Jellemzője a mobil, szélfútta homokdűnék"],
       ro: ["Localizare: Sudul Afganistanului (provinciile Helmand/Kandahar)", "Suprafață: aproximativ 15.000 km²", "Caracteristici: Dune mari, roșii, transversale", "Înălțimea dunelor: Până la 30 de metri", "Climă: Deșert arid, precipitații foarte scăzute", "Locuitori: În mod tradițional, nomazi baluchi și paștuni", "Etimologie: Numele înseamnă 'Țara Nisipului' în persană", "Caracterizat prin dune de nisip mobile, modelate de vânt"],
       en: ["Location: Southern Afghanistan (Helmand/Kandahar provinces)", "Area: Approximately 15,000 sq km", "Features: Large, red transverse sand dunes", "Dune Height: Up to 30 meters (100 feet)", "Climate: Arid desert, very low rainfall", "Inhabitants: Traditionally Baloch and Pashtun nomads", "Etymology: Name means 'Land of Sand' in Persian", "Characterized by mobile, wind-swept sand dunes"]
-    }
-  },
+    }, image: "/poi-images/registan-desert-relief-v2.webp"},
   {
     id: "dasht-e-margo-relief-v2",
     type: "desert",
@@ -181,8 +176,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Elhelyezkedés: Közép-Afganisztán, Bámiján tartomány", "A Hindukus nyugati nyúlványa", "Legmagasabb csúcs: Shah Fuladi (kb. 5048 m)", "Afganisztán 'víztornyaként' ismert", "A Kabul, Helmand és Hari Rud folyók forrása", "Főként hazarák lakják", "Kulcsfontosságú az ország vízellátása szempontjából", "A név jelentése 'Apa hegye'"],
       ro: ["Localizare: Centrul Afganistanului, provincia Bamiyan", "Extensie vestică a lanțului Hindu Kush", "Cel mai înalt vârf: Shah Fuladi (aprox. 5.048 m)", "Cunoscut ca 'turnul de apă' al Afganistanului", "Sursa râurilor Kabul, Helmand și Hari Rud", "Locuit în principal de populația Hazara", "Crucial pentru aprovizionarea cu apă a țării", "Numele se traduce prin 'Muntele Tatălui'"],
       en: ["Location: Central Afghanistan, Bamyan Province", "Western extension of the Hindu Kush range", "Highest Peak: Shah Fuladi (approx. 5,048 m)", "Known as Afghanistan's 'water tower'", "Source of Kabul, Helmand, and Hari Rud rivers", "Primarily inhabited by the Hazara people", "Crucial for the country's water supply", "The name translates to 'Mountain of the Father'"]
-    }
-  },
+    }, image: "/poi-images/koh-e-baba-relief-v2.webp"},
   {
     id: "shah-e-fuladi-relief-v2",
     type: "mountain",
@@ -207,8 +201,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Magasság: 5048 méter", "A Koh-e Baba hegység legmagasabb csúcsa", "Elhelyezkedés: Bámiján tartomány, Afganisztán", "Neve 'Acélkirályt' jelent", "Afganisztán 'víztornyának' része", "Az év nagy részében hó borítja", "Kulturálisan jelentős a hazarák számára", "Távoli elhelyezkedése megnehezíti az expedíciókat"],
       ro: ["Altitudine: 5.048 de metri", "Cel mai înalt vârf din lanțul Koh-e Baba", "Localizare: provincia Bamiyan, Afganistan", "Numele se traduce prin 'Regele de Oțel'", "Parte a 'turnului de apă' al Afganistanului", "Acoperit de zăpadă în cea mai mare parte a anului", "Semnificativ din punct de vedere cultural pentru poporul Hazara", "Locația izolată face expedițiile dificile"],
       en: ["Elevation: 5,048 meters (16,562 ft)", "Highest peak in the Koh-e Baba range", "Location: Bamyan Province, Afghanistan", "Name translates to 'King of Steel'", "Part of Afghanistan's 'water tower'", "Snow-capped for most of the year", "Culturally significant to the Hazara people", "Remote location makes expeditions challenging"]
-    }
-  },
+    }, image: "/poi-images/shah-e-fuladi-relief-v2.webp"},
   {
     id: "bamyan-valley-relief-v2",
     type: "valley",
@@ -233,8 +226,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Elhelyezkedés: Közép-Afganisztán, Bámiján tartomány", "Magasság: kb. 2500 méter", "Az UNESCO Világörökség része 2003 óta", "A Selyemút egyik fontos buddhista központja", "Két kolosszális Buddha-szobor helyszíne (2001-ben lerombolták)", "Drámai vörös homokkő sziklák veszik körül", "A völgyet hazarák lakják", "Híres a burgonyatermesztéséről"],
       ro: ["Localizare: Centrul Afganistanului, provincia Bamiyan", "Altitudine: aproximativ 2.500 de metri", "Sit al Patrimoniului Mondial UNESCO din 2003", "Un centru budist major pe Drumul Mătăsii", "Locul a două statui colosale ale lui Buddha (distruse în 2001)", "Înconjurat de stânci dramatice de gresie roșie", "Valea este locuită de poporul Hazara", "Cunoscută pentru cultivarea cartofilor"],
       en: ["Location: Central Afghanistan, Bamyan Province", "Altitude: Approximately 2,500 meters (8,200 ft)", "UNESCO World Heritage site since 2003", "A major Buddhist center on the Silk Road", "Site of two colossal Buddha statues (destroyed in 2001)", "Surrounded by dramatic red sandstone cliffs", "The valley is inhabited by the Hazara people", "Known for its potato cultivation"]
-    }
-  },
+    }, image: "/poi-images/bamyan-valley-relief-v2.webp"},
   {
     id: "spin-ghar-relief-v2",
     type: "mountain",
@@ -259,8 +251,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Etimológia: 'Fehér-hegy' pastu (Spīn Ghar) vagy perzsa (Szafed Koh) nyelven", "Elhelyezkedés: Kelet-Afganisztán és Pakisztán", "Legmagasabb csúcs: Szikaram-hegy, 4761 m", "Vízválasztót képez a Kabul és az Indus folyórendszerek között", "A Khaibar-hágó a keleti végén található", "Történelmileg stratégiai katonai és kereskedelmi útvonal", "Az alsóbb lejtőket fenyő- és cédruserdők borítják", "A hegylánc körülbelül 160 km hosszú"],
       ro: ["Etimologie: 'Muntele Alb' în paștună (Spīn Ghar) sau persană (Safed Koh)", "Localizare: Estul Afganistanului și Pakistan", "Cel mai înalt vârf: Muntele Sikaram la 4.761 m", "Formează o cumpănă a apelor între sistemele hidrografice Kabul și Indus", "Trecătoarea Khyber se află la capătul său estic", "Istoric, o rută militară și comercială strategică", "Pantele inferioare sunt acoperite cu păduri de pin și cedru", "Lanțul muntos are aproximativ 160 km lungime"],
       en: ["Etymology: 'White Mountain' in Pashto (Spīn Ghar) or Persian (Safed Koh)", "Location: Eastern Afghanistan and Pakistan", "Highest Peak: Mount Sikaram at 4,761 m (15,620 ft)", "Forms a watershed between Kabul and Indus river systems", "The Khyber Pass is at its eastern end", "Historically a strategic military and trade route", "Lower slopes are covered in pine and cedar forests", "The range is approximately 160 km (100 miles) long"]
-    }
-  },
+    }, image: "/poi-images/spin-ghar-relief-v2.webp"},
   {
     id: "pamir-mountains-af-relief-v2",
     type: "mountain",
@@ -337,8 +328,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Kabultól nyugatra található", "Hagyományos nyári üdülőhely a fővárosból", "Hűvösebb éghajlatáról és zöld völgyeiről ismert", "Modernista fejlesztések helyszíne az 1920-as években Amanullah Khan király által", "Európai stílusú kertekkel és diadalívvel rendelkezik", "A terület a háborúk során súlyosan megrongálódott", "Éles ellentétben áll a száraz kabuli síksággal", "A legmagasabb csúcsok télen hóval borítottak"],
       ro: ["Situat la vest de Kabul", "O stațiune tradițională de vară din capitală", "Cunoscut pentru clima sa mai răcoroasă și văile verzi", "Locul dezvoltării moderniste în anii 1920 de către regele Amanullah Khan", "Prezintă grădini în stil european și un arc de triumf", "Zona a fost grav avariată în timpul războaielor", "Oferă un contrast puternic cu câmpia aridă din Kabul", "Cele mai înalte vârfuri sunt acoperite de zăpadă iarna"],
       en: ["Located west of Kabul", "A traditional summer retreat from the capital", "Known for its cooler climate and green valleys", "Site of modernist development in the 1920s by King Amanullah Khan", "Features European-style gardens and a victory arch", "The area was heavily damaged during the wars", "Offers a sharp contrast to the arid Kabul plain", "The highest peaks are snow-covered in winter"]
-    }
-  },
+    }, image: "/poi-images/koh-e-paghman-relief-v2.webp"},
   {
     id: "dasht-e-leili-relief-v2",
     type: "desert",
@@ -363,8 +353,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Elhelyezkedés: Dzsauzsán tartomány, Észak-Afganisztán", "Nagy, száraz sivatagi síkság", "A 2001-es vitatott Dast-e Leili mészárlás helyszíne", "A mészárlás során tálib foglyok haltak meg szállítókonténerekben", "Jellemzője a zord kontinentális éghajlat", "A táj homokos és agyagos talajokból áll", "A régióban kevés a víz", "Hagyományosan nomád pásztorok használják"],
       ro: ["Localizare: Provincia Jowzjan, nordul Afganistanului", "O câmpie deșertică mare și aridă", "Locul controversatului masacru de la Dasht-e Leili din 2001", "Masacrul a implicat moartea prizonierilor talibani în containere de transport", "Caracterizată de o climă continentală aspră", "Peisajul constă din soluri nisipoase și argiloase", "Apa este rară în regiune", "Utilizată în mod tradițional de păstorii nomazi"],
       en: ["Location: Jowzjan Province, Northern Afghanistan", "A large, arid desert plain", "Site of the controversial Dasht-e Leili massacre in 2001", "The massacre involved the death of Taliban prisoners in shipping containers", "Characterized by a harsh continental climate", "The landscape consists of sandy and clay soils", "Water is scarce in the region", "Traditionally used by nomadic herders"]
-    }
-  },
+    }, image: "/poi-images/dasht-e-leili-relief-v2.webp"},
   {
     id: "korengal-valley-relief-v2",
     type: "valley",
@@ -389,8 +378,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Elhelyezkedés: Kunar tartomány, Kelet-Afganisztán", "Körülbelül 10 km hosszú", "Sűrűn erdősült cédrusfákkal", "Az amerikai csapatok a 'Halál völgyének' nevezték el", "Az afganisztáni háború alatt heves harcok színtere", "Stratégiai elhelyezkedés a pakisztáni határ közelsége miatt", "A 'Restrepo' című dokumentumfilm témája", "Az amerikai erők 2010-ben vonultak ki a völgyből"],
       ro: ["Localizare: Provincia Kunar, estul Afganistanului", "Aproximativ 10 km lungime", "Pădure densă de cedri", "Poreclită 'Valea Morții' de către trupele americane", "Scena unor lupte intense în timpul războiului din Afganistan", "Locație strategică datorită apropierii de granița cu Pakistanul", "Subiectul filmului documentar 'Restrepo'", "Forțele americane s-au retras din vale în 2010"],
       en: ["Location: Kunar Province, Eastern Afghanistan", "Approximately 10 km (6 miles) long", "Heavily forested with cedar trees", "Nicknamed 'Valley of Death' by U.S. troops", "Scene of intense fighting during the war in Afghanistan", "Strategic location due to proximity to Pakistan border", "The subject of the documentary film 'Restrepo'", "U.S. forces withdrew from the valley in 2010"]
-    }
-  },
+    }, image: "/poi-images/korengal-valley-relief-v2.webp"},
   {
     id: "siah-koh-relief-v2",
     type: "mountain",
@@ -415,8 +403,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Etimológia: 'Fekete-hegy' perzsa nyelven", "Több hegylánc neve Nyugat- és Közép-Afganisztánban", "Egyik kiemelkedő vonulata Herát tartományban található", "Sötét színű, zord sziklaalakzatok jellemzik", "Száraz környezet, gyér növényzettel", "Alacsonyabb magasság a Hindukushoz képest", "Befolyásolja a helyi éghajlatot és a víz elérhetőségét", "Történelmileg természetes utazási akadályként szolgált"],
       ro: ["Etimologie: 'Muntele Negru' în persană", "Nume pentru mai multe lanțuri muntoase din vestul și centrul Afganistanului", "Un lanț proeminent se află în provincia Herat", "Caracterizat prin formațiuni stâncoase întunecate și accidentate", "Mediu arid cu vegetație rară", "Altitudine mai mică în comparație cu Hindu Kush", "Influențează clima locală și disponibilitatea apei", "A acționat istoric ca bariere naturale în calea călătoriilor"],
       en: ["Etymology: 'Black Mountain' in Persian", "Name for several ranges in western and central Afghanistan", "One prominent range is in Herat Province", "Characterized by dark-colored, rugged rock formations", "Arid environment with sparse vegetation", "Lower in elevation compared to the Hindu Kush", "Influences local climate and water availability", "Historically acted as natural barriers to travel"]
-    }
-  },
+    }, image: "/poi-images/siah-koh-relief-v2.webp"},
   {
     id: "shomali-plain-relief-v2",
     type: "plateau",
@@ -467,8 +454,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Elhelyezkedés: Kunar tartomány, Kelet-Afganisztán", "Keskeny, meredek falú folyóvölgy", "Főként a szafi pastu törzs lakja", "Az amerikai erők egyik fő hadműveleti területe volt", "Sűrű erdőiről és faanyagkészletéről ismert", "A Pecs folyó folyik át a völgyön", "A sziklás terep előnyt jelentett a felkelőknek", "Közel a pakisztáni határhoz"],
       ro: ["Localizare: Provincia Kunar, estul Afganistanului", "O vale îngustă și abruptă", "Locuită în principal de tribul paștun Safi", "A fost o zonă majoră de operațiuni pentru forțele americane", "Cunoscută pentru pădurile sale dense și resursele de lemn", "Râul Pech curge prin vale", "Terenul accidentat a oferit avantaje insurgenților", "Aproape de granița cu Pakistanul"],
       en: ["Location: Kunar Province, Eastern Afghanistan", "A narrow, steep-sided river valley", "Primarily inhabited by the Safi Pashtun tribe", "Was a major area of operations for U.S. forces", "Known for its dense forests and timber resources", "The Pech River runs through the valley", "Rugged terrain provided advantages to insurgents", "Close to the border with Pakistan"]
-    }
-  },
+    }, image: "/poi-images/pech-valley-relief-v2.webp"},
   {
     id: "zarghun-ghar-relief-v2",
     type: "mountain",
@@ -493,8 +479,7 @@ export const poiExtraAfghanistanReliefV2: POI[] = [
       hu: ["Elhelyezkedés: Logar tartomány, Kabultól délre", "A név pastu nyelven 'Zöld hegyet' jelent", "A hegylánc ma már többnyire száraz és sziklás", "A csúcsok meghaladják a 3000 méteres magasságot", "Stratégiai pozícióval rendelkezik a főváros közelében", "A helyiek legeltetésre és korlátozott gazdálkodásra használják", "Üledékes és vulkáni kőzetekből áll", "Fegyveres csoportok menedékhelyeként szolgált"],
       ro: ["Localizare: Provincia Logar, la sud de Kabul", "Numele înseamnă 'Muntele Verde' în paștună", "Lanțul muntos este acum în mare parte arid și stâncos", "Vârfurile ating peste 3.000 de metri altitudine", "Ocupă o poziție strategică în apropierea capitalei", "Folosit de localnici pentru pășunat și agricultură limitată", "Compus din roci sedimentare și vulcanice", "A servit ca refugiu pentru grupurile armate"],
       en: ["Location: Logar Province, south of Kabul", "Name means 'Green Mountain' in Pashto", "The range is now mostly arid and rocky", "Peaks reach over 3,000 meters in altitude", "Holds a strategic position near the capital", "Used for grazing and limited farming by locals", "Composed of sedimentary and volcanic rock", "Has served as a refuge for armed groups"]
-    }
-  },
+    }, image: "/poi-images/zarghun-ghar-relief-v2.webp"},
   {
     id: "tora-bora-relief-v2",
     type: "mountain",

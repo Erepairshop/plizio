@@ -1,0 +1,64 @@
+{
+  "lang": "hu",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-bakossi-relief-v2",
+      "description": "A Bakossi-hegység a délnyugati magasvidék része. Erdős lejtők és tagolt vulkáni forma jellemzi.",
+      "facts": ["délnyugati hegyvidék", "erdős lejtők", "vulkáni eredet"]
+    },
+    {
+      "id": "mount-koupe-relief-v2",
+      "description": "A Koupé-hegy a délnyugati vulkáni csúcsok egyike. A környező hegyvidéki táj fontos eleme.",
+      "facts": ["vulkáni csúcs", "délnyugati táj", "hegyvidéki elem"]
+    },
+    {
+      "id": "mount-ntem-relief-v2",
+      "description": "Az Ntem vidéke enyhén hullámos, erdős felszínű délies táj. A folyóvölgyek formálják.",
+      "facts": ["erdős dombvidék", "folyóvölgyek", "déli táj"]
+    },
+    {
+      "id": "mount-dja-relief-v2",
+      "description": "A Dja térsége alacsony dombok és erdős fennsíkok vidéke. A középső-déli átmeneti öv része.",
+      "facts": ["alacsony dombok", "erdős fennsík", "átmeneti öv"]
+    },
+    {
+      "id": "mount-kribi-relief-v2",
+      "description": "A Kribi környéki magaslatok a parti síkság fölé emelkednek. A tengerparti és a szárazföldi táj határát adják.",
+      "facts": ["parti magaslatok", "tengerparti zóna", "alacsony dombvidék"]
+    },
+    {
+      "id": "mount-bouba-relief-v2",
+      "description": "A Bouba térsége az északi száraz szavannás síkságokhoz tartozik. A lapos felszín dominál.",
+      "facts": ["északi síkság", "szavannás táj", "lapos felszín"]
+    },
+    {
+      "id": "mount-waza-relief-v2",
+      "description": "A Waza térsége lapos, száraz síkság. Az északi alföldek jellegét mutatja.",
+      "facts": ["sík felszín", "száraz zóna", "északi alföld"]
+    },
+    {
+      "id": "mount-logone-relief-v2",
+      "description": "A Logone vidéke folyókkal tagolt alföld. A határ menti sík táj egyik fő példája.",
+      "facts": ["alföld", "folyóvölgyek", "határ menti táj"]
+    },
+    {
+      "id": "mount-kadey-relief-v2",
+      "description": "A Kadey térsége enyhén hullámos keleti dombvidék. Erdős és folyóvölgyes részek váltakoznak.",
+      "facts": ["keleti dombvidék", "hullámos felszín", "folyóvölgyek"]
+    },
+    {
+      "id": "mount-nyong-relief-v2",
+      "description": "A Nyong vidéke erdős, alacsony dombokból áll. A középső és déli Kamerun átmeneti tája.",
+      "facts": ["erdős táj", "alacsony dombok", "közép-déli öv"]
+    },
+    {
+      "id": "mount-sangha-relief-v2",
+      "description": "A Sangha vidéke mélyen erdős, alacsonyan fekvő táj. A déli határvidék természetes része.",
+      "facts": ["mély erdőségek", "alacsony fekvés", "déli határvidék"]
+    }
+  ]
+}

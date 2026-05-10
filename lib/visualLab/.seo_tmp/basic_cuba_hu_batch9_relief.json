@@ -1,0 +1,44 @@
+{
+  "lang": "hu",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "meseta-de-maisí-relief-v2",
+      "description": "A Maisí-fennsík Kuba legkeletibb magasföldi területei közé tartozik.",
+      "facts": ["Kelet-Kuba", "Fennsík", "Partközeli magasföld"]
+    },
+    {
+      "id": "loma-la-vigia-relief-v2",
+      "description": "A Loma La Vigía egy jellegzetes domb és kilátópont Kuba egyik táján.",
+      "facts": ["Dombvidék", "Kilátópont", "Természeti formáció"]
+    },
+    {
+      "id": "alturas-de-perez-relief-v2",
+      "description": "Az Alturas de Pérez egy helyi dombvidéki magaslat Kubában.",
+      "facts": ["Dombos felszín", "Magaslat", "Természeti táj"]
+    },
+    {
+      "id": "loma-de-la-gloria-relief-v2",
+      "description": "A Loma de la Gloria egy ismert kubai domb és természetes kilátóhely.",
+      "facts": ["Domb", "Kilátóhely", "Tájképi pont"]
+    },
+    {
+      "id": "loma-del-taburete-relief-v2",
+      "description": "A Loma del Taburete egy kisebb hegy vagy domb Kuba természetes domborzatában.",
+      "facts": ["Hegy vagy domb", "Természeti táj", "Helyi domborzat"]
+    },
+    {
+      "id": "pico-san-juan-relief-v2",
+      "description": "A Pico San Juan az Escambray legmagasabb csúcsai közé tartozik.",
+      "facts": ["Escambray", "Legmagasabb csúcs", "Hegyi kirándulóhely"]
+    },
+    {
+      "id": "loma-del-capiro-relief-v2",
+      "description": "A Loma del Capiro Santa Clara egyik legismertebb városi dombja és kilátópontja.",
+      "facts": ["Santa Clara", "Városi domb", "Kilátópont"]
+    }
+  ]
+}

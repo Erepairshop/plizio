@@ -1,0 +1,39 @@
+{
+  "lang": "en",
+  "country": "Congo",
+  "files": [
+    "lib/visualLab/data/poiExtraCongoHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cg-brazzaville-city-hall-history-v2",
+      "description": "Historic Brazzaville City Hall is one of the capital's key administrative buildings. It reflects the city's colonial and civic heritage.",
+      "facts": ["In Brazzaville", "Administrative building", "Civic heritage"]
+    },
+    {
+      "id": "cg-ngabe-historic-site-history-v2",
+      "description": "Ngabé Historic Center preserves the memory of an old river settlement in the Pool area. It is part of the region's longer settlement history.",
+      "facts": ["In the Pool area", "Historic settlement", "River corridor"]
+    },
+    {
+      "id": "cg-old-court-brazzaville-history-v2",
+      "description": "The Old Court of Brazzaville is a former judicial building in the capital. It stands as a reminder of the city's administrative past.",
+      "facts": ["In Brazzaville", "Former courthouse", "Administrative past"]
+    },
+    {
+      "id": "cg-fort-rousset-old-fort-history-v2",
+      "description": "Historic Fort-Rousset Core marks the older colonial center of today's Owando. The name preserves the town's earlier identity as Fort-Rousset.",
+      "facts": ["In Owando", "Former name Fort-Rousset", "Colonial-era core"]
+    },
+    {
+      "id": "cg-kindamba-old-mission-history-v2",
+      "description": "Kindamba Mission Station records the presence of early missionary activity in the Pool region. It is part of the area's local religious heritage.",
+      "facts": ["In Kindamba", "Mission station", "Local religious heritage"]
+    },
+    {
+      "id": "cg-independence-bridge-history-v2",
+      "description": "Independence Bridge is a major bridge in Brazzaville with civic and symbolic value. It is associated with the capital's modern urban development.",
+      "facts": ["In Brazzaville", "Commemorative bridge", "Urban development"]
+    }
+  ]
+}

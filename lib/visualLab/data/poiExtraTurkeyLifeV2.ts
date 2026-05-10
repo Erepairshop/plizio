@@ -34,8 +34,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Located next to Topkapı Palace.",
         "Popular during the tulip festival."
       ]
-    }
-  },
+    }, image: "/poi-images/gulhane-park-life-v2.webp"},
   {
     id: "dilek-peninsula-life-v2",
     type: "wildlife-area",
@@ -69,8 +68,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Home to Anatolian leopards.",
         "Includes the Büyük Menderes delta."
       ]
-    }
-  },
+    }, image: "/poi-images/dilek-peninsula-life-v2.webp"},
   {
     id: "cukurova-plain-life-v2",
     type: "agriculture",
@@ -139,8 +137,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Features one of Turkey's fastest roller coasters.",
         "Has an integrated shopping mall."
       ]
-    }
-  },
+    }, image: "/poi-images/isfanbul-themepark-life-v2.webp"},
   {
     id: "rize-tea-plantations-life-v2",
     type: "agriculture",
@@ -174,8 +171,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "The humid climate is ideal for tea cultivation.",
         "Tea harvesting usually takes place in spring."
       ]
-    }
-  },
+    }, image: "/poi-images/rize-tea-plantations-life-v2.webp"},
   {
     id: "kuscenneti-nationalpark-life-v2",
     type: "wildlife-area",
@@ -209,8 +205,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Protects over 250 bird species.",
         "Awarded the European Diploma of Protected Areas."
       ]
-    }
-  },
+    }, image: "/poi-images/kuscenneti-nationalpark-life-v2.webp"},
   {
     id: "bursa-peach-orchards-life-v2",
     type: "agriculture",
@@ -244,8 +239,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "The mild climate favors the growth of the fruit.",
         "The fruits are exported throughout Europe."
       ]
-    }
-  },
+    }, image: "/poi-images/bursa-peach-orchards-life-v2.webp"},
   {
     id: "emirgan-park-life-v2",
     type: "park",
@@ -279,8 +273,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Houses three historical wooden pavilions.",
         "Millions of tulips bloom here in April."
       ]
-    }
-  },
+    }, image: "/poi-images/emirgan-park-life-v2.webp"},
   {
     id: "antalya-aquarium-life-v2",
     type: "kid-friendly",
@@ -314,8 +307,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Features an exhibition of tropical reptiles.",
         "You can observe real sharks up close."
       ]
-    }
-  },
+    }, image: "/poi-images/antalya-aquarium-life-v2.webp"},
   {
     id: "giresun-hazelnut-life-v2",
     type: "agriculture",
@@ -349,8 +341,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Hazelnuts are an important export commodity.",
         "Often used in the chocolate industry."
       ]
-    }
-  },
+    }, image: "/poi-images/giresun-hazelnut-life-v2.webp"},
   {
     id: "igneada-floodplain-life-v2",
     type: "wildlife-area",
@@ -384,8 +375,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Includes swamps, lakes, and sand dunes.",
         "Important habitat for amphibians."
       ]
-    }
-  },
+    }, image: "/poi-images/igneada-floodplain-life-v2.webp"},
   {
     id: "yildiz-park-life-v2",
     type: "park",
@@ -419,8 +409,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Home to the famous Yıldız Porcelain Factory.",
         "Offers a magnificent view of the Bosphorus."
       ]
-    }
-  },
+    }, image: "/poi-images/yildiz-park-life-v2.webp"},
   {
     id: "faruk-yalcin-zoo-life-v2",
     type: "kid-friendly",
@@ -454,8 +443,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Has a large botanical garden.",
         "Involved in international breeding programs."
       ]
-    }
-  },
+    }, image: "/poi-images/faruk-yalcin-zoo-life-v2.webp"},
   {
     id: "aydin-fig-orchards-life-v2",
     type: "agriculture",
@@ -489,8 +477,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Drying is done traditionally in the sun.",
         "Main export item of the Aegean region."
       ]
-    }
-  },
+    }, image: "/poi-images/aydin-fig-orchards-life-v2.webp"},
   {
     id: "soguksu-nationalpark-life-v2",
     type: "park",
@@ -524,8 +511,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Home to the rare cinereous vulture.",
         "The volcanic terrain warms the springs."
       ]
-    }
-  },
+    }, image: "/poi-images/soguksu-nationalpark-life-v2.webp"},
   {
     id: "iztuzu-beach-life-v2",
     type: "wildlife-area",
@@ -559,8 +545,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Closed to visitors at night to protect the nests.",
         "Houses a turtle rescue center."
       ]
-    }
-  },
+    }, image: "/poi-images/iztuzu-beach-life-v2.webp"},
   {
     id: "miniaturk-life-v2",
     type: "kid-friendly",
@@ -594,8 +579,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Includes over 130 architectural masterpieces.",
         "Picturesquely located on the shores of the Golden Horn."
       ]
-    }
-  },
+    }, image: "/poi-images/miniaturk-life-v2.webp"},
   {
     id: "malatya-apricots-life-v2",
     type: "agriculture",
@@ -629,8 +613,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "The fruits are gently dried on family farms.",
         "Malatya is often referred to as the apricot capital."
       ]
-    }
-  },
+    }, image: "/poi-images/malatya-apricots-life-v2.webp"},
   {
     id: "sarikamis-forest-life-v2",
     type: "wildlife-area",
@@ -664,8 +647,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
         "Important habitat for brown bears and wolves.",
         "Popular destination for winter sports enthusiasts."
       ]
-    }
-  },
+    }, image: "/poi-images/sarikamis-forest-life-v2.webp"},
   {
     id: "karagol-sahara-life-v2",
     type: "park",

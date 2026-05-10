@@ -18,8 +18,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["1850 körül épült.", "Egykori királyi palota faanyagát használták fel.", "1,2 kilométer hosszú."],
       ro: ["Construit în jurul anului 1850.", "Folosește lemn de la un fost palat regal.", "Are o lungime de 1,2 kilometri."],
       en: ["Built around 1850.", "Uses wood from a former royal palace.", "It is 1.2 kilometers long."]
-    }
-  },
+    }, image: "/poi-images/myanmar-u-bein-bridge-landmarks-v2.webp"},
   {
     id: "myanmar-inle-floating-gardens-landmarks-v2",
     type: "tourist-attraction",
@@ -37,8 +36,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Nádból és iszapból állnak.", "A szigeteket bambuszrudakkal rögzítik a tó fenekéhez.", "Különösen híresek a paradicsomról."],
       ro: ["Constau din stuf și noroi.", "Insulele sunt fixate de fundul lacului cu stâlpi de bambus.", "Deosebit de cunoscute pentru roșii."],
       en: ["Composed of reeds and mud.", "The islands are secured to the lake bed with bamboo poles.", "Especially known for tomatoes."]
-    }
-  },
+    }, image: "/poi-images/myanmar-inle-floating-gardens-landmarks-v2.webp"},
   {
     id: "myanmar-popa-taungkalat-landmarks-v2",
     type: "landmark",
@@ -56,8 +54,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["777 lépcsőfok vezet a csúcsra.", "A leghatalmasabb natek (szellemek) otthonának tartják.", "A szikla 737 méter magas."],
       ro: ["777 de trepte duc spre vârf.", "Considerat casa celor mai puternice nat (spirite).", "Stânca are 737 de metri înălțime."],
       en: ["777 steps lead to the summit.", "Considered the home of the most powerful Nats (spirits).", "The rock is 737 meters high."]
-    }
-  },
+    }, image: "/poi-images/myanmar-popa-taungkalat-landmarks-v2.webp"},
   {
     id: "myanmar-gokteik-viaduct-landmarks-v2",
     type: "monument",
@@ -75,8 +72,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["1900-ban épült.", "Elkészültekor a világ legnagyobb vasúti viaduktja volt.", "A híd 689 méter hosszú."],
       ro: ["Construit în anul 1900.", "La finalizare era cel mai mare viaduct feroviar din lume.", "Podul are 689 metri lungime."],
       en: ["Built in 1900.", "Upon completion, it was the largest railway trestle in the world.", "The bridge is 689 meters long."]
-    }
-  },
+    }, image: "/poi-images/myanmar-gokteik-viaduct-landmarks-v2.webp"},
   {
     id: "myanmar-pindaya-caves-landmarks-v2",
     type: "tourist-attraction",
@@ -94,8 +90,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Több mint 8000 Buddha-szobrot rejt.", "A szobrok különböző korokból származnak.", "A bejáratnál egy helyi legendára utaló pók szobra áll."],
       ro: ["Conține peste 8.000 de statui ale lui Buddha.", "Statuile datează din diferite epoci.", "La intrare există o statuie de păianjen dintr-o legendă locală."],
       en: ["Contains over 8,000 Buddha statues.", "The statues date from various eras.", "There is a spider statue at the entrance from a local legend."]
-    }
-  },
+    }, image: "/poi-images/myanmar-pindaya-caves-landmarks-v2.webp"},
   {
     id: "myanmar-chaukhtatgyi-buddha-landmarks-v2",
     type: "monument",
@@ -113,8 +108,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["A szobor 65 méter hosszú.", "A talpán 108 szerencsehozó szimbólum található.", "Az eredeti Buddhát 1907-ben építették."],
       ro: ["Statuia are 65 de metri lungime.", "Tălpile poartă 108 simboluri de bun augur.", "Buddha original a fost construit în 1907."],
       en: ["The statue is 65 meters long.", "The soles bear 108 auspicious symbols.", "The original Buddha was built in 1907."]
-    }
-  },
+    }, image: "/poi-images/myanmar-chaukhtatgyi-buddha-landmarks-v2.webp"},
   {
     id: "myanmar-laykyun-sekkya-landmarks-v2",
     type: "monument",
@@ -132,8 +126,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["116 méteres magasságával a világ harmadik legmagasabb szobra.", "Az építkezés 12 évig tartott.", "Belsejében 31 emelet található."],
       ro: ["Cu 116 metri înălțime este a treia cea mai înaltă statuie din lume.", "Timpul de construcție a fost de 12 ani.", "În interior există 31 de etaje."],
       en: ["At 116 meters high, it is the third tallest statue in the world.", "Construction took 12 years.", "There are 31 floors inside."]
-    }
-  },
+    }, image: "/poi-images/myanmar-laykyun-sekkya-landmarks-v2.webp"},
   {
     id: "myanmar-thanboddhay-pagoda-landmarks-v2",
     type: "landmark",
@@ -151,8 +144,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Pontosan 582 357 Buddha-szobrot rejt.", "Az építészet az indonéziai Borobudurra emlékeztet.", "Az építkezés 1939-ben kezdődött."],
       ro: ["Găzduiește exact 582.357 de statui ale lui Buddha.", "Arhitectura amintește de Borobudur din Indonezia.", "Construcția a început în 1939."],
       en: ["Houses exactly 582,357 Buddha statues.", "The architecture is reminiscent of Borobudur in Indonesia.", "Construction began in 1939."]
-    }
-  },
+    }, image: "/poi-images/myanmar-thanboddhay-pagoda-landmarks-v2.webp"},
   {
     id: "myanmar-karaweik-palace-landmarks-v2",
     type: "icon",
@@ -170,8 +162,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["1974-ben készült el.", "A dizájn a Pyigyimon királyi bárkán alapul.", "Teljesen be van vonva aranyfüsttel."],
       ro: ["A fost finalizat în 1974.", "Designul se bazează pe șlepul regal Pyigyimon.", "Complet decorat cu foiță de aur."],
       en: ["Was completed in 1974.", "The design is based on the royal barge Pyigyimon.", "Completely decorated with gold leaf."]
-    }
-  },
+    }, image: "/poi-images/myanmar-karaweik-palace-landmarks-v2.webp"},
   {
     id: "myanmar-ngapali-beach-landmarks-v2",
     type: "tourist-attraction",
@@ -208,8 +199,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Egy mesterséges tó veszi körül.", "Hpa-An közelében található.", "Úgy tűnik, mintha a szikla dacolna a gravitációval."],
       ro: ["Înconjurat de un lac artificial.", "Se află lângă Hpa-An.", "Stânca pare să sfideze gravitația."],
       en: ["Surrounded by an artificial lake.", "Located near Hpa-An.", "The rock seems to defy gravity."]
-    }
-  },
+    }, image: "/poi-images/myanmar-kyauk-ka-lat-landmarks-v2.webp"},
   {
     id: "myanmar-saddan-cave-landmarks-v2",
     type: "tourist-attraction",
@@ -227,8 +217,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["A barlang majdnem 800 méter hosszú.", "Sok része kivilágítatlan és tele van denevérekkel.", "A kijáratnál gyakran csónak várja a látogatókat a visszaútra."],
       ro: ["Peștera are o lungime de aproape 800 de metri.", "Multe părți sunt neiluminate și pline de lilieci.", "La ieșire așteaptă adesea o barcă pentru întoarcere."],
       en: ["The cave is almost 800 meters long.", "Many parts are unlit and full of bats.", "A boat often waits at the exit for the return trip."]
-    }
-  },
+    }, image: "/poi-images/myanmar-saddan-cave-landmarks-v2.webp"},
   {
     id: "myanmar-phaung-daw-oo-landmarks-v2",
     type: "landmark",
@@ -246,8 +235,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Csak férfiak tehetnek fel aranyfüstöt.", "Évente egyszer a szobrokat egy csónakos körmeneten hordozzák körbe.", "Az 1960-as években az egyik szobor a vízbe esett."],
       ro: ["Doar bărbații au voie să aplice foița de aur.", "O dată pe an, statuile sunt plimbate într-o procesiune cu barca.", "În anii 1960 o statuie a căzut în apă."],
       en: ["Only men are allowed to apply the gold leaf.", "Once a year the statues are paraded in a boat procession.", "In the 1960s, one statue fell into the water."]
-    }
-  },
+    }, image: "/poi-images/myanmar-phaung-daw-oo-landmarks-v2.webp"},
   {
     id: "myanmar-maha-bandula-park-landmarks-v2",
     type: "tourist-attraction",
@@ -265,8 +253,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Eredetileg Fytche térnek hívták.", "Közepén áll a Függetlenségi Emlékmű.", "Népszerű találkozóhely a helyiek számára."],
       ro: ["Numit inițial Piața Fytche.", "Monumentul Independenței se află în centru.", "Loc de întâlnire popular pentru localnici."],
       en: ["Originally called Fytche Square.", "The Independence Monument stands in the center.", "Popular meeting place for locals."]
-    }
-  },
+    }, image: "/poi-images/myanmar-maha-bandula-park-landmarks-v2.webp"},
   {
     id: "myanmar-independence-monument-landmarks-v2",
     type: "monument",
@@ -284,8 +271,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Viktória királynő szobrát váltotta fel.", "Öt kisebb oszlop veszi körül.", "Az emlékmű 50 méter magas."],
       ro: ["A înlocuit o statuie a reginei Victoria.", "Înconjurat de cinci piloni mai mici.", "Monumentul are 50 de metri înălțime."],
       en: ["Replaced a statue of Queen Victoria.", "Surrounded by five smaller pillars.", "The monument is 50 meters high."]
-    }
-  },
+    }, image: "/poi-images/myanmar-independence-monument-landmarks-v2.webp"},
   {
     id: "myanmar-kandawgyi-lake-landmarks-v2",
     type: "tourist-attraction",
@@ -303,8 +289,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Királyi tóként is ismert.", "Az Inya-tó táplálja vízzel.", "A tavat fás parkok veszik körül."],
       ro: ["Cunoscut sub numele de Lacul Regal.", "Este alimentat cu apă din Lacul Inya.", "Lacul este înconjurat de parcuri împădurite."],
       en: ["Known as the Royal Lake.", "Fed with water from Inya Lake.", "The lake is surrounded by wooded parks."]
-    }
-  },
+    }, image: "/poi-images/myanmar-kandawgyi-lake-landmarks-v2.webp"},
   {
     id: "myanmar-kyaik-than-lan-landmarks-v2",
     type: "landmark",
@@ -322,8 +307,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Állítólag ez ihlette Rudyard Kipling 'Mandalay' című versét.", "A 875-ös évben épült.", "A sztúpa 46 méter magas."],
       ro: ["Se spune că l-a inspirat pe Rudyard Kipling pentru poezia sa 'Mandalay'.", "A fost construită în anul 875.", "Stupa are 46 de metri înălțime."],
       en: ["Said to have inspired Rudyard Kipling's poem 'Mandalay'.", "Was built in the year 875.", "The stupa is 46 meters high."]
-    }
-  },
+    }, image: "/poi-images/myanmar-kyaik-than-lan-landmarks-v2.webp"},
   {
     id: "myanmar-peik-chin-myaung-landmarks-v2",
     type: "tourist-attraction",
@@ -341,8 +325,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["Maha Nandamu barlangként is ismert.", "Egy föld alatti folyó folyik át a barlangon.", "Sok szobrot zarándokok adományoztak."],
       ro: ["Cunoscută și sub numele de peștera Maha Nandamu.", "Un râu subteran curge prin peșteră.", "Multe statui au fost donate de pelerini."],
       en: ["Also known as Maha Nandamu Cave.", "An underground river flows through the cave.", "Many statues were donated by pilgrims."]
-    }
-  },
+    }, image: "/poi-images/myanmar-peik-chin-myaung-landmarks-v2.webp"},
   {
     id: "myanmar-taung-kwe-pagoda-landmarks-v2",
     type: "landmark",
@@ -360,8 +343,7 @@ export const poiExtraMyanmarLandmarksV2: POI[] = [
       hu: ["A név jelentése 'Megosztott hegy'.", "A csúcsokat apró hidak kötik össze egymással.", "360 fokos kilátást nyújt a Kayah államra."],
       ro: ["Numele înseamnă 'Muntele Împărțit'.", "Vârfurile sunt conectate între ele prin poduri mici.", "Oferă o vedere de 360 de grade a statului Kayah."],
       en: ["The name means 'Divided Mountain'.", "The peaks are connected by small bridges.", "Offers a 360-degree view of Kayah State."]
-    }
-  },
+    }, image: "/poi-images/myanmar-taung-kwe-pagoda-landmarks-v2.webp"},
   {
     id: "myanmar-dattawgyaik-waterfall-landmarks-v2",
     type: "tourist-attraction",

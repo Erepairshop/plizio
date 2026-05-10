@@ -38,8 +38,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "It features the highest observation deck globally.",
         "The entire construction process took six years."
       ]
-    }
-  },
+    }, image: "/poi-images/burj-khalifa-landmarks-v2.webp"},
   {
     id: "sheikh-zayed-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -77,8 +76,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "The chandeliers are adorned with sparkling Swarovski crystals.",
         "The construction took over a decade until 2007."
       ]
-    }
-  },
+    }, image: "/poi-images/sheikh-zayed-grand-mosque-landmarks-v2.webp"},
   {
     id: "burj-al-arab-landmarks-v2",
     type: "landmark",
@@ -116,8 +114,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "It stands on its own artificial island in the sea.",
         "It features a spectacular helipad on the roof."
       ]
-    }
-  },
+    }, image: "/poi-images/burj-al-arab-landmarks-v2.webp"},
   {
     id: "louvre-abu-dhabi-landmarks-v2",
     type: "landmark",
@@ -155,8 +152,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "It is located on the cultural Saadiyat Island.",
         "The collection showcases artworks from around the globe."
       ]
-    }
-  },
+    }, image: "/poi-images/louvre-abu-dhabi-landmarks-v2.webp"},
   {
     id: "the-dubai-mall-landmarks-v2",
     type: "landmark",
@@ -194,8 +190,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "The complex was opened to the public in November 2008.",
         "It attracts tens of millions of international visitors annually."
       ]
-    }
-  },
+    }, image: "/poi-images/the-dubai-mall-landmarks-v2.webp"},
   {
     id: "palm-jumeirah-landmarks-v2",
     type: "landmark",
@@ -233,8 +228,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "It is home to countless luxury villas and exclusive resorts.",
         "The first residents moved to the island in 2006."
       ]
-    }
-  },
+    }, image: "/poi-images/palm-jumeirah-landmarks-v2.webp"},
   {
     id: "qasr-al-watan-landmarks-v2",
     type: "landmark",
@@ -272,8 +266,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "It houses a vast library filled with historical knowledge.",
         "It still serves as the official seat of the national government."
       ]
-    }
-  },
+    }, image: "/poi-images/qasr-al-watan-landmarks-v2.webp"},
   {
     id: "ferrari-world-landmarks-v2",
     type: "landmark",
@@ -311,8 +304,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "The massive amusement park was officially opened in 2010.",
         "It is located in close proximity to the Formula 1 racing track."
       ]
-    }
-  },
+    }, image: "/poi-images/ferrari-world-landmarks-v2.webp"},
   {
     id: "dubai-frame-landmarks-v2",
     type: "landmark",
@@ -350,8 +342,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "The attraction was opened to visitors in January 2018.",
         "The golden exterior design was inspired by the Expo 2020."
       ]
-    }
-  },
+    }, image: "/poi-images/dubai-frame-landmarks-v2.webp"},
   {
     id: "ain-dubai-landmarks-v2",
     type: "landmark",
@@ -389,8 +380,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "The impressive structure was officially inaugurated in 2021.",
         "It is constructed from over eleven thousand tons of solid steel."
       ]
-    }
-  },
+    }, image: "/poi-images/ain-dubai-landmarks-v2.webp"},
   {
     id: "museum-of-the-future-landmarks-v2",
     type: "landmark",
@@ -428,8 +418,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "The grand opening ceremony took place on February 22, 2022.",
         "The unique design symbolizes the unknown of the future world."
       ]
-    }
-  },
+    }, image: "/poi-images/museum-of-the-future-landmarks-v2.webp"},
   {
     id: "emirates-palace-landmarks-v2",
     type: "landmark",
@@ -467,8 +456,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "Real gold leaf was used extensively for the interior decoration.",
         "The pristine private sandy beach is over one kilometer long."
       ]
-    }
-  },
+    }, image: "/poi-images/emirates-palace-landmarks-v2.webp"},
   {
     id: "global-village-landmarks-v2",
     type: "landmark",
@@ -506,8 +494,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "It was founded back in 1997 as a small recurring event.",
         "It attracts millions of enthusiastic tourists every single season."
       ]
-    }
-  },
+    }, image: "/poi-images/global-village-landmarks-v2.webp"},
   {
     id: "qasr-al-hosn-landmarks-v2",
     type: "landmark",
@@ -545,8 +532,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "The outer walls were traditionally built using shells and coral.",
         "The structure was reopened in 2018 after extensive restorations."
       ]
-    }
-  },
+    }, image: "/poi-images/qasr-al-hosn-landmarks-v2.webp"},
   {
     id: "dubai-miracle-garden-landmarks-v2",
     type: "landmark",
@@ -584,8 +570,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "A massive Airbus A380 structure is entirely covered in flowers.",
         "The park is completely closed during the scorching summer months."
       ]
-    }
-  },
+    }, image: "/poi-images/dubai-miracle-garden-landmarks-v2.webp"},
   {
     id: "atlantis-the-palm-landmarks-v2",
     type: "landmark",
@@ -623,8 +608,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "The attached water park is one of the largest in the entire world.",
         "The complex's design is heavily based on the legendary sunken Atlantis."
       ]
-    }
-  },
+    }, image: "/poi-images/atlantis-the-palm-landmarks-v2.webp"},
   {
     id: "sharjah-museum-of-islamic-civilization-landmarks-v2",
     type: "landmark",
@@ -662,8 +646,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "The exhibition includes historical manuscripts and fascinating astrolabes.",
         "The stunning central mosaic accurately depicts the detailed starry sky."
       ]
-    }
-  },
+    }, image: "/poi-images/sharjah-museum-of-islamic-civilization-landmarks-v2.webp"},
   {
     id: "al-jahili-fort-landmarks-v2",
     type: "landmark",
@@ -701,8 +684,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "It features massive and distinctive circular watchtowers at its corners.",
         "The building was carefully restored and eventually reopened in 2008."
       ]
-    }
-  },
+    }, image: "/poi-images/al-jahili-fort-landmarks-v2.webp"},
   {
     id: "al-fahidi-historical-neighbourhood-landmarks-v2",
     type: "landmark",
@@ -740,8 +722,7 @@ export const poiExtraUaeLandmarksV2: POI[] = [
         "Many of the older buildings were constructed using coral and gypsum.",
         "Today, the area is home to numerous fascinating museums and art galleries."
       ]
-    }
-  },
+    }, image: "/poi-images/al-fahidi-historical-neighbourhood-landmarks-v2.webp"},
   {
     id: "dhayah-fort-landmarks-v2",
     type: "landmark",

@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bale-foret-nature-v2",
+      "description": "Die Balé-Waldzone ist ein geschützter Naturraum im Südwesten Burkina Fasos. Sie steht für dichte Vegetation und einen wichtigen Lebensraum für viele Arten.",
+      "facts": ["Geschützter Wald", "Im Südwesten", "Reiche Vegetation"]
+    },
+    {
+      "id": "mare-aux-hippopotames-nature-v2",
+      "description": "Die Mare aux Hippopotames ist ein bekanntes Feuchtgebiet und Lebensraum für Flusspferde. Das Naturgebiet gehört zu den wichtigsten Wasserflächen des Landes.",
+      "facts": ["Feuchtgebiet", "Nilpferde als Merkmal", "Wichtiger Lebensraum"]
+    },
+    {
+      "id": "fleuve-volta-rouge-nature-v2",
+      "description": "Der Fleuve Volta Rouge ist ein wichtiger Wasserlauf im burkinischen Flusssystem. Entlang seines Verlaufs liegen landwirtschaftlich genutzte und ökologisch wertvolle Räume.",
+      "facts": ["Fluss in Burkina Faso", "Teil des Voltabeckens", "Wasser für Dörfer"]
+    },
+    {
+      "id": "foret-tengrela-nature-v2",
+      "description": "Der Wald von Tengrela liegt in einer grünen Zone nahe dem bekannten Seegebiet. Er ergänzt die Landschaft um einen ruhigen Naturraum mit hoher ökologischer Bedeutung.",
+      "facts": ["Wald nahe Tengrela", "Grüne Landschaft", "Ökologisch wichtig"]
+    },
+    {
+      "id": "monts-kanala-nature-v2",
+      "description": "Die Monts Kanala bilden eine hügelige Landschaft in Burkina Faso. Das Relief sorgt für Abwechslung im sonst oft flachen savannenartigen Gelände.",
+      "facts": ["Hügelige Landschaft", "Im Osten gelegen", "Prägt das Relief"]
+    },
+    {
+      "id": "mare-de-gourou-nature-v2",
+      "description": "Die Mare de Gourou ist ein kleines Gewässer in der östlichen Landeshälfte. In der Trockenzeit kann es als wichtiger Punkt für Tiere und Vögel dienen.",
+      "facts": ["Kleines Gewässer", "In Ostburkina", "Für Vögel wichtig"]
+    },
+    {
+      "id": "foret-dindivier-nature-v2",
+      "description": "Der Dindivier-Wald ist ein bewaldetes Gebiet mit lokaler Bedeutung für Natur und Klima. Er bietet Schatten, Schutz und einen ruhigen Lebensraum für die Fauna.",
+      "facts": ["Bewaldetes Gebiet", "Lokaler Lebensraum", "Schutz für Tiere"]
+    },
+    {
+      "id": "monts-kole-nature-v2",
+      "description": "Die Monts Kole gehören zu den kleineren Berg- und Hügelformen Burkina Fasos. Sie setzen einen markanten Punkt im Landschaftsbild des Westens.",
+      "facts": ["Kleinere Bergkette", "Im Westen des Landes", "Markantes Relief"]
+    },
+    {
+      "id": "mare-de-kourou-nature-v2",
+      "description": "Die Mare de Kourou ist ein natürliches Wasserbecken in einer trockeneren Umgebung. Es spielt eine Rolle als Sammelpunkt für Wasser und Tierleben.",
+      "facts": ["Natürliches Wasserbecken", "Sammelpunkt für Tiere", "In trockener Umgebung"]
+    },
+    {
+      "id": "foret-boulon-nature-v2",
+      "description": "Die Boulon-Waldzone liegt im Übergang zwischen Wald und Savanne. Sie ist wichtig für die lokale Biodiversität und die Beobachtung von Wildtieren.",
+      "facts": ["Wald-Savannen-Übergang", "Wichtig für Biodiversität", "Lebensraum für Tiere"]
+    },
+    {
+      "id": "monts-diapaga-nature-v2",
+      "description": "Die Monts Diapaga markieren ein felsigeres Relief im Osten Burkina Fasos. Sie ergänzen die trockene Landschaft um Höhenzüge und natürliche Aussichtspunkte.",
+      "facts": ["Felsiges Relief", "Im Osten des Landes", "Höhenzüge im Gelände"]
+    },
+    {
+      "id": "mare-de-bale-nature-v2",
+      "description": "Die Mare de Balé ist ein kleines, saisonales Gewässer in der Balé-Region. Es ist besonders in der Regenzeit ein wichtiger Punkt im Naturraum.",
+      "facts": ["Saisonales Gewässer", "In der Balé-Region", "Wichtig in der Regenzeit"]
+    },
+    {
+      "id": "foret-sissili-nature-v2",
+      "description": "Der Wald von Sissili ist ein Naturraum mit dichterer Vegetation als die umliegende Savanne. Er bietet Schutz für Pflanzen, Vögel und kleinere Wildtiere.",
+      "facts": ["Dichterer Wald", "Schutzraum für Tiere", "Mehr Vegetation als Savanne"]
+    },
+    {
+      "id": "monts-gorom-nature-v2",
+      "description": "Die Monts Gorom sind ein hügeliger Naturraum im Norden des Landes. Sie prägen die trockene Sahel-Landschaft mit kleinen Erhebungen.",
+      "facts": ["Hügel im Norden", "Sahel-Landschaft", "Karge Umgebung"]
+    },
+    {
+      "id": "mare-de-arbinda-nature-v2",
+      "description": "Die Mare de Arbinda ist eine Wasserstelle in der nördlichen Sahelzone. In einer trockenen Region ist sie für Menschen, Tiere und den Alltag besonders wichtig.",
+      "facts": ["Wasserstelle im Norden", "In der Sahelzone", "Wichtig in der Trockenzeit"]
+    }
+  ]
+}

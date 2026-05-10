@@ -63,8 +63,7 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
         "The city is famous for its agricultural wealth, particularly pomegranates and grapes.",
         "The Shrine of the Cloak houses a garment believed to have belonged to the Prophet Muhammad."
       ]
-    }
-  },
+    }, image: "/poi-images/kandahar-cities-v2.webp"},
   {
     id: "herat-cities-v2",
     type: "state-capital",
@@ -127,8 +126,7 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
         "The Blue Mosque is the landmark and spiritual center of the city.",
         "The city traditionally celebrates the Nowruz festival each year with tens of thousands of visitors."
       ]
-    }
-  },
+    }, image: "/poi-images/mazar-i-sharif-cities-v2.webp"},
   {
     id: "kunduz-cities-v2",
     type: "state-capital",
@@ -479,8 +477,7 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
         "Winters in the city are extremely long and snowy.",
         "The Hari Rud river flows directly through the city center."
       ]
-    }
-  },
+    }, image: "/poi-images/chaghcharan-cities-v2.webp"},
   {
     id: "mihtarlam-cities-v2",
     type: "state-capital",

@@ -18,8 +18,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["Agyagtéglákból épült fel az erődítmény.", "A várost egy 12 kilométer hosszú fal veszi körül."],
       ro: ["A fost construit din cărămizi de lut.", "Are un zid de apărare lung de 12 kilometri."],
       en: ["Constructed using mudbricks.", "Features a 12-kilometer-long city wall."]
-    }
-  },
+    }, image: "/poi-images/bahla-fort-history-v2.webp"},
   {
     id: "nizwa-fort-history-v2",
     type: "historical-site",
@@ -37,8 +36,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["A főtorony átmérője 36 méter.", "Egy földalatti vízforrás fölé épült."],
       ro: ["Turnul principal are un diametru de 36 de metri.", "A fost ridicat deasupra unui izvor de apă subteran."],
       en: ["The main tower has a diameter of 36 meters.", "Was built over an underground water stream."]
-    }
-  },
+    }, image: "/poi-images/nizwa-fort-history-v2.webp"},
   {
     id: "bat-al-khutm-al-ayn-history-v2",
     type: "ruin",
@@ -56,8 +54,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["A bat-i nekropolisz több mint 100 sírt foglal magába.", "1988 óta az UNESCO Világörökség része."],
       ro: ["Necropola din Bat include peste 100 de morminte.", "Parte a Patrimoniului Mondial UNESCO din 1988."],
       en: ["The Bat necropolis includes over 100 tombs.", "Has been a UNESCO World Heritage site since 1988."]
-    }
-  },
+    }, image: "/poi-images/bat-al-khutm-al-ayn-history-v2.webp"},
   {
     id: "sumhuram-khor-rori-history-v2",
     type: "ruin",
@@ -75,8 +72,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["A várost a Hadramauti Királyság irányította.", "Az ásatások során ószémarab ábécével írt feliratok kerültek elő."],
       ro: ["Orașul era controlat de Regatul Hadhramaut.", "Săpăturile au scos la iveală inscripții în vechiul alfabet sud-arabic."],
       en: ["The city was controlled by the Hadhramaut Kingdom.", "Excavations unearthed inscriptions in the Old South Arabian alphabet."]
-    }
-  },
+    }, image: "/poi-images/sumhuram-khor-rori-history-v2.webp"},
   {
     id: "al-baleed-archaeological-park-history-v2",
     type: "historical-site",
@@ -94,8 +90,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["A helység nagymecsetje 144 oszloppal rendelkezett.", "Az UNESCO 'Tömjénút' világörökségi helyszínének része."],
       ro: ["Marea moschee a locului avea 144 de coloane.", "Face parte din 'Drumul Tămâiei', sit UNESCO."],
       en: ["The town's grand mosque featured 144 columns.", "Part of the 'Land of Frankincense' UNESCO World Heritage site."]
-    }
-  },
+    }, image: "/poi-images/al-baleed-archaeological-park-history-v2.webp"},
   {
     id: "jibreen-castle-history-v2",
     type: "historical-site",
@@ -113,8 +108,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["Itt található az építő, Bil'arab imám sírja.", "Rejtett nyílásokkal rendelkezik, amelyeken forró datolyaszirupot öntöttek a támadókra."],
       ro: ["Adăpostește mormântul constructorului, Imamul Bil'arab.", "Dispune de guri de tragere ascunse pentru a turna sirop fierbinte de curmale peste atacatori."],
       en: ["Houses the tomb of its builder, Imam Bil'arab.", "Features hidden shafts for pouring boiling date syrup on attackers."]
-    }
-  },
+    }, image: "/poi-images/jibreen-castle-history-v2.webp"},
   {
     id: "nakhal-fort-history-v2",
     type: "historical-site",
@@ -132,8 +126,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["Pontosan követi az alatta lévő szikla formáját.", "Egy hőforrás (A'Thowarah) folyik a közelében."],
       ro: ["Se adaptează perfect formei stâncii de dedesubt.", "Un izvor termal (A'Thowarah) curge în apropiere."],
       en: ["Conforms exactly to the shape of the rock below it.", "A hot spring (A'Thowarah) flows nearby."]
-    }
-  },
+    }, image: "/poi-images/nakhal-fort-history-v2.webp"},
   {
     id: "al-rustaq-fort-history-v2",
     type: "historical-site",
@@ -170,8 +163,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["Eredetileg 'Forte de São João' néven volt ismert.", "Ma egy ománi királyi örökséget bemutató magánmúzeum."],
       ro: ["Inițial a fost numit 'Forte de São João'.", "Astăzi este un muzeu privat dedicat moștenirii regale omaneze."],
       en: ["Originally named 'Forte de São João'.", "Today it is a private museum for Omani royal heritage."]
-    }
-  },
+    }, image: "/poi-images/al-jalali-fort-history-v2.webp"},
   {
     id: "al-mirani-fort-history-v2",
     type: "historical-site",
@@ -189,8 +181,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["Jelentős szerepet játszott a portugál uralom bukásában 1649-ben.", "A nagyközönség számára nem látogatható szabadon."],
       ro: ["A jucat un rol esențial în căderea dominației portugheze în 1649.", "Nu este deschis accesului public regulat."],
       en: ["Played a key role in the fall of Portuguese rule in 1649.", "Is not regularly open to the public."]
-    }
-  },
+    }, image: "/poi-images/al-mirani-fort-history-v2.webp"},
   {
     id: "muttrah-fort-history-v2",
     type: "historical-site",
@@ -208,8 +199,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["Széles kilátást nyújt az Ománi-öbölre.", "Csak 2018-ban restaurálták teljesen és nyitották meg."],
       ro: ["Oferă o vedere panoramică asupra Golfului Oman.", "A fost complet restaurat și deschis abia în 2018."],
       en: ["Offers a sweeping view of the Gulf of Oman.", "Was fully restored and opened to the public only in 2018."]
-    }
-  },
+    }, image: "/poi-images/muttrah-fort-history-v2.webp"},
   {
     id: "ancient-city-of-qalhat-history-v2",
     type: "ruin",
@@ -227,8 +217,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["1507-ben egy földrengés és portugál támadások pusztították el.", "2018-ban felkerült az UNESCO világörökségi listájára."],
       ro: ["A fost distrus în 1507 de un cutremur și de atacurile portugheze.", "A fost adăugat pe lista Patrimoniului Mondial UNESCO în 2018."],
       en: ["Was destroyed in 1507 by an earthquake and Portuguese attacks.", "Was added to the UNESCO World Heritage list in 2018."]
-    }
-  },
+    }, image: "/poi-images/ancient-city-of-qalhat-history-v2.webp"},
   {
     id: "tomb-of-bibi-maryam-history-v2",
     type: "monument",
@@ -246,8 +235,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["Egykor egy nagy kupola fedte, amely mára eltűnt.", "Bibi Marjam férje halála után maga is irányította a várost."],
       ro: ["Cândva acoperit de un mare dom, care astăzi lipsește.", "Bibi Maryam a condus orașul după moartea soțului ei."],
       en: ["Once covered by a large dome, which is now missing.", "Bibi Maryam ruled the city after her husband's death."]
-    }
-  },
+    }, image: "/poi-images/tomb-of-bibi-maryam-history-v2.webp"},
   {
     id: "ubar-shisr-history-v2",
     type: "ruin",
@@ -265,8 +253,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["A város valószínűleg egy mészkő víznyelőbe süllyedt.", "A tömjénúton haladó karavánok fontos csomópontja volt."],
       ro: ["Se crede că orașul s-a scufundat într-o dolină de calcar.", "A fost un nod important pentru caravanele de pe Drumul Tămâiei."],
       en: ["The city likely sank into a limestone sinkhole.", "Was a vital hub for caravans on the frankincense route."]
-    }
-  },
+    }, image: "/poi-images/ubar-shisr-history-v2.webp"},
   {
     id: "al-hazm-castle-history-v2",
     type: "historical-site",
@@ -284,8 +271,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["A falak az alapzatnál több mint 3 méter vastagok.", "Egy kifinomult földalatti faladzs öntözőrendszerrel rendelkezik."],
       ro: ["La bază, zidurile au o grosime de peste 3 metri.", "Are un sistem sofisticat de irigații subteran, numit falaj."],
       en: ["The walls are over 3 meters thick at the base.", "Features an intricate underground falaj irrigation system."]
-    }
-  },
+    }, image: "/poi-images/al-hazm-castle-history-v2.webp"},
   {
     id: "hasik-archaeological-site-history-v2",
     type: "ruin",
@@ -303,8 +289,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["Ptolemaiosz görög földrajztudós is megemlítette.", "A környezet elszigetelt feltételeket biztosított a zavartalan kereskedelemhez."],
       ro: ["A fost menționat de geograful grec Ptolemeu.", "Mediul înconjurător a oferit condiții izolate pentru un comerț neîntrerupt."],
       en: ["Was mentioned by the Greek geographer Ptolemy.", "The surrounding environment provided isolated conditions for undisturbed trade."]
-    }
-  },
+    }, image: "/poi-images/hasik-archaeological-site-history-v2.webp"},
   {
     id: "taqah-castle-history-v2",
     type: "historical-site",
@@ -360,8 +345,7 @@ export const poiExtraOmanHistoryV2: POI[] = [
       hu: ["A négy kerek őrtorony stratégiailag a sarkokon helyezkedik el.", "Egy kis dombon található a város központjában."],
       ro: ["Cele patru turnuri de veghe rotunde sunt poziționate strategic în colțuri.", "Este situat pe un mic deal în centrul orașului."],
       en: ["The four round watchtowers are strategically positioned at the corners.", "Situated on a small hill in the center of the town."]
-    }
-  },
+    }, image: "/poi-images/sunaysilah-fort-history-v2.webp"},
   {
     id: "bilad-sur-castle-history-v2",
     type: "historical-site",

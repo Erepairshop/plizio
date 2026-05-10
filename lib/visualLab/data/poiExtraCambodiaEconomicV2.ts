@@ -23,8 +23,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Kambodzsa legfontosabb exportkikötője.", "Közvetlen hozzáférés a Thai-öbölhöz."],
       ro: ["Principalul port de export al Cambodgiei.", "Acces direct la Golful Thailandei."],
       en: ["Cambodia's main export port.", "Direct access to the Gulf of Thailand."]
-    }
-  },
+    }, image: "/poi-images/sihanoukville-autonomous-port-economic-v2.webp"},
   {
     id: "phnom-penh-autonomous-port-economic-v2",
     type: "port",
@@ -47,8 +46,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["A Tonlé Szap és a Mekong összefolyásánál fekszik.", "Az ország második legnagyobb kikötője."],
       ro: ["Situat la confluența râurilor Tonle Sap și Mekong.", "Al doilea cel mai mare port din țară."],
       en: ["Located at the confluence of the Tonle Sap and Mekong rivers.", "The second largest port in the country."]
-    }
-  },
+    }, image: "/poi-images/phnom-penh-autonomous-port-economic-v2.webp"},
   {
     id: "phnom-penh-sez-economic-v2",
     type: "industry",
@@ -71,8 +69,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["A világ minden tájáról vonzza a befektetőket.", "Főként könnyűiparra és elektronikára fókuszál."],
       ro: ["Atrage investitori din întreaga lume.", "Se concentrează pe industria ușoară și electronică."],
       en: ["Attracts investors from around the world.", "Focuses on light industry and electronics."]
-    }
-  },
+    }, image: "/poi-images/phnom-penh-sez-economic-v2.webp"},
   {
     id: "sihanoukville-sez-economic-v2",
     type: "industry",
@@ -95,8 +92,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Az ország legnagyobb kikötője közelében található.", "Textiliparra és gépgyártásra fókuszál."],
       ro: ["Situată lângă cel mai mare port al țării.", "Axată pe textile și construcția de mașini."],
       en: ["Located near the country's largest port.", "Focuses on textiles and machinery."]
-    }
-  },
+    }, image: "/poi-images/sihanoukville-sez-economic-v2.webp"},
   {
     id: "manhattan-sez-bavet-economic-v2",
     type: "industry",
@@ -119,8 +115,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Fontos kereskedelmi bázis Vietnám felé.", "Cipő- és textilgyártásáról ismert."],
       ro: ["Bază comercială importantă către Vietnam.", "Cunoscută pentru producția de încălțăminte și textile."],
       en: ["Important trade base towards Vietnam.", "Known for shoe and textile production."]
-    }
-  },
+    }, image: "/poi-images/manhattan-sez-bavet-economic-v2.webp"},
   {
     id: "koh-kong-sez-economic-v2",
     type: "industry",
@@ -143,8 +138,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Profitál a Thaiföldhöz való közelségből.", "Fontos a helyi gazdaságfejlesztés szempontjából."],
       ro: ["Beneficiază de apropierea de Thailanda.", "Importantă pentru dezvoltarea economică locală."],
       en: ["Benefits from its proximity to Thailand.", "Important for local economic development."]
-    }
-  },
+    }, image: "/poi-images/koh-kong-sez-economic-v2.webp"},
   {
     id: "neak-loeung-port-economic-v2",
     type: "port",
@@ -167,8 +161,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Összeköti Kambodzsát és Vietnámot.", "Mezőgazdasági export kulcsfontosságú pontja."],
       ro: ["Conectează Cambodgia și Vietnamul.", "Punct cheie pentru exporturile agricole."],
       en: ["Connects Cambodia and Vietnam.", "Key point for agricultural exports."]
-    }
-  },
+    }, image: "/poi-images/neak-loeung-port-economic-v2.webp"},
   {
     id: "lower-sesan-2-dam-economic-v2",
     type: "energy",
@@ -191,8 +184,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Kambodzsa legnagyobb gátja.", "400 megawatt áramot termel."],
       ro: ["Cel mai mare baraj din Cambodgia.", "Generează 400 de megawați de energie electrică."],
       en: ["Cambodia's largest dam.", "Generates 400 megawatts of electricity."]
-    }
-  },
+    }, image: "/poi-images/lower-sesan-2-dam-economic-v2.webp"},
   {
     id: "kamchay-dam-economic-v2",
     type: "energy",
@@ -215,8 +207,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["2011-ben helyezték üzembe.", "Dél-Kambodzsa áramellátását biztosítja."],
       ro: ["A fost pusă în funcțiune în 2011.", "Furnizează electricitate pentru sudul Cambodgiei."],
       en: ["Commissioned in 2011.", "Supplies electricity to southern Cambodia."]
-    }
-  },
+    }, image: "/poi-images/kamchay-dam-economic-v2.webp"},
   {
     id: "kirirom-1-hydropower-economic-v2",
     type: "energy",
@@ -239,8 +230,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Az ország egyik legrégebbi erőműve.", "A Kirirom-fennsík vizét hasznosítja."],
       ro: ["Una dintre cele mai vechi centrale electrice din țară.", "Folosește apa de pe platoul Kirirom."],
       en: ["One of the country's oldest power plants.", "Utilizes water from the Kirirom Plateau."]
-    }
-  },
+    }, image: "/poi-images/kirirom-1-hydropower-economic-v2.webp"},
   {
     id: "tatay-hydropower-economic-v2",
     type: "energy",
@@ -263,8 +253,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Tiszta energiát termel.", "Kapacitása 246 megawatt."],
       ro: ["Produce energie curată.", "Capacitate de 246 de megawați."],
       en: ["Produces clean energy.", "Capacity of 246 megawatts."]
-    }
-  },
+    }, image: "/poi-images/tatay-hydropower-economic-v2.webp"},
   {
     id: "stung-atay-hydropower-economic-v2",
     type: "energy",
@@ -287,8 +276,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Csökkenti az import áramtól való függőséget.", "A nemzeti hálózatfejlesztés része."],
       ro: ["Reduce dependența de energia electrică importată.", "Face parte din extinderea rețelei naționale."],
       en: ["Reduces dependence on imported electricity.", "Part of the national grid expansion."]
-    }
-  },
+    }, image: "/poi-images/stung-atay-hydropower-economic-v2.webp"},
   {
     id: "okvau-gold-mine-economic-v2",
     type: "mine",
@@ -311,8 +299,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Évente több ezer uncia aranyat termel.", "Egy ausztrál vállalat üzemelteti."],
       ro: ["Produce mii de uncii de aur pe an.", "Operată de o companie australiană."],
       en: ["Produces thousands of ounces of gold per year.", "Operated by an Australian company."]
-    }
-  },
+    }, image: "/poi-images/okvau-gold-mine-economic-v2.webp"},
   {
     id: "phnom-dek-iron-mine-economic-v2",
     type: "mine",
@@ -335,8 +322,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Fontos az acélgyártás szempontjából.", "Külföldi befektetéseket vonz."],
       ro: ["Importantă pentru producția de oțel.", "Atrage investiții străine."],
       en: ["Important for steel production.", "Attracts foreign investments."]
-    }
-  },
+    }, image: "/poi-images/phnom-dek-iron-mine-economic-v2.webp"},
   {
     id: "kampot-cement-plant-economic-v2",
     type: "industry",
@@ -359,8 +345,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Csökkenti a cementimportot.", "Helyi mészkőlelőhelyeket használ."],
       ro: ["Reduce importurile de ciment.", "Utilizează zăcăminte locale de calcar."],
       en: ["Reduces cement imports.", "Uses local limestone deposits."]
-    }
-  },
+    }, image: "/poi-images/kampot-cement-plant-economic-v2.webp"},
   {
     id: "bavet-border-trade-hub-economic-v2",
     type: "trade-hub",
@@ -383,8 +368,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Fontos tranzitpont az áruk számára.", "Sok vietnámi látogatót vonz."],
       ro: ["Punct de tranzit important pentru mărfuri.", "Atrage mulți vizitatori vietnamezi."],
       en: ["Important transit point for goods.", "Attracts many Vietnamese visitors."]
-    }
-  },
+    }, image: "/poi-images/bavet-border-trade-hub-economic-v2.webp"},
   {
     id: "poipet-border-trade-hub-economic-v2",
     type: "trade-hub",
@@ -407,8 +391,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Összeköti Bangkokot és Phnompent.", "Hatalmas napi árutranzit volumen."],
       ro: ["Conectează Bangkok și Phnom Penh.", "Volum uriaș de tranzit zilnic de mărfuri."],
       en: ["Connects Bangkok and Phnom Penh.", "Huge volume of daily goods transit."]
-    }
-  },
+    }, image: "/poi-images/poipet-border-trade-hub-economic-v2.webp"},
   {
     id: "chakrey-ting-cement-factory-economic-v2",
     type: "industry",
@@ -431,8 +414,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Modernizált gyártósorok.", "Fontos munkáltató a Kampot régióban."],
       ro: ["Linii de producție modernizate.", "Angajator important în regiunea Kampot."],
       en: ["Modernized production lines.", "Important employer in the Kampot region."]
-    }
-  },
+    }, image: "/poi-images/chakrey-ting-cement-factory-economic-v2.webp"},
   {
     id: "kampot-seaport-economic-v2",
     type: "port",
@@ -455,8 +437,7 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
       hu: ["Tehermentesíti Sihanoukville kikötőjét.", "Nemzetközi teherhajókat vonz."],
       ro: ["Degrevează portul Sihanoukville.", "Atrage nave de marfă internaționale."],
       en: ["Relieves the port of Sihanoukville.", "Attracts international cargo ships."]
-    }
-  },
+    }, image: "/poi-images/kampot-seaport-economic-v2.webp"},
   {
     id: "sihanoukville-coal-power-plant-economic-v2",
     type: "energy",

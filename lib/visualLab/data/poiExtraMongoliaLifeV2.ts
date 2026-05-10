@@ -35,8 +35,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Established in 1996 to protect local wildlife.",
         "Hosts one of the largest populations of Argali sheep."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-ikh-nart-life-v2.webp"},
   {
     id: "mn-gun-galuut-life-v2",
     type: "wildlife-area",
@@ -71,8 +70,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Located about 130 kilometers east of Ulaanbaatar.",
         "Offers excellent opportunities for birdwatching."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-gun-galuut-life-v2.webp"},
   {
     id: "mn-great-gobi-a-life-v2",
     type: "wildlife-area",
@@ -107,8 +105,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "One of the largest biosphere reserves in the world.",
         "The Gobi bear (Mazaalai) is critically endangered."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-great-gobi-a-life-v2.webp"},
   {
     id: "mn-great-gobi-b-life-v2",
     type: "wildlife-area",
@@ -143,8 +140,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Important site for the reintroduction of Przewalski's horses.",
         "Home to herds of the Asian wild ass (Khulan)."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-great-gobi-b-life-v2.webp"},
   {
     id: "mn-mongol-daguur-life-v2",
     type: "wildlife-area",
@@ -179,8 +175,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Part of an international protected area with Russia and China.",
         "Famous for rare crane species like the white-naped crane."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-mongol-daguur-life-v2.webp"},
   {
     id: "mn-dariganga-reserve-life-v2",
     type: "wildlife-area",
@@ -215,8 +210,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Located on the edge of the great eastern steppe.",
         "The sacred Altan Ovoo mountain is in this region."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-dariganga-reserve-life-v2.webp"},
   {
     id: "mn-numrug-reserve-life-v2",
     type: "wildlife-area",
@@ -251,8 +245,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "One of the least accessible regions in Mongolia.",
         "Marks the transition into Manchuria."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-numrug-reserve-life-v2.webp"},
   {
     id: "mn-sharga-reserve-life-v2",
     type: "wildlife-area",
@@ -287,8 +280,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "The Saiga antelope is recognized by its unusual trunk-like nose.",
         "Only a few thousand individuals remain in the world."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-sharga-reserve-life-v2.webp"},
   {
     id: "mn-lkhachinvandad-life-v2",
     type: "wildlife-area",
@@ -323,8 +315,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Important migration corridor for the Mongolian gazelle.",
         "Protects the sensitive steppe flora from overgrazing."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-lkhachinvandad-life-v2.webp"},
   {
     id: "mn-tsaatan-camps-life-v2",
     type: "agriculture",
@@ -359,8 +350,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "The Tsaatan are one of the last reindeer-herding nomads in the world.",
         "They live in traditional teepee-style tents called urts."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-tsaatan-camps-life-v2.webp"},
   {
     id: "mn-uvs-seabuckthorn-life-v2",
     type: "agriculture",
@@ -395,8 +385,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Uvs sea buckthorn is protected as a geographical indication.",
         "Rich in vitamin C and antioxidants."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-uvs-seabuckthorn-life-v2.webp"},
   {
     id: "mn-darkhan-wheat-life-v2",
     type: "agriculture",
@@ -431,8 +420,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Darkhan is considered the breadbasket region of Mongolia.",
         "Wheat is the most important arable crop in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-darkhan-wheat-life-v2.webp"},
   {
     id: "mn-selenge-farms-life-v2",
     type: "agriculture",
@@ -467,8 +455,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "About half of Mongolian vegetables are sourced from here.",
         "Favored by river sediments and a more humid microclimate."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-selenge-farms-life-v2.webp"},
   {
     id: "mn-khovd-watermelon-life-v2",
     type: "agriculture",
@@ -503,8 +490,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Oasis farming at the edge of the Altai Mountains.",
         "Watermelons from Khovd are sought after nationwide."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-khovd-watermelon-life-v2.webp"},
   {
     id: "mn-gobi-camel-farm-life-v2",
     type: "agriculture",
@@ -539,8 +525,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Mongolian camels endure temperature shifts from +40°C to -40°C.",
         "Their fine underwool is globally valued for textiles."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-gobi-camel-farm-life-v2.webp"},
   {
     id: "mn-ub-botanical-garden-life-v2",
     type: "park",
@@ -611,8 +596,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Founded in 1978 with the support of many countries.",
         "The word 'Nairamdal' means friendship."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-nairamdal-center-life-v2.webp"},
   {
     id: "mn-national-amusement-park-life-v2",
     type: "kid-friendly",
@@ -647,8 +631,7 @@ export const poiExtraMongoliaLifeV2: POI[] = [
         "Features a roller coaster and a haunted house.",
         "In winter, a large ice skating rink is often set up."
       ]
-    }
-  },
+    }, image: "/poi-images/mn-national-amusement-park-life-v2.webp"},
   {
     id: "mn-buddha-park-life-v2",
     type: "park",

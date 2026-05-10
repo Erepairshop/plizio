@@ -1,0 +1,41 @@
+{
+  "lang": "de",
+  "country": "China",
+  "files": [
+    "lib/visualLab/data/poiExtraChinaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraChinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraChinaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yiwu-international-trade-city-economic-v2",
+      "description": "Ein riesiger Großhandelsmarkt in Yiwu, der auf Kleinwaren und Exporthandel ausgerichtet ist. Er gilt als wichtiger Knotenpunkt für den internationalen Warenfluss in Ostchina.",
+      "facts": [
+        "In Yiwu, Provinz Zhejiang",
+        "Großmarkt für Kleinwaren",
+        "Wichtiger Exportstandort",
+        "International bekannt"
+      ]
+    },
+    {
+      "id": "nanjing-massacre-memorial-history-v2",
+      "description": "Eine Gedenkstätte in Nanjing, die an die Opfer des Massakers von 1937 erinnert. Der Ort verbindet Museum, Erinnerung und historische Dokumentation.",
+      "facts": [
+        "In Nanjing, Jiangsu",
+        "Eröffnet 1985",
+        "Erinnert an 1937",
+        "Mit historischen Dokumenten"
+      ]
+    },
+    {
+      "id": "bohai-sea-coast-relief-v2",
+      "description": "Ein fast vollständig von Land umschlossenes Randmeer an der Nordküste Chinas. Es ist ein wichtiger maritimer Zugang für die Hauptstadtregion und die Häfen des Nordens.",
+      "facts": [
+        "An der Nordküste Chinas",
+        "Sehr flaches Meer",
+        "Wichtiger Seezugang",
+        "Nahe Tianjin und Hebei"
+      ]
+    }
+  ]
+}

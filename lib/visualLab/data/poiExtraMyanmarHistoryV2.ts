@@ -23,8 +23,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Több mint 2500 éves.", "Valódi aranylemezekkel van borítva.", "A csúcsát több ezer gyémánt díszíti."],
       ro: ["Are peste 2.500 de ani vechime.", "Este acoperită cu plăci de aur masiv.", "Vârful este încrustat cu mii de diamante."],
       en: ["Over 2,500 years old.", "Covered with genuine gold plates.", "The crown is tipped with thousands of diamonds."]
-    }
-  },
+    }, image: "/poi-images/shwedagon-pagoda-history-v2.webp"},
   {
     id: "bagan-archaeological-zone-history-v2",
     type: "ruin",
@@ -47,8 +46,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["A Pagan Királyság fővárosa volt.", "2019 óta UNESCO világörökségi helyszín.", "Az Irrawaddy folyó partján fekszik."],
       ro: ["A fost capitala Regatului Pagan.", "Sit al Patrimoniului Mondial UNESCO din 2019.", "Situat pe malul râului Irrawaddy."],
       en: ["Was the capital of the Pagan Kingdom.", "A UNESCO World Heritage site since 2019.", "Located on the banks of the Irrawaddy River."]
-    }
-  },
+    }, image: "/poi-images/bagan-archaeological-zone-history-v2.webp"},
   {
     id: "mrauk-u-ruins-history-v2",
     type: "ruin",
@@ -71,8 +69,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["1431-ben alapították.", "Egykor fontos kereskedelmi központ volt.", "Sok templom masszív kőből épült."],
       ro: ["Fondat în anul 1431.", "A fost odată un important centru comercial.", "Multe temple au fost construite din piatră masivă."],
       en: ["Founded in the year 1431.", "Was once a major trading center.", "Many temples were built from solid stone."]
-    }
-  },
+    }, image: "/poi-images/mrauk-u-ruins-history-v2.webp"},
   {
     id: "shwenandaw-monastery-history-v2",
     type: "historical-site",
@@ -95,8 +92,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Eredetileg a Mandalay királyi palota része volt.", "A 19. században épült.", "Az eredeti palota egyetlen máig fennmaradt nagyobb faépülete."],
       ro: ["Inițial parte a Palatului Regal din Mandalay.", "Construită în secolul al XIX-lea.", "Singura clădire mare din lemn supraviețuitoare a palatului original."],
       en: ["Originally part of the royal palace at Mandalay.", "Built in the 19th century.", "The only surviving major wooden building of the original palace."]
-    }
-  },
+    }, image: "/poi-images/shwenandaw-monastery-history-v2.webp"},
   {
     id: "mandalay-palace-history-v2",
     type: "historical-site",
@@ -119,8 +115,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Mindon király építtette az 1850-es években.", "A második világháborúban majdnem teljesen elpusztult.", "Az 1990-es években részben újjáépítették."],
       ro: ["Construit de regele Mindon în anii 1850.", "Aproape complet distrus în al Doilea Război Mondial.", "Parțial reconstruit în anii 1990."],
       en: ["Built by King Mindon in the 1850s.", "Almost entirely destroyed during World War II.", "Partially reconstructed in the 1990s."]
-    }
-  },
+    }, image: "/poi-images/mandalay-palace-history-v2.webp"},
   {
     id: "mahamuni-buddha-temple-history-v2",
     type: "historical-site",
@@ -143,8 +138,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["A szobrot vastag aranyfüst réteg borítja.", "Eredetileg az Arakan Királyságból hozták.", "Nők nem mehetnek közel a szoborhoz."],
       ro: ["Statuia este acoperită cu straturi groase de foiță de aur.", "Adusă inițial din Regatul Arakan.", "Femeilor nu le este permis să se apropie de statuie."],
       en: ["The statue is covered with thick layers of gold leaf.", "Originally brought from the Arakan Kingdom.", "Women are not allowed to approach the statue."]
-    }
-  },
+    }, image: "/poi-images/mahamuni-buddha-temple-history-v2.webp"},
   {
     id: "sule-pagoda-history-v2",
     type: "monument",
@@ -167,8 +161,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Állítólag több mint 2000 éves.", "Szokatlan nyolcszögletű formája van.", "Számos politikai tüntetés központja volt."],
       ro: ["Se spune că are peste 2.000 de ani.", "Are o formă octogonală neobișnuită.", "A fost punctul central al multor proteste politice."],
       en: ["Believed to be over 2,000 years old.", "Features an unusual octagonal shape.", "Has been the focal point of many political protests."]
-    }
-  },
+    }, image: "/poi-images/sule-pagoda-history-v2.webp"},
   {
     id: "inwa-ruins-history-v2",
     type: "ruin",
@@ -191,8 +184,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Többször elpusztult földrengések miatt.", "Négy évszázadon át királyi főváros volt.", "Ma egy csendes mezőgazdasági terület régi sztúpákkal."],
       ro: ["A fost distrusă de mai multe ori de cutremure.", "A fost capitala regală timp de patru secole.", "Astăzi este o zonă agricolă liniștită, cu stupe vechi."],
       en: ["Was destroyed multiple times by earthquakes.", "Served as the royal capital for four centuries.", "Today it is a quiet agricultural area with ancient stupas."]
-    }
-  },
+    }, image: "/poi-images/inwa-ruins-history-v2.webp"},
   {
     id: "mingun-pahtodawgyi-history-v2",
     type: "ruin",
@@ -215,8 +207,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Építését Bodawpaya király kezdte 1790-ben.", "Egy 1839-es földrengés súlyosan megrongálta.", "A közelben található a hatalmas Mingun-harang."],
       ro: ["Construcția a fost începută de regele Bodawpaya în 1790.", "Grav avariată de un cutremur în 1839.", "În apropiere se află uriașul clopot Mingun."],
       en: ["Construction was started by King Bodawpaya in 1790.", "Severely damaged by an earthquake in 1839.", "The massive Mingun Bell is located nearby."]
-    }
-  },
+    }, image: "/poi-images/mingun-pahtodawgyi-history-v2.webp"},
   {
     id: "kyaiktiyo-pagoda-history-v2",
     type: "historical-site",
@@ -239,8 +230,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Az ország egyik legfontosabb zarándokhelye.", "A legenda szerint a sziklát Buddha egy hajszála tartja egyensúlyban.", "1100 méteres magasságban található."],
       ro: ["Unul dintre cele mai importante locuri de pelerinaj din țară.", "Legenda spune că stânca este ținută în echilibru de un fir de păr al lui Buddha.", "Situată la o altitudine de 1.100 de metri."],
       en: ["One of the country's most important pilgrimage sites.", "Legend says the rock is held in balance by a strand of the Buddha's hair.", "Located at an elevation of 1,100 meters."]
-    }
-  },
+    }, image: "/poi-images/kyaiktiyo-pagoda-history-v2.webp"},
   {
     id: "bogyoke-aung-san-museum-history-v2",
     type: "historical-site",
@@ -263,8 +253,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["A család személyes tárgyait mutatja be.", "Aung Sant 1947-ben gyilkolták meg.", "Az ország függetlenségének fontos szimbóluma."],
       ro: ["Expune obiecte personale ale familiei.", "Aung San a fost asasinat în 1947.", "Un simbol important al independenței țării."],
       en: ["Exhibits personal belongings of the family.", "Aung San was assassinated in 1947.", "An important symbol of the country's independence."]
-    }
-  },
+    }, image: "/poi-images/bogyoke-aung-san-museum-history-v2.webp"},
   {
     id: "taukkyan-war-cemetery-history-v2",
     type: "battlefield",
@@ -287,8 +276,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["A Nemzetközösségi Hadisírgondozó Bizottság tartja fenn.", "Több mint 6000 katona sírját tartalmazza.", "A Rangoon-emlékmű 27 000 eltűnt katonának állít emléket."],
       ro: ["Este întreținut de Comisia pentru Mormintele de Război a Commonwealth-ului.", "Conține mormintele a peste 6.000 de soldați.", "Memorialul Rangoon comemorează 27.000 de soldați dispăruți."],
       en: ["Maintained by the Commonwealth War Graves Commission.", "Contains the graves of over 6,000 soldiers.", "The Rangoon Memorial commemorates 27,000 missing soldiers."]
-    }
-  },
+    }, image: "/poi-images/taukkyan-war-cemetery-history-v2.webp"},
   {
     id: "amarapura-historical-city-history-v2",
     type: "historical-site",
@@ -311,8 +299,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Bodawpaya király alapította 1783-ban.", "A neve azt jelenti: \"A Halhatatlanság Városa\".", "Az U Bein híd a világ legrégebbi tíkfa hídja."],
       ro: ["A fost fondată de regele Bodawpaya în 1783.", "Numele înseamnă \"Orașul Nemuririi\".", "Podul U Bein este cel mai vechi pod de tec din lume."],
       en: ["Founded by King Bodawpaya in 1783.", "The name translates to \"City of Immortality\".", "The U Bein Bridge is the oldest teakwood bridge in the world."]
-    }
-  },
+    }, image: "/poi-images/amarapura-historical-city-history-v2.webp"},
   {
     id: "kuthodaw-pagoda-history-v2",
     type: "monument",
@@ -335,8 +322,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["729 márványtábla található itt.", "Minden tábla saját kis szentélyben helyezkedik el.", "Mindon király uralkodása alatt épült."],
       ro: ["Există 729 de plăci de marmură.", "Fiecare placă este adăpostită în propriul său altar mic.", "Construită în timpul domniei regelui Mindon."],
       en: ["There are 729 marble slabs.", "Each slab is housed in its own small shrine.", "Built during the reign of King Mindon."]
-    }
-  },
+    }, image: "/poi-images/kuthodaw-pagoda-history-v2.webp"},
   {
     id: "botahtaung-pagoda-history-v2",
     type: "historical-site",
@@ -359,8 +345,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["A második világháború alatt megsemmisült, majd újjáépítették.", "A neve azt jelenti: \"1000 katonatiszt\".", "Állítólag Buddha egy szent hajszálát őrzi."],
       ro: ["A fost distrusă în timpul celui de-al Doilea Război Mondial și reconstruită.", "Numele înseamnă \"1.000 de ofițeri militari\".", "Se spune că adăpostește un fir de păr sacru al lui Buddha."],
       en: ["Was destroyed during World War II and rebuilt.", "The name translates to \"1,000 military officers\".", "Reputed to house a sacred hair of the Buddha."]
-    }
-  },
+    }, image: "/poi-images/botahtaung-pagoda-history-v2.webp"},
   {
     id: "hsinbyume-pagoda-history-v2",
     type: "monument",
@@ -383,8 +368,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["1816-ban építtette Bagyidaw király.", "Hsinbyume hercegnőnek szentelték.", "A hullámos teraszok a hét óceánt szimbolizálják."],
       ro: ["Construită în 1816 de regele Bagyidaw.", "Este dedicată prințesei Hsinbyume.", "Terasele ondulate simbolizează cele șapte oceane."],
       en: ["Built in 1816 by King Bagyidaw.", "Dedicated to Princess Hsinbyume.", "The wave-like terraces symbolize the seven oceans."]
-    }
-  },
+    }, image: "/poi-images/hsinbyume-pagoda-history-v2.webp"},
   {
     id: "kanbawzathadi-palace-history-v2",
     type: "historical-site",
@@ -407,8 +391,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Az eredeti épületet 1599-ben felgyújtották.", "Az ásatások csak 1990-ben kezdődtek.", "Aranyfüsttel díszített oszlopairól volt híres."],
       ro: ["Originalul a fost ars în 1599.", "Săpăturile au început abia în 1990.", "Era cunoscut pentru stâlpii săi decorați cu foiță de aur."],
       en: ["The original was burned down in 1599.", "Excavations only began in 1990.", "Was famous for its gold-leafed pillars."]
-    }
-  },
+    }, image: "/poi-images/kanbawzathadi-palace-history-v2.webp"},
   {
     id: "shwezigon-pagoda-history-v2",
     type: "historical-site",
@@ -431,8 +414,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Az építkezést Anawrahta király kezdte a 11. században.", "Az aranyozott sztúpa harang alakú.", "Egy nagyszabású éves fesztivál központja."],
       ro: ["Lucrările au fost începute de regele Anawrahta în secolul al XI-lea.", "Stupa aurită are formă de clopot.", "Este centrul unui festival anual important."],
       en: ["Work was started by King Anawrahta in the 11th century.", "The gilded stupa is bell-shaped.", "It is the center of a major annual festival."]
-    }
-  },
+    }, image: "/poi-images/shwezigon-pagoda-history-v2.webp"},
   {
     id: "ananda-temple-history-v2",
     type: "monument",
@@ -455,8 +437,7 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
       hu: ["Kyanzittha király építtette 1105 körül.", "Négy hatalmas álló Buddha-szobrot rejt.", "A neve azt jelenti: \"Határtalan Bölcsesség\"."],
       ro: ["Construit în jurul anului 1105 de regele Kyanzittha.", "Adăpostește patru statui masive ale lui Buddha în picioare.", "Numele său înseamnă \"Înțelepciune Nemărginită\"."],
       en: ["Built around 1105 by King Kyanzittha.", "Houses four massive standing Buddha statues.", "Its name translates to \"Boundless Wisdom\"."]
-    }
-  },
+    }, image: "/poi-images/ananda-temple-history-v2.webp"},
   {
     id: "kakku-pagodas-history-v2",
     type: "historical-site",

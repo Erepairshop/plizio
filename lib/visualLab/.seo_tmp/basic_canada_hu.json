@@ -1,0 +1,65 @@
+{
+  "lang": "hu",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sherbrooke-cities-v2",
+      "description": "Sherbrooke Québec egyik fontos délkeleti városa, az Estrie térség központja. Egyetemi város, amelyet a környező tavak, dombok és a St. Francis folyó formál.",
+      "facts": ["Québec délkeleti részén fekszik", "Az Estrie központja", "Több egyetem működik itt"]
+    },
+    {
+      "id": "red-deer-cities-v2",
+      "description": "Red Deer Alberta középső részének egyik legfontosabb városa, Calgary és Edmonton között. Erős regionális szolgáltató és kereskedelmi központ.",
+      "facts": ["Alberta közepén található", "Calgary és Edmonton között fekszik", "Fontos regionális központ"]
+    },
+    {
+      "id": "medicine-hat-cities-v2",
+      "description": "Medicine Hat délkelet-albertai város a South Saskatchewan folyó partján. Az egyik legnaposabb kanadai városként is ismert.",
+      "facts": ["Délkelet-Albertában van", "A South Saskatchewan folyónál fekszik", "Nagyon sok a napsütéses nap"]
+    },
+    {
+      "id": "grande-prairie-cities-v2",
+      "description": "Grande Prairie Alberta északi-nyugati részének egyik meghatározó városa. A környező mezőgazdasági, erdészeti és energetikai térség szolgáltató központja.",
+      "facts": ["Északnyugat-Albertában található", "A Peace Country része", "Erős szolgáltató központ"]
+    },
+    {
+      "id": "barrie-cities-v2",
+      "description": "Barrie Ontarioban, a Simcoe-tó partján fekszik, Torontótól északra. Gyorsan növekvő ingázóváros és regionális központ.",
+      "facts": ["A Simcoe-tó partján van", "Torontótól északra fekszik", "Gyorsan növekvő város"]
+    },
+    {
+      "id": "nanaimo-cities-v2",
+      "description": "Nanaimo Vancouver-sziget egyik fontos kikötővárosa Brit Columbia tartományban. Kompkapcsolatai és tengerparti fekvése miatt meghatározó helyi központ.",
+      "facts": ["Vancouver-szigeten található", "Kikötőváros Brit Columbiában", "Kompjáratok kötik össze a szárazfölddel"]
+    },
+    {
+      "id": "white-rock-cities-v2",
+      "description": "White Rock egy kis tengerparti város a Metro Vancouver térségben. Homokos partjáról és hosszú mólójáról ismert.",
+      "facts": ["Metro Vancouver része", "Tengerparti város", "Hosszú mólója van"]
+    },
+    {
+      "id": "airdrie-cities-v2",
+      "description": "Airdrie Alberta egyik leggyorsabban növekvő városa, közvetlenül Calgary északi előterében. Elsősorban lakóövezetként és ingázóvárosként fejlődött.",
+      "facts": ["Calgarytól északra fekszik", "Alberta gyorsan növekvő városa", "Fontos ingázóközpont"]
+    },
+    {
+      "id": "oakville-cities-v2",
+      "description": "Oakville Ontario délnyugati részén, az Ontario-tó partján található. Jómódú külvárosi város, amely Toronto és Hamilton között fekszik.",
+      "facts": ["Az Ontario-tó partján van", "Toronto és Hamilton között fekszik", "Jómódú külvárosi város"]
+    },
+    {
+      "id": "cambridge-cities-v2",
+      "description": "Cambridge Ontarioban, a Grand folyó mentén fekszik. A Galt, Preston és Hespeler települések egyesítéséből létrejött ipari város.",
+      "facts": ["A Grand folyó partján található", "Három településből jött létre", "Erős ipari hagyományai vannak"]
+    }
+  ]
+}

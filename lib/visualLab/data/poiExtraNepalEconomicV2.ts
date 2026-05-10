@@ -31,8 +31,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Erleichtert den Handel mit wichtigen Gütern wie Erdölprodukten, Zementklinker und Industrierohstoffen.",
         "Geplant ist eine Erweiterung zur Steigerung der Lager- und Abfertigungskapazitäten."
       ]
-    }
-  },
+    }, image: "/poi-images/birgunj-dry-port-economic-v2.webp"},
   {
     id: "hetauda-industrial-district-economic-v2",
     type: "industry",
@@ -63,8 +62,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Bietet direkte Beschäftigung für über 10.000 Menschen.",
         "Das Gebiet verfügt über eine eigene Kläranlage zur Abfallentsorgung."
       ]
-    }
-  },
+    }, image: "/poi-images/hetauda-industrial-district-economic-v2.webp"},
   {
     id: "upper-tamakoshi-hydroelectric-economic-v2",
     type: "energy",
@@ -95,8 +93,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Reduzierte die jährlichen Stromimporte Nepals um über 1 Milliarde Einheiten.",
         "Erzeugt im Durchschnitt 2.281 Gigawattstunden (GWh) Energie pro Jahr."
       ]
-    }
-  },
+    }, image: "/poi-images/upper-tamakoshi-hydroelectric-economic-v2.webp"},
   {
     id: "kali-gandaki-a-power-economic-v2",
     type: "energy",
@@ -127,8 +124,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Wichtiger Beitrag zur Reduzierung von Lastabwürfen in den frühen 2000er Jahren.",
         "Die Anlage befindet sich im Distrikt Syangja im Westen Nepals."
       ]
-    }
-  },
+    }, image: "/poi-images/kali-gandaki-a-power-economic-v2.webp"},
   {
     id: "tatopani-customs-economic-v2",
     type: "trade-hub",
@@ -159,8 +155,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Wichtiger Punkt für den Import von Äpfeln, Wolle und Elektronik aus China.",
         "Die Instabilität des Geländes nach dem Erdbeben bleibt eine ständige Herausforderung."
       ]
-    }
-  },
+    }, image: "/poi-images/tatopani-customs-economic-v2.webp"},
   {
     id: "rasuwagadhi-border-crossing-economic-v2",
     type: "trade-hub",
@@ -191,8 +186,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Die chinesische Regierung hat beim Bau eines Trockenhafens in Timure geholfen.",
         "Wichtiger Kanal für den Import von Baumaterialien, Elektronik und Kleidung."
       ]
-    }
-  },
+    }, image: "/poi-images/rasuwagadhi-border-crossing-economic-v2.webp"},
   {
     id: "biratnagar-jute-mills-economic-v2",
     type: "industry",
@@ -223,8 +217,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Gilt als Symbol für den Beginn der modernen politischen Bewegung in Nepal.",
         "Die Anlage und ihre Maschinen sind heute größtenteils veraltet."
       ]
-    }
-  },
+    }, image: "/poi-images/biratnagar-jute-mills-economic-v2.webp"},
   {
     id: "nepalgunj-industrial-estate-economic-v2",
     type: "industry",
@@ -255,8 +248,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Beherbergt über 40 verschiedene Industrien.",
         "Wichtiger Beitrag zur Reduzierung der Armut in der Region durch Schaffung von Arbeitsplätzen."
       ]
-    }
-  },
+    }, image: "/poi-images/nepalgunj-industrial-estate-economic-v2.webp"},
   {
     id: "chobhar-dry-port-economic-v2",
     type: "trade-hub",
@@ -287,8 +279,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Standort war umstritten aufgrund von Bedenken hinsichtlich des kulturellen Erbes und der Umwelt.",
         "Verwaltet vom Nepal Intermodal Transport Development Board (NITDB)."
       ]
-    }
-  },
+    }, image: "/poi-images/chobhar-dry-port-economic-v2.webp"},
   {
     id: "pokhara-industrial-estate-economic-v2",
     type: "industry",
@@ -319,8 +310,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Beschäftigt direkt und indirekt Tausende von Menschen.",
         "Unterliegt strengeren Umweltvorschriften aufgrund der Nähe zum Phewa-See."
       ]
-    }
-  },
+    }, image: "/poi-images/pokhara-industrial-estate-economic-v2.webp"},
   {
     id: "balaju-industrial-district-economic-v2",
     type: "industry",
@@ -351,8 +341,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Spielt eine Rolle bei der Berufsausbildung durch das Balaju School of Engineering and Technology.",
         "Die Gesamtfläche beträgt etwa 26 Hektar."
       ]
-    }
-  },
+    }, image: "/poi-images/balaju-industrial-district-economic-v2.webp"},
   {
     id: "patan-industrial-estate-economic-v2",
     type: "industry",
@@ -383,8 +372,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Trägt erheblich zum Deviseneinkommen Nepals bei.",
         "Spielt eine entscheidende Rolle bei der Bewahrung des immateriellen Kulturerbes Nepals."
       ]
-    }
-  },
+    }, image: "/poi-images/patan-industrial-estate-economic-v2.webp"},
   {
     id: "butwal-industrial-district-economic-v2",
     type: "industry",
@@ -415,8 +403,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Verfügt über eine eigene unabhängige Stromversorgung, was die Zuverlässigkeit erhöht.",
         "Ein wichtiger Lieferant von Baumaterialien für Westnepal."
       ]
-    }
-  },
+    }, image: "/poi-images/butwal-industrial-district-economic-v2.webp"},
   {
     id: "bhaktapur-industrial-estate-economic-v2",
     type: "industry",
@@ -447,8 +434,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Viele Produkte werden direkt an Touristen in Bhaktapur verkauft.",
         "Ein Modell für die Integration von Industrie und Kulturerbe."
       ]
-    }
-  },
+    }, image: "/poi-images/bhaktapur-industrial-estate-economic-v2.webp"},
   {
     id: "middle-marsyangdi-hydropower-economic-v2",
     type: "energy",
@@ -479,8 +465,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Die beiden Turbinen sind Francis-Turbinen.",
         "Die durchschnittliche jährliche Energieerzeugung beträgt etwa 390 GWh."
       ]
-    }
-  },
+    }, image: "/poi-images/middle-marsyangdi-hydropower-economic-v2.webp"},
   {
     id: "kulekhani-reservoir-economic-v2",
     type: "energy",
@@ -511,8 +496,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Die Finanzierung erfolgte durch die Weltbank, die OPEC und andere internationale Geber.",
         "Das Einzugsgebiet ist relativ klein, was zu Bedenken hinsichtlich der Sedimentation führt."
       ]
-    }
-  },
+    }, image: "/poi-images/kulekhani-reservoir-economic-v2.webp"},
   {
     id: "chilime-hydropower-economic-v2",
     type: "energy",
@@ -543,8 +527,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Fördert die Entwicklung weiterer Projekte im Trishuli-Flussbecken.",
         "Die Baukosten waren im Vergleich zu von ausländischen Unternehmen gebauten Projekten relativ niedrig."
       ]
-    }
-  },
+    }, image: "/poi-images/chilime-hydropower-economic-v2.webp"},
   {
     id: "dharan-industrial-estate-economic-v2",
     type: "industry",
@@ -575,8 +558,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Steht vor Herausforderungen wie unzureichender Stromversorgung und veralteter Infrastruktur.",
         "Wichtiger Beitrag zur Wirtschaft von Dharan, einem wichtigen städtischen Zentrum im Osten Nepals."
       ]
-    }
-  },
+    }, image: "/poi-images/dharan-industrial-estate-economic-v2.webp"},
   {
     id: "trishuli-hydropower-economic-v2",
     type: "energy",
@@ -607,8 +589,7 @@ export const poiExtraNepalEconomicV2: POI[] = [
         "Wurde im Laufe der Jahre mehrfach saniert, um seine Lebensdauer zu verlängern.",
         "Ein Symbol der langjährigen Zusammenarbeit zwischen Nepal und Indien im Wassersektor."
       ]
-    }
-  },
+    }, image: "/poi-images/trishuli-hydropower-economic-v2.webp"},
   {
     id: "bhairahawa-sez-economic-v2",
     type: "industry",

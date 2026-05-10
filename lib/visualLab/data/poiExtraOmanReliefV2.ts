@@ -23,8 +23,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["Több mint 700 kilométer hosszan nyúlik el.", "Ritka arab leopárdoknak ad otthont.", "Nyugati és keleti részre osztják.", "Óceáni kéreg felgyűrődésével keletkezett."],
       ro: ["Se întinde pe o lungime de peste 700 de kilometri.", "Găzduiește leoparzi arabi rari.", "Este împărțit în Hajarul de Est și de Vest.", "Format prin plierea scoarței oceanice."],
       en: ["Stretches for over 700 kilometers.", "Home to rare Arabian leopards.", "Divided into Western and Eastern Hajar.", "Formed by oceanic crust folding."]
-    }
-  },
+    }, image: "/poi-images/oman-al-hadschar-relief-v2.webp"},
   {
     id: "oman-rub-al-chali-relief-v2",
     type: "desert",
@@ -47,8 +46,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["Körülbelül 650 000 négyzetkilométert fed le.", "A dűnék akár 250 méter magasak is lehetnek.", "Üres Negyednek is nevezik.", "Éghajlata rendkívül száraz és forró."],
       ro: ["Acoperă aproximativ 650.000 de kilometri pătrați.", "Dunele pot atinge înălțimi de până la 250 de metri.", "Este numit și 'Pătrarul Gol'.", "Clima este extrem de uscată și fierbinte."],
       en: ["Covers approximately 650,000 square kilometers.", "Dunes can reach heights of up to 250 meters.", "Also known as the 'Empty Quarter'.", "The climate is extremely dry and hot."]
-    }
-  },
+    }, image: "/poi-images/oman-rub-al-chali-relief-v2.webp"},
   {
     id: "oman-jebel-samhan-relief-v2",
     type: "mountain",
@@ -71,8 +69,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["Legmagasabb pontja körülbelül 2100 méter.", "Az arab leopárd egyik utolsó menedéke.", "Egy 4500 négyzetkilométeres rezervátumot foglal magában.", "A monszun felhői gyakran elérik az alsó lejtőit."],
       ro: ["Cel mai înalt punct este la aproximativ 2.100 de metri.", "Un refugiu pentru leopardul arab.", "Include o rezervație de 4.500 de kilometri pătrați.", "Norii musonului ajung adesea pe pantele inferioare."],
       en: ["The highest point is at about 2,100 meters.", "A refuge for the Arabian leopard.", "Includes a 4,500 square kilometer reserve.", "Monsoon clouds often reach the lower slopes."]
-    }
-  },
+    }, image: "/poi-images/oman-jebel-samhan-relief-v2.webp"},
   {
     id: "oman-jebel-qamar-relief-v2",
     type: "mountain",
@@ -95,8 +92,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["A meredek sziklák közvetlenül a tengerből emelkednek ki.", "A hegyek felfogják a nyári monszun ködét.", "Tömjénfák természetes élőhelye.", "Szűk völgyeket és szurdokokat rejt."],
       ro: ["Stâncile abrupte se înalță direct din mare.", "Munții prind ceața musonului de vară.", "Locul de creștere a arborilor de tămâie.", "Prezintă văi înguste și defileuri."],
       en: ["Steep cliffs rise directly from the sea.", "The mountains catch the summer monsoon fog.", "Home to frankincense trees.", "Features narrow valleys and gorges."]
-    }
-  },
+    }, image: "/poi-images/oman-jebel-qamar-relief-v2.webp"},
   {
     id: "oman-jebel-qara-relief-v2",
     type: "mountain",
@@ -143,8 +139,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["36 kilométer mélyen nyúlik be a hegyek közé.", "Kilenc hagyományos falu található a völgyben.", "A víz egész évben folyik benne.", "A keskeny út csak terepjárók számára alkalmas."],
       ro: ["Se întinde pe 36 de kilometri în munți.", "Nouă sate tradiționale se află în vale.", "Apa curge pe tot parcursul anului.", "Drumul îngust este potrivit doar pentru vehicule de teren."],
       en: ["Stretches for 36 kilometers into the mountains.", "Nine traditional villages are located in the valley.", "Water flows all year round.", "The narrow road is only suitable for off-road vehicles."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-tiwi-relief-v2.webp"},
   {
     id: "oman-wadi-arbaeen-relief-v2",
     type: "valley",
@@ -191,8 +186,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["A Wádi-Dajka gát akár 100 millió köbméter vizet is képes visszatartani.", "A völgy több mint 100 falunak ad otthont.", "Fontos vízforrás a fővárosi régió számára.", "A sziklafalak meredeken magasodnak a folyómeder fölé."],
       ro: ["Barajul Wadi Dayqah poate reține până la 100 de milioane de metri cubi de apă.", "Valea adăpostește peste 100 de sate.", "Este o sursă importantă de apă pentru regiunea capitalei.", "Pereții de stâncă se înalță abrupt deasupra albiei râului."],
       en: ["The Wadi Dayqah Dam holds up to 100 million cubic meters of water.", "The valley is home to over 100 villages.", "It is an important water source for the capital region.", "The rock walls rise steeply above the riverbed."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-dayqah-relief-v2.webp"},
   {
     id: "oman-wadi-bani-awf-relief-v2",
     type: "valley",
@@ -215,8 +209,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["Összeköti a Batinah-partot a belső területekkel.", "Itt található a híres 'Snake Gorge' (Kígyó-szurdok).", "Meredek szakadékok szegélyezik a földutat.", "Omán egyik legkihívóbb autós útvonala."],
       ro: ["Leagă coasta Batinah de interior.", "Găzduiește faimosul 'Snake Gorge' (Canionul Șarpelui).", "Abisuri abrupte mărginesc drumul neasfaltat.", "Unul dintre cele mai provocatoare trasee de condus din Oman."],
       en: ["Connects the Batinah coast with the interior.", "Home to the famous 'Snake Gorge'.", "Steep abysses line the unpaved road.", "One of the most challenging driving routes in Oman."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-bani-awf-relief-v2.webp"},
   {
     id: "oman-jebel-misht-relief-v2",
     type: "mountain",
@@ -239,8 +232,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["A déli fal az Arab-félsziget legmagasabb sziklafala.", "Először 1979-ben mászták meg francia hegymászók.", "Masszív jura-kori mészkőből áll.", "A név jelentése: 'Fésű-hegy'."],
       ro: ["Fața sudică este cea mai înaltă stâncă abruptă din Peninsula Arabică.", "A fost escaladat pentru prima dată de alpiniști francezi în 1979.", "Este alcătuit din calcar masiv din Jurasic.", "Numele se traduce prin 'Muntele Pieptene'."],
       en: ["The south face is the highest sheer cliff in the Arabian Peninsula.", "First climbed by French mountaineers in 1979.", "Consists of massive Jurassic limestone.", "The name translates to 'Comb Mountain'."]
-    }
-  },
+    }, image: "/poi-images/oman-jebel-misht-relief-v2.webp"},
   {
     id: "oman-jebel-kawr-relief-v2",
     type: "mountain",
@@ -263,8 +255,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["Magassága meghaladja a 2700 métert.", "A környezeténél hűvösebb mikroklímával rendelkezik.", "Az eldugott ösvényeket szamarak használják.", "Kevésbé látogatott, mint a szomszédos Dzsebel-Samsz."],
       ro: ["Atinge altitudini de peste 2.700 de metri.", "Are un microclimat mai răcoros decât împrejurimile.", "Cărările izolate sunt folosite de măgari.", "Mai puțin vizitat decât vecinul Jebel Shams."],
       en: ["Reaches altitudes of over 2,700 meters.", "Has a cooler microclimate than the surroundings.", "The remote trails are used by donkeys.", "Less visited than the neighboring Jebel Shams."]
-    }
-  },
+    }, image: "/poi-images/oman-jebel-kawr-relief-v2.webp"},
   {
     id: "oman-wadi-mistal-relief-v2",
     type: "valley",
@@ -287,8 +278,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["A völgy Ghubra Bowl néven is ismert.", "Wakan falu mintegy 2000 méteres magasságban fekszik.", "A lejtőkön kajszibarack és gránátalma terem.", "Kedvelt kiindulópont trekking túrákhoz."],
       ro: ["Valea este cunoscută și sub numele de Ghubra Bowl.", "Satul Wakan se află la o altitudine de aproximativ 2.000 de metri.", "Caișii și rodiile cresc pe pante.", "Un punct de plecare popular pentru drumeții."],
       en: ["The valley is also known as the Ghubra Bowl.", "Wakan Village is located at an altitude of about 2,000 meters.", "Apricots and pomegranates grow on the slopes.", "A popular starting point for trekking tours."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-mistal-relief-v2.webp"},
   {
     id: "oman-wadi-damm-relief-v2",
     type: "valley",
@@ -311,8 +301,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["A völgyet a víz által simára csiszolt kövek borítják.", "Egyedi sziklarajzok találhatók a falakon.", "Egy kis patak folyik át a mohával borított köveken.", "Al Ayn méhkas-sírjai közelében található."],
       ro: ["Valea este plină cu pietre fine șlefuite de apă.", "Prezintă desene rupestre unice pe pereți.", "Un mic pârâu curge printre pietrele acoperite de mușchi.", "Situat în apropierea mormintelor în formă de stup din Al Ayn."],
       en: ["The valley is filled with fine, water-polished stones.", "Features unique rock art on the walls.", "A small stream flows through moss-covered stones.", "Located near the beehive tombs of Al Ayn."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-damm-relief-v2.webp"},
   {
     id: "oman-batinah-coast-relief-v2",
     type: "coast",
@@ -359,8 +348,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["Több százezer vándormadár pihenőhelye.", "Kiterjedt árapálysíkságokkal és lagúnákkal rendelkezik.", "Érintetlen korallzátonyok veszik körül.", "Dagálykor a szabhá nagy része víz alá kerül."],
       ro: ["Loc de odihnă pentru sute de mii de păsări migratoare.", "Are câmpii întinse de maree și lagune.", "Înconjurat de recife de corali intacte.", "În timpul fluxului, mari părți ale sabkha sunt sub apă."],
       en: ["Resting place for hundreds of thousands of migratory birds.", "Features extensive mudflats and lagoons.", "Surrounded by intact coral reefs.", "During high tide, large parts of the sabkha are underwater."]
-    }
-  },
+    }, image: "/poi-images/oman-barr-al-hikman-relief-v2.webp"},
   {
     id: "oman-ruus-al-jibal-relief-v2",
     type: "mountain",
@@ -383,8 +371,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["A Hormuzi-szoros déli partját alkotja.", "A tájat gyakran 'Arábia Norvégiájaként' emlegetik.", "A hegyek magassága meghaladja a 2000 métert.", "Mély tengeröblök (Khor-ok) vágnak mélyen a sziklákba."],
       ro: ["Formează coasta sudică a Strâmtorii Ormuz.", "Peisajul este adesea denumit 'Norvegia Arabiei'.", "Munții ating înălțimi de peste 2.000 de metri.", "Pătrunderi adânci ale mării (khors) taie adânc în stâncă."],
       en: ["Forms the southern coast of the Strait of Hormuz.", "The landscape is often referred to as the 'Norway of Arabia'.", "The mountains reach heights of over 2,000 meters.", "Deep sea inlets (khors) cut deeply into the rock."]
-    }
-  },
+    }, image: "/poi-images/oman-ruus-al-jibal-relief-v2.webp"},
   {
     id: "oman-ramlat-jadilah-relief-v2",
     type: "desert",
@@ -407,8 +394,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["Omán egyik legnehezebben megközelíthető helyeként tartják számon.", "A dűnék magassága elérheti a tengerszint feletti 400 métert is.", "A jemeni határ közelében fekszik.", "Az expedíciókhoz extrém terepjárós tapasztalat szükséges."],
       ro: ["Considerat unul dintre cele mai inaccesibile locuri din Oman.", "Dunele ajung uneori la înălțimi de 400 de metri deasupra nivelului mării.", "Situat aproape de granița cu Yemenul.", "Necesită experiență extremă off-road pentru expediții."],
       en: ["Considered one of the most inaccessible places in Oman.", "Dunes sometimes reach heights of 400 meters above sea level.", "Located near the border with Yemen.", "Requires extreme off-road experience for expeditions."]
-    }
-  },
+    }, image: "/poi-images/oman-ramlat-jadilah-relief-v2.webp"},
   {
     id: "oman-umm-al-samim-relief-v2",
     type: "desert",
@@ -431,8 +417,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["A talaj alattomos kérget képezhet a nedves iszap felett.", "A múltban karavánokat és járműveket nyelt el.", "Wilfred Thesiger dokumentálta először 1946-ban.", "Alkalmanként a Hadzsar-hegység vádijaiból kap vizet."],
       ro: ["Solul poate forma o crustă înșelătoare deasupra noroiului umed.", "În trecut, a înghițit caravane și vehicule.", "Documentat pentru prima dată de Wilfred Thesiger în 1946.", "Primește ocazional apă din wadi-urile Munților Hajar."],
       en: ["The ground can form a treacherous crust over wet mud.", "Has swallowed caravans and vehicles in the past.", "First documented by Wilfred Thesiger in 1946.", "Occasionally receives water from the wadis of the Hajar Mountains."]
-    }
-  },
+    }, image: "/poi-images/oman-umm-al-samim-relief-v2.webp"},
   {
     id: "oman-wadi-hawqayn-relief-v2",
     type: "valley",
@@ -455,8 +440,7 @@ export const poiExtraOmanReliefV2: POI[] = [
       hu: ["A víz széles zuhatagokban hullik alá a kőlépcsőkön.", "Hideg és meleg források folynak össze a völgyben.", "Népszerű rekreációs hely a helyiek körében.", "Pálmaligetek szegélyezik a vízmedencéket."],
       ro: ["Apa cade în cascade largi peste trepte de piatră.", "Izvoare calde și reci se întâlnesc în vale.", "Este un loc popular de recreere pentru localnici.", "Crânguri de palmieri mărginesc bazinele de apă."],
       en: ["Water falls in broad cascades over stone steps.", "Hot and cold springs meet in the valley.", "Is a popular recreation spot for locals.", "Palm groves line the water pools."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-hawqayn-relief-v2.webp"},
   {
     id: "oman-saiq-plateau-relief-v2",
     type: "plateau",

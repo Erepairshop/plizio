@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monte-verde-relief-v2",
+      "description": "Monte Verde este cel mai înalt punct al insulei São Vicente. Se află la est de Mindelo și domină partea nordică a insulei.",
+      "facts": ["São Vicente", "aprox. 774 m", "cel mai înalt vârf al insulei"]
+    },
+    {
+      "id": "cova-de-paul-relief-v2",
+      "description": "Cova de Paúl este o caldeiră vulcanică din Santo Antão, la capătul traseului spre Vale do Paúl. Relieful ei marchează una dintre cele mai cunoscute zone de drumeție din Capul Verde.",
+      "facts": ["Santo Antão", "caldeiră vulcanică", "startul traseului Cova–Paúl"]
+    },
+    {
+      "id": "bordeira-do-fogo-relief-v2",
+      "description": "Bordeira este marginea uriașei caldere din centrul insulei Fogo. Pereții ei abrupți înconjoară Chã das Caldeiras și protejează zona de scurgerile de lavă.",
+      "facts": ["Fogo", "perete de calderă", "în jurul Chã das Caldeiras"]
+    },
+    {
+      "id": "monte-trigo-relief-v2",
+      "description": "Monte Trigo este o așezare de pe coasta vestică a insulei Santo Antão, la poalele lui Tope de Coroa. Zona este izolată și deservită de relieful vulcanic al extremității vestice.",
+      "facts": ["Santo Antão", "la poalele lui Tope de Coroa", "vestul extrem al insulei"]
+    },
+    {
+      "id": "monte-grande-sal-relief-v2",
+      "description": "Monte Grande este cel mai înalt punct al insulei Sal. Se află în nordul insulei, într-un relief altfel foarte plat.",
+      "facts": ["Sal", "aprox. 406 m", "cel mai înalt punct al insulei"]
+    },
+    {
+      "id": "monte-penoso-relief-v2",
+      "description": "Monte Penoso este punctul cel mai înalt al insulei Maio. Muntele face parte dintr-un peisaj protejat și domină insula joasă și aridă.",
+      "facts": ["Maio", "436 m", "cel mai înalt punct al insulei"]
+    },
+    {
+      "id": "monte-batalha-relief-v2",
+      "description": "Monte Batalha se află pe insula Maio, în apropiere de Calheta și Porto Inglês. Este unul dintre vârfurile care marchează relieful interior al insulei.",
+      "facts": ["Maio", "aprox. 294 m", "aproape de Calheta"]
+    },
+    {
+      "id": "monte-sobrado-relief-v2",
+      "description": "Monte Sobrado este un vârf din sudul insulei Fogo. Se ridică deasupra zonei Santa Catarina do Fogo și a satelor din jur.",
+      "facts": ["Fogo", "aprox. 1.743 m", "în Santa Catarina do Fogo"]
+    },
+    {
+      "id": "monte-duarte-relief-v2",
+      "description": "Monte Duarte este un vârf din Fogo, în partea sud-centrală a insulei. Relieful său vulcanic face parte din zona montană care structurează insula.",
+      "facts": ["Fogo", "aprox. 1.772 m", "în zona Santa Catarina do Fogo"]
+    },
+    {
+      "id": "pico-da-antonia-relief-v2",
+      "description": "Pico de Antónia este cel mai înalt munte al insulei Santiago. Vârful se află în centrul insulei și este un reper important al reliefului local.",
+      "facts": ["Santiago", "1.394 m", "cel mai înalt punct al insulei"]
+    }
+  ]
+}

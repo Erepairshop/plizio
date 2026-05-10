@@ -18,8 +18,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["Michele De Lucchi építész tervezte.", "A híd 150 méter hosszú és 2010-ben adták át."],
       ro: ["A fost proiectat de arhitectul Michele De Lucchi.", "Podul are o lungime de 150 de metri și a fost deschis în 2010."],
       en: ["Designed by the architect Michele De Lucchi.", "The bridge is 150 meters long and opened in 2010."]
-    }
-  },
+    }, image: "/poi-images/bridge-of-peace-landmarks-v2.webp"},
   {
     id: "abanotubani-landmarks-v2",
     type: "tourist-attraction",
@@ -37,8 +36,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A fürdőket forró kénes források táplálják.", "Híres látogatói közé tartozott Alekszandr Puskin és id. Alexandre Dumas."],
       ro: ["Băile sunt alimentate de izvoare fierbinți cu sulf.", "Printre vizitatorii celebri s-au numărat Alexandr Pușkin și Alexandre Dumas."],
       en: ["The baths are fed by hot sulphur springs.", "Famous visitors included Alexander Pushkin and Alexandre Dumas."]
-    }
-  },
+    }, image: "/poi-images/abanotubani-landmarks-v2.webp"},
   {
     id: "chronicle-of-georgia-landmarks-v2",
     type: "monument",
@@ -56,8 +54,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["Az emlékművet 1985-ben Zurab Cereteli művész alkotta.", "A lenyűgöző oszlopok több mint 30 méter magasak."],
       ro: ["Monumentul a fost creat în 1985 de artistul Zurab Tsereteli.", "Coloanele impresionante au peste 30 de metri înălțime."],
       en: ["The monument was created in 1985 by artist Zurab Tsereteli.", "The impressive pillars are over 30 meters high."]
-    }
-  },
+    }, image: "/poi-images/chronicle-of-georgia-landmarks-v2.webp"},
   {
     id: "gabriadze-theater-landmarks-v2",
     type: "landmark",
@@ -75,8 +72,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A színházat 1981-ben alapította Rezo Gabriadze.", "A jellegzetes ferde óratornyot 2010-ben adták hozzá."],
       ro: ["Teatrul a fost fondat în 1981 de Rezo Gabriadze.", "Turnul înclinat cu ceas a fost adăugat în 2010."],
       en: ["The theater was founded in 1981 by Rezo Gabriadze.", "The distinctive leaning clock tower was added in 2010."]
-    }
-  },
+    }, image: "/poi-images/gabriadze-theater-landmarks-v2.webp"},
   {
     id: "tbilisi-tv-tower-landmarks-v2",
     type: "landmark",
@@ -94,8 +90,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A torony eléri a 274 méteres magasságot.", "1972-ben épült egy régebbi adótorony helyén."],
       ro: ["Turnul atinge o înălțime de 274 de metri.", "A fost construit în 1972 în locul unui vechi turn de transmisie."],
       en: ["The tower reaches a height of 274 meters.", "It was built in 1972 replacing an older transmission tower."]
-    }
-  },
+    }, image: "/poi-images/tbilisi-tv-tower-landmarks-v2.webp"},
   {
     id: "ali-and-nino-statue-landmarks-v2",
     type: "monument",
@@ -113,8 +108,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A kinetikus szobor 8 méter magas.", "Tamara Kvesitadze művésznő tervezte."],
       ro: ["Sculptura cinetică are o înălțime de 8 metri.", "A fost proiectată de artista Tamara Kvesitadze."],
       en: ["The kinetic sculpture is 8 meters high.", "It was designed by artist Tamara Kvesitadze."]
-    }
-  },
+    }, image: "/poi-images/ali-and-nino-statue-landmarks-v2.webp"},
   {
     id: "alphabet-tower-landmarks-v2",
     type: "landmark",
@@ -132,8 +126,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A torony 130 méter magas és 2011-ben készült el.", "A grúz ábécét és annak 33 betűjét ünnepli."],
       ro: ["Turnul are o înălțime de 130 de metri și a fost finalizat în 2011.", "Celebrează alfabetul georgian și cele 33 de litere ale sale."],
       en: ["The tower is 130 meters high and was completed in 2011.", "It celebrates the Georgian alphabet with its 33 letters."]
-    }
-  },
+    }, image: "/poi-images/alphabet-tower-landmarks-v2.webp"},
   {
     id: "batumi-botanical-garden-landmarks-v2",
     type: "tourist-attraction",
@@ -151,8 +144,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A kertet hivatalosan 1912-ben nyitották meg.", "Több mint 108 hektáros területen fekszik."],
       ro: ["Grădina a fost deschisă oficial în 1912.", "Se întinde pe o suprafață de 108 hectare."],
       en: ["The garden was officially opened in 1912.", "It covers an area of 108 hectares."]
-    }
-  },
+    }, image: "/poi-images/batumi-botanical-garden-landmarks-v2.webp"},
   {
     id: "batumi-boulevard-landmarks-v2",
     type: "tourist-attraction",
@@ -170,8 +162,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A körút kialakítása 1881-ben kezdődött.", "A sétány körülbelül 7 kilométer hosszan húzódik."],
       ro: ["Construcția bulevardului a început în anul 1881.", "Promenada se întinde pe o lungime de aproximativ 7 kilometri."],
       en: ["The construction of the boulevard began in 1881.", "The promenade stretches for a length of about 7 kilometers."]
-    }
-  },
+    }, image: "/poi-images/batumi-boulevard-landmarks-v2.webp"},
   {
     id: "katskhi-pillar-landmarks-v2",
     type: "landmark",
@@ -189,8 +180,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A mészkő monolit körülbelül 40 méter magas.", "A tetején lévő kis templom a 9. vagy a 10. századból származik."],
       ro: ["Monolitul de calcar are o înălțime de aproximativ 40 de metri.", "Mica biserică din vârf datează din secolul al IX-lea sau al X-lea."],
       en: ["The limestone monolith is about 40 meters high.", "The small church on the top dates back to the 9th or 10th century."]
-    }
-  },
+    }, image: "/poi-images/katskhi-pillar-landmarks-v2.webp"},
   {
     id: "prometheus-cave-landmarks-v2",
     type: "tourist-attraction",
@@ -208,8 +198,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A cseppkőbarlangot 1984-ben fedezték fel barlangkutatók.", "A látogatók számára egy 1,4 kilométer hosszú utat építettek ki."],
       ro: ["Peștera a fost descoperită de speologi în 1984.", "Pentru vizitatori este amenajat un traseu de 1,4 kilometri."],
       en: ["The cave was discovered by speleologists in 1984.", "A 1.4-kilometer trail is prepared for visitors."]
-    }
-  },
+    }, image: "/poi-images/prometheus-cave-landmarks-v2.webp"},
   {
     id: "martvili-canyon-landmarks-v2",
     type: "tourist-attraction",
@@ -246,8 +235,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A függő gyalogos ösvény 780 méter hosszú.", "Maga a szurdok néhol több mint 50 méter mély."],
       ro: ["Pasarela pietonală suspendată are o lungime de 780 de metri.", "Defileul în sine are în unele locuri peste 50 de metri adâncime."],
       en: ["The suspended pedestrian walkway is 780 meters long.", "The canyon itself is over 50 meters deep in some places."]
-    }
-  },
+    }, image: "/poi-images/okatse-canyon-landmarks-v2.webp"},
   {
     id: "sataplia-cave-landmarks-v2",
     type: "tourist-attraction",
@@ -265,8 +253,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A rezervátumot 1935-ben alapították a barlang védelmére.", "Megkövesedett dinoszaurusz lábnyomokat véd."],
       ro: ["Rezervația a fost fondată în 1935 pentru a proteja peștera.", "Protejează urme pietrificate de dinozauri."],
       en: ["The reserve was founded in 1935 to protect the cave.", "It protects fossilized dinosaur footprints."]
-    }
-  },
+    }, image: "/poi-images/sataplia-cave-landmarks-v2.webp"},
   {
     id: "svaneti-towers-mestia-landmarks-v2",
     type: "landmark",
@@ -284,8 +271,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["A legtöbb torony a 9. és a 12. század között épült.", "A régió 1996 óta az UNESCO Világörökség része."],
       ro: ["Majoritatea turnurilor au fost construite între secolele al IX-lea și al XII-lea.", "Regiunea face parte din Patrimoniul Mondial UNESCO din 1996."],
       en: ["Most of the towers were built between the 9th and 12th centuries.", "The region has been a UNESCO World Heritage site since 1996."]
-    }
-  },
+    }, image: "/poi-images/svaneti-towers-mestia-landmarks-v2.webp"},
   {
     id: "enguri-dam-landmarks-v2",
     type: "icon",
@@ -303,8 +289,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["Az ívgát magassága eléri a 271,5 métert.", "Építését 1987-ben fejezték be teljesen."],
       ro: ["Barajul în arc atinge o înălțime de 271,5 metri.", "Construcția sa a fost complet finalizată în 1987."],
       en: ["The arch dam reaches a height of 271.5 meters.", "Its construction was fully completed in 1987."]
-    }
-  },
+    }, image: "/poi-images/enguri-dam-landmarks-v2.webp"},
   {
     id: "dashbashi-canyon-landmarks-v2",
     type: "tourist-attraction",
@@ -341,8 +326,7 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       hu: ["Az erődítmény fala összesen 4,5 kilométer hosszú.", "Összesen 28 őrtoronnyal van felszerelve."],
       ro: ["Zidul cetății are o lungime totală de 4,5 kilometri.", "Este echipat cu 28 de turnuri de veghe."],
       en: ["The fortress wall has a total length of 4.5 kilometers.", "It is equipped with 28 watchtowers."]
-    }
-  },
+    }, image: "/poi-images/sighnaghi-city-wall-landmarks-v2.webp"},
   {
     id: "makhuntseti-waterfall-landmarks-v2",
     type: "tourist-attraction",

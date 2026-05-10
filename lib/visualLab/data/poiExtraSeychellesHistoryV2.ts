@@ -23,8 +23,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Victoria jelképe", "1903-ban emelték", "A Little Ben másolata", "Helyi neve: Lorloz"],
       ro: ["Simbolul orașului Victoria", "Ridicat în 1903", "Copie a lui Little Ben", "Nume local: Lorloz"],
       en: ["Landmark of Victoria", "Erected in 1903", "Copy of Little Ben", "Local name: Lorloz"]
-    }
-  },
+    }, image: "/poi-images/victoria-clock-tower-history-v2.webp"},
   {
     id: "mission-lodge-history-v2",
     type: "historical",
@@ -47,8 +46,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Egykori rabszolgaiskola", "1875-ben alapították", "Kilátópont Mahé szigetén", "Erzsébet királynő is meglátogatta"],
       ro: ["Fostă școală de sclavi", "Fondată în 1875", "Punct de belvedere pe Mahé", "Vizitat de Regina Elisabeta a II-a"],
       en: ["Former slave school", "Founded in 1875", "Panoramic viewpoint", "Visited by Queen Elizabeth II"]
-    }
-  },
+    }, image: "/poi-images/mission-lodge-history-v2.webp"},
   {
     id: "l-union-estate-history-v2",
     type: "historical",
@@ -95,8 +93,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Kreol kulturális örökség", "Grann Kaz udvarház", "Kézműves falu", "1870-ben épült"],
       ro: ["Patrimoniu cultural creol", "Conacul Grann Kaz", "Sat meșteșugăresc", "Construit în 1870"],
       en: ["Creole cultural heritage", "Grann Kaz manor house", "Craft village", "Built in 1870"]
-    }
-  },
+    }, image: "/poi-images/domaine-de-val-des-pres-history-v2.webp"},
   {
     id: "bel-air-cemetery-history-v2",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Legrégebbi temető", "A bel air-i óriás sírja", "Korai gyarmati telepesek", "Történelmi sírkövek"],
       ro: ["Cel mai vechi cimitir", "Mormântul uriașului din Bel Air", "Primii coloniști", "Pietre funerare istorice"],
       en: ["Oldest cemetery", "Tomb of the Giant of Bel Air", "Early colonial settlers", "Historic tombstones"]
-    }
-  },
+    }, image: "/poi-images/bel-air-cemetery-history-v2.webp"},
   {
     id: "bicentennial-monument-history-v2",
     type: "historical",
@@ -167,8 +163,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["1840-ben épült", "Victoria szíve", "Hagyományos halpiac", "Gyarmati építészet"],
       ro: ["Construită în 1840", "Inima Victoriei", "Piață tradițională de pește", "Arhitectură colonială"],
       en: ["Built in 1840", "Heart of Victoria", "Traditional fish market", "Colonial architecture"]
-    }
-  },
+    }, image: "/poi-images/sir-selwyn-market-history-v2.webp"},
   {
     id: "st-pauls-cathedral-history-v2",
     type: "historical",
@@ -191,8 +186,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Fő anglikán templom", "1859-ben épült", "Victoria egyik jelképe", "Történelmi hajó"],
       ro: ["Biserica anglicană principală", "Construită în 1859", "Simbol al Victoriei", "Navă istorică"],
       en: ["Main Anglican church", "Built in 1859", "Landmark of Victoria", "Historic nave"]
-    }
-  },
+    }, image: "/poi-images/st-pauls-cathedral-history-v2.webp"},
   {
     id: "immaculate-conception-cathedral-history-v2",
     type: "historical",
@@ -215,8 +209,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Katolikus püspöki székhely", "Francia gyarmati stílus", "Pompás üvegablakok", "A hitélet központja"],
       ro: ["Sediu episcopal catolic", "Stil colonial francez", "Vitralii magnifice", "Centrul credinței"],
       en: ["Catholic episcopal seat", "French colonial style", "Magnificent stained glass", "Center of faith"]
-    }
-  },
+    }, image: "/poi-images/immaculate-conception-cathedral-history-v2.webp"},
   {
     id: "state-house-history-v2",
     type: "historical",
@@ -239,8 +232,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Az elnök székhelye", "1910-ben épült", "Egykori kormányzói rezidencia", "Pompás kertek"],
       ro: ["Sediul președintelui", "Construit în 1910", "Fostă reședință a guvernatorului", "Grădini magnifice"],
       en: ["Seat of the President", "Built in 1910", "Former governor's residence", "Magnificent gardens"]
-    }
-  },
+    }, image: "/poi-images/state-house-history-v2.webp"},
   {
     id: "kenwyn-house-history-v2",
     type: "historical",
@@ -263,8 +255,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Nemzeti műemlék", "Gyarmati faház", "Pompás faragások", "Történelmi rezidencia"],
       ro: ["Monument național", "Casă colonială din lemn", "Sculpturi magnifice", "Reședință istorică"],
       en: ["National monument", "Colonial wooden house", "Magnificent carvings", "Historic residence"]
-    }
-  },
+    }, image: "/poi-images/kenwyn-house-history-v2.webp"},
   {
     id: "dauban-mausoleum-history-v2",
     type: "historical",
@@ -311,8 +302,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["1910-ben épült", "Andrew Carnegie adománya", "Klasszicista homlokzat", "Egykori Nemzeti Könyvtár"],
       ro: ["Construită în 1910", "Donație de la Andrew Carnegie", "Fațadă clasicistă", "Fosta Bibliotecă Națională"],
       en: ["Built in 1910", "Andrew Carnegie donation", "Classical facade", "Former National Library"]
-    }
-  },
+    }, image: "/poi-images/carnegie-library-history-v2.webp"},
   {
     id: "la-bastille-history-v2",
     type: "historical",
@@ -335,8 +325,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Gyarmati építészet", "Kulturális központ", "Terméskő falazat", "Történelmi igazgatási épület"],
       ro: ["Arhitectură colonială", "Centru cultural", "Zidărie din piatră", "Clădire administrativă istorică"],
       en: ["Colonial architecture", "Cultural center", "Stone masonry", "Historic administrative building"]
-    }
-  },
+    }, image: "/poi-images/la-bastille-history-v2.webp"},
   {
     id: "eustache-sarde-house-history-v2",
     type: "historical",
@@ -359,8 +348,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["Hagyományos faház", "La Digue szigetén", "Kreol stílus", "Műemléki védelem alatt"],
       ro: ["Casă tradițională din lemn", "Pe La Digue", "Stil creol", "Monument protejat"],
       en: ["Traditional wooden house", "On La Digue", "Creole style", "Protected monument"]
-    }
-  },
+    }, image: "/poi-images/eustache-sarde-house-history-v2.webp"},
   {
     id: "grann-kaz-fregate-history-v2",
     type: "historical",
@@ -407,8 +395,7 @@ export const poiExtraSeychellesHistoryV2: POI[] = [
       hu: ["A forradalom emlékműve", "Victoria központjában", "A szabadság szimbóluma", "Bronzszobor"],
       ro: ["Monumentul revoluției", "Central în Victoria", "Simbol al libertății", "Statuie de bronz"],
       en: ["Monument to the revolution", "Central Victoria", "Symbol of freedom", "Bronze statue"]
-    }
-  },
+    }, image: "/poi-images/liberation-monument-history-v2.webp"},
   {
     id: "kaz-zanana-history-v2",
     type: "historical",

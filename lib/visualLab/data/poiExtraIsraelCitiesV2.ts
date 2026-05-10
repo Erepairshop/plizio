@@ -24,8 +24,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 970.000 Einwohner, größte Stadt Israels.", "Erste Besiedlung im 4. Jahrtausend v. Chr.", "Um 1000 v. Chr. von König David zur Hauptstadt erhoben.", "Staat Israel proklamiert am 14. Mai 1948 in Tel Aviv, Westjerusalem wurde Hauptstadt.", "Wiedervereinigt 1967 nach dem Sechstagekrieg.", "Altstadt seit 1981 UNESCO-Weltkulturerbe.", "Klagemauer ist Überrest der Westmauer des Zweiten Tempels.", "Heilig für Judentum, Christentum und Islam."]
-    }
-  },
+    }, image: "/poi-images/jerusalem-cities-v2.webp"},
   {
     id: "tel-aviv-cities-v2",
     type: "city",
@@ -49,8 +48,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Am 11. April 1909 von 66 Familien als Vorort Jaffas gegründet.", "Rund 470.000 Einwohner, Metropolregion Gusch Dan über 4 Millionen.", "Im Unabhängigkeitssaal proklamierte Ben-Gurion am 14. Mai 1948 den Staat Israel.", "1950 mit dem antiken Jaffa zur Doppelstadt Tel Aviv-Jaffa vereinigt.", "Über 4.000 Bauhaus-Gebäude bilden die „Weiße Stadt“.", "Seit 2003 UNESCO-Weltkulturerbe.", "Wichtigstes Technologie- und Finanzzentrum Israels.", "Spitzname „die Stadt, die niemals schläft“."]
-    }
-  },
+    }, image: "/poi-images/tel-aviv-cities-v2.webp"},
   {
     id: "haifa-cities-v2",
     type: "city",
@@ -74,8 +72,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 285.000 Einwohner, drittgrößte Stadt Israels.", "Liegt an den Hängen des Berges Karmel.", "Wichtigster Seehafen Israels.", "Sitz des Technion, gegründet 1912.", "Bahai-Weltzentrum mit hängenden Gärten.", "Bahai-Gärten seit 2008 UNESCO-Weltkulturerbe.", "Bedeutender Standort der Hightech-Industrie.", "Vorbild für jüdisch-arabisches Zusammenleben."]
-    }
-  },
+    }, image: "/poi-images/haifa-cities-v2.webp"},
   {
     id: "rishon-lezion-cities-v2",
     type: "city",
@@ -99,8 +96,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1882 als erste Siedlung der ersten Alija gegründet.", "Rund 260.000 Einwohner, viertgrößte Stadt Israels.", "Name bedeutet „Erster in Zion“ nach Jesaja 41,27.", "Baron Edmond de Rothschild unterstützte die Kolonie ab 1883.", "Carmel-Weinkellerei seit 1890 in Betrieb.", "Erste hebräische Schule der Neuzeit 1898 gegründet.", "Israelische Nationalhymne Hatikwa hier erstmals gesungen.", "Liegt südlich von Tel Aviv in der zentralen Küstenebene."]
-    }
-  },
+    }, image: "/poi-images/rishon-lezion-cities-v2.webp"},
   {
     id: "petah-tikva-cities-v2",
     type: "city",
@@ -124,8 +120,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1878 als erste moderne landwirtschaftliche Siedlung gegründet.", "Rund 250.000 Einwohner.", "Name bedeutet „Tor der Hoffnung“ nach Hosea 2,17.", "Bekannt als „Mutter der Moschawot“.", "Zweitgrößter Industriesektor Israels nach Tel Aviv.", "Hauptsitz von Intel Israel, Oracle und IBM Israel.", "Rabin Medical Center, eines der größten Krankenhäuser.", "Liegt östlich von Tel Aviv in der Scharon-Ebene."]
-    }
-  },
+    }, image: "/poi-images/petah-tikva-cities-v2.webp"},
   {
     id: "ashdod-cities-v2",
     type: "city",
@@ -149,8 +144,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Eine der ältesten Hafenstädte der Welt, über 3.500 Jahre alt.", "Moderne Stadt am 1. Mai 1956 neu gegründet.", "Rund 225.000 Einwohner.", "Größter Frachthafen Israels mit etwa 60 % des Umschlags.", "Bedeutende marokkanische und georgische Gemeinden.", "Wichtiger Standort der petrochemischen Industrie.", "Liegt 32 km südlich von Tel Aviv.", "In der Bibel als Stadt der Philister erwähnt."]
-    }
-  },
+    }, image: "/poi-images/ashdod-cities-v2.webp"},
   {
     id: "netanya-cities-v2",
     type: "city",
@@ -174,8 +168,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1929 gegründet, benannt nach Nathan Straus.", "Rund 230.000 Einwohner.", "14 km lange Sandstrände an der Mittelmeerküste.", "Zentrum der israelischen Diamantenindustrie.", "Verarbeitet rund 50 % des israelischen Diamantenexports.", "Beliebtes Urlaubsziel mit lebhafter Strandpromenade.", "Große französische und argentinische Einwanderergemeinde.", "Liegt 30 km nördlich von Tel Aviv."]
-    }
-  },
+    }, image: "/poi-images/netanya-cities-v2.webp"},
   {
     id: "beersheba-cities-v2",
     type: "city",
@@ -199,8 +192,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 215.000 Einwohner, größte Stadt im Negev.", "Besiedlung seit dem 4. Jahrtausend v. Chr.", "Name bedeutet „Brunnen des Eides“ aus Genesis 21.", "Tel Be'er Scheva seit 2005 UNESCO-Weltkulturerbe.", "Ben-Gurion-Universität gegründet 1969.", "Wichtiges Zentrum für Cybersecurity und Hightech.", "Beduinenmarkt jeden Donnerstag traditionsreich.", "Hauptstadt des Südens Israels."]
-    }
-  },
+    }, image: "/poi-images/beersheba-cities-v2.webp"},
   {
     id: "bnei-brak-cities-v2",
     type: "city",
@@ -224,8 +216,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 215.000 Einwohner.", "1924 von chassidischen Juden aus Polen gegründet.", "Eine der dichtest besiedelten Städte der Welt.", "Über 90 % der Einwohner sind ultraorthodox (charedisch).", "Durchschnittsalter unter 20 Jahren.", "Sitz zahlreicher bedeutender Jeschiwot.", "Nach biblischer Stadt aus Josua 19,45 benannt.", "Liegt östlich von Tel Aviv."]
-    }
-  },
+    }, image: "/poi-images/bnei-brak-cities-v2.webp"},
   {
     id: "holon-cities-v2",
     type: "city",
@@ -249,8 +240,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1935 als Arbeitersiedlung gegründet.", "Rund 200.000 Einwohner, siebtgrößte Stadt Israels.", "Name bedeutet auf Hebräisch „Sand“.", "Bekannt als „Kinderstadt“ Israels.", "Design Museum Holon eröffnet 2010, entworfen von Ron Arad.", "Israelisches Kindermuseum seit 2001.", "Heimat einer der zwei letzten Samaritanergemeinden weltweit.", "Liegt südlich von Tel Aviv."]
-    }
-  },
+    }, image: "/poi-images/holon-cities-v2.webp"},
   {
     id: "ramat-gan-cities-v2",
     type: "city",
@@ -274,8 +264,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1921 als Ir Ganim gegründet, 1923 umbenannt.", "Rund 165.000 Einwohner.", "Name bedeutet „Gartenhöhen“.", "Israelische Diamantenbörse mit Umsatz über 25 Mrd. US-Dollar jährlich.", "Moshe Aviv Tower 244 m hoch.", "Bar-Ilan-Universität gegründet 1955.", "Safari Ramat Gan, größter zoologischer Park Israels.", "Östlich von Tel Aviv im Großraum Gusch Dan."]
-    }
-  },
+    }, image: "/poi-images/ramat-gan-cities-v2.webp"},
   {
     id: "rehovot-cities-v2",
     type: "city",
@@ -299,8 +288,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1890 von russisch-jüdischen Einwanderern gegründet.", "Rund 150.000 Einwohner.", "Name aus Genesis 26,22, bedeutet „weite Plätze“.", "Weizmann-Institut für Wissenschaften seit 1934.", "Chaim Weizmann, erster Präsident Israels, lebte und starb hier.", "Fakultät für Landwirtschaft der Hebräischen Universität.", "Früher „Hauptstadt der Zitrusfrüchte“.", "Liegt 20 km südlich von Tel Aviv."]
-    }
-  },
+    }, image: "/poi-images/rehovot-cities-v2.webp"},
   {
     id: "ashkelon-cities-v2",
     type: "city",
@@ -324,8 +312,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Über 5.000 Jahre Geschichte, eine der ältesten Hafenstädte.", "Eine der fünf Philisterstädte in der Antike.", "Moderne Stadt 1948 nach Staatsgründung neu errichtet.", "Rund 145.000 Einwohner.", "Nationalpark mit antiken kanaanitischen Ruinen.", "Eine der größten Meerwasserentsalzungsanlagen weltweit.", "Bedeutende marokkanisch-jüdische Gemeinde.", "Liegt etwa 50 km südlich von Tel Aviv."]
-    }
-  },
+    }, image: "/poi-images/ashkelon-cities-v2.webp"},
   {
     id: "bat-yam-cities-v2",
     type: "city",
@@ -349,8 +336,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1926 als Bajit waGan gegründet, 1936 umbenannt.", "Rund 130.000 Einwohner.", "Name bedeutet „Tochter des Meeres“.", "3,5 km lange Strandpromenade.", "Über 30 % russischsprachige Einwohner.", "Ben-Ari-Museum und Museum für Modern Art.", "Liegt direkt südlich von Tel Aviv.", "Bedeutende bulgarische und rumänische Einwanderergemeinden."]
-    }
-  },
+    }, image: "/poi-images/bat-yam-cities-v2.webp"},
   {
     id: "beit-shemesh-cities-v2",
     type: "city",
@@ -374,8 +360,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Biblische Stadt, im Buch Josua erwähnt.", "Moderne Stadt 1950 als Entwicklungsstadt gegründet.", "Rund 130.000 Einwohner.", "Name bedeutet „Haus der Sonne“.", "Liegt im biblischen Elah-Tal, Schauplatz Davids gegen Goliath.", "Eine der am schnellsten wachsenden Städte Israels.", "Drittgrößte ultraorthodoxe Gemeinde des Landes.", "20 km westlich von Jerusalem gelegen."]
-    }
-  },
+    }, image: "/poi-images/beit-shemesh-cities-v2.webp"},
   {
     id: "kfar-saba-cities-v2",
     type: "city",
@@ -399,8 +384,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1903 von russisch-jüdischen Einwanderern gegründet.", "Rund 110.000 Einwohner.", "Name bedeutet „Dorf des Großvaters“.", "1962 zur Großstadt erhoben.", "Meir-Medical-Center, eines der größten Krankenhäuser.", "Wichtiges Hightech-Zentrum in der Scharon-Ebene.", "20 km nordöstlich von Tel Aviv.", "Bekannt für Grünflächen und Lebensqualität."]
-    }
-  },
+    }, image: "/poi-images/kfar-saba-cities-v2.webp"},
   {
     id: "herzliya-cities-v2",
     type: "city",
@@ -424,8 +408,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1924 gegründet, benannt nach Theodor Herzl.", "Rund 100.000 Einwohner.", "Eine der wohlhabendsten Städte Israels.", "Größter Yachthafen Israels in Herzlia Pituach.", "Sitz von Microsoft, Apple, Google und IBM Israel.", "Reichman University seit 1994.", "Herzliya-Konferenz, wichtiges Sicherheitsforum.", "12 km nördlich von Tel Aviv an der Küste."]
-    }
-  },
+    }, image: "/poi-images/herzliya-cities-v2.webp"},
   {
     id: "hadera-cities-v2",
     type: "city",
@@ -449,8 +432,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1891 von russisch-jüdischen Einwanderern gegründet.", "Rund 100.000 Einwohner.", "Über die Hälfte der Pioniere starb anfangs an Malaria.", "Sümpfe mit australischen Eukalyptusbäumen trockengelegt.", "Orot-Rabin-Kraftwerk, größtes Kohlekraftwerk Israels.", "Geographisches Bindeglied zwischen Tel Aviv und Haifa.", "Khan Hadera Museum dokumentiert die Pioniergeschichte.", "Liegt im nördlichen Scharon."]
-    }
-  },
+    }, image: "/poi-images/hadera-cities-v2.webp"},
   {
     id: "modiin-cities-v2",
     type: "city",
@@ -474,8 +456,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1996 als geplante Stadt gegründet.", "Rund 95.000 Einwohner, eine der jüngsten Städte.", "Liegt zwischen Tel Aviv und Jerusalem.", "Entworfen vom Architekten Moshe Safdie.", "Name verweist auf die antiken Makkabäer.", "Heimatort der Chanukka-Geschichte aus dem 2. Jh. v. Chr.", "Bekannt für hochwertige Stadtplanung und Grünflächen.", "Schnell wachsende Pendlerstadt."]
-    }
-  },
+    }, image: "/poi-images/modiin-cities-v2.webp"},
   {
     id: "nazareth-cities-v2",
     type: "city",
@@ -499,8 +480,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 78.000 Einwohner, größte arabische Stadt Israels.", "Heimatort Jesu Christi und der Heiligen Familie.", "Verkündigungsbasilika 1969 fertiggestellt, größte Kirche des Nahen Ostens.", "Etwa 70 % Muslime, 30 % Christen.", "Liegt in den Bergen Niedergaliläas.", "Maria-Brunnen, traditioneller Ort der Verkündigung.", "25 km östlich von Haifa.", "Wichtigster christlicher Pilgerort Israels."]
-    }
-  },
+    }, image: "/poi-images/nazareth-cities-v2.webp"},
   {
     id: "lod-cities-v2",
     type: "city",
@@ -524,8 +504,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Über 7.000 Jahre kontinuierlich bewohnt.", "Rund 80.000 Einwohner.", "Ben-Gurion-Flughafen seit 1936, größter Flughafen Israels.", "Im Neuen Testament als Lydda erwähnt.", "Grab des heiligen Georg in der Georgskirche.", "Lod-Mosaik aus dem 3. Jh. n. Chr. weltberühmt.", "Etwa ein Drittel arabische Bevölkerung.", "15 km südöstlich von Tel Aviv."]
-    }
-  },
+    }, image: "/poi-images/lod-cities-v2.webp"},
   {
     id: "ramla-cities-v2",
     type: "city",
@@ -549,8 +528,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["716 n. Chr. von Kalif Sulayman gegründet.", "Einzige Stadt Israels aus der frühislamischen Zeit.", "Rund 78.000 Einwohner.", "Pool der Bögen aus dem 8. Jh. unterirdisch.", "Weißer Turm aus mamlukischer Zeit (1318).", "Gemischte Bevölkerung aus Juden, Muslimen, Christen, Karäern.", "Marco Polo und Ibn Battuta besuchten die Stadt.", "20 km südöstlich von Tel Aviv."]
-    }
-  },
+    }, image: "/poi-images/ramla-cities-v2.webp"},
   {
     id: "raanana-cities-v2",
     type: "city",
@@ -574,8 +552,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1922 von amerikanisch-jüdischen Einwanderern gegründet.", "Rund 75.000 Einwohner.", "Name bedeutet „frisch“ oder „grün“.", "Sitz von SAP, Microsoft, Texas Instruments Israel.", "Große englischsprachige Einwanderergemeinde.", "„Perle der Scharon-Ebene“ genannt.", "Bekannt für hohe Lebensqualität und Grünflächen.", "20 km nordöstlich von Tel Aviv."]
-    }
-  },
+    }, image: "/poi-images/raanana-cities-v2.webp"},
   {
     id: "rahat-cities-v2",
     type: "city",
@@ -599,8 +576,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1972 als geplante Siedlung gegründet.", "Rund 75.000 Einwohner, größte beduinische Stadt der Welt.", "1994 offiziell zur Stadt erhoben.", "Einzige Beduinengemeinde mit Stadtrang in Israel.", "Eine der höchsten Geburtenraten weltweit.", "Bewohner aus Tarabin-, Azazma- und Tiyaha-Stämmen.", "12 km nördlich von Be'er Scheva.", "Jährliches Beduinen-Festival mit traditioneller Kultur."]
-    }
-  },
+    }, image: "/poi-images/rahat-cities-v2.webp"},
   {
     id: "hod-hasharon-cities-v2",
     type: "city",
@@ -624,8 +600,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1964 durch Fusion von vier Moschawot gegründet.", "Rund 70.000 Einwohner.", "Name bedeutet „Pracht der Scharon“.", "Entstand aus Magdiel, Ramatajim, Hadar und Ramat Hadar.", "Älteste Gründungsmoschawa Magdiel von 1924.", "Teuerste Wohngegend mit Reitanlagen.", "Bewahrt ländlichen Charakter mit Grünflächen.", "16 km nordöstlich von Tel Aviv."]
-    }
-  },
+    }, image: "/poi-images/hod-hasharon-cities-v2.webp"},
   {
     id: "kiryat-ata-cities-v2",
     type: "city",
@@ -649,8 +624,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1925 als Kfar Ata von polnisch-jüdischer Organisation gegründet.", "Rund 60.000 Einwohner.", "Name aus Abkürzung „Atid Tachsisei“.", "1969 zur Stadt erhoben.", "Größte der Krajot, Vorstadtgemeinden Haifas.", "Textilfabrik ATA von 1934 bis 1985 berühmt.", "Lieferte Uniformen der israelischen Armee.", "10 km nordöstlich von Haifa."]
-    }
-  },
+    }, image: "/poi-images/kiryat-ata-cities-v2.webp"},
   {
     id: "nahariya-cities-v2",
     type: "city",
@@ -674,8 +648,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1934 von deutsch-jüdischen Einwanderern gegründet.", "Rund 60.000 Einwohner.", "Nördlichste Küstenstadt Israels.", "8 km südlich der libanesischen Grenze.", "Name bedeutet „Fluss“ nach dem Bach Ga'aton.", "Beiname „Klein-Wien“ wegen mitteleuropäischer Kultur.", "Western Galilee Medical Center vor Ort.", "Beliebtes Sommerurlaubsziel mit Promenade."]
-    }
-  },
+    }, image: "/poi-images/nahariya-cities-v2.webp"},
   {
     id: "eilat-cities-v2",
     type: "city",
@@ -699,8 +672,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 53.000 Einwohner, südlichste Stadt Israels.", "Am 10. März 1949 für Israel gesichert.", "Liegt am Golf von Akaba am Roten Meer.", "Über 360 Sonnentage pro Jahr.", "Korallenriffe und Coral Beach Naturreservat.", "Freie Wirtschaftszone ohne Mehrwertsteuer.", "Grenzt an Jordanien (Akaba) und nahe Ägypten.", "Antikes Etzion-Geber, Hafen König Salomos."]
-    }
-  },
+    }, image: "/poi-images/eilat-cities-v2.webp"},
   {
     id: "afula-cities-v2",
     type: "city",
@@ -724,8 +696,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1925 von der American Zionist Commonwealth gegründet.", "Rund 55.000 Einwohner.", "Hauptstadt der Jesreelebene.", "In den Amarna-Briefen aus dem 14. Jh. v. Chr. erwähnt.", "HaEmek Medical Center, eines der größten im Norden.", "Wichtiger regionaler Verkehrsknotenpunkt.", "Umgeben von fruchtbaren Feldern.", "Auf halbem Weg zwischen Haifa und See Genezareth."]
-    }
-  },
+    }, image: "/poi-images/afula-cities-v2.webp"},
   {
     id: "tiberias-cities-v2",
     type: "city",

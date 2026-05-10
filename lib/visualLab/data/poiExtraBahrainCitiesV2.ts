@@ -62,8 +62,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A népesség több mint 50%-a külföldi.",
         "A King Fahd Causeway egy 25 km hosszú híd, amely összeköti Bahreint Szaúd-Arábiával."
       ]
-    }
-  },
+    }, image: "/poi-images/manama-cities-v2.webp"},
   {
     id: "riffa-cities-v2",
     type: "city",
@@ -124,8 +123,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A Bahraini Katonai Múzeum is a város közelében található.",
         "Kelet-Riffa hagyományosabb piacokkal rendelkezik, míg Nyugat-Riffa modern butikokkal."
       ]
-    }
-  },
+    }, image: "/poi-images/riffa-cities-v2.webp"},
   {
     id: "muharraq-cities-v2",
     type: "city",
@@ -186,8 +184,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Hagyományosan a halászat és a gyöngyhalászat volt a gazdaság alapja.",
         "A városban található a történelmi Arad erőd is."
       ]
-    }
-  },
+    }, image: "/poi-images/muharraq-cities-v2.webp"},
   {
     id: "hamad-town-cities-v2",
     type: "city",
@@ -248,8 +245,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Közel fekszik a Szahír sivataghoz és a híres „Élet Fájához”.",
         "A város tervezése a hatékony közlekedésre és a közösségi terekre összpontosított."
       ]
-    }
-  },
+    }, image: "/poi-images/hamad-town-cities-v2.webp"},
   {
     id: "a-ali-cities-v2",
     type: "city",
@@ -310,8 +306,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A modern A'ali egy jómódú lakóövezet, nagy villákkal.",
         "A helyi agyagot használják a hagyományos kerámiák készítéséhez."
       ]
-    }
-  },
+    }, image: "/poi-images/a-ali-cities-v2.webp"},
   {
     id: "isa-town-cities-v2",
     type: "city",
@@ -367,8 +362,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A lakosság jómódú, sok a tágas villa és zöldterület.",
         "Itt található a Bahreini Közlekedési Igazgatóság székhelye."
       ]
-    }
-  },
+    }, image: "/poi-images/isa-town-cities-v2.webp"},
   {
     id: "sitra-cities-v2",
     type: "city",
@@ -424,8 +418,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A lakosság nagymértékben növekedett az elmúlt évtizedekben.",
         "A Sitra Club egy népszerű helyi sportegyesület."
       ]
-    }
-  },
+    }, image: "/poi-images/sitra-cities-v2.webp"},
   {
     id: "budaiya-cities-v2",
     type: "city",
@@ -486,8 +479,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Az elmúlt években a lakóövezetek jelentősen bővültek.",
         "A terület hagyományosan a datolya- és zöldségtermesztésről volt híres."
       ]
-    }
-  },
+    }, image: "/poi-images/budaiya-cities-v2.webp"},
   {
     id: "jidhafs-cities-v2",
     type: "city",
@@ -548,8 +540,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Ma már inkább egy sűrűn lakott lakó- és kereskedelmi negyed.",
         "A terjeszkedés ellenére néhány régebbi, hagyományosabb része megmaradt."
       ]
-    }
-  },
+    }, image: "/poi-images/jidhafs-cities-v2.webp"},
   {
     id: "al-malkiya-cities-v2",
     type: "city",
@@ -610,8 +601,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Csendesebb, vidéki hangulatot kínál a forgalmas városokkal szemben.",
         "A helyi strandok népszerűek a helyiek körében."
       ]
-    }
-  },
+    }, image: "/poi-images/al-malkiya-cities-v2.webp"},
   {
     id: "al-hidd-cities-v2",
     type: "city",
@@ -672,8 +662,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Az újabb fejlesztések modern lakóparkokat is magukban foglalnak.",
         "A part menti sétánya népszerű a helyiek körében."
       ]
-    }
-  },
+    }, image: "/poi-images/al-hidd-cities-v2.webp"},
   {
     id: "diraz-cities-v2",
     type: "city",
@@ -786,8 +775,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Számos nagykövetség és diplomáciai képviselet található a közelben.",
         "A Karbabad strand könnyen elérhető innen."
       ]
-    }
-  },
+    }, image: "/poi-images/sanabis-cities-v2.webp"},
   {
     id: "tubli-cities-v2",
     type: "city",
@@ -838,8 +826,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A Nabih Saleh sziget a Tubli-öbölben található.",
         "A város gyorsan növekszik, mint Manáma egyik elővárosa."
       ]
-    }
-  },
+    }, image: "/poi-images/tubli-cities-v2.webp"},
   {
     id: "saar-cities-v2",
     type: "city",
@@ -900,8 +887,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A területen luxusvillák és modern lakóparkok dominálnak.",
         "Csendes, családbarát környezetet kínál."
       ]
-    }
-  },
+    }, image: "/poi-images/saar-cities-v2.webp"},
   {
     id: "al-dair-cities-v2",
     type: "city",
@@ -962,8 +948,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A szomszédos Samaheej faluval együtt egy történelmi régiót alkot.",
         "A helyi gazdaság egykor a datolyatermesztésre és a halászatra épült."
       ]
-    }
-  },
+    }, image: "/poi-images/al-dair-cities-v2.webp"},
   {
     id: "busaiteen-cities-v2",
     type: "city",
@@ -1138,8 +1123,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A Zallaq-források természetes édesvízforrások voltak a területen.",
         "Népszerű hely a vízi sportok és a tengerparti pihenés számára."
       ]
-    }
-  },
+    }, image: "/poi-images/zallaq-cities-v2.webp"},
   {
     id: "awali-cities-v2",
     type: "city",
@@ -1200,8 +1184,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Eredetileg zárt közösség volt a BAPCO alkalmazottai számára.",
         "Ma már bahreini családok is lakják, de megőrizte egyedi karakterét."
       ]
-    }
-  },
+    }, image: "/poi-images/awali-cities-v2.webp"},
   {
     id: "askar-cities-v2",
     type: "city",
@@ -1257,8 +1240,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A terület a közelmúltban ipari fejlődésen ment keresztül.",
         "Kontrasztot kínál a sziget északi, sűrűn lakott területeivel."
       ]
-    }
-  },
+    }, image: "/poi-images/askar-cities-v2.webp"},
   {
     id: "jaww-cities-v2",
     type: "city",
@@ -1376,8 +1358,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A modern falu egy csendes lakóövezet.",
         "A neve ellenére a helynek nincs köze a 'barbárokhoz'."
       ]
-    }
-  },
+    }, image: "/poi-images/barbar-cities-v2.webp"},
   {
     id: "bani-jamra-cities-v2",
     type: "city",
@@ -1433,8 +1414,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Ma már csak néhány aktív szövőműhely működik.",
         "A falu csendes, vidéki hangulatú."
       ]
-    }
-  },
+    }, image: "/poi-images/bani-jamra-cities-v2.webp"},
   {
     id: "karrana-cities-v2",
     type: "city",
@@ -1485,8 +1465,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Jó példa a vidéki élet városivá válására Bahreinben.",
         "Csendesebb alternatívát kínál a főváros nyüzsgésével szemben."
       ]
-    }
-  },
+    }, image: "/poi-images/karrana-cities-v2.webp"},
   {
     id: "salmabad-cities-v2",
     type: "city",
@@ -1537,8 +1516,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Jelentősen hozzájárul az ország gazdaságához.",
         "A terület a gyors iparosodás szimbóluma Bahreinben."
       ]
-    }
-  },
+    }, image: "/poi-images/salmabad-cities-v2.webp"},
   {
     id: "karbabad-cities-v2",
     type: "city",
@@ -1594,8 +1572,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "A helyiek erős köteléket ápolnak a tengerrel.",
         "Csendesebb, mint a közeli modern városrészek."
       ]
-    }
-  },
+    }, image: "/poi-images/karbabad-cities-v2.webp"},
   {
     id: "nabih-saleh-cities-v2",
     type: "city",
@@ -1656,8 +1633,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Egy rövid híd köti össze a fő szigettel.",
         "Kulturális és spirituális öröksége jelentős."
       ]
-    }
-  },
+    }, image: "/poi-images/nabih-saleh-cities-v2.webp"},
   {
     id: "arad-cities-v2",
     type: "city",
@@ -1708,8 +1684,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Gyorsan fejlődő, népszerű lakóövezet.",
         "Hidakkal kapcsolódik Manámához és Muharrak többi részéhez."
       ]
-    }
-  },
+    }, image: "/poi-images/arad-cities-v2.webp"},
   {
     id: "galali-cities-v2",
     type: "city",

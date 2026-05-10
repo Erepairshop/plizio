@@ -1,0 +1,73 @@
+{
+  "lang": "hu",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "filsah-textile-mill-economic-v2",
+      "description": "A FILSAH textilüzem Koudougou ipari életének egyik fontos szereplője. A gyapot feldolgozásával a helyi alapanyagból készülő textilipart erősíti.",
+      "facts": ["Textilüzem Koudougouban", "Gyapotfeldolgozással foglalkozik", "Az ipari munkahelyeket bővíti"]
+    },
+    {
+      "id": "mana-gold-mine-economic-v2",
+      "description": "A Mana aranybánya Burkina Faso nyugati részén található kitermelőhely. A környéken az aranybányászat a legfontosabb gazdasági tevékenységek közé tartozik.",
+      "facts": ["Nyugati aranybánya", "Kitermelőipari központ", "A helyi gazdaság része"]
+    },
+    {
+      "id": "taparko-gold-mine-economic-v2",
+      "description": "A Taparko aranybánya az ország északi-középső térségének egyik ismert bányája. A kitermelés mellett a kapcsolódó infrastruktúra is fontos szerepet kap.",
+      "facts": ["Aranykitermelő bánya", "Északi-középső elhelyezkedés", "Infrastruktúra-igényes projekt"]
+    },
+    {
+      "id": "bissa-gold-mine-economic-v2",
+      "description": "A Bissa aranybánya Burkina Faso egyik jelentős ipari beruházása. A bányászati tevékenység bevételt és munkahelyeket hoz a térségnek.",
+      "facts": ["Nagy aranybánya", "Munkahelyeket teremt", "A bányászati exportot támogatja"]
+    },
+    {
+      "id": "karma-gold-mine-economic-v2",
+      "description": "A Karma aranybánya a száraz északi térség egyik fontos nyersanyagforrása. A bányászat itt a vidéki gazdaság egyik meghatározó eleme.",
+      "facts": ["Északi aranybánya", "Nyersanyagforrás", "Vidéki gazdaságot támogat"]
+    },
+    {
+      "id": "yaramoko-gold-mine-economic-v2",
+      "description": "A Yaramoko aranybánya a nyugati országrészben működő modern kitermelőhely. A magas értékű ércek feldolgozásában játszik szerepet.",
+      "facts": ["Modern aranybánya", "Nyugati fekvésű", "Érckitermelést végez"]
+    },
+    {
+      "id": "ziga-water-treatment-economic-v2",
+      "description": "A Ziga víztisztító létesítmény a főváros vízellátásának egyik alapja. A kezelésekkel ivóvíz kerülhet a gyorsan növekvő városi térségbe.",
+      "facts": ["Vízkezelő központ", "Ouagadougou ellátását segíti", "Ivóvíz-biztonsági szerepe van"]
+    },
+    {
+      "id": "cimfaso-cement-plant-economic-v2",
+      "description": "A CIMFASO cementgyár az ország építőipari ellátásának fontos bázisa. A nagyvárosi és regionális fejlesztésekhez ad alapanyagot.",
+      "facts": ["Cementgyár Burkina Fasóban", "Az építőipart szolgálja", "Nagy fejlesztési háttér"]
+    },
+    {
+      "id": "sofitex-koudougou-economic-v2",
+      "description": "A SOFITEX koudougou-i egysége a gyapotfeldolgozási lánc egyik fontos állomása. A város ipari szerepét a mezőgazdasági termeléshez kapcsolja.",
+      "facts": ["Gyapotfeldolgozó egység", "Koudougou iparához tartozik", "A termelőket is támogatja"]
+    },
+    {
+      "id": "wahgnion-gold-mine-economic-v2",
+      "description": "A Wahgnion aranybánya az ország délnyugati részének egyik ismert bányászati helyszíne. A kitermelés a helyi munkaerő és a logisztika szempontjából is jelentős.",
+      "facts": ["Délnyugati aranybánya", "Bányászati munkahelyek", "Fontos logisztikai pont"]
+    },
+    {
+      "id": "pouytenga-cattle-market-economic-v2",
+      "description": "A Pouytenga szarvasmarha-piac az egyik fontos állatkereskedelmi központ az ország középső részén. A piac a vidéki állattartók és a kereskedők találkozóhelye.",
+      "facts": ["Állatkereskedelmi piac", "Központi fekvés", "A pásztorgazdaságot segíti"]
+    },
+    {
+      "id": "sonabhy-péni-depot-economic-v2",
+      "description": "A SONABHY péni-i telepe üzemanyag-elosztási szerepet tölt be a délnyugati térségben. A készletezés és a szállítás biztonságát erősíti.",
+      "facts": ["Üzemanyag-tároló telep", "Délnyugati ellátási pont", "A logisztikát támogatja"]
+    }
+  ]
+}

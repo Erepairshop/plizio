@@ -35,8 +35,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "It was built in the late 19th century.",
         "Consists of four towers and thick mud walls."
       ]
-    }
-  },
+    }, image: "/poi-images/jahra-red-fort-history-v2.webp"},
   {
     id: "qurain-martyrs-museum-history-v2",
     type: "historical-site",
@@ -71,8 +70,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "The building still features bullet holes.",
         "Commemorates the Al-Messilah resistance group."
       ]
-    }
-  },
+    }, image: "/poi-images/qurain-martyrs-museum-history-v2.webp"},
   {
     id: "seif-palace-history-v2",
     type: "historical-site",
@@ -107,8 +105,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "It was built in 1904.",
         "The clock tower is decorated with blue tiles."
       ]
-    }
-  },
+    }, image: "/poi-images/seif-palace-history-v2.webp"},
   {
     id: "dickson-house-history-v2",
     type: "historical-site",
@@ -143,8 +140,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "It was built in the late 19th century.",
         "Named after British officer H.R.P. Dickson."
       ]
-    }
-  },
+    }, image: "/poi-images/dickson-house-history-v2.webp"},
   {
     id: "failaka-hellenistic-ruins-history-v2",
     type: "ruin",
@@ -179,8 +175,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "They date back to the time of Alexander the Great.",
         "Include ancient temples and fortification walls."
       ]
-    }
-  },
+    }, image: "/poi-images/failaka-hellenistic-ruins-history-v2.webp"},
   {
     id: "mutla-ridge-battlefield-history-v2",
     type: "battlefield",
@@ -251,8 +246,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "The old wall was constructed in 1920.",
         "It was carefully restored later."
       ]
-    }
-  },
+    }, image: "/poi-images/jahra-gate-history-v2.webp"},
   {
     id: "shami-gate-history-v2",
     type: "monument",
@@ -287,8 +281,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "Was part of the third Kuwaiti city wall.",
         "Built in the early 20th century."
       ]
-    }
-  },
+    }, image: "/poi-images/shami-gate-history-v2.webp"},
   {
     id: "naif-palace-history-v2",
     type: "historical-site",
@@ -359,8 +352,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "It was built in the 19th century.",
         "Features classic Islamic courtyard architecture."
       ]
-    }
-  },
+    }, image: "/poi-images/beit-al-badr-history-v2.webp"},
   {
     id: "failaka-portuguese-fort-history-v2",
     type: "ruin",
@@ -395,8 +387,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "Reflects the colonial history of Kuwait.",
         "Located on the coast of Failaka Island."
       ]
-    }
-  },
+    }, image: "/poi-images/failaka-portuguese-fort-history-v2.webp"},
   {
     id: "sheikh-khazal-palace-ruins-history-v2",
     type: "ruin",
@@ -431,8 +422,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "It was built in 1916.",
         "Features a blend of Persian and local architecture."
       ]
-    }
-  },
+    }, image: "/poi-images/sheikh-khazal-palace-ruins-history-v2.webp"},
   {
     id: "kuwait-towers-monument-history-v2",
     type: "monument",
@@ -467,8 +457,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "They were officially opened in 1979.",
         "They were extensively restored after the war."
       ]
-    }
-  },
+    }, image: "/poi-images/kuwait-towers-monument-history-v2.webp"},
   {
     id: "kazma-battlefield-history-v2",
     type: "battlefield",
@@ -503,8 +492,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "Took place between the Rashidun Caliphate and the Sasanian Empire.",
         "The Muslim commander was Khalid ibn al-Walid."
       ]
-    }
-  },
+    }, image: "/poi-images/kazma-battlefield-history-v2.webp"},
   {
     id: "bahra-1-settlement-history-v2",
     type: "ruin",
@@ -575,8 +563,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "Typical of 1930s architecture.",
         "Built from sea rocks and mud bricks."
       ]
-    }
-  },
+    }, image: "/poi-images/beit-ghaith-history-v2.webp"},
   {
     id: "shuwaikh-archaeological-site-history-v2",
     type: "ruin",
@@ -611,8 +598,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "The findings include the remains of a church.",
         "Testifies to the pre-Islamic diversity of the region."
       ]
-    }
-  },
+    }, image: "/poi-images/shuwaikh-archaeological-site-history-v2.webp"},
   {
     id: "liberation-monument-history-v2",
     type: "monument",
@@ -647,8 +633,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "It is dedicated to the international coalition.",
         "Located in the heart of the capital."
       ]
-    }
-  },
+    }, image: "/poi-images/liberation-monument-history-v2.webp"},
   {
     id: "al-hashemi-ii-monument-history-v2",
     type: "monument",
@@ -683,8 +668,7 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
         "The largest wooden dhow ship in the world.",
         "Listed in the Guinness Book of Records."
       ]
-    }
-  },
+    }, image: "/poi-images/al-hashemi-ii-monument-history-v2.webp"},
   {
     id: "al-zour-village-ruins-history-v2",
     type: "ruin",

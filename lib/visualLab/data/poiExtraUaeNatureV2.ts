@@ -34,8 +34,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "Located in the Hajar Mountains.",
         "Popular among hikers and adventurers."
       ]
-    }
-  },
+    }, image: "/poi-images/jebel-jais-nature-v2.webp"},
   {
     id: "jebel-hafeet-nature-v2",
     type: "mountain",
@@ -69,8 +68,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "The road to the summit has 60 turns.",
         "Hosts prehistoric tombs at its base."
       ]
-    }
-  },
+    }, image: "/poi-images/jebel-hafeet-nature-v2.webp"},
   {
     id: "wadi-wurayah-national-park-nature-v2",
     type: "national-park",
@@ -139,8 +137,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "A popular spot for kayaking.",
         "Home to flamingos and herons."
       ]
-    }
-  },
+    }, image: "/poi-images/mangrove-national-park-nature-v2.webp"},
   {
     id: "hatta-dam-nature-v2",
     type: "lake",
@@ -174,8 +171,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "The turquoise water sharply contrasts with the mountains.",
         "Pedal boats and kayaks can be rented here."
       ]
-    }
-  },
+    }, image: "/poi-images/hatta-dam-nature-v2.webp"},
   {
     id: "dubai-desert-conservation-reserve-nature-v2",
     type: "national-park",
@@ -209,8 +205,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "A sanctuary for the Arabian oryx.",
         "Offers controlled and sustainable desert safaris."
       ]
-    }
-  },
+    }, image: "/poi-images/dubai-desert-conservation-reserve-nature-v2.webp"},
   {
     id: "al-wathba-wetland-reserve-nature-v2",
     type: "national-park",
@@ -244,8 +239,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "Founded by Sheikh Zayed in 1998.",
         "Listed as a Ramsar wetland site."
       ]
-    }
-  },
+    }, image: "/poi-images/al-wathba-wetland-reserve-nature-v2.webp"},
   {
     id: "ras-al-khor-wildlife-sanctuary-nature-v2",
     type: "national-park",
@@ -279,8 +273,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "Features three free bird-watching hides.",
         "The name translates to Cape of the Creek."
       ]
-    }
-  },
+    }, image: "/poi-images/ras-al-khor-wildlife-sanctuary-nature-v2.webp"},
   {
     id: "jubail-mangrove-park-nature-v2",
     type: "forest",
@@ -314,8 +307,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "Serves to protect the coastline from erosion.",
         "During high tide, fish and crabs can be seen in the water."
       ]
-    }
-  },
+    }, image: "/poi-images/jubail-mangrove-park-nature-v2.webp"},
   {
     id: "al-marmoom-desert-conservation-reserve-nature-v2",
     type: "national-park",
@@ -349,8 +341,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "Home to one of the largest populations of Arabian oryx.",
         "The popular Love Lake is located within the reserve."
       ]
-    }
-  },
+    }, image: "/poi-images/al-marmoom-desert-conservation-reserve-nature-v2.webp"},
   {
     id: "jebel-faya-nature-v2",
     type: "mountain",
@@ -454,8 +445,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "Attracts many mountain bikers and trail runners.",
         "Natural pools fill up after heavy rains."
       ]
-    }
-  },
+    }, image: "/poi-images/wadi-shawka-nature-v2.webp"},
   {
     id: "love-lake-dubai-nature-v2",
     type: "lake",
@@ -489,8 +479,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "A popular spot for picnics and watching sunsets.",
         "There are over 16,000 trees and plants in the surrounding area."
       ]
-    }
-  },
+    }, image: "/poi-images/love-lake-dubai-nature-v2.webp"},
   {
     id: "al-zorah-nature-reserve-nature-v2",
     type: "national-park",
@@ -559,8 +548,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "Houses rare and endangered bird species of the Arabian Peninsula.",
         "Features air-conditioned viewing rooms for visitors."
       ]
-    }
-  },
+    }, image: "/poi-images/wasit-wetland-centre-nature-v2.webp"},
   {
     id: "wadi-bih-nature-v2",
     type: "river",
@@ -594,8 +582,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "A popular spot for challenging hikes.",
         "The limestone rocks are millions of years old."
       ]
-    }
-  },
+    }, image: "/poi-images/wadi-bih-nature-v2.webp"},
   {
     id: "jebel-yibir-nature-v2",
     type: "mountain",
@@ -629,8 +616,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "The actual summit is not open to the public.",
         "Offers views as far as the Persian Gulf on clear days."
       ]
-    }
-  },
+    }, image: "/poi-images/jebel-yibir-nature-v2.webp"},
   {
     id: "al-wathba-salt-lake-nature-v2",
     type: "lake",
@@ -664,8 +650,7 @@ export const poiExtraUaeNatureV2: POI[] = [
         "An extremely popular subject for photographers.",
         "The lake is located not far from the desert highway."
       ]
-    }
-  },
+    }, image: "/poi-images/al-wathba-salt-lake-nature-v2.webp"},
   {
     id: "mushrif-national-park-nature-v2",
     type: "national-park",

@@ -1,0 +1,48 @@
+{
+  "lang": "hu",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dedougou-relief-v2",
+      "description": "Dédougou térsége inkább sík, enyhén hullámos felszínéről ismert. A táj a nyugat-burkinai szavannavidék jellegzetes része.",
+      "facts": ["Enyhén hullámos felszín", "Nyugati szavanna", "Mezőgazdasághoz is kötődik"]
+    },
+    {
+      "id": "gourcy-relief-v2",
+      "description": "Gourcy környéke szárazabb, keményebb domborzatú vidék. A felszín a Száhel peremének tájképét idézi.",
+      "facts": ["Száraz táj", "Saheli peremvidék", "Kövesebb domborzat"]
+    },
+    {
+      "id": "boulsa-relief-v2",
+      "description": "Boulsa környéke átmeneti, mozaikos felszínű terület. A síkságok és kisebb magaslatok váltakozása jellemzi.",
+      "facts": ["Mozaikos domborzat", "Síkság és magaslatok", "Közép-burkinai táj"]
+    },
+    {
+      "id": "tanguieta-relief-v2",
+      "description": "Tanguiéta térsége határközeli, tagolt tájként jelenik meg. A domborzat itt a környező természeti zónák átmenetét mutatja.",
+      "facts": ["Határközeli táj", "Tagolt felszín", "Átmeneti zóna"]
+    },
+    {
+      "id": "bogande-relief-v2",
+      "description": "Bogandé környéke inkább száraz, síkabb táj, kisebb kiemelkedésekkel. A helyi domborzat jól illeszkedik a keleti vidék karakteréhez.",
+      "facts": ["Száraz vidék", "Síkabb felszín", "Keleti tájkarakter"]
+    },
+    {
+      "id": "pissila-relief-v2",
+      "description": "Pissila környezete enyhén hullámos, szavannás felszín. A táj a közép-burkinai átmeneti övezethez tartozik.",
+      "facts": ["Enyhén hullámos felszín", "Szavannás táj", "Átmeneti övezet"]
+    },
+    {
+      "id": "gorom-gorom-relief-v2",
+      "description": "Gorom-Gorom környéke a száraz északi táj egyik jellegzetes domborzati egysége. A síkabb felszínt kisebb magaslatok és szélformálta területek tagolják.",
+      "facts": ["Északi száraz táj", "Kisebb magaslatok", "Szélformálta felszín"]
+    }
+  ]
+}

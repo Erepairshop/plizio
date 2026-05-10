@@ -23,8 +23,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["A libanoni import fő kapuja", "2020-ban pusztító robbanás érte", "Hatalmas konténerterminállal rendelkezik", "Jelentős munkáltató a régióban"],
       ro: ["Principala poartă pentru importurile libaneze", "A suferit o explozie devastatoare în 2020", "Are un terminal mare de containere", "Angajator major în regiune"],
       en: ["Main gateway for Lebanese imports", "Suffered a devastating explosion in 2020", "Has a large container terminal", "Major employer in the region"]
-    }
-  },
+    }, image: "/poi-images/port-of-beirut-economic-v2.webp"},
   {
     id: "port-of-tripoli-economic-v2",
     type: "port",
@@ -47,8 +46,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Az ország második legnagyobb kikötője", "Szabadkereskedelmi zónává fejlesztik", "Tehermentesíti a bejrúti kikötőt", "Fontos Észak-Libanon számára"],
       ro: ["Al doilea port ca mărime din țară", "Planificat să devină zonă de liber schimb", "Decongestionază portul Beirut", "Important pentru nordul Libanului"],
       en: ["Second largest port in the country", "Planned expansion into a free trade zone", "Relieves the Port of Beirut", "Important for northern Lebanon"]
-    }
-  },
+    }, image: "/poi-images/port-of-tripoli-economic-v2.webp"},
   {
     id: "port-of-sidon-economic-v2",
     type: "port",
@@ -71,8 +69,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Jelentős halászkikötő", "A helyi part menti kereskedelmet szolgálja", "Történelmi jelentőségű az ókor óta", "Fontos a déli régió gazdaságának"],
       ro: ["Port de pescuit semnificativ", "Servește comerțului de coastă local", "Semnificație istorică din antichitate", "Important pentru economia sudului"],
       en: ["Significant fishing port", "Serves local coastal trade", "Historical significance since antiquity", "Important for the southern economy"]
-    }
-  },
+    }, image: "/poi-images/port-of-sidon-economic-v2.webp"},
   {
     id: "port-of-tyre-economic-v2",
     type: "port",
@@ -95,8 +92,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Ókori föníciai kikötő", "Ma a helyi halászat központja", "Turistákat és kereskedőket vonz", "Az UNESCO világörökségi terület része"],
       ro: ["Port fenician antic", "Astăzi un centru al pescuitului local", "Atrage turiști și comercianți", "Parte a zonei Patrimoniului Mondial UNESCO"],
       en: ["Ancient Phoenician port", "Today a center for local fishing", "Attracts tourists and traders", "Part of the UNESCO World Heritage area"]
-    }
-  },
+    }, image: "/poi-images/port-of-tyre-economic-v2.webp"},
   {
     id: "chekka-cement-plant-economic-v2",
     type: "industry",
@@ -119,8 +115,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Libanon legnagyobb cementgyártója", "Fontos az építőipar számára", "Több ezer munkahelyet biztosít", "A Cimenterie Nationale székhelye"],
       ro: ["Cel mai mare producător de ciment din Liban", "Important pentru industria construcțiilor", "Oferă mii de locuri de muncă", "Sediul Cimenterie Nationale"],
       en: ["Largest cement producer in Lebanon", "Important for the construction industry", "Provides thousands of jobs", "Headquarters of Cimenterie Nationale"]
-    }
-  },
+    }, image: "/poi-images/chekka-cement-plant-economic-v2.webp"},
   {
     id: "zouk-power-plant-economic-v2",
     type: "energy",
@@ -143,8 +138,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Fontos hőerőmű", "Bejrút áramellátását biztosítja", "Nehézolajjal működik", "Tervezik a földgázra való átállást"],
       ro: ["Centrală termoelectrică importantă", "Furnizează energie electrică pentru Beirut", "Funcționează cu păcură grea", "Planificat să treacă la gaze naturale"],
       en: ["Important thermal power plant", "Provides electricity for Beirut", "Operates on heavy fuel oil", "Planned to transition to natural gas"]
-    }
-  },
+    }, image: "/poi-images/zouk-power-plant-economic-v2.webp"},
   {
     id: "jieh-power-plant-economic-v2",
     type: "energy",
@@ -167,8 +161,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Hozzájárul a nemzeti áramellátáshoz", "A Földközi-tenger partján fekszik", "A háború alatt megsérült", "Fontos infrastruktúra Dél-Libanon számára"],
       ro: ["Contribuie la aprovizionarea națională cu energie electrică", "Situată pe coasta Mării Mediterane", "A fost avariată în timpul războiului", "Infrastructură importantă pentru sudul Libanului"],
       en: ["Contributes to the national power supply", "Located on the Mediterranean coast", "Was damaged during the war", "Important infrastructure for South Lebanon"]
-    }
-  },
+    }, image: "/poi-images/jieh-power-plant-economic-v2.webp"},
   {
     id: "litani-hydroelectric-plant-economic-v2",
     type: "energy",
@@ -191,8 +184,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Libanon legnagyobb vízerőműve", "A Litáni-folyó vizét hasznosítja", "Az öntözést is támogatja", "Csökkenti az olajfüggőséget"],
       ro: ["Cea mai mare instalație hidroelectrică din Liban", "Folosește apa râului Litani", "Sprijină și irigațiile", "Reduce dependența de petrol"],
       en: ["Largest hydroelectric facility in Lebanon", "Uses the water of the Litani River", "Also supports irrigation", "Reduces dependence on oil"]
-    }
-  },
+    }, image: "/poi-images/litani-hydroelectric-plant-economic-v2.webp"},
   {
     id: "dekwaneh-industrial-zone-economic-v2",
     type: "industry",
@@ -215,8 +207,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Fontos ipari központ Bejrút közelében", "A könnyűiparra összpontosít", "Jó közlekedési kapcsolatok", "Erősen növekvő ipartelep"],
       ro: ["Centru industrial important lângă Beirut", "Se concentrează pe industria ușoară", "Legături bune de transport", "Zonă industrială în creștere rapidă"],
       en: ["Important industrial hub near Beirut", "Focuses on light industry", "Good transport links", "Rapidly growing industrial park"]
-    }
-  },
+    }, image: "/poi-images/dekwaneh-industrial-zone-economic-v2.webp"},
   {
     id: "zahrani-oil-refinery-economic-v2",
     type: "industry",
@@ -239,8 +230,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Egykori aktív olajfinomító", "Ma fontos üzemanyagraktárként szolgál", "Stratégiai fekvésű a tengerparton", "Dél-Libanont látja el üzemanyaggal"],
       ro: ["Fostă rafinărie activă de petrol", "Astăzi servește ca depozit important de combustibil", "Situată strategic pe coastă", "Aprovizionează sudul Libanului cu combustibil"],
       en: ["Former active oil refinery", "Today serves as an important fuel depot", "Strategically located on the coast", "Supplies South Lebanon with fuel"]
-    }
-  },
+    }, image: "/poi-images/zahrani-oil-refinery-economic-v2.webp"},
   {
     id: "beirut-airport-free-trade-zone-economic-v2",
     type: "trade-hub",
@@ -263,8 +253,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Elősegíti a nemzetközi kereskedelmet", "Adókedvezményeket kínál a vállalatoknak", "A légi teherszállítás fontos csomópontja", "Külföldi befektetőket vonz"],
       ro: ["Promovează comerțul internațional", "Oferă stimulente fiscale pentru companii", "Un nod important pentru transportul aerian", "Atrage investitori străini"],
       en: ["Promotes international trade", "Offers tax incentives for companies", "Important hub for air freight", "Attracts foreign investors"]
-    }
-  },
+    }, image: "/poi-images/beirut-airport-free-trade-zone-economic-v2.webp"},
   {
     id: "port-of-jounieh-economic-v2",
     type: "port",
@@ -287,8 +276,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Népszerű jachtkikötő", "Fontos a turisztikai ágazat számára", "Összeköti a szabadidőt és a gazdaságot", "A tehetős látogatók vonzereje"],
       ro: ["Port de agrement popular", "Important pentru sectorul turistic", "Combină agrementul cu economia", "Punct de atracție pentru vizitatorii bogați"],
       en: ["Popular marina", "Important for the tourism sector", "Combines leisure and economy", "Attraction for wealthy visitors"]
-    }
-  },
+    }, image: "/poi-images/port-of-jounieh-economic-v2.webp"},
   {
     id: "beqaa-agro-industry-center-economic-v2",
     type: "industry",
@@ -311,8 +299,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Az élelmiszergyártás központja", "Híres libanoni borászatok otthona", "Az ország legfontosabb agráripari központja", "Friss termékekkel látja el a hazai piacot"],
       ro: ["Centrul producției alimentare", "Sediul unor podgorii libaneze celebre", "Cel mai important hub agricol din țară", "Aprovizionează piața națională cu produse proaspete"],
       en: ["Center of food production", "Home to famous Lebanese wineries", "Most important agricultural hub in the country", "Supplies the national market with fresh produce"]
-    }
-  },
+    }, image: "/poi-images/beqaa-agro-industry-center-economic-v2.webp"},
   {
     id: "sibline-cement-factory-economic-v2",
     type: "industry",
@@ -335,8 +322,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Nagy munkaadó a Chouf régióban", "Építőanyagokat állít elő a hazai piacra", "A libanoni nehézipar része", "Fontos az újjáépítési projektekhez"],
       ro: ["Angajator important în regiunea Chouf", "Produce materiale de construcție pentru piața internă", "Face parte din industria grea libaneză", "Important pentru proiectele de reconstrucție"],
       en: ["Major employer in the Chouf region", "Produces building materials for the domestic market", "Part of the Lebanese heavy industry", "Important for reconstruction projects"]
-    }
-  },
+    }, image: "/poi-images/sibline-cement-factory-economic-v2.webp"},
   {
     id: "tripoli-free-economic-zone-economic-v2",
     type: "trade-hub",
@@ -359,8 +345,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Adómentességet kínál a befektetőknek", "Célja az északi gazdaság fellendítése", "Közvetlen kapcsolat a kikötővel", "Fókuszban a logisztika és az ipar"],
       ro: ["Oferă scutiri de taxe pentru investitori", "Menită să stimuleze economia din nord", "Legătură directă cu portul", "Accent pe logistică și industrie"],
       en: ["Offers tax exemptions for investors", "Aimed at boosting the northern economy", "Direct connection to the port", "Focus on logistics and industry"]
-    }
-  },
+    }, image: "/poi-images/tripoli-free-economic-zone-economic-v2.webp"},
   {
     id: "deir-ammar-power-plant-economic-v2",
     type: "energy",
@@ -383,8 +368,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Kulcsfontosságú erőmű Észak-Libanonban", "Tripoli közelében található", "Fosszilis tüzelőanyaggal működik", "Az állami villamosenergia-hálózat része"],
       ro: ["Centrală electrică cheie pentru nordul Libanului", "Situată lângă Tripoli", "Funcționează cu combustibili fosili", "Face parte din rețeaua electrică de stat"],
       en: ["Key power plant for northern Lebanon", "Located near Tripoli", "Operates on fossil fuels", "Part of the state electricity grid"]
-    }
-  },
+    }, image: "/poi-images/deir-ammar-power-plant-economic-v2.webp"},
   {
     id: "choueifat-industrial-area-economic-v2",
     type: "industry",
@@ -407,8 +391,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Bejrúttól délre található", "Sokoldalú ipari termelés", "Több ezer ingázónak biztosít munkát", "A fogyasztási cikkek fontos központja"],
       ro: ["Situată la sud de Beirut", "Producție industrială versatilă", "Oferă locuri de muncă pentru mii de navetiști", "Centru important pentru bunuri de larg consum"],
       en: ["Located south of Beirut", "Versatile industrial production", "Provides jobs for thousands of commuters", "Important center for consumer goods"]
-    }
-  },
+    }, image: "/poi-images/choueifat-industrial-area-economic-v2.webp"},
   {
     id: "port-of-batroun-economic-v2",
     type: "port",
@@ -431,8 +414,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Történelmi föníciai kikötő", "Ma a turizmusra és a halászatra összpontosít", "Híres a hagyományos fahajókról", "Fellendíti a helyi gazdaságot Észak-Libanonban"],
       ro: ["Port fenician istoric", "Astăzi se concentrează pe turism și pescuit", "Cunoscut pentru bărcile tradiționale din lemn", "Stimulează economia locală în nordul Libanului"],
       en: ["Historic Phoenician port", "Today focuses on tourism and fishing", "Known for traditional wooden boats", "Boosts the local economy in northern Lebanon"]
-    }
-  },
+    }, image: "/poi-images/port-of-batroun-economic-v2.webp"},
   {
     id: "anfeh-salt-pans-economic-v2",
     type: "mine",
@@ -455,8 +437,7 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       hu: ["Tengeri só kitermelése", "Fontos bevételi forrás a helyiek számára", "A kulturális és gazdasági örökség része", "Fenntartható hagyományos iparág"],
       ro: ["Extracția sării de mare", "Sursă importantă de venit pentru localnici", "Parte a patrimoniului cultural și economic", "Industrie tradițională durabilă"],
       en: ["Extraction of sea salt", "Important source of income for locals", "Part of the cultural and economic heritage", "Sustainable traditional industry"]
-    }
-  },
+    }, image: "/poi-images/anfeh-salt-pans-economic-v2.webp"},
   {
     id: "baalbek-power-plant-economic-v2",
     type: "energy",

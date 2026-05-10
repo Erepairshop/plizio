@@ -22,10 +22,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["1984-ben nyitotta meg kapuit, mint Guatemala legújabb és legnagyobb csendes-óceáni kikötője.", "Képes óriási Panamax teherhajók és luxus óceánjárók dokkolására.", "A helyi infrastruktúra nagyrészt a cukor-, kávé- és banánexport köré épült.", "Stratégiai fekvése révén Guatemala elsődleges kapuja az ázsiai piacok felé.", "Nevét a guatemalai nemzeti madárról, a quetzalról (és a fizetőeszközről) kapta.", "Escuintla megye és az egész ország gazdaságának egyik legfőbb motorja."],
       ro: ["Inaugurat oficial în 1983 după eforturi masive de dragare a fundului marin.", "Digul său de protecție masiv protejează bazinul portuar intern de valurile puternice.", "Manevrează anual milioane de tone de mărfuri containerizate și vrac.", "Funcționează exclusiv sub control militar maritim deasupra administrației civile.", "Complexul include un terminal modern masiv, cu rampe mari de acostare RORO.", "Sustine masiv logistica națională petrolieră prin conducte majore conectate."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-puerto-quetzal-port-economic-v2.webp"},
   {
     id: "gt-central-sugar-mill-industry-economic-v2",
     type: "industry",
@@ -46,10 +43,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Guatemala a világ öt legnagyobb cukorexportőre közé tartozik.", "Az 'Ingenios' (cukorgyárak) biomasszából a guatemalai áramszükséglet közel 30%-át állítják elő a zafra idején.", "A termelés zöme Escuintla, Suchitepéquez, Santa Rosa és Retalhuleu megyékre koncentrálódik.", "A 'La Zafra' (betakarítási szezon) novembertől májusig tart.", "Az iparág kiterjedt kutatóintézettel (CENGICAÑA) is rendelkezik új nádfajták nemesítésére.", "A finomított cukor mellett melaszt és ipari alkoholt is hatalmas mennyiségben exportálnak."],
       ro: ["Zahărul este al doilea cel mai important produs de export agricol al națiunii, după îmbrăcăminte.", "Zeci de mori independente sunt consolidate sub umbrela unei asociații naționale ASAZGUA.", "Sezonul recoltării este cunoscut popular și tradițional ca 'Zafra'.", "Aproximativ 30% din energia electrică națională în sezonul uscat provine de la aceste mori.", "Exporturile merg predominant către Statele Unite, Taiwan și piețe sud-coreene.", "Camioanele uriașe cunoscute sub numele de 'jaulas' pot transporta zeci de tone simultan."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-central-sugar-mill-industry-economic-v2.webp"},
   {
     id: "gt-cement-plant-industry-economic-v2",
     type: "industry",
@@ -70,10 +64,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A Cementos Progreso a közép-amerikai régió egyik legnagyobb építőipari vállalata.", "A La Pedrera gyár több mint 120 éve, 1899 óta működik Guatemalaváros peremén.", "A modern San Miguel gyár kapacitása napi több ezer tonna klinkert tesz ki.", "A termelés nagyrészt a helyi, nagy tisztaságú mészkő (caliza) lerakatokra épül.", "A szektor jelentősen hozzájárul az infrastruktúra (hidak, utak, gátak) építéséhez.", "Egyes üzemek biomasszát és újrahasznosított hulladékot használnak fűtőanyagként."],
       ro: ["Cea mai mare companie producătoare, Cementos Progreso, este una dintre cele mai vechi din America Latină.", "Fabrica modernă de la San Juan Sanarate este una dintre cele mai mari din emisferă.", "Extracția calcarului se face zilnic cu dinamită în cariere deschise imense.", "Fabrica necesită un aport electric masiv, echivalent cu consumul unui oraș mic.", "Deșeurile rezultate din cuptoare pot fi folosite pentru neutralizarea solurilor acide.", "Praful fin poate perturba adesea recoltele de lămâi din micro-zonele înconjurătoare."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-cement-plant-industry-economic-v2.webp"},
   {
     id: "gt-textile-factory-industry-economic-v2",
     type: "industry",
@@ -94,10 +85,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Guatemala a világ egyik vezető póló- és kötöttruha-exportőre az Egyesült Államok felé.", "A textilipar (Maquila) közvetlenül és közvetve százezreknek ad munkát.", "Az iparág dinamikáját a CAFTA-DR (Közép-Amerikai Szabadkereskedelmi Egyezmény) biztosítja.", "A gyárak zöme Guatemalaváros ipari zónáiban (pl. Amatitlán, Mixco) koncentrálódik.", "Dél-koreai és amerikai befektetők számos nagy üzemet irányítanak az országban.", "A szektor lassan, de biztosan elmozdul a 'full package' (teljes termék-előállítás) irányába."],
       ro: ["Textilele și confecțiile depășesc masiv orice produs agricol guatemalez la nivel de export brut.", "Majoritatea produselor finite sunt exportate cu zero taxe datorită tratatului DR-CAFTA.", "Sectoare din Coreea de Sud dețin unele dintre cele mai mari facilități de producție locale.", "Fabricațiile consumă cantități gigantice de apă dulce pentru vopsirea industrială.", "A condus la o explozie a populației migratoare în localitățile din apropierea zonei metropolitane.", "Multe facilități operează în zone libere comerciale deținute de guvern (ZOLIC)."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-textile-factory-industry-economic-v2.webp"},
   {
     id: "gt-champerico-port-economic-v2",
     type: "port",
@@ -118,10 +106,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A 19. század végétől évtizedekig a guatemalai kávéexport legfontosabb csendes-óceáni kapuja volt.", "1871-ben Justo Rufino Barrios elnök nemzetközi kikötővé nyilvánította.", "A régi kikötői móló ('muelle') maradványai ma is láthatók az óceán partján.", "Ma gazdasága a garnélarák- és finomhal-halászaton, valamint a belföldi turizmuson alapul.", "A városból indult ki egykor a guatemalai csendes-óceáni vasútvonal egyik fontos leágazása.", "Éghajlata forró, páradús, jellegzetes csendes-óceáni trópusi klíma."],
       ro: ["Digul istoric din fier forjat din 1890 a fost aproape complet spulberat de furtuni oceanice.", "Este locația primei conexiuni telefonice naționale pentru companiile de cafea.", "Apele sale sunt faimoase pentru curenții primejdioși care interzic frecvent înotul turistic.", "Flota comercială de creveți este vitală pentru piața asiatică de export a Guatemalei.", "Situat la capătul unei porțiuni complet plate de drum ce pornește tocmai din Retalhuleu.", "Micul port modern se confruntă zilnic cu acumularea puternică de nisip care necesită dragare constantă."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-champerico-port-economic-v2.webp"},
   {
     id: "gt-banan-export-industry-economic-v2",
     type: "industry",
@@ -142,10 +127,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Guatemala az Ecuador és Costa Rica után a világ egyik legnagyobb banánexportőre.", "A banán exportja hagyományosan az Egyesült Államokba és Nyugat-Európába irányul.", "Izabal és Escuintla megyék adják a termelés több mint 80%-át.", "Az iparág történelmét az amerikai United Fruit Company (UFC) monopóliuma dominálta évtizedekig.", "Az ültetvények nagy vízigénye és az alkalmazott növényvédő szerek állandó ökológiai vitákat generálnak.", "A banán ipari betakarítása és dobozolása rengeteg kézi munkaerőt (jornaleros) igényel."],
       ro: ["Bananierii comerciali produc fructe o singură dată înainte de a fi tăiați din trunchi.", "Fructele sunt trimise verzi din port și controlate climatizat pentru a se coace doar la destinație.", "Cutiile trec frecvent prin zonele logistice puternic sindicalizate și apărate local.", "Fostele teritorii deținute de 'El Pulpo' (UFCO) domină încă mare parte a producției.", "Ploile torențiale tropicale din nord aduc condiții optime, necesitând prea puține irigații artificiale.", "Folosirea extinsă a pesticidelor rurale a cauzat probleme ecologice majore de-a lungul deceniilor."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-banan-export-industry-economic-v2.webp"},
   {
     id: "gt-coffee-processing-industry-economic-v2",
     type: "industry",
@@ -166,10 +148,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Az Anacafé (Guatemalai Nemzeti Kávészövetség) 8 distinct kávétermelő régiót határoz meg az országban.", "Az ország az arabica kávéfajták egyik globális minőségi referenciája.", "A magas minőségű guatemalai kávét ('Strictly Hard Bean') min. 1 350 méter magasan termesztik.", "A száraz feldolgozás ('beneficio seco') során óriási napozóteraszokon (patios) szárítják a babokat.", "Több mint 125 000 család él közvetlenül a kávétermesztésből Guatemalában.", "Az ország a világ 10 legnagyobb kávéexportőre között szerepel."],
       ro: ["Stațiile de procesare ('beneficios húmedos') sunt printre cei mai mari consumatori industriali de apă pură din zonă.", "Pielea pulpoasă spălată ('cascara') este transformată în compost fertilizator uriaș sau re-uscată pentru ceaiuri.", "Uscarea tradițională la soare ('patios de secado') se face cu greble mari de lemn operate de lucrători.", "Sortarea finală ('beneficio seco') elimină boabele deformate cu mașinării electronice optice precise.", "Cafeaua de Guatemala este cotată pe piețele globale la valori superioare tocmai datorită acestor spălări manuale.", "Poluarea apelor reziduale a forțat construirea mai multor sisteme noi de epurare riguroase."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-coffee-processing-industry-economic-v2.webp"},
   {
     id: "gt-oil-refinery-industry-economic-v2",
     type: "industry",
@@ -190,10 +169,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A guatemalai kőolajtermelés nagy része a Petén dzsungelben található Xan olajmezőről származik.", "Az iparág éles vitákat kavar, mivel az olajmező a Laguna del Tigre Nemzeti Parkban helyezkedik el.", "Egy 474 kilométeres olajvezeték szállítja a nyersolajat Peténből Santo Tomás de Castilla kikötőjébe.", "A kitermelt olaj többnyire nehéz és magas kéntartalmú, aszfaltnak ideális.", "Az ország az üzemanyag (benzin) szükségletének döntő többségét importálja.", "A Perenco a fő operátor a peténi kitermelési régiókban."],
       ro: ["Guatemala este unicul producător semnificativ de petrol din zona nordică a Americii Centrale.", "Mai mult de 90% din acest țiței este expediat brut pe piețele globale pentru a fi rafinat de alte națiuni.", "Conducta (oleoductul) traversează zeci de comunități rurale izolate pe o lungime de aproape 500 km.", "Țițeiul local este bogat în sulf și necesită metode complicate pentru reducerea poluării în procesare.", "Operațiunile forestiere din anii 1980 au deschis primele căi pentru prospecțiuni petroliere masive.", "Guvernul acordă constant scutiri foarte controversate pentru forajele instalate în rezervații umede."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-oil-refinery-industry-economic-v2.webp"},
   {
     id: "gt-hydro-plant-industry-economic-v2",
     type: "industry",
@@ -238,10 +214,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A kanadai érdekeltségű Marlin-bánya (San Marcos) az ország első modern aranybányája volt.", "Az El Estor-i 'Mina Fénix' Guatemala legnagyobb, több évtizedes múltú nikkelbányája.", "Az Escobal-bánya San Rafael Las Floresben a világ egyik legnagyobb ezüstlelőhelye.", "A bányászati engedélyek körül heves alkotmánybírósági és társadalmi küzdelmek zajlanak.", "A kitermelés ciános kimosásos technikája miatti vízszennyezés a lakosok fő aggodalma.", "Több régióban tartottak népszavazást (consulta comunitaria) a bányászat betiltásáért."],
       ro: ["Proiectul minier Fenix (fosta EXMIBAL) a fost lansat prima dată prin anii '60 de către corporații străine.", "Pentru rafinare se consumă mai mult cărbune termic poluant decât întregi orașe medii guatemaleze combinate.", "Terenurile cu sol dezgolit sunt masiv replantate ocazional, însă revenirea ecologiei rămâne critică.", "Curtea Constituțională a suspendat frecvent temporar mina pentru lipsei de consultare legală a comunității mayașe.", "Metalele rezultate (feronichelul) sunt esențiale pentru industria mondială fabricării oțelului inoxidabil.", "Uzina industrială procesează minereul folosind furnale rotative ('hornos rotatorios') care ating mii de grade."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-mining-site-industry-economic-v2.webp"},
   {
     id: "gt-paper-mill-industry-economic-v2",
     type: "industry",
@@ -262,10 +235,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Az iparág nagymértékben az exportált gyümölcsök (dinnye, banán) csomagolására (kartondobozok) specializálódott.", "A papírgyártás többnyire nem friss farostra, hanem belföldi és importált újrahasznosított papírra épül.", "Közép-Amerika egyik legnagyobb hullámkarton- és toalettpapír-előállító kapacitásával bír.", "A gyárak zöme Guatemalaváros és az Atlanti-óceán felé tartó ipari folyosó (Zacapa) közelében van.", "Az ipar hatalmas mennyiségű ipari vizet (Río Motagua) és villamos energiát igényel.", "Az 'eco-friendly' újrahasznosított csomagolások piaca gyorsan növekszik a régióban."],
       ro: ["Fabrica utilizează metode inovatoare intense de purificare a apei folosite deoarece consumul său este imens.", "Guatemala reciclează local peste 40% din cartonul uzat național prin aceste complexe industriale majore.", "Fără această industrie proprie, importurile de cutii ar falimenta complet sectorul local comercial de fructe proaspete.", "Unele facilități masive funcționează de peste o jumătate de secol modernizându-și permanent liniile rotative din fier.", "Temperatura internă și aburii degajați pe linia de rulare din fabrici necesită un consum hidraulic enorm zilnic.", "Există doar un număr redus de 3-4 mari operatori care dețin un control efectiv de monopol asupra piaței de ambalaj locale."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-paper-mill-industry-economic-v2.webp"},
   {
     id: "gt-poultry-processing-industry-economic-v2",
     type: "industry",
@@ -286,10 +256,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A baromfihús (pollo) és a tojás a guatemalai lakosság fő állati fehérjeforrása.", "A 'Pollo Rey' a legnépszerűbb és legismertebb guatemalai baromfimárka.", "Az integrált telepek (keltetőtől a feldolgozóig) zöme Közép- és Kelet-Guatemalában található.", "Az iparág az egyik legnagyobb fogyasztója a guatemalai kukoricának és az importált szójának.", "A feldolgozók a legmodernebb 'bioseguridad' (biológiai biztonság) szabályok szerint működnek.", "A gyorsétterem-láncok (mint a Pollo Campero) ugrásszerű fejlődése tartja fenn a magas keresletet."],
       ro: ["Carnea de pui a depășit cu mult consumul tradițional de carne de porc sau vacă pentru locuitorul tipic.", "Industria aduce, din import, milioane de tone anuale exclusiv pentru furaje ('concentrados' din porumb galben american).", "Biosecuritatea riguroasă împiedică bolile majore să decimeze aceste ferme gigantice, vizitatorii având un protocol sever.", "Multe ferme utilizează astăzi energie eoliană sau panouri hibride solare pentru a refula mirosurile puternice de gunoi degajate.", "Consumul de ouă comerciale obținute din ferme specializate reprezintă esența proteinelor din satele muntoase depărtate.", "Sistemele utilizează zeci de camioane frigorifice izolate ('furgones') pentru a preveni deprecierea alimentului în traficul masiv rutier local."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-poultry-processing-industry-economic-v2.webp"},
   {
     id: "gt-bottling-plant-industry-economic-v2",
     type: "industry",
@@ -310,10 +277,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A Cervecería Centro Americana az 1890-es évek óta gyártja az ikonikus 'Gallo' nemzeti sört.", "A guatemalai üdítő- és sörgyárak egész Közép-Amerikát (sőt Mexikó egy részét) ellátják.", "Az óriási Coca-Cola (Femsa) és Pepsi (cBc) üzemek dominálják az üdítőpiacot.", "Az ágazat a főváros és környéke (Zona 12, Mixco, Amatitlán) vizében gazdag medencéire települt.", "A PET-palackok és üvegek gyártását sokszor az italgyárakon belüli integrált sorokon végzik.", "Az iparág komoly nyomás alatt van a környezetvédők részéről az édesvízkészletek használata miatt."],
       ro: ["Băuturile răcoritoare sunt cel mai consumat element de pe rafturile alimentare ('tiendas') din zonele de munte extrem de izolate.", "Consumul enorm de apă din pânza freatică al acestor imense platforme ridică mereu controverse legate de seceta cronică locală.", "Fostele tensiuni din anii '70 și '80 la uzina majoră de îmbuteliere au dus la faimoase și lungi asasinări ale liderilor de sindicat guatemalezi.", "Fabricile utilizează cantități monumentale de zahăr autohton pur rafinat adus din Escuintla.", "Reciclarea PET-urilor în aceste fabrici devine încet o normă din cauza blocajului masiv național de plastic din depozitele de gunoi municipale.", "Mașinăriile imense operează adesea capabile să producă peste zeci de mii de recipiente proaspete de fluid igienizat pe oră complet automatizat."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-bottling-plant-industry-economic-v2.webp"},
   {
     id: "gt-steel-fabrication-industry-economic-v2",
     type: "industry",
@@ -334,10 +298,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A Corporación Aceros de Guatemala (AG) a közép-amerikai régió legnagyobb acélipari konglomerátuma.", "A termelés magja az újrahasznosított ócskavas elektromos ívkemencében történő beolvasztása.", "A legnagyobb acélmű komplexumok Escuintla megyében (Costa Sur) találhatók a könnyebb import miatt.", "A guatemalai 'lámina' (hullámlemez) a szegényebb néprétegek alapvető tetőépítő anyaga.", "Betonacélt (hierro) és dróthálót exportálnak szinte minden közép-amerikai országba.", "Az iparág a guatemalai villamosenergia-hálózat egyik legnagyobb nagyfogyasztója."],
       ro: ["Zeci de mii de muncitori rurali independenți susțin fluxul prin obținerea fierului vechi de masă abandonat în curțile caselor de câmpie.", "Toată armătura din zgârie-norii colosali actuali din capitală provine obligatoriu dintr-un fier beton reciclat local la calitate standardizată antiseismic.", "Topitorii cu arc electric extrem consumă atât de multă energie încât prețul electric local definește costul operațiunii industriale permanent.", "Fabricile produc predominant 'varilla corrugada' (bare oțelite încrețite) specifice normelor necesare din zonele constant tectonice falimentare.", "Emisiile masive toxice sunt teoretic captate eficient folosind filtre rotunde masive din material industrial specifice din anii 2000.", "Exporturile locale de fier beton format la dimensiuni standardizate acoperă mai ales țările Honduras și o parte vitală a pieței de imobiliare El Salvador."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-steel-fabrication-industry-economic-v2.webp"},
   {
     id: "gt-bakery-industry-economic-v2",
     type: "industry",
@@ -358,10 +319,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A guatemalai étrend elengedhetetlen része az édes pékáru (pan dulce) és a sós kenyér (pan francés).", "A Grupo Bimbo közép-amerikai központja és legnagyobb gyára Guatemalában működik.", "A malomipar (molinos) a tengeri kikötőkbe érkező amerikai import búzára támaszkodik.", "A nagyüzemi pékáru-gyárak zöme Guatemalaváros, Mixco és Chimaltenango között van.", "Számos kekszet és snack terméket exportálnak Közép-Amerikába és a Karib-térségbe.", "A tortillát előállító ipari gépek és üzemek is ehhez a szektorhoz kapcsolódnak."],
       ro: ["Bimbo și producători naționali precum BredenMaster dețin unele dintre facilitățile masive cele mai moderne de procesare avansată ale țării.", "Un singur complex poate alimenta facil peste 80% din rețeaua supermarketurilor locale moderne din interiorul Guatemalei zi de zi neîntrerupt.", "Industria de panificație guatemaleză masivă folosește doar grâu american sau canadian de la vapoare din lipsa recoltei istorice rurale potrivite climei toride locale.", "Temperaturile interne ridicate ale halelor industriale necesită rotații constante dure de ture de angajați masivi de obicei rezidenți periurbani marginalizați local.", "Datorită drumurilor lente montane neasfaltate locale, fabricile utilizează frecvent mari conservanți specifici avansați pentru rezistența alimentelor procesate din vitrină.", "Distribuția imensă se realizează folosind sute de camioane izolate termic ușoare (camionetas) controlate exclusiv prin flote de distribuție satelitare riguroase."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-bakery-industry-economic-v2.webp"},
   {
     id: "gt-chemical-plant-industry-economic-v2",
     type: "industry",
@@ -382,10 +340,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A guatemalai vegyipar legnagyobb vásárlói az ország saját banán-, cukornád- és pálmaültetvényei.", "Számos műtrágya- és agrokémiai gyár működik az Escuintla felé vezető ipari zónákban.", "A helyi gyártás legtöbbször importált finomvegyszerek összekeverését (formulation) jelenti.", "Guatemala jelentős exportőre a háztartási tisztítószereknek és szappanoknak a CA-4 (Közép-Amerika) régióban.", "Az iparág komoly ellenőrzések alá esik a folyókba (pl. Amatitlán-tó, Motagua) engedett szennyvíz miatt.", "Szoros kapcsolatban áll a guatemalai műanyagiparral, amely szintén jelentős a térségben."],
       ro: ["Facilitățile majore masive (ex: Grupo Bayer) importă materiile prime active purificate din China sau regiuni americane chimice masive frecvent.", "Guatemala acționează constant drept fabrică farmaceutică ieftină colosală pentru spitalele sărace locale și farmaciile ('farmacias similares') guvernamentale externe regionale sudice.", "Fabricile gigantice lucrează de asemenea, la producția pe scară uluitoare de produse solide ieftine majore pentru curățenie sanitară municipală generală neîncetat.", "Frecvent, gestionarea precară deșeurilor extrem de inflamabile sau chimicale locale duce brusc la dezastre masive ale faunei pe râul istoric Villalobos.", "Solul vulcanilor este bogat inițial dar necesită completări puternice majore artificiale frecvent datorită deceniilor aspre extinse istorice de exploatări agricole intensive continue monocolore locale de trestie fierbinte.", "O mulțime de producători sunt ascunși la umbra rețelelor de asociații majore chimicale grele ('Agrequima') extrem de protejate puternic politic de influențe comerciale locale formidabile."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-chemical-plant-industry-economic-v2.webp"},
   {
     id: "gt-furniture-factory-industry-economic-v2",
     type: "industry",
@@ -406,10 +361,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["San Juan Sacatepéquez évszázadok óta a hagyományos guatemalai asztalosipar és bútorgyártás központja.", "A Peténből származó mahagóni (caoba) és cédrus a luxusbútorok fő alapanyaga.", "A nagyipari, gépesített bútorüzemek Guatemalaváros és Mixco peremén koncentrálódnak.", "A szektor sikeresen exportál kézműves és 'rusztikus' fatermékeket az Egyesült Államokba.", "Az olcsó import forgácslap és MDF bútorok térnyerése komoly nyomást gyakorol a tömörfa gyártókra.", "Egyes cégek 'certified' (FSC) fenntartható erdőgazdálkodásból származó fát használnak az exporthoz."],
       ro: ["Tradiția uluitoare de ebenisterie locală (tâmplărie fină veche) este de departe la cel mai faimos preț estimat calitativ rafinat pe întreg continentul hispanofon recunoscut extins profund de sute secole colonialist spaniol.", "Rezervele de păduri locale de foioase prețioase sunt masiv restrânse strict legiferate și controlate militar la sânge, de unde trecerea recentă bruscă a pieței fabricilor de consum intern majoritar de bază către plăcile importate masive ieftine din carton lemnos M.D.F.", "Fabricile de serie de scaune rustice ('sillas de comedor') produc regulat mii de bucăți din lemn ieftin lăcuit destinate imediat la preț mic restului imensei națiuni pe piețele comunale (piața tradițională urbană majoră de la poalele străzilor deschise).", "Sectorul produce extrem exporturi colosale apreciate puternic direct pentru retailuri de lux celebre ale orașelor bogate (Florida etc) din Statele Unite și regiunea vastă caraibiană nordică prosperă.", "Din lipsa masivă cronică financiară la o populație subfinanțată rural extrem de precară internă, resturile mărunte prelucrate din aschii se vând și ele imediat rapid sub forma combustibilului rapid uscat ('leña barata casera') gospodăriilor tradiționale casnice.", "Fabricile masive suferă constant puternic de penele severe intermitente grave dese cronice guvernamentale ale electricității și costurilor ridicate constante din zona centrală muntoasă."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-furniture-factory-industry-economic-v2.webp"},
   {
     id: "gt-electronics-assembly-industry-economic-v2",
     type: "industry",
@@ -430,10 +382,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A szektor kihasználja a globális 'nearshoring' trendet (Kínából az amerikai kontinensre költöző gyártás).", "A termelés nagyrészt a Zonas Francas (Vámmentes Övezetek) ipari parkjaiban zajlik a főváros körül.", "A fő profil az autóipari kábelkötegek (arneses) és kisebb elektronikai alkatrészek kézi összeszerelése.", "Jobban fizető és tisztább alternatívát kínál a hagyományos textil-maquilákkal szemben.", "A termékek túlnyomó többsége azonnal az Egyesült Államok és Mexikó gyáraiba kerül beépítésre.", "A koreai és amerikai befektetők vezetik az ilyen jellegű összeszerelő üzemek piacát."],
       ro: ["Spre deosebire uriașă masiv polarizată total evidentă a forței muncitorești mari textile grele preluată brut cu miile din munți, această industrie electronică atrage selectiv direct din oraș doar populația liceală proaspătă tânăra bine pregătită.", "Se găsește ascunsă frecvent perfect discret profund în campusuri de birouri sterile sigure izolate ecologic (precum zona de tehnologie 4 Norte sau Tec de Guatemala) puternic protejate și aerisite.", "Componentele necesare complexe sensibile ajung zburând zilnic aerian majoritar aduse sigur pe aeroportul La Aurora de peste oceanul pașnic direct direct din China și Taiwan.", "Un mic sector important produce constant strict mecanic cablaje mari electrice grele auto ('arneses de autos') asamblate la sol manual destinate direct exportului rapid spre liniile de asamblare a fabricilor de dube din Mexic.", "O afacere uriașă locală profund profitabilă dar nedeclarată larg susține în totalitate zilnic reciclarea avansată și dezasamblarea toxică atentă puternică mecanic a miilor masive electronice ('e-waste importat') în componente brute reciclate de argint pur american recuperat perfect de ateliere informale majore.", "Domeniul a fost profund limitat ani și ani exclusiv din cauza masivelor lacune rurale catastrofale de cursuri locale de inginerie fizică robotică tehnologică națională serioasă."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-electronics-assembly-industry-economic-v2.webp"},
   {
     id: "gt-print-facility-industry-economic-v2",
     type: "industry",
@@ -454,10 +403,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Guatemala a közép-amerikai régió nyomdaipari és csomagolástechnikai ('packaging') központja.", "Az iparág az élelmiszer- és italgyártóknak szállít be (címkék, dobozok, flexibilis csomagolások).", "Hatalmas ofszet és flexografikus üzemek találhatók Guatemalaváros (Zona 12) és Villa Nueva területén.", "A guatemalai nyomdák gyártják Honduras és El Salvador tankönyveinek és magazinjainak egy részét.", "Magas automatizáltság és hatalmas ipari papír- és festékimport jellemzi a szektort.", "A műanyag (PET) és alumínium csomagolóanyag-gyártás gyakran egybefonódik a nyomdaiparral."],
       ro: ["Tipografiile colosale reprezintă o mică elită națională ('monopol oligarhic tipografic central majoritar colosal extins pe suprafețe uriașe complet moderne').", "Presa scrisă tipărită ('periódicos faimoși naționali') utilizează masiv aceste stații ('rotativas gigantice') de prelucrare nocturnă exclusiv mecanică rapidă continuă de oțel rece asurzitoare zilnic cu zecile de ani vechime și perfect performantă.", "Datorită puternicei calități fine chimice înalte și costului redus local masiv eficient, o mare parte uriașă de literatură națională se tipărește masiv frecvent de fapt la comandă strict pentru întreaga vastă și bogata piață mare vecină modernă mexicană.", "Piața mare de ambalare este complet divizată dur între fabricile de carton moale ondulat ieftin simplu folosit pentru pepeni grei agricoli greu transportabili pe apă pe vase reci ('cajas de empaque') și cele fine moderne avansate grafice lucioase de ambalare ('litografía fina') destinate consumabilelor dulci din prăvăliile ('tienditas caseras') micilor sate uitate din munți reci izolați extrem de greu preluat prin noroi.", "Consumul zilnic de cerneală și vopsele ('tintas especiales') folosește mii masive de tone lichide colorate toxice grele poluante uneori importate greu scump prin porturi extrem depărtate colosale calde și transportate extrem protejat și reglementat prin oraș spre zone gri industriale.", "Costurile ridicate moderne energetice au împins recent masiv puternic digitalizarea printului și abandonarea istorică treptată sigură târzie a metodelor învechite de turnare grea periculoasă chimic veche colosală plumb de altă dată clasică manuală localizată anterior direct chiar pe străzile pavate istorice urbane."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-print-facility-industry-economic-v2.webp"},
   {
     id: "gt-paint-factory-industry-economic-v2",
     type: "industry",
@@ -478,10 +424,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A Grupo Solid escuintlai 'Super Corona' gyára Közép-Amerika legnagyobb festék-előállító üzeme.", "Az iparág az építőipari bumm (ingatlanfejlesztések, plázák) egyik legnagyobb haszonélvezője.", "A guatemalai 'Pinturas Paleta' és 'Corona' a régió legismertebb lakossági festékmárkái.", "Hatalmas mennyiségben gyártanak ipari, tengerészeti és fafestékeket is a térség számára.", "A termékek importált amerikai és ázsiai vegyi alapanyagokból (gyanták, pigmentek) készülnek.", "A termelés több mint felét Hondurasba, Nicaraguába és a Karib-szigetekre (pl. Dominika) exportálják."],
       ro: ["Vopselele acrilice ieftine bazate pe apă reprezintă peste zeci de procente ('80% lejer național') colosale din enorma producție internă națională guvernată pe piață datorită climatului greu arid dur și extrem prăfuit, cu o capacitate imensă rapidă eficient curată eficient de uscare neapărat pe soare puternic și ploaie rapidă din zona deluroasă nordică.", "Materiile prime principale esențiale ('diocsid de titan pur pulbere importat industrial la port', 'rășini grele toxice volatile pe petrol din zona caldă arabă') sunt integral aduse dincolo de continent oceanic maritim.", "Cele mai cunoscute grupuri imense oligopol majore private ('Celco puternic', 'Lanco tradițional', 'Pinturas Paleta de zeci ani de bază stabilă la cald') dețin masiv și copleșitor rețele monopol extinse exclusive de prăvălii mii de locații strict branduite francizate masiv vizual izbitor și asurzitor de vizibil peste tot direct la intersecțiile de șosea montane mici din zeci de sate izolate.", "Piața este caracterizată vizual profund prin gusturile istorice masive imense guatemaleze puternic rurale rurale de aplicare cromatică vie pe nuanțe colosal fosforescente și asurzitoare vizual greu țipătoare ('verde limão luminos strident de seară', 'roșu pasional colonial antic ascuțit arzător faimos'), aplicate manual rudimentar pe exterior direct vizibil la stradă spre faimă pentru prestigiul casei local.", "Unitățile trebuie zilnic riguros atent constant și scump să purifice complet legal apa rezultată tulbure periculoasă profund reziduală poluantă severă cu sute sistem de toxicitate înainte de descărcare masivă naturală pe albia râurilor adânci rutiere pentru protecția lacurilor muntoase adânci.", "Perioada de toamnă uscată local ('final octombrie scurt uscat') până în luna scurtă bruscă caldă aprilie este numit colosal 'sezonul de vopsit intens sezonier la cald' masiv imens ('temporada de pintar casa anuală bruscă de sărbători specifice'), unde mii de uzine își dublează intens presiunea fabricii uriașe industriale zgomotoase pentru stocuri imense cerute disperat public de sărbători specifice locale urbane."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-paint-factory-industry-economic-v2.webp"},
   {
     id: "gt-plastic-factory-industry-economic-v2",
     type: "industry",
@@ -502,10 +445,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Guatemala Közép-Amerika legnagyobb műanyagcsomagolás- és PET-palack exportőre.", "A gyárak zöme az élelmiszer- és italipari nagyvállalatok (pl. sör- és üdítőgyárak) igényeit elégíti ki.", "A Motagua-folyó műanyagszennyezése miatt az iparág nemzetközi nyomás alá került.", "Egyre növekszik az rPET (újrahasznosított PET) üzemek száma a körforgásos gazdaság jegyében.", "A műanyagfeldolgozás főként importált, ázsiai és amerikai polimerekből (granulátumokból) történik.", "A helyi piacon rengeteg műanyag használati tárgyat (székek, vödrök) is előállítanak."],
       ro: ["Zeci de mici și mari producători alimentează masiv piețele izolate informale ('tianguis') cu sute tipuri recurente cutii plastic ieftin ('cajas y palanganas').", "Capacitatea extrem de uriașă de producție de tubulatură din PVC acoperă masiv sistemele noi masive de apă potabilă locală urbană națională.", "Fabricile puternice importă zilnic complet granulele grele de rășină PVC, din lipsa absolută a unei uzine naționale rafinatoare majore specifice de ulei petrochimic complet complexe.", "Costul local masiv de producere al materialului plastic depinde drastic enorm direct de prețurile mari energetice brute, deoarece mașinăriile necesită o căldură electrică intensă gigantică.", "Consumul colosal popular excesiv fără stop pe teritoriul muntos creează constant deșeuri vizibile majore colosale greu de oprit pentru apele râurilor sudice urbane.", "Industria încearcă în mod presant să se alinieze reciclării moderne globale topind și adăugând ocazional deșeuri vechi la granulele brute importate."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-plastic-factory-industry-economic-v2.webp"},
   {
     id: "gt-dairy-processing-industry-economic-v2",
     type: "industry",
@@ -526,10 +466,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A tej- és sajttermelés tradicionális bázisai a keleti (Oriente) hegyvidékek, mint Jalapa.", "A helyi konyha legnépszerűbb tejtermékei a 'queso seco' (száraz sajt) és a 'crema' (tejföl/krémsajt).", "A meleg trópusi klíma miatt az UHT (tartós) tej piaca sokkal nagyobb, mint a friss tejé.", "Számos kisebb, kézműves tejüzem ('queserías artesanales') működik a vidéki farmokon.", "A guatemalai tejipar erős versenytársakkal (pl. Mexikó, Costa Rica) küzd a régiós piacon.", "A nagyipari feldolgozók fejlett, hidegláncra (cadena de frío) épülő logisztikát tartanak fenn."],
       ro: ["Băutura pasteurizată UHT ('leche en caja') depășește categoric laptele proaspăt la sate din motiv de logistică și climă națională toridă izolată.", "Brânzeturile locale tradiționale guatemaleze ('Queso Fresco', 'Queso Seco Duro') sunt procesate și industrial intens ambalate constant în facilități masive din zone sudice calde.", "O imensă proporție lăptoasă consumată intern (chiar sub formă de praf amestecat uscat) este obligatoriu zilnic adusă masiv de fapt direct imediat la nord din SUA din lipsa fermelor locale majore.", "Fermele locale de bovine sudice sunt adesea exclusiv crescute pentru carne ('ganado de engorde'), lăsând producția națională zilnică locală lăptoasă deficitară.", "Procesarea necesită curățenii masive cu apă chimică aburindă industrial care uneori îngreunează puternic fluxul epurărilor ecologice din bazinul rutei vestice.", "Aceste linii puternice oferă indirect siguranța locurilor de muncă fixe regulate esențiale șoferilor uriașei rețele private logistice din întreaga regiune caldă sudică."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-dairy-processing-industry-economic-v2.webp"},
   {
     id: "gt-auto-parts-industry-economic-v2",
     type: "industry",
@@ -550,10 +487,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A legfőbb termékek az amerikai és japán autómárkákhoz készülő elektromos kábelkötegek (arneses).", "A gyárak ('maquiladoras') nagy része a guatemalai-mexikói határ (San Marcos) közelébe települt.", "Több ezer munkahelyet teremtettek az elmúlt évtizedben a 'nearshoring' trendnek köszönhetően.", "A szektor a vámmentes ipari övezetek (Zonas Francas) kedvezményeiből profitál.", "Az alkatrészek szinte 100%-át külföldre exportálják, helyi felhasználásuk elhanyagolható.", "Jelentős japán és koreai tőke áll a legtöbb helyi autóalkatrész-üzem mögött."],
       ro: ["Spre deosebire vizibilă brutală imens de piața grea masivă vestimentară clasică guatemaleză, asamblarea electrică auto necesită personal liniștit foarte migălos antrenat suplimentar mecanic manual.", "Materialele (fir gros de izolație scump american curat și cleme precise mari colosale metalice) sunt trimise vrac brut doar temporar legal pentru asamblare de către națiunea asiatică sau americană nordică.", "Componentele electrice masive uriașe complet finalizate ('arneses armados pesados') pleacă înapoi complet prin frontiera uscată Tecun Uman zilnic la bordul camioanelor lungi.", "Sectorul a salvat profund temporar colosal anumite goluri mari financiare comerciale provocate de mutarea severă majoritară masivă colosală agresivă a fabricilor tradiționale vestimentare majore exclusiv direct în țări asiatice foarte îndepărtate.", "Fabricile se bazează colosal obligatoriu exclusiv neapărat doar pe curent constant major fără fluctuații ('subestaciones exclusivas industriale'), un lucru uneori foarte scump local și dificil.", "De regulă masivă complet exclusivă a regimului de export direct scutit fiscal, foarte rar componentele rurale sunt oficial folosite masiv vândute direct sau văzute național în garajele locale auto private izolate."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-auto-parts-industry-economic-v2.webp"},
   {
     id: "gt-concrete-batching-industry-economic-v2",
     type: "industry",
@@ -574,10 +508,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A guatemalai készbeton-piacot nagyrészt a Cementos Progreso érdekeltségei (pl. Mixto Listo) uralják.", "A betonkeverő telepek decentralizáltan, országszerte települtek a logisztikai idők miatt.", "A magas földrengésveszély (szeizmikus zónák) miatt speciális, erősített betonreceptúrákat használnak.", "A készbeton nélkülözhetetlen az ország egyre szaporodó bevásárlóközpontjai és viaduktjai számára.", "Az iparág nagy mennyiségben használ vulkáni homokot ('arena volcánica') adalékanyagként.", "A szektor erősen függ az aktuális kormányzati infrastrukturális beruházásoktól."],
       ro: ["Stațiile trebuie zilnic în mod absolut neapărat obligatoriu izolat să distribuie urgent pe camioane fluide complet imediat mixtura betonului puternic masiv produs sub două ore masive maxim înainte de pre-uscarea dură.", "Calitatea durității betonului complet modern guatemalez imens uriaș produs zilnic de o stație comercială uriașă o depășește total obligatoriu categoric calitatea rurală mică manuală la standard extrem seismic puternic național (CONRED major).", "Construcțiile extrem de gigantice naționale majore necesită uneori chiar masiv 'plante de dozare beton imense la fața locului izolate' strict temporare uriașe din cauza blocajelor masive faimoase cronice grele de trafic auto colosal naționale.", "Pământul extras spart fin spălat major local adăugat (agregat uscat fin) este masiv curat obținut din râurile mari colosale pietroase ('piedrín') sud-guatemaleze sparte chimic pe coasta caldă.", "Bazinele uriașe speciale de spălare necesită zilnic masiv apa uriașă chimică reziduală ('agua sucia concretera') ce trebuie clar controlată uriaș la deversare puternic pentru toxicitate severă grea cimentară aspră.", "Operatorii stațiilor uriașe lucrează uneori în special profund neapărat intens pe perioada lungă faimoasă nocturnă izolată liniștită strict din motivul de a ocoli căldura rapidă tropicală a soarelui mare uscat."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-concrete-batching-industry-economic-v2.webp"},
   {
     id: "gt-tire-retreading-industry-economic-v2",
     type: "industry",
@@ -598,10 +529,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A teherfuvarozási (kamion) és buszipar (transporte extraurbano) az újrafutózott abroncsok fő vásárlója.", "Az iparág jelentősen csökkenti a logisztikai cégek üzemeltetési költségeit a meredek hegyi utakon.", "A vulkanizálás és a felújítás importált nyersgumi és speciális ragasztók felhasználásával történik.", "Országos probléma az illegálisan, szemétként elégetett használt gumiabroncsok légszennyezése.", "A legnagyobb üzemek Escuintla és Guatemalaváros forgalmas ipari zónáiban (Zona 12) működnek.", "A kaucsukültetvények is jelen vannak délen, de a futózáshoz speciális szintetikus keverékek is kellenek."],
       ro: ["Zeci de mici ateliere uriașe izolate numite ('pinchazos') participă masiv esențial adunând schelete uriașe autohtone solide vechi ('cascos masivos viabili') rurale pe marginile lungi adânci rutiere prăfuite.", "Stratul nou proaspăt uriaș fierbinte ('banda curată de rodamiento') aplicat la fabrici este uneori chiar mai rezistent puternic durabil extrem modern decât cel inițial vechi curat chinezesc la anumite suprafețe colosale aspre stâncoase neasfaltate.", "Camioanele cu dublă remorcă grele ('trailers cañeros lungi mari de trestie sudice') folosesc masiv cel mai mult uriaș acest serviciu extrem curat reciclabil ieftin la roțile inferioare reci spate predispuse la pană lentă.", "O resapare ieftină masivă industrială rapidă eșuată defectuoasă poate colosal brusc major și des cauza resturi mortale groase din cauciuc desprins azvârlit colosal frecvent (faimoasele 'lagartos') periculos lăsate târziu pe șosele naționale.", "Industria este forțată enorm esențial la concurență brutală directă colosal aspră modernă imens din cauza importului complet zilnic vestic de anvelope noi mari uriașe de camioane asiatice din est mult prea ieftine la raft.", "Fabrica necesită uriaș masiv exclusiv energie imensă fierbinte profund uriaș abur constant sub presiune ridicată grea pentru curățarea vulcanică finală complet mecanică izolată în matrițe uriașe oțelite ('matrices')."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-tire-retreading-industry-economic-v2.webp"},
   {
     id: "gt-glass-factory-industry-economic-v2",
     type: "industry",
@@ -622,10 +550,7 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["A Grupo VICAL (Vidriera Centroamericana) uralja a guatemalai és a régiós üvegpalack-piacot.", "A legnagyobb kemencék a nap 24 órájában, az év 365 napján folyamatosan üzemelnek (több mint 1500 °C-on).", "A termelés nagyrészt a belföldi és régiós italgyárakat (sörök, szénsavas üdítők) látja el.", "Az üvegcserép (calcín) újrahasznosítása jelentősen, akár 20-30%-kal is csökkenti az olvasztás energiaszükségletét.", "Sík- és építészeti üveget is importálnak, de a csomagolóüveget (envases) helyben fújják és öntik.", "A kézműves fúvott üveg (vidrio soplado) gyártása, mint Cantelben, turisztikai exportcikk is."],
       ro: ["Cuptoarele colosale ('hornos fundidores majore continue centrale industriale') funcționează faimos obligatoriu imens neapărat complet ani și ani întregi la flacără continuă puternică fără oprire uriașă a procesului termic izolant sub foc.", "O foarte imensă proporție colosal masivă uriașă constant enormă a materiei brute ('cullet curat fărâmat vechi') provine colosal exclusiv masiv complet exclusiv eficient din strângerea măruntă constantă la mâna informală uriașă masiv municipală ('recicladores mici stradali tăcuți').", "Grupul colosal industrial gigant este o imensă mare companie exclusivă oligarhică regională absolut colosal puternică extinsă cu influență uriașă istorică pe piața complet total ambalajului național sudic.", "Costul local masiv colosal gigant al buteliei igienice sticlă e colosal strict dependent sever profund brutal enorm de uriaș de costul greu imens global scump adus pe vase a combustibilului folosit de cuptor petrolier gros ('bunker fuel').", "Calitatea igienică extrem puternic de înaltă colosal avansată curată necesită extrem absolut senzori cu scanare optică uriaș laser izolată exclusivă scumpă extrem la mii sticle rotunde mici goale per minut pe bandă lungă.", "Pentru piețele masive vecine colosale mari se exportă complet camioane uriașe masive grele foarte lente extrem cu tone paleți goli ambalați gros industrial de faimos pânză termoplastică uriaș de mare rigidă fină fixă."]
-    },
-    
-    
-  },
+    }, image: "/poi-images/gt-glass-factory-industry-economic-v2.webp"},
   {
     id: "gt-warehouse-logistics-port-economic-v2",
     type: "port",

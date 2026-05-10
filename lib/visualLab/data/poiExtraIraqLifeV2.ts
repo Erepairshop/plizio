@@ -25,8 +25,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Erstreckt sich über ein Areal von etwa 3 Quadratkilometern.", "Wurde in der ersten Hälfte der 1970er Jahre offiziell eröffnet.", "Beherbergt den 1999 fertiggestellten, 55 Meter hohen Al-Zawraa-Turm.", "Das integrierte Stadion verfügt über eine Kapazität von 15.000 Sitzplätzen.", "Nach Beschädigungen in den 2000er Jahren begannen 2008 umfangreiche Renovierungen.", "Verzeichnet an wichtigen Feiertagen häufig mehr als 100.000 Besucher pro Tag."],
       hu: ["Körülbelül 3 négyzetkilométeres kiterjedésű területet foglal magában.", "Hivatalos megnyitására az 1970-es évek első felében került sor.", "Itt található az 1999-ben felépített, 55 méter magas Al-Zawraa torony.", "A komplexumba integrált stadion mintegy 15 000 ülőhellyel rendelkezik.", "A 2000-es években elszenvedett károk után 2008-ban kezdődött meg a felújítás.", "A jelentősebb ünnepnapokon a napi látogatók száma meghaladhatja a 100 000 főt."],
       ro: ["Se întinde pe o suprafață de aproximativ 3 kilometri pătrați.", "A fost inaugurat oficial în prima jumătate a anilor 1970.", "Găzduiește Turnul Al-Zawraa, finalizat în 1999 și înalt de 55 de metri.", "Stadionul integrat are o capacitate de 15.000 de locuri pe scaune.", "În 2008 au început renovări ample după avariile din anii 2000.", "Înregistrează frecvent peste 100.000 de vizitatori pe zi în timpul sărbătorilor."]
-    }
-  },
+    }, image: "/poi-images/al-zawraa-park-life-v2.webp"},
   {
     id: "baghdad-zoo-life-v2",
     type: "kid-friendly",
@@ -51,8 +50,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Die Eröffnung der tierologischen Anlage fand im Jahr 1971 statt.", "Das ursprüngliche Zoogelände erstreckt sich über eine Fläche von 81 Hektar.", "Im April 2003 überlebten lediglich etwa 35 Tiere die Kriegseinwirkungen.", "Bis zum Jahr 2008 stieg der Tierbestand durch Spenden wieder auf 800 Individuen an.", "Die Sammlung umfasste 2008 insgesamt 80 unterschiedliche Tierarten.", "Im Jahr 2013 wurden neue, erweiterte Gehege für Raubkatzen in Betrieb genommen."],
       hu: ["A zoológiai létesítmény hivatalos megnyitása 1971-ben történt.", "Az eredeti állatkerti terület mintegy 81 hektáron terül el.", "2003 áprilisában csupán mintegy 35 állat élte túl a háborús cselekményeket.", "2008-ra az adományok révén az állomány ismét 800 egyedre növekedett.", "A gyűjtemény 2008-ban összesen 80 különböző állatfajt foglalt magában.", "2013-ban új, kibővített kifutókat adtak át a ragadozó nagymacskák számára."],
       ro: ["Deschiderea facilității zoologice a avut loc în anul 1971.", "Terenul original al grădinii zoologice se întinde pe 81 de hectare.", "În aprilie 2003, doar aproximativ 35 de animale au supraviețuit conflictului.", "Până în anul 2008, populația de animale a crescut la 800 de indivizi prin donații.", "Colecția din 2008 a inclus un total de 80 de specii diferite de animale.", "În anul 2013 au fost date în folosință noi incinte extinse pentru feline."]
-    }
-  },
+    }, image: "/poi-images/baghdad-zoo-life-v2.webp"},
   {
     id: "sindbad-land-life-v2",
     type: "kid-friendly",
@@ -77,8 +75,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Der Freizeitkomplex nimmt eine Gesamtfläche von 100.000 Quadratmetern ein.", "Die offizielle Inbetriebnahme der modernisierten Anlage erfolgte im Jahr 2015.", "Das Gelände ist mit 35 verschiedenen mechanischen Fahrgeschäften ausgestattet.", "Die Hauptattraktion ist eine Achterbahn mit einer Bauhöhe von 40 Metern.", "Über 1,5 Millionen Besucher werden jährlich in der Einrichtung registriert.", "Der Park verfügt über eine unabhängige Stromversorgung zur Absicherung des Betriebs."],
       hu: ["A szabadidőközpont összesen 100 000 négyzetméteres területet foglal el.", "A modernizált létesítmény hivatalos átadása 2015-ben történt.", "A területen 35 különféle mechanikus szórakoztató berendezés üzemel.", "A fő attrakció egy hullámvasút, amelynek magassága eléri a 40 métert.", "Évente több mint 1,5 millió látogatót regisztrálnak az intézményben.", "A park független áramellátó rendszerrel rendelkezik a zavartalan üzemeléshez."],
       ro: ["Complexul de agrement ocupă o suprafață totală de 100.000 de metri pătrați.", "Inaugurarea oficială a facilității modernizate a avut loc în 2015.", "Terenul este echipat cu 35 de atracții mecanice diferite.", "Atracția principală este un roller coaster cu o înălțime de construcție de 40 de metri.", "Peste 1,5 milioane de vizitatori sunt înregistrați anual în instituție.", "Parcul dispune de o sursă de alimentare independentă pentru asigurarea operațiunilor."]
-    }
-  },
+    }, image: "/poi-images/sindbad-land-life-v2.webp"},
   {
     id: "sami-abdulrahman-park-life-v2",
     type: "park",
@@ -103,8 +100,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Die Anlage umfasst eine Gesamtfläche von 200 Hektar innerhalb der Stadtgrenzen.", "Die Bauarbeiten zur Umwandlung der Militärbasis begannen im Jahr 1998.", "Die offizielle Einweihung des zivilen Parks fand im Jahr 2000 statt.", "Im Parkareal wurden systematisch mehr als 10.000 Bäume gepflanzt.", "Die Anlage beinhaltet zwei künstlich angelegte Seen für Bootsaktivitäten.", "Ein separates Denkmal erinnert an die 98 Opfer des Anschlags im Februar 2004."],
       hu: ["A komplexum teljes területe 200 hektárt tesz ki a városhatáron belül.", "A katonai bázis átalakítási munkálatai 1998-ban vették kezdetüket.", "A polgári park hivatalos felavatása a 2000-es évben zajlott le.", "A park területén szisztematikusan több mint 10 000 fát ültettek el.", "A létesítmény két mesterséges tavat foglal magában csónakázási lehetőséggel.", "Egy különálló emlékmű őrzi a 2004. februári merénylet 98 áldozatának emlékét."],
       ro: ["Complexul acoperă o suprafață totală de 200 de hectare în limitele orașului.", "Lucrările de construcție pentru transformarea bazei militare au început în 1998.", "Inaugurarea oficială a parcului civil a avut loc în anul 2000.", "În zona parcului au fost plantați sistematic peste 10.000 de arbori.", "Instalația include două lacuri artificiale destinate activităților cu barca.", "Un monument separat comemorează cele 98 de victime ale atacului din februarie 2004."]
-    }
-  },
+    }, image: "/poi-images/sami-abdulrahman-park-life-v2.webp"},
   {
     id: "majidi-land-life-v2",
     type: "kid-friendly",
@@ -155,8 +151,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Die Gesamtanlage bedeckt eine Fläche von 380.000 Quadratmetern am Berghang.", "Das Projekt wurde im Jahr 2013 mit Investitionen von 150 Millionen US-Dollar eröffnet.", "Die integrierte Seilbahn überwindet auf einer Strecke von 2 Kilometern 400 Höhenmeter.", "Die größte Achterbahn des Parks weist eine Streckenlänge von 600 Metern auf.", "Das Wachsfigurenkabinett auf dem Gelände stellt 40 prominente Persönlichkeiten aus.", "Der Komplex beschäftigt direkt über 800 Mitarbeiter im Dienstleistungssektor."],
       hu: ["A teljes létesítmény 380 000 négyzetméteres hegyoldali területet foglal el.", "A projekt 2013-ban nyílt meg 150 millió amerikai dolláros beruházással.", "A beépített drótkötélpálya 2 kilométeres szakaszon 400 méteres szintkülönbséget hidal át.", "A park legjelentősebb hullámvasútjának pályahossza eléri a 600 métert.", "A helyszínen lévő viaszmúzeumban 40 híres személyiség viaszfigurája látható.", "A komplexum közvetlenül több mint 800 dolgozót foglalkoztat a szolgáltatószektorban."],
       ro: ["Complexul total acoperă o suprafață de 380.000 de metri pătrați pe versantul muntelui.", "Proiectul a fost inaugurat în anul 2013 cu investiții de 150 de milioane de dolari.", "Telecabina integrată depășește o diferență de nivel de 400 de metri pe o distanță de 2 kilometri.", "Cel mai mare roller coaster din parc are o lungime a pistei de 600 de metri.", "Muzeul de ceară din incintă expune 40 de personalități proeminente.", "Complexul are peste 800 de angajați direcți în sectorul serviciilor."]
-    }
-  },
+    }, image: "/poi-images/chavi-land-life-v2.webp"},
   {
     id: "azadi-park-life-v2",
     type: "park",
@@ -181,8 +176,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Der Park erstreckt sich über ein Areal von 12 Hektar im Stadtzentrum.", "Das Gelände wurde bis zum Jahr 1991 als militärischer Stützpunkt genutzt.", "Das befestigte Wegenetz für Fußgänger misst eine Gesamtlänge von 5 Kilometern.", "Der künstliche See im nördlichen Abschnitt umfasst 4.000 Quadratmeter.", "Ein zentrales Monument erinnert an die Opfer der Ereignisse des Jahres 1988.", "Die jährlichen Newroz-Feiern im März ziehen bis zu 50.000 Besucher an."],
       hu: ["A park a városközpontban egy 12 hektáros területet foglal magában.", "A létesítmény helyszínét 1991-ig katonai támaszpontként használták.", "A burkolt gyalogos úthálózat teljes hossza eléri az 5 kilométert.", "Az északi szektorban elhelyezkedő mesterséges tó 4000 négyzetméteres.", "Egy központi emlékmű állít emléket az 1988-as események áldozatainak.", "Az évente megrendezett márciusi Newroz-ünnepségek akár 50 000 látogatót is vonzanak."],
       ro: ["Parcul se întinde pe o suprafață de 12 hectare în centrul orașului.", "Terenul a fost utilizat ca bază militară până în anul 1991.", "Rețeaua pavată de alei pentru pietoni măsoară o lungime totală de 5 kilometri.", "Lacul artificial din secțiunea de nord cuprinde 4.000 de metri pătrați.", "Un monument central comemorează victimele evenimentelor din anul 1988.", "Sărbătorile anuale Newroz din martie atrag până la 50.000 de vizitatori."]
-    }
-  },
+    }, image: "/poi-images/azadi-park-life-v2.webp"},
   {
     id: "basra-family-park-life-v2",
     type: "park",
@@ -207,8 +201,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Die Eröffnung der städtischen Parkanlage erfolgte im Jahr 2011.", "Das Gelände umfasst eine Grundfläche von insgesamt 25.000 Quadratmetern.", "Auf dem Areal wurden 300 Dattelpalmen zur natürlichen Beschattung angepflanzt.", "Der zentrale Springbrunnen wird am Abend von 50 LED-Lampen illuminiert.", "Die Anlage beinhaltet drei separate Kinderspielplätze mit modernen Sicherheitsböden.", "Im Jahr 2018 erfolgte die Installation von Solarpanels für die autonome Beleuchtung."],
       hu: ["A városi park hivatalos megnyitására a 2011-es évben került sor.", "A létesítmény alapterülete összesen 25 000 négyzetmétert tesz ki.", "A területre 300 datolyapálmát ültettek a természetes árnyékolás érdekében.", "A központi szökőkutat sötétedés után 50 darab LED-es lámpa világítja meg.", "A park három különálló gyermekjátszóteret kínál biztonságos burkolattal.", "2018-ban napelemes rendszert építettek ki az autonóm világítás fenntartására."],
       ro: ["Inaugurarea parcului urban a avut loc în anul 2011.", "Terenul acoperă o suprafață totală de 25.000 de metri pătrați.", "Pe amplasament au fost plantați 300 de curmali pentru umbrire naturală.", "Fântâna centrală este iluminată seara de 50 de lămpi cu LED.", "Facilitatea include trei locuri de joacă separate cu suprafețe moderne de siguranță.", "În 2018 a avut loc instalarea de panouri solare pentru iluminatul autonom."]
-    }
-  },
+    }, image: "/poi-images/basra-family-park-life-v2.webp"},
   {
     id: "mosul-woods-life-v2",
     type: "park",
@@ -233,8 +226,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Das Bewaldungsprojekt am Ufer des Tigris wurde in den 1950er Jahren initiiert.", "Das ursprüngliche Areal umfasste eine Fläche von rund 400 Hektar.", "Zwischen 2014 und 2017 wurden etwa 60 Prozent des Baumbestandes zerstört.", "Ab 2018 wurden im Rahmen der Wiederaufforstung über 100.000 neue Bäume gepflanzt.", "Das interne Straßen- und Wegenetz wurde auf 8 Kilometern Länge erneuert.", "Primär wurden hitzeresistente Eukalyptus- und Kiefernarten kultiviert."],
       hu: ["A Tigris parti erdősítési program eredetileg az 1950-es években vette kezdetét.", "A fásított terület eredeti nagysága megközelítőleg 400 hektár volt.", "2014 és 2017 között a korábbi faállomány mintegy 60 százaléka megsemmisült.", "2018 után az újraerdősítési munka során több mint 100 000 új fát ültettek el.", "A belső úthálózat 8 kilométeres hosszúságban kapott új aszfaltburkolatot.", "Az ültetvények nagy részét a hőtűrő eukaliptusz és különféle fenyőfajok alkotják."],
       ro: ["Proiectul de împădurire pe malul Tigrului a fost inițiat în anii 1950.", "Zona inițială acoperea o suprafață de aproximativ 400 de hectare.", "Între 2014 și 2017, aproximativ 60% din populația de copaci a fost distrusă.", "Începând cu 2018, peste 100.000 de copaci noi au fost plantați în timpul reîmpăduririi.", "Rețeaua internă de drumuri și alei a fost reînnoită pe o lungime de 8 kilometri.", "În principal au fost cultivate specii de eucalipt și pin rezistente la căldură."]
-    }
-  },
+    }, image: "/poi-images/mosul-woods-life-v2.webp"},
   {
     id: "shanidar-park-life-v2",
     type: "park",
@@ -259,8 +251,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Der im Jahr 2008 eröffnete Park bedeckt eine Fläche von 10 Hektar.", "Die in künstlichen Höhlen angelegte Kunstgalerie bietet 600 Quadratmeter Ausstellungsraum.", "Seit 2010 verbindet eine 1,5 Kilometer lange Seilbahn das Areal mit dem Minarett-Park.", "Das Geländeprofil weist einen terrassierten Höhenunterschied von 15 Metern auf.", "Auf dem Gelände sind 200 Sitzbänke für die Besucher installiert.", "Ein automatisches Tropfbewässerungssystem versorgt die Pflanzen wassersparend."],
       hu: ["A 2008-ban átadott nyilvános park egy 10 hektáros területen helyezkedik el.", "A mesterséges barlangban kialakított művészeti galéria 600 négyzetméteres.", "Egy 1,5 kilométer hosszú drótkötélpálya köti össze 2010 óta a Minaret parkkal.", "A terület domborzata lépcsőzetes, 15 méteres szintkülönbséget foglal magában.", "A látogatók számára összesen 200 darab padot telepítettek a parkba.", "Az ültetvények víztakarékos ellátását egy automatizált csepegtető rendszer végzi."],
       ro: ["Parcul, deschis în 2008, acoperă o suprafață de 10 hectare.", "Galeria de artă creată în peșteri artificiale oferă 600 de metri pătrați de spațiu expozițional.", "Din 2010, o telecabină lungă de 1,5 kilometri leagă zona de Parcul Minaret.", "Profilul terenului prezintă o diferență de înălțime terasată de 15 metri.", "Pe amplasament sunt instalate 200 de bănci pentru vizitatori.", "Un sistem automat de irigare prin picurare aprovizionează plantele economisind apa."]
-    }
-  },
+    }, image: "/poi-images/shanidar-park-life-v2.webp"},
   {
     id: "minaret-park-life-v2",
     type: "park",
@@ -285,8 +276,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Das namensgebende Bauwerk entstand in der Periode zwischen 1190 und 1232.", "Der zylindrische Backsteinturm erreicht eine Bauhöhe von 36 Metern.", "Die umgebende 15 Hektar große Parkanlage wurde im Jahr 2007 fertiggestellt.", "Auf dem Gelände sind Bronzebüsten von 12 kurdischen Intellektuellen ausgestellt.", "Ein offenes Amphitheater im westlichen Bereich fasst 400 Zuschauer.", "Eine Seilbahnstation verbindet den Standort direkt mit dem benachbarten Shanidar-Park."],
       hu: ["A park nevét adó torony az 1190 és 1232 közötti időszakban épült fel.", "A hengeres téglaépítmény magassága eléri a 36 métert.", "Az emlékművet övező 15 hektáros parkosított terület 2007-ben készült el.", "A helyszínen 12 kiemelkedő kurd értelmiségi bronzbüsztjét állították ki.", "A nyugati zónában lévő nyitott amfiteátrum 400 néző befogadására alkalmas.", "Egy drótkötélpálya teremt közvetlen összeköttetést a közeli Sanidar parkkal."],
       ro: ["Clădirea care dă numele parcului a fost construită în perioada 1190 - 1232.", "Turnul cilindric din cărămidă atinge o înălțime de construcție de 36 de metri.", "Parcul înconjurător de 15 hectare a fost finalizat în anul 2007.", "Pe amplasament sunt expuse busturile din bronz a 12 intelectuali kurzi.", "Un amfiteatru în aer liber din zona vestică are o capacitate de 400 de spectatori.", "O stație de telecabină conectează direct locația de Parcul Shanidar învecinat."]
-    }
-  },
+    }, image: "/poi-images/minaret-park-life-v2.webp"},
   {
     id: "barzan-nature-reserve-life-v2",
     type: "wildlife-area",
@@ -311,8 +301,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Die ersten strikten Jagdverbote in der Region wurden bereits in den 1930er Jahren etabliert.", "Die topografische Höhe variiert von 600 bis über 2.500 Metern.", "Das Gebiet dient als primärer Lebensraum für die anatolische Wildziege (Bezoarziege).", "Im Jahr 2015 bestätigten Kamerafallen die Präsenz seltener Großkatzen auf 1.800 Metern.", "Die Vegetation in den mittleren Höhenlagen wird vorwiegend von Eichen dominiert.", "Die Schutzbestimmungen verbieten zudem das unregulierte Fällen von Bäumen."],
       hu: ["A régió első szigorú vadászati tilalmait még az 1930-as években vezették be.", "A domborzati magasság 600 métertől egészen 2500 méterig váltakozik.", "A terület elsődleges élőhelyet biztosít a vadon élő anatóliai bezoárkecskének.", "2015-ben a kameracsapdák 1800 méteren igazolták ritka nagymacskák jelenlétét.", "A középső magassági zónák növényzetét elsősorban különféle tölgyfák alkotják.", "A természetvédelmi előírások szigorúan tiltják a fák engedély nélküli kivágását."],
       ro: ["Primele interdicții stricte de vânătoare în regiune au fost stabilite în anii 1930.", "Altitudinea topografică variază de la 600 la peste 2.500 de metri.", "Zona servește ca habitat principal pentru capra sălbatică anatoliană (capra bezoar).", "În 2015, camerele capcană au confirmat prezența felinelor rare la 1.800 de metri.", "Vegetația de la altitudinile medii este dominată în principal de stejari.", "Reglementările de protecție interzic de asemenea tăierea nereglementată a copacilor."]
-    }
-  },
+    }, image: "/poi-images/barzan-nature-reserve-life-v2.webp"},
   {
     id: "bahr-al-najaf-reserve-life-v2",
     type: "wildlife-area",
@@ -337,8 +326,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Das geologische Becken liegt rund 20 Meter unterhalb des Meeresspiegels.", "Bei maximaler Ausdehnung bedeckt die Wasserfläche etwa 360 Quadratkilometer.", "Über 30 verschiedene Wasservogelarten nutzen das Gebiet als Rastplatz.", "In niederschlagsreichen Wintern werden hier bis zu 50.000 Zugvögel gezählt.", "Die formelle Ausweisung als partielles Naturschutzgebiet erfolgte im Jahr 2017.", "Die Region liegt auf der wichtigen westasiatisch-ostafrikanischen Vogelzugroute."],
       hu: ["A geológiai medence hozzávetőlegesen 20 méterrel a tengerszint alatt húzódik.", "Maximális kiterjedése esetén a víztükör felülete eléri a 360 négyzetkilométert.", "Több mint 30 különböző vízimadárfaj használja pihenőhelyként a területet.", "Csapadékban gazdagabb teleken akár 50 000 vándormadarat is megszámolnak itt.", "A hivatalos, részleges természetvédelmi területté nyilvánítás 2017-ben történt.", "A régió jelentős megállóhely a nyugat-ázsiai és kelet-afrikai madárvonulási útvonalon."],
       ro: ["Bazinul geologic este situat la aproximativ 20 de metri sub nivelul mării.", "La extinderea maximă, suprafața apei acoperă aproximativ 360 de kilometri pătrați.", "Peste 30 de specii diferite de păsări de apă folosesc zona ca loc de odihnă.", "În iernile bogate în precipitații se numără aici până la 50.000 de păsări migratoare.", "Desemnarea formală ca rezervație naturală parțială a avut loc în anul 2017.", "Regiunea este situată pe importanta rută de migrație a păsărilor vest-asiatice și est-africane."]
-    }
-  },
+    }, image: "/poi-images/bahr-al-najaf-reserve-life-v2.webp"},
   {
     id: "qara-dagh-reserve-life-v2",
     type: "wildlife-area",
@@ -363,8 +351,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Das ausgewiesene Bergmassiv umfasst eine Fläche von 22.000 Hektar.", "Der höchste Punkt der geschützten Gebirgskette liegt auf 1.890 Metern Höhe.", "Im Jahr 2011 wurde hier der Persische Leopard erstmals im Irak fotografisch nachgewiesen.", "Ornithologen haben in den Eichenwäldern über 80 Vogelarten katalogisiert.", "Laubabwerfende Eichenarten stellen über 70 Prozent der gesamten Waldvegetation.", "Eine besonders geschützte Kernzone von 5.000 Hektar wird von Forstwächtern kontrolliert."],
       hu: ["A hivatalosan kijelölt hegytömb összesen 22 000 hektáros területet fed le.", "A védett hegylánc legmagasabb pontja az 1890 méteres magasságot is eléri.", "2011-ben itt rögzítették az első fényképes bizonyítékot az iraki perzsa leopárdról.", "Az ornitológusok több mint 80 különböző madárfajt katalogizáltak a tölgyerdőkben.", "A lombhullató tölgyfajok teszik ki az erdő teljes növényzetének 70 százalékát.", "A legszigorúbban őrzött 5000 hektáros magzónát speciális erdészek ellenőrzik."],
       ro: ["Masivul montan desemnat acoperă o suprafață de 22.000 de hectare.", "Cel mai înalt punct al lanțului muntos protejat se află la 1.890 de metri.", "În anul 2011 a fost dovedit fotografic leopardul persan pentru prima dată în Irak.", "Ornitologii au catalogat peste 80 de specii de păsări în pădurile de stejari.", "Speciile de stejari foioși reprezintă peste 70% din totalul vegetației forestiere.", "O zonă centrală strict protejată de 5.000 de hectare este monitorizată de pădurari."]
-    }
-  },
+    }, image: "/poi-images/qara-dagh-reserve-life-v2.webp"},
   {
     id: "mesopotamian-marshes-np-life-v2",
     type: "wildlife-area",
@@ -389,8 +376,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Die Marschen umfassten historisch eine Wasserfläche von bis zu 20.000 Quadratkilometern.", "In den 1990er Jahren wurden mehr als 90 Prozent der Feuchtgebiete künstlich trockengelegt.", "Nach 2003 konnte etwa die Hälfte der ursprünglichen Feuchtgebiete renaturiert werden.", "Der Nationalpark wurde 2013 auf einer Kernfläche von 1.000 Quadratkilometern eingerichtet.", "Im Jahr 2016 erfolgte die offizielle Anerkennung als UNESCO-Weltkulturerbe.", "Das Gebiet dient als Lebensraum für den endemischen und bedrohten Basrarohrsänger."],
       hu: ["A mocsárvidék történelmileg egykor egy 20 000 négyzetkilométeres vizes zónát alkotott.", "Az 1990-es évek során a mocsarak több mint 90 százalékát szándékosan lecsapolták.", "2003-at követően az eredeti vizes élőhelyek mintegy 50 százalékát rehabilitálták.", "A nemzeti parkot 2013-ban alapították egy 1000 négyzetkilométeres magterületen.", "A világörökségi listára való hivatalos felvételről 2016-ban hozott döntést az UNESCO.", "A zóna kiemelt élőhelye a kritikusan veszélyeztetett, endemikus bászrai nádirigónak."],
       ro: ["Istoric, mlaștinile acopereau o suprafață de apă de până la 20.000 de kilometri pătrați.", "În anii 1990, mai mult de 90% din zonele umede au fost desecate artificial.", "După 2003, aproximativ jumătate din zonele umede originale au fost renaturate.", "Parcul național a fost înființat în 2013 pe o suprafață centrală de 1.000 de kilometri pătrați.", "În anul 2016 a avut loc recunoașterea oficială ca patrimoniu mondial UNESCO.", "Zona servește ca habitat pentru lăcarul de Basra, o specie endemică și amenințată."]
-    }
-  },
+    }, image: "/poi-images/mesopotamian-marshes-np-life-v2.webp"},
   {
     id: "al-gharraf-agriculture-life-v2",
     type: "agriculture",
@@ -415,8 +401,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Der wasserführende Al-Gharraf-Kanal hat eine Gesamtlänge von 160 Kilometern.", "Die Regulierung des Flusses erfolgt durch das in den 1930er Jahren erbaute Kut-Stauwehr.", "Die intensiv bewirtschaftete Ackerfläche umfasst mehr als 300.000 Hektar.", "Die jährliche Weizenernte in der Region beläuft sich auf etwa 400.000 Tonnen.", "Kleine landwirtschaftliche Familienbetriebe bewirtschaften durchschnittlich 5 bis 10 Hektar.", "In starken Dürrejahren wird die Anbaufläche staatlich um bis zu 50 Prozent limitiert."],
       hu: ["A vizet szállító Al-Garraf-csatorna teljes hossza eléri a 160 kilométert.", "A folyó szabályozását az 1930-as években felépített Kut-duzzasztógát biztosítja.", "Az intenzíven megművelt szántóföldek területe meghaladja a 300 000 hektárt.", "A régió éves búzatermése megközelítőleg 400 000 tonnára tehető.", "A családi kisgazdaságok jellemzően 5 és 10 hektár közötti területen gazdálkodnak.", "Kiemelkedő aszályok idején a vetésterületet állami rendelettel felére is csökkenthetik."],
       ro: ["Canalul purtător de apă Al-Gharraf are o lungime totală de 160 de kilometri.", "Râul este reglementat de barajul Kut, construit în anii 1930.", "Terenul arabil cultivat intensiv cuprinde peste 300.000 de hectare.", "Recolta anuală de grâu din regiune se ridică la aproximativ 400.000 de tone.", "Fermele familiale mici cultivă în medie între 5 și 10 hectare.", "În anii cu secetă severă, suprafața de cultivare este limitată de stat cu până la 50%."]
-    }
-  },
+    }, image: "/poi-images/al-gharraf-agriculture-life-v2.webp"},
   {
     id: "basra-date-palms-life-v2",
     type: "agriculture",
@@ -441,8 +426,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Das historische Anbaugebiet erstreckte sich entlang des 200 Kilometer langen Schatt al-Arab.", "Mitte des 20. Jahrhunderts existierten in der Region über 30 Millionen produktive Dattelpalmen.", "Durch Konflikte und Versalzung sank der Baumestand bis 2003 auf unter 3 Millionen.", "Durch Wiederaufforstungsprogramme erhöhte sich der Bestand bis 2022 auf 5 Millionen Bäume.", "In den Hainen werden über 40 genetisch unterschiedliche Dattelsorten kultiviert.", "Der Irak stellte historisch zeitweise 80 Prozent der global gehandelten Dattelernte."],
       hu: ["A történelmi termővidék a 200 kilométer hosszan futó Satt el-Arab mentén terült el.", "A 20. század közepén több mint 30 millió termő datolyapálma élt a régióban.", "A háborúk és a szikesedés miatt 2003-ra a fák száma 3 millió alá csökkent.", "A telepítési programoknak köszönhetően 2022-re az állomány 5 millió fára nőtt.", "A pálmaligeteken belül több mint 40 genetikailag különböző datolyafajtát termesztenek.", "Irak egykor a világon kereskedelmi forgalomba hozott datolya 80 százalékát adta."],
       ro: ["Zona istorică de cultivare se întindea de-a lungul a 200 de kilometri pe Shatt al-Arab.", "La mijlocul secolului XX existau în regiune peste 30 de milioane de curmali productivi.", "Din cauza conflictelor și a salinizării, populația a scăzut sub 3 milioane până în 2003.", "Prin programele de reîmpădurire, populația a crescut la 5 milioane de copaci până în 2022.", "Peste 40 de soiuri de curmale cu profil genetic diferit sunt cultivate în livezi.", "Irakul a furnizat istoric la anumite momente 80% din curmalele comercializate global."]
-    }
-  },
+    }, image: "/poi-images/basra-date-palms-life-v2.webp"},
   {
     id: "sharazur-plain-life-v2",
     type: "agriculture",
@@ -493,8 +477,7 @@ export const poiExtraIraqLifeV2: POI[] = [
       de: ["Der angrenzende Erddamm wurde im Jahr 1988 offiziell in Betrieb genommen.", "Das durch den Damm erzeugte Reservoir fasst bis zu 52 Millionen Kubikmeter Wasser.", "Die touristische Erschließung des Ufergebiets begann verstärkt ab dem Jahr 2006.", "Die steilen Felswände hinter dem Dammbauwerk ragen bis zu 100 Meter in die Höhe.", "Das erschlossene Parkgelände umfasst 2,5 Quadratkilometer am südlichen Ufer.", "Der Park bietet 40 befestigte und ausgestattete Zonen für Familienpicknicks."],
       hu: ["A mesterséges földgátat 1988-ban adták át hivatalosan a forgalomnak.", "A gát által felduzzasztott víztározó maximális kapacitása 52 millió köbméter.", "A part menti terület aktív turisztikai fejlesztése leginkább 2006 után indult meg.", "A gátmű mögötti szurdok meredek sziklafalai helyenként 100 méter magasak.", "A kialakított parkkomplexum 2,5 négyzetkilométert ölel fel a tó déli részén.", "A rekreációs övezet 40 modern, jól felszerelt zónát kínál a családi piknikekhez."],
       ro: ["Barajul de pământ adiacent a fost pus oficial în funcțiune în anul 1988.", "Rezervorul creat de baraj reține până la 52 de milioane de metri cubi de apă.", "Dezvoltarea turistică a zonei de coastă a început în mod intensiv în anul 2006.", "Pereții abrupți de stâncă din spatele barajului se înalță la 100 de metri.", "Parcul dezvoltat se întinde pe 2,5 kilometri pătrați pe malul sudic.", "Parcul oferă 40 de zone pavate și amenajate pentru picnicuri de familie."]
-    }
-  },
+    }, image: "/poi-images/dohuk-dam-park-life-v2.webp"},
   {
     id: "dream-city-dohuk-life-v2",
     type: "kid-friendly",

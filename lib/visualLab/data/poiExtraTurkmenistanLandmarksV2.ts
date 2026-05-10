@@ -38,8 +38,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Its depth reaches about 30 meters.",
         "Located in the middle of the Karakum Desert."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-darvaza-gas-crater-landmarks-v2.webp"},
   {
     id: "tm-independence-monument-landmarks-v2",
     type: "monument",
@@ -77,8 +76,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Surrounded by statues of historical leaders.",
         "A central landmark of Ashgabat."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-independence-monument-landmarks-v2.webp"},
   {
     id: "tm-neutrality-monument-landmarks-v2",
     type: "monument",
@@ -116,8 +114,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "The golden statue is 12 meters high.",
         "Was moved to its current location in 2010."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-neutrality-monument-landmarks-v2.webp"},
   {
     id: "tm-ruhy-mosque-landmarks-v2",
     type: "landmark",
@@ -155,8 +152,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Opened in the year 2004.",
         "The main dome is 50 meters high."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-ruhy-mosque-landmarks-v2.webp"},
   {
     id: "tm-ertugrul-gazi-mosque-landmarks-v2",
     type: "tourist-attraction",
@@ -194,8 +190,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Completed in 1998 as a gift from Turkey.",
         "Richly decorated with stained glass and calligraphy."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-ertugrul-gazi-mosque-landmarks-v2.webp"},
   {
     id: "tm-nisa-fortresses-landmarks-v2",
     type: "landmark",
@@ -233,8 +228,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Many ivory rhytons have been discovered here.",
         "Picturesquely located at the foot of the Kopet Dag mountains."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-nisa-fortresses-landmarks-v2.webp"},
   {
     id: "tm-alem-center-landmarks-v2",
     type: "icon",
@@ -272,8 +266,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "The building itself is 95 meters tall.",
         "Combines entertainment with state-of-the-art architecture."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-alem-center-landmarks-v2.webp"},
   {
     id: "tm-yangykala-canyon-landmarks-v2",
     type: "tourist-attraction",
@@ -311,8 +304,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Colors shine most intensely during sunset.",
         "Located deep in the western desert region of Turkmenistan."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-yangykala-canyon-landmarks-v2.webp"},
   {
     id: "tm-awaza-tourist-zone-landmarks-v2",
     type: "landmark",
@@ -350,8 +342,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Features a 7-kilometer-long artificial river system.",
         "Boasts numerous five-star hotels."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-awaza-tourist-zone-landmarks-v2.webp"},
   {
     id: "tm-gonur-depe-landmarks-v2",
     type: "tourist-attraction",
@@ -389,8 +380,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Flourished approximately 4,000 years ago.",
         "Numerous elaborate mosaics were found here."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-gonur-depe-landmarks-v2.webp"},
   {
     id: "tm-ancient-merv-landmarks-v2",
     type: "landmark",
@@ -467,8 +457,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "The pavilions form a traditional Turkmen 'gul' pattern.",
         "You can find everything from camels to fine silk."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-tolkuchka-bazaar-landmarks-v2.webp"},
   {
     id: "tm-turkmen-carpet-museum-landmarks-v2",
     type: "icon",
@@ -506,8 +495,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Showcases antique carpets dating back to the 17th century.",
         "The building's architecture is inspired by a carpet pattern."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-turkmen-carpet-museum-landmarks-v2.webp"},
   {
     id: "tm-national-museum-landmarks-v2",
     type: "monument",
@@ -545,8 +533,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Famous for the ivory rhytons from Nisa.",
         "Was inaugurated in the year 1998."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-national-museum-landmarks-v2.webp"},
   {
     id: "tm-ashgabat-flagpole-landmarks-v2",
     type: "landmark",
@@ -623,8 +610,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "The building is eleven stories high.",
         "Elaborately and colorfully illuminated at night."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-wedding-palace-landmarks-v2.webp"},
   {
     id: "tm-kow-ata-underground-lake-landmarks-v2",
     type: "tourist-attraction",
@@ -662,8 +648,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "The cave is over 250 meters long.",
         "Inhabited by a large bat colony."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-kow-ata-underground-lake-landmarks-v2.webp"},
   {
     id: "tm-kutlug-timur-minaret-landmarks-v2",
     type: "monument",
@@ -701,8 +686,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
         "Survived the destructive Mongol invasions.",
         "Part of the Köneürgenç UNESCO World Heritage site."
       ]
-    }
-  },
+    }, image: "/poi-images/tm-kutlug-timur-minaret-landmarks-v2.webp"},
   {
     id: "tm-dayahatyn-caravanserai-landmarks-v2",
     type: "landmark",

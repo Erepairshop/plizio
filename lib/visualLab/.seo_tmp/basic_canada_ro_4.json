@@ -1,0 +1,123 @@
+{
+  "lang": "ro",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "saskatoon-uranium-mining-economic-v2",
+      "description": "Saskatoon este un centru de servicii pentru sectorul uraniului din Saskatchewan. Ora?ul g?zduie?te firme ?i activit??i legate de exploatare ?i prelucrare.",
+      "facts": [
+        "?n Saskatchewan",
+        "Legat de uraniu",
+        "Centru de servicii"
+      ]
+    },
+    {
+      "id": "nanticoke-steel-plant-economic-v2",
+      "description": "Nanticoke este asociat cu activit??i siderurgice din sudul Ontariului. Zona industrial? a sus?inut mult timp produc?ia de o?el ?i energie.",
+      "facts": [
+        "Sudul Ontariului",
+        "Industrie siderurgic?",
+        "Legat de energie"
+      ]
+    },
+    {
+      "id": "hamilton-port-economic-v2",
+      "description": "Portul Hamilton este unul dintre punctele importante de marf? de pe Marile Lacuri. Sprijin? economia industrial? a ora?ului ?i traficul de m?rfuri.",
+      "facts": [
+        "?n Hamilton, Ontario",
+        "Pe Marile Lacuri",
+        "Port de marf?"
+      ]
+    },
+    {
+      "id": "sarnia-petrochemical-economic-v2",
+      "description": "Sarnia este un centru petrochimic major din sud-vestul Ontariului. Rafinarea ?i procesarea chimic? definesc o mare parte din profilul s?u industrial.",
+      "facts": [
+        "Sud-vestul Ontariului",
+        "Centru petrochimic",
+        "Rafinare ?i chimie"
+      ]
+    },
+    {
+      "id": "charlottetown-port-economic-v2",
+      "description": "Portul Charlottetown deserve?te capitala provinciei Prince Edward Island. Are un rol important pentru transportul maritim ?i economia local?.",
+      "facts": [
+        "?n Charlottetown",
+        "Prince Edward Island",
+        "Transport maritim"
+      ]
+    },
+    {
+      "id": "oilsands-pipe-infrastructure-economic-v2",
+      "description": "Infrastructura de conducte pentru nisipurile bituminoase sus?ine transportul energiei din Alberta. Ea leag? zonele de extrac?ie de rafin?rii ?i terminale.",
+      "facts": [
+        "?n Alberta",
+        "Legat? de nisipurile bituminoase",
+        "Transport energetic"
+      ]
+    },
+    {
+      "id": "st-johns-port-economic-v2",
+      "description": "Portul din St. John's este poarta maritim? principal? a Newfoundland and Labrador. Sus?ine comer?ul, pescuitul ?i leg?turile oceanice.",
+      "facts": [
+        "?n St. John's",
+        "Newfoundland and Labrador",
+        "Port Atlantic"
+      ]
+    },
+    {
+      "id": "baffin-mining-project-economic-v2",
+      "description": "Proiectul minier din Baffin se afl? ?ntr-o zon? arctic? izolat? din Nunavut. Este legat de extrac?ia resurselor ?i de logistic? dificil?.",
+      "facts": [
+        "?n Nunavut",
+        "Zon? arctic? izolat?",
+        "Proiect de resurse"
+      ]
+    },
+    {
+      "id": "fraser-valley-agriculture-logistics-economic-v2",
+      "description": "Fraser Valley este una dintre cele mai importante regiuni agricole din Columbia Britanic?. Logistica local? leag? fermele de pie?ele urbane ?i de export.",
+      "facts": [
+        "?n Columbia Britanic?",
+        "Regiune agricol?",
+        "Legat? de distribu?ie"
+      ]
+    },
+    {
+      "id": "fort-york-toronto-history-v2",
+      "description": "Fort York este un sit istoric din Toronto, asociat cu ?nceputurile defensive ale ora?ului. A fost un punct militar important ?n perioada colonial?.",
+      "facts": [
+        "?n Toronto",
+        "Situl defensiv istoric",
+        "Perioada colonial?"
+      ]
+    },
+    {
+      "id": "battle-of-batoche-history-v2",
+      "description": "B?t?lia de la Batoche a avut loc ?n 1885, ?n actualul Saskatchewan. A fost un moment cheie al Rebeliunii Nord-Vestului.",
+      "facts": [
+        "Anul 1885",
+        "?n Saskatchewan",
+        "Parte din Rebeliunea Nord-Vestului"
+      ]
+    },
+    {
+      "id": "grosse-ile-irish-memorial-history-v2",
+      "description": "Memorialul de pe Grosse-?le evoc? istoria imigran?ilor irlandezi ?i perioada de carantin?. Locul este legat ?n special de criza din 1847.",
+      "facts": [
+        "Pe Grosse-?le",
+        "Legat de imigran?ii irlandezi",
+        "Anul 1847"
+      ]
+    }
+  ]
+}

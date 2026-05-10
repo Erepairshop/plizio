@@ -18,8 +18,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["A 7. században épült", "Aranykupola", "A Templom-hegyen található", "Iszlám szent hely"],
       ro: ["Construit în secolul al VII-lea", "Cupolă de aur", "Situat pe Muntele Templului", "Loc sfânt islamic"],
       en: ["Built in the 7th century", "Golden dome", "Located on the Temple Mount", "Islamic holy site"]
-    }
-  },
+    }, image: "/poi-images/dome-of-the-rock-landmarks-v2.webp"},
   {
     id: "bahai-gardens-haifa-landmarks-v2",
     type: "tourist-attraction",
@@ -37,8 +36,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["19 teraszt foglal magába", "UNESCO Világörökség része", "Báb szentélye", "Kilátás a Földközi-tengerre"],
       ro: ["Cuprinde 19 terase", "Patrimoniul mondial UNESCO", "Altarul lui Báb", "Vedere la Marea Mediterană"],
       en: ["Includes 19 terraces", "UNESCO World Heritage Site", "Shrine of the Báb", "Overlooks the Mediterranean Sea"]
-    }
-  },
+    }, image: "/poi-images/bahai-gardens-haifa-landmarks-v2.webp"},
   {
     id: "jaffa-gate-landmarks-v2",
     type: "landmark",
@@ -56,8 +54,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["A 16. században épült", "Nagy Szulejmán építtette", "A Dávid-toronyra néz", "Az óváros fontos bejárata"],
       ro: ["Construită în secolul al XVI-lea", "Suleiman Magnificul", "Vedere spre Turnul lui David", "Intrare importantă în Orașul Vechi"],
       en: ["Built in the 16th century", "Suleiman the Magnificent", "Overlooks the Tower of David", "Important entrance to the Old City"]
-    }
-  },
+    }, image: "/poi-images/jaffa-gate-landmarks-v2.webp"},
   {
     id: "mount-of-olives-landmarks-v2",
     type: "landmark",
@@ -75,8 +72,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["Történelmi zsidó temető", "Panorámakilátás Jeruzsálemre", "Jézus mennybemenetelének helye", "Számos templom"],
       ro: ["Cimitir evreiesc istoric", "Vedere panoramică asupra Ierusalimului", "Locul Înălțării lui Iisus", "Numeroase biserici"],
       en: ["Historic Jewish cemetery", "Panoramic view of Jerusalem", "Site of Jesus' Ascension", "Numerous churches"]
-    }
-  },
+    }, image: "/poi-images/mount-of-olives-landmarks-v2.webp"},
   {
     id: "basilica-of-annunciation-landmarks-v2",
     type: "icon",
@@ -94,8 +90,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["1969-ben szentelték fel", "A Közel-Kelet legnagyobb keresztény temploma", "Kétszintes épület", "Mária-mozaikok a világ minden tájáról"],
       ro: ["Sfințită în 1969", "Cea mai mare biserică creștină din Orientul Mijlociu", "Două niveluri", "Mozaicuri cu Fecioara Maria din toată lumea"],
       en: ["Consecrated in 1969", "Largest Christian church in the Middle East", "Two levels", "Marian mosaics from around the world"]
-    }
-  },
+    }, image: "/poi-images/basilica-of-annunciation-landmarks-v2.webp"},
   {
     id: "al-aqsa-mosque-landmarks-v2",
     type: "landmark",
@@ -113,8 +108,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["Az iszlám harmadik legszentebb helye", "Ezüstkupola", "5000 hívő befogadására alkalmas", "Eredetileg a 8. században épült"],
       ro: ["Al treilea cel mai sfânt loc al islamului", "Cupolă argintie", "Capacitate pentru 5.000 de credincioși", "Construită inițial în secolul al VIII-lea"],
       en: ["Third holiest site in Islam", "Silver dome", "Accommodates 5,000 worshippers", "Originally built in the 8th century"]
-    }
-  },
+    }, image: "/poi-images/al-aqsa-mosque-landmarks-v2.webp"},
   {
     id: "yad-vashem-landmarks-v2",
     type: "monument",
@@ -132,8 +126,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["1953-ban alapították", "Moshe Safdie tervezte", "A Nevek Csarnoka", "A Világ Igazainak fasora"],
       ro: ["Fondat în 1953", "Arhitectură de Moshe Safdie", "Sala Numelor", "Aleea celor Drepți între Popoare"],
       en: ["Established in 1953", "Architecture by Moshe Safdie", "Hall of Names", "Avenue of the Righteous Among the Nations"]
-    }
-  },
+    }, image: "/poi-images/yad-vashem-landmarks-v2.webp"},
   {
     id: "israel-museum-landmarks-v2",
     type: "tourist-attraction",
@@ -151,8 +144,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["1965-ben alapították", "A Könyv Szentélye", "Az ókori Jeruzsálem makettje", "Isamu Noguchi művészeti kertje"],
       ro: ["Fondat în 1965", "Sanctuarul Cărții", "Model al Ierusalimului antic", "Grădina de artă a lui Isamu Noguchi"],
       en: ["Founded in 1965", "Shrine of the Book", "Model of ancient Jerusalem", "Art garden by Isamu Noguchi"]
-    }
-  },
+    }, image: "/poi-images/israel-museum-landmarks-v2.webp"},
   {
     id: "timna-park-landmarks-v2",
     type: "tourist-attraction",
@@ -170,8 +162,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["Salamon oszlopai", "Ókori rézbányászat", "Gomba szikla", "Színes homokkő"],
       ro: ["Stâlpii lui Solomon", "Minerit antic de cupru", "Stânca ciupercă", "Gresie colorată"],
       en: ["Solomon's Pillars", "Ancient copper mining", "Mushroom Rock", "Colorful sandstone"]
-    }
-  },
+    }, image: "/poi-images/timna-park-landmarks-v2.webp"},
   {
     id: "underwater-observatory-eilat-landmarks-v2",
     type: "tourist-attraction",
@@ -189,8 +180,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["Tengerszint alatti megfigyelőtorony", "Cápa-medence", "Teknős-sziget", "Kilátás négy országra"],
       ro: ["Turn de observație sub nivelul mării", "Bazin cu rechini", "Insula țestoaselor", "Vedere către patru țări"],
       en: ["Observation tower below sea level", "Shark pool", "Turtle Island", "View of four countries"]
-    }
-  },
+    }, image: "/poi-images/underwater-observatory-eilat-landmarks-v2.webp"},
   {
     id: "mount-zion-landmarks-v2",
     type: "landmark",
@@ -208,8 +198,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["Dávid sírja", "Az utolsó vacsora terme", "Elszenderülés apátság", "A Jaffa-kaputól délre található"],
       ro: ["Mormântul lui David", "Sala Cinei cea de Taină", "Abația Dormition", "La sud de Poarta Jaffa"],
       en: ["Tomb of David", "Room of the Last Supper", "Dormition Abbey", "South of Jaffa Gate"]
-    }
-  },
+    }, image: "/poi-images/mount-zion-landmarks-v2.webp"},
   {
     id: "mahane-yehuda-market-landmarks-v2",
     type: "tourist-attraction",
@@ -227,8 +216,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["Súknak is nevezik", "Több mint 250 stand", "Street art a redőnyökön", "Estére szórakozónegyeddé alakul"],
       ro: ["Cunoscută sub numele de Shuk", "Peste 250 de tarabe", "Artă stradală pe obloane", "Se transformă seara într-o zonă de ieșire"],
       en: ["Known as the Shuk", "Over 250 stalls", "Street art on shutters", "Transforms into a nightlife hub at night"]
-    }
-  },
+    }, image: "/poi-images/mahane-yehuda-market-landmarks-v2.webp"},
   {
     id: "white-city-tel-aviv-landmarks-v2",
     type: "icon",
@@ -246,8 +234,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["Több mint 4000 Bauhaus-épület", "UNESCO Világörökség", "Európai bevándorlók építették", "Tiszta vonalak és lapostetők"],
       ro: ["Peste 4.000 de clădiri Bauhaus", "Patrimoniul mondial UNESCO", "Construit de imigranți europeni", "Linii curate și acoperișuri plate"],
       en: ["Over 4,000 Bauhaus buildings", "UNESCO World Heritage Site", "Built by European immigrants", "Clean lines and flat roofs"]
-    }
-  },
+    }, image: "/poi-images/white-city-tel-aviv-landmarks-v2.webp"},
   {
     id: "mount-of-beatitudes-landmarks-v2",
     type: "landmark",
@@ -265,8 +252,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["Bizánci stílusú templom", "Nyolcszögletű alaprajz", "Kilátás a Galileai-tengerre", "Békés kertek"],
       ro: ["Biserică în stil bizantin", "Formă octogonală", "Vedere la Marea Galileii", "Grădini pașnice"],
       en: ["Byzantine-style church", "Octagonal shape", "View of the Sea of Galilee", "Peaceful gardens"]
-    }
-  },
+    }, image: "/poi-images/mount-of-beatitudes-landmarks-v2.webp"},
   {
     id: "yardenit-baptismal-site-landmarks-v2",
     type: "tourist-attraction",
@@ -284,8 +270,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["A Galileai-tenger kifolyásánál fekszik", "A Kinneret kibuc üzemelteti", "Évente több mint félmillió látogató", "Szentírásfalak sok nyelven"],
       ro: ["La ieșirea din Marea Galileii", "Administrat de Kibbutzul Kinneret", "Peste jumătate de milion de vizitatori anual", "Ziduri cu scripturi în multe limbi"],
       en: ["At the outflow of the Sea of Galilee", "Managed by Kibbutz Kinneret", "Over half a million visitors annually", "Scripture walls in many languages"]
-    }
-  },
+    }, image: "/poi-images/yardenit-baptismal-site-landmarks-v2.webp"},
   {
     id: "makhtesh-ramon-landmarks-v2",
     type: "landmark",
@@ -303,8 +288,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["A világ legnagyobb eróziós krátere", "40 km hosszú", "Több millió év alatt alakult ki", "Kőszáli kecskék otthona"],
       ro: ["Cel mai mare crater de eroziune din lume", "Lungime de 40 km", "Format pe parcursul a milioane de ani", "Casă pentru ibexul nubian"],
       en: ["Largest erosion crater in the world", "40 km long", "Formed over millions of years", "Home to Nubian ibex"]
-    }
-  },
+    }, image: "/poi-images/makhtesh-ramon-landmarks-v2.webp"},
   {
     id: "mount-tabor-landmarks-v2",
     type: "landmark",
@@ -322,8 +306,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["588 méter magas", "A Színeváltozás bazilikája a csúcson", "Fontos ószövetségi helyszín", "Panorámakilátás Galileára"],
       ro: ["588 metri înălțime", "Bazilica Schimbării la Față în vârf", "Loc important în Vechiul Testament", "Vedere panoramică asupra Galileii"],
       en: ["588 meters high", "Church of the Transfiguration at the summit", "Important site in the Old Testament", "Panoramic view of Galilee"]
-    }
-  },
+    }, image: "/poi-images/mount-tabor-landmarks-v2.webp"},
   {
     id: "beit-guvrin-caves-landmarks-v2",
     type: "tourist-attraction",
@@ -341,8 +324,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["Harangbarlangok", "Kolumbáriumok galambtenyésztéshez", "UNESCO Világörökség része", "Régészeti feltárások"],
       ro: ["Peșteri în formă de clopot", "Columbare pentru creșterea porumbeilor", "Patrimoniul mondial UNESCO", "Săpături arheologice"],
       en: ["Bell caves", "Columbaria for raising doves", "UNESCO World Heritage Site", "Archaeological excavations"]
-    }
-  },
+    }, image: "/poi-images/beit-guvrin-caves-landmarks-v2.webp"},
   {
     id: "gethsemane-landmarks-v2",
     type: "landmark",
@@ -360,8 +342,7 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
       hu: ["A Nemzetek temploma", "Ősi olajfák", "Jézus letartóztatásának helyszíne", "Jelentős zarándokhely"],
       ro: ["Biserica Tuturor Națiunilor", "Măslini străvechi", "Locul arestării lui Iisus", "Loc de pelerinaj important"],
       en: ["Church of All Nations", "Ancient olive trees", "Site of Jesus' arrest", "Important pilgrimage site"]
-    }
-  },
+    }, image: "/poi-images/gethsemane-landmarks-v2.webp"},
   {
     id: "azrieli-center-landmarks-v2",
     type: "landmark",

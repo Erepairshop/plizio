@@ -1,0 +1,105 @@
+{
+  "lang": "ro",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "science-world-vancouver-life-v2",
+      "description": "Science World din Vancouver este centrul ?tiin?ific de la cap?tul False Creek, recunoscut pentru domul s?u geodezic. Expune teme de ?tiin?? ?i tehnologie ?ntr-un format interactiv.",
+      "facts": [
+        "?n Vancouver",
+        "Pe False Creek",
+        "Centru interactiv de ?tiin??"
+      ]
+    },
+    {
+      "id": "mount-assiniboine-nature-v2",
+      "description": "Mount Assiniboine este un v?rf proeminent din Mun?ii St?nco?i canadieni, la grani?a dintre Alberta ?i Columbia Britanic?. Este unul dintre cele mai cunoscute puncte alpine din regiune.",
+      "facts": [
+        "?n Mun?ii St?nco?i",
+        "La grani?a Alberta-Columbia Britanic?",
+        "V?rf alpin cunoscut"
+      ]
+    },
+    {
+      "id": "south-nahanni-river-nature-v2",
+      "description": "South Nahanni River curge printr-o zon? s?lbatic? din Teritoriile de Nord-Vest. Cursul s?u este asociat cu canioane, repezi?uri ?i peisaje izolate.",
+      "facts": [
+        "?n Teritoriile de Nord-Vest",
+        "Zon? s?lbatic?",
+        "Canioane ?i repezi?uri"
+      ]
+    },
+    {
+      "id": "great-slave-lake-nature-v2",
+      "description": "Great Slave Lake este cel mai ad?nc lac mare din Canada ?i se afl? ?n Teritoriile de Nord-Vest. Este un element geografic major al nordului canadian.",
+      "facts": [
+        "?n Teritoriile de Nord-Vest",
+        "Lac foarte ad?nc",
+        "Printre cele mai mari lacuri canadiene"
+      ]
+    },
+    {
+      "id": "haida-gwaii-islands-nature-v2",
+      "description": "Haida Gwaii este un arhipelag de pe coasta Columbiei Britanice, cunoscut pentru biodiversitate ?i pentru patrimoniul Haida. Izolarea sa i-a p?strat caracterul aparte.",
+      "facts": [
+        "Pe coasta Columbiei Britanice",
+        "Arhipelag",
+        "Patrimoniu Haida"
+      ]
+    },
+    {
+      "id": "coast-mountains-relief-v2",
+      "description": "Coast Mountains formeaz? lan?ul muntos de-a lungul coastei Columbiei Britanice. Relieful lor abrupt influen?eaz? clima ?i transportul regional.",
+      "facts": [
+        "?n Columbia Britanic?",
+        "Lan? muntos de coast?",
+        "Relief abrupt"
+      ]
+    },
+    {
+      "id": "laurentian-mountains-relief-v2",
+      "description": "Mun?ii Laurentieni sunt un lan? vechi din Quebec ?i estul Ontariului. Zona este cunoscut? pentru relief domol, p?duri ?i lacuri.",
+      "facts": [
+        "?n Quebec ?i Ontario",
+        "Lan? muntos vechi",
+        "P?duri ?i lacuri"
+      ]
+    },
+    {
+      "id": "columbia-icefield-relief-v2",
+      "description": "Columbia Icefield este un c?mp glaciar din Mun?ii St?nco?i canadieni. Din el pornesc mai mul?i ghe?ari cunoscu?i din Alberta.",
+      "facts": [
+        "?n Alberta",
+        "C?mp glaciar",
+        "Sursa mai multor ghe?ari"
+      ]
+    },
+    {
+      "id": "mackenzie-mountains-relief-v2",
+      "description": "Mun?ii Mackenzie se ?ntind ?n vestul Teritoriilor de Nord-Vest ?i ?n Yukon. Sunt o regiune montan? izolat?, cu relief dur ?i pu?in accesibil.",
+      "facts": [
+        "?n nord-vestul Canadei",
+        "Mun?i izola?i",
+        "Relief dur"
+      ]
+    },
+    {
+      "id": "torngat-mountains-relief-v2",
+      "description": "Mun?ii Torngat se afl? ?n nordul Labradorului ?i al Quebecului, ?n zona arctic?. Sunt printre cele mai s?lbatice ?i mai ?nalte reliefuri din estul Canadei.",
+      "facts": [
+        "?n Labrador ?i Quebec",
+        "Zon? arctic?",
+        "Relief ?nalt ?i s?lbatic"
+      ]
+    }
+  ]
+}

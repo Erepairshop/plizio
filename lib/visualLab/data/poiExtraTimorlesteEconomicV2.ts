@@ -13,8 +13,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Az északi parton fekszik.", "Jelentős Dili számára."],
       ro: ["Situată pe coasta de nord.", "Importantă pentru Dili."],
       en: ["Located on the north coast.", "Important for Dili."]
-    }
-  },
+    }, image: "/poi-images/hera-power-plant-economic-v2.webp"},
   {
     id: "tibar-bay-port-economic-v2",
     type: "port",
@@ -27,8 +26,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Modern infrastrukturális projekt.", "Tehermentesíti Dili kikötőjét."],
       ro: ["Proiect de infrastructură modernă.", "Decongestionază portul Dili."],
       en: ["Modern infrastructure project.", "Relieves the port of Dili."]
-    }
-  },
+    }, image: "/poi-images/tibar-bay-port-economic-v2.webp"},
   {
     id: "betano-power-plant-economic-v2",
     type: "energy",
@@ -41,8 +39,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["A déli parton fekszik.", "Támogatja a helyi ipart."],
       ro: ["Situată pe coasta de sud.", "Sprijină industria locală."],
       en: ["Located on the south coast.", "Supports local industry."]
-    }
-  },
+    }, image: "/poi-images/betano-power-plant-economic-v2.webp"},
   {
     id: "suai-supply-base-economic-v2",
     type: "industry",
@@ -55,8 +52,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Tengeri projektek központja.", "A Tasi Mane projekt része."],
       ro: ["Centru pentru proiecte offshore.", "Parte a proiectului Tasi Mane."],
       en: ["Center for offshore projects.", "Part of the Tasi Mane project."]
-    }
-  },
+    }, image: "/poi-images/suai-supply-base-economic-v2.webp"},
   {
     id: "dili-seaport-economic-v2",
     type: "port",
@@ -69,8 +65,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Történelmi csomópont.", "Fókusz az utasokon."],
       ro: ["Nod istoric.", "Concentrare pe pasageri."],
       en: ["Historical hub.", "Focus on passengers."]
-    }
-  },
+    }, image: "/poi-images/dili-seaport-economic-v2.webp"},
   {
     id: "gleno-coffee-processing-economic-v2",
     type: "industry",
@@ -111,8 +106,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Fontos építőanyag.", "A helyi geológiát használja."],
       ro: ["Important material de construcție.", "Utilizează geologia locală."],
       en: ["Important building material.", "Utilizes local geology."]
-    }
-  },
+    }, image: "/poi-images/baucau-limestone-quarry-economic-v2.webp"},
   {
     id: "com-fishing-port-economic-v2",
     type: "port",
@@ -139,8 +133,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["ZEESM néven ismert.", "A befektetések ösztönzése."],
       ro: ["Cunoscut sub numele de ZEESM.", "Promovarea investițiilor."],
       en: ["Known as ZEESM.", "Promoting investments."]
-    }
-  },
+    }, image: "/poi-images/oecusse-special-economic-zone-economic-v2.webp"},
   {
     id: "viqueque-oil-seeps-economic-v2",
     type: "energy",
@@ -153,8 +146,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Természetes olaj.", "Kutatási potenciál."],
       ro: ["Petrol natural.", "Potențial de explorare."],
       en: ["Natural oil.", "Exploration potential."]
-    }
-  },
+    }, image: "/poi-images/viqueque-oil-seeps-economic-v2.webp"},
   {
     id: "maliana-border-trade-center-economic-v2",
     type: "trade-hub",
@@ -181,8 +173,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Támogatja a méltányos kereskedelmet.", "Támogatja a helyi gazdákat."],
       ro: ["Promovează comerțul echitabil.", "Sprijină fermierii locali."],
       en: ["Promotes fair trade.", "Supports local farmers."]
-    }
-  },
+    }, image: "/poi-images/ermera-coffee-coop-economic-v2.webp"},
   {
     id: "lospalos-timber-mill-economic-v2",
     type: "industry",
@@ -195,8 +186,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Helyi fát dolgoz fel.", "Fontos az építkezéshez."],
       ro: ["Procesează lemn local.", "Important pentru construcții."],
       en: ["Processes local wood.", "Important for construction."]
-    }
-  },
+    }, image: "/poi-images/lospalos-timber-mill-economic-v2.webp"},
   {
     id: "pelican-paradise-resort-project-economic-v2",
     type: "industry",
@@ -209,8 +199,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Külföldi befektetés.", "Ökoturizmus központja."],
       ro: ["Investiție străină.", "Centru pentru ecoturism."],
       en: ["Foreign investment.", "Center for ecotourism."]
-    }
-  },
+    }, image: "/poi-images/pelican-paradise-resort-project-economic-v2.webp"},
   {
     id: "atauro-eco-tourism-hub-economic-v2",
     type: "trade-hub",
@@ -223,8 +212,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Fenntartható fejlődés.", "Világszínvonalú búvárkodás."],
       ro: ["Dezvoltare durabilă.", "Scufundări de talie mondială."],
       en: ["Sustainable development.", "World-class diving."]
-    }
-  },
+    }, image: "/poi-images/atauro-eco-tourism-hub-economic-v2.webp"},
   {
     id: "manatuto-salt-works-economic-v2",
     type: "industry",
@@ -237,8 +225,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Hagyományos módszerek.", "Fontos a partmenti közösségeknek."],
       ro: ["Metode tradiționale.", "Important pentru comunitățile de coastă."],
       en: ["Traditional methods.", "Important for coastal communities."]
-    }
-  },
+    }, image: "/poi-images/manatuto-salt-works-economic-v2.webp"},
   {
     id: "liquica-cement-plant-economic-v2",
     type: "industry",
@@ -251,8 +238,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Építőanyagot gyárt.", "Támogatja az infrastruktúrát."],
       ro: ["Produce materiale de construcție.", "Promovează infrastructura."],
       en: ["Produces building material.", "Promotes infrastructure."]
-    }
-  },
+    }, image: "/poi-images/liquica-cement-plant-economic-v2.webp"},
   {
     id: "pante-macassar-port-economic-v2",
     type: "port",
@@ -265,8 +251,7 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
       hu: ["Összeköti Oecusse-t.", "A ZEESM része."],
       ro: ["Conectează Oecusse.", "Parte a ZEESM."],
       en: ["Connects Oecusse.", "Part of ZEESM."]
-    }
-  },
+    }, image: "/poi-images/pante-macassar-port-economic-v2.webp"},
   {
     id: "inur-sacrato-power-station-economic-v2",
     type: "energy",

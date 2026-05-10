@@ -1,0 +1,20 @@
+{
+  "lang": "ro",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rumonge-arab-traders-history-v2",
+      "description": "Cartierul istoric din Rumonge poartă urmele comerțului arabil din secolul al XIX-lea. Zona arată cum rețelele comerciale de pe coasta Tanganyikăi au modelat viața locală.",
+      "facts": ["secolul XIX", "influență arabă", "comerț pe lac"]
+    }
+  ]
+}

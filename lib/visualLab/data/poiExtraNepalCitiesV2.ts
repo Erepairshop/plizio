@@ -41,8 +41,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Gyorsan fejlődő infrastruktúrával rendelkezik.",
         "A helyi gazdaság alapja a mezőgazdaság és a kereskedelem."
       ]
-    },
-  },
+    }, image: "/poi-images/ghorahi-cities-v2.webp"},
   {
     id: "budhanilkantha-cities-v2",
     type: "city",
@@ -83,8 +82,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Népszerű kiindulópont túrázáshoz.",
         "Csendesebb, zöldebb környezet, mint Katmandu központja."
       ]
-    },
-  },
+    }, image: "/poi-images/budhanilkantha-cities-v2.webp"},
   {
     id: "tarakeshwar-cities-v2",
     type: "city",
@@ -125,8 +123,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "A Nuwakot kerülettel határos.",
         "Fejlődő infrastruktúrával rendelkezik."
       ]
-    }
-  },
+    }, image: "/poi-images/tarakeshwar-cities-v2.webp"},
   {
     id: "tilottama-cities-v2",
     type: "city",
@@ -167,8 +164,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Közel van Lumbinihez, Buddha szülőhelyéhez.",
         "Gyors gazdasági és népességnövekedés jellemzi."
       ]
-    }
-  },
+    }, image: "/poi-images/tilottama-cities-v2.webp"},
   {
     id: "gokarneshwar-cities-v2",
     type: "city",
@@ -209,8 +205,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Fontos zöldterület a völgy számára.",
         "A Kushe Aunsi (Apák napja) ünnepségek központja."
       ]
-    }
-  },
+    }, image: "/poi-images/gokarneshwar-cities-v2.webp"},
   {
     id: "kalaiya-cities-v2",
     type: "city",
@@ -251,8 +246,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Az indiai határ közelében fekszik.",
         "A környező területeken főként rizst, búzát és cukornádat termesztenek."
       ]
-    }
-  },
+    }, image: "/poi-images/kalaiya-cities-v2.webp"},
   {
     id: "suryabinayak-cities-v2",
     type: "city",
@@ -293,8 +287,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "A közelben található a nemzeti állatkert.",
         "Fontos zarándokhely, különösen keddenként."
       ]
-    }
-  },
+    }, image: "/poi-images/suryabinayak-cities-v2.webp"},
   {
     id: "chandragiri-cities-v2",
     type: "city",
@@ -335,8 +328,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Lakossága megközelíti a 136 000 főt.",
         "Népszerű turisztikai és zarándokhely."
       ]
-    }
-  },
+    }, image: "/poi-images/chandragiri-cities-v2.webp"},
   {
     id: "tokha-cities-v2",
     type: "city",
@@ -377,8 +369,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "A környező területeken zöldségtermesztés folyik.",
         "Az északi kapuja Katmandunak."
       ]
-    }
-  },
+    }, image: "/poi-images/tokha-cities-v2.webp"},
   {
     id: "kageshwari-manohara-cities-v2",
     type: "city",
@@ -419,8 +410,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Különböző etnikai csoportok lakják.",
         "A Kageshwari-templom fontos helyi zarándokhely."
       ]
-    }
-  },
+    }, image: "/poi-images/kageshwari-manohara-cities-v2.webp"},
   {
     id: "bhimdatta-cities-v2",
     type: "city",
@@ -461,8 +451,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Oktatási központ a Távol-Nyugati régióban.",
         "A gazdaság alapja a kereskedelem, mezőgazdaság és turizmus."
       ]
-    }
-  },
+    }, image: "/poi-images/bhimdatta-cities-v2.webp"},
   {
     id: "mahalaxmi-cities-v2",
     type: "city",
@@ -503,8 +492,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Számos új lakó- és kereskedelmi építkezés zajlik.",
         "A gyors növekedés kezelése a fő kihívás."
       ]
-    }
-  },
+    }, image: "/poi-images/mahalaxmi-cities-v2.webp"},
   {
     id: "madhyapur-thimi-cities-v2",
     type: "city",
@@ -545,8 +533,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Az óváros a newar építészet élő múzeuma.",
         "A zöldségtermesztés fontos szerepet játszik."
       ]
-    }
-  },
+    }, image: "/poi-images/madhyapur-thimi-cities-v2.webp"},
   {
     id: "jitpursimara-cities-v2",
     type: "city",
@@ -587,8 +574,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "A Parsa Nemzeti Park közelében helyezkedik el.",
         "Gazdasági jelentőségét a kereskedelem és az ipar adja."
       ]
-    }
-  },
+    }, image: "/poi-images/jitpursimara-cities-v2.webp"},
   {
     id: "birtamod-cities-v2",
     type: "city",
@@ -629,8 +615,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "A gazdaság fő mozgatórugója a mezőgazdasági termékek kereskedelme.",
         "Közel van az ilami teaültetvényekhez."
       ]
-    }
-  },
+    }, image: "/poi-images/birtamod-cities-v2.webp"},
   {
     id: "nagarjun-cities-v2",
     type: "city",
@@ -671,8 +656,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
         "Panorámás kilátást nyújt a Katmandu-völgyre.",
         "Spirituális jelentőséggel bír a buddhisták számára."
       ]
-    }
-  },
+    }, image: "/poi-images/nagarjun-cities-v2.webp"},
   {
     id: "lahan-cities-v2",
     type: "city",
@@ -695,8 +679,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["Fontos piac a régióban", "Sagarmatha Choudhary Szemkórház", "Lakossága több mint 102 000", "A Siraha kerületben található"],
       ro: ["Piață importantă în regiune", "Spitalul de ochi Sagarmatha Choudhary", "Populație de peste 102.000", "Situat în districtul Siraha"],
       en: ["Major market in the region", "Sagarmatha Choudhary Eye Hospital", "Population over 102,000", "Located in Siraha District"]
-    }
-  },
+    }, image: "/poi-images/lahan-cities-v2.webp"},
   {
     id: "triyuga-cities-v2",
     type: "city",
@@ -719,8 +702,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["Az Udayapur kerület fővárosa", "Központja Gaighat", "Növekvő kereskedelmi központ", "Lakossága több mint 102 000"],
       ro: ["Capitala districtului Udayapur", "Centrul este Gaighat", "Centru comercial în creștere", "Populație de peste 102.000"],
       en: ["Headquarters of Udayapur District", "Center is Gaighat", "Growing commercial hub", "Population over 102,000"]
-    }
-  },
+    }, image: "/poi-images/triyuga-cities-v2.webp"},
   {
     id: "kohalpur-cities-v2",
     type: "city",
@@ -743,8 +725,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont", "A Banke kerületben található", "Gyors népességnövekedés", "Lakossága több mint 100 000"],
       ro: ["Nod de transport important", "Situat în districtul Banke", "Creștere rapidă a populației", "Populație de peste 100.000"],
       en: ["Major transportation junction", "Located in Banke District", "Rapid population growth", "Population over 100,000"]
-    }
-  },
+    }, image: "/poi-images/kohalpur-cities-v2.webp"},
   {
     id: "tikapur-cities-v2",
     type: "city",
@@ -767,8 +748,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["Híres a Tikapur Nagy Kertről", "A Kailali kerületben található", "Mezőgazdasági központ", "Lakossága közel 90 000"],
       ro: ["Renumit pentru Grădina Mare Tikapur", "Situat în districtul Kailali", "Centru agricol", "Populație de aproape 90.000"],
       en: ["Famous for the Tikapur Great Garden", "Located in Kailali District", "Agricultural hub", "Population of nearly 90,000"]
-    }
-  },
+    }, image: "/poi-images/tikapur-cities-v2.webp"},
   {
     id: "siraha-cities-v2",
     type: "city",
@@ -791,8 +771,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["A Siraha kerület fővárosa", "Történelmi templomok és tavak", "Helyi piactér", "Lakossága több mint 87 000"],
       ro: ["Capitala districtului Siraha", "Temple și iazuri istorice", "Piață locală", "Populație de peste 87.000"],
       en: ["Headquarters of Siraha District", "Historical temples and ponds", "Local marketplace", "Population over 87,000"]
-    }
-  },
+    }, image: "/poi-images/siraha-cities-v2.webp"},
   {
     id: "inaruwa-cities-v2",
     type: "city",
@@ -815,8 +794,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["A Sunsari kerület fővárosa", "Közigazgatási központ", "A Terai-alföldön fekszik", "Lakossága több mint 75 000"],
       ro: ["Capitala districtului Sunsari", "Centru administrativ", "Situat în câmpia Terai", "Populație de peste 75.000"],
       en: ["Headquarters of Sunsari District", "Administrative hub", "Located in the Terai plains", "Population over 75,000"]
-    }
-  },
+    }, image: "/poi-images/inaruwa-cities-v2.webp"},
   {
     id: "rajbiraj-cities-v2",
     type: "city",
@@ -839,8 +817,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["A Saptari kerület fővárosa", "Nepál első tervezett városa", "Fontos egészségügyi központ", "Lakossága közel 74 000 fő"],
       ro: ["Capitala districtului Saptari", "Primul oraș planificat din Nepal", "Centru de sănătate important", "Populație de aproape 74.000"],
       en: ["Headquarters of Saptari District", "First planned town of Nepal", "Major health center", "Population of nearly 74,000"]
-    }
-  },
+    }, image: "/poi-images/rajbiraj-cities-v2.webp"},
   {
     id: "gulariya-cities-v2",
     type: "city",
@@ -863,8 +840,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["A Bardiya kerület fővárosa", "A Bardiya Nemzeti Park kapuja", "Közel az indiai határhoz", "Lakossága több mint 71 000"],
       ro: ["Capitala districtului Bardiya", "Poarta de acces către Parcul Național Bardiya", "Aproape de granița cu India", "Populație de peste 71.000"],
       en: ["Headquarters of Bardiya District", "Gateway to Bardiya National Park", "Near the Indian border", "Population over 71,000"]
-    }
-  },
+    }, image: "/poi-images/gulariya-cities-v2.webp"},
   {
     id: "bhadrapur-cities-v2",
     type: "city",
@@ -887,8 +863,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["Kelet-Nepál fontos repülőtere", "A teakereskedelem központja", "Indiai határhoz közeli fekvés", "Lakossága több mint 71 000"],
       ro: ["Aeroport important pentru estul Nepalului", "Centrul comerțului cu ceai", "Situat aproape de granița cu India", "Populație de peste 71.000"],
       en: ["Major airport for eastern Nepal", "Center of the tea trade", "Located near the Indian border", "Population over 71,000"]
-    }
-  },
+    }, image: "/poi-images/bhadrapur-cities-v2.webp"},
   {
     id: "banepa-cities-v2",
     type: "city",
@@ -911,8 +886,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["Történelmi kereskedelmi központ", "Az Arniko autópálya mentén fekszik", "Híres a Chandeshwori templomról", "Lakossága több mint 67 000"],
       ro: ["Centru comercial istoric", "Situat pe autostrada Arniko", "Renumit pentru Templul Chandeshwori", "Populație de peste 67.000"],
       en: ["Historical trade hub", "Located on the Arniko Highway", "Famous for the Chandeshwori Temple", "Population over 67,000"]
-    }
-  },
+    }, image: "/poi-images/banepa-cities-v2.webp"},
   {
     id: "baglung-cities-v2",
     type: "city",
@@ -935,8 +909,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["A Baglung kerület fővárosa", "A függőhidak városa", "Kalika Bhagawati templom", "Lakossága több mint 56 000"],
       ro: ["Capitala districtului Baglung", "Orașul podurilor suspendate", "Templul Kalika Bhagawati", "Populație de peste 56.000"],
       en: ["Headquarters of Baglung District", "City of suspension bridges", "Kalika Bhagawati Temple", "Population over 56,000"]
-    }
-  },
+    }, image: "/poi-images/baglung-cities-v2.webp"},
   {
     id: "waling-cities-v2",
     type: "city",
@@ -959,8 +932,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["A Syangja kerületben található", "Híres a narancstermesztésről", "A Siddhartha autópálya mentén", "Lakossága több mint 51 000"],
       ro: ["Situat în districtul Syangja", "Renumit pentru cultivarea portocalelor", "Pe autostrada Siddhartha", "Populație de peste 51.000"],
       en: ["Located in Syangja District", "Famous for orange cultivation", "On the Siddhartha Highway", "Population over 51,000"]
-    }
-  },
+    }, image: "/poi-images/waling-cities-v2.webp"},
   {
     id: "malangwa-cities-v2",
     type: "city",
@@ -983,8 +955,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       hu: ["A Sarlahi kerület fővárosa", "Közvetlenül az indiai határon", "Fontos agrárpiac", "Lakossága több mint 51 000"],
       ro: ["Capitala districtului Sarlahi", "Chiar la granița cu India", "Piață agricolă importantă", "Populație de peste 51.000"],
       en: ["Headquarters of Sarlahi District", "Right on the Indian border", "Major agricultural market", "Population over 51,000"]
-    }
-  },
+    }, image: "/poi-images/malangwa-cities-v2.webp"},
   {
     id: "gaur-cities-v2",
     type: "city",

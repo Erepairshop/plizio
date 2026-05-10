@@ -9,10 +9,10 @@ export const poiExtraCanadaReliefV2: POI[] = [
     coords: [-125.0, 54.0],
     name: { de: "Coast Mountains", hu: "Parti-hegység", ro: "Munții Coastei", en: "Coast Mountains" },
     description: { 
-      de: "Ein bedeutendes Gebirge entlang der Pazifikküste Kanadas, das für seine dichten Wälder bekannt ist.", 
-      hu: "Jelentős hegylánc Kanada csendes-óceáni partvidékén, mely sűrű erdeiről ismert.", 
-      ro: "Un lanț muntos major de-a lungul coastei Pacificului din Canada, cunoscut pentru pădurile sale.", 
-      en: "A major mountain range along the Pacific coast of Canada, known for its dense forests."
+      de: "Die Coast Mountains bilden eine mächtige Gebirgskette entlang der Pazifikküste von British Columbia.", 
+      hu: "A Coast Mountains a Csendes-óceán partja mentén húzódó nagy hegyvonulat Brit Columbiában. Meredek lejtők, fjordok és jég által formált völgyek jellemzik.", 
+      ro: "Coast Mountains formeaz? lan?ul muntos de-a lungul coastei Columbiei Britanice. Relieful lor abrupt influen?eaz? clima ?i transportul regional.", 
+      en: "The Coast Mountains form a dramatic mountain range along the Pacific edge of British Columbia. Their steep slopes, glaciers, and fjords shape the province's western landscape."
     },
     descriptionAdvanced: {
       de: "Die Coast Mountains erstrecken sich entlang der pazifischen Küste von British Columbia und gehören zu den spektakulärsten Gebirgszügen Kanadas. Sie zeichnen sich durch tiefe Fjorde, massive Gletscher und steile Gipfel aus, die oft direkt vom Meer aus ansteigen. Geografie K7 — Gebirgsbildung und Klimazonen."
@@ -27,10 +27,10 @@ export const poiExtraCanadaReliefV2: POI[] = [
     coords: [-74.0, 47.0],
     name: { de: "Laurentinische Berge", hu: "Laurentides-hegység", ro: "Munții Laurentian", en: "Laurentian Mountains" },
     description: { 
-      de: "Eines der ältesten Gebirge der Welt im südlichen Québec, ideal für Wintersport.", 
-      hu: "A világ egyik legrégebbi hegysége Québec déli részén, kiváló téli sportokhoz.", 
-      ro: "Unul dintre cei mai vechi munți din lume în sudul Québecului, ideal pentru sporturi de iarnă.", 
-      en: "One of the oldest mountain ranges in the world in southern Quebec, ideal for winter sports."
+      de: "Die Laurentian Mountains sind ein altes, bewaldetes Hügelland nördlich von Montréal.", 
+      hu: "A Laurentian-hegység Québec egyik legrégebbi domb- és hegyvidéke. A Scut Canadian ősi kőzeteiből felépülő táj sok tóval és erdővel tagolt.", 
+      ro: "Mun?ii Laurentieni sunt un lan? vechi din Quebec ?i estul Ontariului. Zona este cunoscut? pentru relief domol, p?duri ?i lacuri.", 
+      en: "The Laurentian Mountains are an ancient mountain range in Quebec north of the St. Lawrence River. Their rounded hills and lakes give the region a classic Canadian Shield look."
     },
     descriptionAdvanced: {
       de: "Die Laurentian Mountains in der Provinz Québec sind eines der ältesten Gebirge der Welt. Sie bestehen aus einem tief erodierten Hochland, das heute für seine dichten Wälder und zahlreiche Seen als beliebtes Erholungsgebiet dient. Geografie K6 — Geologische Zeitgeschichte."
@@ -45,10 +45,10 @@ export const poiExtraCanadaReliefV2: POI[] = [
     coords: [-117.2, 52.1],
     name: { de: "Columbia-Eisfeld", hu: "Columbia-jégmező", ro: "Câmpul de gheață Columbia", en: "Columbia Icefield" },
     description: { 
-      de: "Das größte Eisfeld in den kanadischen Rocky Mountains, gelegen an der kontinentalen Wasserscheide.", 
-      hu: "A kanadai Sziklás-hegység legnagyobb jégmezője, a kontinentális vízválasztón fekszik.", 
-      ro: "Cel mai mare câmp de gheață din Munții Stâncoși Canadieni, situat pe cumpăna apelor.", 
-      en: "The largest icefield in the Canadian Rockies, located along the Continental Divide."
+      de: "Das Columbia Icefield ist ein großes Eisfeld in den Rocky Mountains zwischen Jasper und Banff.", 
+      hu: "A Columbia Icefield a Kanadai Sziklás-hegység nagy jégmezője. Alberta és Brit Columbia határvidékén több gleccser forrása is innen indul.", 
+      ro: "Columbia Icefield este un c?mp glaciar din Mun?ii St?nco?i canadieni. Din el pornesc mai mul?i ghe?ari cunoscu?i din Alberta.", 
+      en: "The Columbia Icefield is a huge ice-covered area in the Canadian Rockies between Alberta and British Columbia. It feeds several major river systems and attracts many visitors."
     },
     descriptionAdvanced: {
       de: "Das Columbia Icefield in den Rocky Mountains ist das größte Eisfeld der südlichen Rocky Mountains. Es speist mehrere Flüsse und bildet ein beeindruckendes natürliches Reservoir für Süßwasser in einer hochalpinen Landschaft. Geografie K7 — Glaziale Prozesse."
@@ -63,10 +63,10 @@ export const poiExtraCanadaReliefV2: POI[] = [
     coords: [-128.0, 63.5],
     name: { de: "Mackenzie-Gebirge", hu: "Mackenzie-hegység", ro: "Munții Mackenzie", en: "Mackenzie Mountains" },
     description: { 
-      de: "Eine abgelegene Gebirgskette im kanadischen Norden, die eine natürliche Grenze zum Yukon bildet.", 
-      hu: "Távoli hegylánc a kanadai északon, mely természetes határt képez Yukon felé.", 
-      ro: "Un lanț muntos izolat în nordul Canadei, formând o graniță naturală cu Yukon.", 
-      en: "A remote mountain range in the Canadian North, forming a natural boundary with Yukon."
+      de: "Die Mackenzie Mountains sind eine abgelegene Gebirgskette im Nordwesten Kanadas nahe der Yukon-Grenze.", 
+      hu: "A Mackenzie-hegység Kanada északi részének távoli hegyvidéke. A zord terep és a ritka települések miatt vadon jellegű tájként ismert.", 
+      ro: "Mun?ii Mackenzie se ?ntind ?n vestul Teritoriilor de Nord-Vest ?i ?n Yukon. Sunt o regiune montan? izolat?, cu relief dur ?i pu?in accesibil.", 
+      en: "The Mackenzie Mountains are a remote mountain chain in the Northwest Territories and Yukon. They are part of the Canadian Cordillera and remain a rugged wilderness region."
     },
     descriptionAdvanced: {
       de: "Die Mackenzie Mountains bilden einen Teil der kanadischen Kordilleren und ziehen sich durch die Nordwest-Territorien und Yukon. Sie bieten eine raue und nahezu unberührte Wildnis, die nur wenigen Menschen zugänglich ist. Geografie K7 — Gebirgsketten der Wildnis."
@@ -81,10 +81,10 @@ export const poiExtraCanadaReliefV2: POI[] = [
     coords: [-64.0, 59.0],
     name: { de: "Torngatberge", hu: "Torngat-hegység", ro: "Munții Torngat", en: "Torngat Mountains" },
     description: { 
-      de: "Die höchsten Berge im kanadischen Festland östlich der Rocky Mountains, gelegen in Labrador.", 
-      hu: "A kanadai szárazföld legmagasabb hegyei a Sziklás-hegységtől keletre, Labradorban.", 
-      ro: "Cei mai înalți munți continentali la est de Munții Stâncoși, în Labrador.", 
-      en: "The highest mainland mountains east of the Rockies, located in Labrador."
+      de: "Die Torngat Mountains bilden eine schroffe arktische Gebirgskette im Norden Labradors.", 
+      hu: "A Torngat-hegység Labrador északi csúcsainál emelkedik. Jeges csúcsai és mély völgyei Kanada egyik legsarkibb hegyvidéki táját adják.", 
+      ro: "Mun?ii Torngat se afl? ?n nordul Labradorului ?i al Quebecului, ?n zona arctic?. Sunt printre cele mai s?lbatice ?i mai ?nalte reliefuri din estul Canadei.", 
+      en: "The Torngat Mountains rise from the far northeast edge of Labrador. Their Arctic scenery and steep peaks make them one of Canada's most dramatic wilderness ranges."
     },
     descriptionAdvanced: {
       de: "Die Torngat Mountains auf der Labrador-Halbinsel sind ein extrem raues, arktisches Gebirge, das in den Inuit-Sprachen als 'Ort der Geister' bekannt ist. Sie bilden eine spektakuläre Grenze zwischen der Landmasse und dem Nordatlantik. Geografie K8 — Arktische Geomorphologie."

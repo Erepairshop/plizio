@@ -24,14 +24,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Die Christusstatue auf dem Corcovado ist eines der bekanntesten Wahrzeichen Brasiliens. Von dort aus überblickt sie Rio de Janeiro und gilt als starkes Symbol der Stadt.",
       hu: "A Krisztus Megváltó-szobor Rio de Janeiro fölött, a Corcovado tetején áll. Brazília legismertebb jelképei közé tartozik.",
-      ro: "",
-      en: ""
+      ro: "Cristos Mântuitorul este cel mai cunoscut simbol al orașului Rio de Janeiro și unul dintre reperele Braziliei. Statuia de pe Corcovado domină orașul și golful din jur.",
+      en: "Christ the Redeemer stands on Corcovado above Rio de Janeiro and is one of Brazil's best-known symbols. The Art Deco statue overlooks the city and the bay from one of the most recognizable viewpoints in the country."
     },
     facts: {
       de: ["Eröffnet 1931", "30 Meter hoch", "Auf dem Corcovado", "Symbol von Rio"],
       hu: ["A Corcovado-hegyen áll", "1931-ben avatták fel", "Rio de Janeiro jelképének számít"],
-      ro: [],
-      en: []
+      ro: ["În Rio de Janeiro", "Pe muntele Corcovado", "Inaugurat în 1931", "Simbol național al Braziliei"],
+      en: ["On Corcovado Mountain", "Inaugurated in 1931", "30 meters tall", "Symbol of Rio de Janeiro"]
     }
   },
   {
@@ -56,14 +56,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Das Maracanã ist eines der berühmtesten Fußballstadien der Welt und ein zentrales Symbol der brasilianischen Sportkultur. In Rio de Janeiro fanden hier große Spiele und historische Turniere statt.",
       hu: "A Maracanã Rio de Janeiro ikonikus stadionja, amely a brazil futball egyik központja. Nagy nemzetközi mérkőzések és döntők helyszíne volt.",
-      ro: "",
-      en: ""
+      ro: "Maracanã este unul dintre cele mai faimoase stadioane de fotbal din lume și un reper al culturii sportive braziliene. A fost scena unor meciuri istorice și a marilor finale.",
+      en: "Maracanã Stadium is one of the most famous football grounds in the world and a core symbol of Brazilian sports culture. It has hosted major matches, including FIFA World Cup finals."
     },
     facts: {
       de: ["Eröffnet 1950", "In Rio de Janeiro", "Host von WM-Finals", "Ikone des Fußballs"],
       hu: ["1950-ben nyílt meg", "Rio de Janeiro stadionja", "Világbajnoki döntőknek is otthont adott"],
-      ro: [],
-      en: []
+      ro: ["În Rio de Janeiro", "Inaugurat în 1950", "A găzduit finale de Mondial", "Simbol al fotbalului brazilian"],
+      en: ["In Rio de Janeiro", "Opened in 1950", "Hosted World Cup finals", "Icon of Brazilian football"]
     }
   },
   {
@@ -87,14 +87,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Die Kathedrale von Brasília ist ein Schlüsselwerk der modernen Architektur in der Hauptstadt. Oscar Niemeyers Entwurf prägt mit seinen geschwungenen Betonstreben das Stadtbild.",
       hu: "A brasíliavárosi székesegyház Oscar Niemeyer egyik legismertebb alkotása. A modernista szerkezet Brasília központi építészeti pontja.",
-      ro: "",
-      en: ""
+      ro: "Catedrala din Brasília este una dintre cele mai cunoscute lucrări ale lui Oscar Niemeyer. Arhitectura ei modernistă definește centrul capitalei braziliene.",
+      en: "The Cathedral of Brasília is one of Oscar Niemeyer's signature works and a defining building of the capital. Its modernist form and glass roof make it one of the city's most distinctive landmarks."
     },
     facts: {
       de: ["Von Oscar Niemeyer", "Fertiggestellt 1970", "16 Betonstreben", "Teil des UNESCO-Brasília"],
       hu: ["Brasíliában található", "Oscar Niemeyer tervezte", "1970-ben szentelték fel"],
-      ro: [],
-      en: []
+      ro: ["În Brasília", "Proiectată de Oscar Niemeyer", "Inaugurată în 1970", "Parte din ansamblul modernist"],
+      en: ["In Brasília", "Designed by Oscar Niemeyer", "Completed in 1970", "Modernist icon"]
     }
   },
   {
@@ -118,14 +118,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Der Palácio do Planalto ist der Amtssitz des brasilianischen Präsidenten in Brasília. Das Gebäude steht am Praça dos Três Poderes und gehört zum modernen Regierungszentrum der Hauptstadt.",
       hu: "A Palácio do Planalto a brazil elnök hivatalos munkahelye Brasília központjában. A Praça dos Três Poderes tér egyik fő épülete.",
-      ro: "",
-      en: ""
+      ro: "Palatul Planalto este sediul oficial de lucru al președintelui Braziliei. Clădirea face parte din centrul politic al capitalei Brasília.",
+      en: "The Palácio do Planalto is the official workplace of the President of Brazil in Brasília. It stands on Three Powers Plaza and is a key symbol of the country's federal government."
     },
     facts: {
       de: ["Amtssitz des Präsidenten", "In Brasília", "Am Praça dos Três Poderes", "Entwurf von Oscar Niemeyer"],
       hu: ["A brazil elnök hivatala", "Brasíliában áll", "Oscar Niemeyer munkája"],
-      ro: [],
-      en: []
+      ro: ["În Brasília", "Sediul președintelui", "Pe Praça dos Três Poderes", "Proiectat de Oscar Niemeyer"],
+      en: ["Official presidential workplace", "In Brasília", "On Three Powers Plaza", "Designed by Oscar Niemeyer"]
     }
   },
   {
@@ -149,14 +149,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Der Nationalkongress von Brasilien ist das politische Herz der Hauptstadt Brasília. Die zwei Türme und die markanten Kuppeln machen den Bau zu einem der sichtbarsten Symbole der Demokratie des Landes.",
       hu: "A Congresso Nacional Brasília kormányzati negyedének meghatározó épülete. Itt működik a brazil törvényhozás két háza.",
-      ro: "",
-      en: ""
+      ro: "Congresul Național este clădirea legislativului federal al Braziliei, în Brasília. Ansamblul său modernist a devenit una dintre imaginile emblematice ale capitalei.",
+      en: "The National Congress in Brasília houses Brazil's Chamber of Deputies and Federal Senate. Its twin towers and curved chambers are among the strongest symbols of the capital's planned modernism."
     },
     facts: {
       de: ["Sitz von Senat und Abgeordnetenkammer", "In Brasília", "Entwurf von Oscar Niemeyer", "Zwei Türme und Kuppeln"],
       hu: ["A brazil parlament székhelye", "Brasíliában található", "1960-ban adták át"],
-      ro: [],
-      en: []
+      ro: ["În Brasília", "Sediul legislativului federal", "Parte din Praça dos Três Poderes", "Simbol politic al Braziliei"],
+      en: ["In Brasília", "Seats both houses of Congress", "Iconic twin towers", "Part of Three Powers Plaza"]
     }
   },
   {
@@ -179,14 +179,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Die Ponte Estaiada ist eine markante Schrägseilbrücke in São Paulo. Ihr X-förmiger Pylon und die nächtliche Beleuchtung machen sie zu einem modernen Stadtzeichen.",
       hu: "A Ponte Estaiada São Paulo egyik legjobban felismerhető modern városi jelképe. A Pinheiros folyó fölött ível át, és a város északi részét köti össze.",
-      ro: "",
-      en: ""
+      ro: "Ponte Estaiada este un pod modern și foarte recognoscibil din São Paulo. Silueta lui a devenit un reper urban al orașului.",
+      en: "The Octávio Frias de Oliveira Bridge, better known as Ponte Estaiada, is a striking cable-stayed bridge in São Paulo. Its unusual shape has made it one of the city's modern skyline icons."
     },
     facts: {
       de: ["Eröffnet 2008", "In São Paulo", "X-förmiger Pylon", "Wichtige Verkehrsbrücke"],
       hu: ["São Paulóban van", "A Pinheiros folyó fölött áll", "Kábelhidas városi ikon"],
-      ro: [],
-      en: []
+      ro: ["În São Paulo", "Pod hobanat", "Reper modern al orașului", "Leagă zone importante ale metropolei"],
+      en: ["In São Paulo", "Cable-stayed bridge", "Crosses the Pinheiros River", "Opened in 2008"]
     }
   },
   {
@@ -209,14 +209,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Das MASP ist eines der wichtigsten Kunstmuseen Südamerikas und liegt an der Avenida Paulista. Der schwebende Bau auf roten Pfeilern ist selbst ein bekanntes Architekturmotiv.",
       hu: "A MASP az Avenida Paulista legismertebb kulturális épületei közé tartozik. Lebegő tömegű modernista háza és nagy gyűjteménye miatt ismert.",
-      ro: "",
-      en: ""
+      ro: "MASP este unul dintre cele mai importante muzee de artă din Brazilia și se află pe Avenida Paulista. Clădirea suspendată este un simbol al arhitecturii moderne din São Paulo.",
+      en: "The São Paulo Museum of Art, or MASP, is one of the most important art museums in Latin America. Its suspended red structure on Avenida Paulista is as famous as its collection."
     },
     facts: {
       de: ["An der Avenida Paulista", "Gegründet 1947", "Berühmter Hängebau", "Wichtiges Kunstmuseum"],
       hu: ["Avenida Paulista mellett áll", "1968-ban nyílt meg", "Modernista, függesztett épület"],
-      ro: [],
-      en: []
+      ro: ["Pe Avenida Paulista", "Muzeu de artă", "Deschis în 1968", "Clădire modernistă celebră"],
+      en: ["On Avenida Paulista", "Founded in 1947", "Known for its red suspended structure", "Major art museum"]
     }
   },
   {
@@ -239,14 +239,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Der Elevador Lacerda verbindet die Ober- und Unterstadt von Salvador. Der historische Aufzug ist ein fester Bestandteil des Stadtbilds und des Alltags in Bahia.",
       hu: "Az Elevador Lacerda Salvador felső és alsó városrésze között teremt kapcsolatot. A város egyik legfontosabb közlekedési és látképi eleme.",
-      ro: "",
-      en: ""
+      ro: "Elevador Lacerda leagă orașul de sus de orașul de jos în Salvador. Este unul dintre cele mai cunoscute elemente ale peisajului urban din Bahia.",
+      en: "The Elevador Lacerda connects Salvador's upper and lower city and is one of Bahia's most recognizable landmarks. It is both a practical transport link and a historic city symbol."
     },
     facts: {
       de: ["Eröffnet 1873", "Verbindet Cidade Alta und Baixa", "In Salvador", "Ikone des Stadtverkehrs"],
       hu: ["Salvadorban található", "A Cidade Alta és Cidade Baixa között működik", "1873-ban nyitották meg"],
-      ro: [],
-      en: []
+      ro: ["În Salvador", "Leagă Cidade Alta și Cidade Baixa", "Inaugurat în 1873", "Reper istoric al orașului"],
+      en: ["In Salvador", "Connects upper and lower city", "Opened in 1873", "Historic urban elevator"]
     }
   },
   {
@@ -269,14 +269,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Die Catedral de Pedra ist eine neugotische Kirche in Canela in der Serra Gaúcha. Ihr hoher Steinturm und die Abendbeleuchtung machen sie zu einem prägenden Wahrzeichen der Stadt.",
       hu: "A Catedral de Pedra Canela legismertebb temploma Rio Grande do Sul államban. Neogótikus formája miatt a város egyik fő látványossága.",
-      ro: "",
-      en: ""
+      ro: "Catedrala de Piatră din Canela este o biserică neogotică foarte cunoscută din Serra Gaúcha. Turnul ei și fațada din piatră o fac ușor de recunoscut.",
+      en: "Catedral de Pedra in Canela is a landmark church with a Gothic-inspired look that defines the town's center. Its tall tower and stained glass make it a signature sight in Serra Gaúcha."
     },
     facts: {
       de: ["In Canela", "Neugotischer Stil", "Markanter Steinturm", "Beliebtes Touristenziel"],
       hu: ["Canela városában áll", "Rio Grande do Sul államban található", "Neogótikus stílusú"],
-      ro: [],
-      en: []
+      ro: ["În Canela", "Stil neogotic", "Construită din piatră", "Reper al Serra Gaúcha"],
+      en: ["In Canela", "Gothic-inspired design", "A Serra Gaúcha landmark", "Known for its tall tower"]
     }
   },
   {
@@ -299,14 +299,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     description: {
       de: "Das Museu do Amanhã ist ein futuristisches Wissenschaftsmuseum am Hafen von Rio de Janeiro. Es verbindet moderne Architektur mit Themen wie Klima, Stadt und Zukunft.",
       hu: "A Museu do Amanhã Rio de Janeiro Porto Maravilha városrészének kortárs múzeuma. Tudományos és jövőorientált kiállításairól ismert.",
-      ro: "",
-      en: ""
+      ro: "Muzeul de Mâine este un muzeu contemporan din zona portuară a orașului Rio de Janeiro. Este cunoscut pentru arhitectura sa modernă și tema legată de viitor.",
+      en: "The Museum of Tomorrow is a contemporary science museum on Rio de Janeiro's waterfront. Its futuristic design and focus on sustainability make it one of the city's newer icons."
     },
     facts: {
       de: ["Eröffnet 2015", "Am Praça Mauá", "Entwurf von Santiago Calatrava", "Fokus auf Zukunft und Nachhaltigkeit"],
       hu: ["Rio de Janeiro kikötői övezetében van", "2015-ben nyílt meg", "Kortárs tudományos múzeum"],
-      ro: [],
-      en: []
+      ro: ["În Rio de Janeiro", "Deschis în 2015", "Pe Praça Mauá", "Arhitectură contemporană"],
+      en: ["In Rio de Janeiro", "Opened in 2015", "Science and sustainability museum", "Designed by Santiago Calatrava"]
     }
   },
   {
@@ -467,13 +467,13 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       de: "Ein malerischer Leuchtturm in Laguna, einer der leistungsst\\\\u00e4rksten in ganz S\\\\u00fcdamerika.",
       hu: "Fest\\\\u0151i vil\\\\u00e1g\\\\u00edt\\\\u00f3torony Lagun\\\\u00e1ban, amely az egyik leger\\\\u0151sebb eg\\\\u00e9sz D\\\\u00e9l-Amerik\\\\u00e1ban.",
       ro: "Un far pitoresc din Laguna, unul dintre cele mai puternice din toat\\\\u0103 America de Sud.",
-      en: "A picturesque lighthouse in Laguna, one of the most powerful in all of South America."
+      en: "Farol de Santa Marta is a lighthouse in Laguna, Santa Catarina, and an important coastal reference point. It stands near dunes and beaches that give the area a dramatic seafront setting."
     },
     facts: {
       de: ["Erbaut im Jahr 1891.", "Ist 29 Meter hoch.", "Die Linsen wurden aus Frankreich importiert."],
       hu: ["1891-ben \\\\u00e9p\\\\u00fclt.", "29 m\\\\u00e9ter magas.", "A lencs\\\\u00e9it Franciaorsz\\\\u00e1gb\\\\u00f3l hozt\\\\u00e1k."],
       ro: ["Construit \\\\u00een 1891.", "Are 29 de metri \\\\u00een\\\\u0103l\\\\u021bime.", "Lentilele au fost importate din Fran\\\\u021ba."],
-      en: ["Built in 1891.", "Is 29 meters high.", "The lenses were imported from France."]
+      en: ["In Laguna", "In Santa Catarina", "Important coastal lighthouse", "Near dunes and beaches"]
     },
     descriptionAdvanced: {
       de: "Leuchtturm von Santa Marta ist ein bemerkenswertes Element der brasilianischen Geografie und Kultur. Ein malerischer Leuchtturm in Laguna, einer der leistungsst\\\\u00e4rksten in ganz S\\\\u00fcdamerika. Erbaut im Jahr 1891. Ist 29 Meter hoch. Die Linsen wurden aus Frankreich importiert. Dieses Wahrzeichen ist Teil des kulturellen Erbes Brasiliens, das Samba, Fußball und den weltberühmten Karneval zusammenführt. Wie viele bedeutende Orte in Brasilien verbindet dieser Ort regionale Eigenheiten mit der übergreifenden Bedeutung des fünftgrößten Landes der Welt. Damit trägt dieser Ort zum vielseitigen Profil Brasiliens bei, wo tropische Natur, portugiesisches Erbe, Samba, Fußball und Karneval ineinandergreifen.",
@@ -913,8 +913,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Mind\\\\u00f6ssze 75 nap alatt \\\\u00e9p\\\\u00fclt fel.", "1992-ben nyitott\\\\u00e1k meg.", "Egy kis t\\\\u00f3 feletti h\\\\u00eddon k\\\\u00f6zel\\\\u00edthet\\\\u0151 meg.", "Egyedi k\\\\u00f6rsz\\\\u00ednh\\\\u00e1z, amely ac\\\\u00e9lcs\\\\u00f6vekb\\\\u0151l \\\\u00e9s polikarbon\\\\u00e1tb\\\\u00f3l \\\\u00e9p\\\\u00fclt egykori k\\\\u0151b\\\\u00e1nya ter\\\\u00fclet\\\\u00e9n.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez."],
       ro: ["A fost construit\\\\u0103 \\\\u00een doar 75 de zile.", "Deschis\\\\u0103 \\\\u00een 1992.", "Este accesibil\\\\u0103 printr-o pasarel\\\\u0103 peste un mic lac.", "Un teatru circular unic din tuburi de o\\\\u021bel \\\\u0219i policarbonat, construit \\\\u00een mijlocul unei foste cariere de piatr\\\\u0103.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării."],
       en: ["Was built in just 75 days.", "Opened in 1992.", "Accessed via a footbridge over a small lake.", "A unique circular theater made of steel tubes and polycarbonate, built in the middle of a former quarry.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country."],
-    }
-  },
+    }, image: "/poi-images/br-pr-opera-arame-landmarks-v2.webp"},
   {
     id: "br-rj-palacio-quitandinha-landmarks-v2",
     type: "landmark",

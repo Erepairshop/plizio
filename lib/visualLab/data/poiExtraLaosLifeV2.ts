@@ -47,8 +47,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["Tengerszint feletti magasság 1000 m.", "A franciák hozták be 1920-ban.", "Arabica és Robusta termesztése.", "Fontos a helyi gazdaság számára."],
       ro: ["Altitudine peste 1000 de metri.", "Francezii au adus cafea în 1920.", "Cultivarea de Arabica și Robusta.", "Important pentru economia locală."],
       en: ["Altitude over 1000 meters.", "French brought coffee in 1920s.", "Cultivation of Arabica and Robusta.", "Important for the local economy."]
-    }
-  },
+    }, image: "/poi-images/bolaven-coffee-estates-life-v2.webp"},
   {
     id: "kuang-si-bear-rescue-life-v2",
     type: "wildlife-area",
@@ -71,8 +70,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["A Free the Bears működteti.", "Nagy szabadtéri kifutókkal.", "A hangsúly az állatvédelmen van.", "Tanulságos a látogatók számára."],
       ro: ["Condus de Free the Bears.", "Oferă incinte mari în aer liber.", "Accent pe bunăstarea animalelor.", "Educativ pentru vizitatori."],
       en: ["Run by Free the Bears.", "Features large outdoor enclosures.", "Focus on animal welfare.", "Educational for visitors."]
-    }
-  },
+    }, image: "/poi-images/kuang-si-bear-rescue-life-v2.webp"},
   {
     id: "laos-buffalo-dairy-life-v2",
     type: "agriculture",
@@ -95,8 +93,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["Segíti a helyi gazdákat.", "Az első bivalyfarm Laoszban.", "Friss sajtot állít elő.", "Interaktív túrákat kínál."],
       ro: ["Ajută fermierii locali.", "Prima fermă de bivoli din Laos.", "Produce brânză proaspătă.", "Oferă tururi interactive."],
       en: ["Helps local farmers.", "First buffalo dairy in Laos.", "Produces fresh cheese.", "Offers interactive tours."]
-    }
-  },
+    }, image: "/poi-images/laos-buffalo-dairy-life-v2.webp"},
   {
     id: "pha-tad-ke-botanical-life-v2",
     type: "park",
@@ -119,8 +116,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["Hajóval megközelíthető.", "Fókuszban az etnobotanika.", "Ritka növényeket őriz.", "Öko-oktatást nyújt."],
       ro: ["Accesibil cu barca.", "Accent pe etnobotanică.", "Păstrează plante rare.", "Oferă educație ecologică."],
       en: ["Reached by boat.", "Focuses on ethnobotany.", "Preserves rare plants.", "Offers eco-education."]
-    }
-  },
+    }, image: "/poi-images/pha-tad-ke-botanical-life-v2.webp"},
   {
     id: "bokeo-nature-reserve-life-v2",
     type: "wildlife-area",
@@ -143,8 +139,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["2004-ben alapították.", "A Gibbon Experience otthona.", "Védi az őserdőt.", "Magas lombházak a dzsungelben."],
       ro: ["Înființat în anul 2004.", "Casa Experienței Gibbon.", "Protejează pădurea primară.", "Case înalte în copaci."],
       en: ["Created in 2004.", "Home of Gibbon Experience.", "Protects primary rainforest.", "High treehouses in the jungle."]
-    }
-  },
+    }, image: "/poi-images/bokeo-nature-reserve-life-v2.webp"},
   {
     id: "luang-prabang-butterfly-park-life-v2",
     type: "kid-friendly",
@@ -167,8 +162,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["A Kuang Si vízesés közelében.", "Ez egy oktatási központ.", "Gyönyörű orchideák vannak.", "Megőrzi a helyi pillangókat."],
       ro: ["Lângă cascadele Kuang Si.", "Este un centru educațional.", "Găzduiește orhidee frumoase.", "Păstrează fluturii locali."],
       en: ["Near Kuang Si Falls.", "Is an educational center.", "Houses beautiful orchids.", "Preserves local butterflies."]
-    }
-  },
+    }, image: "/poi-images/luang-prabang-butterfly-park-life-v2.webp"},
   {
     id: "phou-khao-khouay-park-life-v2",
     type: "park",
@@ -191,8 +185,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["A főváros közelében.", "Bivalyszarv hegyet jelent.", "Népszerű a kirándulók körében.", "Elefántoknak ad otthont."],
       ro: ["Aproape de capitală.", "Înseamnă Muntele Corn de Bivol.", "Popular pentru excursioniști.", "Adăpostește elefanți."],
       en: ["Close to the capital.", "Means Buffalo Horn Mountain.", "Popular for day trippers.", "Home to elephants."]
-    }
-  },
+    }, image: "/poi-images/phou-khao-khouay-park-life-v2.webp"},
   {
     id: "xe-pian-protected-area-life-v2",
     type: "wildlife-area",
@@ -215,8 +208,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["Nagy kiterjedésű vizes élőhely.", "Fontos madárélőhely.", "Tigrisek is élnek itt.", "Kambodzsáig húzódik."],
       ro: ["Zonă umedă mare.", "Habitat important pentru păsări.", "Adăpostește tigri.", "Se extinde până în Cambodgia."],
       en: ["Large wetlands area.", "Important bird habitat.", "Home to tigers.", "Extends to Cambodia."]
-    }
-  },
+    }, image: "/poi-images/xe-pian-protected-area-life-v2.webp"},
   {
     id: "vang-vieng-organic-farm-life-v2",
     type: "agriculture",
@@ -239,8 +231,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["1996-ban alapították.", "Támogatja a biogazdálkodást.", "Eperfateát készít.", "Önkéntes munkát kínál."],
       ro: ["Înființat în anul 1996.", "Promovează agricultura bio.", "Produce ceai de dude.", "Oferă muncă voluntară."],
       en: ["Established in 1996.", "Promotes organic farming.", "Produces mulberry tea.", "Offers volunteer work."]
-    }
-  },
+    }, image: "/poi-images/vang-vieng-organic-farm-life-v2.webp"},
   {
     id: "elephant-village-sanctuary-life-v2",
     type: "wildlife-area",
@@ -263,8 +254,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["Nincs elefántlovaglás.", "A hangsúly az állatvédelmen van.", "A Nam Khan folyó partján.", "Támogatja a mahutokat."],
       ro: ["Fără călărie pe elefanți.", "Accent pe bunăstarea animalelor.", "Situat pe râul Nam Khan.", "Sprijină mahuții."],
       en: ["No riding policy.", "Focus on animal welfare.", "Located on Nam Khan River.", "Supports mahouts."]
-    }
-  },
+    }, image: "/poi-images/elephant-village-sanctuary-life-v2.webp"},
   {
     id: "dong-amphan-biodiversity-life-v2",
     type: "wildlife-area",
@@ -311,8 +301,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["A hűvös éghajlat ideális.", "Zöld és fekete tea.", "Történelmi ültetvények.", "Gyönyörű hegyvidéki táj."],
       ro: ["Clima răcoroasă este ideală.", "Ceai verde și negru.", "Plantații istorice.", "Peisaj montan frumos."],
       en: ["Cool climate is ideal.", "Green and black tea.", "Historical plantations.", "Beautiful mountain landscape."]
-    }
-  },
+    }, image: "/poi-images/paksong-tea-plantations-life-v2.webp"},
   {
     id: "hin-nam-no-reserve-life-v2",
     type: "wildlife-area",
@@ -335,8 +324,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["Javasolt UNESCO világörökség.", "Nagyon nagy barlangrendszer.", "Látványos karszthegyek.", "Gazdag biodiverzitás."],
       ro: ["Propus pentru patrimoniul UNESCO.", "Sistem de peșteri foarte mare.", "Munți carstici spectaculoși.", "Biodiversitate bogată."],
       en: ["Proposed UNESCO site.", "Very large cave system.", "Spectacular karst mountains.", "Rich biodiversity."]
-    }
-  },
+    }, image: "/poi-images/hin-nam-no-reserve-life-v2.webp"},
   {
     id: "vientiane-orchid-farm-life-v2",
     type: "agriculture",
@@ -359,8 +347,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["Ritka orchideákat véd.", "Elősegíti a természetvédelmet.", "Kutatóintézet is egyben.", "Szabályozott növényeket exportál."],
       ro: ["Protejează orhidee rare.", "Promovează conservarea.", "Facilitate de cercetare.", "Exportă plante reglementate."],
       en: ["Protects rare orchids.", "Promotes conservation.", "Research facility.", "Exports regulated plants."]
-    }
-  },
+    }, image: "/poi-images/vientiane-orchid-farm-life-v2.webp"},
   {
     id: "nam-ha-protected-area-life-v2",
     type: "wildlife-area",
@@ -383,8 +370,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["ASEAN Örökség Park.", "Dzsungeltúrákat kínál.", "Sok bennszülött falu.", "Az ökoturizmusra fókuszál."],
       ro: ["Parc de Patrimoniu ASEAN.", "Oferă drumeții în junglă.", "Multe sate indigene.", "Accent pe ecoturism."],
       en: ["ASEAN Heritage Park.", "Offers jungle trekking.", "Many indigenous villages.", "Focus on ecotourism."]
-    }
-  },
+    }, image: "/poi-images/nam-ha-protected-area-life-v2.webp"},
   {
     id: "suan-mon-farm-life-v2",
     type: "kid-friendly",
@@ -407,8 +393,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["Oktatófarm gyerekeknek.", "Vientiane város közelében.", "Bemutatja a helyi gazdálkodást.", "Népszerű iskolai kirándulásokon."],
       ro: ["Fermă educativă pentru copii.", "Aproape de orașul Vientiane.", "Prezintă agricultura locală.", "Popular pentru școli."],
       en: ["Educational farm for kids.", "Near Vientiane city.", "Shows local agriculture.", "Popular for school trips."]
-    }
-  },
+    }, image: "/poi-images/suan-mon-farm-life-v2.webp"},
   {
     id: "mekong-riverside-park-life-v2",
     type: "park",
@@ -431,8 +416,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["Nagy éjszakai piac.", "Sportterületeket kínál.", "Népszerű a helyiek körében.", "Kilátás Thaiföldre."],
       ro: ["Piață de noapte mare.", "Oferă zone de sport.", "Popular printre localnici.", "Vedere spre Thailanda."],
       en: ["Large night market.", "Offers sports areas.", "Popular with locals.", "Views of Thailand."]
-    }
-  },
+    }, image: "/poi-images/mekong-riverside-park-life-v2.webp"},
   {
     id: "dong-hua-sao-reserve-life-v2",
     type: "wildlife-area",
@@ -455,8 +439,7 @@ export const poiExtraLaosLifeV2: POI[] = [
       hu: ["A Bolaven-fennsík része.", "Sok a csapadék.", "Elefántoknak ad otthont.", "Sűrű esőerdők találhatók itt."],
       ro: ["Parte a platoului Bolaven.", "Multe precipitații.", "Adăpostește elefanți.", "Păduri tropicale dense."],
       en: ["Part of Bolaven Plateau.", "Heavy rainfall area.", "Home to elephants.", "Dense rainforests."]
-    }
-  },
+    }, image: "/poi-images/dong-hua-sao-reserve-life-v2.webp"},
   {
     id: "lao-textile-mulberry-farm-life-v2",
     type: "agriculture",

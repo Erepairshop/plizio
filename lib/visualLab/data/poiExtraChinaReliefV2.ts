@@ -198,13 +198,13 @@ export const poiExtraChinaReliefV2: POI[] = [
       en: "Bohai Sea"
     },
     description: {
-      de: "Ein fast vollständig von Land umschlossenes Binnenmeer an der Ostküste des chinesischen Festlandes.",
+      de: "Ein fast vollständig von Land umschlossenes Randmeer an der Nordküste Chinas. Es ist ein wichtiger maritimer Zugang für die Hauptstadtregion und die Häfen des Nordens.",
       hu: "Majdnem teljesen szárazfölddel körülvett beltenger a kínai szárazföld keleti partján.",
       ro: "O mare interioară aproape complet închisă de uscat, pe coasta de est a Chinei continentale.",
       en: "A nearly landlocked inland sea on the east coast of mainland China."
     },
     facts: {
-      de: ["Wichtigstes See-Tor nach Peking.", "Relativ flach.", "Reich an Erdöl- und Erdgasvorkommen."],
+      de: ["An der Nordküste Chinas", "Sehr flaches Meer", "Wichtiger Seezugang", "Nahe Tianjin und Hebei"],
       hu: ["Peking legfontosabb tengeri kapuja.", "Viszonylag sekély.", "Gazdag kőolaj- és földgázlelőhelyekben."],
       ro: ["Principala poartă maritimă către Beijing.", "Relativ puțin adâncă.", "Bogat în zăcăminte de petrol și gaze naturale."],
       en: ["The most important maritime gateway to Beijing.", "Relatively shallow.", "Rich in oil and gas reserves."]

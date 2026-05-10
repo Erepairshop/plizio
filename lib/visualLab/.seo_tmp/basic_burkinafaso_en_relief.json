@@ -1,0 +1,54 @@
+{
+  "lang": "en",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dedougou-relief-v2",
+      "description": "The Dédougou relief is made up of broad plains and gentle rises in west-central Burkina Faso. It gives the area an open savanna profile with few steep forms.",
+      "facts": ["West-central plains", "Gentle rises", "Open savanna landscape"]
+    },
+    {
+      "id": "gourcy-relief-v2",
+      "description": "The Gourcy relief is a low, rolling landscape in northern Burkina Faso. It is shaped by flat ground, shallow valleys, and sparse elevation changes.",
+      "facts": ["Northern relief", "Rolling terrain", "Shallow valleys"]
+    },
+    {
+      "id": "pama-relief-v2",
+      "description": "The Pama relief combines low plains with wooded savanna in southeastern Burkina Faso. It sits close to conservation landscapes and seasonal water routes.",
+      "facts": ["Southeastern plains", "Wooded savanna", "Near conservation areas"]
+    },
+    {
+      "id": "boulsa-relief-v2",
+      "description": "The Boulsa relief is a mostly flat to gently undulating area in central-northern Burkina Faso. It reflects the typical terrain of the country’s savanna heartland.",
+      "facts": ["Central-northern terrain", "Mostly flat land", "Savanna heartland"]
+    },
+    {
+      "id": "tanguieta-relief-v2",
+      "description": "The Tanguiéta relief describes a borderland landscape with plains and low rises near the southwest edge of Burkina Faso. It marks a transition between neighboring regional landforms.",
+      "facts": ["Borderland terrain", "Plains and low rises", "Transition zone"]
+    },
+    {
+      "id": "bobodioulasso-relief-v2",
+      "description": "The Bobo-Dioulasso relief is a mix of low plateaus and gentle hills around the city. It is less flat than the northern Sahel but still broadly open.",
+      "facts": ["Low plateaus", "Gentle hills", "Around Bobo-Dioulasso"]
+    },
+    {
+      "id": "bogande-relief-v2",
+      "description": "The Bogandé relief is dominated by open eastern plains. The terrain is low and broad, with only small variations in height.",
+      "facts": ["Eastern plains", "Low terrain", "Small height changes"]
+    },
+    {
+      "id": "pissila-relief-v2",
+      "description": "The Pissila relief is a gently shaped landscape in north-central Burkina Faso. It combines flat stretches with subtle rises in the ground.",
+      "facts": ["North-central location", "Subtle rises", "Flat stretches"]
+    },
+    {
+      "id": "gorom-gorom-relief-v2",
+      "description": "The Gorom-Gorom relief is a classic Sahel landscape of flat plains, sandy ground, and low features. It shows the dry character of far northern Burkina Faso.",
+      "facts": ["Far-north Sahel", "Sandy plains", "Dry landscape"]
+    }
+  ]
+}

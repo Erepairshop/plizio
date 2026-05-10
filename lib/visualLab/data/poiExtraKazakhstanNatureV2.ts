@@ -38,8 +38,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "It contains a rare Ice Age ash tree grove.",
         "It is often referred to as the little brother of the Grand Canyon."
       ]
-    }
-  },
+    }, image: "/poi-images/charyn-national-park-nature-v2.webp"},
   {
     id: "lake-balkhash-nature-v2",
     type: "lake",
@@ -77,8 +76,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "Its maximum depth is only 26 meters.",
         "The lake often freezes completely in winter."
       ]
-    }
-  },
+    }, image: "/poi-images/lake-balkhash-nature-v2.webp"},
   {
     id: "ile-alatau-national-park-nature-v2",
     type: "national-park",
@@ -116,8 +114,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "It is home to the famous Big Almaty Lake.",
         "Over 300 animal species live in this area."
       ]
-    }
-  },
+    }, image: "/poi-images/ile-alatau-national-park-nature-v2.webp"},
   {
     id: "altyn-emel-national-park-nature-v2",
     type: "national-park",
@@ -155,8 +152,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "The colorful Aktau mountains are a highlight.",
         "Wild asses and goitered gazelles live here."
       ]
-    }
-  },
+    }, image: "/poi-images/altyn-emel-national-park-nature-v2.webp"},
   {
     id: "lake-kaindy-nature-v2",
     type: "lake",
@@ -194,8 +190,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "Underwater, the trees are perfectly preserved.",
         "The name means birch tree because of nearby groves."
       ]
-    }
-  },
+    }, image: "/poi-images/lake-kaindy-nature-v2.webp"},
   {
     id: "kolsai-lakes-nature-v2",
     type: "lake",
@@ -233,8 +228,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "The crystal-clear water is home to rainbow trout.",
         "The area is dominated by dense coniferous forests."
       ]
-    }
-  },
+    }, image: "/poi-images/kolsai-lakes-nature-v2.webp"},
   {
     id: "burabay-national-park-nature-v2",
     type: "national-park",
@@ -272,8 +266,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "The Jumbaktas rock is a famous landmark.",
         "Dense pine and birch forests grow here."
       ]
-    }
-  },
+    }, image: "/poi-images/burabay-national-park-nature-v2.webp"},
   {
     id: "irtysh-river-nature-v2",
     type: "river",
@@ -311,8 +304,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "Several large reservoirs are located along its course.",
         "It freezes for several months during the winter."
       ]
-    }
-  },
+    }, image: "/poi-images/irtysh-river-nature-v2.webp"},
   {
     id: "ural-river-nature-v2",
     type: "river",
@@ -350,8 +342,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "The river's delta is a crucial wetland habitat.",
         "The city of Atyrau is located on its banks."
       ]
-    }
-  },
+    }, image: "/poi-images/ural-river-nature-v2.webp"},
   {
     id: "syr-darya-nature-v2",
     type: "river",
@@ -389,8 +380,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "Alexander the Great reached this river.",
         "Water extraction caused the Aral Sea disaster."
       ]
-    }
-  },
+    }, image: "/poi-images/syr-darya-nature-v2.webp"},
   {
     id: "mount-belukha-nature-v2",
     type: "mountain",
@@ -428,8 +418,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "The first ascent was made in 1914.",
         "Rare alpine flowers grow on its slopes."
       ]
-    }
-  },
+    }, image: "/poi-images/mount-belukha-nature-v2.webp"},
   {
     id: "khan-tengri-nature-v2",
     type: "mountain",
@@ -467,8 +456,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "It is the northernmost 7000-meter peak on Earth.",
         "It is located at the tripoint with China and Kyrgyzstan."
       ]
-    }
-  },
+    }, image: "/poi-images/khan-tengri-nature-v2.webp"},
   {
     id: "aksu-zhabagly-nature-v2",
     type: "national-park",
@@ -506,8 +494,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "The famous Greig tulip grows here.",
         "The Aksu Gorge is nearly 500 meters deep."
       ]
-    }
-  },
+    }, image: "/poi-images/aksu-zhabagly-nature-v2.webp"},
   {
     id: "karkaraly-national-park-nature-v2",
     type: "national-park",
@@ -545,8 +532,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "The rocks have been eroded into strange shapes by the wind.",
         "There are prehistoric archaeological sites here."
       ]
-    }
-  },
+    }, image: "/poi-images/karkaraly-national-park-nature-v2.webp"},
   {
     id: "lake-zaysan-nature-v2",
     type: "lake",
@@ -584,8 +570,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "It freezes completely in the winter.",
         "The Dzungarian Gate is located not far from the lake."
       ]
-    }
-  },
+    }, image: "/poi-images/lake-zaysan-nature-v2.webp"},
   {
     id: "bayanaul-national-park-nature-v2",
     type: "national-park",
@@ -623,8 +608,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "There are three large freshwater lakes in the park.",
         "The mountains consist of weathered granite."
       ]
-    }
-  },
+    }, image: "/poi-images/bayanaul-national-park-nature-v2.webp"},
   {
     id: "lake-alakol-nature-v2",
     type: "lake",
@@ -662,8 +646,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "The beaches are frequently made of black pebbles.",
         "It is an important breeding ground for rare water birds."
       ]
-    }
-  },
+    }, image: "/poi-images/lake-alakol-nature-v2.webp"},
   {
     id: "ili-river-nature-v2",
     type: "river",
@@ -701,8 +684,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "The river forms the extensive Ili Delta.",
         "It is over 1400 kilometers long."
       ]
-    }
-  },
+    }, image: "/poi-images/ili-river-nature-v2.webp"},
   {
     id: "naurzum-nature-reserve-nature-v2",
     type: "national-park",
@@ -740,8 +722,7 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
         "It is a paradise for birdwatchers.",
         "Wild tulips bloom here in the spring."
       ]
-    }
-  },
+    }, image: "/poi-images/naurzum-nature-reserve-nature-v2.webp"},
   {
     id: "tien-shan-nature-v2",
     type: "mountain",

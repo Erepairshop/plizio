@@ -18,7 +18,20 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Cel mai adânc port natural din Capul Verde", "Punct strategic de comerț maritim", "Facilități pentru reparații navale", "A găzduit istoric nave transatlantice", "Port principal pentru São Vicente", "Suportă activități de croazieră și pescuit"]
-    }, image: "/poi-images/porto-grande-mindelo-economic-v2.webp"},
+    }, image: "/poi-images/porto-grande-mindelo-economic-v2.webp",
+    description: {
+      de: "Der wichtigste Hafen von São Vicente in Mindelo. Er verbindet die Insel mit Fracht-, Passagier- und Fährverkehr.",
+      hu: "Mindelo fő kikötője São Vicente szigetén. A teher-, utas- és kompforgalom egyik legfontosabb kapuja Cabo Verde északi részén.",
+      ro: "Porto Grande este portul principal al orașului Mindelo, pe insula São Vicente. Are un bazin natural protejat și este poarta maritimă centrală a insulei.",
+      en: "Porto Grande is Mindelo's deep-water harbor and the main port on Sao Vicente. It handles cargo, ferries, and cruise traffic at the heart of the city's bay."
+    },
+    facts: {
+      de: ["größter Hafen der Insel", "liegt in Mindelo", "zentral für Fracht und Fähren"],
+      hu: ["São Vicente legnagyobb kikötője", "Mindelóban található", "teher- és kompforgalom", "a sziget fő ellátási pontja"],
+      ro: ["Mindelo, São Vicente", "bazin natural protejat", "port principal pentru marfă și pasageri"],
+      en: ["Main port of Sao Vicente", "Deep-water harbor in Mindelo", "Key ferry and cargo hub"]
+    }
+  },
   {
     id: "porto-da-praia-economic-v2",
     type: "port",
@@ -35,7 +48,20 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Poarta maritimă a capitalei Praia", "Gestionarea principală a traficului de mărfuri", "Modernizat pentru manipularea containerelor", "Esential pentru aprovizionarea insulei Santiago", "Hub logistic pentru întreg arhipelagul", "Motor economic pentru regiune"]
-    }, image: "/poi-images/porto-da-praia-economic-v2.webp"},
+    }, image: "/poi-images/porto-da-praia-economic-v2.webp",
+    description: {
+      de: "Der Haupthafen der Hauptstadt Praia auf Santiago. Er ist ein wichtiger Umschlagpunkt für Waren und Versorgung.",
+      hu: "Praia fő kikötője Santiago szigetén. A főváros áruforgalmának és ellátásának egyik legfontosabb központja.",
+      ro: "Porto da Praia deservește capitala Praia, pe insula Santiago. Este unul dintre cele mai importante porturi din rețea, cu trafic de marfă și pasageri.",
+      en: "Porto da Praia is the main port of the Cape Verdean capital on Santiago. It serves as a central gateway for cargo and passenger traffic."
+    },
+    facts: {
+      de: ["Haupthafen von Praia", "für Santiago wichtig", "Umschlag für Container und Versorgung"],
+      hu: ["Praia fő tengeri kapuja", "Santiago ellátási pontja", "konténer- és áruforgalom", "logisztikai csomópont"],
+      ro: ["Praia, Santiago", "poartă maritimă a capitalei", "operat de ENAPOR"],
+      en: ["Port of Praia on Santiago", "Main commercial port", "Gateway to the capital"]
+    }
+  },
   {
     id: "porto-de-palmeira-economic-v2",
     type: "port",
@@ -52,7 +78,20 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Portul principal al insulei Sal", "Punct esențial pentru aprovizionarea turismului", "Punct de plecare pentru excursii pe mare", "Capacitate pentru nave de dimensiuni medii", "Hub logistic pentru industria hotelieră", "Susține pescuitul comercial"]
-    }, image: "/poi-images/porto-de-palmeira-economic-v2.webp"},
+    }, image: "/poi-images/porto-de-palmeira-economic-v2.webp",
+    description: {
+      de: "Der wichtigste Hafen der Insel Sal in Palmeira. Über ihn laufen Versorgung, Handel und Teile des Tourismus.",
+      hu: "Palmeira Sal szigetének fő kikötője. Az ellátás, a halászat és a helyi személyforgalom egyik alaphelye.",
+      ro: "Porto da Palmeira se află pe insula Sal, în localitatea Palmeira. Portul susține comerțul, pescuitul și traficul legat de turismul maritim.",
+      en: "Porto de Palmeira is the main harbor on Sal, located by the fishing village of Palmeira. It supports the island's supply chain and maritime traffic."
+    },
+    facts: {
+      de: ["Hafen von Sal", "Versorgung der Insel", "Anlaufpunkt für Schiffe"],
+      hu: ["Sal fő kikötője", "Palmeira településen", "a sziget ellátási pontja", "halászat és személyforgalom"],
+      ro: ["Palmeira, Sal", "al treilea port al țării la marfă", "trafic comercial și pescuit"],
+      en: ["Main port of Sal", "Located at Palmeira", "Supports island supply"]
+    }
+  },
   {
     id: "porto-novo-harbour-economic-v2",
     type: "port",
@@ -69,7 +108,20 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Legătura principală a insulei Santo Antão", "Conexiune feribot cu Mindelo (São Vicente)", "Esential pentru transportul de pasageri", "Facilitează exportul produselor agricole", "Singura poartă de acces pentru vizitatori", "Inima economică a insulei"]
-    }, image: "/poi-images/porto-novo-harbour-economic-v2.webp"},
+    }, image: "/poi-images/porto-novo-harbour-economic-v2.webp",
+    description: {
+      de: "Der Hafen von Porto Novo ist der wichtigste Seezugang für Santo Antão. Er verbindet die Insel mit dem übrigen Archipel.",
+      hu: "Porto Novo Santo Antão fő tengeri kapcsolata. A kompok itt kötik össze a szigetet Mindelóval és a többi szigettel.",
+      ro: "Portul Porto Novo este principalul acces maritim pentru insula Santo Antão. Leagă insula de restul arhipelagului și susține aprovizionarea locală.",
+      en: "Porto Novo harbour is Santo Antao's main maritime gateway. It connects the island to ferries, goods traffic, and daily supply routes."
+    },
+    facts: {
+      de: ["Hauptverbindung von Santo Antão", "Fährhafen", "wichtig für Versorgung"],
+      hu: ["Santo Antão fő kikötője", "Mindelóval kapcsolódik", "kompforgalom", "mezőgazdasági áruk szállítása"],
+      ro: ["Porto Novo, Santo Antão", "principalul acces maritim", "important pentru ferry și aprovizionare"],
+      en: ["Main harbour of Santo Antao", "In Porto Novo town", "Ferry link to Sao Vicente"]
+    }
+  },
   {
     id: "porto-vale-cavaleiros-economic-v2",
     type: "port",
@@ -86,7 +138,20 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Acces maritim principal pentru insula Fogo", "Legătură de feribot către Praia", "Esential pentru aprovizionarea insulei", "Exportul produselor locale (vin, cafea)", "Susține turismul vulcanic", "Situat în São Filipe"]
-    }, image: "/poi-images/porto-vale-cavaleiros-economic-v2.webp"},
+    }, image: "/poi-images/porto-vale-cavaleiros-economic-v2.webp",
+    description: {
+      de: "Der Hafen Vale de Cavaleiros liegt bei São Filipe auf Fogo. Er sichert den Warentransport und die Anbindung der Insel.",
+      hu: "A Vale de Cavaleiros kikötő São Filipe mellett Fogo szigetén található. Fontos szerepe van az ellátásban és a Praia felé tartó kompforgalomban.",
+      ro: "Porto de Vale de Cavaleiros deservește insula Fogo, aproape de São Filipe. După modernizarea din 2013, a devenit un nod important pentru marfă și pasageri.",
+      en: "Vale de Cavaleiros is the port of Fogo and the main maritime access point for the island. It lies near Sao Filipe and supports ferry traffic and freight handling."
+    },
+    facts: {
+      de: ["Hafen von Fogo", "bei São Filipe", "wichtig für Versorgung"],
+      hu: ["Fogo fő kikötője", "São Filipe közelében", "ellátási pont", "bor és kávé szállítása"],
+      ro: ["Vale de Cavaleiros, Fogo", "reconstruit în 2013", "are chei pentru marfă și Ro-Ro"],
+      en: ["Port of Fogo", "Near Sao Filipe", "Ferry links and freight"]
+    }
+  },
   {
     id: "porto-sal-rei-economic-v2",
     type: "port",

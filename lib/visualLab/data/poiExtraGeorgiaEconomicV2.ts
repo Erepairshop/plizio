@@ -71,8 +71,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A város ismert a régi drótkötélpályák hálózatáról.", "Nyersanyagot biztosít a grúz nehézipar számára."],
       ro: ["Orașul este cunoscut pentru rețeaua sa de telecabine vechi.", "Furnizează materii prime pentru industria grea georgiană."],
       en: ["The town is known for its network of old cable cars.", "Supplies raw materials for Georgian heavy industry."]
-    }
-  },
+    }, image: "/poi-images/chiatura-manganese-mine-economic-v2.webp"},
   {
     id: "rustavi-metallurgical-plant-economic-v2",
     type: "industry",
@@ -95,8 +94,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["Rusztavi városát ezen üzem köré építették.", "Jelentős acélipari termékeket exportál a régióban."],
       ro: ["Orașul Rustavi a fost construit în jurul acestei uzine.", "Un exportator major de produse din oțel în regiune."],
       en: ["The city of Rustavi was built around this plant.", "A major exporter of steel products in the region."]
-    }
-  },
+    }, image: "/poi-images/rustavi-metallurgical-plant-economic-v2.webp"},
   {
     id: "zestafoni-ferroalloy-plant-economic-v2",
     type: "industry",
@@ -119,8 +117,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A szilikomangán az acélgyártás fontos összetevője.", "Az üzem az Imeréti régió egyik fő munkaadója."],
       ro: ["Silicomanganul este o componentă crucială în producția de oțel.", "Uzina este un angajator major în regiunea Imereti."],
       en: ["Silicomanganese is a crucial component in steel production.", "The plant is a major employer in the Imereti region."]
-    }
-  },
+    }, image: "/poi-images/zestafoni-ferroalloy-plant-economic-v2.webp"},
   {
     id: "kulevi-oil-terminal-economic-v2",
     type: "port",
@@ -143,8 +140,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A terminált 2008-ban nyitották meg.", "Modern, nagy kapacitású tárolótartályokkal rendelkezik."],
       ro: ["Terminalul a fost deschis în anul 2008.", "Dispune de rezervoare moderne de stocare cu capacitate mare."],
       en: ["The terminal was opened in the year 2008.", "Features modern high-capacity storage tanks."]
-    }
-  },
+    }, image: "/poi-images/kulevi-oil-terminal-economic-v2.webp"},
   {
     id: "supsa-sea-terminal-economic-v2",
     type: "port",
@@ -167,8 +163,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A létesítmény tengeri bójarendszereket használ a rakodáshoz.", "Fontos szerepet játszik a kaukázusi energiainfrastruktúrában."],
       ro: ["Facilitatea utilizează sisteme de geamanduri offshore pentru încărcare.", "Joacă un rol important în infrastructura energetică caucaziană."],
       en: ["The facility uses offshore buoy systems for loading.", "Plays an important role in Caucasian energy infrastructure."]
-    }
-  },
+    }, image: "/poi-images/supsa-sea-terminal-economic-v2.webp"},
   {
     id: "tkibuli-coal-mine-economic-v2",
     type: "mine",
@@ -191,8 +186,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A szénbányászat itt a 19. század közepén kezdődött.", "Szenet biztosít a helyi cement- és hőerőművek számára."],
       ro: ["Extracția cărbunelui a început aici la mijlocul secolului al XIX-lea.", "Furnizează cărbune pentru centralele termice și fabricile de ciment locale."],
       en: ["Coal mining began here in the mid-19th century.", "Provides coal for local cement and thermal power plants."]
-    }
-  },
+    }, image: "/poi-images/tkibuli-coal-mine-economic-v2.webp"},
   {
     id: "madneuli-mine-economic-v2",
     type: "mine",
@@ -215,8 +209,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A kitermelt fémek fontos grúz exportcikkek.", "A külszíni bányászat jelentősen megváltoztatta a tájat."],
       ro: ["Metalele extrase sunt importante bunuri de export georgiene.", "Mineritul la suprafață a modificat semnificativ peisajul."],
       en: ["The extracted metals are important Georgian export goods.", "The open-pit operation has significantly altered the landscape."]
-    }
-  },
+    }, image: "/poi-images/madneuli-mine-economic-v2.webp"},
   {
     id: "poti-fiz-economic-v2",
     type: "industry",
@@ -239,8 +232,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["Az első szabadipari zóna, amelyet a Kaukázusban alapítottak.", "Közvetlenül kapcsolódik a tengeri kikötőhöz és a vasúti hálózathoz."],
       ro: ["Prima zonă industrială liberă înființată în Caucaz.", "Conectată direct la portul maritim și rețeaua feroviară."],
       en: ["The first free industrial zone established in the Caucasus.", "Directly connected to the seaport and railway network."]
-    }
-  },
+    }, image: "/poi-images/poti-fiz-economic-v2.webp"},
   {
     id: "kutaisi-fiz-economic-v2",
     type: "industry",
@@ -263,8 +255,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["Egy egykori autógyár területén hozták létre.", "Különböző ágazatokból származó vállalatoknak ad otthont."],
       ro: ["Construită pe locul unei foste fabrici de automobile.", "Găzduiește companii din diverse sectoare industriale."],
       en: ["Built on the site of a former automobile factory.", "Hosts companies from various industrial sectors."]
-    }
-  },
+    }, image: "/poi-images/kutaisi-fiz-economic-v2.webp"},
   {
     id: "zhinvali-hpp-economic-v2",
     type: "energy",
@@ -287,8 +278,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A víztározó ivóvízzel is ellátja Tbiliszit.", "A létesítmény az 1980-as években készült el."],
       ro: ["Rezervorul alimentează de asemenea Tbilisi cu apă potabilă.", "Facilitatea a fost finalizată în anii 1980."],
       en: ["The reservoir also supplies Tbilisi with drinking water.", "The facility was completed in the 1980s."]
-    }
-  },
+    }, image: "/poi-images/zhinvali-hpp-economic-v2.webp"},
   {
     id: "gardabani-tpp-economic-v2",
     type: "energy",
@@ -311,8 +301,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["Ez a régió egyik legmodernebb erőműve.", "Csökkenti az importált villamos energiától való függőséget."],
       ro: ["Este una dintre cele mai moderne centrale din regiune.", "Reduce dependența de energia electrică importată."],
       en: ["It is one of the most modern power plants in the region.", "Reduces dependence on imported electricity."]
-    }
-  },
+    }, image: "/poi-images/gardabani-tpp-economic-v2.webp"},
   {
     id: "larsi-border-crossing-economic-v2",
     type: "trade-hub",
@@ -359,8 +348,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A grúz vámépület egyedi, modern építészettel rendelkezik.", "Az ország egyik legforgalmasabb csomópontja."],
       ro: ["Clădirea vămii georgiene are o arhitectură unică, modernă.", "Unul dintre cele mai aglomerate noduri din țară."],
       en: ["The Georgian customs building features unique, modern architecture.", "One of the busiest transport hubs in the country."]
-    }
-  },
+    }, image: "/poi-images/sarpi-border-crossing-economic-v2.webp"},
   {
     id: "lilo-city-market-economic-v2",
     type: "trade-hub",
@@ -383,8 +371,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["Itt az egész Kaukázusból érkező kereskedők vásárolnak.", "Az informális és formális kereskedelem jelentős mozgatórugója."],
       ro: ["Comercianții din întregul Caucaz își fac cumpărăturile aici.", "Un motor major pentru comerțul informal și formal."],
       en: ["Merchants from all over the Caucasus shop here.", "A major driver for both informal and formal trade."]
-    }
-  },
+    }, image: "/poi-images/lilo-city-market-economic-v2.webp"},
   {
     id: "borjomi-bottling-plant-economic-v2",
     type: "industry",
@@ -407,8 +394,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A Borjomi víz Grúzia egyik legfontosabb exportcikke.", "Az ipari palackozás már 1890-ben elkezdődött."],
       ro: ["Apa Borjomi este unul dintre cele mai importante articole de export ale Georgiei.", "Îmbutelierea industrială a început încă din anul 1890."],
       en: ["Borjomi water is one of Georgia's most important export items.", "Industrial bottling began as early as the year 1890."]
-    }
-  },
+    }, image: "/poi-images/borjomi-bottling-plant-economic-v2.webp"},
   {
     id: "batumi-oil-terminal-economic-v2",
     type: "energy",
@@ -455,8 +441,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       hu: ["A régió mészkőlelőhelyei ideális nyersanyagot biztosítanak.", "A modern szűrőberendezések ma már csökkentik a károsanyag-kibocsátást."],
       ro: ["Zăcămintele de calcar din regiune oferă materii prime ideale.", "Sistemele moderne de filtrare reduc astăzi emisiile."],
       en: ["The region's limestone deposits provide ideal raw materials.", "Modern filtration systems now reduce emissions."]
-    }
-  },
+    }, image: "/poi-images/kaspi-cement-plant-economic-v2.webp"},
   {
     id: "samgori-oil-field-economic-v2",
     type: "energy",

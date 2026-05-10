@@ -18,8 +18,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["Tajvan legmagasabb hegye.", "3952 méter magas.", "Gyakran Jáde-hegyként emlegetik.", "A Központi-hegység része."],
       ro: ["Cel mai înalt munte din Taiwan.", "Are 3.952 metri înălțime.", "Numit adesea Muntele de Jad.", "Parte a Lanțului Muntos Central."],
       en: ["Highest mountain in Taiwan.", "3,952 meters tall.", "Often called Jade Mountain.", "Part of the Central Range."]
-    }
-  },
+    }, image: "/poi-images/yushan-relief-v2.webp"},
   {
     id: "xueshan-relief-v2",
     type: "mountain",
@@ -37,8 +36,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["Tajvan második legmagasabb csúcsa.", "3886 méter magas.", "Jelentése \"Hó-hegy\".", "Ritka növények élőhelye."],
       ro: ["Al doilea cel mai înalt munte.", "Are 3.886 metri înălțime.", "Înseamnă \"Muntele de Zăpadă\".", "Găzduiește floră rară."],
       en: ["Second highest mountain.", "Stands 3,886 meters tall.", "Means \"Snow Mountain\".", "Home to rare flora."]
-    }
-  },
+    }, image: "/poi-images/xueshan-relief-v2.webp"},
   {
     id: "qingshui-cliff-relief-v2",
     type: "coast",
@@ -56,8 +54,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["Több mint 1000 méter magas.", "21 kilométer hosszan húzódik.", "A Taroko Nemzeti Park része.", "Márványból és gneiszből áll."],
       ro: ["Peste 1.000 de metri înălțime.", "Se întinde pe 21 de kilometri.", "Parte a Parcului Național Taroko.", "Făcută din marmură și gnais."],
       en: ["Over 1,000 meters high.", "Stretches for 21 kilometers.", "Part of Taroko National Park.", "Made of marble and gneiss."]
-    }
-  },
+    }, image: "/poi-images/qingshui-cliff-relief-v2.webp"},
   {
     id: "east-rift-valley-relief-v2",
     type: "valley",
@@ -94,8 +91,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["3416 méter magas.", "Népszerű a napfelkelték miatt.", "Út vezet majdnem a csúcsig.", "Télen gyakran hó fedi."],
       ro: ["Are 3.416 metri înălțime.", "Popular pentru răsărituri.", "Un drum duce până în vârf.", "Adesea înzăpezit iarna."],
       en: ["3,416 meters tall.", "Popular for sunrises.", "A road goes near the summit.", "Often snow-capped in winter."]
-    }
-  },
+    }, image: "/poi-images/hehuanshan-relief-v2.webp"},
   {
     id: "qixingshan-relief-v2",
     type: "mountain",
@@ -113,8 +109,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["Tajpej legmagasabb pontja.", "1120 méter magas.", "Neve \"Hétcsillag-hegyet\" jelent.", "A Yangmingshan Nemzeti Park része."],
       ro: ["Cel mai înalt punct din Taipei.", "1.120 metri înălțime.", "Înseamnă \"Muntele cu Șapte Stele\".", "Situat în Parcul Național Yangmingshan."],
       en: ["Highest point in Taipei.", "1,120 meters tall.", "Means \"Seven Star Mountain\".", "Located in Yangmingshan National Park."]
-    }
-  },
+    }, image: "/poi-images/qixingshan-relief-v2.webp"},
   {
     id: "dabajianshan-relief-v2",
     type: "mountain",
@@ -151,8 +146,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["Vulkanikus kőzetből alakult ki.", "A tenger vájta ki a barázdákat.", "Tavasszal élénkzöld színű.", "Egyedülálló természeti jelenség."],
       ro: ["Format din rocă vulcanică.", "Șanțuri sculptate de mare.", "Verde strălucitor primăvara.", "Un fenomen de coastă unic."],
       en: ["Formed from volcanic rock.", "Trenches carved by the sea.", "Vibrant green in spring.", "A unique coastal phenomenon."]
-    }
-  },
+    }, image: "/poi-images/laomei-green-reef-relief-v2.webp"},
   {
     id: "nanhushan-relief-v2",
     type: "mountain",
@@ -170,8 +164,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["3742 méter magas.", "A Központi-hegység királyának is hívják.", "Népszerű a tapasztalt hegymászók körében.", "Jégkorszaki nyomok találhatók rajta."],
       ro: ["Are 3.742 metri înălțime.", "Numit regele Lanțului Central.", "Popular printre alpiniștii experimentați.", "Prezintă urme glaciare."],
       en: ["3,742 meters tall.", "Called the king of the Central Range.", "Popular with experienced climbers.", "Has glacial remnants."]
-    }
-  },
+    }, image: "/poi-images/nanhushan-relief-v2.webp"},
   {
     id: "liji-badlands-relief-v2",
     type: "valley",
@@ -189,8 +182,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["A Liji-melanzsból áll.", "Gyakran holdbéli tájnak nevezik.", "Alig van rajta növényzet.", "Lemeztektonikai folyamatok hozták létre."],
       ro: ["Compus din melanj Liji.", "Adesea numit peisaj lunar.", "Aproape lipsit de vegetație.", "Format de tectonica plăcilor."],
       en: ["Composed of Liji mélange.", "Often called a moonscape.", "Hardly any vegetation.", "Formed by plate tectonics."]
-    }
-  },
+    }, image: "/poi-images/liji-badlands-relief-v2.webp"},
   {
     id: "xiuguluanshan-relief-v2",
     type: "mountain",
@@ -246,8 +238,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["3560 méter magas.", "Nagyon meredek szikláfalakkal bír.", "Veszélyes mászást igényel.", "Gyakran fekete sziklák borítják."],
       ro: ["Are 3.560 metri înălțime.", "Are stânci foarte abrupte.", "Considerată o ascensiune periculoasă.", "Adesea acoperit de roci negre."],
       en: ["3,560 meters tall.", "Has very steep cliffs.", "Considered a dangerous climb.", "Often covered in black rock."]
-    }
-  },
+    }, image: "/poi-images/qilaishan-relief-v2.webp"},
   {
     id: "guanshan-relief-v2",
     type: "mountain",
@@ -265,8 +256,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["3668 méter magas.", "Dél-Tajvan egyik legfontosabb hegye.", "A Yushan Nemzeti Park része.", "Jellegzetes piramis alakot formál."],
       ro: ["Are 3.668 metri înălțime.", "Se distinge în sudul Taiwanului.", "Parte a Parcului Național Yushan.", "Formează o piramidă distinctivă."],
       en: ["3,668 meters tall.", "Stands out in southern Taiwan.", "Part of Yushan National Park.", "Forms a distinctive pyramid."]
-    }
-  },
+    }, image: "/poi-images/guanshan-relief-v2.webp"},
   {
     id: "pintianshan-relief-v2",
     type: "mountain",
@@ -284,8 +274,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["3524 méter magas.", "Itt található a híres V-szikla.", "A Shei-Pa hegylánc része.", "Népszerű a technikás túrázók körében."],
       ro: ["Are 3.524 metri înălțime.", "Are celebra Stâncă în V.", "Parte a lanțului montan Shei-Pa.", "Popular pentru drumeții tehnice."],
       en: ["3,524 meters tall.", "Features the famous V-cliff.", "Part of the Shei-Pa mountain range.", "Popular for technical hikes."]
-    }
-  },
+    }, image: "/poi-images/pintianshan-relief-v2.webp"},
   {
     id: "taipingshan-relief-v2",
     type: "mountain",
@@ -303,8 +292,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["A csúcs magassága kb. 1950 méter.", "Öreg cipruserdőiről ismert.", "Történelmi favágóösvényekkel rendelkezik.", "Gyakran sűrű köd borítja."],
       ro: ["Altitudine de aproximativ 1.950m.", "Cunoscut pentru pădurile de chiparoși vechi.", "Are trasee istorice forestiere.", "Adesea învăluit în ceață deasă."],
       en: ["Summit elevation around 1,950m.", "Known for old-growth cypress forests.", "Features historic logging trails.", "Often shrouded in thick fog."]
-    }
-  },
+    }, image: "/poi-images/taipingshan-relief-v2.webp"},
   {
     id: "dulanshan-relief-v2",
     type: "mountain",
@@ -341,8 +329,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["Mindössze 318 méter magas.", "Rendkívül meredek sziklafalak.", "Kenting egyik jelképe.", "A hegymászás tilos rajta."],
       ro: ["Are doar 318 metri înălțime.", "Pereți de stâncă foarte abrupți.", "Un simbol al zonei Kenting.", "Alpinismul este interzis."],
       en: ["Only 318 meters tall.", "Very steep rock faces.", "A landmark of Kenting.", "Rock climbing is prohibited."]
-    }
-  },
+    }, image: "/poi-images/dajianshan-relief-v2.webp"},
   {
     id: "shitoushan-relief-v2",
     type: "mountain",
@@ -360,8 +347,7 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["492 méter magas.", "Egy oroszlán fejére emlékeztet.", "Számos templommal rendelkezik.", "Festői terület része."],
       ro: ["Are 492 de metri înălțime.", "Arată ca un cap de leu.", "Găzduiește multe temple.", "Parte a unei zone pitorești."],
       en: ["492 meters tall.", "Looks like a lion's head.", "Houses many temples.", "Part of a scenic area."]
-    }
-  },
+    }, image: "/poi-images/shitoushan-relief-v2.webp"},
   {
     id: "alangyi-coast-relief-v2",
     type: "coast",

@@ -9,10 +9,10 @@ export const poiExtraCanadaNatureV2: POI[] = [
     coords: [-115.6506, 50.9225],
     name: { de: "Mount Assiniboine", hu: "Mount Assiniboine", ro: "Muntele Assiniboine", en: "Mount Assiniboine" },
     description: {
-      de: "Ein pyramidenförmiger Gipfel, der oft als das 'Matterhorn der Rocky Mountains' bezeichnet wird.",
-      hu: "Piramis alakú hegycsúcs, melyet gyakran a 'Sziklás-hegység Matterhornjának' neveznek.",
-      ro: "Un vârf piramidal adesea numit 'Matterhorn-ul Stâncoșilor'.",
-      en: "A pyramidal peak often referred to as the 'Matterhorn of the Rockies'."
+      de: "Mount Assiniboine ist ein markanter Gipfel in den Canadian Rockies an der Grenze von British Columbia und Alberta.",
+      hu: "A Mount Assiniboine a Sziklás-hegység egyik legismertebb csúcsa. A környező tartományi park magashegyi tavakkal és alpesi tájjal ismert.",
+      ro: "Mount Assiniboine este un v?rf proeminent din Mun?ii St?nco?i canadieni, la grani?a dintre Alberta ?i Columbia Britanic?. Este unul dintre cele mai cunoscute puncte alpine din regiune.",
+      en: "Mount Assiniboine is a sharp, pyramid-shaped peak in the Canadian Rockies on the Alberta-British Columbia border. It is one of the most famous mountains in the region."
     },
     descriptionAdvanced: {
       hu: "A Mount Assiniboine a kanadai Sziklás-hegység egyik legikonikusabb csúcsa, amelyet gyakran a kanadai Matterhornként emlegetnek meredek, piramis alakú formája miatt. 3618 méteres magasságával lenyűgöző látványt nyújt a környező gleccserek és alpesi tavak fölött, mint például a Magog-tó. Ez a terület rendkívül népszerű a túrázók és hegymászók körében, mivel a csúcsra csak gyakorlott mászók juthatnak fel. A régió része a Mount Assiniboine Tartományi Parknak, amely szigorúan védett természetvédelmi terület, biztosítva a ritka alpesi ökoszisztémák megőrzését. Földrajz K7 — hegységek és tavak."
@@ -27,10 +27,10 @@ export const poiExtraCanadaNatureV2: POI[] = [
     coords: [-125.5858, 61.5644],
     name: { de: "South Nahanni River", hu: "South Nahanni-folyó", ro: "Râul South Nahanni", en: "South Nahanni River" },
     description: {
-      de: "Ein wilder Fluss im Nahanni-Nationalpark, bekannt für seine vier großen Canyons und die Virginia Falls.",
-      hu: "Egy vad folyó a Nahanni Nemzeti Parkban, amely négy nagy kanyonjáról és a Virginia-vízesésről ismert.",
-      ro: "Un râu sălbatic în Parcul Național Nahanni, cunoscut pentru cele patru canioane mari și Cascada Virginia.",
-      en: "A wild river in Nahanni National Park, known for its four great canyons and Virginia Falls."
+      de: "Der South Nahanni River fließt durch eine abgelegene Wildnis im Nordwesten Kanadas.",
+      hu: "A South Nahanni folyó Kanada északnyugati részének vad folyója. Mély kanyonjai és vízesései miatt a nemzeti park egyik fő értéke.",
+      ro: "South Nahanni River curge printr-o zon? s?lbatic? din Teritoriile de Nord-Vest. Cursul s?u este asociat cu canioane, repezi?uri ?i peisaje izolate.",
+      en: "The South Nahanni River is a wild northern river in the Northwest Territories. It is famous for deep canyons, Virginia Falls, and protected wilderness."
     },
     descriptionAdvanced: {
       hu: "A South Nahanni folyó az Északnyugati területek egyik legdrámaibb természeti képződménye, amely a Nahanni Nemzeti Parkon keresztül kanyarog. A folyó híres a hatalmas mélységű kanyonjairól, valamint a Virginia-vízesésről, amely kétszer magasabb, mint a Niagara-vízesés. Ez a terület az UNESCO Világörökség része, és gazdag geológiai különlegességekben, mint például a felszín alatti barlangrendszerek és hőforrások. A folyó vadvízi evezősök és kalandturisták kedvelt úti célja, akik a szinte érintetlen északi vadont szeretnék felfedezni. Földrajz K7 — folyók és vízesések."
@@ -45,10 +45,10 @@ export const poiExtraCanadaNatureV2: POI[] = [
     coords: [-114.0, 62.0],
     name: { de: "Großer Sklavensee", hu: "Nagy-Rabszolga-tó", ro: "Marele Lac al Sclavilor", en: "Great Slave Lake" },
     description: {
-      de: "Der zweitgrößte See in den Nordwest-Territorien und der tiefste See Nordamerikas.",
-      hu: "Az Északnyugati területek második legnagyobb tava és Észak-Amerika legmélyebb tava.",
-      ro: "Al doilea cel mai mare lac din Teritoriile de Nord-Vest și cel mai adânc lac din America de Nord.",
-      en: "The second-largest lake in the Northwest Territories and the deepest lake in North America."
+      de: "Der Great Slave Lake ist ein riesiger See in den Northwest Territories und ein prägendes Gewässer des Nordens.",
+      hu: "A Great Slave Lake Kanada egyik legnagyobb és legmélyebb tava. Az Északnyugati területek meghatározó vízteste, jeges északi környezettel.",
+      ro: "Great Slave Lake este cel mai ad?nc lac mare din Canada ?i se afl? ?n Teritoriile de Nord-Vest. Este un element geografic major al nordului canadian.",
+      en: "Great Slave Lake is the second-largest lake in Canada and one of the deepest in North America. It sits in the Northwest Territories and shapes the region's travel and climate."
     },
     descriptionAdvanced: {
       hu: "A Nagy-Rabszolga-tó Kanada második legnagyobb tava, amely az Északnyugati területeken található. Ez Észak-Amerika legmélyebb tava, amelynek maximális mélysége eléri a 614 métert, ami különleges hatással van a környező éghajlatra. A tó partján fekszik Yellowknife, a terület fővárosa, amely az 1930-as évekbeli aranyláz idején kezdett jelentősen fejlődni. Télen a tó vize teljesen befagy, ami lehetővé teszi a híres jégutak használatát a közlekedésben. A tó vize kristálytiszta, és jelentős élőhelyet biztosít különböző halfajoknak, mint a pisztráng és a süllő. Földrajz K7 — tavak és mélységek."
@@ -63,10 +63,10 @@ export const poiExtraCanadaNatureV2: POI[] = [
     coords: [-132.0, 53.0],
     name: { de: "Haida Gwaii", hu: "Haida Gwaii", ro: "Haida Gwaii", en: "Haida Gwaii" },
     description: {
-      de: "Ein Archipel vor der Küste von British Columbia, bekannt als 'Galapagos des Nordens' wegen seiner einzigartigen Flora und Fauna.",
-      hu: "Szigetcsoport Brit Columbia partjainál, amelyet egyedülálló növény- és állatvilága miatt az 'Észak Galápagosának' is neveznek.",
-      ro: "Un arhipelag în largul coastei Columbiei Britanice, cunoscut ca 'Galapagosul Nordului' pentru flora și fauna sa unică.",
-      en: "An archipelago off the coast of British Columbia, known as the 'Galapagos of the North' for its unique flora and fauna."
+      de: "Haida Gwaii ist ein abgelegener Inselarchipel vor der Nordküste von British Columbia.",
+      hu: "A Haida Gwaii-szigetek Brit Columbia partjainál fekszenek. Esőerdők, tengerparti sziklák és a Haida kultúra együtt adják a térség karakterét.",
+      ro: "Haida Gwaii este un arhipelag de pe coasta Columbiei Britanice, cunoscut pentru biodiversitate ?i pentru patrimoniul Haida. Izolarea sa i-a p?strat caracterul aparte.",
+      en: "Haida Gwaii is a remote island archipelago off the coast of British Columbia. It is closely tied to Haida culture and rich Pacific coastal ecosystems."
     },
     descriptionAdvanced: {
       hu: "Haida Gwaii, korábbi nevén a Királynő Sarolta-szigetek, egy szigetcsoport British Columbia partjainál, amely rendkívül gazdag biodiverzitással és a Haida őslakos nép kultúrájával büszkélkedhet. A szigeteket gyakran a 'Kanada Galápagosának' nevezik az egyedülálló növény- és állatvilág miatt, amely az utolsó jégkorszakot követően elszigetelten fejlődött. A területen találhatók az UNESCO védelme alatt álló totemfa-maradványok és az ősi falvak maradványai, amelyek a Haida kultúra mélységét tükrözik. A szigetek éghajlata óceáni, sok csapadékkal, ami buja esőerdőket hozott létre. Földrajz K7 — szigetek és biológia."
@@ -298,13 +298,13 @@ export const poiExtraCanadaNatureV2: POI[] = [
     name: { de: "Carmanah Walbran Provincial Park Wald", hu: "Carmanah Walbran Tartományi Park erdő", ro: "Pădurea Parcului Provincial Carmanah Walbran", en: "Carmanah Walbran Provincial Park Forest" },
     description: {
       de: "Schützt einen Teil des größten alten gemäßigten Regenwaldes auf Vancouver Island.",
-      hu: "A Vancouver-sziget legnagyobb ősi mérsékelt övi esőerdőjének egy részét védi.",
+      hu: "A Carmanah-Walbran Provincial Park Brit Columbia egyik híres öreg erdős területe. A mérsékelt övi esőerdő hatalmas fáiról ismert.",
       ro: "Protejează o parte din cea mai mare pădure tropicală temperată veche de pe Insula Vancouver.",
       en: "Protects a portion of the largest ancient temperate rainforest on Vancouver Island."
     },
     facts: {
       de: ["Heimat von riesigen Sitka-Fichten", "Wichtiges ökologisches Reservat", "Entlegene Wildnis"],
-      hu: ["Hatalmas Sitka-lucfenyők otthona", "Fontos ökológiai rezervátum", "Távoli vadon"],
+      hu: ["Brit Columbiában található", "Öreg erdő és esőerdő", "Hatalmas fák jellemzik"],
       ro: ["Găzduiește molizi Sitka uriași", "Rezervație ecologică importantă", "Sălbăticie izolată"],
       en: ["Home to giant Sitka Spruce trees", "Important ecological reserve", "Remote wilderness"]
     }, image: "/poi-images/carmanah-walbran-provincial-park-forest-nature-v2.webp"},
@@ -499,13 +499,13 @@ export const poiExtraCanadaNatureV2: POI[] = [
       de: "Ein malerischer See im Jasper-Nationalpark, berühmt für die winzige Spirit Island.",
       hu: "Festői tó a Jasper Nemzeti Parkban, híres az apró Spirit-szigetről.",
       ro: "Un lac pitoresc în Parcul Național Jasper, renumit pentru mica insulă Spirit.",
-      en: "A picturesque lake in Jasper National Park, famous for the tiny Spirit Island."
+      en: "Maligne Lake is a glacier-fed lake in Jasper National Park and one of the best-known landscapes in the Canadian Rockies. Spirit Island makes it especially famous."
     },
     facts: {
       de: ["Längster natürlicher See in den kanadischen Rockies", "Spirit Island ist eines der meistfotografierten Motive", "Gletschergespeist"],
       hu: ["A Kanadai-Sziklás-hegység leghosszabb természetes tava", "A Spirit-sziget az egyik legtöbbet fotózott motívum", "Gleccserek táplálják"],
       ro: ["Cel mai lung lac natural din Stâncoșii Canadieni", "Insula Spirit este unul dintre cele mai fotografiate subiecte", "Alimentat de ghețari"],
-      en: ["Longest natural lake in the Canadian Rockies", "Spirit Island is one of the most photographed scenes", "Glacier-fed"]
+      en: ["In Jasper National Park", "Glacier-fed lake", "Spirit Island is a famous viewpoint"]
     }, image: "/poi-images/malgne-lake-nature-v2.webp"},
   {
     id: "bow-river-nature-v2",

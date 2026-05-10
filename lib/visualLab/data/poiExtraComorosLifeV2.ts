@@ -85,13 +85,13 @@ export const poiExtraComorosLifeV2: POI[] = [
     },
     description: {
       de: "In der Nähe der Hauptstadt können Besucher die Vielfalt der komorischen Gewürze wie Pfeffer, Zimt und Muskatnuss in ihrer natürlichen Umgebung sehen.",
-      hu: "A főváros közelében a látogatók természetes környezetükben láthatják a comore-i fűszerek sokféleségét, mint a borsot, fahéjat és szerecsendiót.",
+      hu: "A moroni fűszerkert a városi kertészkedés és az illatos növények világát mutatja be. A hely jól kapcsolja össze a hétköznapi életet és a helyi növénykultúrát.",
       ro: "În apropierea capitalei, vizitatorii pot vedea diversitatea mirodeniilor comoriene, cum ar fi piperul, scorțișoara și nucșoara, în mediul lor natural.",
       en: "Near the capital, visitors can see the variety of Comorian spices like pepper, cinnamon, and nutmeg in their natural environment."
     },
     facts: {
       de: ["Lernort für tropische Botanik", "Duftendes Erlebnis", "Vielfalt an Nutzpflanzen"],
-      hu: ["Trópusi botanikai oktatóhely", "Illatos élmény", "Haszonnövények sokfélesége"],
+      hu: ["Moroni városában", "Fűszernövények", "Városi kertészkedés"],
       ro: ["Loc de învățare pentru botanică tropicală", "Experiență parfumată", "Diversitate de plante utile"],
       en: ["Learning site for tropical botany", "Fragrant experience", "Variety of useful plants"]
     }, image: "/poi-images/gewuerzgarten-moroni-life-v2.webp"},
@@ -200,13 +200,13 @@ export const poiExtraComorosLifeV2: POI[] = [
     },
     description: {
       de: "Im Norden von Grande Comore erstrecken sich weite Kokospalmenhaine, die für die lokale Wirtschaft und Ernährung von zentraler Bedeutung sind.",
-      hu: "Grande Comore északi részén hatalmas kókuszpálma-ligetek terülnek el, melyek központi jelentőségűek a helyi gazdaság és élelmezés számára.",
+      hu: "Mitsamiouli kókuszligetei a part menti táj egyik jellegzetes elemei. A fák árnyéka és a kis parcellák a hagyományos szigetgazdálkodást idézik.",
       ro: "În nordul Grande Comore se întind livezi vaste de cocotieri, care au o importanță centrală pentru economia și alimentația locală.",
       en: "In the north of Grande Comore, vast coconut palm groves stretch out, which are of central importance to the local economy and nutrition."
     },
     facts: {
       de: ["Vielseitige Nutzung der Palme", "Erfrischendes Kokoswasser", "Export von Kopra"],
-      hu: ["A pálma sokoldalú hasznosítása", "Frissítő kókuszvíz", "Kopra exportja"],
+      hu: ["Mitsamiouli környéke", "Kókuszpálmák", "Hagyományos gazdálkodás"],
       ro: ["Utilizare versatilă a palmierului", "Apă de cocos răcoritoare", "Exportul de copra"],
       en: ["Versatile use of the palm", "Refreshing coconut water", "Export of copra"]
     }, image: "/poi-images/kokosnuss-haine-mitsamiouli-life-v2.webp"},
@@ -271,13 +271,13 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "Die dichten Wälder von Mohéli sind die Heimat des Mongozmaki, einer Lemurenart, die ursprünglich aus Madagaskar stammt.",
       hu: "Mohéli sűrű erdői otthont adnak a mongúzmakinak, egy eredetileg Madagaszkárról származó makifajnak.",
       ro: "Pădurile dese din Mohéli sunt casa lemurului mongoz, o specie de lemur originară din Madagascar.",
-      en: "The dense forests of Mohéli are home to the Mongoose Lemur, a species originally from Madagascar."
+      en: "Mohéli's forests provide habitat for mongoose lemurs and other small forest animals. The area shows the island's mix of wildlife and dense tropical vegetation."
     },
     facts: {
       de: ["Nachtaktive Tiere", "Einzige Lemuren außerhalb Madagaskars", "Ernähren sich von Früchten"],
       hu: ["Éjszakai állatok", "Az egyetlen makik Madagaszkáron kívül", "Gyümölcsökkel táplálkoznak"],
       ro: ["Animale nocturne", "Singurii lemurieni din afara Madagascarului", "Se hrănesc cu fructe"],
-      en: ["Nocturnal animals", "Only lemurs found outside Madagascar", "Feed on fruits"]
+      en: ["Forest habitat", "Mongoose lemurs", "Tropical vegetation"]
     }, image: "/poi-images/lemuren-wald-moheli-life-v2.webp"},
   {
     id: "vogelparadies-mchaco-life-v2",
@@ -317,13 +317,13 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "In Ouani können Besucher den Prozess der Destillation miterleben, bei dem aus den gelben Blüten das wertvolle ätherische Öl gewonnen wird.",
       hu: "Ouaniban a látogatók tanúi lehetnek a lepárlási folyamatnak, mely során a sárga virágokból kinyerik az értékes illóolajat.",
       ro: "În Ouani, vizitatorii pot asista la procesul de distilare prin care se extrage uleiul esențial prețios din florile galbene.",
-      en: "In Ouani, visitors can witness the distillation process, where the precious essential oil is extracted from the yellow flowers."
+      en: "The Ouani ylang-ylang distillery shows how the island's flower harvest is turned into essential oil. It reflects an important part of Anjouan's fragrance economy."
     },
     facts: {
       de: ["Gewinnung von Parfümöl", "Traditionelle Kupferkessel", "Duftendes Handwerk"],
       hu: ["Parfümolaj kinyerése", "Hagyományos vörösréz üstök", "Illatos kézművesség"],
       ro: ["Extracția uleiului de parfum", "Cazane tradiționale din cupru", "Meșteșug parfumat"],
-      en: ["Extraction of perfume oil", "Traditional copper stills", "Fragrant craft"]
+      en: ["Essential oil production", "Traditional stills", "Ylang-ylang flowers"]
     }, image: "/poi-images/ylang-ylang-destillerie-ouani-life-v2.webp"},
   {
     id: "kaffeeplantagen-tsembehou-life-v2",
@@ -363,13 +363,13 @@ export const poiExtraComorosLifeV2: POI[] = [
       de: "In den wasserreichen Tälern von Mohéli wird Reis angebaut, was ein wichtiger Teil der lokalen Selbstversorgung ist.",
       hu: "Mohéli vízben gazdag völgyeiben rizst termesztenek, ami fontos része a helyi önellátásnak.",
       ro: "În văile bogate în apă din Mohéli se cultivă orez, fiind o parte importantă a subzistenței locale.",
-      en: "In the water-rich valleys of Mohéli, rice is cultivated, representing an important part of local self-sufficiency."
+      en: "Mohéli's rice fields sit in water-fed valleys where local families grow food for daily use. They are a practical example of small-island self-sufficiency."
     },
     facts: {
       de: ["Bewässerung durch Gebirgsbäche", "Traditioneller Anbau", "Sicherung der Ernährung"],
       hu: ["Hegyi patakokkal öntözés", "Hagyományos termesztés", "Élelmezésbiztonság"],
       ro: ["Irigare prin pârâuri montane", "Cultivare tradițională", "Asigurarea hranei"],
-      en: ["Irrigation by mountain streams", "Traditional cultivation", "Food security"]
+      en: ["Water-fed valleys", "Traditional cultivation", "Local food supply"]
     }
   },
   {
@@ -432,15 +432,15 @@ export const poiExtraComorosLifeV2: POI[] = [
     },
     description: {
       de: "Ein kinderfreundlicher Wanderweg führt durch die unteren Hänge des Vulkans Karthala und erklärt die heimische Pflanzenwelt.",
-      hu: "Egy gyermekbarát túraútvonal vezet a Karthala-vulkán alsó lejtőin, bemutatva a helyi növényvilágot.",
+      hu: "A Karthala tanösvénye a vulkáni lejtők növényvilágát mutatja be. A sétaút a helyi természetet és a sziget geológiáját egyszerre közelíti meg.",
       ro: "Un traseu de drumeție prietenos pentru copii duce prin pantele inferioare ale vulcanului Karthala, explicând flora locală.",
-      en: "A child-friendly hiking trail leads through the lower slopes of Mount Karthala, explaining the local flora."
+      en: "This family-friendly trail runs along the lower slopes of Mount Karthala. It introduces visitors to local plants and the volcanic landscape at the same time."
     },
     facts: {
       de: ["Leichte Wanderung", "Entdeckung seltener Pflanzen", "Vogelbeobachtung möglich"],
-      hu: ["Könnyű túra", "Ritka növények felfedezése", "Madármegfigyelés lehetséges"],
+      hu: ["Karthala lejtői", "Tanösvény", "Növény- és kőzetvilág"],
       ro: ["Drumeție ușoară", "Descoperirea plantelor rare", "Observarea păsărilor este posibilă"],
-      en: ["Easy hike", "Discovery of rare plants", "Birdwatching possible"]
+      en: ["Lower Karthala slopes", "Family-friendly trail", "Local flora and geology"]
     }, image: "/poi-images/naturlehrpfad-karthala-life-v2.webp"},
   {
     id: "botanischer-garten-mvouni-life-v2",

@@ -20,7 +20,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Promotes national food security.", "Researches disease-resistant plant varieties.", "Provides training for local farmers.", "Supports sustainable agricultural practices."]
     }
   ,
-    factsAdvanced: { multi4: ["Gegründet im Jahr 1979.", "Umfasst eine Fläche von 45 Hektar.", "Hauptfokus auf Reisforschung (Sorten Laila & Adan).", "Entwickelt Hydrokultur- und Vertikalfarming-Systeme.", "Bietet Schulungen für über 500 Landwirte jährlich.", "Veröffentlicht jährlich Berichte zur landwirtschaftlichen Produktivität.", "Trägt zur Reduzierung der Reisimporte um 15% bei.", "Kooperiert mit dem International Rice Research Institute (IRRI)."] }},
+    factsAdvanced: { multi4: ["Gegründet im Jahr 1979.", "Umfasst eine Fläche von 45 Hektar.", "Hauptfokus auf Reisforschung (Sorten Laila & Adan).", "Entwickelt Hydrokultur- und Vertikalfarming-Systeme.", "Bietet Schulungen für über 500 Landwirte jährlich.", "Veröffentlicht jährlich Berichte zur landwirtschaftlichen Produktivität.", "Trägt zur Reduzierung der Reisimporte um 15% bei.", "Kooperiert mit dem International Rice Research Institute (IRRI)."] }, image: "/poi-images/kilanas-agricultural-research-centre-life-v2.webp"},
   {
     id: "wasan-rice-fields-life-v2",
     type: "agriculture",
@@ -40,7 +40,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Produces the local Laila rice variety.", "Features a sophisticated irrigation system.", "Attracts various bird species.", "Supports the goal of self-sufficiency."]
     }
   ,
-    factsAdvanced: { multi4: ["Gesamtfläche von über 500 Hektar.", "Hauptanbauprodukt ist die Reissorte 'Laila Padi'.", "Bewässerung durch den Imang-Staudamm.", "Entwicklung begann in den frühen 1980er Jahren.", "Produziert jährlich etwa 6% des nationalen Reisbedarfs.", "Wichtiger Brutplatz für Reiherarten.", "Teil des 'Wasan Agrotechnology Park'.", "Ziel ist die Steigerung der nationalen Reisproduktion auf 11%."] }},
+    factsAdvanced: { multi4: ["Gesamtfläche von über 500 Hektar.", "Hauptanbauprodukt ist die Reissorte 'Laila Padi'.", "Bewässerung durch den Imang-Staudamm.", "Entwicklung begann in den frühen 1980er Jahren.", "Produziert jährlich etwa 6% des nationalen Reisbedarfs.", "Wichtiger Brutplatz für Reiherarten.", "Teil des 'Wasan Agrotechnology Park'.", "Ziel ist die Steigerung der nationalen Reisproduktion auf 11%."] }, image: "/poi-images/wasan-rice-fields-life-v2.webp"},
   {
     id: "taman-batang-duri-life-v2",
     type: "kid-friendly",
@@ -60,7 +60,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Ideal for a family outing.", "Features civets and small primates.", "Promotes wildlife awareness.", "Located near the Temburong River."]
     }
   ,
-    factsAdvanced: { multi4: ["Eröffnet im Jahr 1992.", "Befindet sich im Temburong-Distrikt.", "Beherbergt Borneo-Gibbons und Zibetkatzen.", "Ausgangspunkt für Touren in den Ulu Temburong Nationalpark.", "Verfügt über ein Replikat eines Iban-Langhauses.", "Wichtige Rolle bei der Rehabilitation von Wildtieren.", "Fokus auf Bildung und Artenschutz.", "Eintritt ist in der Regel kostenlos."] }},
+    factsAdvanced: { multi4: ["Eröffnet im Jahr 1992.", "Befindet sich im Temburong-Distrikt.", "Beherbergt Borneo-Gibbons und Zibetkatzen.", "Ausgangspunkt für Touren in den Ulu Temburong Nationalpark.", "Verfügt über ein Replikat eines Iban-Langhauses.", "Wichtige Rolle bei der Rehabilitation von Wildtieren.", "Fokus auf Bildung und Artenschutz.", "Eintritt ist in der Regel kostenlos."] }, image: "/poi-images/taman-batang-duri-life-v2.webp"},
   {
     id: "brunei-bay-dolphin-watching-area-life-v2",
     type: "wildlife-area",
@@ -80,7 +80,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Home to the rare Irrawaddy dolphins.", "Mangrove forests line the coast.", "Important habitat for marine life.", "Ecotourism is strictly regulated here."]
     }
   ,
-    factsAdvanced: { multi4: ["Heimat der Irawadi-Delfine (Orcaella brevirostris).", "Delfine können in Salz- und Süßwasser leben.", "Beste Beobachtungszeit sind die frühen Morgenstunden.", "Touren starten typischerweise von Bandar Seri Begawan.", "Das Ökosystem umfasst ausgedehnte Mangrovenwälder.", "Gelegentliche Sichtungen von Dugongs (Seekühen).", "Wichtiger Lebensraum für über 150 Fischarten.", "Strenge Vorschriften zum Schutz der Tiere bei Touren."] }},
+    factsAdvanced: { multi4: ["Heimat der Irawadi-Delfine (Orcaella brevirostris).", "Delfine können in Salz- und Süßwasser leben.", "Beste Beobachtungszeit sind die frühen Morgenstunden.", "Touren starten typischerweise von Bandar Seri Begawan.", "Das Ökosystem umfasst ausgedehnte Mangrovenwälder.", "Gelegentliche Sichtungen von Dugongs (Seekühen).", "Wichtiger Lebensraum für über 150 Fischarten.", "Strenge Vorschriften zum Schutz der Tiere bei Touren."] }, image: "/poi-images/brunei-bay-dolphin-watching-area-life-v2.webp"},
   {
     id: "taman-jubli-perak-kuala-belait-life-v2",
     type: "park",
@@ -100,7 +100,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Built for the 25th jubilee of the reign.", "Popular spot for evening walks.", "Offers a picturesque view of the sunset.", "Features sculptures and manicured gardens."]
     }
   ,
-    factsAdvanced: { multi4: ["Eröffnet im Jahr 1992.", "Anlass: 25. Thronjubiläum von Sultan Hassanal Bolkiah.", "Lage direkt an der Küste von Kuala Belait.", "Zentrales Jubiläumsdenkmal als Wahrzeichen.", "Fläche von ca. 2,5 Hektar.", "Beliebter Ort zum Beobachten des Sonnenuntergangs.", "Jährlicher Schauplatz für die Feierlichkeiten zum Nationalfeiertag.", "Verfügt über einen 1,2 km langen Joggingpfad."] }},
+    factsAdvanced: { multi4: ["Eröffnet im Jahr 1992.", "Anlass: 25. Thronjubiläum von Sultan Hassanal Bolkiah.", "Lage direkt an der Küste von Kuala Belait.", "Zentrales Jubiläumsdenkmal als Wahrzeichen.", "Fläche von ca. 2,5 Hektar.", "Beliebter Ort zum Beobachten des Sonnenuntergangs.", "Jährlicher Schauplatz für die Feierlichkeiten zum Nationalfeiertag.", "Verfügt über einen 1,2 km langen Joggingpfad."] }, image: "/poi-images/taman-jubli-perak-kuala-belait-life-v2.webp"},
   {
     id: "sinaut-agricultural-training-centre-life-v2",
     type: "agriculture",
@@ -120,7 +120,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Promotes the training of young farmers.", "Tests new harvesting technologies.", "Supports the transition to organic farming.", "Has several experimental greenhouses."]
     }
   ,
-    factsAdvanced: { multi4: ["Gegründet im Jahr 1966.", "Umfasst eine Fläche von 20 Hektar im Distrikt Tutong.", "Spezialisiert auf Obstbau, Viehzucht und Aquakultur.", "Fördert den Einsatz von Tropfbewässerungssystemen.", "Bietet Zertifikatskurse für junge Landwirte an.", "Kooperiert mit dem Landwirtschaftsministerium Bruneis.", "Ziel ist die Förderung von Agrarunternehmertum.", "Jährlich über 200 Kursteilnehmer."] }},
+    factsAdvanced: { multi4: ["Gegründet im Jahr 1966.", "Umfasst eine Fläche von 20 Hektar im Distrikt Tutong.", "Spezialisiert auf Obstbau, Viehzucht und Aquakultur.", "Fördert den Einsatz von Tropfbewässerungssystemen.", "Bietet Zertifikatskurse für junge Landwirte an.", "Kooperiert mit dem Landwirtschaftsministerium Bruneis.", "Ziel ist die Förderung von Agrarunternehmertum.", "Jährlich über 200 Kursteilnehmer."] }, image: "/poi-images/sinaut-agricultural-training-centre-life-v2.webp"},
   {
     id: "labi-coffee-plantations-life-v2",
     type: "agriculture",
@@ -140,7 +140,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Produces liberica and robusta coffee.", "Uses eco-friendly cultivation methods.", "Harvesting is mostly done by hand.", "Coffee cultivation is a new economic pillar."]
     }
   ,
-    factsAdvanced: { multi4: ["Hauptanbaugebiet im Labi-Subdistrikt, Belait.", "Angebaut werden Robusta- und Liberica-Bohnen.", "Schattenanbau unter dem Regenwalddach.", "Unterstützt von der Regierung zur Diversifizierung der Wirtschaft.", "Erste Ernten begannen in den frühen 2010er Jahren.", "Produktion liegt bei wenigen Tonnen pro Jahr.", "Der Kaffee wird hauptsächlich lokal verkauft.", "Fördert Agrotourismus in der Region Labi."] }},
+    factsAdvanced: { multi4: ["Hauptanbaugebiet im Labi-Subdistrikt, Belait.", "Angebaut werden Robusta- und Liberica-Bohnen.", "Schattenanbau unter dem Regenwalddach.", "Unterstützt von der Regierung zur Diversifizierung der Wirtschaft.", "Erste Ernten begannen in den frühen 2010er Jahren.", "Produktion liegt bei wenigen Tonnen pro Jahr.", "Der Kaffee wird hauptsächlich lokal verkauft.", "Fördert Agrotourismus in der Region Labi."] }, image: "/poi-images/labi-coffee-plantations-life-v2.webp"},
   {
     id: "menteri-besar-recreational-park-life-v2",
     type: "park",
@@ -160,7 +160,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Features a beautiful orchid garden.", "Has outdoor fitness equipment.", "Shade-providing tropical trees.", "A sanctuary for urban birds."]
     }
   ,
-    factsAdvanced: { multi4: ["Auch bekannt als Taman Persiaran Damuan.", "Beherbergt den ASEAN Skulpturengarten von 1986.", "Sechs Skulpturen repräsentieren die ursprünglichen ASEAN-Mitglieder.", "Lage am Ufer des Damuan-Flusses.", "Bietet Blick auf den Istana Nurul Iman Palast.", "Verwandelt sich abends in einen beliebten Nachtmarkt (Pasar Malam).", "Beliebte Joggingstrecke von ca. 1 km Länge.", "Verfügt über einen großen Kinderspielplatz."] }},
+    factsAdvanced: { multi4: ["Auch bekannt als Taman Persiaran Damuan.", "Beherbergt den ASEAN Skulpturengarten von 1986.", "Sechs Skulpturen repräsentieren die ursprünglichen ASEAN-Mitglieder.", "Lage am Ufer des Damuan-Flusses.", "Bietet Blick auf den Istana Nurul Iman Palast.", "Verwandelt sich abends in einen beliebten Nachtmarkt (Pasar Malam).", "Beliebte Joggingstrecke von ca. 1 km Länge.", "Verfügt über einen großen Kinderspielplatz."] }, image: "/poi-images/menteri-besar-recreational-park-life-v2.webp"},
   {
     id: "taman-riadah-bukit-smoh-life-v2",
     type: "park",
@@ -180,7 +180,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Popular destination for hikers.", "Offers panoramic views of the surroundings.", "Rich in native plant species.", "Has several well-marked trails."]
     }
   ,
-    factsAdvanced: { multi4: ["Lage im Brunei-Muara Distrikt.", "Fokus auf Wandern und Naturerlebnis.", "Wanderwege mit Holzstegen und Erdpfaden.", "Höhe des Bukit Smoh beträgt ca. 80 Meter.", "Weglänge zum Gipfel beträgt etwa 1,5 Kilometer.", "Keine künstliche Beleuchtung, Nutzung nur bei Tageslicht empfohlen.", "Heimat von verschiedenen Arten von Kannenpflanzen (Nepenthes).", "Wird hauptsächlich von der lokalen Bevölkerung genutzt."] }},
+    factsAdvanced: { multi4: ["Lage im Brunei-Muara Distrikt.", "Fokus auf Wandern und Naturerlebnis.", "Wanderwege mit Holzstegen und Erdpfaden.", "Höhe des Bukit Smoh beträgt ca. 80 Meter.", "Weglänge zum Gipfel beträgt etwa 1,5 Kilometer.", "Keine künstliche Beleuchtung, Nutzung nur bei Tageslicht empfohlen.", "Heimat von verschiedenen Arten von Kannenpflanzen (Nepenthes).", "Wird hauptsächlich von der lokalen Bevölkerung genutzt."] }, image: "/poi-images/taman-riadah-bukit-smoh-life-v2.webp"},
   {
     id: "proboscis-monkey-river-safari-life-v2",
     type: "wildlife-area",
@@ -200,7 +200,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Proboscis monkeys are endemic to Borneo.", "Best spotted in the early evening hours.", "Habitat is strictly protected.", "Crocodiles can also be spotted."]
     }
   ,
-    factsAdvanced: { multi4: ["Endemisch auf der Insel Borneo.", "Männchen haben eine bis zu 10 cm lange Nase.", "Beste Beobachtungszeit ist die Dämmerung.", "Lebensraum sind Mangroven- und Sumpfwälder.", "Ernähren sich hauptsächlich von Blättern und Früchten.", "Status auf der Roten Liste: Stark gefährdet (Endangered).", "Touren dauern in der Regel 1-2 Stunden.", "Die Population in Brunei wird auf etwa 1.000 geschätzt."] }},
+    factsAdvanced: { multi4: ["Endemisch auf der Insel Borneo.", "Männchen haben eine bis zu 10 cm lange Nase.", "Beste Beobachtungszeit ist die Dämmerung.", "Lebensraum sind Mangroven- und Sumpfwälder.", "Ernähren sich hauptsächlich von Blättern und Früchten.", "Status auf der Roten Liste: Stark gefährdet (Endangered).", "Touren dauern in der Regel 1-2 Stunden.", "Die Population in Brunei wird auf etwa 1.000 geschätzt."] }, image: "/poi-images/proboscis-monkey-river-safari-life-v2.webp"},
   {
     id: "lumapas-agricultural-station-life-v2",
     type: "agriculture",
@@ -220,7 +220,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Focus on tropical fruit growing.", "Uses modern hydroponic techniques.", "Supports local fruit vendors.", "Serves as a show garden for schools."]
     }
   ,
-    factsAdvanced: { multi4: ["Spezialisiert auf tropische Früchte wie Durian und Rambutan.", "Umfasst eine Fläche von ca. 30 Hektar.", "Fokus auf Erhaltung der genetischen Vielfalt.", "Stellt zertifizierte Setzlinge für Kleinbauern bereit.", "Bietet technische Schulungen und Beratung an.", "Verfügt über Lehrpfade für Besucher.", "Saisonale Direktverkäufe von Früchten.", "Trägt zur lokalen Ernährungssicherheit bei."] }},
+    factsAdvanced: { multi4: ["Spezialisiert auf tropische Früchte wie Durian und Rambutan.", "Umfasst eine Fläche von ca. 30 Hektar.", "Fokus auf Erhaltung der genetischen Vielfalt.", "Stellt zertifizierte Setzlinge für Kleinbauern bereit.", "Bietet technische Schulungen und Beratung an.", "Verfügt über Lehrpfade für Besucher.", "Saisonale Direktverkäufe von Früchten.", "Trägt zur lokalen Ernährungssicherheit bei."] }, image: "/poi-images/lumapas-agricultural-station-life-v2.webp"},
   {
     id: "wasan-hornbill-spot-life-v2",
     type: "wildlife-area",
@@ -240,7 +240,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Several hornbill species are native here.", "The best time for bird watching is the morning.", "Binoculars are highly recommended.", "The birds feed on local fruits."]
     }
   ,
-    factsAdvanced: { multi4: ["Informeller Beobachtungspunkt in der Nähe der Wasan Reisfelder.", "Häufige Sichtung von Rhinoceros-Hornvögeln.", "Oriental-Pied-Hornbills sind ebenfalls verbreitet.", "Beste Beobachtungszeit: früher Morgen und später Nachmittag.", "Keine offizielle Infrastruktur vorhanden.", "Anziehung durch nahegelegene Fruchtbäume.", "Beliebt bei lokalen und internationalen Vogelbeobachtern.", "Fernglas oder Teleobjektiv dringend empfohlen."] }},
+    factsAdvanced: { multi4: ["Informeller Beobachtungspunkt in der Nähe der Wasan Reisfelder.", "Häufige Sichtung von Rhinoceros-Hornvögeln.", "Oriental-Pied-Hornbills sind ebenfalls verbreitet.", "Beste Beobachtungszeit: früher Morgen und später Nachmittag.", "Keine offizielle Infrastruktur vorhanden.", "Anziehung durch nahegelegene Fruchtbäume.", "Beliebt bei lokalen und internationalen Vogelbeobachtern.", "Fernglas oder Teleobjektiv dringend empfohlen."] }, image: "/poi-images/wasan-hornbill-spot-life-v2.webp"},
   {
     id: "seria-energy-lab-playground-life-v2",
     type: "kid-friendly",
@@ -260,7 +260,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Playful introduction to physics.", "Equipment reacts to movement.", "Encourages interest in STEM subjects.", "Very popular with primary school children."]
     }
   ,
-    factsAdvanced: { multi4: ["Teil des Seria Energy Lab (SEL).", "Betrieben von Brunei Shell Petroleum (BSP).", "Fokus auf spielerisches Lernen von Physik und Energie.", "Viele Spielgeräte sind interaktiv und energiebetrieben.", "Fördert das Interesse an MINT-Fächern (STEM).", "Vermittelt Konzepte erneuerbarer Energien.", "Eintritt ist normalerweise an ein Ticket für das SEL gebunden.", "Eröffnet im Jahr 2020."] }},
+    factsAdvanced: { multi4: ["Teil des Seria Energy Lab (SEL).", "Betrieben von Brunei Shell Petroleum (BSP).", "Fokus auf spielerisches Lernen von Physik und Energie.", "Viele Spielgeräte sind interaktiv und energiebetrieben.", "Fördert das Interesse an MINT-Fächern (STEM).", "Vermittelt Konzepte erneuerbarer Energien.", "Eintritt ist normalerweise an ein Ticket für das SEL gebunden.", "Eröffnet im Jahr 2020."] }, image: "/poi-images/seria-energy-lab-playground-life-v2.webp"},
   {
     id: "subok-ridge-macaque-trail-life-v2",
     type: "wildlife-area",
@@ -280,7 +280,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Home to the cheeky long-tailed macaques.", "Feeding the monkeys is strictly forbidden.", "Offers great views of the capital.", "Wooden boardwalk protects the forest floor."]
     }
   ,
-    factsAdvanced: { multi4: ["Bekannt für die Beobachtung von Langschwanzmakaken.", "Erhöhter Holzsteg zum Schutz des Waldbodens.", "Länge des Pfades beträgt ca. 800 Meter.", "Bietet Panoramablick auf Bandar Seri Begawan.", "Das Füttern der Affen ist streng verboten.", "Liegt im Wohngebiet von Kampong Subok.", "Ganzjährig frei zugänglich.", "Teil des 'Bandar Seri Begawan Green Spaces' Netzwerks."] }},
+    factsAdvanced: { multi4: ["Bekannt für die Beobachtung von Langschwanzmakaken.", "Erhöhter Holzsteg zum Schutz des Waldbodens.", "Länge des Pfades beträgt ca. 800 Meter.", "Bietet Panoramablick auf Bandar Seri Begawan.", "Das Füttern der Affen ist streng verboten.", "Liegt im Wohngebiet von Kampong Subok.", "Ganzjährig frei zugänglich.", "Teil des 'Bandar Seri Begawan Green Spaces' Netzwerks."] }, image: "/poi-images/subok-ridge-macaque-trail-life-v2.webp"},
   {
     id: "birau-agricultural-research-station-life-v2",
     type: "agriculture",
@@ -300,7 +300,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Analyzes the soil conditions of the region.", "Tests environmentally friendly pesticides.", "Breeds drought-resistant plants.", "Collaborates with international experts."]
     }
   ,
-    factsAdvanced: { multi4: ["Standort im Tutong-Distrikt.", "Fokus auf Bodenmanagement und Düngung.", "Führt Feldversuche für neue Pflanzensorten durch.", "Untersucht Methoden zur Verbesserung saurer Böden.", "Entwickelt Strategien zur Schädlingsbekämpfung.", "Veröffentlicht Forschungsergebnisse für Landwirte.", "Arbeitet mit der Abteilung für Landwirtschaft und Agrarwirtschaft zusammen.", "Gegründet in den 1980er Jahren."] }},
+    factsAdvanced: { multi4: ["Standort im Tutong-Distrikt.", "Fokus auf Bodenmanagement und Düngung.", "Führt Feldversuche für neue Pflanzensorten durch.", "Untersucht Methoden zur Verbesserung saurer Böden.", "Entwickelt Strategien zur Schädlingsbekämpfung.", "Veröffentlicht Forschungsergebnisse für Landwirte.", "Arbeitet mit der Abteilung für Landwirtschaft und Agrarwirtschaft zusammen.", "Gegründet in den 1980er Jahren."] }, image: "/poi-images/birau-agricultural-research-station-life-v2.webp"},
   {
     id: "luagan-lalak-bird-watching-area-life-v2",
     type: "wildlife-area",
@@ -320,7 +320,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Famous for seasonal landscape changes.", "Attracts migratory birds from all over Asia.", "Photographers appreciate the soft morning light.", "Swampland is flooded during the rainy season."]
     }
   ,
-    factsAdvanced: { multi4: ["Saisonal wechselnde Landschaft: See in der Regenzeit, Grasland in der Trockenzeit.", "Lage im Labi Hills Forest Reserve, Distrikt Belait.", "Ein ca. 200 Meter langer Holzsteg führt über das Gebiet.", "Wichtiger Lebensraum für über 100 Vogelarten.", "Das Wasser im See ist aufgrund von Tanninen teefarben.", "Die dominante Pflanzenart in der Trockenzeit ist die Segge (Mapania).", "Keine Boote auf dem See erlaubt, um die Natur zu schützen.", "Eröffnet für die Öffentlichkeit im Jahr 1999."] }},
+    factsAdvanced: { multi4: ["Saisonal wechselnde Landschaft: See in der Regenzeit, Grasland in der Trockenzeit.", "Lage im Labi Hills Forest Reserve, Distrikt Belait.", "Ein ca. 200 Meter langer Holzsteg führt über das Gebiet.", "Wichtiger Lebensraum für über 100 Vogelarten.", "Das Wasser im See ist aufgrund von Tanninen teefarben.", "Die dominante Pflanzenart in der Trockenzeit ist die Segge (Mapania).", "Keine Boote auf dem See erlaubt, um die Natur zu schützen.", "Eröffnet für die Öffentlichkeit im Jahr 1999."] }, image: "/poi-images/luagan-lalak-bird-watching-area-life-v2.webp"},
   {
     id: "bukit-pagon-cloud-forest-zone-life-v2",
     type: "wildlife-area",
@@ -340,7 +340,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Habitat of the rare Nepenthes plants.", "Temperatures are much cooler here.", "Often enveloped in dense, mystical fog.", "Access requires a guided expedition."]
     }
   ,
-    factsAdvanced: { multi4: ["Höchster Berg in Brunei mit 1.850 Metern.", "Liegt an der Grenze zu Sarawak, Malaysia.", "Gipfelregion ist ein Nebelwald-Ökosystem.", "Heimat seltener Kannenpflanzen (z.B. Nepenthes lowii).", "Hohe Konzentration an endemischen Orchideenarten.", "Zugang erfordert Genehmigung und geführte Expedition.", "Teil des Ulu-Temburong-Nationalparks.", "Temperaturen können auf 15-20°C fallen."] }},
+    factsAdvanced: { multi4: ["Höchster Berg in Brunei mit 1.850 Metern.", "Liegt an der Grenze zu Sarawak, Malaysia.", "Gipfelregion ist ein Nebelwald-Ökosystem.", "Heimat seltener Kannenpflanzen (z.B. Nepenthes lowii).", "Hohe Konzentration an endemischen Orchideenarten.", "Zugang erfordert Genehmigung und geführte Expedition.", "Teil des Ulu-Temburong-Nationalparks.", "Temperaturen können auf 15-20°C fallen."] }, image: "/poi-images/bukit-pagon-cloud-forest-zone-life-v2.webp"},
   {
     id: "luahan-agropark-life-v2",
     type: "agriculture",
@@ -380,7 +380,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       en: ["Play equipment in the shape of marine animals.", "Shaded pavilions for parents.", "Safe sand floor to prevent injuries.", "Popular for weekend barbecues."]
     }
   ,
-    factsAdvanced: { multi4: ["Lage auf einer Landzunge zwischen Meer und Fluss.", "Pantai Seri Kenangan bedeutet 'Strand der unvergesslichen Erinnerungen'.", "Moderne und sichere Spielgeräte.", "Weicher Sandboden als Fallschutz.", "Zahlreiche Picknickhütten (Pondoks) und Grillplätze.", "Extrem beliebt an Wochenenden und Feiertagen.", "Bietet spektakuläre Sonnenuntergänge.", "Der Strand ist ca. 2 km lang."] }},
+    factsAdvanced: { multi4: ["Lage auf einer Landzunge zwischen Meer und Fluss.", "Pantai Seri Kenangan bedeutet 'Strand der unvergesslichen Erinnerungen'.", "Moderne und sichere Spielgeräte.", "Weicher Sandboden als Fallschutz.", "Zahlreiche Picknickhütten (Pondoks) und Grillplätze.", "Extrem beliebt an Wochenenden und Feiertagen.", "Bietet spektakuläre Sonnenuntergänge.", "Der Strand ist ca. 2 km lang."] }, image: "/poi-images/pantai-seri-kenangan-playground-life-v2.webp"},
   {
     id: "panaga-club-family-area-life-v2",
     type: "kid-friendly",

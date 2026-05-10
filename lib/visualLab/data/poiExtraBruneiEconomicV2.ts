@@ -30,8 +30,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/brunei-lng-plant-economic-v2.webp"},
   {
     id: "seria-oil-field-economic-v2",
     type: "energy",
@@ -61,8 +60,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/seria-oil-field-economic-v2.webp"},
   {
     id: "muara-port-economic-v2",
     type: "port",
@@ -92,8 +90,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/muara-port-economic-v2.webp"},
   {
     id: "pulau-muara-besar-petrochemical-complex-economic-v2",
     type: "industry",
@@ -123,8 +120,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/pulau-muara-besar-petrochemical-complex-economic-v2.webp"},
   {
     id: "sungai-liang-industrial-park-economic-v2",
     type: "industry",
@@ -154,8 +150,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/sungai-liang-industrial-park-economic-v2.webp"},
   {
     id: "champion-offshore-oil-field-economic-v2",
     type: "energy",
@@ -185,8 +180,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/champion-offshore-oil-field-economic-v2.webp"},
   {
     id: "brunei-shell-petroleum-headquarters-economic-v2",
     type: "industry",
@@ -216,8 +210,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/brunei-shell-petroleum-headquarters-economic-v2.webp"},
   {
     id: "brunei-fertilizer-industries-plant-economic-v2",
     type: "industry",
@@ -247,8 +240,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/brunei-fertilizer-industries-plant-economic-v2.webp"},
   {
     id: "salambigar-industrial-park-economic-v2",
     type: "industry",
@@ -278,8 +270,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/salambigar-industrial-park-economic-v2.webp"},
   {
     id: "lambak-kanan-industrial-estate-economic-v2",
     type: "industry",
@@ -309,8 +300,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lambak-kanan-industrial-estate-economic-v2.webp"},
   {
     id: "serasa-ferry-terminal-economic-v2",
     type: "port",
@@ -340,8 +330,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/serasa-ferry-terminal-economic-v2.webp"},
   {
     id: "kuala-belait-port-economic-v2",
     type: "port",
@@ -371,8 +360,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/kuala-belait-port-economic-v2.webp"},
   {
     id: "berakas-power-station-economic-v2",
     type: "energy",
@@ -402,8 +390,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/berakas-power-station-economic-v2.webp"},
   {
     id: "bukit-panggal-power-station-economic-v2",
     type: "energy",
@@ -433,8 +420,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/bukit-panggal-power-station-economic-v2.webp"},
   {
     id: "lumut-power-station-economic-v2",
     type: "energy",
@@ -464,8 +450,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lumut-power-station-economic-v2.webp"},
   {
     id: "brunei-methanol-plant-economic-v2",
     type: "industry",
@@ -526,8 +511,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/anggerek-desa-technology-park-economic-v2.webp"},
   {
     id: "beribi-industrial-complex-economic-v2",
     type: "industry",
@@ -557,8 +541,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/beribi-industrial-complex-economic-v2.webp"},
   {
     id: "temburong-stone-quarry-economic-v2",
     type: "mine",
@@ -588,8 +571,7 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/temburong-stone-quarry-economic-v2.webp"},
   {
     id: "muara-fish-landing-complex-economic-v2",
     type: "trade-hub",

@@ -18,8 +18,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["1938-ban épült a régebbi romok felett", "Egykori virágzó gyöngyhalász város része volt", "Négyzet alaprajzú, négy saroktoronnyal", "Hagyományos iszlám erődépítészet"],
       ro: ["Construit în anul 1938", "Parte a unui fost oraș înfloritor al pescuitorilor de perle", "Plan pătrat cu patru turnuri de colț", "Arhitectură militară islamică clasică"],
       en: ["Constructed in 1938", "Part of a former flourishing pearl-diving town", "Square ground plan with four corner towers", "Classic example of Islamic military architecture"]
-    }
-  },
+    }, image: "/poi-images/qatar-al-zubarah-fort-history-v2.webp"},
   {
     id: "qatar-barzan-towers-history-v2",
     type: "monument",
@@ -56,8 +55,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["Az 1893-as Al Wajbah-i csata helyszíne", "A 18. század végén épült", "Hamad sejk rezidenciájaként is szolgált", "A katari nemzeti büszkeség fontos szimbóluma"],
       ro: ["Locul Bătăliei de la Al Wajbah (1893)", "Construit la sfârșitul secolului al XVIII-lea", "A servit drept reședință pentru Șeicul Hamad", "Un simbol important al mândriei naționale"],
       en: ["Site of the Battle of Al Wajbah (1893)", "Constructed in the late 18th century", "Served as a residence for Sheikh Hamad", "A significant symbol of national pride"]
-    }
-  },
+    }, image: "/poi-images/qatar-al-wajbah-fort-history-v2.webp"},
   {
     id: "qatar-zekreet-fort-history-v2",
     type: "ruin",
@@ -75,8 +73,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["Építése a 18. század végére tehető", "Nincsenek hagyományos kerek tornyai", "Zekreet falu közelében fekszik", "Helyi mészkőből építették"],
       ro: ["Datează de la sfârșitul secolului al XVIII-lea", "Nu are turnuri rotunde tradiționale", "Situat lângă satul Zekreet", "Construit din piatră de calcar locală"],
       en: ["Dates back to the late 18th century", "Lacks traditional round towers", "Located near Zekreet village", "Constructed using local limestone"]
-    }
-  },
+    }, image: "/poi-images/qatar-zekreet-fort-history-v2.webp"},
   {
     id: "qatar-al-koot-fort-history-v2",
     type: "historical-site",
@@ -94,8 +91,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["1927-ben épült", "Közvetlenül a Souq Waqif mellett található", "Egykor börtönként is használták", "Négyzetes alaprajz, nyitott belső udvar"],
       ro: ["Construit în anul 1927", "Situat chiar lângă Souq Waqif", "A fost folosit ca închisoare", "Plan pătrat cu o curte interioară deschisă"],
       en: ["Constructed in 1927", "Located right next to Souq Waqif", "Formerly used as a prison", "Square ground plan with an open inner courtyard"]
-    }
-  },
+    }, image: "/poi-images/qatar-al-koot-fort-history-v2.webp"},
   {
     id: "qatar-al-rakiyat-fort-history-v2",
     type: "historical-site",
@@ -113,8 +109,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["A név jelentése: \"Kút\"", "A 19. században építették", "Három téglalap alakú és egy kerek torony", "Az 1980-as években állították helyre"],
       ro: ["Numele înseamnă \"Fântână\"", "Construit în secolul al XIX-lea", "Are trei turnuri dreptunghiulare și unul rotund", "A fost restaurat în anii 1980"],
       en: ["The name translates to \"Well\"", "Constructed in the 19th century", "Features three rectangular and one round tower", "Restored in the 1980s"]
-    }
-  },
+    }, image: "/poi-images/qatar-al-rakiyat-fort-history-v2.webp"},
   {
     id: "qatar-al-jassasiya-rock-carvings-history-v2",
     type: "ruin",
@@ -132,8 +127,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["1957-ben fedezték fel", "Közel 900 különböző sziklarajzot rejt", "Egyes ábrák hagyományos dhow hajókat mutatnak", "A vésések pontos eredete máig tisztázatlan"],
       ro: ["Descoperit în anul 1957", "Aproape 900 de petroglife diferite", "Unele imagini arată bărci tradiționale dhow", "Originea sculpturilor nu este complet clarificată"],
       en: ["Discovered in 1957", "Contains nearly 900 different petroglyphs", "Some depictions show traditional dhow boats", "The exact origin of the carvings remains unclear"]
-    }
-  },
+    }, image: "/poi-images/qatar-al-jassasiya-rock-carvings-history-v2.webp"},
   {
     id: "qatar-murwab-fort-history-v2",
     type: "ruin",
@@ -170,8 +164,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["A 18. század környékén alapították", "Egy mecset romjai ma is láthatók", "A történelmi gyöngyipar emléke", "Al Zubarah-tól északra található"],
       ro: ["Fondat în jurul secolului al XVIII-lea", "Ruinele unei moschei sunt încă vizibile", "Mărturie a industriei istorice a perlelor", "Situat la nord de Al Zubarah"],
       en: ["Founded around the 18th century", "Ruins of a mosque are still visible", "Testament to the historical pearling industry", "Located north of Al Zubarah"]
-    }
-  },
+    }, image: "/poi-images/qatar-freiha-settlement-history-v2.webp"},
   {
     id: "qatar-al-jumail-village-history-v2",
     type: "ruin",
@@ -189,8 +182,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["A 20. század közepéig lakott volt", "Neve arabul \"kicsi és szép\"-et jelent", "Hagyományos udvaros házak maradványai", "Gyakran használják filmforgatási helyszínként"],
       ro: ["Locuit până la mijlocul secolului al XX-lea", "Numele înseamnă \"mic și frumos\" în arabă", "Rămășițe ale caselor tradiționale cu curte", "Folosit adesea ca loc de filmare"],
       en: ["Inhabited until the mid-20th century", "Means \"small and beautiful\" in Arabic", "Remains of traditional courtyard houses", "Often used as a film shooting location"]
-    }
-  },
+    }, image: "/poi-images/qatar-al-jumail-village-history-v2.webp"},
   {
     id: "qatar-al-areesh-village-history-v2",
     type: "ruin",
@@ -208,8 +200,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["Az 1970-es években hagyták el", "Egykori halásztelepülés", "Hagyományos katari építészeti stílus", "A félsziget északnyugati csücskének közelében"],
       ro: ["Abandonat în anii 1970", "Fostă așezare de pescari", "Stil arhitectural tradițional qatarez", "Aproape de vârful nord-vestic al peninsulei"],
       en: ["Abandoned in the 1970s", "Former fishing settlement", "Traditional Qatari architectural style", "Near the northwestern tip of the peninsula"]
-    }
-  },
+    }, image: "/poi-images/qatar-al-areesh-village-history-v2.webp"},
   {
     id: "qatar-jazirat-bin-ghannam-history-v2",
     type: "historical-site",
@@ -227,8 +218,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["Vörös és bíbor festékanyag gyártása", "A festéket a murex tengeri csigából nyerték", "Jelentős régészeti lelőhely", "A 19. században tranzittáborként is használták"],
       ro: ["Producția de colorant roșu și purpuriu", "Colorant extras din melcul de mare Murex", "Sit arheologic de importanță majoră", "Utilizat ca tabără de tranzit în secolul al XIX-lea"],
       en: ["Production of red and purple dye", "Dye extracted from the murex sea snail", "Major archaeological site", "Used as a transit camp in the 19th century"]
-    }
-  },
+    }, image: "/poi-images/qatar-jazirat-bin-ghannam-history-v2.webp"},
   {
     id: "qatar-al-thaqab-fort-history-v2",
     type: "historical-site",
@@ -246,8 +236,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["A 19. századból származik", "Neve \"völgyi víznyelőt\" jelent", "Három kerek és egy téglalap alakú tornya van", "2003-ban átfogóan felújították"],
       ro: ["Datează din secolul al XIX-lea", "Numele înseamnă \"groapă de apă în vale\"", "Are trei turnuri rotunde și unul dreptunghiular", "A fost renovat complet în 2003"],
       en: ["Dates to the 19th century", "The name means \"water hole in the valley\"", "Features three round towers and one rectangular tower", "Extensively renovated in 2003"]
-    }
-  },
+    }, image: "/poi-images/qatar-al-thaqab-fort-history-v2.webp"},
   {
     id: "qatar-radwani-house-history-v2",
     type: "historical-site",
@@ -265,8 +254,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["Az 1920-as években épült", "Központi udvar hagyományos szobákkal körbevéve", "A házban végzett régészeti ásatásokat is bemutatja", "A Msheireb Múzeumok része"],
       ro: ["Construit în anii 1920", "Curte centrală cu camere tradiționale", "Prezintă săpături arheologice în interiorul casei", "Face parte din Muzeele Msheireb"],
       en: ["Built in the 1920s", "Central courtyard with traditional rooms", "Showcases archaeological excavations inside the house", "Part of the Msheireb Museums"]
-    }
-  },
+    }, image: "/poi-images/qatar-radwani-house-history-v2.webp"},
   {
     id: "qatar-company-house-history-v2",
     type: "historical-site",
@@ -284,8 +272,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["Az Anglo-Persian Oil Company első katari székhelye", "Az első katari olajmunkásoknak állít emléket", "A modernitásba való átmenetet szemlélteti", "A Msheireb Múzeumok részeként látogatható"],
       ro: ["Primul sediu al companiei Anglo-Persian Oil Company în Qatar", "Dedicat primilor lucrători petrolieri qatarezi", "Ilustrează tranziția către modernitate", "Situat în Muzeele Msheireb"],
       en: ["First headquarters of the Anglo-Persian Oil Company in Qatar", "Dedicated to the first Qatari oil workers", "Illustrates the transition to modernity", "Located within the Msheireb Museums"]
-    }
-  },
+    }, image: "/poi-images/qatar-company-house-history-v2.webp"},
   {
     id: "qatar-bin-jelmood-house-history-v2",
     type: "historical-site",
@@ -303,8 +290,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["Témája miatt egyedülálló a Közel-Keleten", "A rabszolgaság eltörlésének folyamatát mutatja be", "Egykori rabszolgakereskedő negyedben áll", "Felhívja a figyelmet a modernkori rabszolgaságra is"],
       ro: ["Unic în Orientul Mijlociu datorită temei sale", "Prezintă abolirea sclaviei", "Fost cartier al comercianților de sclavi", "Promovează conștientizarea sclaviei moderne"],
       en: ["Unique in the Middle East for its subject matter", "Showcases the abolition of slavery", "Located in a former slave trader district", "Promotes awareness of modern-day slavery"]
-    }
-  },
+    }, image: "/poi-images/qatar-bin-jelmood-house-history-v2.webp"},
   {
     id: "qatar-mohammed-bin-jassim-house-history-v2",
     type: "historical-site",
@@ -341,8 +327,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["Arabul \"Badgir\" néven ismert", "Befogja a szelet és lefelé irányítja", "Az Öböl-menti régióra jellemző építészeti elem", "A kulturális örökség fontos része"],
       ro: ["Cunoscut sub numele de \"Badgir\" în arabă", "Captează vântul și îl direcționează în jos", "Tipic pentru regiunea Golfului", "O parte importantă a patrimoniului cultural"],
       en: ["Known as \"Badgir\" in Arabic", "Catches the wind and funnels it downward", "Typical of the Gulf region", "An important part of cultural heritage"]
-    }
-  },
+    }, image: "/poi-images/qatar-wind-tower-house-history-v2.webp"},
   {
     id: "qatar-al-ghuwairiya-fort-history-v2",
     type: "ruin",
@@ -360,8 +345,7 @@ export const poiExtraQatarHistoryV2: POI[] = [
       hu: ["A kora újkorban építették", "Kisméretű, négyzetes őrállomás", "Al Ghuwairiya városa közelében", "A történelmi védelmi hálózat része volt"],
       ro: ["Construit în perioada modernă timpurie", "Post de pază mic, de formă pătrată", "Aproape de orașul Al Ghuwairiya", "Parte a rețelei istorice de apărare"],
       en: ["Constructed in the early modern period", "Small, square watchpost", "Near the town of Al Ghuwairiya", "Part of the historical defense network"]
-    }
-  },
+    }, image: "/poi-images/qatar-al-ghuwairiya-fort-history-v2.webp"},
   {
     id: "qatar-ruwayda-settlement-history-v2",
     type: "ruin",

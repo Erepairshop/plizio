@@ -81,13 +81,13 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "Terrassierte Gärten im Goda-Gebirge, bekannt für den Anbau von Palmen und die Herstellung von lokalem Honig.",
+      de: "Die Gärten von Bankouale bieten in den Goda-Bergen eine grüne Oase für den lokalen Gartenbau.",
       hu: "Teraszos kertek a Goda-hegységben, amelyek pálmatermesztésükről és helyi mézükről ismertek.",
       ro: "Grădini terasate în Munții Goda, cunoscute pentru cultivarea palmierilor și producția de miere locală.",
       en: "Terraced gardens in the Goda Mountains, known for growing palms and producing local honey."
     },
     facts: {
-      de: ["Terassefeldbau", "Berghonig-Produktion"],
+      de: ["Oase in den Bergen", "Gartenbau", "Kühle Höhenlage"],
       hu: ["Teraszos földművelés", "Hegyi méztermelés"],
       ro: ["Agricultură terasată", "Producție de miere de munte"],
       en: ["Terraced farming", "Mountain honey production"]
@@ -171,13 +171,13 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "Die ausgedehnten Mangrovenwälder von Khor Angar sind ein wichtiger Nistplatz und Rastplatz für Tausende von Zugvögeln.",
+      de: "Khor Angar ist ein wichtiges Schutzgebiet für Zugvögel an der Küste des Roten Meeres.",
       hu: "Khor Angar kiterjedt mangroveerdői fontos fészkelő- és pihenőhelyet jelentenek több ezer költöző madár számára.",
       ro: "Pădurile extinse de mangrove din Khor Angar sunt un loc important de cuibărit și popas pentru mii de păsări migratoare.",
       en: "The extensive mangrove forests of Khor Angar are a crucial nesting and stopover site for thousands of migratory birds."
     },
     facts: {
-      de: ["Mangroven-Ökosystem", "Zugvögel"],
+      de: ["Vogelschutz", "Mangroven-Lebensraum", "Rotes Meer"],
       hu: ["Mangrove ökoszisztéma", "Költöző madarak"],
       ro: ["Ecosistem de mangrove", "Păsări migratoare"],
       en: ["Mangrove ecosystem", "Migratory birds"]
@@ -261,15 +261,15 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "Dank des kühleren Bergklimas werden in Randa verschiedene Obstsorten wie Zitrusfrüchte und Guaven angebaut.",
+      de: "In den Obstgärten von Randa wird dank des milderen Gebirgsklimas vielfältiges Obst kultiviert.",
       hu: "A hűvösebb hegyi éghajlatnak köszönhetően Randában különféle gyümölcsöket, például citrusféléket és guajavát termesztenek.",
-      ro: "Datorită climatului montan mai răcoros, în Randa se cultivă diverse fructe, cum ar fi citricele și guava.",
+      ro: "Oaze agricole verzi din zona Randa, unde se cultivă fructe în pofida climatului arid al țării.",
       en: "Thanks to the cooler mountain climate, various fruits such as citrus and guavas are grown in Randa."
     },
     facts: {
-      de: ["Hochland-Anbau", "Zitrusfrüchte"],
+      de: ["Gebirgsklima", "Obstbau", "Lokale Landwirtschaft"],
       hu: ["Hegyi termesztés", "Citrusfélék"],
-      ro: ["Culturi de altitudine", "Citrice"],
+      ro: ["Zonă agricolă montană.", "Cultivarea de fructe.", "Oază de verdeață."],
       en: ["Highland farming", "Citrus fruits"]
     }, image: "/poi-images/obstgaerten-von-randa-life-v2.webp"},
   {
@@ -322,15 +322,15 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "Die Küstenoase von Loyada ist berühmt für ihre dichten Palmenhaine, die direkt am Ufer des Golfs von Aden gedeihen.",
+      de: "Die Palmenhaine von Loyada säumen die Küstenzone nahe der Grenze zu Somalia.",
       hu: "Loyada tengerparti oázisa híres sűrű pálmaligeteiről, amelyek közvetlenül az Ádeni-öböl partján virágoznak.",
-      ro: "Oaza de coastă Loyada este celebră pentru pădurile sale dense de palmieri, care cresc chiar pe malul Golfului Aden.",
+      ro: "Zone pitorești de palmieri situate lângă coastă, reprezentând un ecosistem valoros pentru comunitățile locale.",
       en: "The coastal oasis of Loyada is famous for its dense palm groves that thrive right on the shores of the Gulf of Aden."
     },
     facts: {
-      de: ["Küstenoase", "Antike Grabstätten"],
+      de: ["Palmenhain", "Grenzregion", "Küstenzone"],
       hu: ["Tengerparti oázis", "Ősi sírhelyek"],
-      ro: ["Oază de coastă", "Morminte antice"],
+      ro: ["Păduri de palmieri verzi.", "Zonă de coastă.", "Habitat natural valoros."],
       en: ["Coastal oasis", "Ancient burial sites"]
     }, image: "/poi-images/palmenhaine-von-loyada-life-v2.webp"},
   {
@@ -352,15 +352,15 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "Auf den kühlen Hochebenen von Arta wird Gemüseanbau betrieben, der von den moderaten Temperaturen der Region profitiert.",
+      de: "Die Farmen auf dem Hochland von Arta profitieren von etwas kühleren Temperaturen als im Tiefland.",
       hu: "Arta hűvös fennsíkjain zöldségtermesztés folyik, amely a régió mérsékelt hőmérsékletéből profitál.",
-      ro: "Pe platourile răcoroase din Arta se practică cultivarea legumelor, profitând de temperaturile moderate ale regiunii.",
+      ro: "Ferme tradiționale situate în zona montană Arta, adaptate la condițiile climatice din platourile înalte.",
       en: "Vegetable farming is practiced on the cool highlands of Arta, benefiting from the region's moderate temperatures."
     },
     facts: {
-      de: ["Gemüseanbau", "Mildes Klima"],
+      de: ["Hochlandlage", "Landwirtschaft", "Arta-Region"],
       hu: ["Zöldségtermesztés", "Enyhe éghajlat"],
-      ro: ["Cultivarea legumelor", "Climat blând"],
+      ro: ["Agricultură de zonă montană.", "Situată în platoul Arta.", "Adaptată la clima aridă."],
       en: ["Vegetable farming", "Mild climate"]
     }, image: "/poi-images/hochland-farmen-von-arta-life-v2.webp"},
   {
@@ -412,15 +412,15 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "Eine der fruchtbarsten Ebenen des Landes, die als wichtiges Weidegebiet für die Viehzucht der Nomaden dient.",
+      de: "Die Hanle-Ebene bietet weitläufige Weidegründe für die nomadische Viehzucht.",
       hu: "Az ország egyik legtermékenyebb síksága, amely a nomádok állattenyésztésének fontos legelőterülete.",
-      ro: "Una dintre cele mai fertile câmpii ale țării, care servește ca zonă importantă de pășunat pentru creșterea vitelor de către nomazi.",
+      ro: "Pășuni întinse în zona Câmpiei Hanle, vitale pentru creșterea animalelor de către populația locală.",
       en: "One of the most fertile plains in the country, serving as a key grazing area for nomadic livestock herding."
     },
     facts: {
-      de: ["Viehzucht", "Nomadische Kultur"],
+      de: ["Nomaden-Weide", "Große Ebene", "Viehzucht"],
       hu: ["Állattenyésztés", "Nomád kultúra"],
-      ro: ["Creșterea vitelor", "Cultură nomadă"],
+      ro: ["Câmpie utilizată pentru pășunat.", "Resursă pentru păstorit.", "Peisaj semi-arid."],
       en: ["Livestock herding", "Nomadic culture"]
     }, image: "/poi-images/weidegruende-der-hanle-ebene-life-v2.webp"},
   {
@@ -502,13 +502,13 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "Ein beliebter Park in der Hauptstadt mit Spielplätzen und Grünflächen, der ideal für Familienausflüge ist.",
+      de: "Der Freizeitpark L'Unite in Djibouti-Stadt ist ein beliebter Erholungsort für Familien.",
       hu: "A főváros népszerű parkja játszóterekkel és zöldfelületekkel, amely ideális családi kirándulásokhoz.",
       ro: "Un parc popular din capitală, cu locuri de joacă și spații verzi, ideal pentru ieșirile în familie.",
       en: "A popular park in the capital with playgrounds and green spaces, ideal for family outings."
     },
     facts: {
-      de: ["Spielplätze", "Familienfreundlich"],
+      de: ["Stadtpark", "Freizeitangebot", "Familientreffpunkt"],
       hu: ["Játszóterek", "Családbarát"],
       ro: ["Locuri de joacă", "Prietenos cu familiile"],
       en: ["Playgrounds", "Family friendly"]
@@ -532,15 +532,15 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "Die traditionelle Honigproduktion in den Bergen nutzt die reiche Flora des Day-Waldes für ein einzigartiges Naturprodukt.",
+      de: "Die Bienenzucht in den Goda-Bergen produziert hochwertigen Honig aus Bergblüten.",
       hu: "A hegyekben folyó hagyományos méztermelés a Day-erdő gazdag flóráját használja fel egy egyedülálló természetes termékhez.",
-      ro: "Producția tradițională de miere din munți folosește flora bogată a pădurii Day pentru un produs natural unic.",
+      ro: "Activități apicole tradiționale desfășurate în Munții Goda, profitând de diversitatea floristică a regiunii.",
       en: "Traditional honey production in the mountains utilizes the rich flora of the Day Forest for a unique natural product."
     },
     facts: {
-      de: ["Natürlicher Honig", "Bergflora"],
+      de: ["Imkerei", "Honigproduktion", "Goda-Berge"],
       hu: ["Természetes méz", "Hegyi flóra"],
-      ro: ["Miere naturală", "Floră montană"],
+      ro: ["Apicultură montană.", "Situată în Munții Goda.", "Produse apicole locale."],
       en: ["Natural honey", "Mountain flora"]
     }, image: "/poi-images/bienenwirtschaft-im-goda-gebirge-life-v2.webp"},
   {
@@ -562,15 +562,15 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "In dieser abgelegenen Senke leben spezialisierte Wüstenbewohner wie Schakale, Hyänen und verschiedene Reptilienarten.",
+      de: "Die Allols-Senke beherbergt eine einzigartige Fauna, die an das trockene Klima angepasst ist.",
       hu: "Ebben a távoli mélyedésben speciális sivatagi lakók élnek, például sakálok, hiénák és különféle hüllőfajok.",
-      ro: "În această depresiune izolată trăiesc locuitori specializați ai deșertului, cum ar fi șacalii, hienele și diverse specii de reptile.",
+      ro: "Zonă de depresiune în Allols care oferă adăpost pentru diverse specii de faună adaptate la climatul arid.",
       en: "Specialized desert dwellers such as jackals, hyenas, and various reptile species live in this remote depression."
     },
     facts: {
-      de: ["Wüstenfauna", "Extremer Lebensraum"],
+      de: ["Wüstenfauna", "Einzigartige Arten", "Allols-Senke"],
       hu: ["Sivatagi fauna", "Extrém élőhely"],
-      ro: ["Faună de deșert", "Habitat extrem"],
+      ro: ["Depresiune naturală.", "Habitat pentru faună sălbatică.", "Ecosistem adaptat la secetă."],
       en: ["Desert fauna", "Extreme habitat"]
     }, image: "/poi-images/wildtiere-der-allols-senke-life-v2.webp"},
   {
@@ -592,15 +592,15 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
     }
   },
     description: {
-      de: "Die Klippen und Inseln bei Doumera sind ein wichtiger Brutplatz für verschiedene Arten von Seevögeln am Roten Meer.",
+      de: "Doumera ist bekannt für seine bedeutenden Brutkolonien von Seevögeln entlang der Küste.",
       hu: "A Doumera melletti sziklák és szigetek fontos fészkelőhelyei a Vörös-tenger különféle tengeri madárfajainak.",
-      ro: "Stâncile și insulele de lângă Doumera sunt un loc important de cuibărit pentru diverse specii de păsări marine de la Marea Roșie.",
+      ro: "Locul de cuibărit al unor colonii de păsări marine de-a lungul coastei Doumera, important pentru biodiversitate.",
       en: "The cliffs and islands near Doumera are a major breeding ground for various species of seabirds on the Red Sea."
     },
     facts: {
-      de: ["Brutplatz", "Marine Vögel"],
+      de: ["Brutgebiet", "Seevögel", "Küstennatur"],
       hu: ["Fészkelőhely", "Tengeri madarak"],
-      ro: ["Loc de cuibărit", "Păsări marine"],
+      ro: ["Colonii de păsări marine.", "Situată pe coasta Doumera.", "Importantă pentru biodiversitate."],
       en: ["Breeding ground", "Marine birds"]
     }
   }

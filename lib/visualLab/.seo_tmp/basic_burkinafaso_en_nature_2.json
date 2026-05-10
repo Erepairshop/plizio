@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mare-de-kourou-nature-v2",
+      "description": "Mare de Kourou is a seasonal water body in Burkina Faso. It becomes more important during the dry months when surface water is scarce.",
+      "facts": ["Seasonal wetland", "Dry-season value", "Local water point"]
+    },
+    {
+      "id": "foret-boulon-nature-v2",
+      "description": "Foret Boulon is a forested area linked to the Boulon landscape in southwestern Burkina Faso. It helps preserve woodland habitat in the savanna zone.",
+      "facts": ["Southwest woodland", "Savanna habitat", "Supports biodiversity"]
+    },
+    {
+      "id": "monts-diapaga-nature-v2",
+      "description": "Monts Diapaga are a hill area in eastern Burkina Faso. They add broken relief to a region that is otherwise dominated by open plains.",
+      "facts": ["Eastern hills", "Broken relief", "Plain-country contrast"]
+    },
+    {
+      "id": "mare-de-bale-nature-v2",
+      "description": "Mare de Bale is a wetland or seasonal lake in Burkina Faso. It is part of the country’s network of small water points in the south and west.",
+      "facts": ["Seasonal lake", "South-western water zone", "Used in the dry season"]
+    },
+    {
+      "id": "foret-sissili-nature-v2",
+      "description": "Foret Sissili is a wooded area in south-central Burkina Faso. It reflects the more wooded Sudanian zone before the landscape becomes drier to the north.",
+      "facts": ["South-central forest", "Sudanian zone", "Wooded landscape"]
+    },
+    {
+      "id": "monts-gorom-nature-v2",
+      "description": "Monts Gorom are a small mountain area near Gorom-Gorom in the far north. They stand out in a region better known for flat Sahel plains.",
+      "facts": ["Far-north hills", "Near Gorom-Gorom", "Sahel landscape"]
+    },
+    {
+      "id": "mare-de-arbinda-nature-v2",
+      "description": "Mare de Arbinda is a seasonal wetland in the northern Sahel zone. It is a valuable water point for people and livestock.",
+      "facts": ["Northern wetland", "Livestock water point", "Sahel setting"]
+    },
+    {
+      "id": "foret-pama-nature-v2",
+      "description": "Foret Pama is part of the wooded landscape in southeastern Burkina Faso. It sits in one of the country’s better known conservation zones.",
+      "facts": ["Southeastern woodland", "Conservation area", "Tree cover"]
+    },
+    {
+      "id": "monts-banfora-nature-v2",
+      "description": "Monts Banfora are the scenic hills and escarpments around Banfora. They are one of the country’s most recognizable relief features.",
+      "facts": ["Around Banfora", "Scenic escarpments", "Well-known relief feature"]
+    },
+    {
+      "id": "fleuve-sirba-nature-v2",
+      "description": "Fleuve Sirba is a river in eastern Burkina Faso. It contributes to drainage and seasonal water movement across the savanna belt.",
+      "facts": ["Eastern river", "Seasonal drainage", "Savanna water system"]
+    },
+    {
+      "id": "mare-de-dori-nature-v2",
+      "description": "Mare de Dori is a water body in the Sahel town of Dori. It is especially important when rainfall is low and water is limited.",
+      "facts": ["In Dori", "Sahel water source", "Important in dry periods"]
+    },
+    {
+      "id": "foret-arbinda-nature-v2",
+      "description": "Foret Arbinda is a forested area in the far north of Burkina Faso. It provides rare tree cover in a dry Sahel environment.",
+      "facts": ["Far-north forest", "Rare tree cover", "Dry Sahel zone"]
+    }
+  ]
+}

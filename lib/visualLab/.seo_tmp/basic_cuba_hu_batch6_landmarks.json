@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cuba-landmarks-v2-02",
+      "description": "A Havannai Nagyszínház neobarokk épület, a Kubai Nemzeti Balett otthona.",
+      "facts": ["1838-ban épült", "Paul Belau tervezte", "Neobarokk stílusú"]
+    },
+    {
+      "id": "cuba-landmarks-v2-16",
+      "description": "A Castillo de San Pedro de la Roca Santiago de Cuba híres erődje és az UNESCO által védett műemlék.",
+      "facts": ["1638-tól épült", "Kalóztámadások ellen", "UNESCO-védelem alatt"]
+    },
+    {
+      "id": "cuba-landmarks-v2-21",
+      "description": "A Tomás Terry Színház Cienfuegos egyik legszebb történelmi épülete.",
+      "facts": ["1889-ben épült", "Olasz freskós mennyezet", "A város kulturális jelképe"]
+    },
+    {
+      "id": "cuba-landmarks-v2-26",
+      "description": "A Castillo de la Punta a havannai kikötő bejáratának régi védelmi erődje.",
+      "facts": ["A 16. század végén épült", "A védelmi rendszer része", "Ma múzeum"]
+    }
+  ]
+}

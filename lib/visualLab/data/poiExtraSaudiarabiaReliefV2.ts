@@ -38,8 +38,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Sand dunes can reach up to 250 meters in height",
         "Features an extremely dry and hot climate"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-rub-al-khali-relief-v2.webp"},
   {
     id: "sa-an-nafud-relief-v2",
     type: "desert",
@@ -155,8 +154,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Composed of volcanic and metamorphic rocks",
         "Reaches over 2,000 meters in height"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-hijaz-mountains-relief-v2.webp"},
   {
     id: "sa-sarawat-mountains-relief-v2",
     type: "mountain",
@@ -194,8 +192,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Receives more rainfall than the rest of the country",
         "Diverse alpine flora and fauna"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-sarawat-mountains-relief-v2.webp"},
   {
     id: "sa-jabal-shammar-relief-v2",
     type: "mountain",
@@ -272,8 +269,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Snowfall is possible on the highest peaks in winter",
         "Region has biblical and historical significance"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-midian-mountains-relief-v2.webp"},
   {
     id: "sa-wadi-ar-rummah-relief-v2",
     type: "valley",
@@ -311,8 +307,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Important agricultural center along its bed",
         "Evidence of a wetter climate in the past"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-wadi-ar-rummah-relief-v2.webp"},
   {
     id: "sa-wadi-ad-dawasir-relief-v2",
     type: "valley",
@@ -350,8 +345,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Named after the Dawasir tribe",
         "Modern irrigation enables intensive farming"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-wadi-ad-dawasir-relief-v2.webp"},
   {
     id: "sa-wadi-fatima-relief-v2",
     type: "valley",
@@ -389,8 +383,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Connects the coast with the Hijaz Mountains",
         "Often mentioned in early Islamic history"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-wadi-fatima-relief-v2.webp"},
   {
     id: "sa-wadi-jizan-relief-v2",
     type: "valley",
@@ -428,8 +421,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Supports the cultivation of tropical fruits",
         "Empties into the Red Sea"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-wadi-jizan-relief-v2.webp"},
   {
     id: "sa-harrat-khaybar-relief-v2",
     type: "plateau",
@@ -467,8 +459,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Last eruptions occurred in the 7th century",
         "Home to fascinating prehistoric structures"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-harrat-khaybar-relief-v2.webp"},
   {
     id: "sa-harrat-rahat-relief-v2",
     type: "plateau",
@@ -506,8 +497,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Composed predominantly of basalt rock",
         "Features over 500 volcanic craters"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-harrat-rahat-relief-v2.webp"},
   {
     id: "sa-harrat-kishb-relief-v2",
     type: "plateau",
@@ -545,8 +535,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Popular destination for geologists and tourists",
         "Landscape of sharp black lava"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-harrat-kishb-relief-v2.webp"},
   {
     id: "sa-red-sea-coast-relief-v2",
     type: "coast",
@@ -584,8 +573,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Center of the international 'Red Sea Project'",
         "Warm climate year-round"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-red-sea-coast-relief-v2.webp"},
   {
     id: "sa-arabian-gulf-coast-relief-v2",
     type: "coast",
@@ -623,8 +611,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Rich oil and gas deposits under the seabed",
         "Popular for beaches around Dammam and Al Khobar"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-arabian-gulf-coast-relief-v2.webp"},
   {
     id: "sa-tihamah-coastal-plain-relief-v2",
     type: "coast",
@@ -701,8 +688,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Reddish granite gives the mountain its color",
         "Habitat for leopards and wolves in the past"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-jabal-radhwa-relief-v2.webp"},
   {
     id: "sa-jabal-salma-relief-v2",
     type: "mountain",
@@ -740,8 +726,7 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
         "Includes several extinct volcanic craters",
         "Numerous rock paintings from antiquity"
       ]
-    }
-  },
+    }, image: "/poi-images/sa-jabal-salma-relief-v2.webp"},
   {
     id: "sa-wadi-bisha-relief-v2",
     type: "valley",

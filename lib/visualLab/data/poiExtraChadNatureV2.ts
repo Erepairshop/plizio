@@ -519,13 +519,13 @@ export const poiExtraChadNatureV2: POI[] = [
     
     
     description: {
-      de: "Ein flacher See im Südwesten des Tschad, bekannt für seine Rundschwanzseekühe.",
+      de: "Der Léré-See ist ein flacher Süßwassersee im Südwesten des Tschad. Er ist für Fische, Vögel und die lokale Versorgung wichtig.",
       hu: "Sekély tó Csád délnyugati részén, lamantinokról ismert.",
       ro: "Un lac puțin adânc în sud-vestul Ciadului, cunoscut pentru manati.",
       en: "A shallow lake in southwestern Chad, famous for its manatees."
     },
     facts: {
-      de: ["Heimat von Seekühen.", "Fischreiches Gewässer.", "Wichtiger Grenzsee zu Kamerun.", "Vogelparadies."],
+      de: ["Südwestlicher Süßwassersee", "Wichtig für den Fischfang", "Lebensraum für Vögel", "Teil des Mayo-Kebbi-Systems"],
       hu: ["Lamantinok otthona.", "Halakban gazdag víz.", "Fontos határtó Kamerun felé.", "Madárparadicsom."],
       ro: ["Casa lamantinilor.", "Ape bogate în pește.", "Lac de frontieră important cu Camerun.", "Paradis al păsărilor."],
       en: ["Home to African manatees.", "Rich in fish resources.", "Major border lake near Cameroon.", "Birdwatcher's paradise."]
@@ -745,13 +745,13 @@ export const poiExtraChadNatureV2: POI[] = [
     
     description: {
       de: "Eine hügelige Gebirgsregion im Osten des Landes.",
-      hu: "Dombos hegyvidék az ország keleti részén.",
+      hu: "Az Ouaddaï-fennsík Kelet-Csád magasföldi vidéke a szudáni határ mentén. A keleti saheli táj egyik meghatározó természetföldrajzi egysége.",
       ro: "O regiune muntoasă deluroasă în estul țării.",
       en: "A hilly mountain region in the eastern part of the country."
     },
     facts: {
       de: ["Wasserscheide der Region.", "Felsige Landschaften.", "Wichtige Weidegründe.", "Teil des Sahel-Gürtels."],
-      hu: ["A régió vízválasztója.", "Sziklás tájak.", "Fontos legelőhelyek.", "A Száhel-övezet része."],
+      hu: ["Kelet-Csádban van", "A szudáni határ mentén húzódik", "Magasföldi terület", "A keleti Sahel része"],
       ro: ["Cumpănă de ape a regiunii.", "Peisaje stâncoase.", "Pășuni importante.", "Parte a centurii Sahel."],
       en: ["Regional watershed.", "Rocky landscapes.", "Important grazing grounds.", "Part of the Sahel belt."]
     }
@@ -810,13 +810,13 @@ export const poiExtraChadNatureV2: POI[] = [
       de: "Ein Waldreservat, das Teil des komplexen Binder-Léré-Ökosystems ist.",
       hu: "Erdőrezervátum, amely a komplex Binder-Léré ökoszisztéma része.",
       ro: "O rezervație forestieră parte a ecosistemului complex Binder-Léré.",
-      en: "A forest reserve that is part of the complex Binder-Léré ecosystem."
+      en: "A forest area in southwestern Chad near the Cameroon border. It belongs to the wider Binder-Léré protected landscape and supports wetter woodland habitat."
     },
     facts: {
       de: ["Teil eines Wildreservats.", "Uferbegleitende Wälder.", "Reiche Vogelwelt.", "Schutzgebiet für Großwild."],
       hu: ["Egy vadrezervátum része.", "Folyóparti erdők.", "Gazdag madárvilág.", "Nagyvadak védett területe."],
       ro: ["Parte a unei rezervații de vânătoare.", "Păduri riverane.", "Avifaună bogată.", "Arie protejată pentru vânat mare."],
-      en: ["Part of a wildlife reserve.", "Riparian forests.", "Rich birdlife.", "Protected area for large game."]
+      en: ["Southwestern Chad", "Near Cameroon", "Protected landscape", "Wetter woodland habitat"]
     }
   }
 ];

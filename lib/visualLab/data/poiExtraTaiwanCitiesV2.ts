@@ -13,8 +13,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["508 m magas Taipei 101", "2.6 millió lakos", "Alapítva 1884-ben", "Shilin éjszakai piac"],
       ro: ["Taipei 101 de 508 m", "2.6 milioane locuitori", "Fondat în 1884", "Piața de noapte Shilin"],
       en: ["508m tall Taipei 101", "2.6 million residents", "Founded in 1884", "Shilin Night Market"]
-    }
-  },
+    }, image: "/poi-images/taipei-cities-v2.webp"},
   {
     id: "new-taipei-cities-v2",
     type: "city",
@@ -27,8 +26,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Tajvan legnépesebb városa", "Több mint 4 millió lakos", "Jiufen faluról híres", "1979-ben megyévé vált"],
       ro: ["Cel mai populat oraș", "Peste 4 milioane locuitori", "Renumit pentru satul Jiufen", "A devenit județ în 1979"],
       en: ["Most populous city", "Over 4 million residents", "Famous for Jiufen village", "Became a county in 1979"]
-    }
-  },
+    }, image: "/poi-images/new-taipei-cities-v2.webp"},
   {
     id: "taoyuan-cities-v2",
     type: "city",
@@ -41,8 +39,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["A legnagyobb repülőtér", "Elektronikai központ", "2.3 millió lakos", "2014-ben lett külön város"],
       ro: ["Cel mai mare aeroport", "Centru de electronice", "2.3 milioane de locuitori", "Devenit oraș în 2014"],
       en: ["Largest airport", "Electronics hub", "2.3 million residents", "Became a city in 2014"]
-    }
-  },
+    }, image: "/poi-images/taoyuan-cities-v2.webp"},
   {
     id: "taichung-cities-v2",
     type: "city",
@@ -55,8 +52,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["2.8 millió lakos", "A buboréktea hazája", "Természettudományi múzeum", "Ipari és kulturális központ"],
       ro: ["2.8 milioane de locuitori", "Patria Bubble Tea", "Muzeul de științe naturale", "Centru industrial"],
       en: ["2.8 million residents", "Home of Bubble Tea", "Natural science museum", "Industrial center"]
-    }
-  },
+    }, image: "/poi-images/taichung-cities-v2.webp"},
   {
     id: "tainan-cities-v2",
     type: "city",
@@ -69,8 +65,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Tajvan legrégebbi városa", "1624-ben alapították", "Volt Qing-kori főváros", "Híres az ősi templomairól"],
       ro: ["Cel mai vechi oraș", "Fondat în 1624", "Fosta capitală Qing", "Faimos pentru temple antice"],
       en: ["Oldest city in Taiwan", "Founded in 1624", "Former Qing capital", "Famous for ancient temples"]
-    }
-  },
+    }, image: "/poi-images/tainan-cities-v2.webp"},
   {
     id: "kaohsiung-cities-v2",
     type: "city",
@@ -83,8 +78,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Tajvan legnagyobb kikötője", "2.7 millió lakos", "347 méteres 85 Sky Tower", "Szerelem-folyó"],
       ro: ["Cel mai mare port", "2.7 milioane de locuitori", "Turnul 85 Sky de 347m", "Râul Iubirii"],
       en: ["Largest port in Taiwan", "2.7 million residents", "347m tall 85 Sky Tower", "Love River"]
-    }
-  },
+    }, image: "/poi-images/kaohsiung-cities-v2.webp"},
   {
     id: "keelung-cities-v2",
     type: "city",
@@ -97,8 +91,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["A legcsapadékosabb város", "Második legnagyobb kikötő", "Miaokou éjszakai piac", "Eredeti neve Jilong volt"],
       ro: ["Cel mai ploios oraș", "Al doilea port ca mărime", "Piața de noapte Miaokou", "Numit anterior Jilong"],
       en: ["The rainiest city", "Second largest port", "Miaokou Night Market", "Formerly named Jilong"]
-    }
-  },
+    }, image: "/poi-images/keelung-cities-v2.webp"},
   {
     id: "hsinchu-cities-v2",
     type: "city",
@@ -111,8 +104,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Hsinchu Tudományos Park", "A tajvani Szilícium-völgy", "Szeles város néven ismert", "450 ezer lakos"],
       ro: ["Parcul Științific Hsinchu", "Silicon Valley-ul Taiwanului", "Cunoscut ca orașul vântului", "450 mii de locuitori"],
       en: ["Hsinchu Science Park", "Silicon Valley of Taiwan", "Known as the windy city", "450 thousand residents"]
-    }
-  },
+    }, image: "/poi-images/hsinchu-cities-v2.webp"},
   {
     id: "chiayi-cities-v2",
     type: "city",
@@ -125,8 +117,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Az Alishan vasút kiindulója", "Híres a pulykás rizsről", "Trópusi éghajlat", "Fakorvágó központ volt"],
       ro: ["Punctul de pornire Alishan", "Faimos pentru orez cu curcan", "Climat tropical", "Fost centru forestier"],
       en: ["Start of Alishan railway", "Famous for turkey rice", "Tropical climate", "Former timber center"]
-    }
-  },
+    }, image: "/poi-images/chiayi-cities-v2.webp"},
   {
     id: "changhua-cities-v2",
     type: "city",
@@ -139,8 +130,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["26 méter magas Nagy Buddha", "1723-ban alapították", "Vasúti és közlekedési csomópont", "Bagua-hegység lábánál"],
       ro: ["Marele Buddha de 26m", "Fondat în anul 1723", "Nod feroviar important", "La poalele muntelui Bagua"],
       en: ["26m tall Great Buddha", "Founded in 1723", "Railway junction", "At the foot of Bagua Mount"]
-    }
-  },
+    }, image: "/poi-images/changhua-cities-v2.webp"},
   {
     id: "pingtung-cities-v2",
     type: "city",
@@ -153,8 +143,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Trópusi mezőgazdasági központ", "1933-ban lett megyeszékhely", "Egész évben meleg", "Hakka és őslakos kultúra"],
       ro: ["Centru agricol tropical", "Capitală de județ din 1933", "Cald tot anul", "Cultură Hakka și aborigenă"],
       en: ["Tropical agriculture center", "County capital since 1933", "Warm all year round", "Hakka and aboriginal culture"]
-    }
-  },
+    }, image: "/poi-images/pingtung-cities-v2.webp"},
   {
     id: "zhubei-cities-v2",
     type: "city",
@@ -167,8 +156,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Hsinchu megye székhelye", "Gyorsan növekvő lakosság", "Orvosbiológiai park", "1988-ban alapították újra"],
       ro: ["Reședința județului Hsinchu", "Populație în creștere", "Parc biomedical", "Reînființat în 1988"],
       en: ["Seat of Hsinchu County", "Fast-growing population", "Biomedical park", "Re-established in 1988"]
-    }
-  },
+    }, image: "/poi-images/zhubei-cities-v2.webp"},
   {
     id: "yuanlin-cities-v2",
     type: "city",
@@ -181,8 +169,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["2015-ben városi rangot kapott", "A leggazdagabb kisváros", "Kandírozott gyümölcsök", "Több mint 120 ezer lakos"],
       ro: ["Statut de oraș din 2015", "Cel mai bogat orășel", "Fructe confiate", "Peste 120 mii de locuitori"],
       en: ["City status since 2015", "Very wealthy small city", "Candied fruits", "Over 120 thousand residents"]
-    }
-  },
+    }, image: "/poi-images/yuanlin-cities-v2.webp"},
   {
     id: "douliu-cities-v2",
     type: "city",
@@ -195,8 +182,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Yunlin megye közigazgatási központja", "Taiping óvárosi utca", "Pomeló termesztés", "Barokk stílusú épületek"],
       ro: ["Capitala administrativă Yunlin", "Strada veche Taiping", "Cultivarea de pomelo", "Clădiri în stil baroc"],
       en: ["Capital of Yunlin County", "Taiping Old Street", "Pomelo cultivation", "Baroque style buildings"]
-    }
-  },
+    }, image: "/poi-images/douliu-cities-v2.webp"},
   {
     id: "taitung-cities-v2",
     type: "city",
@@ -209,8 +195,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Kelet-Tajvan központja", "Őslakos törzsek otthona", "Éves hőlégballon-fesztivál", "Lassú tempójú életmód"],
       ro: ["Centrul Taiwanului de Est", "Cămin al aborigenilor", "Festivalul de baloane", "Stil de viață relaxat"],
       en: ["Center of Eastern Taiwan", "Home to aboriginal tribes", "Hot air balloon festival", "Relaxed pace of life"]
-    }
-  },
+    }, image: "/poi-images/taitung-cities-v2.webp"},
   {
     id: "hualien-cities-v2",
     type: "city",
@@ -223,8 +208,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Taroko Nemzeti Park kapuja", "Márványbányászat", "Gyakori földrengések", "Mochi édességek"],
       ro: ["Poarta Parcului Taroko", "Mineritul de marmură", "Cutremure frecvente", "Dulciuri mochi"],
       en: ["Gateway to Taroko Park", "Marble mining industry", "Frequent earthquakes", "Famous for mochi sweets"]
-    }
-  },
+    }, image: "/poi-images/hualien-cities-v2.webp"},
   {
     id: "toufen-cities-v2",
     type: "city",
@@ -237,8 +221,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Miaoli megye legnagyobb városa", "Jelentős hakka lakosság", "Ipari és petrokémiai bázis", "Zhonggang-folyó partján"],
       ro: ["Cel mai mare oraș în Miaoli", "Populație Hakka puternică", "Bază petrochimică", "Lângă râul Zhonggang"],
       en: ["Largest city in Miaoli", "Strong Hakka population", "Petrochemical base", "By the Zhonggang River"]
-    }
-  },
+    }, image: "/poi-images/toufen-cities-v2.webp"},
   {
     id: "nantou-cities-v2",
     type: "city",
@@ -251,8 +234,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Az egyetlen szárazföldi főváros", "Oolong tea termesztés", "1999-es földrengés epicentruma", "Hegyvidéki klíma"],
       ro: ["Singura capitală interioară", "Producția de ceai Oolong", "Epicentrul cutremurului 1999", "Climat montan"],
       en: ["Only landlocked capital", "Oolong tea production", "1999 earthquake epicenter", "Mountainous climate"]
-    }
-  },
+    }, image: "/poi-images/nantou-cities-v2.webp"},
   {
     id: "yilan-cities-v2",
     type: "city",
@@ -265,8 +247,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Geotermikus források", "Kavalan whisky lepárló", "Gyakori tájfunok", "Lanyang-síkságon fekszik"],
       ro: ["Izvoare geotermale", "Distileria de whisky Kavalan", "Taifunuri frecvente", "Situat în Câmpia Lanyang"],
       en: ["Geothermal springs", "Kavalan whisky distillery", "Frequent typhoons", "Located in Lanyang Plain"]
-    }
-  },
+    }, image: "/poi-images/yilan-cities-v2.webp"},
   {
     id: "miaoli-cities-v2",
     type: "city",
@@ -279,8 +260,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Hagyományos fafaragás", "A kőolaj-kitermelés központja", "Dombvidéki elhelyezkedés", "Hakka kulturális központ"],
       ro: ["Sculptură tradițională în lemn", "Centrul extracției de petrol", "Peisaj deluros", "Centrul cultural Hakka"],
       en: ["Traditional woodcarving", "Center of oil extraction", "Hilly landscape", "Hakka cultural center"]
-    }
-  },
+    }, image: "/poi-images/miaoli-cities-v2.webp"},
   {
     id: "magong-cities-v2",
     type: "city",
@@ -293,8 +273,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["A Penghu-szigetek fővárosa", "1592-es Mazu-templom", "Legrégebbi templom Tajvanon", "Halászati központ"],
       ro: ["Capitala insulelor Penghu", "Templul Mazu din 1592", "Cel mai vechi templu", "Centru de pescuit"],
       en: ["Capital of Penghu", "1592 Mazu Temple", "Oldest temple in Taiwan", "Fishing center"]
-    }
-  },
+    }, image: "/poi-images/magong-cities-v2.webp"},
   {
     id: "taibao-cities-v2",
     type: "city",
@@ -307,8 +286,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Chiayi megyeszékhely", "Nemzeti Palotamúzeum déli ága", "Nagysebességű vasútállomás", "Agrárváros 38 ezer lakossal"],
       ro: ["Sediul județului Chiayi", "Muzeul Național al Palatului", "Gara de mare viteză", "Oraș agricol"],
       en: ["Chiayi county seat", "Southern Palace Museum", "High-speed rail station", "Agricultural city"]
-    }
-  },
+    }, image: "/poi-images/taibao-cities-v2.webp"},
   {
     id: "puzi-cities-v2",
     type: "city",
@@ -321,8 +299,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["1682-es Peitian-templom", "Hagyományos hímzések", "Parti kulturális központ", "A Putzu-folyó mellett"],
       ro: ["Templul Peitian din 1682", "Broderii tradiționale", "Centru cultural de coastă", "Lângă râul Putzu"],
       en: ["1682 Peitian Temple", "Traditional embroidery", "Coastal cultural center", "By the Putzu River"]
-    }
-  },
+    }, image: "/poi-images/puzi-cities-v2.webp"},
   {
     id: "zhudong-cities-v2",
     type: "city",
@@ -335,8 +312,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Korábbi fa- és szénipar", "Jelentős hakka piac", "Hsinchu megye második legnagyobb városa", "Hegyvidéki átkelőhely"],
       ro: ["Fostă industrie a lemnului", "Piață Hakka importantă", "Al doilea oraș din Hsinchu", "Trecătoare montană"],
       en: ["Former timber and coal industry", "Major Hakka market", "Second largest city in Hsinchu", "Mountain crossing point"]
-    }
-  },
+    }, image: "/poi-images/zhudong-cities-v2.webp"},
   {
     id: "chaozhou-cities-v2",
     type: "city",
@@ -349,8 +325,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Dél-Tajvan közlekedési csomópontja", "Hagyományos árnyszínház", "Reszelt jeges desszertek", "Mezőgazdasági elosztóközpont"],
       ro: ["Nod de transport în sud", "Teatru tradițional de umbre", "Deserturi cu gheață rasă", "Centru de distribuție agricolă"],
       en: ["Southern transport hub", "Traditional shadow theater", "Shaved ice desserts", "Agricultural distribution center"]
-    }
-  },
+    }, image: "/poi-images/chaozhou-cities-v2.webp"},
   {
     id: "caotun-cities-v2",
     type: "city",
@@ -363,8 +338,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Nantou megye kereskedelmi központja", "Hagyományos szalmacipők", "Kézműves kutatóintézet", "Rizstermesztési vidék"],
       ro: ["Centrul comercial Nantou", "Pantofi tradiționali de paie", "Institutul de artizanat", "Zonă de cultivare a orezului"],
       en: ["Commercial center of Nantou", "Traditional straw shoes", "Craft research institute", "Rice growing area"]
-    }
-  },
+    }, image: "/poi-images/caotun-cities-v2.webp"},
   {
     id: "luodong-cities-v2",
     type: "city",
@@ -377,8 +351,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Tajvan legkisebb városi községe", "Yilan kereskedelmi központja", "Erdészeti faelosztó volt", "Híres éjszakai piac"],
       ro: ["Cea mai mică comună urbană", "Centrul de afaceri Yilan", "Fost centru forestier", "Faimoasa piață de noapte"],
       en: ["Smallest urban township", "Commercial center of Yilan", "Former forestry center", "Famous night market"]
-    }
-  },
+    }, image: "/poi-images/luodong-cities-v2.webp"},
   {
     id: "donggang-cities-v2",
     type: "city",
@@ -391,8 +364,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Kékúszójú tonhal fesztivál", "Hagyományos hajóégetés", "Kikötő Xiaoliuqiu felé", "Taoista templomok központja"],
       ro: ["Festivalul tonului", "Arderea tradițională a bărcilor", "Port către Xiaoliuqiu", "Centrul templelor taoiste"],
       en: ["Bluefin tuna festival", "Traditional boat burning", "Port to Xiaoliuqiu", "Center of Taoist temples"]
-    }
-  },
+    }, image: "/poi-images/donggang-cities-v2.webp"},
   {
     id: "hengchun-cities-v2",
     type: "city",
@@ -405,8 +377,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       hu: ["Kenting Nemzeti Park otthona", "1879-ben épült városfal", "Legdélibb tajvani város", "Trópusi szörfparadicsom"],
       ro: ["Parcul Național Kenting", "Zidul orașului din 1879", "Cel mai sudic oraș", "Paradis tropical de surf"],
       en: ["Kenting National Park", "1879 built city wall", "Southernmost city", "Tropical surfing paradise"]
-    }
-  },
+    }, image: "/poi-images/hengchun-cities-v2.webp"},
   {
     id: "huwei-cities-v2",
     type: "city",

@@ -13,8 +13,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["A világ legnagyobb leopárdsűrűsége", "1938-ban alapították"],
       ro: ["Cea mai mare densitate de leoparzi din lume", "Înființat în 1938"],
       en: ["Highest leopard density in the world", "Established in 1938"]
-    }
-  },
+    }, image: "/poi-images/yala-national-park-nature-v2.webp"},
   {
     id: "udawalawe-national-park-nature-v2",
     type: "national-park",
@@ -27,8 +26,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Nagy elefántcsordáiról híres", "Az Udawalawe-víztározót veszi körül"],
       ro: ["Renumit pentru turmele mari de elefanți", "Înconjoară lacul de acumulare Udawalawe"],
       en: ["Famous for large herds of elephants", "Surrounds the Udawalawe Reservoir"]
-    }
-  },
+    }, image: "/poi-images/udawalawe-national-park-nature-v2.webp"},
   {
     id: "horton-plains-national-park-nature-v2",
     type: "national-park",
@@ -41,8 +39,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Több mint 2100 méter magasan fekszik", "Endemikus fajok otthona"],
       ro: ["Situat la peste 2.100 de metri", "Găzduiește specii endemice"],
       en: ["Elevated above 2,100 meters", "Home to endemic species"]
-    }
-  },
+    }, image: "/poi-images/horton-plains-national-park-nature-v2.webp"},
   {
     id: "sinharaja-forest-reserve-nature-v2",
     type: "forest",
@@ -55,8 +52,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["UNESCO Világörökség része", "Az ország utolsó érintetlen trópusi esőerdeje"],
       ro: ["Sit al Patrimoniului Mondial UNESCO", "Ultima zonă viabilă de pădure tropicală primară din țară"],
       en: ["UNESCO World Heritage Site", "Last viable area of primary tropical rainforest in the country"]
-    }
-  },
+    }, image: "/poi-images/sinharaja-forest-reserve-nature-v2.webp"},
   {
     id: "wilpattu-national-park-nature-v2",
     type: "national-park",
@@ -69,8 +65,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Srí Lanka legnagyobb nemzeti parkja", "Híres a 'Willu' nevű természetes tavairól"],
       ro: ["Cel mai mare parc național din Sri Lanka", "Renumit pentru 'Willu' (lacurile naturale)"],
       en: ["Largest national park in Sri Lanka", "Famous for its 'Willu' (natural lakes)"]
-    }
-  },
+    }, image: "/poi-images/wilpattu-national-park-nature-v2.webp"},
   {
     id: "minneriya-national-park-nature-v2",
     type: "national-park",
@@ -83,8 +78,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Itt zajlik az elefántok 'Nagy Gyülekezése'", "A Minneriya-víztározó köré épül"],
       ro: ["Găzduiește 'Marea Adunare' a elefanților", "Centrat în jurul rezervorului Minneriya"],
       en: ["Hosts 'The Gathering' of elephants", "Centered around the Minneriya tank"]
-    }
-  },
+    }, image: "/poi-images/minneriya-national-park-nature-v2.webp"},
   {
     id: "kaudulla-national-park-nature-v2",
     type: "national-park",
@@ -97,8 +91,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Fontos elefántfolyosó", "2002-ben nyilvánították nemzeti parkká"],
       ro: ["Coridor important pentru elefanți", "Desemnat parc național în 2002"],
       en: ["Important elephant corridor", "Designated a national park in 2002"]
-    }
-  },
+    }, image: "/poi-images/kaudulla-national-park-nature-v2.webp"},
   {
     id: "wasgamuwa-national-park-nature-v2",
     type: "national-park",
@@ -111,8 +104,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Számos ajakosmedve otthona", "A Mahaweli folyó határolja"],
       ro: ["Găzduiește mulți urși buzați", "Mărginit de râul Mahaweli"],
       en: ["Home to many sloth bears", "Bordered by Mahaweli River"]
-    }
-  },
+    }, image: "/poi-images/wasgamuwa-national-park-nature-v2.webp"},
   {
     id: "bundala-national-park-nature-v2",
     type: "national-park",
@@ -125,8 +117,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Srí Lanka első Ramsar-vizes élőhelye", "Fontos a vándormadarak számára"],
       ro: ["Prima zonă umedă Ramsar din Sri Lanka", "Important pentru păsările migratoare"],
       en: ["First Ramsar wetland in Sri Lanka", "Important for migratory birds"]
-    }
-  },
+    }, image: "/poi-images/bundala-national-park-nature-v2.webp"},
   {
     id: "gal-oya-national-park-nature-v2",
     type: "national-park",
@@ -139,8 +130,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Az úszó elefántok otthona", "A Senanayake Samudraya víztározót veszi körül"],
       ro: ["Găzduiește elefanți înotători", "Înconjoară rezervorul Senanayake Samudraya"],
       en: ["Home to swimming elephants", "Surrounds Senanayake Samudraya reservoir"]
-    }
-  },
+    }, image: "/poi-images/gal-oya-national-park-nature-v2.webp"},
   {
     id: "mahaweli-river-nature-v2",
     type: "river",
@@ -153,8 +143,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Srí Lanka leghosszabb folyója (335 km)", "A villamosenergia több mint 40%-át biztosítja"],
       ro: ["Cel mai lung râu din Sri Lanka (335 km)", "Furnizează peste 40% din electricitate"],
       en: ["Longest river in Sri Lanka (335 km)", "Provides over 40% of electricity"]
-    }
-  },
+    }, image: "/poi-images/mahaweli-river-nature-v2.webp"},
   {
     id: "kelani-river-nature-v2",
     type: "river",
@@ -167,8 +156,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Colombo vízellátásának 80%-át biztosítja", "Népszerű a vadvízi evezés (rafting) körében"],
       ro: ["Furnizează 80% din apa pentru Colombo", "Popular pentru rafting pe ape repezi"],
       en: ["Supplies 80% of Colombo's water", "Popular for white-water rafting"]
-    }
-  },
+    }, image: "/poi-images/kelani-river-nature-v2.webp"},
   {
     id: "kalu-river-nature-v2",
     type: "river",
@@ -181,8 +169,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["A neve azt jelenti: 'Fekete folyó'", "129 km hosszú"],
       ro: ["Numele înseamnă 'Râul Negru'", "Lung de 129 km"],
       en: ["Name means 'Black River'", "129 km long"]
-    }
-  },
+    }, image: "/poi-images/kalu-river-nature-v2.webp"},
   {
     id: "walawe-river-nature-v2",
     type: "river",
@@ -195,8 +182,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Vízellátást biztosít az Udawalawe Nemzeti Park számára", "138 km hosszú"],
       ro: ["Furnizează apă pentru Parcul Național Udawalawe", "Lung de 138 km"],
       en: ["Provides water to Udawalawe National Park", "138 km long"]
-    }
-  },
+    }, image: "/poi-images/walawe-river-nature-v2.webp"},
   {
     id: "pidurutalagala-nature-v2",
     type: "mountain",
@@ -209,8 +195,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Srí Lanka legmagasabb csúcsa (2524 m)", "Szigorúan védett katonai terület"],
       ro: ["Cel mai înalt vârf din Sri Lanka (2.524 m)", "Zonă militară strict protejată"],
       en: ["Highest peak in Sri Lanka (2,524m)", "Strictly protected military area"]
-    }
-  },
+    }, image: "/poi-images/pidurutalagala-nature-v2.webp"},
   {
     id: "knuckles-mountain-range-nature-v2",
     type: "mountain",
@@ -223,8 +208,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["A Középső Felföld Világörökség része", "Nagyon magas biológiai sokféleség"],
       ro: ["Face parte din Patrimoniul Mondial al zonelor muntoase centrale", "Biodiversitate foarte mare"],
       en: ["Part of Central Highlands World Heritage Site", "Very high biodiversity"]
-    }
-  },
+    }, image: "/poi-images/knuckles-mountain-range-nature-v2.webp"},
   {
     id: "lake-beira-nature-v2",
     type: "lake",
@@ -237,8 +221,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Colombo központjában található", "Egy híres buddhista templom otthona"],
       ro: ["Situat în centrul orașului Colombo", "Găzduiește un faimos templu budist"],
       en: ["Located in central Colombo", "Home to a famous Buddhist temple"]
-    }
-  },
+    }, image: "/poi-images/lake-beira-nature-v2.webp"},
   {
     id: "madu-river-nature-v2",
     type: "river",
@@ -251,8 +234,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Híres a mangrovés csónakszafarikról", "Több mint 60 szigetet rejt"],
       ro: ["Renumit pentru safari-uri cu barca printre mangrove", "Conține peste 60 de insule"],
       en: ["Famous for mangrove boat safaris", "Contains over 60 islands"]
-    }
-  },
+    }, image: "/poi-images/madu-river-nature-v2.webp"},
   {
     id: "kumana-national-park-nature-v2",
     type: "national-park",
@@ -265,8 +247,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       hu: ["Kiemelkedő madármegfigyelő hely", "A Kumbukkan Oya folyó határolja"],
       ro: ["Destinație de top pentru observarea păsărilor", "Mărginit de râul Kumbukkan Oya"],
       en: ["Top bird-watching destination", "Bordered by the Kumbukkan Oya river"]
-    }
-  },
+    }, image: "/poi-images/kumana-national-park-nature-v2.webp"},
   {
     id: "lunugamvehera-national-park-nature-v2",
     type: "national-park",

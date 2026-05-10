@@ -52,15 +52,15 @@ export const poiExtraCongoLandmarksV2: POI[] = [
   },
     description: {
       de: "Ein bedeutendes religiöses Gebäude und ein architektonisches Highlight im Zentrum von Brazzaville.",
-      hu: "Jelentős vallási épület és építészeti különlegesség Brazzaville központjában.",
-      ro: "O clădire religioasă importantă și un punct de reper arhitectural în centrul orașului Brazzaville.",
-      en: "A significant religious building and an architectural highlight in the center of Brazzaville."
+      hu: "A Brazzaville-i nagymecset a f?v?ros egyik legfontosabb vall?si ?p?lete. A modern imah?z a v?ros soksz?n? vall?si k?p?t is jelzi.",
+      ro: "Marea Moschee din Brazzaville este un important lăcaș de cult islamic din capitala Republicii Congo. Clădirea se remarcă prin dimensiuni și prin rolul ei comunitar.",
+      en: "The Grand Mosque of Brazzaville is a major religious landmark in the capital. Its size and minarets make it a prominent part of the city skyline."
     },
     facts: {
       de: ["Islamisches Zentrum", "Elegante Minarette", "Kultureller Treffpunkt", "Moderne islamische Kunst"],
-      hu: ["Iszlám központ", "Elegáns minaretek", "Kulturális találkozóhely", "Modern iszlám művészet"],
-      ro: ["Centru islamic", "Minarete elegante", "Punct de întâlnire cultural", "Artă islamică modernă"],
-      en: ["Islamic center", "Elegant minarets", "Cultural meeting point", "Modern Islamic art"]
+      hu: ["F?v?rosi mecset", "Modern vall?si ?p?let", "Brazzaville-ben tal?lhat?", "K?z?ss?gi k?zpont"],
+      ro: ["În Brazzaville", "Lăcaș islamic", "Rol comunitar"],
+      en: ["In Brazzaville", "Major mosque", "Visible skyline feature"]
     }, image: "/poi-images/cg-grand-mosque-brazzaville-landmarks-v2.webp"},
   {
     id: "cg-massamba-debat-stadium-landmarks-v2",
@@ -142,15 +142,15 @@ export const poiExtraCongoLandmarksV2: POI[] = [
   },
     description: {
       de: "Der Hauptbahnhof von Pointe-Noire und der westliche Endpunkt der historischen Kongo-Ozean-Bahn.",
-      hu: "Pointe-Noire főpályaudvara és a történelmi Kongó-Óceán vasút nyugati végállomása.",
-      ro: "Gara centrală din Pointe-Noire și capătul de vest al istoricei căi ferate Congo-Ocean.",
-      en: "The main railway station of Pointe-Noire and the western terminus of the historic Congo-Ocean Railway."
+      hu: "A Pointe-Noire-i p?lyaudvar a nyugati tengerparti vas?ti kapcsolat fontos pontja. A CFCO-vonal v?rosi kapuja ?s a kik?t?i forgalom egyik csom?pontja.",
+      ro: "Gara din Pointe-Noire este principala stație feroviară a orașului și un capăt important al liniei Congo-Océan. Leagă portul atlantic de interiorul țării.",
+      en: "Pointe-Noire Railway Station is the western rail terminus of the CFCO line. It connects the port city to the rest of the country by rail."
     },
     facts: {
       de: ["Tor zum Atlantik", "Architektur des 20. Jhd.", "Wichtiger Verkehrsknoten", "CFCO-Verbindung"],
-      hu: ["Kapu az Atlanti-óceánhoz", "20. századi építészet", "Fontos közlekedési csomópont", "CFCO vonal"],
-      ro: ["Poarta către Atlantic", "Arhitectură de secol XX", "Nod de transport major", "Legătura CFCO"],
-      en: ["Gateway to the Atlantic", "20th-century architecture", "Major transport hub", "CFCO link"]
+      hu: ["Pointe-Noire-ban", "A CFCO v?gpontja", "Vas?ti csom?pont", "Kik?t?i kapcsolat"],
+      ro: ["Stație CFCO", "În Pointe-Noire", "Leagă de interiorul țării"],
+      en: ["In Pointe-Noire", "CFCO terminus", "Rail link to the interior"]
     }, image: "/poi-images/cg-pointe-noire-railway-station-landmarks-v2.webp"},
   {
     id: "cg-palais-du-peuple-landmarks-v2",
@@ -171,16 +171,16 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     }
   },
     description: {
-      de: "Ein monumentales Regierungsgebäude in Brazzaville, das für offizielle Zeremonien und Versammlungen genutzt wird.",
+      de: "Das Palais du Peuple ist eines der wichtigsten Regierungsgebäude in Brazzaville. Hier finden staatliche Sitzungen und offizielle Zeremonien statt.",
       hu: "Monumentális kormányzati épület Brazzaville-ben, amelyet hivatalos ceremóniákra és gyűlésekre használnak.",
-      ro: "O clădire guvernamentală monumentală în Brazzaville, utilizată pentru ceremonii și adunări oficiale.",
-      en: "A monumental government building in Brazzaville used for official ceremonies and assemblies."
+      ro: "Palais du Peuple din Brazzaville este una dintre cele mai mari clădiri publice ale capitalei. Este folosit pentru reuniuni, evenimente oficiale și activități instituționale.",
+      en: "The People's Palace in Brazzaville is a large public building used for state and institutional events. It is one of the capital's best-known official landmarks."
     },
     facts: {
-      de: ["Politisches Zentrum", "Imposante Architektur", "Platz für Versammlungen", "Regierungssitz"],
+      de: ["In Brazzaville", "Regierungsgebäude", "Ort offizieller Zeremonien", "Politisches Zentrum"],
       hu: ["Politikai központ", "Impozáns építészet", "Gyűlések helyszíne", "Kormányzati székhely"],
-      ro: ["Centru politic", "Arhitectură impunătoare", "Loc de adunare", "Sediu guvernamental"],
-      en: ["Political center", "Imposing architecture", "Assembly venue", "Government seat"]
+      ro: ["În Brazzaville", "Clădire publică", "Spațiu pentru evenimente"],
+      en: ["In Brazzaville", "Official venue", "State and institutional events"]
     }, image: "/poi-images/cg-palais-du-peuple-landmarks-v2.webp"},
   {
     id: "cg-maya-maya-airport-landmarks-v2",
@@ -201,16 +201,16 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     }
   },
     description: {
-      de: "Der moderne Terminal des internationalen Flughafens von Brazzaville, ein Aushängeschild der nationalen Infrastruktur.",
-      hu: "Brazzaville nemzetközi repülőterének modern terminálja, a nemzeti infrastruktúra büszkesége.",
-      ro: "Terminalul modern al aeroportului internațional din Brazzaville, un simbol al infrastructurii naționale.",
-      en: "The modern terminal of Brazzaville's international airport, a showcase of national infrastructure."
+      de: "Der Terminal am Flughafen Maya-Maya ist das wichtigste Lufttor von Brazzaville. Er verbindet die Hauptstadt mit dem In- und Ausland.",
+      hu: "A Maya-Maya rep?l?t?r Brazzaville nemzetk?zi l?gikapuj?t jelenti. A f?v?ros ?s a k?lvil?g k?z?tti l?gi kapcsolat k?zponti pontja.",
+      ro: "Aeroportul Maya-Maya este principalul aeroport al Brazzavillei și una dintre cele mai importante porți aeriene ale țării. Servește zborurile interne și internaționale.",
+      en: "Maya-Maya Airport Terminal is the main air gateway to Brazzaville. It handles domestic and international traffic for the capital."
     },
     facts: {
-      de: ["Internationales Drehkreuz", "Modernes Design", "Tor zum Kongo", "Hohe Kapazität"],
-      hu: ["Nemzetközi csomópont", "Modern design", "Kapu Kongóhoz", "Nagy kapacitás"],
-      ro: ["Hub internațional", "Design modern", "Poarta spre Congo", "Capacitate mare"],
-      en: ["International hub", "Modern design", "Gateway to Congo", "High capacity"]
+      de: ["In Brazzaville", "Wichtigstes Lufttor", "Nationaler Flughafen", "Verbindungen ins Ausland"],
+      hu: ["Nemzetk?zi rep?l?t?r", "Brazzaville l?gikapuja", "L?gi ?sszek?ttet?s", "F?v?rosi infrastrukt?ra"],
+      ro: ["În Brazzaville", "Aeroport principal", "Zboruri interne și internaționale"],
+      en: ["In Brazzaville", "Main airport terminal", "Domestic and international flights"]
     }
   },
   {
@@ -292,16 +292,16 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     }
   },
     description: {
-      de: "Ein markantes modernes Bürogebäude in Pointe-Noire, das die Bedeutung der Ölindustrie widerspiegelt.",
-      hu: "Jellegzetes modern irodaház Pointe-Noire-ban, amely az olajipar jelentőségét tükrözi.",
-      ro: "O clădire de birouri modernă și distinctivă în Pointe-Noire, reflectând importanța industriei petroliere.",
-      en: "A striking modern office building in Pointe-Noire, reflecting the importance of the oil industry."
+      de: "Der Total Tower steht in Pointe-Noire als modernes Bürogebäude der Erdölwirtschaft. Er gehört zu den markanten Hochpunkten der Küstenstadt.",
+      hu: "A Total-torony Pointe-Noire egyik ismert modern irodah?za. Az ?p?let a v?ros ?zleti ?s v?llalati arculat?hoz tartozik.",
+      ro: "Total Tower din Pointe-Noire este un turn de birouri asociat prezenței companiei Total în oraș. Face parte din profilul urban modern al centrului portuar.",
+      en: "Total Tower Pointe-Noire is a modern office tower linked to the city's energy sector. It is part of the contemporary skyline of the port city."
     },
     facts: {
-      de: ["Sitz von TotalEnergies", "Modernes Design", "Bürokomplex", "Wahrzeichen der Stadt"],
-      hu: ["A TotalEnergies székhelye", "Modern design", "Irodakomplexum", "A város egyik jelképe"],
-      ro: ["Sediul TotalEnergies", "Design modern", "Complex de birouri", "Simbol al orașului"],
-      en: ["TotalEnergies headquarters", "Modern design", "Office complex", "City landmark"]
+      de: ["In Pointe-Noire", "Modernes Bürogebäude", "Mit der Ölwirtschaft verbunden", "Markante Hochhaus-Silhouette"],
+      hu: ["Modern iroda?p?let", "Pointe-Noire-ban", "?zleti negyedhez k?t?dik", "V?rosi jellegzetess?g"],
+      ro: ["În Pointe-Noire", "Turn de birouri", "Clădire modernă"],
+      en: ["In Pointe-Noire", "Office tower", "Energy-sector link"]
     }
   },
   {
@@ -316,16 +316,16 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       en: "Talangaï Viaduct"
     },
     description: {
-      de: "Eine beeindruckende Brückenkonstruktion, die wichtige Stadtteile von Brazzaville miteinander verbindet.",
-      hu: "Lenyűgöző hídszerkezet, amely Brazzaville fontos városrészeit köti össze.",
-      ro: "O construcție de pod impresionantă care conectează districte importante din Brazzaville.",
-      en: "An impressive bridge structure connecting important districts of Brazzaville."
+      de: "Das Talangaï-Viadukt ist eine wichtige Brückenkonstruktion im Norden von Brazzaville. Es verbessert den Verkehr zwischen den Stadtteilen.",
+      hu: "A Talangai viadukt Brazzaville ?szaki r?sz?nek fontos k?z?ti m?t?rgya. A v?rosi k?zleked?s ?raml?s?t seg?ti a dombos terepen.",
+      ro: "Viaductul Talangaï este o infrastructură rutieră din Brazzaville care susține circulația urbană. Este legat de zona dens locuită Talangaï din nordul orașului.",
+      en: "Talangaï Viaduct is an important road structure in northern Brazzaville. It helps traffic move through one of the capital's busiest districts."
     },
     facts: {
-      de: ["Moderne Brücke", "Verkehrsentlastung", "Ingenieurskunst", "Brazzaville-Nord"],
-      hu: ["Modern híd", "Forgalomcsökkentő szerep", "Mérnöki remekmű", "Észak-Brazzaville"],
-      ro: ["Pod modern", "Fluidizarea traficului", "Capodoperă inginerească", "Brazzaville-Nord"],
-      en: ["Modern bridge", "Traffic relief", "Engineering feat", "North Brazzaville"]
+      de: ["In Brazzaville", "Nordteil der Stadt", "Wichtige Brücke", "Entlastet den Verkehr"],
+      hu: ["Brazzaville ?szaki r?sz?n", "K?z?ti m?t?rgy", "K?zleked?si szerep", "Dombos terep felett"],
+      ro: ["În Brazzaville", "Infrastructură rutieră", "Zona Talangaï"],
+      en: ["In Brazzaville", "Road viaduct", "Northern district crossing"]
     }, image: "/poi-images/cg-talangai-viaduct-landmarks-v2.webp"},
   {
     id: "cg-djoue-bridge-landmarks-v2",
@@ -340,14 +340,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
     description: {
       de: "Eine strategisch wichtige Brücke über den Djoué-Fluss am südlichen Stadtrand von Brazzaville.",
-      hu: "Stratégiai fontosságú híd a Djoué-folyó felett Brazzaville déli peremén.",
-      ro: "Un pod strategic peste râul Djoué, la periferia sudică a orașului Brazzaville.",
+      hu: "A Djou? h?d Brazzaville t?rs?g?nek egyik fontos ?tkel?je a Djou? foly? felett. A f?v?rosi k?zleked?sben ?s a nyugati kapcsolatokban van szerepe.",
+      ro: "Podul peste Djoué traversează râul Djoué la sud de Brazzaville. Este o legătură rutieră importantă între capitală și zonele din jur.",
       en: "A strategically important bridge over the Djoué River on the southern outskirts of Brazzaville."
     },
     facts: {
       de: ["Über den Djoué-Fluss", "Südlicher Zugang", "Industrielle Zone", "Verkehrsweg nach Süden"],
-      hu: ["A Djoué-folyó felett", "Déli bejárat", "Ipari zóna", "Útvonal dél felé"],
-      ro: ["Peste râul Djoué", "Acces sudic", "Zonă industrială", "Rută spre sud"],
+      hu: ["Djou? foly? felett", "Brazzaville t?rs?g?ben", "Fontos ?tkel?", "K?z?ti kapcsolat"],
+      ro: ["Peste râul Djoué", "La sud de Brazzaville", "Legătură rutieră"],
       en: ["Over the Djoué River", "Southern access", "Industrial zone", "Route to the south"]
     }, image: "/poi-images/cg-djoue-bridge-landmarks-v2.webp"},
   {
@@ -386,14 +386,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
     description: {
       de: "Ein weitläufiger moderner Sportcampus, der für die Afrikaspiele 2015 erbaut wurde.",
-      hu: "Kiterjedt modern sportközpont, amelyet a 2015-ös Afrikai Játékokra építettek.",
-      ro: "Un complex sportiv modern și vast, construit pentru Jocurile Africane din 2015.",
+      hu: "A Kint?l? sportkomplexum az orsz?g egyik legnagyobb sportl?tes?tm?nye Brazzaville k?zel?ben. Nagy rendezv?nyek ?s versenyek helysz?ne.",
+      ro: "Complexul sportiv Kintélé este un ansamblu modern la nord de Brazzaville. A găzduit evenimente majore, inclusiv competiții africane de amploare.",
       en: "A vast modern sports campus built for the 2015 African Games."
     },
     facts: {
       de: ["Austragungsort der Afrikaspiele", "Vielzahl von Hallen", "Wohnheime für Athleten", "Nördlich von Brazzaville"],
-      hu: ["Afrikai Játékok helyszíne", "Számos csarnok", "Sportolói szállások", "Brazzaville-től északra"],
-      ro: ["Gazda Jocurilor Africane", "Numeroase săli", "Cămine pentru sportivi", "La nord de Brazzaville"],
+      hu: ["Brazzaville k?zel?ben", "Nagy sportl?tes?tm?ny", "Rendezv?nyhelysz?n", "Versenyek otthona"],
+      ro: ["La nord de Brazzaville", "Complex sportiv", "Găzduiește competiții majore"],
       en: ["Venue for African Games", "Multiple arenas", "Athlete dormitories", "North of Brazzaville"]
     }, image: "/poi-images/cg-kintele-sports-complex-landmarks-v2.webp"},
   {
@@ -409,15 +409,15 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
     description: {
       de: "Ein monumentales Denkmal im Herzen der Hauptstadt, das die Unabhängigkeit und Freiheit des Volkes feiert.",
-      hu: "Monumentális emlékmű a főváros szívében, amely a nép függetlenségét és szabadságát hirdeti.",
-      ro: "Un monument monumental în inima capitalei, celebrând independența și libertatea poporului.",
-      en: "A monumental memorial in the heart of the capital celebrating the independence and freedom of the people."
+      hu: "A Szabads?g-eml?km? Brazzaville egyik emblematikus k?zt?ri alkot?sa. A f?ggetlens?g ?s a nemzeti eml?kezet t?m?j?hoz kapcsol?dik.",
+      ro: "Monumentul Libertății din Brazzaville este un simbol public al independenței și al vieții civice. Este unul dintre reperele monumentale ale capitalei.",
+      en: "Freedom Monument Brazzaville is a public monument associated with independence and civic identity. It stands as one of the city's symbolic landmarks."
     },
     facts: {
       de: ["Symbol der Souveränität", "Zentraler Platz", "Patriotischer Ort", "Moderne Skulptur"],
-      hu: ["A szuverenitás szimbóluma", "Központi tér", "Hazafias emlékhely", "Modern szobor"],
-      ro: ["Simbol al suveranității", "Piața centrală", "Loc patriotic", "Sculptură modernă"],
-      en: ["Symbol of sovereignty", "Central square", "Patriotic site", "Modern sculpture"]
+      hu: ["K?zt?ri eml?km?", "F?ggetlens?gi t?ma", "Brazzaville-ben van", "Nemzeti szimb?lum"],
+      ro: ["În Brazzaville", "Simbol al independenței", "Reper monumental"],
+      en: ["In Brazzaville", "Symbol of independence", "Civic monument"]
     }, image: "/poi-images/cg-freedom-monument-landmarks-v2.webp"},
   {
     id: "cg-pointe-noire-city-hall-landmarks-v2",
@@ -432,15 +432,15 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
     description: {
       de: "Der Sitz der Stadtverwaltung von Pointe-Noire, ein wichtiges öffentliches Gebäude im Stadtzentrum.",
-      hu: "Pointe-Noire városvezetésének székhelye, fontos középület a városközpontban.",
-      ro: "Sediul administrației orașului Pointe-Noire, o clădire publică importantă din centrul orașului.",
-      en: "The seat of the city administration of Pointe-Noire, an important public building in the city center."
+      hu: "A Pointe-Noire-i v?rosh?za a v?rosi ?nkorm?nyzat k?zpontja. A kik?t?v?ros igazgat?si ?let?nek egyik fontos ?p?lete.",
+      ro: "Primăria din Pointe-Noire este clădirea administrativă principală a orașului. Aici sunt concentrate o parte din funcțiile municipale ale portului.",
+      en: "Pointe-Noire City Hall is the main municipal building of the port city. It houses local administrative functions in the urban center."
     },
     facts: {
       de: ["Verwaltungssitz", "Zentral gelegen", "Öffentlicher Platz", "Moderne Architektur"],
-      hu: ["Közigazgatási székhely", "Központi elhelyezkedés", "Közösségi tér", "Modern építészet"],
-      ro: ["Sediu administrativ", "Locație centrală", "Piață publică", "Arhitectură modernă"],
-      en: ["Administrative seat", "Central location", "Public square", "Modern architecture"]
+      hu: ["?nkorm?nyzati k?zpont", "Pointe-Noire-ban", "Igazgat?si ?p?let", "Kik?t?v?rosi szerep"],
+      ro: ["În Pointe-Noire", "Clădire administrativă", "Funcții municipale"],
+      en: ["In Pointe-Noire", "Municipal building", "Local administration"]
     }, image: "/poi-images/cg-pointe-noire-city-hall-landmarks-v2.webp"},
   {
     id: "cg-marche-total-landmarks-v2",
@@ -454,16 +454,16 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       en: "Marché Total"
     },
     description: {
-      de: "Der größte und bekannteste Markt in Brazzaville, ein pulsierender Ort des Handels und der Kultur.",
+      de: "Marché Total ist ein großer Markt in Brazzaville mit starkem Alltagsbetrieb. Er ist ein wichtiger Treffpunkt für Handel und Stadtleben.",
       hu: "Brazzaville legnagyobb és legismertebb piaca, a kereskedelem és a kultúra pezsgő központja.",
       ro: "Cea mai mare și faimoasă piață din Brazzaville, un loc vibrant de comerț și cultură.",
-      en: "The largest and most famous market in Brazzaville, a vibrant hub of trade and culture."
+      en: "Marché Total is a busy market in Brazzaville. It serves as a daily shopping point for nearby neighborhoods."
     },
     facts: {
-      de: ["Größter Markt", "Kulturelles Zentrum", "Vielfältige Produkte", "Täglicher Betrieb"],
+      de: ["Großer Markt", "In Brazzaville", "Wichtiger Handelsort", "Lebendiges Stadtleben"],
       hu: ["Legnagyobb piac", "Kulturális központ", "Változatos termékek", "Napi nyitvatartás"],
       ro: ["Cea mai mare piață", "Centru cultural", "Produse diverse", "Activitate zilnică"],
-      en: ["Largest market", "Cultural hub", "Diverse products", "Daily operation"]
+      en: ["In Brazzaville", "Busy market", "Daily shopping point"]
     }, image: "/poi-images/cg-marche-total-landmarks-v2.webp"},
   {
     id: "cg-marche-gare-pnr-landmarks-v2",
@@ -477,16 +477,16 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       en: "Railway Station Market"
     },
     description: {
-      de: "Ein lebhafter Markt in der Nähe des Bahnhofs von Pointe-Noire, bekannt für seine Farben und Düfte.",
-      hu: "Élettel teli piac a pointe-noire-i vasútállomás közelében, amely színeiről és illatairól ismert.",
-      ro: "O piață plină de viață lângă gara din Pointe-Noire, cunoscută pentru culorile și aromele sale.",
-      en: "A lively market near the Pointe-Noire railway station, known for its colors and scents."
+      de: "Marché de la Gare liegt nahe dem Bahnhof von Pointe-Noire. Der Markt ist ein lebendiger Ort für Handel im Umfeld der Bahn.",
+      hu: "A March? Gare a pointe-noire-i piacok egyik ismert helysz?ne az ?llom?s k?zel?ben. A mindennapi kereskedelem ?s helyi ?ruforgalom fontos pontja.",
+      ro: "Marché Gare din Pointe-Noire este o piață urbană mare din apropierea gării. Este un loc important pentru comerțul de zi cu zi și pentru aprovizionarea locală.",
+      en: "Marché Gare in Pointe-Noire is a market near the railway station area. It is a practical stop for everyday trade and supplies."
     },
     facts: {
-      de: ["Nähe zum Bahnhof", "Lokaler Handel", "Traditionelle Waren", "Zentrum von PNR"],
-      hu: ["Állomás közelsége", "Helyi kereskedelem", "Hagyományos áruk", "PNR központja"],
-      ro: ["Lângă gară", "Comerț local", "Mărfuri tradiționale", "Centrul PNR"],
-      en: ["Near the station", "Local trade", "Traditional goods", "PNR center"]
+      de: ["Nahe dem Bahnhof", "In Pointe-Noire", "Lokaler Handel", "Lebendiger Markt"],
+      hu: ["Piaci helysz?n", "Az ?llom?s k?zel?ben", "Helyi kereskedelem", "?ruforgalmi pont"],
+      ro: ["În Pointe-Noire", "Lângă gară", "Comerț local"],
+      en: ["In Pointe-Noire", "Near the station", "Everyday trade"]
     }, image: "/poi-images/cg-marche-gare-pnr-landmarks-v2.webp"},
   {
     id: "cg-case-des-elus-landmarks-v2",
@@ -501,14 +501,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
     description: {
       de: "Ein architektonisch interessantes Parlamentsgebäude in Brazzaville, Sitz wichtiger politischer Institutionen.",
-      hu: "Építészetileg érdekes parlamenti épület Brazzaville-ben, fontos politikai intézmények székhelye.",
-      ro: "O clădire parlamentară interesantă din punct de vedere arhitectural în Brazzaville, sediul unor instituții politice importante.",
+      hu: "A Case des ?lus Brazzaville egyik reprezentat?v k?z?p?lete. A kifejez?s a politikai ?s int?zm?nyi ?lethez kapcsol?d? v?rosi helysz?nt jel?l.",
+      ro: "Case des Élus din Brazzaville este o clădire oficială folosită pentru reuniuni instituționale. Se află printre spațiile administrative importante ale capitalei.",
       en: "An architecturally interesting parliamentary building in Brazzaville, home to important political institutions."
     },
     facts: {
       de: ["Parlamentarischer Sitz", "Moderne Bauweise", "Politisches Herz", "Zentral-Brazzaville"],
-      hu: ["Parlamenti székhely", "Modern építésmód", "Politikai szív", "Közép-Brazzaville"],
-      ro: ["Sediu parlamentar", "Construcție modernă", "Inima politică", "Centrul orașului Brazzaville"],
+      hu: ["Reprezentat?v k?z?p?let", "Brazzaville-ben van", "Politikai kapcsol?d?s", "K?zint?zm?nyi szerep"],
+      ro: ["În Brazzaville", "Clădire oficială", "Spațiu de reuniuni"],
       en: ["Parliamentary seat", "Modern construction", "Political heart", "Central Brazzaville"]
     }, image: "/poi-images/cg-case-des-elus-landmarks-v2.webp"},
   {
@@ -523,16 +523,16 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       en: "Institut Français du Congo"
     },
     description: {
-      de: "Ein bedeutendes Kulturzentrum in Brazzaville, das Kunst, Bildung und den Austausch fördert.",
-      hu: "Jelentős kulturális központ Brazzaville-ben, amely a művészetet, az oktatást és a párbeszédet segíti.",
+      de: "Das Institut Français du Congo ist ein wichtiges Kulturhaus in Brazzaville. Es bietet Raum für Kunst, Sprache und Veranstaltungen.",
+      hu: "Az IFC Brazzaville egy modern ?zleti ?s int?zm?nyi ?p?let a f?v?rosban. Az irodai ?s konferenciafunkci?khoz kapcsol?d? v?rosi pont.",
       ro: "Un centru cultural important în Brazzaville, care promovează arta, educația și schimburile culturale.",
-      en: "A significant cultural center in Brazzaville promoting art, education, and cultural exchange."
+      en: "Institut Français du Congo in Brazzaville is a cultural venue for exhibitions, performances, and language events. It is one of the capital's main Francophone spaces."
     },
     facts: {
-      de: ["Kulturzentrum", "Bibliothek und Kino", "Kunstgalerien", "Französischer Einfluss"],
-      hu: ["Kulturális központ", "Könyvtár és mozi", "Művészeti galériák", "Francia hatás"],
+      de: ["Kulturzentrum", "In Brazzaville", "Kunst und Sprache", "Veranstaltungsort"],
+      hu: ["Modern ?p?let", "F?v?rosi ?zleti szerep", "Irodai funkci?k", "Brazzaville k?zpontj?ban"],
       ro: ["Centru cultural", "Bibliotecă și cinema", "Galerii de artă", "Influență franceză"],
-      en: ["Cultural hub", "Library and cinema", "Art galleries", "French influence"]
+      en: ["In Brazzaville", "Cultural venue", "French-language events"]
     }
   },
   {
@@ -547,16 +547,16 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       en: "15th August Tower (Oyo)"
     },
     description: {
-      de: "Ein modernes Wahrzeichen in der Stadt Oyo, das an die Unabhängigkeit des Landes erinnert.",
-      hu: "Modern jelkép Oyo városában, amely az ország függetlenségére emlékeztet.",
+      de: "Der Turm des 15. August in Oyo ist ein modernes Wahrzeichen im Norden des Landes. Er erinnert an den Unabhängigkeitstag und prägt die Silhouette der Stadt.",
+      hu: "Az Oyo-torony Oyo v?ros?nak ismert modern ?p?tm?nye a Kong? k?z?ps? r?sz?n. A v?ros fejl?d? k?zponti szerep?t hangs?lyozza.",
       ro: "Un simbol modern în orașul Oyo, care comemorează independența țării.",
-      en: "A modern landmark in the city of Oyo commemorating the country's independence."
+      en: "The 15th August Tower in Oyo is a modern town landmark. It is one of the best-known features of the town's skyline."
     },
     facts: {
-      de: ["Monument in Oyo", "Moderne Architektur", "Unabhängigkeitssymbol", "Cuvette-Region"],
-      hu: ["Emlékmű Oyóban", "Modern építészet", "Függetlenségi szimbólum", "Cuvette régió"],
+      de: ["In Oyo", "Unabhängigkeitssymbol", "Modernes Wahrzeichen", "Im Norden des Landes"],
+      hu: ["Oyo v?ros?ban", "Modern torony", "K?z?p-kong?i jelk?p", "Fejl?d? v?rosi pont"],
       ro: ["Monument în Oyo", "Arhitectură modernă", "Simbol al independenței", "Regiunea Cuvette"],
-      en: ["Monument in Oyo", "Modern architecture", "Independence symbol", "Cuvette region"]
+      en: ["In Oyo", "Modern tower", "Town skyline landmark"]
     }, image: "/poi-images/cg-oyo-tower-landmarks-v2.webp"},
   {
     id: "cg-st-pierre-claver-cathedral-landmarks-v2",
@@ -595,15 +595,15 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
     description: {
       de: "Das Verwaltungsgebäude der Kongo-Ozean-Bahn in Pointe-Noire, ein Symbol der Eisenbahngeschichte.",
-      hu: "A Kongó-Óceán vasút adminisztrációs épülete Pointe-Noire-ban, a vasúttörténet szimbóluma.",
+      hu: "A CFCO k?zpontja a kong?i vas?ti h?l?zat egyik kulcsfontoss?g? int?zm?nye. Az orsz?g vas?ti m?k?d?s?nek adminisztrat?v k?zpontja.",
       ro: "Clădirea administrativă a căii ferate Congo-Ocean în Pointe-Noire, un simbol al istoriei feroviare.",
-      en: "The administrative building of the Congo-Ocean Railway in Pointe-Noire, a symbol of railway history."
+      en: "CFCO Headquarters in Pointe-Noire is the administrative center of the country's railway company. It reflects the city's long connection to rail transport."
     },
     facts: {
       de: ["Verwaltung der CFCO", "Pointe-Noire-Zentrum", "Eisenbahn-Zentrum", "Koloniales Erbe"],
-      hu: ["A CFCO igazgatása", "Pointe-Noire központja", "Vasúti központ", "Gyarmati örökség"],
+      hu: ["Vas?ti int?zm?ny", "Adminisztrat?v k?zpont", "CFCO h?l?zat", "K?zleked?si ?r?ks?g"],
       ro: ["Administrația CFCO", "Centrul orașului Pointe-Noire", "Centru feroviar", "Moștenire colonială"],
-      en: ["Management of CFCO", "Pointe-Noire center", "Railway hub", "Colonial heritage"]
+      en: ["In Pointe-Noire", "Railway headquarters", "CFCO administration"]
     }, image: "/poi-images/cg-cfco-headquarters-landmarks-v2.webp"},
   {
     id: "cg-foreign-ministry-landmarks-v2",
@@ -617,16 +617,16 @@ export const poiExtraCongoLandmarksV2: POI[] = [
       en: "Ministry of Foreign Affairs Building"
     },
     description: {
-      de: "Ein repräsentatives modernes Regierungsgebäude in Brazzaville, Sitz der kongolesischen Diplomatie.",
+      de: "Das Außenministerium in Brazzaville ist ein repräsentatives Regierungsgebäude. Es steht für die diplomatische Arbeit des Landes.",
       hu: "Reprezentatív modern kormányzati épület Brazzaville-ben, a kongói diplomácia székhelye.",
-      ro: "O clădire guvernamentală modernă reprezentativă în Brazzaville, sediul diplomației congoleze.",
-      en: "A representative modern government building in Brazzaville, seat of Congolese diplomacy."
+      ro: "Sediul Ministerului de Externe din Brazzaville este una dintre clădirile administrative ale statului. De aici sunt coordonate relațiile externe ale țării.",
+      en: "The Ministry of Foreign Affairs building in Brazzaville is a key government landmark. It represents the country's diplomatic administration."
     },
     facts: {
-      de: ["Diplomatisches Zentrum", "Moderner Bau", "Regierungsviertel", "Staatliches Symbol"],
+      de: ["In Brazzaville", "Sitz der Diplomatie", "Regierungsviertel", "Modernes Gebäude"],
       hu: ["Diplomáciai központ", "Modern építmény", "Kormányzati negyed", "Állami szimbólum"],
-      ro: ["Centru diplomatic", "Construcție modernă", "Cartier guvernamental", "Simbol de stat"],
-      en: ["Diplomatic center", "Modern building", "Government district", "State symbol"]
+      ro: ["În Brazzaville", "Clădire administrativă", "Sediul diplomației"],
+      en: ["In Brazzaville", "Government building", "Diplomatic administration"]
     }, image: "/poi-images/cg-foreign-ministry-landmarks-v2.webp"},
   {
     id: "cg-olympic-pool-kintele-landmarks-v2",
@@ -641,14 +641,14 @@ export const poiExtraCongoLandmarksV2: POI[] = [
     },
     description: {
       de: "Ein Teil des großen Sportkomplexes von Kintélé, eines der modernsten Schwimmstadien Afrikas.",
-      hu: "A kintéléi sportkomplexum része, Afrika egyik legmodernebb úszóstadionja.",
-      ro: "O parte a marelui complex sportiv Kintélé, unul dintre cele mai moderne stadioane de înot din Africa.",
+      hu: "Az olimpiai uszoda Kint?l?ben a nagy sportesem?nyekhez ?p?lt v?zi l?tes?tm?ny. A komplexum a f?v?rosi sportinfrastrukt?ra r?sze.",
+      ro: "Bazinul olimpic din Kintélé face parte din infrastructura sportivă modernă de la nord de Brazzaville. Este folosit pentru antrenamente și competiții acvatice.",
       en: "A part of the grand Kintélé sports complex, one of Africa's most modern swimming stadiums."
     },
     facts: {
       de: ["Olympisches Format", "Moderne Wassertechnik", "Tribünen für Zuschauer", "Teil von Kintélé"],
-      hu: ["Olimpiai szabvány", "Modern víztechnika", "Nézőtéri lelátók", "Kintélé része"],
-      ro: ["Format olimpic", "Tehnologie modernă a apei", "Tribune pentru spectatori", "Parte din Kintélé"],
+      hu: ["Kint?l?ben van", "V?zi sportl?tes?tm?ny", "Nagy esem?nyekhez k?sz?lt", "Sportinfrastrukt?ra"],
+      ro: ["La nord de Brazzaville", "Bazin sportiv", "Pentru competiții acvatice"],
       en: ["Olympic standard", "Modern water technology", "Spectator stands", "Part of Kintélé"]
     }
   }

@@ -1,0 +1,24 @@
+{
+  "lang": "ro",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ngaoundal-bauxite-economic-v2",
+      "description": "Zona Ngaoundal este cunoscută pentru resursele sale de bauxită din Adamawa. Zăcământul este urmărit ca parte a potențialului minier al regiunii.",
+      "facts": ["în Adamawa", "zăcământ de bauxită", "potențial minier regional"]
+    },
+    {
+      "id": "camalco-makan-economic-v2",
+      "description": "Proiectul Camalco din zona Makan este legat de resursele minerale ale estului Camerunului. Numele apare în contextul dezvoltării unor exploatări viitoare.",
+      "facts": ["în estul Camerunului", "proiect minier", "legat de resurse minerale"]
+    },
+    {
+      "id": "sabc-ndokoti-economic-v2",
+      "description": "Unitatea SABC din Ndokoti, Douala, este un punct important de producție și distribuție pentru băuturi. Poziția ei urbană susține logistica companiei.",
+      "facts": ["în Ndokoti, Douala", "producție și distribuție", "nod logistic urban"]
+    }
+  ]
+}

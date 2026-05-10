@@ -18,8 +18,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["Területe körülbelül 116 km².", "Endemikus halfajok otthona.", "A selyem- és lótuszszövés fontos központja."],
       ro: ["Suprafață de aproximativ 116 km².", "Găzduiește specii endemice de pești.", "Centru important pentru țesutul mătăsii și lotusului."],
       en: ["Area of about 116 sq km.", "Home to endemic fish species.", "Important center for silk and lotus weaving."]
-    }
-  },
+    }, image: "/poi-images/inle-lake-nature-v2.webp"},
   {
     id: "irrawaddy-river-nature-v2",
     type: "river",
@@ -37,8 +36,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["Mianmar leghosszabb folyója (2210 km).", "Fontos vízi út.", "Az Andamán-tengerbe ömlik."],
       ro: ["Cel mai lung râu din Myanmar (2210 km).", "Cale navigabilă importantă.", "Se varsă în Marea Andaman."],
       en: ["Longest river in Myanmar (2210 km).", "Important waterway.", "Flows into the Andaman Sea."]
-    }
-  },
+    }, image: "/poi-images/irrawaddy-river-nature-v2.webp"},
   {
     id: "chindwin-river-nature-v2",
     type: "river",
@@ -56,8 +54,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["Az Iravádi legnagyobb mellékfolyója.", "A Kachin államban ered.", "Körülbelül 1207 km hosszú."],
       ro: ["Cel mai mare afluent al râului Irrawaddy.", "Izvorăște în statul Kachin.", "Lung de aproximativ 1207 km."],
       en: ["Largest tributary of the Irrawaddy.", "Originates in Kachin State.", "About 1207 km long."]
-    }
-  },
+    }, image: "/poi-images/chindwin-river-nature-v2.webp"},
   {
     id: "hkakabo-razi-nature-v2",
     type: "mountain",
@@ -75,8 +72,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["5881 méter magas.", "A Himalája-hegység része.", "1996-ban mászták meg először."],
       ro: ["5881 metri înălțime.", "Face parte din munții Himalaya.", "Escaladat pentru prima dată în 1996."],
       en: ["5881 meters high.", "Part of the Himalayas.", "First ascended in 1996."]
-    }
-  },
+    }, image: "/poi-images/hkakabo-razi-nature-v2.webp"},
   {
     id: "salween-river-nature-v2",
     type: "river",
@@ -94,8 +90,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["2815 km hosszú.", "Tibetben ered.", "Az Andamán-tengerbe ömlik."],
       ro: ["2815 km lungime.", "Izvorăște în Tibet.", "Se varsă în Marea Andaman."],
       en: ["2815 km long.", "Originates in Tibet.", "Flows into the Andaman Sea."]
-    }
-  },
+    }, image: "/poi-images/salween-river-nature-v2.webp"},
   {
     id: "mount-popa-nature-v2",
     type: "mountain",
@@ -113,8 +108,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["1518 méter magas.", "Gyakran Mianmar Olümposzaként emlegetik.", "Sok makákó majom otthona."],
       ro: ["1518 metri înălțime.", "Adesea numit Olimpul Myanmarului.", "Găzduiește mulți macaci."],
       en: ["1518 meters high.", "Often referred to as the Olympus of Myanmar.", "Home to many macaque monkeys."]
-    }
-  },
+    }, image: "/poi-images/mount-popa-nature-v2.webp"},
   {
     id: "nat-ma-taung-nature-v2",
     type: "mountain",
@@ -132,8 +126,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["3053 méter magas.", "Az Arakan Yoma-hegység része.", "Egyedülálló orchideafajok otthona."],
       ro: ["3053 metri înălțime.", "Face parte din lanțul muntos Arakan Yoma.", "Găzduiește specii unice de orhidee."],
       en: ["3053 meters high.", "Part of the Arakan Yoma mountain range.", "Home to unique orchid species."]
-    }
-  },
+    }, image: "/poi-images/nat-ma-taung-nature-v2.webp"},
   {
     id: "alaungdaw-kathapa-national-park-nature-v2",
     type: "national-park",
@@ -151,8 +144,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["1984-ben alapították.", "1605 km² területű.", "Fontos élőhely az ázsiai elefántok számára."],
       ro: ["Fondat în 1984.", "Acoperă 1605 km².", "Habitat important pentru elefanții asiatici."],
       en: ["Established in 1984.", "Covers 1605 sq km.", "Important habitat for Asian elephants."]
-    }
-  },
+    }, image: "/poi-images/alaungdaw-kathapa-national-park-nature-v2.webp"},
   {
     id: "lampi-island-marine-national-park-nature-v2",
     type: "national-park",
@@ -170,8 +162,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["1996-ban alapították.", "Az ASEAN-örökség hálózat része.", "A moken tengeri nomádok otthona."],
       ro: ["Fondat în 1996.", "Face parte din rețeaua de patrimoniu ASEAN.", "Găzduiește nomazii mării Moken."],
       en: ["Established in 1996.", "Part of the ASEAN Heritage Park network.", "Home to Moken sea nomads."]
-    }
-  },
+    }, image: "/poi-images/lampi-island-marine-national-park-nature-v2.webp"},
   {
     id: "hlawga-national-park-nature-v2",
     type: "national-park",
@@ -189,8 +180,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["1982-ben nyílt meg.", "A Zamami-tó vízgyűjtőjét védi.", "Számos szarvasfaj él itt."],
       ro: ["Deschis în 1982.", "Protejează bazinul hidrografic al lacului Zamami.", "Multe specii de cerbi trăiesc aici."],
       en: ["Opened in 1982.", "Protects the catchment area of Lake Zamami.", "Many deer species live here."]
-    }
-  },
+    }, image: "/poi-images/hlawga-national-park-nature-v2.webp"},
   {
     id: "popa-mountain-national-park-nature-v2",
     type: "national-park",
@@ -208,8 +198,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["1989-ben alapították.", "Egy zöld oázist véd Mianmar száraz régiójában.", "Endemikus madárfajoknak ad otthont."],
       ro: ["Fondat în 1989.", "Protejează o oază verde în regiunea uscată a Myanmarului.", "Găzduiește specii de păsări endemice."],
       en: ["Established in 1989.", "Protects a green oasis in Myanmar's dry zone.", "Home to endemic bird species."]
-    }
-  },
+    }, image: "/poi-images/popa-mountain-national-park-nature-v2.webp"},
   {
     id: "khakaborazi-national-park-nature-v2",
     type: "national-park",
@@ -227,8 +216,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["3812 km² területű.", "A ritka fekete muntják élőhelye.", "Hófödte csúcsokat foglal magába."],
       ro: ["Suprafață de 3812 km².", "Habitatul muntiacului negru rar.", "Include vârfuri acoperite de zăpadă."],
       en: ["3812 sq km in size.", "Habitat of the rare black muntjac.", "Includes snow-capped peaks."]
-    }
-  },
+    }, image: "/poi-images/khakaborazi-national-park-nature-v2.webp"},
   {
     id: "indawgyi-lake-nature-v2",
     type: "lake",
@@ -246,8 +234,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["UNESCO bioszféra-rezervátum 2017 óta.", "Körülbelül 24 km hosszú.", "Szibériai költöző madarak otthona."],
       ro: ["Rezervație a biosferei UNESCO din 2017.", "Aproximativ 24 km lungime.", "Găzduiește păsări migratoare din Siberia."],
       en: ["UNESCO Biosphere Reserve since 2017.", "About 24 km long.", "Home to migratory birds from Siberia."]
-    }
-  },
+    }, image: "/poi-images/indawgyi-lake-nature-v2.webp"},
   {
     id: "sittaung-river-nature-v2",
     type: "river",
@@ -265,8 +252,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["420 km hosszú.", "A Martaban-öbölbe ömlik.", "Fontos a faanyagszállításban."],
       ro: ["420 km lungime.", "Se varsă în Golful Martaban.", "Important pentru transportul lemnului."],
       en: ["420 km long.", "Flows into the Gulf of Martaban.", "Important for timber transport."]
-    }
-  },
+    }, image: "/poi-images/sittaung-river-nature-v2.webp"},
   {
     id: "moeyungyi-wetland-nature-v2",
     type: "national-park",
@@ -284,8 +270,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["1988-ban nyilvánították védetté.", "2004 óta RAMSAR-terület.", "Több ezer vízimadarat számlál."],
       ro: ["Desemnat arie protejată în 1988.", "Sit RAMSAR din 2004.", "Numără mii de păsări de apă."],
       en: ["Designated as a sanctuary in 1988.", "RAMSAR site since 2004.", "Counts thousands of waterbirds."]
-    }
-  },
+    }, image: "/poi-images/moeyungyi-wetland-nature-v2.webp"},
   {
     id: "lenya-national-park-nature-v2",
     type: "national-park",
@@ -303,8 +288,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["A thai határig nyúlik.", "A ritka Gurney-pitta madár otthona.", "Az erdőirtás erősen fenyegeti."],
       ro: ["Se întinde până la granița cu Thailanda.", "Găzduiește rara pasăre Pitta a lui Gurney.", "Grav amenințat de defrișări."],
       en: ["Extends to the Thai border.", "Home to the rare Gurney's Pitta.", "Highly threatened by deforestation."]
-    }
-  },
+    }, image: "/poi-images/lenya-national-park-nature-v2.webp"},
   {
     id: "tanintharyi-nature-reserve-nature-v2",
     type: "forest",
@@ -322,8 +306,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["1700 km² területű.", "Részben gázvezeték-bevételekből finanszírozzák.", "Tigrisek és tapírok lakják."],
       ro: ["1700 km² suprafață.", "Finanțat parțial din veniturile conductelor de gaz.", "Găzduiește tigri și tapiri."],
       en: ["1700 sq km in size.", "Partially funded by gas pipeline revenues.", "Home to tigers and tapirs."]
-    }
-  },
+    }, image: "/poi-images/tanintharyi-nature-reserve-nature-v2.webp"},
   {
     id: "bago-yoma-nature-v2",
     type: "mountain",
@@ -341,8 +324,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["Magassága eléri a 820 métert.", "A kiváló minőségű teakfa fontos forrása.", "Számos elefántcsorda otthona."],
       ro: ["Atinge altitudini de până la 820 metri.", "Sursă importantă de lemn de tec de înaltă calitate.", "Găzduiește multe turme de elefanți."],
       en: ["Reaches up to 820 meters in height.", "Important source of high-quality teak wood.", "Home to many elephant herds."]
-    }
-  },
+    }, image: "/poi-images/bago-yoma-nature-v2.webp"},
   {
     id: "hukaung-valley-nature-v2",
     type: "national-park",
@@ -360,8 +342,7 @@ export const poiExtraMyanmarNatureV2: POI[] = [
       hu: ["17373 km² területű.", "2001-ben alapították védett területként.", "Ázsiai medvék és leopárdok élőhelye."],
       ro: ["17373 km² suprafață.", "Fondată ca arie protejată în 2001.", "Habitat pentru urșii și leoparzii asiatici."],
       en: ["17373 sq km in size.", "Established as a sanctuary in 2001.", "Habitat for Asian bears and leopards."]
-    }
-  },
+    }, image: "/poi-images/hukaung-valley-nature-v2.webp"},
   {
     id: "inya-lake-nature-v2",
     type: "lake",

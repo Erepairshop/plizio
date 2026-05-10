@@ -1,0 +1,90 @@
+{
+  "lang": "en",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCubaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCubaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCubaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCubaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCubaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "casa-diego-velazquez-history-v2",
+      "description": "One of the oldest colonial houses in Cuba, now a museum in Santiago de Cuba.",
+      "facts": ["Built around 1515", "Old colonial residence", "Now a museum"]
+    },
+    {
+      "id": "museo-caibarien-history-v2",
+      "description": "A local history museum in the coastal town of Caibarien.",
+      "facts": ["Coastal heritage", "Fishing tradition", "Local history"]
+    },
+    {
+      "id": "casa-camaguey-history-v2",
+      "description": "A museum in Camaguey focused on urban heritage and colonial architecture.",
+      "facts": ["Camaguey city", "Historic center", "Colonial heritage"]
+    },
+    {
+      "id": "ruinas-ingenios-history-v2",
+      "description": "UNESCO-listed ruins of old sugar mills in the Valle de los Ingenios.",
+      "facts": ["Sugar history", "Colonial economy", "UNESCO site"]
+    },
+    {
+      "id": "castillo-severo-history-v2",
+      "description": "A colonial fortress in Matanzas built for coastal defense.",
+      "facts": ["Matanzas", "18th century", "Defense fort"]
+    },
+    {
+      "id": "iglesia-mayor-history-v2",
+      "description": "A historic church in Bayamo and a key part of the old colonial center.",
+      "facts": ["Bayamo", "Historic church", "Colonial core"]
+    },
+    {
+      "id": "cueva-indio-history-v2",
+      "description": "A limestone cave in Vinales with an underground river and indigenous history.",
+      "facts": ["Vinales", "Natural cave", "Underground river"]
+    },
+    {
+      "id": "teatro-tomas-terry-history-v2",
+      "description": "A 19th-century theater in Cienfuegos known for its ornate interior.",
+      "facts": ["Built in 1889", "Italian frescoes", "Cienfuegos landmark"]
+    },
+    {
+      "id": "fortin-loma-cruz-history-v2",
+      "description": "A hilltop historic site in Holguin with local religious and city symbolism.",
+      "facts": ["Holguin", "Hill lookout", "City landmark"]
+    },
+    {
+      "id": "parque-martires-history-v2",
+      "description": "A memorial park in Santiago de Cuba dedicated to revolutionary martyrs.",
+      "facts": ["Santiago de Cuba", "Memorial park", "Revolutionary memory"]
+    },
+    {
+      "id": "fortaleza-jagua-history-v2",
+      "description": "A colonial fortress at the entrance to the Bay of Cienfuegos.",
+      "facts": ["Founded 1745", "Pirate defense", "Cienfuegos Bay"]
+    },
+    {
+      "id": "cuba-landmarks-v2-02",
+      "description": "A grand theater in Havana and a major symbol of the city's cultural life.",
+      "facts": ["Built in 1838", "Neobaroque style", "National Ballet home"]
+    },
+    {
+      "id": "cuba-landmarks-v2-21",
+      "description": "A famous theater in Cienfuegos with an ornate interior and strong historic character.",
+      "facts": ["Built in 1889", "Italian frescoes", "Cienfuegos landmark"]
+    },
+    {
+      "id": "cuba-landmarks-v2-24",
+      "description": "A busy pedestrian street in Old Havana lined with shops, cafes, and historic buildings.",
+      "facts": ["Old Havana", "Pedestrian street", "Tourist hub"]
+    },
+    {
+      "id": "cuba-landmarks-v2-26",
+      "description": "A historic fort at the entrance to Havana Bay, opposite Castillo del Morro.",
+      "facts": ["Late 16th century", "Harbor defense", "Now a museum"]
+    }
+  ]
+}

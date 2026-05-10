@@ -13,8 +13,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["Hivatalosan 1979-ben nyitották meg.", "Több mint 65 horgonyzóhellyel rendelkezik."],
       ro: ["A fost deschis oficial în 1979.", "Dispune de peste 65 de dane de ancorare."],
       en: ["Officially opened in 1979.", "Has more than 65 berths for vessels."]
-    }
-  },
+    }, image: "/poi-images/jebel-ali-port-economic-v2.webp"},
   {
     id: "khalifa-port-economic-v2",
     type: "port",
@@ -27,8 +26,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["Működését 2012-ben kezdte meg.", "Közvetlenül kapcsolódik a Kizad ipari övezethez."],
       ro: ["Operațiunile au început în anul 2012.", "Este conectat direct cu zona industrială Kizad."],
       en: ["Operations commenced in 2012.", "Directly connected to the Kizad industrial zone."]
-    }
-  },
+    }, image: "/poi-images/khalifa-port-economic-v2.webp"},
   {
     id: "barakah-nuclear-power-plant-economic-v2",
     type: "energy",
@@ -41,8 +39,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["Négy dél-koreai APR-1400 típusú reaktorból áll.", "Az EAE áramszükségletének mintegy 25%-át biztosítja."],
       ro: ["Este formată din patru reactoare sud-coreene APR-1400.", "Furnizează aproximativ 25% din necesarul de energie al EAU."],
       en: ["Consists of four South Korean APR-1400 reactors.", "Supplies roughly 25% of the UAE's electricity needs."]
-    }
-  },
+    }, image: "/poi-images/barakah-nuclear-power-plant-economic-v2.webp"},
   {
     id: "mbr-solar-park-economic-v2",
     type: "energy",
@@ -55,8 +52,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["2030-ra 5000 MW kapacitás elérése a célja.", "Itt található a világ legmagasabb naptornya."],
       ro: ["Obiectivul este de a atinge 5.000 MW până în 2030.", "Dispune de cel mai înalt turn solar din lume."],
       en: ["Aims to reach 5,000 MW capacity by 2030.", "Features the tallest solar tower in the world."]
-    }
-  },
+    }, image: "/poi-images/mbr-solar-park-economic-v2.webp"},
   {
     id: "jafza-economic-v2",
     type: "trade-hub",
@@ -69,8 +65,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["1985-ben alapították.", "Jelentősen hozzájárul Dubaj nem olajalapú GDP-jéhez."],
       ro: ["A fost înființată în anul 1985.", "Contribuie masiv la PIB-ul non-petrolier al Dubaiului."],
       en: ["Established in 1985.", "Contributes massively to Dubai's non-oil GDP."]
-    }
-  },
+    }, image: "/poi-images/jafza-economic-v2.webp"},
   {
     id: "adgm-economic-v2",
     type: "trade-hub",
@@ -83,8 +78,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["Az angol szokásjog (Common Law) alapján működik.", "A szigeten luxus üzleti komplexumok is találhatók."],
       ro: ["Aplică legea comună engleză (Common Law).", "Insula include și complexe de afaceri de lux."],
       en: ["It applies English Common Law.", "The island also includes luxury business complexes."]
-    }
-  },
+    }, image: "/poi-images/adgm-economic-v2.webp"},
   {
     id: "port-rashid-economic-v2",
     type: "port",
@@ -97,8 +91,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["1972-ben kezdte meg működését.", "Nevét a korábbi uralkodóról, Rásid bin Szaíd Al Maktúm sejkről kapta."],
       ro: ["Și-a început operațiunile în 1972.", "Numit după fostul conducător Șeic Rashid bin Saeed Al Maktoum."],
       en: ["Began operations in 1972.", "Named after former ruler Sheikh Rashid bin Saeed Al Maktoum."]
-    }
-  },
+    }, image: "/poi-images/port-rashid-economic-v2.webp"},
   {
     id: "port-of-fujairah-economic-v2",
     type: "port",
@@ -195,8 +188,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["1999-ben jelentették be a létrehozását.", "Globális technológiai óriáscégek regionális irodáinak ad otthont."],
       ro: ["Proiectul a fost anunțat în anul 1999.", "Găzduiește birouri regionale ale giganților tehnologici globali."],
       en: ["Announced in the year 1999.", "Hosts regional headquarters of global tech giants."]
-    }
-  },
+    }, image: "/poi-images/dubai-internet-city-economic-v2.webp"},
   {
     id: "port-khalid-economic-v2",
     type: "port",
@@ -209,8 +201,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["Az első mélyvízi kikötő Sardzsában.", "Különálló konténerterminállal rendelkezik."],
       ro: ["Primul port de mare adâncime din Sharjah.", "Dispune de un terminal dedicat containerelor."],
       en: ["The first deep-water port in Sharjah.", "Features a dedicated container terminal."]
-    }
-  },
+    }, image: "/poi-images/port-khalid-economic-v2.webp"},
   {
     id: "dmcc-economic-v2",
     type: "trade-hub",
@@ -223,8 +214,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["Elősegíti az arannyal, gyémánttal és teával való kereskedelmet.", "Többször is a világ legjobb szabadkereskedelmi övezetévé választották."],
       ro: ["Promovează comerțul cu aur, diamante și ceai.", "A fost desemnată de mai multe ori drept cea mai bună zonă liberă din lume."],
       en: ["Promotes the trade of gold, diamonds, and tea.", "Has been repeatedly awarded as the world's best free zone."]
-    }
-  },
+    }, image: "/poi-images/dmcc-economic-v2.webp"},
   {
     id: "stevin-rock-quarry-economic-v2",
     type: "mine",
@@ -237,8 +227,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["Évente több millió tonna kőzetet termel ki.", "Jelentősen hozzájárult a dubaji mesterséges szigetek felépítéséhez."],
       ro: ["Produce anual milioane de tone de piatră.", "A contribuit semnificativ la construcția insulelor artificiale din Dubai."],
       en: ["Produces millions of tons of rock annually.", "Contributed significantly to the artificial islands in Dubai."]
-    }
-  },
+    }, image: "/poi-images/stevin-rock-quarry-economic-v2.webp"},
   {
     id: "rakez-economic-v2",
     type: "trade-hub",
@@ -251,8 +240,7 @@ export const poiExtraUaeEconomicV2: POI[] = [
       hu: ["A RAK Szabadkereskedelmi Övezet és a RAK Befektetési Hatóság egyesüléséből jött létre.", "Speciális övezeteket kínál az ipar és a szolgáltatások számára."],
       ro: ["S-a format prin fuziunea RAK Free Trade Zone cu RAK Investment Authority.", "Oferă zone specializate pentru industrie și servicii."],
       en: ["Formed from the merger of RAK Free Trade Zone and RAK Investment Authority.", "Offers specialized zones for industry and services."]
-    }
-  },
+    }, image: "/poi-images/rakez-economic-v2.webp"},
   {
     id: "dwc-logistics-hub-economic-v2",
     type: "trade-hub",

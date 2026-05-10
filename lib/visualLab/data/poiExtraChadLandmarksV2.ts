@@ -91,13 +91,13 @@ export const poiExtraChadLandmarksV2: POI[] = [
     
     description: {
       de: "Ein monumentales Denkmal, das die Einheit und Souveränität des tschadischen Volkes symbolisiert.",
-      hu: "Monumentális emlékmű, amely a csádi nép egységét és szuverenitását jelképezi.",
+      hu: "A Monument de l'Union N'Djamena egyik központi városi emlékműve. A nemzeti egység gondolatát jelképezi a fővárosban.",
       ro: "Un monument monumental care simbolizează unitatea și suveranitatea poporului ciadian.",
       en: "A monumental landmark symbolizing the unity and sovereignty of the Chadian people."
     },
     facts: {
       de: ["Großer Triumphbogen.", "Zentraler Versammlungsplatz.", "Nachts beleuchtet.", "Sinnbild der Unabhängigkeit."],
-      hu: ["Nagy diadalív.", "Központi gyülekezőhely.", "Éjszaka kivilágítva.", "A függetlenség jelképe."],
+      hu: ["N'Djamena központjában áll", "Az egységet szimbolizálja", "Városi emlékmű", "Közismert fővárosi jelkép"],
       ro: ["Arc de triumf mare.", "Loc central de adunare.", "Iluminat noaptea.", "Simbol al independenței."],
       en: ["Large triumphal arch.", "Central gathering place.", "Illuminated at night.", "Symbol of independence."]
     }, image: "/poi-images/monument-union-ndjamena-landmarks-v2.webp"},
@@ -258,13 +258,13 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Der Hauptsitz der Zentralbank der Zentralafrikanischen Staaten im Tschad.",
       hu: "A Közép-afrikai Államok Központi Bankjának székhelye Csádban.",
       ro: "Sediul Băncii Statelor din Africa Centrală în Ciad.",
-      en: "The headquarters of the Bank of Central African States in Chad."
+      en: "The BEAC Building is the headquarters of the Bank of Central African States in N'Djamena. It is a key financial landmark in the capital's central business district."
     },
     facts: {
       de: ["Eines der höchsten Gebäude der Stadt.", "Finanzzentrum des Landes.", "Moderne Architektur.", "Stark gesichertes Areal."],
       hu: ["A város egyik legmagasabb épülete.", "Az ország pénzügyi központja.", "Modern építészet.", "Szigorúan őrzött terület."],
       ro: ["Una dintre cele mai înalte clădiri.", "Centrul financiar al țării.", "Arhitectură modernă.", "Zonă puternic securizată."],
-      en: ["One of the tallest city buildings.", "Country's financial hub.", "Modern design.", "High-security facility."]
+      en: ["Central bank HQ", "In N'Djamena", "Financial landmark", "Part of CEMAC banking"]
     }, image: "/poi-images/beac-building-ndjamena-landmarks-v2.webp"},
   {
     id: "grand-marche-ndjamena-landmarks-v2",
@@ -387,13 +387,13 @@ export const poiExtraChadLandmarksV2: POI[] = [
       de: "Ein markantes Gebäude aus der Kolonialzeit im Herzen der Oase Faya.",
       hu: "Jellegzetes gyarmati kori épület a Faya-oázis szívében.",
       ro: "O clădire distinctivă din epoca colonială în inima oazei Faya.",
-      en: "A distinctive colonial-era building in the heart of the Faya oasis."
+      en: "A colonial-era governor's palace in Faya-Largeau, in northern Chad's Sahara belt. It is one of the town's best-known historic buildings."
     },
     facts: {
       de: ["Ehemalige Militärverwaltung.", "Wahrzeichen der Stadt.", "Historisches Bauwerk.", "Prägt das Stadtbild."],
       hu: ["Egykori katonai igazgatás.", "A város jelképe.", "Történelmi építmény.", "Meghatározza a városképet."],
       ro: ["Fostă administrație militară.", "Simbol al orașului.", "Edificiu istoric.", "Definește peisajul urban."],
-      en: ["Former military admin center.", "City landmark.", "Historic structure.", "Dominates the townscape."]
+      en: ["Colonial-era building", "In Faya-Largeau", "Northern Chad", "Historic administrative site"]
     }, image: "/poi-images/palais-gouverneur-faya-landmarks-v2.webp"},
   {
     id: "cathedrale-moundou-landmarks-v2",
@@ -540,13 +540,13 @@ export const poiExtraChadLandmarksV2: POI[] = [
     
     description: {
       de: "Eines der modernsten und luxuriösesten Gebäude im Tschad.",
-      hu: "Csád egyik legmodernebb és legluxusabb épülete.",
+      hu: "A Ledger Plaza N'Djamena belvárosi, felsőkategóriás szállodája. Korábban Kempinski Hotel N'Djamena néven működött.",
       ro: "Una dintre cele mai moderne și luxoase clădiri din Ciad.",
       en: "One of the most modern and luxurious buildings in Chad."
     },
     facts: {
       de: ["Fünf-Sterne-Standard.", "Bekanntes Wahrzeichen.", "Ort für internationale Konferenzen.", "Moderne Architektur."],
-      hu: ["Ötcsillagos színvonal.", "Ismert jelkép.", "Nemzetközi konferenciák helyszíne.", "Modern építészet."],
+      hu: ["2004-ben nyílt", "177 szobája és lakosztálya van", "Korábban Kempinski volt", "9 emeletes"],
       ro: ["Standard de cinci stele.", "Simbol cunoscut.", "Loc pentru conferințe internaționale.", "Arhitectură modernă."],
       en: ["Five-star luxury hotel.", "Prominent city landmark.", "International conference site.", "Modern architecture."]
     }, image: "/poi-images/hotel-ledger-plaza-landmarks-v2.webp"},
@@ -571,13 +571,13 @@ export const poiExtraChadLandmarksV2: POI[] = [
     
     description: {
       de: "Die führende akademische Institution des Landes mit markanten Campusgebäuden.",
-      hu: "Az ország vezető akadémiai intézménye jellegzetes campusépületekkel.",
+      hu: "A University of N'Djamena Csád vezető felsőoktatási intézménye. Az ország fővárosában működő állami egyetem a legfontosabb felsőoktatási központok egyike.",
       ro: "Cea mai importantă instituție academică din țară, cu clădiri de campus distinctive.",
       en: "The leading academic institution in the country with distinctive campus buildings."
     },
     facts: {
       de: ["Gegründet im Jahr 1971.", "Zentrum der Wissenschaft.", "Großes Hauptgebäude.", "Bedeutender Bildungsstandort."],
-      hu: ["1971-ben alapították.", "A tudomány központja.", "Nagy főépület.", "Jelentős oktatási helyszín."],
+      hu: ["1971-ben alapították", "1994-ben kapta mai nevét", "Állami egyetem", "N'Djamenában működik"],
       ro: ["Fondată în anul 1971.", "Centrul științei.", "Clădire principală mare.", "Locație educațională importantă."],
       en: ["Founded in 1971.", "Hub for higher learning.", "Large main building.", "Key educational landmark."]
     }, image: "/poi-images/universite-ndjamena-landmarks-v2.webp"},
@@ -664,13 +664,13 @@ export const poiExtraChadLandmarksV2: POI[] = [
     
     description: {
       de: "Der offizielle Amtssitz und die Residenz des Präsidenten des Tschad.",
-      hu: "Csád elnökének hivatalos székhelye és rezidenciája.",
+      hu: "A Palais Rose N'Djamena elnöki palotája volt a korábbi elnevezés szerint. A főváros egyik legismertebb állami épülete.",
       ro: "Sediul oficial și reședința președintelui Ciadului.",
       en: "The official workplace and residence of the President of Chad."
     },
     facts: {
       de: ["Zentrum der Macht.", "Stark bewachtes Gelände.", "Prächtiges Gebäude.", "Architektonisches Wahrzeichen."],
-      hu: ["A hatalom központja.", "Szigorúan őrzött terület.", "Pompás épület.", "Építészeti jelkép."],
+      hu: ["Elnöki rezidencia", "N'Djamenában található", "Korábbi neve Palais Rose", "2022 óta Palais Toumaï néven ismert"],
       ro: ["Centrul puterii.", "Teren puternic securizat.", "Clădire somptuoasă.", "Simbol arhitectural."],
       en: ["Center of executive power.", "High-security compound.", "Grand architecture.", "Iconic official landmark."]
     }, image: "/poi-images/palais-rose-ndjamena-landmarks-v2.webp"},
@@ -695,14 +695,14 @@ export const poiExtraChadLandmarksV2: POI[] = [
     
     description: {
       de: "Ein großer öffentlicher Platz für nationale Zeremonien und Feste.",
-      hu: "Hatalmas nyilvános tér nemzeti ceremóniák és ünnepségek számára.",
-      ro: "O piață publică mare pentru ceremonii naționale și festivități.",
+      hu: "A Place de la Nation N'Djamena egyik központi tere és ismert közterülete. A városképen a közéleti találkozások egyik fontos pontja.",
+      ro: "Place de la Nation este piața publică centrală din N'Djamena. Aici au loc ceremonii oficiale și parade importante.",
       en: "A large public square used for national ceremonies and festivities."
     },
     facts: {
       de: ["Ort für Militärparaden.", "Zentraler Treffpunkt.", "Weitläufiges Areal.", "Nationales Symbol."],
-      hu: ["Katonai parádék helyszíne.", "Központi találkozóhely.", "Tágas terület.", "Nemzeti jelkép."],
-      ro: ["Loc pentru parade militare.", "Punct de întâlnire central.", "Zonă vastă.", "Simbol național."],
+      hu: ["A főváros egyik központi tere", "Ikonikus városi helyszín", "Nyilvános események helye", "Az egység üzenetét hordozza"],
+      ro: ["În capitala N'Djamena", "Piață publică centrală", "Loc pentru parade", "Spațiu ceremonial"],
       en: ["Venue for military parades.", "Central gathering point.", "Vast open area.", "National landmark."]
     }, image: "/poi-images/place-de-la-nation-ndjamena-landmarks-v2.webp"},
   {

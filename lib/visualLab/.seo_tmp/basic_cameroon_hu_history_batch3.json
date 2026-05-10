@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maroua-lamidat-history-v2",
+      "description": "A marouai lamidát Észak-Kamerun egyik legfontosabb hagyományos uralkodói központja. A muszlim vezetés régi intézménye kapcsolódik hozzá.",
+      "facts": ["Maroua központja", "lamidati hagyomány", "északi örökség"]
+    },
+    {
+      "id": "king-akwas-palace-history-v2",
+      "description": "A King Akwa palota Douala egyik történeti uralkodói helyszíne. A Duala közösség dinasztikus múltját őrzi.",
+      "facts": ["Douala városában", "Akwa dinasztia", "történeti palota"]
+    },
+    {
+      "id": "dschang-colonial-center-history-v2",
+      "description": "A dschangi gyarmati központ a hegyvidéki város korai városszerkezetét idézi. A kolonializmus nyomai jól láthatók benne.",
+      "facts": ["Dschang központja", "gyarmati városmag", "hegyvidéki település"]
+    },
+    {
+      "id": "garoua-lamidat-history-v2",
+      "description": "A garouai lamidát az északi uralkodói kultúra egyik fő központja. A fulani hagyomány és a városi történelem találkozik itt.",
+      "facts": ["Garoua városa", "fulani lamidát", "hagyományos központ"]
+    },
+    {
+      "id": "pitoa-slave-market-site-history-v2",
+      "description": "A pitoa-i rabszolgapiac helyszíne az északi múlt sötétebb korszakára emlékeztet. Ma történeti emlékhely.",
+      "facts": ["Pitoa térsége", "rabszolga-kereskedelem", "emlékhely"]
+    },
+    {
+      "id": "rio-dos-camaroes-discovery-history-v2",
+      "description": "A Rio dos Camarões név a Wouri torkolatvidék portugál elnevezése volt. Innen ered Kamerun európai neve.",
+      "facts": ["portugál elnevezés", "Wouri torkolata", "Kamerun néveredete"]
+    },
+    {
+      "id": "fort-of-yaounde-site-history-v2",
+      "description": "A yaoundéi erődhely a főváros korai gyarmati korszakát idézi. A városi közigazgatás kezdetéhez kapcsolódik.",
+      "facts": ["Yaoundé története", "korai erődhely", "gyarmati adminisztráció"]
+    },
+    {
+      "id": "saints-peter-and-paul-cathedral-history-v2",
+      "description": "A Saints Peter and Paul katedrális Douala egyik fő katolikus temploma. A város vallási és építészeti örökségéhez tartozik.",
+      "facts": ["Douala székesegyháza", "katolikus templom", "városi örökség"]
+    },
+    {
+      "id": "old-post-office-buea-history-v2",
+      "description": "A bueai régi postahivatal a gyarmati közigazgatás egyik emléke. A hegyi város korai központi funkcióit mutatja.",
+      "facts": ["Buea városában", "régi postahivatal", "gyarmati korszak"]
+    },
+    {
+      "id": "babungo-palace-history-v2",
+      "description": "A babungói palota a hagyományos északnyugati uralkodás fontos helyszíne. A helyi kulturális örökség része.",
+      "facts": ["Babungo központja", "hagyományos palota", "kulturális örökség"]
+    }
+  ]
+}

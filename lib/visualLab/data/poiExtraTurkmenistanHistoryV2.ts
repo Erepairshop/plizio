@@ -23,8 +23,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Aşgabattól 18 km-re fekszik.", "A pártus királyok építtették."],
       ro: ["Se află la 18 km de Așgabat.", "A fost construită de regii parți."],
       en: ["Located 18 km from Ashgabat.", "Built by the Parthian kings."]
-    }
-  },
+    }, image: "/poi-images/nisa-ruins-history-v2.webp"},
   {
     id: "ancient-merv-history-v2",
     type: "ruin",
@@ -71,8 +70,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["A Horezmi Birodalom egykori fővárosa.", "A 13. században a mongolok pusztították el."],
       ro: ["Fosta capitală a Imperiului Horezmian.", "A fost distrusă de mongoli în secolul al XIII-lea."],
       en: ["Former capital of the Khorezmian Empire.", "Was destroyed by the Mongols in the 13th century."]
-    }
-  },
+    }, image: "/poi-images/kunya-urgench-history-v2.webp"},
   {
     id: "gonur-depe-history-v2",
     type: "ruin",
@@ -95,8 +93,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Az ókori Margiana civilizáció fővárosa.", "Csak 1972-ben fedezték fel régészek."],
       ro: ["Capitala civilizației antice Margiana.", "A fost descoperită de arheologi abia în 1972."],
       en: ["Capital of the ancient Margiana civilization.", "Was discovered by archaeologists only in 1972."]
-    }
-  },
+    }, image: "/poi-images/gonur-depe-history-v2.webp"},
   {
     id: "anau-mosque-ruins-history-v2",
     type: "ruin",
@@ -119,8 +116,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["A mecset a 15. századból származik.", "A bejáratot hatalmas sárkánymozaikok díszítették."],
       ro: ["Moscheea datează din secolul al XV-lea.", "Portalul era decorat cu mozaicuri uriașe de dragoni."],
       en: ["The mosque dates back to the 15th century.", "The portal was decorated with huge dragon mosaics."]
-    }
-  },
+    }, image: "/poi-images/anau-mosque-ruins-history-v2.webp"},
   {
     id: "geok-tepe-fortress-history-v2",
     type: "battlefield",
@@ -143,8 +139,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Az 1881-es türkmén-orosz csata helyszíne.", "Az erőd eredetileg egy vályogfalú építmény volt."],
       ro: ["Locul bătăliei dintre turkmeni și ruși din anul 1881.", "Cetatea a fost inițial o structură cu ziduri de noroi."],
       en: ["Site of the battle between Turkmen and Russians in 1881.", "The fortress was originally a mud-wall structure."]
-    }
-  },
+    }, image: "/poi-images/geok-tepe-fortress-history-v2.webp"},
   {
     id: "sultan-sanjar-mausoleum-history-v2",
     type: "monument",
@@ -167,8 +162,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["A 12. században épült.", "Dupla héjú kupolával rendelkezik."],
       ro: ["A fost construit în secolul al XII-lea.", "Are o cupolă cu strat dublu."],
       en: ["Was built in the 12th century.", "Features a double-shell dome."]
-    }
-  },
+    }, image: "/poi-images/sultan-sanjar-mausoleum-history-v2.webp"},
   {
     id: "torebeg-hanym-mausoleum-history-v2",
     type: "monument",
@@ -191,8 +185,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Köneurgench egyik építészeti remekműve.", "365 darabból álló kupolamozaikkal rendelkezik."],
       ro: ["Una dintre capodoperele arhitecturale din Köneürgenç.", "Are un mozaic de cupolă format din 365 de piese."],
       en: ["One of the architectural masterpieces of Kunya-Urgench.", "Features a 365-piece dome mosaic."]
-    }
-  },
+    }, image: "/poi-images/torebeg-hanym-mausoleum-history-v2.webp"},
   {
     id: "kutlug-timur-minaret-history-v2",
     type: "monument",
@@ -215,8 +208,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Több mint 60 méter magas.", "Közép-Ázsia egyik legmagasabb ókori minaretje."],
       ro: ["Are peste 60 de metri înălțime.", "Este unul dintre cele mai înalte minarete antice din Asia Centrală."],
       en: ["Is over 60 meters high.", "Is one of the highest ancient minarets in Central Asia."]
-    }
-  },
+    }, image: "/poi-images/kutlug-timur-minaret-history-v2.webp"},
   {
     id: "dekhistan-ruins-history-v2",
     type: "ruin",
@@ -239,8 +231,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Egykori kulturális központ a Kaszpi-tenger mentén.", "A 15. században vízhiány miatt hagyták el."],
       ro: ["Fost centru cultural la Marea Caspică.", "A fost abandonat în secolul al XV-lea din cauza lipsei de apă."],
       en: ["Former cultural center near the Caspian Sea.", "Was abandoned in the 15th century due to lack of water."]
-    }
-  },
+    }, image: "/poi-images/dekhistan-ruins-history-v2.webp"},
   {
     id: "abiverd-ruins-history-v2",
     type: "ruin",
@@ -263,8 +254,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Észak-Horászán virágzó kereskedővárosa volt.", "A Selyemút fontos állomásának számított."],
       ro: ["A fost un oraș comercial înfloritor în Khorasanul de Nord.", "A fost un punct de oprire important pe Drumul Mătăsii."],
       en: ["Was a thriving trading city in Northern Khorasan.", "Was considered an important stop on the Silk Road."]
-    }
-  },
+    }, image: "/poi-images/abiverd-ruins-history-v2.webp"},
   {
     id: "altyn-depe-history-v2",
     type: "ruin",
@@ -287,8 +277,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["A régió egyik legfontosabb bronzkori lelőhelye.", "A név fordítása „Arany-domb”."],
       ro: ["Unul dintre cele mai importante situri din epoca bronzului din regiune.", "Numele se traduce prin „Dealul de Aur”."],
       en: ["One of the most important Bronze Age sites in the region.", "The name translates to 'Golden Hill'."]
-    }
-  },
+    }, image: "/poi-images/altyn-depe-history-v2.webp"},
   {
     id: "dayakhatyn-caravanserai-history-v2",
     type: "historical-site",
@@ -311,8 +300,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["A 11. és 12. századból származik.", "A Selyemút kereskedőinek pihenőhelyéül szolgált."],
       ro: ["Datează din secolele XI și XII.", "A servit ca loc de odihnă pentru comercianții de pe Drumul Mătăsii."],
       en: ["Dates back to the 11th and 12th centuries.", "Served as a resting place for merchants on the Great Silk Road."]
-    }
-  },
+    }, image: "/poi-images/dayakhatyn-caravanserai-history-v2.webp"},
   {
     id: "il-arslan-mausoleum-history-v2",
     type: "monument",
@@ -335,8 +323,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Köneurgench egyik legrégebbi műemléke.", "A kúpos kupola egyedi téglafaragással rendelkezik."],
       ro: ["Unul dintre cele mai vechi monumente din Köneürgenç.", "Cupola conică are o gravură unică în cărămidă."],
       en: ["One of the oldest monuments in Kunya-Urgench.", "The conical dome has a unique brick engraving."]
-    }
-  },
+    }, image: "/poi-images/il-arslan-mausoleum-history-v2.webp"},
   {
     id: "namazga-depe-history-v2",
     type: "ruin",
@@ -383,8 +370,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Befejezetlen erődítmény a 18. századból.", "Hossza majdnem egy kilométer."],
       ro: ["O fortăreață neterminată din secolul al XVIII-lea.", "Are o lungime de aproape un kilometru."],
       en: ["An unfinished fortress from the 18th century.", "Has a length of almost a kilometer."]
-    }
-  },
+    }, image: "/poi-images/nadir-shah-fortress-history-v2.webp"},
   {
     id: "astana-baba-mausoleum-history-v2",
     type: "monument",
@@ -407,8 +393,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Jelentős iszlám zarándokhely.", "Négy egymásba nyíló teremből áll."],
       ro: ["Este un loc important de pelerinaj islamic.", "Este format din patru camere interconectate."],
       en: ["Is a significant Islamic pilgrimage site.", "Consists of four interconnected rooms."]
-    }
-  },
+    }, image: "/poi-images/astana-baba-mausoleum-history-v2.webp"},
   {
     id: "gyz-gala-fortress-history-v2",
     type: "historical-site",
@@ -431,8 +416,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["A 7. és 8. század között épült Merv régióban.", "Jellegzetes, hullámos vályogfalakkal rendelkezik."],
       ro: ["Construită între secolele VII și VIII în regiunea Merv.", "Are pereți distinctivi de noroi canelați."],
       en: ["Built in the 7th to 8th century in the Merv region.", "Features distinctive corrugated mud walls."]
-    }
-  },
+    }, image: "/poi-images/gyz-gala-fortress-history-v2.webp"},
   {
     id: "shir-kabir-mosque-history-v2",
     type: "historical-site",
@@ -455,8 +439,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Türkmenisztán egyik legrégebbi mecsete.", "Még mindig láthatók az eredeti mihrab-díszítések."],
       ro: ["Este una dintre cele mai vechi moschei din Turkmenistan.", "Încă mai păstrează decorațiunile originale ale mihrabului."],
       en: ["Is one of the oldest mosques in Turkmenistan.", "Still retains the original mihrab decorations."]
-    }
-  },
+    }, image: "/poi-images/shir-kabir-mosque-history-v2.webp"},
   {
     id: "tekesh-mausoleum-history-v2",
     type: "monument",

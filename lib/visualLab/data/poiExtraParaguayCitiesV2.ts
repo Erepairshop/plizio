@@ -42,8 +42,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Orașul găzduiește una dintre cele mai importante arhive culturale ale limbii guarani din lume."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/asuncion-cities-v2.webp"},
   {
     id: "concepcion-cities-v2",
     type: "state-capital",
@@ -85,8 +84,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Este un punct important de plecare pentru expedițiile în regiunea Chaco și pentru ecoturism."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/concepcion-cities-v2.webp"},
   {
     id: "san-pedro-ycuamandiyu-cities-v2",
     type: "state-capital",
@@ -128,8 +126,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Artizanii locali sunt cunoscuți pentru produsele din piele și broderii."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-pedro-ycuamandiyu-cities-v2.webp"},
   {
     id: "caacupe-cities-v2",
     type: "state-capital",
@@ -165,8 +162,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/caacupe-cities-v2.webp"},
   {
     id: "villarrica-cities-v2",
     type: "state-capital",
@@ -202,8 +198,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/villarrica-cities-v2.webp"},
   {
     id: "coronel-oviedo-cities-v2",
     type: "state-capital",
@@ -239,8 +234,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/coronel-oviedo-cities-v2.webp"},
   {
     id: "caazapa-cities-v2",
     type: "state-capital",
@@ -276,8 +270,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/caazapa-cities-v2.webp"},
   {
     id: "encarnacion-cities-v2",
     type: "state-capital",
@@ -313,8 +306,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/encarnacion-cities-v2.webp"},
   {
     id: "san-juan-bautista-cities-v2",
     type: "state-capital",
@@ -350,8 +342,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-juan-bautista-cities-v2.webp"},
   {
     id: "paraguari-cities-v2",
     type: "state-capital",
@@ -387,8 +378,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/paraguari-cities-v2.webp"},
   {
     id: "ciudad-del-este-cities-v2",
     type: "state-capital",
@@ -424,8 +414,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ciudad-del-este-cities-v2.webp"},
   {
     id: "aregua-cities-v2",
     type: "state-capital",
@@ -461,8 +450,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/aregua-cities-v2.webp"},
   {
     id: "pilar-cities-v2",
     type: "state-capital",
@@ -498,8 +486,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/pilar-cities-v2.webp"},
   {
     id: "pedro-juan-caballero-cities-v2",
     type: "state-capital",
@@ -535,8 +522,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/pedro-juan-caballero-cities-v2.webp"},
   {
     id: "salto-del-guaira-cities-v2",
     type: "state-capital",
@@ -572,8 +558,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/salto-del-guaira-cities-v2.webp"},
   {
     id: "villa-hayes-cities-v2",
     type: "state-capital",
@@ -609,8 +594,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/villa-hayes-cities-v2.webp"},
   {
     id: "fuerte-olimpo-cities-v2",
     type: "state-capital",
@@ -646,8 +630,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/fuerte-olimpo-cities-v2.webp"},
   {
     id: "filadelfia-cities-v2",
     type: "state-capital",
@@ -683,8 +666,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/filadelfia-cities-v2.webp"},
   {
     id: "san-lorenzo-cities-v2",
     type: "city",
@@ -720,8 +702,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-lorenzo-cities-v2.webp"},
   {
     id: "luque-cities-v2",
     type: "city",
@@ -757,8 +738,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/luque-cities-v2.webp"},
   {
     id: "capiata-cities-v2",
     type: "city",
@@ -794,8 +774,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/capiata-cities-v2.webp"},
   {
     id: "lambare-cities-v2",
     type: "city",
@@ -831,8 +810,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lambare-cities-v2.webp"},
   {
     id: "fernando-de-la-mora-cities-v2",
     type: "city",
@@ -868,8 +846,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/fernando-de-la-mora-cities-v2.webp"},
   {
     id: "limpio-cities-v2",
     type: "city",
@@ -905,8 +882,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/limpio-cities-v2.webp"},
   {
     id: "nemby-cities-v2",
     type: "city",
@@ -942,8 +918,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/nemby-cities-v2.webp"},
   {
     id: "itaugua-cities-v2",
     type: "city",
@@ -979,8 +954,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/itaugua-cities-v2.webp"},
   {
     id: "mariano-roque-alonso-cities-v2",
     type: "city",
@@ -1016,8 +990,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mariano-roque-alonso-cities-v2.webp"},
   {
     id: "villa-elisa-cities-v2",
     type: "city",
@@ -1053,8 +1026,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/villa-elisa-cities-v2.webp"},
   {
     id: "san-antonio-cities-v2",
     type: "city",
@@ -1090,8 +1062,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-antonio-cities-v2.webp"},
   {
     id: "ypane-cities-v2",
     type: "city",
@@ -1127,8 +1098,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ypane-cities-v2.webp"},
   {
     id: "villeta-cities-v2",
     type: "city",
@@ -1164,8 +1134,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/villeta-cities-v2.webp"},
   {
     id: "guarambare-cities-v2",
     type: "city",
@@ -1201,8 +1170,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/guarambare-cities-v2.webp"},
   {
     id: "ypacarai-cities-v2",
     type: "city",
@@ -1238,8 +1206,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ypacarai-cities-v2.webp"},
   {
     id: "presidente-franco-cities-v2",
     type: "city",
@@ -1275,8 +1242,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/presidente-franco-cities-v2.webp"},
   {
     id: "minga-guazu-cities-v2",
     type: "city",
@@ -1312,8 +1278,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/minga-guazu-cities-v2.webp"},
   {
     id: "hernandarias-cities-v2",
     type: "city",
@@ -1337,8 +1302,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Hernandarias Alto Paraná megye keleti részén fekszik, körülbelül 15 kilométerre északra Ciudad del Estétől, a Paraná folyó jobb partján, és büszkén viseli a „Latin-Amerika energiafővárosa” címet, mivel a hatalmas binacionális Itaipú vízerőmű túlnyomó része itt található. A várost 1898-ban alapították, és Hernando Arias de Saavedra konkvisztádorról nevezték el, aki az egyik első, Paraguayban született gyarmati kormányzó volt. Mintegy 80 000 lakosa főként az energiaiparból, az Itaipú-tározó körüli turizmusból és a szójatermesztésből él. Az 1350 négyzetkilométeres tározó a világ egyik legnagyobb mesterséges tava, és kikötőkkel, strandokkal, ökológiai rezervátumokkal is rendelkezik. Látnivalói az Itaipú látogatóközpont, a Tatí Yupí biológiai menedék és a modern plébániatemplom. A gazdaság erőssége az energiaipar által kínált jól fizető munkahelyekben rejlik, ami jelentősen megemeli az életszínvonalat. A városban brazil és japán bevándorlók is élnek.",
       ro: "Hernandarias, un oraș al departamentului Alto Paraná din estul extrem al Paraguayului, se află la aproximativ 15 kilometri nord de Ciudad del Este, pe malul drept al râului Paraná, fiind considerat „Capitala Energiei Americii Latine”, deoarece aici se găsește cea mai mare parte a hidrocentralei binaționale Itaipú. Orașul a fost fondat în 1898 și poartă numele cuceritorului Hernando Arias de Saavedra, unul dintre primii guvernatori născuți în Paraguay ai Río de la Plata. Cu aproximativ 80 000 de locuitori, trăiește în principal din industria energetică, din turismul din jurul lacului de acumulare Itaipú și din cultura sojei. Lacul, cu o suprafață de 1 350 km², este unul dintre cele mai mari lacuri artificiale din lume și servește și ca zonă de agrement, cu porturi de iahturi, plaje și rezervații ecologice. De vizitat sunt centrul de vizitatori Itaipú, refugiul biologic Tatí Yupí și biserica parohială modernă. Economia beneficiază de salariile bune din sectorul energetic.",
       en: "Hernandarias, a city in the Alto Paraná Department in the far east of Paraguay, lies about 15 kilometres north of Ciudad del Este on the right bank of the Paraná River and is known as the Latin American Capital of Energy because the larger share of the binational Itaipú hydroelectric dam lies within its limits. The town was founded in 1898 and named after the conquistador Hernando Arias de Saavedra, one of the first Paraguay-born colonial governors of the Río de la Plata. With around 80 000 inhabitants the city lives mainly from the energy industry, from tourism around the Itaipú reservoir and from soybean farming. The reservoir, covering 1 350 square kilometres, is one of the largest artificial lakes in the world and also serves as a recreation area with marinas, beaches and ecological reserves. Highlights include the Itaipú visitor centre, the Tatí Yupí biological refuge and the modern parish church. The economy benefits from well-paid jobs in the energy sector, which considerably raises local living standards."
-    }
-  },
+    }, image: "/poi-images/hernandarias-cities-v2.webp"},
   {
     id: "santa-rita-cities-v2",
     type: "city",
@@ -1362,8 +1326,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Santa Rita Alto Paraná megye keleti részén fekszik, körülbelül 60 kilométerre délre Ciudad del Estétől a 6-os úton, és Paraguay egyik legtehetősebb mezőgazdasági központjának számít. A várost 1973-ban alapították brazil bevándorlók, akik a Barátság hídjának megnyitása után az állami kolonizációs politika keretében költöztek Paraguayba, hogy az atlanti felföld termékeny vörös földjét szójatermesztésre vonják művelésbe. Néhány évtized alatt Santa Rita a paraguayi szójatermelés központjává nőtte ki magát. Jelenleg mintegy 60 000 lakosa van, akiknek nagy része portugálul beszél. A város főleg az évente megrendezett Expo Santa Rita-ról ismert, amely Dél-Amerika egyik legnagyobb mezőgazdasági vására, ahol a legmodernebb gépeket, vetőmagokat és haszonállatokat mutatják be. Gazdasága a szóján, kukoricán, búzán, szarvasmarha-tenyésztésen, gépkereskedelmen és logisztikán alapul. Látnivalói a modern katolikus plébániatemplom és a szövetkezeti központok.",
       ro: "Santa Rita, un oraș al departamentului Alto Paraná din estul Paraguayului, se află la aproximativ 60 de kilometri sud de Ciudad del Este, pe Ruta 6, fiind considerat unul dintre cele mai prospere centre agricole ale țării. A fost fondat în 1973 de imigranți brazilieni, care au venit în Paraguay după deschiderea Podului Prieteniei, în cadrul politicii de stat de colonizare, pentru a valorifica solul roșu fertil al podișului atlantic prin cultivarea sojei. În câteva decenii, Santa Rita a devenit centrul producției paraguayene de soia. Astăzi orașul are aproximativ 60 000 de locuitori, dintre care o mare parte vorbesc portugheza. Santa Rita este renumit mai ales pentru Expo Santa Rita anuală, unul dintre cele mai mari târguri agricole din America de Sud, unde se prezintă cele mai moderne mașini, semințe și animale. Economia se bazează pe soia, porumb, grâu, creșterea vitelor și logistică. Sunt vizitabile biserica parohială modernă și sediile cooperativelor.",
       en: "Santa Rita, a city in the Alto Paraná Department of eastern Paraguay, lies about 60 kilometres south of Ciudad del Este along Route 6 and is regarded as one of the most prosperous agricultural centres in the country. It was founded in 1973 by Brazilian immigrants who, after the opening of the Friendship Bridge, came to Paraguay under a state-led colonisation policy to bring the fertile red soils of the Atlantic plateau under soybean cultivation. Within a few decades Santa Rita developed into the heart of Paraguayan soybean production. Today the town has around 60 000 inhabitants, most of whom speak Portuguese. Santa Rita is best known for the annual Expo Santa Rita, one of the largest agricultural fairs in South America, showcasing state-of-the-art machinery, seeds and livestock. The economy is based on soybeans, maize, wheat, cattle ranching, machinery trade and logistics. Notable sights include the modern Catholic parish church and the headquarters of major agricultural cooperatives."
-    }
-  },
+    }, image: "/poi-images/santa-rita-cities-v2.webp"},
   {
     id: "coronel-bogado-cities-v2",
     type: "city",
@@ -1387,8 +1350,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Coronel Bogado Itapúa megye déli részén fekszik, körülbelül 50 kilométerre északnyugatra Encarnacióntól az 1-es úton, amely Asunciónt köti össze az argentin határral. Gyakran emlegetik „A Chipa Nemzeti Fővárosa” néven, mivel a hagyományos kukoricalisztből, sajtból és ánizsból készült kenyér, amely a paraguayi gasztronómia egyik alappillére, itt különleges minőségben készül, és nemzedékről nemzedékre öröklődik a recept. A város a 19. század elején alakult ki egy kis településből, és 1845-ben hivatalosan Paraje Ka'i Puente néven alapították; mai nevét José María Bogado ezredesről, a Hármas Szövetség elleni háború hőséről kapta. Mintegy 25 000 lakosa főként mezőgazdaságból, állattenyésztésből, rizstermesztésből és pékáruk készítéséből él. Évente megrendezik itt a Nemzeti Chipa Fesztivált, egy háromnapos ünnepet zenével, tánccal és versenyekkel a legjobb chipáért. A városon átfut a fontos vasútvonal nyoma is.",
       ro: "Coronel Bogado, un oraș al departamentului Itapúa din sudul Paraguayului, se află la aproximativ 50 de kilometri nord-vest de Encarnación, pe Ruta 1, între Asunción și granița cu Argentina. Este adesea numit „Capital Nacional de la Chipa”, deoarece tradiționala pâine de porumb cu brânză și anason, parte integrantă a gastronomiei paraguayene, este coaptă aici cu o calitate deosebită și transmisă din generație în generație. Orașul provine dintr-o așezare de la începutul secolului al XIX-lea și a fost fondat oficial în 1845 sub numele Paraje Ka'i Puente; numele actual i-a fost dat în onoarea colonelului José María Bogado, erou al Războiului Triplei Alianțe. Cu aproximativ 25 000 de locuitori, Coronel Bogado trăiește din agricultură, creșterea vitelor, cultura orezului și tradiția produselor de panificație. În fiecare an aici se desfășoară Festivalul Național al Chipei, un eveniment de trei zile cu muzică, dans și concursuri pentru cea mai bună chipa, atragând turiști din toată țara.",
       en: "Coronel Bogado, a town in the Itapúa Department of southern Paraguay, lies about 50 kilometres north-west of Encarnación along Route 1, the highway linking Asunción to the Argentine border. It is widely known as the Capital Nacional de la Chipa, the national capital of chipa, since this traditional corn-flour bread with cheese and anise, a staple of Paraguayan cuisine, is baked here to a particularly fine standard and passed down through generations. The town traces back to an early-nineteenth-century settlement and was officially founded in 1845 under the name Paraje Ka'i Puente; it was renamed in honour of Colonel José María Bogado, a hero of the War of the Triple Alliance. With around 25 000 inhabitants Coronel Bogado relies mainly on agriculture, cattle ranching, rice cultivation and its renowned bakery tradition. Every year it hosts the National Chipa Festival, a three-day event with music, dance and competitions for the best chipa, drawing visitors from across the country."
-    }
-  },
+    }, image: "/poi-images/coronel-bogado-cities-v2.webp"},
   {
     id: "san-estanislao-cities-v2",
     type: "city",
@@ -1412,8 +1374,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "San Estanislao, népszerű nevén csak „Santaní”, San Pedro megye központi-északi részén fekvő város, mintegy 170 kilométerre északkeletre Asuncióntól, fontos közlekedési útvonalon Concepción és Pedro Juan Caballero felé. A települést 1749-ben alapították jezsuita misszionáriusok San Estanislao redukcióként, a lengyel Szent Szaniszló Kosztka tiszteletére. A jezsuiták 1768-as kiűzéséig Spanyol-Amerikából a város fontos vallási és gazdasági központ volt. A Hármas Szövetség elleni háborúban Francisco Solano López marsall ideiglenesen egy itteni jezsuita épületet használt főhadiszállásként. Ma Santaní mintegy 70 000 lakosú, és a régió egyik leggyorsabban növekvő városa. Gazdasága a marhatenyésztésen, szójatermelésen, szezámmagtermesztésen és élénk kereskedelmen alapul. Látnivalói a történelmi plébániatemplom, a Mariscal López tér és az november 13-i évenkénti patrónusi ünnep, amelyre az egész régióból érkeznek látogatók. A városban van egy nagy regionális kórház és technikai főiskola is.",
       ro: "San Estanislao, cunoscut popular drept „Santaní”, este un oraș al departamentului San Pedro din centrul-nordul Paraguayului. Se află la aproximativ 170 de kilometri nord-est de Asunción, pe o axă rutieră importantă spre Concepción și Pedro Juan Caballero. Așezarea a fost fondată în 1749 de misionari iezuiți sub numele de reducerea San Estanislao, în onoarea sfântului polonez Stanislaus Kostka. Până la expulzarea iezuiților din America spaniolă în 1768, orașul a fost un important centru religios și economic. În timpul Războiului Triplei Alianțe, Mareșalul Francisco Solano López a folosit temporar o clădire iezuită locală drept cartier general. Astăzi Santaní are aproximativ 70 000 de locuitori și este unul dintre cele mai rapid crescânde orașe din regiune. Economic se bazează pe creșterea vitelor, cultura sojei, producția de susan și un comerț activ. De vizitat sunt biserica parohială istorică, Piața Mariscal López și sărbătoarea anuală a hramului din 13 noiembrie.",
       en: "San Estanislao, popularly known simply as Santaní, is a city in the San Pedro Department in north-central Paraguay. It lies about 170 kilometres north-east of Asunción along a major route toward Concepción and Pedro Juan Caballero. The settlement was founded in 1749 by Jesuit missionaries as the reduction of San Estanislao, named after the Polish saint Stanislaus Kostka. Until the expulsion of the Jesuits from Spanish America in 1768 the town was an important religious and economic centre. During the War of the Triple Alliance Marshal Francisco Solano López temporarily used a local Jesuit building as his headquarters. Today Santaní has around 70 000 inhabitants and is one of the fastest-growing cities in the region. Economically it relies on cattle ranching, soybean farming, sesame production and lively commerce. Highlights include the historic parish church, Plaza Mariscal López and the annual patronal feast on 13 November, which draws visitors from all over the region."
-    }
-  },
+    }, image: "/poi-images/san-estanislao-cities-v2.webp"},
   {
     id: "horqueta-cities-v2",
     type: "city",
@@ -1437,8 +1398,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Horqueta a paraguayi Concepción megyében fekszik, az ország északi részén, mintegy 50 kilométerre délkeletre Concepcióntól, egy olyan régióban, amelyet a yerba mate, a dohány, a manióka és a szarvasmarha-tenyésztés ural. A várost 1864-ben alapították, és a 20. század folyamán Paraguay egyik legjelentősebb dohánytermelőjévé vált; a dohányipar ma is fontos gazdasági tényező, több szárító- és feldolgozó üzemmel. Mintegy 65 000 lakosával Horqueta a megye második legnagyobb városa. Lakói főként kisparaszti gazdálkodással és állattenyésztéssel foglalkoznak. Nevezetességei a történelmi San Isidro Labrador plébániatemplom, a helyi specialitásokat kínáló Mercado Municipal és az augusztusban rendezett Festival del Tabaco dohányünnep. A környéken számos nagy estancia és dohányültetvény található, amelyek megőrzik a régió hagyományos vidéki jellegét. A város fontos ellátási pont a Concepción megyében élő vidéki lakosság számára, és itt található egy regionális kórház is.",
       ro: "Horqueta, un oraș al departamentului Concepción din nordul Paraguayului, se află la aproximativ 50 de kilometri sud-est de Concepción, într-o regiune în care agricultura este dominată de yerba mate, tutun, manioc și creșterea vitelor. Orașul a fost fondat în 1864 și s-a dezvoltat în secolul al XX-lea ca unul dintre cei mai importanți producători de tutun din Paraguay; și astăzi industria tutunului rămâne un factor economic important, cu mai multe instalații de uscare și prelucrare. Cu aproximativ 65 000 de locuitori, Horqueta este al doilea oraș ca mărime al departamentului. Locuitorii trăiesc în principal din agricultura de mici dimensiuni și creșterea vitelor. De vizitat sunt biserica parohială istorică San Isidro Labrador, Mercado Municipal cu specialități locale și Festivalul Tutunului din august. În împrejurimi se află numeroase moșii mari și plantații de tutun care păstrează caracterul rural tradițional al regiunii. Orașul este un punct important de aprovizionare pentru populația rurală din Concepción.",
       en: "Horqueta, a town in the Concepción Department of northern Paraguay, lies about 50 kilometres south-east of the departmental capital in a region where agriculture is dominated by yerba mate, tobacco, cassava and cattle ranching. The town was founded in 1864 and grew over the twentieth century into one of Paraguay's most important tobacco producers; the tobacco industry is still a major economic factor, with several drying and processing facilities. With around 65 000 inhabitants Horqueta is the second-largest town in the department. Its residents live primarily from smallholder agriculture and cattle ranching. Notable sights include the historic parish church of San Isidro Labrador, the Mercado Municipal with its local specialities and the August Festival del Tabaco. The surrounding countryside features numerous large estancias and tobacco plantations that preserve the traditional rural character of the region. The town is an essential supply hub for the rural population of Concepción department, with a regional hospital."
-    }
-  },
+    }, image: "/poi-images/horqueta-cities-v2.webp"},
   {
     id: "capitan-bado-cities-v2",
     type: "city",
@@ -1512,8 +1472,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Eusebio Ayala, korábban Barrero Grande néven ismert, a paraguayi Cordillera megye egyik városa, mintegy 72 kilométerre keletre Asuncióntól a 2-es úton. 1733-ban alapították, és 1947-ben átnevezték Eusebio Ayala volt elnök tiszteletére, aki Paraguayt a Bolívia elleni Chaco-háború idején vezette. A város történelmi hírnevét az 1811-es Tacuarí-i csatának köszönheti, amelyben a paraguayi csapatok legyőzték Manuel Belgrano argentin hadseregét, megnyitva az utat Paraguay függetlensége felé. Jelenleg mintegy 25 000 lakosa van. Eusebio Ayala országszerte ismert fazekas- és kosárfonó hagyományáról; az évente júniusban megrendezett Karbid-fesztivál, amelyen karbidlámpákkal történelmi csatákat játszanak újra, ezreket vonz. Gazdasága mezőgazdaságon, kézművességen, kis turizmuson és Asuncióni ingázáson alapul. Látnivalói a történelmi plébániatemplom és a Mercado Artesanal hagyományos cserépkorsóival és tárgyaival, valamint az évente megrendezett kulturális ünnepek.",
       ro: "Eusebio Ayala, cunoscut anterior sub numele de Barrero Grande, este un oraș al departamentului Cordillera, situat la aproximativ 72 de kilometri est de Asunción, pe Ruta 2. A fost fondat în 1733 și redenumit în 1947 în onoarea fostului președinte Eusebio Ayala, care a condus Paraguayul în timpul Războiului din Chaco împotriva Boliviei. Orașul a devenit istoric celebru prin Bătălia de la Tacuarí din 1811, în care trupele paraguayene au învins armata argentiniană condusă de Manuel Belgrano, deschizând calea independenței Paraguayului. Astăzi orașul are aproximativ 25 000 de locuitori. Eusebio Ayala este renumit în toată țara pentru tradiția sa de olărit și împletituri de coșuri; festivalul anual al carbidului din iunie, în care se reconstituie bătălii istorice cu lămpi cu carbid, atrage mii de vizitatori. Economic, orașul se bazează pe agricultură, artizanat, mic turism și navetism către Asunción. De vizitat sunt biserica parohială și Mercado Artesanal.",
       en: "Eusebio Ayala, formerly known as Barrero Grande, is a town in the Cordillera Department, about 72 kilometres east of Asunción along Route 2. It was founded in 1733 and renamed in 1947 in honour of former President Eusebio Ayala, who led Paraguay during the Chaco War against Bolivia. Historically the town became famous through the Battle of Tacuarí in 1811, in which Paraguayan forces defeated the Argentine army under Manuel Belgrano, paving the way for Paraguayan independence. Today the town has around 25 000 inhabitants. Eusebio Ayala is nationally renowned for its pottery and basket-weaving traditions; the annual June Carbide Festival, during which historical battles are re-enacted using carbide lamps, draws thousands of visitors. Economically the town relies on agriculture, handicrafts, modest tourism and commuting to Asunción. Notable sights include the historic parish church and the Mercado Artesanal with its traditional clay vessels and woven items, alongside the annual cultural celebrations."
-    }
-  },
+    }, image: "/poi-images/eusebio-ayala-cities-v2.webp"},
   {
     id: "piribebuy-cities-v2",
     type: "city",
@@ -1537,8 +1496,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Piribebuy a paraguayi Cordillera megye egyik városa az ország központi régiójában, mintegy 75 kilométerre keletre Asuncióntól, a Piribebuy folyó mentén, dombos tájon, az Altos hegylánc lábánál. 1640-ben alapították ferences redukcióként, így az ország egyik legrégebbi városa. A paraguayi történelemben Piribebuyt az 1869. augusztus 12-i piribebuyi csata tette híressé, amelyben a paraguayi védők – köztük nők és gyerekek – kétségbeesetten próbálták feltartóztatni a brazil csapatokat; a védők lemészárlása a Hármas Szövetség elleni háború egyik legtragikusabb eseménye. Akkoriban a város Paraguay ideiglenes fővárosa volt. Ma mintegy 25 000 lakosa él itt, akik főként mezőgazdaságból, cukornádtermesztésből és turizmusból élnek. Nevezetességei a történelmi plébániatemplom, a Hősök Múzeuma és a közeli Salto Cristal, egy gyönyörű vízesés a hegyvidékben, amely természetjárókat és turistákat vonz a régióba.",
       ro: "Piribebuy, un oraș al departamentului Cordillera din regiunea centrală a Paraguayului, se află la aproximativ 75 de kilometri est de Asunción, pe râul Piribebuy, într-un peisaj deluros la poalele Cordillerei de los Altos. A fost fondat în 1640 ca reducere franciscană, fiind unul dintre cele mai vechi orașe ale țării. Piribebuy a devenit celebru în istoria paraguayană prin Bătălia de la Piribebuy din 12 august 1869, în care apărătorii paraguayeni — inclusiv femei și copii — au încercat disperat să oprească trupele braziliene; masacrul apărătorilor este considerat unul dintre cele mai tragice episoade ale Războiului Triplei Alianțe. La acea vreme, orașul era capitala provizorie a Paraguayului. Astăzi trăiesc aici aproximativ 25 000 de locuitori, care depind în principal de agricultură, cultura trestiei de zahăr și turism. De vizitat sunt biserica parohială istorică, Muzeul Eroilor și apropiatul Salto Cristal.",
       en: "Piribebuy, a town in the Cordillera Department in central Paraguay, lies about 75 kilometres east of Asunción along the Piribebuy River in a hilly landscape at the foot of the Cordillera de los Altos. It was founded in 1640 as a Franciscan reduction and is one of the oldest towns in the country. Piribebuy gained historical fame through the Battle of Piribebuy on 12 August 1869, in which Paraguayan defenders — including women and children — fought desperately to halt the Brazilian troops; the massacre of the defenders is regarded as one of the most tragic episodes of the War of the Triple Alliance. At that time the town was the provisional capital of Paraguay. Today around 25 000 people live here, working mainly in agriculture, sugar-cane farming and tourism. Notable sights include the historic parish church, the Heroes' Museum and the nearby Salto Cristal, a beautiful waterfall in the mountains."
-    }
-  },
+    }, image: "/poi-images/piribebuy-cities-v2.webp"},
   {
     id: "independencia-cities-v2",
     type: "city",
@@ -1562,8 +1520,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Independencia a paraguayi Guairá megye egyik kis városa Közép-Paraguayban, az Ybytyruzú-hegy lábánál, amely a régió legmagasabb hegye, és országosan „Paraguayi Kis-Bajorország” néven ismert. A várost 1919-ben német bevándorlók alapították, akik az első világháború után telepedtek le itt mezőgazdasági kolóniák létrehozása céljából. A német kultúra ma is meghatározza a városképet: német pékségek, sörfőzdék, sonkagyárak, valamint évente megrendezésre kerülő Oktoberfest és sörfesztivál vonzza az ország minden tájáról a turistákat. Mintegy 20 000 lakosával Independencia népszerű kirándulóhely, különösen a természetjárók és a természet szerelmesei számára, mivel a környező Ybytyruzú-hegység természetvédelmi terület vízesésekkel, erdőkkel és kirándulóutakkal. Gazdasága a borászaton, sajtkészítésen, gyümölcstermesztésen, mezőgazdaságon és ökoturizmuson alapul. Számos borgazdaság kínál tipikus német-paraguayi borkóstolókat és estancia-szállást is.",
       ro: "Independencia, un mic oraș al departamentului Guairá din centrul Paraguayului, se află la poalele dealului Ybytyruzú, cel mai înalt vârf al regiunii, și este cunoscut în toată țara drept „Mica Bavaria” paraguayană. Orașul a fost fondat în 1919 de imigranți germani care s-au stabilit aici după Primul Război Mondial pentru a crea colonii agricole. Cultura germană marchează și astăzi peisajul urban: există brutării germane, fabrici de bere, fabrici de șuncă, precum și un Oktoberfest anual și un festival al berii care atrag turiști din toată țara. Cu aproximativ 20 000 de locuitori, Independencia este o destinație populară, mai ales pentru drumeți și iubitorii de natură, deoarece Sierra de Ybytyruzú din împrejurimi este o arie protejată cu cascade, păduri și trasee de drumeție. Economic, orașul se bazează pe viticultură, producția de brânzeturi, cultivarea fructelor, agricultură și ecoturism. Mai multe podgorii oferă degustări de vinuri germano-paraguayene tipice și cazare la estancia.",
       en: "Independencia, a small town in the Guairá Department of central Paraguay, lies at the foot of Mount Ybytyruzú, the highest peak in the region, and is widely known as the Paraguayan Little Bavaria. The town was founded in 1919 by German immigrants who settled here after the First World War to establish agricultural colonies. German culture still shapes the cityscape today: German bakeries, breweries and ham factories operate here, along with an annual Oktoberfest and beer festival that draw tourists from across the country. With around 20 000 inhabitants Independencia is a popular destination, especially for hikers and nature lovers, as the surrounding Sierra de Ybytyruzú is a protected area with waterfalls, forests and hiking trails. Economically the town relies on viticulture, cheese production, fruit farming, agriculture and ecotourism. Several wineries offer tastings of typical German-Paraguayan wines and accommodation on estancias."
-    }
-  },
+    }, image: "/poi-images/independencia-cities-v2.webp"},
   {
     id: "carapegua-cities-v2",
     type: "city",
@@ -1587,8 +1544,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Carapeguá a paraguayi Paraguarí megye egyik városa az ország déli részén, mintegy 84 kilométerre délkeletre Asuncióntól az 1-es úton, amely a legfontosabb út az argentin határhoz. 1725-ben alapították ferences szerzetesek, és a paraguayi kézművesség egyik legjelentősebb központjává vált. Carapeguá országosan híres a Poyví és Ao Po'í készítéséről – finom pamutszövetek és hímzett ingek, amelyeket hagyományos mintákkal díszítenek, és a paraguayi kultúra szimbólumai. Jelenleg mintegy 35 000 lakosa él itt, sokan közülük a textilüzemekben dolgoznak. Gazdasága a textiltermelésen, mezőgazdaságon, cukornádfeldolgozáson és sajtkészítésen alapul. Évente megrendezik itt a Festival del Poyví színes kulturális eseményt, amely divatbemutatókkal, zenével és tánccal ezreket vonz. Nevezetességei a 18. századi történelmi plébániatemplom és a Mercado Artesanal a hagyományos hímzésekkel és kézzel készített ruhákkal, amelyek a helyi mesterek munkáit tükrözik.",
       ro: "Carapeguá, un oraș al departamentului Paraguarí din sudul Paraguayului, se află la aproximativ 84 de kilometri sud-est de Asunción, pe Ruta 1, principala șosea spre granița cu Argentina. A fost fondat în 1725 de călugări franciscani și s-a dezvoltat ca unul dintre cele mai importante centre ale artizanatului paraguayan. Carapeguá este renumit în toată țara pentru fabricarea de Poyví și Ao Po'í — pânze fine de bumbac și cămăși brodate, decorate cu modele tradiționale și considerate simboluri ale culturii paraguayene. Astăzi trăiesc în comună aproximativ 35 000 de locuitori, dintre care mulți lucrează în atelierele textile. Economic, orașul se bazează pe producția textilă, agricultură, prelucrarea trestiei de zahăr și producția de brânzeturi. Anual aici se desfășoară Festivalul Poyví, un eveniment cultural plin de culoare cu prezentări de modă, muzică și dans, care atrage mii de vizitatori. De vizitat sunt biserica parohială istorică din secolul al XVIII-lea și Mercado Artesanal.",
       en: "Carapeguá, a town in the Paraguarí Department of southern Paraguay, lies about 84 kilometres south-east of Asunción along Route 1, the country's main road to the Argentine border. It was founded in 1725 by Franciscan friars and developed into one of the most important centres of Paraguayan handicrafts. Carapeguá is nationally famous for the production of Poyví and Ao Po'í — fine cotton fabrics and embroidered shirts decorated with traditional patterns that are considered symbols of Paraguayan culture. Today around 35 000 people live in the municipality, many of them employed in textile workshops. Economically the town relies on textile production, agriculture, sugar-cane processing and cheese making. The annual Festival del Poyví, a colourful cultural event with fashion shows, music and dance, draws thousands of visitors. Notable sights include the historic eighteenth-century parish church and the Mercado Artesanal with its traditional embroidery and handmade garments reflecting local artisanship."
-    }
-  },
+    }, image: "/poi-images/carapegua-cities-v2.webp"},
   {
     id: "san-ignacio-guazu-cities-v2",
     type: "city",
@@ -1612,8 +1568,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "San Ignacio Guazú a paraguayi Misiones megye egyik városa az ország déli részén, mintegy 226 kilométerre délre Asuncióntól az 1-es úton, és Paraguay legrégebbi jezsuita missziója. 1609-ben alapították Marciel de Lorenzana és Francisco de San Martín jezsuita atyák, mint az első redukció Paraguay tartományban, még a híres trinidadi misszió előtt. A név „Nagy San Ignaciót” jelenti, az alapító, Loyolai Szent Ignác tiszteletére. A jezsuiták 1768-as kiűzéséig a misszió a guaraní indiánok evangelizációjának központjaként virágzott. Ma a városnak mintegy 30 000 lakosa van, és fontos kulturális és igazgatási központ. A San Ignacio Guazú Jezsuita Múzeum Latin-Amerika egyik legjelentősebb jezsuita szakrális műgyűjteményét őrzi, több mint 100 fafaragott szoborral, amelyeket guaraní művészek készítettek a páterek vezetésével. Gazdasága a marhatenyésztésen, rizstermesztésen, turizmuson és közigazgatáson alapul, és évente vonzza a kultúrát kedvelő látogatókat.",
       ro: "San Ignacio Guazú, un oraș al departamentului Misiones din sudul Paraguayului, se află la aproximativ 226 de kilometri sud de Asunción, pe Ruta 1, fiind cea mai veche misiune iezuită din Paraguay. A fost fondat în 1609 de iezuiții Marciel de Lorenzana și Francisco de San Martín ca prima reducere din provincia Paraguay, înainte chiar de celebra misiune Trinidad. Numele înseamnă „Marele San Ignacio”, în onoarea fondatorului ordinului, Sfântul Ignațiu de Loyola. Până la expulzarea iezuiților în 1768, misiunea a înflorit ca centru al evanghelizării indigenilor guarani. Astăzi orașul are aproximativ 30 000 de locuitori și este un important centru cultural și administrativ. Muzeul Iezuit San Ignacio Guazú găzduiește una dintre cele mai importante colecții de artă sacră iezuită din America Latină, cu peste 100 de statui din lemn realizate de artiști guarani sub îndrumarea părinților. Economic, orașul se bazează pe creșterea vitelor, cultura orezului, turism și administrație.",
       en: "San Ignacio Guazú, a town in the Misiones Department of southern Paraguay, lies about 226 kilometres south of Asunción along Route 1 and is the oldest of the Jesuit missions of Paraguay. It was founded in 1609 by the Jesuit fathers Marciel de Lorenzana and Francisco de San Martín as the first reduction in the Province of Paraguay, even before the famous mission of Trinidad. The name means Great San Ignacio in honour of the order's founder, Saint Ignatius of Loyola. Until the expulsion of the Jesuits in 1768 the mission flourished as a centre for the evangelisation of the Guaraní people. Today the town has around 30 000 inhabitants and is an important cultural and administrative centre. The San Ignacio Guazú Jesuit Museum houses one of the most important collections of Jesuit sacred art in Latin America, with more than 100 wooden statues carved by Guaraní artists under the guidance of the fathers. Economically the town relies on cattle ranching, rice farming, tourism and public administration."
-    }
-  },
+    }, image: "/poi-images/san-ignacio-guazu-cities-v2.webp"},
   {
     id: "loma-plata-cities-v2",
     type: "city",
@@ -1637,8 +1592,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Loma Plata a paraguayi Chaco központjában, a Boquerón megyében található város, Paraguay legrégebbi mennonita települése és a Chortitzer Komitee Szövetkezet székhelye. 1927-ben alapították oroszországi németajkú mennoniták, akik a Szovjetunióból Kanadán keresztül menekültek Paraguayba, hogy a barátságtalan félsivatagban új, zárt hitközösséget alakítsanak ki. Mintegy 12 000 lakosával a város a Menno kolónia gazdasági szíve és a Cooperativa Chortitzer székhelye, amely Dél-Amerika egyik legjelentősebb tejszövetkezete, és olyan márkákat tett ismertté, mint a Trébol. Loma Plata egyúttal a sikeres sivatagi kolonizáció iskolapéldája: úttörői munka, kútfúrás, marhatenyésztés és ipari tejfeldolgozás alakította át a régiót egy agrármotorrá. Nevezetességei a Menno-kolónia történeti múzeuma és a mennonita úttörők archívuma, ahol az első telepesek fényképei és dokumentumai megtekinthetők, hűen megőrizve a közösség alapításának nehéz történetét.",
       ro: "Loma Plata, un oraș al departamentului Boquerón din centrul Chaco-ului paraguayan, este cea mai veche așezare menonită din Paraguay și sediul cooperativei Chortitzer Komitee. A fost fondat în 1927 de menoniți germani din Rusia, care au fugit din Uniunea Sovietică prin Canada în Paraguay pentru a clădi în semideșertul ostil o nouă comunitate religioasă închisă. Cu aproximativ 12 000 de locuitori, orașul este inima economică a coloniei Menno și sediul Cooperativei Chortitzer, una dintre cele mai importante cooperative lactate din America de Sud, care a făcut cunoscute mărci precum Trébol cu mult dincolo de Paraguay. Loma Plata este și un exemplu de colonizare reușită a deșertului: munca de pionierat, săparea de fântâni, creșterea vitelor și prelucrarea industrială a laptelui au transformat regiunea într-un motor agricol. De vizitat sunt Muzeul Istoriei Coloniei Menno și arhiva pionierilor menoniți cu fotografii și documente.",
       en: "Loma Plata, a town in the Boquerón Department in the central Paraguayan Chaco, is the oldest Mennonite settlement in Paraguay and the headquarters of the Chortitzer Komitee Cooperative. It was founded in 1927 by German-Russian Mennonites who fled the Soviet Union via Canada to Paraguay in order to build a new, closed faith community in the inhospitable semi-desert. With around 12 000 inhabitants the town is the economic heart of the Menno Colony and the seat of the Cooperativa Chortitzer, one of the most important dairy cooperatives in South America, which has made brands such as Trébol famous far beyond Paraguay. Loma Plata is also a textbook example of successful desert colonisation: pioneering labour, well-drilling, cattle ranching and industrial dairy processing have turned the region into an agricultural powerhouse. Notable sights include the Menno Colony History Museum and the Mennonite pioneer archive with photographs and documents of the first settlers."
-    }
-  },
+    }, image: "/poi-images/loma-plata-cities-v2.webp"},
   {
     id: "mariscal-estigarribia-cities-v2",
     type: "city",
@@ -1662,8 +1616,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Mariscal Estigarribia a paraguayi Boquerón megye egyik városa a Chaco legnyugatibb részén, mintegy 530 kilométerre északnyugatra Asuncióntól a Transchaco úton, és a bolíviai határ előtti utolsó nagyobb ellátási központnak számít. A várost 1945-ben alapították katonai településként, és José Félix Estigarribia marsallról nevezték el, aki a Bolívia elleni Chaco-háborúban (1932–1935) a paraguayi haderők győztes főparancsnoka volt. A katonaság ma is meghatározza a városképet: itt található a legfontosabb paraguayi katonai bázis a Chacóban, Dél-Amerika egyik leghosszabb leszállópályájával. Mintegy 12 000 lakosával – köztük mennonita szövetkezeti tagok, paraguayi katonacsaládok és bennszülött Nivaclé és Ayoreo közösségek – Mariscal Estigarribia interkulturális hely. Gazdasága a marhatenyésztésen, katonai infrastruktúrán, ellátási kereskedelmen alapul, és a szomszédos Bolíviába tartó utazások kiindulópontja, fontos szerepet játszva a régió közlekedésében.",
       ro: "Mariscal Estigarribia, un oraș al departamentului Boquerón din vestul extrem al Chaco-ului paraguayan, se află la aproximativ 530 de kilometri nord-vest de Asunción, pe Ruta Transchaco, fiind ultimul mare centru de aprovizionare înainte de granița cu Bolivia. Orașul a fost fondat în 1945 ca așezare militară și poartă numele Mareșalului José Félix Estigarribia, comandantul victorios al forțelor paraguayene în Războiul din Chaco împotriva Boliviei (1932–1935). Armata definește și astăzi peisajul urban: aici se află cea mai importantă bază militară paraguayană din Chaco, cu una dintre cele mai lungi piste de aterizare din America de Sud. Cu aproximativ 12 000 de locuitori — inclusiv menoniți cooperatiști, familii de militari paraguayeni și comunități indigene nivaclé și ayoreo — Mariscal Estigarribia este un loc intercultural. Economic, orașul se bazează pe creșterea vitelor, infrastructura militară, comerțul de aprovizionare și este punctul de plecare spre Bolivia.",
       en: "Mariscal Estigarribia, a town in the Boquerón Department in the far west of the Paraguayan Chaco, lies about 530 kilometres north-west of Asunción along the Trans-Chaco Highway and is regarded as the last major supply centre before the border with Bolivia. The town was founded in 1945 as a military settlement and named after Marshal José Félix Estigarribia, the victorious commander-in-chief of the Paraguayan forces in the Chaco War against Bolivia (1932–1935). The military still defines the cityscape today: it hosts the most important Paraguayan military base in the Chaco with one of the longest runways in South America. With around 12 000 inhabitants — including Mennonite cooperative members, Paraguayan military families and indigenous Nivaclé and Ayoreo communities — Mariscal Estigarribia is an intercultural place. Economically the town relies on cattle ranching, military infrastructure, supply trade and serves as a gateway to neighbouring Bolivia."
-    }
-  },
+    }, image: "/poi-images/mariscal-estigarribia-cities-v2.webp"},
   {
     id: "j-augusto-saldivar-cities-v2",
     type: "city",
@@ -1687,8 +1640,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "J. Augusto Saldívar a paraguayi Central megye egyik városa, mintegy 25 kilométerre délkeletre Asuncióntól, és a főváros metropolitán területéhez tartozik. 1945-ben alapították önálló községként, és Justo Augusto Saldívar paraguayi politikusról és diplomatáról nevezték el, aki a két világháború közötti időszakban játszott jelentős szerepet. Mintegy 60 000 lakosával a város dinamikus lakóhellyé vált, ahol sok asuncióni család telepszik le, mivel a lakásárak alacsonyabbak, mint a fővárosban. Gazdasága az ingázáson, kisiparon, téglagyártáson, állattartáson és a tágabb környék mezőgazdaságán alapul. Jellegzetes a város kiterjedt lakónegyedei, amelyek az 1-es út mentén húzódnak, valamint a központi piactér, ahol naponta friss termékeket árulnak a régióból. A plébániatemplom és a Szent Ágoston napján megrendezett éves patrónusi ünnep meghatározza a városi életet és a helyi vallási hagyományokat.",
       ro: "J. Augusto Saldívar, un oraș al departamentului Central, se află la aproximativ 25 de kilometri sud-est de Asunción și aparține zonei metropolitane a capitalei. A fost fondat în 1945 ca municipalitate independentă și poartă numele politicianului și diplomatului paraguayan Justo Augusto Saldívar, care a jucat un rol important în perioada interbelică. Cu aproximativ 60 000 de locuitori, orașul s-a dezvoltat ca o zonă rezidențială dinamică, unde se stabilesc multe familii din Asunción, deoarece prețurile locuințelor sunt mai mici decât în capitală. Economic, orașul se bazează pe navetism, mica industrie, producția de cărămizi, creșterea animalelor și agricultura din împrejurimi. Caracteristice orașului sunt cartierele rezidențiale extinse care se întind de-a lungul Rutei 1, precum și piața centrală, unde zilnic se comercializează produse proaspete din regiune. Biserica parohială și sărbătoarea anuală a hramului în ziua Sfântului Augustin definesc viața urbană.",
       en: "J. Augusto Saldívar, a city in the Central Department, lies about 25 kilometres south-east of Asunción and belongs to the capital's metropolitan area. It was established as an independent municipality in 1945 and named after the Paraguayan politician and diplomat Justo Augusto Saldívar, who played a significant role in the interwar period. With around 60 000 inhabitants the town has developed into a dynamic residential area where many families from Asunción settle because housing prices are lower than in the capital. Economically the city relies on commuting, small-scale industry, brick production, animal husbandry and agriculture in the wider surroundings. Characteristic of the town are its extensive residential neighbourhoods stretching along Route 1 and the central market square where fresh produce from the region is traded daily. The parish church and the annual patronal feast on Saint Augustine's day shape local life."
-    }
-  },
+    }, image: "/poi-images/j-augusto-saldivar-cities-v2.webp"},
   {
     id: "san-alberto-cities-v2",
     type: "city",
@@ -1712,8 +1664,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "San Alberto a paraguayi Alto Paraná megye egyik városa az ország keleti részén, mintegy 80 kilométerre északra Ciudad del Estétől, egy termékeny, szója-, kukorica- és búzatermesztés által uralt mezőgazdasági régióban. 1973-ban alapították a Stroessner-kormány állami kolonizációs politikája keretében, amely brazil és mennonita bevándorlókat irányított a korábbi atlanti erdőterületre a régió mezőgazdasági fejlesztése érdekében. Mintegy 35 000 lakosával, akiknek nagy része portugálul beszél, San Alberto tipikus „brasiguayo” központ kifejezett brazil kultúrával, építészettel és életmóddal. Gazdasága a szója-, kukoricatermesztésen, gabonatermelésen, marhatenyésztésen és logisztikán alapul. Itt található több nagy szövetkezet, szójamalom és gépkereskedés, amelyek a helyi gazdaság gerincét alkotják. Nevezetességei a modern katolikus plébániatemplom és a Mercado Municipal brazil specialitásokkal és tipikus dél-amerikai termékekkel, ahol a helyi sokszínűség is megmutatkozik.",
       ro: "San Alberto, un oraș al departamentului Alto Paraná din estul Paraguayului, se află la aproximativ 80 de kilometri nord de Ciudad del Este, într-o regiune agricolă fertilă dominată de cultura sojei, porumbului și grâului. A fost fondat în 1973 în cadrul politicii de stat de colonizare a guvernului Stroessner, care a îndrumat imigranți brazilieni și menoniți spre fosta zonă a pădurii atlantice pentru a dezvolta regiunea agricol. Cu aproximativ 35 000 de locuitori, dintre care o mare parte vorbesc portugheza, San Alberto este un tipic centru „brasiguayo” cu o cultură, arhitectură și mod de viață brazilian pronunțat. Economic, orașul se bazează pe cultura sojei, porumbului, producția de cereale, creșterea vitelor și logistică. Aici se află mai multe cooperative mari, mori de soia și comercianți de utilaje, care formează coloana vertebrală a economiei locale. De vizitat sunt biserica parohială catolică modernă și Mercado Municipal cu specialități braziliene.",
       en: "San Alberto, a town in the Alto Paraná Department of eastern Paraguay, lies about 80 kilometres north of Ciudad del Este in a fertile agricultural region dominated by soybean, maize and wheat farming. It was founded in 1973 under the Stroessner government's state colonisation policy, which directed Brazilian and Mennonite immigrants into the former Atlantic Forest area to develop the region agriculturally. With around 35 000 inhabitants, a large share of whom speak Portuguese, San Alberto is a typical Brasiguayo centre with a pronounced Brazilian culture, architecture and way of life. Economically the town relies on soybean and maize farming, grain production, cattle ranching and logistics. It is home to several large cooperatives, soybean mills and machinery dealerships that form the backbone of the local economy. Notable sights include the modern Catholic parish church and the Mercado Municipal offering Brazilian specialities and typical South American products."
-    }
-  },
+    }, image: "/poi-images/san-alberto-cities-v2.webp"},
   {
     id: "doctor-juan-leon-mallorquin-cities-v2",
     type: "city",
@@ -1737,8 +1688,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Doctor Juan León Mallorquín a paraguayi Alto Paraná megye egyik városa az ország keleti részén, mintegy 50 kilométerre nyugatra Ciudad del Estétől a 7-es úton, és a régió egyik legjelentősebb fa- és szójafeldolgozó központjaként ismert. 1947-ben alapították, és Juan León Mallorquín paraguayi orvosról és politikusról nevezték el, aki jelentős szerepet játszott az ország közéletében. A város az 1960-as és 1970-es évek állami kolonizációs politikája révén robbanásszerűen fejlődött, amikor brazil és német bevándorlók népesítették be a régiót és kiirtották az atlanti erdőterületet. Mintegy 25 000 lakosával Mallorquín ma elsősorban erdőgazdálkodásból, fűrészüzemekből, szója- és kukoricatermesztésből és logisztikából él. A gazdasági helyzet az utóbbi években stabilizálódott, mivel a fagazdálkodásból az intenzív mezőgazdaságba való átmenet sikeres volt. Nevezetességei a modern plébániatemplom, a Mercado Municipal és a regionális szövetkezeti központok.",
       ro: "Doctor Juan León Mallorquín, un oraș al departamentului Alto Paraná din estul Paraguayului, se află la aproximativ 50 de kilometri vest de Ciudad del Este, pe Ruta 7, fiind considerat unul dintre cele mai importante centre de prelucrare a lemnului și a sojei din regiune. A fost fondat în 1947 și poartă numele medicului și politicianului paraguayan Juan León Mallorquín, care a jucat un rol semnificativ în viața publică a țării. Orașul s-a dezvoltat rapid prin politica de stat de colonizare din anii 1960 și 1970, când imigranți brazilieni și germani au populat regiunea și au defrișat pădurea atlantică. Cu aproximativ 25 000 de locuitori, Mallorquín trăiește astăzi în principal din silvicultură, gatere, cultura sojei, porumbului și logistică. Situația economică s-a stabilizat în ultimii ani, deoarece tranziția de la economia forestieră la agricultura intensivă a fost încununată de succes. De vizitat sunt biserica parohială modernă, Mercado Municipal și sediile cooperativelor regionale.",
       en: "Doctor Juan León Mallorquín, a town in the Alto Paraná Department of eastern Paraguay, lies about 50 kilometres west of Ciudad del Este along Route 7 and is regarded as one of the most important timber and soybean processing centres in the region. It was founded in 1947 and named after the Paraguayan doctor and politician Juan León Mallorquín, who played a significant role in the country's public life. The town grew rapidly through the state colonisation policy of the 1960s and 1970s, when Brazilian and German immigrants settled the area and cleared the Atlantic Forest. With around 25 000 inhabitants Mallorquín today relies mainly on forestry, sawmills, soybean and maize farming and logistics. The economic situation has stabilised in recent years thanks to a successful transition from timber-based to intensive agricultural production. Notable sights include the modern parish church, the Mercado Municipal and the regional cooperative headquarters along Route 7."
-    }
-  },
+    }, image: "/poi-images/doctor-juan-leon-mallorquin-cities-v2.webp"},
   {
     id: "cambyreta-cities-v2",
     type: "city",
@@ -1762,8 +1712,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Cambyretá a paraguayi Itapúa megye egyik városa az ország déli részén, közvetlenül Encarnación északi szomszédja, és a megyeszékhellyel együtt egybefüggő metropolitán területet alkot. A név a guaraní nyelvből származik, és „Mellek helyét” jelenti, ami a régió dombos tájára utal. A várost 1979-ben ismerték el önálló községként, és a dinamikus Encarnación közelségének köszönhetően gyorsan kedvelt lakóterületté vált. Mintegy 50 000 lakosával Cambyretá nyugodtabb lakókörnyezetet kínál, mint Encarnación belvárosa, zöld lakónegyedekkel, iskolákkal, egyetemekkel és bevásárlóközpontokkal. Gazdasága az Encarnaciónba ingázáson, kisiparon, a tágabb környék mezőgazdaságán (rizs, szója, kukorica) és szolgáltatásokon alapul. Cambyretában több ipari park is található, és fontos oktatási központ az Itapúai Nemzeti Egyetem főkampuszával. Nevezetessége a modern plébániatemplom és a Centro Cultural, amely a helyi közösségi élet meghatározó helyszíne.",
       ro: "Cambyretá, un oraș al departamentului Itapúa din sudul Paraguayului, se află imediat la nord de Encarnación și formează împreună cu capitala departamentului o zonă metropolitană continuă. Numele provine din limba guarani și înseamnă aproximativ „locul sânilor”, făcând aluzie la peisajul deluros al regiunii. Orașul a fost recunoscut ca municipalitate independentă în 1979 și s-a dezvoltat rapid datorită apropierii de dinamicul Encarnación, devenind o zonă rezidențială preferată. Cu aproximativ 50 000 de locuitori, Cambyretá oferă un mediu rezidențial mai liniștit decât centrul orașului Encarnación, cu cartiere verzi, școli, universități și centre comerciale. Economic, orașul se bazează pe navetism către Encarnación, mica industrie, agricultura din împrejurimi (orez, soia, porumb) și servicii. Cambyretá găzduiește și mai multe parcuri industriale și este un important centru de învățământ cu campusul principal al Universității Naționale Itapúa. De vizitat sunt biserica parohială modernă și Centro Cultural.",
       en: "Cambyretá, a town in the Itapúa Department of southern Paraguay, lies directly north of Encarnación and together with the capital of the department forms a continuous metropolitan area. The name comes from Guaraní and means roughly the place of breasts, referring to the hilly landscape of the region. The town was recognised as an independent municipality in 1979 and developed rapidly thanks to its proximity to dynamic Encarnación, becoming a preferred residential area. With around 50 000 inhabitants Cambyretá offers a quieter living environment than central Encarnación, with green residential neighbourhoods, schools, universities and shopping centres. Economically the town relies on commuting to Encarnación, small-scale industry, agriculture in the wider surroundings (rice, soybeans, maize) and services. Cambyretá also hosts several industrial parks and is an important educational hub housing the main campus of the National University of Itapúa. Notable sights include the modern parish church and the Centro Cultural."
-    }
-  },
+    }, image: "/poi-images/cambyreta-cities-v2.webp"},
   {
     id: "san-pedro-del-parana-cities-v2",
     type: "city",
@@ -1787,8 +1736,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "San Pedro del Paraná a paraguayi Itapúa megye egyik városa az ország déli részén, mintegy 80 kilométerre nyugatra Encarnacióntól az 1-es úton, és a régió egyik legrégebbi városa. 1843-ban alapították, és Szent Péter apostolról és a Paraná folyóról nevezték el, amely a régió déli határát alkotja. Ma a városnak mintegy 30 000 lakosa van. San Pedro del Paraná országszerte ismert eperexportjáról: a környéken több ezer tonna epret termesztenek, amely évente a betakarítás idején vonzza a Festival de la Frutilla látogatóit. Gazdasága a mezőgazdaságon (eper, kukorica, szója, rizs), marhatenyésztésen és kis turizmuson alapul. Nevezetességei a 19. századi történelmi San Pedro Apostol plébániatemplom, a Mercado Municipal és a közeli Tebicuary folyó. A város a környező vidéki lakosság közigazgatási és oktatási központjaként is működik, élénk közösségi életet biztosítva a környező falvak lakóinak is.",
       ro: "San Pedro del Paraná, un oraș al departamentului Itapúa din sudul Paraguayului, se află la aproximativ 80 de kilometri vest de Encarnación, pe Ruta 1, fiind unul dintre cele mai vechi orașe ale regiunii. A fost fondat în 1843 și poartă numele apostolului Petru și al râului Paraná, care formează granița sudică a regiunii. Astăzi orașul are aproximativ 30 000 de locuitori. San Pedro del Paraná este cunoscut în toată țara pentru producția sa de căpșuni: în împrejurimi se cultivă mii de tone de căpșuni, care anual, la sezonul recoltei, atrag vizitatori la Festival de la Frutilla. Economic, orașul se bazează pe agricultură (căpșuni, porumb, soia, orez), creșterea vitelor și un mic turism. De vizitat sunt biserica parohială istorică San Pedro Apostol din secolul al XIX-lea, Mercado Municipal și apropiatul râu Tebicuary. Orașul funcționează și ca centru administrativ și educațional pentru populația rurală din împrejurimi.",
       en: "San Pedro del Paraná, a town in the Itapúa Department of southern Paraguay, lies about 80 kilometres west of Encarnación along Route 1 and is one of the oldest towns in the region. It was founded in 1843 and named after the apostle Saint Peter and the Paraná River, which forms the southern border of the region. Today the town has around 30 000 inhabitants. San Pedro del Paraná is known nationwide for its strawberry production: thousands of tonnes of strawberries are grown in the surrounding countryside, drawing visitors every year at harvest time to the Festival de la Frutilla. Economically the town relies on agriculture (strawberries, maize, soybeans, rice), cattle ranching and modest tourism. Notable sights include the historic nineteenth-century parish church of San Pedro Apostol, the Mercado Municipal and the nearby Tebicuary River. The town also functions as the administrative and educational hub for the surrounding rural population."
-    }
-  },
+    }, image: "/poi-images/san-pedro-del-parana-cities-v2.webp"},
   {
     id: "tomas-romero-pereira-cities-v2",
     type: "city",
@@ -1812,8 +1760,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Tomás Romero Pereira a paraguayi Itapúa megye egyik városa az ország déli részén, mintegy 100 kilométerre északkeletre Encarnacióntól, egy termékeny, mezőgazdaságilag jellemző régióban. 1955-ben alapították, és Tomás Romero Pereira paraguayi politikusról nevezték el, aki 1954-ben rövid ideig az ország ideiglenes elnöke volt, és lendületet adott az állami kolonizációs politikának. E politika keretében brazil, német és japán bevándorlók ezreit irányították a régióba, akik kiirtották a korábbi atlanti erdőterületet, és szója-, kukorica- és búzatermesztésre vonták művelésbe. Mintegy 25 000 lakosával Tomás Romero Pereira tipikus mezőgazdasági központ, multikulturális lakossággal. Gazdasága a szója-, kukorica-, búzatermesztésen, marhatenyésztésen, fűrészüzemeken és logisztikán alapul. Itt található több nagy szövetkezet és szójamalom, amelyek a helyi gazdaság gerincét alkotják. Nevezetességei a modern plébániatemplom és a Mercado Municipal mezőgazdasági specialitásokkal.",
       ro: "Tomás Romero Pereira, un oraș al departamentului Itapúa din sudul Paraguayului, se află la aproximativ 100 de kilometri nord-est de Encarnación, într-o regiune fertilă cu profil agricol. A fost fondat în 1955 și poartă numele politicianului paraguayan Tomás Romero Pereira, care a fost pe scurt președinte interimar al țării în 1954 și a impulsionat politica de stat de colonizare. În cadrul acestei politici, mii de imigranți brazilieni, germani și japonezi au fost îndrumați în regiune, defrișând fosta pădure atlantică pentru cultura sojei, porumbului și grâului. Cu aproximativ 25 000 de locuitori, Tomás Romero Pereira este un tipic centru agricol cu populație multiculturală. Economic, orașul se bazează pe cultura sojei, porumbului, grâului, creșterea vitelor, gatere și logistică. Aici se află mai multe cooperative mari și mori de soia, care formează coloana vertebrală a economiei locale. De vizitat sunt biserica parohială modernă și Mercado Municipal cu specialități agricole.",
       en: "Tomás Romero Pereira, a town in the Itapúa Department of southern Paraguay, lies about 100 kilometres north-east of Encarnación in a fertile, agriculturally shaped region. It was founded in 1955 and named after the Paraguayan politician Tomás Romero Pereira, who briefly served as provisional president of the country in 1954 and drove the state colonisation policy. Under this policy, thousands of Brazilian, German and Japanese immigrants were directed into the region, where they cleared the former Atlantic Forest area and brought it under soybean, maize and wheat cultivation. With around 25 000 inhabitants Tomás Romero Pereira is a typical agricultural centre with a multicultural population. Economically the town relies on soybean, maize and wheat farming, cattle ranching, sawmills and logistics. Several large cooperatives and soybean mills form the backbone of the local economy. Notable sights include the modern parish church and the Mercado Municipal showcasing agricultural specialities."
-    }
-  },
+    }, image: "/poi-images/tomas-romero-pereira-cities-v2.webp"},
   {
     id: "hohenau-cities-v2",
     type: "city",
@@ -1837,8 +1784,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Hohenau a paraguayi Itapúa megye egyik városa az ország déli részén, mintegy 35 kilométerre északkeletre Encarnacióntól a 6-os úton, és Paraguay egyik legrégebbi német települése. 1900-ban alapították bajor és osztrák német bevándorlók, akik a paraguayi kormány engedélyével mezőgazdasági kolóniát hoztak létre itt. A város nevét az alsó-ausztriai Hohenau településről kapta. Ma mintegy 15 000 lakosa él itt, sokan közülük az eredeti német telepesek leszármazottai, akik még mindig ápolják a német nyelvet és kultúrát. Hohenau országszerte ismert német pékségeiről, sörfőzdéiről és hentesárujáról. Gazdasága a yerba mate, szója, kukorica termesztésén, mate feldolgozáson (itt található Paraguay egyik legnagyobb mategyára) és turizmuson alapul. Nevezetességei a német plébániatemplom, a helytörténeti múzeum az első telepesek dokumentumaival, és az évente megrendezett Oktoberfest német zenével és sörrel, amely a régió egyik legnépszerűbb kulturális eseménye.",
       ro: "Hohenau, un oraș al departamentului Itapúa din sudul Paraguayului, se află la aproximativ 35 de kilometri nord-est de Encarnación, pe Ruta 6, fiind una dintre cele mai vechi așezări germane din Paraguay. A fost fondat în 1900 de imigranți germani din Bavaria și Austria, care au creat aici, cu permisiunea guvernului paraguayan, o colonie agricolă. Orașul își ia numele după localitatea austriacă Hohenau din Austria de Jos. Astăzi trăiesc aici aproximativ 15 000 de locuitori, mulți dintre ei descendenți ai coloniștilor germani originali, care încă păstrează limba și cultura germană. Hohenau este renumit în toată țara pentru brutăriile, fabricile de bere și mezelurile sale germane. Economic, orașul se bazează pe cultura yerbei mate, sojei, porumbului, prelucrarea matei (aici se află una dintre cele mai mari fabrici de mate din Paraguay) și turism. De vizitat sunt biserica parohială germană, muzeul de istorie locală cu documente ale primilor coloniști și Oktoberfestul anual.",
       en: "Hohenau, a town in the Itapúa Department of southern Paraguay, lies about 35 kilometres north-east of Encarnación along Route 6 and is one of the oldest German settlements in Paraguay. It was founded in 1900 by German immigrants from Bavaria and Austria, who established here an agricultural colony with the permission of the Paraguayan government. The town takes its name from the Austrian locality of Hohenau in Lower Austria. Today around 15 000 people live here, many of them descendants of the original German settlers who still preserve the German language and culture. Hohenau is nationally famous for its German bakeries, breweries and sausage products. Economically the town relies on yerba mate, soybean and maize farming, mate processing (one of Paraguay's largest mate factories is located here) and tourism. Notable sights include the German parish church, the local history museum with documents of the first settlers and the annual Oktoberfest featuring German music and beer."
-    }
-  },
+    }, image: "/poi-images/hohenau-cities-v2.webp"},
   {
     id: "capitan-miranda-cities-v2",
     type: "city",
@@ -1862,8 +1808,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Capitán Miranda a paraguayi Itapúa megye egyik kis városa az ország déli részén, mintegy 25 kilométerre északkeletre Encarnacióntól a 6-os úton, dombos, yerba mate, szója és rizs által uralt tájon. 1907-ben alapították, és Pedro Miranda kapitányról, a Hármas Szövetség elleni háború hőséről nevezték el. A város a 20. század elején fejlődött a vasúti csatlakozásnak és a német, ukrán és lengyel bevándorlók által végzett mezőgazdasági kolonizációnak köszönhetően. Mintegy 12 000 lakosával Capitán Miranda multikulturális közösség. Gazdasága a yerba mate, szója, kukorica, rizs termesztésén és marhatenyésztésen alapul. Capitán Miranda országszerte ismert a Hostería Capitán Mirandáról és kísértetjárásairól – a város környéke Paraguay egyik legmisztikusabb régiójának számít, számos paranormális jelenségről szóló legendával, amelyek évente kíváncsi látogatók ezreit vonzzák. Nevezetességei a történelmi plébániatemplom és a Vasúttörténeti Múzeum.",
       ro: "Capitán Miranda, un mic oraș al departamentului Itapúa din sudul Paraguayului, se află la aproximativ 25 de kilometri nord-est de Encarnación, pe Ruta 6, într-un peisaj deluros marcat de cultura yerbei mate, a sojei și a orezului. A fost fondat în 1907 și poartă numele căpitanului Pedro Miranda, erou al Războiului Triplei Alianțe. Orașul s-a dezvoltat la începutul secolului al XX-lea datorită legăturii feroviare și colonizării agricole a imigranților germani, ucraineni și polonezi. Cu aproximativ 12 000 de locuitori, Capitán Miranda este o comunitate multiculturală. Economic, orașul se bazează pe cultura yerbei mate, sojei, porumbului, orezului și creșterea vitelor. Capitán Miranda este renumit în toată țara pentru Hostería Capitán Miranda și pentru poveștile sale cu fantome — regiunea din jurul orașului este considerată una dintre cele mai mistice din Paraguay, cu numeroase legende despre fenomene paranormale care atrag anual mii de vizitatori curioși. De vizitat sunt biserica parohială istorică și Muzeul Feroviar.",
       en: "Capitán Miranda, a small town in the Itapúa Department of southern Paraguay, lies about 25 kilometres north-east of Encarnación along Route 6 in a hilly landscape dominated by yerba mate, soybean and rice cultivation. It was founded in 1907 and named after Captain Pedro Miranda, a hero of the War of the Triple Alliance. The town developed in the early twentieth century thanks to the railway connection and to agricultural colonisation by German, Ukrainian and Polish immigrants. With around 12 000 inhabitants Capitán Miranda is a multicultural community. Economically the town relies on yerba mate, soybean, maize and rice farming and on cattle ranching. Capitán Miranda is famous nationwide for the Hostería Capitán Miranda and its ghost stories — the area around the town is considered one of the most mystical in Paraguay, with numerous legends of paranormal phenomena attracting thousands of curious visitors each year. Notable sights include the historic parish church and the railway museum."
-    }
-  },
+    }, image: "/poi-images/capitan-miranda-cities-v2.webp"},
   {
     id: "obligado-cities-v2",
     type: "city",
@@ -1887,8 +1832,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Obligado a paraguayi Itapúa megye egyik városa az ország déli részén, mintegy 30 kilométerre északkeletre Encarnacióntól a 6-os úton, Hohenau és Bella Vista között. 1912-ben alapították német bevándorlók a hármas német kolónia részeként, amelyhez Hohenau és Bella Vista is tartozik. A név Pablo Obligado paraguayi tábornok emlékét őrzi. Ma a városnak mintegy 11 000 lakosa van, sokan közülük az eredeti német telepesek leszármazottai, akik még mindig ápolják a német nyelvet és kultúrát. Obligado országszerte ismert német pékségeiről, sajtüzemeiről és sörfőzdéiről, valamint az évente megrendezett Fiesta Schmeckfestről, amely a német étkezési kultúrát, néptáncokat és zenét ünnepli. Gazdasága a yerba mate, szója, kukorica termesztésén, tejtermelésen és turizmuson alapul. Nevezetességei a német plébániatemplom, a Centro Cultural Aleman, több magánmúzeum az első telepesek emléktárgyaival, valamint a tipikus német stílusú favázas házak, amelyek a város építészeti kincsei.",
       ro: "Obligado, un oraș al departamentului Itapúa din sudul Paraguayului, se află la aproximativ 30 de kilometri nord-est de Encarnación, pe Ruta 6, între Hohenau și Bella Vista. A fost fondat în 1912 de imigranți germani ca parte a coloniei germane tripartite, din care fac parte și Hohenau și Bella Vista. Numele cinstește memoria generalului paraguayan Pablo Obligado. Astăzi orașul are aproximativ 11 000 de locuitori, mulți dintre ei descendenți ai coloniștilor germani originali, care încă păstrează limba și cultura germană. Obligado este renumit în toată țara pentru brutăriile, fabricile de brânzeturi și fabricile de bere germane, precum și pentru Fiesta Schmeckfest anuală, care celebrează gastronomia germană, dansurile populare și muzica. Economic, orașul se bazează pe cultura yerbei mate, sojei, porumbului, producția lactată și turism. De vizitat sunt biserica parohială germană, Centro Cultural Aleman, mai multe muzee private cu amintiri ale primilor coloniști și casele tipice cu paiantă în stil german.",
       en: "Obligado, a town in the Itapúa Department of southern Paraguay, lies about 30 kilometres north-east of Encarnación along Route 6 between Hohenau and Bella Vista. It was founded in 1912 by German immigrants as part of the three-town German colony that also includes Hohenau and Bella Vista. The name honours the Paraguayan general Pablo Obligado. Today the town has around 11 000 inhabitants, many of them descendants of the original German settlers who still preserve the German language and culture. Obligado is nationally famous for its German bakeries, cheese factories and breweries and for the annual Fiesta Schmeckfest, celebrating German cuisine, folk dances and music. Economically the town relies on yerba mate, soybean and maize farming, dairy production and tourism. Notable sights include the German parish church, the Centro Cultural Aleman, several private museums with mementos of the first settlers and the typical half-timbered houses in German style."
-    }
-  },
+    }, image: "/poi-images/obligado-cities-v2.webp"},
   {
     id: "bella-vista-cities-v2",
     type: "city",
@@ -1912,8 +1856,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Bella Vista a paraguayi Itapúa megye egyik városa az ország déli részén, mintegy 40 kilométerre északkeletre Encarnacióntól a 6-os úton, és országszerte „Yerba Mate fővárosaként” ismert. 1917-ben alapították a német kolónia harmadik részeként Hohenauval és Obligadóval együtt, és gyorsan a paraguayi yerba mate ipar központjává vált. Itt található a híres Selecta mategyár, Paraguay egyik legnagyobb és legrégebbi mate márkája, amelynek termékeit Dél-Amerika egészén és Európában is árusítják. Mintegy 10 000 lakosával Bella Vista kicsi, de gazdaságilag jelentős város. Gazdasága a yerba mate termesztésén és feldolgozásán, szójatermesztésen, turizmuson és német étkezési kultúrán alapul. Nevezetességei a Selecta üzem üzemlátogatásokkal és kóstolókkal, a német plébániatemplom, a helytörténeti múzeum és az évente megrendezett német ünnepek hagyományos zenével és sörrel. Bella Vista fontos kiindulópont a yerba mate utat felfedezni vágyó turisták számára is.",
       ro: "Bella Vista, un oraș al departamentului Itapúa din sudul Paraguayului, se află la aproximativ 40 de kilometri nord-est de Encarnación, pe Ruta 6, fiind cunoscut în toată țara drept „Capital de la Yerba Mate”, Capitala Yerbei Mate. A fost fondat în 1917 ca a treia parte a coloniei germane, alături de Hohenau și Obligado, și s-a dezvoltat rapid ca centru al industriei paraguayene de yerba mate. Aici se află celebra fabrică de mate Selecta, una dintre cele mai mari și mai vechi mărci de mate din Paraguay, ale cărei produse sunt vândute în toată America de Sud și în Europa. Cu aproximativ 10 000 de locuitori, Bella Vista este un oraș mic, dar important economic. Economic, se bazează pe cultivarea și prelucrarea yerbei mate, cultura sojei, turism și gastronomia germană. De vizitat sunt fabrica Selecta cu tururi și degustări, biserica parohială germană, muzeul de istorie locală și sărbătorile germane anuale cu muzică tradițională și bere.",
       en: "Bella Vista, a town in the Itapúa Department of southern Paraguay, lies about 40 kilometres north-east of Encarnación along Route 6 and is known nationwide as the Capital de la Yerba Mate, the Capital of Yerba Mate. It was founded in 1917 as the third part of the German colony alongside Hohenau and Obligado and quickly developed into the heart of the Paraguayan yerba mate industry. It is home to the famous Selecta mate factory, one of the largest and oldest mate brands in Paraguay, whose products are sold throughout South America and Europe. With around 10 000 inhabitants Bella Vista is a small but economically important town. Economically it relies on yerba mate cultivation and processing, soybean farming, tourism and German cuisine. Notable sights include the Selecta factory with tours and tastings, the German parish church, the local history museum and the annual German festivals with traditional music and beer. Bella Vista is also an important starting point for tourists exploring the Yerba Mate Route."
-    }
-  },
+    }, image: "/poi-images/bella-vista-cities-v2.webp"},
   {
     id: "caaguazu-cities-v2",
     type: "city",
@@ -1962,8 +1905,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "J. Eulogio Estigarribia, korábban Campo 9 néven ismert, a paraguayi Caaguazú megye egyik városa az ország keleti részén, mintegy 220 kilométerre keletre Asuncióntól a 7-es úton. Az 1960-as években alapították az állami kolonizációs politika keretében, amikor a Stroessner-kormány brazil bevándorlók ezreit irányította a kiirtott atlanti erdőterületre, hogy a régiót intenzív mezőgazdaságra vonja művelésbe. A város 1992-ben kapta mai nevét Juan Eulogio Estigarribia érsek tiszteletére. Mintegy 60 000 lakosával, akiknek nagy része portugálul beszél, J. Eulogio Estigarribia tipikus „brasiguayo” központ, vegyes lakossággal. Gazdasága a szója-, kukorica-, búzatermesztésen, marhatenyésztésen és szójafeldolgozáson alapul – a régió Paraguay legtermékenyebb szójatermelő területei közé tartozik. Itt található több nagy szövetkezet és szójamalom. Nevezetességei a modern plébániatemplom és a Mercado Municipal, amelyek a város mindennapjait meghatározzák.",
       ro: "J. Eulogio Estigarribia, cunoscut anterior sub numele de Campo 9, este un oraș al departamentului Caaguazú din estul Paraguayului și se află la aproximativ 220 de kilometri est de Asunción, pe Ruta 7. A fost fondat în anii 1960 în cadrul politicii de stat de colonizare, când guvernul Stroessner a îndrumat mii de imigranți brazilieni spre fosta zonă a pădurii atlantice defrișate, pentru a dezvolta regiunea pentru agricultură intensivă. Orașul a primit numele actual în 1992 în onoarea arhiepiscopului Juan Eulogio Estigarribia. Cu aproximativ 60 000 de locuitori, dintre care o mare parte vorbesc portugheza, J. Eulogio Estigarribia este un tipic centru „brasiguayo” cu populație mixtă. Economic, orașul se bazează pe cultura sojei, porumbului, grâului, creșterea vitelor și prelucrarea sojei — regiunea este una dintre cele mai productive zone de soia din Paraguay. Aici se află mai multe cooperative mari și mori de soia. De vizitat sunt biserica parohială modernă și Mercado Municipal.",
       en: "J. Eulogio Estigarribia, formerly known as Campo 9, is a city in the Caaguazú Department of eastern Paraguay and lies about 220 kilometres east of Asunción along Route 7. It was founded in the 1960s under the state colonisation policy, when the Stroessner government directed thousands of Brazilian immigrants into the cleared Atlantic Forest area to bring the region under intensive agriculture. The town received its present name in 1992 in honour of Archbishop Juan Eulogio Estigarribia. With around 60 000 inhabitants, a large share of whom speak Portuguese, J. Eulogio Estigarribia is a typical Brasiguayo centre with a mixed population. Economically the city relies on soybean, maize and wheat farming, cattle ranching and soybean processing — the region is one of the most productive soybean zones of Paraguay. Several large cooperatives and soybean mills operate here. Notable sights include the modern parish church and the Mercado Municipal."
-    }
-  },
+    }, image: "/poi-images/j-eulogio-estigarribia-cities-v2.webp"},
   {
     id: "repatriacion-cities-v2",
     type: "city",
@@ -1987,8 +1929,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Repatriación a paraguayi Caaguazú megye egyik városa az ország keleti részén, mintegy 200 kilométerre keletre Asuncióntól, egy mezőgazdaságilag jellemző régióban. 1942-ben alapították, hogy az Argentínából hazatérő paraguayi emigránsoknak otthont adjon – innen a név „Repatriación” (hazatérés). A 20. század folyamán német, japán és brazil bevándorlók is letelepedtek a régióban, ami Repatriaciónt multikulturális közösséggé tette. Mintegy 30 000 lakosával a város ma fontos mezőgazdasági központ. Gazdasága a szója-, kukorica-, búza-, yerba mate termesztésen, marhatenyésztésen és tejtermelésen alapul. Itt található több nagy szövetkezet, egy jelentős japán kolónia szójaolaj-üzemekkel, és élénk kulturális élet német és japán fesztiválokkal. Nevezetességei a katolikus plébániatemplom, a japán buddhista pagoda és a helytörténeti múzeum az argentinai paraguayi hazatérők emléktárgyaival, amelyek a város egyedi történelmét őrzik.",
       ro: "Repatriación, un oraș al departamentului Caaguazú din estul Paraguayului, se află la aproximativ 200 de kilometri est de Asunción, într-o regiune cu profil agricol. A fost fondat în 1942 pentru a repatria emigranții paraguayeni din Argentina — de unde și numele „Repatriación” (repatriere). În secolul al XX-lea s-au stabilit în regiune și imigranți germani, japonezi și brazilieni, ceea ce a făcut din Repatriación o comunitate multiculturală. Cu aproximativ 30 000 de locuitori, orașul este astăzi un important centru agricol. Economic, Repatriación se bazează pe cultura sojei, porumbului, grâului, yerbei mate, creșterea vitelor și producția lactată. Aici se află mai multe cooperative mari, o importantă colonie japoneză cu fabrici de ulei de soia și o viață culturală vibrantă cu festivaluri germane și japoneze. De vizitat sunt biserica parohială catolică, pagoda budistă japoneză și muzeul de istorie locală cu amintiri ale primilor repatriați.",
       en: "Repatriación, a town in the Caaguazú Department of eastern Paraguay, lies about 200 kilometres east of Asunción in an agriculturally shaped region. It was founded in 1942 to repatriate Paraguayan emigrants from Argentina — hence the name Repatriación, meaning return home. During the twentieth century German, Japanese and Brazilian immigrants also settled in the region, making Repatriación a multicultural community. With around 30 000 inhabitants the town is today an important agricultural centre. Economically Repatriación relies on soybean, maize, wheat and yerba mate cultivation, cattle ranching and dairy farming. The town is home to several large cooperatives, a significant Japanese colony with soybean-oil production facilities and a lively cultural scene with German and Japanese festivals. Notable sights include the Catholic parish church, the Japanese Buddhist pagoda and the local history museum with mementos of the first Paraguayan returnees from Argentina."
-    }
-  },
+    }, image: "/poi-images/repatriacion-cities-v2.webp"},
   {
     id: "san-jose-de-los-arroyos-cities-v2",
     type: "city",
@@ -2012,8 +1953,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "San José de los Arroyos a paraguayi Caaguazú megye egyik városa az ország keleti részén, mintegy 130 kilométerre keletre Asuncióntól a 2-es úton, dombos tájon, amelyet patakok és kis folyók szelnek át – innen a név is, amely „Patakok Szent Józsefét” jelenti. 1782-ben alapították, így a régió egyik legrégebbi városa. A város a Hármas Szövetség elleni háború során szomorú jelentőségre tett szert, mivel itt több csatára került sor. Ma mintegy 25 000 lakosa él itt. San José de los Arroyos országszerte ismert fazekas- és kézművességi hagyományáról, valamint a tipikus paraguayi függőágyak készítéséről. Gazdasága a mezőgazdaságon (kukorica, manióka, bab), marhatenyésztésen, kézművességen és Asunciónba ingázáson alapul. Nevezetességei a 18. századi történelmi plébániatemplom, a Mercado Artesanal a hagyományos cserépedényekkel, és a Szent József napján márciusban rendezett éves patrónusi ünnep, amely közösségformáló erővel bír.",
       ro: "San José de los Arroyos, un oraș al departamentului Caaguazú din estul Paraguayului, se află la aproximativ 130 de kilometri est de Asunción, pe Ruta 2, într-un peisaj deluros străbătut de pâraie și râuri mici — la care face referire și numele, ce înseamnă „Sfântul Iosif al Pâraielor”. A fost fondat în 1782 și este unul dintre cele mai vechi orașe ale regiunii. Orașul a căpătat o importanță tragică în timpul Războiului Triplei Alianțe, deoarece aici s-au desfășurat mai multe bătălii. Astăzi trăiesc în oraș aproximativ 25 000 de locuitori. San José de los Arroyos este renumit în toată țara pentru tradiția sa de olărit și artizanat și pentru fabricarea tipicelor hamace paraguayene. Economic, orașul se bazează pe agricultură (porumb, manioc, fasole), creșterea vitelor, artizanat și navetism către Asunción. De vizitat sunt biserica parohială istorică din secolul al XVIII-lea, Mercado Artesanal cu produse tradiționale din lut și sărbătoarea anuală a hramului Sfântul Iosif din martie.",
       en: "San José de los Arroyos, a town in the Caaguazú Department of eastern Paraguay, lies about 130 kilometres east of Asunción along Route 2 in a hilly landscape crossed by streams and small rivers — to which the name itself refers, meaning Saint Joseph of the Streams. It was founded in 1782 and is one of the oldest towns in the region. The town acquired tragic significance during the War of the Triple Alliance when several battles were fought here. Today around 25 000 people live in the town. San José de los Arroyos is nationally known for its pottery and handicraft tradition and for producing the typical Paraguayan hammocks. Economically the town relies on agriculture (maize, cassava, beans), cattle ranching, handicrafts and commuting to Asunción. Notable sights include the historic eighteenth-century parish church, the Mercado Artesanal with its traditional clay products and the annual patronal feast on Saint Joseph's day in March."
-    }
-  },
+    }, image: "/poi-images/san-jose-de-los-arroyos-cities-v2.webp"},
   {
     id: "capiibary-cities-v2",
     type: "city",
@@ -2062,8 +2002,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Choré a paraguayi San Pedro megye egyik városa az ország központi-északi részén, mintegy 220 kilométerre északkeletre Asuncióntól, egy mezőgazdaságilag jellemző régióban. 1982-ben ismerték el önálló községként, miután korábban évtizedekig kis falu volt. A név a guaraní nyelvből származik, és „átázott” vagy „nedves”-t jelent, ami a régió számos patakára és vizes élőhelyére utal. Mintegy 35 000 lakosával Choré tipikus mezőgazdasági központ a régióban. Gazdaságilag a város a szója-, kukoricatermesztésen, szezámmagtermelésen (Paraguay a világ egyik legnagyobb szezámtermelője), marhatenyésztésen és növényi olaj termelésen alapul. Itt található több szövetkezet és szója- és szezámfeldolgozó üzem. Choré fontos ellátási pont a környező vidéki lakosság számára, és több iskolát, egy kórházat és egy modern plébániatemplomot foglal magában. Nevezetességei a Mercado Municipal és az évente megrendezett patrónusi ünnep folklórelőadásokkal és felvonulással.",
       ro: "Choré, un oraș al departamentului San Pedro din centrul-nordul Paraguayului, se află la aproximativ 220 de kilometri nord-est de Asunción, într-o regiune cu profil agricol. A fost recunoscut ca municipalitate independentă în 1982, după ce decenii întregi a fost un mic sat. Numele provine din limba guarani și înseamnă aproximativ „udat” sau „umed”, făcând aluzie la numeroasele pâraie și zone umede ale regiunii. Cu aproximativ 35 000 de locuitori, Choré este un tipic centru agricol al regiunii. Economic, orașul se bazează pe cultura sojei, porumbului, producția de susan (Paraguayul este unul dintre cei mai mari producători de susan din lume), creșterea vitelor și producția de uleiuri vegetale. Aici se află mai multe cooperative și fabrici de prelucrare a sojei și susanului. Choré este un punct important de aprovizionare pentru populația rurală, având mai multe școli, un spital și o biserică parohială modernă. De vizitat sunt Mercado Municipal și sărbătoarea anuală a hramului cu folclor și paradă.",
       en: "Choré, a town in the San Pedro Department in north-central Paraguay, lies about 220 kilometres north-east of Asunción in an agriculturally shaped region. It was recognised as an independent municipality in 1982 after having been a small village for decades. The name comes from Guaraní and means roughly soaked or wet, alluding to the many streams and wetlands of the region. With around 35 000 inhabitants Choré is a typical agricultural centre of the region. Economically the town relies on soybean and maize farming, sesame production (Paraguay is one of the world's largest sesame producers), cattle ranching and vegetable-oil production. Several cooperatives and soybean and sesame processing facilities operate here. Choré is an important supply point for the surrounding rural population and hosts several schools, a hospital and a modern parish church. Notable sights include the Mercado Municipal and the annual patronal feast with folklore and parade."
-    }
-  },
+    }, image: "/poi-images/chore-cities-v2.webp"},
   {
     id: "santa-rosa-del-aguaray-cities-v2",
     type: "city",
@@ -2087,8 +2026,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Santa Rosa del Aguaray a paraguayi San Pedro megye egyik városa az ország központi-északi részén, mintegy 290 kilométerre északra Asuncióntól a 3-as úton, amely a legfontosabb közlekedési útvonal Asunción és Pedro Juan Caballero között. 1976-ban alapították, és Limai Szent Rózsáról, valamint az Aguaray folyóról nevezték el. Az Aguaray név a guaraní nyelvből származik, és „Aguarák folyóját” (sörényes farkasok) jelenti, amelyek a környező cerrado területeken élnek. Ma a városnak mintegy 25 000 lakosa van. Santa Rosa del Aguaray gyorsan fejlődött a San Pedro megye északi részének és a szomszédos Concepción megyének fontos közlekedési és ellátási csomópontjává. Gazdaságilag a város a szója-, kukoricatermesztésen, szezámmagtermelésen, marhatenyésztésen és közlekedési szolgáltatásokon alapul. Itt található több benzinkút, hotel, étterem és logisztikai cég a 3-as út mentén. Nevezetességei a modern plébániatemplom és a Mercado Municipal a régió mezőgazdasági termékeivel.",
       ro: "Santa Rosa del Aguaray, un oraș al departamentului San Pedro din centrul-nordul Paraguayului, se află la aproximativ 290 de kilometri nord de Asunción, pe Ruta 3, principala axă rutieră între Asunción și Pedro Juan Caballero. A fost fondat în 1976 și poartă numele Sfintei Roza din Lima și al râului Aguaray. Numele Aguaray provine din limba guarani și înseamnă „râul aguarilor” (lupi cu coamă), care trăiesc în zonele cerrado din împrejurimi. Astăzi orașul are aproximativ 25 000 de locuitori. Santa Rosa del Aguaray s-a dezvoltat rapid ca un important nod rutier și de aprovizionare pentru partea de nord a departamentului San Pedro și pentru departamentul vecin Concepción. Economic, orașul se bazează pe cultura sojei, porumbului, producția de susan, creșterea vitelor și serviciile de transport. Aici se află mai multe benzinării, hoteluri, restaurante și firme de logistică de-a lungul Rutei 3. De vizitat sunt biserica parohială modernă și Mercado Municipal cu specialități agricole.",
       en: "Santa Rosa del Aguaray, a town in the San Pedro Department in north-central Paraguay, lies about 290 kilometres north of Asunción along Route 3, the main traffic artery between Asunción and Pedro Juan Caballero. It was founded in 1976 and named after Saint Rose of Lima and the Aguaray River. The name Aguaray comes from Guaraní and means river of the aguarás, the maned wolves that live in the surrounding cerrado areas. Today the town has around 25 000 inhabitants. Santa Rosa del Aguaray quickly developed into an important transport and supply hub for the northern part of the San Pedro Department and the neighbouring Concepción Department. Economically the town relies on soybean and maize farming, sesame production, cattle ranching and transport services. Several gas stations, hotels, restaurants and logistics companies operate along Route 3. Notable sights include the modern parish church and the Mercado Municipal showcasing agricultural specialities of the region."
-    }
-  },
+    }, image: "/poi-images/santa-rosa-del-aguaray-cities-v2.webp"},
   {
     id: "yby-yau-cities-v2",
     type: "city",
@@ -2137,8 +2075,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Vallemí a paraguayi Concepción megye egyik városa az ország legészakibb részén, a Paraguay folyó jobb partján, a brazil határ közelében, és országszerte a paraguayi cementipar fővárosaként ismert. 1928-ban alapították, amikor az olasz vállalkozó Giorgio Vallenari (akiről a Vallemí név származik) itt nagy mészkőlelőhelyet fedezett fel, és cementgyárat épített. Ma itt található az Industria Nacional del Cemento (INC), Paraguay legnagyobb és legjelentősebb cementgyára, amely a nemzeti cementigény jelentős részét fedezi. Mintegy 9 000 lakosával Vallemí kicsi, de gazdaságilag stratégiailag jelentős város. Gazdasága a cementtermelésen, mészbányászaton, folyami hajózáson és kisebb mezőgazdaságon alapul. A város egy tájképileg lenyűgöző régióban fekszik a Cerros Memby és Vallemí hegyekkel, amelyek mészkősziklái és barlangjai geológiai látnivalók. Nevezetességei a cementgyár, a történelmi plébániatemplom és a karszttáj a cseppkőbarlangokkal, amelyek természetjárókat és geológusokat egyaránt vonzanak.",
       ro: "Vallemí, un oraș al departamentului Concepción din nordul extrem al Paraguayului, se află pe malul drept al râului Paraguay, lângă granița cu Brazilia, și este cunoscut în toată țara drept capitala industriei paraguayene a cimentului. A fost fondat în 1928, când antreprenorul italian Giorgio Vallenari (de la care provine numele Vallemí) a descoperit aici un mare zăcământ de calcar și a construit o fabrică de ciment. Astăzi aici se află Industria Nacional del Cemento (INC), cea mai mare și cea mai importantă fabrică de ciment din Paraguay, care acoperă o parte semnificativă a nevoilor naționale de ciment. Cu aproximativ 9 000 de locuitori, Vallemí este un oraș mic, dar strategic important economic. Economic, se bazează pe producția de ciment, extracția varului, navigația fluvială și o mică agricultură. Orașul se află într-o regiune impresionantă peisagistic cu Cerros Memby și Vallemí, ale căror stânci de calcar și peșteri sunt obiective geologice. De vizitat sunt fabrica de ciment, biserica parohială istorică și peisajul carstic.",
       en: "Vallemí, a town in the Concepción Department in the far north of Paraguay, lies on the right bank of the Paraguay River near the border with Brazil and is known nationwide as the capital of Paraguay's cement industry. It was founded in 1928, when the Italian entrepreneur Giorgio Vallenari (after whom the name Vallemí is derived) discovered a large limestone deposit here and built a cement factory. Today it is the seat of the Industria Nacional del Cemento (INC), the largest and most important cement plant in Paraguay, which covers a significant share of the national demand for cement. With around 9 000 inhabitants Vallemí is a small but strategically important town. Economically it relies on cement production, lime quarrying, river shipping and small-scale agriculture. The town lies in a scenically impressive region with the Cerros Memby and Vallemí hills, whose limestone cliffs and caves are geological highlights. Notable sights include the cement plant, the historic parish church and the karst landscape with its dripstone caves."
-    }
-  },
+    }, image: "/poi-images/vallemi-cities-v2.webp"},
   {
     id: "bella-vista-norte-cities-v2",
     type: "city",
@@ -2162,8 +2099,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       hu: "Bella Vista Norte a paraguayi Amambay megye egyik városa az ország északi részén, az Apa folyó partján, közvetlenül a brazil határnál, a brazil Bella Vista várossal szemben Mato Grosso do Sulban. 1909-ben alapították, így a régió egyik legrégebbi határvárosa. Mintegy 15 000 lakosával Bella Vista Norte kicsi, de stratégiai szempontból fontos határváros, amely a ritkán lakott Amambay-hegység kapuja. Gazdasága a marhatenyésztésen, szójatermesztésen, yerba mate termesztésen és a Brazíliával folytatott határkereskedelmen alapul. Bella Vista Nortét sűrű erdők és az Amambay-hegység dombsorai veszik körül, egy olyan régió, amely a bennszülött sziklarajzairól, barlangjairól és gazdag Pajagua-kultúrájáról ismert. A Bella Vista felé vezető hídon keresztül közvetlen kapcsolat van a brazil piaccal, ami élénkíti a fogyasztási cikkek és mezőgazdasági termékek határkereskedelmét. Nevezetességei a történelmi plébániatemplom, a központi tér és a határon átnyúló piac.",
       ro: "Bella Vista Norte, un oraș al departamentului Amambay din nordul Paraguayului, se află pe malul râului Apa, chiar la granița cu Brazilia, vizavi de orașul brazilian Bela Vista din Mato Grosso do Sul. A fost fondat în 1909, fiind unul dintre cele mai vechi orașe de frontieră din regiune. Cu aproximativ 15 000 de locuitori, Bella Vista Norte este un oraș mic, dar strategic important la frontieră, fiind poarta către Sierra de Amambay puțin populată. Economic, orașul se bazează pe creșterea vitelor, cultura sojei, yerbei mate și comerțul transfrontalier cu Brazilia. Bella Vista Norte este înconjurat de păduri dese și de șiruri de dealuri ale Sierrei Amambay, o regiune cunoscută pentru picturile rupestre indigene, peșteri și bogata sa cultură pajagua. Prin podul către Bela Vista există o legătură directă cu piața braziliană, ceea ce stimulează comerțul transfrontalier cu bunuri de consum și produse agricole. De vizitat sunt biserica parohială istorică, piața centrală și piața transfrontalieră.",
       en: "Bella Vista Norte, a town in the Amambay Department of northern Paraguay, lies on the bank of the Apa River right on the border with Brazil opposite the Brazilian town of Bela Vista in Mato Grosso do Sul. It was founded in 1909 and is one of the oldest frontier towns in the region. With around 15 000 inhabitants Bella Vista Norte is a small but strategically important border town, serving as the gateway to the sparsely populated Sierra de Amambay range. Its economy relies on cattle ranching, soybean farming, yerba mate cultivation and cross-border trade with Brazil. Bella Vista Norte is surrounded by dense forests and the rolling hills of the Sierra de Amambay, a region known for indigenous rock paintings, caves and rich Pajagua heritage. Via the bridge to Bela Vista there is a direct link to the Brazilian market, fuelling cross-border trade in consumer goods and agricultural products. Notable sights include the historic parish church, the central plaza and the cross-border market."
-    }
-  },
+    }, image: "/poi-images/bella-vista-norte-cities-v2.webp"},
   {
     id: "katuete-cities-v2",
     type: "city",

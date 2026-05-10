@@ -13,8 +13,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["A világ egyik legmélyebb külszíni bányája.", "Évente több millió uncia aranyat termel."],
       ro: ["Este una dintre cele mai adânci cariere deschise din lume.", "Produce milioane de uncii de aur anual."],
       en: ["One of the deepest open-pit mines in the world.", "Produces millions of ounces of gold annually."]
-    }
-  },
+    }, image: "/poi-images/muruntau-gold-mine-economic-v2.webp"},
   {
     id: "navoi-mining-metallurgical-economic-v2",
     type: "industry",
@@ -27,8 +26,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Az 1950-es évek végén alapították.", "Üzbegisztán gazdaságának döntő motorja."],
       ro: ["Fondată la sfârșitul anilor 1950.", "Un motor crucial pentru economia Uzbekistanului."],
       en: ["Founded in the late 1950s.", "A crucial engine for Uzbekistan's economy."]
-    }
-  },
+    }, image: "/poi-images/navoi-mining-metallurgical-economic-v2.webp"},
   {
     id: "almalyk-mining-metallurgical-economic-v2",
     type: "industry",
@@ -41,8 +39,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Több hatalmas bányából származó ércet dolgoz fel.", "Az üzbég színesfémipar központi eleme."],
       ro: ["Procesează minereuri din mai multe mine uriașe.", "Element central al industriei metalelor neferoase din Uzbekistan."],
       en: ["Processes ores from several huge mines.", "Central element of the Uzbek non-ferrous metal industry."]
-    }
-  },
+    }, image: "/poi-images/almalyk-mining-metallurgical-economic-v2.webp"},
   {
     id: "uzauto-motors-asaka-economic-v2",
     type: "industry",
@@ -55,8 +52,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["1996-ban nyílt meg egy vegyesvállalat révén.", "Évente több százezer járművet gyárt."],
       ro: ["Deschisă în 1996 printr-un joint-venture.", "Produce sute de mii de vehicule anual."],
       en: ["Opened in 1996 through a joint venture.", "Produces hundreds of thousands of vehicles annually."]
-    }
-  },
+    }, image: "/poi-images/uzauto-motors-asaka-economic-v2.webp"},
   {
     id: "bukhara-oil-refinery-economic-v2",
     type: "industry",
@@ -97,8 +93,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Hatékonyan távolítja el a ként a kitermelt földgázból.", "Tiszta gázzal látja el a hazai vezetékrendszert."],
       ro: ["Elimină eficient sulful din gazele naturale extrase.", "Aprovizionează rețeaua internă de conducte cu gaz curat."],
       en: ["Effectively removes sulfur from the extracted natural gas.", "Supplies the domestic pipeline network with clean gas."]
-    }
-  },
+    }, image: "/poi-images/mubarek-gas-processing-economic-v2.webp"},
   {
     id: "shurtan-gas-chemical-economic-v2",
     type: "industry",
@@ -111,8 +106,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["2001-ben helyezték hivatalosan üzembe.", "Jelentősen hozzájárul a polimer termékek exportjához."],
       ro: ["A fost pus în funcțiune oficial în 2001.", "Contribuie semnificativ la exportul de produse polimerice."],
       en: ["Was officially commissioned in 2001.", "Significantly contributes to the export of polymer products."]
-    }
-  },
+    }, image: "/poi-images/shurtan-gas-chemical-economic-v2.webp"},
   {
     id: "talimarjan-power-plant-economic-v2",
     type: "industry",
@@ -125,8 +119,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Korszerű gáz- és gőzturbinákon alapul.", "Többször bővítették a villamosenergia-termelés növelése érdekében."],
       ro: ["Se bazează pe turbine moderne cu gaz și abur.", "A fost extinsă de mai multe ori pentru a crește producția de energie electrică."],
       en: ["Based on state-of-the-art gas and steam turbines.", "Has been expanded several times to increase electricity production."]
-    }
-  },
+    }, image: "/poi-images/talimarjan-power-plant-economic-v2.webp"},
   {
     id: "syrdarya-power-plant-economic-v2",
     type: "industry",
@@ -167,8 +160,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Már a második világháború alatt megalapították.", "Fedezi a nemzeti betonacél-szükséglet nagy részét."],
       ro: ["A fost fondată în timpul celui de-al Doilea Război Mondial.", "Acoperă majoritatea necesarului național de oțel beton."],
       en: ["Was founded during the Second World War.", "Covers the majority of the national demand for reinforcing steel."]
-    }
-  },
+    }, image: "/poi-images/bekabad-steel-plant-economic-v2.webp"},
   {
     id: "tashkent-metallurgical-plant-economic-v2",
     type: "industry",
@@ -195,8 +187,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Fontos a kiterjedt üzbég mezőgazdaság számára.", "A műtrágya mellett ipari vegyszereket is gyárt."],
       ro: ["Importantă pentru agricultura uzbecă foarte dezvoltată.", "Pe lângă îngrășăminte, produce și substanțe chimice industriale."],
       en: ["Important for the highly developed Uzbek agriculture.", "Produces industrial chemicals in addition to fertilizer."]
-    }
-  },
+    }, image: "/poi-images/maxam-chirchiq-chemical-economic-v2.webp"},
   {
     id: "termez-river-port-economic-v2",
     type: "port",
@@ -209,8 +200,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Főszerepet játszik a humanitárius szállításokban.", "Stratégiailag kedvező helyen, a határfolyón fekszik."],
       ro: ["Joacă un rol major în livrările umanitare.", "Este situat strategic pe râul de frontieră."],
       en: ["Plays a major role in humanitarian deliveries.", "Is strategically located on the border river."]
-    }
-  },
+    }, image: "/poi-images/termez-river-port-economic-v2.webp"},
   {
     id: "navoi-free-economic-zone-economic-v2",
     type: "industry",
@@ -223,8 +213,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Vámmentes feltételeket és logisztikai csomópontokat kínál a vállalatoknak.", "Közvetlenül kapcsolódik a fontos vasúti és légi útvonalakhoz."],
       ro: ["Oferă companiilor condiții fără taxe și hub-uri logistice.", "Conectată direct la rute feroviare și aeriene importante."],
       en: ["Offers companies duty-free conditions and logistics hubs.", "Directly connected to important railway and aviation routes."]
-    }
-  },
+    }, image: "/poi-images/navoi-free-economic-zone-economic-v2.webp"},
   {
     id: "ustyurt-gas-chemical-economic-v2",
     type: "industry",
@@ -237,8 +226,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Milliárdos projekt a gazdaság diverzifikálására.", "Erősíti az exportkapacitást a régióban."],
       ro: ["Un proiect de miliarde pentru diversificarea economiei.", "Consolidează capacitatea de export în regiune."],
       en: ["A multi-billion project to diversify the economy.", "Strengthens export capacities in the region."]
-    }
-  },
+    }, image: "/poi-images/ustyurt-gas-chemical-economic-v2.webp"},
   {
     id: "jizzakh-automobile-plant-economic-v2",
     type: "industry",
@@ -251,8 +239,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Többek között nemzetközi márkák járműveit szereli össze.", "Elősegíti a munkahelyteremtést Közép-Üzbegisztánban."],
       ro: ["Asamblează, printre altele, vehicule ale mărcilor internaționale.", "Promovează crearea de locuri de muncă în centrul Uzbekistanului."],
       en: ["Assembles vehicles of international brands, among others.", "Promotes job creation in central Uzbekistan."]
-    }
-  },
+    }, image: "/poi-images/jizzakh-automobile-plant-economic-v2.webp"},
   {
     id: "samauto-factory-economic-v2",
     type: "industry",
@@ -265,8 +252,7 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
       hu: ["Megbízható haszongépjárműveket gyárt a városi közlekedés számára.", "Szorosan együttműködik globális teherautó-gyártókkal."],
       ro: ["Produce vehicule comerciale de încredere pentru transportul urban.", "Cooperează strâns cu producători globali de camioane."],
       en: ["Produces reliable commercial vehicles for urban transport.", "Cooperates closely with global truck manufacturers."]
-    }
-  },
+    }, image: "/poi-images/samauto-factory-economic-v2.webp"},
   {
     id: "angren-free-economic-zone-economic-v2",
     type: "industry",

@@ -1,0 +1,112 @@
+{
+  "lang": "de",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cr-estadio-nacional-landmarks-v2",
+      "description": "Das moderne Nationalstadion in San José, ein Geschenk Chinas.",
+      "facts": [
+        "Eröffnet 2011",
+        "Geschenk der chinesischen Regierung",
+        "Heimat der Nationalmannschaft",
+        "Kapazität: 35.000"
+      ]
+    },
+    {
+      "id": "cr-puente-de-la-amistad-landmarks-v2",
+      "description": "Eine Schrägseilbrücke über den Tempisque-Fluss in Guanacaste.",
+      "facts": [
+        "Eröffnet 2003",
+        "Verkürzt Reisezeit zur Nicoya-Halbinsel",
+        "Geschenk von Taiwan",
+        "Länge: 780 m"
+      ]
+    },
+    {
+      "id": "cr-museo-ninos-landmarks-v2",
+      "description": "Ein interaktives Museum in einem ehemaligen Gefängnis, bekannt als 'Schloss der Träume'.",
+      "facts": [
+        "Eröffnet 1994",
+        "In ehemaliger Zentralstrafanstalt",
+        "Über 40 interaktive Ausstellungen",
+        "Fördert spielerisches Lernen"
+      ]
+    },
+    {
+      "id": "cr-museo-nacional-landmarks-v2",
+      "description": "Untergebracht in der Bellavista-Festung, mit archäologischen und historischen Exponaten.",
+      "facts": [
+        "In einer ehemaligen Kaserne",
+        "Gegründet 1887",
+        "Präkolumbische Steinkugeln",
+        "Symbol der Abschaffung der Armee"
+      ]
+    },
+    {
+      "id": "cr-correos-costa-rica-landmarks-v2",
+      "description": "Ein historisches, palastartiges Gebäude im Herzen von San José.",
+      "facts": [
+        "Erbaut 1917",
+        "Französischer Neorenaissance-Stil",
+        "Beherbergt das Postmuseum",
+        "Architektonisches Wahrzeichen"
+      ]
+    },
+    {
+      "id": "cr-museo-arte-costarricense-landmarks-v2",
+      "description": "Im ehemaligen internationalen Flughafenterminal La Sabana.",
+      "facts": [
+        "Eröffnet 1978",
+        "Umfassende Sammlung nationaler Kunst",
+        "Goldener Saal mit Stuckrelief",
+        "Skulpturengarten"
+      ]
+    },
+    {
+      "id": "cr-templo-musica-landmarks-v2",
+      "description": "Ein ikonischer Pavillon im Parque Morazán in San José.",
+      "facts": [
+        "Erbaut 1920",
+        "Nachbau des Trianon-Tempels in Versailles",
+        "Ort für Konzerte und Veranstaltungen",
+        "Symbol der Stadt"
+      ]
+    },
+    {
+      "id": "cr-monumento-nacional-costa-rica-landmarks-v2",
+      "description": "Eine Bronzeskulptur im Parque Nacional, die den Sieg von 1856 darstellt.",
+      "facts": [
+        "Enthüllt 1895",
+        "Symbolisiert den Sieg über William Walker",
+        "Von französischem Künstler geschaffen",
+        "Herzstück des Nationalparks"
+      ]
+    },
+    {
+      "id": "cr-cenac-landmarks-v2",
+      "description": "Ein Kulturkomplex in einer ehemaligen Likörfabrik.",
+      "facts": [
+        "Historisches Industriegebäude",
+        "Beherbergt Theater, Galerien und das Kulturministerium",
+        "Zentrum für künstlerische Aktivitäten",
+        "Eröffnet 1994"
+      ]
+    },
+    {
+      "id": "cr-muelle-de-puntarenas-landmarks-v2",
+      "description": "Der lange Pier ist ein Wahrzeichen der Hafenstadt Puntarenas.",
+      "facts": [
+        "Wichtig für Kreuzfahrtschiffe",
+        "Beliebter Ort zum Angeln und Spazieren",
+        "Bietet tolle Sonnenuntergänge",
+        "Herz der Stadt"
+      ]
+    }
+  ]
+}

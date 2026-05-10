@@ -47,8 +47,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["Fontos élőhelye a pödröttszarvú kecskének.", "Vadpisztáciáiról ismert."],
       ro: ["Habitat important pentru markhor.", "Cunoscut pentru fisticul sălbatic."],
       en: ["Important habitat for markhor.", "Known for wild pistachios."]
-    }
-  },
+    }, image: "/poi-images/dashtijum-nature-reserve-life-v2.webp"},
   {
     id: "romit-nature-reserve-life-v2",
     type: "wildlife-area",
@@ -95,8 +94,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["A világ második legmagasabb botanikus kertje.", "Több mint 2300 méter magasan fekszik."],
       ro: ["A doua cea mai înaltă grădină botanică din lume.", "Situată la peste 2300 de metri altitudine."],
       en: ["Second highest botanical garden globally.", "Located at over 2300 meters altitude."]
-    }
-  },
+    }, image: "/poi-images/pamir-botanical-garden-life-v2.webp"},
   {
     id: "dushanbe-botanical-garden-life-v2",
     type: "park",
@@ -119,8 +117,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["Hivatalos neve Iram-kert.", "Népszerű helyszín esküvői fotózáshoz."],
       ro: ["Numită oficial Grădina Iram.", "Loc popular pentru fotografii de nuntă."],
       en: ["Officially named Iram Garden.", "Popular spot for wedding photos."]
-    }
-  },
+    }, image: "/poi-images/dushanbe-botanical-garden-life-v2.webp"},
   {
     id: "vakhsh-valley-cotton-fields-life-v2",
     type: "agriculture",
@@ -143,8 +140,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["A gyapot az egyik fő exportcikk.", "Erősen függ az öntözéstől."],
       ro: ["Bumbacul este un export principal.", "Depinde puternic de irigații."],
       en: ["Cotton is a major export.", "Heavily dependent on irrigation."]
-    }
-  },
+    }, image: "/poi-images/vakhsh-valley-cotton-fields-life-v2.webp"},
   {
     id: "hissar-valley-vineyards-life-v2",
     type: "agriculture",
@@ -167,8 +163,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["A szőlőtermesztés hosszú múltra tekint vissza.", "Nagy, édes szőlőfajtáiról ismert."],
       ro: ["Tradiție lungă în viticultură.", "Cunoscut pentru soiuri de struguri mari și dulci."],
       en: ["Long tradition of viticulture.", "Known for large, sweet grape varieties."]
-    }
-  },
+    }, image: "/poi-images/hissar-valley-vineyards-life-v2.webp"},
   {
     id: "fergana-valley-apricot-orchards-life-v2",
     type: "agriculture",
@@ -191,8 +186,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["Az aszalt gyümölcsök fontos kereskedelmi termékek.", "A tavaszi virágzás rózsaszínbe borítja a völgyet."],
       ro: ["Fructele uscate sunt un produs comercial important.", "Înflorirea de primăvară colorează valea în roz."],
       en: ["Dried fruits are an important trade product.", "Spring blossoms turn the valley pink."]
-    }
-  },
+    }, image: "/poi-images/fergana-valley-apricot-orchards-life-v2.webp"},
   {
     id: "dushanbe-zoo-life-v2",
     type: "kid-friendly",
@@ -215,8 +209,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["1960-ban nyitotta meg kapuit.", "Évente sok látogatót vonz."],
       ro: ["Deschisă în 1960.", "Atrage mulți vizitatori anual."],
       en: ["Opened in 1960.", "Attracts many visitors annually."]
-    }
-  },
+    }, image: "/poi-images/dushanbe-zoo-life-v2.webp"},
   {
     id: "aquapark-dolphin-dushanbe-life-v2",
     type: "kid-friendly",
@@ -239,8 +232,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["Az ország első modern akvaparkja.", "Különösen hétvégén látogatott."],
       ro: ["Primul aquapark modern din țară.", "Foarte aglomerat, mai ales în weekend."],
       en: ["First modern water park in the country.", "Particularly crowded on weekends."]
-    }
-  },
+    }, image: "/poi-images/aquapark-dolphin-dushanbe-life-v2.webp"},
   {
     id: "youth-park-komsomol-lake-life-v2",
     type: "park",
@@ -263,8 +255,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["A diákok és családok körében népszerű.", "A tavat a Dusanbinka folyó táplálja."],
       ro: ["Popular printre studenți și familii.", "Lacul este alimentat de râul Dușanbinka."],
       en: ["Popular among students and families.", "The lake is fed by the Dushanbinka River."]
-    }
-  },
+    }, image: "/poi-images/youth-park-komsomol-lake-life-v2.webp"},
   {
     id: "zarafshan-valley-potato-farms-life-v2",
     type: "agriculture",
@@ -287,8 +278,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["Biztosítja a helyi élelmiszerellátást.", "A termesztés gyakran teraszos földeken folyik."],
       ro: ["Asigură aprovizionarea locală cu alimente.", "Cultivarea se face adesea pe terenuri terasate."],
       en: ["Ensures local food supply.", "Farming often takes place on terraced fields."]
-    }
-  },
+    }, image: "/poi-images/zarafshan-valley-potato-farms-life-v2.webp"},
   {
     id: "yagnob-valley-pastures-life-v2",
     type: "agriculture",
@@ -311,8 +301,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["Az ókori nyelvet beszélő jagnobik hazája.", "Fontos tejtermék- és gyapjúforrás."],
       ro: ["Căminul poporului Yagnobi, care vorbește o limbă antică.", "Sursă importantă de produse lactate și lână."],
       en: ["Home to the Yagnobi people who speak an ancient language.", "Important source of dairy and wool."]
-    }
-  },
+    }, image: "/poi-images/yagnob-valley-pastures-life-v2.webp"},
   {
     id: "boghi-poytakht-park-dushanbe-life-v2",
     type: "kid-friendly",
@@ -335,8 +324,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["A város legnagyobb óriáskerekével büszkélkedhet.", "Népszerű esti találkozóhely."],
       ro: ["Oferă cea mai mare roată panoramică din oraș.", "Loc de întâlnire popular seara."],
       en: ["Features the city's largest Ferris wheel.", "Popular evening gathering spot."]
-    }
-  },
+    }, image: "/poi-images/boghi-poytakht-park-dushanbe-life-v2.webp"},
   {
     id: "farkhor-wheat-fields-life-v2",
     type: "agriculture",
@@ -383,8 +371,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["Egy híres költőről nevezték el.", "Csónakázási lehetőséget kínál a folyón."],
       ro: ["Numit după un poet faimos.", "Oferă plimbări cu barca pe râu."],
       en: ["Named after a famous poet.", "Offers boat rides on the river."]
-    }
-  },
+    }, image: "/poi-images/khujand-city-park-life-v2.webp"},
   {
     id: "childrens-park-dushanbe-life-v2",
     type: "kid-friendly",
@@ -431,8 +418,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["Népszerű a madármegfigyelők körében.", "Hegyirókák és mormoták menedékhelye."],
       ro: ["Popular pentru observarea păsărilor.", "Refugiu pentru vulpi de munte și marmote."],
       en: ["Popular for bird watching.", "Retreat for mountain foxes and marmots."]
-    }
-  },
+    }, image: "/poi-images/almosi-gorge-wildlife-area-life-v2.webp"},
   {
     id: "sari-khosor-nature-park-life-v2",
     type: "wildlife-area",
@@ -455,8 +441,7 @@ export const poiExtraTajikistanLifeV2: POI[] = [
       hu: ["2003-ban nyilvánították natúrparkká.", "Egy 50 méter magas vízesés található itt."],
       ro: ["Înființat ca parc natural în 2003.", "Are o cascadă de 50 de metri înălțime."],
       en: ["Established as a nature park in 2003.", "Features a 50-meter-high waterfall."]
-    }
-  },
+    }, image: "/poi-images/sari-khosor-nature-park-life-v2.webp"},
   {
     id: "wakhan-mulberry-groves-life-v2",
     type: "agriculture",

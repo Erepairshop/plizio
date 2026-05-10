@@ -27,8 +27,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Az első vízerőmű az alsó Mekong főágán.", "1285 megawatt áramot termel.", "Az építkezés 2019-ben fejeződött be."],
       ro: ["Prima hidrocentrală pe cursul principal al Mekongului inferior.", "Produce 1285 de megawați de electricitate.", "Construcția a fost finalizată în 2019."],
       en: ["First hydroelectric plant on the mainstream of the lower Mekong.", "Produces 1285 megawatts of electricity.", "Construction was completed in 2019."]
-    }
-  },
+    }, image: "/poi-images/xayaburi-dam-economic-v2.webp"},
   {
     id: "sepon-mine-economic-v2",
     type: "mine",
@@ -41,8 +40,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Savannakhet tartományban található.", "Forradalmasította a laoszi bányászati ipart.", "A magánszektor legnagyobb munkaadói közé tartozik."],
       ro: ["Este situată în provincia Savannakhet.", "A revoluționat industria minieră din Laos.", "Este unul dintre cei mai mari angajatori din sectorul privat."],
       en: ["Located in the Savannakhet province.", "Revolutionized the Laotian mining industry.", "Ranks among the largest employers in the private sector."]
-    }
-  },
+    }, image: "/poi-images/sepon-mine-economic-v2.webp"},
   {
     id: "phu-bia-mine-economic-v2",
     type: "mine",
@@ -55,8 +53,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Nagyon távoli hegyvidéki régióban fekszik.", "Évente több ezer tonna rézércet bányásznak ki.", "Erősen befektet a helyi infrastruktúrába."],
       ro: ["Este situată într-o regiune montană foarte izolată.", "Extrage mii de tone de cupru anual.", "Investește masiv în infrastructura locală."],
       en: ["Located in a very remote mountainous region.", "Extracts thousands of tons of copper annually.", "Invests heavily in local infrastructure."]
-    }
-  },
+    }, image: "/poi-images/phu-bia-mine-economic-v2.webp"},
   {
     id: "vientiane-logistics-park-economic-v2",
     type: "trade-hub",
@@ -69,8 +66,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["A Thanaleng szárazföldi kikötővel van integrálva.", "A Laosz-Kína vasútvonal csomópontjaként szolgál.", "Jelentősen csökkenti a szállítási költségeket."],
       ro: ["Integrat cu portul uscat Thanaleng.", "Servește ca nod pentru Calea Ferată Laos-China.", "Este conceput pentru a reduce costurile de transport."],
       en: ["Integrated with the Thanaleng Dry Port.", "Serves as a hub for the Laos-China Railway.", "Designed to significantly reduce freight costs."]
-    }
-  },
+    }, image: "/poi-images/vientiane-logistics-park-economic-v2.webp"},
   {
     id: "boten-specific-economic-zone-economic-v2",
     type: "trade-hub",
@@ -97,8 +93,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["2003-ban alapították.", "Összeköti Thaiföldet, Laoszt és Vietnamot.", "Adókedvezményeket kínál a befektetőknek."],
       ro: ["A fost înființată în anul 2003.", "Conectează Thailanda, Laos și Vietnam.", "Oferă stimulente fiscale investitorilor."],
       en: ["Was established in the year 2003.", "Connects Thailand, Laos, and Vietnam.", "Offers tax incentives for investors."]
-    }
-  },
+    }, image: "/poi-images/savan-seno-special-economic-zone-economic-v2.webp"},
   {
     id: "thanaleng-dry-port-economic-v2",
     type: "port",
@@ -111,8 +106,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Központi átrakóhely a konténerek számára.", "Csökkenti a tengeri kikötőktől való függőséget.", "Javítja az import és export lebonyolítását."],
       ro: ["Punct central de transfer pentru containere.", "Reduce dependența de porturile maritime.", "Îmbunătățește procesarea importurilor și exporturilor."],
       en: ["Central transfer point for containers.", "Reduces dependence on seaports.", "Improves import and export processing."]
-    }
-  },
+    }, image: "/poi-images/thanaleng-dry-port-economic-v2.webp"},
   {
     id: "hongsa-power-plant-economic-v2",
     type: "energy",
@@ -125,8 +119,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Egy közeli bánya lignitjét használja.", "1878 megawatt kapacitással rendelkezik.", "Az áram nagy része Thaiföldre kerül."],
       ro: ["Folosește lignit de la o mină din apropiere.", "Are o capacitate de 1878 de megawați.", "Cea mai mare parte a energiei merge în Thailanda."],
       en: ["Uses lignite from a nearby mine.", "Has a capacity of 1878 megawatts.", "The majority of electricity goes to Thailand."]
-    }
-  },
+    }, image: "/poi-images/hongsa-power-plant-economic-v2.webp"},
   {
     id: "luang-namtha-border-trade-zone-economic-v2",
     type: "trade-hub",
@@ -153,8 +146,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Támogatja a gátak építését.", "Munkahelyeket kínál a turizmustól távol.", "A mészkőbányászat részben megváltoztatja a tájat."],
       ro: ["Sprijină construcția de baraje.", "Oferă locuri de muncă departe de turism.", "Extracția de calcar modifică parțial peisajul."],
       en: ["Supports the construction of dams.", "Provides jobs away from tourism.", "Limestone extraction partially alters the landscape."]
-    }
-  },
+    }, image: "/poi-images/vang-vieng-cement-plant-economic-v2.webp"},
   {
     id: "vientiane-industrial-and-trade-area-economic-v2",
     type: "industry",
@@ -167,8 +159,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["A fővárostól körülbelül 22 kilométerre található.", "Modern szennyvíztisztító berendezésekkel rendelkezik.", "Az exportorientált termelésre fókuszál."],
       ro: ["Situată la aproximativ 22 de kilometri de capitală.", "Dispune de stații moderne de tratare a apelor uzate.", "Se concentrează pe producția orientată spre export."],
       en: ["Located about 22 kilometers from the capital.", "Features modern wastewater treatment facilities.", "Focuses on export-oriented production."]
-    }
-  },
+    }, image: "/poi-images/vientiane-industrial-and-trade-area-economic-v2.webp"},
   {
     id: "pakse-japan-sme-sez-economic-v2",
     type: "industry",
@@ -181,8 +172,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Japán fejlesztési alapok támogatásával.", "Fő fókusz a textíliákon és a cipőkön.", "A thaiföldi piacot célozza meg."],
       ro: ["Finanțată prin fonduri de dezvoltare japoneze.", "Accent pe textile și încălțăminte.", "Vizează piața thailandeză."],
       en: ["Funded through Japanese development funds.", "Focus on textiles and footwear.", "Targets the Thai market."]
-    }
-  },
+    }, image: "/poi-images/pakse-japan-sme-sez-economic-v2.webp"},
   {
     id: "houayxay-port-economic-v2",
     type: "port",
@@ -223,8 +213,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Kínai energiavállalatok fejlesztették ki.", "Észak-Laosz jelentős részét ellátja árammal.", "Drasztikusan megváltoztatta a helyi folyóökológiát."],
       ro: ["Dezvoltat de companii energetice chineze.", "Furnizează energie electrică în mare parte din nordul Laosului.", "A modificat drastic ecologia locală a râului."],
       en: ["Developed by Chinese energy companies.", "Supplies power to large parts of northern Laos.", "Drastically altered the local river ecology."]
-    }
-  },
+    }, image: "/poi-images/nam-ou-river-cascade-economic-v2.webp"},
   {
     id: "attapeu-sugar-factory-economic-v2",
     type: "industry",
@@ -237,8 +226,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Vietnami befektetésekből üzemeltetik.", "Finomított cukrot termel exportra.", "Egy hatalmas földkoncessziós projekt része."],
       ro: ["Operată prin investiții vietnameze.", "Produce zahăr rafinat pentru export.", "Face parte dintr-un proiect masiv de concesiune a terenurilor."],
       en: ["Operated through Vietnamese investments.", "Produces refined sugar for export.", "Part of a massive land concession project."]
-    }
-  },
+    }, image: "/poi-images/attapeu-sugar-factory-economic-v2.webp"},
   {
     id: "luang-prabang-sez-economic-v2",
     type: "industry",
@@ -265,8 +253,7 @@ export const poiExtraLaosEconomicV2: POI[] = [
       hu: ["Új hidak megnyitásával támogatták.", "Fő fókusz a határokon átnyúló nagykereskedelemben.", "A külföldi logisztikai cégek növekvő befolyása."],
       ro: ["Sprijinită de deschiderea de noi poduri.", "Se concentrează pe comerțul en-gros transfrontalier.", "Influență crescândă a companiilor logistice străine."],
       en: ["Supported by the opening of new bridges.", "Focuses on cross-border wholesale trade.", "Increasing influence of foreign logistics companies."]
-    }
-  },
+    }, image: "/poi-images/bokeo-international-trade-zone-economic-v2.webp"},
   {
     id: "khammouane-potash-mine-economic-v2",
     type: "mine",

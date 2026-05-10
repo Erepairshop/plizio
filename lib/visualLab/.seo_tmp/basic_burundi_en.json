@@ -1,0 +1,75 @@
+{
+  "lang": "en",
+  "country": "Burundi",
+  "files": [
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "karuzi-cities-v2",
+      "description": "Karuzi is a central-eastern Burundi town with a strong rural profile. It works as a local service point for the surrounding agricultural area.",
+      "facts": ["central-eastern Burundi", "rural profile", "service point"]
+    },
+    {
+      "id": "cankuzo-cities-v2",
+      "description": "Cankuzo is an eastern Burundi town and provincial center. Its setting is shaped by hills, farming, and local administration.",
+      "facts": ["eastern Burundi", "provincial center", "hilly farming area"]
+    },
+    {
+      "id": "ruyigi-cities-v2",
+      "description": "Ruyigi is a major eastern city in Burundi. It links the province's farming zones with trade, services, and road movement.",
+      "facts": ["eastern city", "trade and services", "road movement"]
+    },
+    {
+      "id": "cibitoke-cities-v2",
+      "description": "Cibitoke is a western Burundi provincial center near the border zone. It plays a practical role in trade, farming, and local administration.",
+      "facts": ["western Burundi", "border zone", "provincial center"]
+    },
+    {
+      "id": "mwaro-cities-v2",
+      "description": "Mwaro is a central Burundi town with a mostly rural character. It serves the surrounding communities through administration and local commerce.",
+      "facts": ["central Burundi", "rural character", "local commerce"]
+    },
+    {
+      "id": "mabanda-cities-v2",
+      "description": "Mabanda is a southern Burundi town near the Tanzanian side of the country. It supports farming communities and everyday cross-region travel.",
+      "facts": ["southern Burundi", "near Tanzania", "farming communities"]
+    },
+    {
+      "id": "nyanza-lac-cities-v2",
+      "description": "Nyanza-Lac is a lakeside town in southern Burundi. Its life is shaped by fishing, shoreline trade, and movement along Lake Tanganyika.",
+      "facts": ["lakeside town", "fishing", "Lake Tanganyika"]
+    },
+    {
+      "id": "ndava-cities-v2",
+      "description": "Ndava is a small inland locality in Burundi with a quiet rural setting. It is tied to farming, village routes, and local exchange.",
+      "facts": ["inland locality", "rural setting", "village routes"]
+    },
+    {
+      "id": "muhanga-cities-v2",
+      "description": "Muhanga is a Burundian local center in a mostly agricultural setting. It supports nearby residents through services and small-scale trade.",
+      "facts": ["agricultural setting", "local center", "small-scale trade"]
+    },
+    {
+      "id": "rango-cities-v2",
+      "description": "Rango is a small Burundi town with a strong rural base. It functions as a nearby market and service point for the surrounding area.",
+      "facts": ["small town", "rural base", "market and services"]
+    },
+    {
+      "id": "kabarore-cities-v2",
+      "description": "Kabarore is a local Burundi town in an upland rural landscape. It is best understood as a community center rather than a large urban node.",
+      "facts": ["upland landscape", "community center", "rural town"]
+    },
+    {
+      "id": "bukeye-cities-v2",
+      "description": "Bukeye is a northern Burundi town with a hillside and farming context. It serves nearby villages through basic services and local trade.",
+      "facts": ["northern Burundi", "hillside context", "local trade"]
+    }
+  ]
+}

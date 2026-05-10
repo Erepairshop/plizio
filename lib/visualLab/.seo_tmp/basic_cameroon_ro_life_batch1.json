@@ -1,0 +1,54 @@
+{
+  "lang": "ro",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ngaoundere-rinderranch-life-v2",
+      "description": "Ferma de bovine din Ngaoundéré reflectă tradiția creșterii vitelor din Adamawa. Este un spațiu legat de păstorit și de economia rurală a regiunii.",
+      "facts": ["în Ngaoundéré", "legată de creșterea bovinelor", "specifică zonei de savană"]
+    },
+    {
+      "id": "foumban-handwerkermarkt-life-v2",
+      "description": "Piața meșteșugarilor din Foumban este un loc important pentru artizani și obiecte tradiționale. Aici se întâlnesc comerțul local și meșteșugurile bamoun.",
+      "facts": ["în Foumban", "piață de artizanat", "obiecte tradiționale"]
+    },
+    {
+      "id": "dschang-museumspark-life-v2",
+      "description": "Parcul muzeal din Dschang combină spațiul verde cu prezentarea culturii locale. Locul este folosit pentru vizite, educație și activități de familie.",
+      "facts": ["în Dschang", "spațiu muzeal și verde", "potrivit pentru vizite"]
+    },
+    {
+      "id": "bertoua-waldhonig-life-v2",
+      "description": "Mierea de pădure din Bertoua este legată de resursele naturale din estul Camerunului. Produsul reflectă activitățile locale din zonele forestiere.",
+      "facts": ["în Bertoua", "produs forestier", "obținut din pădurea tropicală"]
+    },
+    {
+      "id": "mbam-tierreservat-life-v2",
+      "description": "Rezervația Mbam este un spațiu pentru observarea faunei și pentru conservarea naturii. Zona susține protecția habitatelor și a speciilor locale.",
+      "facts": ["rezervație faunistică", "în zona Mbam", "protecția faunei"]
+    },
+    {
+      "id": "djoum-regenwald-life-v2",
+      "description": "Zona de pădure tropicală din Djoum face parte din peisajul ecuatorial al sudului Camerunului. Aici viața locală este strâns legată de resursele forestiere.",
+      "facts": ["în sudul Camerunului", "pădure tropicală", "mediu ecuatorial"]
+    },
+    {
+      "id": "mbalmayo-forstgarten-life-v2",
+      "description": "Grădina forestieră din Mbalmayo este asociată cu educația și cercetarea în domeniul pădurilor. Spațiul combină vegetația cu funcții practice și didactice.",
+      "facts": ["în Mbalmayo", "centru forestier", "rol educativ"]
+    },
+    {
+      "id": "douala-botanischer-garten-life-v2",
+      "description": "Grădina botanică din Douala oferă un spațiu verde în mijlocul orașului. Este folosită pentru plimbare, observarea plantelor și relaxare urbană.",
+      "facts": ["în Douala", "spațiu verde urban", "colecție de plante"]
+    },
+    {
+      "id": "buea-fruchtgarten-life-v2",
+      "description": "Grădina de fructe din Buea pune în valoare agricultura locală din zona de munte. Locul este legat de livezi și de producția alimentară regională.",
+      "facts": ["în Buea", "legată de livezi", "agricultură locală"]
+    }
+  ]
+}

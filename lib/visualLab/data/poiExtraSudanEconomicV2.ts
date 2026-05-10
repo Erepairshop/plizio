@@ -168,8 +168,7 @@ export const poiExtraSudanEconomicV2: POI[] = [
       hu: ["A világ egyik legnagyobb gyára", "Bioetanolt is termel", "Nemzetközi befektetések", "Hatalmas termőterületek", "A Kenana Cukorgyár a világ egyik legnagyobb integrált cukornád-komplexuma, és a szudáni agráripar sarokköve.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
       ro: ["Una dintre cele mai mari fabrici din lume", "Produce și bioetanol", "Investiții internaționale", "Suprafețe mari de cultivare", "Fabrica de zahăr Kenana este unul dintre cele mai mari complexe integrate de trestie de zahăr din lume și o piatră de temelie a industriei agricole sudaneze.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
       en: ["One of the largest factories worldwide", "Also produces bioethanol", "International investments", "Huge cultivation areas", "The Kenana Sugar Factory is one of the world's largest integrated sugarcane facilities and a cornerstone of Sudan's agricultural industry.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
-    }
-  },
+    }, image: "/poi-images/kenana-sugar-factory-economic-v2.webp"},
   {
     id: "white-nile-sugar-factory-economic-v2",
     type: "industry",
@@ -294,8 +293,7 @@ export const poiExtraSudanEconomicV2: POI[] = [
       hu: ["A legnagyobb finomító Szudánban", "Közös vállalat Kínával (CNPC)", "Nil-Blend nyersolajat finomít", "A hazai kereslet nagy részét fedezi", "A Kartúmtól északra fekvő Al-Jaili finomító Szudán legnagyobb és legmodernebb olajfinomítója, amely üzemanyaggal látja el az országot.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
       ro: ["Cea mai mare rafinărie din Sudan", "Asociere cu China (CNPC)", "Rafinează țițeiul Nil Blend", "Acoperă o mare parte din cererea internă", "Rafinăria Al-Jaili, la nord de Khartoum, este cea mai mare și modernă rafinărie de petrol din Sudan, furnizând combustibil țării.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
       en: ["Largest refinery in Sudan", "Joint venture with China (CNPC)", "Refines Nile Blend crude oil", "Covers a large part of domestic demand", "The Al-Jaili refinery north of Khartoum is Sudan's largest and most modern oil refinery, supplying the country with fuel.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
-    }
-  },
+    }, image: "/poi-images/al-jaili-oil-refinery-economic-v2.webp"},
   {
     id: "el-obeid-oil-refinery-economic-v2",
     type: "industry",
@@ -336,8 +334,7 @@ export const poiExtraSudanEconomicV2: POI[] = [
       hu: ["A legrégebbi finomító Szudánban", "Stratégiai elhelyezkedés a kikötőben", "Gyakori korszerűsítési tervek", "Az 1960-as években alapították", "A régi Port Szudán-i finomító volt az ország első finomítója, de ma már gyakran csak az importált olaj korlátozott feldolgozására szolgál.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
       ro: ["Cea mai veche rafinărie din Sudan", "Locație strategică în port", "Planuri frecvente de modernizare", "Fondată în anii 1960", "Vechea rafinărie din Port Sudan a fost prima din țară, dar astăzi servește adesea doar pentru procesarea limitată a petrolului importat.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
       en: ["Oldest refinery in Sudan", "Strategic location at the port", "Frequent modernization plans", "Founded in the 1960s", "The old refinery in Port Sudan was the country's first, but today it is often only used for the limited processing of imported oil.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
-    }
-  },
+    }, image: "/poi-images/port-sudan-oil-refinery-economic-v2.webp"},
   {
     id: "atbara-cement-factory-economic-v2",
     type: "industry",
@@ -399,8 +396,7 @@ export const poiExtraSudanEconomicV2: POI[] = [
       hu: ["Külföldi befektetések", "Nagy termelési kapacitás", "Csökkenti az importfüggőséget", "Fejlett szűrőberendezések", "A berberi modern cementgyár egyike azoknak a létesítményeknek, amelyeket azért építettek, hogy az ország építőiparát önellátóvá tegyék.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
       ro: ["Investiții străine", "Capacitate mare de producție", "Reduce dependența de importuri", "Sisteme avansate de filtrare", "Fabrica modernă de ciment din Berber este una dintre facilitățile construite pentru a face industria construcțiilor din țară auto-suficientă.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
       en: ["Foreign investments", "High production capacity", "Reduces import dependence", "Advanced filtering systems", "The modern cement factory in Berber is one of the facilities built to make the country's construction industry self-sufficient.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
-    }
-  },
+    }, image: "/poi-images/berber-cement-factory-economic-v2.webp"},
   {
     id: "al-takamul-cement-economic-v2",
     type: "industry",
@@ -462,8 +458,7 @@ export const poiExtraSudanEconomicV2: POI[] = [
       hu: ["Az ország legfontosabb aranytermelője", "Az 1990-es évek óta aktív", "Külszíni fejtés", "Aranyrudak exportja", "A Vörös-tengeri hegyekben található Hassai aranybánya Szudán egyik leggazdagabb aranybányája, amelyet az Ariab Mining Company üzemeltet.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
       ro: ["Cel mai important producător de aur din țară", "Activă din anii 1990", "Exploatare la suprafață", "Export de lingouri de aur", "Mina de aur Hassai din Red Sea Hills este una dintre cele mai productive mine de aur din Sudan și este operată de Ariab Mining Company.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
       en: ["Most important gold producer in the country", "Active since the 1990s", "Open-pit operation", "Export of gold bullion", "The Hassai Gold Mine in the Red Sea Hills is one of Sudan's most productive gold mines and is operated by the Ariab Mining Company.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
-    }
-  },
+    }, image: "/poi-images/hassai-gold-mine-economic-v2.webp"},
   {
     id: "jebel-amir-gold-mines-economic-v2",
     type: "industry",

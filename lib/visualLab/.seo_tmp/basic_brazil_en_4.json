@@ -1,0 +1,122 @@
+{
+  "lang": "en",
+  "country": "Brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBrazilHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBrazilLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBrazilNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "br-amazon-river-nature-v2",
+      "description": "The Amazon River is the largest river on Earth by water volume and the backbone of the Amazon rainforest. It supports vast biodiversity and countless river communities across northern South America.",
+      "facts": [
+        "Largest river by discharge",
+        "Central to the Amazon rainforest",
+        "Flows into the Atlantic",
+        "Supports major biodiversity"
+      ]
+    },
+    {
+      "id": "br-sao-francisco-river-nature-v2",
+      "description": "The São Francisco River is the longest river entirely within Brazil and one of the country's most important waterways. It links the interior to the coast and supports irrigation, energy, and settlement.",
+      "facts": [
+        "Longest river entirely in Brazil",
+        "Called the River of National Unity",
+        "Runs from Minas Gerais to the Atlantic",
+        "Vital for irrigation and hydropower"
+      ]
+    },
+    {
+      "id": "br-parana-river-nature-v2",
+      "description": "The Paraná River is one of South America's great river systems and a major source of hydropower. It is closely tied to regional trade, transport, and the Itaipu energy complex.",
+      "facts": [
+        "Major South American river",
+        "Linked to the Itaipu Dam",
+        "Forms part of regional borders",
+        "Important for transport and power"
+      ]
+    },
+    {
+      "id": "br-tocantins-river-nature-v2",
+      "description": "The Tocantins River flows through central Brazil and plays an important role in energy production and inland transport. It is a key river system for the country's central and northern regions.",
+      "facts": [
+        "Flows through central Brazil",
+        "Important for hydropower",
+        "Supports inland navigation",
+        "Key regional waterway"
+      ]
+    },
+    {
+      "id": "br-araguaia-river-nature-v2",
+      "description": "The Araguaia River is a major river in central Brazil and a defining feature of the Cerrado landscape. Its floodplains and wetlands support rich wildlife and seasonal river life.",
+      "facts": [
+        "In central Brazil",
+        "Part of the Cerrado region",
+        "Known for floodplains and wetlands",
+        "Important for biodiversity"
+      ]
+    },
+    {
+      "id": "br-negro-river-nature-v2",
+      "description": "The Negro River is a large blackwater tributary of the Amazon and one of the defining rivers of the Manaus region. Its dark waters and flooded forests are characteristic of Amazonian nature.",
+      "facts": [
+        "Amazon tributary",
+        "Near Manaus",
+        "Blackwater river",
+        "Known for flooded forests"
+      ]
+    },
+    {
+      "id": "br-madeira-river-nature-v2",
+      "description": "The Madeira River is one of the Amazon basin's largest tributaries and a major river route in western Brazil. It is important for transport, hydropower, and rainforest ecosystems.",
+      "facts": [
+        "Major Amazon tributary",
+        "In western Brazil",
+        "Important for transport",
+        "Linked to hydropower"
+      ]
+    },
+    {
+      "id": "br-tapajos-river-nature-v2",
+      "description": "The Tapajós River is known for its clear waters and strong Amazonian biodiversity. It flows through a broad rainforest landscape and remains one of the region's most striking river systems.",
+      "facts": [
+        "Clearwater Amazon tributary",
+        "Strong rainforest biodiversity",
+        "Flows past Santarém",
+        "Key Amazon river system"
+      ]
+    },
+    {
+      "id": "br-xingu-river-nature-v2",
+      "description": "The Xingu River is a major tributary of the Amazon that crosses a wide stretch of forest and savanna. It is closely associated with indigenous territories and conservation issues.",
+      "facts": [
+        "Amazon tributary",
+        "Crosses forest and savanna",
+        "Important indigenous region",
+        "Key conservation area"
+      ]
+    },
+    {
+      "id": "br-iguazu-river-nature-v2",
+      "description": "The Iguaçu River is best known for forming Iguazu Falls on the border between Brazil and Argentina. It combines dramatic scenery with an important role in the river landscape of southern Brazil.",
+      "facts": [
+        "Forms Iguazu Falls",
+        "Border river with Argentina",
+        "In southern Brazil",
+        "Famous for dramatic scenery"
+      ]
+    },
+    {
+      "id": "br-mount-roraima-nature-v2",
+      "description": "Mount Roraima is a flat-topped mountain in northern Brazil near the borders with Venezuela and Guyana. Its isolated tepui landscape supports unique plants, animals, and dramatic cliffs.",
+      "facts": [
+        "On the Brazil border region",
+        "Flat-topped tepui mountain",
+        "Known for unique ecosystems",
+        "Part of the Guiana Highlands"
+      ]
+    }
+  ]
+}

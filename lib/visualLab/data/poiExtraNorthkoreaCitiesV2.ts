@@ -18,8 +18,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Észak-Korea legnagyobb városa.", "A Rjugjong Szálloda uralja a látképet."],
       ro: ["Cel mai mare oraș din Coreea de Nord.", "Hotelul Ryugyong domină orizontul."],
       en: ["Largest city in North Korea.", "The Ryugyong Hotel dominates its skyline."]
-    }
-  },
+    }, image: "/poi-images/kp-pyongyang-cities-v2.webp"},
   {
     id: "kp-hamhung-cities-v2",
     type: "city",
@@ -37,8 +36,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Az ország második legnagyobb városa.", "Hatalmas vinalon-gyárral rendelkezik."],
       ro: ["Al doilea oraș ca mărime din țară.", "Deține o fabrică uriașă de vinalon."],
       en: ["Second-largest city in the country.", "Has a massive vinalon factory."]
-    }
-  },
+    }, image: "/poi-images/kp-hamhung-cities-v2.webp"},
   {
     id: "kp-chongjin-cities-v2",
     type: "city",
@@ -56,8 +54,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Gyakran 'A vas városa' néven emlegetik.", "Fontos kikötő a Japán-tengernél."],
       ro: ["Adesea numit 'Orașul Fierului'.", "Port maritim important la Marea Japoniei."],
       en: ["Often called the 'City of Iron'.", "Major seaport on the Sea of Japan."]
-    }
-  },
+    }, image: "/poi-images/kp-chongjin-cities-v2.webp"},
   {
     id: "kp-nampo-cities-v2",
     type: "city",
@@ -75,8 +72,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["A hatalmas Nyugati-tengeri gát otthona.", "A nyugati part legfontosabb kikötője."],
       ro: ["Găzduiește uriașul Baraj al Mării de Vest.", "Cel mai important port de pe coasta de vest."],
       en: ["Home to the massive West Sea Barrage.", "Most important port on the west coast."]
-    }
-  },
+    }, image: "/poi-images/kp-nampo-cities-v2.webp"},
   {
     id: "kp-wonsan-cities-v2",
     type: "city",
@@ -94,8 +90,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Kedvelt belföldi turisztikai célpont.", "Nagy nemzetközi repülőtérrel rendelkezik."],
       ro: ["Destinație turistică populară pentru nord-coreeni.", "Are un aeroport internațional mare."],
       en: ["Popular domestic tourist destination.", "Has a large international airport."]
-    }
-  },
+    }, image: "/poi-images/kp-wonsan-cities-v2.webp"},
   {
     id: "kp-sinuiju-cities-v2",
     type: "city",
@@ -113,8 +108,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["A legfontosabb határátkelő a kínai Tantung felé.", "A Kínai-Koreai Barátság Hídja köti össze a két várost."],
       ro: ["Cel mai important punct de trecere a frontierei spre Dandong.", "Podul Prieteniei Sino-Coreene conectează cele două orașe."],
       en: ["Major border crossing to Dandong, China.", "The Sino-Korean Friendship Bridge connects the two cities."]
-    }
-  },
+    }, image: "/poi-images/kp-sinuiju-cities-v2.webp"},
   {
     id: "kp-tanchon-cities-v2",
     type: "city",
@@ -132,8 +126,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Az észak-koreai kohászat központja.", "Itt található a Komdok magnezitkomplexum."],
       ro: ["Centrul metalurgiei nord-coreene.", "Găzduiește complexul de magnezit Komdok."],
       en: ["Center of North Korean metallurgy.", "Hosts the Komdok magnesite complex."]
-    }
-  },
+    }, image: "/poi-images/kp-tanchon-cities-v2.webp"},
   {
     id: "kp-kaechon-cities-v2",
     type: "city",
@@ -151,8 +144,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Kiterjedt szénbányákkal rendelkezik.", "A Tedong folyó a közelben folyik."],
       ro: ["Dispune de mine de cărbune extinse.", "Râul Taedong curge în apropiere."],
       en: ["Has extensive coal mines.", "The Taedong River flows nearby."]
-    }
-  },
+    }, image: "/poi-images/kp-kaechon-cities-v2.webp"},
   {
     id: "kp-kaesong-cities-v2",
     type: "city",
@@ -170,8 +162,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["A Korjo történelmi fővárosa.", "Híres a kiváló minőségű ginzengről."],
       ro: ["Capitala istorică a regatului Koryo.", "Renumit pentru ginseng-ul de înaltă calitate."],
       en: ["Historical capital of Koryo.", "Famous for high-quality ginseng."]
-    }
-  },
+    }, image: "/poi-images/kp-kaesong-cities-v2.webp"},
   {
     id: "kp-sariwon-cities-v2",
     type: "city",
@@ -189,8 +180,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Észak-Hvanghe tartomány fővárosa.", "Híres a hagyományos folklórparkjairól."],
       ro: ["Capitala provinciei Hwanghae de Nord.", "Cunoscut pentru parcurile sale folclorice tradiționale."],
       en: ["Capital of North Hwanghae province.", "Known for its traditional folklore parks."]
-    }
-  },
+    }, image: "/poi-images/kp-sariwon-cities-v2.webp"},
   {
     id: "kp-sunchon-cities-v2",
     type: "city",
@@ -208,8 +198,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["A vegyipar központja.", "Nagy széntüzelésű erőművekkel rendelkezik."],
       ro: ["Centrul industriei chimice.", "Are mari centrale electrice pe cărbune."],
       en: ["Center of the chemical industry.", "Has large coal-fired power plants."]
-    }
-  },
+    }, image: "/poi-images/kp-sunchon-cities-v2.webp"},
   {
     id: "kp-pyongsong-cities-v2",
     type: "city",
@@ -227,8 +216,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["A Nemzeti Tudományos Akadémia székhelye.", "A 60-as években tervszerűen épült."],
       ro: ["Sediul Academiei Naționale de Științe.", "A fost construit planificat în anii 1960."],
       en: ["Seat of the National Academy of Sciences.", "Built as a planned city in the 1960s."]
-    }
-  },
+    }, image: "/poi-images/kp-pyongsong-cities-v2.webp"},
   {
     id: "kp-haeju-cities-v2",
     type: "city",
@@ -246,8 +234,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Dél-Hvanghe tartomány fővárosa.", "A nyugati part kevés jégmentes kikötőjének egyike."],
       ro: ["Capitala provinciei Hwanghae de Sud.", "Unul dintre puținele porturi fără gheață din vest."],
       en: ["Capital of South Hwanghae province.", "One of the few ice-free ports in the west."]
-    }
-  },
+    }, image: "/poi-images/kp-haeju-cities-v2.webp"},
   {
     id: "kp-kanggye-cities-v2",
     type: "city",
@@ -265,8 +252,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Meredek erdős hegyek veszik körül.", "Fontos erdészeti csomópont."],
       ro: ["Înconjurat de munți abrupți împăduriți.", "Centru important pentru silvicultură."],
       en: ["Surrounded by steep forested mountains.", "Important hub for forestry."]
-    }
-  },
+    }, image: "/poi-images/kp-kanggye-cities-v2.webp"},
   {
     id: "kp-anju-cities-v2",
     type: "city",
@@ -284,8 +270,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Nagy kőszénkészleteiről ismert.", "Kiterjedt mezőgazdasági külvárosai vannak."],
       ro: ["Cunoscut pentru rezervele mari de huilă.", "Are suburbii agricole extinse."],
       en: ["Known for large hard coal deposits.", "Has extensive agricultural suburbs."]
-    }
-  },
+    }, image: "/poi-images/kp-anju-cities-v2.webp"},
   {
     id: "kp-tokchon-cities-v2",
     type: "city",
@@ -303,8 +288,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["A Szungri Autógyár otthona.", "Fontos a nemzeti szénbányászat számára."],
       ro: ["Sediul uzinei auto Sungri.", "Important pentru mineritul național de cărbune."],
       en: ["Home to the Sungri Motor Plant.", "Important for national coal mining."]
-    }
-  },
+    }, image: "/poi-images/kp-tokchon-cities-v2.webp"},
   {
     id: "kp-kimchaek-cities-v2",
     type: "city",
@@ -322,8 +306,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Ipari termékek fontos exportkikötője.", "Jelentős acélművel rendelkezik."],
       ro: ["Port important de export pentru produse industriale.", "Dispune de o uzină siderurgică majoră."],
       en: ["Important export port for industrial goods.", "Has a major steel plant."]
-    }
-  },
+    }, image: "/poi-images/kp-kimchaek-cities-v2.webp"},
   {
     id: "kp-rason-cities-v2",
     type: "city",
@@ -341,8 +324,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Szabadkereskedelmi övezet a 90-es évek óta.", "Egész évben jégmentes mélyvízi kikötő."],
       ro: ["Zonă de liber schimb din anii '90.", "Port de adâncime fără gheață tot anul."],
       en: ["Free trade zone since the 1990s.", "Year-round ice-free deep-water port."]
-    }
-  },
+    }, image: "/poi-images/kp-rason-cities-v2.webp"},
   {
     id: "kp-kusong-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Rjanggang hegyvidéki tartomány fővárosa.", "Rendkívül hideg téli hőmérséklet, -20 °C alatt."],
       ro: ["Capitala provinciei muntoase Ryanggang.", "Temperaturi de iarnă extrem de scăzute, sub -20 °C."],
       en: ["Capital of the mountainous Ryanggang province.", "Extremely cold winter temperatures below -20 °C."]
-    }
-  },
+    }, image: "/poi-images/kp-hyesan-cities-v2.webp"},
   {
     id: "kp-huichon-cities-v2",
     type: "city",
@@ -398,8 +379,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Az észak-koreai elektronika gyártóhelye.", "Számos nagy vízerőművel rendelkezik."],
       ro: ["Locul de producție pentru electronice nord-coreene.", "Are mai multe centrale hidroelectrice mari."],
       en: ["Manufacturing site for North Korean electronics.", "Has several large hydroelectric power plants."]
-    }
-  },
+    }, image: "/poi-images/kp-huichon-cities-v2.webp"},
   {
     id: "kp-jongju-cities-v2",
     type: "city",
@@ -417,8 +397,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Az észak-koreai vasút fontos állomása.", "A gyümölcs- és rizstermesztés központja."],
       ro: ["Stație importantă a căilor ferate nord-coreene.", "Centru pentru cultivarea fructelor și orezului."],
       en: ["Important station on the North Korean railway.", "Center for fruit and rice cultivation."]
-    }
-  },
+    }, image: "/poi-images/kp-jongju-cities-v2.webp"},
   {
     id: "kp-songrim-cities-v2",
     type: "city",
@@ -436,8 +415,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["A nagy Hvanghe acélmű telephelye.", "Korábban Kjomipho néven volt ismert."],
       ro: ["Sediul marii uzine siderurgice Hwanghae.", "Anterior cunoscut sub numele de Kyomipo."],
       en: ["Site of the large Hwanghae Steel Works.", "Formerly known as Kyomipo."]
-    }
-  },
+    }, image: "/poi-images/kp-songrim-cities-v2.webp"},
   {
     id: "kp-hoeryong-cities-v2",
     type: "city",
@@ -455,8 +433,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["A forradalmi történelem fontos helyszíne.", "A belföldi állampolgárok kedvelt zarándokhelye."],
       ro: ["Loc important al istoriei revoluționare.", "Destinație de pelerinaj populară pentru nord-coreeni."],
       en: ["Important site of revolutionary history.", "Popular pilgrimage destination for North Koreans."]
-    }
-  },
+    }, image: "/poi-images/kp-hoeryong-cities-v2.webp"},
   {
     id: "kp-munchon-cities-v2",
     type: "city",
@@ -474,8 +451,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Több nagy hajóépítő üzemmel rendelkezik.", "Jelentős halászati infrastruktúrával bír."],
       ro: ["Are mai multe instalații mari de construcții navale.", "Infrastructură majoră de pescuit."],
       en: ["Has several large shipbuilding facilities.", "Major fishing infrastructure."]
-    }
-  },
+    }, image: "/poi-images/kp-munchon-cities-v2.webp"},
   {
     id: "kp-manpo-cities-v2",
     type: "city",
@@ -493,8 +469,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Vasúti híd köti össze Kínával.", "A területet sűrű tűlevelű erdők jellemzik."],
       ro: ["Conectat cu China printr-un pod feroviar.", "Zona este dominată de păduri dese de conifere."],
       en: ["Connected to China by a railway bridge.", "Area is dominated by dense coniferous forests."]
-    }
-  },
+    }, image: "/poi-images/kp-manpo-cities-v2.webp"},
   {
     id: "kp-sonchon-cities-v2",
     type: "city",
@@ -512,8 +487,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Fontos gabonatermesztő vidék.", "Egykor a keresztény misszionárius munka központja volt."],
       ro: ["Zonă importantă pentru cultivarea cerealelor.", "A fost odată un centru al muncii misionare creștine."],
       en: ["Important area for grain cultivation.", "Was once a center of Christian missionary work."]
-    }
-  },
+    }, image: "/poi-images/kp-sonchon-cities-v2.webp"},
   {
     id: "kp-sinpho-cities-v2",
     type: "city",
@@ -531,8 +505,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["Az észak-koreai tengeralattjáró flotta főhadiszállása.", "Mély, védett öblökkel rendelkezik."],
       ro: ["Sediul flotei de submarine nord-coreene.", "Dispune de golfuri adânci și protejate."],
       en: ["Headquarters of the North Korean submarine fleet.", "Has deep, protected bays."]
-    }
-  },
+    }, image: "/poi-images/kp-sinpho-cities-v2.webp"},
   {
     id: "kp-samjiyon-cities-v2",
     type: "city",
@@ -550,8 +523,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       hu: ["A Pektu-hegység közelében található.", "Az elmúlt években jelentősen korszerűsítették."],
       ro: ["Situat în apropierea masivului Paektusan.", "Extins modernizat în ultimii ani."],
       en: ["Located near the Paektusan massif.", "Extensively modernized in recent years."]
-    }
-  },
+    }, image: "/poi-images/kp-samjiyon-cities-v2.webp"},
   {
     id: "kp-pukchang-cities-v2",
     type: "city",

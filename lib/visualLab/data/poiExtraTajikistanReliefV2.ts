@@ -23,8 +23,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["Több mint 5000 méteres magasságot is elér.", "Fontos forrása az öntözőrendszereknek."],
       ro: ["Atinge înălțimi de peste 5.000 de metri.", "O sursă importantă pentru sistemele de irigații."],
       en: ["Reaches heights of over 5,000 meters.", "An important source for irrigation systems."]
-    }
-  },
+    }, image: "/poi-images/hissar-range-relief-v2.webp"},
   {
     id: "zeravshan-range-relief-v2",
     type: "mountain",
@@ -47,8 +46,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["Mintegy 370 kilométer hosszan húzódik.", "Itt található a hatalmas Zarafson-gleccser."],
       ro: ["Se întinde pe aproximativ 370 de kilometri.", "Găzduiește marele ghețar Zeravșan."],
       en: ["Stretches for about 370 kilometers.", "Home to the massive Zeravshan Glacier."]
-    }
-  },
+    }, image: "/poi-images/zeravshan-range-relief-v2.webp"},
   {
     id: "turkestan-range-relief-v2",
     type: "mountain",
@@ -95,8 +93,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["Határolja a Fergana-völgyet.", "Gazdag színesfémércekben."],
       ro: ["Mărginește valea Fergana.", "Bogat în minereuri de metale neferoase."],
       en: ["Borders the Fergana Valley.", "Rich in non-ferrous metal ores."]
-    }
-  },
+    }, image: "/poi-images/kurama-range-relief-v2.webp"},
   {
     id: "darvaz-range-relief-v2",
     type: "mountain",
@@ -215,8 +212,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["Több tucat gleccsernek ad otthont.", "Délen a Vancs folyó határolja."],
       ro: ["Găzduiește zeci de ghețari.", "Este mărginit la sud de râul Vanch."],
       en: ["Home to dozens of glaciers.", "Bounded to the south by the Vanch River."]
-    }
-  },
+    }, image: "/poi-images/vanch-range-relief-v2.webp"},
   {
     id: "akademiya-nauk-range-relief-v2",
     type: "mountain",
@@ -263,8 +259,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["Határt képez Tádzsikisztán és Kirgizisztán között.", "Itt található a Lenin-csúcs (Pik Ibn Sina)."],
       ro: ["Formează granița dintre Tadjikistan și Kârgâzstan.", "Aici se află Vârful Lenin (Pik Ibn Sina)."],
       en: ["Forms the border between Tajikistan and Kyrgyzstan.", "Home to Lenin Peak (Pik Ibn Sina)."]
-    }
-  },
+    }, image: "/poi-images/trans-alay-range-relief-v2.webp"},
   {
     id: "muzkol-range-relief-v2",
     type: "mountain",
@@ -335,8 +330,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["Majdnem 4000 méteres magasságban fekszik.", "Jakok és Marco Polo-juhok otthona."],
       ro: ["Situată la o altitudine de aproape 4.000 de metri.", "Casa iacilor și a oilor Marco Polo."],
       en: ["Situated at almost 4,000 meters altitude.", "Home to yaks and Marco Polo sheep."]
-    }
-  },
+    }, image: "/poi-images/alichur-valley-relief-v2.webp"},
   {
     id: "wakhan-valley-relief-v2",
     type: "valley",
@@ -359,8 +353,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["A Hindukus és a Pamír hatalmas csúcsai veszik körül.", "Ősi erődromjairól ismert."],
       ro: ["Înconjurată de vârfurile masive ale Hindu Kush-ului și Pamirului.", "Cunoscută pentru ruinele vechilor sale cetăți."],
       en: ["Surrounded by massive peaks of the Hindu Kush and Pamir.", "Known for its ancient fortress ruins."]
-    }
-  },
+    }, image: "/poi-images/wakhan-valley-relief-v2.webp"},
   {
     id: "yagnob-valley-relief-v2",
     type: "valley",
@@ -383,8 +376,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["A Zarafson- és a Hisszár-hegység között terül el.", "Hónapokon át hó zárja el a külvilágtól."],
       ro: ["Situată între Munții Zeravșan și Hissar.", "Tăiată de lumea exterioară luni de zile din cauza zăpezii."],
       en: ["Located between the Zeravshan and Gissar mountains.", "Cut off from the outside world by snow for months."]
-    }
-  },
+    }, image: "/poi-images/yagnob-valley-relief-v2.webp"},
   {
     id: "rasht-valley-relief-v2",
     type: "valley",
@@ -407,8 +399,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["Történelmileg fontos mezőgazdasági régió.", "A múltban az ellenzék fellegváraként szolgált."],
       ro: ["Istoric, o regiune agricolă importantă.", "În trecut a servit drept bastion al opoziției."],
       en: ["Historically an important agricultural region.", "Served as a stronghold for the opposition in the past."]
-    }
-  },
+    }, image: "/poi-images/rasht-valley-relief-v2.webp"},
   {
     id: "fergana-valley-tajik-relief-v2",
     type: "valley",
@@ -455,8 +446,7 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["Az átlagos magasság több mint 3600 méter.", "Az éghajlat szélsőséges magashegyi sivatagi."],
       ro: ["Altitudinea medie este de peste 3.600 de metri.", "Clima este una de deșert alpin extrem."],
       en: ["The average altitude is over 3,600 meters.", "The climate is an extreme high-mountain desert climate."]
-    }
-  },
+    }, image: "/poi-images/murghab-plateau-relief-v2.webp"},
   {
     id: "karategin-range-relief-v2",
     type: "mountain",

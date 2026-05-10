@@ -110,13 +110,13 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Der Hafen von Moroni ist das wirtschaftliche Tor der Insel Grande Comore und ein lebendiger Ort des Handels.",
       hu: "Moroni kikötője Grande Comore gazdasági kapuja és a kereskedelem élettel teli központja.",
       ro: "Portul din Moroni este poarta economică a insulei Grande Comore și un loc vibrant al comerțului.",
-      en: "The harbor of Moroni is the economic gateway of Grande Comore island and a vibrant place of trade."
+      en: "Moroni Harbor is the main maritime gateway of Grande Comore. Cargo handling, local shipping, and traditional dhows keep the port active every day."
     },
     facts: {
       de: ["Wichtigster Warenumschlagplatz", "Blick auf traditionelle Dhaus", "Zentrum der Küstenschifffahrt"],
       hu: ["Legfontosabb áruforgalmi csomópont", "Kilátás a hagyományos dhow hajókra", "A parti hajózás központja"],
       ro: ["Principalul nod comercial", "Vedere spre ambarcațiunile dhow tradiționale", "Centrul navigației de coastă"],
-      en: ["Main trade hub", "View of traditional dhows", "Center of coastal shipping"]
+      en: ["Main port of Grande Comore", "Cargo and local shipping", "Traditional dhows"]
     }, image: "/poi-images/port-de-moroni-landmarks-v2.webp"},
   {
     id: "port-de-mutsamudu-landmarks-v2",
@@ -270,13 +270,13 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     description: {
       de: "Dieses Verwaltungsgebäude in Moroni beherbergt wichtige Ministerien und Regierungsbüros der Komoren.",
       hu: "Ez a moroni adminisztratív épület ad otthont a Comore-szigetek fontos minisztériumainak és kormányzati hivatalainak.",
-      ro: "Această clădire administrativă din Moroni găzduiește ministere și birouri guvernamentale importante din Comore.",
+      ro: "Palais du gouvernement este o clădire administrativă din Moroni, capitala Comorelor. Numele lui trimite direct la centrul puterii executive din oraș.",
       en: "This administrative building in Moroni houses key ministries and government offices of the Comoros."
     },
     facts: {
       de: ["Verwaltungssitz", "Infrastruktureller Knotenpunkt", "Zentral gelegen"],
       hu: ["Igazgatási székhely", "Infrastrukturális csomópont", "Központi fekvés"],
-      ro: ["Sediu administrativ", "Nod de infrastructură", "Situat central"],
+      ro: ["în Moroni", "clădire oficială", "sediu administrativ"],
       en: ["Administrative seat", "Infrastructural hub", "Centrally located"]
     }, image: "/poi-images/palais-du-gouvernement-landmarks-v2.webp"},
   {
@@ -293,14 +293,14 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     description: {
       de: "Das Itsandra Beach Hotel ist eines der bekanntesten Hotels der Insel und ein Wahrzeichen für den Tourismus auf Grande Comore.",
       hu: "Az Itsandra Beach Hotel a sziget egyik legismertebb szállodája és a Grande Comore-i turizmus jelképe.",
-      ro: "Hotelul Itsandra Beach este unul dintre cele mai cunoscute hoteluri de pe insulă și un punct de reper pentru turismul din Grande Comore.",
-      en: "The Itsandra Beach Hotel is one of the island's most famous hotels and a landmark for tourism on Grande Comore."
+      ro: "Itsandra Beach Hotel este un hotel de litoral din zona Itsandra, la nord de Moroni. Este legat de turismul de coastă și de plaja din apropiere.",
+      en: "Itsandra Beach Hotel is a well-known beachfront hotel north of Moroni. It is one of the island's most visible tourism landmarks."
     },
     facts: {
       de: ["Luxuriöse Ferienanlage", "Blick auf den Ozean", "Wichtiges touristisches Zentrum"],
       hu: ["Luxus üdülőhely", "Kilátás az óceánra", "Fontos turisztikai központ"],
-      ro: ["Resort de lux", "Vedere spre ocean", "Centru turistic important"],
-      en: ["Luxury resort", "Oceanfront view", "Important tourist hub"]
+      ro: ["hotel de coastă", "în zona Itsandra", "pe Grande Comore"],
+      en: ["Beachfront hotel", "North of Moroni", "Tourism landmark"]
     }, image: "/poi-images/itsandra-beach-hotel-landmarks-v2.webp"},
   {
     id: "alliance-francaise-moroni-landmarks-v2",
@@ -317,13 +317,13 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       de: "Die Alliance Française in Moroni ist ein bedeutendes kulturelles Zentrum, das den Austausch zwischen der komorischen und französischen Kultur fördert.",
       hu: "A moroni Francia Intézet jelentős kulturális központ, amely elősegíti a comore-i és a francia kultúra közötti cserét.",
       ro: "Alianța Franceză din Moroni este un centru cultural important care promovează schimbul dintre cultura comoriană și cea franceză.",
-      en: "The Alliance Française in Moroni is a significant cultural center promoting exchange between Comorian and French cultures."
+      en: "The Alliance Française in Moroni is a cultural venue for events, classes, and public programs. It supports exchange between Comorian and French-speaking communities."
     },
     facts: {
       de: ["Kulturelle Bildungseinrichtung", "Veranstaltungsort", "Bibliothek und Sprachschule"],
       hu: ["Kulturális oktatási intézmény", "Rendezvényhelyszín", "Könyvtár és nyelviskola"],
       ro: ["Instituție de educație culturală", "Loc de evenimente", "Bibliotecă și școală de limbi"],
-      en: ["Cultural educational institution", "Event venue", "Library and language school"]
+      en: ["Cultural center", "Language classes and events", "International exchange"]
     }, image: "/poi-images/alliance-francaise-moroni-landmarks-v2.webp"},
   {
     id: "ouani-airport-terminal-landmarks-v2",
@@ -339,14 +339,14 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     description: {
       de: "Das Flughafenterminal in Ouani ist das Tor zur Insel Anjouan und ein wichtiges Bauwerk für den regionalen Verkehr.",
       hu: "Az ouani repülőtéri terminál Anjouan szigetének kapuja és a regionális közlekedés fontos építménye.",
-      ro: "Terminalul aeroportului din Ouani este poarta către insula Anjouan și o construcție importantă pentru transportul regional.",
-      en: "The airport terminal in Ouani is the gateway to Anjouan island and a key structure for regional transport."
+      ro: "Terminalul aeroportuar din Ouani este poarta aeriană a insulei Anjouan. Prin el se face legătura între insulă și restul arhipelagului.",
+      en: "The Ouani airport terminal is the main air gateway to Anjouan. It connects the island with the rest of the archipelago and regional routes."
     },
     facts: {
       de: ["Wichtigster Flughafen von Anjouan", "Regionale Flugverbindungen", "Logistischer Knotenpunkt"],
       hu: ["Anjouan legfontosabb repülőtere", "Regionális légi járatok", "Logisztikai csomópont"],
-      ro: ["Principalul aeroport din Anjouan", "Zboruri regionale", "Nod logistic"],
-      en: ["Main airport of Anjouan", "Regional flight connections", "Logistical hub"]
+      ro: ["terminal aeroportuar", "în Ouani", "pe Anjouan"],
+      en: ["Main airport on Anjouan", "Island gateway", "Regional transport"]
     }, image: "/poi-images/ouani-airport-terminal-landmarks-v2.webp"},
   {
     id: "bander-es-salam-terminal-landmarks-v2",
@@ -408,15 +408,15 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     },
     description: {
       de: "Die Uferpromenade von Domoni ist ein gestalteter Bereich an der Küste, der den Blick auf den Indischen Ozean bietet.",
-      hu: "Domoni tengerparti sétánya egy kiépített partszakasz, amely kilátást nyújt az Indiai-óceánra.",
-      ro: "Promenada din Domoni este o zonă amenajată pe coastă, care oferă vedere spre Oceanul Indian.",
-      en: "The waterfront of Domoni is a designed area on the coast offering views of the Indian Ocean."
+      hu: "Domoni partszakasza a város tengerhez kötődő oldalát mutatja meg. A sétány és a kikötőközeli rész a mindennapi forgalom része.",
+      ro: "Waterfront-ul din Domoni este zona de la malul mării a orașului, unde se vede legătura dintre viața locală și țărm. Locul completează atmosfera vechiului oraș de pe Anjouan.",
+      en: "Domoni's waterfront is a public coastal area with open views of the Indian Ocean. It frames the town's everyday life along the sea edge."
     },
     facts: {
       de: ["Blick auf den Ozean", "Öffentlicher Raum", "Nahe den historischen Vierteln"],
-      hu: ["Kilátás az óceánra", "Közösségi tér", "A történelmi negyedek közelében"],
-      ro: ["Vedere spre ocean", "Spațiu public", "Lângă cartierele istorice"],
-      en: ["Ocean view", "Public space", "Near the historic quarters"]
+      hu: ["Domoni partja", "Kikötőközeli terület", "Sétány és forgalom"],
+      ro: ["zona de coastă", "în Domoni", "pe Anjouan"],
+      en: ["Public waterfront", "Indian Ocean views", "Near the historic town"]
     }, image: "/poi-images/waterfront-domoni-landmarks-v2.webp"},
   {
     id: "fort-de-iconi-ruins-landmarks-v2",
@@ -477,13 +477,13 @@ export const poiExtraComorosLandmarksV2: POI[] = [
       en: "Fomboni Town Hall"
     },
     description: {
-      de: "Das Rathaus von Fomboni ist das administrative Herz der Insel Mohéli und ein bekanntes öffentliches Gebäude.",
+      de: "Das Rathaus von Fomboni ist das Verwaltungszentrum von Moh?li und der wichtigste Ort der Stadtverwaltung. Hier laufen die lokalen Amtsgesch?fte der Inselhauptstadt zusammen.",
       hu: "A fomboni városháza Mohéli szigetének adminisztratív szíve és ismert középület.",
       ro: "Primăria din Fomboni este inima administrativă a insulei Mohéli și o clădire publică cunoscută.",
       en: "Fomboni Town Hall is the administrative heart of Mohéli island and a well-known public building."
     },
     facts: {
-      de: ["Verwaltungssitz von Mohéli", "Zentrale Lage", "Ort der lokalen Regierung"],
+      de: ["Verwaltungssitz von Moh?li", "Zentrum der Stadtverwaltung", "In Fomboni gelegen"],
       hu: ["Mohéli igazgatási székhelye", "Központi elhelyezkedés", "A helyi kormányzat székhelye"],
       ro: ["Sediul administrativ din Mohéli", "Localizare centrală", "Locul guvernului local"],
       en: ["Administrative seat of Mohéli", "Central location", "Place of local government"]
@@ -502,13 +502,13 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     description: {
       de: "Dieses Gymnasium in Moroni ist die angesehenste Bildungseinrichtung des Landes und hat viele Führungspersönlichkeiten hervorgebracht.",
       hu: "Ez a moroni gimnázium az ország legtekintélyesebb oktatási intézménye, amely számos vezetőt nevelt ki.",
-      ro: "Acest liceu din Moroni este cea mai prestigioasă instituție de învățământ din țară și a format mulți lideri.",
+      ro: "Liceul Saïd Mohamed Cheikh este una dintre școlile importante din Moroni. Clădirea este asociată cu educația secundară și cu formarea elevilor din capitală.",
       en: "This secondary school in Moroni is the country's most prestigious educational institution and has produced many leaders."
     },
     facts: {
       de: ["Elite-Bildungseinrichtung", "Historischer Campus", "Zentrum akademischer Exzellenz"],
       hu: ["Elit oktatási intézmény", "Történelmi kampusz", "Az akadémiai kiválóság központja"],
-      ro: ["Instituție de învățământ de elită", "Campus istoric", "Centru de excelență academică"],
+      ro: ["liceu din Moroni", "instituție educațională", "în capitala Comorelor"],
       en: ["Elite educational institution", "Historic campus", "Center of academic excellence"]
     }, image: "/poi-images/lycee-said-mohamed-cheikh-landmarks-v2.webp"},
   {
@@ -524,15 +524,15 @@ export const poiExtraComorosLandmarksV2: POI[] = [
     },
     description: {
       de: "Der Volovolo-Markt in Moroni ist der größte und lebendigste Markt der Komoren, wo alle Waren des Archipels gehandelt werden.",
-      hu: "A moroni Volovolo piac a Comore-szigetek legnagyobb és legélénkebb piaca, ahol a szigetvilág minden áruja megtalálható.",
+      hu: "A Volovolo piac Moroni egyik legélénkebb helye. Itt a zöldség, a hal, a fűszerek és a mindennapi bevásárlás találkozik.",
       ro: "Piața Volovolo din Moroni este cea mai mare și mai vibrantă piață din Comore, unde se comercializează toate mărfurile arhipelagului.",
-      en: "The Volovolo market in Moroni is the largest and liveliest market in the Comoros, where all goods of the archipelago are traded."
+      en: "Volovolo Market is Moroni's busiest market and a key place for daily shopping. Spices, fish, produce, and other local goods fill the stalls."
     },
     facts: {
       de: ["Wirtschaftliches Zentrum", "Lebhaftes Treiben", "Vielfalt an lokalen Produkten"],
-      hu: ["Gazdasági központ", "Élénk forgatag", "Helyi termékek sokfélesége"],
+      hu: ["Moroni piaca", "Friss élelmiszer", "Napi bevásárlás"],
       ro: ["Centru economic", "Activitate vibrantă", "Diversitate de produse locale"],
-      en: ["Economic hub", "Lively atmosphere", "Variety of local products"]
+      en: ["Largest market in Moroni", "Spices and produce", "Daily trading hub"]
     }
   },
   {

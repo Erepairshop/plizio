@@ -34,8 +34,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Located about 40 kilometers south of Phnom Penh.",
         "Important refuge for sun bears and Asian elephants."
       ]
-    }
-  },
+    }, image: "/poi-images/phnom-tamao-wildlife-rescue-center-life-v2.webp"},
   {
     id: "prek-toal-bird-sanctuary-life-v2",
     type: "wildlife-area",
@@ -69,8 +68,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Attracts thousands of birds during the dry season.",
         "Home to endangered species such as the greater adjutant."
       ]
-    }
-  },
+    }, image: "/poi-images/prek-toal-bird-sanctuary-life-v2.webp"},
   {
     id: "la-plantation-kampot-pepper-farm-life-v2",
     type: "agriculture",
@@ -104,8 +102,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "The farm offers guided tours and tastings.",
         "They cultivate black, red, and white pepper."
       ]
-    }
-  },
+    }, image: "/poi-images/la-plantation-kampot-pepper-farm-life-v2.webp"},
   {
     id: "banteay-srey-butterfly-centre-life-v2",
     type: "kid-friendly",
@@ -139,8 +136,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Supports the local community through butterfly farming.",
         "Visitors can observe all life stages of a butterfly."
       ]
-    }
-  },
+    }, image: "/poi-images/banteay-srey-butterfly-centre-life-v2.webp"},
   {
     id: "angkor-centre-for-conservation-of-biodiversity-life-v2",
     type: "wildlife-area",
@@ -174,8 +170,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Focuses on primates, pangolins, and rare turtles.",
         "Many of the animals were rescued from the illegal wildlife trade."
       ]
-    }
-  },
+    }, image: "/poi-images/angkor-centre-for-conservation-of-biodiversity-life-v2.webp"},
   {
     id: "kulen-elephant-forest-life-v2",
     type: "wildlife-area",
@@ -209,8 +204,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Visitors can observe elephants in their natural habitat.",
         "Promotes ethical and responsible animal welfare."
       ]
-    }
-  },
+    }, image: "/poi-images/kulen-elephant-forest-life-v2.webp"},
   {
     id: "elephant-valley-project-life-v2",
     type: "wildlife-area",
@@ -244,8 +238,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "The project also supports the local Bunong community.",
         "Promotes the conservation of the jungle habitat."
       ]
-    }
-  },
+    }, image: "/poi-images/elephant-valley-project-life-v2.webp"},
   {
     id: "kampi-dolphin-habitat-life-v2",
     type: "wildlife-area",
@@ -279,8 +272,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Boat tours follow strict animal protection guidelines.",
         "The community relies on responsible tourism for their livelihood."
       ]
-    }
-  },
+    }, image: "/poi-images/kampi-dolphin-habitat-life-v2.webp"},
   {
     id: "chreav-village-organic-farm-life-v2",
     type: "agriculture",
@@ -314,8 +306,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Visitors can experience traditional Cambodian rural life.",
         "An important contribution to the region's food security."
       ]
-    }
-  },
+    }, image: "/poi-images/chreav-village-organic-farm-life-v2.webp"},
   {
     id: "sothys-pepper-farm-life-v2",
     type: "agriculture",
@@ -349,8 +340,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Free guided tours of the plantations.",
         "Pepper is harvested here using ancient techniques."
       ]
-    }
-  },
+    }, image: "/poi-images/sothys-pepper-farm-life-v2.webp"},
   {
     id: "kampot-salt-fields-life-v2",
     type: "agriculture",
@@ -384,8 +374,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Salt harvesting is hard, traditional manual labor.",
         "Best visited during the dry season between December and May."
       ]
-    }
-  },
+    }, image: "/poi-images/kampot-salt-fields-life-v2.webp"},
   {
     id: "phnom-penh-safari-park-life-v2",
     type: "park",
@@ -419,8 +408,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Houses animals from Asia and Africa.",
         "Offers various animal shows designed for children."
       ]
-    }
-  },
+    }, image: "/poi-images/phnom-penh-safari-park-life-v2.webp"},
   {
     id: "koh-kong-reptile-conservation-center-life-v2",
     type: "wildlife-area",
@@ -454,8 +442,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "The center releases captive-bred reptiles back into the wild.",
         "Also serves to provide environmental education to local schools."
       ]
-    }
-  },
+    }, image: "/poi-images/koh-kong-reptile-conservation-center-life-v2.webp"},
   {
     id: "jahoo-gibbon-camp-life-v2",
     type: "wildlife-area",
@@ -489,8 +476,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Revenues go directly toward forest protection.",
         "Offers one of the best chances to see gibbons in the wild."
       ]
-    }
-  },
+    }, image: "/poi-images/jahoo-gibbon-camp-life-v2.webp"},
   {
     id: "silk-island-koh-dach-life-v2",
     type: "agriculture",
@@ -524,8 +510,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "The island is characterized by fertile farmlands.",
         "Many families weave under their stilted houses."
       ]
-    }
-  },
+    }, image: "/poi-images/silk-island-koh-dach-life-v2.webp"},
   {
     id: "siem-reap-lotus-farm-life-v2",
     type: "agriculture",
@@ -559,8 +544,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Textiles and handicrafts are made from the fibers.",
         "The farm offers a picturesque view of blooming lotus ponds."
       ]
-    }
-  },
+    }, image: "/poi-images/siem-reap-lotus-farm-life-v2.webp"},
   {
     id: "mondulkiri-elephant-project-life-v2",
     type: "wildlife-area",
@@ -594,8 +578,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Supports a local NGO in protecting natural resources.",
         "Helps indigenous communities preserve their culture."
       ]
-    }
-  },
+    }, image: "/poi-images/mondulkiri-elephant-project-life-v2.webp"},
   {
     id: "tmatboey-ibis-site-life-v2",
     type: "wildlife-area",
@@ -629,8 +612,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "The project has won multiple awards for ecotourism.",
         "The village community actively protects the nesting sites."
       ]
-    }
-  },
+    }, image: "/poi-images/tmatboey-ibis-site-life-v2.webp"},
   {
     id: "veal-veng-crocodile-sanctuary-life-v2",
     type: "wildlife-area",
@@ -664,8 +646,7 @@ export const poiExtraCambodiaLifeV2: POI[] = [
         "Strict monitoring protects the remaining animals from poachers.",
         "The sanctuary is difficult to access and largely untouched."
       ]
-    }
-  },
+    }, image: "/poi-images/veal-veng-crocodile-sanctuary-life-v2.webp"},
   {
     id: "battambang-orange-orchards-life-v2",
     type: "agriculture",

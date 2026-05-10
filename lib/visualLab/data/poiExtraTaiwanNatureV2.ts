@@ -13,8 +13,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["1986-ban alapították.", "A terület jelentős része márványból és mészkőből áll."],
       ro: ["A fost înființat în anul 1986.", "Este renumit pentru Altarul Primăverii Eterne."],
       en: ["Established in 1986.", "Known for the Shrine of Eternal Spring."]
-    }
-  },
+    }, image: "/poi-images/taroko-national-park-nature-v2.webp"},
   {
     id: "yushan-national-park-nature-v2",
     type: "national-park",
@@ -27,8 +26,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["Itt található a 3952 méter magas Jáde-hegy.", "A formozai örvös medve fontos menedékhelye."],
       ro: ["Găzduiește Muntele de Jad, înalt de 3952 de metri.", "Este un sanctuar important pentru ursul negru formosan."],
       en: ["Home to the 3952-meter Jade Mountain.", "An important sanctuary for the Formosan black bear."]
-    }
-  },
+    }, image: "/poi-images/yushan-national-park-nature-v2.webp"},
   {
     id: "yangmingshan-national-park-nature-v2",
     type: "national-park",
@@ -41,8 +39,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["Számos kénes hőforrás alakítja a tájat.", "Híres a tavaszi cseresznyevirágzásról."],
       ro: ["Numeroase izvoare sulfuroase termale modelează peisajul.", "Faimos pentru înflorirea cireșilor primăvara."],
       en: ["Numerous sulfur hot springs shape the landscape.", "Famous for cherry blossoms in the spring."]
-    }
-  },
+    }, image: "/poi-images/yangmingshan-national-park-nature-v2.webp"},
   {
     id: "kenting-national-park-nature-v2",
     type: "national-park",
@@ -55,8 +52,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["Tajvan legrégebbi nemzeti parkja.", "Hivatalosan 1984-ben alapították."],
       ro: ["Este cel mai vechi parc național din Taiwan.", "A fost înființat oficial în 1984."],
       en: ["It is the oldest national park in Taiwan.", "Officially established in 1984."]
-    }
-  },
+    }, image: "/poi-images/kenting-national-park-nature-v2.webp"},
   {
     id: "shei-pa-national-park-nature-v2",
     type: "national-park",
@@ -69,8 +65,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["A Hó-hegy a sziget második legmagasabb hegye.", "A ritka tajvani lazac otthona."],
       ro: ["Muntele de Zăpadă este al doilea cel mai înalt munte de pe insulă.", "Casa somonului formosan, o specie rară."],
       en: ["Snow Mountain is the second highest peak on the island.", "Home to the rare Formosan landlocked salmon."]
-    }
-  },
+    }, image: "/poi-images/shei-pa-national-park-nature-v2.webp"},
   {
     id: "sun-moon-lake-nature-v2",
     type: "lake",
@@ -83,8 +78,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["A keleti oldala a napra, a nyugati a holdra hasonlít.", "A thao őslakosok fontos spirituális központja."],
       ro: ["Partea estică seamănă cu un soare, iar cea vestică cu o lună.", "Un centru spiritual important al poporului Thao."],
       en: ["The eastern side resembles a sun, while the western side resembles a moon.", "An important spiritual center for the Thao people."]
-    }
-  },
+    }, image: "/poi-images/sun-moon-lake-nature-v2.webp"},
   {
     id: "alishan-forest-nature-v2",
     type: "forest",
@@ -111,8 +105,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["A Hsej-Pa Nemzeti Park része.", "Csúcsáról gyakran lélegzetelállító kilátás nyílik a felhőtengerre."],
       ro: ["Face parte din Parcul Național Shei-Pa.", "Vârful său oferă adesea priveliști uluitoare asupra unei mări de nori."],
       en: ["Part of the Shei-Pa National Park.", "Its summit often offers breathtaking views of a sea of clouds."]
-    }
-  },
+    }, image: "/poi-images/xueshan-mountain-nature-v2.webp"},
   {
     id: "yushan-mountain-nature-v2",
     type: "mountain",
@@ -125,8 +118,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["3952 méterével a sziget legmagasabb csúcsa.", "Télen a csúcsot gyakran hó borítja."],
       ro: ["Cu 3952 de metri, este cel mai înalt vârf de pe insulă.", "Iarna, vârful este adesea acoperit de zăpadă."],
       en: ["At 3952 meters, it is the highest peak on the island.", "During winter, the summit is often covered with snow."]
-    }
-  },
+    }, image: "/poi-images/yushan-mountain-nature-v2.webp"},
   {
     id: "zhuoshui-river-nature-v2",
     type: "river",
@@ -139,8 +131,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["Teljes hossza mintegy 186 kilométer.", "Neve sárgás, iszapos vizére utal."],
       ro: ["Atinge o lungime totală de aproximativ 186 de kilometri.", "Numele său se traduce prin apă noroioasă."],
       en: ["Reaches a total length of about 186 kilometers.", "Its name translates to muddy water."]
-    }
-  },
+    }, image: "/poi-images/zhuoshui-river-nature-v2.webp"},
   {
     id: "tamsui-river-nature-v2",
     type: "river",
@@ -153,8 +144,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["Több folyó összefolyásából jön létre.", "Nagy történelmi jelentőséggel bír Tajpej kereskedelmében."],
       ro: ["Se formează prin confluența mai multor râuri.", "Are o mare importanță istorică pentru comerțul din Taipei."],
       en: ["Formed by the confluence of several rivers.", "Has great historical significance for trade in Taipei."]
-    }
-  },
+    }, image: "/poi-images/tamsui-river-nature-v2.webp"},
   {
     id: "hehuanshan-mountain-nature-v2",
     type: "mountain",
@@ -167,8 +157,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["A legmagasabb hágó több mint 3200 méter magasan van.", "Kiváló feltételeket biztosít a csillagok megfigyeléséhez."],
       ro: ["Cea mai înaltă trecătoare se află la peste 3200 de metri.", "Oferă condiții excelente pentru observarea stelelor."],
       en: ["The highest pass is over 3200 meters high.", "Offers excellent conditions for stargazing."]
-    }
-  },
+    }, image: "/poi-images/hehuanshan-mountain-nature-v2.webp"},
   {
     id: "qixing-mountain-nature-v2",
     type: "mountain",
@@ -181,8 +170,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["Magassága 1120 méter.", "Neve Hét Csillag-hegyet jelent, hét csúcsára utalva."],
       ro: ["Altitudinea sa este de 1120 de metri.", "Numele înseamnă Muntele cu Șapte Stele, datorită celor șapte vârfuri ale sale."],
       en: ["The elevation is 1120 meters.", "The name means Seven Star Mountain, referring to its seven peaks."]
-    }
-  },
+    }, image: "/poi-images/qixing-mountain-nature-v2.webp"},
   {
     id: "taipingshan-forest-nature-v2",
     type: "forest",
@@ -195,8 +183,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["Ismert a Csiencsing-ösvényről, amely egy régi vasútvonalon halad.", "Közel 2000 méteres magasságban fekszik."],
       ro: ["Renumit pentru traseul Jianqing, care merge pe o veche cale ferată.", "Este situat la o altitudine de aproape 2000 de metri."],
       en: ["Known for the Jianqing trail, which runs on an old railway line.", "Located at an altitude of nearly 2000 meters."]
-    }
-  },
+    }, image: "/poi-images/taipingshan-forest-nature-v2.webp"},
   {
     id: "liyu-lake-nature-v2",
     type: "lake",
@@ -209,8 +196,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["Népszerű hely vízibiciklizéshez és kerékpártúrákhoz.", "Áprilisban a tavat számtalan szentjánosbogár világítja meg."],
       ro: ["Un loc popular pentru plimbări cu hidrobicicleta și ciclism.", "În aprilie, lacul este iluminat de nenumărați licurici."],
       en: ["A popular spot for paddleboating and cycling.", "In April, the lake is illuminated by countless fireflies."]
-    }
-  },
+    }, image: "/poi-images/liyu-lake-nature-v2.webp"},
   {
     id: "taijiang-national-park-nature-v2",
     type: "national-park",
@@ -223,8 +209,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["A veszélyeztetett fekete arcú kanalasgém otthona.", "Sópárlók és lagúnák egyedülálló kombinációjából áll."],
       ro: ["Găzduiește lopătarul cu față neagră, o specie pe cale de dispariție.", "Constă într-o combinație unică de saline și lagune."],
       en: ["Home to the endangered black-faced spoonbill.", "Consists of a unique combination of salt pans and lagoons."]
-    }
-  },
+    }, image: "/poi-images/taijiang-national-park-nature-v2.webp"},
   {
     id: "gaoping-river-nature-v2",
     type: "river",
@@ -237,8 +222,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["A tajvani folyók közül a legnagyobb vízgyűjtő területtel rendelkezik.", "A jellegzetes Likang híd ível át rajta."],
       ro: ["Are cel mai mare bazin hidrografic dintre toate râurile taiwaneze.", "Este traversat de podul distinctiv Ligang."],
       en: ["It has the largest drainage basin of all Taiwanese rivers.", "Spanned by the distinctive Ligang Bridge."]
-    }
-  },
+    }, image: "/poi-images/gaoping-river-nature-v2.webp"},
   {
     id: "xiuguluan-river-nature-v2",
     type: "river",
@@ -251,8 +235,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["A sziget keleti részének leghosszabb folyója.", "Fengpinnél ömlik a Csendes-óceánba."],
       ro: ["Cel mai lung râu din estul insulei.", "Se varsă în Oceanul Pacific la Fengbin."],
       en: ["The longest river in the east of the island.", "Empties into the Pacific Ocean at Fengbin."]
-    }
-  },
+    }, image: "/poi-images/xiuguluan-river-nature-v2.webp"},
   {
     id: "basianshan-forest-nature-v2",
     type: "forest",
@@ -265,8 +248,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["Egykor Tajvan három legnagyobb favágó településének egyike volt.", "Ismert változatos bambuszerdőiről és vízeséseiről."],
       ro: ["A fost cândva una dintre cele mai mari trei așezări forestiere din Taiwan.", "Cunoscută pentru pădurile sale diverse de bambus și cascade."],
       en: ["Was once one of the three largest logging settlements in Taiwan.", "Known for its diverse bamboo forests and waterfalls."]
-    }
-  },
+    }, image: "/poi-images/basianshan-forest-nature-v2.webp"},
   {
     id: "dajia-river-nature-v2",
     type: "river",

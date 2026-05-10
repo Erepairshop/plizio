@@ -43,8 +43,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Höhe des Klosters beträgt 3120 Meter über dem Meeresspiegel.", "Guru Rinpoche ist auch als Padmasambhava bekannt.", "Das Feuer von 1998 wurde vermutlich durch eine Butterlampe verursacht.", "Der Wiederaufbau kostete über 2 Millionen US-Dollar.", "Fotografieren ist in den Tempeln streng verboten.", "Der Weg zum Kloster ist etwa 4 Kilometer lang.", "Es gibt eine Cafeteria auf halbem Weg für eine Pause.", "Das Kloster wurde bewusst an diesem abgelegenen Ort für die Meditation gebaut."]
-    }
-  },
+    }, image: "/poi-images/taktsang-palphug-landmarks-v2.webp"},
   {
     id: "dochula-pass-landmarks-v2",
     type: "landmark",
@@ -65,8 +64,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die 108 Chortens sind in drei Ebenen angeordnet.", "Die Militäroperation richtete sich gegen Aufständische aus Assam.", "Das jährliche Dochula Druk Wangyel Festival findet hier im Dezember statt.", "Die Chortens wurden gebaut, um die Geister der Gefallenen zu besänftigen.", "Gangkhar Puensum ist der höchste unbestiegene Berg der Welt.", "Der Pass ist oft in Nebel gehüllt, besonders während des Monsuns.", "Die Königinmutter ist eine von vier Schwestern, die den vierten König heirateten.", "Der Tempel zeigt Malereien der bhutanischen Geschichte."]
-    }
-  },
+    }, image: "/poi-images/dochula-pass-landmarks-v2.webp"},
   {
     id: "chele-la-pass-landmarks-v2",
     type: "landmark",
@@ -87,8 +85,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Straße zum Pass wurde in den 2000er Jahren gebaut.", "Das Haa-Tal wurde erst 2002 für Touristen geöffnet.", "Der Pass ist im Winter oft wegen Schneefalls gesperrt.", "Der Name 'Chele La' bedeutet 'Pass über den Felsen'.", "Es ist ein beliebter Ort für Vogelbeobachtung.", "Die Temperatur auf dem Pass kann auch im Sommer nahe dem Gefrierpunkt liegen.", "Man findet hier den seltenen Blauen Mohn, Bhutans Nationalblume.", "Die Gebetsfahnen werden in fünf Farben gedruckt, die die fünf Elemente symbolisieren."]
-    }
-  },
+    }, image: "/poi-images/chele-la-pass-landmarks-v2.webp"},
   {
     id: "tango-monastery-landmarks-v2",
     type: "landmark",
@@ -109,8 +106,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Wanderung zum Kloster überwindet etwa 400 Höhenmeter.", "Das Kloster wurde 1689 von Gyalse Tenzin Rabgye erbaut.", "Die Felsformation soll eine Manifestation des zornigen Gottes Hayagriva sein.", "Das Kloster ist von einer Reihe von Gebetsmühlen umgeben.", "Frauen ist der Zutritt zum Haupttempel nicht gestattet.", "Jedes Jahr findet hier das Yarney-Festival statt, eine Sommer-Retraite für Mönche.", "Das nahegelegene Cheri-Kloster wurde von demselben Gründer erbaut.", "Die Bibliothek des Klosters enthält wertvolle alte Manuskripte."]
-    }
-  },
+    }, image: "/poi-images/tango-monastery-landmarks-v2.webp"},
   {
     id: "cheri-monastery-landmarks-v2",
     type: "landmark",
@@ -131,8 +127,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der vollständige Name bedeutet 'Eiserne Burg des Felsens'.", "Die Brücke zum Kloster wurde im traditionellen Stil erbaut.", "Der Gründer war erst 27 Jahre alt, als er das Kloster baute.", "Das Kloster ist ein wichtiger Lebensraum für den Goral, eine Ziegenantilope.", "Pilger umrunden das Kloster oft im Uhrzeigersinn und murmeln Mantras.", "Es ist ein Zentrum für die Drukpa-Kagyü-Schule des tibetischen Buddhismus.", "Es wird gesagt, dass der Ort von Guru Rinpoche im 8. Jahrhundert gesegnet wurde.", "Im Inneren befinden sich wunderschöne Wandmalereien, die buddhistische Gottheiten darstellen."]
-    }
-  },
+    }, image: "/poi-images/cheri-monastery-landmarks-v2.webp"},
   {
     id: "sangchhen-dorji-lhuendrup-landmarks-v2",
     type: "landmark",
@@ -153,8 +148,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der Name bedeutet 'Tempel des spontanen Lichts des unzerstörbaren Diamanten'.", "Die Avalokiteshvara-Statue wurde von lokalen Handwerkern hergestellt.", "Der Komplex beherbergt etwa 120 Nonnen.", "Der Tempel hat eine nepalesische Stupa-ähnliche Struktur.", "Er bietet einen 360-Grad-Blick auf die umliegende Landschaft.", "Die Königinmutter ist die Mutter des derzeitigen fünften Königs.", "Die Nonnen praktizieren den Nyingma- und Kagyü-Buddhismus.", "Der Ort ist auch bei Einheimischen für Picknicks beliebt."]
-    }
-  },
+    }, image: "/poi-images/sangchhen-dorji-lhuendrup-landmarks-v2.webp"},
   {
     id: "kila-nunnery-landmarks-v2",
     type: "landmark",
@@ -175,8 +169,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der ursprüngliche Name war Kila Gompa, was 'Kloster des Kiels' bedeutet.", "Es wurde von Dupthob Chhoeje Norbu, einem tibetischen Heiligen, gegründet.", "Einige der Gebäude stammen aus dem 15. Jahrhundert.", "Es wird oft als das 'weibliche Tigernest' bezeichnet.", "Die Nonnen sind für ihre Kenntnisse der traditionellen Medizin bekannt.", "Das Kloster wurde kürzlich renoviert, um die Lebensbedingungen zu verbessern.", "Es ist ein Ort der Stille und Kontemplation.", "Die Aussicht vom Kloster auf das Paro-Tal ist atemberaubend."]
-    }
-  },
+    }, image: "/poi-images/kila-nunnery-landmarks-v2.webp"},
   {
     id: "tamshing-lhakhang-landmarks-v2",
     type: "landmark",
@@ -197,8 +190,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Pema Lingpa war eine Reinkarnation von Longchenpa.", "Der Name 'Tamshing' bedeutet 'Tempel des guten Zeichens'.", "Die ursprünglichen Malereien wurden nie restauriert.", "Der Tempel steht auf der Tentativliste des UNESCO-Weltkulturerbes.", "Pema Lingpa war auch ein begabter Schmied und Künstler.", "Der Tempel veranstaltet jährlich ein farbenfrohes Festival (Tshechu).", "Die Architektur des Tempels ist einzigartig und weicht vom Standard ab.", "Es beherbergt eine Statue von Guru Rinpoche und Pema Lingpa."]
-    }
-  },
+    }, image: "/poi-images/tamshing-lhakhang-landmarks-v2.webp"},
   {
     id: "mebar-tsho-landmarks-v2",
     type: "landmark",
@@ -263,8 +255,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die königliche Großmutter war die Mutter des dritten Königs von Bhutan.", "Der Name 'Karbandi' bedeutet 'Hügel der Felsen'.", "Der Garten des Klosters ist sehr gepflegt und hat eine Vielzahl von Blumen.", "Es ist einer der ersten Orte, die Besucher sehen, wenn sie von Indien nach Bhutan kommen.", "Der Tempel ist ein gutes Beispiel für traditionelle bhutanische Architektur.", "Viele Einheimische kommen am Wochenende hierher, um zu entspannen.", "Die Statuen im Tempel sind besonders fein gearbeitet.", "Von hier aus kann man das Tor sehen, das Bhutan von Indien trennt."]
-    }
-  },
+    }, image: "/poi-images/karbandi-monastery-landmarks-v2.webp"},
   {
     id: "chorten-kora-landmarks-v2",
     type: "landmark",
@@ -285,8 +276,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der Bau der Stupa dauerte 12 Jahre.", "Der Lama war der Neffe von Ngawang Namgyal.", "Die Feste finden im ersten und dritten Mondmonat statt.", "Pilger umrunden die Stupa (Kora), um Verdienste zu erlangen.", "Die Stupa wurde 2016 nach einem Erdbeben renoviert.", "Trashiyangtse ist bekannt für seine Holzarbeiten und Papierherstellung.", "Es ist eine der wenigen Stupas in Bhutan, die nicht im bhutanischen Stil gebaut ist.", "Die Geschichte der Prinzessin symbolisiert die engen Beziehungen zwischen den Völkern der Region."]
-    }
-  },
+    }, image: "/poi-images/chorten-kora-landmarks-v2.webp"},
   {
     id: "drametse-lhakhang-landmarks-v2",
     type: "landmark",
@@ -307,8 +297,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Ani Cheten Zangmo gründete das Kloster nach einer Vision.", "Der Tanz symbolisiert die Unterwerfung von Dämonen.", "Das Kloster wurde durch ein Erdbeben im Jahr 2009 schwer beschädigt.", "Der Wiederaufbau wurde von der bhutanischen Regierung und internationalen Partnern unterstützt.", "Es beherbergt eine Gemeinschaft von etwa 80 Mönchen.", "Der Haupttempel enthält Statuen von Guru Rinpoche, Pema Lingpa und Ani Cheten Zangmo.", "Drametse ist ein abgelegenes Kloster, das eine lange Fahrt erfordert.", "Der Tanz wird bei Festivals immer am Ende aufgeführt, um Segen zu spenden."]
-    }
-  },
+    }, image: "/poi-images/drametse-lhakhang-landmarks-v2.webp"},
   {
     id: "gasa-dzong-landmarks-v2",
     type: "landmark",
@@ -329,8 +318,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der Name Tashi Thongmoen bedeutet 'Festung des guten Schicksals'.", "Der Dzong liegt in der Nähe der berühmten heißen Quellen von Gasa.", "Die Region ist bekannt für ihre Nomadenkultur und Yak-Herden.", "Der Wiederaufbau des Dzongs ist ein nationales Projekt.", "Der Dzong war historisch schwer zugänglich, was seine Verteidigung erleichterte.", "Gasa hat die kleinste Bevölkerung aller Distrikte in Bhutan.", "Der Dzong hat eine einzigartige Architektur mit drei 'Ta Dzongs' (Wachtürmen).", "Das Gasa Tshechu ist bekannt für seine einzigartigen Maskentänze."]
-    }
-  },
+    }, image: "/poi-images/gasa-dzong-landmarks-v2.webp"},
   {
     id: "gangtey-monastery-landmarks-v2",
     type: "landmark",
@@ -351,8 +339,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Restaurierung dauerte von 2001 bis 2008.", "Das Kloster beherbergt eine Gemeinschaft von etwa 100 Mönchen.", "Der Gründer war die erste Reinkarnation des Gangtey Tulku.", "Die Schwarzhalskraniche kommen jedes Jahr im Oktober aus Tibet.", "Das Phobjikha-Tal ist ein geschütztes Naturschutzgebiet.", "Die Architektur des Klosters ist eine Mischung aus tibetischem und bhutanischem Stil.", "Der Haupttempel ist bekannt für seine exquisiten Holzschnitzereien.", "Vom Kloster aus hat man einen Panoramablick über das gesamte Tal."]
-    }
-  },
+    }, image: "/poi-images/gangtey-monastery-landmarks-v2.webp"},
   {
     id: "talo-dzong-landmarks-v2",
     type: "landmark",
@@ -395,8 +382,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der Name 'Tharpaling' bedeutet 'Ort der Befreiung'.", "Longchenpa schrieb hier einige seiner wichtigsten Werke, die 'Sieben Schätze'.", "Das Kloster wurde im Laufe der Jahrhunderte mehrmals erweitert.", "Es gibt eine Höhle, in der Guru Rinpoche meditiert haben soll.", "Die Wanderung zum Kloster dauert etwa 2-3 Stunden.", "Viele berühmte buddhistische Meister haben Tharpaling besucht.", "Das Kloster beherbergt eine kleine Gemeinschaft von Mönchen und Einsiedlern.", "Der Ort ist bekannt für seine friedliche und kontemplative Atmosphäre."]
-    }
-  },
+    }, image: "/poi-images/tharpaling-monastery-landmarks-v2.webp"},
   {
     id: "ogyen-choling-palace-landmarks-v2",
     type: "landmark",
@@ -417,8 +403,7 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Das Museum wurde 1999 gegründet.", "Der Name Ogyen Choling bedeutet 'Das Heiligtum von Guru Rinpoche'.", "Der zentrale Turm (Utse) ist das älteste Gebäude des Komplexes.", "Die Familie, der der Palast gehört, kann ihre Abstammung bis zu Dorje Lingpa zurückverfolgen.", "Das Museum hat eine beeindruckende Sammlung von traditionellen Masken.", "Die Einnahmen aus dem Museum und den Gästezimmern fließen in die Erhaltung des Palastes.", "Das Tang-Tal ist eines der abgelegensten Täler in Bumthang.", "Das Museum zeigt auch, wie bhutanischer Schnaps (Ara) hergestellt wurde."]
-    }
-  },
+    }, image: "/poi-images/ogyen-choling-palace-landmarks-v2.webp"},
   {
     id: "phajoding-monastery-landmarks-v2",
     type: "landmark",

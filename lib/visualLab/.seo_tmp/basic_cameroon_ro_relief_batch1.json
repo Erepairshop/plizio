@@ -1,0 +1,79 @@
+{
+  "lang": "ro",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bamenda-highlands-relief-v2",
+      "description": "Platoul Bamenda este o zonă înaltă din nord-vestul Camerunului. Relieful său vulcanic și clima mai răcoroasă îl fac diferit de câmpiile din jur.",
+      "facts": ["în nord-vestul țării", "zonă de altitudine", "relief vulcanic"]
+    },
+    {
+      "id": "mount-manengouba-relief-v2",
+      "description": "Muntele Manengouba este un masiv vulcanic cunoscut pentru conurile sale și pentru peisajul de crater. Este una dintre cele mai clare forme de relief din sud-vest.",
+      "facts": ["masiv vulcanic", "în sud-vestul Camerunului", "peisaj de crater"]
+    },
+    {
+      "id": "mount-oissa-relief-v2",
+      "description": "Muntele Oissa este o ridicare de relief din zona centrală a Camerunului. Culoarea verde a versanților arată un mediu tropical dens.",
+      "facts": ["ridicare de relief", "în zona centrală", "mediu tropical"]
+    },
+    {
+      "id": "mount-bambouto-relief-v2",
+      "description": "Muntele Bambouto face parte din lanțul vulcanic din vestul Camerunului. Versanții săi sunt legați de un relief înalt și de soluri fertile.",
+      "facts": ["în vestul Camerunului", "lanț vulcanic", "soluri fertile"]
+    },
+    {
+      "id": "mount-rumpi-relief-v2",
+      "description": "Masivul Rumpi se află în sud-vestul Camerunului și domină zona de coastă. Relieful său abrupt face tranziția spre pădurea tropicală.",
+      "facts": ["în sud-vest", "aproape de coastă", "relief abrupt"]
+    },
+    {
+      "id": "mount-koupe-relief-v2",
+      "description": "Muntele Kupe este o altă formă vulcanică importantă din sud-vestul țării. Este cunoscut pentru pantele sale împădurite și pentru altitudinea locală.",
+      "facts": ["masiv vulcanic", "în sud-vestul Camerunului", "pante împădurite"]
+    },
+    {
+      "id": "mount-ntem-relief-v2",
+      "description": "Relieful Ntem aparține sudului camerunez și se leagă de bazinul aceluiași râu. Zona are forme domoale, acoperite de vegetație densă.",
+      "facts": ["în sudul Camerunului", "legat de bazinul Ntem", "forme domoale"]
+    },
+    {
+      "id": "mount-kribi-relief-v2",
+      "description": "Relieful de la Kribi este joas și se apropie de linia coastei atlantice. Aici se întâlnesc dune, terenuri plate și vegetație litorală.",
+      "facts": ["pe coastă", "relief jos", "aproape de ocean"]
+    },
+    {
+      "id": "mount-bouba-relief-v2",
+      "description": "Relieful Bouba este asociat cu nordul Camerunului și cu zone mai deschise de savană. Formele sale sunt mai line decât în zona montană din vest.",
+      "facts": ["în nordul Camerunului", "relief de savană", "forme line"]
+    },
+    {
+      "id": "mount-waza-relief-v2",
+      "description": "Zona Waza este un relief plat și arid din extremitatea nordică. Este influențată de clima saheliană și de lipsa apei permanente.",
+      "facts": ["în Far North", "relief plat", "climă saheliană"]
+    },
+    {
+      "id": "mount-logone-relief-v2",
+      "description": "Relieful Logone este legat de câmpiile și luncile din nordul extrem al Camerunului. Apa și sedimentul modelează aici peisajul de joasă altitudine.",
+      "facts": ["în nordul extrem", "lunci și câmpii", "modelat de apă"]
+    },
+    {
+      "id": "mount-kadey-relief-v2",
+      "description": "Relieful Kadey se află în estul Camerunului și se leagă de un bazin hidrografic important. Este un peisaj de tranziție între coline și zone împădurite.",
+      "facts": ["în estul țării", "bazinul Kadey", "zonă de tranziție"]
+    },
+    {
+      "id": "mount-nyong-relief-v2",
+      "description": "Relieful Nyong urmărește valea unui râu important din centrul-sud al țării. Forma terenului este domoală și puternic legată de pădure.",
+      "facts": ["în centrul-sud", "legat de râul Nyong", "relief domol"]
+    },
+    {
+      "id": "mount-sangha-relief-v2",
+      "description": "Relieful Sangha aparține sud-estului Camerunului, aproape de marile păduri ecuatoriale. Zona este joasă, umedă și puternic împădurită.",
+      "facts": ["în sud-est", "aproape de pădurea ecuatorială", "zonă joasă și umedă"]
+    }
+  ]
+}

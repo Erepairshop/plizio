@@ -36,8 +36,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["I.sz. 6. században épült.", "A nagyobbik szobor (Szalszal) 55 méter magas volt.", "A kisebbik szobor (Samama) 38 méter magas volt.", "2003 óta az UNESCO Világörökség része.", "2001 márciusában a tálibok lerombolták.", "Helyszín: Bámiján-völgy, Közép-Afganisztán.", "A gandhárai művészeti stílust képviseli.", "A fülkéket több száz festett barlang veszi körül."],
       ro: ["Construit în secolul al VI-lea d.Hr.", "Statuia mai mare (Salsal) avea 55 de metri înălțime.", "Statuia mai mică (Shamama) avea 38 de metri înălțime.", "Parte a Patrimoniului Mondial UNESCO din 2003.", "Distrus de talibani în martie 2001.", "Locație în Valea Bamiyan, centrul Afganistanului.", "Reprezintă stilul de artă Gandhara.", "Nișe înconjurate de sute de peșteri pictate."],
       en: ["Built in the 6th century AD.", "Larger statue (Salsal) was 55 meters high.", "Smaller statue (Shamama) was 38 meters high.", "Part of UNESCO World Heritage since 2003.", "Destroyed by the Taliban in March 2001.", "Located in the Bamiyan Valley, central Afghanistan.", "Represents the Gandhara art style.", "Niches surrounded by hundreds of painted caves."]
-    }
-  },
+    }, image: "/poi-images/buddhas-bamiyan-history-v2.webp"},
   {
     id: "minaret-of-jam-history-v2",
     type: "monument",
@@ -72,8 +71,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["A guridák dinasztiája építette 1190 körül.", "Magassága 65 méter.", "Teljesen égetett téglából készült.", "2002 óta az UNESCO Világörökség része.", "Ghor tartományban található.", "Kúfi és naszkí kalligráfiával díszített.", "Lehetséges funkciója: győzelmi torony.", "A Hari Rud folyó és az erózió veszélyezteti."],
       ro: ["Construit în jurul anului 1190 de dinastia Ghuridă.", "Înălțime de 65 de metri.", "Realizat complet din cărămizi arse.", "Patrimoniu Mondial UNESCO din 2002.", "Situat în provincia Ghor.", "Decorat cu caligrafie Kufic și Naskhi.", "Funcție posibilă ca turn al victoriei.", "Amenințat de râul Hari Rud și de eroziune."],
       en: ["Built around 1190 by the Ghurid dynasty.", "Height of 65 meters.", "Made entirely of baked bricks.", "UNESCO World Heritage site since 2002.", "Located in Ghor Province.", "Decorated with Kufic and Naskhi calligraphy.", "Possible function as a victory tower.", "Threatened by the Hari Rud river and erosion."]
-    }
-  },
+    }, image: "/poi-images/minaret-of-jam-history-v2.webp"},
   {
     id: "citadel-herat-history-v2",
     type: "historical-site",
@@ -108,8 +106,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Eredete i.e. 330 körülre tehető (Nagy Sándor).", "18 toronyból és több falból áll.", "Katonai erődként és királyi rezidenciaként szolgált.", "A timuridák a 15. században jelentősen kibővítették.", "2006 és 2011 között restaurálták.", "Ma a Heráti Nemzeti Múzeumnak ad otthont.", "Herát óvárosának központjában található.", "Afganisztán egyik legjobb állapotban fennmaradt fellegvára."],
       ro: ["Origini în jurul anului 330 î.Hr. (Alexandru cel Mare).", "Constă din 18 turnuri și mai multe ziduri.", "A servit ca fortăreață militară și reședință regală.", "Extinsă masiv de timurizi în secolul al XV-lea.", "Restaurată între 2006 și 2011.", "Găzduiește astăzi Muzeul Național din Herat.", "Situată în centrul orașului vechi Herat.", "Una dintre cele mai bine conservate citadele din Afganistan."],
       en: ["Origins around 330 BC (Alexander the Great).", "Consists of 18 towers and several walls.", "Served as a military fortress and royal residence.", "Greatly expanded by the Timurids in the 15th century.", "Restored between 2006 and 2011.", "Now houses the Herat National Museum.", "Located in the center of Herat's old city.", "One of Afghanistan's best-preserved citadels."]
-    }
-  },
+    }, image: "/poi-images/citadel-herat-history-v2.webp"},
   {
     id: "bala-hissar-kabul-history-v2",
     type: "historical-site",
@@ -144,8 +141,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Eredete az 5. századra nyúlik vissza.", "Perzsa nyelven „Magas Erődöt” jelent.", "Történelmi királyi rezidencia Kabulban.", "Stratégiai pont a város ellenőrzésére.", "Az angol-afgán háborúk helyszíne.", "1879-ben a brit csapatok részben lerombolták.", "Alsó és felső erődből áll.", "Tervek egy régészeti parkká alakítására."],
       ro: ["Origini în secolul al V-lea d.Hr.", "Înseamnă „Fortăreața Înaltă” în persană.", "Reședință regală istorică în Kabul.", "Punct strategic pentru controlul orașului.", "Locul de desfășurare a Războaielor Anglo-Afgane.", "Parțial distrusă de trupele britanice în 1879.", "Constă dintr-o fortăreață inferioară și una superioară.", "Planuri de transformare într-un parc arheologic."],
       en: ["Origins in the 5th century AD.", "Means 'High Fortress' in Persian.", "Historic royal residence in Kabul.", "Strategic point for controlling the city.", "Site of the Anglo-Afghan Wars.", "Partially destroyed by British troops in 1879.", "Consists of a lower and upper fortress.", "Plans for conversion into an archaeological park."]
-    }
-  },
+    }, image: "/poi-images/bala-hissar-kabul-history-v2.webp"},
   {
     id: "shrine-of-hazrat-ali-history-v2",
     type: "historical-site",
@@ -180,8 +176,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Helyszín: Mazár-e Sarif, Afganisztán.", "Ali ibn Abi Talib sírhelyének tartják.", "A mai épület a 15. századból származik.", "Híres a több ezer kék csempéjéről.", "Fontos muszlim zarándokközpont.", "Itt ünneplik az éves Nouruz (újév) ünnepet.", "Az eredeti szentélyt Dzsingisz kán rombolta le.", "Folyamatosan restaurálják és bővítik."],
       ro: ["Locație în Mazar-e Sharif, Afganistan.", "Considerat mormântul lui Ali ibn Abi Talib.", "Clădirea actuală datează din secolul al XV-lea.", "Renumită pentru miile de plăci albastre.", "Centru important de pelerinaj pentru musulmani.", "Aici se sărbătorește festivalul anual Nowruz.", "Sanctuarul original a fost distrus de Genghis Han.", "Restaurat și extins în mod continuu."],
       en: ["Located in Mazar-e Sharif, Afghanistan.", "Believed to be the tomb of Ali ibn Abi Talib.", "Current building dates from the 15th century.", "Famous for its thousands of blue tiles.", "Major pilgrimage center for Muslims.", "Annual Nowruz (New Year) festival is celebrated here.", "Original shrine was destroyed by Genghis Khan.", "Continuously restored and expanded."]
-    }
-  },
+    }, image: "/poi-images/shrine-of-hazrat-ali-history-v2.webp"},
   {
     id: "darul-aman-palace-history-v2",
     type: "historical-site",
@@ -216,8 +211,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Az 1920-as évek végén épült.", "Építtetője Amanullah kán volt.", "Neve „a béke lakhelyét” jelenti.", "Neoklasszicista építészeti stílus.", "Az új parlament épületének szánták.", "Súlyosan megrongálódott az 1990-es évek polgárháborújában.", "2016 és 2019 között restaurálták.", "A nemzeti újjáépítés szimbóluma."],
       ro: ["Construit la sfârșitul anilor 1920.", "Comandat de regele Amanullah Khan.", "Numele înseamnă „lăcașul păcii”.", "Arhitectură în stil neoclasic.", "Destinat să fie noua clădire a parlamentului.", "Grav avariat în războiul civil din anii 1990.", "Restaurat între 2016 și 2019.", "Simbol al reconstrucției naționale."],
       en: ["Built in the late 1920s.", "Commissioned by King Amanullah Khan.", "Name means 'abode of peace'.", "Neoclassical style of architecture.", "Intended to be the new parliament building.", "Severely damaged in the 1990s civil war.", "Restored between 2016 and 2019.", "A symbol of national reconstruction."]
-    }
-  },
+    }, image: "/poi-images/darul-aman-palace-history-v2.webp"},
   {
     id: "mausoleum-mirwais-hotak-history-v2",
     type: "monument",
@@ -252,8 +246,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Mirwais Hotaknak, a Hotaki-dinasztia alapítójának állít emléket.", "Mirwais Hotak 1673 és 1715 között élt.", "Ő vezette a felkelést a szafavidák ellen.", "Kandahárban található.", "„Mirwais Nika” (nagyapaként) tisztelik.", "A sír nemzeti szentély.", "A mauzóleumnak jellegzetes kék kupolája van.", "Az afgán függetlenségi törekvések szimbóluma."],
       ro: ["Îl onorează pe Mirwais Hotak, fondatorul dinastiei Hotaki.", "Mirwais Hotak a trăit între 1673 și 1715.", "A condus revolta împotriva safavizilor.", "Situat în Kandahar.", "Venerat ca „Mirwais Nika” (Bunicul).", "Mormântul este un sanctuar național.", "Mausoleul are o cupolă albastră distinctivă.", "Un simbol al aspirației afgane pentru independență."],
       en: ["Honors Mirwais Hotak, founder of the Hotaki dynasty.", "Mirwais Hotak lived from 1673 to 1715.", "Led the uprising against the Safavids.", "Located in Kandahar.", "Venerated as 'Mirwais Nika' (the Grandfather).", "The tomb is a national sanctuary.", "The mausoleum has a distinctive blue dome.", "A symbol of Afghan aspiration for independence."]
-    }
-  },
+    }, image: "/poi-images/mausoleum-mirwais-hotak-history-v2.webp"},
   {
     id: "bagh-e-babur-history-v2",
     type: "historical-site",
@@ -288,8 +281,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["1528 körül alapította Bábur császár.", "Bábur végső nyughelye.", "Klasszikus mogul kert elrendezés (Csahár Bágh).", "Egy Sáh Dzsahán által épített mecsetet tartalmaz.", "A Kuh-e Ser Darvaza lejtőjén található.", "Az Aga Khan Trust for Culture restaurálta.", "Fontos közterület Kabulban.", "Az egyetlen fennmaradt mogul kert Afganisztánban."],
       ro: ["Amenajată în jurul anului 1528 de împăratul Babur.", "Locul de odihnă final al lui Babur.", "Plan clasic de grădină moghulă (Charbagh).", "Conține o moschee construită de Shah Jahan.", "Situată pe panta Kuh-e Sher Darwaza.", "Restaurată de Aga Khan Trust for Culture.", "Spațiu public important în Kabul.", "Singura grădină moghulă supraviețuitoare din Afganistan."],
       en: ["Laid out around 1528 by Emperor Babur.", "Final resting place of Babur.", "Classic Mughal garden layout (Charbagh).", "Contains a mosque built by Shah Jahan.", "Located on the slope of Kuh-e Sher Darwaza.", "Restored by the Aga Khan Trust for Culture.", "Important public space in Kabul.", "The only surviving Mughal garden in Afghanistan."]
-    }
-  },
+    }, image: "/poi-images/bagh-e-babur-history-v2.webp"},
   {
     id: "qala-i-jangi-history-v2",
     type: "battlefield",
@@ -324,8 +316,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["1889-ben épült.", "Neve „a háború erődje”.", "Mazár-e Sarif közelében található.", "Hosszú ideig katonai bázisként szolgált.", "Egy 2001. novemberi felkelés helyszíne volt.", "Itt ölték meg Johnny Spann CIA-tisztet.", "Masszív vályogtégla falakból épült.", "Az afganisztáni modern konfliktus szimbóluma."],
       ro: ["Construită în 1889.", "Numele înseamnă „fortăreața războiului”.", "Situată lângă Mazar-e Sharif.", "A servit mult timp ca bază militară.", "Locul unei revolte din noiembrie 2001.", "Ofițerul CIA Johnny Spann a fost ucis aici.", "Construită din ziduri masive de chirpici.", "Un simbol al conflictului modern din Afganistan."],
       en: ["Built in 1889.", "Name means 'fortress of war'.", "Located near Mazar-e Sharif.", "Served for a long time as a military base.", "Site of an uprising in November 2001.", "CIA officer Johnny Spann was killed here.", "Built of massive mud-brick walls.", "A symbol of the modern conflict in Afghanistan."]
-    }
-  },
+    }, image: "/poi-images/qala-i-jangi-history-v2.webp"},
   {
     id: "minarets-of-ghazni-history-v2",
     type: "monument",
@@ -360,8 +351,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["A 12. század elején épült.", "A Gaznavida főváros maradványai.", "Eredeti magassága meghaladta a 40 métert.", "III. Maszúd szultán és Bahrám sah építtette.", "Egyedi, csillag alakú alap.", "Bonyolult terrakotta csempékkel díszített.", "Felső részeit földrengések pusztították el.", "A gaznavida építészet példái."],
       ro: ["Construite la începutul secolului al XII-lea.", "Vestigii ale capitalei Ghaznavide.", "Înălțimea originală de peste 40 de metri.", "Construite de sultanul Mas'ud al III-lea și Bahram Shah.", "Fundație unică în formă de stea.", "Decorate cu plăci elaborate de teracotă.", "Părțile superioare distruse de cutremure.", "Exemple de arhitectură ghaznavidă."],
       en: ["Built in the early 12th century.", "Remnants of the Ghaznavid capital.", "Original height of over 40 meters.", "Built by Sultan Mas'ud III and Bahram Shah.", "Unique star-shaped foundation.", "Decorated with intricate terracotta tiles.", "Upper parts destroyed by earthquakes.", "Examples of Ghaznavid architecture."]
-    }
-  },
+    }, image: "/poi-images/minarets-of-ghazni-history-v2.webp"},
   {
     id: "bost-fort-history-v2",
     type: "ruin",
@@ -396,8 +386,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Virágkora a 11-12. században volt a gaznavidák alatt.", "A híres Bosti diadalív a legfőbb maradványa.", "A diadalív kb. 25 méter magas.", "A 13. században a mongolok lerombolták.", "Laskar Gáh városa mellett található.", "Fontos városi központ volt a kereskedelmi utakon.", "Terrakotta és stukkó díszítésű építészet.", "A romok nagy területen fekszenek."],
       ro: ["Apogeul în sec. XI-XII sub ghaznavizi.", "Faimosul Arc de la Bost este principala rămășiță.", "Arcul are o înălțime de aproximativ 25 de metri.", "Distrus de mongoli în secolul al XIII-lea.", "Situat lângă orașul Lashkargah.", "Centru urban important pe rutele comerciale.", "Arhitectură cu decorațiuni din teracotă și stuc.", "Ruinele se întind pe o suprafață mare."],
       en: ["Heyday in the 11th-12th centuries under the Ghaznavids.", "The famous Arch of Bost is the main remnant.", "The arch is about 25 meters high.", "Destroyed by the Mongols in the 13th century.", "Located near the city of Lashkargah.", "Important urban center on trade routes.", "Architecture with terracotta and stucco decorations.", "The ruins cover a large area."]
-    }
-  },
+    }, image: "/poi-images/bost-fort-history-v2.webp"},
   {
     id: "taq-e-zafar-history-v2",
     type: "monument",
@@ -432,8 +421,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["1919-ben épült.", "Az 1919-es függetlenséget ünnepli.", "Amanullah kán építtette.", "Paghman kertjeiben található.", "Fehér márványból készült.", "Európai építészeti stílus.", "A háborús károk után később restaurálták.", "Az afgán nemzeti büszkeség szimbóluma."],
       ro: ["Construit în 1919.", "Sărbătorește independența din 1919.", "Comandat de regele Amanullah Khan.", "Situat în grădinile din Paghman.", "Realizat din marmură albă.", "Stil arhitectural european.", "Restaurat ulterior după daunele de război.", "Simbol al mândriei naționale afgane."],
       en: ["Built in 1919.", "Celebrates the 1919 independence.", "Commissioned by King Amanullah Khan.", "Located in the gardens of Paghman.", "Made of white marble.", "European architectural style.", "Later restored after war damage.", "A symbol of Afghan national pride."]
-    }
-  },
+    }, image: "/poi-images/taq-e-zafar-history-v2.webp"},
   {
     id: "shahr-e-gholghola-history-v2",
     type: "ruin",
@@ -468,8 +456,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Neve „a Sikolyok Városa”.", "1221-ben Dzsingisz kán serege elpusztította.", "A Hvárezmi Birodalom egyik központja volt.", "A pusztítás bosszú volt egy unoka haláláért.", "A Bámijáni Buddha-szobrokkal szemben található.", "Vályogtégla falak romjai.", "A mongol hódítások tanúja.", "Legenda egy hercegnő árulásáról."],
       ro: ["Numele înseamnă „Orașul Țipetelor”.", "Distrus în 1221 de armata lui Genghis Han.", "A fost un centru al Imperiului Khwarazmian.", "Distrugerea, o răzbunare pentru moartea unui nepot.", "Situat vizavi de nișele Buddha din Bamiyan.", "Ruine din ziduri de chirpici.", "Mărturie a cuceririlor mongole.", "Legendă despre trădarea unei prințese."],
       en: ["Name means 'City of Screams'.", "Destroyed in 1221 by Genghis Khan's army.", "Was a center of the Khwarazmian Empire.", "Destruction as revenge for a grandson's death.", "Located opposite the Bamiyan Buddha niches.", "Ruins of mud-brick walls.", "Testament to the Mongol conquests.", "Legend of a princess's betrayal."]
-    }
-  },
+    }, image: "/poi-images/shahr-e-gholghola-history-v2.webp"},
   {
     id: "musalla-complex-history-v2",
     type: "ruin",
@@ -504,8 +491,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["A 15. század elején épült.", "Gauhar Sád királynő megbízásából.", "Mecsetet, medreszét és mauzóleumot foglalt magában.", "Híres csempemozaikjairól.", "1885-ben nagyrészt szándékosan lerombolták.", "A rombolás célja egy lőtér kialakítása volt.", "Csak 5 minaret és a mauzóleum maradt fenn.", "A timurida építészet csúcspontja."],
       ro: ["Construit la începutul secolului al XV-lea.", "Comandat de regina Gawhar Shad.", "Includea moschee, madrasa și mausoleu.", "Renumit pentru mozaicurile sale de faianță.", "Distrus în mare parte intenționat în 1885.", "Distrugerea a fost pentru a crea un câmp de tragere.", "Doar 5 minarete și mausoleul au supraviețuit.", "Un apogeu al arhitecturii timuride."],
       en: ["Built in the early 15th century.", "Commissioned by Queen Gawhar Shad.", "Included a mosque, madrasa, and mausoleum.", "Famous for its tile mosaics.", "Mostly destroyed intentionally in 1885.", "Destruction was to create a field of fire.", "Only 5 minarets and the mausoleum remain.", "A high point of Timurid architecture."]
-    }
-  },
+    }, image: "/poi-images/musalla-complex-history-v2.webp"},
   {
     id: "khwaja-abu-nasr-parsa-history-v2",
     type: "historical-site",
@@ -540,8 +526,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["A 15. század végén épült.", "Khwaja Abu Nasr Parsa szúfi tudósnak szentelve.", "A timurida építészet mesterműve.", "Balkh központjában található.", "Jellegzetes, bordázott, türkiz kupola.", "Homlokzat bonyolult csempemozaikokkal.", "Spirális oszlopok a bejáratnál.", "Fontos zarándokhely Észak-Afganisztánban."],
       ro: ["Construit la sfârșitul secolului al XV-lea.", "Dedicat savantului sufit Khwaja Abu Nasr Parsa.", "Capodoperă a arhitecturii timuride.", "Situat în centrul orașului Balkh.", "Cupolă turcoaz, cu nervuri, distinctivă.", "Fațadă cu mozaicuri elaborate din faianță.", "Coloane spiralate la intrare.", "Important loc de pelerinaj în nordul Afganistanului."],
       en: ["Built in the late 15th century.", "Dedicated to the Sufi scholar Khwaja Abu Nasr Parsa.", "A masterpiece of Timurid architecture.", "Located in the center of Balkh.", "Distinctive ribbed, turquoise dome.", "Facade with intricate tile mosaics.", "Spiral columns at the entrance.", "Important pilgrimage site in northern Afghanistan."]
-    }
-  },
+    }, image: "/poi-images/khwaja-abu-nasr-parsa-history-v2.webp"},
   {
     id: "mausoleum-ahmad-shah-durrani-history-v2",
     type: "monument",
@@ -576,8 +561,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Ahmad Sah Durrani sírhelye.", "Ahmad Sahot Afganisztán alapítójának tartják.", "1747-től 1772-ig uralkodott.", "Kandahár központjában található.", "A 18. század végén épült.", "Nyolcszögletű építmény kék kupolával.", "A Khirqa Sarif szentély mellett áll.", "Nemzeti szentély és zarándokhely."],
       ro: ["Locul de mormânt al lui Ahmad Shah Durrani.", "Ahmad Shah este considerat fondatorul Afganistanului.", "A domnit între 1747 și 1772.", "Situat în centrul orașului Kandahar.", "Construit la sfârșitul secolului al XVIII-lea.", "Structură octogonală cu o cupolă albastră.", "Lângă Sanctuarul Khirqa Sharif.", "Sanctuar național și loc de pelerinaj."],
       en: ["Tomb of Ahmad Shah Durrani.", "Ahmad Shah is considered the founder of Afghanistan.", "Reigned from 1747 to 1772.", "Located in the center of Kandahar.", "Built in the late 18th century.", "Octagonal structure with a blue dome.", "Next to the Khirqa Sharif Shrine.", "National sanctuary and pilgrimage site."]
-    }
-  },
+    }, image: "/poi-images/mausoleum-ahmad-shah-durrani-history-v2.webp"},
   {
     id: "shahr-e-zuhak-history-v2",
     type: "ruin",
@@ -612,8 +596,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["„Vörös Városként” is ismert.", "A Bámiján-völgy bejáratát ellenőrizte.", "Vörös sziklákra épült.", "A sanszabáni dinasztia bővítette ki.", "1221-ben Dzsingisz kán serege lerombolta.", "Két folyó összefolyásánál fekszik.", "Romjai ma erősen erodáltak.", "Látványos kilátást nyújt."],
       ro: ["Cunoscut ca „Orașul Roșu”.", "Controla intrarea în Valea Bamiyan.", "Construit pe stânci roșii.", "Extins de dinastia Shansabani.", "Distrus în 1221 de armata lui Genghis Han.", "Situat la confluența a două râuri.", "Ruinele sunt astăzi puternic erodate.", "Oferă vederi spectaculoase."],
       en: ["Known as the 'Red City'.", "Controlled the entrance to the Bamiyan Valley.", "Built on red cliffs.", "Expanded by the Shansabani dynasty.", "Destroyed in 1221 by Genghis Khan's army.", "Located at the confluence of two rivers.", "Ruins are now heavily eroded.", "Offers spectacular views."]
-    }
-  },
+    }, image: "/poi-images/shahr-e-zuhak-history-v2.webp"},
   {
     id: "takht-e-rustam-history-v2",
     type: "ruin",
@@ -648,8 +631,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Buddhista komplexum a 4-5. századból.", "Teljesen a sziklából faragták ki.", "Neve „Rusztam trónját” jelenti.", "Egy sztúpából és egy barlangkolostorból áll.", "A sztúpa egy mély árokban fekszik.", "A kolostor lótuszlevél díszítéssel.", "A sziklaépítészet egyedülálló példája.", "A régió buddhista történelmének tanúja."],
       ro: ["Complex budist din secolele IV-V.", "Sculptat în întregime în stâncă.", "Numele înseamnă „Tronul lui Rustam”.", "Constă dintr-o stupă și o mănăstire rupestră.", "Stupa se află într-un șanț adânc.", "Mănăstire cu decorațiuni din frunze de lotus.", "Exemplu unic de arhitectură rupestră.", "Mărturie a istoriei budiste a regiunii."],
       en: ["4th-5th century Buddhist complex.", "Completely carved out of rock.", "Name means 'Throne of Rustam'.", "Consists of a stupa and a cave monastery.", "The stupa lies in a deep trench.", "Monastery with lotus-leaf decorations.", "Unique example of rock-cut architecture.", "Testament to the region's Buddhist history."]
-    }
-  },
+    }, image: "/poi-images/takht-e-rustam-history-v2.webp"},
   {
     id: "shrine-khwaja-abd-allah-history-v2",
     type: "historical-site",
@@ -684,8 +666,7 @@ export const poiExtraAfghanistanHistoryV2: POI[] = [
       hu: ["Abdullah Ansari szúfi szentnek (11. sz.) szentelve.", "A komplexumot a 15. században építtette Sáh Rukh.", "Gazar Gah-ban található, Herát mellett.", "A szúfi zarándoklat fontos központja.", "A timurida építészet mesterműve.", "Híres finom mozaikcsempéiről.", "A bejárati pavilon gazdagon díszített.", "Számos tudós sírját tartalmazza."],
       ro: ["Dedicat sfântului sufit Abdullah Ansari (sec. XI).", "Complex construit în sec. XV de Shah Rukh.", "Situat în Gazar Gah, lângă Herat.", "Centru important de pelerinaj sufit.", "Capodoperă a arhitecturii timuride.", "Renumit pentru mozaicurile fine de faianță.", "Pavilionul de la intrare este bogat decorat.", "Conține mormintele multor învățați."],
       en: ["Dedicated to the Sufi saint Abdullah Ansari (11th c.).", "Complex built in the 15th c. by Shah Rukh.", "Located in Gazar Gah, near Herat.", "Important center of Sufi pilgrimage.", "A masterpiece of Timurid architecture.", "Famous for its fine tile mosaics.", "Entrance pavilion is richly decorated.", "Contains the tombs of many scholars."]
-    }
-  },
+    }, image: "/poi-images/shrine-khwaja-abd-allah-history-v2.webp"},
   {
     id: "tepe-sardar-history-v2",
     type: "ruin",

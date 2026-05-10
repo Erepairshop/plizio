@@ -20,7 +20,20 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Regiunea este definită printr-un relief muntos accidentat.", "Gikizi este un important bazin de recepție pentru apele de suprafață.", "Agricultura în terase este practicată pe versanții masivului.", "Zona joacă un rol vital în reglarea ciclului hidrologic local.", "Climatul montan influențează direct tipurile de culturi agricole.", "Relieful a impus moduri specifice de dezvoltare a infrastructurii rurale."]
-    }, image: "/poi-images/gikizi-relief-v2.webp"},
+    }, image: "/poi-images/gikizi-relief-v2.webp",
+    description: {
+      de: "Gikizi bezeichnet eine lokale Erhebung in Burundis Hügelland. Die Gegend ist von kleinen Feldern und verstreuten Siedlungen geprägt.",
+      hu: "Gikizi Burundi dombvidékének egyik helyi kiemelkedése. A környéket kisebb földek és elszórt települések jellemzik.",
+      ro: "Muntele Gikizi se află într-o zonă colinară din Burundi, cu versanți abrupți și terenuri agricole mici. Relieful lui influențează așezările și drumul apei spre văi.",
+      en: "Gikizi is a hilly rural area in Burundi's interior. Its slopes and local tracks reflect the country's uneven upland terrain."
+    },
+    facts: {
+      de: ["Hügelland", "ländlich", "kleine Felder"],
+      hu: ["dombvidék", "vidéki", "kis földek"],
+      ro: ["relief colinar", "terase agricole", "bazin de apă"],
+      en: ["hilly terrain", "rural interior", "upland slopes"]
+    }
+  },
   {
     id: "musongati-relief-v2",
     type: "mountain",
@@ -40,6 +53,18 @@ export const poiExtraBurundiReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Regiunea este cunoscută pentru prezența unor zăcăminte minerale.", "Relieful este marcat prin formațiuni geologice complexe.", "Zona face parte din masivele muntoase din estul Burundiului.", "Musongati este un punct strategic pentru geologii care studiază Riftul.", "Peisajul oferă condiții variate pentru dezvoltarea florei montane.", "Este un teritoriu cu un potențial economic încă în explorare."]
     },
+    description: {
+      de: "Musongati liegt in einer welligen Landschaft im Osten Burundis. Das Relief bildet den Rahmen für Landwirtschaft und Bergbau.",
+      hu: "Musongati Kelet-Burundi hullámos tájában fekszik. A domborzat a mezőgazdaság és a bányászat keretét is adja.",
+      ro: "Zona Musongati este cunoscută pentru relieful ei accidentat și pentru structurile geologice complexe. Dealurile și văile adânci dau regiunii un profil distinct.",
+      en: "Musongati sits in a rugged southeastern part of Burundi. The area is known for rolling ground and a landscape shaped by hills and valleys."
+    },
+    facts: {
+      de: ["Osten", "wellige Höhen", "Bergbauregion"],
+      hu: ["kelet", "hullámos magaslatok", "bányászati térség"],
+      ro: ["estul țării", "relief accidentat", "resurse minerale"],
+      en: ["southeastern Burundi", "rolling ground", "hills and valleys"]
+    }
   },
   {
     id: "gishora-relief-v2",
@@ -59,7 +84,20 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Regiunea este dominată de dealuri line și văi fertile.", "Relieful a permis dezvoltarea unei agriculturi comunitare prospere.", "Este un peisaj emblematic pentru inima geografică a Burundiului.", "Zona a găzduit ceremonii regale datorită accesibilității și frumuseții.", "Gishora reflectă interacțiunea dintre geografie și cultură.", "Dealurile oferă panorame extinse asupra regiunilor învecinate."]
-    }, image: "/poi-images/gishora-relief-v2.webp"},
+    }, image: "/poi-images/gishora-relief-v2.webp",
+    description: {
+      de: "Gishora liegt auf einer Höhe im Zentrum Burundis und ist von sanften Hügeln umgeben. Die Topografie macht den Ort zu einem typischen Hochlandstandort.",
+      hu: "Gishora Burundi középső részének magasabban fekvő pontja, amelyet enyhe dombok vesznek körül. A hely tipikus magasföldi település.",
+      ro: "Gishora este o zonă de dealuri line din centrul Burundiului, aproape de Gitega. Peisajul ei colinar a favorizat așezări tradiționale și agricultură locală.",
+      en: "Gishora is a small hill area near Gitega. Its elevated setting is part of the central Burundian uplands."
+    },
+    facts: {
+      de: ["Zentralburundi", "Hochland", "sanfte Hügel"],
+      hu: ["Közép-Burundi", "fennsík", "enyhe dombok"],
+      ro: ["dealuri line", "aproape de Gitega", "agricultură locală"],
+      en: ["near Gitega", "hill area", "central uplands"]
+    }
+  },
   {
     id: "teza-relief-v2",
     type: "mountain",
@@ -78,7 +116,20 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Regiunea este una dintre cele mai importante zone pentru ceai.", "Relieful montan asigură condițiile climatice unice pentru cultură.", "Plantațiile de ceai creează un peisaj spectaculos pe versanți.", "Teza atrage atenția prin productivitatea sa ridicată.", "Este un centru major de prelucrare a ceaiului în Burundi.", "Infrastructura rutieră traversează zone montane dificile pentru a accesa fabrica."]
-    }, image: "/poi-images/teza-relief-v2.webp"},
+    }, image: "/poi-images/teza-relief-v2.webp",
+    description: {
+      de: "Teza liegt im kühlen Hochland von Muramvya. Die Umgebung ist hügelig und für Teeplantagen gut geeignet.",
+      hu: "Teza Muramvya hűvös magaslatain fekszik. A dombos környezet különösen kedvez a teültetvényeknek.",
+      ro: "Teza face parte din zona montană răcoroasă a centrului-vestic al Burundiului. Relieful înalt susține clima potrivită pentru ceai.",
+      en: "Teza is an upland zone on Burundi's western high ground. Cooler air and steep relief give the area a distinct mountain-edge character."
+    },
+    facts: {
+      de: ["Muramvya", "Hochland", "Teezone"],
+      hu: ["Muramvya", "fennsík", "teezóna"],
+      ro: ["zonă montană", "climat rece", "ceai"],
+      en: ["upland zone", "western high ground", "cool climate"]
+    }
+  },
   {
     id: "songa-relief-v2",
     type: "mountain",
@@ -97,7 +148,20 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Regiunea este un amestec de relief colinar și văi.", "Agricultura locală este susținută de izvoarele naturale.", "Peisajul este specific zonelor intermediare din Burundi.", "Managementul apei este crucial pentru productivitatea agricolă.", "Zona a cunoscut o dezvoltare agricolă treptată în ultimii ani.", "Relieful oferă condiții potrivite pentru mai multe tipuri de culturi."]
-    }, image: "/poi-images/songa-relief-v2.webp"},
+    }, image: "/poi-images/songa-relief-v2.webp",
+    description: {
+      de: "Songa gehört zu den hügeligen Orten im Süden Burundis. Die Landschaft ist stark landwirtschaftlich genutzt.",
+      hu: "Songa Burundi déli részének dombos települései közé tartozik. A tájat erősen mezőgazdasági használat formálja.",
+      ro: "Relieful din Songa este format din platouri și coline care alternează cu văi scurte. Această structură susține agricultura și drenajul natural al apei.",
+      en: "Songa's relief is shaped by rural hills and shallow valleys in southern Burundi. The terrain supports farming and small settlement patterns."
+    },
+    facts: {
+      de: ["Süden", "Hügelland", "Ackerbau"],
+      hu: ["Dél-Burundi", "dombvidék", "szántóföldek"],
+      ro: ["platouri", "văi scurte", "agricultură"],
+      en: ["southern Burundi", "rural hills", "small valleys"]
+    }
+  },
   {
     id: "karonje-relief-v2",
     type: "mountain",
@@ -115,7 +179,20 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Relieful este caracterizat prin versanți cu înclinație mare.", "Eroziunea solului este o provocare gestionată prin terasare.", "Zona joacă un rol în reținerea apelor de suprafață.", "Regiunea oferă peisaje montane deosebite pentru pasionații de natură.", "Infrastructura de acces în zonă este adaptată terenului dificil.", "Comunitățile locale practică agricultura adaptată reliefului accidentat."]
-    }, image: "/poi-images/karonje-relief-v2.webp"},
+    }, image: "/poi-images/karonje-relief-v2.webp",
+    description: {
+      de: "Karonje ist eine kleine Reliefzone in einer ländlichen Region Burundis. Die Fläche wird vor allem von Feldern und Wegen durchzogen.",
+      hu: "Karonje egy kisebb domborzati zóna Burundi vidéki térségének egyik részén. A területet főként mezők és utak szabdalják.",
+      ro: "Karonje este o zonă cu pante abrupte și relief puternic fragmentat, aproape de lacul Tanganyika. Solul cere măsuri constante de protecție împotriva eroziunii.",
+      en: "Karonje is a local relief feature in Burundi's interior countryside. It fits the country's pattern of short ridges and uneven farmland."
+    },
+    facts: {
+      de: ["ländlich", "Reliefpunkt", "Felder"],
+      hu: ["vidéki", "reliefpont", "mezők"],
+      ro: ["pante abrupte", "aproape de Tanganyika", "controlul eroziunii"],
+      en: ["interior countryside", "short ridges", "uneven farmland"]
+    }
+  },
   {
     id: "cene-relief-v2",
     type: "mountain",
@@ -134,6 +211,18 @@ export const poiExtraBurundiReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Regiunea este marcată prin dealuri și văi interconectate.", "Așezările umane sunt distribuite conform disponibilității terenului arabil.", "Cene este un exemplu de zonă rurală tipică pentru Burundi.", "Relieful influențează rețeaua de drumuri rurale și accesul la servicii.", "Practicile agricole sunt strâns legate de caracteristicile reliefului.", "Zona este recunoscută pentru dinamismul său agricol local."]
     },
+    description: {
+      de: "Cene ist eine lokale Erhebung im zentralen Burundi. Das Gebiet ist Teil des typischen burundischen Hügellands.",
+      hu: "Cene egy helyi emelkedés Közép-Burundiban. A terület a burundi dombvidék jellegzetes része.",
+      ro: "Cene reprezintă un relief tipic de dealuri și văi din Burundiul central. Așezările și drumurile locale urmează forma terenului.",
+      en: "Cene is a modest hillside area in Burundi. It contributes to the patchwork of ridges, slopes, and valley floors found across the country."
+    },
+    facts: {
+      de: ["Zentralburundi", "Hügel", "ländliches Umfeld"],
+      hu: ["Közép-Burundi", "dombok", "vidéki környezet"],
+      ro: ["dealuri și văi", "Burundi central", "așezări rurale"],
+      en: ["hillside area", "ridges and slopes", "valley floors"]
+    }
   },
   {
     id: "birira-relief-v2",
@@ -152,7 +241,20 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Masivul prezintă un relief montan dominant în peisaj.", "Zona este importantă pentru protecția biodiversității locale.", "Este esențială prevenirea eroziunii pe versanții masivului.", "Relieful influențează direct precipitațiile în regiune.", "Birira este un punct de reper natural pentru comunitățile din jur.", "Gestionarea terenului este vitală pentru siguranța zonelor joase."]
-    }, image: "/poi-images/birira-relief-v2.webp"},
+    }, image: "/poi-images/birira-relief-v2.webp",
+    description: {
+      de: "Birira liegt in einem von Hügeln geprägten Teil des Landes. Die Höhenzüge strukturieren dort die Siedlungen und den Ackerbau.",
+      hu: "Birira az ország dombokkal tagolt részén található. A magaslatok meghatározzák a falvak és a szántóföldek elrendezését.",
+      ro: "Birira este o zonă de relief colinar în care câmpurile și satele se așază pe înălțimi. Peisajul este modelat de terenuri ondulate și de agricultură.",
+      en: "Birira is part of Burundi's mixed upland relief. The area combines sloping ground with rural land use and scattered settlements."
+    },
+    facts: {
+      de: ["Höhenzüge", "Ackerbau", "Dorfregion"],
+      hu: ["magaslatok", "szántóföldek", "falusi térség"],
+      ro: ["zonă colinară", "sate pe înălțimi", "teren ondulat"],
+      en: ["mixed uplands", "sloping ground", "rural land use"]
+    }
+  },
   {
     id: "nkoma-relief-v2",
     type: "mountain",
@@ -170,7 +272,20 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Zona este caracterizată prin dealuri înalte și văi adânci.", "Relieful oferă perspective unice pentru turismul montan.", "Agricultura locală profită de altitudinea variată a dealurilor.", "Nkoma este un punct strategic pentru supravegherea regiunilor învecinate.", "Comunitățile au adaptat structura satelor la relieful colinar.", "Resursele naturale ale zonei sunt valorificate printr-o agricultură inteligentă."]
-    }, image: "/poi-images/nkoma-relief-v2.webp"},
+    }, image: "/poi-images/nkoma-relief-v2.webp",
+    description: {
+      de: "Nkoma gehört zu den kleineren Reliefpunkten Burundis. Die Umgebung ist hügelig und von landwirtschaftlicher Nutzung geprägt.",
+      hu: "Nkoma Burundi kisebb domborzati pontjai közé tartozik. A környék dombos, és erősen kötődik a mezőgazdasághoz.",
+      ro: "Nkoma este un punct de relief mai mic, dar vizibil, într-o regiune deluroasă a Burundiului. Poziția lui oferă perspective asupra terenurilor agricole din jur.",
+      en: "Nkoma is a small relief zone in Burundi's hilly interior. It reflects the country's common pattern of compact hills and short passes."
+    },
+    facts: {
+      de: ["kleine Erhebung", "Hügelland", "Landwirtschaft"],
+      hu: ["kis kiemelkedés", "dombvidék", "mezőgazdaság"],
+      ro: ["punct de relief", "zonă deluroasă", "terenuri agricole"],
+      en: ["hilly interior", "compact hills", "short passes"]
+    }
+  },
   {
     id: "mikuba-relief-v2",
     type: "mountain",
@@ -188,7 +303,20 @@ export const poiExtraBurundiReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Masivul Mikuba prezintă un relief caracterizat prin înălțimi considerabile.", "Zona este esențială pentru protejarea biodiversității montane.", "Relieful influențează direct regimul local de precipitații.", "Prevenirea alunecărilor de teren este o prioritate în gestionarea zonei.", "Mikuba servește ca punct de reper natural pentru locuitorii regiunii.", "Ecosistemele montane de aici sunt monitorizate pentru conservare."]
-    }, image: "/poi-images/mikuba-relief-v2.webp"},
+    }, image: "/poi-images/mikuba-relief-v2.webp",
+    description: {
+      de: "Mikuba ist eine lokale Erhebung im burundischen Binnenhochland. Sie fügt sich in die vielen Hügel und Täler des Landes ein.",
+      hu: "Mikuba a burundi belső magasföld egyik helyi emelkedése. Jól illeszkedik az ország sok dombja és völgye közé.",
+      ro: "Mikuba este o formațiune de relief din interiorul Burundiului, cu văi și înălțimi care se succed rapid. Acest tip de teren influențează direct utilizarea solului și stabilitatea versanților.",
+      en: "Mikuba lies in a low mountain landscape in Burundi. Its terrain blends ridges, farmland, and a gently broken horizon."
+    },
+    facts: {
+      de: ["Binnenhochland", "Täler", "Relief"],
+      hu: ["belso magasföld", "völgyek", "relief"],
+      ro: ["interiorul țării", "văi și înălțimi", "versanți instabili"],
+      en: ["low mountains", "ridges", "broken horizon"]
+    }
+  },
   {
     id: "kirimbi-relief-v2",
     type: "mountain",

@@ -39,8 +39,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Major transshipment point for containers and break-bulk cargo.",
         "Central hub for the country's commodity exports."
       ]
-    }
-  },
+    }, image: "/poi-images/queen-elizabeth-ii-quay-economic-v2.webp"},
   {
     id: "pepel-port-economic-v2",
     type: "port",
@@ -79,8 +78,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Strategically important site for the country's heavy industry.",
         "Recently modernized to handle larger cargo vessels."
       ]
-    }
-  },
+    }, image: "/poi-images/pepel-port-economic-v2.webp"},
   {
     id: "marampa-mine-economic-v2",
     type: "industry",
@@ -119,8 +117,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Exports high-grade iron ore concentrate globally.",
         "A major employer for the local community."
       ]
-    }
-  },
+    }, image: "/poi-images/marampa-mine-economic-v2.webp"},
   {
     id: "tonkolili-mine-economic-v2",
     type: "industry",
@@ -159,8 +156,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Connected by a long railway line to the port of Pepel.",
         "Contributes significantly to the country's GDP."
       ]
-    }
-  },
+    }, image: "/poi-images/tonkolili-mine-economic-v2.webp"},
   {
     id: "koidu-mine-economic-v2",
     type: "industry",
@@ -239,8 +235,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Important source of export revenue for the country.",
         "Located in a geologically highly productive region."
       ]
-    }
-  },
+    }, image: "/poi-images/tongo-mine-economic-v2.webp"},
   {
     id: "rutile-mine-economic-v2",
     type: "industry",
@@ -279,8 +274,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "The mineral is extracted through surface mining using large dredges.",
         "Crucial for the global paint and plastics industries."
       ]
-    }
-  },
+    }, image: "/poi-images/rutile-mine-economic-v2.webp"},
   {
     id: "mokanji-bauxite-mine-economic-v2",
     type: "industry",
@@ -319,8 +313,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Exported through specialized port facilities on the coast.",
         "A key part of the southern mining sector."
       ]
-    }
-  },
+    }, image: "/poi-images/mokanji-bauxite-mine-economic-v2.webp"},
   {
     id: "sunbird-bioenergy-economic-v2",
     type: "industry",
@@ -359,8 +352,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Produces clean fuel and electricity from biomass.",
         "One of the largest investment projects in the agricultural sector."
       ]
-    }
-  },
+    }, image: "/poi-images/sunbird-bioenergy-economic-v2.webp"},
   {
     id: "brewery-wellington-economic-v2",
     type: "industry",
@@ -399,8 +391,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Increasingly uses locally grown sorghum as a raw material.",
         "A significant player in the local manufacturing sector."
       ]
-    }
-  },
+    }, image: "/poi-images/brewery-wellington-economic-v2.webp"},
   {
     id: "leocem-cement-economic-v2",
     type: "industry",
@@ -439,8 +430,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Processes imported clinker into high-quality cement.",
         "Supports infrastructure development across the nation."
       ]
-    }
-  },
+    }, image: "/poi-images/leocem-cement-economic-v2.webp"},
   {
     id: "bumbuna-dam-economic-v2",
     type: "industry",
@@ -479,8 +469,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "The project was completed after decades of planning.",
         "Reduces reliance on expensive imported fuels."
       ]
-    }
-  },
+    }, image: "/poi-images/bumbuna-dam-economic-v2.webp"},
   {
     id: "bonthe-port-economic-v2",
     type: "port",
@@ -519,8 +508,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Important stop for coastal cargo transport.",
         "Holds great potential for future tourism and trade."
       ]
-    }
-  },
+    }, image: "/poi-images/bonthe-port-economic-v2.webp"},
   {
     id: "nitti-port-economic-v2",
     type: "port",
@@ -559,8 +547,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Key hub for mineral mining exports.",
         "Allows for the transport of large volumes of material by barge."
       ]
-    }
-  },
+    }, image: "/poi-images/nitti-port-economic-v2.webp"},
   {
     id: "kissy-oil-terminal-economic-v2",
     type: "port",
@@ -599,8 +586,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Features extensive tank farm facilities.",
         "A strategic facility for national energy security."
       ]
-    }
-  },
+    }, image: "/poi-images/kissy-oil-terminal-economic-v2.webp"},
   {
     id: "wellington-estate-economic-v2",
     type: "industry",
@@ -639,8 +625,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Provides thousands of jobs in the capital city.",
         "Home to various food processing and chemical companies."
       ]
-    }
-  },
+    }, image: "/poi-images/wellington-estate-economic-v2.webp"},
   {
     id: "dodo-hydro-economic-v2",
     type: "industry",
@@ -719,8 +704,7 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
         "Important for local energy independence.",
         "Built to improve rural electricity supply."
       ]
-    }
-  },
+    }, image: "/poi-images/goma-hydro-economic-v2.webp"},
   {
     id: "sulima-port-economic-v2",
     type: "port",

@@ -1,0 +1,120 @@
+{
+  "lang": "ro",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "las-mercedes-church-history-v2",
+      "description": "Biserica La Merced din San José este un reper neogotic cunoscut pentru turnul său roșu și pentru orga germană. Face parte din peisajul istoric al centrului capitalei.",
+      "facts": [
+        "În San José",
+        "Stil neogotic",
+        "Orga germană"
+      ]
+    },
+    {
+      "id": "finca-6-spheres-history-v2",
+      "description": "Finca 6 din Delta Diquís este unul dintre cele mai importante situri arheologice din Costa Rica. Aici au fost descoperite sferele de piatră care au devenit un simbol precolumbian al țării.",
+      "facts": [
+        "În Delta Diquís",
+        "Sfere de piatră",
+        "Patrimoniu arheologic"
+      ]
+    },
+    {
+      "id": "cabuyal-petroglyphs-history-v2",
+      "description": "Petroglifele de la Cabuyal păstrează gravuri vechi pe piatră, într-un peisaj rural din Guanacaste. Situl leagă arta rupestră de istoria comunităților locale.",
+      "facts": [
+        "În Guanacaste",
+        "Gravuri pe piatră",
+        "Artă rupestră"
+      ]
+    },
+    {
+      "id": "san-vicente-de-moravia-church-history-v2",
+      "description": "Biserica din San Vicente de Moravia este un reper religios al zonei metropolitane. Templul marchează centrul vieții parohiale locale.",
+      "facts": [
+        "În Moravia",
+        "Reper parohial",
+        "Parte din zona metropolitană"
+      ]
+    },
+    {
+      "id": "el-salto-de-belen-history-v2",
+      "description": "El Salto de Belén este o cascadă și zonă de apă cunoscută în Guanacaste, lângă Nicoya. Este apreciată pentru peisajul natural și pentru locul de înot.",
+      "facts": [
+        "În Nicoya",
+        "Cascadă naturală",
+        "Zonă de agrement"
+      ]
+    },
+    {
+      "id": "cimarron-culture-history-v2",
+      "description": "Cultura cimarron vorbește despre rezistență, libertate și identități afro-descendente din America Latină. În Costa Rica, ea se leagă de memoria comunităților care au păstrat tradiții prin muzică și ritual.",
+      "facts": [
+        "Rădăcini afro-descendente",
+        "Tema rezistenței",
+        "Tradiții orale și muzicale"
+      ]
+    },
+    {
+      "id": "ceibo-tree-of-la-paz-history-v2",
+      "description": "Arborele ceibo de la La Paz reprezintă un simbol al pădurii tropicale și al biodiversității din Costa Rica. Coroana sa mare îl face ușor de recunoscut în peisajul forestier.",
+      "facts": [
+        "Specie tropicală",
+        "Simbol al pădurii",
+        "Coroană foarte mare"
+      ]
+    },
+    {
+      "id": "cr-puente-de-la-amistad-landmarks-v2",
+      "description": "Puente de la Amistad leagă zonele de pe malurile râului Tempisque și este una dintre cele mai utile legături rutiere din Guanacaste. A scurtat mult accesul spre peninsula Nicoya.",
+      "facts": [
+        "Peste râul Tempisque",
+        "Legătură spre Nicoya",
+        "Cadou din partea Taiwanului"
+      ]
+    },
+    {
+      "id": "cr-museo-nacional-landmarks-v2",
+      "description": "Muzeul Național din Costa Rica este găzduit în fortăreața Bellavista, chiar în San José. Colecțiile lui acoperă istoria precolumbiană, perioada colonială și identitatea modernă a țării.",
+      "facts": [
+        "În fortăreața Bellavista",
+        "Colecții precolumbiene",
+        "Simbol al istoriei naționale"
+      ]
+    },
+    {
+      "id": "cr-teatro-melico-salazar-landmarks-v2",
+      "description": "Teatrul Popular Melico Salazar este unul dintre reperele culturale importante din San José. Clădirea este legată de artele spectacolului și poartă numele tenorului costarican Melico Salazar.",
+      "facts": [
+        "În San José",
+        "Numit după Melico Salazar",
+        "Spațiu pentru arte spectacolului"
+      ]
+    },
+    {
+      "id": "cr-iglesia-de-coronado-landmarks-v2",
+      "description": "Biserica din Coronado este un reper religios important în zona metropolitană a capitalei. Templul face parte din viața zilnică a comunității locale din San Isidro de Coronado.",
+      "facts": [
+        "În San Isidro de Coronado",
+        "Reper parohial",
+        "Parte din zona metropolitană"
+      ]
+    },
+    {
+      "id": "cr-ruinas-de-cartago-landmarks-v2",
+      "description": "Ruinele din Cartago sunt vestigiile templului neterminat Santiago Apóstol, în centrul vechii capitale. Astăzi, locul este unul dintre cele mai cunoscute simboluri istorice ale orașului.",
+      "facts": [
+        "În centrul Cartagoului",
+        "Rămășițele unui templu neterminat",
+        "Reper istoric foarte cunoscut"
+      ]
+    }
+  ]
+}

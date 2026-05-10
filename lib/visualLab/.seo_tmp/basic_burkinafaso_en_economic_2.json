@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mana-gold-mine-economic-v2",
+      "description": "Mana Gold Mine is a gold operation in western Burkina Faso. It is one of the country’s established mining sites and supports the local economy around Mana.",
+      "facts": ["Western Burkina Faso", "Gold extraction site", "Regional employer"]
+    },
+    {
+      "id": "taparko-gold-mine-economic-v2",
+      "description": "Taparko Gold Mine is a well-known gold site in north-central Burkina Faso. It became one of the earliest large modern mines in the country.",
+      "facts": ["North-central location", "Early modern gold mine", "Important export source"]
+    },
+    {
+      "id": "bissa-gold-mine-economic-v2",
+      "description": "Bissa Gold Mine is a major industrial mine in the Centre-Nord area. It contributes strongly to Burkina Faso’s gold output and local employment.",
+      "facts": ["Centre-Nord Region", "Large-scale gold mine", "Supports jobs and exports"]
+    },
+    {
+      "id": "karma-gold-mine-economic-v2",
+      "description": "Karma Gold Mine is a gold project in northern Burkina Faso. It reflects the spread of industrial mining beyond the main southern production belt.",
+      "facts": ["Northern Burkina Faso", "Industrial mining site", "Part of the gold sector"]
+    },
+    {
+      "id": "yaramoko-gold-mine-economic-v2",
+      "description": "Yaramoko Gold Mine is a high-grade underground mine in western Burkina Faso. It is known for adding modern mining activity to a more rural part of the country.",
+      "facts": ["Underground gold mine", "Western Burkina Faso", "Modern extraction project"]
+    },
+    {
+      "id": "ziga-water-treatment-economic-v2",
+      "description": "Ziga Water Treatment is a key drinking-water facility for Ouagadougou. It helps supply the capital with treated water as the city continues to grow.",
+      "facts": ["Supplies Ouagadougou", "Drinking-water treatment", "Urban infrastructure"]
+    },
+    {
+      "id": "cimfaso-cement-plant-economic-v2",
+      "description": "CIMFASO Cement Plant is a major cement producer in Burkina Faso. It serves the construction market and supports building activity around the capital area.",
+      "facts": ["Cement production site", "Serves construction demand", "Important industrial supplier"]
+    },
+    {
+      "id": "sofitex-koudougou-economic-v2",
+      "description": "SOFITEX Koudougou is linked to the cotton chain in central Burkina Faso. It reflects the role of the city in collection and processing for the textile economy.",
+      "facts": ["Cotton industry link", "Based in Koudougou", "Supports textile processing"]
+    },
+    {
+      "id": "wahgnion-gold-mine-economic-v2",
+      "description": "Wahgnion Gold Mine is a gold project in southwestern Burkina Faso. It adds another large mining site to one of the country’s strongest gold-producing corridors.",
+      "facts": ["Southwestern mining site", "Gold production", "Part of the export economy"]
+    },
+    {
+      "id": "pouytenga-cattle-market-economic-v2",
+      "description": "Pouytenga Cattle Market is one of the busiest livestock trading places in eastern Burkina Faso. It links rural herders with traders moving animals across the region.",
+      "facts": ["Livestock market", "Eastern Burkina Faso", "Regional trading hub"]
+    },
+    {
+      "id": "sonabhy-péni-depot-economic-v2",
+      "description": "SONABHY Peni Depot is a fuel storage site near Peni in western Burkina Faso. It is part of the system that keeps petroleum products moving across the country.",
+      "facts": ["Fuel depot near Peni", "Part of SONABHY", "Supports petroleum supply"]
+    },
+    {
+      "id": "cimasso-bobo-dioulasso-economic-v2",
+      "description": "CIMASSO Bobo-Dioulasso is a cement plant serving western Burkina Faso. It supports construction demand in the country’s second-largest city and beyond.",
+      "facts": ["Cement plant", "Located in Bobo-Dioulasso", "Supports urban construction"]
+    },
+    {
+      "id": "zina-solar-power-station-economic-v2",
+      "description": "Zina Solar Power Station is a renewable energy project in Burkina Faso. It adds photovoltaic generation to the country’s electricity mix.",
+      "facts": ["Solar power station", "Renewable electricity", "National grid support"]
+    },
+    {
+      "id": "dédougou-cotton-gin-economic-v2",
+      "description": "Dédougou Cotton Gin is part of the cotton-processing chain in western Burkina Faso. It helps prepare raw cotton for the market and for later industrial use.",
+      "facts": ["Cotton ginning site", "Western Burkina Faso", "Adds value to raw fiber"]
+    },
+    {
+      "id": "kou-valley-rice-mills-economic-v2",
+      "description": "Kou Valley Rice Mills are tied to rice processing in the fertile Kou Valley near Bobo-Dioulasso. They connect irrigated farming with local food supply and trade.",
+      "facts": ["Rice processing", "Kou Valley location", "Linked to irrigated farming"]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "lang": "hu",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sanaga-delta-nature-v2",
+      "description": "A Sanaga-delta a folyó torkolatvidékének vizes élőhelye. Mocsarak és árterek jellemzik.",
+      "facts": ["torkolatvidék", "mocsaras zóna", "árterek"]
+    },
+    {
+      "id": "buea-forest-nature-v2",
+      "description": "Buea környékén felhőerdők és hegyvidéki erdők húzódnak. A Mount Cameroon lejtőinek zöld öve.",
+      "facts": ["hegyvidéki erdő", "felhőerdő", "Mount Cameroon környéke"]
+    },
+    {
+      "id": "manengouba-forest-nature-v2",
+      "description": "A Manengouba körüli erdők a magashegyi tájhoz kapcsolódnak. Sok helyen nedves, ködös növényzet található.",
+      "facts": ["magashegyi erdő", "ködös környezet", "nedves növényzet"]
+    },
+    {
+      "id": "nkam-forest-nature-v2",
+      "description": "Az Nkam vízrendszerének környékén sűrű erdőségek vannak. A folyó menti élőhelyek fontosak a biodiverzitásnak.",
+      "facts": ["folyómenti erdő", "sűrű növényzet", "biodiverzitási övezet"]
+    },
+    {
+      "id": "sanaga-forest-nature-v2",
+      "description": "A Sanaga menti erdők Kamerun középső és déli tájain húzódnak. A folyóhoz kötődő ökológiai folyosót alkotnak.",
+      "facts": ["Sanaga menti erdő", "ökológiai folyosó", "közép-déli táj"]
+    },
+    {
+      "id": "kribi-marsh-nature-v2",
+      "description": "Kribi környékén parti mocsarak és lagúnás vizes területek is előfordulnak. Ezek a partvidék élőhelyei közé tartoznak.",
+      "facts": ["parti mocsár", "lagúnás élőhely", "tengerparti zóna"]
+    },
+    {
+      "id": "lobe-forest-nature-v2",
+      "description": "A Lobé folyó környéke erdős parti zóna Kribi mellett. A vízesések és az esőerdő együtt adják a táj jellegét.",
+      "facts": ["Lobé folyó", "parti esőerdő", "vízeséses táj"]
+    },
+    {
+      "id": "mungo-marsh-nature-v2",
+      "description": "A Mungo folyó alacsonyabb szakaszain vizes, lápos területek is kialakulnak. Ezek fontos természetes élőhelyek.",
+      "facts": ["lápos terület", "folyó alsó szakasza", "természetes élőhely"]
+    },
+    {
+      "id": "lake-chad-shore-nature-v2",
+      "description": "A Csád-tó partvidéke sekély vizű, változó élőhelyekből áll. A tó visszahúzódása itt különösen látványos.",
+      "facts": ["tóparti zóna", "sekély víz", "változó vízszint"]
+    }
+  ]
+}

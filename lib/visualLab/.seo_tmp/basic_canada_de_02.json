@@ -1,0 +1,65 @@
+{
+  "lang": "de",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cambridge-cities-v2",
+      "description": "Eine Stadt in der Waterloo Region, entstanden aus Galt, Preston und Hespeler.",
+      "facts": ["Am Grand River", "Teil der Waterloo Region", "Aus drei Städten zusammengelegt"]
+    },
+    {
+      "id": "newmarket-cities-v2",
+      "description": "Eine Stadt nördlich von Toronto in der York Region, bekannt für ihre historische Main Street.",
+      "facts": ["In der York Region", "Nord von Toronto", "Historische Main Street"]
+    },
+    {
+      "id": "lloydminster-cities-v2",
+      "description": "Eine Grenzstadt, die Alberta und Saskatchewan überspannt und für Öl und Landwirtschaft bekannt ist.",
+      "facts": ["Auf der Provinzgrenze", "Zwischen Alberta und Saskatchewan", "Starke Öl- und Agrarwirtschaft"]
+    },
+    {
+      "id": "truro-cities-v2",
+      "description": "Ein wichtiges Zentrum in Zentral-Nova Scotia, oft als Hub of Nova Scotia bezeichnet.",
+      "facts": ["In Zentral-Nova Scotia", "Nahe dem Minas Basin", "Historischer Verkehrsknotenpunkt"]
+    },
+    {
+      "id": "summerside-cities-v2",
+      "description": "Die zweitgrößte Stadt von Prince Edward Island an der Westküste der Insel.",
+      "facts": ["Westen von Prince Edward Island", "Zweitgrößte Stadt der Insel", "Wichtige Hafenstadt"]
+    },
+    {
+      "id": "potash-corp-saskatchewan-economic-v2",
+      "description": "Ein Zentrum des kanadischen Kalibergbaus in Saskatchewan.",
+      "facts": ["In Saskatchewan", "Wichtiger Rohstoff für Dünger", "Teil eines weltgroßen Potash-Sektors"]
+    },
+    {
+      "id": "saint-john-port-economic-v2",
+      "description": "Ein wichtiger Hafen an der Bay of Fundy in New Brunswick.",
+      "facts": ["In Saint John, New Brunswick", "Tiefwasserhafen", "Umschlagplatz für Güter und Energie"]
+    },
+    {
+      "id": "saskatoon-uranium-mining-economic-v2",
+      "description": "Saskatoon ist ein wichtiger Dienstleistungsstandort für den Uransektor in Saskatchewan.",
+      "facts": ["Im Uransektor von Saskatchewan", "Saskatoon als Unternehmensstandort", "Nördliches Athabasca-Becken als Quelle"]
+    },
+    {
+      "id": "columbia-river-hydro-economic-v2",
+      "description": "Ein Wasserkraftkomplex am Columbia River in British Columbia.",
+      "facts": ["In British Columbia", "Am Columbia River", "Wichtige Stromquelle"]
+    },
+    {
+      "id": "hamilton-port-economic-v2",
+      "description": "Der Hafen von Hamilton am Ontariosee ist ein zentraler Umschlagpunkt der Großen Seen.",
+      "facts": ["Am Ontariosee", "Teil der Großen-Seen-Schifffahrt", "Wichtig für Stahl und Schüttgut"]
+    }
+  ]
+}

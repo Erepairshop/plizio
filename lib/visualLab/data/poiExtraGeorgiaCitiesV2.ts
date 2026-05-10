@@ -49,8 +49,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       hu: ["A Batumi Boulevardo-t 1881-ben hozták létre.", "A batumi botanikus kert a világ egyik legnagyobbja."],
       ro: ["Bulevardul Batumi a fost creat în anul 1881.", "Grădina Botanică din Batumi este una dintre cele mai mari din lume."],
       en: ["The Batumi Boulevard was established in the year 1881.", "The Batumi Botanical Garden is one of the largest in the world."]
-    }
-  },
+    }, image: "/poi-images/ge-batumi-cities-v2.webp"},
   {
     id: "ge-kutaisi-cities-v2",
     type: "city",
@@ -74,8 +73,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       hu: ["Az ősi Kolkhisz királyság fővárosa volt.", "A Bagrati-székesegyházat a 11. században építették."],
       ro: ["A fost capitala vechiului regat Colchis.", "Catedrala Bagrati a fost construită în secolul al XI-lea."],
       en: ["It was the capital of the ancient kingdom of Colchis.", "The Bagrati Cathedral was built in the 11th century."]
-    }
-  },
+    }, image: "/poi-images/ge-kutaisi-cities-v2.webp"},
   {
     id: "ge-rustavi-cities-v2",
     type: "city",
@@ -99,8 +97,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       hu: ["1948-ban alapították, mint kohászati központot.", "A rusztawi vár a 4. századból származik."],
       ro: ["Fondat în anul 1948 ca un centru pentru metalurgie.", "Castelul Rustavi datează din secolul al IV-lea."],
       en: ["Founded in the year 1948 as a center for metallurgy.", "The Rustavi Castle dates back to the 4th century."]
-    }
-  },
+    }, image: "/poi-images/ge-rustavi-cities-v2.webp"},
   {
     id: "ge-gori-cities-v2",
     type: "city",
@@ -174,8 +171,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       hu: ["Itt található az ország legnagyobb tengeri kikötője.", "A poti székesegyház a Hagia Szophia másolata."],
       ro: ["Are cel mai mare port maritim din țară.", "Catedrala din Poti este o replică a Hagia Sofia."],
       en: ["It features the largest seaport in the country.", "The Poti Cathedral is a replica of the Hagia Sophia."]
-    }
-  },
+    }, image: "/poi-images/ge-poti-cities-v2.webp"},
   {
     id: "ge-sokhumi-cities-v2",
     type: "city",
@@ -349,8 +345,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       hu: ["A Batoniszi Cihé erőd a kaheti királyok rezidenciája volt.", "Egy 900 éves platánfa áll Telavi központjában."],
       ro: ["Fortăreața Batonis Tsikhe a fost reședința regilor din Kakheti.", "Un platan vechi de 900 de ani se află în centrul orașului Telavi."],
       en: ["The Batonis Tsikhe fortress was the residence of Kakhetian kings.", "A 900-year-old plane tree stands in the center of Telavi."]
-    }
-  },
+    }, image: "/poi-images/ge-telavi-cities-v2.webp"},
   {
     id: "ge-akhaltsikhe-cities-v2",
     type: "city",
@@ -574,8 +569,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       hu: ["A gardabani erőmű Grúzia nagy részét látja el árammal.", "A környéken történelmi barlangtelepülések találhatók."],
       ro: ["Centrala de la Gardabani furnizează energie pentru o mare parte din Georgia.", "Există așezări rupestre istorice în zonă."],
       en: ["The Gardabani power plant supplies electricity to large parts of Georgia.", "There are historical cave settlements in the area."]
-    }
-  },
+    }, image: "/poi-images/ge-gardabani-cities-v2.webp"},
   {
     id: "ge-borjomi-cities-v2",
     type: "city",
@@ -599,8 +593,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       hu: ["A borzsomi vizet több mint 40 országba exportálják.", "A Romanov cári dinasztia szívesen töltötte itt a nyarait."],
       ro: ["Apa din Borjomi este exportată în peste 40 de țări.", "Dinastia țaristă Romanov adora să își petreacă verile aici."],
       en: ["Borjomi water is exported to over 40 countries.", "The Romanov tsarist dynasty loved spending their summers here."]
-    }
-  },
+    }, image: "/poi-images/ge-borjomi-cities-v2.webp"},
   {
     id: "ge-tqvarcheli-cities-v2",
     type: "city",

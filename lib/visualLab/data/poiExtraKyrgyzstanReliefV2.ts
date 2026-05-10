@@ -18,8 +18,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Magasság: 7439 m", "Kínai határ", "Tien-san része", "Első megmászás 1938-ban"],
       ro: ["Altitudine: 7439 m", "Granița cu China", "Parte din Tian Shan", "Prima ascensiune în 1938"],
       en: ["Elevation: 7439 m", "Border with China", "Part of Tian Shan", "First ascent in 1938"]
-    }
-  },
+    }, image: "/poi-images/pik-pobedy-relief-v2.webp"},
   {
     id: "khan-tengri-relief-v2",
     type: "mountain",
@@ -37,8 +36,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Magasság: 7010 m (gleccserrel)", "Piramis alak", "Hármashatár", "Jelentése \"Szellemek Ura\""],
       ro: ["Altitudine: 7010 m (cu ghețar)", "Formă de piramidă", "Triplă frontieră", "Înseamnă \"Stăpânul spiritelor\""],
       en: ["Elevation: 7010 m (with ice)", "Pyramidal shape", "Tripoint border", "Means \"Lord of the Spirits\""]
-    }
-  },
+    }, image: "/poi-images/khan-tengri-relief-v2.webp"},
   {
     id: "pik-lenin-relief-v2",
     type: "mountain",
@@ -56,8 +54,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Magasság: 7134 m", "Tádzsik határ", "A Pamír része", "Népszerű hegymászó célpont"],
       ro: ["Altitudine: 7134 m", "Granița cu Tadjikistan", "Parte din Pamir", "Popular printre alpiniști"],
       en: ["Elevation: 7134 m", "Border with Tajikistan", "Part of the Pamir", "Popular among mountaineers"]
-    }
-  },
+    }, image: "/poi-images/pik-lenin-relief-v2.webp"},
   {
     id: "tian-shan-relief-v2",
     type: "mountain",
@@ -75,8 +72,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Jelentése \"Mennyei hegyek\"", "Kiterjedése kb. 2500 km", "Meghatározza Kirgizisztán táját", "Legmagasabb csúcs: Dzsengis Csokuszu"],
       ro: ["Înseamnă \"Munții Cerești\"", "Lungime de aprox. 2500 km", "Domină peisajul kârgâz", "Cel mai înalt vârf: Jengish Chokusu"],
       en: ["Means \"Heavenly Mountains\"", "Length approx. 2500 km", "Dominates Kyrgyz landscape", "Highest peak: Jengish Chokusu"]
-    }
-  },
+    }, image: "/poi-images/tian-shan-relief-v2.webp"},
   {
     id: "alay-mountains-relief-v2",
     type: "mountain",
@@ -94,8 +90,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["A Pamír-Alaj része", "A Fergana-völgytől délre", "Akár 5539 m magas", "Fontos vízválasztó"],
       ro: ["Parte a sistemului Pamir-Alai", "La sud de Valea Fergana", "Altitudine de până la 5539 m", "Bazin hidrografic important"],
       en: ["Part of Pamir-Alay", "South of Fergana Valley", "Elevation up to 5539 m", "Important watershed"]
-    }
-  },
+    }, image: "/poi-images/alay-mountains-relief-v2.webp"},
   {
     id: "alay-valley-relief-v2",
     type: "valley",
@@ -113,8 +108,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Magasság: kb. 3000 m", "Legelő a nomádok számára", "Kilátás a Lenin-csúcsra", "150 km hosszú"],
       ro: ["Altitudine: aprox. 3000 m", "Pășune pentru nomazi", "Vedere spre Vârful Lenin", "Lungime de 150 km"],
       en: ["Elevation: approx. 3000 m", "Pastureland for nomads", "Views of Lenin Peak", "150 km long"]
-    }
-  },
+    }, image: "/poi-images/alay-valley-relief-v2.webp"},
   {
     id: "chuy-valley-relief-v2",
     type: "valley",
@@ -151,8 +145,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Magasság: kb. 2200 m", "Nyári legelő (Dzsajló)", "Jurták és kumisz", "Magas hegyek övezik"],
       ro: ["Altitudine: aprox. 2200 m", "Pășune de vară (Jailoo)", "Iurte și kumâs", "Înconjurată de munți înalți"],
       en: ["Elevation: approx. 2200 m", "Summer pasture (Jailoo)", "Yurts and kumis", "Surrounded by high mountains"]
-    }
-  },
+    }, image: "/poi-images/suusamyr-valley-relief-v2.webp"},
   {
     id: "ala-archa-gorge-relief-v2",
     type: "valley",
@@ -170,8 +163,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Nemzeti park 1976 óta", "A főváros közelében", "Az \"Ala-Arcsa\" színes borókát jelent", "Népszerű túrázóhely"],
       ro: ["Parc național din 1976", "Aproape de capitală", "\"Ala Archa\" înseamnă ienupăr colorat", "Popular pentru drumeții"],
       en: ["National park since 1976", "Near the capital", "\"Ala Archa\" means colorful juniper", "Popular for hiking"]
-    }
-  },
+    }, image: "/poi-images/ala-archa-gorge-relief-v2.webp"},
   {
     id: "terskey-ala-too-relief-v2",
     type: "mountain",
@@ -189,8 +181,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Az Iszik-köl tótól délre", "Legmagasabb pontja több mint 5200 m", "Számos hőforrás", "Jelentése \"árnyékos hegyek\""],
       ro: ["La sud de Issyk-Kul", "Punct maxim peste 5200 m", "Multe izvoare termale", "Înseamnă \"munți umbroși\""],
       en: ["South of Issyk-Kul", "Highest point over 5200 m", "Many hot springs", "Means \"shady mountains\""]
-    }
-  },
+    }, image: "/poi-images/terskey-ala-too-relief-v2.webp"},
   {
     id: "kungey-ala-too-relief-v2",
     type: "mountain",
@@ -208,8 +199,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Az Iszik-köl tótól északra", "Kazah határ", "Jelentése \"napos hegyek\"", "Akár 4771 m magas"],
       ro: ["La nord de Issyk-Kul", "Granița cu Kazahstan", "Înseamnă \"munți însoriți\"", "Altitudine de până la 4771 m"],
       en: ["North of Issyk-Kul", "Border with Kazakhstan", "Means \"sunny mountains\"", "Up to 4771 m high"]
-    }
-  },
+    }, image: "/poi-images/kungey-ala-too-relief-v2.webp"},
   {
     id: "jyrgalan-valley-relief-v2",
     type: "valley",
@@ -227,8 +217,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Ökoturisztikai célpont", "Népszerű a freeride síelők körében", "Széles hegyi legelők", "Az ország keleti részén"],
       ro: ["Destinație ecoturistică", "Popular pentru schi freeride", "Pășuni montane întinse", "În estul țării"],
       en: ["Ecotourism destination", "Popular for freeride skiing", "Vast mountain pastures", "In the east of the country"]
-    }
-  },
+    }, image: "/poi-images/jyrgalan-valley-relief-v2.webp"},
   {
     id: "chong-kemin-valley-relief-v2",
     type: "valley",
@@ -246,8 +235,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Nemzeti park", "Rafting paradicsom", "Hópárducok élőhelye", "Buja tűlevelű erdők"],
       ro: ["Parc național", "Paradis pentru rafting", "Habitat pentru leoparzii de zăpadă", "Păduri dese de conifere"],
       en: ["National park", "Paradise for rafting", "Habitat for snow leopards", "Lush coniferous forests"]
-    }
-  },
+    }, image: "/poi-images/chong-kemin-valley-relief-v2.webp"},
   {
     id: "arpa-valley-relief-v2",
     type: "valley",
@@ -265,8 +253,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Magassága kb. 3000 m", "Nagyon elszigetelt", "Nyári legelőterület", "Zord karakter"],
       ro: ["Altitudine aprox. 3000 m", "Foarte izolată", "Pășune de vară", "Caracter aspru"],
       en: ["Elevation approx. 3000 m", "Very isolated", "Summer pastureland", "Rugged character"]
-    }
-  },
+    }, image: "/poi-images/arpa-valley-relief-v2.webp"},
   {
     id: "ak-sai-valley-relief-v2",
     type: "valley",
@@ -284,8 +271,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Kirgizisztán leghidegebb helye", "Kínai határ", "A Marco Polo-juh élőhelye", "Magashegyi sivatag"],
       ro: ["Cel mai rece loc din Kârgâzstan", "Granița cu China", "Habitat pentru oile Marco Polo", "Deșert alpin"],
       en: ["Kyrgyzstan's coldest place", "Border with China", "Habitat for Marco Polo sheep", "High-mountain desert"]
-    }
-  },
+    }, image: "/poi-images/ak-sai-valley-relief-v2.webp"},
   {
     id: "fergana-valley-relief-v2",
     type: "valley",
@@ -303,8 +289,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Nagyon termékeny", "Bonyolult határok", "Sűrűn lakott", "Gyapot- és gyümölcstermesztés központja"],
       ro: ["Foarte fertilă", "Granițe complexe", "Dens populată", "Centru pentru bumbac și fructe"],
       en: ["Very fertile", "Complex borders", "Densely populated", "Center for cotton and fruit"]
-    }
-  },
+    }, image: "/poi-images/fergana-valley-relief-v2.webp"},
   {
     id: "syrt-plateau-relief-v2",
     type: "plateau",
@@ -322,8 +307,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Permafroszt talaj", "Gyér növényzet", "Több mint 3000 m magas", "Hideg, zord éghajlat"],
       ro: ["Permafrost", "Vegetație rară", "Peste 3000 m altitudine", "Climă rece și aspră"],
       en: ["Permafrost soil", "Sparse vegetation", "Over 3000 m high", "Cold, harsh climate"]
-    }
-  },
+    }, image: "/poi-images/syrt-plateau-relief-v2.webp"},
   {
     id: "karkara-valley-relief-v2",
     type: "valley",
@@ -341,8 +325,7 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       hu: ["Kazah határ", "Téli helisí", "Nyári legelők", "Fontos határátkelő"],
       ro: ["Granița cu Kazahstan", "Heliskiing iarna", "Pășuni de vară", "Punct de trecere a frontierei"],
       en: ["Border with Kazakhstan", "Heliskiing in winter", "Summer pastures", "Important border crossing"]
-    }
-  },
+    }, image: "/poi-images/karkara-valley-relief-v2.webp"},
   {
     id: "naryn-valley-relief-v2",
     type: "valley",

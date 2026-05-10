@@ -79,8 +79,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "One of the most important zoos in southern Yemen.",
         "Known for its big cat enclosures."
       ]
-    }
-  },
+    }, image: "/poi-images/taiz-zoo-life-v2.webp"},
   {
     id: "al-sabeen-park-life-v2",
     type: "park",
@@ -119,8 +118,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "A popular spot for picnics and family outings.",
         "Offers extensive green spaces in the middle of the desert city."
       ]
-    }
-  },
+    }, image: "/poi-images/al-sabeen-park-life-v2.webp"},
   {
     id: "funcity-sanaa-life-v2",
     type: "kid-friendly",
@@ -159,8 +157,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "Offers a variety of rides and arcades.",
         "An important entertainment center for families."
       ]
-    }
-  },
+    }, image: "/poi-images/funcity-sanaa-life-v2.webp"},
   {
     id: "bani-matar-coffee-farms-life-v2",
     type: "agriculture",
@@ -199,8 +196,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "The coffee grows on steep stone terraces.",
         "Cultivation methods have barely changed for centuries."
       ]
-    }
-  },
+    }, image: "/poi-images/bani-matar-coffee-farms-life-v2.webp"},
   {
     id: "tihama-banana-plantations-life-v2",
     type: "agriculture",
@@ -239,8 +235,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "A large part of the Yemeni banana harvest comes from here.",
         "Provide a livelihood for many local farmers."
       ]
-    }
-  },
+    }, image: "/poi-images/tihama-banana-plantations-life-v2.webp"},
   {
     id: "wadi-dhar-orchards-life-v2",
     type: "agriculture",
@@ -279,8 +274,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "Water from deep wells feeds the gardens.",
         "Offer a sharp contrast to the barren rocky landscape."
       ]
-    }
-  },
+    }, image: "/poi-images/wadi-dhar-orchards-life-v2.webp"},
   {
     id: "socotra-aloe-fields-life-v2",
     type: "agriculture",
@@ -319,8 +313,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "Its juice is traditionally used as medicine.",
         "Even the ancient Greeks and Romans traded in Socotran aloe."
       ]
-    }
-  },
+    }, image: "/poi-images/socotra-aloe-fields-life-v2.webp"},
   {
     id: "hadhramaut-date-groves-life-v2",
     type: "agriculture",
@@ -359,8 +352,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "The palms provide shade for other agricultural crops.",
         "They are cultivated along the main valley and its tributaries."
       ]
-    }
-  },
+    }, image: "/poi-images/hadhramaut-date-groves-life-v2.webp"},
   {
     id: "kamaran-mangroves-life-v2",
     type: "wildlife-area",
@@ -399,8 +391,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "An important ecosystem for young fish and crustaceans.",
         "Among the few remaining mangrove forests on the Red Sea."
       ]
-    }
-  },
+    }, image: "/poi-images/kamaran-mangroves-life-v2.webp"},
   {
     id: "dhamar-qat-farms-life-v2",
     type: "agriculture",
@@ -439,8 +430,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "The shrubs require large amounts of irrigation water.",
         "The best leaves are sold daily in the local markets."
       ]
-    }
-  },
+    }, image: "/poi-images/dhamar-qat-farms-life-v2.webp"},
   {
     id: "dawan-honey-farms-life-v2",
     type: "agriculture",
@@ -479,8 +469,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "The hives are traditionally built from mud and branches.",
         "Harvesting is still mostly done by hand."
       ]
-    }
-  },
+    }, image: "/poi-images/dawan-honey-farms-life-v2.webp"},
   {
     id: "aden-fun-city-life-v2",
     type: "kid-friendly",
@@ -519,8 +508,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "Features attractions like bumper cars and carousels.",
         "Very busy, especially on weekends and holidays."
       ]
-    }
-  },
+    }, image: "/poi-images/aden-fun-city-life-v2.webp"},
   {
     id: "ras-shouab-turtle-beach-life-v2",
     type: "wildlife-area",
@@ -559,8 +547,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "The beach is only accessible by boat or via rocky paths.",
         "A protected area for the conservation of marine fauna."
       ]
-    }
-  },
+    }, image: "/poi-images/ras-shouab-turtle-beach-life-v2.webp"},
   {
     id: "al-baradouni-park-life-v2",
     type: "park",
@@ -599,8 +586,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "Serves as the green lung of the city of Dhamar.",
         "A popular meeting place for students and writers."
       ]
-    }
-  },
+    }, image: "/poi-images/al-baradouni-park-life-v2.webp"},
   {
     id: "ibb-green-terraces-life-v2",
     type: "agriculture",
@@ -639,8 +625,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "Mainly sorghum and vegetables are grown here.",
         "The landscape shines in deep green during the rainy season."
       ]
-    }
-  },
+    }, image: "/poi-images/ibb-green-terraces-life-v2.webp"},
   {
     id: "mahra-camel-breeding-life-v2",
     type: "agriculture",
@@ -719,8 +704,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "The young trees grow extremely slowly in the first few years.",
         "Supported by local environmentalists and international organizations."
       ]
-    }
-  },
+    }, image: "/poi-images/socotra-dragon-blood-nurseries-life-v2.webp"},
   {
     id: "al-khokha-palm-groves-life-v2",
     type: "agriculture",
@@ -759,8 +743,7 @@ export const poiExtraYemenLifeV2: POI[] = [
         "The palm leaves are traditionally used for weaving mats.",
         "An idyllic area for fishermen and their families."
       ]
-    }
-  },
+    }, image: "/poi-images/al-khokha-palm-groves-life-v2.webp"},
   {
     id: "zabid-cotton-fields-life-v2",
     type: "agriculture",

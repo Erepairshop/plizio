@@ -18,8 +18,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Közép-Anatóliában található.", "A neve sós tavat jelent.", "Fontos élőhely a flamingók számára."],
       ro: ["Situat în Anatolia Centrală.", "Numele înseamnă Lacul Sărat.", "Habitat important pentru flamingo."],
       en: ["Located in Central Anatolia.", "The name means Salt Lake.", "Important habitat for flamingos."]
-    }
-  },
+    }, image: "/poi-images/turkey-lake-tuz-nature-v2.webp"},
   {
     id: "turkey-lake-egirdir-nature-v2",
     type: "lake",
@@ -37,8 +36,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Törökország negyedik legnagyobb tava.", "Két kis szigettel rendelkezik.", "Tiszta vizéről és almaültetvényeiről ismert."],
       ro: ["Al patrulea cel mai mare lac din Turcia.", "Are două insule mici.", "Cunoscut pentru apa limpede și livezile de meri."],
       en: ["The fourth largest lake in Turkey.", "Has two small islands.", "Known for clear water and apple orchards."]
-    }
-  },
+    }, image: "/poi-images/turkey-lake-egirdir-nature-v2.webp"},
   {
     id: "turkey-kizilirmak-river-nature-v2",
     type: "river",
@@ -56,8 +54,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["A neve vörös folyót jelent.", "Körülbelül 1355 kilométer hosszú.", "Vízenergiára és öntözésre használják."],
       ro: ["Numele său înseamnă Râul Roșu.", "Are o lungime de aproximativ 1355 de kilometri.", "Folosit pentru energie hidroelectrică și irigații."],
       en: ["Its name means Red River.", "It is about 1355 kilometers long.", "Used for hydroelectric power and irrigation."]
-    }
-  },
+    }, image: "/poi-images/turkey-kizilirmak-river-nature-v2.webp"},
   {
     id: "turkey-sakarya-river-nature-v2",
     type: "river",
@@ -75,8 +72,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Karasu városa közelében torkollik.", "Hossza 824 kilométer.", "Fontos folyórendszer Nyugat-Anatólia számára."],
       ro: ["Se varsă aproape de orașul Karasu.", "Are o lungime de 824 de kilometri.", "Un sistem fluvial important pentru vestul Anatoliei."],
       en: ["Empties near the city of Karasu.", "Has a length of 824 kilometers.", "An important river system for western Anatolia."]
-    }
-  },
+    }, image: "/poi-images/turkey-sakarya-river-nature-v2.webp"},
   {
     id: "turkey-lake-beysehir-nature-v2",
     type: "lake",
@@ -94,8 +90,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Anatólia délnyugati részén található.", "Több mint 30 szigetnek ad otthont.", "Egy kiterjedt nemzeti park része."],
       ro: ["Situat în sud-vestul Anatoliei.", "Găzduiește peste 30 de insule.", "Face parte dintr-un parc național extins."],
       en: ["Located in southwestern Anatolia.", "Hosts more than 30 islands.", "Part of an extensive national park."]
-    }
-  },
+    }, image: "/poi-images/turkey-lake-beysehir-nature-v2.webp"},
   {
     id: "turkey-mount-erciyes-nature-v2",
     type: "mountain",
@@ -113,8 +108,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Eléri a 3917 méteres magasságot.", "Népszerű síközpont télen.", "Kitörései formálták Kappadókia táját."],
       ro: ["Atinge o altitudine de 3917 metri.", "O destinație populară pentru schi iarna.", "Erupțiile sale au modelat peisajul din Capadocia."],
       en: ["Reaches an elevation of 3917 meters.", "A popular ski resort in winter.", "Its eruptions shaped the landscape of Cappadocia."]
-    }
-  },
+    }, image: "/poi-images/turkey-mount-erciyes-nature-v2.webp"},
   {
     id: "turkey-kackar-mountains-nature-v2",
     type: "mountain",
@@ -132,8 +126,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["A legmagasabb csúcsa 3937 méter magas.", "A helisízés és a túrázás központja.", "Barnamedvék és farkasok otthona."],
       ro: ["Cel mai înalt vârf are 3937 de metri.", "Cunoscut pentru heliski și drumeții.", "Cămin pentru urși bruni și lupi."],
       en: ["The highest peak is 3937 meters high.", "Known for heliskiing and trekking.", "Home to brown bears and wolves."]
-    }
-  },
+    }, image: "/poi-images/turkey-kackar-mountains-nature-v2.webp"},
   {
     id: "turkey-lake-cildir-nature-v2",
     type: "lake",
@@ -151,8 +144,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Kelet-Anatólia második legnagyobb tava.", "A lovasszános utazások népszerű téli látványosságok.", "A halászok a jégen lévő lékeken keresztül fogják a pontyot."],
       ro: ["Al doilea cel mai mare lac din Anatolia de Est.", "Plimbările cu sania trasă de cai sunt o atracție de iarnă.", "Pescarii prind crap prin găuri în gheață."],
       en: ["The second largest lake in Eastern Anatolia.", "Horse sleigh rides are a winter attraction.", "Fishermen catch carp through holes in the ice."]
-    }
-  },
+    }, image: "/poi-images/turkey-lake-cildir-nature-v2.webp"},
   {
     id: "turkey-yedigoller-national-park-nature-v2",
     type: "national-park",
@@ -170,8 +162,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Hét földcsuszamlás által kialakított tóból áll.", "Népszerű célpont a természetfotósok számára.", "Bükk-, tölgy- és fenyőfákban gazdag."],
       ro: ["Format din șapte lacuri create prin alunecări de teren.", "O destinație populară pentru fotografii de natură.", "Bogat în fagi, stejari și pini."],
       en: ["Consists of seven lakes formed by landslides.", "A popular destination for nature photographers.", "Rich in beech, oak, and pine trees."]
-    }
-  },
+    }, image: "/poi-images/turkey-yedigoller-national-park-nature-v2.webp"},
   {
     id: "turkey-koprulu-canyon-nature-v2",
     type: "national-park",
@@ -189,8 +180,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["A szurdok akár 400 méter mély is lehet.", "A területen fekszik Selge ókori városa.", "Népszerű helyszín a szabadtéri sportokhoz."],
       ro: ["Canionul are o adâncime de până la 400 de metri.", "Conține orașul antic Selge.", "Loc popular pentru sporturi în aer liber."],
       en: ["The canyon is up to 400 meters deep.", "Contains the ancient city of Selge.", "Popular location for outdoor sports."]
-    }
-  },
+    }, image: "/poi-images/turkey-koprulu-canyon-nature-v2.webp"},
   {
     id: "turkey-munzur-valley-nature-v2",
     type: "national-park",
@@ -208,8 +198,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Törökország egyik legnagyobb nemzeti parkja.", "Endemikus növényfajokban gazdag.", "A ritka munzuri pisztráng élőhelye."],
       ro: ["Unul dintre cele mai mari parcuri naționale din Turcia.", "Bogat în specii de plante endemice.", "Habitat pentru păstrăvul rar de Munzur."],
       en: ["One of the largest national parks in Turkey.", "Rich in endemic plant species.", "Habitat of the rare Munzur trout."]
-    }
-  },
+    }, image: "/poi-images/turkey-munzur-valley-nature-v2.webp"},
   {
     id: "turkey-mount-suphan-nature-v2",
     type: "mountain",
@@ -227,8 +216,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Eléri a 4058 méteres magasságot.", "Gyakran vastag hótakaró borítja.", "Kihívást jelentő célpont a hegymászóknak."],
       ro: ["Atinge o altitudine de 4058 de metri.", "Adesea încoronat cu un strat gros de zăpadă.", "O destinație provocatoare pentru alpiniști."],
       en: ["Reaches an elevation of 4058 meters.", "Often crowned with a thick layer of snow.", "A challenging destination for mountaineers."]
-    }
-  },
+    }, image: "/poi-images/turkey-mount-suphan-nature-v2.webp"},
   {
     id: "turkey-belgrad-forest-nature-v2",
     type: "forest",
@@ -246,8 +234,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Történelmi oszmán gátaknak ad otthont.", "Számos túra- és futópályát kínál.", "Szerb foglyokról nevezték el."],
       ro: ["Găzduiește baraje istorice otomane.", "Oferă numeroase trasee de drumeții și alergare.", "A fost numită după prizonierii sârbi."],
       en: ["Houses historical Ottoman dams.", "Offers numerous hiking and running trails.", "Was named after Serbian prisoners."]
-    }
-  },
+    }, image: "/poi-images/turkey-belgrad-forest-nature-v2.webp"},
   {
     id: "turkey-lake-bafa-nature-v2",
     type: "lake",
@@ -265,8 +252,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["A madármegfigyelők paradicsoma.", "A vad Latmosz-hegység veszi körül.", "Herakleia ókori városának romjait mutatja be."],
       ro: ["Un paradis pentru observatorii de păsări.", "Înconjurat de sălbaticii Munți Latmus.", "Prezintă ruinele orașului antic Heracleea."],
       en: ["A paradise for birdwatchers.", "Surrounded by the wild Latmus Mountains.", "Features ruins of the ancient city of Heraclea."]
-    }
-  },
+    }, image: "/poi-images/turkey-lake-bafa-nature-v2.webp"},
   {
     id: "turkey-seyhan-river-nature-v2",
     type: "river",
@@ -284,8 +270,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Fontos szerepet játszik a mezőgazdaságban.", "A Seyhan-gát duzzasztja fel.", "Közvetlenül Adana nagyvárosán folyik keresztül."],
       ro: ["Joacă un rol important în agricultură.", "Este reținut de barajul Seyhan.", "Curge direct prin marele oraș Adana."],
       en: ["Plays an important role in agriculture.", "Is dammed by the Seyhan Dam.", "Flows directly through the large city of Adana."]
-    }
-  },
+    }, image: "/poi-images/turkey-seyhan-river-nature-v2.webp"},
   {
     id: "turkey-aladaglar-nature-v2",
     type: "national-park",
@@ -303,8 +288,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["A legmagasabb csúcsa a Kızılkaya (3767 m).", "A világ minden tájáról vonzza a hegymászókat és túrázókat.", "Változatos növény- és állatvilágáról ismert."],
       ro: ["Cel mai înalt vârf este Kızılkaya (3767 m).", "Atrage alpiniști și iubitori de drumeții din întreaga lume.", "Cunoscut pentru flora și fauna sa diversă."],
       en: ["The highest peak is Kızılkaya (3767 m).", "Attracts climbers and trekkers from all over the world.", "Known for its diverse flora and fauna."]
-    }
-  },
+    }, image: "/poi-images/turkey-aladaglar-nature-v2.webp"},
   {
     id: "turkey-mount-hasan-nature-v2",
     type: "mountain",
@@ -322,8 +306,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Legmagasabb pontja 3268 méter.", "Történelem előtti obszidián-lelőhely.", "Népszerű a siklóernyőzés és a hegymászás rajongói körében."],
       ro: ["Cel mai înalt punct al său este la 3268 de metri.", "O sursă preistorică de obsidian.", "Popular pentru parapantă și alpinism."],
       en: ["Its highest point is at 3268 meters.", "A prehistoric supplier of obsidian.", "Popular for paragliding and mountaineering."]
-    }
-  },
+    }, image: "/poi-images/turkey-mount-hasan-nature-v2.webp"},
   {
     id: "turkey-kaz-daglari-nature-v2",
     type: "national-park",
@@ -341,8 +324,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Számos görög mítosz helyszíne.", "A világ egyik legmagasabb oxigénszintjét kínálja.", "Számos vízesés és gyógyforrás található itt."],
       ro: ["Locul de desfășurare al multor mituri grecești.", "Oferă unul dintre cele mai ridicate niveluri de oxigen din lume.", "Numeroase cascade și izvoare vindecătoare."],
       en: ["The setting of many Greek myths.", "Offers one of the highest oxygen levels in the world.", "Numerous waterfalls and healing springs."]
-    }
-  },
+    }, image: "/poi-images/turkey-kaz-daglari-nature-v2.webp"},
   {
     id: "turkey-buyuk-menderes-nature-v2",
     type: "river",
@@ -360,8 +342,7 @@ export const poiExtraTurkeyNatureV2: POI[] = [
       hu: ["Az Égei-tengerbe ömlik.", "Körülbelül 548 kilométer hosszú.", "Értékes vizesélőhely-deltát alkot."],
       ro: ["Se varsă în Marea Egee.", "Are o lungime de aproximativ 548 de kilometri.", "Formează o deltă și o zonă umedă valoroasă."],
       en: ["Empties into the Aegean Sea.", "About 548 kilometers long.", "Forms a valuable wetland delta."]
-    }
-  },
+    }, image: "/poi-images/turkey-buyuk-menderes-nature-v2.webp"},
   {
     id: "turkey-lake-salda-nature-v2",
     type: "lake",

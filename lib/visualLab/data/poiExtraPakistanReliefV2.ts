@@ -43,8 +43,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Large parts consist of sand dunes",
         "Home to many desert camels"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-thar-desert-relief-v2.webp"},
   {
     id: "pk-cholistan-desert-relief-v2",
     type: "desert",
@@ -87,8 +86,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Known for the Cholistan Jeep Rally",
         "Many old dried-up riverbeds"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-cholistan-desert-relief-v2.webp"},
   {
     id: "pk-kharan-desert-relief-v2",
     type: "desert",
@@ -131,8 +129,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Very dry and hot climate",
         "Known for shifting sand dunes"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-kharan-desert-relief-v2.webp"},
   {
     id: "pk-makran-coast-relief-v2",
     type: "coast",
@@ -175,8 +172,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Known for pristine golden beaches",
         "Located near geological fault lines"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-makran-coast-relief-v2.webp"},
   {
     id: "pk-pothohar-plateau-relief-v2",
     type: "plateau",
@@ -219,8 +215,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Bounded by the Indus and Jhelum rivers",
         "Erosion gullies characterize the landscape"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-pothohar-plateau-relief-v2.webp"},
   {
     id: "pk-balochistan-plateau-relief-v2",
     type: "plateau",
@@ -263,8 +258,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Rich in copper, gold, and natural gas",
         "Very harsh and dry climate"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-balochistan-plateau-relief-v2.webp"},
   {
     id: "pk-neelum-valley-relief-v2",
     type: "valley",
@@ -307,8 +301,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Densely forested and scenic",
         "Popular tourist destination in Azad Kashmir"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-neelum-valley-relief-v2.webp"},
   {
     id: "pk-swat-valley-relief-v2",
     type: "valley",
@@ -351,8 +344,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "An important center for early Buddhism",
         "The valley is crossed by the Swat River"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-swat-valley-relief-v2.webp"},
   {
     id: "pk-kaghan-valley-relief-v2",
     type: "valley",
@@ -395,8 +387,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Crowned by the Babusar Pass",
         "Home to the mythical Saif-ul-Maluk Lake"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-kaghan-valley-relief-v2.webp"},
   {
     id: "pk-kumrat-valley-relief-v2",
     type: "valley",
@@ -439,8 +430,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Rich in wild trout",
         "Rather cool climate even in summer"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-kumrat-valley-relief-v2.webp"},
   {
     id: "pk-kalasha-valleys-relief-v2",
     type: "valley",
@@ -483,8 +473,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Nestled in the Hindu Kush mountains",
         "Famous for colorful spring festivals"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-kalasha-valleys-relief-v2.webp"},
   {
     id: "pk-shigar-valley-relief-v2",
     type: "valley",
@@ -527,8 +516,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Home to a cold desert (Sarfaranga)",
         "The Shigar River flows through the valley"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-shigar-valley-relief-v2.webp"},
   {
     id: "pk-khaplu-valley-relief-v2",
     type: "valley",
@@ -615,8 +603,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Home to the beautiful Rama Lake",
         "Historic caravan route to Kashmir"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-astore-valley-relief-v2.webp"},
   {
     id: "pk-naltar-valley-relief-v2",
     type: "valley",
@@ -659,8 +646,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "Only accessible by jeep",
         "Densely forested compared to the rest of Gilgit"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-naltar-valley-relief-v2.webp"},
   {
     id: "pk-broad-peak-relief-v2",
     type: "mountain",
@@ -703,8 +689,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "First climbed by an Austrian expedition in 1957",
         "Located only 8 kilometers from K2"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-broad-peak-relief-v2.webp"},
   {
     id: "pk-gasherbrum-1-relief-v2",
     type: "mountain",
@@ -747,8 +732,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "First successful ascent by Americans in 1958",
         "Elevation of 8080 meters"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-gasherbrum-1-relief-v2.webp"},
   {
     id: "pk-gasherbrum-2-relief-v2",
     type: "mountain",
@@ -791,8 +775,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "First ascent by Austrians in 1956",
         "One of the 'easier' eight-thousanders"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-gasherbrum-2-relief-v2.webp"},
   {
     id: "pk-masherbrum-relief-v2",
     type: "mountain",
@@ -835,8 +818,7 @@ export const poiExtraPakistanReliefV2: POI[] = [
         "The North Face is considered extremely dangerous",
         "Located south of the Baltoro Glacier"
       ]
-    }
-  },
+    }, image: "/poi-images/pk-masherbrum-relief-v2.webp"},
   {
     id: "pk-spantik-relief-v2",
     type: "mountain",

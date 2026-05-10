@@ -25,8 +25,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Teljes hossza mintegy 1900 kilométer.", "Törökországban, a Hazar-tó közelében ered.", "Irakban Bagdad mellett Moszul városán is áthalad.", "A sumér, akkád és babiloni birodalmak életadó vize volt.", "Vízhozama nagymértékben függ a tavaszi hóolvadástól.", "Számos gát és víztározó épült rajta öntözés céljából."],
       ro: ["Are o lungime totală de aproximativ 1.900 de kilometri.", "Bazinul său hidrografic ocupă 375.000 de kilometri pătrați.", "Izvorăște din Munții Taurus aflați pe teritoriul Turciei.", "Traversează direct capitala irakiană Bagdad.", "Se unește cu Eufratul în apropiere de orașul Al-Qurna.", "Se varsă în Golful Persic prin canalul Shatt al-Arab."],
       en: ["Total length of approximately 1,900 kilometers.", "Drainage basin covers 375,000 square kilometers.", "Originates in the Taurus Mountains of Turkey.", "Passes directly through the Iraqi capital, Baghdad.", "Merges with the Euphrates near Al-Qurna.", "Flows into the Persian Gulf via Shatt al-Arab."]
-    }
-  },
+    }, image: "/poi-images/tigris-nature-v2.webp"},
   {
     id: "euphrates-nature-v2",
     type: "river",
@@ -51,8 +50,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Körülbelül 2800 kilométer hosszan kanyarog.", "Keresztülfolyik Törökországon, Szírián és Irakon.", "Az iszlám és a keresztény hagyományok is jelentős folyóként említik.", "A történelem során többször is megváltoztatta a medrét.", "Fő iraki mellékfolyói nincsenek, a sivatagi klíma miatt jelentős a párolgás.", "Partjainál fontos régészeti ásatások zajlanak napjainkban is."],
       ro: ["Cel mai lung fluviu din vestul Asiei, cu 2.800 km.", "Bazinul său hidrografic acoperă aproape 500.000 km².", "Izvorăște din regiunea muntoasă a podișului armean, Turcia.", "Intră pe teritoriul irakian în zona orașului Husaybah.", "Debitul său este reglat de un sistem extins de baraje.", "Formează canalul Shatt al-Arab împreună cu fluviul Tigru."],
       en: ["Longest river in Western Asia at 2,800 km.", "Drainage basin covers nearly 500,000 sq km.", "Originates in the Armenian Highlands of Turkey.", "Enters Iraqi territory near the city of Husaybah.", "Flow is regulated by an extensive dam system.", "Forms the Shatt al-Arab channel with the Tigris."]
-    }
-  },
+    }, image: "/poi-images/euphrates-nature-v2.webp"},
   {
     id: "halgurd-nature-v2",
     type: "mountain",
@@ -77,8 +75,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Tengerszint feletti magassága 3607 méter.", "A hegy a Halgurd-Sakran Nemzeti Park területén fekszik.", "A téli hónapokban vastag hótakaró borítja a lejtőit.", "Népszerű célpont a helyi és nemzetközi túrázók körében.", "A környéken számos hegyi forrás és tiszta vizű patak ered.", "A magasabban fekvő részeken a nyári hőmérséklet is hűvös marad."],
       ro: ["Altitudinea vârfului măsoară exact 3.607 metri.", "Face parte din lanțul muntos extins al Munților Zagros.", "Se află în interiorul perimetrului Parcului Național Sakran.", "Este situat în întregime pe teritoriul statului irakian.", "În sezonul de iarnă acumulează cantități masive de zăpadă.", "Destinație recunoscută pentru alpiniștii și exploratorii montani."],
       en: ["Peak elevation measures exactly 3,607 meters.", "Part of the extensive Zagros mountain range.", "Located within the Sakran National Park perimeter.", "Situated entirely within Iraqi state territory.", "Accumulates massive amounts of snow in winter.", "Popular destination for professional mountaineers."]
-    }
-  },
+    }, image: "/poi-images/halgurd-nature-v2.webp"},
   {
     id: "cheekha-dar-nature-v2",
     type: "mountain",
@@ -103,8 +100,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Hivatalosan mért magassága 3611 méter.", "A csúcson halad át az iraki-iráni államhatár.", "Az első dokumentált nyugati megmászása csak 2004-ben történt.", "A környező völgyekben hagyományos pásztorkodás zajlik.", "A hegyvidék fontos szerepet játszik a régió vízgyűjtő rendszerében.", "A megközelítéshez speciális helyi vezető és katonai engedély is szükséges lehet."],
       ro: ["Cel mai înalt punct din Irak, având 3.611 metri.", "Este localizat direct pe granița dintre Irak și Iran.", "Denumirea sa se traduce din kurdă ca sintagma Cortul Negru.", "Altitudinea a fost confirmată oficial prin GPS în 2004.", "Prima ascensiune hibernală documentată a avut loc în 2011.", "Face parte din lanțul muntos Zagros, provincia Erbil."],
       en: ["Highest point in Iraq at 3,611 meters.", "Located directly on the Iraq-Iran border.", "Name translates from Kurdish as Black Tent.", "Altitude officially confirmed by GPS in 2004.", "First documented winter ascent occurred in 2011.", "Part of the Zagros mountain range in Erbil."]
-    }
-  },
+    }, image: "/poi-images/cheekha-dar-nature-v2.webp"},
   {
     id: "lake-tharthar-nature-v2",
     type: "lake",
@@ -129,8 +125,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Maximális vízfelülete megközelítheti a 2710 négyzetkilétert.", "A víz befogadókapacitása körülbelül 85 milliárd köbméter.", "Szalahaddin és Al-Anbár tartományok határán fekszik.", "A Szamarra melletti gát irányítja a Tigris vizét a tóba.", "Egy másik csatornán keresztül a víz az Eufráteszbe vezethető.", "A tó partvidéke nagyrészt lakatlan és sivatagos jellegű."],
       ro: ["Cel mai mare lac irakian, cu o suprafață de 2.710 km².", "Este situat la 120 de kilometri nord-vest de Bagdad.", "Inundat artificial din 1956 pentru controlul inundațiilor.", "Adâncimea apei atinge un maxim de aproximativ 98 de metri.", "Sistem de canale îl leagă de fluviile Tigru și Eufrat.", "Se află pe teritoriul administrativ al provinciei Salah ad-Din."],
       en: ["Largest Iraqi lake with a 2,710 sq km area.", "Located 120 kilometers northwest of Baghdad.", "Artificially flooded since 1956 for flood control.", "Water depth reaches a maximum of 98 meters.", "Canal system links it to Tigris and Euphrates.", "Located in the Salah ad-Din administrative province."]
-    }
-  },
+    }, image: "/poi-images/lake-tharthar-nature-v2.webp"},
   {
     id: "lake-habbaniyah-nature-v2",
     type: "lake",
@@ -155,8 +150,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Területe nagyjából 140 négyzetkilométert tesz ki.", "A tó vízszintje az évszaktól függően erősen ingadozik.", "A Ramádi-gát építése tette lehetővé a rendszeres vízpótlást.", "A 1980-as években jelentős turisztikai komplexum működött a partján.", "Nyáron a magas hőmérséklet miatt a párolgási veszteség jelentős.", "Számos vándormadár használja pihenőhelyként a tavaszi vonuláskor."],
       ro: ["Acoperă o suprafață hidrografică de aproximativ 140 km².", "Se găsește la 74 de kilometri vest de capitala Bagdad.", "Dezvoltat ca rezervor controlat pe parcursul anilor 1950.", "Capacitate maximă de stocare estimată la 3,3 km³ de apă.", "Fostă destinație turistică de amploare în anii 1980.", "Conectat printr-un canal de descărcare la Lacul Razzaza."],
       en: ["Covers a hydrographic area of approx 140 sq km.", "Located 74 kilometers west of Baghdad.", "Developed as a controlled reservoir in the 1950s.", "Maximum storage capacity of 3.3 cubic km of water.", "Former large-scale tourist destination in the 1980s.", "Connected by a discharge canal to Lake Razzaza."]
-    }
-  },
+    }, image: "/poi-images/lake-habbaniyah-nature-v2.webp"},
   {
     id: "lake-razzaza-nature-v2",
     type: "lake",
@@ -181,8 +175,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Legnagyobb kiterjedésekor elérte az 1500 négyzetkilométert.", "Kerbela városától mintegy 15 kilométerre nyugatra található.", "Sótartalma miatt a halászati hozam jelentősen visszaesett.", "Kialakulásában tektonikus folyamatok is szerepet játszottak.", "Az alacsony vízállás miatt új, sós sivatagi területek jöttek létre.", "A tavat körülölelő táj kietlen, homokos és sziklás dűnékből áll."],
       ro: ["Al doilea lac irakian ca mărime, atingând 1.501 km².", "Cunoscut sub denumirea alternativă Bahr al-Milh.", "Format în anii 1970 ca bazin pentru apele de viitură.", "Prezintă un nivel extrem de salinitate din cauza evaporării.", "Funcționează ca zonă de iernare pentru stolurile de flamingo.", "Este situat între perimetrele provinciilor Karbala și Al-Anbar."],
       en: ["Second largest Iraqi lake, reaching 1,501 sq km.", "Known by the alternative name Bahr al-Milh.", "Formed in the 1970s as a basin for floodwaters.", "High salinity levels due to extreme evaporation.", "Functions as a wintering area for flamingo flocks.", "Situated between Karbala and Al-Anbar provinces."]
-    }
-  },
+    }, image: "/poi-images/lake-razzaza-nature-v2.webp"},
   {
     id: "hawizeh-marshes-nature-v2",
     type: "national-park",
@@ -207,8 +200,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Az UNESCO Ahwar világörökségi helyszínének kulcsfontosságú része.", "Vízellátásának egy részét az iráni Karkheh folyó biztosítja.", "A 2000-es évek eleje óta jelentős rehabilitációs programok indultak itt.", "A vízfelület mérete évszakonként 1300 és 3000 négyzetkilométer között változik.", "Fontos ívóhelye a régió őshonos édesvízi halfajainak.", "A mocsarak sűrű növényzete természetes vízszűrőként funkcionál."],
       ro: ["Arealul mlaștinilor se poate extinde până la 3.000 km².", "Sunt alimentate predominant de râul Karkheh dinspre Iran.", "Au supraviețuit parțial asanărilor masive din anii 1990.", "Protejate oficial prin Convenția de la Ramsar din 2007.", "Au fost incluse în Patrimoniul Mondial UNESCO în anul 2016.", "Habitat critic pentru specia amenințată lăcarul de Basra."],
       en: ["Marsh area can expand up to 3,000 sq km.", "Fed predominantly by the Karkheh River from Iran.", "Partially survived the massive 1990s drainages.", "Officially protected by the Ramsar Convention in 2007.", "Included in the UNESCO World Heritage in 2016.", "Critical habitat for the threatened Basra reed warbler."]
-    }
-  },
+    }, image: "/poi-images/hawizeh-marshes-nature-v2.webp"},
   {
     id: "hammar-marshes-nature-v2",
     type: "national-park",
@@ -233,8 +225,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["A mocsárvidéket délről a homokos Arab-sivatag határolja.", "A Hammar-tó hossza megközelíti a 120 kilométert.", "2016-ban az UNESCO világörökség részévé nyilvánították.", "A helyi lakosok csónakokkal, úgynevezett mashoofokkal közlekednek.", "A sekély vízben kiterjedt hínár- és gyékénymezők találhatók.", "A tavaszi hóolvadás jelentősen megnöveli a terület vízmélységét."],
       ro: ["Se desfășoară pe o suprafață estimată la 2.800 km².", "Sunt localizate la sud de Eufrat, în provincia Dhi Qar.", "Populate tradițional de comunitățile arabilor din mlaștini.", "Locuințele de tip mudhif sunt construite integral din stuf local.", "Procesul de reinundare a fost inițiat în anul 2003.", "Arealul este listat ca sit al Patrimoniului Mondial UNESCO."],
       en: ["Spreads over an estimated area of 2,800 sq km.", "Located south of the Euphrates, in Dhi Qar province.", "Traditionally populated by Marsh Arab communities.", "Mudhif dwellings are built entirely from local reeds.", "Reflooding process was initiated in the year 2003.", "The area is listed as a UNESCO World Heritage site."]
-    }
-  },
+    }, image: "/poi-images/hammar-marshes-nature-v2.webp"},
   {
     id: "central-marshes-nature-v2",
     type: "national-park",
@@ -259,8 +250,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["A terület központja Nasirija és Qurna városai között található.", "A mocsár domináns növényfaja a közönséges nád (Phragmites australis).", "Egykor a Közel-Kelet legnagyobb összefüggő vizes élőhelye volt.", "A helyreállítás ellenére a folyamatos aszályok veszélyeztetik a vizét.", "A mocsarak szabályozzák a mikroklímát, enyhítve a nyári hőséget.", "A területen ősrégi, évezredes halászati technikákat alkalmaznak ma is."],
       ro: ["Amplasate în regiunea dintre Nasiriyah, Amarah și Basra.", "Au fost asanate aproape integral pe parcursul anilor 1990.", "Restaurarea ecologică a început în 2003 prin breșe de dig.", "Sistem hidrografic alimentat tradițional de Tigru și Eufrat.", "Habitat primar pentru populațiile de vidră mesopotamiană.", "Formează centrul geografic al ansamblului ecologic Ahwar."],
       en: ["Located in the region between Nasiriyah, Amarah and Basra.", "Almost entirely drained during the 1990s.", "Ecological restoration began in 2003 through dike breaches.", "System traditionally fed by Tigris and Euphrates rivers.", "Primary habitat for Mesopotamian smooth-coated otters.", "Forms the geographic center of the Ahwar ecosystem."]
-    }
-  },
+    }, image: "/poi-images/central-marshes-nature-v2.webp"},
   {
     id: "dukan-lake-nature-v2",
     type: "lake",
@@ -285,8 +275,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["A víztározó területe körülbelül 270 négyzetkilométer.", "A Dukan-gát egy monumentális beton ívgát, melynek magassága 116 méter.", "A tó partvidékén több mint 50 régészeti lelőhelyet tártak fel az elárasztás előtt.", "Kiemelt jelentőségű a kurdisztáni áramellátás stabilizálásában.", "A tó vízállása az őszi és tavaszi csapadékmennyiségtől függ.", "Nyáron a helyiek gyakran látogatják a partját piknikezés céljából."],
       ro: ["Cel mai mare lac din Kurdistan, cu o arie de 270 km².", "S-a format prin edificarea unui baraj înalt de 116 metri.", "Structura barajului a fost construită între anii 1954 și 1959.", "Hidrocentrala a fost pusă în funcțiune în cursul anului 1979.", "Capacitatea de retenție atinge un volum de 6,8 km³.", "Zonă turistică frecventată în perimetrul provinciei Sulaymaniyah."],
       en: ["Largest lake in Kurdistan, with an area of 270 sq km.", "Formed by building a dam 116 meters high.", "Dam structure was built between 1954 and 1959.", "Hydroelectric plant was commissioned during 1979.", "Retention capacity reaches a volume of 6.8 cubic km.", "Frequented tourist area within Sulaymaniyah province."]
-    }
-  },
+    }, image: "/poi-images/dukan-lake-nature-v2.webp"},
   {
     id: "darbandikhan-lake-nature-v2",
     type: "lake",
@@ -337,8 +326,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Vízállása idején hossza mintegy 4,5 kilométer, szélessége 1,8 kilométer volt.", "A víz sótartalma meghaladta a Perzsa-öböl vizének sókoncentrációját.", "Egykor számos madárfaj, köztük kis vöcsök is költött a környékén.", "2014-ben a Ramsari-egyezmény hatálya alá tartozó vizes élőhellyé nyilvánították.", "A partvonalat 3-6 méter magas, természetes módon kialakult gipszfalak övezték.", "A terület kiszáradása súlyos csapást mért a helyi turizmusra."],
       ro: ["Bazin endoreic izolat, lipsit de afluenți de suprafață.", "Situat la o distanță de 23 de kilometri vest de orașul Samawah.", "Alimentat exclusiv din pânzele de ape subterane de adâncime.", "Prezenta un nivel de salinitate aproape dublu față de cel marin.", "Corpul de apă a dispărut complet în decursul anului 2022.", "Fost sit ecologic înregistrat oficial prin Convenția Ramsar."],
       en: ["Isolated endorheic basin, lacking surface tributaries.", "Located 23 kilometers west of Samawah city.", "Fed exclusively from deep groundwater tables.", "Salinity level was almost double the marine average.", "Water body disappeared completely during 2022.", "Former ecological site registered by the Ramsar Convention."]
-    }
-  },
+    }, image: "/poi-images/sawa-lake-nature-v2.webp"},
   {
     id: "mosul-dam-lake-nature-v2",
     type: "lake",
@@ -363,8 +351,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["A víztározó maximális hossza eléri a 45 kilométert.", "Befogadóképessége körülbelül 11 milliárd köbméter vizet tesz ki.", "Az ország áramellátásának jelentős százalékát a gát turbinái biztosítják.", "A gát instabilitása miatt gyakran \"a világ legveszélyesebb gátjának\" is nevezik.", "A tó vizéből kiterjedt öntözőcsatorna-rendszerek indulnak ki.", "Az elárasztás előtt a területen számos ókori asszír romot tártak fel."],
       ro: ["Cel mai mare rezervor irakian cu un volum de 11,1 km³.", "Ocupă un perimetru hidrografic de aproximativ 380 km².", "Barajul de terasament se ridică la o înălțime de 113 metri.", "Inaugurat și pus în exploatare comercială în anul 1986.", "Hidrocentrala înregistrează o capacitate de producție de 1.052 MW.", "Fundația sa necesită proceduri constante de cimentare."],
       en: ["Largest Iraqi reservoir with a volume of 11.1 cubic km.", "Occupies a hydrographic perimeter of approx 380 sq km.", "Embankment dam rises to a height of 113 meters.", "Inaugurated and put into commercial operation in 1986.", "Hydroelectric plant has a production capacity of 1,052 MW.", "Foundation requires constant cementing procedures."]
-    }
-  },
+    }, image: "/poi-images/mosul-dam-lake-nature-v2.webp"},
   {
     id: "qandil-mountains-nature-v2",
     type: "mountain",
@@ -389,8 +376,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Több csúcsa is meghaladja a 3000 méteres tengerszint feletti magasságot.", "A hegyoldalakat borító erdőségek fő fafaja a perzsa tölgy.", "A hegység jelentős vízválasztó, számos patak és kisebb folyó ered itt.", "A meredek sziklafalak miatt az infrastruktúra fejletlen.", "A területen elszórtan apró, elszigetelt pásztorfalvak találhatók.", "A régió gyakran célpontja határokon átnyúló katonai műveleteknek."],
       ro: ["Se extind în paralel cu zonele de frontieră turcă și iraniană.", "Subdiviziune geologică aparținând lanțului Munților Zagros.", "Prezintă vârfuri care depășesc pragul de 3.000 de metri.", "Relief puternic accidentat marcat de un acces deosebit de dificil.", "Sectoarele inferioare susțin păduri extinse de stejari.", "Acumulează un strat masiv de zăpadă pe durata iernii."],
       en: ["Extend parallel to the Turkish and Iranian border areas.", "Geological subdivision of the Zagros Mountains chain.", "Features peaks exceeding the 3,000-meter threshold.", "Highly rugged terrain marked by extremely difficult access.", "Lower sectors support extensive forests of oak trees.", "Accumulates a massive layer of snow during the winter."]
-    }
-  },
+    }, image: "/poi-images/qandil-mountains-nature-v2.webp"},
   {
     id: "sinjar-mountains-nature-v2",
     type: "mountain",
@@ -415,8 +401,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["A hegység legmagasabb pontja, a Csel Mera, 1463 méter magas.", "A vonulat vulkáni és üledékes kőzetekből épül fel.", "A hegyvidéken számos ősi jezidi szentély és zarándokhely található.", "A lejtőkön hagyományos teraszos gazdálkodást folytatnak.", "A régió stratégiai fontosságú, mivel közel fekszik a szíriai határhoz.", "Klímája hűvösebb és csapadékosabb, mint a környező síkságoké."],
       ro: ["Lanț montan delimitat cu o lungime liniară de circa 100 km.", "Vârful Chermera deține punctul maxim de 1.463 de metri.", "Situat pe teritoriul administrativ al provinciei irakiene Ninawa.", "Structura geologică constă predominant din calcare carstice.", "Constituie spațiul istoric de refugiu al comunității yazidi.", "Climatul specific sprijină agricultura bazată pe terasare."],
       en: ["Mountain chain with a linear length of roughly 100 km.", "Chermera Peak holds the maximum point of 1,463 meters.", "Located on the administrative territory of Ninawa province.", "Geological structure consists mostly of karstic limestone.", "Constitutes the historic refuge space of the Yazidi community.", "Specific climate supports agriculture based on terracing."]
-    }
-  },
+    }, image: "/poi-images/sinjar-mountains-nature-v2.webp"},
   {
     id: "diyala-river-nature-v2",
     type: "river",
@@ -441,8 +426,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["A folyó teljes hossza körülbelül 445 kilométer.", "Vízhozama erősen ingadozik a csapadék és a hóolvadás függvényében.", "Az ókorban számos fontos mezopotámiai kereskedelmi útvonal követte a folyását.", "A vízfolyás alsó szakasza sűrűn lakott és intenzíven művelt terület.", "A torkolat közelében található a történelmi Szeleukeia-Ktésziphón romvárosa.", "Nyáron a csökkent vízhozam miatt a folyó vízszintje jelentősen megcsappan."],
       ro: ["Cursul principal de apă însumează circa 445 de kilometri.", "Izvorăște sub toponimul Sirwan din sectorul iranian Zagros.", "Albia delimitează parțial teritoriul dintre Irak și statul Iran.", "Nivelul apei este administrat prin barajele Darbandikhan și Hamrin.", "Întâlnește bazinul fluviului Tigru exact la sud de orașul Bagdad.", "Sursă de irigații fundamentală pentru provincia irakiană Diyala."],
       en: ["Main watercourse totals about 445 kilometers.", "Originates as the Sirwan river in the Iranian Zagros.", "Riverbed partially delimits the border of Iraq and Iran.", "Water level is managed by the Darbandikhan and Hamrin dams.", "Meets the Tigris River basin exactly south of Baghdad city.", "Key irrigation source for the Iraqi province of Diyala."]
-    }
-  },
+    }, image: "/poi-images/diyala-river-nature-v2.webp"},
   {
     id: "great-zab-nature-v2",
     type: "river",
@@ -467,8 +451,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["A folyó hossza Törökországtól a torkolatig nagyjából 400 kilométer.", "Hozzájárul a Tigris teljes vízhozamának mintegy harmadához.", "A folyón jelenleg nincsenek nagyobb gátak Irak területén.", "A hegyi szakaszokon népszerű a vadvízi evezés és a horgászat.", "Vizét számos kisebb hegyi patak és forrás táplálja.", "Széles, kavicsos medre az alsóbb szakaszokon fonatos jelleget ölt."],
       ro: ["Râul măsoară o lungime fizică de aproape 400 de kilometri.", "Secțiunea de izvor se află în masivul muntos Hakkâri, Turcia.", "Bazinul său de colectare cuprinde 26.200 de kilometri pătrați.", "Volumul hidrologic este generat substanțial din topirea zăpezii.", "Realizează conexiunea cu Tigrul la 50 km sud de Mosul.", "Dublează practic volumul de apă al fluviului la punctul de confluență."],
       en: ["River measures a physical length of almost 400 kilometers.", "Source is located in the Hakkari mountain massif, Turkey.", "Collection basin covers 26,200 square kilometers.", "Hydrological volume is generated largely by melting snow.", "Makes the connection with the Tigris 50 km south of Mosul.", "Doubles the water volume of the Tigris at the confluence."]
-    }
-  },
+    }, image: "/poi-images/great-zab-nature-v2.webp"},
   {
     id: "shatt-al-arab-nature-v2",
     type: "river",
@@ -493,8 +476,7 @@ export const poiExtraIraqNatureV2: POI[] = [
       hu: ["Szélessége Bászránál körülbelül 230 méter, a torkolatnál elérheti a 800 métert is.", "A folyón jelentős a tengeri árapály hatása, amely felduzzasztja a vizet.", "Legfontosabb mellékfolyója az Irán felől érkező Karun folyó.", "Vizének sótartalma az utóbbi években aggasztó mértékben megnőtt.", "Kereskedelmi hajók egészen Bászra kikötőjéig fel tudnak hajózni rajta.", "A part menti mocsaras területek gazdag vízimadár-élőhelyek."],
       ro: ["Apare în zona orașului Al-Qurna prin unirea fluviilor Eufrat și Tigru.", "Însumează un parcurs natural de peste 200 de kilometri.", "Se varsă în sectorul maritim al Golfului Persic pe lângă orașul Fao.", "La nivelul gurii de vărsare, atinge dimensiuni de până la 800 de metri.", "Punctează un segment strategic de graniță între statul Irak și Iran.", "Canal principal de navigare care leagă portul Basra de mare."],
       en: ["Forms near Al-Qurna city by joining Euphrates and Tigris.", "Totals a natural course of over 200 kilometers.", "Flows into the Persian Gulf maritime sector near Fao city.", "At the mouth level, it reaches dimensions of up to 800 meters.", "Marks a strategic border segment between Iraq and Iran.", "Main navigation channel linking Basra port to the sea."]
-    }
-  },
+    }, image: "/poi-images/shatt-al-arab-nature-v2.webp"},
   {
     id: "zawita-forest-nature-v2",
     type: "forest",

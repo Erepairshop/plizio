@@ -13,8 +13,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["Az 1. században épült.", "Örményország egyetlen fennmaradt görög-római épülete."],
       ro: ["Construit în secolul I d.Hr.", "Singura clădire greco-romană păstrată din Armenia."],
       en: ["Built in the 1st century AD.", "The only surviving Greco-Roman building in Armenia."]
-    }
-  },
+    }, image: "/poi-images/garni-temple-history-v2.webp"},
   {
     id: "geghard-monastery-history-v2",
     type: "historical-site",
@@ -27,8 +26,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["Világosító Szent Gergely alapította a 4. században.", "Arról a lándzsáról kapta a nevét, amely megsebezte Jézust."],
       ro: ["Fondată în secolul al IV-lea de Grigore Iluminătorul.", "Numită după sulița care l-a rănit pe Iisus la cruce."],
       en: ["Founded in the 4th century by Gregory the Illuminator.", "Named after the spear that wounded Jesus at the Crucifixion."]
-    }
-  },
+    }, image: "/poi-images/geghard-monastery-history-v2.webp"},
   {
     id: "zvartnots-cathedral-history-v2",
     type: "ruin",
@@ -41,8 +39,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["643 és 652 között épült.", "2000 óta az UNESCO világörökség része."],
       ro: ["Construită între anii 643 și 652.", "Face parte din Patrimoniul Mondial UNESCO din 2000."],
       en: ["Built between 643 and 652.", "Added to the UNESCO World Heritage list in 2000."]
-    }
-  },
+    }, image: "/poi-images/zvartnots-cathedral-history-v2.webp"},
   {
     id: "khor-virap-history-v2",
     type: "historical-site",
@@ -55,8 +52,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["Világosító Szent Gergely 13 évig volt itt bezárva.", "Csak néhány kilométerre található a lezárt török határtól."],
       ro: ["Grigore Iluminătorul a fost închis aici timp de 13 ani.", "Este situat la doar câțiva kilometri de granița turcă închisă."],
       en: ["Gregory the Illuminator was imprisoned here for 13 years.", "Located just a few kilometers from the closed Turkish border."]
-    }
-  },
+    }, image: "/poi-images/khor-virap-history-v2.webp"},
   {
     id: "noravank-history-v2",
     type: "historical-site",
@@ -69,8 +65,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["A híres építész, Momik tervezte.", "A főtemplom a Szurb Asztvacacin, egy kétszintes templom."],
       ro: ["Proiectată de faimosul arhitect Momik.", "Biserica principală este Surb Astvatsatsin, o clădire cu două etaje."],
       en: ["Designed by the renowned architect Momik.", "The main church is Surb Astvatsatsin, a two-story building."]
-    }
-  },
+    }, image: "/poi-images/noravank-history-v2.webp"},
   {
     id: "tatev-monastery-history-v2",
     type: "historical-site",
@@ -83,8 +78,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["A 9. században alapították.", "A Tatev szárnyai nevű kötélpálya vezet a kolostorhoz."],
       ro: ["Fondată în secolul al IX-lea.", "Telecabina Wings of Tatev duce spre mănăstire."],
       en: ["Founded in the 9th century.", "Reached by the Wings of Tatev aerial tramway."]
-    }
-  },
+    }, image: "/poi-images/tatev-monastery-history-v2.webp"},
   {
     id: "erebuni-fortress-history-v2",
     type: "ruin",
@@ -97,8 +91,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["I. Argisti király építtette Krisztus előtt 782-ben.", "Az Erebuni név később Jerevánra változott."],
       ro: ["Construită în 782 î.Hr. de regele Argishti I.", "Numele Erebuni a evoluat ulterior în Erevan."],
       en: ["Built by King Argishti I in 782 BC.", "The name Erebuni later evolved into Yerevan."]
-    }
-  },
+    }, image: "/poi-images/erebuni-fortress-history-v2.webp"},
   {
     id: "sardarapat-memorial-history-v2",
     type: "monument",
@@ -111,8 +104,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["1968-ban nyílt meg a csata 50. évfordulójára.", "Egy néprajzi múzeum is található benne."],
       ro: ["Inaugurat în 1968 pentru a marca a 50-a aniversare a bătăliei.", "Include și un muzeu de etnografie."],
       en: ["Opened in 1968 on the 50th anniversary of the battle.", "The complex includes an ethnographic museum."]
-    }
-  },
+    }, image: "/poi-images/sardarapat-memorial-history-v2.webp"},
   {
     id: "tsitsernakaberd-history-v2",
     type: "monument",
@@ -134,7 +126,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     "ro": "Complexul memorial Tsitsernakaberd este memorialul oficial al Armeniei dedicat victimelor genocidului armean. Construit în 1967 pe dealul Tsitsernakaberd din Erevan, complexul a devenit un loc de pelerinaj. În fiecare an, pe 24 aprilie, Ziua de comemorare a genocidului armean, mii de armeni se adună la memorial pentru a comemora victimele. Oamenii depun flori proaspete în semn de respect pentru toți cei care au murit în timpul masacrelor. De-a lungul anilor, o gamă largă de politicieni, artiști, muzicieni, sportivi și personalități religioase din întreaga lume au vizitat memorialul pentru a-și arăta respectul. Ansamblul este format dintr-o stelă înaltă de 44 de metri, care simbolizează renașterea națională a armenilor, și un sanctuar circular cu o flacără eternă.",
     "en": "The Tsitsernakaberd memorial complex, built in 1967 on a hill in Yerevan, is Armenia's official monument dedicated to the victims of the Armenian Genocide. It consists of a 44-meter-tall stele symbolizing the rebirth of the Armenian people and a circular sanctuary with an eternal flame at its center. The twelve large basalt slabs forming the circle represent the lost provinces of Western Armenia. Each year on April 24th, the Armenian Genocide Remembrance Day, hundreds of thousands of people gather at the memorial to lay flowers and pay their respects to the 1.5 million victims. The site also includes an underground museum opened in 1995, which provides historical context and displays artifacts related to the genocide."
     },
-    factsAdvanced: { multi4: ["Gebaut im Jahr 1967 auf dem Hügel Tsitsernakaberd.", "Der Obelisk ist 44 Meter hoch und symbolisiert die nationale Wiedergeburt.", "Die ewige Flamme ehrt die 1,5 Millionen Opfer des Völkermords.", "Jährliche Gedenkfeier am 24. April.", "Das unterirdische Museum wurde 1995 eröffnet.", "Zwölf Basaltplatten repräsentieren die verlorenen Provinzen.", "Az emlékművet 1967-ben adták át.", "A 44 méteres sztélé az újjászületést szimbolizálja.", "Az örökmécses a népirtás 1,5 millió áldozatára emlékeztet.", "Minden év április 24-én tartják a megemlékezést.", "A földalatti múzeum 1995-ben nyílt meg.", "A 12 bazalttömb az elveszett nyugat-örmény tartományokat jelképezi.", "Construit în 1967 pe dealul Tsitsernakaberd.", "Stela are o înălțime de 44 de metri și simbolizează renașterea națională.", "Flacăra eternă onorează cele 1,5 milioane de victime ale genocidului.", "Comemorare anuală pe 24 aprilie.", "Muzeul subteran a fost inaugurat în 1995.", "Doisprezece stâlpi de bazalt reprezintă provinciile pierdute.", "Built in 1967 on Tsitsernakaberd hill.", "The 44-meter stele symbolizes national rebirth.", "The eternal flame honors the 1.5 million victims of the genocide.", "Annual commemoration takes place on April 24th.", "The underground museum opened in 1995.", "Twelve basalt slabs represent the lost provinces."] }},
+    factsAdvanced: { multi4: ["Gebaut im Jahr 1967 auf dem Hügel Tsitsernakaberd.", "Der Obelisk ist 44 Meter hoch und symbolisiert die nationale Wiedergeburt.", "Die ewige Flamme ehrt die 1,5 Millionen Opfer des Völkermords.", "Jährliche Gedenkfeier am 24. April.", "Das unterirdische Museum wurde 1995 eröffnet.", "Zwölf Basaltplatten repräsentieren die verlorenen Provinzen.", "Az emlékművet 1967-ben adták át.", "A 44 méteres sztélé az újjászületést szimbolizálja.", "Az örökmécses a népirtás 1,5 millió áldozatára emlékeztet.", "Minden év április 24-én tartják a megemlékezést.", "A földalatti múzeum 1995-ben nyílt meg.", "A 12 bazalttömb az elveszett nyugat-örmény tartományokat jelképezi.", "Construit în 1967 pe dealul Tsitsernakaberd.", "Stela are o înălțime de 44 de metri și simbolizează renașterea națională.", "Flacăra eternă onorează cele 1,5 milioane de victime ale genocidului.", "Comemorare anuală pe 24 aprilie.", "Muzeul subteran a fost inaugurat în 1995.", "Doisprezece stâlpi de bazalt reprezintă provinciile pierdute.", "Built in 1967 on Tsitsernakaberd hill.", "The 44-meter stele symbolizes national rebirth.", "The eternal flame honors the 1.5 million victims of the genocide.", "Annual commemoration takes place on April 24th.", "The underground museum opened in 1995.", "Twelve basalt slabs represent the lost provinces."] }, image: "/poi-images/tsitsernakaberd-history-v2.webp"},
   {
     id: "mother-armenia-history-v2",
     type: "monument",
@@ -147,8 +139,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["1967-ben Sztálin monumentális szobrát váltotta fel.", "A talapzatban egy hadtörténeti múzeum kapott helyet."],
       ro: ["A înlocuit o statuie monumentală a lui Stalin în 1967.", "Piedestalul adăpostește un muzeu militar."],
       en: ["Replaced a monumental statue of Joseph Stalin in 1967.", "The pedestal houses the Military Museum."]
-    }
-  },
+    }, image: "/poi-images/mother-armenia-history-v2.webp"},
   {
     id: "haghpat-monastery-history-v2",
     type: "historical-site",
@@ -161,8 +152,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["Hoszrovanus királyné alapította.", "1996 óta az UNESCO világörökség része."],
       ro: ["A fost fondată de regina Khosrovanuysh.", "Face parte din Patrimoniul Mondial UNESCO din 1996."],
       en: ["Founded by Queen Khosrovanuysh.", "Inscribed as a UNESCO World Heritage Site in 1996."]
-    }
-  },
+    }, image: "/poi-images/haghpat-monastery-history-v2.webp"},
   {
     id: "sanahin-monastery-history-v2",
     type: "historical-site",
@@ -175,8 +165,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["A név örményül azt jelenti: »ez régebbi, mint a másik«.", "Híres volt középkori írnokiskolájáról és könyvtáráról."],
       ro: ["Numele înseamnă »aceasta este mai veche decât cealaltă«.", "Faimoasă pentru școala de caligrafi și biblioteca sa medievală."],
       en: ["The name literally translates as »this one is older than that one«.", "Renowned for its medieval scriptorium and library."]
-    }
-  },
+    }, image: "/poi-images/sanahin-monastery-history-v2.webp"},
   {
     id: "amberd-fortress-history-v2",
     type: "ruin",
@@ -189,8 +178,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["A neve azt jelenti: »Felhőerőd«.", "A 11. században a szeldzsuk törökök foglalták el."],
       ro: ["Numele se traduce prin »Cetatea din nori«.", "A fost cucerită de turcii selgiucizi în secolul al XI-lea."],
       en: ["The name translates to »fortress in the clouds«.", "Captured by the Seljuk Turks in the 11th century."]
-    }
-  },
+    }, image: "/poi-images/amberd-fortress-history-v2.webp"},
   {
     id: "smbataberd-fortress-history-v2",
     type: "ruin",
@@ -203,8 +191,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["Az Orbelian-dinasztia építtette a 10. században.", "Masszív falai sokáig bevehetetlenek voltak."],
       ro: ["Construită în secolul al X-lea de dinastia Orbelian.", "Zidurile sale masive au rămas mult timp de necucerit."],
       en: ["Built in the 10th century by the Orbelian dynasty.", "Its massive walls made it highly defensible."]
-    }
-  },
+    }, image: "/poi-images/smbataberd-fortress-history-v2.webp"},
   {
     id: "karahunj-history-v2",
     type: "historical-site",
@@ -217,8 +204,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["Több mint 200 nagy bazaltkőből áll.", "A kövek egy részén rejtélyes lyukak találhatók."],
       ro: ["Este compus din peste 200 de pietre masive de bazalt.", "Multe pietre au găuri misterioase în partea superioară."],
       en: ["Composed of over 200 massive basalt stones.", "Many of the stones have smooth holes carved into them."]
-    }
-  },
+    }, image: "/poi-images/karahunj-history-v2.webp"},
   {
     id: "oshakan-church-history-v2",
     type: "historical-site",
@@ -231,8 +217,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["Itt nyugszik az örmény ábécé megalkotója.", "Az örmény ábécét 405-ben hozták létre."],
       ro: ["Inventatorul alfabetului armean este înmormântat aici.", "Alfabetul armean a fost creat în anul 405."],
       en: ["The creator of the Armenian alphabet is buried here.", "The Armenian alphabet was created in the year 405."]
-    }
-  },
+    }, image: "/poi-images/oshakan-church-history-v2.webp"},
   {
     id: "akhtala-monastery-history-v2",
     type: "historical-site",
@@ -245,8 +230,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["A freskók a bizánci és az örmény művészeti stílusokat ötvözik.", "A Bagratuni-dinasztia hercegei építtették."],
       ro: ["Frescele combină stilurile artistice bizantin și armean.", "A fost construită de prinții dinastiei Bagratid."],
       en: ["The frescoes combine Byzantine and Armenian art styles.", "Built by the princes of the Bagratid dynasty."]
-    }
-  },
+    }, image: "/poi-images/akhtala-monastery-history-v2.webp"},
   {
     id: "dashtadem-fortress-history-v2",
     type: "ruin",
@@ -259,8 +243,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["Két masszív védőfalból áll.", "Örményország nyugati határainak védelmére szolgált."],
       ro: ["Este formată din două ziduri masive de apărare.", "A servit la protejarea granițelor vestice ale Armeniei."],
       en: ["Features two massive defensive walls.", "Served to protect the western borders of Armenia."]
-    }
-  },
+    }, image: "/poi-images/dashtadem-fortress-history-v2.webp"},
   {
     id: "aruchavank-history-v2",
     type: "historical-site",
@@ -273,8 +256,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       hu: ["A hatalmas kupola egy földrengés során beomlott.", "Egy nagy palotakomplexum része volt."],
       ro: ["Domul enorm s-a prăbușit într-un cutremur.", "Făcea parte dintr-un mare complex palatinal."],
       en: ["The massive dome collapsed during an earthquake.", "Was originally part of a large palace complex."]
-    }
-  },
+    }, image: "/poi-images/aruchavank-history-v2.webp"},
   {
     id: "odzun-church-history-v2",
     type: "historical-site",

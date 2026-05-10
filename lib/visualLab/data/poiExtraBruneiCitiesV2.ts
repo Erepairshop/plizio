@@ -28,7 +28,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Wurde 1970 von Brunei Town in Bandar Seri Begawan umbenannt.", "Der Istana Nurul Iman Palast hat 1.788 Zimmer.", "Die Sultan Omar Ali Saifuddien Moschee wurde von einem italienischen Architekten entworfen.", "Kampong Ayer beherbergt etwa 10.000 Menschen.", "Die Stadt hat eine Fläche von ungefähr 100,36 Quadratkilometern.", "Das Royal Regalia Museum zeigt die königlichen Insignien.", "Die erste Moschee, die hier gebaut wurde, war um 1425.", "Bruneis BIP pro Kopf gehört zu den höchsten der Welt."]
-    }},
+    }, image: "/poi-images/bandar-seri-begawan-cities-v2.webp"},
   {
     id: "kuala-belait-cities-v2",
     type: "city",
@@ -56,7 +56,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Gegründet um 1930 nach der Entdeckung von Öl in Seria.", "Der Belait-Fluss ist der längste Fluss in Brunei.", "Der Name 'Kuala Belait' bedeutet 'Mündung des Belait-Flusses'.", "Die Bevölkerung des Belait-Distrikts beträgt etwa 73.200 (Stand 2019).", "Die erste Ölquelle wurde 1929 in Seria gebohrt.", "Der Teekannen-Kreisverkehr (Pusaran Cerek) wurde 1969 errichtet.", "Die Stadt liegt etwa 100 Kilometer westlich von Bandar Seri Begawan.", "Der Hafen von Kuala Belait unterstützt hauptsächlich die Offshore-Ölindustrie."]
-    }},
+    }, image: "/poi-images/kuala-belait-cities-v2.webp"},
   {
     id: "seria-cities-v2",
     type: "city",
@@ -84,7 +84,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die erste kommerzielle Ölquelle in Brunei wurde hier 1929 entdeckt.", "Der Name leitet sich vom Fluss Seria ab.", "Das Billionth Barrel Monument wurde am 18. Juli 1991 enthüllt.", "Die Stadt wurde während der japanischen Besatzung im Zweiten Weltkrieg stark bombardiert.", "Brunei Shell Petroleum (BSP) hat hier seinen Hauptsitz.", "Die Bevölkerung beträgt etwa 21.000 Menschen.", "Seria liegt etwa 16 km östlich von Kuala Belait.", "Die erste Offshore-Ölplattform, 'Nodding Donkey', ist ein Wahrzeichen."]
-    }},
+    }, image: "/poi-images/seria-cities-v2.webp"},
   {
     id: "tutong-cities-v2",
     type: "city",
@@ -140,7 +140,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Hauptstadt des Distrikts Temburong, einer Exklave.", "Die Sultan Haji Omar Ali Saifuddien Brücke ist 30 km lang.", "Vor der Brücke dauerte die Bootsfahrt von BSB etwa 45 Minuten.", "Der Distrikt ist bekannt für den Ulu-Temburong-Nationalpark, der 1991 gegründet wurde.", "Die Bevölkerung des Temburong-Distrikts beträgt etwa 10.900 (Stand 2019).", "Bangar ist die kleinste der vier Distrikthauptstädte in Brunei.", "Der Temburong-Fluss ist eine wichtige Verkehrsader.", "Die Region ist reich an Biodiversität, einschließlich Nashornvögeln und Gibbons."]
-    }},
+    }, image: "/poi-images/bangar-cities-v2.webp"},
   {
     id: "muara-cities-v2",
     type: "city",
@@ -168,7 +168,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der Muara Port wurde offiziell 1973 eröffnet.", "Der Hafen hat eine maximale Tiefe von 12,5 Metern.", "Es ist der einzige Tiefwasserhafen in Brunei.", "Die Stadt liegt etwa 28 Kilometer nordöstlich von Bandar Seri Begawan.", "Muara bedeutet 'Mündung' auf Malaiisch.", "Die Königlich Bruneische Marine wurde 1965 gegründet.", "Der Muara Beach ist ein 1,6 km langer Sandstreifen.", "Pulau Muara Besar wird zu einer großen Ölraffinerie und einem petrochemischen Komplex entwickelt."]
-    }},
+    }, image: "/poi-images/muara-cities-v2.webp"},
   {
     id: "jerudong-cities-v2",
     type: "city",
@@ -196,7 +196,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der Jerudong Park wurde 1994 anlässlich des 48. Geburtstags des Sultans eröffnet.", "Der Park war ursprünglich kostenlos und hatte über 30 Fahrgeschäfte.", "Das Empire Brunei Hotel wurde im Jahr 2000 eröffnet und hat 522 Zimmer.", "Michael Jackson gab 1996 ein kostenloses Konzert im Jerudong Park.", "Der Royal Brunei Polo and Riding Club wurde 1992 gegründet.", "Das Jerudong Park Medical Centre (JPMC) wurde 1997 eröffnet.", "Jerudong liegt an der Küste, etwa 20 km westlich von Bandar Seri Begawan.", "Das Gebiet umfasst auch den BRIDEX International Conference Centre."]
-    }},
+    }, image: "/poi-images/jerudong-cities-v2.webp"},
   {
     id: "sengkurong-cities-v2",
     type: "city",
@@ -224,7 +224,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Bevölkerung des Mukim Sengkurong beträgt über 31.000 Menschen.", "Es ist eines der bevölkerungsreichsten Mukims in Brunei.", "Die Sultan Sharif Ali Moschee wurde 1986 fertiggestellt.", "Das Gebiet besteht aus mehreren Dörfern (Kampongs), darunter Kampong Sengkurong 'A' und 'B'.", "Es liegt an der Jalan Tutong, einer Hauptverkehrsader.", "Das Sengkurong Sixth Form Centre (PTE Sengkurong) ist eine wichtige Bildungseinrichtung hier.", "Der Name soll von einem Baum namens 'Kurong' abgeleitet sein.", "Es ist ein wichtiges Handelszentrum zwischen der Hauptstadt und dem Distrikt Tutong."]
-    }},
+    }, image: "/poi-images/sengkurong-cities-v2.webp"},
   {
     id: "lumut-cities-v2",
     type: "city",
@@ -252,7 +252,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Brunei LNG (BLNG) Anlage wurde 1972 in Betrieb genommen.", "Es war die erste LNG-Anlage in der westlichen Pazifikregion.", "Brunei ist einer der größten LNG-Exporteure der Welt.", "Die Anlage hat eine Produktionskapazität von 7,2 Millionen Tonnen pro Jahr.", "Der Name 'Lumut' bedeutet 'Moos' auf Malaiisch.", "Der Liang Lumut Recreation Club bietet Sport- und Freizeiteinrichtungen.", "Die Bevölkerung des Mukim Liang, zu dem Lumut gehört, beträgt etwa 17.000.", "Die BLNG-Anlage feierte 2022 ihr 50-jähriges Bestehen."]
-    }},
+    }, image: "/poi-images/lumut-cities-v2.webp"},
   {
     id: "gadong-cities-v2",
     type: "city",
@@ -280,7 +280,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["The Mall, Gadong wurde 2004 eröffnet.", "Es ist das größte Einkaufszentrum in Brunei.", "Der Gadong Nachtmarkt ist täglich von 16:00 bis 23:00 Uhr geöffnet.", "Beliebte Gerichte auf dem Nachtmarkt sind Hähnchenflügel, Satay und 'Nasi Katok'.", "Gadong beherbergt das Abdul Razak Hotel Apartments.", "Das Gebiet liegt nur wenige Kilometer vom Zentrum von Bandar Seri Begawan entfernt.", "Viele internationale Marken haben ihre Hauptfilialen in Gadong.", "Das erste Einkaufszentrum in der Gegend war das Centrepoint Hotel & Shopping Centre."]
-    }},
+    }, image: "/poi-images/gadong-cities-v2.webp"},
   {
     id: "kiulap-cities-v2",
     type: "city",
@@ -308,7 +308,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Kiulap ist Teil des Mukim Gadong 'B'.", "Es ist bekannt für sein pulsierendes Nachtleben mit vielen Cafés und Restaurants.", "Die Jame' Asr Hassanil Bolkiah Moschee in der Nähe wurde 1994 fertiggestellt.", "Das Gebiet durchlief in den 1990er und 2000er Jahren eine rasante Entwicklung.", "Das Hua Ho Department Store ist ein wichtiges Einkaufszentrum in Kiulap.", "Es liegt direkt gegenüber dem Kiarong-Komplex.", "Viele Privatkliniken und Spezialisten befinden sich in Kiulap.", "Der Name 'Kiulap' soll sich von einer Wasserpflanze ableiten."]
-    }},
+    }, image: "/poi-images/kiulap-cities-v2.webp"},
   {
     id: "berakas-cities-v2",
     type: "city",
@@ -336,7 +336,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Beherbergt den 1984 eröffneten Brunei International Airport (BWN).", "Das Hassanal Bolkiah Nationalstadion hat eine Kapazität von 28.000 Zuschauern.", "Das Stadion wurde 1983 gebaut und war Gastgeber der Südostasienspiele 1999.", "Das International Convention Centre (ICC) war 2000 und 2013 Gastgeber des APEC-Gipfels.", "Die Bevölkerung von Berakas 'A' und 'B' zusammen übersteigt 60.000.", "Das Lambak Kanan National Housing Scheme ist eines der größten des Landes.", "Der Berakas Forest Recreational Park umfasst eine Fläche von 199 Hektar.", "Viele Regierungsministerien haben ihren Sitz in diesem Gebiet."]
-    }},
+    }, image: "/poi-images/berakas-cities-v2.webp"},
   {
     id: "mentiri-cities-v2",
     type: "city",
@@ -364,7 +364,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Das Mentiri National Housing Scheme wurde in mehreren Phasen seit den 1990er Jahren entwickelt.", "Es bietet Tausende von Häusern für berechtigte bruneiische Bürger.", "Der Mentiri Golf Club wurde von dem renommierten Golfplatzarchitekten Graham Marsh entworfen.", "Der Golfplatz wurde 1984 eröffnet.", "Die Gegend liegt in der Nähe des Brunei-Flusses.", "Mentiri ist Teil des Mukim Mentiri mit einer Bevölkerung von über 30.000.", "Der Pandan-Nationalpark ist ein nahegelegenes Schutzgebiet.", "Die Entwicklung hier spiegelt die Sozialpolitik der Regierung wider."]
-    }},
+    }, image: "/poi-images/mentiri-cities-v2.webp"},
   {
     id: "kota-batu-cities-v2",
     type: "city",
@@ -392,7 +392,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["War die Hauptstadt des Brunei-Reiches während seiner goldenen Ära im 15. Jahrhundert.", "Ausgrabungen begannen in den frühen 1950er Jahren unter der Leitung von Tom Harrisson.", "Das Brunei Museum wurde 1972 offiziell eröffnet.", "Das Malay Technology Museum wurde 1988 eröffnet.", "Funde deuten auf Handelsbeziehungen mit China, Thailand und Vietnam hin.", "Der Standort wurde nach einer Reihe von Bürgerkriegen im 17. Jahrhundert aufgegeben.", "In der Nähe befinden sich die Mausoleen mehrerer früherer Sultane, darunter Sultan Bolkiah.", "Das Gebiet umfasst 103 Hektar ausgewiesenen archäologischen Park."]
-    }},
+    }, image: "/poi-images/kota-batu-cities-v2.webp"},
   {
     id: "lumapas-cities-v2",
     type: "city",
@@ -420,7 +420,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Bevölkerung des Mukim Lumapas beträgt etwa 8.500.", "Die Jong Batu Legende ist dem malaiischen Volksmärchen von Si Tanggang sehr ähnlich.", "Der Wasai Kandal Recreational Park hat mehrere Wasserfälle, wobei der höchste etwa 15 Meter hoch ist.", "Die Landwirtschaft, einschließlich Reisanbau und Obstplantagen, ist eine wichtige wirtschaftliche Aktivität.", "Lumapas grenzt im Süden und Osten an den Limbang-Distrikt von Sarawak.", "Das Gebiet besteht aus 9 Dörfern (Kampongs).", "Es ist über die Jalan Lumapas mit der Hauptstadt verbunden.", "Die Gegend ist bekannt für ihre Durian-Obstgärten, die während der Saison viele Besucher anziehen."]
-    }},
+    }, image: "/poi-images/lumapas-cities-v2.webp"},
   {
     id: "kilanas-cities-v2",
     type: "city",
@@ -448,7 +448,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Bevölkerung des Mukim Kilanas beträgt etwa 22.000.", "Es liegt westlich des Stadtzentrums von Bandar Seri Begawan.", "Die Gegend ist bekannt für die Moschee Kampong Kilanas.", "Die Entwicklung wurde durch nationale Wohnungsbauprogramme vorangetrieben.", "Die Tasik Lama, ein beliebter Erholungspark, ist nicht weit entfernt.", "Der Name 'Kilanas' könnte von einem lokalen Anführer oder einer Baumart stammen.", "Viele Bewohner pendeln zur Arbeit in die nahe gelegenen Handels- und Regierungszentren.", "Die Gegend hat eine Mischung aus alten Familien und neuen Bewohnern."]
-    }},
+    }, image: "/poi-images/kilanas-cities-v2.webp"},
   {
     id: "sungai-akar-cities-v2",
     type: "city",
@@ -468,7 +468,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Home to the Gurkha Reserve Unit camp.", "Known for its hilly terrain."]
     }
   ,
-    factsAdvanced: { multi4: ["Beherbergt die Botschaft der Vereinigten Staaten in Brunei.", "Das Lager der Gurkha Reserve Unit ist eine wichtige Einrichtung in diesem Gebiet.", "Der Name 'Sungai Akar' bedeutet 'Wurzelfluss'.", "Die Topographie ist durch steile Hügel und Täler gekennzeichnet.", "Es ist ein beliebtes Gebiet für wohlhabende Einheimische und Expatriates.", "Die Internationale Schule Brunei (ISB) befand sich früher in dieser Gegend.", "Es liegt in der Nähe des Ministeriums für Nationale Verteidigung.", "Die Entwicklung in diesem Gebiet begann hauptsächlich in den 1980er und 1990er Jahren."] }},
+    factsAdvanced: { multi4: ["Beherbergt die Botschaft der Vereinigten Staaten in Brunei.", "Das Lager der Gurkha Reserve Unit ist eine wichtige Einrichtung in diesem Gebiet.", "Der Name 'Sungai Akar' bedeutet 'Wurzelfluss'.", "Die Topographie ist durch steile Hügel und Täler gekennzeichnet.", "Es ist ein beliebtes Gebiet für wohlhabende Einheimische und Expatriates.", "Die Internationale Schule Brunei (ISB) befand sich früher in dieser Gegend.", "Es liegt in der Nähe des Ministeriums für Nationale Verteidigung.", "Die Entwicklung in diesem Gebiet begann hauptsächlich in den 1980er und 1990er Jahren."] }, image: "/poi-images/sungai-akar-cities-v2.webp"},
   {
     id: "lambak-cities-v2",
     type: "city",
@@ -488,7 +488,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Divided into several sub-villages.", "Highly populated suburban area."]
     }
   ,
-    factsAdvanced: { multi4: ["Das Lambak Kanan National Housing Scheme (RPN) ist eines der größten des Landes.", "Die Entwicklung begann in den 1980er Jahren.", "Die Bevölkerung des Gebiets wird auf über 40.000 geschätzt.", "Die Gegend ist in 5 Teile unterteilt: Perpindahan, Jalan 1, Jalan 2, Jalan 3 und Jalan 4.", "Der Name 'Lambak' bedeutet auf Malaiisch 'Haufen' oder 'Stapel'.", "Es beherbergt mehrere Grund- und weiterführende Schulen.", "Das Gebiet liegt etwa 10 Kilometer von Bandar Seri Begawan entfernt.", "Es ist ein Paradebeispiel für die Vorstadtentwicklung in Brunei."] }},
+    factsAdvanced: { multi4: ["Das Lambak Kanan National Housing Scheme (RPN) ist eines der größten des Landes.", "Die Entwicklung begann in den 1980er Jahren.", "Die Bevölkerung des Gebiets wird auf über 40.000 geschätzt.", "Die Gegend ist in 5 Teile unterteilt: Perpindahan, Jalan 1, Jalan 2, Jalan 3 und Jalan 4.", "Der Name 'Lambak' bedeutet auf Malaiisch 'Haufen' oder 'Stapel'.", "Es beherbergt mehrere Grund- und weiterführende Schulen.", "Das Gebiet liegt etwa 10 Kilometer von Bandar Seri Begawan entfernt.", "Es ist ein Paradebeispiel für die Vorstadtentwicklung in Brunei."] }, image: "/poi-images/lambak-cities-v2.webp"},
   {
     id: "subok-cities-v2",
     type: "city",
@@ -508,7 +508,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Popular area for hiking.", "Features the Bukit Subok recreational park."]
     }
   ,
-    factsAdvanced: { multi4: ["Bukit Subok bedeutet 'Subok-Hügel'.", "Der Erholungspark wurde in den 1990er Jahren entwickelt.", "Die höchste Erhebung in der Gegend bietet eine 360-Grad-Aussicht.", "Die Gegend überblickt den Istana Nurul Iman Palast.", "Subok ist Teil des größeren Mukim Kota Batu.", "Die Bevölkerung ist relativ gering im Vergleich zu nahegelegenen Vororten.", "Es ist nur etwa 5 Kilometer vom Stadtzentrum entfernt.", "Die Hänge sind anfällig für Erdrutsche während starker Regenfälle."] }},
+    factsAdvanced: { multi4: ["Bukit Subok bedeutet 'Subok-Hügel'.", "Der Erholungspark wurde in den 1990er Jahren entwickelt.", "Die höchste Erhebung in der Gegend bietet eine 360-Grad-Aussicht.", "Die Gegend überblickt den Istana Nurul Iman Palast.", "Subok ist Teil des größeren Mukim Kota Batu.", "Die Bevölkerung ist relativ gering im Vergleich zu nahegelegenen Vororten.", "Es ist nur etwa 5 Kilometer vom Stadtzentrum entfernt.", "Die Hänge sind anfällig für Erdrutsche während starker Regenfälle."] }, image: "/poi-images/subok-cities-v2.webp"},
   {
     id: "sungai-liang-cities-v2",
     type: "city",
@@ -528,7 +528,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Location of a large forestry park.", "Hosts a major industrial park."]
     }
   ,
-    factsAdvanced: { multi4: ["SPARK erstreckt sich über eine Fläche von 271 Hektar.", "Die Brunei Methanol Company (BMC) ist ein Joint Venture zwischen japanischen Unternehmen und Brunei.", "Die Methanolanlage hat eine Produktionskapazität von 850.000 Tonnen pro Jahr.", "Der Sungai Liang Forest Recreational Park wurde 1989 gegründet.", "Der Park umfasst einen der am besten zugänglichen Primärregenwälder in Südostasien.", "Der Name 'Sungai Liang' bedeutet 'Höhlenfluss'.", "Die Gegend liegt in der Nähe der Küste, zwischen Tutong und Seria.", "Die Entwicklung von SPARK ist Teil von Bruneis Vision Wawasan 2035."] }},
+    factsAdvanced: { multi4: ["SPARK erstreckt sich über eine Fläche von 271 Hektar.", "Die Brunei Methanol Company (BMC) ist ein Joint Venture zwischen japanischen Unternehmen und Brunei.", "Die Methanolanlage hat eine Produktionskapazität von 850.000 Tonnen pro Jahr.", "Der Sungai Liang Forest Recreational Park wurde 1989 gegründet.", "Der Park umfasst einen der am besten zugänglichen Primärregenwälder in Südostasien.", "Der Name 'Sungai Liang' bedeutet 'Höhlenfluss'.", "Die Gegend liegt in der Nähe der Küste, zwischen Tutong und Seria.", "Die Entwicklung von SPARK ist Teil von Bruneis Vision Wawasan 2035."] }, image: "/poi-images/sungai-liang-cities-v2.webp"},
   {
     id: "badas-cities-v2",
     type: "city",
@@ -548,7 +548,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Connected by a historic narrow-gauge railway.", "Surrounded by peat swamp forests."]
     }
   ,
-    factsAdvanced: { multi4: ["Die Pumpstation wurde um 1932 gebaut.", "Die ursprüngliche Pipeline nach Seria war 19 km lang.", "Die Schmalspurbahn wurde in den 1930er Jahren von der British Malayan Petroleum Company gebaut.", "Die Badas-Pumpstation versorgt immer noch die Gebiete Seria und Kuala Belait mit Wasser.", "Das Gebiet ist ein wichtiger Lebensraum für Wildtiere, einschließlich des Nasenaffen.", "Die Torfsumpfwälder in der Umgebung sind mehrere Meter tief.", "Es liegt etwa 20 Kilometer südöstlich von Seria.", "Die historische Eisenbahn ist nicht mehr in Betrieb, aber ihre Route ist teilweise erhalten."] }},
+    factsAdvanced: { multi4: ["Die Pumpstation wurde um 1932 gebaut.", "Die ursprüngliche Pipeline nach Seria war 19 km lang.", "Die Schmalspurbahn wurde in den 1930er Jahren von der British Malayan Petroleum Company gebaut.", "Die Badas-Pumpstation versorgt immer noch die Gebiete Seria und Kuala Belait mit Wasser.", "Das Gebiet ist ein wichtiger Lebensraum für Wildtiere, einschließlich des Nasenaffen.", "Die Torfsumpfwälder in der Umgebung sind mehrere Meter tief.", "Es liegt etwa 20 Kilometer südöstlich von Seria.", "Die historische Eisenbahn ist nicht mehr in Betrieb, aber ihre Route ist teilweise erhalten."] }, image: "/poi-images/badas-cities-v2.webp"},
   {
     id: "labi-cities-v2",
     type: "city",
@@ -568,7 +568,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Known for local fruit orchards.", "Home to several Iban longhouses."]
     }
   ,
-    factsAdvanced: { multi4: ["Die Bevölkerung von Labi besteht hauptsächlich aus den ethnischen Gruppen der Iban und Dusun.", "Ein Iban-Langhaus kann bis zu 20 Familien beherbergen.", "Der Wasai Teraja (Teraja-Wasserfall) ist eine beliebte Wanderdestination.", "Die Gegend ist bekannt für den Anbau von Adan-Reis, einer lokalen Spezialität.", "Das Labi Road ist die Hauptzufahrtsstraße, die sich etwa 40 km ins Landesinnere erstreckt.", "Die Labi Hills erreichen eine Höhe von etwa 400 Metern.", "Agrotourismus wird in dieser Gegend aktiv gefördert.", "Viele Bewohner praktizieren noch traditionelle Landwirtschaftsmethoden."] }},
+    factsAdvanced: { multi4: ["Die Bevölkerung von Labi besteht hauptsächlich aus den ethnischen Gruppen der Iban und Dusun.", "Ein Iban-Langhaus kann bis zu 20 Familien beherbergen.", "Der Wasai Teraja (Teraja-Wasserfall) ist eine beliebte Wanderdestination.", "Die Gegend ist bekannt für den Anbau von Adan-Reis, einer lokalen Spezialität.", "Das Labi Road ist die Hauptzufahrtsstraße, die sich etwa 40 km ins Landesinnere erstreckt.", "Die Labi Hills erreichen eine Höhe von etwa 400 Metern.", "Agrotourismus wird in dieser Gegend aktiv gefördert.", "Viele Bewohner praktizieren noch traditionelle Landwirtschaftsmethoden."] }, image: "/poi-images/labi-cities-v2.webp"},
   {
     id: "telisai-cities-v2",
     type: "city",
@@ -588,7 +588,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Features a prominent beach area.", "Important for satellite communications."]
     }
   ,
-    factsAdvanced: { multi4: ["Die Telisai-Satellitenstation wurde 1983 in Betrieb genommen.", "Sie verbindet Brunei mit dem Intelsat-Satellitensystem über dem Indischen Ozean.", "Die Telisai-Lumut-Autobahn ist 18,6 km lang.", "Die Autobahn war eines der größten Infrastrukturprojekte des Landes.", "Die Bevölkerung des Mukim Telisai beträgt etwa 10.000.", "Fischen ist eine übliche Aktivität entlang der Küste von Telisai.", "Der Name 'Telisai' könnte von einem lokalen Baum oder einer Pflanze stammen.", "Die Gegend liegt etwa auf halbem Weg zwischen Bandar Seri Begawan und Kuala Belait."] }},
+    factsAdvanced: { multi4: ["Die Telisai-Satellitenstation wurde 1983 in Betrieb genommen.", "Sie verbindet Brunei mit dem Intelsat-Satellitensystem über dem Indischen Ozean.", "Die Telisai-Lumut-Autobahn ist 18,6 km lang.", "Die Autobahn war eines der größten Infrastrukturprojekte des Landes.", "Die Bevölkerung des Mukim Telisai beträgt etwa 10.000.", "Fischen ist eine übliche Aktivität entlang der Küste von Telisai.", "Der Name 'Telisai' könnte von einem lokalen Baum oder einer Pflanze stammen.", "Die Gegend liegt etwa auf halbem Weg zwischen Bandar Seri Begawan und Kuala Belait."] }, image: "/poi-images/telisai-cities-v2.webp"},
   {
     id: "kiudang-cities-v2",
     type: "city",
@@ -608,7 +608,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Award-winning village for rural tourism.", "Known for local herbal teas."]
     }
   ,
-    factsAdvanced: { multi4: ["Gewinner des ASEAN Community-Based Tourism Award 2016-2017.", "Die Bevölkerung des Mukim Kiudang beträgt etwa 6.000.", "Die '3MP' Produkte beziehen sich auf die Hauptdörfer: Kampong Kiudang, Kampong Pad Nunok und Kampong Batang Mitus.", "Besucher können lernen, wie man 'Ambuyat', ein lokales Nationalgericht, herstellt.", "Das Dorf liegt am Fluss Kiudang.", "Es ist ein Beispiel für ein 'One Village One Product' (OVOP) Projekt in Brunei.", "Die Gemeinde ist überwiegend von den ethnischen Gruppen der Tutong und Dusun bewohnt.", "Der Wasai Bedanu Recreational Park ist eine nahegelegene Attraktion."] }},
+    factsAdvanced: { multi4: ["Gewinner des ASEAN Community-Based Tourism Award 2016-2017.", "Die Bevölkerung des Mukim Kiudang beträgt etwa 6.000.", "Die '3MP' Produkte beziehen sich auf die Hauptdörfer: Kampong Kiudang, Kampong Pad Nunok und Kampong Batang Mitus.", "Besucher können lernen, wie man 'Ambuyat', ein lokales Nationalgericht, herstellt.", "Das Dorf liegt am Fluss Kiudang.", "Es ist ein Beispiel für ein 'One Village One Product' (OVOP) Projekt in Brunei.", "Die Gemeinde ist überwiegend von den ethnischen Gruppen der Tutong und Dusun bewohnt.", "Der Wasai Bedanu Recreational Park ist eine nahegelegene Attraktion."] }, image: "/poi-images/kiudang-cities-v2.webp"},
   {
     id: "lamunin-cities-v2",
     type: "city",
@@ -628,7 +628,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Surrounded by dense forests.", "Important local agricultural center."]
     }
   ,
-    factsAdvanced: { multi4: ["Der Name Lamunin leitet sich möglicherweise vom Wort 'lamun', einer Art Seegras, ab.", "Die Bevölkerung des Mukim Lamunin beträgt etwa 4.000.", "Die Gegend ist bekannt für ihre Kautschukplantagen, die in der Kolonialzeit angelegt wurden.", "Es liegt an der Jalan Lamunin, die es mit der Hauptautobahn verbindet.", "Das Gebiet ist anfällig für Überschwemmungen während der Monsunzeit.", "Das alte Tutong-Distriktkrankenhaus wurde in den 1930er Jahren gebaut.", "Die meisten Bewohner sind in der Landwirtschaft oder im öffentlichen Sektor beschäftigt.", "Es gibt mehrere Grundschulen, die die lokale Gemeinschaft versorgen."] }},
+    factsAdvanced: { multi4: ["Der Name Lamunin leitet sich möglicherweise vom Wort 'lamun', einer Art Seegras, ab.", "Die Bevölkerung des Mukim Lamunin beträgt etwa 4.000.", "Die Gegend ist bekannt für ihre Kautschukplantagen, die in der Kolonialzeit angelegt wurden.", "Es liegt an der Jalan Lamunin, die es mit der Hauptautobahn verbindet.", "Das Gebiet ist anfällig für Überschwemmungen während der Monsunzeit.", "Das alte Tutong-Distriktkrankenhaus wurde in den 1930er Jahren gebaut.", "Die meisten Bewohner sind in der Landwirtschaft oder im öffentlichen Sektor beschäftigt.", "Es gibt mehrere Grundschulen, die die lokale Gemeinschaft versorgen."] }, image: "/poi-images/lamunin-cities-v2.webp"},
   {
     id: "tanjong-maya-cities-v2",
     type: "city",
@@ -648,7 +648,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Close to the district capital.", "Known for its serene river views."]
     }
   ,
-    factsAdvanced: { multi4: ["Die Bevölkerung des Mukim Tanjong Maya beträgt etwa 4.000.", "Der Name 'Tanjong Maya' bedeutet 'Illusionskap' oder 'Geisterkap'.", "Die Gegend ist bekannt für ihre traditionellen Stelzenhäuser entlang des Flusses.", "Die Landwirtschaft bleibt ein wichtiger Wirtschaftszweig für viele Familien.", "Die Tanjong Maya Secondary School wurde 1979 gegründet.", "Der Tutong-Fluss bietet eine Quelle für Nahrung und Transport.", "Das Gebiet besteht aus mehreren kleineren Dörfern (Kampongs).", "Es liegt nur wenige Kilometer von Pekan Tutong entfernt."] }},
+    factsAdvanced: { multi4: ["Die Bevölkerung des Mukim Tanjong Maya beträgt etwa 4.000.", "Der Name 'Tanjong Maya' bedeutet 'Illusionskap' oder 'Geisterkap'.", "Die Gegend ist bekannt für ihre traditionellen Stelzenhäuser entlang des Flusses.", "Die Landwirtschaft bleibt ein wichtiger Wirtschaftszweig für viele Familien.", "Die Tanjong Maya Secondary School wurde 1979 gegründet.", "Der Tutong-Fluss bietet eine Quelle für Nahrung und Transport.", "Das Gebiet besteht aus mehreren kleineren Dörfern (Kampongs).", "Es liegt nur wenige Kilometer von Pekan Tutong entfernt."] }, image: "/poi-images/tanjong-maya-cities-v2.webp"},
   {
     id: "ukong-cities-v2",
     type: "city",
@@ -668,7 +668,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Located along the meandering Tutong River.", "Rich in local folklore."]
     }
   ,
-    factsAdvanced: { multi4: ["Die Bevölkerung des Mukim Ukong ist eine der kleinsten in Brunei, mit etwa 2.000 Menschen.", "Die Dusun-Sprache wird hier noch weit verbreitet gesprochen.", "Das Dorf veranstaltet jährlich das 'Adau Gayoh', ein Erntefest der Dusun.", "Der Tutong-Fluss ist entscheidend für den Transport und den Lebensunterhalt.", "Traditionelles Handwerk wie Korbflechten wird noch praktiziert.", "Das Gebiet ist reich an Flora und Fauna, einschließlich verschiedener Vogelarten.", "Der Zugang war früher hauptsächlich per Boot möglich.", "Die Gegend ist bekannt für ihre mündlich überlieferten Geschichten und Legenden."] }},
+    factsAdvanced: { multi4: ["Die Bevölkerung des Mukim Ukong ist eine der kleinsten in Brunei, mit etwa 2.000 Menschen.", "Die Dusun-Sprache wird hier noch weit verbreitet gesprochen.", "Das Dorf veranstaltet jährlich das 'Adau Gayoh', ein Erntefest der Dusun.", "Der Tutong-Fluss ist entscheidend für den Transport und den Lebensunterhalt.", "Traditionelles Handwerk wie Korbflechten wird noch praktiziert.", "Das Gebiet ist reich an Flora und Fauna, einschließlich verschiedener Vogelarten.", "Der Zugang war früher hauptsächlich per Boot möglich.", "Die Gegend ist bekannt für ihre mündlich überlieferten Geschichten und Legenden."] }, image: "/poi-images/ukong-cities-v2.webp"},
   {
     id: "labu-cities-v2",
     type: "city",
@@ -688,7 +688,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Known for the Labu Forest Reserve.", "Important for biodiversity conservation."]
     }
   ,
-    factsAdvanced: { multi4: ["Der Labu-Grenzübergang verbindet Temburong mit dem Limbang-Distrikt in Sarawak.", "Das Labu Forest Reserve erstreckt sich über etwa 3.486 Hektar.", "Die Mangrovenwälder sind ein wichtiger Lebensraum für Krebse, Fische und Vögel.", "Der Labu-Fluss mündet in die Brunei-Bucht.", "Die Bevölkerung des Mukim Labu ist relativ klein.", "Traditionelle Fischereimethoden werden in den Flüssen und Küstengewässern angewendet.", "Das Gebiet war historisch gesehen ein Zentrum für den Handel zwischen Brunei und den benachbarten Regionen.", "Es ist Teil des 'Heart of Borneo' Naturschutzkorridors."] }},
+    factsAdvanced: { multi4: ["Der Labu-Grenzübergang verbindet Temburong mit dem Limbang-Distrikt in Sarawak.", "Das Labu Forest Reserve erstreckt sich über etwa 3.486 Hektar.", "Die Mangrovenwälder sind ein wichtiger Lebensraum für Krebse, Fische und Vögel.", "Der Labu-Fluss mündet in die Brunei-Bucht.", "Die Bevölkerung des Mukim Labu ist relativ klein.", "Traditionelle Fischereimethoden werden in den Flüssen und Küstengewässern angewendet.", "Das Gebiet war historisch gesehen ein Zentrum für den Handel zwischen Brunei und den benachbarten Regionen.", "Es ist Teil des 'Heart of Borneo' Naturschutzkorridors."] }, image: "/poi-images/labu-cities-v2.webp"},
   {
     id: "batu-apoi-cities-v2",
     type: "city",
@@ -708,7 +708,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       en: ["Located on the banks of the Temburong River.", "Provides access to the national park."]
     }
   ,
-    factsAdvanced: { multi4: ["Batu Apoi bedeutet 'Feuerstein'.", "Es ist der Ausgangspunkt für Ausflüge in den Ulu Temburong Nationalpark.", "Der Nationalpark wurde 1991 gegründet und umfasst etwa 50.000 Hektar.", "Das Kuala Belalong Field Studies Centre wurde 1991 in Partnerschaft mit der Royal Geographical Society gegründet.", "Der Temburong-Fluss ist die Hauptverkehrsader durch das Gebiet.", "Die Bevölkerung des Mukim Batu Apoi ist sehr gering und besteht hauptsächlich aus Iban und Malaien.", "Der Canopy Walkway im Nationalpark erreicht eine Höhe von über 40 Metern.", "Die Region ist Teil des trilateralen 'Heart of Borneo'-Abkommens."] }},
+    factsAdvanced: { multi4: ["Batu Apoi bedeutet 'Feuerstein'.", "Es ist der Ausgangspunkt für Ausflüge in den Ulu Temburong Nationalpark.", "Der Nationalpark wurde 1991 gegründet und umfasst etwa 50.000 Hektar.", "Das Kuala Belalong Field Studies Centre wurde 1991 in Partnerschaft mit der Royal Geographical Society gegründet.", "Der Temburong-Fluss ist die Hauptverkehrsader durch das Gebiet.", "Die Bevölkerung des Mukim Batu Apoi ist sehr gering und besteht hauptsächlich aus Iban und Malaien.", "Der Canopy Walkway im Nationalpark erreicht eine Höhe von über 40 Metern.", "Die Region ist Teil des trilateralen 'Heart of Borneo'-Abkommens."] }, image: "/poi-images/batu-apoi-cities-v2.webp"},
   {
     id: "amo-cities-v2",
     type: "city",

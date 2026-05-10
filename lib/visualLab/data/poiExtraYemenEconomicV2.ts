@@ -13,8 +13,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Stratégiai elhelyezkedés a Vörös-tengernél", "Történelmi kereskedelmi központ"],
       ro: ["Locație strategică la Marea Roșie", "Centru istoric de comerț"],
       en: ["Strategic location by the Red Sea", "Historical trade center"]
-    }
-  },
+    }, image: "/poi-images/aden-port-economic-v2.webp"},
   {
     id: "hodeidah-port-economic-v2",
     type: "port",
@@ -27,8 +26,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Jemen legfőbb importközpontja", "A Vörös-tenger partján fekszik"],
       ro: ["Principalul centru de import al Yemenului", "Situat la Marea Roșie"],
       en: ["Yemen's main import center", "Located on the Red Sea"]
-    }
-  },
+    }, image: "/poi-images/hodeidah-port-economic-v2.webp"},
   {
     id: "mukalla-port-economic-v2",
     type: "port",
@@ -41,8 +39,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Halászati központ", "Fontos Hadramaut számára"],
       ro: ["Centru de pescuit", "Important pentru Hadhramaut"],
       en: ["Fishing hub", "Important for Hadhramaut"]
-    }
-  },
+    }, image: "/poi-images/mukalla-port-economic-v2.webp"},
   {
     id: "balhaf-lng-terminal-economic-v2",
     type: "energy",
@@ -55,8 +52,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["A legnagyobb jemeni beruházás", "Földgázt exportál"],
       ro: ["Cea mai mare investiție din Yemen", "Exportă gaze naturale"],
       en: ["Largest investment in Yemen", "Exports natural gas"]
-    }
-  },
+    }, image: "/poi-images/balhaf-lng-terminal-economic-v2.webp"},
   {
     id: "marib-refinery-economic-v2",
     type: "industry",
@@ -69,8 +65,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Helyi nyersolajat dolgoz fel", "Fontos a belföldi ellátásban"],
       ro: ["Procesează țiței local", "Important pentru aprovizionarea internă"],
       en: ["Processes local crude oil", "Important for domestic supply"]
-    }
-  },
+    }, image: "/poi-images/marib-refinery-economic-v2.webp"},
   {
     id: "aden-refinery-economic-v2",
     type: "industry",
@@ -111,8 +106,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Maszila olajat exportál", "Az Arab-tenger partján fekszik"],
       ro: ["Exportă petrol din Masila", "Situat la Marea Arabiei"],
       en: ["Exports Masila oil", "Located on the Arabian Sea"]
-    }
-  },
+    }, image: "/poi-images/ash-shihr-oil-terminal-economic-v2.webp"},
   {
     id: "mocha-port-economic-v2",
     type: "port",
@@ -125,8 +119,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Kávéexportról híres", "Történelmi jelentőségű"],
       ro: ["Faimos pentru exportul de cafea", "Semnificație istorică"],
       en: ["Famous for coffee export", "Historical significance"]
-    }
-  },
+    }, image: "/poi-images/mocha-port-economic-v2.webp"},
   {
     id: "salif-port-economic-v2",
     type: "port",
@@ -139,8 +132,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Természetes mélyvízi kikötő", "Kősót exportál"],
       ro: ["Port natural de mare adâncime", "Exportă sare gemă"],
       en: ["Natural deep-water port", "Exports rock salt"]
-    }
-  },
+    }, image: "/poi-images/salif-port-economic-v2.webp"},
   {
     id: "masila-oil-field-economic-v2",
     type: "energy",
@@ -153,8 +145,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Legnagyobb olajtermelő", "Az 1990-es években fedezték fel"],
       ro: ["Cel mai mare producător de petrol", "Descoperit în anii 1990"],
       en: ["Largest oil producer", "Discovered in the 1990s"]
-    }
-  },
+    }, image: "/poi-images/masila-oil-field-economic-v2.webp"},
   {
     id: "shabwa-oil-fields-economic-v2",
     type: "energy",
@@ -181,8 +172,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Ellátja a Balhaf LNG-t", "Fontos az áramtermelésben"],
       ro: ["Aprovizionează Balhaf GNL", "Important pentru generarea de energie electrică"],
       en: ["Supplies Balhaf LNG", "Important for power generation"]
-    }
-  },
+    }, image: "/poi-images/marib-gas-field-economic-v2.webp"},
   {
     id: "amran-cement-plant-economic-v2",
     type: "industry",
@@ -209,8 +199,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["A Tiháma-síkságon fekszik", "Támogatja a helyi építőipart"],
       ro: ["Situată în câmpia Tihama", "Susține industria locală de construcții"],
       en: ["Located in the Tihama Plain", "Supports local construction industry"]
-    }
-  },
+    }, image: "/poi-images/bajil-cement-factory-economic-v2.webp"},
   {
     id: "nishtun-port-economic-v2",
     type: "port",
@@ -223,8 +212,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Jemen legkeletibb kikötője", "Al-Mahra kormányzóságot szolgálja ki"],
       ro: ["Cel mai estic port din Yemen", "Deservește guvernoratul Al-Mahra"],
       en: ["Easternmost port of Yemen", "Serves Al-Mahra Governorate"]
-    }
-  },
+    }, image: "/poi-images/nishtun-port-economic-v2.webp"},
   {
     id: "medden-gold-mine-economic-v2",
     type: "mine",
@@ -237,8 +225,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Potenciális ásványi forrás", "A Vadi Medden völgyben fekszik"],
       ro: ["Sursă potențială de minerale", "Situată în valea Wadi Medden"],
       en: ["Potential mineral resource", "Located in the Wadi Medden valley"]
-    }
-  },
+    }, image: "/poi-images/medden-gold-mine-economic-v2.webp"},
   {
     id: "taiz-industrial-zone-economic-v2",
     type: "industry",
@@ -251,8 +238,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Feldolgozóipari központ", "Fontos gazdasági motor"],
       ro: ["Centrul industriei prelucrătoare", "Motor economic important"],
       en: ["Center of manufacturing", "Important economic engine"]
-    }
-  },
+    }, image: "/poi-images/taiz-industrial-zone-economic-v2.webp"},
   {
     id: "hiswa-power-station-economic-v2",
     type: "energy",
@@ -265,8 +251,7 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Ádent látja el árammal", "Hőerőmű"],
       ro: ["Furnizează energie pentru Aden", "Centrală termică"],
       en: ["Supplies power to Aden", "Thermal power plant"]
-    }
-  },
+    }, image: "/poi-images/hiswa-power-station-economic-v2.webp"},
   {
     id: "marib-gas-power-plant-economic-v2",
     type: "energy",

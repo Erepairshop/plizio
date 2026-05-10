@@ -35,8 +35,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Mongolia's most important economic engine.",
         "Extracts thousands of tons of ore daily."
       ]
-    }
-  },
+    }, image: "/poi-images/oyu-tolgoi-mine-economic-v2.webp"},
   {
     id: "tavan-tolgoi-mine-economic-v2",
     type: "mine",
@@ -71,8 +70,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "One of the largest coal deposits.",
         "Has estimated reserves of over 6 billion tons."
       ]
-    }
-  },
+    }, image: "/poi-images/tavan-tolgoi-mine-economic-v2.webp"},
   {
     id: "erdenet-mining-corporation-economic-v2",
     type: "mine",
@@ -107,8 +105,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Founded as a Mongolian-Russian joint venture.",
         "Produces tens of thousands of tons of copper concentrate annually."
       ]
-    }
-  },
+    }, image: "/poi-images/erdenet-mining-corporation-economic-v2.webp"},
   {
     id: "zamiin-uud-trade-zone-economic-v2",
     type: "trade-hub",
@@ -143,8 +140,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Hub for the Trans-Mongolian Railway.",
         "Handles the majority of Mongolia's consumer goods imports."
       ]
-    }
-  },
+    }, image: "/poi-images/zamiin-uud-trade-zone-economic-v2.webp"},
   {
     id: "altanbulag-trade-zone-economic-v2",
     type: "trade-hub",
@@ -179,8 +175,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Promotes economic cooperation with Russia.",
         "Offers tax incentives for international companies."
       ]
-    }
-  },
+    }, image: "/poi-images/altanbulag-trade-zone-economic-v2.webp"},
   {
     id: "gatsuurt-gold-mine-economic-v2",
     type: "mine",
@@ -215,8 +210,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Has considerable gold reserves.",
         "Plays an important role in national precious metal production."
       ]
-    }
-  },
+    }, image: "/poi-images/gatsuurt-gold-mine-economic-v2.webp"},
   {
     id: "shivee-ovoo-coal-mine-economic-v2",
     type: "mine",
@@ -251,8 +245,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Historically covered a large part of Mongolia's energy needs.",
         "Uses huge bucket-wheel excavators for mining."
       ]
-    }
-  },
+    }, image: "/poi-images/shivee-ovoo-coal-mine-economic-v2.webp"},
   {
     id: "baganuur-coal-mine-economic-v2",
     type: "mine",
@@ -287,8 +280,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Was opened in the late 1970s.",
         "Delivers millions of tons of brown coal per year."
       ]
-    }
-  },
+    }, image: "/poi-images/baganuur-coal-mine-economic-v2.webp"},
   {
     id: "salkhit-wind-farm-economic-v2",
     type: "energy",
@@ -323,8 +315,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Produces 50 megawatts of clean electricity.",
         "Reduces dependence on old coal power plants."
       ]
-    }
-  },
+    }, image: "/poi-images/salkhit-wind-farm-economic-v2.webp"},
   {
     id: "tsetsii-wind-farm-economic-v2",
     type: "energy",
@@ -359,8 +350,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Located in the windy South Gobi.",
         "Supplies power to mines and local communities."
       ]
-    }
-  },
+    }, image: "/poi-images/tsetsii-wind-farm-economic-v2.webp"},
   {
     id: "darkhan-metallurgical-plant-economic-v2",
     type: "industry",
@@ -395,8 +385,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Processes locally mined iron ore.",
         "Was modernized with foreign technological assistance."
       ]
-    }
-  },
+    }, image: "/poi-images/darkhan-metallurgical-plant-economic-v2.webp"},
   {
     id: "ulaanbaatar-power-plant-4-economic-v2",
     type: "energy",
@@ -431,8 +420,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "It is a classic coal power plant.",
         "Vital for survival during the extremely cold winters."
       ]
-    }
-  },
+    }, image: "/poi-images/ulaanbaatar-power-plant-4-economic-v2.webp"},
   {
     id: "gobi-cashmere-factory-economic-v2",
     type: "industry",
@@ -467,8 +455,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Processes cashmere directly from Mongolian nomads.",
         "Exports high-quality clothing to over 30 countries."
       ]
-    }
-  },
+    }, image: "/poi-images/gobi-cashmere-factory-economic-v2.webp"},
   {
     id: "tsagaan-suvarga-mine-economic-v2",
     type: "mine",
@@ -503,8 +490,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Named after the striking 'White Stupa' rock formations nearby.",
         "Considered a forward-looking major project."
       ]
-    }
-  },
+    }, image: "/poi-images/tsagaan-suvarga-mine-economic-v2.webp"},
   {
     id: "khushigt-valley-trade-zone-economic-v2",
     type: "trade-hub",
@@ -539,8 +525,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Was planned together with the new airport.",
         "Aims to reduce traffic congestion in the capital."
       ]
-    }
-  },
+    }, image: "/poi-images/khushigt-valley-trade-zone-economic-v2.webp"},
   {
     id: "boroo-gold-mine-economic-v2",
     type: "mine",
@@ -575,8 +560,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "For a long time one of the most profitable mines in the country.",
         "Uses modern extraction technologies for high yield."
       ]
-    }
-  },
+    }, image: "/poi-images/boroo-gold-mine-economic-v2.webp"},
   {
     id: "sainshand-industrial-park-economic-v2",
     type: "industry",
@@ -611,8 +595,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Is planned to include oil refineries and cement plants.",
         "Benefits from direct railway connection."
       ]
-    }
-  },
+    }, image: "/poi-images/sainshand-industrial-park-economic-v2.webp"},
   {
     id: "amgalan-thermal-power-plant-economic-v2",
     type: "energy",
@@ -647,8 +630,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Features modern filtration technologies.",
         "Reduces smog by replacing thousands of small coal stoves."
       ]
-    }
-  },
+    }, image: "/poi-images/amgalan-thermal-power-plant-economic-v2.webp"},
   {
     id: "nalaikh-industrial-park-economic-v2",
     type: "industry",
@@ -683,8 +665,7 @@ export const poiExtraMongoliaEconomicV2: POI[] = [
         "Built on the site of a former historical coal mine.",
         "Aims to relocate light industry from the city center."
       ]
-    }
-  },
+    }, image: "/poi-images/nalaikh-industrial-park-economic-v2.webp"},
   {
     id: "ukhaa-khudag-mine-economic-v2",
     type: "mine",

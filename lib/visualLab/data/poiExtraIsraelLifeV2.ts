@@ -18,8 +18,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["1974-ben nyitotta meg kapuit.", "Több mint 1600 állatnak ad otthont."],
       ro: ["Deschis în anul 1974.", "Găzduiește peste 1600 de animale."],
       en: ["Opened in 1974.", "Houses over 1600 animals."]
-    }
-  },
+    }, image: "/poi-images/israel-ramat-gan-safari-life-v2.webp"},
   {
     id: "israel-biblical-zoo-life-v2",
     type: "kid-friendly",
@@ -37,8 +36,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["1940-ben alapították.", "A területe 25 hektár."],
       ro: ["A fost fondată în 1940.", "Se întinde pe 25 de hectare."],
       en: ["Founded in 1940.", "Covers an area of 25 hectares."]
-    }
-  },
+    }, image: "/poi-images/israel-biblical-zoo-life-v2.webp"},
   {
     id: "israel-agamon-hula-life-v2",
     type: "wildlife-area",
@@ -56,8 +54,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Fontos pihenőhely a darvak számára.", "Vezetett túrákat is kínálnak."],
       ro: ["Loc important de odihnă pentru cocori.", "Oferă tururi ghidate."],
       en: ["Major stopover for common cranes.", "Offers guided tours."]
-    }
-  },
+    }, image: "/poi-images/israel-agamon-hula-life-v2.webp"},
   {
     id: "israel-haibar-yotvata-life-v2",
     type: "wildlife-area",
@@ -75,8 +72,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Az 1960-as években alapították.", "Többek között arab struccokat is tenyésztenek."],
       ro: ["Fondată în anii 1960.", "Crește printre altele struțul arab."],
       en: ["Founded in the 1960s.", "Breeds the Arabian ostrich, among others."]
-    }
-  },
+    }, image: "/poi-images/israel-haibar-yotvata-life-v2.webp"},
   {
     id: "israel-yarkon-park-life-v2",
     type: "park",
@@ -94,8 +90,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Hat különböző kerttel rendelkezik.", "Évente több millió látogatót vonz."],
       ro: ["Are șase grădini diferite.", "Atrage anual milioane de vizitatori."],
       en: ["Features six distinct gardens.", "Attracts millions of visitors annually."]
-    }
-  },
+    }, image: "/poi-images/israel-yarkon-park-life-v2.webp"},
   {
     id: "israel-carmel-haibar-life-v2",
     type: "wildlife-area",
@@ -113,8 +108,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Mezopotámiai dámvadaknak ad otthont.", "A fakó keselyűk visszatelepítésén dolgoznak."],
       ro: ["Găzduiește cerbi lopătari mesopotamieni.", "Lucrează la reintroducerea vulturului sur."],
       en: ["Home to Persian fallow deer.", "Works on reintroducing Griffon vultures."]
-    }
-  },
+    }, image: "/poi-images/israel-carmel-haibar-life-v2.webp"},
   {
     id: "israel-kibbutz-lotan-life-v2",
     type: "agriculture",
@@ -132,8 +126,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["1983-ban alapították.", "Rendelkezik egy kreatív ökológiai központtal."],
       ro: ["Fondat în anul 1983.", "Are un centru pentru ecologie creativă."],
       en: ["Founded in 1983.", "Features a Center for Creative Ecology."]
-    }
-  },
+    }, image: "/poi-images/israel-kibbutz-lotan-life-v2.webp"},
   {
     id: "israel-neot-kedumim-life-v2",
     type: "park",
@@ -151,8 +144,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Területe 250 hektárt ölel fel.", "Történelmi mezőgazdasági módszereket mutat be."],
       ro: ["Acoperă o suprafață de 250 de hectare.", "Prezintă metode agricole istorice."],
       en: ["Covers an area of 250 hectares.", "Showcases historical agricultural methods."]
-    }
-  },
+    }, image: "/poi-images/israel-neot-kedumim-life-v2.webp"},
   {
     id: "israel-gan-hashlosha-life-v2",
     type: "park",
@@ -170,8 +162,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["A víz hőmérséklete egész évben 28°C.", "Sachne néven is ismert."],
       ro: ["Apa are 28°C pe tot parcursul anului.", "Cunoscut și sub numele de Sahne."],
       en: ["The water is 28°C year-round.", "Also known as Sahne."]
-    }
-  },
+    }, image: "/poi-images/israel-gan-hashlosha-life-v2.webp"},
   {
     id: "israel-eilat-botanical-life-v2",
     type: "park",
@@ -189,8 +180,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Egy korábbi szeméttelep helyén jött létre.", "Esőerdő-szimulációs területtel is rendelkezik."],
       ro: ["A fost construită pe o fostă groapă de gunoi.", "Are o zonă de simulare a pădurii tropicale."],
       en: ["Built on a former garbage dump.", "Features a rainforest simulation area."]
-    }
-  },
+    }, image: "/poi-images/israel-eilat-botanical-life-v2.webp"},
   {
     id: "israel-ramat-hanadiv-life-v2",
     type: "park",
@@ -208,8 +198,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["A rózsakertje különösen híres.", "Kiterjedt túraútvonalakat kínál."],
       ro: ["Grădina de trandafiri este deosebit de renumită.", "Oferă trasee extinse de drumeții."],
       en: ["The rose garden is particularly famous.", "Offers extensive hiking trails."]
-    }
-  },
+    }, image: "/poi-images/israel-ramat-hanadiv-life-v2.webp"},
   {
     id: "israel-meymadion-life-v2",
     type: "kid-friendly",
@@ -227,8 +216,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Tel-Avivban található.", "Népszerű nyári úti cél családok számára."],
       ro: ["Se află în Tel Aviv.", "O destinație populară pentru familii pe timp de vară."],
       en: ["Located in Tel Aviv.", "A popular summer destination for families."]
-    }
-  },
+    }, image: "/poi-images/israel-meymadion-life-v2.webp"},
   {
     id: "israel-utopia-park-life-v2",
     type: "park",
@@ -246,8 +234,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["A park területe részben fedett.", "Ritka orchideafajoknak ad otthont."],
       ro: ["Terenul parcului este parțial acoperit.", "Găzduiește specii rare de orhidee."],
       en: ["The park area is partially enclosed.", "Houses rare orchid species."]
-    }
-  },
+    }, image: "/poi-images/israel-utopia-park-life-v2.webp"},
   {
     id: "israel-mini-israel-life-v2",
     type: "kid-friendly",
@@ -265,8 +252,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["A modellek 1:25 méretarányban készültek.", "2002-ben nyitotta meg kapuit."],
       ro: ["Modelele sunt construite la scara de 1:25.", "A fost deschis în anul 2002."],
       en: ["The models are built at a 1:25 scale.", "Opened its doors in 2002."]
-    }
-  },
+    }, image: "/poi-images/israel-mini-israel-life-v2.webp"},
   {
     id: "israel-eingedi-botanical-life-v2",
     type: "park",
@@ -284,8 +270,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Ez az egyetlen botanikus kert, amely lakott.", "Több mint 900 növényfajnak ad otthont."],
       ro: ["Este singura grădină botanică locuită.", "Găzduiește peste 900 de specii de plante."],
       en: ["It is the only botanical garden that is inhabited.", "Houses over 900 plant species."]
-    }
-  },
+    }, image: "/poi-images/israel-eingedi-botanical-life-v2.webp"},
   {
     id: "israel-luna-park-telaviv-life-v2",
     type: "kid-friendly",
@@ -303,8 +288,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["1970-ben nyílt meg.", "Az óriáskerék nagyszerű kilátást nyújt a városra."],
       ro: ["A fost deschis în 1970.", "Roata panoramică oferă o priveliște minunată asupra orașului."],
       en: ["Opened in 1970.", "The Ferris wheel provides a great view of the city."]
-    }
-  },
+    }, image: "/poi-images/israel-luna-park-telaviv-life-v2.webp"},
   {
     id: "israel-sde-eliyahu-life-v2",
     type: "agriculture",
@@ -322,8 +306,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Rovarokat tenyésztenek biológiai kártevőirtás céljából.", "1939-ben alapították."],
       ro: ["Crește insecte pentru controlul biologic al dăunătorilor.", "A fost fondat în 1939."],
       en: ["Breeds insects for biological pest control.", "Founded in 1939."]
-    }
-  },
+    }, image: "/poi-images/israel-sde-eliyahu-life-v2.webp"},
   {
     id: "israel-ariel-sharon-park-life-v2",
     type: "park",
@@ -341,8 +324,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["A tájrehabilitáció kiemelkedő példája.", "Zöld tüdőként szolgál Tel-Aviv vonzáskörzetében."],
       ro: ["Un exemplu remarcabil de reabilitare peisagistică.", "Servește drept plămân verde în zona metropolitană Tel Aviv."],
       en: ["An outstanding example of landscape rehabilitation.", "Serves as a green lung in the Tel Aviv metropolitan area."]
-    }
-  },
+    }, image: "/poi-images/israel-ariel-sharon-park-life-v2.webp"},
   {
     id: "israel-alpaca-farm-life-v2",
     type: "agriculture",
@@ -360,8 +342,7 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["A gyapjút közvetlenül a farmon fonják meg.", "Az állatok eredetileg Dél-Amerikából származnak."],
       ro: ["Lâna este toarsă direct la fermă.", "Animalele provin inițial din America de Sud."],
       en: ["The wool is spun directly on the farm.", "The animals originally come from South America."]
-    }
-  },
+    }, image: "/poi-images/israel-alpaca-farm-life-v2.webp"},
   {
     id: "israel-ben-shemen-monkey-park-life-v2",
     type: "kid-friendly",

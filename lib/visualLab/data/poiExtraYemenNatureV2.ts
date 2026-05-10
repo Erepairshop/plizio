@@ -18,8 +18,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Az Arab-félsziget legmagasabb csúcsa.", "A csúcson időnként hó is hullik.", "A hegyet Suajb prófétáról nevezték el.", "A fővárostól, Szanaától nyugatra fekszik."],
       ro: ["Cel mai înalt vârf din Peninsula Arabică.", "Uneori ninge pe culmea muntelui.", "Numit după profetul Shu'ayb.", "Situat la vest de capitala Sana'a."],
       en: ["Highest peak of the Arabian Peninsula.", "Snow occasionally falls on the summit.", "Named after the prophet Shu'ayb.", "Located west of the capital, Sanaa."]
-    }
-  },
+    }, image: "/poi-images/jabal-an-nabi-shuayb-nature-v2.webp"},
   {
     id: "wadi-dawan-nature-v2",
     type: "river",
@@ -37,8 +36,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Kiváló minőségű mézéről híres.", "Ősi vályogtéglás falvakkal büszkélkedhet.", "Meredek kanyonfalak veszik körül.", "Jemen keleti részén található."],
       ro: ["Faimos pentru mierea sa de înaltă calitate.", "Prezintă sate antice din cărămidă de lut.", "Înconjurat de pereți abrupți de canion.", "Situat în estul Yemenului."],
       en: ["Famous for its high-quality honey.", "Features ancient mud-brick villages.", "Surrounded by steep canyon walls.", "Located in eastern Yemen."]
-    }
-  },
+    }, image: "/poi-images/wadi-dawan-nature-v2.webp"},
   {
     id: "wadi-hadhramaut-nature-v2",
     type: "river",
@@ -56,8 +54,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Az Arab-félsziget legnagyobb vádi rendszere.", "Hatalmas talajvízkészletekkel rendelkezik.", "Intenzív mezőgazdaságot tesz lehetővé a sivatagban.", "A tömjénkereskedelem történelmi központja volt."],
       ro: ["Cel mai mare sistem wadi din Peninsula Arabică.", "Conține rezerve masive de ape subterane.", "Sprijină o agricultură extensivă în deșert.", "Centru istoric al comerțului cu tămâie."],
       en: ["The largest wadi system in the Arabian Peninsula.", "Contains massive groundwater reserves.", "Supports extensive agriculture in the desert.", "Historic center of the frankincense trade."]
-    }
-  },
+    }, image: "/poi-images/wadi-hadhramaut-nature-v2.webp"},
   {
     id: "haraz-mountains-nature-v2",
     type: "mountain",
@@ -75,8 +72,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["A jemeni kávétermesztés fontos központja.", "Évszázados mezőgazdasági teraszokkal rendelkezik.", "A legmagasabb csúcsok meghaladják a 2900 métert.", "A falvakat gyakran erődítményként építették."],
       ro: ["Centru important pentru producția de cafea din Yemen.", "Prezintă terase agricole vechi de secole.", "Cele mai înalte vârfuri depășesc 2.900 de metri.", "Satele au fost adesea construite ca fortărețe."],
       en: ["Important center for Yemeni coffee production.", "Features centuries-old agricultural terraces.", "The highest peaks exceed 2,900 meters.", "Villages were often built as fortresses."]
-    }
-  },
+    }, image: "/poi-images/haraz-mountains-nature-v2.webp"},
   {
     id: "jabal-sabir-nature-v2",
     type: "mountain",
@@ -94,8 +90,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Festői kilátást nyújt Taiz városára.", "Sok természetes vízforrásáról ismert.", "Magassága eléri a mintegy 3070 métert.", "Fontos szerepet játszik a régió mezőgazdaságában."],
       ro: ["Oferă o vedere panoramică asupra orașului Taiz.", "Cunoscut pentru numeroasele sale izvoare naturale.", "Atinge o înălțime de aproximativ 3.070 de metri.", "Vital pentru agricultura din regiune."],
       en: ["Overlooks the city of Taiz.", "Known for its many natural springs.", "Reaches an altitude of around 3,070 meters.", "Vital for the agriculture of the region."]
-    }
-  },
+    }, image: "/poi-images/jabal-sabir-nature-v2.webp"},
   {
     id: "bura-protected-area-nature-v2",
     type: "national-park",
@@ -132,8 +127,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Szokotra északnyugati partján fekszik.", "Kijelölt Ramsari vadvédelmi terület.", "Fehér homokjáról és a rájákról híres.", "Kivételes tengeri biológiai sokféleséget kínál."],
       ro: ["Situat pe coasta de nord-vest a insulei Socotra.", "O zonă protejată prin convenția Ramsar.", "Faimoasă pentru nisipul alb și pisicile de mare.", "Oferă o biodiversitate marină excepțională."],
       en: ["Located on the northwestern coast of Socotra.", "A designated Ramsar wetland site.", "Famous for its white sand and stingrays.", "Offers exceptional marine biodiversity."]
-    }
-  },
+    }, image: "/poi-images/detwah-lagoon-nature-v2.webp"},
   {
     id: "hajhir-mountains-nature-v2",
     type: "mountain",
@@ -151,8 +145,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Legmagasabb csúcsa a Mashanig, több mint 1500 méterrel.", "Főként ősi gránitkőzetből áll.", "Gyakran sűrű köd és felhők borítják.", "Egyedülálló mikroklímát hoz létre a szigeten."],
       ro: ["Cel mai înalt vârf este Mashanig, la peste 1.500 de metri.", "Compus în principal din rocă de granit antică.", "Frecvent învăluit de ceață densă și nori.", "Creează un microclimat unic pe insulă."],
       en: ["The highest peak is Mashanig at over 1,500 meters.", "Composed mainly of ancient granite rock.", "Frequently shrouded in dense mist and clouds.", "Creates a unique microclimate on the island."]
-    }
-  },
+    }, image: "/poi-images/hajhir-mountains-nature-v2.webp"},
   {
     id: "wadi-dirhur-nature-v2",
     type: "river",
@@ -170,8 +163,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Mélyen belevág a szokotrai mészkőfennsíkba.", "Mély és hűs édesvízi medencékkel rendelkezik.", "Egyedülálló endemikus növényvilág szegélyezi.", "A természetkedvelők és túrázók paradicsoma."],
       ro: ["Coboară adânc în platoul de calcar din Socotra.", "Prezintă piscine adânci și reci cu apă dulce.", "Flancat de o floră endemică unică.", "Un paradis pentru iubitorii de natură și drumeții."],
       en: ["Plunges deep into the limestone plateau of Socotra.", "Features deep, cool freshwater pools.", "Flanked by unique endemic flora.", "A paradise for nature lovers and hikers."]
-    }
-  },
+    }, image: "/poi-images/wadi-dirhur-nature-v2.webp"},
   {
     id: "homhil-protected-area-nature-v2",
     type: "national-park",
@@ -189,8 +181,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Illatos tömjénfákban gazdag terület.", "Egy híres természetes sziklamedencének ad otthont.", "Panorámás kilátást nyújt a tengerparti síkságra.", "A biodiverzitás egyik forrópontja Szokotrán."],
       ro: ["Zonă bogată în arbori parfumați de tămâie.", "Găzduiește o faimoasă piscină naturală în stâncă.", "Oferă vederi panoramice asupra câmpiei de coastă.", "Un punct fierbinte al biodiversității pe insula Socotra."],
       en: ["Rich in fragrant frankincense trees.", "Contains a famous natural rock pool.", "Offers panoramic views of the coastal plain.", "A biodiversity hotspot on Socotra island."]
-    }
-  },
+    }, image: "/poi-images/homhil-protected-area-nature-v2.webp"},
   {
     id: "hawf-protected-area-nature-v2",
     type: "national-park",
@@ -246,8 +237,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Egyike a kevés egész évben vizet szállító vádinak.", "Délen az Ádeni-öbölbe torkollik.", "Létfontosságú a helyi mezőgazdaság számára.", "Sűrű pálmaligetek és szántóföldek övezik."],
       ro: ["Unul dintre marile wadi-uri cu flux peren de apă.", "Se varsă în Golful Aden din sud.", "Este vital pentru agricultura regională.", "Înconjurat de plantații dense de palmieri și câmpuri."],
       en: ["One of the major wadis with perennial water flow.", "Empties into the Gulf of Aden in the south.", "Is vital for regional agriculture.", "Surrounded by dense palm groves and fields."]
-    }
-  },
+    }, image: "/poi-images/wadi-bana-nature-v2.webp"},
   {
     id: "jabal-sumarah-nature-v2",
     type: "mountain",
@@ -265,8 +255,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["A kivételesen zöld Ibb régióban található.", "Magassága meghaladja a 2900 métert.", "Látványos, kanyargós hegyi utakkal rendelkezik.", "Híres a sűrű ködről és az intenzív földművelésről."],
       ro: ["Situat în regiunea excepțional de verde Ibb.", "Atinge o altitudine de peste 2.900 de metri.", "Oferă drumuri montane spectaculoase și șerpuite.", "Cunoscut pentru ceața densă și agricultura intensă."],
       en: ["Located in the exceptionally green Ibb region.", "Reaches an elevation over 2,900 meters.", "Offers spectacular winding mountain roads.", "Known for dense fog and intensive agriculture."]
-    }
-  },
+    }, image: "/poi-images/jabal-sumarah-nature-v2.webp"},
   {
     id: "wadi-zabid-nature-v2",
     type: "river",
@@ -284,8 +273,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Összeköti a nyugati felvidéket a Vörös-tengerrel.", "Ősi őslakos öntözőrendszerrel büszkélkedhet.", "Történelmileg fontos a Tihama mezőgazdasága számára.", "Támogatta az ősi Zabid városának növekedését."],
       ro: ["Conectează regiunile înalte vestice cu Marea Roșie.", "Dispune de un sistem antic indigen de irigații.", "Istoric vital pentru agricultura din câmpia Tihama.", "A sprijinit dezvoltarea orașului antic Zabid."],
       en: ["Connects the western highlands to the Red Sea.", "Features an ancient indigenous irrigation system.", "Historically vital for agriculture in the Tihama plain.", "Supported the growth of the ancient city of Zabid."]
-    }
-  },
+    }, image: "/poi-images/wadi-zabid-nature-v2.webp"},
   {
     id: "wadi-surdud-nature-v2",
     type: "river",
@@ -303,8 +291,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Szanaától északnyugatra, a hegyekben található.", "Trópusi gyümölcsök termesztéséről híres.", "Egy állandó hegyi patak táplálja.", "Látványos táji kontrasztokat kínál."],
       ro: ["Situat în munții din nord-vestul orașului Sana'a.", "Renumit pentru cultivarea fructelor tropicale.", "Susținut de un pârâu montan permanent.", "Oferă contraste peisagistice spectaculoase."],
       en: ["Located in the mountains northwest of Sanaa.", "Famous for the cultivation of tropical fruits.", "Supported by a permanent mountain stream.", "Offers spectacular scenic contrasts."]
-    }
-  },
+    }, image: "/poi-images/wadi-surdud-nature-v2.webp"},
   {
     id: "wadi-tuban-nature-v2",
     type: "river",
@@ -322,8 +309,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Fontos vízforrás a Lahij kormányzóság számára.", "Délen az Ádeni-öbölbe ömlik.", "Hajlamos a veszélyes, évszakos hirtelen áradásokra.", "Termékeny delta-ökoszisztémát hoz létre."],
       ro: ["Sursă importantă de apă pentru guvernoratul Lahij.", "Se varsă în Golful Aden la sud.", "Predispus la inundații sezoniere periculoase.", "Creează un ecosistem fertil de deltă."],
       en: ["Important water source for the Lahij Governorate.", "Empties into the Gulf of Aden in the south.", "Prone to dangerous seasonal flash floods.", "Creates a fertile delta ecosystem."]
-    }
-  },
+    }, image: "/poi-images/wadi-tuban-nature-v2.webp"},
   {
     id: "wadi-siham-nature-v2",
     type: "river",
@@ -341,8 +327,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Az egyik legfontosabb nyugatra folyó vádi.", "Hagyományos kis öntözőgátakkal rendelkezik.", "Támogatja a nagyszabású mezőgazdasági termelést.", "Zöld ütőeret alkot a part menti síkságon."],
       ro: ["Unul dintre principalele wadi-uri care curg spre vest.", "Prezintă baraje tradiționale de irigații la scară mică.", "Sprijină producția agricolă pe scară largă.", "Formează un curs de viață verde în câmpia de coastă."],
       en: ["One of the major wadis draining westward.", "Features traditional small-scale irrigation dams.", "Supports large-scale agricultural crop production.", "Forms a green lifeline in the coastal plain."]
-    }
-  },
+    }, image: "/poi-images/wadi-siham-nature-v2.webp"},
   {
     id: "jabal-yafaa-nature-v2",
     type: "mountain",
@@ -360,8 +345,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       hu: ["Jellegzetes, magas kőházairól ismert.", "Történelmileg független törzsi fellegvár volt.", "A tengerszint feletti magassága meghaladja a 2000 métert.", "A területet mély völgyek szelik át."],
       ro: ["Renumit pentru casele sale distinctive din piatră.", "Istoric, o fortăreață tribală independentă.", "Altitudinile depășesc 2.000 de metri.", "Regiunea este străbătută de văi adânci."],
       en: ["Known for distinct towering stone houses.", "Historically an independent tribal stronghold.", "Altitudes exceed 2,000 meters in the region.", "The area is crisscrossed by deep valleys."]
-    }
-  },
+    }, image: "/poi-images/jabal-yafaa-nature-v2.webp"},
   {
     id: "fermhin-forest-nature-v2",
     type: "forest",

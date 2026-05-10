@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "foumban-royal-palace-history-v2",
+      "description": "A foumbani királyi palota a Bamoun királyság központja. A hely a helyi uralkodói hagyomány egyik legfontosabb jelképe.",
+      "facts": ["Bamoun királyság", "Foumban központja", "uralkodói palota"]
+    },
+    {
+      "id": "bimbia-slave-port-history-v2",
+      "description": "Bimbia egykori rabszolga-kereskedelmi kikötő volt a partvidéken. Ma a gyarmati korszak és a rabszolga-kereskedelem emlékhelye.",
+      "facts": ["egykori rabszolga-port", "Limbe közelében", "emlékhely"]
+    },
+    {
+      "id": "kribi-lighthouse-history-v2",
+      "description": "A kribi világítótorony a kameruni part egyik régi tengerészeti pontja. A hajózás biztonságát szolgálta a part mentén.",
+      "facts": ["parti világítótorony", "Kribi kikötőjében", "hajózási jel"]
+    },
+    {
+      "id": "prime-ministers-lodge-history-v2",
+      "description": "A Prime Minister s Lodge Buea egyik fontos kormányzati épülete. A gyarmati múlt és az állami jelen egyszerre kapcsolódik hozzá.",
+      "facts": ["Buea városában", "kormányzati rezidencia", "gyarmati eredet"]
+    },
+    {
+      "id": "bismarck-fountain-history-v2",
+      "description": "A Bismarck-kút Douala egyik ismert gyarmati emlékműve. A német korszak városi örökségéhez tartozik.",
+      "facts": ["Douala központja", "gyarmati emlék", "német korszak"]
+    },
+    {
+      "id": "charles-atangana-palace-history-v2",
+      "description": "Charles Atangana palotája Yaoundé történeti emlékhelye. A kameruni elit és a gyarmati korszak kapcsolatát idézi.",
+      "facts": ["Yaoundéban található", "történeti palota", "koloniális korszak"]
+    },
+    {
+      "id": "mankon-fons-palace-history-v2",
+      "description": "A Mankon fón palotája a bamendai hagyományos vezetés központja. A helyi királyi kultúra egyik fő helyszíne.",
+      "facts": ["Bamenda térsége", "hagyományos palota", "fóni központ"]
+    },
+    {
+      "id": "bafut-palace-history-v2",
+      "description": "A bafuti palota a nyugat-kameruni hagyományos uralkodás egyik legismertebb központja. A helyi szokások és rítusok fontos színtere.",
+      "facts": ["Bafut királyi központ", "Nyugat-Kamerun", "hagyományőrzés"]
+    },
+    {
+      "id": "notre-dame-des-victoires-history-v2",
+      "description": "A Notre-Dame des Victoires Yaoundé egyik fő katolikus temploma. A város vallási életének meghatározó épülete.",
+      "facts": ["Yaoundé székesegyház", "katolikus templom", "vallási központ"]
+    },
+    {
+      "id": "reunification-monument-history-v2",
+      "description": "A reunifikációs emlékmű a két Kamerun egyesítését idézi fel. Yaoundé egyik legismertebb modern történelmi szimbóluma.",
+      "facts": ["egyesülési emlékmű", "Yaoundéban áll", "a két Kamerun emléke"]
+    }
+  ]
+}

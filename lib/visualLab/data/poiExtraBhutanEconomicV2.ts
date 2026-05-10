@@ -30,8 +30,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["India finanszírozta (60% támogatás, 40% kölcsön)", "Üzemeltető: Druk Green Power Corporation", "Üzembe helyezéskor Bhután nemzeti jövedelmének 60%-át fedezte", "23 km hosszú felsővíz-csatornával rendelkezik", "A turbinák egy földalatti kavernában találhatók", "Éves energiatermelés: kb. 4865 GWh", "Tiszta energiával csökkenti a CO2-kibocsátást", "A projekt körülbelül 900 millió dollárba került"],
       ro: ["Finanțat de India (60% grant, 40% împrumut)", "Operator: Druk Green Power Corporation", "La punerea în funcțiune, acoperea 60% din venitul național al Bhutanului", "Are un tunel de aducțiune de 23 km", "Turbinele sunt situate într-o cavernă subterană", "Producție anuală de energie: aprox. 4.865 GWh", "Reduce emisiile de CO2 prin energie curată", "Proiectul a costat aproximativ 900 de milioane de dolari SUA"],
       en: ["Funded by India (60% grant, 40% loan)", "Operator: Druk Green Power Corporation", "Covered 60% of Bhutan's national income at commissioning", "Features a 23 km long head-race tunnel", "The turbines are located in an underground cavern", "Annual energy generation: approx. 4,865 GWh", "Reduces CO2 emissions through clean energy", "The project cost about 900 million US dollars"]
-    }
-  },
+    }, image: "/poi-images/tala-hydropower-plant-economic-v2.webp"},
   {
     id: "chukha-hydropower-plant-economic-v2",
     type: "energy",
@@ -92,8 +91,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["A Mongar körzetben található", "Folyóvizes erőmű", "Több mint 2500 falu villamosítását tette lehetővé", "Csökkentette a kelet-bhutáni importált fosszilis tüzelőanyagoktól való függőséget", "Az építkezést India finanszírozta", "Javította a régió hálózati stabilitását", "Támogatja a kis- és középvállalkozásokat", "Fontos munkaadó volt az építési fázisban"],
       ro: ["Situată în districtul Mongar", "O hidrocentrală pe firul apei", "A permis electrificarea a peste 2.500 de sate", "A redus dependența de combustibilii fosili importați în est", "Construcția a fost finanțată de India", "A îmbunătățit stabilitatea rețelei în regiune", "Promovează întreprinderile mici și mijlocii", "Angajator important în timpul fazei de construcție"],
       en: ["Located in Mongar district", "A run-of-the-river power plant", "Enabled the electrification of over 2,500 villages", "Reduced dependence on imported fossil fuels in the east", "Construction was funded by India", "Improved grid stability in the region", "Promotes small and medium-sized enterprises", "Major employer during the construction phase"]
-    }
-  },
+    }, image: "/poi-images/kurichhu-hydropower-plant-economic-v2.webp"},
   {
     id: "mangdechhu-hydropower-plant-economic-v2",
     type: "energy",
@@ -123,8 +121,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Elnyerte a 2020-as Brunel-érmet", "Évente több mint 3000 millió egység áramot termel", "40%-kal növelte Bhután áramtermelő kapacitását", "A projekt költsége kb. 45 milliárd Nu volt.", "A földalatti nyomóalagút 13,5 km hosszú", "Az erőmű 1 km-re a föld alatt található", "Teljesen a Druk Green Power Corporation tulajdonában van", "Több mint 3000 munkahelyet teremtett az építkezés során"],
       ro: ["Premiat cu Medalia Brunel în 2020", "Generează anual peste 3.000 de milioane de unități de energie electrică", "A crescut capacitatea de generare a energiei electrice a Bhutanului cu 40%", "Costul proiectului s-a ridicat la aproximativ 45 de miliarde de Nu.", "Galeria subterană sub presiune are o lungime de 13,5 km", "Casa de mașini se află la 1 km sub pământ", "Deținută în totalitate de Druk Green Power Corporation", "A creat peste 3.000 de locuri de muncă în timpul construcției"],
       en: ["Awarded the Brunel Medal in 2020", "Generates over 3,000 million units of electricity annually", "Increased Bhutan's power generation capacity by 40%", "The project cost was approx. 45 billion Nu.", "The underground pressure tunnel is 13.5 km long", "The powerhouse is located 1 km underground", "Wholly owned by the Druk Green Power Corporation", "Created over 3,000 jobs during construction"]
-    }
-  },
+    }, image: "/poi-images/mangdechhu-hydropower-plant-economic-v2.webp"},
   {
     id: "punatsangchhu-hydropower-economic-v2",
     type: "energy",
@@ -241,8 +238,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Bhután legfontosabb ipari központja", "A legtöbb ferroötvözet- és kalcium-karbid-üzem helyszíne", "A vízerőművekből származó olcsó áram előnyeit élvezi", "Stratégiai elhelyezkedés az indiai határon a könnyű export érdekében", "Környezetgazdálkodási és szennyezési kihívásokkal néz szembe", "Fontos munkaadó a Chukha régióban", "Jelentősen hozzájárul Bhután exportbevételeihez", "Nagy cement- és acélipari vállalatokat is magában foglal"],
       ro: ["Cel mai important centru industrial al Bhutanului", "Locația majorității fabricilor de feroaliaje și carbură de calciu", "Beneficiază de electricitate ieftină din hidroenergie", "Amplasare strategică la granița cu India pentru exporturi facile", "Se confruntă cu provocări legate de managementul mediului și poluare", "Angajator important în regiunea Chukha", "Contribuie semnificativ la veniturile din export ale Bhutanului", "Include, de asemenea, mari companii de ciment și oțel"],
       en: ["Bhutan's most important industrial hub", "Location of most ferro-alloy and calcium carbide plants", "Benefits from cheap electricity from hydropower", "Strategic location on the Indian border for easy exports", "Faces challenges with environmental management and pollution", "Major employer in the Chukha region", "Contributes significantly to Bhutan's export earnings", "Also includes major cement and steel companies"]
-    }
-  },
+    }, image: "/poi-images/pasakha-industrial-estate-economic-v2.webp"},
   {
     id: "jigmeling-industrial-park-economic-v2",
     type: "industry",
@@ -272,8 +268,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Bhután legnagyobb tervezett ipari parkja", "'Tiszta' és 'zöld' iparágak számára tervezték", "Célja a közvetlen külföldi tőkebefektetések (FDI) vonzása", "Átfogó infrastruktúrát, például utakat, vizet és áramot biztosítanak", "Stratégiai elhelyezkedés Bhután közép-déli részén", "Célja a gazdasági diverzifikáció előmozdítása a vízerőművektől", "A tudásalapú és informatikai vállalatokra helyezik a hangsúlyt", "A gazdasági fejlődés decentralizálására irányuló nagyobb terv része"],
       ro: ["Cel mai mare parc industrial planificat din Bhutan", "Conceput pentru industrii 'curate' și 'verzi'", "Vizează atragerea de investiții străine directe (ISD)", "Se oferă infrastructură completă, cum ar fi drumuri, apă și electricitate", "Amplasare strategică în partea central-sudică a Bhutanului", "Menit să promoveze diversificarea economică, îndepărtându-se de hidroenergie", "Accentul este pus pe companiile bazate pe cunoaștere și IT", "Parte a unui plan mai amplu de descentralizare a dezvoltării economice"],
       en: ["Largest planned industrial park in Bhutan", "Designed for 'clean' and 'green' industries", "Aims to attract Foreign Direct Investment (FDI)", "Comprehensive infrastructure like roads, water, and power is provided", "Strategic location in the central-southern part of Bhutan", "Intended to promote economic diversification away from hydropower", "One focus is on knowledge-based and IT companies", "Part of a larger plan to decentralize economic development"]
-    }
-  },
+    }, image: "/poi-images/jigmeling-industrial-park-economic-v2.webp"},
   {
     id: "motanga-industrial-park-economic-v2",
     type: "industry",
@@ -303,8 +298,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Célja Kelet-Bhután gazdasági fejlődésének fellendítése", "Az ásványi és agrár-alapú iparágakra összpontosít", "Stratégiai elhelyezkedés az indiai Asszám állammal folytatott kereskedelemhez", "A városi területekre irányuló elvándorlás csökkentésére fejlesztették ki", "Fejlesztett telkeket kínál kis- és középvállalkozások (kkv-k) számára", "A kiegyensúlyozott regionális fejlesztés nemzeti stratégiájának része", "Kormányzati ösztönzők a parkba történő beruházásokhoz", "Célja a helyi nyersanyagok hozzáadott értékének növelése"],
       ro: ["Vizează stimularea dezvoltării economice în estul Bhutanului", "Se concentrează pe industriile bazate pe minerale și agricultură", "Amplasare strategică pentru comerțul cu statul indian Assam", "Dezvoltat pentru a reduce migrația către zonele urbane", "Oferă parcele dezvoltate pentru întreprinderi mici și mijlocii (IMM-uri)", "Parte a strategiei naționale pentru dezvoltare regională echilibrată", "Stimulente guvernamentale pentru investițiile în acest parc", "Vizează promovarea valorificării materiilor prime locale"],
       en: ["Aims to boost economic development in Eastern Bhutan", "Focuses on mineral-based and agro-based industries", "Strategic location for trade with the Indian state of Assam", "Developed to reduce migration to urban areas", "Provides developed plots for Small and Medium Enterprises (SMEs)", "Part of the national strategy for balanced regional development", "Government incentives for investing in this park", "Aims to promote value addition to local raw materials"]
-    }
-  },
+    }, image: "/poi-images/motanga-industrial-park-economic-v2.webp"},
   {
     id: "bjemina-industrial-estate-economic-v2",
     type: "industry",
@@ -334,8 +328,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["A könnyűiparra és a szolgáltatásokra összpontosít", "Főként a thimphui piacot látja el", "Számos faalapú iparágat és bútorgyártást foglal magában", "Kisebb környezeti hatás a nehézipari területekhez képest", "Támogatja az építőipart a fővárosi régióban", "Stratégiailag a legnagyobb városi központ közelében található", "Főként kis- és középvállalkozásoknak (kkv-knak) ad otthont", "Szerepet játszik az importált késztermékektől való függőség csökkentésében"],
       ro: ["Se concentrează pe industria ușoară și servicii", "Deservește în principal piața din Thimphu", "Include multe industrii bazate pe lemn și fabricarea de mobilă", "Impact mai redus asupra mediului în comparație cu zonele industriale grele", "Sprijină sectorul construcțiilor în regiunea capitalei", "Amplasare strategică lângă cel mai mare centru urban", "Găzduiește în principal întreprinderi mici și mijlocii (IMM-uri)", "Joacă un rol în reducerea dependenței de bunurile de consum importate"],
       en: ["Focuses on light industry and services", "Mainly serves the Thimphu market", "Includes many wood-based industries and furniture manufacturing", "Lower environmental impact compared to heavy industrial zones", "Supports the construction sector in the capital region", "Strategically located near the largest urban center", "Houses mainly small and medium-sized enterprises (SMEs)", "Plays a role in reducing reliance on imported finished goods"]
-    }
-  },
+    }, image: "/poi-images/bjemina-industrial-estate-economic-v2.webp"},
   {
     id: "dhamdum-industrial-park-economic-v2",
     type: "industry",
@@ -365,8 +358,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Új ipari park Délnyugat-Bhutánban (Samtse körzet)", "IT-, agrár- és könnyűipari ágazatok keverékére tervezve", "Célja a régió társadalmi-gazdasági fejlődésének kiegyensúlyozása", "A fejlesztés fázisokban történik", "Nagy hangsúlyt fektetnek a környezetileg fenntartható gyakorlatokra", "Egy fontos indiai határátkelőhely közelében", "Célja a vidéki elvándorlás megfékezése helyi munkahelyek teremtésével", "A kormány Gazdasági Minisztériuma támogatja"],
       ro: ["Parc industrial nou în sud-vestul Bhutanului (districtul Samtse)", "Planificat pentru un mix de industrii IT, agro-procesare și ușoare", "Menit să echilibreze dezvoltarea socio-economică a regiunii", "Dezvoltarea se realizează în etape", "Accent puternic pe practicile ecologic durabile", "Aproape de un punct important de trecere a frontierei cu India", "Vizează stăvilirea migrației rurale prin crearea de locuri de muncă locale", "Promovat de Ministerul Afacerilor Economice al guvernului"],
       en: ["New industrial park in southwestern Bhutan (Samtse district)", "Planned for a mix of IT, agro-processing, and light manufacturing industries", "Aims to balance the socio-economic development of the region", "Development is being carried out in phases", "Strong emphasis on environmentally sustainable practices", "Close to a major border crossing point with India", "Aims to curb rural-urban migration by creating local jobs", "Promoted by the government's Ministry of Economic Affairs"]
-    }
-  },
+    }, image: "/poi-images/dhamdum-industrial-park-economic-v2.webp"},
   {
     id: "penden-cement-authority-economic-v2",
     type: "industry",
@@ -427,8 +419,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Dél-Ázsia egyik legnagyobb cementgyára", "Termelési kapacitása 1 millió tonna klinker és 1,36 millió tonna cement", "A Druk Holding and Investments tulajdonában van", "A hatékonyság és a környezetvédelem érdekében a legmodernebb európai technológiát alkalmazza", "Stratégiailag kedvező helyen fekszik az Északkelet-Indiába és Bangladesbe irányuló export szempontjából", "Magas minőségű, saját mészkőbányákat használ", "A bhutáni kormány egyik legnagyobb egyedi beruházási projektje", "Jelentős foglalkoztatási lehetőségeket teremtett Kelet-Bhutánban"],
       ro: ["Una dintre cele mai mari fabrici de ciment din Asia de Sud", "Capacitate de producție de 1 milion de tone de clincher și 1,36 milioane de tone de ciment", "Deținută de Druk Holding and Investments", "Utilizează tehnologie europeană de ultimă generație pentru eficiență și protecția mediului", "Amplasată strategic pentru exporturi către nord-estul Indiei și Bangladesh", "Folosește zăcăminte de calcar proprii, de înaltă calitate", "Unul dintre cele mai mari proiecte de investiții unice ale guvernului bhutanez", "A creat oportunități semnificative de angajare în estul Bhutanului"],
       en: ["One of the largest cement plants in South Asia", "Production capacity of 1 million tons of clinker and 1.36 million tons of cement", "Owned by Druk Holding and Investments", "Uses state-of-the-art European technology for efficiency and environmental control", "Strategically located for exports to North-East India and Bangladesh", "Uses high-grade captive limestone deposits", "One of the largest single investment projects by the Bhutanese government", "Created significant employment opportunities in Eastern Bhutan"]
-    }
-  },
+    }, image: "/poi-images/dungsam-cement-corporation-economic-v2.webp"},
   {
     id: "phuentsholing-mini-dry-port-economic-v2",
     type: "port",
@@ -489,8 +480,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["A Phuentsholing szárazkikötő terheinek enyhítésére fejlesztették ki", "Célja a központi és keleti dzongkhagok (kerületek) ellátása", "A Gelephu-i különleges gazdasági övezetre vonatkozó nagyobb terv része", "Stratégiai elhelyezkedés az indiai Asszám és Nyugat-Bengál államokkal folytatott kereskedelemhez", "Javítja a régió mezőgazdasági és ipari ágazatainak kereskedelmi logisztikáját", "A fejlesztés több fázisban történik", "Csökkenteni fogja a közép- és kelet-bhutáni vállalkozások szállítási költségeit", "Célja a regionális gazdasági fejlődés és a munkahelyteremtés előmozdítása"],
       ro: ["Dezvoltat pentru a reduce presiunea asupra portului uscat Phuentsholing", "Menit să deservească dzongkhag-urile (districtele) centrale și estice", "Parte a planului mai larg pentru o Zonă Economică Specială în Gelephu", "Amplasare strategică pentru comerțul cu statele indiene Assam și Bengalul de Vest", "Îmbunătățește logistica comercială pentru sectoarele agricol și industrial din regiune", "Dezvoltarea se realizează în mai multe faze", "Va reduce costurile de transport pentru afacerile din centrul și estul Bhutanului", "Vizează promovarea dezvoltării economice regionale și crearea de locuri de muncă"],
       en: ["Developed to ease pressure on the Phuentsholing dry port", "Intended to serve the central and eastern dzongkhags (districts)", "Part of the larger plan for a Special Economic Zone in Gelephu", "Strategic location for trade with the Indian states of Assam and West Bengal", "Improves trade logistics for the region's agriculture and industrial sectors", "Development is being carried out in multiple phases", "Will reduce transport costs for businesses in central and eastern Bhutan", "Aims to promote regional economic development and job creation"]
-    }
-  },
+    }, image: "/poi-images/gelephu-dry-port-economic-v2.webp"},
   {
     id: "gelephu-special-economic-zone-v2",
     type: "trade-hub",
@@ -520,8 +510,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Őfelsége, Bhután királyának víziója", "Célja egy gazdasági központ létrehozása, amely a bruttó nemzeti boldogság (BNB) elvein alapul", "250 000 hektáros (több mint 1000 km²) területet foglal magában", "Nemzetközi repülőtér, vasúti összeköttetés és világszínvonalú infrastruktúra kiépítését tervezi", "Célja a közvetlen külföldi tőkebefektetések vonzása a 'tiszta' ágazatokba", "Kapuként kíván szolgálni Dél-Ázsia és Délkelet-Ázsia között", "Saját törvényekkel és autonóm kormányzási kerettel fog rendelkezni", "Egy hosszú távú projekt, amelyet évtizedek alatt terveznek kifejleszteni"],
       ro: ["O viziune a Majestății Sale Regelui Bhutanului", "Vizează a fi un centru economic bazat pe principiile Fericirii Naționale Brute (FNB)", "Acoperă o suprafață de 250.000 de acri (peste 1000 km²)", "Planifică un aeroport internațional, legături feroviare și infrastructură de clasă mondială", "Vizează atragerea de investiții străine directe (ISD) în sectoare 'curate'", "Menit să servească drept poartă între Asia de Sud și Asia de Sud-Est", "Va avea propriile legi și un cadru de guvernare autonom", "Un proiect pe termen lung, care urmează să fie dezvoltat pe parcursul a zeci de ani"],
       en: ["A vision of His Majesty the King of Bhutan", "Aims to be an economic hub based on Gross National Happiness (GNH) principles", "Covers an area of 250,000 acres (over 1000 sq km)", "Plans for an international airport, railway links, and world-class infrastructure", "Aims to attract Foreign Direct Investment (FDI) in 'clean' sectors", "Intended to serve as a gateway between South Asia and Southeast Asia", "Will have its own laws and autonomous governing framework", "A long-term project to be developed over decades"]
-    }
-  },
+    }, image: "/poi-images/gelephu-special-economic-zone-v2.webp"},
   {
     id: "samdrup-jongkhar-trade-hub-economic-v2",
     type: "trade-hub",
@@ -551,8 +540,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Hagyományos kereskedelmi kapu a keleti dzongkhagokhoz", "Kelet-Bhután legrégebbi határvárosa", "Megkönnyíti a kereskedelmet a szomszédos indiai Asszám állammal", "Fontos exportpont a kelet-bhutáni mezőgazdasági termékek számára", "A régió közigazgatási és kereskedelmi központjaként szolgál", "A kormány egy harmadik szárazkikötő létesítését tervezi ebben a városban", "A kereskedelem fellendítése érdekében infrastrukturális fejlesztések folynak", "Történelmileg az egyetlen szárazföldi hozzáférés Kelet-Bhutánhoz"],
       ro: ["Poarta comercială tradițională către dzongkhag-urile estice", "Cel mai vechi oraș de graniță din estul Bhutanului", "Facilitează comerțul cu statul indian vecin, Assam", "Punct de export major pentru produsele agricole din estul Bhutanului", "Servește drept centru administrativ și comercial pentru regiune", "Guvernul plănuiește un al treilea port uscat în acest oraș", "Modernizarea infrastructurii este în curs pentru a stimula comerțul", "Istoric, singurul acces terestru către estul Bhutanului"],
       en: ["Traditional trade gateway to the eastern dzongkhags", "Oldest border town in eastern Bhutan", "Facilitates trade with the neighboring Indian state of Assam", "Major export point for agricultural produce from eastern Bhutan", "Serves as the administrative and commercial center for the region", "The government is planning a third dry port in this town", "Infrastructure upgrades are underway to boost trade", "Historically, the only land-based access to eastern Bhutan"]
-    }
-  },
+    }, image: "/poi-images/samdrup-jongkhar-trade-hub-economic-v2.webp"},
   {
     id: "khothakpa-gypsum-mine-economic-v2",
     type: "mine",
@@ -582,8 +570,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Bhután legnagyobb gipszbányája Pemagatshelben", "Az ország cementiparának fő beszállítója", "Az állami tulajdonú Druk Satair Corporation Ltd üzemelteti", "Nagy mennyiséget exportálnak Indiába és Bangladesbe", "A bánya becsült készletei több millió tonnára rúgnak", "Fontos munkaadó és gazdasági motor Kelet-Bhután számára", "Erőfeszítéseket tesznek a fokozatos terület-helyreállításra és újraerdősítésre", "A gipszexportból származó bevételek jelentősen hozzájárulnak az államkasszához"],
       ro: ["Cea mai mare mină de ghips din Bhutan, situată în Pemagatshel", "Furnizor principal pentru industria de ciment a țării", "Operată de compania de stat Druk Satair Corporation Ltd", "Cantități mari sunt exportate în India și Bangladesh", "Mina are rezerve estimate la câteva milioane de tone", "Angajator și motor economic important pentru estul Bhutanului", "Se depun eforturi pentru reabilitarea treptată a terenurilor și reîmpădurire", "Veniturile din exporturile de ghips contribuie semnificativ la tezaurul statului"],
       en: ["Bhutan's largest gypsum mine, located in Pemagatshel", "Main supplier to the country's cement industry", "Operated by the state-owned Druk Satair Corporation Ltd", "Large quantities are exported to India and Bangladesh", "The mine has estimated reserves of several million tonnes", "Major employer and economic driver for Eastern Bhutan", "Efforts are made for progressive land reclamation and reforestation", "Revenue from gypsum exports contributes significantly to the national exchequer"]
-    }
-  },
+    }, image: "/poi-images/khothakpa-gypsum-mine-economic-v2.webp"},
   {
     id: "bhutan-ferro-alloys-economic-v2",
     type: "industry",

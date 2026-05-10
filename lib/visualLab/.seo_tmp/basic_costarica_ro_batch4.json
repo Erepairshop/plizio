@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "balsa-wood-crafts-life-v2",
+      "description": "Meșteșugurile din lemn de balsa sunt un simbol al artizanatului costarican. Lemnul ușor este sculptat și pictat manual în obiecte decorative și piese tradiționale.",
+      "facts": [
+        "Lemn foarte ușor",
+        "Lucrat manual",
+        "Obiecte decorative tradiționale"
+      ]
+    },
+    {
+      "id": "limon-carnival-life-v2",
+      "description": "Carnavalul din Limón este una dintre cele mai colorate sărbători ale coastei caraibiene. Paradele, muzica și dansul reflectă clar identitatea afro-caraibiană a orașului.",
+      "facts": [
+        "Pe coasta caraibiană",
+        "Parade și muzică",
+        "Identitate afro-caraibiană"
+      ]
+    },
+    {
+      "id": "surfing-culture-life-v2",
+      "description": "Cultura surfingului este foarte vizibilă pe plajele din Costa Rica. Ea combină sportul, stilul de viață de coastă și apropierea permanentă de ocean.",
+      "facts": [
+        "Pe coasta Pacificului",
+        "Stil de viață de plajă",
+        "Sport popular între tineri"
+      ]
+    },
+    {
+      "id": "chorotega-pottery-life-v2",
+      "description": "Ceramica chorotega este o tradiție indigenă veche din Guanacaste, păstrată mai ales în zona Nicoya și Guaitil. Piesele sunt modelate și decorate manual din materiale locale.",
+      "facts": [
+        "Din Guanacaste",
+        "Tradiție indigenă veche",
+        "Modelată manual"
+      ]
+    },
+    {
+      "id": "pineapple-farming-life-v2",
+      "description": "Cultivarea ananasului este una dintre cele mai importante activități agricole de export din Costa Rica. Plantațiile sunt răspândite în special în zonele joase și calde ale țării.",
+      "facts": [
+        "Produs de export",
+        "Zone joase și calde",
+        "Plantații extinse"
+      ]
+    },
+    {
+      "id": "yoga-wellness-life-v2",
+      "description": "Yoga și wellness au devenit parte din oferta turistică modernă a Costa Ricăi. Retragerile de relaxare se leagă de natură, liniște și climatul tropical.",
+      "facts": [
+        "Turism de wellness",
+        "Retrageri de yoga",
+        "Legat de natură și relaxare"
+      ]
+    },
+    {
+      "id": "cocoa-tradition-life-v2",
+      "description": "Tradiția cacao-ului este strâns legată de comunitățile indigene din Costa Rica, mai ales din zona caraibiană. Din cacao se fac băuturi rituale și produse de ciocolată cu rădăcini locale.",
+      "facts": [
+        "Legată de comunități indigene",
+        "Zona caraibiană",
+        "Băuturi rituale și ciocolată"
+      ]
+    }
+  ]
+}

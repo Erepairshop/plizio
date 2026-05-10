@@ -8,7 +8,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0822, 9.9350],
     name: { de: "Zentralmarkt San José", hu: "Központi Piac San José", ro: "Piața Centrală San José", en: "San Jose Central Market" },
-    description: { de: "Ein lebhafter historischer Markt im Herzen der Hauptstadt.", hu: "Nyüzsgő történelmi piac a főváros szívében.", ro: "O piață istorică vibrantă în inima capitalei.", en: "A bustling historic market in the heart of the capital." },
+    description: { de: "Ein lebhafter historischer Markt im Herzen der Hauptstadt.", hu: "San José legnagyobb piaca, ahol a mindennapi városi élet és a hagyományos costaricai konyha találkozik. A fedett vásárcsarnok ma is élő része a főváros ritmusának.", ro: "Mercado Central din San José este unul dintre cele mai vii locuri din capitală. Aici se amestecă tarabele cu produse, micile localuri și ritmul zilnic al orașului.", en: "San Jose's historic central market is a busy place for food, shopping, and daily city life. It remains one of the capital's most authentic public spaces." },
     descriptionAdvanced: {
       de: "",
       hu: "San José Központi Piaca a város lüktető szíve 1880 óta, ahol a látogatók bepillantást nyerhetnek a valódi Costa Rica-i mindennapokba. A labirintusszerű folyosókon az egzotikus gyümölcsöktől és friss fűszerektől kezdve a kézzel készített bőrárukig minden megtalálható. A piac híres a 'sodáiról', azaz kis kifőzdéiről, ahol a helyiek a hagyományos gallo pintót vagy casadót fogyasztják. Az épület belsejében terjengő frissen pörkölt kávé illata és a kofák harsány kiáltásai felejthetetlen élményt nyújtanak. Ez a hely nem csupán egy bevásárlóközpont, hanem egy élő kulturális múzeum, amely őrzi a főváros múltját és hagyományait. Történelem K7 – városi életmód és kereskedelmi hagyományok.",
@@ -20,9 +20,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Gegründet: 1880", "Über 200 Stände", "Traditionelles Essen"],
-      hu: ["Alapítva: 1880", "Több mint 200 stand", "Hagyományos ételek"],
-      ro: ["Fondat: 1880", "Peste 200 de tarabe", "Mâncare tradițională"],
-      en: ["Founded: 1880", "Over 200 stalls", "Traditional food"]
+      hu: ["San José legnagyobb piaca", "Hagyományos ételek", "A városi élet központja"],
+      ro: ["În centrul capitalei", "Piață tradițională", "Loc de gastronomie locală"],
+      en: ["Founded in 1880", "Over 200 stalls", "Historic city market"]
     },
      image: "/poi-images/mercado-central-life-v2.webp"},
   {
@@ -31,7 +31,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0775, 9.9331],
     name: { de: "Nationaltheater von Costa Rica", hu: "Costa Rica-i Nemzeti Színház", ro: "Teatrul Național din Costa Rica", en: "National Theatre of Costa Rica" },
-    description: { de: "Das prächtigste Gebäude des Landes, ein Symbol der Kaffeeblöte.", hu: "Az ország legpompásabb épülete, a kávékultúra szimbóluma.", ro: "Cea mai magnifică clădire a țării, un simbol al prosperității cafelei.", en: "The most magnificent building in the country, a symbol of coffee prosperity." },
+    description: { de: "Das prächtigste Gebäude des Landes, ein Symbol der Kaffeeblöte.", hu: "Az ország legpompásabb épülete, a kávékultúra szimbóluma.", ro: "Teatrul Național din Costa Rica este clădirea-simbol a eleganței urbane din San José. A fost ridicat din prosperitatea cafelei și a devenit o referință culturală a țării.", en: "Costa Rica's National Theatre is the country's best-known cultural building and a symbol of coffee-era wealth. It anchors the artistic life of downtown San Jose." },
     descriptionAdvanced: {
       de: "",
       hu: "A Costa Rica-i Nemzeti Színház San José büszkesége és az ország kulturális életének ékköve, amelyet a 19. század végén a gazdag kávébárók finanszíroztak. Az épület neoklasszicista stílusa és gazdag belső díszítése – márvány szobrok, aranyozott stukkók és gyönyörű freskók – az európai operaházak fényűzését idézi. Híres mennyezeti festménye, a 'Kávé és banán allegóriája', az ország akkori legfontosabb exportcikkeinek állít emléket. A színház ma is rangos előadásoknak, koncerteknek és állami ünnepségeknek ad otthont. Látogatása során a vendégek megismerhetik azt a korszakot, amikor a kávé tette lehetővé Costa Rica modernizációját. Történelem K8 – a kávé aranykora és az urbanizáció.",
@@ -44,8 +44,8 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     facts: {
       de: ["Eröffnet: 1897", "Neoklassizistischer Stil", "Kulturdenkmal"],
       hu: ["Megnyitva: 1897", "Neoklasszicista stílus", "Kulturális emlékhely"],
-      ro: ["Deschis: 1897", "Stil neoclasic", "Monument cultural"],
-      en: ["Opened: 1897", "Neoclassical style", "Cultural monument"]
+      ro: ["În San José", "Finanțat de exportul de cafea", "Simbol cultural național"],
+      en: ["Opened in 1897", "Neoclassical style", "Coffee prosperity symbol"]
     },
      image: "/poi-images/teatro-nacional-life-v2.webp"},
   {
@@ -54,7 +54,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-A",
     coords: [-84.1500, 10.1000],
     name: { de: "Kaffeefinca in den Highlands", hu: "Felföldi kávébirtok", ro: "Fermă de cafea în munți", en: "Highland Coffee Finca" },
-    description: { de: "Eine traditionelle Kaffeefarm in der fruchtbaren Vulkanregion.", hu: "Hagyományos kávéfarm a termékeny vulkáni régióban.", ro: "O fermă de cafea tradițională în regiunea vulcanică fertilă.", en: "A traditional coffee farm in the fertile volcanic region." },
+    description: { de: "Eine traditionelle Kaffeefarm in der fruchtbaren Vulkanregion.", hu: "A kávéfincák Costa Rica felföldi tájának és mezőgazdaságának jellegzetes elemei. A vulkáni talaj és a hűvösebb klíma kiváló feltételeket ad az arabica kávénak.", ro: "Finca de cafea este imaginea clasică a agriculturii din zonele înalte ale Costa Ricăi. Solul vulcanic și clima mai răcoroasă favorizează cafeaua Arabica de calitate.", en: "A traditional coffee finca in Costa Rica's highlands, shaped by volcanic soil and cool mountain air. Coffee farming here is both an economic activity and a cultural identity." },
     descriptionAdvanced: {
       de: "",
       hu: "A Costa Rica-i felföldeken elterülő kávébirtokok, vagyis a fincák, nem csupán mezőgazdasági területek, hanem az ország identitásának meghatározó részei. A vulkáni talaj, a bőséges csapadék és a hűvös hegyi levegő ideális feltételeket teremt a kiváló minőségű Arabica kávé termesztéséhez. A látogatók végigkísérhetik a folyamatot a cserjék gondozásától kezdve a piros bogyók kézi szüretelésén át egészen a pörkölésig. A kávészüret idején a farmok megelevenednek, és sok helyen ma is a hagyományos, színesen festett ökrösszekereket (carreta) használják dekorációként. A kávé Costa Ricában 'el grano de oro', azaz az arany szemcse néven ismert. Biológia K6 – haszonnövények és a trópusi mezőgazdaság.",
@@ -66,9 +66,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Vulkanischer Boden", "Handgepflückt", "Nachhaltiger Anbau"],
-      hu: ["Vulkáni talaj", "Kézzel szüretelt", "Fenntartható termesztés"],
-      ro: ["Sol vulcanic", "Cules manual", "Cultivare sustenabilă"],
-      en: ["Volcanic soil", "Hand-picked", "Sustainable farming"]
+      hu: ["Felföldi kávétermesztés", "Vulkáni talaj", "Arabica kávéra épül"],
+      ro: ["În zonele înalte", "Sol vulcanic", "Cafea Arabica"],
+      en: ["Volcanic soil", "Highland coffee", "Hand-picked harvest"]
     },
      image: "/poi-images/finca-cafe-life-v2.webp"},
   {
@@ -77,7 +77,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-A",
     coords: [-84.2140, 10.0160],
     name: { de: "Bauernmarkt in Alajuela", hu: "Termelői piac Alajuelában", ro: "Piața fermierilor din Alajuela", en: "Farmers Market in Alajuela" },
-    description: { de: "Ein wöchentlicher Markt, auf dem Bauern ihre frischen Produkte verkaufen.", hu: "Heti piac, ahol a gazdák friss termékeiket árusítják.", ro: "O piață săptămânală unde fermierii își vând produsele proaspete.", en: "A weekly market where farmers sell their fresh produce." },
+    description: { de: "Ein wöchentlicher Markt, auf dem Bauern ihre frischen Produkte verkaufen.", hu: "A Feria del Agricultor heti termelői piac, ahol a gazdák közvetlenül adják el a friss árut. A városi fogyasztást és a helyi gazdaságot köti össze.", ro: "O piață săptămânală unde fermierii își vând produsele proaspete.", en: "A weekly farmers market where local producers sell fresh fruit, vegetables, and regional foods. It connects rural agriculture directly with urban consumers." },
     descriptionAdvanced: {
       de: "",
       hu: "A 'Feria del Agricultor' egy heti rendszerességű rituálé Costa Ricában, ahol a helyi termelők közvetlenül a fogyasztóknak adják el portékáikat. Az alajuelai piac az egyik legnagyobb és legélénkebb az országban, ahol péntek délutántól szombat estig tart a nyüzsgés. Itt megtalálható minden: a frissen vágott cukornádtól a legkülönfélébb trópusi gyümölcsökön át (mint a pitaya vagy a mamey) a házi készítésű sajtokig. A piac nemcsak bevásárlóhely, hanem közösségi tér is, ahol a családok találkoznak és megvitatják a hét eseményeit. A színek kavalkádja és az áruk frissessége minden látogatót lenyűgöz. Életvitel K5 – egészséges táplálkozás és helyi gazdaság.",
@@ -89,9 +89,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Frische Produkte", "Wöchentliches Event", "Regionale Spezialitäten"],
-      hu: ["Friss termékek", "Heti esemény", "Regionális különlegességek"],
+      hu: ["Heti termelői piac", "Friss helyi áru", "Közvetlen értékesítés"],
       ro: ["Produse proaspete", "Eveniment săptămânal", "Specialități regionale"],
-      en: ["Fresh produce", "Weekly event", "Regional specialties"]
+      en: ["Weekly market", "Fresh produce", "Local producers"]
     },
      image: "/poi-images/feria-agricultor-life-v2.webp"},
   {
@@ -100,7 +100,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-A",
     coords: [-84.3500, 10.0833],
     name: { de: "Handwerkszentrum Sarchí", hu: "Sarchí kézműves központ", ro: "Centrul de meșteșuguri Sarchí", en: "Sarchi Craft Centre" },
-    description: { de: "Bekannt für die traditionellen bunten Ochsenkarren.", hu: "A hagyományos színes ökrösszekerekről híres.", ro: "Cunoscut pentru carele cu boi colorate tradiționale.", en: "Famous for traditional colorful oxcarts." },
+    description: { de: "Bekannt für die traditionellen bunten Ochsenkarren.", hu: "Sarchí Costa Rica kézműves központja, ahol a festett ökörszekerek és a faáruk a fő motívumok. A település a hagyományos díszítés egyik legismertebb hazai helye.", ro: "Cunoscut pentru carele cu boi colorate tradiționale.", en: "Sarchi is known across Costa Rica for colorful oxcarts and woodcraft. The town's artisan work is one of the country's strongest craft traditions." },
     descriptionAdvanced: {
       de: "",
       hu: "Sarchí Costa Rica leghíresebb kézműves központja, ahol a hagyományos fatárgyak és a világhírű színes ökrösszekerek (carretas) készülnek. Ez a művészeti forma Costa Rica nemzeti szimbólumává vált, és az UNESCO a szellemi kulturális örökség részévé nyilvánította. Minden szekér egyedi mandalamintázattal van festve, amelyek generációról generációra öröklődnek a családokban. A városban számos műhely látogatható, ahol megfigyelhetjük, hogyan alakul át egy fatönk finoman díszített bútorrá vagy dísztárggyá. Itt található a világ legnagyobb ökrösszekere is, amely a főtéren áll. Művészettörténet K7 – népművészet és kulturális örökség.",
@@ -112,9 +112,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Bunte Ochsenkarren", "Holzschnitzerei", "Kulturerbe"],
-      hu: ["Színes ökrösszekerek", "Fafaragás", "Kulturális örökség"],
+      hu: ["Festett ökörszekerek", "Fa kézművesség", "Országos jelképpé vált"],
       ro: ["Care cu boi colorate", "Sculptură în lemn", "Patrimoniu cultural"],
-      en: ["Colorful oxcarts", "Wood carving", "Cultural heritage"]
+      en: ["Colorful oxcarts", "Wood carving", "Craft tradition"]
     },
      image: "/poi-images/sarchi-crafts-life-v2.webp"},
   {
@@ -169,7 +169,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-G",
     coords: [-85.4500, 10.1500],
     name: { de: "Traditionelle Tortilla-Herstellung", hu: "Hagyományos tortilla készítés", ro: "Fabricarea tradițională a tortillei", en: "Traditional Tortilla Making" },
-    description: { de: "Die Kunst, Maistortillas auf einem Comal zu backen.", hu: "A kukorica tortilla comalon való sütésének művészete.", ro: "Arta de a coace tortilla de porumb pe un comal.", en: "The art of baking corn tortillas on a comal." },
+    description: { de: "Die Kunst, Maistortillas auf einem Comal zu backen.", hu: "A costa ricai tortilla kukoricalapból készül, és a mindennapi étkezés alapja. Különösen Guanacaste konyhájában maradt élő, kézzel formált hagyomány.", ro: "Tradiția tortilla face parte din masa zilnică din Costa Rica. Turtele de porumb sunt preparate simplu și servite alături de multe feluri locale.", en: "Traditional corn tortilla making remains a daily habit in Guanacaste and other parts of Costa Rica. The comal and hand-formed dough keep the practice rooted in home cooking." },
     descriptionAdvanced: {
       de: "",
       hu: "A kézzel készített kukorica tortilla a Costa Rica-i gasztronómia alapköve, különösen Guanacaste régiójában. A folyamat a kukorica 'nixtamalizálásával' kezdődik (főzés mészvízben), majd a szemeket kőmalomban vagy kézi darálóban őrlik meg. A masszából formázott kerek lepényeket egy 'comal'-nak nevezett forró agyag- vagy vaslapon sütik ki nyílt láng felett. A frissen sült tortilla illata és íze összehasonlíthatatlan a gyári változatokkal. Ez a hagyomány évezredek óta öröklődik az őslakos kultúráktól kezdve, és ma is szinte minden családi asztalon helyet kap. A tortilla készítése közösségi esemény is, ahol a nők együtt dolgoznak és beszélgetnek. Életvitel K5 – alapvető élelmiszerek és ételkészítési módok.",
@@ -181,9 +181,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Handgefertigt", "Antike Technik", "Mais-Basis"],
-      hu: ["Kézzel készült", "Ősi technika", "Kukorica alapú"],
-      ro: ["Făcut manual", "Tehnică antică", "Bază de porumb"],
-      en: ["Handmade", "Ancient technique", "Corn-based"]
+      hu: ["Kukoricatortilla", "Hagyományos kézi készítés", "Guanacastei étkezési alap"],
+      ro: ["Pe bază de porumb", "Gătită pe comal", "Parte din bucătăria de zi cu zi"],
+      en: ["Corn-based", "Cooked on a comal", "Daily food tradition"]
     },
      image: "/poi-images/tortilla-tradition-life-v2.webp"},
   {
@@ -192,7 +192,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-P",
     coords: [-83.2450, 9.0030],
     name: { de: "Boruca-Maskenkunst", hu: "Boruca maszkfaragás", ro: "Arta măștilor Boruca", en: "Boruca Mask Art" },
-    description: { de: "Farbenfrohe handgeschnitzte Masken der Boruca-Indigenen.", hu: "A boruca indiánok színes, kézzel faragott maszkjai.", ro: "Măști colorate sculptate manual de indigenii Boruca.", en: "Colorful hand-carved masks of the Boruca indigenous people." },
+    description: { de: "Farbenfrohe handgeschnitzte Masken der Boruca-Indigenen.", hu: "A boruca maszkok a dél-costa ricai őslakos közösség festett és faragott hagyományát mutatják. A maszkok a helyi identitás és az ünnepi kultúra fontos részei.", ro: "Măștile Boruca sunt o formă puternică de artă indigenă din Costa Rica. Ele sunt sculptate și pictate manual și sunt legate de tradiția Diablitos.", en: "Boruca masks are hand-carved indigenous artworks from southern Costa Rica. They are closely tied to the Diablitos tradition and community identity." },
     descriptionAdvanced: {
       de: "",
       hu: "A Boruca maszkok Costa Rica leghíresebb őslakos művészeti alkotásai, amelyek a déli hegyekben élő boruca indiánoktól származnak. A balsa- vagy cédrusfából faragott és élénk színekkel festett maszkok állatokat, növényeket és szellemlényeket ábrázolnak. Eredetileg a 'Juego de los Diablitos' (Az ördögök játéka) nevű rituális ünnepséghez készültek, amely a spanyol hódítókkal szembeni ellenállást jelképezi. Ma a maszkok fontos bevételi forrást jelentenek a közösségnek, és a fenntartható turizmus jelképévé váltak. Minden darab egyedi, tükrözve a készítője kreativitását és a dzsungel iránti tiszteletét. Történelem K7 – őslakos kultúrák és a spanyol hódítás elleni harc.",
@@ -204,9 +204,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Indigene Tradition", "Balsaholz", "Naturmotive"],
-      hu: ["Indigén hagyomány", "Balsafa", "Természeti motívumok"],
-      ro: ["Tradiție indigenă", "Lemn de balsa", "Motive naturale"],
-      en: ["Indigenous tradition", "Balsa wood", "Nature motifs"]
+      hu: ["Dél-costa ricai hagyomány", "Faragott és festett maszkok", "Őslakos kulturális örökség"],
+      ro: ["Tradiție indigenă", "Sculptate din lemn", "Legate de Diablitos"],
+      en: ["Indigenous art", "Hand-carved masks", "Diablitos tradition"]
     },
      image: "/poi-images/boruca-masks-life-v2.webp"},
   {
@@ -215,7 +215,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0800, 9.9300],
     name: { de: "Gallo Pinto Tradition", hu: "Gallo Pinto hagyomány", ro: "Tradiția Gallo Pinto", en: "Gallo Pinto Tradition" },
-    description: { de: "Das Nationalgericht aus Reis und Bohnen.", hu: "A nemzeti étel rizsből és babból.", ro: "Mâncarea națională din orez și fasole.", en: "The national dish made of rice and beans." },
+    description: { de: "Das Nationalgericht aus Reis und Bohnen.", hu: "A gallo pinto Costa Rica legismertebb mindennapi étele, rizs és bab alapú keverék. Sok családban reggeli alapétel, és erősen kötődik a helyi identitáshoz.", ro: "Gallo pinto este unul dintre cele mai cunoscute feluri de mâncare din Costa Rica. Amestecul de orez și fasole apare des la micul dejun și în meniurile tradiționale.", en: "Gallo pinto is Costa Rica's best-known everyday dish, made from rice and beans. It is especially associated with breakfast and national food culture." },
     descriptionAdvanced: {
       de: "",
       hu: "A Gallo Pinto (szó szerint 'pöttyös kakas') Costa Rica nemzeti étele, amely nélkül elképzelhetetlen egy hagyományos reggeli. Az étel alapja a rizs és a fekete (vörös) bab, amelyet hagymával, paprikával, fokhagymával és a titkos összetevővel, a Salsa Lizanóval pirítanak össze. A rizs és a bab előző napról megmaradt keveréke állítólag a legfinomabb, mivel az ízeknek van idejük összeérni. Általában tükörtojással, sült főzőbanánnal (maduro), sajttal és tortillával tálalják. Ez az étel a szerénység, a tápláló energia és a nemzeti egység szimbóluma Costa Ricában. Életvitel K5 – hagyományos ételek és tápértékük.",
@@ -227,9 +227,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Frühstücks-Favorit", "Reis und Bohnen", "Salsa Lizano"],
-      hu: ["Reggeli kedvenc", "Rizs és bab", "Salsa Lizano"],
-      ro: ["Favorit la micul dejun", "Orez și fasole", "Salsa Lizano"],
-      en: ["Breakfast favorite", "Rice and beans", "Salsa Lizano"]
+      hu: ["Rizs és bab", "Hagyományos reggeli", "Nemzeti ételként ismert"],
+      ro: ["Orez și fasole", "Mic dejun obișnuit", "Fel național foarte cunoscut"],
+      en: ["Rice and beans", "Breakfast staple", "National dish"]
     },
      image: "/poi-images/gallo-pinto-life-v2.webp"},
   {
@@ -238,7 +238,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-A",
     coords: [-84.5000, 10.3000],
     name: { de: "Balsaholz-Handwerk", hu: "Balsafa kézművesség", ro: "Meșteșugul lemnului de balsa", en: "Balsa Wood Crafts" },
-    description: { de: "Leichtes Kunsthandwerk aus dem weichen Holz des Balsabaums.", hu: "Könnyű kézműves tárgyak a balsafa puha fájából.", ro: "Artizanat ușor din lemnul moale al arborelui de balsa.", en: "Lightweight crafts made from the soft wood of the balsa tree." },
+    description: { de: "Leichtes Kunsthandwerk aus dem weichen Holz des Balsabaums.", hu: "A balsa fa kézműves tárgyai a costa ricai turisztikai piacok és műhelyek ismert darabjai. A könnyű fa jól mutatja a helyi kézművesség természetes anyaghasználatát.", ro: "Meșteșugurile din lemn de balsa sunt un simbol al artizanatului costarican. Lemnul ușor este sculptat și pictat manual în obiecte decorative și piese tradiționale.", en: "Balsa wood crafts show how light local materials can become decorative art. The carved figures and souvenirs are common in markets and workshops." },
     descriptionAdvanced: {
       de: "",
       hu: "A balsafa kézművesség Costa Rica északi és déli régióiban is népszerű művészeti ág, köszönhetően a fa rendkívüli könnyűségének és puhaságának. Ez a fa ideális alapanyag a finom faragásokhoz, hiszen akár egy zsebkéssel is könnyen formálható. A kézművesek leggyakrabban a trópusi esőerdő állatait – tukanokat, papagájokat, lajhárokat – faragják ki belőle, majd élénk akrilfestékkel teszik élethűvé. A balsafa gyorsan növő fa, így kitermelése fenntartható és nem károsítja az őserdőket. A turisták körében ezek a legnépszerűbb szuvenírek, mivel könnyű súlyuk miatt egyszerűen hazaszállíthatók. Technika K6 – természetes anyagok felhasználása a művészetben.",
@@ -247,9 +247,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Extrem leicht", "Schnell wachsend", "Handbemalt"],
-      hu: ["Extrém könnyű", "Gyorsan növő", "Kézzel festett"],
-      ro: ["Extrem de ușor", "Creștere rapidă", "Pictat manual"],
-      en: ["Extremely light", "Fast growing", "Hand-painted"]
+      hu: ["Könnyű balsa fa", "Kézműves dísztárgyak", "Turisztikai műhelyek"],
+      ro: ["Lemn foarte ușor", "Lucrat manual", "Obiecte decorative tradiționale"],
+      en: ["Light wood", "Handmade figures", "Tourist craft"]
     },
     factsAdvanced: {
       de: [],
@@ -288,7 +288,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-LI",
     coords: [-83.0300, 9.9900],
     name: { de: "Karneval von Limón", hu: "Limóni karnevál", ro: "Carnavalul din Limón", en: "Limon Carnival" },
-    description: { de: "Ein energiegeladenes Fest mit afro-karibischen Rhythmen.", hu: "Energikus ünnepség afro-karibi ritmusokkal.", ro: "O sărbătoare plină de energie cu ritmuri afro-caraibiene.", en: "An energetic celebration with Afro-Caribbean rhythms." },
+    description: { de: "Ein energiegeladenes Fest mit afro-karibischen Rhythmen.", hu: "A limóni karnevál az egyik legismertebb costa ricai utcai ünnep, amely a karibi kultúrát és a város színes közösségi életét mutatja meg. Októberben tölti meg a várost zenével és felvonulással.", ro: "Carnavalul din Limón este una dintre cele mai colorate sărbători ale coastei caraibiene. Paradele, muzica și dansul reflectă clar identitatea afro-caraibiană a orașului.", en: "The Limon Carnival fills the Caribbean city with parades, music, and Afro-Caribbean energy. It is one of the most visible celebrations of local identity in Costa Rica." },
     descriptionAdvanced: {
       de: "",
       hu: "A limóni karnevál Costa Rica leglátványosabb és leghangosabb kulturális eseménye, amelyet minden októberben rendeznek meg a karibi kikötővárosban. A fesztivál az afro-karibi örökséget ünnepli calypso zenével, látványos kosztümökkel és utcai táncokkal. A karnevál központi eleme a 'comparsas', a hatalmas tánccsoportok felvonulása, akik hónapokig készülnek a koreográfiákra. A levegőben a tengeri ételek és a jerks fűszerek illata terjeng, miközben a város utcái igazi bulinegyedé alakulnak. Ez az időszak emlékezik meg Kolumbusz Kristóf 1502-es partraszállásáról is az Uvita-szigeten. Ének-zene K6 – világzene és karibi ritmusok.",
@@ -297,9 +297,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Im Oktober", "Reggae und Calypso", "Straßenparaden"],
-      hu: ["Októberben", "Reggae és calypso", "Utcai parádék"],
-      ro: ["În octombrie", "Reggae și calypso", "Parade stradale"],
-      en: ["In October", "Reggae and calypso", "Street parades"]
+      hu: ["Limón városában", "Októberi karnevál", "Karibi kulturális hagyomány"],
+      ro: ["Pe coasta caraibiană", "Parade și muzică", "Identitate afro-caraibiană"],
+      en: ["In Limon", "October celebration", "Afro-Caribbean rhythms"]
     },
     factsAdvanced: {
       de: [],
@@ -313,7 +313,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-LI",
     coords: [-83.2000, 10.1000],
     name: { de: "Bananenplantage", hu: "Banánültetvény", ro: "Plantație de banane", en: "Banana Plantation" },
-    description: { de: "Die riesigen Felder, die Costa Rica zum Top-Exporteur machten.", hu: "A hatalmas földek, amelyek Costa Ricát vezető exportőrré tették.", ro: "Câmpurile vaste care au făcut din Costa Rica un exportator de top.", en: "The vast fields that made Costa Rica a top exporter." },
+    description: { de: "Die riesigen Felder, die Costa Rica zum Top-Exporteur machten.", hu: "A banánültetvények a karibi alföldek meghatározó mezőgazdasági képei Costa Ricában. Az ország exporttörténetének egyik legfontosabb termelési formáját adják.", ro: "Câmpurile vaste care au făcut din Costa Rica un exportator de top.", en: "The vast fields that made Costa Rica a top exporter." },
     descriptionAdvanced: {
       de: "",
       hu: "Costa Rica karibi síkságait végtelennek tűnő banánültetvények borítják, amelyek az ország gazdaságának egyik legfontosabb pillérét alkotják. A banántermesztés a 19. század végén indult el a vasútépítéssel párhundamosan, és mára Costa Rica a világ egyik legnagyobb banánexportőre. A növények hatalmas, húsos levelei különleges mikroklímát teremtenek az ültetvényeken belül. A szüret folyamatos egész évben; a zöld fürtöket kábeles pályákon szállítják a csomagolóüzemekbe, hogy frissen juthassanak el az európai és amerikai piacokra. Az ültetvények látogatása során megismerhetjük a trópusi gyümölcstermesztés minden nehézségét és szépségét. Biológia K6 – trópusi növények és globális élelmiszerlánc.",
@@ -322,7 +322,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Hauptexportgut", "Tropisches Klima", "Intensive Landwirtschaft"],
-      hu: ["Fő exportcikk", "Trópusi éghajlat", "Intenzív mezőgazdaság"],
+      hu: ["Karibi alföldek", "Fontos exportnövény", "Intenzív mezőgazdaság"],
       ro: ["Principalul produs de export", "Climat tropical", "Agricultură intensivă"],
       en: ["Major export crop", "Tropical climate", "Intensive farming"]
     },
@@ -338,7 +338,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-G",
     coords: [-85.8400, 10.3000],
     name: { de: "Surfkultur in Tamarindo", hu: "Surfkultúra Tamarindóban", ro: "Cultura surfului în Tamarindo", en: "Surfing Culture in Tamarindo" },
-    description: { de: "Der entspannte Lebensstil an der Pazifikküste.", hu: "A laza életmód a csendes-óceáni parton.", ro: "Stilul de viață relaxat de pe coasta Pacificului.", en: "The laid-back lifestyle on the Pacific coast." },
+    description: { de: "Der entspannte Lebensstil an der Pazifikküste.", hu: "A laza életmód a csendes-óceáni parton.", ro: "Cultura surfingului este foarte vizibilă pe plajele din Costa Rica. Ea combină sportul, stilul de viață de coastă și apropierea permanentă de ocean.", en: "The laid-back lifestyle on the Pacific coast." },
     descriptionAdvanced: {
       de: "",
       hu: "A szörfözés Costa Ricában több mint sport: ez egy életforma, amely a 'Pura Vida' életérzés alapköve. Tamarindo városa a csendes-óceáni parton az egyik legnépszerűbb központ, ahol a kezdők és a profik egyaránt megtalálják a tökéletes hullámokat. A szörfkultúra magával hozta a laza öltözködést, a környezettudatosságot és a tengerparti közösségek virágzását. Napkeltekor szörfösök tucatjai láthatók a vízben, várva a legjobb hullámot, míg este a tábortüzek mellett beszélik meg a nap élményeit. Az országban számos nemzetközi szörfversenyt rendeznek, amelyek a világ minden tájáról vonzzák a látogatókat. Testnevelés K6 – vízi sportok és aktív életmód.",
@@ -348,7 +348,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     facts: {
       de: ["Weltklasse-Wellen", "Pura Vida Lifestyle", "Ganzjährig Surfen"],
       hu: ["Világszínvonalú hullámok", "Pura Vida életstílus", "Egész éves szörfözés"],
-      ro: ["Valuri de talie mondială", "Stil de viață Pura Vida", "Surf tot anul"],
+      ro: ["Pe coasta Pacificului", "Stil de viață de plajă", "Sport popular între tineri"],
       en: ["World-class waves", "Pura Vida lifestyle", "Year-round surfing"]
     },
     factsAdvanced: {
@@ -363,7 +363,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-G",
     coords: [-85.5000, 10.2000],
     name: { de: "Chorotega-Keramik", hu: "Chorotega kerámia", ro: "Ceramica Chorotega", en: "Chorotega Pottery" },
-    description: { de: "Antike Töpfertraditionen in Guaitil.", hu: "Ősi fazekas hagyományok Guaitilben.", ro: "Tradiții vechi de olărit în Guaitil.", en: "Ancient pottery traditions in Guaitil." },
+    description: { de: "Antike Töpfertraditionen in Guaitil.", hu: "Ősi fazekas hagyományok Guaitilben.", ro: "Ceramica chorotega este o tradiție indigenă veche din Guanacaste, păstrată mai ales în zona Nicoya și Guaitil. Piesele sunt modelate și decorate manual din materiale locale.", en: "Chorotega pottery is a long-standing artisan tradition centered around Guaitil and Nicoya. The clay vessels and painted finishes keep indigenous knowledge alive." },
     descriptionAdvanced: {
       de: "",
       hu: "A Chorotega kerámia művészete Costa Rica északnyugati részén, különösen Guaitil falujában él tovább, megőrizve a prekolumbián indián hagyományokat. A fazekasok ma is ugyanazokat a természetes anyagokat használják – helyi agyagot és ásványi pigmenteket –, mint őseik évezredekkel ezelőtt. Az edényeket kézzel formázzák, majd polírozott kövekkel csiszolják fényesre, mielőtt a hagyományos vörös, fekete és okker mintákkal díszítenék őket. A motívumok gyakran mitikus állatokat, napkorongokat és geometrikus ábrákat jelenítenek meg. Ez a kézműves forma az őslakos identitás egyik legfontosabb megőrzője a modern Guanacaste-ban. Művészettörténet K7 – prekolumbián művészet és technológiák.",
@@ -373,8 +373,8 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     facts: {
       de: ["Indigenes Erbe", "Naturfarben", "Handgetöpfert"],
       hu: ["Indigén örökség", "Természetes színek", "Kézzel formázott"],
-      ro: ["Moștenire indigenă", "Culori naturale", "Modelat manual"],
-      en: ["Indigenous heritage", "Natural pigments", "Hand-molded"]
+      ro: ["Din Guanacaste", "Tradiție indigenă veche", "Modelată manual"],
+      en: ["In Guanacaste", "Handmade pottery", "Indigenous tradition"]
     },
     factsAdvanced: {
       de: [],
@@ -388,7 +388,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-A",
     coords: [-84.3000, 10.5000],
     name: { de: "Ananasanbau", hu: "Ananásztermesztés", ro: "Cultivarea ananasului", en: "Pineapple Farming" },
-    description: { de: "Die sonnigen Plantagen, die Costa Rica zum Weltmarktführer machten.", hu: "A napsütötte ültetvények, amelyek Costa Ricát világelsővé tették.", ro: "Plantațiile însorite care au făcut din Costa Rica un lider mondial.", en: "The sunny plantations that made Costa Rica a world leader." },
+    description: { de: "Die sonnigen Plantagen, die Costa Rica zum Weltmarktführer machten.", hu: "A napsütötte ültetvények, amelyek Costa Ricát világelsővé tették.", ro: "Cultivarea ananasului este una dintre cele mai importante activități agricole de export din Costa Rica. Plantațiile sunt răspândite în special în zonele joase și calde ale țării.", en: "Pineapple farming is one of Costa Rica's most important export crops. Large plantations in warm lowland regions feed both domestic markets and international buyers." },
     descriptionAdvanced: {
       de: "",
       hu: "Costa Rica a világ első számú ananászexportőre, és az ország északi síkságain hatalmas területeket foglalnak el a tüskés levelű növények. Az ananásztermesztés intenzív mezőgazdasági munka, amely trópusi hőséget és állandó gondozást igényel. A legnépszerűbb fajta a 'Golden Pineapple' (MD2), amely édes ízéről és élénksárga húsáról ismert. Az ültetvényeken a növényeket precíziós módszerekkel nevelik, hogy minden gyümölcs tökéletes legyen a nemzetközi szállításra. Bár a banánnál modernebb iparág, mára Costa Rica egyik legfontosabb gazdasági bevételi forrásává vált. Az ültetvények látványa a szabályos sorokkal és a sárga gyümölcsökkel különleges geometrikus mintát rajzol a tájba. Biológia K6 – gyümölcstermesztés és gazdasági növények.",
@@ -398,8 +398,8 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     facts: {
       de: ["Weltgrößter Exporteur", "Tropische Frucht", "Wirtschaftliche Säule"],
       hu: ["Világ legnagyobb exportőre", "Trópusi gyümölcs", "Gazdasági pillér"],
-      ro: ["Cel mai mare exportator mondial", "Fruct tropical", "Pilon economic"],
-      en: ["World's leading exporter", "Tropical fruit", "Economic pillar"]
+      ro: ["Produs de export", "Zone joase și calde", "Plantații extinse"],
+      en: ["Major export crop", "Warm lowlands", "Large plantations"]
     },
     factsAdvanced: {
       de: [],
@@ -413,7 +413,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-P",
     coords: [-84.8500, 9.9000],
     name: { de: "Traditionelles Fischerdorf", hu: "Hagyományos halászfalu", ro: "Sat tradițional de pescari", en: "Traditional Fishing Village" },
-    description: { de: "Das ruhige Leben am Meer, bestimmt durch die Gezeiten.", hu: "A nyugodt élet a tengerparton, amelyet az árapály határoz meg.", ro: "Viața liniștită de la malul mării, determinată de maree.", en: "The quiet life by the sea, determined by the tides." },
+    description: { de: "Das ruhige Leben am Meer, bestimmt durch die Gezeiten.", hu: "A costa ricai halászfalvakban a tengerhez kötött, nyugodt mindennapok adják az élet ritmusát. A helyi fogás, a stég és a kiscsónakok határozzák meg a látványt.", ro: "Viața liniștită de la malul mării, determinată de maree.", en: "Traditional fishing villages along the coast still follow the tide and the daily catch. Their routines are shaped by small boats, nets, and close ties to the sea." },
     descriptionAdvanced: {
       de: "",
       hu: "A Costa Rica-i partvidék mentén elszórtan találhatók olyan kis halászfalvak, ahol az idő mintha megállt volna. Az itteni élet ritmusát a tenger és az apály-dagály váltakozása határozza meg. Kora hajnalban a halászok színes, kisméretű motorcsónakjaikkal vágnak neki az óceánnak, hogy visszatérve friss vörös durbincsot (pargo) vagy mahi-mahit hozzanak a partra. A falvakban központi helyet foglal el a stég és a halpiac, ahol a helyiek és az éttermesek alkudoznak a fogásra. Ez az életforma a fenntartható halászat és a tenger iránti mély tisztelet példája. A látogatók számára ezek a falvak jelentik az igazi, sallangmentes Costa Rica-i élményt. Életvitel K5 – kisméretű gazdálkodás és tengeri élelemforrások.",
@@ -422,9 +422,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Küstenkultur", "Täglicher Fang", "Handwerkliches Fischen"],
-      hu: ["Parti kultúra", "Napi fogás", "Kézműves halászat"],
+      hu: ["Tengerhez kötött élet", "Helyi halászat", "Kis közösségi kikötők"],
       ro: ["Cultură de coastă", "Captură zilnică", "Pescuit artizanal"],
-      en: ["Coastal culture", "Daily catch", "Artisanal fishing"]
+      en: ["Coastal life", "Daily catch", "Small fishing boats"]
     },
     factsAdvanced: {
       de: [],
@@ -438,7 +438,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-P",
     coords: [-83.8500, 9.1500],
     name: { de: "Yoga- und Wellness-Retreat", hu: "Jóga- és wellness központ", ro: "Retreat de yoga și wellness", en: "Yoga and Wellness Retreat" },
-    description: { de: "Ein Rückzugsort für Gesundheit und Achtsamkeit in der Natur.", hu: "Menedékhely az egészség és a tudatosság számára a természetben.", ro: "Un refugiu pentru sănătate și mindfulness în natură.", en: "A sanctuary for health and mindfulness in nature." },
+    description: { de: "Ein Rückzugsort für Gesundheit und Achtsamkeit in der Natur.", hu: "Costa Rica a természetközeli wellness és a jógás elvonulások egyik ismert célpontja. A nyugodt környezet és a trópusi táj együtt adja a hely hangulatát.", ro: "Yoga și wellness au devenit parte din oferta turistică modernă a Costa Ricăi. Retragerile de relaxare se leagă de natură, liniște și climatul tropical.", en: "Costa Rica's yoga and wellness retreats combine tropical scenery with rest and mindfulness. They are a major part of the country's modern nature-based tourism." },
     descriptionAdvanced: {
       de: "",
       hu: "Costa Rica a világ egyik vezető wellness-desztinációjává vált, ahol a természet közelsége és a békés környezet ideális feltételeket teremt a belső elcsendesedéshez. Számos jóga-központ épült az esőerdők mélyén vagy a tengerparti sziklákon, ahol a vendégek a majmok ordítása és a tenger morajlása közepette gyakorolhatnak. A wellness itt nemcsak fizikai gyakorlatokat jelent, hanem az egészséges, organikus táplálkozást és a digitális detoxot is. A 'Pura Vida' szellemisége tökéletesen illeszkedik a jóga filozófiájához, hangsúlyozva a jelen pillanat megélését. Ezek a központok fontos szerepet játszanak a fenntartható turizmusban, mivel nagy hangsúlyt fektetnek a környezetvédelemre. Életvitel K6 – testi-lelki egészség és rekreáció.",
@@ -447,9 +447,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Natur-Retreats", "Ganzheitliche Gesundheit", "Öko-Wellness"],
-      hu: ["Természeti elvonulások", "Holisztikus egészség", "Öko-wellness"],
-      ro: ["Retreat-uri în natură", "Sănătate holistică", "Eco-wellness"],
-      en: ["Nature retreats", "Holistic health", "Eco-wellness"]
+      hu: ["Wellness célpont", "Jógás elvonulások", "Természetközeli környezet"],
+      ro: ["Turism de wellness", "Retrageri de yoga", "Legat de natură și relaxare"],
+      en: ["Nature retreats", "Yoga and mindfulness", "Wellness tourism"]
     },
     factsAdvanced: {
       de: [],
@@ -463,7 +463,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     parent: "CR-LI",
     coords: [-83.5000, 9.6000],
     name: { de: "Schokoladentradition der Bribri", hu: "A Bribri kakaó hagyomány", ro: "Tradiția ciocolatei Bribri", en: "Bribri Cocoa Tradition" },
-    description: { de: "Die heilige Kunst der Kakaoherstellung der Bribri-Indigenen.", hu: "A bribri indiánok szent kakaókészítési művészete.", ro: "Arta sacră a fabricării cacao a indigenilor Bribri.", en: "The sacred art of cocoa making by the Bribri indigenous people." },
+    description: { de: "Die heilige Kunst der Kakaoherstellung der Bribri-Indigenen.", hu: "A bribri kakaóhagyomány Costa Rica egyik legfontosabb őslakos kulturális öröksége. A kakaó itt egyszerre élelmiszer, rituális alapanyag és közösségi tudás.", ro: "Tradiția cacao-ului este strâns legată de comunitățile indigene din Costa Rica, mai ales din zona caraibiană. Din cacao se fac băuturi rituale și produse de ciocolată cu rădăcini locale.", en: "The Bribri cocoa tradition links cacao to indigenous knowledge on the Caribbean side of Costa Rica. It includes ritual drinks, farming skills, and local heritage." },
     descriptionAdvanced: {
       de: "",
       hu: "A kakaó a Bribri indiánok számára nem csupán élelmiszer, hanem szent növény, amely központi szerepet játszik vallási és kulturális rítusaikban. A Talamanca-hegység eldugott falvaiban a nők őrzik a hagyományos kakaókészítés titkait, amelyet generációk óta örökítenek tovább. A folyamat során a babokat pörkölik, kézzel hántolják, majd kőmozsárban pasztává őrlik. A bribrik szerint a kakaó összeköti az embereket az istenekkel és a természettel. A látogatók részt vehetnek ezeken a szertartásokon, ahol megkóstolhatják a tiszta, fűszeres kakaóitalt, és megismerhetik a növény spirituális jelentőségét. Történelem K7 – őslakos vallások és természeti kincsek.",
@@ -472,9 +472,9 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     },
     facts: {
       de: ["Heilige Pflanze", "Indigenes Wissen", "Bio-Produktion"],
-      hu: ["Szent növény", "Indigén tudás", "Bio-termelés"],
-      ro: ["Plantă sacră", "Cunoștințe indigene", "Producție bio"],
-      en: ["Sacred plant", "Indigenous knowledge", "Organic production"]
+      hu: ["Bribri hagyomány", "Őslakos kulturális örökség", "Szent kakaóhasználat"],
+      ro: ["Legată de comunități indigene", "Zona caraibiană", "Băuturi rituale și ciocolată"],
+      en: ["Bribri heritage", "Ritual cocoa drinks", "Caribbean region"]
     },
     factsAdvanced: {
       de: [],

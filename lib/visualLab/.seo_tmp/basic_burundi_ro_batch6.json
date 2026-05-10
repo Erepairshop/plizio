@@ -1,0 +1,90 @@
+{
+  "lang": "ro",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kirundo-cities-v2",
+      "description": "Kirundo este un oraș din nordul Burundiului, într-o regiune cu lacuri și zone umede. Are un rol local important pentru comerț și aprovizionare.",
+      "facts": ["nordul țării", "lângă lacuri", "centru local"]
+    },
+    {
+      "id": "bubanza-cities-v2",
+      "description": "Bubanza este capitala provinciei cu același nume din nord-vestul Burundiului. Orașul este legat de agricultură și de traficul regional.",
+      "facts": ["nord-vest", "capitală de provincie", "agricultură"]
+    },
+    {
+      "id": "karuzi-cities-v2",
+      "description": "Karuzi este un oraș din centrul-estul Burundiului și un centru administrativ regional. Relieful din jur favorizează agricultura și legăturile locale.",
+      "facts": ["centru-est", "administrativ", "zonă agricolă"]
+    },
+    {
+      "id": "cankuzo-cities-v2",
+      "description": "Cankuzo este un oraș din estul Burundiului, într-o zonă colinară și mai puțin densă. Viața locală este strâns legată de terenurile agricole și de drumurile regionale.",
+      "facts": ["estul țării", "zonă colinară", "agricultură"]
+    },
+    {
+      "id": "ruyigi-cities-v2",
+      "description": "Ruyigi este un oraș important din estul Burundiului, aproape de regiunea Moso. Este cunoscut ca punct de legătură pentru comerț și administrație.",
+      "facts": ["estul țării", "regiunea Moso", "centru comercial"]
+    },
+    {
+      "id": "cibitoke-cities-v2",
+      "description": "Cibitoke este un oraș din nord-vestul Burundiului, aproape de zonele de frontieră. Are o poziție utilă pentru agricultură și schimburi regionale.",
+      "facts": ["nord-vest", "zonă de frontieră", "schimb regional"]
+    },
+    {
+      "id": "mwaro-cities-v2",
+      "description": "Mwaro este un oraș din centrul Burundiului, într-o zonă de dealuri și așezări răsfirate. Este un punct administrativ și rural important.",
+      "facts": ["centrul țării", "dealuri", "administrativ"]
+    },
+    {
+      "id": "mabanda-cities-v2",
+      "description": "Mabanda se află în sudul Burundiului și are un profil mai degrabă rural. Orașul este legat de agricultură și de apropierea de frontieră.",
+      "facts": ["sudul țării", "rural", "aproape de frontieră"]
+    },
+    {
+      "id": "nyanza-lac-cities-v2",
+      "description": "Nyanza-Lac este un oraș de pe malul lacului Tanganyika, în sudul Burundiului. Poziția sa îl face important pentru pescuit și comerțul de coastă.",
+      "facts": ["pe Tanganyika", "pescuit", "oraș de coastă"]
+    },
+    {
+      "id": "rugombo-cities-v2",
+      "description": "Rugombo este un oraș din nord-vestul Burundiului, în apropierea coridoarelor comerciale regionale. Este legat de agricultură și de tranzitul local.",
+      "facts": ["nord-vest", "tranzit local", "agricultură"]
+    },
+    {
+      "id": "kobero-cities-v2",
+      "description": "Kobero este un punct urban din nordul Burundiului, aproape de granița cu Tanzania. Rolul său ține mai ales de circulația oamenilor și a mărfurilor.",
+      "facts": ["granița cu Tanzania", "nordul țării", "circulație locală"]
+    },
+    {
+      "id": "gashikanwa-cities-v2",
+      "description": "Gashikanwa este un oraș din nordul Burundiului, într-o zonă de coline și terenuri cultivate. Aici predomină economia rurală și micile piețe locale.",
+      "facts": ["nordul țării", "zonă de coline", "piețe locale"]
+    },
+    {
+      "id": "busoni-cities-v2",
+      "description": "Busoni este un oraș din nordul Burundiului, în apropierea frontierelor și a zonelor umede. Are o viață locală strâns legată de agricultură și comerț.",
+      "facts": ["nord", "zone umede", "comerț local"]
+    },
+    {
+      "id": "minago-cities-v2",
+      "description": "Minago este o așezare din sudul Burundiului, cu un caracter rural pronunțat. Viața de zi cu zi este legată de terenurile agricole și de drumurile locale.",
+      "facts": ["sudul țării", "rural", "terenuri agricole"]
+    },
+    {
+      "id": "bukirasazi-cities-v2",
+      "description": "Bukirasazi este un oraș din centrul Burundiului, într-un peisaj de coline și sate mici. Este un punct local de administrare și schimb.",
+      "facts": ["centrul țării", "coline", "schimb local"]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "lang": "hu",
+  "country": "Congo",
+  "files": [
+    "lib/visualLab/data/poiExtraCongoHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cg-mbe-historic-site-history-v2",
+      "description": "Mb? a T?k? Kir?lys?g t?rt?nelmi k?zpontja volt. A hely a makok?i hatalomhoz ?s a hagyom?nyos kir?lys?gi szervezethez kapcsol?dik.",
+      "facts": [
+        "T?k? Kir?lys?g k?zpontja",
+        "A Makoko sz?khelye",
+        "Hagyom?nyos hatalmi hely",
+        "T?rt?nelmi eml?khely"
+      ]
+    },
+    {
+      "id": "cg-case-de-gaulle-history-v2",
+      "description": "A Brazzaville-i Case de Gaulle Charles de Gaulle egykori rezidenci?ja volt a m?sodik vil?gh?bor? idej?n. Az ?p?let a v?ros szabadfrancia korszak?nak eml?ke.",
+      "facts": [
+        "De Gaulle rezidenci?ja",
+        "Szabad Franciaorsz?g korszaka",
+        "Brazzaville-ben van",
+        "Gyarmati eml?khely"
+      ]
+    },
+    {
+      "id": "cg-brazzaville-train-station-history-v2",
+      "description": "A Brazzaville-i vas?t?llom?s a t?rt?nelmi Kongo-Oce?n vas?t fontos v?rosi pontja. A f?v?ros ?s az orsz?g bels? r?sze k?z?tti kapcsolatot id?zi.",
+      "facts": [
+        "T?rt?nelmi vas?tvonal",
+        "F?v?rosi ?llom?s",
+        "Bels? kapcsolatok",
+        "K?zleked?si ?r?ks?g"
+      ]
+    },
+    {
+      "id": "cg-boundji-old-mission-history-v2",
+      "description": "A Boundji-i r?gi misszi? a korai kereszt?ny jelenl?t egyik eml?ke ?szak-Kong?ban. Az ?p?let a vall?si ?s oktat?si terjeszked?s korszak?t id?zi.",
+      "facts": [
+        "Korai misszi?s helysz?n",
+        "?szak-kong?i eml?k",
+        "Vall?si ?r?ks?g",
+        "T?rt?nelmi ?p?let"
+      ]
+    },
+    {
+      "id": "cg-lekana-caves-history-v2",
+      "description": "A Lekana-barlangok term?szetes barlangrendszert jelentenek a Plateaux t?rs?gben. A k?pz?dm?ny a helyi k?zetek ?s er?zi? nyomait ?rzi.",
+      "facts": [
+        "Term?szetes barlangok",
+        "Plateaux t?rs?gben",
+        "K?zetek ?s er?zi?",
+        "Geol?giai helysz?n"
+      ]
+    },
+    {
+      "id": "cg-ngouabi-mausoleum-history-v2",
+      "description": "A Ngouabi-mauz?leum Marien Ngouabi eln?k eml?khelye Brazzaville-ben. A hely a modern kong?i t?rt?nelem egyik fontos politikai pontja.",
+      "facts": [
+        "Marien Ngouabi eml?khelye",
+        "Brazzaville-ben van",
+        "Politikai jelent?s?g?",
+        "Nemzeti eml?km?"
+      ]
+    },
+    {
+      "id": "cg-brazzaville-city-hall-history-v2",
+      "description": "A Brazzaville-i v?rosh?za a f?v?ros ?nkorm?nyzati k?zpontja. Az ?p?let a v?rosi igazgat?s mindennapi m?k?d?s?t szolg?lja.",
+      "facts": [
+        "?nkorm?nyzati k?zpont",
+        "F?v?rosi ?p?let",
+        "V?rosi igazgat?s",
+        "Brazzaville-ben tal?lhat?"
+      ]
+    },
+    {
+      "id": "cg-ngabe-historic-site-history-v2",
+      "description": "Ngab? t?rt?nelmi helysz?ne a T?k? m?lt egyik eml?ke a Kong? k?z?ps? r?sz?n. A telep?l?s a hagyom?nyos kir?lyi ?s region?lis eml?kezethez kapcsol?dik.",
+      "facts": [
+        "T?k? ?r?ks?g",
+        "K?z?p-kong?i helysz?n",
+        "Hagyom?nyos eml?k",
+        "T?rt?nelmi telep?l?s"
+      ]
+    },
+    {
+      "id": "cg-fort-rousset-old-fort-history-v2",
+      "description": "A r?gi Fort Rousset egy gyarmati id?szakb?l sz?rmaz? er?dhely a f?v?ros t?rs?g?ben. A katonai ?s igazgat?si m?lt eml?k?t ?rzi.",
+      "facts": [
+        "Gyarmati er?d",
+        "F?v?rosi t?rs?g",
+        "Katonai m?lt",
+        "T?rt?nelmi helysz?n"
+      ]
+    },
+    {
+      "id": "cg-kindamba-old-mission-history-v2",
+      "description": "A Kindamba-i r?gi misszi? a vall?si jelenl?t korai nyoma a Pool t?rs?gben. A hely a r?gi? misszi?s ?s oktat?si m?ltj?t id?zi.",
+      "facts": [
+        "Korai misszi?",
+        "Pool t?rs?gben",
+        "Vall?si m?lt",
+        "T?rt?nelmi eml?k"
+      ]
+    },
+    {
+      "id": "cg-independence-bridge-history-v2",
+      "description": "A F?ggetlens?g h?dja Brazzaville egyik jelk?pes k?z?ti ?tkel?je. A n?v a kong?i ?llamis?g ?s a f?v?ros moderniz?ci?j?nak korszak?ra utal.",
+      "facts": [
+        "Brazzaville-ben",
+        "K?z?ti h?d",
+        "?llamis?gi jelk?p",
+        "Modern v?rosi ?tkel?"
+      ]
+    }
+  ]
+}

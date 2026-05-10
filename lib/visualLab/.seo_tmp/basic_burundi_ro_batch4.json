@@ -1,0 +1,60 @@
+{
+  "lang": "ro",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tanganyika-lake-nature-v2",
+      "description": "Lacul Tanganyika formează granița vestică a Burundiului și este una dintre cele mai importante resurse naturale ale țării. Apa, pescuitul și transportul de pe lac au o influență directă asupra vieții de aici.",
+      "facts": ["granița vestică", "foarte adânc", "pescuit și transport"]
+    },
+    {
+      "id": "ruzizi-river-nature-v2",
+      "description": "Râul Ruzizi leagă zona lacului Kivu de lacul Tanganyika și trece printr-un coridor natural important. Valea lui este folosită pentru irigații și susține zone umede fertile.",
+      "facts": ["între Kivu și Tanganyika", "irigații", "zonă de frontieră"]
+    },
+    {
+      "id": "kibira-forest-nature-v2",
+      "description": "Pădurea Kibira este unul dintre cele mai mari masive forestiere montane din Burundi. Ea protejează izvoarele de apă și adăpostește o biodiversitate bogată.",
+      "facts": ["pădure montană", "izvoare de apă", "parc național"]
+    },
+    {
+      "id": "ruvubu-river-nature-v2",
+      "description": "Râul Ruvubu traversează estul Burundiului și susține peisajele de savană și zonele umede din jur. El este strâns legat de fauna și de parcul național cu același nume.",
+      "facts": ["estul țării", "savană", "parc național"]
+    },
+    {
+      "id": "heha-mountain-nature-v2",
+      "description": "Muntele Heha este cel mai înalt punct din Burundi și domină relieful din vestul central al țării. La altitudine mare, clima este mai rece și peisajul devine mai aspru.",
+      "facts": ["cel mai înalt vârf", "2684 m", "vestul central"]
+    },
+    {
+      "id": "nile-source-nature-v2",
+      "description": "Izvorul Nilului din sud-estul Burundiului este un loc simbolic legat de unul dintre cele mai mari fluvii ale Africii. Situl este marcat ca punct geografic important lângă Rutovu.",
+      "facts": ["lângă Rutovu", "sursă simbolică", "Nilul"]
+    },
+    {
+      "id": "vyanda-forest-nature-v2",
+      "description": "Rezervația forestieră Vyanda este o pădure de protecție din sudul Burundiului. Ea este cunoscută pentru habitatele de primate și pentru terenul ei deluros.",
+      "facts": ["sudul țării", "primate", "pădure protejată"]
+    },
+    {
+      "id": "monge-forest-nature-v2",
+      "description": "Rezervația forestieră Monge este o zonă forestieră mică, dar importantă, din sudul Burundiului. Rolul ei este legat de echilibrul apei și de protecția locală a mediului.",
+      "facts": ["zonă forestieră", "echilibru hidric", "sudul țării"]
+    },
+    {
+      "id": "mukike-mountain-nature-v2",
+      "description": "Muntele Mukike se află la sud-vest de Bujumbura și marchează trecerea spre zonele de altitudine. Este un reper natural vizibil în peisajul colinar din jur.",
+      "facts": ["sud-vest de Bujumbura", "reper natural", "zonă de altitudine"]
+    }
+  ]
+}

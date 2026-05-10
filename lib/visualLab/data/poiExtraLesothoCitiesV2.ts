@@ -18,8 +18,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Lesotho fővárosa", "Határváros Dél-Afrikával"],
       ro: ["Capitala statului Lesotho", "Oraș de frontieră cu Africa de Sud"],
       en: ["Capital of Lesotho", "Border city with South Africa"]
-    }
-  },
+    }, image: "/poi-images/maseru-cities-v2.webp"},
   {
     id: "teyateyaneng-cities-v2",
     type: "city",
@@ -56,8 +55,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Fontos kereskedelmi hely", "Mafeteng körzet központja"],
       ro: ["Loc important de comerț", "Capitala districtului Mafeteng"],
       en: ["Important trading post", "Capital of Mafeteng District"]
-    }
-  },
+    }, image: "/poi-images/mafeteng-cities-v2.webp"},
   {
     id: "hlotse-cities-v2",
     type: "city",
@@ -75,8 +73,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Gyarmati piaci központ", "Leribe körzet központja"],
       ro: ["Centru de piață colonial", "Capitala districtului Leribe"],
       en: ["Colonial market center", "Capital of Leribe District"]
-    }
-  },
+    }, image: "/poi-images/hlotse-cities-v2.webp"},
   {
     id: "mohales-hoek-cities-v2",
     type: "city",
@@ -94,8 +91,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["1884-ben alapították", "Mohale's Hoek körzet központja"],
       ro: ["Fondat în 1884", "Centrul districtului Mohale's Hoek"],
       en: ["Founded in 1884", "Center of Mohale's Hoek District"]
-    }
-  },
+    }, image: "/poi-images/mohales-hoek-cities-v2.webp"},
   {
     id: "maputsoe-cities-v2",
     type: "city",
@@ -113,8 +109,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Ipari központ", "Határváros Ficksburg felé"],
       ro: ["Centru industrial", "Oraș de frontieră către Ficksburg"],
       en: ["Industrial hub", "Border town to Ficksburg"]
-    }
-  },
+    }, image: "/poi-images/maputsoe-cities-v2.webp"},
   {
     id: "quthing-cities-v2",
     type: "city",
@@ -132,8 +127,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Dinoszaurusz nyomok a közelben", "Legdélebbi körzetközpont"],
       ro: ["Urme de dinozauri în apropiere", "Cea mai sudică capitală de district"],
       en: ["Dinosaur tracks nearby", "Southernmost district capital"]
-    }
-  },
+    }, image: "/poi-images/quthing-cities-v2.webp"},
   {
     id: "qachas-nek-cities-v2",
     type: "city",
@@ -151,8 +145,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Hegyvidéki fekvés", "Kapu a Drakensberg-régióhoz"],
       ro: ["Locație montană", "Poarta către regiunea Drakensberg"],
       en: ["Mountainous location", "Gateway to the Drakensberg region"]
-    }
-  },
+    }, image: "/poi-images/qachas-nek-cities-v2.webp"},
   {
     id: "mokhotlong-cities-v2",
     type: "city",
@@ -170,8 +163,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Legmagasabb körzet", "Sani-hágó közelsége"],
       ro: ["Cel mai înalt district", "Aproape de pasul Sani"],
       en: ["Highest district", "Proximity to Sani Pass"]
-    }
-  },
+    }, image: "/poi-images/mokhotlong-cities-v2.webp"},
   {
     id: "butha-buthe-cities-v2",
     type: "city",
@@ -189,8 +181,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["I. Moshoeshoe első székhelye", "Északi kereskedelmi központ"],
       ro: ["Prima reședință a lui Moshoeshoe I", "Centru comercial nordic"],
       en: ["First residence of Moshoeshoe I", "Northern trading center"]
-    }
-  },
+    }, image: "/poi-images/butha-buthe-cities-v2.webp"},
   {
     id: "thaba-tseka-cities-v2",
     type: "city",
@@ -208,8 +199,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Legfiatalabb körzetközpont", "A hegyek szívében"],
       ro: ["Cea mai modernă capitală de district", "În inima munților"],
       en: ["Youngest district capital", "In the heart of the mountains"]
-    }
-  },
+    }, image: "/poi-images/thaba-tseka-cities-v2.webp"},
   {
     id: "roma-cities-v2",
     type: "city",
@@ -227,8 +217,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["A Nemzeti Egyetem székhelye", "Katolikus missziós központ"],
       ro: ["Sediul Universității Naționale", "Centru de misiune catolică"],
       en: ["Home of National University", "Catholic mission center"]
-    }
-  },
+    }, image: "/poi-images/roma-cities-v2.webp"},
   {
     id: "morija-cities-v2",
     type: "city",
@@ -246,8 +235,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Kulturális központ", "Az első missziós állomás"],
       ro: ["Centru cultural", "Prima stație de misiune"],
       en: ["Cultural hub", "First mission station"]
-    }
-  },
+    }, image: "/poi-images/morija-cities-v2.webp"},
   {
     id: "semonkong-cities-v2",
     type: "city",
@@ -265,8 +253,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Vízesés közelsége", "Turisztikai központ"],
       ro: ["Aproape de cascadă", "Centru turistic"],
       en: ["Near Maletsunyane Falls", "Tourism center"]
-    }
-  },
+    }, image: "/poi-images/semonkong-cities-v2.webp"},
   {
     id: "mazenod-cities-v2",
     type: "city",
@@ -284,8 +271,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Nemzetközi repülőtér", "Nyomdaipari központ"],
       ro: ["Aeroport internațional", "Centru tipografic"],
       en: ["International airport", "Printing center"]
-    }
-  },
+    }, image: "/poi-images/mazenod-cities-v2.webp"},
   {
     id: "matsieng-cities-v2",
     type: "city",
@@ -303,8 +289,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Királyi rezidencia", "Hagyományos központ"],
       ro: ["Reședința regală", "Centru tradițional"],
       en: ["Royal residence", "Traditional center"]
-    }
-  },
+    }, image: "/poi-images/matsieng-cities-v2.webp"},
   {
     id: "mapoteng-cities-v2",
     type: "city",
@@ -341,8 +326,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Határmenti régió", "Iskolai központ"],
       ro: ["Regiune de frontieră", "Centru școlar"],
       en: ["Border region", "Educational center"]
-    }
-  },
+    }, image: "/poi-images/peka-cities-v2.webp"},
   {
     id: "tsakholo-cities-v2",
     type: "city",
@@ -360,8 +344,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Tsakholo-tó", "Vidéki közösség"],
       ro: ["Lacul Tsakholo", "Comunitate rurală"],
       en: ["Lake Tsakholo", "Rural community"]
-    }
-  },
+    }, image: "/poi-images/tsakholo-cities-v2.webp"},
   {
     id: "makhonoane-cities-v2",
     type: "city",
@@ -398,8 +381,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Butha-Buthe elővárosa", "Regionális központ"],
       ro: ["Suburbie a Butha-Buthe", "Centru regional"],
       en: ["Suburb of Butha-Buthe", "Regional center"]
-    }
-  },
+    }, image: "/poi-images/motiti-cities-v2.webp"},
   {
     id: "phamong-cities-v2",
     type: "city",
@@ -455,8 +437,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Állattenyésztési központ", "Hegyi éghajlat"],
       ro: ["Centru zootehnic", "Climat montan"],
       en: ["Livestock center", "Highland climate"]
-    }
-  },
+    }, image: "/poi-images/mphaki-cities-v2.webp"},
   {
     id: "sekake-cities-v2",
     type: "city",
@@ -474,8 +455,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Közlekedési csomópont", "Hegyvidék"],
       ro: ["Nod de transport", "Regiune montană"],
       en: ["Transport hub", "Mountain region"]
-    }
-  },
+    }, image: "/poi-images/sekake-cities-v2.webp"},
   {
     id: "sehlabathebe-cities-v2",
     type: "city",
@@ -493,8 +473,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Nemzeti Park közelsége", "UNESCO világörökség"],
       ro: ["Aproape de Parcul Național", "Patrimoniu UNESCO"],
       en: ["Near National Park", "UNESCO World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/sehlabathebe-cities-v2.webp"},
   {
     id: "ha-lejone-cities-v2",
     type: "city",
@@ -512,8 +491,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Katse-víztározó", "Horgászhely"],
       ro: ["Lacul Katse", "Loc de pescuit"],
       en: ["Katse Reservoir", "Fishing spot"]
-    }
-  },
+    }, image: "/poi-images/ha-lejone-cities-v2.webp"},
   {
     id: "katse-cities-v2",
     type: "city",
@@ -531,8 +509,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Katse-gát", "Vízügyi projekt"],
       ro: ["Barajul Katse", "Proiect de apă"],
       en: ["Katse Dam", "Water project"]
-    }
-  },
+    }, image: "/poi-images/katse-cities-v2.webp"},
   {
     id: "thaba-bosiu-cities-v2",
     type: "city",
@@ -550,8 +527,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Nemzeti műemlék", "Szent hegy"],
       ro: ["Monument național", "Munte sfânt"],
       en: ["National monument", "Sacred mountain"]
-    }
-  },
+    }, image: "/poi-images/thaba-bosiu-cities-v2.webp"},
   {
     id: "saint-michaels-cities-v2",
     type: "city",
@@ -569,8 +545,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Missziós állomás", "Roma közelsége"],
       ro: ["Stație de misiune", "Aproape de Roma"],
       en: ["Mission station", "Near Roma"]
-    }
-  },
+    }, image: "/poi-images/saint-michaels-cities-v2.webp"},
   {
     id: "khabos-cities-v2",
     type: "city",
@@ -588,8 +563,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Mezőgazdaság", "Leribe körzet"],
       ro: ["Agricultură", "Districtul Leribe"],
       en: ["Agriculture", "Leribe District"]
-    }
-  },
+    }, image: "/poi-images/khabos-cities-v2.webp"},
   {
     id: "maphutseng-cities-v2",
     type: "city",
@@ -607,8 +581,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Vidéki központ", "Dél-Lesotho"],
       ro: ["Centru rural", "Sudul Lesotho"],
       en: ["Rural center", "Southern Lesotho"]
-    }
-  },
+    }, image: "/poi-images/maphutseng-cities-v2.webp"},
   {
     id: "alwynskop-cities-v2",
     type: "city",
@@ -645,8 +618,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Gyémántbánya", "Extrém magasság"],
       ro: ["Mină de diamante", "Altitudine extremă"],
       en: ["Diamond mine", "Extremely high altitude"]
-    }
-  },
+    }, image: "/poi-images/letseng-la-terae-cities-v2.webp"},
   {
     id: "mantsonyane-cities-v2",
     type: "city",
@@ -664,8 +636,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Hegyi település", "Thaba-Tseka körzet"],
       ro: ["Localitate montană", "Districtul Thaba-Tseka"],
       en: ["Highland town", "Thaba-Tseka District"]
-    }
-  },
+    }, image: "/poi-images/mantsonyane-cities-v2.webp"},
   {
     id: "ha-ntsi-cities-v2",
     type: "city",
@@ -683,8 +654,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Maloti-hegység", "Szép táj"],
       ro: ["Munții Maloti", "Peisaj frumos"],
       en: ["Maloti Mountains", "Scenic landscape"]
-    }
-  },
+    }, image: "/poi-images/ha-ntsi-cities-v2.webp"},
   {
     id: "ha-baroana-cities-v2",
     type: "city",
@@ -702,8 +672,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Sziklarajzok", "Történelmi hely"],
       ro: ["Picturi rupestre", "Situl istoric"],
       en: ["Rock paintings", "Historical site"]
-    }
-  },
+    }, image: "/poi-images/ha-baroana-cities-v2.webp"},
   {
     id: "ha-moitsupeli-cities-v2",
     type: "city",
@@ -721,8 +690,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Hagyományos falu", "Maseru régió"],
       ro: ["Sat tradițional", "Regiunea Maseru"],
       en: ["Traditional village", "Maseru region"]
-    }
-  },
+    }, image: "/poi-images/ha-moitsupeli-cities-v2.webp"},
   {
     id: "molimo-nthuse-cities-v2",
     type: "city",
@@ -778,8 +746,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Barlanglakások", "Kulturális örökség"],
       ro: ["Case în peșteri", "Patrimoniu cultural"],
       en: ["Cave dwellings", "Cultural heritage"]
-    }
-  },
+    }, image: "/poi-images/ha-kome-cities-v2.webp"},
   {
     id: "ha-belo-cities-v2",
     type: "city",
@@ -797,8 +764,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Butha-Buthe régió", "Vidéki település"],
       ro: ["Regiunea Butha-Buthe", "Așezare rurală"],
       en: ["Butha-Buthe region", "Rural settlement"]
-    }
-  },
+    }, image: "/poi-images/ha-belo-cities-v2.webp"},
   {
     id: "likalaneng-cities-v2",
     type: "city",
@@ -816,8 +782,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Hegyi út", "Maseru körzet"],
       ro: ["Drum montan", "Districtul Maseru"],
       en: ["Mountain road", "Maseru District"]
-    }
-  },
+    }, image: "/poi-images/likalaneng-cities-v2.webp"},
   {
     id: "maphutsaneng-cities-v2",
     type: "city",
@@ -854,8 +819,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Határmenti falu", "Tele-folyó"],
       ro: ["Localitate de frontieră", "Râul Tele"],
       en: ["Border town", "Tele River"]
-    }
-  },
+    }, image: "/poi-images/tele-cities-v2.webp"},
   {
     id: "ha-mpiti-cities-v2",
     type: "city",
@@ -873,8 +837,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Qacha's Nek régió", "Hegyi fekvés"],
       ro: ["Regiunea Qacha's Nek", "Locație montană"],
       en: ["Qacha's Nek region", "Mountain location"]
-    }
-  },
+    }, image: "/poi-images/ha-mpiti-cities-v2.webp"},
   {
     id: "ha-sekake-cities-v2",
     type: "city",
@@ -911,8 +874,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Közép-Lesotho", "Távoli"],
       ro: ["Centrul Lesotho", "Izolat"],
       en: ["Central Lesotho", "Remote"]
-    }
-  },
+    }, image: "/poi-images/ha-rafanyane-cities-v2.webp"},
   {
     id: "mashai-cities-v2",
     type: "city",
@@ -930,8 +892,7 @@ export const poiExtraLesothoCitiesV2: POI[] = [
       hu: ["Mashai-fennsík", "Felföld"],
       ro: ["Platoul Mashai", "Podiș"],
       en: ["Mashai Plateau", "Highlands"]
-    }
-  },
+    }, image: "/poi-images/mashai-cities-v2.webp"},
   {
     id: "linakaneng-cities-v2",
     type: "city",

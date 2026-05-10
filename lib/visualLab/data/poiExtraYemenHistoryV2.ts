@@ -18,8 +18,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A 16. században nagyrészt újjáépítették egy pusztító árvíz után.", "A városban mintegy 500 történelmi vályogtoronyház található."],
       ro: ["A fost reconstruită în mare parte în secolul al XVI-lea după o inundație devastatoare.", "Orașul găzduiește aproximativ 500 dintre acești zgârie-nori istorici din lut."],
       en: ["It was largely rebuilt in the 16th century following a devastating flood.", "The city is home to around 500 of these historic mud-brick high-rises."]
-    }
-  },
+    }, image: "/poi-images/shibam-old-city-history-v2.webp"},
   {
     id: "awam-temple-history-v2",
     type: "ruin",
@@ -37,8 +36,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A templom több mint egy évezreden át zarándokhelyként működött.", "Ovális külső fala több mint 13 méter magas és 300 méter hosszú."],
       ro: ["Templul a fost un centru de pelerinaj pentru mai bine de un mileniu.", "Zidul său exterior oval are peste 13 metri înălțime și o lungime de 300 de metri."],
       en: ["The temple was a pilgrimage center for over a millennium.", "Its oval exterior wall stands over 13 meters high and is 300 meters long."]
-    }
-  },
+    }, image: "/poi-images/awam-temple-history-v2.webp"},
   {
     id: "marib-dam-ruins-history-v2",
     type: "ruin",
@@ -56,8 +54,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A gát mintegy 600 méter hosszú volt, döngölt földből és kőből épült.", "A monumentális kő zsiliprendszerek a mai napig fennmaradtak."],
       ro: ["Barajul avea o lungime de aproximativ 600 de metri și era din pământ bătătorit și piatră.", "Ecluzele monumentale din piatră s-au păstrat până în zilele noastre."],
       en: ["The dam was about 600 meters long, built from compacted earth and stone.", "The monumental stone sluice structures have survived to this day."]
-    }
-  },
+    }, image: "/poi-images/marib-dam-ruins-history-v2.webp"},
   {
     id: "barran-temple-history-v2",
     type: "ruin",
@@ -75,8 +72,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A templomot a Német Régészeti Intézet tárta fel 1997 és 2000 között.", "Ezt a szentélyt is Almaqah sábai istennek szentelték."],
       ro: ["Templul a fost excavat între 1997 și 2000 de Institutul Arheologic German.", "A fost dedicat, de asemenea, zeului sabaean Almaqah."],
       en: ["The temple was excavated between 1997 and 2000 by the German Archaeological Institute.", "It was also dedicated to the Sabaean god Almaqah."]
-    }
-  },
+    }, image: "/poi-images/barran-temple-history-v2.webp"},
   {
     id: "sirwah-ruins-history-v2",
     type: "ruin",
@@ -94,8 +90,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A nagy szirvai Almakah-templomot masszív erődítmény vette körül.", "Itt található Karibil Vatar híres győzelmi felirata."],
       ro: ["Marele templu Almaqah din Sirwah era înconjurat de un zid masiv de apărare.", "Faimoasa inscripție a victoriei lui Karibil Watar se află aici."],
       en: ["The great Almaqah Temple of Sirwah was surrounded by a massive defensive wall.", "The famous victory inscription of Karibil Watar is located here."]
-    }
-  },
+    }, image: "/poi-images/sirwah-ruins-history-v2.webp"},
   {
     id: "dar-al-hajar-history-v2",
     type: "monument",
@@ -113,8 +108,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A palota építészeti remekmű, díszes ablakdíszekkel.", "Az épület öt emeleten keresztül emelkedik a sziklán."],
       ro: ["Palatul este o capodoperă arhitecturală cu decorațiuni rafinate ale ferestrelor.", "Complexul se întinde pe cinci etaje pe stâncă."],
       en: ["The palace is an architectural masterpiece with elaborate window decorations.", "The structure spans five floors atop the rock."]
-    }
-  },
+    }, image: "/poi-images/dar-al-hajar-history-v2.webp"},
   {
     id: "thula-old-city-history-v2",
     type: "historical-site",
@@ -132,8 +126,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["Az építészet egészen a himjarita korig nyúlik vissza.", "A város nagyrészt megmenekült a régió háborús pusztításaitól."],
       ro: ["Arhitectura sa datează din perioada himyarită.", "Orașul a fost în mare parte cruțat de distrugerile războaielor din regiune."],
       en: ["Its architecture dates back to the Himyarite period.", "The city was largely spared from the martial destruction in the region."]
-    }
-  },
+    }, image: "/poi-images/thula-old-city-history-v2.webp"},
   {
     id: "kawkaban-fortress-history-v2",
     type: "historical-site",
@@ -151,8 +144,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A város híres mély, sziklába vájt ciszternáiról.", "Egy meredek, kikövezett gyalogút köti össze Kawkabant az alacsonyabban fekvő Shibam Kawkaban várossal."],
       ro: ["Orașul este renumit pentru cisternele sale adânci săpate în stâncă.", "O potecă abruptă și pietruită leagă Kawkaban de orașul Shibam Kawkaban, situat mai jos."],
       en: ["The city is famous for its deep cisterns carved into the rock.", "A steep, paved footpath connects Kawkaban with the lower-lying town of Shibam Kawkaban."]
-    }
-  },
+    }, image: "/poi-images/kawkaban-fortress-history-v2.webp"},
   {
     id: "hababa-cistern-history-v2",
     type: "historical-site",
@@ -170,8 +162,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A ciszterna összegyűjti az esővizet, hogy áthidalják a száraz időszakokat.", "A tükröződő vízfelület a jemeni hegyvidéki építészet népszerű fotótémája."],
       ro: ["Cisterna colectează apa de ploaie pentru a supraviețui perioadelor de secetă.", "Suprafața reflectorizantă a apei oferă un motiv foto popular pentru arhitectura munților din Yemen."],
       en: ["The cistern collects rainwater to bridge the dry seasons.", "The reflective water surface offers a popular photographic motif of Yemeni highland architecture."]
-    }
-  },
+    }, image: "/poi-images/hababa-cistern-history-v2.webp"},
   {
     id: "al-qahira-castle-history-v2",
     type: "historical-site",
@@ -189,8 +180,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["Az erődrendszer több védelmi gyűrűre oszlik.", "Eredete az iszlám előtti időkbe nyúlik vissza."],
       ro: ["Sistemul de fortificație este împărțit în mai multe inele de apărare.", "Originile sale datează din vremurile pre-islamice."],
       en: ["The fortification system is divided into multiple defensive rings.", "Its origins date back to pre-Islamic times."]
-    }
-  },
+    }, image: "/poi-images/al-qahira-castle-history-v2.webp"},
   {
     id: "shaharah-bridge-history-v2",
     type: "monument",
@@ -227,8 +217,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["Az építkezés során az ősi Ghumdan palotából származó oszlopokat és építőanyagokat használtak fel.", "1972-ben itt fedezték fel a szanai kéziratokat, a világ legősibb Korán-töredékeit."],
       ro: ["La construcție au fost folosite materiale și coloane din vechiul palat Ghumdan.", "În 1972, aici au fost descoperite Manuscrisele de la Sana'a, printre cele mai vechi fragmente din Coran din lume."],
       en: ["Spolia, including columns from the ancient Ghumdan Palace, were used in its construction.", "In 1972, the Sanaa manuscripts, some of the oldest Quranic fragments in the world, were discovered here."]
-    }
-  },
+    }, image: "/poi-images/great-mosque-sanaa-history-v2.webp"},
   {
     id: "sira-fortress-history-v2",
     type: "historical-site",
@@ -246,8 +235,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["Az erőd ellenállt a portugál és az oszmán flotta támadásainak.", "A csúcsról kiváló kilátás nyílik az ádeni kráterre."],
       ro: ["Fortăreața a rezistat atacurilor flotelor portugheze și otomane.", "De sus există o vedere excelentă a craterului din Aden."],
       en: ["The fortress withstood attacks by Portuguese and Ottoman fleets.", "From the top, there is an excellent view of the crater of Aden."]
-    }
-  },
+    }, image: "/poi-images/sira-fortress-history-v2.webp"},
   {
     id: "bait-baws-history-v2",
     type: "historical-site",
@@ -265,8 +253,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A masszív kőházak látszólag zökkenőmentesen nőnek ki az alapkőzetből.", "A falunak saját zsinagógája és ősi öntözőrendszere volt."],
       ro: ["Casele masive de piatră par să crească perfect din roca de bază.", "Satul avea propria sinagogă și sisteme antice de irigații."],
       en: ["The massive stone houses seem to grow seamlessly out of the bedrock.", "The village had its own synagogue and ancient irrigation systems."]
-    }
-  },
+    }, image: "/poi-images/bait-baws-history-v2.webp"},
   {
     id: "husn-al-urr-history-v2",
     type: "ruin",
@@ -284,8 +271,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["Az erőd felügyelte és ellenőrizte a völgy egyik fontos kereskedelmi útvonalát.", "Kora ellenére a vastag vályog- és kőfalak nagy része még mindig kivehető."],
       ro: ["Fortăreața supraveghea și controla o rută comercială importantă în vale.", "În ciuda vechimii sale, mulți dintre pereții groși de lut și piatră sunt încă vizibili."],
       en: ["The fortress overlooked and controlled an important trade route in the valley.", "Despite its age, many of the thick mud and stone walls are still recognizable."]
-    }
-  },
+    }, image: "/poi-images/husn-al-urr-history-v2.webp"},
   {
     id: "tawila-cisterns-history-v2",
     type: "monument",
@@ -303,8 +289,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["Pontos eredetük ismeretlen, de valószínűleg a Kr. e. 1. századra nyúlnak vissza.", "A rendszer egykor több mint 50 ciszternát tartalmazott, amelyekből 18-at felújítottak."],
       ro: ["Timpul exact al originii lor este necunoscut, dar datează probabil din secolul I î.Hr.", "Sistemul a inclus cândva peste 50 de cisterne, dintre care 18 au fost restaurate."],
       en: ["Their exact time of origin is unknown, but they likely date back to the 1st century BC.", "The system once included over 50 cisterns, 18 of which have been restored."]
-    }
-  },
+    }, image: "/poi-images/tawila-cisterns-history-v2.webp"},
   {
     id: "al-ashrafiya-mosque-history-v2",
     type: "monument",
@@ -322,8 +307,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A 14. században épült Al-Asraf Iszmáíl szultán uralkodása alatt.", "Az imaterem híres színpompás freskóiról és stukkóiról."],
       ro: ["A fost construită în secolul al XIV-lea sub domnia sultanului Al-Ashraf Ismail.", "Sala de rugăciune este renumită pentru frescele sale colorate și lucrările din stuc."],
       en: ["It was built in the 14th century under the rule of Sultan Al-Ashraf Ismail.", "The prayer hall is famous for its colorful frescoes and stucco work."]
-    }
-  },
+    }, image: "/poi-images/al-ashrafiya-mosque-history-v2.webp"},
   {
     id: "al-hajjarah-fortress-history-v2",
     type: "historical-site",
@@ -341,8 +325,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["A házakat közvetlenül a hegy sziklatömbjeiből építették.", "A falu fontos előőrsként szolgált a helyi kávéültetvények védelmében."],
       ro: ["Casele au fost construite direct din blocurile de piatră ale muntelui.", "Satul a servit ca un avanpost important pentru apărarea plantațiilor locale de cafea."],
       en: ["The houses were built directly from the rock boulders of the mountain.", "The village served as an important outpost to defend the local coffee plantations."]
-    }
-  },
+    }, image: "/poi-images/al-hajjarah-fortress-history-v2.webp"},
   {
     id: "baraqish-ruins-history-v2",
     type: "ruin",
@@ -360,8 +343,7 @@ export const poiExtraYemenHistoryV2: POI[] = [
       hu: ["Barakish fontos központ volt a tömjénúton.", "A városközpontban még mindig állnak ősi templomok maradványai minószi feliratokkal."],
       ro: ["Baraqish a fost un centru important pe Drumul Tămâiei.", "În centrul orașului încă mai stau rămășițele templelor antice cu inscripții mineene."],
       en: ["Baraqish was an important center on the Incense Route.", "In the center of the city still stand the remains of ancient temples with Minaean inscriptions."]
-    }
-  },
+    }, image: "/poi-images/baraqish-ruins-history-v2.webp"},
   {
     id: "queen-arwa-palace-history-v2",
     type: "historical-site",

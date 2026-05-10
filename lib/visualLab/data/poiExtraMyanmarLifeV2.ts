@@ -13,8 +13,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["Népszerű hely a naplementekor tett sétákhoz.", "Itt található a lenyűgöző Karaweik-palota a tavon.", "Fából készült sétánnyal rendelkezik a víz mentén.", "Több száz éves fák veszik körül."],
       ro: ["Loc popular pentru plimbări la apus.", "Găzduiește impresionantul Palat Karaweik pe lac.", "Are o pasarelă din lemn de-a lungul apei.", "Este înconjurat de copaci seculari."],
       en: ["Popular spot for sunset walks.", "Home to the impressive Karaweik Palace on the lake.", "Features a wooden boardwalk along the water.", "Surrounded by centuries-old trees."]
-    }
-  },
+    }, image: "/poi-images/kandawgyi-park-life-v2.webp"},
   {
     id: "yangon-zoo-life-v2",
     type: "kid-friendly",
@@ -27,8 +26,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["1906-ban nyílt meg a brit gyarmati időszakban.", "Ritka fehér tigriseknek és ázsiai elefántoknak ad otthont.", "Egy természettudományi múzeumot is magában foglal.", "Népszerű hétvégi kirándulóhely a családok számára."],
       ro: ["A fost deschisă în 1906, în timpul perioadei coloniale britanice.", "Găzduiește tigri albi rari și elefanți asiatici.", "Include un muzeu de istorie naturală.", "O destinație populară pentru familii în weekend."],
       en: ["Opened in 1906 during the British colonial period.", "Home to rare white tigers and Asian elephants.", "Includes a museum of natural history.", "A popular weekend destination for families."]
-    }
-  },
+    }, image: "/poi-images/yangon-zoo-life-v2.webp"},
   {
     id: "kandawgyi-botanical-life-v2",
     type: "park",
@@ -41,8 +39,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["Egy brit botanikus alapította 1915-ben.", "Több mint 480 virágfajnak és számos fafajnak ad otthont.", "Tartalmaz egy külön orchideakertet és egy lepkemúzeumot.", "Fontos botanikai kutatóközpontként működik Mianmarban."],
       ro: ["A fost fondată în 1915 de un botanist britanic.", "Găzduiește peste 480 de specii de flori și numeroase specii de copaci.", "Include o grădină specială de orhidee și un muzeu al fluturilor.", "Servește drept centru important de cercetare botanică în Myanmar."],
       en: ["Founded in 1915 by a British botanist.", "Home to over 480 species of flowers and numerous tree species.", "Includes a dedicated orchid garden and a butterfly museum.", "Serves as an important botanical research center in Myanmar."]
-    }
-  },
+    }, image: "/poi-images/kandawgyi-botanical-life-v2.webp"},
   {
     id: "aythaya-vineyard-life-v2",
     type: "agriculture",
@@ -55,8 +52,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["Egy német vállalkozó alapította 1999-ben.", "Több mint 1200 méteres magasságban található.", "Sauvignon Blanc és Shiraz házasításokat készítenek.", "Borkóstolókat kínál kilátással a környező völgyekre."],
       ro: ["Fondată în 1999 de un antreprenor german.", "Situată la o altitudine de peste 1.200 de metri.", "Produce amestecuri de Sauvignon Blanc și Shiraz.", "Oferă degustări de vinuri cu vedere la văile înconjurătoare."],
       en: ["Founded in 1999 by a German entrepreneur.", "Located at an altitude of over 1,200 meters.", "Produces Sauvignon Blanc and Shiraz blends.", "Offers wine tastings with views of the surrounding valleys."]
-    }
-  },
+    }, image: "/poi-images/aythaya-vineyard-life-v2.webp"},
   {
     id: "red-mountain-estate-life-v2",
     type: "agriculture",
@@ -69,8 +65,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["A szőlőtőkéket Spanyolországból és Franciaországból importálták.", "Népszerű turisztikai célpont a naplemente megtekintésére.", "Díjnyertes Pinot Noir és Shiraz borokat készítenek.", "A régió hűvös éjszakái ideálisak a szőlőtermesztéshez."],
       ro: ["Viile au fost importate din Spania și Franța.", "Destinație populară pentru turiști pentru a privi apusul.", "Produce vinuri premiate Pinot Noir și Shiraz.", "Nopțile răcoroase din regiune sunt ideale pentru viticultură."],
       en: ["The grapevines were imported from Spain and France.", "Popular destination for tourists to watch the sunset.", "Produces award-winning Pinot Noir and Shiraz wines.", "The region's cool nights are ideal for wine growing."]
-    }
-  },
+    }, image: "/poi-images/red-mountain-estate-life-v2.webp"},
   {
     id: "peoples-square-park-life-v2",
     type: "park",
@@ -83,8 +78,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["Több mint 130 hektáros területen fekszik.", "Egy nemzeti egységet jelképező emlékművel is rendelkezik.", "Népszerű helyszín piknikekhez és szabadtéri koncertekhez.", "A park korábban a brit kormányzó birtokának része volt."],
       ro: ["Se întinde pe o suprafață de peste 130 de hectare.", "Are un monument care comemorează unitatea națională.", "Loc popular pentru picnicuri și concerte în aer liber.", "Parcul a făcut parte anterior din domeniul guvernatorului britanic."],
       en: ["Covers an area of more than 130 acres.", "Features a monument commemorating national unity.", "Popular spot for picnics and outdoor concerts.", "The park was formerly part of the British Governor's estate."]
-    }
-  },
+    }, image: "/poi-images/peoples-square-park-life-v2.webp"},
   {
     id: "mahabandoola-park-life-v2",
     type: "park",
@@ -97,8 +91,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["Maha Bandula tábornokról, egy 19. századi nemzeti hősről nevezték el.", "A park közepén Mianmar függetlenségi emlékműve áll.", "A függetlenség előtt Fytche Square néven ismerték.", "A helyiek és az utcai árusok központi találkozóhelye."],
       ro: ["Numit după generalul Maha Bandula, un erou național din secolul al XIX-lea.", "În centrul parcului se află Monumentul Independenței din Myanmar.", "Înainte de independență a fost cunoscut sub numele de Piața Fytche.", "Un punct central de întâlnire pentru localnici și vânzătorii ambulanți."],
       en: ["Named after General Maha Bandula, a 19th-century national hero.", "The center of the park features Myanmar's Independence Monument.", "Before independence, it was known as Fytche Square.", "A central gathering point for locals and street vendors."]
-    }
-  },
+    }, image: "/poi-images/mahabandoola-park-life-v2.webp"},
   {
     id: "shwesettaw-wildlife-life-v2",
     type: "wildlife-area",
@@ -111,8 +104,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["Az endemikus Eld-szarvas (Thamin) populációt is védi.", "Főként száraz lombhullató erdőkből áll.", "Egy közeli híres buddhista pagodáról kapta a nevét.", "A teknősök sikeres tenyésztési programjainak központja."],
       ro: ["Protejează, de asemenea, populația endemică de cerbi Eld (Thamin).", "Se compune în principal din păduri uscate de foioase.", "Este numit după o faimoasă pagodă budistă din apropiere.", "Un centru pentru programe de succes de reproducere a broaștelor țestoase."],
       en: ["Also protects the endemic Eld's deer (Thamin) population.", "Consists mainly of dry deciduous forests.", "Is named after a nearby famous Buddhist pagoda.", "A center for successful tortoise captive breeding programs."]
-    }
-  },
+    }, image: "/poi-images/shwesettaw-wildlife-life-v2.webp"},
   {
     id: "meinmahla-kyun-life-v2",
     type: "wildlife-area",
@@ -125,8 +117,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["A bordás krokodil egyik utolsó természetes élőhelye Mianmarban.", "A rezervátum a tengeri teknősök fontos fészkelőhelye is.", "Az ország egyik legnagyobb megmaradt mangrove-területét foglalja magában.", "Segít megvédeni a partvonalat a trópusi viharoktól."],
       ro: ["Unul dintre ultimele habitate naturale ale crocodilului de apă sărată din Myanmar.", "Rezervația este, de asemenea, un loc important de cuibărit pentru țestoasele marine.", "Include una dintre cele mai mari suprafețe rămase de mangrove din țară.", "Ajută la protejarea coastei împotriva furtunilor tropicale."],
       en: ["One of the last natural habitats of the saltwater crocodile in Myanmar.", "The sanctuary is also an important nesting site for sea turtles.", "Comprises one of the largest remaining mangrove areas in the country.", "Helps protect the coastline from tropical storms."]
-    }
-  },
+    }, image: "/poi-images/meinmahla-kyun-life-v2.webp"},
   {
     id: "chatthin-wildlife-life-v2",
     type: "wildlife-area",
@@ -139,8 +130,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["1941-ben alapították az ország egyik legrégebbi rezervátumaként.", "A tájat nyitott cserjés erdők jellemzik.", "A szarvasok mellett leopárdok és vadkutyák is élnek itt.", "Fontos ökológiai kutatási helyszín Mianmarban."],
       ro: ["A fost fondată în 1941, fiind una dintre cele mai vechi rezervații din țară.", "Peisajul este dominat de păduri deschise de tufișuri.", "Pe lângă cerbi, aici trăiesc și leoparzi și câini sălbatici.", "Un loc important pentru cercetarea ecologică în Myanmar."],
       en: ["Founded in 1941 as one of the oldest reserves in the country.", "The landscape is characterized by open scrub forests.", "Besides deer, leopards and wild dogs also live here.", "An important site for ecological research in Myanmar."]
-    }
-  },
+    }, image: "/poi-images/chatthin-wildlife-life-v2.webp"},
   {
     id: "naypyidaw-zoo-life-v2",
     type: "kid-friendly",
@@ -153,8 +143,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["2008-ban nyitott meg, a főváros áthelyezése után.", "Sok állatot a régi ranguni állatkertből hoztak ide.", "Egy nagy, légkondicionált pingvinházzal rendelkezik.", "Mintegy 250 hektáros területen fekszik."],
       ro: ["S-a deschis în 2008, după mutarea capitalei.", "Multe animale au fost aduse aici de la vechea grădină zoologică din Yangon.", "Deține o mare casă pentru pinguini, dotată cu aer condiționat.", "Se întinde pe o suprafață de aproximativ 250 de hectare."],
       en: ["Opened in 2008 following the relocation of the capital.", "Many animals were moved here from the old zoo in Yangon.", "Features a large, air-conditioned penguin house.", "Covers an area of about 600 acres."]
-    }
-  },
+    }, image: "/poi-images/naypyidaw-zoo-life-v2.webp"},
   {
     id: "naypyidaw-safari-life-v2",
     type: "wildlife-area",
@@ -167,8 +156,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["A park három különböző kontinentális zónára van felosztva.", "A látogatók testközelből tapasztalhatják meg az afrikai oroszlánokat és zebrákat.", "Az utazás a különleges szafari kocsikkal körülbelül egy órát vesz igénybe.", "Röviddel a szomszédos állatkert után, 2011-ben nyílt meg."],
       ro: ["Parcul este împărțit în trei zone continentale diferite.", "Vizitatorii pot experimenta de aproape lei și zebre africane.", "Plimbarea cu vehiculele speciale de safari durează aproximativ o oră.", "A fost deschis la scurt timp după grădina zoologică adiacentă, în 2011."],
       en: ["The park is divided into three different continental zones.", "Visitors can experience African lions and zebras up close.", "The ride on the special safari buggies takes about an hour.", "Opened shortly after the adjacent zoo in 2011."]
-    }
-  },
+    }, image: "/poi-images/naypyidaw-safari-life-v2.webp"},
   {
     id: "naypyidaw-water-fountain-life-v2",
     type: "park",
@@ -181,8 +169,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["Egy nagy tóval rendelkezik, amelyen egy 90 méter magas főkút található.", "Hétvégente esti fény- és zenei műsorokat kínál.", "Népszerű hely a családok és a fiatal párok körében.", "Játszótereket és függőhidakat is magában foglal."],
       ro: ["Are un lac mare cu o fântână principală de 90 de metri înălțime.", "Oferă spectacole de lumini și muzică seara la sfârșit de săptămână.", "Un loc popular pentru familii și cupluri tinere.", "Include, de asemenea, locuri de joacă și poduri suspendate."],
       en: ["Features a large lake with a 90-meter high main fountain.", "Offers evening light and music shows on weekends.", "A popular spot for families and young couples.", "Also includes playgrounds and suspension bridges."]
-    }
-  },
+    }, image: "/poi-images/naypyidaw-water-fountain-life-v2.webp"},
   {
     id: "national-herbal-park-life-v2",
     type: "park",
@@ -195,8 +182,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["A hagyományos burmai orvosi ismeretek megőrzése érdekében hozták létre.", "Több mint 20 000 növényt tárol több mint 700 fajból.", "A növényeket gyógyászati tulajdonságaik szerint rendszerezték.", "A hagyományos gyógyítók képzési központjaként is szolgál."],
       ro: ["A fost creat pentru a păstra cunoștințele medicale tradiționale birmaneze.", "Găzduiește peste 20.000 de plante din peste 700 de specii.", "Plantele sunt aranjate sistematic conform proprietăților lor medicinale.", "Servește și ca centru de pregătire pentru vindecătorii tradiționali."],
       en: ["Created to preserve traditional Burmese medical knowledge.", "Houses over 20,000 plants from more than 700 species.", "The plants are systematically arranged according to their medicinal properties.", "Also serves as a training center for traditional healers."]
-    }
-  },
+    }, image: "/poi-images/national-herbal-park-life-v2.webp"},
   {
     id: "green-hill-valley-life-v2",
     type: "wildlife-area",
@@ -209,8 +195,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["A látogatók etethetik és fürdethetik az elefántokat, ahelyett, hogy lovagolnának rajtuk.", "A tábor aktív erdő-újratelepítési programokat is végez.", "Egy helyi család alapította az állatvédelem előmozdítása érdekében.", "Egy állatorvos a nap 24 órájában jelen van az állatok számára."],
       ro: ["Vizitatorii pot hrăni și spăla elefanții, în loc să-i călărească.", "Tabăra desfășoară și programe active de reîmpădurire.", "A fost fondată de o familie locală pentru a promova protecția animalelor.", "Un medic veterinar este prezent nonstop pentru animale."],
       en: ["Visitors can feed and bathe elephants instead of riding them.", "The camp also conducts active reforestation programs.", "It was founded by a local family to promote animal welfare.", "A veterinarian is on-site 24/7 to care for the animals."]
-    }
-  },
+    }, image: "/poi-images/green-hill-valley-life-v2.webp"},
   {
     id: "yadanabon-zoo-life-v2",
     type: "kid-friendly",
@@ -223,8 +208,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["1989-ben nyílt meg, és Mianmar egyetlen állatkertje a kritikusan veszélyeztetett burmai fedélesteknős számára.", "Különleges éjszakai szafari túrákat kínál.", "Erősen elkötelezett a fajok védelme és a környezeti nevelés iránt.", "Több mint 300 különböző állatfajnak ad otthont."],
       ro: ["A fost deschisă în 1989 și este singura grădină zoologică din Myanmar pentru broasca țestoasă de acoperiș birmaneză, pe cale de dispariție.", "Oferă tururi speciale de safari nocturn.", "Se implică puternic în protecția speciilor și educația ecologică.", "Găzduiește peste 300 de specii diferite de animale."],
       en: ["Opened in 1989 and is Myanmar's only zoo for the critically endangered Burmese roofed turtle.", "Offers special night safari tours.", "Strongly committed to species conservation and environmental education.", "Houses over 300 different animal species."]
-    }
-  },
+    }, image: "/poi-images/yadanabon-zoo-life-v2.webp"},
   {
     id: "ayeyarwady-dolphin-area-life-v2",
     type: "wildlife-area",
@@ -237,8 +221,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["Itt a delfinek és az emberek a ritka „kooperatív halászatot” gyakorolják.", "A védett terület a folyó mintegy 74 kilométerére terjed ki.", "A delfinpopulációt erősen veszélyeztetik az illegális halászati módszerek.", "Az ökoturizmus segít alternatív bevételi forrásokat teremteni a helyiek számára."],
       ro: ["Aici delfinii și oamenii practică rarul „pescuit cooperativ”.", "Aria protejată se întinde pe aproximativ 74 de kilometri de-a lungul râului.", "Populația de delfini este grav amenințată de metodele de pescuit ilegal.", "Ecoturismul ajută la crearea de surse alternative de venit pentru localnici."],
       en: ["Here dolphins and humans practice rare 'cooperative fishing'.", "The protected area spans about 74 kilometers of the river.", "The dolphin population is severely threatened by illegal fishing methods.", "Ecotourism here helps create alternative income sources for locals."]
-    }
-  },
+    }, image: "/poi-images/ayeyarwady-dolphin-area-life-v2.webp"},
   {
     id: "mandalay-moat-park-life-v2",
     type: "park",
@@ -251,8 +234,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["A várárok több mint 60 méter széles és majdnem 8 kilométer hosszú.", "Népszerű hely a reggeli kocogáshoz és tai chi-hez.", "A parkból csodálatos kilátás nyílik a régi erődítmény falaira és a Mandalay-hegyre.", "Éjszaka a falakat és a vizet hangulatosan megvilágítják."],
       ro: ["Șanțul are o lățime de peste 60 de metri și o lungime de aproape 8 kilometri.", "Un loc popular pentru jogging dimineața și Tai Chi.", "Parcul oferă vederi uimitoare ale vechilor ziduri ale cetății și ale Dealului Mandalay.", "Noaptea, zidurile și apa sunt luminate pitoresc."],
       en: ["The moat is over 60 meters wide and nearly 8 kilometers long.", "A popular spot for morning jogging and Tai Chi.", "The park offers stunning views of the old fortress walls and Mandalay Hill.", "At night, the walls and water are atmospherically illuminated."]
-    }
-  },
+    }, image: "/poi-images/mandalay-moat-park-life-v2.webp"},
   {
     id: "pyin-oo-lwin-strawberries-life-v2",
     type: "agriculture",
@@ -265,8 +247,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       hu: ["A régió hűvös mikroklímája tökéletes a bogyós gyümölcsök számára.", "A látogatók a betakarítási időszakban maguk is szedhetnek epret.", "A helyi piacok a kézműves eperlekvárjukról ismertek.", "A farmok jelentősen hozzájárultak a város gazdasági fejlődéséhez."],
       ro: ["Microclimatul răcoros al regiunii este perfect pentru fructe de pădure.", "Vizitatorii își pot culege propriile căpșuni în timpul sezonului de recoltare.", "Piețele locale sunt cunoscute pentru dulceața lor artizanală de căpșuni.", "Fermele au contribuit semnificativ la dezvoltarea economică a orașului."],
       en: ["The region's cool microclimate is perfect for berries.", "Visitors can pick their own strawberries during the harvest season.", "Local markets are known for their handmade strawberry jam.", "The farms contributed significantly to the economic development of the town."]
-    }
-  },
+    }, image: "/poi-images/pyin-oo-lwin-strawberries-life-v2.webp"},
   {
     id: "bogyoke-park-life-v2",
     type: "park",

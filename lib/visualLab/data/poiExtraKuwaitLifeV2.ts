@@ -43,8 +43,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Important site for ornithologists.",
         "Freshwater pools in the middle of the desert."
       ]
-    }
-  },
+    }, image: "/poi-images/jahra-pools-nature-reserve-life-v2.webp"},
   {
     id: "sabah-al-ahmad-nature-reserve-life-v2",
     type: "wildlife-area",
@@ -131,8 +130,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Numerous greenhouses define the landscape.",
         "Popular weekend destination for locals."
       ]
-    }
-  },
+    }, image: "/poi-images/wafra-farms-life-v2.webp"},
   {
     id: "abdali-farms-life-v2",
     type: "agriculture",
@@ -175,8 +173,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Heavily subsidized by the government.",
         "Green oasis in an otherwise barren landscape."
       ]
-    }
-  },
+    }, image: "/poi-images/abdali-farms-life-v2.webp"},
   {
     id: "bayan-botanical-garden-life-v2",
     type: "park",
@@ -263,8 +260,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Offers football and basketball courts.",
         "Safe recreational spot in the residential area."
       ]
-    }
-  },
+    }, image: "/poi-images/mishref-park-life-v2.webp"},
   {
     id: "egaila-beach-park-life-v2",
     type: "park",
@@ -307,8 +303,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Ideal for family outings on weekends.",
         "Includes play equipment for children."
       ]
-    }
-  },
+    }, image: "/poi-images/egaila-beach-park-life-v2.webp"},
   {
     id: "kidzania-kuwait-life-v2",
     type: "kid-friendly",
@@ -351,8 +346,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Over 70 different professions to choose from.",
         "Promotes teamwork and financial literacy."
       ]
-    }
-  },
+    }, image: "/poi-images/kidzania-kuwait-life-v2.webp"},
   {
     id: "boulevard-park-life-v2",
     type: "park",
@@ -395,8 +389,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Features extensive walking paths.",
         "Has an on-site shopping mall."
       ]
-    }
-  },
+    }, image: "/poi-images/boulevard-park-life-v2.webp"},
   {
     id: "sulaibikhat-bay-nature-reserve-life-v2",
     type: "wildlife-area",
@@ -439,8 +432,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "A paradise for bird watchers in winter.",
         "Increasingly protected through conservation efforts."
       ]
-    }
-  },
+    }, image: "/poi-images/sulaibikhat-bay-nature-reserve-life-v2.webp"},
   {
     id: "kabd-farms-life-v2",
     type: "agriculture",
@@ -571,8 +563,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Features modern VR experiences.",
         "Ideal for entertainment on hot summer days."
       ]
-    }
-  },
+    }, image: "/poi-images/magic-planet-kuwait-life-v2.webp"},
   {
     id: "jamal-abdulnasser-park-life-v2",
     type: "park",
@@ -615,8 +606,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Features a large children's playground.",
         "Centrally located and easily accessible."
       ]
-    }
-  },
+    }, image: "/poi-images/jamal-abdulnasser-park-life-v2.webp"},
   {
     id: "failaka-island-wildlife-reserve-life-v2",
     type: "wildlife-area",
@@ -659,8 +649,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Combines nature with historical ruins.",
         "Part of national efforts for biodiversity."
       ]
-    }
-  },
+    }, image: "/poi-images/failaka-island-wildlife-reserve-life-v2.webp"},
   {
     id: "salwa-park-life-v2",
     type: "park",
@@ -703,8 +692,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Features well-lit walkways.",
         "Known for its cleanliness and tranquility."
       ]
-    }
-  },
+    }, image: "/poi-images/salwa-park-life-v2.webp"},
   {
     id: "fahaheel-park-life-v2",
     type: "park",
@@ -747,8 +735,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Popular on cool winter evenings.",
         "Often hosts small local festivals."
       ]
-    }
-  },
+    }, image: "/poi-images/fahaheel-park-life-v2.webp"},
   {
     id: "sulaybiya-agricultural-area-life-v2",
     type: "agriculture",
@@ -791,8 +778,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Important for reducing food imports.",
         "Research centers test heat-resistant plants."
       ]
-    }
-  },
+    }, image: "/poi-images/sulaybiya-agricultural-area-life-v2.webp"},
   {
     id: "hawally-amusement-park-life-v2",
     type: "kid-friendly",
@@ -835,8 +821,7 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Includes a large arcade hall.",
         "Often very busy on weekends."
       ]
-    }
-  },
+    }, image: "/poi-images/hawally-amusement-park-life-v2.webp"},
   {
     id: "sabah-al-salem-park-life-v2",
     type: "park",

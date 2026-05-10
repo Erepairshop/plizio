@@ -43,8 +43,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "The building is mostly accessible to the public only from the outside.",
         "Located at the Independence Square."
       ]
-    }
-  },
+    }, image: "/poi-images/palacio-presidencial-st-landmarks-v2.webp"},
   {
     id: "mercado-municipal-st-landmarks-v2",
     type: "landmark",
@@ -87,8 +86,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "A lively spot for cultural observations.",
         "The building dates back to the late colonial period."
       ]
-    }
-  },
+    }, image: "/poi-images/mercado-municipal-st-landmarks-v2.webp"},
   {
     id: "estadio-nacional-st-landmarks-v2",
     type: "landmark",
@@ -131,8 +129,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Named after the independence date (July 12, 1975).",
         "Most important center for athletics in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/estadio-nacional-st-landmarks-v2.webp"},
   {
     id: "biblioteca-nacional-st-landmarks-v2",
     type: "landmark",
@@ -175,8 +172,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "An important venue for literary events.",
         "Promotes literacy and reading culture in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/biblioteca-nacional-st-landmarks-v2.webp"},
   {
     id: "assembleia-nacional-st-landmarks-v2",
     type: "landmark",
@@ -219,8 +215,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "The building was constructed with international support.",
         "Symbol of legislative power."
       ]
-    }
-  },
+    }, image: "/poi-images/assembleia-nacional-st-landmarks-v2.webp"},
   {
     id: "banco-central-st-landmarks-v2",
     type: "landmark",
@@ -263,8 +258,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Important institution for financial sovereignty.",
         "Founded after independence in 1975."
       ]
-    }
-  },
+    }, image: "/poi-images/banco-central-st-landmarks-v2.webp"},
   {
     id: "cine-teatro-imperador-st-landmarks-v2",
     type: "landmark",
@@ -307,8 +301,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Symbol of urban cultural history.",
         "Recently renovated to preserve its original splendor."
       ]
-    }
-  },
+    }, image: "/poi-images/cine-teatro-imperador-st-landmarks-v2.webp"},
   {
     id: "praca-independencia-st-landmarks-v2",
     type: "landmark",
@@ -351,8 +344,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Surrounded by the Presidential Palace and the Cathedral.",
         "An important venue for political rallies."
       ]
-    }
-  },
+    }, image: "/poi-images/praca-independencia-st-landmarks-v2.webp"},
   {
     id: "igreja-nossa-senhora-conceicao-st-landmarks-v2",
     type: "landmark",
@@ -395,8 +387,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Houses valuable sacred artworks.",
         "A landmark in the historic district."
       ]
-    }
-  },
+    }, image: "/poi-images/igreja-nossa-senhora-conceicao-st-landmarks-v2.webp"},
   {
     id: "porto-sao-tome-landmarks-v2",
     type: "landmark",
@@ -439,8 +430,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Center of the local fishing industry.",
         "Strategic location in the Ana Chaves Bay."
       ]
-    }
-  },
+    }, image: "/poi-images/porto-sao-tome-landmarks-v2.webp"},
   {
     id: "aeroporto-st-landmarks-v2",
     type: "landmark",
@@ -483,8 +473,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Features a runway located directly on the Atlantic coast.",
         "Logistic hub of the country."
       ]
-    }
-  },
+    }, image: "/poi-images/aeroporto-st-landmarks-v2.webp"},
   {
     id: "palacio-governo-regional-principe-landmarks-v2",
     type: "landmark",
@@ -571,8 +560,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "A site for social exchange.",
         "Characterized by traditional construction."
       ]
-    }
-  },
+    }, image: "/poi-images/mercado-santo-antonio-landmarks-v2.webp"},
   {
     id: "porto-santo-antonio-landmarks-v2",
     type: "landmark",
@@ -615,8 +603,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Starting point for sea excursions.",
         "Characterized by a relaxed maritime atmosphere."
       ]
-    }
-  },
+    }, image: "/poi-images/porto-santo-antonio-landmarks-v2.webp"},
   {
     id: "monumento-eddington-landmarks-v2",
     type: "landmark",
@@ -659,8 +646,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Connection between astronomy and colonial history.",
         "Located on the grounds of the historic Roça Sundy."
       ]
-    }
-  },
+    }, image: "/poi-images/monumento-eddington-landmarks-v2.webp"},
   {
     id: "igreja-nossa-senhora-rosario-principe-landmarks-v2",
     type: "landmark",
@@ -703,8 +689,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Shapes the cityscape of Santo António.",
         "Example of Portuguese colonial style."
       ]
-    }
-  },
+    }, image: "/poi-images/igreja-nossa-senhora-rosario-principe-landmarks-v2.webp"},
   {
     id: "tribunal-supremo-justica-st-landmarks-v2",
     type: "landmark",
@@ -747,8 +732,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Architectural landmark in the government district.",
         "Guarantor of democratic stability."
       ]
-    }
-  },
+    }, image: "/poi-images/tribunal-supremo-justica-st-landmarks-v2.webp"},
   {
     id: "farol-lagoa-azul-landmarks-v2",
     type: "landmark",
@@ -791,8 +775,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Architecturally simple but functional design.",
         "Surrounded by unique dry coastal flora."
       ]
-    }
-  },
+    }, image: "/poi-images/farol-lagoa-azul-landmarks-v2.webp"},
   {
     id: "farol-ponta-mina-landmarks-v2",
     type: "landmark",
@@ -835,8 +818,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Provides a picturesque setting for photographers.",
         "A site of deep historical significance."
       ]
-    }
-  },
+    }, image: "/poi-images/farol-ponta-mina-landmarks-v2.webp"},
   {
     id: "centro-cultural-portugues-st-landmarks-v2",
     type: "landmark",
@@ -923,8 +905,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Located at a historically significant spot on the coast.",
         "Symbol of national resistance."
       ]
-    }
-  },
+    }, image: "/poi-images/monumento-batepa-landmarks-v2.webp"},
   {
     id: "arquivo-historico-nacional-st-landmarks-v2",
     type: "landmark",
@@ -1011,8 +992,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "Historical colonial buildings are located nearby.",
         "A landmark for pedestrians and motorists."
       ]
-    }
-  },
+    }, image: "/poi-images/ponte-rio-agua-grande-landmarks-v2.webp"},
   {
     id: "esplanada-maritima-st-landmarks-v2",
     type: "landmark",
@@ -1055,8 +1035,7 @@ export const poiExtraSaotomeandprincipeLandmarksV2: POI[] = [
         "A popular spot for sporting activities.",
         "Lined with monuments and historic buildings."
       ]
-    }
-  },
+    }, image: "/poi-images/esplanada-maritima-st-landmarks-v2.webp"},
   {
     id: "farol-ilheu-das-rolas-landmarks-v2",
     type: "landmark",

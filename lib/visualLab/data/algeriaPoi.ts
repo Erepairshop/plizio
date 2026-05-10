@@ -146,8 +146,7 @@ export const algeriaAllPoi: POI[] = [
             en: ['The Casbah is built on the ruins of ancient Icosium.', 'Many houses feature courtyards and whitewashed walls.', 'The film "The Battle of Algiers" (1966) was largely filmed on location here.', 'The population of the Casbah is estimated to be around 50,000 to 70,000.', 'The term "Casbah" refers to the citadel.', 'It was the seat of the Deys of Algiers from 1816 to 1830.', 'Preservation efforts are underway to save its historic buildings.', 'Some alleys are so narrow they are only accessible on foot.'],
             ro: ['Casbah este construită pe ruinele anticului Icosium.', 'Multe case au curți interioare și pereți văruiți în alb.', 'Filmul "Bătălia de la Alger" (1966) a fost filmat în mare parte aici.', 'Populația din Casbah este estimată la aproximativ 50.000 - 70.000 de locuitori.', 'Termenul "Casbah" se referă la citadelă.', 'A fost sediul dey-ilor din Alger între 1816 și 1830.', 'Eforturile de conservare sunt în curs de desfășurare pentru a salva clădirile sale istorice.', 'Unele alei sunt atât de înguste încât sunt accesibile doar pe jos.'],
             hu: ['A Kasbah az ókori Icosium romjaira épült.', 'Sok ház udvarral és fehérre meszelt falakkal rendelkezik.', '"Az algíri csata" című filmet (1966) nagyrészt itt forgatták.', 'A Kasbah lakosságát körülbelül 50 000-70 000 főre becsülik.', 'A "Kasbah" kifejezés a citadellára utal.', '1816 és 1830 között az algíri deyek székhelye volt.', 'Folyamatban vannak a megőrzési erőfeszítések a történelmi épületek megmentésére.', 'Néhány sikátor olyan szűk, hogy csak gyalogosan közelíthető meg.']
-        }
-    },
+        }, image: "/poi-images/dz-casbah-of-algiers.webp"},
     {
         id: 'dz-tassili-najjer',
         type: 'national-park',
@@ -331,8 +330,7 @@ export const algeriaAllPoi: POI[] = [
             en: ['Mount Tahat is the highest mountain in Algeria.', 'The average temperature is lower than in the rest of the Sahara.', 'Prehistoric rock art can also be found here.', 'Charles de Foucauld\'s hermitage can be visited on the Assekrem.', 'The region is rich in minerals, including uranium.', 'There are rare animal species such as the Saharan cheetah.', 'Tamanrasset is the largest city near the mountains.', 'The mountain range covers an area of about 550,000 km².'],
             ro: ['Muntele Tahat este cel mai înalt munte din Algeria.', 'Temperatura medie este mai scăzută decât în restul Saharei.', 'Aici se pot găsi și picturi rupestre preistorice.', 'Schitul lui Charles de Foucauld poate fi vizitat pe Assekrem.', 'Regiunea este bogată în minerale, inclusiv uraniu.', 'Există specii rare de animale, cum ar fi ghepardul saharian.', 'Tamanrasset este cel mai mare oraș din apropierea munților.', 'Lanțul muntos acoperă o suprafață de aproximativ 550.000 km².'],
             hu: ['A Tahat-hegy Algéria legmagasabb hegye.', 'Az átlaghőmérséklet alacsonyabb, mint a Szahara többi részén.', 'Itt is találhatók történelem előtti sziklarajzok.', 'Charles de Foucauld remetelaka meglátogatható az Assekremen.', 'A régió ásványi anyagokban gazdag, beleértve az uránt is.', 'Vannak ritka állatfajok, mint például a szaharai gepárd.', 'Tamanrasset a hegységhez legközelebbi legnagyobb város.', 'A hegység területe körülbelül 550 000 km².']
-        }
-    },
+        }, image: "/poi-images/dz-hoggar-mountains.webp"},
     {
         id: 'dz-tipasa',
         type: 'historical',
@@ -367,8 +365,7 @@ export const algeriaAllPoi: POI[] = [
             en: ['The writer Albert Camus wrote about the beauty of Tipasa.', 'The Great Basilica was one of the largest Christian churches in North Africa.', 'The Royal Mausoleum of Mauretania is a circular tomb with 60 Ionic columns.', 'Tipasa was an important port for trade with Rome.', 'The city was conquered by the Vandals in the 5th century.', 'The amphitheater could hold thousands of spectators.', 'The modern town of Tipaza is located next to the ruins.', 'The site was rediscovered in the 19th century.'],
             ro: ['Scriitorul Albert Camus a scris despre frumusețea Tipasei.', 'Marea Bazilică a fost una dintre cele mai mari biserici creștine din Africa de Nord.', 'Mausoleul Regal al Mauretaniei este un mormânt circular cu 60 de coloane ionice.', 'Tipasa a fost un port important pentru comerțul cu Roma.', 'Orașul a fost cucerit de vandali în secolul al V-lea.', 'Amfiteatrul putea găzdui mii de spectatori.', 'Orașul modern Tipaza este situat lângă ruine.', 'Situl a fost redescoperit în secolul al XIX-lea.'],
             hu: ['Albert Camus író írt Tipasa szépségéről.', 'A Nagy Bazilika Észak-Afrika egyik legnagyobb keresztény temploma volt.', 'A Mauretániai Királyi Mauzóleum egy kör alakú sír, 60 ión oszloppal.', 'Tipasa fontos kikötő volt a Rómával folytatott kereskedelemben.', 'A várost az 5. században a vandálok hódították meg.', 'Az amfiteátrum több ezer nézőt tudott befogadni.', 'A modern Tipaza város a romok mellett található.', 'A helyszínt a 19. században fedezték fel újra.']
-        }
-    },
+        }, image: "/poi-images/dz-tipasa.webp"},
     {
         id: 'dz-gorges-du-ghoufi',
         type: 'landmark',
@@ -403,8 +400,7 @@ export const algeriaAllPoi: POI[] = [
             en: ['The gorge is about 4 km long.', 'The villages date back to the 14th century.', 'The inhabitants moved to more modern housing in the 1970s.', 'The area is known for its date palm groves.', 'The rock villages are depicted on the Algerian 1000 dinar banknote.', 'A hiking trail connects the various balconies.', 'Ghoufi is a popular destination for hikers and photographers.', 'The architecture provides shelter from the summer heat and winter wind.'],
             ro: ['Cheile au o lungime de aproximativ 4 km.', 'Satele datează din secolul al XIV-lea.', 'Locuitorii s-au mutat în locuințe mai moderne în anii 1970.', 'Zona este cunoscută pentru plantațiile sale de curmali.', 'Satele de stâncă sunt reprezentate pe bancnota algeriană de 1000 de dinari.', 'O potecă de drumeție leagă diferitele balcoane.', 'Ghoufi este o destinație populară pentru excursioniști și fotografi.', 'Arhitectura oferă adăpost împotriva căldurii verii și a vântului de iarnă.'],
             hu: ['A szurdok körülbelül 4 km hosszú.', 'A falvak a 14. századból származnak.', 'A lakosok az 1970-es években modernebb lakásokba költöztek.', 'A terület datolyapálma-ligeteiről ismert.', 'A sziklafalvak az algériai 1000 dináros bankjegyen láthatók.', 'Egy túraútvonal köti össze a különböző erkélyeket.', 'Ghoufi népszerű célpont a túrázók és fotósok számára.', 'Az építészet menedéket nyújt a nyári hőség és a téli szél ellen.']
-        }
-    },
+        }, image: "/poi-images/dz-gorges-du-ghoufi.webp"},
 
     {
         id: 'dz-annaba',
@@ -440,8 +436,7 @@ export const algeriaAllPoi: POI[] = [
             en: ['Hippo Regius was besieged by the Vandals in 431 AD.', 'Augustine died during the siege.', 'The city is famous for its steel industry.', 'Seraïdi beach is a popular seaside resort nearby.', 'The University of Annaba was founded in 1975.', 'The city was known as Bône under French rule.', 'Annaba has a Mediterranean climate with hot summers and mild winters.', 'The main green square, the "Cours de la Révolution", is the heart of the city.'],
             ro: ['Hippo Regius a fost asediat de vandali în 431 d.Hr.', 'Augustin a murit în timpul asediului.', 'Orașul este renumit pentru industria sa siderurgică.', 'Plaja Seraïdi este o stațiune balneară populară în apropiere.', 'Universitatea din Annaba a fost fondată în 1975.', 'Orașul era cunoscut sub numele de Bône sub dominația franceză.', 'Annaba are o climă mediteraneană cu veri calde și ierni blânde.', 'Piața principală verde, "Cours de la Révolution", este inima orașului.'],
             hu: ['Hippo Regiust a vandálok ostromolták 431-ben.', 'Ágoston az ostrom alatt halt meg.', 'A város acéliparáról híres.', 'A Seraïdi strand egy népszerű tengerparti üdülőhely a közelben.', 'Az Annábai Egyetemet 1975-ben alapították.', 'A várost a francia uralom alatt Bône néven ismerték.', 'Annábának mediterrán éghajlata van, forró nyarakkal és enyhe telekkel.', 'A fő zöld tér, a "Cours de la Révolution", a város szíve.']
-        }
-    },
+        }, image: "/poi-images/dz-annaba.webp"},
     {
         id: 'dz-bejaia',
         type: 'city',
@@ -476,8 +471,7 @@ export const algeriaAllPoi: POI[] = [
             en: ['The name Bougie is the origin of the French word for candle.', 'Gouraya National Park is a UNESCO Biosphere Reserve.', 'Leonardo Fibonacci learned about the Hindu-Arabic numeral system here.', 'The city has one of the largest Berber-speaking populations in Algeria.', 'Cap Carbon has one of the highest lighthouses in the Mediterranean.', 'The coastal road between Bejaia and Jijel is one of the most scenic routes in the country.', 'Bejaia was the capital of the Hammadid dynasty in the 11th and 12th centuries.', 'The Casbah of Bejaia was built by the Spanish and later used by the Ottomans.'],
             ro: ['Numele Bougie este originea cuvântului francez pentru lumânare.', 'Parcul Național Gouraya este o Rezervație a Biosferei UNESCO.', 'Leonardo Fibonacci a învățat aici despre sistemul numeric indo-arab.', 'Orașul are una dintre cele mai mari populații vorbitoare de limbă berberă din Algeria.', 'Cap Carbon are unul dintre cele mai înalte faruri din Mediterana.', 'Drumul de coastă dintre Bejaia și Jijel este unul dintre cele mai pitorești trasee din țară.', 'Bejaia a fost capitala dinastiei Hammadid în secolele XI și XII.', 'Casbah-ul din Bejaia a fost construit de spanioli și ulterior folosit de otomani.'],
             hu: ['A Bougie név a gyertya francia szavának eredete.', 'A Gouraya Nemzeti Park az UNESCO bioszféra-rezervátuma.', 'Leonardo Fibonacci itt tanult a hindu-arab számrendszerről.', 'A város Algéria egyik legnagyobb berber nyelvű lakosságával rendelkezik.', 'A Cap Carbon a Földközi-tenger egyik legmagasabb világítótornyával rendelkezik.', 'A Bedzsája és Jijel közötti tengerparti út az ország egyik legfestőibb útvonala.', 'Bedzsája a Hammadida-dinasztia fővárosa volt a 11. és 12. században.', 'A bedzsájai Kasbah-t a spanyolok építették, majd később az oszmánok használták.']
-        }
-    },
+        }, image: "/poi-images/dz-bejaia.webp"},
     {
         id: 'dz-ghardaia',
         type: 'city',
@@ -512,8 +506,7 @@ export const algeriaAllPoi: POI[] = [
             en: ['The city was founded by the Mozabites, a Berber tribe.', 'Architect Le Corbusier was fascinated by Ghardaïa\'s architecture.', 'The complex water system is crucial for survival in the desert.', 'The market is held daily and is a center of social life.', 'Traditional houses have an inner courtyard to provide coolness.', 'Women traditionally wear the haik, which covers the entire body.', 'The city is divided into three main areas: residential, market, and cemetery.', 'Tourism is controlled to preserve the unique culture.'],
             ro: ['Orașul a fost fondat de mozabiți, un trib berber.', 'Arhitectul Le Corbusier a fost fascinat de arhitectura din Ghardaïa.', 'Sistemul complex de apă este crucial pentru supraviețuirea în deșert.', 'Piața se ține zilnic și este un centru al vieții sociale.', 'Casele tradiționale au o curte interioară pentru a oferi răcoare.', 'Femeile poartă în mod tradițional haik-ul, care acoperă întregul corp.', 'Orașul este împărțit în trei zone principale: rezidențială, de piață și cimitir.', 'Turismul este controlat pentru a păstra cultura unică.'],
             hu: ['A várost a mozabiták, egy berber törzs alapította.', 'Le Corbusier építészt lenyűgözte Ghardaïa építészete.', 'A bonyolult vízrendszer létfontosságú a sivatagban való túléléshez.', 'A piacot naponta tartják, és a társadalmi élet központja.', 'A hagyományos házak belső udvarral rendelkeznek a hűvösség biztosítása érdekében.', 'A nők hagyományosan a haikot viselik, amely az egész testet eltakarja.', 'A város három fő részre oszlik: lakó-, piaci és temetői területre.', 'A turizmus ellenőrzött az egyedülálló kultúra megőrzése érdekében.']
-        }
-    },
+        }, image: "/poi-images/dz-ghardaia.webp"},
     {
         id: 'dz-santa-cruz-fort',
         type: 'landmark',

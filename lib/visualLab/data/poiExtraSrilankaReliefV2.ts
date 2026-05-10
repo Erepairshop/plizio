@@ -34,8 +34,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Located near Nuwara Eliya.",
         "Radar station on the summit."
       ]
-    }
-  },
+    }, image: "/poi-images/pidurutalagala-relief-v2.webp"},
   {
     id: "kirigalpotta-relief-v2",
     type: "mountain",
@@ -69,8 +68,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Located in Horton Plains National Park.",
         "Popular hiking destination."
       ]
-    }
-  },
+    }, image: "/poi-images/kirigalpotta-relief-v2.webp"},
   {
     id: "thotupola-kanda-relief-v2",
     type: "mountain",
@@ -104,8 +102,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Means 'landing place' in Sinhalese.",
         "Easily accessible peak."
       ]
-    }
-  },
+    }, image: "/poi-images/thotupola-kanda-relief-v2.webp"},
   {
     id: "namunukula-relief-v2",
     type: "mountain",
@@ -139,8 +136,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Overlooks the town of Badulla.",
         "Covered with tea plantations."
       ]
-    }
-  },
+    }, image: "/poi-images/namunukula-relief-v2.webp"},
   {
     id: "hakgala-relief-v2",
     type: "mountain",
@@ -174,8 +170,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Hakgala Botanical Garden is located here.",
         "Legend of Hanuman."
       ]
-    }
-  },
+    }, image: "/poi-images/hakgala-relief-v2.webp"},
   {
     id: "knuckles-mountain-range-relief-v2",
     type: "mountain",
@@ -209,8 +204,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "High biodiversity.",
         "Numerous endemic species."
       ]
-    }
-  },
+    }, image: "/poi-images/knuckles-mountain-range-relief-v2.webp"},
   {
     id: "bathalegala-relief-v2",
     type: "mountain",
@@ -244,8 +238,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Elevation of 798 meters.",
         "Popular with hikers."
       ]
-    }
-  },
+    }, image: "/poi-images/bathalegala-relief-v2.webp"},
   {
     id: "ella-rock-relief-v2",
     type: "mountain",
@@ -279,8 +272,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Challenging hike.",
         "Popular among tourists."
       ]
-    }
-  },
+    }, image: "/poi-images/ella-rock-relief-v2.webp"},
   {
     id: "little-adams-peak-relief-v2",
     type: "mountain",
@@ -314,8 +306,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Easy hiking trail.",
         "Offers great views of Ella Gap."
       ]
-    }
-  },
+    }, image: "/poi-images/little-adams-peak-relief-v2.webp"},
   {
     id: "gongala-relief-v2",
     type: "mountain",
@@ -349,8 +340,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Part of the Rakwana Mountain Range.",
         "Rich biodiversity."
       ]
-    }
-  },
+    }, image: "/poi-images/gongala-relief-v2.webp"},
   {
     id: "lakegala-relief-v2",
     type: "mountain",
@@ -384,8 +374,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Elevation of about 1310 meters.",
         "Steep climb."
       ]
-    }
-  },
+    }, image: "/poi-images/lakegala-relief-v2.webp"},
   {
     id: "ritigala-relief-v2",
     type: "mountain",
@@ -454,8 +443,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Located at over 1500 meters.",
         "Lush green landscape."
       ]
-    }
-  },
+    }, image: "/poi-images/bogawantalawa-valley-relief-v2.webp"},
   {
     id: "mahaweli-valley-relief-v2",
     type: "valley",
@@ -489,8 +477,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Important for irrigation.",
         "Surrounds the city of Kandy."
       ]
-    }
-  },
+    }, image: "/poi-images/mahaweli-valley-relief-v2.webp"},
   {
     id: "kelani-valley-relief-v2",
     type: "valley",
@@ -524,8 +511,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Rich in agricultural lands.",
         "Follows the Kelani River."
       ]
-    }
-  },
+    }, image: "/poi-images/kelani-valley-relief-v2.webp"},
   {
     id: "horton-plains-relief-v2",
     type: "plateau",
@@ -559,8 +545,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Home to endemic species.",
         "Popular national park area."
       ]
-    }
-  },
+    }, image: "/poi-images/horton-plains-relief-v2.webp"},
   {
     id: "moon-plains-relief-v2",
     type: "plateau",
@@ -594,8 +579,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Offers a 360-degree panorama.",
         "Home to wildlife."
       ]
-    }
-  },
+    }, image: "/poi-images/moon-plains-relief-v2.webp"},
   {
     id: "nilaveli-coast-relief-v2",
     type: "coast",
@@ -629,8 +613,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Popular for diving.",
         "One of the most beautiful coasts."
       ]
-    }
-  },
+    }, image: "/poi-images/nilaveli-coast-relief-v2.webp"},
   {
     id: "mirissa-coast-relief-v2",
     type: "coast",
@@ -664,8 +647,7 @@ export const poiExtraSrilankaReliefV2: POI[] = [
         "Beautiful palm-fringed beaches.",
         "Popular tourist destination."
       ]
-    }
-  },
+    }, image: "/poi-images/mirissa-coast-relief-v2.webp"},
   {
     id: "hikkaduwa-coast-relief-v2",
     type: "coast",

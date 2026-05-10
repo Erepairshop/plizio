@@ -18,8 +18,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["2004-ben nyitották meg hivatalosan.", "Hatalmas hangolttömeg-csillapítóval rendelkezik a földrengések ellen."],
       ro: ["A fost deschis oficial în anul 2004.", "Dispune de un amortizor masiv pentru protecția împotriva cutremurelor."],
       en: ["Officially opened in 2004.", "Features a massive tuned mass damper for earthquake protection."]
-    }
-  },
+    }, image: "/poi-images/taipei-101-landmarks-v2.webp"},
   {
     id: "sun-moon-lake-landmarks-v2",
     type: "landmark",
@@ -37,8 +36,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["A keleti része egy napra, a nyugati egy holdra hasonlít.", "Népszerű célpont kerékpártúrák és csónakázások számára."],
       ro: ["Partea estică seamănă cu un soare, iar cea vestică cu o lună.", "O destinație populară pentru ciclism și plimbări cu barca."],
       en: ["The eastern part resembles a sun, and the western part a moon.", "A popular destination for cycling and boating."]
-    }
-  },
+    }, image: "/poi-images/sun-moon-lake-landmarks-v2.webp"},
   {
     id: "taroko-gorge-landmarks-v2",
     type: "landmark",
@@ -56,8 +54,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["A szurdok falai szinte teljesen márványból állnak.", "Az Örök Tavasz Szentélye az egyik fő látványosság."],
       ro: ["Pereții defileului sunt formați aproape în întregime din marmură.", "Altarul Primăverii Eterne este una dintre atracțiile principale."],
       en: ["The walls of the gorge are almost entirely made of marble.", "The Eternal Spring Shrine is one of the main attractions."]
-    }
-  },
+    }, image: "/poi-images/taroko-gorge-landmarks-v2.webp"},
   {
     id: "yehliu-geopark-landmarks-v2",
     type: "landmark",
@@ -75,8 +72,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["A legismertebb formációt 'Királynő feje'-nek hívják.", "A sziklákat a tengervíz több ezer éves eróziója formálta."],
       ro: ["Cea mai cunoscută formațiune se numește 'Capul Reginei'.", "Stâncile au fost sculptate de mii de ani de eroziune marină."],
       en: ["The most famous formation is called the 'Queen's Head'.", "The rocks were shaped by thousands of years of sea erosion."]
-    }
-  },
+    }, image: "/poi-images/yehliu-geopark-landmarks-v2.webp"},
   {
     id: "alishan-scenic-area-landmarks-v2",
     type: "landmark",
@@ -113,8 +109,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Több mint csaknem 700 000 darabot őriz a kínai történelemből.", "A jadekáposzta az egyik leghíresebb kiállítási tárgy."],
       ro: ["Adăpostește aproape 700.000 de piese din istoria chineză.", "Varza de jad este una dintre cele mai faimoase piese expuse."],
       en: ["Houses nearly 700,000 pieces of ancient Chinese artifacts.", "The Jadeite Cabbage is one of its most famous exhibits."]
-    }
-  },
+    }, image: "/poi-images/national-palace-museum-landmarks-v2.webp"},
   {
     id: "jiufen-old-street-landmarks-v2",
     type: "landmark",
@@ -132,8 +127,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Gyakran mondják, hogy inspirálta a 'Chihiro Szellemországban' című animációs filmet.", "Olyan helyi finomságokról ismert, mint a taró golyó."],
       ro: ["Se spune adesea că a inspirat filmul de animație 'Spirited Away'.", "Cunoscută pentru gustări locale precum biluțele de taro."],
       en: ["Often said to have inspired the animated film 'Spirited Away'.", "Known for local snacks such as taro balls."]
-    }
-  },
+    }, image: "/poi-images/jiufen-old-street-landmarks-v2.webp"},
   {
     id: "shilin-night-market-landmarks-v2",
     type: "landmark",
@@ -151,8 +145,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["1899-ben alapították a japán gyarmati időszak alatt.", "Híres a hatalmas rántott csirkeszeletekről és a büdös tofuról."],
       ro: ["Fondată în anul 1899, în timpul perioadei coloniale japoneze.", "Faimoasă pentru șnițelele uriașe de pui prăjit și tofu puturos."],
       en: ["Established in 1899 during the Japanese colonial period.", "Famous for giant fried chicken cutlets and stinky tofu."]
-    }
-  },
+    }, image: "/poi-images/shilin-night-market-landmarks-v2.webp"},
   {
     id: "kenting-national-park-landmarks-v2",
     type: "landmark",
@@ -170,8 +163,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Az ország legrégebbi és legdélebbi nemzeti parkja.", "Kiváló feltételeket kínál a szörfözéshez és a sznorkelezéshez."],
       ro: ["Cel mai vechi și cel mai sudic parc național din țară.", "Oferă condiții excelente pentru surfing și snorkeling."],
       en: ["The oldest and southernmost national park in the country.", "Offers excellent conditions for surfing and snorkeling."]
-    }
-  },
+    }, image: "/poi-images/kenting-national-park-landmarks-v2.webp"},
   {
     id: "fo-guang-shan-buddha-museum-landmarks-v2",
     type: "landmark",
@@ -189,8 +181,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["A főszobor 108 méter magas és bronzból készült.", "A komplexum több mint 100 hektáron terül el."],
       ro: ["Statuia principală are 108 metri înălțime și este realizată din bronz.", "Complexul se întinde pe mai mult de 100 de hectare."],
       en: ["The main statue is 108 meters tall and made of bronze.", "The complex covers more than 100 hectares."]
-    }
-  },
+    }, image: "/poi-images/fo-guang-shan-buddha-museum-landmarks-v2.webp"},
   {
     id: "dragon-tiger-pagodas-landmarks-v2",
     type: "landmark",
@@ -208,8 +199,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["A cikkcakkos híd állítólag távol tartja a gonosz szellemeket.", "1976-ban építették őket."],
       ro: ["Podul în zig-zag se spune că ține departe spiritele rele.", "Au fost construite în anul 1976."],
       en: ["The zigzag bridge is said to ward off evil spirits.", "They were built in 1976."]
-    }
-  },
+    }, image: "/poi-images/dragon-tiger-pagodas-landmarks-v2.webp"},
   {
     id: "rainbow-village-landmarks-v2",
     type: "landmark",
@@ -227,8 +217,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Alkotója, Huang Yung-Fu 'Szivárvány nagypapa' néven vált ismertté.", "A művek állatokat, hírességeket és absztrakt mintákat ábrázolnak."],
       ro: ["Huang Yung-Fu, creatorul, a devenit cunoscut sub numele de 'Bunicul Curcubeu'.", "Operele de artă includ animale, celebrități și modele abstracte."],
       en: ["Huang Yung-Fu, the creator, became known as 'Rainbow Grandpa'.", "The artworks include animals, celebrities, and abstract patterns."]
-    }
-  },
+    }, image: "/poi-images/rainbow-village-landmarks-v2.webp"},
   {
     id: "pier-2-art-center-landmarks-v2",
     type: "landmark",
@@ -246,8 +235,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Számos szabadtéri szobrot és graffitit kínál.", "Népszerű célpont pop-up kiállítások és fesztiválok számára."],
       ro: ["Prezintă numeroase sculpturi în aer liber și graffiti.", "O destinație populară pentru expoziții pop-up și festivaluri."],
       en: ["Features numerous open-air sculptures and graffiti.", "A popular destination for pop-up exhibitions and festivals."]
-    }
-  },
+    }, image: "/poi-images/pier-2-art-center-landmarks-v2.webp"},
   {
     id: "raohe-night-market-landmarks-v2",
     type: "landmark",
@@ -265,8 +253,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["A leghíresebb specialitás a kemencében sült borsos sertéshúsos buci.", "Közvetlenül a Mazu istennőnek szentelt Ciyou-templom mellett található."],
       ro: ["Cea mai faimoasă specialitate sunt chiflele cu carne de porc și piper, coapte în cuptor.", "Situată chiar lângă Templul Ciyou, dedicat zeiței Mazu."],
       en: ["The most famous specialty is the oven-baked black pepper pork buns.", "Located right next to the Ciyou Temple, which is dedicated to the goddess Mazu."]
-    }
-  },
+    }, image: "/poi-images/raohe-night-market-landmarks-v2.webp"},
   {
     id: "elephant-mountain-landmarks-v2",
     type: "landmark",
@@ -284,8 +271,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["A túra a csúcsra körülbelül 20-30 percet vesz igénybe, de nagyrészt lépcsőkből áll.", "Nevét a hegy elefántra emlékeztető formájáról kapta."],
       ro: ["Drumeția spre vârf durează aproximativ 20-30 de minute, dar constă în principal din trepte.", "Numele său derivă din forma muntelui, care amintește de un elefant."],
       en: ["The hike to the top takes about 20 to 30 minutes but consists mostly of stairs.", "Its name is derived from the shape of the mountain, which resembles an elephant."]
-    }
-  },
+    }, image: "/poi-images/elephant-mountain-landmarks-v2.webp"},
   {
     id: "lotus-pond-landmarks-v2",
     type: "landmark",
@@ -303,8 +289,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["A Tavasz és Ősz Pavilon egy másik népszerű nevezetesség a tó partján.", "A nyári hónapokban a tavat gyönyörű lótuszvirágok borítják."],
       ro: ["Pavilionul Primăverii și Toamnei este un alt punct de reper popular de pe lac.", "În lunile de vară, iazul este acoperit cu flori frumoase de lotus."],
       en: ["The Spring and Autumn Pavilions are another popular landmark on the lake.", "During the summer months, the pond is covered with beautiful lotus flowers."]
-    }
-  },
+    }, image: "/poi-images/lotus-pond-landmarks-v2.webp"},
   {
     id: "maokong-gondola-landmarks-v2",
     type: "landmark",
@@ -322,8 +307,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Az útvonal több mint 4 kilométer hosszú és nagyszerű kilátást nyújt a városra.", "Néhány kabin üvegpadlós, ezeket 'Crystal Cabins'-nak hívják."],
       ro: ["Traseul are o lungime de peste 4 kilometri și oferă o priveliște excelentă asupra orașului.", "Unele cabine au podea de sticlă, cunoscute sub numele de 'Crystal Cabins'."],
       en: ["The route is over 4 kilometers long and offers great views of the city.", "Some of the cabins have a glass bottom, known as 'Crystal Cabins'."]
-    }
-  },
+    }, image: "/poi-images/maokong-gondola-landmarks-v2.webp"},
   {
     id: "chimei-museum-landmarks-v2",
     type: "landmark",
@@ -341,8 +325,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Az épület egy pompás európai palotára emlékeztet.", "Itt található a világ egyik legnagyobb antik hegedűgyűjteménye."],
       ro: ["Clădirea amintește de un palat european magnific.", "Deține una dintre cele mai mari colecții de viori antice din lume."],
       en: ["The building resembles a magnificent European palace.", "Possesses one of the largest collections of antique violins in the world."]
-    }
-  },
+    }, image: "/poi-images/chimei-museum-landmarks-v2.webp"},
   {
     id: "yangmingshan-national-park-landmarks-v2",
     type: "landmark",
@@ -360,8 +343,7 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Tajvan kilenc nemzeti parkjának egyike.", "A park jelképe egy hatalmas óra, amely teljesen virágokból készült."],
       ro: ["Unul dintre cele nouă parcuri naționale din Taiwan.", "Emblema parcului este un ceas mare realizat în întregime din flori."],
       en: ["One of the nine national parks in Taiwan.", "The landmark of the park is a large clock made entirely of flowers."]
-    }
-  },
+    }, image: "/poi-images/yangmingshan-national-park-landmarks-v2.webp"},
   {
     id: "gaomei-wetlands-landmarks-v2",
     type: "landmark",

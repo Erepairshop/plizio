@@ -39,8 +39,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Served as a major shipping port for the transatlantic slave trade.",
         "Now a protected historical site featuring ruins of the fort."
       ]
-    }
-  },
+    }, image: "/poi-images/bunce-island-history-v2.webp"},
   {
     id: "old-fourah-bay-college-history-v2",
     type: "historical",
@@ -79,8 +78,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "The building is a national monument of Sierra Leone.",
         "Known as the 'Athens of West Africa'."
       ]
-    }
-  },
+    }, image: "/poi-images/old-fourah-bay-college-history-v2.webp"},
   {
     id: "st-georges-cathedral-history-v2",
     type: "historical",
@@ -119,8 +117,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Reflects the colonial architecture and history of the Krio society.",
         "A central religious and historical landmark of the capital city."
       ]
-    }
-  },
+    }, image: "/poi-images/st-georges-cathedral-history-v2.webp"},
   {
     id: "cotton-tree-freetown-history-v2",
     type: "historical",
@@ -159,8 +156,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Regarded as the heart of the city for centuries.",
         "A massive Ceiba tree of immense cultural significance."
       ]
-    }
-  },
+    }, image: "/poi-images/cotton-tree-freetown-history-v2.webp"},
   {
     id: "martello-tower-history-v2",
     type: "historical",
@@ -199,8 +195,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Part of the colony's early defense fortifications.",
         "Offers a strategic view over the harbor."
       ]
-    }
-  },
+    }, image: "/poi-images/martello-tower-history-v2.webp"},
   {
     id: "fort-thornton-bastions-history-v2",
     type: "historical",
@@ -239,8 +234,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Served as the residence for British governors.",
         "Witness to the military history of Sierra Leone."
       ]
-    }
-  },
+    }, image: "/poi-images/fort-thornton-bastions-history-v2.webp"},
   {
     id: "kings-gate-history-v2",
     type: "historical",
@@ -279,8 +273,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Carries an inscription commemorating the abolition of the slave trade.",
         "An emotional monument of human history."
       ]
-    }
-  },
+    }, image: "/poi-images/kings-gate-history-v2.webp"},
   {
     id: "maroons-church-history-v2",
     type: "historical",
@@ -359,8 +352,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Shows the original extent of the settlement.",
         "An important record of colonial land surveying."
       ]
-    }
-  },
+    }, image: "/poi-images/boundary-marker-history-v2.webp"},
   {
     id: "regent-church-ruins-history-v2",
     type: "historical",
@@ -399,8 +391,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "The church was the center of religious education.",
         "A peaceful site of remembrance in the hills."
       ]
-    }
-  },
+    }, image: "/poi-images/regent-church-ruins-history-v2.webp"},
   {
     id: "heddles-farm-history-v2",
     type: "historical",
@@ -439,8 +430,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Served as a residence for influential figures.",
         "Nestled in lush tropical vegetation."
       ]
-    }
-  },
+    }, image: "/poi-images/heddles-farm-history-v2.webp"},
   {
     id: "bathurst-village-history-v2",
     type: "historical",
@@ -479,8 +469,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Known for its Victorian village layout.",
         "Preserves the cultural heritage of the early Krio settlers."
       ]
-    }
-  },
+    }, image: "/poi-images/bathurst-village-history-v2.webp"},
   {
     id: "charlotte-village-history-v2",
     type: "historical",
@@ -519,8 +508,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Known for its cool air and historic church.",
         "An integral part of the network of liberated settlements."
       ]
-    }
-  },
+    }, image: "/poi-images/charlotte-village-history-v2.webp"},
   {
     id: "bonthe-colonial-architecture-history-v2",
     type: "historical",
@@ -559,8 +547,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "The architecture is reminiscent of the Victorian era.",
         "A living open-air museum of commercial history."
       ]
-    }
-  },
+    }, image: "/poi-images/bonthe-colonial-architecture-history-v2.webp"},
   {
     id: "falaba-ruins-history-v2",
     type: "historical",
@@ -639,8 +626,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Significant location during the Temne War.",
         "Ruins today attest to its former importance."
       ]
-    }
-  },
+    }, image: "/poi-images/magbele-historical-port-history-v2.webp"},
   {
     id: "masimera-heritage-site-history-v2",
     type: "historical",
@@ -679,8 +665,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Plays a role in the history of resistance to colonial rule.",
         "Preserves traditional architectural elements."
       ]
-    }
-  },
+    }, image: "/poi-images/masimera-heritage-site-history-v2.webp"},
   {
     id: "sulima-historical-port-history-v2",
     type: "historical",
@@ -759,8 +744,7 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "The 1898 uprising is a milestone in Sierra Leone's history.",
         "His legacy is celebrated as a symbol of independence and courage."
       ]
-    }
-  },
+    }, image: "/poi-images/bai-bureh-memorial-history-v2.webp"},
   {
     id: "gbangbatoke-historical-site-history-v2",
     type: "historical",

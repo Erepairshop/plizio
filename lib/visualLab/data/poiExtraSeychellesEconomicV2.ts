@@ -39,8 +39,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Most important economic node of the capital.",
         "Berthing point for large international cargo ships."
       ]
-    }
-  },
+    }, image: "/poi-images/port-victoria-container-terminal-economic-v2.webp"},
   {
     id: "bel-ombre-fishing-port-economic-v2",
     type: "port",
@@ -79,8 +78,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Provides berthing for numerous fishing boats.",
         "Center for the region's daily fish catch."
       ]
-    }
-  },
+    }, image: "/poi-images/bel-ombre-fishing-port-economic-v2.webp"},
   {
     id: "indian-ocean-tuna-cannery-economic-v2",
     type: "industry",
@@ -119,8 +117,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Main exporter of industrial goods.",
         "Central pillar of the Seychellois economy."
       ]
-    }
-  },
+    }, image: "/poi-images/indian-ocean-tuna-cannery-economic-v2.webp"},
   {
     id: "seychelles-breweries-le-rocher-economic-v2",
     type: "industry",
@@ -159,8 +156,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Also produces soft drinks under license.",
         "Located in the Le Rocher industrial area."
       ]
-    }
-  },
+    }, image: "/poi-images/seychelles-breweries-le-rocher-economic-v2.webp"},
   {
     id: "seypec-victoria-depot-economic-v2",
     type: "industry",
@@ -199,8 +195,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Stores gasoline, diesel, and aviation fuel.",
         "Critical facility for maritime traffic."
       ]
-    }
-  },
+    }, image: "/poi-images/seypec-victoria-depot-economic-v2.webp"},
   {
     id: "puc-electricity-plant-roche-caiman-economic-v2",
     type: "industry",
@@ -239,8 +234,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Uses large diesel generators for power generation.",
         "Backbone of the national electricity grid."
       ]
-    }
-  },
+    }, image: "/poi-images/puc-electricity-plant-roche-caiman-economic-v2.webp"},
   {
     id: "puc-power-station-praslin-economic-v2",
     type: "industry",
@@ -279,8 +273,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Critical for the tourism industry on Praslin.",
         "Located near the port area."
       ]
-    }
-  },
+    }, image: "/poi-images/puc-power-station-praslin-economic-v2.webp"},
   {
     id: "providence-water-desalination-economic-v2",
     type: "industry",
@@ -359,8 +352,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Ensures supply to rural districts.",
         "Part of the national water infrastructure."
       ]
-    }
-  },
+    }, image: "/poi-images/anse-boileau-water-plant-economic-v2.webp"},
   {
     id: "seychelles-airport-cargo-terminal-economic-v2",
     type: "industry",
@@ -399,8 +391,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Houses customs and logistics facilities.",
         "Direct connection to international flight routes."
       ]
-    }
-  },
+    }, image: "/poi-images/seychelles-airport-cargo-terminal-economic-v2.webp"},
   {
     id: "stc-providence-warehouse-economic-v2",
     type: "industry",
@@ -439,8 +430,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Center of national commodity logistics.",
         "Critical for price stability in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/stc-providence-warehouse-economic-v2.webp"},
   {
     id: "seas-cable-landing-station-economic-v2",
     type: "industry",
@@ -479,8 +469,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Connection between Mahé and Dar es Salaam.",
         "Enables modern digital services."
       ]
-    }
-  },
+    }, image: "/poi-images/seas-cable-landing-station-economic-v2.webp"},
   {
     id: "ucps-quarry-cascade-economic-v2",
     type: "industry",
@@ -519,8 +508,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Main supplier for the construction sector.",
         "Utilizes the island's natural granite resources."
       ]
-    }
-  },
+    }, image: "/poi-images/ucps-quarry-cascade-economic-v2.webp"},
   {
     id: "ccc-quarry-grand-anse-economic-v2",
     type: "industry",
@@ -559,8 +547,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Supplies granite blocks and aggregates.",
         "Essential part of local industrial production."
       ]
-    }
-  },
+    }, image: "/poi-images/ccc-quarry-grand-anse-economic-v2.webp"},
   {
     id: "coetivy-aquaculture-centre-economic-v2",
     type: "industry",
@@ -599,8 +586,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Utilizes the clean waters of the outer islands.",
         "Promotes economic diversification."
       ]
-    }
-  },
+    }, image: "/poi-images/coetivy-aquaculture-centre-economic-v2.webp"},
   {
     id: "amitié-airport-logistics-economic-v2",
     type: "industry",
@@ -639,8 +625,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Critical for the supply of Praslin island.",
         "Transfer point for mail and small cargo."
       ]
-    }
-  },
+    }, image: "/poi-images/amitié-airport-logistics-economic-v2.webp"},
   {
     id: "bel-ombre-cold-store-economic-v2",
     type: "industry",
@@ -679,8 +664,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Ensures maintenance of the cold chain.",
         "Important for food security."
       ]
-    }
-  },
+    }, image: "/poi-images/bel-ombre-cold-store-economic-v2.webp"},
   {
     id: "providence-fish-processing-zone-economic-v2",
     type: "industry",
@@ -719,8 +703,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Center for quality swordfish export.",
         "Part of the country's blue economy plan."
       ]
-    }
-  },
+    }, image: "/poi-images/providence-fish-processing-zone-economic-v2.webp"},
   {
     id: "victoria-shipyard-complex-economic-v2",
     type: "port",
@@ -759,8 +742,7 @@ export const poiExtraSeychellesEconomicV2: POI[] = [
         "Critical for the maintenance of the fishing fleet.",
         "Long-standing company in the port area."
       ]
-    }
-  },
+    }, image: "/poi-images/victoria-shipyard-complex-economic-v2.webp"},
   {
     id: "ferry-terminal-cat-cocos-economic-v2",
     type: "port",

@@ -25,8 +25,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["Hivatalos neve: Tengerparti Nemzeti Park", "Hossza több mint 26 kilométer", "1909-ben alapították, és folyamatosan bővítik", "Itt található a 'Kis Velence' csatornarendszer", "Magában foglalja a Szőnyegmúzeumot és a Mugham Központot", "A 'Baku Eye' óriáskerékről csodálatos kilátás nyílik", "Számos kávézó és játszótér található itt", "Gyakran ad otthont nyilvános ünnepségeknek és koncerteknek"],
       ro: ["Nume oficial: Parcul Național de pe Litoral", "Lungime de peste 26 de kilometri", "Fondat în 1909 și în continuă expansiune", "Găzduiește 'Mica Veneție' cu canalele sale", "Include Muzeul Covorului și Centrul Mugham", "Roata 'Baku Eye' oferă o priveliște minunată", "Numeroase cafenele și locuri de joacă disponibile", "Loc frecvent pentru sărbători publice și concerte"],
       en: ["Official name: Seaside National Park", "Length of over 26 kilometers", "Founded in 1909 and continuously expanding", "Features 'Little Venice' with its canals", "Includes the Carpet Museum and the Mugham Center", "The 'Baku Eye' Ferris wheel offers a wonderful view", "Numerous cafes and playgrounds available", "Frequent venue for public celebrations and concerts"]
-    }
-  },
+    }, image: "/poi-images/baku-boulevard-life-v2.webp"},
   {
     id: "dalga-beach-aquapark-life-v2",
     type: "kid-friendly",
@@ -51,8 +50,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["Azerbajdzsán egyik legnagyobb víziparkja", "Több mint 12 különböző vízicsúszdával rendelkezik", "Van egy nagy hullámmedencéje", "Külön gyermekrészlegek biztonságos medencékkel", "A 'Lusta Folyó' egy népszerű relaxációs attrakció", "A parkban több étterem és kávézó működik", "Közvetlen hozzáférést biztosít a Kaszpi-tenger strandjához", "Mardakan üdülőövezetében található"],
       ro: ["Unul dintre cele mai mari parcuri acvatice din Azerbaidjan", "Are peste 12 tobogane de apă diferite", "Dispune de o piscină mare cu valuri", "Zone separate pentru copii cu piscine sigure", "'Lazy River' este o atracție populară de relaxare", "Mai multe restaurante și cafenele în parc", "Oferă acces direct la plaja Mării Caspice", "Situat în stațiunea Mardakan"],
       en: ["One of the largest water parks in Azerbaijan", "Features over 12 different water slides", "Has a large wave pool", "Separate children's areas with safe pools", "The 'Lazy River' is a popular relaxation attraction", "Several restaurants and cafes in the park", "Provides direct access to the Caspian Sea beach", "Located in the Mardakan resort area"]
-    }
-  },
+    }, image: "/poi-images/dalga-beach-aquapark-life-v2.webp"},
   {
     id: "baku-zoo-life-v2",
     type: "kid-friendly",
@@ -77,8 +75,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["1928-ban alapították, ez Azerbajdzsán legrégebbi állatkertje", "2021-ben teljesen felújították és modernizálták", "Több mint 1200 állatnak ad otthont", "Körülbelül 150 állatfaj található itt", "Külön hangsúlyt fektetnek a kaukázusi fajokra", "Részt vesz nemzetközi fajmegőrzési programokban", "Az új kifutók tágasabbak és természetesebb környezetet biztosítanak", "Fontos oktatási központ a városban"],
       ro: ["Fondată în 1928, cea mai veche grădină zoologică din Azerbaidjan", "Complet renovată și modernizată în 2021", "Găzduiește peste 1.200 de animale", "Aici se găsesc aproximativ 150 de specii de animale", "Accent deosebit pe speciile caucaziene", "Participă la programe internaționale de conservare a speciilor", "Noile incinte oferă un mediu mai spațios și mai natural", "Centru educațional important în oraș"],
       en: ["Founded in 1928, the oldest zoo in Azerbaijan", "Completely renovated and modernized in 2021", "Home to over 1,200 animals", "About 150 animal species can be found here", "Special focus on Caucasian species", "Participates in international species conservation programs", "The new enclosures provide a more spacious and natural environment", "Important educational center in the city"]
-    }
-  },
+    }, image: "/poi-images/baku-zoo-life-v2.webp"},
   {
     id: "zagatala-reserve-life-v2",
     type: "wildlife-area",
@@ -103,8 +100,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["1929-ben alapították, Azerbajdzsán egyik legrégebbi rezervátuma", "Területe több mint 47 000 hektár", "A Nagy-Kaukázus déli lejtőin található", "Főleg lombhullató erdők borítják (bükk, tölgy)", "Jelentős barnamedve és hiúz populációnak ad otthont", "Itt él a veszélyeztetett kelet-kaukázusi kőszáli kecske", "A turizmus szigorúan korlátozott a természetvédelem érdekében", "Fontos szerepet játszik a hegyi ökoszisztémák megőrzésében"],
       ro: ["Fondată în 1929, una dintre cele mai vechi rezervații din Azerbaidjan", "Suprafață de peste 47.000 de hectare", "Situată pe versanții sudici ai Caucazului Mare", "Acoperită în principal cu păduri de foioase (fag, stejar)", "Găzduiește populații semnificative de urși bruni și râși", "Habitat pentru capra ibex din Caucazul de Est, specie pe cale de dispariție", "Turismul este strict reglementat pentru protecția naturii", "Joacă un rol important în conservarea ecosistemelor montane"],
       en: ["Founded in 1929, one of the oldest reserves in Azerbaijan", "Area of over 47,000 hectares", "Located on the southern slopes of the Greater Caucasus", "Mainly covered by deciduous forests (beech, oak)", "Home to significant populations of brown bears and lynxes", "Habitat for the endangered East Caucasian tur", "Tourism is strictly regulated for nature protection", "Plays an important role in the conservation of mountain ecosystems"]
-    }
-  },
+    }, image: "/poi-images/zagatala-reserve-life-v2.webp"},
   {
     id: "ilisu-reserve-life-v2",
     type: "wildlife-area",
@@ -129,8 +125,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["1987-ben alapították a Qax régióban", "Területe 17 368 hektár", "Védi a Nagy-Kaukázus déli lejtőinek ökoszisztémáját", "Számos vízesés és mély szurdok található itt", "Gazdag endemikus és ritka növényfajokban", "Fontos élőhelye a kelet-kaukázusi kőszáli kecskének és a zergének", "Ősi kaukázusi albán romok is találhatók a területén", "Célja a szubalpin és alpesi zónák megőrzése"],
       ro: ["Fondată în 1987 în regiunea Qax", "Suprafață de 17.368 de hectare", "Protejează ecosistemele de pe versantul sudic al Caucazului Mare", "Numeroase cascade și chei adânci", "Bogată în specii de plante endemice și rare", "Habitat important pentru capra ibex din Caucazul de Est și capra neagră", "Ruine ale vechilor biserici albaneze caucaziene pe teritoriu", "Scopul este conservarea zonelor subalpine și alpine"],
       en: ["Established in 1987 in the Qax region", "Area of 17,368 hectares", "Protects the ecosystems of the southern slope of the Greater Caucasus", "Numerous waterfalls and deep gorges", "Rich in endemic and rare plant species", "Important habitat for the East Caucasian tur and chamois", "Ruins of ancient Caucasian Albanian churches on the territory", "Aims to preserve the subalpine and alpine zones"]
-    }
-  },
+    }, image: "/poi-images/ilisu-reserve-life-v2.webp"},
   {
     id: "lankaran-tea-plantations-life-v2",
     type: "agriculture",
@@ -155,8 +150,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["Azerbajdzsán teatermesztésének központja", "A nedves szubtrópusi klíma ideális a tea számára", "A hagyományok a 19. századig nyúlnak vissza", "A helyi 'Azerçay' márka országosan ismert", "A régió a Kaszpi-tenger és a Talysh-hegység között fekszik", "A teázás a vendégszeretet szerves része Azerbajdzsánban", "A zöld teaültetvények festői látványt nyújtanak", "Lehetőség van teakóstolásra és a feldolgozás megtekintésére"],
       ro: ["Centrul producției de ceai din Azerbaidjan", "Clima subtropicală umedă este ideală pentru ceai", "Tradiția datează din secolul al XIX-lea", "Marca locală 'Azerçay' este cunoscută la nivel național", "Regiunea este situată între Marea Caspică și Munții Talysh", "Ceaiul este o parte integrantă a ospitalității azere", "Plantațiile verzi de ceai oferă o priveliște pitorească", "Oportunitate de a degusta ceai și de a vizita procesarea"],
       en: ["Center of tea production in Azerbaijan", "The humid subtropical climate is ideal for tea", "The tradition dates back to the 19th century", "The local brand 'Azerçay' is nationally known", "The region is located between the Caspian Sea and the Talysh Mountains", "Tea is an integral part of Azerbaijani hospitality", "The green tea plantations offer a picturesque sight", "Opportunity for tea tasting and visiting the processing"]
-    }
-  },
+    }, image: "/poi-images/lankaran-tea-plantations-life-v2.webp"},
   {
     id: "goychay-pomegranate-orchards-life-v2",
     type: "agriculture",
@@ -207,8 +201,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["2004-ben alapították", "Területe 11 035 hektár", "A Nagy-Kaukázus északkeleti lejtőin fekszik", "Főleg lombhullató erdők borítják", "Fontos élőhelye a barnamedvének és a hiúznak", "Vadon élő állatok rehabilitációs központjaként is működik", "Népszerű ökoturisztikai célpont Bakuból", "Neve egy régi távolság-mértékegységből származik"],
       ro: ["Fondat în 2004", "Suprafață de 11.035 hectare", "Situat pe versanții nord-estici ai Caucazului Mare", "Acoperit în principal de păduri de foioase", "Habitat important pentru urși bruni și râși", "Funcționează și ca centru de reabilitare pentru animale sălbatice", "Destinație populară de ecoturism din Baku", "Numele provine de la o veche unitate de distanță"],
       en: ["Established in 2004", "Area of 11,035 hectares", "Located on the northeastern slopes of the Greater Caucasus", "Mainly covered by deciduous forests", "Important habitat for brown bears and lynxes", "Also functions as a wildlife rehabilitation center", "Popular ecotourism destination from Baku", "The name comes from an old unit of distance"]
-    }
-  },
+    }, image: "/poi-images/altyaghach-national-park-life-v2.webp"},
   {
     id: "guba-apple-orchards-life-v2",
     type: "agriculture",
@@ -259,8 +252,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["1958-ban alapították", "Területe 22 500 hektár", "Célja a száraz erdők, főleg a pisztácia- és borókaerdők védelme", "Fontos szerepet játszik a talajerózió megakadályozásában", "A Kura-Araz alföldön található", "Élőhelyet biztosít farkasoknak, rókáknak és számos madárfajnak", "Segíti a helyi klíma szabályozását", "Az egykor kiterjedt száraz erdők maradványait őrzi"],
       ro: ["Fondată în 1958", "Suprafață de 22.500 de hectare", "Scopul este protejarea pădurilor aride, în principal a celor de fistic și ienupăr", "Joacă un rol important în prevenirea eroziunii solului", "Situată în Câmpia Kura-Araz", "Oferă habitat pentru lupi, vulpi și numeroase specii de păsări", "Ajută la reglarea climei locale", "Conservează rămășițele pădurilor uscate odinioară extinse"],
       en: ["Established in 1958", "Area of 22,500 hectares", "Aims to protect arid forests, mainly pistachio and juniper", "Plays an important role in preventing soil erosion", "Located in the Kura-Araz Lowland", "Provides habitat for wolves, foxes, and numerous bird species", "Helps regulate the local climate", "Preserves the remnants of once-extensive dry forests"]
-    }
-  },
+    }, image: "/poi-images/turyancay-reserve-life-v2.webp"},
   {
     id: "ganja-khan-garden-life-v2",
     type: "park",
@@ -311,8 +303,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["1934-ben alapították", "Az Azerbajdzsáni Tudományos Akadémia része", "Területe körülbelül 16 hektár", "Több mint 2000 növényfajnak ad otthont", "A gyűjtemény a kaukázusi flórára összpontosít", "Fontos szerepet játszik a fajok megőrzésében és az oktatásban", "Szabadtéri laboratórium kutatók számára", "Népszerű pihenőhely a városlakók körében"],
       ro: ["Fondată în 1934", "Parte a Academiei Naționale de Științe din Azerbaidjan", "Acoperă o suprafață de aproximativ 16 hectare", "Găzduiește peste 2.000 de specii de plante", "Colecția se concentrează pe flora caucaziană", "Joacă un rol important în conservarea și educația speciilor", "Laborator în aer liber pentru cercetători", "Loc de recreere popular pentru locuitorii orașului"],
       en: ["Founded in 1934", "Part of the Azerbaijan National Academy of Sciences", "Covers an area of about 16 hectares", "Home to over 2,000 plant species", "The collection focuses on Caucasian flora", "Plays an important role in species conservation and education", "Open-air laboratory for researchers", "Popular recreation spot for city dwellers"]
-    }
-  },
+    }, image: "/poi-images/baku-botanical-garden-life-v2.webp"},
   {
     id: "samur-yalama-park-life-v2",
     type: "wildlife-area",
@@ -337,8 +328,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["2012-ben alapították a Khachmaz körzetben", "A Kaszpi-tenger partján fekszik", "Egyedülálló, harmadkori reliktum erdőket véd", "Erdőkből, vizes élőhelyekből és dűnékből áll", "Fontos szerepet játszik a talajvízkészletek védelmében", "Kulcsfontosságú folyosó a vándormadarak számára", "Népszerű a madármegfigyelők és ökoturisták körében", "Gazdag és változatos élővilággal rendelkezik"],
       ro: ["Fondat în 2012 în districtul Khachmaz", "Situat pe coasta Mării Caspice", "Protejează păduri relicte unice din terțiar", "Constă din păduri, zone umede și dune", "Rol important în protecția rezervelor de apă subterană", "Coridor cheie pentru păsările migratoare", "Popular printre observatorii de păsări și ecoturiști", "Are o faună și o floră bogată și diversă"],
       en: ["Established in 2012 in the Khachmaz district", "Located on the coast of the Caspian Sea", "Protects unique relict forests from the Tertiary period", "Consists of forests, wetlands, and dunes", "Important role in the protection of groundwater reserves", "Key corridor for migratory birds", "Popular with bird watchers and ecotourists", "Has a rich and diverse wildlife"]
-    }
-  },
+    }, image: "/poi-images/samur-yalama-park-life-v2.webp"},
   {
     id: "gizil-agach-reserve-life-v2",
     type: "wildlife-area",
@@ -363,8 +353,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["1929-ben alapították, a Kaszpi-tenger partján", "Nemzetközileg elismert Ramsari vizes élőhely", "Nyugat-Ázsia egyik legfontosabb madár-telelőhelye", "Több mint 240 madárfajt figyeltek meg itt", "Hatalmas flamingó-, pelikán- és kormoránkolóniáknak ad otthont", "Évente több millió vándormadár pihen meg itt", "Sekély öblökből és édesvizű tavakból áll", "Kulcsfontosságú a globális madárvédelem szempontjából"],
       ro: ["Fondată în 1929, pe coasta Mării Caspice", "Zonă umedă Ramsar recunoscută la nivel internațional", "Unul dintre cele mai importante locuri de iernat pentru păsări din Asia de Vest", "Peste 240 de specii de păsări au fost observate aici", "Găzduiește colonii uriașe de flamingo, pelicani și cormorani", "Milioane de păsări migratoare se odihnesc aici anual", "Constă din golfuri puțin adânci și lacuri de apă dulce", "Crucial pentru conservarea globală a păsărilor"],
       en: ["Established in 1929 on the Caspian coast", "Internationally recognized Ramsar wetland", "One of West Asia's most important bird wintering grounds", "Over 240 bird species have been observed here", "Hosts huge colonies of flamingos, pelicans and cormorants", "Millions of migratory birds rest here annually", "Consists of shallow bays and freshwater lakes", "Crucial for global bird conservation"]
-    }
-  },
+    }, image: "/poi-images/gizil-agach-reserve-life-v2.webp"},
   {
     id: "qabaland-amusement-park-life-v2",
     type: "kid-friendly",
@@ -467,8 +456,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["2003-ban alapították Nahicsevánban", "Magában foglalja a festői Batabat-tavat", "A Batabat-tó egy úszó tőzegszigettel rendelkezik", "Védi a régió vízkészleteit és hegyi flóráját", "Ismert gyógynövényeiről és ásványvízforrásairól", "Fontos élőhelye a bezoárkecskének", "Magashegyi alpesi és szubalpin táj jellemzi", "Kutatóközpontként is működik"],
       ro: ["Fondată în 2003 în Nahicevan", "Include pitorescul Lac Batabat", "Lacul Batabat are o insulă plutitoare de turbă", "Protejează resursele de apă și flora montană a regiunii", "Cunoscută pentru plantele medicinale și izvoarele minerale", "Habitat important pentru capra bezoar", "Caracterizată de un peisaj alpin și subalpin înalt", "Funcționează și ca centru de cercetare"],
       en: ["Established in 2003 in Nakhchivan", "Includes the picturesque Batabat Lake", "Batabat Lake has a floating peat island", "Protects the region's water resources and mountain flora", "Known for its medicinal plants and mineral springs", "Important habitat for the bezoar goat", "Characterized by high alpine and subalpine landscape", "Also functions as a research center"]
-    }
-  },
+    }, image: "/poi-images/shahbuz-reserve-life-v2.webp"},
   {
     id: "gabala-hazelnut-plantations-life-v2",
     type: "agriculture",
@@ -493,8 +481,7 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
       hu: ["Azerbajdzsán egyik legfontosabb mogyorótermesztő központja", "Azerbajdzsán a világ vezető mogyorótermelői közé tartozik", "A termékeny talaj és a mérsékelt éghajlat ideális a termesztéshez", "A mogyoró fontos exportcikk", "Az ültetvények jelentős gazdasági szerepet játszanak a régióban", "A betakarítás késő nyáron történik", "A mogyoróültetvények meghatározzák a vidéki tájképet", "A helyi gazdaság alapját képezi"],
       ro: ["Unul dintre cele mai importante centre de cultivare a alunelor din Azerbaidjan", "Azerbaidjanul este unul dintre liderii mondiali în producția de alune", "Solurile fertile și clima temperată sunt ideale pentru cultivare", "Alunele sunt un important produs de export", "Plantațiile joacă un rol economic important în regiune", "Recoltarea are loc la sfârșitul verii", "Plantațiile de aluni modelează peisajul rural", "Constituie baza economiei locale"],
       en: ["One of the most important centers of hazelnut cultivation in Azerbaijan", "Azerbaijan is one of the world's leading hazelnut producers", "Fertile soils and temperate climate are ideal for cultivation", "Hazelnuts are an important export commodity", "The plantations play an important economic role in the region", "Harvesting takes place in late summer", "The hazelnut plantations shape the rural landscape", "Forms the basis of the local economy"]
-    }
-  },
+    }, image: "/poi-images/gabala-hazelnut-plantations-life-v2.webp"},
   {
     id: "shamkir-greenhouses-life-v2",
     type: "agriculture",

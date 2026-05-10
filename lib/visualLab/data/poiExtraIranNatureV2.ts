@@ -30,8 +30,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Erreicht eine maximale Höhe von 5609 Metern über dem Meeresspiegel.", "Liegt ungefähr 66 Kilometer nordöstlich der iranischen Hauptstadt Teheran.", "Der Vulkan gilt als ruhend, zeigt jedoch noch aktive Fumarolen.", "Die erste dokumentierte Besteigung erfolgte im Jahr 1837 durch W. T. Thomson.", "Der Berg ist ein zentrales Symbol in der klassischen persischen Poesie.", "Auf den oberen Hängen findet man im Sommer Schwefelablagerungen.", "Die Umgebung wurde 2008 zum nationalen Naturerbe Irans erklärt."],
       hu: ["Magassága eléri a pontosan 5609 métert a tengerszint felett.", "Körülbelül 66 kilométerre északkeletre fekszik az iráni fővárostól.", "A szunnyadó vulkán kénes gázokat kibocsátó fumarolákkal rendelkezik.", "Az első dokumentált sikeres megmászása 1837-ben történt.", "A hegy központi szimbólum a klasszikus perzsa költészetben.", "A felső lejtőkön a nyári hónapokban jelentős kénlerakódások figyelhetők meg.", "A területet 2008-ban hivatalosan is iráni nemzeti természeti örökséggé nyilvánították."],
       en: ["Reaches a maximum elevation of exactly 5609 meters above sea level.", "Located approximately 66 kilometers northeast of the Iranian capital Tehran.", "The dormant volcano has active fumaroles emitting sulfurous gases near the summit.", "The first documented successful ascent took place in the year 1837.", "The mountain is a central symbol in classical Persian poetry and mythology.", "Significant sulfur deposits can be observed on the upper slopes during summer.", "The surrounding area was officially declared an Iranian national natural heritage site in 2008."]
-    }
-  },
+    }, image: "/poi-images/mount-damavand-nature-v2.webp"},
   {
     id: "lake-urmia-nature-v2",
     type: "lake",
@@ -61,8 +60,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Bedeckte in der Vergangenheit eine Fläche von rund 5200 Quadratkilometern.", "Der Salzgehalt des Wassers kann bis zu 340 Gramm pro Liter erreichen.", "War historisch der sechstgrößte Salzwassersee auf dem Planeten Erde.", "Beherbergt exakt 102 kleine Inseln innerhalb des gesamten Seebeckens.", "Die maximale Wassertiefe lag in niederschlagsreichen Jahren bei 16 Metern.", "Dient als wichtiger Rastplatz für Tausende von Rosaflamingos und Pelikanen.", "Die Kabudan-Insel ist die größte Insel im gesamten Seengebiet."],
       hu: ["A múltban mintegy 5200 négyzetkilométeres vízfelülettel rendelkezett.", "A víz sótartalma elérheti a 340 grammot literenként.", "Történelmileg a Föld hatodik legnagyobb sós vizű tavaként tartották számon.", "Pontosan 102 apró sziget helyezkedik el a tó medencéjében.", "A maximális vízmélység a csapadékosabb években elérte a 16 métert.", "Fontos pihenőhelyként szolgál több ezer rózsás flamingó és pelikán számára.", "A Kabudan-sziget a legnagyobb kiterjedésű szárazföld a tó területén."],
       en: ["Historically covered a total surface area of approximately 5200 square kilometers.", "The water salinity can reach an extreme level of 340 grams per liter.", "It was historically considered the sixth largest saltwater lake on Earth.", "Exactly 102 small islands are located within the lake basin.", "The maximum water depth reached 16 meters during wetter years.", "Serves as a crucial resting place for thousands of rosy flamingos and pelicans.", "Kabudan Island is the largest landmass within the lake area."]
-    }
-  },
+    }, image: "/poi-images/lake-urmia-nature-v2.webp"},
   {
     id: "karun-river-nature-v2",
     type: "river",
@@ -92,8 +90,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Besitzt eine geschätzte Gesamtlänge von ungefähr 950 Kilometern.", "Entspringt im Zardkuh-Gebirge auf einer Höhe von über 4000 Metern.", "Ist der einzige Fluss im Iran, der für große Schiffe schiffbar ist.", "Die schiffbare Strecke erstreckt sich über 190 Kilometer bis nach Ahvaz.", "Die Shahid-Abbaspour-Talsperre am Fluss liefert große Mengen an elektrischem Strom.", "Das Flusstal war das historische Zentrum des antiken elamischen Reiches.", "Mündet in den Schatt al-Arab in der Nähe der irakischen Grenze."],
       hu: ["Teljes hossza becslések szerint megközelítőleg 950 kilométer.", "A Zardkuh-hegységben ered, több mint 4000 méteres magasságban.", "Irán egyetlen olyan folyója, amely alkalmas a nagyhajózásra.", "A hajózható szakasz 190 kilométer hosszan nyúlik el Ahváz városáig.", "A Sahid Abbászpur-gát jelentős mennyiségű elektromos áramot termel.", "A folyóvölgy egykor az ókori Elámi Birodalom központja volt.", "Az iraki határ közelében egyesül a Satt el-Arab vízrendszerével."],
       en: ["Has an estimated total length of approximately 950 kilometers from source to mouth.", "Originates in the Zardkuh mountains at an elevation exceeding 4000 meters.", "The only river in Iran that allows commercial navigation for large ships.", "The navigable section stretches for 190 kilometers up to the city of Ahvaz.", "The Shahid Abbaspour Dam generates significant amounts of electricity.", "The river valley was once the center of the ancient Elamite Empire.", "It merges with the Shatt al-Arab water system near the Iraqi border."]
-    }
-  },
+    }, image: "/poi-images/karun-river-nature-v2.webp"},
   {
     id: "golestan-national-park-nature-v2",
     type: "national-park",
@@ -123,8 +120,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Wurde im Jahr 1957 als das erste offizielle Naturschutzgebiet Irans gegründet.", "Umfasst eine gesamte Landfläche von exakt 918 Quadratkilometern.", "Die Höhe des Parks variiert zwischen 400 und 2800 Metern über dem Meeresspiegel.", "Beheimatet nachweislich mehr als 1300 verschiedene Pflanzenarten in seinen Grenzen.", "Bietet einen natürlichen Lebensraum für mindestens 69 bekannte Säugetierarten.", "Der Persische Leopard gehört zu den wichtigsten Raubtieren im Schutzgebiet.", "Der Park liegt größtenteils in der nördlichen Provinz Golestan."],
       hu: ["1957-ben hozták létre Irán első hivatalos természetvédelmi területeként.", "A park teljes szárazföldi kiterjedése pontosan 918 négyzetkilométer.", "A terület magassága 400 és 2800 méter között váltakozik.", "Több mint 1300 különböző növényfajt regisztráltak a határain belül.", "Legalább 69 dokumentált emlősfajnak biztosít természetes élőhelyet.", "A perzsa leopárd a védett terület egyik legjelentősebb ragadozója.", "A nemzeti park túlnyomó része az északi Golesztán tartományban fekszik."],
       en: ["Established in 1957 as the first official protected natural area in Iran.", "The total land extension of the park is exactly 918 square kilometers.", "The elevation of the territory alternates between 400 and 2800 meters.", "More than 1300 different plant species are registered within its borders.", "Provides a natural habitat for at least 69 documented mammal species.", "The Persian leopard is one of the most significant predators in the protected area.", "The vast majority of the national park lies in the northern Golestan province."]
-    }
-  },
+    }, image: "/poi-images/golestan-national-park-nature-v2.webp"},
   {
     id: "hyrcanian-forests-nature-v2",
     type: "forest",
@@ -154,8 +150,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Das Waldgebiet erstreckt sich über eine Länge von etwa 850 Kilometern.", "Die Wälder existieren durchgehend seit etwa 25 bis 50 Millionen Jahren.", "Sie umfassen eine Gesamtfläche von fast 1,9 Millionen Hektar Land.", "Wurden im Jahr 2019 offiziell zum UNESCO-Weltnaturerbe erklärt.", "Die jährliche Niederschlagsmenge kann bis zu 2000 Millimeter betragen.", "Die Orientalische Buche gehört zu den am weitesten verbreiteten Baumarten.", "Das Gebiet ist ein wichtiger Lebensraum für den Persischen Leoparden."],
       hu: ["Az erdősáv megközelítőleg 850 kilométer hosszan terül el a tengerpart mentén.", "A növénytakaró mintegy 25-50 millió éve folyamatosan jelen van.", "A teljes erdőterület kiterjedése eléri a közel 1,9 millió hektárt.", "2019-ben hivatalosan is az UNESCO Világörökség részévé nyilvánították.", "Az éves csapadékmennyiség egyes zónákban a 2000 millimétert is elérheti.", "A keleti bükk a régió egyik legelterjedtebb és legmeghatározóbb fafaja.", "A kiterjedt terület kritikus élőhelyet jelent a perzsa leopárdok számára."],
       en: ["The forest belt stretches for approximately 850 kilometers along the coastline.", "The vegetation cover has been continuously present for about 25 to 50 million years.", "The total forest area extent reaches nearly 1.9 million hectares.", "Officially declared a UNESCO World Heritage site in the year 2019.", "Annual precipitation levels in certain zones can reach up to 2000 millimeters.", "The Oriental beech is one of the most widespread and defining tree species.", "The extensive territory represents a critical habitat for Persian leopards."]
-    }
-  },
+    }, image: "/poi-images/hyrcanian-forests-nature-v2.webp"},
   {
     id: "kavir-national-park-nature-v2",
     type: "national-park",
@@ -185,8 +180,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Das Schutzgebiet umfasst eine Gesamtfläche von ungefähr 4000 Quadratkilometern.", "Der Nationalpark liegt am westlichen Rand der Wüste Dascht-e Kavir.", "Bietet einen lebenswichtigen Lebensraum für den seltenen Asiatischen Geparden.", "Die Region erstreckt sich über Teile von vier verschiedenen iranischen Provinzen.", "Der Namaksee befindet sich unmittelbar an der Grenze des Parks.", "Temperaturschwankungen zwischen Tag und Nacht können extrem hoch ausfallen.", "Ist ein wichtiger Zufluchtsort für den wilden Persischen Halbesel."],
       hu: ["A védett övezet kiterjedése megközelítőleg 4000 négyzetkilométert tesz ki.", "A nemzeti park a Dast-e Kavir sivatag nyugati határánál helyezkedik el.", "Létfontosságú élőhelyet biztosít a rendkívül ritka ázsiai gepárd számára.", "A kiterjedt régió négy különböző iráni tartomány területét is érinti.", "A Namak-sóstó közvetlenül a nemzeti park adminisztratív határánál fekszik.", "A nappali és éjszakai hőmérséklet-különbség az év nagy részében extrém.", "Kiemelt jelentőségű menedékhely a vadon élő perzsa félszamarak számára."],
       en: ["The extent of the protected zone is approximately 4000 square kilometers.", "The national park is located at the western border of the Dasht-e Kavir desert.", "Provides a vital habitat for the extremely rare Asiatic cheetah population.", "The extensive region touches the territories of four different Iranian provinces.", "The Namak salt lake lies directly at the administrative boundary of the national park.", "The temperature difference between day and night is extreme for most of the year.", "It is a sanctuary of major importance for wild Persian onagers."]
-    }
-  },
+    }, image: "/poi-images/kavir-national-park-nature-v2.webp"},
   {
     id: "zayanderud-river-nature-v2",
     type: "river",
@@ -216,8 +210,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Erreicht eine Gesamtlänge von ungefähr 400 Kilometern auf dem Zentralplateau.", "Entspringt im Zardkuh-Gebirge in einer Höhe von mehreren tausend Metern.", "Mündet in den saisonalen Salzsumpf des abflusslosen Gawchuni-Sees.", "Die historische Chadschu-Brücke über den Fluss wurde im 17. Jahrhundert erbaut.", "Überspannt von der berühmten Sio-se-Pol-Brücke mit ihren 33 Bögen.", "Übermäßige Wassernutzung führt in den Sommermonaten zur häufigen Austrocknung.", "War historisch die wichtigste Wasserquelle für die Stadtentwicklung von Isfahan."],
       hu: ["A központi fennsíkon mért teljes hossza eléri a 400 kilométert.", "A Zardkuh-hegységben ered, több ezer méteres tengerszint feletti magasságban.", "Vízhozama a Gavhuni-tó szezonális, lefolyás nélküli sós mocsarába ömlik.", "A folyót keresztező történelmi Khadzsu-hidat a 17. században építették.", "A világhírű Szi-o-sze-pol híd 33 boltíve ível át a vízfolyáson.", "A túlzott vízhasználat miatt a nyári hónapokban gyakran teljesen kiszárad.", "Történelmileg Iszfahán városfejlődésének legfontosabb és egyetlen vízforrása volt."],
       en: ["Its total length measured on the central plateau reaches 400 kilometers.", "Originates in the Zardkuh mountains at several thousand meters above sea level.", "Its water discharge flows into the seasonal closed salt marsh of Gavkhouni lake.", "The historical Khaju Bridge crossing the river was constructed in the 17th century.", "The 33 arches of the world-famous Si-o-se-pol bridge span the watercourse.", "Often completely dries up during the summer months due to excessive water use.", "Historically served as the most important and sole water source for Isfahan urban development."]
-    }
-  },
+    }, image: "/poi-images/zayanderud-river-nature-v2.webp"},
   {
     id: "mount-sabalan-nature-v2",
     type: "mountain",
@@ -247,8 +240,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Erreicht eine Höhe von exakt 4811 Metern über dem Meeresspiegel.", "Ist der dritthöchste Berggipfel innerhalb der Staatsgrenzen Irans.", "Besitzt einen permanenten Kratersee, der fast ganzjährig mit Eis bedeckt ist.", "Zahlreiche mineralhaltige Thermalquellen entspringen an den Flanken des Berges.", "Liegt vornehmlich im Gebiet der nordwestlichen Provinz Ardabil.", "Wird in lokalen zoroastrischen Traditionen oft als heiliger Berg verehrt.", "Die Sommerweiden am Berg werden von traditionellen Nomadenstämmen genutzt."],
       hu: ["A hegycsúcs pontosan 4811 méteres tengerszint feletti magasságba emelkedik.", "Hivatalosan Irán harmadik legmagasabb pontjaként tartják számon.", "Állandó krátertóval rendelkezik, amelyet az év nagy részében jég borít.", "A hegyoldalakon számos ásványi anyagokban gazdag termálforrás fakad.", "Földrajzilag az északnyugati Ardabíl tartomány területén helyezkedik el.", "A helyi zoroasztriánus közösségek hagyományosan szent hegyként tisztelik.", "A nyári magaslati legelőket a hagyományos nomád törzsek állattartásra használják."],
       en: ["The peak rises to exactly 4811 meters above sea level.", "Officially recorded as the third highest point in the country of Iran.", "Features a permanent crater lake covered by ice for the majority of the year.", "Numerous mineral-rich thermal springs emerge on the mountain slopes.", "Geographically situated within the territory of the northwestern Ardabil province.", "Traditionally revered as a sacred mountain by local Zoroastrian communities.", "The high-altitude summer pastures are used for livestock by traditional nomadic tribes."]
-    }
-  },
+    }, image: "/poi-images/mount-sabalan-nature-v2.webp"},
   {
     id: "zarivar-lake-nature-v2",
     type: "lake",
@@ -278,8 +270,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Befindet sich auf einer Höhe von 1285 Metern über dem Meeresspiegel.", "Der See besitzt eine Länge von etwa 5 Kilometern in Nord-Süd-Richtung.", "Erreicht eine maximale Wassertiefe von ungefähr 5,5 Metern.", "Wird ausschließlich von unterirdischen Quellen und direktem Niederschlag gespeist.", "Die Uferbereiche sind dicht mit Schilf und angrenzenden Eichenwäldern bewachsen.", "Liegt in unmittelbarer Nähe zur kurdischen Stadt Marivan im Westiran.", "Dient in den kalten Wintermonaten oft als natürliche, zugefrorene Eisfläche."],
       hu: ["A vízfelület pontosan 1285 méteres tengerszint feletti magasságban helyezkedik el.", "Észak-déli irányú kiterjedése eléri a megközelítőleg 5 kilométeres hosszt.", "A tómeder maximális vízmélysége körülbelül 5,5 méter körül mozog.", "Kizárólag felszín alatti források és a közvetlen csapadék táplálja.", "A part menti zónákat sűrű nádasok és egybefüggő tölgyerdők borítják.", "Közvetlenül a nyugat-iráni Mariván városának szomszédságában található.", "A hideg téli hónapokban a befagyott felszín természetes jégpályaként szolgál."],
       en: ["The water surface is situated exactly at an elevation of 1285 meters above sea level.", "Its north-south extent reaches a length of approximately 5 kilometers.", "The maximum water depth of the lake basin hovers around 5.5 meters.", "Fed exclusively by subsurface springs and direct atmospheric precipitation.", "The coastal zones are covered by dense reed beds and continuous oak forests.", "Located directly in the vicinity of the western Iranian city of Marivan.", "During the cold winter months, the frozen surface serves as a natural ice rink."]
-    }
-  },
+    }, image: "/poi-images/zarivar-lake-nature-v2.webp"},
   {
     id: "khar-turan-national-park-nature-v2",
     type: "national-park",
@@ -309,8 +300,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Das Reservat umfasst eine gewaltige Landfläche von über 14.000 Quadratkilometern.", "Wurde von der UNESCO offiziell als wichtiges Biosphärenreservat anerkannt.", "Der jährliche Niederschlag in der Region liegt oft bei unter 150 Millimetern.", "Beheimatet die größte bekannte Population des stark gefährdeten Asiatischen Geparden.", "Ist ein wichtiger Lebensraum für große Herden des Persischen Halbesels.", "Liegt im südöstlichen Teil der Provinz Semnan am Rande der Wüste.", "Die Landschaftsstruktur wird von weiten Salzpfannen und trockenen Sanddünen dominiert."],
       hu: ["A rezervátum területe jelentősen meghaladja a 14 000 négyzetkilométert.", "Az UNESCO hivatalosan is kiemelt fontosságú bioszféra-rezervátumként tartja számon.", "Az éves csapadékmennyiség a régióban többnyire 150 milliméter alatt marad.", "A kritikusan veszélyeztetett ázsiai gepárd legnagyobb ismert populációjának ad otthont.", "Kulcsfontosságú természetes élőhely a vadon élő perzsa félszamarak számára.", "Földrajzilag Szemnán tartomány délkeleti részén, a sivatag peremén fekszik.", "A tájképet hatalmas kiterjedésű sóserpenyők és száraz homokdűnék uralják."],
       en: ["The area of the reserve significantly exceeds 14,000 square kilometers.", "Officially recognized by UNESCO as a high-priority biosphere reserve.", "Annual precipitation in the region mostly remains below 150 millimeters.", "Hosts the largest known population of the critically endangered Asiatic cheetah.", "A crucial natural habitat for wild Persian onagers.", "Geographically located in the southeastern part of Semnan province, on the desert edge.", "The landscape is dominated by vast expanses of salt pans and dry sand dunes."]
-    }
-  },
+    }, image: "/poi-images/khar-turan-national-park-nature-v2.webp"},
   {
     id: "mount-tochal-nature-v2",
     type: "mountain",
@@ -340,8 +330,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Der Hauptgipfel erreicht eine exakte Höhe von 3964 Metern.", "Die Seilbahn überwindet eine Fahrstrecke von fast 7,5 Kilometern.", "Die Bergstation der Seilbahn liegt auf einer Höhe von 3740 Metern.", "Das Skigebiet bietet meist von Dezember bis April ausreichend Schnee.", "Startpunkt vieler Bergtouren ist das Viertel Velenjak auf 1900 Metern Höhe.", "Auf dem Berg befindet sich eines der höchstgelegenen Hotels der Welt.", "Die Südhänge des Berges grenzen direkt an die nördlichen Stadtteile Teherans."],
       hu: ["A fő csúcspont pontosan 3964 méteres tengerszint feletti magasságban van.", "A felvonórendszer teljes utazási hossza megközelíti a 7,5 kilométert.", "A drótkötélpálya legfelső hegyi állomása 3740 méteres magasságban épült.", "A helyi síterep általában decembertől áprilisig elegendő hóval rendelkezik.", "A túraútvonalak kiindulópontja az 1900 méteren lévő Velenjak negyed.", "A hegyen található szálloda a világ egyik legmagasabban fekvő hotelje.", "A hegy déli lejtői közvetlenül határosak Teherán északi kerületeivel."],
       en: ["The main summit point is at exactly 3964 meters above sea level.", "The total travel length of the cable car system approaches 7.5 kilometers.", "The uppermost mountain station of the telecabin was built at an altitude of 3740 meters.", "The local ski resort generally has sufficient snow coverage from December to April.", "The starting point for hiking trails is the Velenjak district located at 1900 meters.", "The hotel located on the mountain is one of the highest altitude hotels in the world.", "The southern slopes of the mountain directly border the northern districts of Tehran."]
-    }
-  },
+    }, image: "/poi-images/mount-tochal-nature-v2.webp"},
   {
     id: "lar-national-park-nature-v2",
     type: "national-park",
@@ -371,8 +360,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Das ausgewiesene Schutzgebiet umfasst eine Fläche von 73.500 Hektar.", "Wurde im Jahr 1976 offiziell als Nationalpark Irans ausgewiesen.", "Der Stausee liefert große Mengen Trinkwasser für die Millionenstadt Teheran.", "Die Hänge sind im späten Frühling für ihre roten Wildmohnblumen bekannt.", "Das kalte Bergwasser bietet den idealen Lebensraum für Bachforellen.", "Die Zufahrtswege sind im Winter aufgrund von meterhohem Schnee meist gesperrt.", "Der Park grenzt direkt an die südwestlichen Ausläufer des Dschamawand-Massivs."],
       hu: ["A hivatalosan kijelölt természetvédelmi terület 73 500 hektáros kiterjedéssel rendelkezik.", "1976-ban kapta meg hivatalosan is a nemzeti parki besorolást.", "A központi víztározó hatalmas mennyiségű ivóvizet biztosít Teherán lakosságának.", "A hegyoldalak késő tavasszal híresek a virágzó vörös vadpipacsokról.", "A jéghideg hegyi folyóvíz ideális élőhelyet biztosít a sebes pisztrángoknak.", "A bekötőutak a téli hónapokban a többméteres hó miatt járhatatlanok.", "A park közvetlenül a Damávand-masszívum délnyugati lábánál terül el."],
       en: ["The officially designated protected area has an extent of 73,500 hectares.", "Officially received the national park classification in the year 1976.", "The central reservoir provides massive amounts of drinking water to the population of Tehran.", "The mountainsides are famous in late spring for blooming red wild poppies.", "The ice-cold mountain river water provides an ideal habitat for brown trout.", "The access roads are impassable during the winter months due to snow several meters deep.", "The park lies directly at the southwestern foot of the Mount Damavand massif."]
-    }
-  },
+    }, image: "/poi-images/lar-national-park-nature-v2.webp"},
   {
     id: "alimastan-forest-nature-v2",
     type: "forest",
@@ -402,8 +390,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Gehört zur Ökoregion der historischen Hyrkanischen Wälder im Nordiran.", "Die typischen Wanderrouten starten auf einer Höhe von etwa 1500 Metern.", "Befindet sich in der gebirgigen Provinz Mazandaran nahe der Stadt Amol.", "Benannt nach der essbaren Wildpflanze Alima, die im Frühjahr wächst.", "Bietet auf dem Bergkamm freie Sicht auf den Gipfel des Dschamawand.", "Das Mikroklima sorgt oft für extrem dichten Nebel und kühle Temperaturen.", "Im Herbst ist der Wald für seine intensive und farbenfrohe Laubfärbung berühmt."],
       hu: ["Földrajzilag az észak-iráni ősi Hürkaniai-erdők ökorégiójához tartozik.", "A kijelölt túraútvonalak megközelítőleg 1500 méteres magasságban kezdődnek.", "Mazandarán hegyvidéki tartományában, Ámol városának vonzáskörzetében helyezkedik el.", "Nevét az ehető, tavasszal hajtó alima nevű vadnövényről kapta.", "A hegygerincről akadálytalan kilátás nyílik a Damávand vulkán csúcsára.", "A speciális mikroklíma gyakran sűrű ködöt és alacsony hőmérsékletet eredményez.", "Az őszi szezonban az erdő híres az intenzív, színpompás lombkoronáról."],
       en: ["Geographically belongs to the ecoregion of the ancient Hyrcanian Forests in northern Iran.", "The designated hiking trails begin at an altitude of approximately 1500 meters.", "Located in the mountainous Mazandaran province, within the catchment area of Amol city.", "Named after the edible wild plant called alima that sprouts in the spring.", "The mountain ridge offers an unobstructed view of the peak of the Damavand volcano.", "The special microclimate often results in dense fog and low temperatures.", "During the autumn season, the forest is famous for its intense, colorful foliage."]
-    }
-  },
+    }, image: "/poi-images/alimastan-forest-nature-v2.webp"},
   {
     id: "hara-forests-nature-v2",
     type: "forest",
@@ -433,8 +420,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Das geschützte Mangrovengebiet erstreckt sich über rund 20.000 Hektar.", "Wurde in Anerkennung seiner ökologischen Bedeutung zum UNESCO-Biosphärenreservat erklärt.", "Die Baumwurzeln reichen in der Regel drei bis sechs Meter in den Boden.", "Dient als Rast- und Nistplatz für mehr als 100 verschiedene Zugvogelarten.", "Die Mangrovenbäume haben die biologische Fähigkeit, Meerwasser zu entsalzen.", "Bei Flut stehen die Bäume fast bis zur Krone unter Wasser.", "Liegt vor der Nordküste der großen iranischen Insel Qeschm."],
       hu: ["A védett mangroveövezet teljes kiterjedése megközelítőleg 20 000 hektárt tesz ki.", "Ökológiai jelentősége miatt hivatalosan UNESCO bioszféra-rezervátummá nyilvánították.", "A fák speciális gyökérzete 3-6 méter mélyen rögzül az iszapban.", "Több mint 100 különböző vándormadárfaj számára biztosít pihenő- és fészkelőhelyet.", "A mangrovefák egyedi biológiai képessége révén sótalanítják a tengervizet.", "Dagály idején a fák szinte a lombkoronájukig víz alá kerülnek.", "A kiterjedt erdőség az iráni Kesm sziget északi partjainál helyezkedik el."],
       en: ["The total extent of the protected mangrove zone is approximately 20,000 hectares.", "Officially declared a UNESCO biosphere reserve due to its ecological significance.", "The special root system of the trees is anchored 3 to 6 meters deep in the mud.", "Provides resting and nesting sites for more than 100 different species of migratory birds.", "Through a unique biological ability, the mangrove trees desalinate seawater.", "During high tide, the trees are submerged almost up to their canopy.", "The extensive forest is located on the northern shores of the Iranian Qeshm Island."]
-    }
-  },
+    }, image: "/poi-images/hara-forests-nature-v2.webp"},
   {
     id: "sefid-rud-nature-v2",
     type: "river",
@@ -464,8 +450,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Der Flusslauf erstreckt sich über eine Gesamtlänge von rund 670 Kilometern.", "Entsteht bei der Stadt Mandschil aus dem Zusammenfluss zweier großer Flüsse.", "Führt eine enorme Sedimentlast, die dem Wasser die helle Farbe verleiht.", "Der zugehörige Staudamm erzeugt große Mengen an elektrischer Energie.", "Das Wasser des Flusses ist elementar für den Reisanbau in der Provinz Gilan.", "Mündet nach dem Durchbruch durch das Gebirge direkt in das Kaspische Meer.", "War in der persischen Geschichte oft eine natürliche Grenze zwischen Territorien."],
       hu: ["A folyó medre a forrástól a torkolatig mintegy 670 kilométer.", "Mandzsil városánál jön létre két nagyobb folyóág összefolyásából.", "Hatalmas mennyiségű hordalékot szállít, amely a víz világos színét adja.", "A folyóra épült gátrendszer jelentős mennyiségű elektromos energiát termel.", "A folyó vize elengedhetetlen Gilán tartomány kiterjedt rizstermesztéséhez.", "A hegységen való áttörés után közvetlenül a Kaszpi-tengerbe torkollik.", "A perzsa történelem során gyakran szolgált természetes határként területek között."],
       en: ["The riverbed measures about 670 kilometers from the source to the mouth.", "Formed at the city of Manjil from the confluence of two major river branches.", "Carries a massive amount of sediment, which gives the water its light color.", "The dam system built on the river generates significant amounts of electrical energy.", "The water of the river is essential for the extensive rice cultivation of Gilan province.", "After breaking through the mountains, it flows directly into the Caspian Sea.", "Frequently served as a natural border between territories throughout Persian history."]
-    }
-  },
+    }, image: "/poi-images/sefid-rud-nature-v2.webp"},
   {
     id: "namak-lake-nature-v2",
     type: "lake",
@@ -495,8 +480,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Das ausgetrocknete Seebecken bedeckt eine Fläche von rund 1800 Quadratkilometern.", "Befindet sich auf einer Höhe von ungefähr 800 Metern über dem Meeresspiegel.", "Die blendend weiße Salzkruste kann bis zu 45 Zentimeter dick werden.", "Liegt etwa 60 Kilometer östlich der bedeutenden Millionenstadt Ghom.", "Ist das historische Überbleibsel eines riesigen eiszeitlichen Binnenmeeres.", "Der Hauptzufluss, der Qom-Fluss, trocknet in den Sommermonaten fast vollständig aus.", "Die Oberfläche formt sich durch Verdunstung in markante geometrische Polygonmuster."],
       hu: ["A kiszáradt tómeder kiterjedése megközelítőleg 1800 négyzetkilométert foglal el.", "Körülbelül 800 méteres tengerszint feletti magasságban helyezkedik el.", "A vakítóan fehér, repedezett sókéreg vastagsága elérheti a 45 centimétert.", "Földrajzilag nagyjából 60 kilométerre keletre fekszik Kom milliós városától.", "Egy hatalmas kiterjedésű jégkorszaki beltenger utolsó geológiai maradványa.", "A fő vízforrást jelentő Kom-folyó a nyári hónapokban szinte teljesen kiszárad.", "A párolgás hatására a felszín markáns geometriai sokszögmintákat formál."],
       en: ["The extent of the dried-up lake basin occupies approximately 1800 square kilometers.", "Located at an elevation of about 800 meters above sea level.", "The blindingly white, cracked salt crust can reach a thickness of 45 centimeters.", "Geographically lies roughly 60 kilometers east of the million-strong city of Qom.", "The last geological remnant of a vast Ice Age inland sea.", "The Qom River, representing the main water source, almost completely dries up in summer.", "The surface forms distinct geometric polygonal patterns due to evaporation."]
-    }
-  },
+    }, image: "/poi-images/namak-lake-nature-v2.webp"},
   {
     id: "aras-river-nature-v2",
     type: "river",
@@ -526,8 +510,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Der Fluss misst von der Quelle bis zur Mündung exakt 1072 Kilometer.", "Bildet auf hunderten Kilometern die Staatsgrenze zu Armenien und Aserbaidschan.", "Entspringt weit außerhalb des Irans in den Gebirgen im Osten der Türkei.", "Vereinigt sich in der Kura-Aras-Niederung mit dem größeren Fluss Kura.", "Die Aras-Talsperre wird gemeinsam vom Iran und seinen Nachbarn betrieben.", "Die Uferregionen in Ost-Aserbaidschan sind für ihre reiche Biodiversität bekannt.", "Historische armenische Klöster säumen die tiefen Täler entlang des Flusses."],
       hu: ["A folyó hossza a forrástól a torkolatig pontosan 1072 kilométer.", "Több száz kilométeren át alkotja az államhatárt Örményországgal és Azerbajdzsánnal.", "Irán határain jóval kívül, a kelet-törökországi hegyvidéken ered.", "A Kura-Arasz-alföldön egyesül a jóval nagyobb vízhozamú Kura folyóval.", "Az Arasz-gátat Irán és szomszédjai közös beruházásként üzemeltetik.", "A Kelet-Azerbajdzsán tartományban lévő partszakaszok gazdag biodiverzitásukról ismertek.", "A folyó mély völgyeinek mentén történelmi örmény kolostorok találhatók."],
       en: ["The length of the river from source to mouth is exactly 1072 kilometers.", "Forms the state border with Armenia and Azerbaijan for hundreds of kilometers.", "Originates well outside the borders of Iran, in the mountainous region of eastern Turkey.", "Merges with the much larger discharge Kura River on the Kura-Aras Lowland.", "The Aras Dam is operated as a joint investment by Iran and its neighbors.", "The coastal sections in East Azerbaijan province are known for their rich biodiversity.", "Historical Armenian monasteries are located along the deep valleys of the river."]
-    }
-  },
+    }, image: "/poi-images/aras-river-nature-v2.webp"},
   {
     id: "nayband-national-park-nature-v2",
     type: "national-park",
@@ -557,8 +540,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Wurde im Jahr 2007 als erster offizieller Meeresnationalpark des Irans gegründet.", "Das gesamte Schutzgebiet umfasst eine Land- und Meeresfläche von 42.000 Hektar.", "Beheimatet bedeutende Niststrände für die stark gefährdete Echte Karettschildkröte.", "Die Nayband-Bucht zeichnet sich durch ruhiges, seichtes Wasser und Mangroven aus.", "Das Reservat befindet sich an der Küste der südlichen Provinz Buschehr.", "Riesige Korallenriffe gedeihen in den flachen Küstengewässern des Parks.", "Grenzt geologisch an die riesigen industriellen Anlagen der South Pars Gasfelder."],
       hu: ["2007-ben hozták létre hivatalosan Irán első tengeri nemzeti parkjaként.", "A teljes védett övezet mintegy 42 000 hektárnyi szárazföldet és tengert foglal magába.", "Kiemelkedően fontos fészkelőhelyet nyújt a súlyosan veszélyeztetett cserepesteknősöknek.", "A Najband-öblöt sekély, nyugodt tengervíz és gazdag mangroveerdők jellemzik.", "A rezervátum a déli Busehr tartomány partvidékén helyezkedik el.", "A park part menti sekély vizeiben hatalmas korallzátonyok fejlődnek.", "Földrajzilag közvetlenül határos a South Pars gázmező hatalmas ipari létesítményeivel."],
       en: ["Officially established in 2007 as the first marine national park of Iran.", "The total protected zone encompasses about 42,000 hectares of land and sea.", "Provides an extremely important nesting site for the critically endangered hawksbill sea turtles.", "Nayband Bay is characterized by shallow, calm seawater and rich mangrove forests.", "The reserve is located on the coastline of the southern Bushehr province.", "Massive coral reefs develop in the shallow coastal waters of the park.", "Geographically directly borders the massive industrial facilities of the South Pars gas field."]
-    }
-  },
+    }, image: "/poi-images/nayband-national-park-nature-v2.webp"},
   {
     id: "alam-kuh-nature-v2",
     type: "mountain",
@@ -588,8 +570,7 @@ export const poiExtraIranNatureV2: POI[] = [
       de: ["Erreicht eine maximale Höhe von 4848 Metern über dem Meeresspiegel.", "Ist offiziell der zweithöchste Gipfel innerhalb der Grenzen des Irans.", "Die berüchtigte steile Granit-Nordwand hat eine Höhe von über 800 Metern.", "In der Region befinden sich einige der wenigen verbliebenen iranischen Gletscher.", "Die Nordwand wurde in den 1930er Jahren erstmals erfolgreich durchstiegen.", "Liegt im Takht-e Soleyman-Massiv in der nördlichen Provinz Mazandaran.", "Wird wegen seiner steilen Wände als das alpinistische Zentrum des Landes bezeichnet."],
       hu: ["Maximális magassága eléri a 4848 métert a tengerszint felett.", "Hivatalos mérések szerint az ország második legmagasabb pontja.", "A hírhedt és meredek gránit északi fal magassága meghaladja a 800 métert.", "A régióban található a kevés megmaradt iráni gleccserek egyike.", "Az északi falat az 1930-as években mászták meg először sikeresen.", "A Taht-e Szolejmán hegytömbben fekszik, az északi Mazandarán tartományban.", "Meredek sziklafalai miatt gyakran az ország alpinista központjának is nevezik."],
       en: ["Its maximum elevation reaches 4848 meters above sea level.", "According to official measurements, it is the second highest point in the country.", "The height of the infamous and steep granite north face exceeds 800 meters.", "The region hosts one of the few remaining Iranian glaciers.", "The north face was first successfully climbed in the early 1930s.", "Situated in the Takht-e Suleyman mountain massif, in the northern Mazandaran province.", "Due to its steep rock walls, it is often referred to as the alpinist center of the country."]
-    }
-  },
+    }, image: "/poi-images/alam-kuh-nature-v2.webp"},
   {
     id: "sisangan-national-park-nature-v2",
     type: "national-park",

@@ -1,0 +1,65 @@
+{
+  "lang": "hu",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-york-toronto-history-v2",
+      "description": "Fort York Toronto egyik legfontosabb történelmi katonai helyszíne. Az 1812-es háború idején a város védelmében játszott szerepet.",
+      "facts": ["Torontóban található", "Az 1812-es háborúhoz kötődik", "Nemzeti történelmi helyszín"]
+    },
+    {
+      "id": "battle-of-batoche-history-v2",
+      "description": "A batoche-i csata a kanadai északnyugati ellenállás egyik döntő ütközete volt. 1885-ben zajlott a mai Saskatchewan területén.",
+      "facts": ["1885-ben zajlott", "Saskatchewan területéhez kötődik", "A északnyugati ellenállás része"]
+    },
+    {
+      "id": "grosse-ile-irish-memorial-history-v2",
+      "description": "Grosse-Île az ír bevándorlás és a karantén történetének fontos emlékhelye Québecben. A hely az 1840-es évek ír éhínségéhez is kapcsolódik.",
+      "facts": ["Québecben található", "Karanténállomás volt", "Az ír bevándorlás emlékhelye"]
+    },
+    {
+      "id": "fort-henry-kingston-history-v2",
+      "description": "Fort Henry Kingston fölött, a Szent Lőrinc folyó közelében álló történelmi erőd. A brit katonai védelem fontos része volt a 19. században.",
+      "facts": ["Kingstonban van", "A Szent Lőrinc-folyóra néz", "19. századi katonai erőd"]
+    },
+    {
+      "id": "klondike-gold-rush-history-v2",
+      "description": "A klondike-i aranyláz a Yukon történetének egyik leghíresebb eseménye. 1896 után több ezer aranykeresőt vonzott a térségbe.",
+      "facts": ["A Yukonhoz kötődik", "1896 után indult", "Tömeges aranykeresést hozott"]
+    },
+    {
+      "id": "gulf-of-georgia-cannery-history-v2",
+      "description": "A Gulf of Georgia Cannery Brit Columbia történeti halfeldolgozó üzeme. A stevestoni létesítmény a csendes-óceáni lazacipar múltját mutatja be.",
+      "facts": ["Stevestonban, Brit Columbiában van", "Történelmi halkonzervgyár", "A lazaciparhoz kapcsolódik"]
+    },
+    {
+      "id": "esterhazy-flour-mill-history-v2",
+      "description": "Az esterhazy-i lisztmalom Saskatchewan mezőgazdasági múltjának egyik emléke. A gabonaőrlés és a helyi telepesgazdaság történetét idézi fel.",
+      "facts": ["Saskatchewanban található", "Régi gabonamalom", "A telepesgazdaságot mutatja be"]
+    },
+    {
+      "id": "confederation-bridge-landmarks-v2",
+      "description": "A Konföderáció-híd Prince Edward-szigetet köti össze a szárazfölddel. Hosszú, egyenletes ívével Kanada egyik legismertebb mérnöki alkotása.",
+      "facts": ["PEI és New Brunswick között van", "1997-ben nyílt meg", "Fizetős közúti híd"]
+    },
+    {
+      "id": "gooderham-building-landmarks-v2",
+      "description": "A Gooderham Building Toronto egyik legismertebb épülete, a város laposvas épületének is nevezik. Tégla homlokzata és ék alakú formája miatt könnyen felismerhető.",
+      "facts": ["Torontóban áll", "Ék alakú homlokzata van", "A 19. század végén épült"]
+    },
+    {
+      "id": "toronto-zoo-life-v2",
+      "description": "A Toronto Zoo Kanada egyik legnagyobb állatkertje. Több kontinens állatait mutatja be nagy, tematikus kifutókban.",
+      "facts": ["Toronto keleti részén van", "Az ország egyik legnagyobb állatkertje", "Tematikus élőhelyeket mutat be"]
+    }
+  ]
+}

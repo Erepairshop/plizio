@@ -43,8 +43,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "The sound of the sand resembles an airplane taking off.",
         "A small stream called Khongoriin Gol flows at the base."
       ]
-    }
-  },
+    }, image: "/poi-images/khongoryn-els-landmarks-v2.webp"},
   {
     id: "bayanzag-flaming-cliffs-landmarks-v2",
     type: "landmark",
@@ -87,8 +86,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "The Mongolian name translates to 'rich in saxaul trees'.",
         "It is one of the most important paleontological sites on Earth."
       ]
-    }
-  },
+    }, image: "/poi-images/bayanzag-flaming-cliffs-landmarks-v2.webp"},
   {
     id: "yolyn-am-landmarks-v2",
     type: "landmark",
@@ -131,8 +129,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "The area was originally established as a bird sanctuary.",
         "In some winters, the ice can freeze up to several meters thick."
       ]
-    }
-  },
+    }, image: "/poi-images/yolyn-am-landmarks-v2.webp"},
   {
     id: "turtle-rock-landmarks-v2",
     type: "landmark",
@@ -175,8 +172,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "A steep path leads to a small crevice inside the rock.",
         "The area around the rock is surrounded by alpine meadows."
       ]
-    }
-  },
+    }, image: "/poi-images/turtle-rock-landmarks-v2.webp"},
   {
     id: "khustai-national-park-landmarks-v2",
     type: "tourist-attraction",
@@ -219,8 +215,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "Besides wild horses, wolves, lynxes, and marmots also live here.",
         "The landscape consists of typical Eurasian steppe."
       ]
-    }
-  },
+    }, image: "/poi-images/khustai-national-park-landmarks-v2.webp"},
   {
     id: "orkhon-waterfall-landmarks-v2",
     type: "landmark",
@@ -263,8 +258,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "The surrounding area is a paradise for horse riding and trekking.",
         "The Orkhon Valley is a UNESCO World Heritage site due to its nomadic history."
       ]
-    }
-  },
+    }, image: "/poi-images/orkhon-waterfall-landmarks-v2.webp"},
   {
     id: "tsagaan-suvarga-landmarks-v2",
     type: "landmark",
@@ -307,8 +301,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "There is a 100-meter long cave near the formation.",
         "The site was once the bottom of a prehistoric ocean."
       ]
-    }
-  },
+    }, image: "/poi-images/tsagaan-suvarga-landmarks-v2.webp"},
   {
     id: "baga-gazriin-chuluu-landmarks-v2",
     type: "landmark",
@@ -351,8 +344,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "A natural healing spring in the rocks is visited by locals for eye ailments.",
         "In the 19th century, two famous Mongolian monks lived here."
       ]
-    }
-  },
+    }, image: "/poi-images/baga-gazriin-chuluu-landmarks-v2.webp"},
   {
     id: "khorgo-volcano-landmarks-v2",
     type: "landmark",
@@ -395,8 +387,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "There are deep lava caves and basalt crevices around the crater.",
         "The solidified lava dammed the nearby Terkhiin Tsagaan Nuur lake."
       ]
-    }
-  },
+    }, image: "/poi-images/khorgo-volcano-landmarks-v2.webp"},
   {
     id: "terkhiin-tsagaan-nuur-landmarks-v2",
     type: "landmark",
@@ -439,8 +430,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "A small island in the middle is used by numerous water birds for nesting.",
         "The water is extremely clear and rich in fish."
       ]
-    }
-  },
+    }, image: "/poi-images/terkhiin-tsagaan-nuur-landmarks-v2.webp"},
   {
     id: "tsenkher-hot-springs-landmarks-v2",
     type: "tourist-attraction",
@@ -483,8 +473,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "The area is characterized by lush green meadows and forests.",
         "The spring water gushes from the ground at a rate of 10 liters per second."
       ]
-    }
-  },
+    }, image: "/poi-images/tsenkher-hot-springs-landmarks-v2.webp"},
   {
     id: "aryabal-meditation-temple-landmarks-v2",
     type: "monument",
@@ -527,8 +516,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "A path lined with Buddhist teaching boards leads up the stairs.",
         "From the veranda, there is a wide panoramic view of the Terelj Valley."
       ]
-    }
-  },
+    }, image: "/poi-images/aryabal-meditation-temple-landmarks-v2.webp"},
   {
     id: "sukhbaatar-square-landmarks-v2",
     type: "tourist-attraction",
@@ -571,8 +559,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "In the past, the site was used as a marketplace and trading center.",
         "In 2013, the square was briefly renamed Genghis Khan Square."
       ]
-    }
-  },
+    }, image: "/poi-images/sukhbaatar-square-landmarks-v2.webp"},
   {
     id: "al-tai-tavan-bogd-landmarks-v2",
     type: "tourist-attraction",
@@ -659,8 +646,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "Due to lack of water and quicksand, the journey is very dangerous.",
         "It is one of the richest sites for dinosaur fossils."
       ]
-    }
-  },
+    }, image: "/poi-images/khermen-tsav-landmarks-v2.webp"},
   {
     id: "burkhan-khaldun-landmarks-v2",
     type: "landmark",
@@ -703,8 +689,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "The exact location of Genghis Khan's tomb remains a closely guarded secret.",
         "The mountain marks the watershed between the Arctic Ocean and the Pacific."
       ]
-    }
-  },
+    }, image: "/poi-images/burkhan-khaldun-landmarks-v2.webp"},
   {
     id: "aglag-buteel-monastery-landmarks-v2",
     type: "tourist-attraction",
@@ -747,8 +732,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "The temple houses an extraordinary collection of Buddhist art.",
         "It is located about 100 kilometers north of Ulaanbaatar in remote nature."
       ]
-    }
-  },
+    }, image: "/poi-images/aglag-buteel-monastery-landmarks-v2.webp"},
   {
     id: "suikhent-petrified-forest-landmarks-v2",
     type: "landmark",
@@ -791,8 +775,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "The area stretches over an extent of almost 12 kilometers.",
         "There are efforts to protect the site from illegal fossil collectors."
       ]
-    }
-  },
+    }, image: "/poi-images/suikhent-petrified-forest-landmarks-v2.webp"},
   {
     id: "shiliin-bogd-landmarks-v2",
     type: "landmark",
@@ -835,8 +818,7 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
         "Traditionally, men climb to the peak to renew their spirit.",
         "Nearby is Taliin Agui, one of the longest caves in Mongolia."
       ]
-    }
-  },
+    }, image: "/poi-images/shiliin-bogd-landmarks-v2.webp"},
   {
     id: "taikhar-chuluu-landmarks-v2",
     type: "landmark",

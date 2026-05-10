@@ -23,8 +23,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Az ország első aranybányája", "Az 1880-as években alapították"],
       ro: ["Prima mină de aur a țării", "Fondată în anii 1880"],
       en: ["First gold mine in the country", "Founded in the 1880s"]
-    }
-  },
+    }, image: "/poi-images/forbes-reef-mine-history-v2.webp"},
   {
     id: "bremersdorp-cemetery-history-v2",
     type: "historical",
@@ -47,8 +46,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Korai telepesek sírhelyei", "A várostörténet tanúja"],
       ro: ["Mormintele primilor coloniști", "Mărturie a istoriei orașului"],
       en: ["Graves of early settlers", "Witness to the town's history"]
-    }
-  },
+    }, image: "/poi-images/bremersdorp-cemetery-history-v2.webp"},
   {
     id: "dlangeni-sanctuary-history-v2",
     type: "historical",
@@ -71,8 +69,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Történelmi menedékhely", "Stratégiai dombokon található"],
       ro: ["Refugiu istoric", "Situat în dealuri strategice"],
       en: ["Historical place of refuge", "Located in strategic hills"]
-    }
-  },
+    }, image: "/poi-images/dlangeni-sanctuary-history-v2.webp"},
   {
     id: "mhlosheni-mission-history-v2",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Brit közigazgatási stílus", "Történelmi kormányzati épületek"],
       ro: ["Stil administrativ britanic", "Clădiri guvernamentale istorice"],
       en: ["British administrative style", "Historical government buildings"]
-    }
-  },
+    }, image: "/poi-images/mbabane-colonial-district-history-v2.webp"},
   {
     id: "old-siteki-jail-history-v2",
     type: "historical",
@@ -143,8 +139,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Gyarmati igazságügyi épület", "Jelentős Lubombo számára"],
       ro: ["Clădire judiciară colonială", "Semnificativă pentru Lubombo"],
       en: ["Colonial judicial building", "Significant for Lubombo"]
-    }
-  },
+    }, image: "/poi-images/old-siteki-jail-history-v2.webp"},
   {
     id: "zombodze-school-history-v2",
     type: "historical",
@@ -167,8 +162,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Királyi oktatási intézmény", "Első modern iskola"],
       ro: ["Instituție de învățământ regală", "Prima școală modernă"],
       en: ["Royal educational institution", "First modern school"]
-    }
-  },
+    }, image: "/poi-images/zombodze-school-history-v2.webp"},
   {
     id: "lobamba-lomdzala-history-v2",
     type: "historical",
@@ -191,8 +185,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Szent alapítási hely", "Ősi szertartási helyszín"],
       ro: ["Sit sacru de întemeiere", "Vechi loc ceremonial"],
       en: ["Sacred founding site", "Ancient ceremonial location"]
-    }
-  },
+    }, image: "/poi-images/lobamba-lomdzala-history-v2.webp"},
   {
     id: "piggs-peak-hotel-history-v2",
     type: "historical",
@@ -215,8 +208,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["A régió legrégebbi szállodája", "Gyarmati építészet"],
       ro: ["Cel mai vechi hotel din regiune", "Arhitectură colonială"],
       en: ["Region's oldest hotel", "Colonial architecture"]
-    }
-  },
+    }, image: "/poi-images/piggs-peak-hotel-history-v2.webp"},
   {
     id: "manzini-colonial-club-history-v2",
     type: "historical",
@@ -239,8 +231,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Egykori társadalmi központ", "Bremersdorp korszak"],
       ro: ["Fost centru social", "Era Bremersdorp"],
       en: ["Former social hub", "Bremersdorp era"]
-    }
-  },
+    }, image: "/poi-images/manzini-colonial-club-history-v2.webp"},
   {
     id: "mbabane-old-govt-history-v2",
     type: "historical",
@@ -263,8 +254,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["A protektorátus központja", "Gyarmati közigazgatási épületek"],
       ro: ["Centrul protectoratului", "Clădiri administrative coloniale"],
       en: ["Center of the protectorate", "Colonial administrative buildings"]
-    }
-  },
+    }, image: "/poi-images/mbabane-old-govt-history-v2.webp"},
   {
     id: "mahamba-war-trail-history-v2",
     type: "historical",
@@ -287,8 +277,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Jelentős a búr háborúban", "Határvidéki történelem"],
       ro: ["Semnificativ în Războiul Burilor", "Istoria regiunii de frontieră"],
       en: ["Significant in the Boer War", "Border region history"]
-    }
-  },
+    }, image: "/poi-images/mahamba-war-trail-history-v2.webp"},
   {
     id: "mahlanya-historic-market-history-v2",
     type: "historical",
@@ -311,8 +300,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Hagyományos kereskedelmi hely", "Kulturális piacközpont"],
       ro: ["Loc de tranzacționare tradițional", "Centru cultural al pieței"],
       en: ["Traditional trading spot", "Cultural market center"]
-    }
-  },
+    }, image: "/poi-images/mahlanya-historic-market-history-v2.webp"},
   {
     id: "nsoko-old-mill-history-v2",
     type: "historical",
@@ -335,8 +323,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Ipari örökség", "A cukorgazdaság kezdete"],
       ro: ["Moștenire industrială", "Începutul economiei zahărului"],
       en: ["Industrial heritage", "Beginning of the sugar economy"]
-    }
-  },
+    }, image: "/poi-images/nsoko-old-mill-history-v2.webp"},
   {
     id: "lavumisa-rail-station-history-v2",
     type: "historical",
@@ -359,8 +346,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Korai vasúti csomópont", "Határforgalmi történelem"],
       ro: ["Nod feroviar timpuriu", "Istoria traficului de frontieră"],
       en: ["Early railway junction", "Border traffic history"]
-    }
-  },
+    }, image: "/poi-images/lavumisa-rail-station-history-v2.webp"},
   {
     id: "sivunga-dlamini-history-v2",
     type: "historical",
@@ -383,8 +369,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Dinasztikus történelem", "Hagyományos település"],
       ro: ["Istorie dinastică", "Așezare tradițională"],
       en: ["Dynastic history", "Traditional settlement"]
-    }
-  },
+    }, image: "/poi-images/sivunga-dlamini-history-v2.webp"},
   {
     id: "malolotja-iron-age-history-v2",
     type: "historical",
@@ -407,8 +392,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Prehisztorikus ipar", "Régészeti leletek"],
       ro: ["Industrie preistorică", "Descoperiri arheologice"],
       en: ["Prehistoric industry", "Archaeological finds"]
-    }
-  },
+    }, image: "/poi-images/malolotja-iron-age-history-v2.webp"},
   {
     id: "mlawula-stone-age-history-v2",
     type: "historical",
@@ -455,8 +439,7 @@ export const poiExtraSwazilandHistoryV2: POI[] = [
       hu: ["Déli agrárstörténelem", "Korai exportközpont"],
       ro: ["Istoria agricolă a sudului", "Centru de export timpuriu"],
       en: ["Southern agricultural history", "Early export hub"]
-    }
-  },
+    }, image: "/poi-images/kubuta-packing-shed-history-v2.webp"},
   {
     id: "nhlambanyatsi-sawmill-history-v2",
     type: "historical",

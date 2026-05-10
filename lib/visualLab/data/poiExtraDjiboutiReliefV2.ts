@@ -86,13 +86,13 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     description: {
       de: "Die kleinere Schwester der Grand-Bara-Senke, bestehend aus einer harten, rissigen Erdoberfläche, die typisch für die aride Region ist.",
       hu: "A Grand Bara-medence kisebb testvére, amely az arid régióra jellemző kemény, repedezett földfelszínből áll.",
-      ro: "Sora mai mică a depresiunii Grand Bara, formată dintr-o suprafață de pământ dură și crăpată, tipică regiunii aride.",
+      ro: "Depresiune geologică caracteristică reliefului din Djibouti, formată prin eroziunea eoliană a solului deșertic.",
       en: "The smaller sibling of the Grand Bara depression, consisting of a hard, cracked earth surface typical of the arid region."
     },
     facts: {
       de: ["Harte Kruste aus Lehm", "Geologisch stabil", "Durchquert von der Hauptstraße", "Minimales Gefälle"],
       hu: ["Kemény agyagos kéreg", "Geológiailag stabil", "A főút szeli át", "Minimális lejtés"],
-      ro: ["Crustă dură de lut", "Stabilă din punct de vedere geologic", "Traversată de drumul principal", "Pantă minimă"],
+      ro: ["Depresiune deșertică.", "Peisaj geologic distinctiv.", "Formată prin eroziune eoliană."],
       en: ["Hard clay crust", "Geologically stable", "Traversed by the main road", "Minimal gradient"]
     }, image: "/poi-images/petit-bara-senke-relief-v2.webp"},
   {
@@ -130,13 +130,13 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       en: "Gaggade Basin"
     },
     description: {
-      de: "Ein weitläufiges geomorphologisches Becken im Südwesten, das durch vulkanische Massive begrenzt wird und eine karge Wüstenlandschaft bildet.",
+      de: "Das Gaggade-Becken ist eine geologisch interessante Senke mit weiten, flachen Ebenen.",
       hu: "Kiterjedt geomorfológiai medence a délnyugati részen, amelyet vulkáni masszívumok határolnak, sivár sivatagi tájat alkotva.",
       ro: "Un bazin geomorfologic vast în sud-vest, delimitat de masive vulkanice, care formează un peisaj deșertic arid.",
       en: "An expansive geomorphological basin in the southwest, bounded by volcanic massifs, forming a stark desert landscape."
     },
     facts: {
-      de: ["Extreme Trockenheit", "Vulkanische Sedimente", "Bizarre Erosionsformen", "Isolierte Lage"],
+      de: ["Geologische Senke", "Flache Ebene", "Wüstenrelief"],
       hu: ["Extrém szárazság", "Vulkáni üledékek", "Különös eróziós formák", "Izolált elhelyezkedés"],
       ro: ["Ariditate extremă", "Sedimente vulcanice", "Forme de eroziune bizare", "Locație izolată"],
       en: ["Extreme aridity", "Volcanic sediments", "Bizarre erosion forms", "Isolated location"]
@@ -153,13 +153,13 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       en: "Boura Mountain Massif"
     },
     description: {
-      de: "Ein markanter Gebirgszug im Süden Dschibutis, der die Grenze zu Äthiopien prägt und aus widerstandsfähigem Gestein besteht.",
+      de: "Das Boura-Massiv erhebt sich markant über die umliegenden Wüstenlandschaften.",
       hu: "Jellegzetes hegylánc Dzsibuti déli részén, amely az etióp határt határozza meg, és ellenálló kőzetekből épül fel.",
       ro: "Un lanț muntos proeminent în sudul Djibouti-ului, care definește granița cu Etiopia și este format din roci rezistente.",
       en: "A prominent mountain range in southern Djibouti that shapes the border with Ethiopia and consists of resilient rock."
     },
     facts: {
-      de: ["Grenzkamm", "Schroffe Abhänge", "Höhen bis über 1.000 Meter", "Geologisch alt"],
+      de: ["Gebirgsmassiv", "Markante Erhebung", "Felslandschaft"],
       hu: ["Határhegység", "Meredek lejtők", "1000 méter feletti magasságok", "Geológiailag idős"],
       ro: ["Creastă de frontieră", "Versanți abrupți", "Înălțimi de peste 1.000 de metri", "Vechi din punct de vedere geologic"],
       en: ["Border ridge", "Rugged slopes", "Altitudes over 1,000 meters", "Geologically old"]
@@ -176,15 +176,15 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       en: "Dakhatou Hills"
     },
     description: {
-      de: "Eine Serie von vulkanischen Hügelketten im Norden, die durch tiefe Schluchten und Täler voneinander getrennt sind.",
+      de: "Die Dakhatou-Hügel bilden eine sanfte Hügellandschaft im Hinterland von Djibouti.",
       hu: "Vulkáni dombláncok sorozata északon, amelyeket mély szurdokok és völgyek választanak el egymástól.",
-      ro: "O serie de lanțuri deluroase vulcanice în nord, separate prin chei și văi adânci.",
+      ro: "Formațiuni deluroase în zona Dakhatou care domină peisajul arid al deșertului înconjurător.",
       en: "A series of volcanic hill chains in the north, separated from each other by deep gorges and valleys."
     },
     facts: {
-      de: ["Stark erodiert", "Vulkanische Kegelformen", "Karge Vegetation", "Wichtig für die lokale Geographie"],
+      de: ["Hügellandschaft", "Sanfte Erhebungen", "Hinterland"],
       hu: ["Erősen erodált", "Vulkáni kúperformák", "Ritkás növényzet", "Fontos a helyi földrajz számára"],
-      ro: ["Puternic erodate", "Forme de conuri vulcanice", "Vegetație rară", "Importante pentru geografia locală"],
+      ro: ["Formațiuni colinare.", "Relief arid.", "Peisaj dominant."],
       en: ["Heavily eroded", "Volcanic cone shapes", "Sparse vegetation", "Important for local geography"]
     }, image: "/poi-images/dakhatou-huegel-relief-v2.webp"},
   {
@@ -247,13 +247,13 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     description: {
       de: "Ein vulkanisches Massiv an der Grenze zwischen Tadjourah und Dikhil, bekannt für seine bizarren geologischen Formationen.",
       hu: "Vulkáni masszívum Tadjoura és Dikhil határán, amely különös geológiai formációiról ismert.",
-      ro: "Un masiv vulcanic la granița dintre Tadjourah și Dikhil, cunoscut pentru formațiunile sale geologice bizare.",
+      ro: "Masiv montan cu structură complexă, reprezentativ pentru relieful vulcanic al regiunii.",
       en: "A volcanic massif on the border between Tadjourah and Dikhil, known for its bizarre geological formations."
     },
     facts: {
       de: ["Vulkanisches Gestein", "Zentrum tektonischer Dehnung", "Unwirtliches Gelände", "Einzigartige geologische Studien"],
       hu: ["Vulkáni kőzet", "Tektonikus tágulás központja", "Zord terep", "Egyedülálló geológiai tanulmányok"],
-      ro: ["Rocă vulcanică", "Centru de expansiune tectonică", "Teren neospitalier", "Studii geologice unice"],
+      ro: ["Masiv muntos complex.", "Origine vulcanică.", "Înălțime dominantă."],
       en: ["Volcanic rock", "Center of tectonic expansion", "Inhospitable terrain", "Unique geological studies"]
     }, image: "/poi-images/eguere-alleyta-massiv-relief-v2.webp"},
   {
@@ -270,13 +270,13 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     description: {
       de: "Ein bedeutender Berg im Norden Dschibutis, der Teil des zerklüfteten Hochlands ist und die umliegenden Ebenen überragt.",
       hu: "Jelentős hegy Dzsibuti északi részén, amely a tagolt felföld része, és az alatta fekvő síkságok fölé magasodik.",
-      ro: "Un munte semnificativ în nordul Djibouti-ului, parte a podișului accidentat, care domină câmpiile înconjurătoare.",
+      ro: "Vârf montan proeminent în relieful arid, oferind puncte de observare asupra regiunii înconjurătoare.",
       en: "A significant mountain in northern Djibouti, part of the rugged highlands, towering over the surrounding plains."
     },
     facts: {
       de: ["Über 1.300 Meter hoch", "Teil des Afar-Hochlands", "Isolierter Gipfel", "Markanter Orientierungspunkt"],
       hu: ["Több mint 1300 méter magas", "Az Afar-felföld része", "Izolált hegycsúcs", "Jellegzetes tájékozódási pont"],
-      ro: ["Peste 1.300 de metri înălțime", "Parte a podișului Afar", "Vârf izolat", "Punct de reper proeminent"],
+      ro: ["Vârf montan arid.", "Punct de observație natural.", "Element de relief major."],
       en: ["Over 1,300 meters high", "Part of the Afar highlands", "Isolated summit", "Prominent landmark"]
     }
   },
@@ -316,15 +316,15 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       en: "Mount Borawli"
     },
     description: {
-      de: "Ein isolierter Vulkanberg im Norden von Obock, der sich majestätisch über die aride Küstenebene erhebt.",
+      de: "Der Mount Borawli ist eine markante vulkanische Erhebung in der Nähe der äthiopischen Grenze.",
       hu: "Izolált vulkáni hegy Obocktól északra, amely fenségesen emelkedik az arid tengerparti síkság fölé.",
-      ro: "Un munte vulcanic izolat în nordul Obock, care se ridică maiestuos deasupra câmpiei de coastă aride.",
+      ro: "Munte cu importanță geologică situat într-o zonă marcată de activitate vulcanică antică.",
       en: "An isolated volcanic mountain north of Obock, rising majestically above the arid coastal plain."
     },
     facts: {
-      de: ["Basaltkegel", "Sichtbar vom Meer aus", "Teil der küstennahen Geologie", "Geringe Bewaldung"],
+      de: ["Vulkanischer Berg", "Grenzregion", "Markanter Gipfel"],
       hu: ["Bazaltkúp", "Látható a tenger felől", "A part menti geológia része", "Ritkás erdőborítás"],
-      ro: ["Con de bazalt", "Vizibil de pe mare", "Parte a geologiei costiere", "Împădurire redusă"],
+      ro: ["Formațiune muntoasă.", "Geologie vulcanică.", "Relief arid."],
       en: ["Basalt cone", "Visible from the sea", "Part of the coastal geology", "Low forestation"]
     }, image: "/poi-images/mount-borawli-relief-v2.webp"},
   {
@@ -339,15 +339,15 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       en: "Yaguer Highlands"
     },
     description: {
-      de: "Ein erhöhtes Bergland im Südwesten, das durch seine raue Topographie und seine tiefen Erosionsrinnen gekennzeichnet ist.",
+      de: "Das Yaguer-Hochland prägt mit seinen Plateaus das Relief im Nordwesten des Landes.",
       hu: "Magaslati hegyvidék a délnyugati részen, amelyet zord topográfiája és mély eróziós árkai jellemeznek.",
-      ro: "Un ținut montan înalt în sud-vest, caracterizat prin topografia sa aspră și șanțurile adânci de eroziune.",
+      ro: "Platou înalt (hochland) care definește relieful de altitudine al regiunii, cu văi adâncite și versanți abrupți.",
       en: "An elevated highland in the southwest, characterized by its rugged topography and deep erosion gullies."
     },
     facts: {
-      de: ["Schroffe Bergkämme", "Basaltplateaus", "Schwer zugänglich", "Teil der kontinentalen Wasserscheide"],
+      de: ["Plateau-Landschaft", "Hochland", "Geografie"],
       hu: ["Meredek hegygerincek", "Bazaltfennsíkok", "Nehezen hozzáférhető", "A kontinentális vízválasztó része"],
-      ro: ["Creste muntoase abrupte", "Podișuri bazaltice", "Greu accesibil", "Parte a cumpenei de ape continentale"],
+      ro: ["Platou montan înalt.", "Relief de altitudine.", "Peisaj arid cu văi."],
       en: ["Rugged mountain ridges", "Basalt plateaus", "Difficult to access", "Part of the continental watershed"]
     }, image: "/poi-images/yaguer-hochland-relief-v2.webp"},
   {

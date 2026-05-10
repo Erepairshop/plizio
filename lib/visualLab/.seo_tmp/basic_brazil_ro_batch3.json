@@ -1,0 +1,64 @@
+{
+  "lang": "ro",
+  "country": "Brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "br-amazon-river-nature-v2",
+      "description": "Amazonul este cel mai mare fluviu din lume după debit și coloana vertebrală a Amazoniei. Traversează nordul Braziliei și susține o biodiversitate excepțională.",
+      "facts": ["Cel mai mare debit din lume", "Traversează Amazonia", "Vital pentru biodiversitate", "Se varsă în Atlantic"]
+    },
+    {
+      "id": "br-sao-francisco-river-nature-v2",
+      "description": "Râul São Francisco este unul dintre cele mai importante fluvii ale Braziliei și curge integral pe teritoriul țării. Este esențial pentru irigații, energie și viața a numeroase comunități.",
+      "facts": ["Curge doar în Brazilia", "Numit „râul unității naționale”", "Important pentru irigații", "Sprijină hidroenergia"]
+    },
+    {
+      "id": "br-parana-river-nature-v2",
+      "description": "Râul Paraná este unul dintre marile sisteme fluviale ale Americii de Sud. Are o importanță mare pentru energie, transport și granițe regionale.",
+      "facts": ["În sudul Americii de Sud", "Legat de Itaipu", "Important pentru hidroenergie", "Parte din bazinul La Plata"]
+    },
+    {
+      "id": "br-tocantins-river-nature-v2",
+      "description": "Râul Tocantins străbate centrul Braziliei și este important pentru dezvoltarea regională. Bazinul său are rol în transport, energie și peisaje naturale variate.",
+      "facts": ["În centrul Braziliei", "Important pentru hidroenergie", "Legat de transportul regional", "Parte dintr-un bazin mare"]
+    },
+    {
+      "id": "br-araguaia-river-nature-v2",
+      "description": "Râul Araguaia este un mare fluviu al Braziliei centrale, cunoscut pentru peisajele sale naturale și pentru legătura cu insula Bananal. Susține ecosisteme bogate și comunități din interiorul țării.",
+      "facts": ["În Brazilia centrală", "Legat de insula Bananal", "Important pentru ecosisteme", "Aproape de zona Cerrado"]
+    },
+    {
+      "id": "br-negro-river-nature-v2",
+      "description": "Râul Negro este un afluent major al Amazonului, cunoscut pentru apele sale întunecate. Trece printr-o zonă tropicală vastă și bogată în viață sălbatică.",
+      "facts": ["Afluent al Amazonului", "Ape întunecate", "Aproape de Manaus", "Important ecologic"]
+    },
+    {
+      "id": "br-madeira-river-nature-v2",
+      "description": "Râul Madeira este unul dintre cei mai importanți afluenți ai Amazonului. Joacă un rol mare în transport, sedimente și dezvoltarea vestului Braziliei.",
+      "facts": ["Afluent al Amazonului", "Traversează vestul Braziliei", "Important pentru transport", "Legat de hidroenergie"]
+    },
+    {
+      "id": "br-tapajos-river-nature-v2",
+      "description": "Râul Tapajós este cunoscut pentru apele sale limpezi și pentru valoarea ecologică ridicată. Este unul dintre afluenții importanți ai Amazonului în statul Pará.",
+      "facts": ["Afluent al Amazonului", "Ape limpezi", "În statul Pará", "Zonă cu valoare ecologică"]
+    },
+    {
+      "id": "br-xingu-river-nature-v2",
+      "description": "Râul Xingu este un afluent important al Amazonului și traversează zone cu biodiversitate ridicată. Este legat și de teritorii indigene și de păduri tropicale extinse.",
+      "facts": ["Afluent al Amazonului", "În statul Pará", "Biodiversitate ridicată", "Legat de comunități indigene"]
+    },
+    {
+      "id": "br-iguazu-river-nature-v2",
+      "description": "Râul Iguaçu este celebru pentru cascadele sale spectaculoase și pentru peisajele din sudul Braziliei. Este unul dintre cele mai cunoscute râuri ale regiunii.",
+      "facts": ["În sudul Braziliei", "Legat de Cascada Iguaçu", "Afluent al Paraná", "Peisaj foarte cunoscut"]
+    },
+    {
+      "id": "br-mount-roraima-nature-v2",
+      "description": "Muntele Roraima este un masiv tepui spectaculos, aflat la granița dintre Brazilia, Venezuela și Guyana. Forma lui plată și abruptă îl face ușor de recunoscut.",
+      "facts": ["La granița cu Venezuela și Guyana", "Masiv tepui", "Peisaj foarte distinct", "În extremul nord al Braziliei"]
+    }
+  ]
+}

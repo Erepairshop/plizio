@@ -9,9 +9,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-83.695, 22.4175],
     name: { de: "Pinar del Río", hu: "Pinar del Río", ro: "Pinar del Río", en: "Pinar del Río" },
     description: {
-      de: "Die Hauptstadt der gleichnamigen Provinz, bekannt als das Zentrum der kubanischen Tabakindustrie.",
+      de: "Die Provinzhauptstadt im Westen Kubas ist ein Zentrum des Tabakanbaus und ein Ausgangspunkt zum Viñales-Tal. Die Stadt liegt in einer landwirtschaftlich geprägten Region mit Trockenhäusern und Feldern.",
       hu: "Az azonos nevű tartomány fővárosa, a kubai dohányipar központjaként ismert.",
-      ro: "Capitala provinciei cu același nume, cunoscută drept centrul industriei de tutun din Cuba.",
+      ro: "Capitala provinciei omonime, cunoscută pentru tutunul cubanez și apropierea de Valea Viñales. Orașul are un rol important în vestul Cubei.",
       en: "The capital of the province of the same name, known as the center of the Cuban tobacco industry."
     ,
     descriptionAdvanced: {
@@ -28,9 +28,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Herz des Tabakanbaus", "UNESCO-Biosphärenreservat in der Nähe", "Gegründet 1669"],
+      de: ["Hauptstadt der Provinz Pinar del Río", "Zentrum des Vuelta-Abajo-Tabaks", "Tor zum Viñales-Tal"],
       hu: ["A dohánytermesztés szíve", "Közeli UNESCO bioszféra-rezervátum", "1669-ben alapították"],
-      ro: ["Inima cultivării tutunului", "Rezervație a biosferei UNESCO în apropiere", "Fondat în 1669"],
+      ro: ["capitală provincială", "centru al tutunului", "vestul Cubei", "aproape de Viñales"],
       en: ["Heart of tobacco cultivation", "Nearby UNESCO Biosphere Reserve", "Founded in 1669"]
     }, image: "/poi-images/pinar-del-rio-cities-v2.webp",
     
@@ -100,10 +100,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       hu: ["'Kuba kertjeként' ismert", "Fontos cukornád- és banántermelő"],
       ro: ["Cunoscută ca 'Grădina Cubei'", "Producător important de trestie de zahăr și banane"],
       en: ["Known as the 'Garden of Cuba'", "Important producer of sugarcane and bananas"]
-    },
-    
-    
-  },
+    }, image: "/poi-images/artemisa-cities-v2.webp"},
   {
     id: "san-antonio-de-los-banos-cities-v2",
     type: "city",
@@ -201,10 +198,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       hu: ["Havannai Agrártudományi Egyetem", "Rum- és építőanyaggyártás"],
       ro: ["Universitatea Agrară din Havana", "Producție de rom și materiale de construcții"],
       en: ["Agrarian University of Havana", "Production of rum and construction materials"]
-    },
-    
-    
-  },
+    }, image: "/poi-images/san-jose-de-las-lajas-cities-v2.webp"},
   {
     id: "guines-cities-v2",
     type: "city",
@@ -267,10 +261,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       hu: ["Gaspar Melchor de Jovellanos spanyol íróról nevezték el", "Fontos közlekedési csomópont"],
       ro: ["Numit după scriitorul spaniol Gaspar Melchor de Jovellanos", "Nod de transport important"],
       en: ["Named after the Spanish writer Gaspar Melchor de Jovellanos", "Important transportation hub"]
-    },
-    
-    
-  },
+    }, image: "/poi-images/jovellanos-cities-v2.webp"},
   {
     id: "colon-cities-v2",
     type: "city",
@@ -278,9 +269,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-80.905, 22.721],
     name: { de: "Colón", hu: "Colón", ro: "Colón", en: "Colón" },
     description: {
-      de: "Eine Stadt im Zentrum der Provinz Matanzas, umgeben von Zuckerrohrfeldern.",
+      de: "Colón ist eine Stadt in der Provinz Matanzas mit starker landwirtschaftlicher Prägung. Sie liegt im Westen der Insel und ist mit Handel und regionaler Versorgung verbunden.",
       hu: "Város Matanzas tartomány központjában, cukornádültetvényekkel körülvéve.",
-      ro: "Un oraș în centrul provinciei Matanzas, înconjurat de câmpuri de trestie de zahăr.",
+      ro: "Oraș din provincia Matanzas, cu profil agricol și poziție importantă în zona central-vestică a Cubei. Este un nucleu local de servicii și comerț.",
       en: "A city in the center of Matanzas province, surrounded by sugarcane fields."
     ,
     descriptionAdvanced: {
@@ -296,9 +287,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Gegründet 1836", "Wirtschaft geprägt von Landwirtschaft"],
+      de: ["In der Provinz Matanzas", "Landwirtschaftlich geprägt", "Wichtiger Ort im westlichen Inland"],
       hu: ["1836-ban alapították", "Gazdaságát a mezőgazdaság jellemzi"],
-      ro: ["Fondat în 1836", "Economie dominată de agricultură"],
+      ro: ["în provincia Matanzas", "profil agricol", "servicii locale", "vestul central al Cubei"],
       en: ["Founded in 1836", "Economy dominated by agriculture"]
     }, image: "/poi-images/colon-cities-v2.webp",
     
@@ -446,9 +437,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-79.443, 21.932],
     name: { de: "Sancti Spíritus", hu: "Sancti Spíritus", ro: "Sancti Spíritus", en: "Sancti Spíritus" },
     description: {
-      de: "Hauptstadt der gleichnamigen Provinz und eine der ursprünglich sieben von den Spaniern gegründeten Städte.",
+      de: "Sancti Spíritus gehört zu den älteren Städten Kubas und bewahrt ein kompaktes koloniales Zentrum. Die Stadt liegt am Fluss Yayabo und ist ein regionales Verwaltungszentrum.",
       hu: "Az azonos nevű tartomány fővárosa, egyike a spanyolok által alapított eredeti hét városnak.",
-      ro: "Capitala provinciei cu același nume și unul dintre cele șapte orașe fondate inițial de spanioli.",
+      ro: "Capitala provinciei Sancti Spíritus, cunoscută pentru centrul său colonial și pentru rolul regional din centrul Cubei. Orașul păstrează o identitate urbană veche.",
       en: "The capital of the province of the same name and one of the original seven cities founded by the Spanish."
     ,
     descriptionAdvanced: {
@@ -465,14 +456,11 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Yayabo-Brücke, ein Nationaldenkmal", "Gut erhaltenes historisches Zentrum", "Gegründet 1514"],
+      de: ["Eine der älteren Städte Kubas", "Am Fluss Yayabo", "Koloniales Stadtzentrum"],
       hu: ["Yayabo-híd, nemzeti műemlék", "Jól megőrzött történelmi központ", "1514-ben alapították"],
-      ro: ["Podul Yayabo, un monument național", "Centru istoric bine conservat", "Fondat în 1514"],
+      ro: ["capitală provincială", "centru colonial", "centrul Cubei", "oraș istoric"],
       en: ["Yayabo Bridge, a National Monument", "Well-preserved historic center", "Founded in 1514"]
-    },
-    
-    
-  },
+    }, image: "/poi-images/sancti-spiritus-cities-v2.webp"},
   {
     id: "jatibonico-cities-v2",
     type: "city",
@@ -481,7 +469,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     name: { de: "Jatibonico", hu: "Jatibonico", ro: "Jatibonico", en: "Jatibonico" },
     description: {
       de: "Eine Stadt in der Provinz Sancti Spíritus, deren Wirtschaft von der Zuckerproduktion geprägt ist.",
-      hu: "Város Sancti Spíritus tartományban, gazdaságát a cukortermelés határozza meg.",
+      hu: "Sancti Spíritus tartomány egyik városa és községe, Kuba középső részén.",
       ro: "Un oraș din provincia Sancti Spíritus, a cărui economie este dominată de producția de zahăr.",
       en: "A city in Sancti Spíritus province whose economy is dominated by sugar production."
     ,
@@ -500,7 +488,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
   },
     facts: {
       de: ["Große Zuckermühle", "Wichtiger Eisenbahnknotenpunkt"],
-      hu: ["Nagy cukorgyár", "Fontos vasúti csomópont"],
+      hu: ["Sancti Spíritus tartomány", "Közép-Kuba", "Mezőgazdasági környezet"],
       ro: ["Mare fabrică de zahăr", "Nod feroviar important"],
       en: ["Large sugar mill", "Important railway junction"]
     }, image: "/poi-images/jatibonico-cities-v2.webp",
@@ -537,10 +525,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       hu: ["Központi elhelyezkedés Kubában", "Ananász és citrusfélék mezőgazdasági központja"],
       ro: ["Locație centrală în Cuba", "Centru agricol pentru ananas și citrice"],
       en: ["Central location in Cuba", "Agricultural center for pineapple and citrus fruits"]
-    },
-    
-    
-  },
+    }, image: "/poi-images/ciego-de-avila-cities-v2.webp"},
   {
     id: "moron-cities-v2",
     type: "city",
@@ -603,10 +588,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       hu: ["Több mint 100 szabadtéri szobor", "Fontos kulturális események, mint a Cucalambeana Fesztivál"],
       ro: ["Peste 100 de sculpturi expuse în aer liber", "Evenimente culturale importante precum Festivalul Cucalambeana"],
       en: ["Over 100 outdoor sculptures on display", "Important cultural events like the Cucalambeana Festival"]
-    },
-    
-    
-  },
+    }, image: "/poi-images/victoria-de-las-tunas-cities-v2.webp"},
   {
     id: "puerto-padre-cities-v2",
     type: "city",
@@ -647,9 +629,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-76.642, 20.38],
     name: { de: "Bayamo", hu: "Bayamo", ro: "Bayamo", en: "Bayamo" },
     description: {
-      de: "Hauptstadt der Provinz Granma, eine der ersten von den Spaniern gegründeten Städte und Wiege der kubanischen Nationalhymne.",
+      de: "Bayamo gilt als eine der historischen Wiegen der kubanischen Unabhängigkeitsbewegung. Die Stadt im Osten Kubas verbindet Revolutionsgeschichte mit traditionellem Provinzleben.",
       hu: "Granma tartomány fővárosa, az egyik első, spanyolok által alapított város és a kubai nemzeti himnusz bölcsője.",
-      ro: "Capitala provinciei Granma, unul dintre primele orașe fondate de spanioli și leagănul imnului național cubanez.",
+      ro: "Capitala provinciei Granma, legată strâns de istoria independenței Cubei. Orașul are un nucleu colonial și un rol cultural important.",
       en: "The capital of Granma province, one of the first cities founded by the Spanish and the cradle of the Cuban national anthem."
     ,
     descriptionAdvanced: {
@@ -665,14 +647,11 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Gegründet 1513", "Nationaldenkmal", "Carlos Manuel de Céspedes' Geburtsort"],
+      de: ["Hauptstadt der Provinz Granma", "Frühes Zentrum der Unabhängigkeitsbewegung", "Historische Stadt im Osten Kubas"],
       hu: ["1513-ban alapították", "Nemzeti műemlék", "Carlos Manuel de Céspedes szülőhelye"],
-      ro: ["Fondat în 1513", "Monument național", "Locul nașterii lui Carlos Manuel de Céspedes"],
+      ro: ["capitala provinciei Granma", "oraș istoric", "legat de independență", "centru cultural"],
       en: ["Founded in 1513", "National Monument", "Birthplace of Carlos Manuel de Céspedes"]
-    },
-    
-    
-  },
+    }, image: "/poi-images/bayamo-cities-v2.webp"},
   {
     id: "manzanillo-cities-v2",
     type: "city",
@@ -733,10 +712,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       hu: ["Amerikai telepesek alapították 1830-ban", "Kompkapcsolat a szárazfölddel", "Márványbányászat és kerámia központja"],
       ro: ["Fondat de coloniști americani în 1830", "Legătură cu feribotul către continent", "Centru pentru extracția de marmură și ceramică"],
       en: ["Founded by American settlers in 1830", "Ferry connection to the mainland", "Center for marble quarrying and ceramics"]
-    },
-    
-    
-  },
+    }, image: "/poi-images/nueva-gerona-cities-v2.webp"},
   {
     id: "santiago-de-las-vegas-cities-v2",
     type: "city",
@@ -746,7 +722,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     description: {
       de: "Eine Stadt in der Provinz Havanna, Sitz des kubanischen Meteorologischen Instituts.",
       hu: "Város Havanna tartományban, a kubai Meteorológiai Intézet székhelye.",
-      ro: "Un oraș în provincia Havana, sediul Institutului Meteorologic Cubanez.",
+      ro: "Localitate apropiată de Havana, cu caracter suburban și rural. Zona este cunoscută pentru legătura ei cu agricultura din jurul capitalei.",
       en: "A city in the Havana province, home to the Cuban Meteorological Institute."
     ,
     descriptionAdvanced: {
@@ -763,12 +739,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     facts: {
       de: ["Historisches Zentrum", "Landwirtschaftliche Umgebung"],
       hu: ["Történelmi központ", "Mezőgazdasági környezet"],
-      ro: ["Centru istoric", "Mediu agricol"],
+      ro: ["aproape de Havana", "caracter suburban", "zonă rurală", "agricultură locală"],
       en: ["Historic center", "Agricultural surroundings"]
-    },
-    
-    
-  },
+    }, image: "/poi-images/santiago-de-las-vegas-cities-v2.webp"},
   {
     id: "palma-soriano-cities-v2",
     type: "city",
@@ -808,9 +781,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-76.248, 20.3],
     name: { de: "Contramaestre", hu: "Contramaestre", ro: "Contramaestre", en: "Contramaestre" },
     description: {
-      de: "Eine Stadt in der Provinz Santiago de Cuba, die für ihre Zitrusproduktion bekannt ist.",
+      de: "Contramaestre liegt in der Provinz Santiago de Cuba und ist vor allem als landwirtschaftliche Gemeinde bekannt. Die Stadt steht für das ländliche Hinterland im Osten der Insel.",
       hu: "Város Santiago de Cuba tartományban, citrusfélék termeléséről ismert.",
-      ro: "Un oraș în provincia Santiago de Cuba, cunoscut pentru producția sa de citrice.",
+      ro: "Municipalitate din provincia Santiago de Cuba, cu economie agricolă și peisaj rural. Așezarea are un rol local important în estul insulei.",
       en: "A city in Santiago de Cuba province known for its citrus production."
     ,
     descriptionAdvanced: {
@@ -825,9 +798,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Landwirtschaftliches Zentrum", "Gegründet 1912"],
+      de: ["In der Provinz Santiago de Cuba", "Landwirtschaftlich geprägt", "Teil des östlichen Inselinneren"],
       hu: ["Mezőgazdasági központ", "1912-ben alapították"],
-      ro: ["Centru agricol", "Fondat în 1912"],
+      ro: ["în Santiago de Cuba", "profil agricol", "zonă rurală", "estul Cubei"],
       en: ["Agricultural center", "Founded in 1912"]
     }, image: "/poi-images/contramaestre-cities-v2.webp",
     
@@ -1032,7 +1005,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-74.95, 20.65],
     name: { de: "Moa", hu: "Moa", ro: "Moa", en: "Moa" },
     description: {
-      de: "Ein wichtiges Zentrum für den Nickel- und Kobaltabbau im Osten Kubas.",
+      de: "Moa ist ein Industrie- und Bergbaustandort an der Nordostküste Kubas. Die Stadt ist vor allem mit dem Abbau von Nickel und Kobalt verbunden.",
       hu: "A nikkel- és kobaltbányászat fontos központja Kelet-Kubában.",
       ro: "Un centru important pentru extracția de nichel și cobalt în estul Cubei.",
       en: "An important center for nickel and cobalt mining in eastern Cuba."
@@ -1049,7 +1022,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Große Tagebaue", "Wichtiger Beitrag zur kubanischen Wirtschaft"],
+      de: ["Nickel- und Kobaltzentrum", "An der Nordostküste Kubas", "Starker Bergbau- und Industrieort"],
       hu: ["Nagy külszíni fejtések", "Fontos hozzájárulás a kubai gazdasághoz"],
       ro: ["Mari mine deschise", "Contribuție importantă la economia cubaneză"],
       en: ["Large open-pit mines", "Important contribution to the Cuban economy"]
@@ -1160,9 +1133,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-79.65, 22.31],
     name: { de: "Placetas", hu: "Placetas", ro: "Placetas", en: "Placetas" },
     description: {
-      de: "Eine Stadt in der Provinz Villa Clara, die als wichtiges Handels- und Verkehrszentrum in der Region gilt.",
-      hu: "Város Villa Clara tartományban, a régió fontos kereskedelmi és közlekedési központjának számít.",
-      ro: "Un oraș din provincia Villa Clara, considerat un important centru comercial și de transport în regiune.",
+      de: "Placetas liegt in der Provinz Villa Clara und dient als Handels- und Verkehrsknoten im Zentrum Kubas. Die Stadt ist stark mit Landwirtschaft und regionalen Verbindungen verknüpft.",
+      hu: "Villa Clara tartomány központi kubai városa, régi vasúti és kereskedelmi kapcsolatokkal.",
+      ro: "Oraș din provincia Villa Clara, cu tradiție industrială și rol regional în centrul Cubei. Este un punct urban important al zonei.",
       en: "A city in Villa Clara province, considered an important commercial and transportation hub in the region."
     ,
     descriptionAdvanced: {
@@ -1177,9 +1150,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Gegründet 1861", "Tabakindustrie"],
-      hu: ["1861-ben alapították", "Dohányipar"],
-      ro: ["Fondat în 1861", "Industria tutunului"],
+      de: ["In Villa Clara", "Handels- und Verkehrszentrum", "Gegründet 1861"],
+      hu: ["Villa Clara tartomány", "Közép-Kuba", "Vasúti csomópont"],
+      ro: ["în Villa Clara", "tradiție industrială", "centru regional", "Cuba centrală"],
       en: ["Founded in 1861", "Tobacco industry"]
     }, image: "/poi-images/placetas-cities-v2.webp",
     
@@ -1193,8 +1166,8 @@ export const poiExtraCubaCitiesV2: POI[] = [
     name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo" },
     description: {
       de: "Eine Stadt in Villa Clara, deren Wirtschaft hauptsächlich von der Landwirtschaft, insbesondere dem Zuckerrohranbau, abhängt.",
-      hu: "Város Villa Clarában, amelynek gazdasága főként a mezőgazdaságtól, különösen a cukornádtermesztéstől függ.",
-      ro: "Un oraș în Villa Clara, a cărui economie depinde în principal de agricultură, în special de cultivarea trestiei de zahăr.",
+      hu: "Villa Clara tartomány egyik községe és városa, a sziget középső térségében.",
+      ro: "Municipalitate din centrul Cubei, cunoscută pentru activitățile agricole și pentru poziția sa în provincia Villa Clara. Are un caracter local clar rural.",
       en: "A city in Villa Clara whose economy depends mainly on agriculture, especially sugarcane cultivation."
     ,
     descriptionAdvanced: {
@@ -1210,8 +1183,8 @@ export const poiExtraCubaCitiesV2: POI[] = [
   },
     facts: {
       de: ["Mehrere Zuckermühlen in der Umgebung", "Ländlicher Charakter"],
-      hu: ["Több cukorgyár a környéken", "Vidéki jelleg"],
-      ro: ["Mai multe fabrici de zahăr în zonă", "Caracter rural"],
+      hu: ["Villa Clara tartomány", "Közép-Kuba", "Helyi mezőgazdaság"],
+      ro: ["în Villa Clara", "zonă agricolă", "caracter rural", "centrul Cubei"],
       en: ["Several sugar mills in the area", "Rural character"]
     }, image: "/poi-images/santo-domingo-cities-v2.webp",
     
@@ -1225,8 +1198,8 @@ export const poiExtraCubaCitiesV2: POI[] = [
     name: { de: "Manicaragua", hu: "Manicaragua", ro: "Manicaragua", en: "Manicaragua" },
     description: {
       de: "Eine Gemeinde in den Escambray-Bergen, bekannt für den Anbau von hochwertigem Kaffee.",
-      hu: "Község az Escambray-hegységben, a magas minőségű kávé termesztéséről ismert.",
-      ro: "O municipalitate în Munții Escambray, cunoscută pentru cultivarea cafelei de înaltă calitate.",
+      hu: "Villa Clara tartomány hegyvidéki községe és városa, a középső kubai térségben.",
+      ro: "Localitate din sudul provinciei Villa Clara, la poalele munților Escambray. Este cunoscută pentru cadrul său rural și montan.",
       en: "A municipality in the Escambray Mountains known for the cultivation of high-quality coffee."
     ,
     descriptionAdvanced: {
@@ -1242,8 +1215,8 @@ export const poiExtraCubaCitiesV2: POI[] = [
   },
     facts: {
       de: ["Zentrum des kubanischen Kaffeeanbaus", "Bergige Landschaft"],
-      hu: ["A kubai kávétermesztés központja", "Hegyvidéki táj"],
-      ro: ["Centrul cultivării cafelei cubaneze", "Peisaj montan"],
+      hu: ["Villa Clara tartomány", "Hegyvidéki település", "Hanabanilla-tó térsége"],
+      ro: ["în Villa Clara", "la Escambray", "zonă rurală", "peisaj montan"],
       en: ["Center of Cuban coffee cultivation", "Mountainous landscape"]
     }, image: "/poi-images/manicaragua-cities-v2.webp",
     
@@ -1321,7 +1294,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     name: { de: "Amancio", hu: "Amancio", ro: "Amancio", en: "Amancio" },
     description: {
       de: "Eine Gemeinde im Süden der Provinz Las Tunas, deren Hauptwirtschaftszweig die Zuckerproduktion ist.",
-      hu: "Község Las Tunas tartomány déli részén, fő gazdasági ága a cukortermelés.",
+      hu: "Las Tunas tartomány egyik városa és községe, Kuba déli-középső részén.",
       ro: "O municipalitate în sudul provinciei Las Tunas, a cărei principală industrie este producția de zahăr.",
       en: "A municipality in the south of Las Tunas province, whose main industry is sugar production."
     ,
@@ -1338,7 +1311,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
   },
     facts: {
       de: ["Eine der größten Zuckermühlen des Landes", "Ländliche Gemeinde"],
-      hu: ["Az ország egyik legnagyobb cukorgyára", "Vidéki község"],
+      hu: ["Las Tunas tartomány", "Dél-közép Kuba", "Mezőgazdasági központ"],
       ro: ["Una dintre cele mai mari fabrici de zahăr din țară", "Comunitate rurală"],
       en: ["One of the largest sugar mills in the country", "Rural community"]
     },
@@ -1354,7 +1327,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     description: {
       de: "Eine Stadt und Gemeinde in der Provinz Las Tunas.",
       hu: "Város és község Las Tunas tartományban.",
-      ro: "Un oraș și o municipalitate în provincia Las Tunas.",
+      ro: "Municipalitate din provincia Las Tunas, cu profil agricol și poziție în estul-centrul Cubei. Este un centru local de viață rurală.",
       en: "A city and municipality in the province of Las Tunas."
     ,
     descriptionAdvanced: {
@@ -1371,7 +1344,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     facts: {
       de: ["Landwirtschaft, insbesondere Viehzucht", "Ländliche Umgebung"],
       hu: ["Mezőgazdaság, különösen állattenyésztés", "Vidéki környezet"],
-      ro: ["Agricultură, în special creșterea vitelor", "Mediu rural"],
+      ro: ["în Las Tunas", "profil agricol", "estul Cubei", "centru local"],
       en: ["Agriculture, especially cattle ranching", "Rural surroundings"]
     }, image: "/poi-images/colombia-cities-v2.webp",
     
@@ -1384,9 +1357,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-76.42, 20.37],
     name: { de: "Jiguaní", hu: "Jiguaní", ro: "Jiguaní", en: "Jiguaní" },
     description: {
-      de: "Eine der ältesten Siedlungen in der Provinz Granma mit reicher Geschichte im Zusammenhang mit den Unabhängigkeitskriegen.",
+      de: "Jiguaní ist eine historische Stadt in der Provinz Granma und mit den Unabhängigkeitskriegen verbunden. Der Ort liegt in einer ländlichen Landschaft nahe der Sierra Maestra.",
       hu: "Granma tartomány egyik legrégebbi települése, gazdag történelemmel, amely a függetlenségi háborúkhoz kapcsolódik.",
-      ro: "Una dintre cele mai vechi așezări din provincia Granma, cu o istorie bogată legată de războaiele de independență.",
+      ro: "Oraș din provincia Granma, la contactul dintre câmpie și zonele montane din estul Cubei. Are o identitate locală bine conturată.",
       en: "One of the oldest settlements in Granma province, with a rich history related to the wars of independence."
     ,
     descriptionAdvanced: {
@@ -1401,9 +1374,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Gegründet 1701", "Historische Bedeutung"],
+      de: ["In der Provinz Granma", "Mit den Unabhängigkeitskriegen verbunden", "Gegründet 1701"],
       hu: ["1701-ben alapították", "Történelmi jelentőség"],
-      ro: ["Fondat în 1701", "Semnificație istorică"],
+      ro: ["în Granma", "lângă munți", "oraș istoric", "estul Cubei"],
       en: ["Founded in 1701", "Historical significance"]
     }, image: "/poi-images/jiguani-cities-v2.webp",
     
@@ -1417,9 +1390,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
     name: { de: "Niquero", hu: "Niquero", ro: "Niquero", en: "Niquero" },
     description: {
       de: "Eine Küstenstadt in Granma, bekannt als der Ort, an dem Fidel Castro und seine Revolutionäre 1956 mit der Yacht Granma landeten.",
-      hu: "Tengerparti város Granmában, arról ismert, hogy Fidel Castro és forradalmárai 1956-ban a Granma jachttal itt szálltak partra.",
+      hu: "Granma tartomány déli városa és községe, a sziget legdélebbi települései közé tartozik.",
       ro: "Un oraș de coastă în Granma, cunoscut ca locul unde Fidel Castro și revoluționarii săi au debarcat cu iahtul Granma în 1956.",
-      en: "A coastal town in Granma, known as the place where Fidel Castro and his revolutionaries landed with the yacht Granma in 1956."
+      en: "A coastal town in southeastern Cuba, known for fishing, farming, and its access to the Cabo Cruz area."
     ,
     descriptionAdvanced: {
       ro: "Niquero este un oraș portuar situat în provincia Granma, cunoscut pentru proximitatea sa față de Parcul Național Desembarco del Granma, un sit al Patrimoniului Mondial UNESCO. Zona are o semnificație istorică majoră, fiind locul unde a avut loc debarcarea iahtului Granma în 1956, marcând începutul revoluției cubaneze. Istorie K8 — Revoluție și Patrimoniu UNESCO.",
@@ -1434,9 +1407,9 @@ export const poiExtraCubaCitiesV2: POI[] = [
   },
     facts: {
       de: ["Desembarco del Granma Nationalpark in der Nähe", "Zuckerindustrie"],
-      hu: ["Közelben a Desembarco del Granma Nemzeti Park", "Cukoripar"],
+      hu: ["Granma tartomány", "Déli partvidék", "Kuba legdélibb községe"],
       ro: ["Parcul Național Desembarco del Granma în apropiere", "Industria zahărului"],
-      en: ["Desembarco del Granma National Park nearby", "Sugar industry"]
+      en: ["Granma Province", "Southeastern Cuba", "Coastal and rural economy"]
     }, image: "/poi-images/niquero-cities-v2.webp",
     
     
@@ -1481,7 +1454,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     name: { de: "Media Luna", hu: "Media Luna", ro: "Media Luna", en: "Media Luna" },
     description: {
       de: "Eine Küstenstadt in Granma, Geburtsort von Celia Sánchez, einer Heldin der kubanischen Revolution.",
-      hu: "Tengerparti város Granmában, Celia Sánchez, a kubai forradalom hősnőjének szülőhelye.",
+      hu: "Granma tartomány déli, tengerparti községe és városa.",
       ro: "Un oraș de coastă în Granma, locul de naștere al Celiei Sánchez, o eroină a Revoluției Cubaneze.",
       en: "A coastal town in Granma, birthplace of Celia Sánchez, a heroine of the Cuban Revolution."
     ,
@@ -1498,7 +1471,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
   },
     facts: {
       de: ["Celia Sánchez Geburtsort und Museum", "Zuckerproduktion"],
-      hu: ["Celia Sánchez szülőháza és múzeuma", "Cukortermelés"],
+      hu: ["Granma tartomány", "Déli partvidék", "Tengerhez kötődő település"],
       ro: ["Casa memorială și muzeul Celia Sánchez", "Producția de zahăr"],
       en: ["Celia Sánchez birthplace and museum", "Sugar production"]
     }, image: "/poi-images/media-luna-cities-v2.webp",
@@ -1576,8 +1549,8 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-75.15, 20.0],
     name: { de: "Caimanera", hu: "Caimanera", ro: "Caimanera", en: "Caimanera" },
     description: {
-      de: "Ein Fischerdorf an der Guantánamo-Bucht, direkt an der Grenze zur US-Marinebasis.",
-      hu: "Halászfalu a Guantánamói-öbölben, közvetlenül az amerikai haditengerészeti támaszpont határán.",
+      de: "Caimanera ist ein Küstenort an der Bucht von Guantánamo, direkt in der Nähe der US-Marinebasis. Die Lage prägt den Ort stärker als seine geringe Größe.",
+      hu: "Guantánamo tartomány kisvárosa és községe, a Guantánamói-öböl közelében.",
       ro: "Un sat pescăresc în Golful Guantánamo, chiar la granița cu baza navală americană.",
       en: "A fishing village on Guantánamo Bay, right on the border with the US naval base."
     ,
@@ -1593,8 +1566,8 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Nächste kubanische Stadt zur US-Basis", "Besonderer Zugang erforderlich", "Salzgewinnung"],
-      hu: ["A legközelebbi kubai város az amerikai támaszponthoz", "Különleges belépés szükséges", "Sókitermelés"],
+      de: ["An der Bucht von Guantánamo", "Nähe zur US-Basis", "Salzgewinnung"],
+      hu: ["Guantánamo tartomány", "Guantánamói-öböl mellett", "Határ menti település"],
       ro: ["Cel mai apropiat oraș cubanez de baza americană", "Necesită acces special", "Producția de sare"],
       en: ["Closest Cuban town to the US base", "Special access required", "Salt production"]
     }, image: "/poi-images/caimanera-cities-v2.webp",
@@ -1608,7 +1581,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-75.05, 20.18],
     name: { de: "Manuel Tames", hu: "Manuel Tames", ro: "Manuel Tames", en: "Manuel Tames" },
     description: {
-      de: "Eine Gemeinde in der Provinz Guantánamo, deren Wirtschaft auf Landwirtschaft und Kaffeeanbau basiert.",
+      de: "Manuel Tames ist eine ländliche Gemeinde in der Provinz Guantánamo mit gebirgigem Umland. Landwirtschaft und kleine lokale Betriebe bestimmen das Bild des Ortes.",
       hu: "Község Guantánamo tartományban, gazdasága a mezőgazdaságra és a kávétermesztésre épül.",
       ro: "O municipalitate din provincia Guantánamo, a cărei economie se bazează pe agricultură și cultivarea cafelei.",
       en: "A municipality in Guantánamo province whose economy is based on agriculture and coffee cultivation."
@@ -1625,7 +1598,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Bergige Region", "Kakao- und Kokosnussanbau"],
+      de: ["In der Provinz Guantánamo", "Gebirgiges Umland", "Kakao und Kokosnüsse"],
       hu: ["Hegyvidéki régió", "Kakaó- és kókuszdió-termesztés"],
       ro: ["Regiune muntoasă", "Cultivarea cacauei și a nucilor de cocos"],
       en: ["Mountainous region", "Cocoa and coconut cultivation"]
@@ -1768,10 +1741,10 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-83.05, 22.71],
     name: { de: "San Cristóbal", hu: "San Cristóbal", ro: "San Cristóbal", en: "San Cristóbal" },
     description: {
-      de: "Eine Stadt in der Provinz Artemisa, am Fuße der Sierra del Rosario.",
-      hu: "Város Artemisa tartományban, a Sierra del Rosario lábánál.",
-      ro: "Un oraș în provincia Artemisa, la poalele Sierra del Rosario.",
-      en: "A city in the province of Artemisa, at the foot of the Sierra del Rosario."
+      de: "San Cristóbal liegt in der Provinz Artemisa am Fuß der Sierra del Rosario. Die Stadt ist landwirtschaftlich geprägt und liegt an einer wichtigen West-Ost-Verbindung.",
+      hu: "Artemisa tartomány városa és községe, Nyugat-Kuba egyik régi települése.",
+      ro: "Oraș din provincia Artemisa, cunoscut pentru activitatea agricolă și pentru legăturile sale cu vestul Cubei. Are un profil urban modest și funcțional.",
+      en: "A western Cuban town in Artemisa Province, with a local role in farming and transport."
     ,
     descriptionAdvanced: {
       ro: "San Cristóbal este un oraș situat în provincia Artemisa, cu o economie care îmbină agricultura cu servicii locale vitale. Localitatea reprezintă un punct de dezvoltare regională în vestul Cubei, contribuind la economia provinciei și oferind un mediu care reflectă transformările și provocările cu care se confruntă comunitățile rurale cubaneze de astăzi. Economie K6 — Agricultură și dezvoltare regională.",
@@ -1785,10 +1758,10 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Nähe zum Biosphärenreservat Sierra del Rosario", "Landwirtschaft"],
-      hu: ["A Sierra del Rosario bioszféra-rezervátum közelsége", "Mezőgazdaság"],
-      ro: ["Apropierea de Rezervația Biosferei Sierra del Rosario", "Agricultură"],
-      en: ["Proximity to the Sierra del Rosario Biosphere Reserve", "Agriculture"]
+      de: ["In Artemisa", "Am Fuß der Sierra del Rosario", "Landwirtschaftlich geprägt"],
+      hu: ["Artemisa tartomány", "Nyugat-Kuba", "Sierra de los Órganos előtere"],
+      ro: ["în Artemisa", "profil agricol", "vestul Cubei", "centru local"],
+      en: ["Artemisa Province", "West of Havana", "Regional market town"]
     }, image: "/poi-images/san-cristobal-cities-v2.webp",
     
     
@@ -1865,7 +1838,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     name: { de: "Aguada de Pasajeros", hu: "Aguada de Pasajeros", ro: "Aguada de Pasajeros", en: "Aguada de Pasajeros" },
     description: {
       de: "Eine Gemeinde in der Provinz Cienfuegos, deren Wirtschaft von Landwirtschaft und Viehzucht geprägt ist.",
-      hu: "Község Cienfuegos tartományban, gazdaságát a mezőgazdaság és az állattenyésztés jellemzi.",
+      hu: "Cienfuegos tartomány községe és városa, a tartomány legnyugatibb részén.",
       ro: "O municipalitate din provincia Cienfuegos, a cărei economie este dominată de agricultură și creșterea vitelor.",
       en: "A municipality in the province of Cienfuegos, whose economy is dominated by agriculture and cattle ranching."
     ,
@@ -1882,7 +1855,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
   },
     facts: {
       de: ["Zuckerrohranbau", "Ländliche Gemeinde"],
-      hu: ["Cukornádtermesztés", "Vidéki község"],
+      hu: ["Cienfuegos tartomány", "A legnyugatibb község", "Közúti kapcsolat"],
       ro: ["Cultivarea trestiei de zahăr", "Comunitate rurală"],
       en: ["Sugarcane cultivation", "Rural community"]
     }, image: "/poi-images/aguada-de-pasajeros-cities-v2.webp",
@@ -2055,7 +2028,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     description: {
       de: "Eine Gemeinde in Ciego de Ávila, die nach dem Datum des Sieges der kubanischen Revolution benannt ist.",
       hu: "Község Ciego de Ávilában, amelyet a kubai forradalom győzelmének dátumáról neveztek el.",
-      ro: "O municipalitate din Ciego de Ávila, numită după data victoriei Revoluției Cubaneze.",
+      ro: "Municipalitate din provincia Ciego de Ávila, numită după data victoriei Revoluției Cubaneze. Zona are un profil agricol clar.",
       en: "A municipality in Ciego de Ávila named after the date of the victory of the Cuban Revolution."
     ,
     descriptionAdvanced: {
@@ -2071,7 +2044,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     facts: {
       de: ["Landwirtschaftliches Gebiet", "Zucker- und Viehwirtschaft"],
       hu: ["Mezőgazdasági terület", "Cukor- és állattenyésztés"],
-      ro: ["Zonă agricolă", "Industria zahărului și a vitelor"],
+      ro: ["în Ciego de Ávila", "nume revoluționar", "zonă agricolă", "centrul Cubei"],
       en: ["Agricultural area", "Sugar and cattle industry"]
     }, image: "/poi-images/primero-de-enero-cities-v2.webp",
     
@@ -2115,7 +2088,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-76.95, 20.27],
     name: { de: "Yara", hu: "Yara", ro: "Yara", en: "Yara" },
     description: {
-      de: "Eine Stadt mit großer historischer Bedeutung, da hier Carlos Manuel de Céspedes den 'Grito de Yara' ausrief und damit den Zehnjährigen Krieg begann.",
+      de: "Yara ist ein historischer Ort in der Provinz Granma, der mit dem Grito de Yara und dem Beginn des Zehnjährigen Krieges verbunden ist. Die Gemeinde liegt in einer fruchtbaren Region am Rand der Sierra Maestra.",
       hu: "Nagy történelmi jelentőségű város, mivel itt kiáltotta ki Carlos Manuel de Céspedes a 'Grito de Yara'-t, amellyel megkezdődött a tízéves háború.",
       ro: "Un oraș de mare importanță istorică, deoarece aici Carlos Manuel de Céspedes a lansat 'Grito de Yara', începând astfel Războiul de Zece Ani.",
       en: "A city of great historical importance, as it was here that Carlos Manuel de Céspedes launched the 'Grito de Yara', thus beginning the Ten Years' War."
@@ -2131,7 +2104,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     }
   },
     facts: {
-      de: ["Beginn der kubanischen Unabhängigkeitskriege", "Reisanbau"],
+      de: ["Schauplatz des Grito de Yara", "Beginn des Zehnjährigen Krieges", "In der Provinz Granma"],
       hu: ["A kubai függetlenségi háborúk kezdete", "Rizstermesztés"],
       ro: ["Începutul războaielor de independență cubaneze", "Cultivarea orezului"],
       en: ["Beginning of the Cuban Wars of Independence", "Rice cultivation"]
@@ -2272,7 +2245,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     description: {
       de: "Eine historische Stadt in der Provinz Artemisa, die einst ein beliebtes Ziel für wohlhabende Havanner war.",
       hu: "Történelmi város Artemisa tartományban, amely egykor a gazdag havannaiak kedvelt célpontja volt.",
-      ro: "Un oraș istoric din provincia Artemisa, care a fost odată o destinație populară pentru havanezii bogați.",
+      ro: "Oraș istoric din provincia Artemisa, cunoscut cândva ca destinație pentru locuitorii bogați din Havana. Are o atmosferă urbană tradițională.",
       en: "A historic city in the province of Artemisa, which was once a popular destination for wealthy Havanians."
     ,
     descriptionAdvanced: {
@@ -2288,7 +2261,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
     facts: {
       de: ["Historisches Theater", "Ehemals wichtiger Verkehrsknotenpunkt"],
       hu: ["Történelmi színház", "Egykor fontos közlekedési csomópont"],
-      ro: ["Teatru istoric", "Fost nod de transport important"],
+      ro: ["în Artemisa", "oraș istoric", "lângă Havana", "tradiție urbană"],
       en: ["Historic theater", "Formerly an important transportation hub"]
     }, image: "/poi-images/guanajay-cities-v2.webp",
     
@@ -2335,7 +2308,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       de: "Ein wichtiger Hafen an der Südküste Kubas und der Hauptabfahrtspunkt für Fähren zur Isla de la Juventud.",
       hu: "Fontos kikötő Kuba déli partján és a fő indulási pont az Isla de la Juventud felé tartó kompok számára.",
       ro: "Un port important pe coasta de sud a Cubei și principalul punct de plecare pentru feriboturile către Isla de la Juventud.",
-      en: "An important port on the south coast of Cuba and the main departure point for ferries to the Isla de la Juventud."
+      en: "A southern coastal town and port in Mayabeque Province, facing the Gulf of Batabanó."
     ,
     descriptionAdvanced: {
       en: "Batabanó is a coastal municipality in Mayabeque province, historically acting as the main maritime link between the Cuban mainland and the Isla de la Juventud. Its identity is tightly linked to fishing and ferry operations, serving as a critical harbor point in the south of the province. Geography K7 — Critical coastal harbor operations.",
@@ -2351,7 +2324,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       de: ["Schwammfischerei", "Hafen für die Fischerei- und Transportindustrie"],
       hu: ["Szivacshalászat", "A halászati és közlekedési ipar kikötője"],
       ro: ["Pescuitul de bureți", "Port pentru industria pescuitului și a transporturilor"],
-      en: ["Sponge fishing", "Port for the fishing and transport industry"]
+      en: ["Mayabeque Province", "South coast of Cuba", "Fishing and ferry link"]
     }, image: "/poi-images/batabano-cities-v2.webp",
     
     
@@ -2363,10 +2336,10 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-82.14, 22.78],
     name: { de: "Melena del Sur", hu: "Melena del Sur", ro: "Melena del Sur", en: "Melena del Sur" },
     description: {
-      de: "Eine Gemeinde in der Provinz Mayabeque an der Südküste, deren Wirtschaft von der Landwirtschaft geprägt ist.",
+      de: "Melena del Sur ist eine landwirtschaftliche Gemeinde in Mayabeque südlich von Havanna. Ackerbau und Fischerei prägen den Ort und sein Umland.",
       hu: "Község Mayabeque tartományban a déli parton, gazdaságát a mezőgazdaság jellemzi.",
-      ro: "O municipalitate din provincia Mayabeque pe coasta de sud, a cărei economie este dominată de agricultură.",
-      en: "A municipality in the province of Mayabeque on the south coast, whose economy is dominated by agriculture."
+      ro: "Municipalitate din provincia Mayabeque, situată pe coasta de sud și orientată spre agricultură. Are și activități de pescuit în zonă.",
+      en: "A municipality in Mayabeque Province, set in Cuba's fertile agricultural belt."
     ,
     descriptionAdvanced: {
       en: "Melena del Sur is a coastal town in Mayabeque province, with an economy that balances agriculture in the fertile plains with small-scale fishing along the southern coast. Its quiet coastal setting and focus on local primary production make it a representative of the southern provincial maritime/agricultural mix. Geography K7 — Southern coastal primary production hubs.",
@@ -2379,10 +2352,10 @@ export const poiExtraCubaCitiesV2: POI[] = [
     }
   },
     facts: {
-      de: ["Anbau von Kartoffeln und Gemüse", "Fischerei"],
+      de: ["In Mayabeque", "Landwirtschaft und Fischerei", "Südlich von Havanna"],
       hu: ["Burgonya- és zöldségtermesztés", "Halászat"],
-      ro: ["Cultivarea cartofilor și a legumelor", "Pescuit"],
-      en: ["Cultivation of potatoes and vegetables", "Fishing"]
+      ro: ["în Mayabeque", "coasta de sud", "agricultură", "pescuit"],
+      en: ["Mayabeque Province", "Near Havana", "Rural farming area"]
     }, image: "/poi-images/melena-del-sur-cities-v2.webp",
     
     
@@ -2518,10 +2491,10 @@ export const poiExtraCubaCitiesV2: POI[] = [
     coords: [-78.99, 21.91],
     name: { de: "Majagua", hu: "Majagua", ro: "Majagua", en: "Majagua" },
     description: {
-      de: "Eine Gemeinde in Ciego de Ávila, bekannt für ihre traditionellen Feste und ihre landwirtschaftliche Produktion.",
+      de: "Majagua ist eine Gemeinde in Ciego de Ávila, die für Landwirtschaft und traditionelle Feste bekannt ist. Sie liegt im flachen Zentrum Kubas zwischen Zuckerrohr- und Ananasfeldern.",
       hu: "Község Ciego de Ávilában, hagyományos ünnepeiről és mezőgazdasági termeléséről ismert.",
-      ro: "O municipalitate din Ciego de Ávila, cunoscută pentru festivalurile sale tradiționale și producția agricolă.",
-      en: "A municipality in Ciego de Ávila, known for its traditional festivals and agricultural production."
+      ro: "Municipalitate din provincia Ciego de Ávila, cunoscută pentru festivalurile tradiționale și producția agricolă. Este un oraș rural al câmpiei centrale.",
+      en: "A central Cuban municipality in Ciego de Ávila Province, surrounded by farmland and sugarcane areas."
     ,
     descriptionAdvanced: {
       en: "Majagua is a municipality in Ciego de Ávila province, central to the regional agricultural economy that historically focused on tobacco and diversified crops. It represents the quiet but productive interior landscape of the province, where traditional farming methods continue to sustain the local community and market supply. Geography K7 — Traditional interior agriculture.",
@@ -2534,10 +2507,10 @@ export const poiExtraCubaCitiesV2: POI[] = [
     }
   },
     facts: {
-      de: ["'Rote und Blaue' Feste", "Landwirtschaft"],
+      de: ["In Ciego de Ávila", "Landwirtschaftlich geprägt", "Bekannt für traditionelle Feste"],
       hu: ["'Vörös és Kék' ünnepek", "Mezőgazdaság"],
-      ro: ["Festivalurile 'Roșu și Albastru'", "Agricultură"],
-      en: ["'Red and Blue' festivals", "Agriculture"]
+      ro: ["în Ciego de Ávila", "festivaluri tradiționale", "agricultură", "câmpia centrală"],
+      en: ["Ciego de Ávila Province", "Central Cuba", "Agricultural municipality"]
     }, image: "/poi-images/majagua-cities-v2.webp",
     
     
@@ -2582,8 +2555,8 @@ export const poiExtraCubaCitiesV2: POI[] = [
     description: {
       de: "Eine Gemeinde in der Provinz Holguín, benannt nach dem General des Unabhängigkeitskrieges Calixto García.",
       hu: "Község Holguín tartományban, a függetlenségi háború tábornokáról, Calixto Garcíáról elnevezve.",
-      ro: "O municipalitate din provincia Holguín, numită după generalul războiului de independență Calixto García.",
-      en: "A municipality in the province of Holguín, named after the general of the war of independence Calixto García."
+      ro: "Municipalitate din provincia Holguín, numită după generalul Calixto García. Zona are un profil rural și agricol.",
+      en: "A municipality in Holguín Province, named after Cuban independence leader Calixto García."
     ,
     descriptionAdvanced: {
       en: "Calixto García is a municipality in Holguín, named after a prominent Cuban revolutionary general. The region is largely defined by its agricultural and livestock activities, contributing to the provincial food supply and representing the productive interior landscape that is vital to the local economy. History K8 — Revolutionary figures and rural agricultural productivity.",
@@ -2598,8 +2571,8 @@ export const poiExtraCubaCitiesV2: POI[] = [
     facts: {
       de: ["Viehzucht und Landwirtschaft", "Ländliche Region"],
       hu: ["Állattenyésztés és mezőgazdaság", "Vidéki régió"],
-      ro: ["Creșterea vitelor și agricultură", "Regiune rurală"],
-      en: ["Cattle ranching and agriculture", "Rural region"]
+      ro: ["în Holguín", "nume istoric", "regiune rurală", "agricultură"],
+      en: ["Holguín Province", "Eastern Cuba", "Named for Calixto García"]
     }, image: "/poi-images/calixto-garcia-cities-v2.webp",
     
     

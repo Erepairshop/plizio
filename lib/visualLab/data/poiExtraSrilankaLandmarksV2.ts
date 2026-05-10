@@ -13,8 +13,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["2019-ben nyitották meg.", "Forgó kilátóterasszal rendelkezik."],
       ro: ["Deschis în anul 2019.", "Dispune de o punte de observație rotativă."],
       en: ["Opened in 2019.", "Features a revolving observation deck."]
-    }
-  },
+    }, image: "/poi-images/lotus-tower-landmarks-v2.webp"},
   {
     id: "nine-arches-bridge-landmarks-v2",
     type: "landmark",
@@ -27,8 +26,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["Acél felhasználása nélkül épült.", "1921-ben fejezték be az építését."],
       ro: ["Construit fără a utiliza oțel.", "Finalizat în anul 1921."],
       en: ["Built entirely without steel.", "Completed in 1921."]
-    }
-  },
+    }, image: "/poi-images/nine-arches-bridge-landmarks-v2.webp"},
   {
     id: "adams-peak-landmarks-v2",
     type: "landmark",
@@ -41,8 +39,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["2243 méter magas.", "Fontos zarándokcélpont."],
       ro: ["Are 2243 de metri înălțime.", "O destinație importantă de pelerinaj."],
       en: ["Stands 2243 meters tall.", "A major pilgrimage destination."]
-    }
-  },
+    }, image: "/poi-images/adams-peak-landmarks-v2.webp"},
   {
     id: "pinnawala-elephant-orphanage-landmarks-v2",
     type: "landmark",
@@ -55,8 +52,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["1975-ben alapították.", "A legnagyobb fogságban élő elefántcsordának ad otthont."],
       ro: ["Fondat în anul 1975.", "Găzduiește cea mai mare turmă de elefanți în captivitate."],
       en: ["Founded in 1975.", "Houses the largest herd of captive elephants."]
-    }
-  },
+    }, image: "/poi-images/pinnawala-elephant-orphanage-landmarks-v2.webp"},
   {
     id: "worlds-end-landmarks-v2",
     type: "landmark",
@@ -69,8 +65,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["Majdnem 1200 méter mélyen zuhan a mélybe.", "A kora reggeli órákban érdemes meglátogatni."],
       ro: ["Are o cădere de aproape 1200 de metri.", "Cel mai bine de vizitat dimineața devreme."],
       en: ["Drops almost 1200 meters.", "Best visited in the early morning."]
-    }
-  },
+    }, image: "/poi-images/worlds-end-landmarks-v2.webp"},
   {
     id: "gangaramaya-temple-landmarks-v2",
     type: "landmark",
@@ -83,8 +78,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["A Beira-tó közelében található.", "Egy nagy múzeumnak és könyvtárnak ad otthont."],
       ro: ["Situat lângă lacul Beira.", "Găzduiește un muzeu mare și o bibliotecă."],
       en: ["Located near Beira Lake.", "Houses a large museum and library."]
-    }
-  },
+    }, image: "/poi-images/gangaramaya-temple-landmarks-v2.webp"},
   {
     id: "red-mosque-landmarks-v2",
     type: "landmark",
@@ -97,8 +91,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["1909-ben készült el.", "Indiai muszlimok építették."],
       ro: ["Finalizată în anul 1909.", "A fost construită de musulmanii indieni."],
       en: ["Completed in 1909.", "Built by Indian Muslims."]
-    }
-  },
+    }, image: "/poi-images/red-mosque-landmarks-v2.webp"},
   {
     id: "seetha-amman-temple-landmarks-v2",
     type: "landmark",
@@ -111,8 +104,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["A legenda szerint Szítát itt tartották fogva.", "Gyönyörű erdők veszik körül."],
       ro: ["Conform legendei, Sita a fost ținută captivă aici.", "Înconjurat de păduri frumoase."],
       en: ["Legend says Sita was held captive here.", "Surrounded by beautiful forests."]
-    }
-  },
+    }, image: "/poi-images/seetha-amman-temple-landmarks-v2.webp"},
   {
     id: "ramboda-falls-landmarks-v2",
     type: "landmark",
@@ -125,8 +117,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["Az ország egyik legmagasabb vízesése.", "Több szintből áll."],
       ro: ["Una dintre cele mai înalte cascade din țară.", "Formată din mai multe trepte."],
       en: ["One of the tallest waterfalls in the country.", "Consists of multiple tiers."]
-    }
-  },
+    }, image: "/poi-images/ramboda-falls-landmarks-v2.webp"},
   {
     id: "st-anthonys-shrine-landmarks-v2",
     type: "landmark",
@@ -139,8 +130,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["1834-ben épült.", "Minden vallás zarándokai felkeresik."],
       ro: ["Construit în anul 1834.", "Vizitat de pelerini de toate credințele."],
       en: ["Built in 1834.", "Visited by pilgrims of all faiths."]
-    }
-  },
+    }, image: "/poi-images/st-anthonys-shrine-landmarks-v2.webp"},
   {
     id: "gregory-lake-landmarks-v2",
     type: "landmark",
@@ -153,8 +143,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["William Gregory kormányzó hozta létre 1873-ban.", "Vízisport-lehetőségeket kínál."],
       ro: ["Creat de guvernatorul William Gregory în 1873.", "Oferă activități de sporturi nautice."],
       en: ["Created by Governor William Gregory in 1873.", "Offers water sports activities."]
-    }
-  },
+    }, image: "/poi-images/gregory-lake-landmarks-v2.webp"},
   {
     id: "diyaluma-falls-landmarks-v2",
     type: "landmark",
@@ -167,8 +156,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["220 méter magas.", "A neve azt jelenti, hogy 'gyors vízfolyás'."],
       ro: ["Are o înălțime de 220 de metri.", "Numele înseamnă 'flux rapid de apă'."],
       en: ["Stands 220 meters tall.", "The name means 'rapid flow of water'."]
-    }
-  },
+    }, image: "/poi-images/diyaluma-falls-landmarks-v2.webp"},
   {
     id: "kandy-lake-landmarks-v2",
     type: "landmark",
@@ -181,8 +169,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["Kandy utolsó királya építtette 1807-ben.", "A horgászat szigorúan tilos."],
       ro: ["Construit de ultimul rege din Kandy în 1807.", "Pescuitul este strict interzis."],
       en: ["Built by the last King of Kandy in 1807.", "Fishing is strictly prohibited."]
-    }
-  },
+    }, image: "/poi-images/kandy-lake-landmarks-v2.webp"},
   {
     id: "galle-face-green-landmarks-v2",
     type: "landmark",
@@ -195,8 +182,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["Eredetileg 1859-ben hozták létre.", "Népszerű hely az utcai ételek kedvelőinek."],
       ro: ["Amenajat inițial în 1859.", "Un loc popular pentru mâncarea stradală."],
       en: ["Originally laid out in 1859.", "A popular spot for street food."]
-    }
-  },
+    }, image: "/poi-images/galle-face-green-landmarks-v2.webp"},
   {
     id: "unawatuna-beach-landmarks-v2",
     type: "landmark",
@@ -209,8 +195,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["Gyakran Ázsia legjobb strandjai közé sorolják.", "Népszerű sznorkelező hely."],
       ro: ["Adesea inclusă printre cele mai bune plaje din Asia.", "Un loc popular pentru snorkeling."],
       en: ["Often ranked among the best beaches in Asia.", "A popular spot for snorkeling."]
-    }
-  },
+    }, image: "/poi-images/unawatuna-beach-landmarks-v2.webp"},
   {
     id: "pidurangala-rock-landmarks-v2",
     type: "landmark",
@@ -223,8 +208,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["Történelmi buddhista kolostorkomplexum.", "Népszerű helyszín napfelkeltekor."],
       ro: ["Complex mănăstiresc budist istoric.", "Un loc popular pentru a admira răsăritul."],
       en: ["Historic Buddhist monastery complex.", "A popular spot for sunrise viewing."]
-    }
-  },
+    }, image: "/poi-images/pidurangala-rock-landmarks-v2.webp"},
   {
     id: "bahirawakanda-buddha-landmarks-v2",
     type: "landmark",
@@ -237,8 +221,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["A szobor 26 méter magas.", "Éjszaka gyönyörűen ki van világítva."],
       ro: ["Statuia are 26 de metri înălțime.", "Frumos iluminată pe timp de noapte."],
       en: ["The statue is 26 meters tall.", "Beautifully illuminated at night."]
-    }
-  },
+    }, image: "/poi-images/bahirawakanda-buddha-landmarks-v2.webp"},
   {
     id: "lovers-leap-waterfall-landmarks-v2",
     type: "landmark",
@@ -251,8 +234,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["Körülbelül 30 métert zuhan a mélybe.", "Buja teaültetvények veszik körül."],
       ro: ["Cade de la o înălțime de aproximativ 30 de metri.", "Înconjurată de plantații luxuriante de ceai."],
       en: ["Plunges about 30 meters.", "Surrounded by lush tea plantations."]
-    }
-  },
+    }, image: "/poi-images/lovers-leap-waterfall-landmarks-v2.webp"},
   {
     id: "arugam-bay-landmarks-v2",
     type: "landmark",
@@ -265,8 +247,7 @@ export const poiExtraSrilankaLandmarksV2: POI[] = [
       hu: ["Ázsia egyik legjobb szörfös helyének tartják.", "A világ minden tájáról vonzza a szörfösöket."],
       ro: ["Considerat unul dintre cele mai bune locuri de surfing din Asia.", "Atrage surferi din întreaga lume."],
       en: ["Considered one of the best surf spots in Asia.", "Attracts surfers from all over the world."]
-    }
-  },
+    }, image: "/poi-images/arugam-bay-landmarks-v2.webp"},
   {
     id: "galle-lighthouse-landmarks-v2",
     type: "landmark",

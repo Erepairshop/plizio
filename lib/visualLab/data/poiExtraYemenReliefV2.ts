@@ -13,8 +13,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Az Arab-félsziget legmagasabb hegye.", "Magassága 3666 méter."],
       ro: ["Cel mai înalt munte din Peninsula Arabică.", "Are o altitudine de 3.666 metri."],
       en: ["Highest mountain in the Arabian Peninsula.", "Elevation reaches 3,666 meters."]
-    }
-  },
+    }, image: "/poi-images/jabal-an-nabi-shuayb-relief-v2.webp"},
   {
     id: "wadi-hadhramaut-relief-v2",
     type: "valley",
@@ -27,8 +26,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Az Arab-félsziget legnagyobb vádija.", "Ősi vályogépítészetet rejt."],
       ro: ["Cel mai mare wadi din Peninsula Arabică.", "Include arhitectură antică din lut."],
       en: ["The largest wadi in the Arabian Peninsula.", "Features ancient mud-brick architecture."]
-    }
-  },
+    }, image: "/poi-images/wadi-hadhramaut-relief-v2.webp"},
   {
     id: "rub-al-khali-yemen-relief-v2",
     type: "desert",
@@ -41,8 +39,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["A világ legnagyobb egybefüggő homoksivataga.", "Több országon is átível."],
       ro: ["Cel mai mare deșert de nisip continuu din lume.", "Se întinde pe mai multe țări."],
       en: ["The largest contiguous sand desert in the world.", "Spans across multiple countries."]
-    }
-  },
+    }, image: "/poi-images/rub-al-khali-yemen-relief-v2.webp"},
   {
     id: "ramlat-al-sabatayn-relief-v2",
     type: "desert",
@@ -55,8 +52,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["A Rub al-Háli sivatag része.", "Fontos történelmi kereskedelmi útvonal volt."],
       ro: ["Parte a deșertului Rub' al Khali.", "A fost o rută comercială istorică importantă."],
       en: ["Part of the Rub' al Khali desert.", "Was a major historical trade route."]
-    }
-  },
+    }, image: "/poi-images/ramlat-al-sabatayn-relief-v2.webp"},
   {
     id: "haraz-mountains-relief-v2",
     type: "mountain",
@@ -69,8 +65,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Erődített falvairól ismert.", "Erősen teraszos a kávétermesztés miatt."],
       ro: ["Cunoscut pentru satele fortificate.", "Puternic terasat pentru cultivarea cafelei."],
       en: ["Known for fortified villages.", "Heavily terraced for coffee cultivation."]
-    }
-  },
+    }, image: "/poi-images/haraz-mountains-relief-v2.webp"},
   {
     id: "wadi-dawan-relief-v2",
     type: "valley",
@@ -83,8 +78,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Híres a Szidr mézről.", "Lenyűgöző vályogházakkal büszkélkedhet."],
       ro: ["Renumit pentru mierea Sidr.", "Prezintă case impresionante din lut."],
       en: ["Famous for its Sidr honey.", "Features impressive mud-brick houses."]
-    }
-  },
+    }, image: "/poi-images/wadi-dawan-relief-v2.webp"},
   {
     id: "hajjah-mountains-relief-v2",
     type: "mountain",
@@ -97,8 +91,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Látványos szurdokokat kínál.", "Hagyományos mezőgazdaság jellemzi."],
       ro: ["Oferă chei spectaculoase.", "Caracterizat prin agricultură tradițională."],
       en: ["Offers spectacular gorges.", "Characterized by traditional agriculture."]
-    }
-  },
+    }, image: "/poi-images/hajjah-mountains-relief-v2.webp"},
   {
     id: "socotra-coast-relief-v2",
     type: "coast",
@@ -111,8 +104,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Számos endemikus faj otthona.", "Érintetlen homokos strandokkal rendelkezik."],
       ro: ["Acasă pentru multe specii endemice.", "Are plaje cu nisip virgin."],
       en: ["Home to many endemic species.", "Features pristine sandy beaches."]
-    }
-  },
+    }, image: "/poi-images/socotra-coast-relief-v2.webp"},
   {
     id: "wadi-dhar-relief-v2",
     type: "valley",
@@ -125,8 +117,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["A híres Sziklapalota otthona.", "Nagyon termékeny völgy Szanaa közelében."],
       ro: ["Acasă pentru celebrul Palat de Piatră.", "O vale foarte fertilă lângă Sana'a."],
       en: ["Home to the famous Rock Palace.", "A very fertile valley near Sanaa."]
-    }
-  },
+    }, image: "/poi-images/wadi-dhar-relief-v2.webp"},
   {
     id: "tihama-plain-relief-v2",
     type: "coast",
@@ -153,8 +144,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Jemen egyik legmagasabb hegye.", "Taiz városára nyújt kilátást."],
       ro: ["Unul dintre cei mai înalți munți din Yemen.", "Oferă o vedere asupra orașului Taiz."],
       en: ["One of the highest mountains in Yemen.", "Overlooks the city of Taiz."]
-    }
-  },
+    }, image: "/poi-images/jabal-sabir-relief-v2.webp"},
   {
     id: "hadhramaut-plateau-relief-v2",
     type: "plateau",
@@ -167,8 +157,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Sziklás fennsík.", "Mély folyóvölgyek szabdalják."],
       ro: ["Platou stâncos.", "Intersectat de văi adânci de râuri."],
       en: ["Rocky plateau.", "Intersected by deep river valleys."]
-    }
-  },
+    }, image: "/poi-images/hadhramaut-plateau-relief-v2.webp"},
   {
     id: "jabal-bura-relief-v2",
     type: "mountain",
@@ -195,8 +184,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Vulkanikus sziklaalakzatok.", "Stratégiailag fontos vízi út."],
       ro: ["Formațiuni stâncoase vulcanice.", "Cale navigabilă strategic importantă."],
       en: ["Volcanic rock formations.", "Strategically important waterway."]
-    }
-  },
+    }, image: "/poi-images/gulf-of-aden-coast-yemen-relief-v2.webp"},
   {
     id: "red-sea-coast-yemen-relief-v2",
     type: "coast",
@@ -223,8 +211,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["Szezonális folyómeder.", "Fontos a helyi mezőgazdaság számára."],
       ro: ["Curs de râu sezonier.", "Important pentru agricultura locală."],
       en: ["Seasonal river course.", "Important for local agriculture."]
-    }
-  },
+    }, image: "/poi-images/wadi-bana-relief-v2.webp"},
   {
     id: "jabal-iraf-relief-v2",
     type: "mountain",
@@ -237,8 +224,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["A délnyugati fennsík része.", "Széles kilátást biztosít."],
       ro: ["Parte a zonelor muntoase de sud-vest.", "Oferă vederi ample."],
       en: ["Part of the southwestern highlands.", "Offers sweeping views."]
-    }
-  },
+    }, image: "/poi-images/jabal-iraf-relief-v2.webp"},
   {
     id: "mahra-plateau-relief-v2",
     type: "plateau",
@@ -265,8 +251,7 @@ export const poiExtraYemenReliefV2: POI[] = [
       hu: ["A monszunesőkből profitál.", "A nyári hónapokban buja növényzet borítja."],
       ro: ["Beneficiază de ploile musonice.", "Vegetație luxuriantă în lunile de vară."],
       en: ["Benefits from monsoon rains.", "Lush vegetation in the summer months."]
-    }
-  },
+    }, image: "/poi-images/hawf-mountains-relief-v2.webp"},
   {
     id: "jabal-nuqum-relief-v2",
     type: "mountain",

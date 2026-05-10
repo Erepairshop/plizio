@@ -13,8 +13,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["Grúzia legmagasabb, a Kaukázus harmadik legmagasabb csúcsa.", "Elsőként egy brit-svájci csapat mászta meg 1888-ban."],
       ro: ["Cel mai înalt punct din Georgia și al treilea din Caucaz.", "Prima ascensiune a avut loc în 1888 de către o echipă britanico-elvețiană."],
       en: ["The highest point in Georgia and third highest in the Caucasus.", "First successfully summited in 1888 by a British-Swiss team."]
-    }
-  },
+    }, image: "/poi-images/shkhara-nature-v2.webp"},
   {
     id: "kazbek-nature-v2",
     type: "mountain",
@@ -27,8 +26,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["Tengerszint feletti magassága 5054 méter.", "Grúz neve ('Mkinvari') jéghegyet vagy gleccsert jelent."],
       ro: ["Atinge o altitudine de 5.054 metri deasupra nivelului mării.", "Numele său georgian 'Mkinvari' înseamnă munte de gheață sau ghețar."],
       en: ["Reaches an elevation of 5,054 meters above sea level.", "Its Georgian name 'Mkinvari' translates to ice mountain or glacier."]
-    }
-  },
+    }, image: "/poi-images/kazbek-nature-v2.webp"},
   {
     id: "ushba-nature-v2",
     type: "mountain",
@@ -41,8 +39,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A 4710 méteres déli csúcs valamivel magasabb az északinál.", "Neve szván nyelven 'Rettenetes hegyet' jelent."],
       ro: ["Vârful sudic, la 4.710 metri, este puțin mai înalt decât cel nordic.", "Numele înseamnă 'Muntele teribil' în limba svană."],
       en: ["The south summit is slightly higher at 4,710 meters than the north summit.", "Its name translates to 'Terrible Mountain' in the Svan language."]
-    }
-  },
+    }, image: "/poi-images/ushba-nature-v2.webp"},
   {
     id: "lake-ritsa-nature-v2",
     type: "lake",
@@ -55,8 +52,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A tó maximális mélysége eléri a 116 métert.", "Sztálin a partján építtetett egy nyári rezidenciát (dácsát)."],
       ro: ["Lacul atinge o adâncime maximă de 116 metri.", "Iosif Stalin a construit o reședință de vară (dacea) pe malul său."],
       en: ["The lake reaches a maximum depth of 116 meters.", "Joseph Stalin had a summer residence (dacha) built on its shores."]
-    }
-  },
+    }, image: "/poi-images/lake-ritsa-nature-v2.webp"},
   {
     id: "paravani-lake-nature-v2",
     type: "lake",
@@ -69,8 +65,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["Több mint 2073 méteres tengerszint feletti magasságban fekszik.", "Maximális mélysége csupán valamivel több mint 3 méter."],
       ro: ["Este situat la o altitudine de peste 2.073 de metri deasupra nivelului mării.", "Adâncimea sa maximă este puțin peste 3 metri."],
       en: ["Located at an elevation of over 2,073 meters above sea level.", "Its maximum depth is only slightly over 3 meters."]
-    }
-  },
+    }, image: "/poi-images/paravani-lake-nature-v2.webp"},
   {
     id: "paliastomi-lake-nature-v2",
     type: "lake",
@@ -83,8 +78,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["Eredetileg édesvizű tó volt, 1924-ben kapcsolták össze a tengerrel.", "A terület a védett Kolkhidai vizes élőhelyekhez tartozik."],
       ro: ["Inițial un lac cu apă dulce, a fost conectat la mare în 1924.", "Zona aparține zonei protejate a zonelor umede Colchis."],
       en: ["Originally a freshwater lake, it was connected to the sea in 1924.", "The area belongs to the protected Kolkheti wetlands zone."]
-    }
-  },
+    }, image: "/poi-images/paliastomi-lake-nature-v2.webp"},
   {
     id: "kura-river-nature-v2",
     type: "river",
@@ -97,8 +91,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["Grúz neve, az 'Mtkvari' nagyjából annyit tesz: 'lassú víz'.", "A folyó teljes hossza 1515 kilométer."],
       ro: ["Numele georgian 'Mtkvari' se traduce aproximativ prin 'apa lentă'.", "Râul are o lungime totală de 1.515 kilometri."],
       en: ["Its Georgian name 'Mtkvari' roughly translates to 'the slow water'.", "The river has a total length of 1,515 kilometers."]
-    }
-  },
+    }, image: "/poi-images/kura-river-nature-v2.webp"},
   {
     id: "rioni-river-nature-v2",
     type: "river",
@@ -111,8 +104,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["Az ókori görögök az ő 'Phaszisz' nevéről nevezték el a fácánt.", "A Rioni a maga 327 kilométerével a leghosszabb, teljes egészében Grúziában folyó folyó."],
       ro: ["Grecii antici au derivat denumirea fazanului de la numele său 'Phasis'.", "Cu 327 de kilometri, Rioni este cel mai lung râu care curge în întregime în Georgia."],
       en: ["The ancient Greeks derived the word for pheasant from its historical name 'Phasis'.", "At 327 kilometers, the Rioni is the longest river flowing entirely within Georgia."]
-    }
-  },
+    }, image: "/poi-images/rioni-river-nature-v2.webp"},
   {
     id: "enguri-river-nature-v2",
     type: "river",
@@ -125,8 +117,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A 271,5 méter magas Enguri-gát a világ egyik legmagasabb ívgátja.", "A folyó helyenként természetes határt képez a szakadár Abházia felé."],
       ro: ["Barajul în arc Enguri este unul dintre cele mai înalte din lume, având 271,5 metri.", "Pe alocuri, râul formează granița cu regiunea separatistă Abhazia."],
       en: ["The Enguri arch dam is one of the highest in the world at 271.5 meters.", "The river partially forms the boundary with the breakaway region of Abkhazia."]
-    }
-  },
+    }, image: "/poi-images/enguri-river-nature-v2.webp"},
   {
     id: "borjomi-kharagauli-national-park-nature-v2",
     type: "national-park",
@@ -139,8 +130,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A park több mint 85 000 hektárnyi tiszta természeti területet foglal magába.", "1995-ben, a WWF támogatásával alapították a Kaukázus első nemzeti parkjaként."],
       ro: ["Parcul acoperă peste 85.000 de hectare de suprafață naturală pură.", "A fost înființat în 1995, cu sprijinul WWF, fiind primul parc național din Caucaz."],
       en: ["The park covers more than 85,000 hectares of pure natural area.", "It was established in 1995 with the support of the WWF as the first national park in the Caucasus."]
-    }
-  },
+    }, image: "/poi-images/borjomi-kharagauli-national-park-nature-v2.webp"},
   {
     id: "tusheti-national-park-nature-v2",
     type: "national-park",
@@ -153,8 +143,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A fő útvonalat jelentő Abano-hágó 2850 méter magasan fekszik.", "A terület felkerült az UNESCO lehetséges világörökségi helyszíneinek listájára."],
       ro: ["Pasul Abano, principala cale de acces, se află la o altitudine de 2.850 de metri.", "Zona a fost inclusă pe lista potențialelor situri ale Patrimoniului Mondial UNESCO."],
       en: ["The Abano Pass, the main access route, is situated at an elevation of 2,850 meters.", "The area has been added to the tentative list of UNESCO World Heritage sites."]
-    }
-  },
+    }, image: "/poi-images/tusheti-national-park-nature-v2.webp"},
   {
     id: "vashlovani-national-park-nature-v2",
     type: "national-park",
@@ -167,8 +156,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A Vaslovani név szó szerinti jelentése: 'Almáskert'.", "A terület híres a ritka kaukázusi vipera előfordulásáról."],
       ro: ["Numele Vashlovani se traduce literal prin 'Grădina de meri'.", "Zona este cunoscută pentru prezența viperei rare de Caucaz."],
       en: ["The name Vashlovani literally translates to 'Apple Garden'.", "The area is known for hosting the rare Caucasian viper."]
-    }
-  },
+    }, image: "/poi-images/vashlovani-national-park-nature-v2.webp"},
   {
     id: "mtirala-national-park-nature-v2",
     type: "national-park",
@@ -181,8 +169,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A Mtirala név grúzul 'Sírót' jelent, ami a rengeteg esőre utal.", "A parkban évente akár 4500 milliméter csapadék is hullhat."],
       ro: ["Numele Mtirala înseamnă 'Cea care plânge' în georgiană, o referire la ploile abundente.", "Parcul primește anual precipitații de până la 4.500 de milimetri."],
       en: ["The name Mtirala means 'The Weeping One' in Georgian, referring to the heavy rainfall.", "The park receives up to 4,500 millimeters of precipitation annually."]
-    }
-  },
+    }, image: "/poi-images/mtirala-national-park-nature-v2.webp"},
   {
     id: "lagodekhi-protected-areas-nature-v2",
     type: "national-park",
@@ -209,8 +196,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["Az Aragvi táplálja a hatalmas Zsinvali-víztározót, amely Tbiliszi ivóvizét biztosítja.", "Völgye mentén halad a történelmi Grúz hadiút."],
       ro: ["Aragvi alimentează uriașul lac de acumulare Zhinvali, care furnizează apă potabilă pentru Tbilisi.", "Militara Șosea Georgiană istorică trece de-a lungul văii sale."],
       en: ["The Aragvi feeds the massive Zhinwali Reservoir, which provides drinking water for Tbilisi.", "The historic Georgian Military Highway runs along its valley."]
-    }
-  },
+    }, image: "/poi-images/aragvi-river-nature-v2.webp"},
   {
     id: "alazani-river-nature-v2",
     type: "river",
@@ -223,8 +209,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["Az Alazani-völgy a grúz bortermelés szíve.", "Hosszú szakaszokon természetes határt képez Azerbajdzsánnal."],
       ro: ["Valea Alazani este inima producției de vin din Georgia.", "Acesta formează pe distanțe lungi granița naturală cu Azerbaidjanul."],
       en: ["The Alazani Valley is the heartland of Georgian wine production.", "It forms the natural border with Azerbaijan for long stretches."]
-    }
-  },
+    }, image: "/poi-images/alazani-river-nature-v2.webp"},
   {
     id: "tetnuldi-nature-v2",
     type: "mountain",
@@ -237,8 +222,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A hegy lenyűgöző, 4858 méteres magasságot ér el.", "Lejtőin egy modern síközpont is megnyílt."],
       ro: ["Muntele atinge o altitudine impresionantă de 4.858 de metri.", "Pe versanții săi a fost deschisă o stațiune modernă de schi."],
       en: ["The mountain reaches an impressive elevation of 4,858 meters.", "A modern ski resort has been opened on its slopes."]
-    }
-  },
+    }, image: "/poi-images/tetnuldi-nature-v2.webp"},
   {
     id: "kintrishi-nature-v2",
     type: "forest",
@@ -251,8 +235,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A terület nagy része érintetlen őserdőkből áll.", "A rezervátum számos kolkhidai endemikus növényfajnak ad otthont."],
       ro: ["O mare parte din zonă constă din păduri primare pure.", "Rezervația adăpostește multe specii de plante endemice ale regiunii Colchis."],
       en: ["A large portion of the area consists of pure primary forests.", "The reserve hosts many endemic plant species of the Kolkheti region."]
-    }
-  },
+    }, image: "/poi-images/kintrishi-nature-v2.webp"},
   {
     id: "abudelauri-lakes-nature-v2",
     type: "lake",
@@ -265,8 +248,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A fehér tó a finom gleccserpornak köszönheti színét.", "A tavak júniustól szeptemberig jégmentesek és a túrázók számára látogathatók."],
       ro: ["Lacul alb își datorează culoarea prafului fin de ghețar.", "Lacurile sunt fără gheață și accesibile drumeților din iunie până în septembrie."],
       en: ["The white lake owes its color to fine glacial dust.", "The lakes are ice-free and accessible to hikers from June to September."]
-    }
-  },
+    }, image: "/poi-images/abudelauri-lakes-nature-v2.webp"},
   {
     id: "kolkheti-national-park-nature-v2",
     type: "national-park",

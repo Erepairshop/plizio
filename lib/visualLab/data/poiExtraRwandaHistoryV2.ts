@@ -23,8 +23,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["2004-ben nyitották meg.", "Dokumentálja a népirtás történetét."],
       ro: ["Deschis în 2004.", "Documenteaza istoria genocidului."],
       en: ["Opened in 2004.", "Documents the history of the genocide."]
-    }
-  },
+    }, image: "/poi-images/kigali-genocide-memorial-history-v2.webp"},
   {
     id: "murambi-memorial-history-v2",
     type: "historical",
@@ -47,8 +46,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Korábban iskola volt.", "Az áldozatok maradványait mutatja be."],
       ro: ["Fosta ?coala.", "Afi?eaza ramați?ele victimelor."],
       en: ["Formerly a school.", "Displays the remains of the victims."]
-    }
-  },
+    }, image: "/poi-images/murambi-memorial-history-v2.webp"},
   {
     id: "nyamata-church-memorial-history-v2",
     type: "historical",
@@ -71,8 +69,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Egy 1994-es mészárlás helyszíne.", "Az áldozatok ruháit orzik itt."],
       ro: ["Locul unui masacru din 1994.", "Hainele victimelor sunt pastrate."],
       en: ["Site of a 1994 massacre.", "Victims' clothing is preserved."]
-    }
-  },
+    }, image: "/poi-images/nyamata-church-memorial-history-v2.webp"},
   {
     id: "ntarama-church-memorial-history-v2",
     type: "historical",
@@ -95,8 +92,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Egykori katolikus templom.", "Körülbelül 5000 áldozat lelte itt halálát."],
       ro: ["Fosta biserica catolica.", "Aproximativ 5000 de victime au murit aici."],
       en: ["Former Catholic church.", "About 5,000 victims died here."]
-    }
-  },
+    }, image: "/poi-images/ntarama-church-memorial-history-v2.webp"},
   {
     id: "bisesero-memorial-history-v2",
     type: "historical",
@@ -119,8 +115,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Az ellenállás emlékmuve.", "Egy dombon található."],
       ro: ["Monument pentru rezisten?a.", "Situat pe un deal."],
       en: ["Monument to the resistance.", "Located on a hill."]
-    }
-  },
+    }, image: "/poi-images/bisesero-memorial-history-v2.webp"},
   {
     id: "nyarubuye-memorial-history-v2",
     type: "historical",
@@ -143,8 +138,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Egy nagy mészárlás helyszíne.", "Korábban kolostoregyüttes volt."],
       ro: ["Locul unui masacru major.", "Fost complex manastiresc."],
       en: ["Site of a major massacre.", "Formerly a monastery complex."]
-    }
-  },
+    }, image: "/poi-images/nyarubuye-memorial-history-v2.webp"},
   {
     id: "kings-palace-nyanza-history-v2",
     type: "historical",
@@ -167,8 +161,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["A régi monarchia székhelye.", "Hagyományos Inyambo szarvasmarháknak ad otthont."],
       ro: ["Sediul vechii monarhii.", "Gazduiește vite tradiționale Inyambo."],
       en: ["Seat of the old monarchy.", "Houses traditional Inyambo cattle."]
-    }
-  },
+    }, image: "/poi-images/kings-palace-nyanza-history-v2.webp"},
   {
     id: "ethnographic-museum-huye-history-v2",
     type: "historical",
@@ -191,8 +184,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["1989-ben nyílt meg.", "Ruandai tárgyak nagy gyujteményével rendelkezik."],
       ro: ["Deschis în 1989.", "Deține o colecție mare de artefacte rwandeze."],
       en: ["Opened in 1989.", "Holds a large collection of Rwandan artifacts."]
-    }
-  },
+    }, image: "/poi-images/ethnographic-museum-huye-history-v2.webp"},
   {
     id: "richard-kandt-house-history-v2",
     type: "historical",
@@ -215,8 +207,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Egy korai felfedezo háza.", "A német gyarmati idoszakot világítja meg."],
       ro: ["Casa unui explorator timpuriu.", "Evidențiaza perioada coloniala germana."],
       en: ["House of an early explorer.", "Highlights the German colonial period."]
-    }
-  },
+    }, image: "/poi-images/richard-kandt-house-history-v2.webp"},
   {
     id: "ndaba-rock-history-v2",
     type: "historical",
@@ -239,8 +230,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Helyi legendák helyszíne.", "Egy kis vízeséssel rendelkezik."],
       ro: ["Loc al legendelor locale.", "Are o mica cascada."],
       en: ["Site of local legends.", "Features a small waterfall."]
-    }
-  },
+    }, image: "/poi-images/ndaba-rock-history-v2.webp"},
   {
     id: "rukarara-river-source-history-v2",
     type: "historical",
@@ -263,8 +253,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Fontos a Nílus felfedezése szempontjából.", "A Nyungwe erdoben található."],
       ro: ["Important pentru explorarea Nilului.", "Situat în Padurea Nyungwe."],
       en: ["Important for Nile exploration.", "Located in the Nyungwe Forest."]
-    }
-  },
+    }, image: "/poi-images/rukarara-river-source-history-v2.webp"},
   {
     id: "urutare-rwa-kamegeri-history-v2",
     type: "historical",
@@ -287,8 +276,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["A ruandai folklór része.", "A történelmi igazságosságra emlékeztet."],
       ro: ["Parte a folclorului rwandez.", "Amintește de justiția istorica."],
       en: ["Part of Rwandan folklore.", "Recalls historical justice."]
-    }
-  },
+    }, image: "/poi-images/urutare-rwa-kamegeri-history-v2.webp"},
   {
     id: "camp-kigali-memorial-history-v2",
     type: "historical",
@@ -311,8 +299,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["10 kooszlopból áll.", "A Camp Kigali területén található."],
       ro: ["Consta din 10 stâlpi de piatra.", "Situat în Camp Kigali."],
       en: ["Consists of 10 stone pillars.", "Located in Camp Kigali."]
-    }
-  },
+    }, image: "/poi-images/camp-kigali-memorial-history-v2.webp"},
   {
     id: "utubindi-twa-rubingo-history-v2",
     type: "historical",
@@ -335,8 +322,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Történelmi mutárgyak.", "Korai emberi tevékenységet mutat."],
       ro: ["Artefacte istorice.", "Arata activitatea umana timpurie."],
       en: ["Historical artifacts.", "Shows early human activity."]
-    }
-  },
+    }, image: "/poi-images/utubindi-twa-rubingo-history-v2.webp"},
   {
     id: "ibyiwacu-cultural-village-history-v2",
     type: "historical",
@@ -359,8 +345,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["A helyi kultúra megorzése.", "Egykori orvvadászok üzemeltetik."],
       ro: ["Conservarea culturii locale.", "Operat de foști braconieri."],
       en: ["Preservation of local culture.", "Operated by former poachers."]
-    }
-  },
+    }, image: "/poi-images/ibyiwacu-cultural-village-history-v2.webp"},
   {
     id: "rukari-ancient-history-museum-history-v2",
     type: "historical",
@@ -383,8 +368,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["A királyi palota mellett.", "Történelmi mutárgyakat állít ki."],
       ro: ["Lânga Palatul Regal.", "Expune artefacte istorice."],
       en: ["Next to the King's Palace.", "Exhibits historical artifacts."]
-    }
-  },
+    }, image: "/poi-images/rukari-ancient-history-museum-history-v2.webp"},
   {
     id: "mwima-mausoleum-history-v2",
     type: "historical",
@@ -407,8 +391,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Királyi temetkezési hely.", "Fontos a monarchia történetében."],
       ro: ["Mormânt regal.", "Important pentru istoria monarhiei."],
       en: ["Royal burial site.", "Important for monarchy history."]
-    }
-  },
+    }, image: "/poi-images/mwima-mausoleum-history-v2.webp"},
   {
     id: "nyanza-royal-burial-ground-history-v2",
     type: "historical",
@@ -431,8 +414,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Hagyományos sírok.", "Szent hely Nyanzában."],
       ro: ["Morminte tradiționale.", "Loc sacru în Nyanza."],
       en: ["Traditional graves.", "Sacred place in Nyanza."]
-    }
-  },
+    }, image: "/poi-images/nyanza-royal-burial-ground-history-v2.webp"},
   {
     id: "ku-ndaro-history-v2",
     type: "historical",
@@ -455,8 +437,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Természetes barlangképzodmény.", "Történelmileg használták."],
       ro: ["Forma?iune naturala de peștera.", "Folosit istoric."],
       en: ["Natural cave formation.", "Used historically."]
-    }
-  },
+    }, image: "/poi-images/ku-ndaro-history-v2.webp"},
   {
     id: "rwesero-art-museum-history-v2",
     type: "historical",
@@ -479,8 +460,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Az 1950-es években épült.", "Ötvözi a történelmet és a muvészetet."],
       ro: ["Construit în anii 1950.", "Combina istoria ?i arta."],
       en: ["Built in the 1950s.", "Combines history and art."]
-    }
-  },
+    }, image: "/poi-images/rwesero-art-museum-history-v2.webp"},
   {
     id: "environment-museum-karongi-history-v2",
     type: "historical",
@@ -503,8 +483,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["A Kivu-tó partján fekszik.", "Az ökológiai történelemre összpontosít."],
       ro: ["Situat pe malul Lacului Kivu.", "Se concentreaza pe istoria ecologiei."],
       en: ["Located on the shores of Lake Kivu.", "Focuses on ecology history."]
-    }
-  },
+    }, image: "/poi-images/environment-museum-karongi-history-v2.webp"},
   {
     id: "rebero-memorial-history-v2",
     type: "historical",
@@ -527,8 +506,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Az ellenálló politikusokat tiszteli.", "Csendes helyen, egy dombon fekszik."],
       ro: ["Onoreaza politicienii rezisten?i.", "Locație liniștita pe un deal."],
       en: ["Honors resisting politicians.", "Quiet location on a hill."]
-    }
-  },
+    }, image: "/poi-images/rebero-memorial-history-v2.webp"},
   {
     id: "bugarama-hot-springs-history-v2",
     type: "historical",
@@ -551,8 +529,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Természetes gyógyfürdo.", "A helyi hagyomány része."],
       ro: ["Spa natural de vindecare.", "Parte a tradiției locale."],
       en: ["Natural healing spa.", "Part of local tradition."]
-    }
-  },
+    }, image: "/poi-images/bugarama-hot-springs-history-v2.webp"},
   {
     id: "kibeho-sanctuary-history-v2",
     type: "historical",
@@ -575,8 +552,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Mária-jelenések 1981-ben.", "Fontos zarándokhely."],
       ro: ["Apari?ii mariane în 1981.", "Loc important de pelerinaj."],
       en: ["Marian apparitions in 1981.", "Important pilgrimage site."]
-    }
-  },
+    }, image: "/poi-images/kibeho-sanctuary-history-v2.webp"},
   {
     id: "mbyo-reconciliation-village-history-v2",
     type: "historical",
@@ -599,8 +575,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["A nemzeti gyógyulás jele.", "Közösségi projekt."],
       ro: ["Semn de vindecare naționala.", "Proiect comunitar."],
       en: ["Sign of national healing.", "Community project."]
-    }
-  },
+    }, image: "/poi-images/mbyo-reconciliation-village-history-v2.webp"},
   {
     id: "liberation-museum-mulindi-history-v2",
     type: "historical",
@@ -623,8 +598,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["Történelmi katonai bunker.", "Az RPF muveleteinek központja."],
       ro: ["Buncar militar istoric.", "Centrul opera?iunilor FPR."],
       en: ["Historical military bunker.", "Center of RPF operations."]
-    }
-  },
+    }, image: "/poi-images/liberation-museum-mulindi-history-v2.webp"},
   {
     id: "presidential-palace-museum-history-v2",
     type: "historical",
@@ -647,8 +621,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["A repülogép-szerencsétlenség váltotta ki a népirtást.", "Ma múzeum."],
       ro: ["Prabu?irea avionului a declan?at genocidul.", "Astazi un muzeu."],
       en: ["Plane crash triggered the genocide.", "Today a museum."]
-    }
-  },
+    }, image: "/poi-images/presidential-palace-museum-history-v2.webp"},
   {
     id: "gisozi-memorial-history-v2",
     type: "historical",
@@ -671,8 +644,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       hu: ["A Gisozi negyedben található.", "Kiállítótermeket is magában foglal."],
       ro: ["Situat în districtul Gisozi.", "Include sali de expoziție."],
       en: ["Located in the Gisozi district.", "Includes exhibition halls."]
-    }
-  },
+    }, image: "/poi-images/gisozi-memorial-history-v2.webp"},
   {
     id: "nyanza-genocide-memorial-history-v2",
     type: "historical",

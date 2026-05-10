@@ -1,0 +1,68 @@
+{
+  "lang": "en",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cimencam-figuil-economic-v2",
+      "description": "A cement plant in Figuil that supplies construction material to northern Cameroon. It is a key industrial site for the region.",
+      "facts": [
+        "in Figuil",
+        "supplies the north",
+        "cement production site"
+      ]
+    },
+    {
+      "id": "kribi-gas-plant-economic-v2",
+      "description": "A gas-fired power site in Kribi on the southern coast. It supports electricity generation and industrial demand.",
+      "facts": [
+        "in Kribi",
+        "gas-fired power",
+        "supports the energy mix"
+      ]
+    },
+    {
+      "id": "foumban-bauxite-economic-v2",
+      "description": "A bauxite deposit near Foumban in western Cameroon. It is one of the area's notable mineral resources.",
+      "facts": [
+        "near Foumban",
+        "in western Cameroon",
+        "bauxite resource"
+      ]
+    },
+    {
+      "id": "ngaoundal-bauxite-economic-v2",
+      "description": "A bauxite deposit in the Adamawa region near Ngaoundal. It is part of Cameroon's long-term mining potential.",
+      "facts": [
+        "near Ngaoundal",
+        "in Adamawa",
+        "mineral resource site"
+      ]
+    },
+    {
+      "id": "camalco-makan-economic-v2",
+      "description": "A mining project in Makan linked to bauxite and aluminum plans. It reflects the country's push to develop new mineral sites.",
+      "facts": [
+        "in Makan",
+        "bauxite and aluminum plans",
+        "new mining project"
+      ]
+    },
+    {
+      "id": "sabc-ndokoti-economic-v2",
+      "description": "A major SABC production and distribution site in Ndokoti, Douala. It helps supply drinks to the country's largest urban market.",
+      "facts": [
+        "in Ndokoti, Douala",
+        "SABC distribution hub",
+        "serves the urban market"
+      ]
+    }
+  ]
+}

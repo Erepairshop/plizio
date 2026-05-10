@@ -1,0 +1,90 @@
+{
+  "lang": "de",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "toronto-zoo-life-v2",
+      "description": "Der Toronto Zoo ist Kanadas größter Zoo am östlichen Stadtrand von Toronto.",
+      "facts": ["Größter Zoo Kanadas", "Im Rouge Park", "Viele thematische Lebensräume"]
+    },
+    {
+      "id": "calgary-zoo-life-v2",
+      "description": "Der Calgary Zoo liegt nahe dem Bow River und gehört zu den ältesten Zoos des Landes.",
+      "facts": ["In Ost-Calgary", "Am Bow River", "Wichtiger Artenschutz-Zoo"]
+    },
+    {
+      "id": "granby-zoo-life-v2",
+      "description": "Der Zoo de Granby ist ein großer Tierpark im Süden Québecs.",
+      "facts": ["In Québec", "Auch mit Wasserpark", "Beliebtes Sommerziel"]
+    },
+    {
+      "id": "vancouver-aquarium-life-v2",
+      "description": "Das Vancouver Aquarium ist ein maritimes Zentrum im Stanley Park.",
+      "facts": ["Im Stanley Park", "Fokus auf Meeresschutz", "Bekanntes Ozeanarium"]
+    },
+    {
+      "id": "ripleys-aquarium-canada-life-v2",
+      "description": "Ripley's Aquarium of Canada ist ein großes Aquarium im Zentrum von Toronto.",
+      "facts": ["Im Entertainment District", "Unterwassertunnel", "Beliebte Innenstadtattraktion"]
+    },
+    {
+      "id": "saskatoon-forestry-farm-park-zoo-life-v2",
+      "description": "Der Forestry Farm Park & Zoo in Saskatoon verbindet Stadtpark und kleinen Zoo.",
+      "facts": ["In Saskatoon", "Ehemalige Baumschule", "Familienziel mit Tieren"]
+    },
+    {
+      "id": "magnetic-hill-zoo-life-v2",
+      "description": "Der Magnetic Hill Zoo ist der wichtigste Zoo in der Region Moncton.",
+      "facts": ["Bei Moncton", "In New Brunswick", "Teil der Magnetic-Hill-Attraktionen"]
+    },
+    {
+      "id": "la-mauricie-black-bears-life-v2",
+      "description": "Im La-Mauricie-Gebiet leben Schwarzbären in den Wäldern und Seen des Nationalparks.",
+      "facts": ["In Québec", "Schwarzbären-Lebensraum", "Wald- und Seenlandschaft"]
+    },
+    {
+      "id": "montreal-insectarium-life-v2",
+      "description": "Das Montreal Insectarium ist ein spezialisiertes Museum für Insekten in Montréal.",
+      "facts": ["In Montréal", "Teil von Espace pour la vie", "Größtes Insektenmuseum Kanadas"]
+    },
+    {
+      "id": "mount-assiniboine-nature-v2",
+      "description": "Mount Assiniboine ist ein markanter Gipfel in den Canadian Rockies an der Grenze von British Columbia und Alberta.",
+      "facts": ["In den Canadian Rockies", "An der BC-Alberta-Grenze", "Oft 'Matterhorn der Rockies' genannt"]
+    },
+    {
+      "id": "south-nahanni-river-nature-v2",
+      "description": "Der South Nahanni River fließt durch eine abgelegene Wildnis im Nordwesten Kanadas.",
+      "facts": ["In den Northwest Territories", "Durch den Nahanni National Park Reserve", "Bekannt für Virginia Falls"]
+    },
+    {
+      "id": "great-slave-lake-nature-v2",
+      "description": "Der Great Slave Lake ist ein riesiger See in den Northwest Territories und ein prägendes Gewässer des Nordens.",
+      "facts": ["Größter See der Northwest Territories", "Tiefster See Nordamerikas", "Lange Zeit im Jahr vereist"]
+    },
+    {
+      "id": "haida-gwaii-islands-nature-v2",
+      "description": "Haida Gwaii ist ein abgelegener Inselarchipel vor der Nordküste von British Columbia.",
+      "facts": ["Vor der Küste von BC", "Heimat der Haida", "Regenwald- und Küstenlandschaft"]
+    },
+    {
+      "id": "coast-mountains-relief-v2",
+      "description": "Die Coast Mountains bilden eine mächtige Gebirgskette entlang der Pazifikküste von British Columbia.",
+      "facts": ["Im Westen von BC", "Stark vergletschertes Relief", "Prägt das Klima der Küste"]
+    },
+    {
+      "id": "laurentian-mountains-relief-v2",
+      "description": "Die Laurentian Mountains sind ein altes, bewaldetes Hügelland nördlich von Montréal.",
+      "facts": ["Nördlich von Montréal", "Teil des Kanadischen Schilds", "Beliebtes Freizeitgebiet"]
+    }
+  ]
+}

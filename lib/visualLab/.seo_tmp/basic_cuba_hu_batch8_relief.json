@@ -1,0 +1,84 @@
+{
+  "lang": "hu",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "alturas-de-bejucal-madruga-relief-v2",
+      "description": "Bejucal és Madruga között húzódó dombvidék Nyugat-Kuba belső részén.",
+      "facts": ["Dombos táj", "Nyugat-Kuba", "Geológiai formáció"]
+    },
+    {
+      "id": "loma-del-gato-relief-v2",
+      "description": "A Loma del Gato a Sierra Maestra keleti részéhez kötődő hegy.",
+      "facts": ["Sierra Maestra", "Kelet-Kuba", "Hegyi terep"]
+    },
+    {
+      "id": "peninsula-de-guanahacabibes-relief-v2",
+      "description": "A Guanahacabibes-félsziget Kuba legnyugatibb természeti vidékei közé tartozik.",
+      "facts": ["Pinar del Río", "Nemzeti park", "Gazdag élővilág"]
+    },
+    {
+      "id": "sierra-de-cubitas-relief-v2",
+      "description": "A Sierra de Cubitas mészkőhegysége Camagüey tartomány egyik ismert domborzati eleme.",
+      "facts": ["Mészkőhegység", "Camagüey tartomány", "Hegyi táj"]
+    },
+    {
+      "id": "loma-la-taberna-relief-v2",
+      "description": "A Loma La Taberna egy dombos természetes táj Kuba középső részén.",
+      "facts": ["Dombvidék", "Közép-Kuba", "Természeti formáció"]
+    },
+    {
+      "id": "pico-cristal-relief-v2",
+      "description": "A Pico Cristal a Holguín térségéhez kötődő hegyvidéki pont.",
+      "facts": ["Holguín tartomány", "Hegyi terület", "Védett természeti környezet"]
+    },
+    {
+      "id": "sierra-del-cristal-relief-v2",
+      "description": "A Sierra del Cristal sűrű erdőkkel borított hegyvidéki tömb Kuba keleti részén.",
+      "facts": ["Kelet-Kuba", "Hegyvidéki tömb", "Sűrű erdő"]
+    },
+    {
+      "id": "loma-del-cuchillo-relief-v2",
+      "description": "A Loma del Cuchillo egy geológiai eredetű dombvonulat Kuba keleti térségében.",
+      "facts": ["Dombvonulat", "Geológiai formáció", "Kelet-kubai táj"]
+    },
+    {
+      "id": "sierra-maestra-oriental-relief-v2",
+      "description": "A Sierra Maestra keleti szakasza meredek hegyoldalairól ismert.",
+      "facts": ["Meredek lejtők", "Kelet-Kuba", "Hegyi táj"]
+    },
+    {
+      "id": "loma-de-la-cruz-relief-v2",
+      "description": "A Loma de la Cruz egy jellegzetes holguíni domb és kilátópont.",
+      "facts": ["Holguín városa", "Kilátópont", "Városi domb"]
+    },
+    {
+      "id": "peninsula-de-zapata-relief-v2",
+      "description": "A Zapata-félsziget Kuba egyik legfontosabb mocsaras és természetvédelmi vidéke.",
+      "facts": ["Ciénaga de Zapata", "Nemzeti park", "Vizes élőhely"]
+    },
+    {
+      "id": "mogotes-de-viniales-relief-v2",
+      "description": "A viñalesi mogoték a kubai karsztvidék legismertebb kúphegyei közé tartoznak.",
+      "facts": ["Karsztvidék", "Kúphegyek", "Viñales völgye"]
+    },
+    {
+      "id": "sierra-del-esccambray-sur-relief-v2",
+      "description": "Az Escambray déli hegyvidéke a közép-kubai táj markáns része.",
+      "facts": ["Közép-Kuba", "Hegyi táj", "Meredek lejtők"]
+    },
+    {
+      "id": "loma-del-gallo-relief-v2",
+      "description": "A Loma del Gallo egy helyi domb és természetes kilátópont.",
+      "facts": ["Dombvidék", "Természeti táj", "Kilátópont"]
+    },
+    {
+      "id": "cuchillas-de-baracoa-relief-v2",
+      "description": "A Cuchillas de Baracoa hegygerincei a keleti kubai domborzat jellegzetes vonulatai.",
+      "facts": ["Baracoa térsége", "Hegygerincek", "Sűrű növényzet"]
+    }
+  ]
+}

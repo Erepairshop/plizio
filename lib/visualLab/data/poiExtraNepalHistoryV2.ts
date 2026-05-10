@@ -26,7 +26,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       en: "The Swayambhunath Stupa, perched atop a hill to the west of the Kathmandu Valley, is one of Nepal's most sacred Buddhist shrines, with its origins dating back to the 5th century. According to legend, the hill itself emerged from a lotus flower that bloomed from a primordial lake. The complex, a UNESCO World Heritage Site, consists of a large, white-domed stupa crowned by a gilded spire, which has the all-seeing eyes of Buddha painted on its four sides, looking out in the cardinal directions. Numerous smaller temples, shrines, and statues surround the main stupa, as does a large population of monkeys, which have earned the site the nickname 'Monkey Temple'. The site is a melting pot of Buddhism and Hinduism, where pilgrims of both faiths come to worship. Climbing the 365 stone steps on the eastern side is a key part of the pilgrimage and offers panoramic views of Kathmandu city."
     }
   ,
-    factsAdvanced: { multi4: ["Létezése a Licchavi-dinasztia idejére, az 5. századra tehető.", "A legenda szerint a Katmandu-völgy egykor tó volt, és a sztúpa egy lótuszvirágból emelkedett ki.", "A 365 lépcső a keleti oldalon a zarándokút része.", "A 'Majom-templom' becenevet a területen élő szent majmokról kapta.", "1979-ben lett az UNESCO Világörökség része.", "A sztúpa tetején lévő 13 aranyozott gyűrű a megvilágosodáshoz vezető 13 lépcsőfokot szimbolizálja.", "A komplexumban hindu isteneknek szentelt szentélyek is találhatók, mint például a Harati Devi templom.", "A 2015-ös földrengés során a komplexum néhány épülete megsérült, de a fő sztúpa sértetlen maradt."] }},
+    factsAdvanced: { multi4: ["Létezése a Licchavi-dinasztia idejére, az 5. századra tehető.", "A legenda szerint a Katmandu-völgy egykor tó volt, és a sztúpa egy lótuszvirágból emelkedett ki.", "A 365 lépcső a keleti oldalon a zarándokút része.", "A 'Majom-templom' becenevet a területen élő szent majmokról kapta.", "1979-ben lett az UNESCO Világörökség része.", "A sztúpa tetején lévő 13 aranyozott gyűrű a megvilágosodáshoz vezető 13 lépcsőfokot szimbolizálja.", "A komplexumban hindu isteneknek szentelt szentélyek is találhatók, mint például a Harati Devi templom.", "A 2015-ös földrengés során a komplexum néhány épülete megsérült, de a fő sztúpa sértetlen maradt."] }, image: "/poi-images/np-swayambhunath-history-v2.webp"},
   {
     id: "np-boudhanath-history-v2",
     type: "historical-site",
@@ -52,7 +52,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       en: "Boudhanath Stupa, located in the heart of Kathmandu, is one of the largest stupas in the world and a central sanctuary of Tibetan Buddhism. Built in the 14th century after the destruction of a previous stupa, it is a UNESCO World Heritage site. The massive mandala structure symbolizes the Buddhist cosmos. The white dome represents the earth, while the cubical harika above symbolizes the four elements. The 13 steps of the spire represent the stages to enlightenment. Surrounded by a bustling square filled with monasteries, shops, and restaurants, the stupa is a vibrant center of worship. Thousands of pilgrims, including many exiled Tibetans, circumambulate the stupa daily in a clockwise direction, spinning the prayer wheels embedded in the base. The air is filled with the sound of mantras and the smell of juniper incense, creating a deeply spiritual atmosphere."
     }
   ,
-    factsAdvanced: { multi4: ["A világ egyik legnagyobb gömb alakú sztúpája.", "A jelenlegi sztúpa a 14. században épült a mogul inváziók után.", "A legenda szerint egy özvegyasszony építtette I. Malla király engedélyével.", "Az alapja egy hatalmas, háromszintes mandalát formáz.", "A sztúpát több mint 50 tibeti kolostor (gompa) veszi körül.", "1979 óta az UNESCO Világörökség része.", "A 2015-ös földrengésben a tornya súlyosan megrongálódott, de helyreállították.", "A terület a tibeti kultúra fontos központja Nepálban."] }},
+    factsAdvanced: { multi4: ["A világ egyik legnagyobb gömb alakú sztúpája.", "A jelenlegi sztúpa a 14. században épült a mogul inváziók után.", "A legenda szerint egy özvegyasszony építtette I. Malla király engedélyével.", "Az alapja egy hatalmas, háromszintes mandalát formáz.", "A sztúpát több mint 50 tibeti kolostor (gompa) veszi körül.", "1979 óta az UNESCO Világörökség része.", "A 2015-ös földrengésben a tornya súlyosan megrongálódott, de helyreállították.", "A terület a tibeti kultúra fontos központja Nepálban."] }, image: "/poi-images/np-boudhanath-history-v2.webp"},
   {
     id: "np-pashupatinath-history-v2",
     type: "historical-site",
@@ -72,7 +72,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Dedicat zeului Shiva, construit în secolul al V-lea.", "Doar hindușilor le este permis accesul în curtea principală a templului."]
     }
   ,
-    factsAdvanced: { multi4: ["A templomkomplexumot az 5. században alapították.", "Siva istennek, az állatok urának (Pashupati) van szentelve.", "A főtemplomba csak hinduk léphetnek be.", "A Bagmati-folyó partján található, amely a Gangesz szent mellékfolyója.", "Itt zajlanak a nyilvános hamvasztási szertartások a 'ghat'-okon.", "1979 óta a Katmandu-völgy részeként az UNESCO Világörökség része.", "A 'Maha Shivaratri' fesztivál idején zarándokok százezreit vonzza.", "A komplexum több mint 500 templomot és emlékművet foglal magában."] }},
+    factsAdvanced: { multi4: ["A templomkomplexumot az 5. században alapították.", "Siva istennek, az állatok urának (Pashupati) van szentelve.", "A főtemplomba csak hinduk léphetnek be.", "A Bagmati-folyó partján található, amely a Gangesz szent mellékfolyója.", "Itt zajlanak a nyilvános hamvasztási szertartások a 'ghat'-okon.", "1979 óta a Katmandu-völgy részeként az UNESCO Világörökség része.", "A 'Maha Shivaratri' fesztivál idején zarándokok százezreit vonzza.", "A komplexum több mint 500 templomot és emlékművet foglal magában."] }, image: "/poi-images/np-pashupatinath-history-v2.webp"},
   {
     id: "np-kathmandu-durbar-history-v2",
     type: "historical-site",
@@ -92,7 +92,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Piața este înconjurată de o arhitectură Newari spectaculoasă.", "A suferit daune grave în timpul cutremurului din 2015."]
     }
   ,
-    factsAdvanced: { multi4: ["A Malla királyok és a Shah-dinasztia királyi székhelye volt.", "A legtöbb épület a 15. és 18. század között épült.", "A 'Kumari Ghar' ad otthont az élő istennőnek, a Kumarinak.", "A Hanuman Dhoka palota a tér központi épületegyüttese.", "Itt található a Kasthamandap, egy fa pavilon, amelyről a város a nevét kapta.", "1979 óta az UNESCO Világörökség része.", "A 2015-ös földrengés súlyos károkat okozott a téren, több templom elpusztult.", "A tér ma is fontos vallási és kulturális központ."] }},
+    factsAdvanced: { multi4: ["A Malla királyok és a Shah-dinasztia királyi székhelye volt.", "A legtöbb épület a 15. és 18. század között épült.", "A 'Kumari Ghar' ad otthont az élő istennőnek, a Kumarinak.", "A Hanuman Dhoka palota a tér központi épületegyüttese.", "Itt található a Kasthamandap, egy fa pavilon, amelyről a város a nevét kapta.", "1979 óta az UNESCO Világörökség része.", "A 2015-ös földrengés súlyos károkat okozott a téren, több templom elpusztult.", "A tér ma is fontos vallási és kulturális központ."] }, image: "/poi-images/np-kathmandu-durbar-history-v2.webp"},
   {
     id: "np-patan-durbar-history-v2",
     type: "historical-site",
@@ -112,7 +112,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Faimoasă pentru Krishna Mandir, construit în 1637.", "Podeaua pieței este pavată cu cărămizi roșii."]
     }
   ,
-    factsAdvanced: { multi4: ["Lalitpur (Patan) ősi Malla királyságának központja volt.", "A tér épületeinek többsége a 17. században, Siddhi Narsingh Malla uralkodása alatt épült.", "A Krishna Mandir templomot 1637-ben építették, és teljes egészében kőből készült.", "A Patan Múzeum a tér egyik legszebb, felújított palotaszárnyában található.", "A tér három fő udvarra (chowk) oszlik: Mul Chowk, Sundari Chowk és Keshav Narayan Chowk.", "1979 óta az UNESCO Világörökség része.", "A tér padlóját vörös téglák borítják, ami egyedi hangulatot kölcsönöz neki.", "A 2015-ös földrengés itt is okozott károkat, de kevésbé súlyosakat, mint Katmanduban."] }},
+    factsAdvanced: { multi4: ["Lalitpur (Patan) ősi Malla királyságának központja volt.", "A tér épületeinek többsége a 17. században, Siddhi Narsingh Malla uralkodása alatt épült.", "A Krishna Mandir templomot 1637-ben építették, és teljes egészében kőből készült.", "A Patan Múzeum a tér egyik legszebb, felújított palotaszárnyában található.", "A tér három fő udvarra (chowk) oszlik: Mul Chowk, Sundari Chowk és Keshav Narayan Chowk.", "1979 óta az UNESCO Világörökség része.", "A tér padlóját vörös téglák borítják, ami egyedi hangulatot kölcsönöz neki.", "A 2015-ös földrengés itt is okozott károkat, de kevésbé súlyosakat, mint Katmanduban."] }, image: "/poi-images/np-patan-durbar-history-v2.webp"},
   {
     id: "np-bhaktapur-durbar-history-v2",
     type: "historical-site",
@@ -132,7 +132,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Atracțiile includ Palatul celor 55 de Ferestre.", "Poarta de Aur este o capodoperă a artei repousse."]
     }
   ,
-    factsAdvanced: { multi4: ["Bhaktapur, a 'hívek városa', a Malla-korszak egyik fővárosa volt.", "A tér híres az 55 Ablakos Palotáról, amelyet Jitamitra Malla király építtetett.", "Az Aranykapu (Lu Dhowka) a Taleju-templom udvarára vezet.", "A Nyatapola ötszintes pagoda Nepál legmagasabb pagodája, 1702-ben épült.", "A tér a newari fafaragás és kőfaragás remekműveinek ad otthont.", "A Fazekasok tere (Pottery Square) a hagyományos agyagművesség központja.", "1979 óta az UNESCO Világörökség része.", "A járműforgalom korlátozása miatt a tér megőrizte középkori hangulatát."] }},
+    factsAdvanced: { multi4: ["Bhaktapur, a 'hívek városa', a Malla-korszak egyik fővárosa volt.", "A tér híres az 55 Ablakos Palotáról, amelyet Jitamitra Malla király építtetett.", "Az Aranykapu (Lu Dhowka) a Taleju-templom udvarára vezet.", "A Nyatapola ötszintes pagoda Nepál legmagasabb pagodája, 1702-ben épült.", "A tér a newari fafaragás és kőfaragás remekműveinek ad otthont.", "A Fazekasok tere (Pottery Square) a hagyományos agyagművesség központja.", "1979 óta az UNESCO Világörökség része.", "A járműforgalom korlátozása miatt a tér megőrizte középkori hangulatát."] }, image: "/poi-images/np-bhaktapur-durbar-history-v2.webp"},
   {
     id: "np-changunarayan-history-v2",
     type: "historical-site",
@@ -152,7 +152,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Templul datează din secolul al IV-lea.", "Prezintă unele dintre cele mai fine sculpturi în lemn tradiționale nepaleze."]
     }
   ,
-    factsAdvanced: { multi4: ["Nepál legrégebbi templomaként tartják számon, eredete a 4. századra nyúlik vissza.", "Visnu istennek van szentelve.", "A helyszínen található Nepál legrégebbi kőbe vésett felirata, amely i.sz. 464-ből származik.", "A templom a hagyományos nepáli pagoda stílusban épült.", "A templomudvar tele van a Licchavi-korszakból származó kőszobrokkal.", "Garuda, Visnu mitikus hátasállatának szobra az egyik legjelentősebb műalkotás.", "1979 óta a Katmandu-völgy részeként az UNESCO Világörökség része.", "A templom egy dombtetőn helyezkedik el, ahonnan panorámás kilátás nyílik a Himalájára."] }},
+    factsAdvanced: { multi4: ["Nepál legrégebbi templomaként tartják számon, eredete a 4. századra nyúlik vissza.", "Visnu istennek van szentelve.", "A helyszínen található Nepál legrégebbi kőbe vésett felirata, amely i.sz. 464-ből származik.", "A templom a hagyományos nepáli pagoda stílusban épült.", "A templomudvar tele van a Licchavi-korszakból származó kőszobrokkal.", "Garuda, Visnu mitikus hátasállatának szobra az egyik legjelentősebb műalkotás.", "1979 óta a Katmandu-völgy részeként az UNESCO Világörökség része.", "A templom egy dombtetőn helyezkedik el, ahonnan panorámás kilátás nyílik a Himalájára."] }, image: "/poi-images/np-changunarayan-history-v2.webp"},
   {
     id: "np-lumbini-history-v2",
     type: "historical-site",
@@ -172,7 +172,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Buddha s-a născut aici în jurul anului 563 î.Hr.", "Stâlpul Ashoka a fost ridicat de Împăratul Ashoka în anul 249 î.Hr."]
     }
   ,
-    factsAdvanced: { multi4: ["Gautama Sziddhártha, a történelmi Buddha születési helye (kb. i.e. 563).", "A Májá Dévi templom jelöli a feltételezett születési helyet.", "Az Asóka-oszlopot i.e. 249-ben emelte Asóka császár, hogy megjelölje zarándoklatát.", "A Puszkarini szent tóban fürdött meg Májá Dévi a szülés előtt.", "1997-ben lett az UNESCO Világörökség része.", "A területen számos ország (pl. Kína, Thaiföld, Németország) épített saját buddhista templomot és kolostort.", "A Világbéke Pagodát japán buddhisták építették.", "A Lumbini Fejlesztési Terv célja a terület megőrzése és fejlesztése, mint a világbéke központja."] }},
+    factsAdvanced: { multi4: ["Gautama Sziddhártha, a történelmi Buddha születési helye (kb. i.e. 563).", "A Májá Dévi templom jelöli a feltételezett születési helyet.", "Az Asóka-oszlopot i.e. 249-ben emelte Asóka császár, hogy megjelölje zarándoklatát.", "A Puszkarini szent tóban fürdött meg Májá Dévi a szülés előtt.", "1997-ben lett az UNESCO Világörökség része.", "A területen számos ország (pl. Kína, Thaiföld, Németország) épített saját buddhista templomot és kolostort.", "A Világbéke Pagodát japán buddhisták építették.", "A Lumbini Fejlesztési Terv célja a terület megőrzése és fejlesztése, mint a világbéke központja."] }, image: "/poi-images/np-lumbini-history-v2.webp"},
   {
     id: "np-nyatapola-history-v2",
     type: "monument",
@@ -192,7 +192,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Construit în 1702 de Regele Bhupatindra Malla.", "A supraviețuit atât cutremurelor masive din 1934, cât și celor din 2015."]
     }
   ,
-    factsAdvanced: { multi4: ["1702-ben építtette Bhupatindra Malla király mindössze hét hónap alatt.", "Nepál legmagasabb pagodája, magassága meghaladja a 30 métert.", "Siddhi Lakshmi, a siker tantrikus istennőjének szentelték.", "A templomhoz vezető lépcsősoron öt pár szobor áll, amelyek az erőt szimbolizálják.", "A szobrok: két birkózó, két elefánt, két oroszlán, két griff és két istenség.", "A legenda szerint azért épült, hogy lecsillapítsa a közeli Bhairava templom istenségét.", "Túlélte az 1934-es és a 2015-ös nagy földrengéseket is, ami a kiváló mérnöki munkát dicséri.", "A neve (Nya ta pola) newari nyelven 'öt emeletes templomot' jelent."] }},
+    factsAdvanced: { multi4: ["1702-ben építtette Bhupatindra Malla király mindössze hét hónap alatt.", "Nepál legmagasabb pagodája, magassága meghaladja a 30 métert.", "Siddhi Lakshmi, a siker tantrikus istennőjének szentelték.", "A templomhoz vezető lépcsősoron öt pár szobor áll, amelyek az erőt szimbolizálják.", "A szobrok: két birkózó, két elefánt, két oroszlán, két griff és két istenség.", "A legenda szerint azért épült, hogy lecsillapítsa a közeli Bhairava templom istenségét.", "Túlélte az 1934-es és a 2015-ös nagy földrengéseket is, ami a kiváló mérnöki munkát dicséri.", "A neve (Nya ta pola) newari nyelven 'öt emeletes templomot' jelent."] }, image: "/poi-images/np-nyatapola-history-v2.webp"},
   {
     id: "np-dharahara-history-v2",
     type: "monument",
@@ -212,7 +212,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Comandat de Prim-ministrul Bhimsen Thapa în 1832.", "S-a prăbușit în timpul cutremurului din 2015, dar a fost reconstruit."]
     }
   ,
-    factsAdvanced: { multi4: ["Az első tornyot Bhimsen Thapa miniszterelnök építtette 1825-ben.", "Az 1832-ben épült második, nyilvános torony 9 emeletes és 61,88 méter magas volt.", "Katonai őrtoronyként és kilátóként funkcionált.", "Az 1934-es nagy földrengésben elpusztult, de újjáépítették.", "A 2015. április 25-i földrengésben ismét összeomlott, a romok alatt sokan életüket vesztették.", "A nepáli kormány és a lakosság adományaiból újjáépítették.", "Az új, modern torony 2021-ben nyílt meg a nagyközönség előtt.", "Az újjáépített torony magasabb, mint az eredeti, és beépített lifttel is rendelkezik."] }},
+    factsAdvanced: { multi4: ["Az első tornyot Bhimsen Thapa miniszterelnök építtette 1825-ben.", "Az 1832-ben épült második, nyilvános torony 9 emeletes és 61,88 méter magas volt.", "Katonai őrtoronyként és kilátóként funkcionált.", "Az 1934-es nagy földrengésben elpusztult, de újjáépítették.", "A 2015. április 25-i földrengésben ismét összeomlott, a romok alatt sokan életüket vesztették.", "A nepáli kormány és a lakosság adományaiból újjáépítették.", "Az új, modern torony 2021-ben nyílt meg a nagyközönség előtt.", "Az újjáépített torony magasabb, mint az eredeti, és beépített lifttel is rendelkezik."] }, image: "/poi-images/np-dharahara-history-v2.webp"},
   {
     id: "np-nuwakot-durbar-history-v2",
     type: "historical-site",
@@ -232,7 +232,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Palatul principal este o structură din cărămidă cu șapte etaje.", "A servit drept capitală în timpul campaniei de unificare."]
     }
   ,
-    factsAdvanced: { multi4: ["Prithvi Narayan Shah király 1744-ben foglalta el a Malla királyoktól.", "Az egyesítési hadjárat idején ez volt a Gorkha királyság fővárosa.", "A 'Saat Tale Durbar' (Hétemeletes Palota) a komplexum központi épülete.", "A palota a Katmandu-völgy meghódításának stratégiai központjaként szolgált.", "A helyszínről ellenőrizték a Tibetbe vezető fontos kereskedelmi útvonalat.", "A komplexumhoz tartozik egy Taleju és egy Bhairabi templom is.", "A 2015-ös földrengés súlyos károkat okozott az épületekben, a helyreállítás folyamatban van.", "A palota a newari és a gorkha építészeti stílusok keveredését mutatja."] }},
+    factsAdvanced: { multi4: ["Prithvi Narayan Shah király 1744-ben foglalta el a Malla királyoktól.", "Az egyesítési hadjárat idején ez volt a Gorkha királyság fővárosa.", "A 'Saat Tale Durbar' (Hétemeletes Palota) a komplexum központi épülete.", "A palota a Katmandu-völgy meghódításának stratégiai központjaként szolgált.", "A helyszínről ellenőrizték a Tibetbe vezető fontos kereskedelmi útvonalat.", "A komplexumhoz tartozik egy Taleju és egy Bhairabi templom is.", "A 2015-ös földrengés súlyos károkat okozott az épületekben, a helyreállítás folyamatban van.", "A palota a newari és a gorkha építészeti stílusok keveredését mutatja."] }, image: "/poi-images/np-nuwakot-durbar-history-v2.webp"},
   {
     id: "np-gorkha-durbar-history-v2",
     type: "historical-site",
@@ -252,7 +252,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Locul de naștere al Regelui Prithvi Narayan Shah.", "Oferă vedere spre întinsa Vale Trisuli."]
     }
   ,
-    factsAdvanced: { multi4: ["A Shah-dinasztia eredeti székhelye.", "Prithvi Narayan Shah, Nepál egyesítőjének szülőhelye és hatalmi központja.", "A palota egy dombtetőn helyezkedik el, körülbelül 1000 méterrel a város felett.", "A komplexum egy erőd, palota és templom együtteséből áll.", "A területen található a szent Gorakhnath-barlang és a Kalika-templom.", "A palotából indult el Prithvi Narayan Shah 1744-ben, hogy meghódítsa Nuwakotot.", "A fő palotába (Gorkha Durbar) a belépés korlátozott.", "A helyszínről lenyűgöző kilátás nyílik a Manaszlu és az Annapurna hegyvonulatokra."] }},
+    factsAdvanced: { multi4: ["A Shah-dinasztia eredeti székhelye.", "Prithvi Narayan Shah, Nepál egyesítőjének szülőhelye és hatalmi központja.", "A palota egy dombtetőn helyezkedik el, körülbelül 1000 méterrel a város felett.", "A komplexum egy erőd, palota és templom együtteséből áll.", "A területen található a szent Gorakhnath-barlang és a Kalika-templom.", "A palotából indult el Prithvi Narayan Shah 1744-ben, hogy meghódítsa Nuwakotot.", "A fő palotába (Gorkha Durbar) a belépés korlátozott.", "A helyszínről lenyűgöző kilátás nyílik a Manaszlu és az Annapurna hegyvonulatokra."] }, image: "/poi-images/np-gorkha-durbar-history-v2.webp"},
   {
     id: "np-janaki-mandir-history-v2",
     type: "historical-site",
@@ -272,7 +272,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Construit în 1910 de Regina Brisabhanu Kunwari din Tikamgarh.", "Este adesea denumit Nau Lakha Mandir (Templul de nouă Lakh)."]
     }
   ,
-    factsAdvanced: { multi4: ["A templom Janakpurban található, amelyet a Rámájana eposzban Szíta istennő szülővárosaként említenek.", "A templom Szítának (más néven Dzsanaki) van szentelve.", "1910-ben építtette Brisabhanu Kunwari, Tikamgarh királynője.", "Az építési költsége 900 000 rúpia (kilenc 'lakh') volt, innen a 'Nau Lakha Mandir' név.", "Az építészeti stílusa a rádzsput és a mogul stílus egyedülálló keveréke.", "A főünnep a Vivaha Panchami, amely Ráma és Szíta esküvőjét ünnepli.", "A templom Nepál egyik legnagyobb és legfontosabb hindu szentélye.", "A templom teljes egészében kőből és márványból épült."] }},
+    factsAdvanced: { multi4: ["A templom Janakpurban található, amelyet a Rámájana eposzban Szíta istennő szülővárosaként említenek.", "A templom Szítának (más néven Dzsanaki) van szentelve.", "1910-ben építtette Brisabhanu Kunwari, Tikamgarh királynője.", "Az építési költsége 900 000 rúpia (kilenc 'lakh') volt, innen a 'Nau Lakha Mandir' név.", "Az építészeti stílusa a rádzsput és a mogul stílus egyedülálló keveréke.", "A főünnep a Vivaha Panchami, amely Ráma és Szíta esküvőjét ünnepli.", "A templom Nepál egyik legnagyobb és legfontosabb hindu szentélye.", "A templom teljes egészében kőből és márványból épült."] }, image: "/poi-images/np-janaki-mandir-history-v2.webp"},
   {
     id: "np-muktinath-history-v2",
     type: "historical-site",
@@ -292,7 +292,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Templul este situat la o altitudine de 3.710 metri.", "Prezintă 108 guri de scurgere a apei din piatră sculptate în formă de capete de vacă."]
     }
   ,
-    factsAdvanced: { multi4: ["3800 méteres magasságban található a Mustang-régióban.", "Mind a hinduk (Visnu-ként), mind a buddhisták (Avalokitesvara-ként) szent helyként tisztelik.", "A hinduk számára egyike a nyolc 'Svayam Vyakta Kshetras' (magától megnyilvánuló) szentélynek.", "A templom udvarán 108 réz vízköpő található, melyekben való fürdőzés a bűnöktől való megtisztulást jelenti.", "A Jwala Mai templomban egy földgázforrásból táplálkozó 'örök láng' ég.", "A hely a föld, víz, tűz és levegő elemeinek ritka találkozási pontja.", "Az Annapurna túraútvonal egyik fontos állomása.", "A zarándokok gyakran a közeli Kali Gandaki folyóban keresnek szent 'saligram' köveket."] }},
+    factsAdvanced: { multi4: ["3800 méteres magasságban található a Mustang-régióban.", "Mind a hinduk (Visnu-ként), mind a buddhisták (Avalokitesvara-ként) szent helyként tisztelik.", "A hinduk számára egyike a nyolc 'Svayam Vyakta Kshetras' (magától megnyilvánuló) szentélynek.", "A templom udvarán 108 réz vízköpő található, melyekben való fürdőzés a bűnöktől való megtisztulást jelenti.", "A Jwala Mai templomban egy földgázforrásból táplálkozó 'örök láng' ég.", "A hely a föld, víz, tűz és levegő elemeinek ritka találkozási pontja.", "Az Annapurna túraútvonal egyik fontos állomása.", "A zarándokok gyakran a közeli Kali Gandaki folyóban keresnek szent 'saligram' köveket."] }, image: "/poi-images/np-muktinath-history-v2.webp"},
   {
     id: "np-tansen-durbar-history-v2",
     type: "historical-site",
@@ -312,7 +312,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Construit în 1927 de Pratap Shamsher Jang Bahadur Rana.", "Durbarul a fost grav avariat în 2006 în timpul conflictului maoist, dar ulterior restaurat."]
     }
   ,
-    factsAdvanced: { multi4: ["A palotát 1927-ben építtette Pratap Shamsher Jang Bahadur Rana.", "A Rana-korszakban a nyugat-nepáli közigazgatás központja volt.", "Az eredeti palotának 64 szobája volt.", "2006-ban, a maoista felkelés során egy támadásban leégett.", "A helyi lakosság és a kormányzat segítségével újjáépítették.", "Az újjáépített palotát 2011-ben adták át.", "Ma a Palpa régió történelmét és kultúráját bemutató múzeum működik benne.", "Tansen városának egyik legfontosabb építészeti és történelmi emléke."] }},
+    factsAdvanced: { multi4: ["A palotát 1927-ben építtette Pratap Shamsher Jang Bahadur Rana.", "A Rana-korszakban a nyugat-nepáli közigazgatás központja volt.", "Az eredeti palotának 64 szobája volt.", "2006-ban, a maoista felkelés során egy támadásban leégett.", "A helyi lakosság és a kormányzat segítségével újjáépítették.", "Az újjáépített palotát 2011-ben adták át.", "Ma a Palpa régió történelmét és kultúráját bemutató múzeum működik benne.", "Tansen városának egyik legfontosabb építészeti és történelmi emléke."] }, image: "/poi-images/np-tansen-durbar-history-v2.webp"},
   {
     id: "np-ranighat-history-v2",
     type: "monument",
@@ -332,7 +332,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Construit în 1893 de Khadga Shamsher JBR în memoria soției sale iubite.", "Este situat într-un defileu înconjurat de păduri dense."]
     }
   ,
-    factsAdvanced: { multi4: ["1893-ban építtette Khadga Shamsher Rana tábornok felesége, Tej Kumari Devi emlékére.", "A Kali Gandaki folyó partján, egy szurdokban található.", "Gyakran nevezik 'Nepál Tádzs Mahaljának'.", "Az építtetőnek politikai okokból Indiába kellett menekülnie, így a palota elhagyatottá vált.", "Évtizedekig romos állapotban volt, benőtte a dzsungel.", "Az elmúlt években jelentős felújításokon esett át.", "A palota csak gyalogosan vagy csónakkal közelíthető meg.", "A neve, 'Ranighat', a 'királynő fürdőhelyét' jelenti."] }},
+    factsAdvanced: { multi4: ["1893-ban építtette Khadga Shamsher Rana tábornok felesége, Tej Kumari Devi emlékére.", "A Kali Gandaki folyó partján, egy szurdokban található.", "Gyakran nevezik 'Nepál Tádzs Mahaljának'.", "Az építtetőnek politikai okokból Indiába kellett menekülnie, így a palota elhagyatottá vált.", "Évtizedekig romos állapotban volt, benőtte a dzsungel.", "Az elmúlt években jelentős felújításokon esett át.", "A palota csak gyalogosan vagy csónakkal közelíthető meg.", "A neve, 'Ranighat', a 'királynő fürdőhelyét' jelenti."] }, image: "/poi-images/np-ranighat-history-v2.webp"},
   {
     id: "np-namobuddha-history-v2",
     type: "historical-site",
@@ -352,7 +352,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Situl include o stupă veche și o mănăstire proeminentă.", "Este situat pașnic pe un deal la est de Valea Kathmandu."]
     }
   ,
-    factsAdvanced: { multi4: ["Nepál három legfontosabb buddhista zarándokhelyének egyike.", "A legenda szerint itt áldozta fel a testét Buddha egyik korábbi inkarnációja egy éhező tigrisnek.", "A dombtetőn egy ősi sztúpa és egy szentély állít emléket a tettnek.", "A helyszínen egy nagy, modern tibeti buddhista kolostor, a Thrangu Tashi Yangtse is működik.", "A kolostort a 9. Khenchen Thrangu Rinpoche alapította.", "A zarándokút (kora) a sztúpát és a szent helyeket köti össze.", "A helyszínről tiszta időben csodálatos kilátás nyílik a Himalája vonulataira.", "A név 'Hódolat Buddhának' jelentést hordoz."] }},
+    factsAdvanced: { multi4: ["Nepál három legfontosabb buddhista zarándokhelyének egyike.", "A legenda szerint itt áldozta fel a testét Buddha egyik korábbi inkarnációja egy éhező tigrisnek.", "A dombtetőn egy ősi sztúpa és egy szentély állít emléket a tettnek.", "A helyszínen egy nagy, modern tibeti buddhista kolostor, a Thrangu Tashi Yangtse is működik.", "A kolostort a 9. Khenchen Thrangu Rinpoche alapította.", "A zarándokút (kora) a sztúpát és a szent helyeket köti össze.", "A helyszínről tiszta időben csodálatos kilátás nyílik a Himalája vonulataira.", "A név 'Hódolat Buddhának' jelentést hordoz."] }, image: "/poi-images/np-namobuddha-history-v2.webp"},
   {
     id: "np-kirtipur-history-v2",
     type: "historical-site",
@@ -372,7 +372,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Orașul este situat pe un deal stâncos abrupt.", "Își păstrează cultura tradițională, casele din cărămidă și atmosfera medievală."]
     }
   ,
-    factsAdvanced: { multi4: ["Ősi newar város, amelynek neve 'a dicsőség városa'-t jelenti.", "A 18. században híres volt a Gorkha invázióval szembeni heves ellenállásáról.", "Prithvi Narayan Shah seregei csak harmadik próbálkozásra tudták bevenni 1767-ben.", "A város lakóit a hódítók kegyetlenül megbüntették.", "A Bagh Bhairav templom a város egyik legfontosabb szentélye.", "Az Uma Maheshwar templomból kiváló kilátás nyílik a Katmandu-völgyre.", "Itt található Nepál legrégebbi egyeteme, a Tribhuvan Egyetem.", "Megőrizte középkori hangulatát, szűk utcáival és téglaházaival."] }},
+    factsAdvanced: { multi4: ["Ősi newar város, amelynek neve 'a dicsőség városa'-t jelenti.", "A 18. században híres volt a Gorkha invázióval szembeni heves ellenállásáról.", "Prithvi Narayan Shah seregei csak harmadik próbálkozásra tudták bevenni 1767-ben.", "A város lakóit a hódítók kegyetlenül megbüntették.", "A Bagh Bhairav templom a város egyik legfontosabb szentélye.", "Az Uma Maheshwar templomból kiváló kilátás nyílik a Katmandu-völgyre.", "Itt található Nepál legrégebbi egyeteme, a Tribhuvan Egyetem.", "Megőrizte középkori hangulatát, szűk utcáival és téglaházaival."] }, image: "/poi-images/np-kirtipur-history-v2.webp"},
   {
     id: "np-sindhuligadhi-history-v2",
     type: "battlefield",
@@ -392,7 +392,7 @@ export const poiExtraNepalHistoryV2: POI[] = [
       ro: ["Victoria a împiedicat forțele britanice să avanseze spre Valea Kathmandu.", "Ruinele fortului încă se mai află la o altitudine de 1.417 metri."]
     }
   ,
-    factsAdvanced: { multi4: ["Itt zajlott a sindhuli-i csata 1767-ben.", "A gorkhali sereg döntő győzelmet aratott a Brit Kelet-indiai Társaság csapatai felett.", "A győzelem megakadályozta, hogy a britek beavatkozzanak Nepál egyesítésébe.", "Ez volt az első alkalom, hogy a brit hadsereg vereséget szenvedett Dél-Ázsiában.", "A gorkhali sereget Banshu Gurung vezette.", "A csata a nepáli hadtörténet egyik legdicsőbb pillanata.", "A helyszínen ma emlékmű és múzeum állít emléket a csatának.", "Az erőd romjai még mindig láthatók a hegytetőn."] }},
+    factsAdvanced: { multi4: ["Itt zajlott a sindhuli-i csata 1767-ben.", "A gorkhali sereg döntő győzelmet aratott a Brit Kelet-indiai Társaság csapatai felett.", "A győzelem megakadályozta, hogy a britek beavatkozzanak Nepál egyesítésébe.", "Ez volt az első alkalom, hogy a brit hadsereg vereséget szenvedett Dél-Ázsiában.", "A gorkhali sereget Banshu Gurung vezette.", "A csata a nepáli hadtörténet egyik legdicsőbb pillanata.", "A helyszínen ma emlékmű és múzeum állít emléket a csatának.", "Az erőd romjai még mindig láthatók a hegytetőn."] }, image: "/poi-images/np-sindhuligadhi-history-v2.webp"},
   {
     id: "np-kakrebihar-history-v2",
     type: "ruin",

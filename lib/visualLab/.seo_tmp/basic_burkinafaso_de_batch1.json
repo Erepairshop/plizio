@@ -1,0 +1,87 @@
+{
+  "lang": "de",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "essakane-gold-mine-economic-v2",
+      "description": "Die Essakane-Goldmine liegt in der nördlichen Sahelzone Burkina Fasos und gehört zu den bekanntesten Bergbauprojekten des Landes. Sie prägt die lokale Wirtschaft und das industrielle Profil der Region.",
+      "facts": ["Goldmine im Norden", "In der Sahelzone", "Wichtiger Wirtschaftsfaktor"]
+    },
+    {
+      "id": "houndé-gold-mine-economic-v2",
+      "description": "Die Houndé-Goldmine ist ein wichtiges Goldprojekt im Südwesten Burkina Fasos. Sie bringt Industriearbeit in eine Region, die sonst stark von Landwirtschaft geprägt ist.",
+      "facts": ["Goldmine im Südwesten", "Moderner Tagebau", "Schafft Arbeitsplätze"]
+    },
+    {
+      "id": "boungou-gold-mine-economic-v2",
+      "description": "Die Boungou-Goldmine liegt im Osten des Landes und zählt zu den markanten Rohstoffstandorten Burkina Fasos. Ihr Betrieb stützt die regionale Wertschöpfung und den Exportsektor.",
+      "facts": ["Goldmine im Osten", "Tagebaustandort", "Teil des Exportsektors"]
+    },
+    {
+      "id": "perkoa-zinc-mine-economic-v2",
+      "description": "Die Perkoa-Zinkmine ist ein besonderer Industriestandort im Zentrum Westburkina Fasos. Sie steht für den Abbau eines selteneren Metalls und ergänzt den Goldsektor des Landes.",
+      "facts": ["Zinkmine in Perkoa", "Untertagebau", "Wichtig für Metallexporte"]
+    },
+    {
+      "id": "bobointer-dry-port-economic-v2",
+      "description": "Der Dry Port von Bobo-Dioulasso ist ein logistischer Knotenpunkt für den Binnenhandel im Westen des Landes. Er bündelt Warenströme und entlastet den Straßenverkehr Richtung Küste.",
+      "facts": ["Trockener Hafen", "In Bobo-Dioulasso", "Wichtig für den Binnenhandel"]
+    },
+    {
+      "id": "ouagarinter-dry-port-economic-v2",
+      "description": "Ouagarinter ist der trockene Hafen von Ouagadougou und ein zentraler Umschlagplatz für Güter im Inland. Die Anlage unterstützt Importe, Transit und Lagerung in der Hauptstadtregion.",
+      "facts": ["Trockener Hafen in Ouaga", "Logistikknoten", "Für Import und Transit"]
+    },
+    {
+      "id": "tambao-manganese-mine-economic-v2",
+      "description": "Die Tambao-Mangansmine liegt in der nördlichen Sahelzone und ist eines der bekanntesten Rohstoffprojekte des Landes. Sie steht für die Erschließung mineralischer Ressourcen in einer abgelegenen Region.",
+      "facts": ["Manganvorkommen im Norden", "Abgelegene Lage", "Rohstoffprojekt"]
+    },
+    {
+      "id": "sofitex-bobo-dioulasso-economic-v2",
+      "description": "Sofitex in Bobo-Dioulasso ist eng mit der burkinischen Baumwollwirtschaft verbunden. Der Standort steht für Verarbeitung, Handel und den industriellen Teil der Agrarkette.",
+      "facts": ["Baumwollunternehmen", "Sitz in Bobo-Dioulasso", "Teil der Agrarindustrie"]
+    },
+    {
+      "id": "sn-sosuco-banfora-economic-v2",
+      "description": "SN-SOSUCO in Banfora ist ein wichtiger Standort der Zuckerindustrie in Burkina Faso. Der Betrieb verarbeitet Zuckerrohr und versorgt den Binnenmarkt mit Zuckerprodukten.",
+      "facts": ["Zuckerproduktion in Banfora", "Verarbeitet Zuckerrohr", "Wichtig für den Binnenmarkt"]
+    },
+    {
+      "id": "cimburkina-ouagadougou-economic-v2",
+      "description": "CIMBURKINA in Ouagadougou gehört zu den prägenden Industrieadressen der Hauptstadt. Das Zementwerk unterstützt den Bausektor und die Versorgung des Ballungsraums.",
+      "facts": ["Zementwerk in Ouaga", "Für die Bauwirtschaft", "Wichtiger Industriebetrieb"]
+    },
+    {
+      "id": "zagtouli-solar-plant-economic-v2",
+      "description": "Das Solarkraftwerk Zagtouli liegt bei Ouagadougou und zählt zu den symbolischen Energieprojekten Burkina Fasos. Die Anlage speist Strom ins Netz und stärkt die Nutzung erneuerbarer Energien.",
+      "facts": ["Große Solaranlage", "Bei Ouagadougou", "Speist Strom ins Netz"]
+    },
+    {
+      "id": "sonabhy-bingo-depot-economic-v2",
+      "description": "Das SONABHY-Depot in Bingo ist Teil der nationalen Treibstoffversorgung. Von hier aus werden Lagerung und Verteilung von Kraftstoffen für die Hauptstadtregion organisiert.",
+      "facts": ["Kraftstofflager in Bingo", "Teil der SONABHY", "Versorgt Ouaga und Umgebung"]
+    },
+    {
+      "id": "brakina-ouagadougou-economic-v2",
+      "description": "Brakina in Ouagadougou ist einer der bekanntesten Industriebetriebe des Landes. Die Brauerei steht für Getränkeproduktion und einen festen Platz im Stadtbild der Hauptstadt.",
+      "facts": ["Brauerei in Ouaga", "Bekannte Marke", "Starker Industriebetrieb"]
+    },
+    {
+      "id": "sanbrado-gold-mine-economic-v2",
+      "description": "Die Sanbrado-Goldmine ist ein modernes Bergbauprojekt in Burkina Faso und steht für die laufende Ausweitung der Goldförderung. Der Standort bringt Investitionen und Beschäftigung in die Region.",
+      "facts": ["Moderne Goldmine", "Investitionsstandort", "Schafft regionale Jobs"]
+    },
+    {
+      "id": "filsah-textile-mill-economic-v2",
+      "description": "Die Textilfabrik FILSAH gehört zum industriellen Kern von Burkina Fasos Baumwollverarbeitung. Der Betrieb verbindet lokale Rohstoffe mit Weiterverarbeitung vor Ort.",
+      "facts": ["Textilbetrieb", "Verarbeitet Baumwolle", "Teil der lokalen Industrie"]
+    }
+  ]
+}

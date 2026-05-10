@@ -13,8 +13,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Az EAE legmagasabb hegysége.", "Főként mészkőből áll.", "Népszerű a túrázók és hegymászók körében.", "Vádikban gazdag terület."],
       ro: ["Cei mai înalți munți din EAU.", "Formați în principal din calcar.", "Populați printre drumeți și alpiniști.", "Bogați în wadi-uri."],
       en: ["Highest mountain range in the UAE.", "Mainly composed of limestone.", "Popular for hiking and rock climbing.", "Rich in wadis."]
-    }
-  },
+    }, image: "/poi-images/al-hajar-mountains-relief-v2.webp"},
   {
     id: "rub-al-khali-relief-v2",
     type: "desert",
@@ -27,8 +26,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["A világ egyik legnagyobb homoksivataga.", "Abu-Dzabi nagy részét lefedi.", "Hatalmas vörös dűnéiről ismert.", "Üres Negyednek is nevezik."],
       ro: ["Unul dintre cele mai mari deșerturi de nisip din lume.", "Acoperă mari părți din Abu Dhabi.", "Cunoscut pentru dunele sale roșii masive.", "Este numit Pătrarul Gol."],
       en: ["One of the largest sand deserts in the world.", "Covers large parts of Abu Dhabi.", "Known for its massive red dunes.", "Referred to as the Empty Quarter."]
-    }
-  },
+    }, image: "/poi-images/rub-al-khali-relief-v2.webp"},
   {
     id: "wadi-ghalilah-relief-v2",
     type: "valley",
@@ -41,8 +39,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["A meredek Mennyek Lépcsőjéről ismert.", "Az egyik legnagyobb kihívást jelentő túraútvonal.", "A Hadzsar-hegységben található.", "Heves esőzések után vízzel telik meg."],
       ro: ["Cunoscut pentru scara abruptă către cer.", "Una dintre cele mai dificile zone de drumeție.", "Situat în Munții Hajar.", "Se umple de apă după ploi abundente."],
       en: ["Known for the steep Stairway to Heaven.", "One of the most challenging hiking areas.", "Located in the Hajar Mountains.", "Flows with water after heavy rain."]
-    }
-  },
+    }, image: "/poi-images/wadi-ghalilah-relief-v2.webp"},
   {
     id: "jebel-mebrah-relief-v2",
     type: "mountain",
@@ -55,8 +52,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Az EAE egyik legmagasabb csúcsa.", "Népszerű célpont a tapasztalt hegymászók körében.", "Látványos kilátást nyújt a völgyekre.", "A Hadzsar-hegység része."],
       ro: ["Unul dintre cele mai înalte vârfuri din EAU.", "Destinație populară pentru alpiniștii experimentați.", "Oferă vederi spectaculoase asupra văilor.", "Parte a Munților Hajar."],
       en: ["One of the highest peaks in the UAE.", "Popular destination for experienced climbers.", "Offers spectacular views of the valleys.", "Part of the Hajar Mountains."]
-    }
-  },
+    }, image: "/poi-images/jebel-mebrah-relief-v2.webp"},
   {
     id: "wadi-asimah-relief-v2",
     type: "valley",
@@ -83,8 +79,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["A hatalmas Moreeb-dűne otthona.", "Kiterjedt pálmaligeteiről híres.", "A beduin kultúra hagyományos központja.", "A Rub al-Háli sivatag része."],
       ro: ["Casa masivei dune Moreeb.", "Renumit pentru vastele sale plantații de palmieri.", "Centrul tradițional al culturii beduine.", "Parte a deșertului Rub' al Khali."],
       en: ["Home to the massive Moreeb Dune.", "Famous for extensive palm groves.", "Traditional center of Bedouin culture.", "Part of the Rub' al Khali."]
-    }
-  },
+    }, image: "/poi-images/liwa-desert-relief-v2.webp"},
   {
     id: "sir-bani-yas-coast-relief-v2",
     type: "coast",
@@ -97,8 +92,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Érintetlen homokos strandokkal rendelkezik.", "Tiszta, sekély víz veszi körül.", "Számos tengeri élőlény, köztük dugongok otthona.", "Népszerű a vízisportok és a pihenés szerelmeseinek."],
       ro: ["Are plaje de nisip imaculate.", "Înconjurat de ape limpezi și puțin adânci.", "Casa multor viețuitoare marine, cum ar fi dugongii.", "Popular pentru sporturi nautice și relaxare."],
       en: ["Features pristine sandy beaches.", "Surrounded by clear, shallow waters.", "Home to many marine species like dugongs.", "Popular for water sports and relaxation."]
-    }
-  },
+    }, image: "/poi-images/sir-bani-yas-coast-relief-v2.webp"},
   {
     id: "wadi-al-helo-relief-v2",
     type: "valley",
@@ -111,8 +105,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Arabul Édes Völgyet jelent.", "Régészeti romjairól ismert.", "Egész évben van benne egy kevés víz.", "A helyi növényvilág védett területe."],
       ro: ["Înseamnă 'Valea Dulce' în arabă.", "Cunoscut pentru ruinele sale arheologice.", "Are un flux mic de apă pe tot parcursul anului.", "O zonă protejată pentru flora nativă."],
       en: ["Means 'Sweet Valley' in Arabic.", "Known for its archaeological ruins.", "Has a small flow of water year-round.", "A protected area for native flora."]
-    }
-  },
+    }, image: "/poi-images/wadi-al-helo-relief-v2.webp"},
   {
     id: "sweihan-desert-relief-v2",
     type: "desert",
@@ -139,8 +132,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Feltűnő domb a nyugati parton.", "Panorámás kilátást nyújt a Perzsa-öbölre.", "A helyi olajipar fontos központja.", "Kiindulópont a Sir Bani Yas szigetre."],
       ro: ["Un deal proeminent pe coasta de vest.", "Oferă vederi panoramice ale Golfului Persic.", "Centru important pentru industria petrolieră locală.", "Punct de plecare către Sir Bani Yas."],
       en: ["A prominent hill on the west coast.", "Offers panoramic views of the Persian Gulf.", "Important hub for the local oil industry.", "Departure point for trips to Sir Bani Yas."]
-    }
-  },
+    }, image: "/poi-images/jebel-dhanna-relief-v2.webp"},
   {
     id: "wadi-naqab-relief-v2",
     type: "valley",
@@ -153,8 +145,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Drámai, meredek kanyonokat kínál.", "Híres a Denevérbarlang túráról.", "Csak nagyon tapasztalt túrázóknak ajánlott.", "Erősen érintik a hirtelen áradások."],
       ro: ["Oferă canioane abrupte dramatice.", "Faimos pentru drumețiile spre Peștera Liliecilor.", "Potrivit doar pentru drumeți foarte experimentați.", "Puternic afectat de inundațiile fulgerătoare."],
       en: ["Offers dramatic, steep canyons.", "Famous for the Bat Cave trek.", "Suitable only for very experienced hikers.", "Heavily affected by flash floods."]
-    }
-  },
+    }, image: "/poi-images/wadi-naqab-relief-v2.webp"},
   {
     id: "hatta-mountains-relief-v2",
     type: "mountain",
@@ -167,8 +158,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Népszerű célpont a hegyikerékpárosok körében.", "Hűvösebb időjárást kínál, mint a partvidék.", "Itt található az ismert Hatta-gát.", "Közigazgatásilag Dubajhoz tartozik."],
       ro: ["Destinație populară pentru bicicliștii de munte.", "Oferă temperaturi mai reci decât coasta.", "Găzduiește faimosul baraj Hatta.", "Administrativ, aparține de Dubai."],
       en: ["Popular destination for mountain bikers.", "Offers cooler temperatures than the coast.", "Home to the well-known Hatta Dam.", "Administratively belongs to Dubai."]
-    }
-  },
+    }, image: "/poi-images/hatta-mountains-relief-v2.webp"},
   {
     id: "al-badayer-desert-relief-v2",
     type: "desert",
@@ -181,8 +171,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Hatalmas vörös homokdűnéiről híres.", "A sivatagi kempingezés és a terepjárózás központja.", "A Big Red dűne a fő látványosság.", "A Dubajt Hattával összekötő út mentén fekszik."],
       ro: ["Faimos pentru dunele sale uriașe de nisip roșu.", "Un centru pentru camping în deșert și off-road.", "Duna 'Big Red' este atracția principală.", "Situat pe drumul dintre Dubai și Hatta."],
       en: ["Famous for its huge red sand dunes.", "A hub for desert camping and off-roading.", "The 'Big Red' dune is a main attraction.", "Located on the road between Dubai and Hatta."]
-    }
-  },
+    }, image: "/poi-images/al-badayer-desert-relief-v2.webp"},
   {
     id: "ruus-al-jibal-relief-v2",
     type: "mountain",
@@ -209,8 +198,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Történelmileg fontos átjáró a hegységben.", "Ősi karavánok használták a területet.", "Szórványos régészeti lelőhelyekkel rendelkezik.", "Ma a természetkedvelők csendes útvonala."],
       ro: ["Trecere montană importantă din punct de vedere istoric.", "A fost folosită de vechile caravane.", "Are situri arheologice împrăștiate.", "Astăzi, o rută liniștită pentru iubitorii de natură."],
       en: ["Historically important passage in the mountains.", "Was used by ancient caravans.", "Has scattered archaeological sites.", "Today a quiet route for nature lovers."]
-    }
-  },
+    }, image: "/poi-images/wadi-qor-relief-v2.webp"},
   {
     id: "fossil-rock-relief-v2",
     type: "mountain",
@@ -223,8 +211,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Más néven Dzsebel Maleihah.", "Több millió éves tengeri fosszíliákat tartalmaz.", "Bizonyíték arra, hogy a sivatag egykor tenger volt.", "Népszerű célpont naplementekor tett túrákhoz."],
       ro: ["Cunoscut sub numele de Jebel Maleihah.", "Conține fosile marine vechi de milioane de ani.", "Dovadă că deșertul a fost odată o mare.", "O destinație populară pentru drumețiile la apus."],
       en: ["Also known as Jebel Maleihah.", "Contains millions of years old marine fossils.", "Proof that the desert was once a sea.", "A popular destination for sunset hikes."]
-    }
-  },
+    }, image: "/poi-images/fossil-rock-relief-v2.webp"},
   {
     id: "mleiha-desert-relief-v2",
     type: "desert",
@@ -251,8 +238,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Az EAE egyik legszebb partszakasza.", "Korallzátonyokat kínál, amelyek ideálisak búvárkodáshoz.", "Zord hegyek övezik a háttérben.", "A keleti parton, az Ománi-öbölnél található."],
       ro: ["Una dintre cele mai frumoase coaste din EAU.", "Oferă recife de corali ideale pentru scufundări.", "Înconjurat de munți accidentați în fundal.", "Situat pe coasta de est la Golful Oman."],
       en: ["One of the most beautiful coastlines in the UAE.", "Offers coral reefs ideal for diving.", "Surrounded by rugged mountains in the background.", "Located on the east coast along the Gulf of Oman."]
-    }
-  },
+    }, image: "/poi-images/khor-fakkan-coast-relief-v2.webp"},
   {
     id: "wadi-al-bih-plateau-relief-v2",
     type: "plateau",
@@ -265,8 +251,7 @@ export const poiExtraUaeReliefV2: POI[] = [
       hu: ["Gyakran az EAE Grand Canyonjának nevezik.", "Több mint 1000 méteres magasságot ér el.", "Mély kanyonokkal és sziklákkal nyűgöz le.", "A régió egyik leglátványosabb útvonala."],
       ro: ["Adesea numit Marele Canion al EAU.", "Atinge înălțimi de peste 1000 de metri.", "Impresionează cu canioane adânci și stânci.", "Unul dintre cele mai spectaculoase drumuri din regiune."],
       en: ["Often referred to as the Grand Canyon of the UAE.", "Reaches heights of over 1000 meters.", "Impresses with deep canyons and cliffs.", "One of the most spectacular roads in the region."]
-    }
-  },
+    }, image: "/poi-images/wadi-al-bih-plateau-relief-v2.webp"},
   {
     id: "al-dhafra-coast-relief-v2",
     type: "coast",

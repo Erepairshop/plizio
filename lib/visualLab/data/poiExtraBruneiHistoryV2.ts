@@ -20,7 +20,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Settled over 1000 years ago.", "Houses thousands of residents."]
     }
   ,
-    factsAdvanced: { multi4: ["Estimates suggest the settlement has existed for over 1,300 years.", "Antonio Pigafetta's fleet visited in 1521, documenting its impressive size.", "At its peak, it was home to more than half of Brunei's population.", "The community comprises over 40 distinct villages.", "A network of over 36 kilometers of wooden walkways connects the houses.", "Fireboats are stationed for emergency response due to the wooden structures.", "It includes modern amenities like electricity, running water, and internet access.", "A dedicated water taxi system serves as the primary mode of transport."] }},
+    factsAdvanced: { multi4: ["Estimates suggest the settlement has existed for over 1,300 years.", "Antonio Pigafetta's fleet visited in 1521, documenting its impressive size.", "At its peak, it was home to more than half of Brunei's population.", "The community comprises over 40 distinct villages.", "A network of over 36 kilometers of wooden walkways connects the houses.", "Fireboats are stationed for emergency response due to the wooden structures.", "It includes modern amenities like electricity, running water, and internet access.", "A dedicated water taxi system serves as the primary mode of transport."] }, image: "/poi-images/kampong-ayer-history-v2.webp"},
   {
     id: "omar-ali-saifuddien-mosque-history-v2",
     type: "monument",
@@ -40,7 +40,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Completed in the year 1958.", "Features a pure gold main dome."]
     }
   ,
-    factsAdvanced: { multi4: ["Construction began in 1954 and was completed in 1958.", "The main dome is covered with approximately 3.5 million pieces of Venetian glass mosaic.", "The total cost of construction was around 5 million US dollars.", "The minaret stands at 52 meters, making it the tallest structure in central Bandar Seri Begawan for a long time.", "Materials were imported from around the world, including marble from Italy and granite from Shanghai.", "The ceremonial stone boat in the lagoon is a replica of a Mahligai barge.", "An elevator provides access to the top of the minaret for panoramic city views.", "It is named after the father of the current Sultan of Brunei."] }},
+    factsAdvanced: { multi4: ["Construction began in 1954 and was completed in 1958.", "The main dome is covered with approximately 3.5 million pieces of Venetian glass mosaic.", "The total cost of construction was around 5 million US dollars.", "The minaret stands at 52 meters, making it the tallest structure in central Bandar Seri Begawan for a long time.", "Materials were imported from around the world, including marble from Italy and granite from Shanghai.", "The ceremonial stone boat in the lagoon is a replica of a Mahligai barge.", "An elevator provides access to the top of the minaret for panoramic city views.", "It is named after the father of the current Sultan of Brunei."] }, image: "/poi-images/omar-ali-saifuddien-mosque-history-v2.webp"},
   {
     id: "jame-asr-hassanil-bolkiah-history-v2",
     type: "monument",
@@ -60,7 +60,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Features 29 golden domes.", "Can accommodate 5000 worshippers."]
     }
   ,
-    factsAdvanced: { multi4: ["The mosque was officially opened on July 14, 1994.", "It was a personal endowment from Sultan Hassanal Bolkiah.", "The 29 golden domes represent the 29th ruler of Brunei.", "Each of the four main minarets stands 58 meters tall.", "The mosque complex covers an area of 20 acres.", "It features 29 escalators for the convenience of worshippers.", "The design incorporates elements from Turkish, Persian, and Bruneian architecture.", "The main prayer hall is adorned with a massive handmade Persian carpet."] }},
+    factsAdvanced: { multi4: ["The mosque was officially opened on July 14, 1994.", "It was a personal endowment from Sultan Hassanal Bolkiah.", "The 29 golden domes represent the 29th ruler of Brunei.", "Each of the four main minarets stands 58 meters tall.", "The mosque complex covers an area of 20 acres.", "It features 29 escalators for the convenience of worshippers.", "The design incorporates elements from Turkish, Persian, and Bruneian architecture.", "The main prayer hall is adorned with a massive handmade Persian carpet."] }, image: "/poi-images/jame-asr-hassanil-bolkiah-history-v2.webp"},
   {
     id: "istana-nurul-iman-history-v2",
     type: "monument",
@@ -80,7 +80,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Completed in 1984.", "Contains over 1700 rooms."]
     }
   ,
-    factsAdvanced: { multi4: ["The palace was completed in 1984 at a cost of around 1.4 billion US dollars.", "It has a total floor area of 200,000 square meters (2,152,782 square feet).", "There are 257 bathrooms within the palace.", "The Sultan's private car collection is housed in air-conditioned garages.", "The dome of the palace is gilded with 22-karat gold.", "It houses 5 swimming pools.", "The palace is situated on a 300-acre riverside estate.", "It is open to the public for 3 days annually during the Hari Raya festival."] }},
+    factsAdvanced: { multi4: ["The palace was completed in 1984 at a cost of around 1.4 billion US dollars.", "It has a total floor area of 200,000 square meters (2,152,782 square feet).", "There are 257 bathrooms within the palace.", "The Sultan's private car collection is housed in air-conditioned garages.", "The dome of the palace is gilded with 22-karat gold.", "It houses 5 swimming pools.", "The palace is situated on a 300-acre riverside estate.", "It is open to the public for 3 days annually during the Hari Raya festival."] }, image: "/poi-images/istana-nurul-iman-history-v2.webp"},
   {
     id: "billionth-barrel-monument-history-v2",
     type: "monument",
@@ -100,7 +100,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Unveiled in 1991.", "Located near the first oil well."]
     }
   ,
-    factsAdvanced: { multi4: ["The monument was unveiled on July 18, 1991.", "It commemorates the billionth barrel of oil produced at the Seria field.", "The first oil well, S-1, was drilled in 1929.", "The arch is supported by six pillars representing the first six decades of production.", "The monument was designed by a local Bruneian architect.", "Seria field reached its peak production in the 1950s.", "The nearby Oil and Gas Discovery Centre provides more context on the industry.", "The location offers a view of the active 'nodding donkey' oil pumps."] }},
+    factsAdvanced: { multi4: ["The monument was unveiled on July 18, 1991.", "It commemorates the billionth barrel of oil produced at the Seria field.", "The first oil well, S-1, was drilled in 1929.", "The arch is supported by six pillars representing the first six decades of production.", "The monument was designed by a local Bruneian architect.", "Seria field reached its peak production in the 1950s.", "The nearby Oil and Gas Discovery Centre provides more context on the industry.", "The location offers a view of the active 'nodding donkey' oil pumps."] }, image: "/poi-images/billionth-barrel-monument-history-v2.webp"},
   {
     id: "royal-regalia-museum-history-v2",
     type: "historical-site",
@@ -120,7 +120,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Officially opened in 1992.", "Also displays diplomatic gifts."]
     }
   ,
-    factsAdvanced: { multi4: ["The building was originally opened in 1971 as the Winston Churchill Memorial.", "It was repurposed and officially opened as the Royal Regalia Museum on September 30, 1992.", "The centerpiece is the Usongan Diraja, the royal chariot, which required dozens of men to pull.", "Visitors are required to remove their shoes before entering the main galleries.", "Photography is strictly forbidden inside most of the exhibition halls.", "It houses the constitutional history gallery of Brunei.", "The museum's dome is intricately decorated with gold patterns.", "Admission to the museum is free of charge."] }},
+    factsAdvanced: { multi4: ["The building was originally opened in 1971 as the Winston Churchill Memorial.", "It was repurposed and officially opened as the Royal Regalia Museum on September 30, 1992.", "The centerpiece is the Usongan Diraja, the royal chariot, which required dozens of men to pull.", "Visitors are required to remove their shoes before entering the main galleries.", "Photography is strictly forbidden inside most of the exhibition halls.", "It houses the constitutional history gallery of Brunei.", "The museum's dome is intricately decorated with gold patterns.", "Admission to the museum is free of charge."] }, image: "/poi-images/royal-regalia-museum-history-v2.webp"},
   {
     id: "bubungan-duabelas-history-v2",
     type: "historical-site",
@@ -140,7 +140,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Built in the year 1906.", "One of the oldest surviving buildings."]
     }
   ,
-    factsAdvanced: { multi4: ["Construction was completed in 1906.", "The first resident was Malcolm Stewart Hannibal McArthur.", "It served as the home for British residents until 1959.", "The name refers to the twelve sections of its roof.", "It stands on a hill known as Bukit Residency.", "The 1959 Agreement, which gave Brunei internal self-government, was influenced by discussions held here.", "After falling into disuse, it was restored and reopened as a gallery in 1998.", "The gallery showcases the 'Brunei-British Relationship' through various exhibits."] }},
+    factsAdvanced: { multi4: ["Construction was completed in 1906.", "The first resident was Malcolm Stewart Hannibal McArthur.", "It served as the home for British residents until 1959.", "The name refers to the twelve sections of its roof.", "It stands on a hill known as Bukit Residency.", "The 1959 Agreement, which gave Brunei internal self-government, was influenced by discussions held here.", "After falling into disuse, it was restored and reopened as a gallery in 1998.", "The gallery showcases the 'Brunei-British Relationship' through various exhibits."] }, image: "/poi-images/bubungan-duabelas-history-v2.webp"},
   {
     id: "brooketon-colliery-history-v2",
     type: "ruin",
@@ -160,7 +160,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Was operated by Charles Brooke.", "Operations ceased in 1924."]
     }
   ,
-    factsAdvanced: { multi4: ["The mine was opened in 1888 under the administration of Charles Brooke.", "It was named 'Brooketon' in honor of the Brooke dynasty of Sarawak.", "At its peak, it produced over 650,000 tons of coal.", "The mine employed over 600 miners at one point.", "A railway system was built to transport coal to the port at Muara.", "The mine ceased operations in 1924 due to financial losses.", "The area was heavily shelled by Allied forces during WWII to dislodge Japanese troops.", "Today, it is a protected historical site under the Brunei Museum Department."] }},
+    factsAdvanced: { multi4: ["The mine was opened in 1888 under the administration of Charles Brooke.", "It was named 'Brooketon' in honor of the Brooke dynasty of Sarawak.", "At its peak, it produced over 650,000 tons of coal.", "The mine employed over 600 miners at one point.", "A railway system was built to transport coal to the port at Muara.", "The mine ceased operations in 1924 due to financial losses.", "The area was heavily shelled by Allied forces during WWII to dislodge Japanese troops.", "Today, it is a protected historical site under the Brunei Museum Department."] }, image: "/poi-images/brooketon-colliery-history-v2.webp"},
   {
     id: "kota-batu-archaeological-park-history-v2",
     type: "ruin",
@@ -180,7 +180,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Ming dynasty ceramics were found here.", "Major excavations began in 1950."]
     }
   ,
-    factsAdvanced: { multi4: ["The site was Brunei's capital from the late 14th to the 17th century.", "Systematic archaeological work began in 1952 led by Tom Harrisson.", "Artifacts found date back to the Song Dynasty (960-1279).", "Evidence of iron smelting and other industries has been discovered.", "The site was abandoned after being attacked by the Spanish in 1578 during the Castilian War.", "Over 50,000 artifacts have been recovered from the site.", "The findings confirm historical accounts of Brunei's Golden Age.", "The park was officially gazetted as a historical site in 1969."] }},
+    factsAdvanced: { multi4: ["The site was Brunei's capital from the late 14th to the 17th century.", "Systematic archaeological work began in 1952 led by Tom Harrisson.", "Artifacts found date back to the Song Dynasty (960-1279).", "Evidence of iron smelting and other industries has been discovered.", "The site was abandoned after being attacked by the Spanish in 1578 during the Castilian War.", "Over 50,000 artifacts have been recovered from the site.", "The findings confirm historical accounts of Brunei's Golden Age.", "The park was officially gazetted as a historical site in 1969."] }, image: "/poi-images/kota-batu-archaeological-park-history-v2.webp"},
   {
     id: "tomb-of-sultan-bolkiah-history-v2",
     type: "historical-site",
@@ -200,7 +200,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["He ruled in the 15th century.", "Known as the singing captain."]
     }
   ,
-    factsAdvanced: { multi4: ["Sultan Bolkiah was the 5th Sultan of Brunei.", "He reigned from 1485 to 1524.", "His reign is widely considered the Golden Age of the Bruneian Empire.", "Under his rule, the empire's influence extended to Luzon and Sulu in the Philippines.", "He was known as Nakhoda Ragam (The Singing Captain) due to his handsome features and fine voice.", "The tomb is located within the Kota Batu archaeological complex.", "His wife, Laila Mecanai, is said to be buried nearby.", "The tomb is marked by a distinctive yellow structure, the color of royalty in Brunei."] }},
+    factsAdvanced: { multi4: ["Sultan Bolkiah was the 5th Sultan of Brunei.", "He reigned from 1485 to 1524.", "His reign is widely considered the Golden Age of the Bruneian Empire.", "Under his rule, the empire's influence extended to Luzon and Sulu in the Philippines.", "He was known as Nakhoda Ragam (The Singing Captain) due to his handsome features and fine voice.", "The tomb is located within the Kota Batu archaeological complex.", "His wife, Laila Mecanai, is said to be buried nearby.", "The tomb is marked by a distinctive yellow structure, the color of royalty in Brunei."] }, image: "/poi-images/tomb-of-sultan-bolkiah-history-v2.webp"},
   {
     id: "tomb-of-sharif-ali-history-v2",
     type: "historical-site",
@@ -220,7 +220,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Originally hailed from Ta'if.", "Established a strong legal system."]
     }
   ,
-    factsAdvanced: { multi4: ["Sultan Sharif Ali was the 3rd Sultan of Brunei.", "He was also known as Sultan Berkat (the Blessed Sultan).", "He reigned from 1425 to 1432.", "He was a Sayyid, a descendant of the Prophet Muhammad through his grandson Hassan.", "He is credited with building the first mosque in Brunei.", "He introduced the 'Undang-Undang Islam' (Islamic Laws).", "He reinforced Kota Batu as a fortified capital.", "His tomb is a significant pilgrimage site, especially for locals."] }},
+    factsAdvanced: { multi4: ["Sultan Sharif Ali was the 3rd Sultan of Brunei.", "He was also known as Sultan Berkat (the Blessed Sultan).", "He reigned from 1425 to 1432.", "He was a Sayyid, a descendant of the Prophet Muhammad through his grandson Hassan.", "He is credited with building the first mosque in Brunei.", "He introduced the 'Undang-Undang Islam' (Islamic Laws).", "He reinforced Kota Batu as a fortified capital.", "His tomb is a significant pilgrimage site, especially for locals."] }, image: "/poi-images/tomb-of-sharif-ali-history-v2.webp"},
   {
     id: "mercu-dirgahayu-60-history-v2",
     type: "monument",
@@ -240,7 +240,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Features golden Arabic calligraphy.", "Stands as a symbol of loyalty."]
     }
   ,
-    factsAdvanced: { multi4: ["The monument was officially unveiled in July 2007.", "It celebrates the 60th birthday of Sultan Hassanal Bolkiah.", "The monument stands 20.6 meters high.", "The 60 surrounding cables symbolize the 60 years of the Sultan's life.", "The gold-plated calligraphy on top weighs over 100 kilograms.", "The design was chosen through a national competition.", "It is located at the Taman Haji Sir Muda Omar 'Ali Saifuddien.", "The surrounding park is a popular venue for national celebrations."] }},
+    factsAdvanced: { multi4: ["The monument was officially unveiled in July 2007.", "It celebrates the 60th birthday of Sultan Hassanal Bolkiah.", "The monument stands 20.6 meters high.", "The 60 surrounding cables symbolize the 60 years of the Sultan's life.", "The gold-plated calligraphy on top weighs over 100 kilograms.", "The design was chosen through a national competition.", "It is located at the Taman Haji Sir Muda Omar 'Ali Saifuddien.", "The surrounding park is a popular venue for national celebrations."] }, image: "/poi-images/mercu-dirgahayu-60-history-v2.webp"},
   {
     id: "tengyun-temple-history-v2",
     type: "historical-site",
@@ -260,7 +260,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Built in the year 1918.", "Survived the bombings in World War II."]
     }
   ,
-    factsAdvanced: { multi4: ["The temple was originally built in 1918, making it over a century old.", "It was rebuilt in its current form around 1960 after significant damage.", "The name 'Tengyun' translates to 'Cloud Soaring' Temple.", "It is dedicated to multiple deities, but Lord Guan is the principal one.", "The temple's structure includes intricate carvings made by craftsmen from China.", "It is a key site for the annual Chinese New Year lion dance performances.", "It remarkably survived heavy Allied bombing during World War II.", "The temple serves followers of both Taoism and Buddhism."] }},
+    factsAdvanced: { multi4: ["The temple was originally built in 1918, making it over a century old.", "It was rebuilt in its current form around 1960 after significant damage.", "The name 'Tengyun' translates to 'Cloud Soaring' Temple.", "It is dedicated to multiple deities, but Lord Guan is the principal one.", "The temple's structure includes intricate carvings made by craftsmen from China.", "It is a key site for the annual Chinese New Year lion dance performances.", "It remarkably survived heavy Allied bombing during World War II.", "The temple serves followers of both Taoism and Buddhism."] }, image: "/poi-images/tengyun-temple-history-v2.webp"},
   {
     id: "malay-technology-museum-history-v2",
     type: "historical-site",
@@ -280,7 +280,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Opened in 1988.", "Showcases traditional boat building."]
     }
   ,
-    factsAdvanced: { multi4: ["The museum was officially opened by Sultan Hassanal Bolkiah on February 29, 1988.", "It was a gift from the Shell company to Brunei.", "The architecture is based on traditional longhouses found in the region.", "Gallery 1 displays three full-scale replicas of traditional water village houses.", "Gallery 2 showcases crafts like 'kain tenunan' (cloth weaving) and 'keris' making.", "Gallery 3 exhibits the lifestyle of inland communities, including the Penan, Murut, and Dusun.", "The museum is located within the historic Kota Batu archaeological site.", "It aims to preserve and showcase the technological heritage of Brunei's indigenous people."] }},
+    factsAdvanced: { multi4: ["The museum was officially opened by Sultan Hassanal Bolkiah on February 29, 1988.", "It was a gift from the Shell company to Brunei.", "The architecture is based on traditional longhouses found in the region.", "Gallery 1 displays three full-scale replicas of traditional water village houses.", "Gallery 2 showcases crafts like 'kain tenunan' (cloth weaving) and 'keris' making.", "Gallery 3 exhibits the lifestyle of inland communities, including the Penan, Murut, and Dusun.", "The museum is located within the historic Kota Batu archaeological site.", "It aims to preserve and showcase the technological heritage of Brunei's indigenous people."] }, image: "/poi-images/malay-technology-museum-history-v2.webp"},
   {
     id: "brunei-history-centre-history-v2",
     type: "historical-site",
@@ -300,7 +300,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Founded in the year 1982.", "Maintains a vast historical archive."]
     }
   ,
-    factsAdvanced: { multi4: ["The Centre was established by the decree of Sultan Hassanal Bolkiah in 1982.", "Its primary role is to conduct research on the history of Brunei.", "It is the official body for verifying the royal genealogy (Salasilah).", "The centre houses a public exhibition gallery showcasing historical artifacts.", "It has published over 100 titles on various aspects of Brunei's history.", "The building's architecture features traditional Malay Islamic design elements.", "It holds a collection of rare manuscripts, some dating back several centuries.", "The centre is responsible for providing historical context for national events."] }},
+    factsAdvanced: { multi4: ["The Centre was established by the decree of Sultan Hassanal Bolkiah in 1982.", "Its primary role is to conduct research on the history of Brunei.", "It is the official body for verifying the royal genealogy (Salasilah).", "The centre houses a public exhibition gallery showcasing historical artifacts.", "It has published over 100 titles on various aspects of Brunei's history.", "The building's architecture features traditional Malay Islamic design elements.", "It holds a collection of rare manuscripts, some dating back several centuries.", "The centre is responsible for providing historical context for national events."] }, image: "/poi-images/brunei-history-centre-history-v2.webp"},
   {
     id: "silver-jubilee-park-history-v2",
     type: "monument",
@@ -320,7 +320,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Opened in 1992.", "Offers serene river views."]
     }
   ,
-    factsAdvanced: { multi4: ["The park was opened in 1992 to mark the Sultan's 25 years on the throne.", "It is located on the banks of the Kedayan River.", "The park covers an area of approximately 2 hectares.", "A key monument is a stainless-steel structure with 25 pillars.", "The park's design incorporates both modern and traditional Islamic elements.", "It provides a scenic backdrop for the annual royal birthday procession.", "The park is equipped with exercise facilities and a children's playground.", "It is part of the Bandar Seri Begawan waterfront redevelopment project."] }},
+    factsAdvanced: { multi4: ["The park was opened in 1992 to mark the Sultan's 25 years on the throne.", "It is located on the banks of the Kedayan River.", "The park covers an area of approximately 2 hectares.", "A key monument is a stainless-steel structure with 25 pillars.", "The park's design incorporates both modern and traditional Islamic elements.", "It provides a scenic backdrop for the annual royal birthday procession.", "The park is equipped with exercise facilities and a children's playground.", "It is part of the Bandar Seri Begawan waterfront redevelopment project."] }, image: "/poi-images/silver-jubilee-park-history-v2.webp"},
   {
     id: "clock-tower-bsb-history-v2",
     type: "monument",
@@ -340,7 +340,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Built in the year 1959.", "Commemorates the visit of the Malayan ruler."]
     }
   ,
-    factsAdvanced: { multi4: ["The clock tower was completed and unveiled in 1959.", "It commemorates the visit of the first King of the Federation of Malaya.", "It is located at the intersection of Jalan Sultan Omar Ali Saifuddien and Jalan Stoney.", "The site is considered Kilometer Zero for road distances in Brunei.", "The clock mechanism was imported from the United Kingdom.", "The design reflects the modernist architectural style of the 1950s.", "It stands as one of the few historical structures in the modern city center.", "The tower is a popular backdrop for photos, especially during national celebrations."] }},
+    factsAdvanced: { multi4: ["The clock tower was completed and unveiled in 1959.", "It commemorates the visit of the first King of the Federation of Malaya.", "It is located at the intersection of Jalan Sultan Omar Ali Saifuddien and Jalan Stoney.", "The site is considered Kilometer Zero for road distances in Brunei.", "The clock mechanism was imported from the United Kingdom.", "The design reflects the modernist architectural style of the 1950s.", "It stands as one of the few historical structures in the modern city center.", "The tower is a popular backdrop for photos, especially during national celebrations."] }, image: "/poi-images/clock-tower-bsb-history-v2.webp"},
   {
     id: "maritime-museum-brunei-history-v2",
     type: "historical-site",
@@ -360,7 +360,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Opened to the public in 2015.", "Displays 15th-century artifacts."]
     }
   ,
-    factsAdvanced: { multi4: ["The museum was officially opened to the public on March 23, 2015.", "It was primarily built to house artifacts from a shipwreck discovered in 1997.", "The shipwreck is believed to date back to around 1476.", "Over 13,200 artifacts were recovered from the shipwreck site.", "The artifacts include a vast collection of Chinese, Vietnamese, and Thai ceramics.", "One gallery is named 'The Shipwreck Gallery'.", "Another gallery, 'Kota Batu as a Trading Centre', details its historical importance.", "The museum building has a distinctive ship-like architectural design."] }},
+    factsAdvanced: { multi4: ["The museum was officially opened to the public on March 23, 2015.", "It was primarily built to house artifacts from a shipwreck discovered in 1997.", "The shipwreck is believed to date back to around 1476.", "Over 13,200 artifacts were recovered from the shipwreck site.", "The artifacts include a vast collection of Chinese, Vietnamese, and Thai ceramics.", "One gallery is named 'The Shipwreck Gallery'.", "Another gallery, 'Kota Batu as a Trading Centre', details its historical importance.", "The museum building has a distinctive ship-like architectural design."] }, image: "/poi-images/maritime-museum-brunei-history-v2.webp"},
   {
     id: "muara-beach-landing-site-history-v2",
     type: "battlefield",
@@ -380,7 +380,7 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       en: ["Australian forces led the landing.", "Marked the end of the Japanese occupation."]
     }
   ,
-    factsAdvanced: { multi4: ["The Allied landing occurred on June 10, 1945.", "The operation was codenamed 'Oboe Six'.", "The landing force was primarily the Australian 9th Division.", "It was part of the larger Borneo Campaign to liberate the island.", "The objective was to secure the strategic Brunei Bay area for use as an Allied naval base.", "The landing was supported by the US Navy and Royal Australian Navy.", "Japanese resistance in the Muara area was overcome within a day.", "The event marked the end of over three years of Japanese occupation in Brunei."] }},
+    factsAdvanced: { multi4: ["The Allied landing occurred on June 10, 1945.", "The operation was codenamed 'Oboe Six'.", "The landing force was primarily the Australian 9th Division.", "It was part of the larger Borneo Campaign to liberate the island.", "The objective was to secure the strategic Brunei Bay area for use as an Allied naval base.", "The landing was supported by the US Navy and Royal Australian Navy.", "Japanese resistance in the Muara area was overcome within a day.", "The event marked the end of over three years of Japanese occupation in Brunei."] }, image: "/poi-images/muara-beach-landing-site-history-v2.webp"},
   {
     id: "australian-veterans-monument-history-v2",
     type: "monument",

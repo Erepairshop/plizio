@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mana-gold-mine-economic-v2",
+      "description": "Die Mana-Goldmine liegt im westlichen Burkina Faso und gehört zu den wichtigen Goldstandorten des Landes. Sie stärkt die Rohstoffwirtschaft und bringt Beschäftigung in die Region.",
+      "facts": ["Goldmine im Westen", "Wichtiger Arbeitgeber", "Teil der Rohstoffwirtschaft"]
+    },
+    {
+      "id": "taparko-gold-mine-economic-v2",
+      "description": "Die Taparko-Goldmine ist ein bekannter Bergbaustandort im Norden Burkina Fasos. Sie steht für die wirtschaftliche Bedeutung des Goldabbaus in einer trockenen Region.",
+      "facts": ["Goldmine im Norden", "Trockene Lage", "Wirtschaftlich wichtig"]
+    },
+    {
+      "id": "bissa-gold-mine-economic-v2",
+      "description": "Die Bissa-Goldmine liegt in der zentralen Nordregion des Landes und zählt zu den markanten Industrieprojekten. Sie trägt zur Goldproduktion und zu lokalen Arbeitsplätzen bei.",
+      "facts": ["Goldmine bei Sabcé", "Zentral-nördliche Lage", "Schafft Arbeitsplätze"]
+    },
+    {
+      "id": "karma-gold-mine-economic-v2",
+      "description": "Die Karma-Goldmine ist ein weiterer wichtiger Goldstandort in Burkina Faso. Der Betrieb ist Teil der fortlaufenden Erschließung mineralischer Ressourcen im Norden.",
+      "facts": ["Goldmine im Norden", "Rohstoffprojekt", "Teil des Bergbausektors"]
+    },
+    {
+      "id": "yaramoko-gold-mine-economic-v2",
+      "description": "Die Yaramoko-Goldmine gehört zu den bekannten Goldprojekten im Westen des Landes. Sie ergänzt die industrielle Basis der Region um einen starken Bergbauzweig.",
+      "facts": ["Goldmine im Westen", "Bekanntes Projekt", "Stützt die Regionalwirtschaft"]
+    },
+    {
+      "id": "ziga-water-treatment-economic-v2",
+      "description": "Die Wasseraufbereitungsanlage Ziga versorgt die Hauptstadtregion mit aufbereitetem Trinkwasser. Sie ist eng mit der Wassersicherheit von Ouagadougou verbunden.",
+      "facts": ["Trinkwasseranlage", "Für Ouagadougou wichtig", "Teil der Wasserversorgung"]
+    },
+    {
+      "id": "cimfaso-cement-plant-economic-v2",
+      "description": "Das CIMFASO-Zementwerk gehört zur Bauindustrie Burkina Fasos. Es liefert den Baustoff für Wohnungsbau, Infrastruktur und größere Projekte.",
+      "facts": ["Zementproduktion", "Für die Bauwirtschaft", "Industriestandort"]
+    },
+    {
+      "id": "sofitex-koudougou-economic-v2",
+      "description": "Sofitex in Koudougou ist mit der regionalen Baumwollwirtschaft verbunden. Der Standort bündelt Verarbeitung, Handel und die Nähe zu den Produzenten.",
+      "facts": ["Baumwollwirtschaft", "Standort in Koudougou", "Verarbeitung und Handel"]
+    },
+    {
+      "id": "wahgnion-gold-mine-economic-v2",
+      "description": "Die Wahgnion-Goldmine liegt im Südwesten Burkina Fasos und ist Teil der großen Goldförderung des Landes. Sie stärkt Exporte und regionale Beschäftigung.",
+      "facts": ["Goldmine im Südwesten", "Exportrelevant", "Regionale Jobs"]
+    },
+    {
+      "id": "pouytenga-cattle-market-economic-v2",
+      "description": "Der Viehmarkt von Pouytenga ist ein wichtiger Handelsplatz für Rinder und andere Nutztiere. Er verbindet Viehhalter, Händler und Käufer aus mehreren Regionen.",
+      "facts": ["Großer Viehmarkt", "Handel mit Rindern", "Regionaler Umschlagplatz"]
+    },
+    {
+      "id": "sonabhy-péni-depot-economic-v2",
+      "description": "Das SONABHY-Depot in Péni dient als Lager- und Verteilpunkt für Kraftstoffe. Es unterstützt die Versorgung des westlichen Landesteils mit Treibstoff.",
+      "facts": ["Kraftstoffdepot", "In Péni gelegen", "Versorgung des Westens"]
+    },
+    {
+      "id": "cimasso-bobo-dioulasso-economic-v2",
+      "description": "CIMASSO in Bobo-Dioulasso ist ein weiterer wichtiger Standort der Zementindustrie. Der Betrieb versorgt den regionalen Markt mit Baustoffen.",
+      "facts": ["Zementwerk", "In Bobo-Dioulasso", "Versorgt den Baumarkt"]
+    },
+    {
+      "id": "zina-solar-power-station-economic-v2",
+      "description": "Das Solarkraftwerk Zina steht für den Ausbau erneuerbarer Energie in Burkina Faso. Die Anlage nutzt das starke Sonnenangebot und speist Strom ins Netz.",
+      "facts": ["Solarkraftwerk", "Erneuerbare Energie", "Speist Strom ins Netz"]
+    },
+    {
+      "id": "dédougou-cotton-gin-economic-v2",
+      "description": "Die Baumwollentkörnungsanlage in Dédougou verarbeitet die Ernte aus dem westlichen Landesteil. Sie ist ein Bindeglied zwischen den Feldern und der Weiterverarbeitung.",
+      "facts": ["Baumwollverarbeitung", "In Dédougou", "Wichtig für Bauern"]
+    },
+    {
+      "id": "kou-valley-rice-mills-economic-v2",
+      "description": "Die Reismühlen im Kou-Tal verarbeiten die Ernte aus den bewässerten Flächen westlich von Bobo-Dioulasso. Sie unterstützen die regionale Versorgung mit Grundnahrungsmitteln.",
+      "facts": ["Reisverarbeitung", "Im Kou-Tal", "Stützt die lokale Ernährung"]
+    }
+  ]
+}

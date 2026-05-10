@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "belize",
+  "files": ["lib/visualLab/data/poiExtraBelizeCitiesV2.ts"],
+  "items": [
+    {
+      "id": "dangriga-stann-creek-capital-cities-v2",
+      "descriptionAdvancedDe": "Dangriga, die Hauptstadt des Stann Creek Distrikts, ist ein lebendiges Zentrum der Garifuna-Kultur und die größte Stadt im Süden Belizes. Die Stadt liegt an der Mündung des North Stann Creek und strahlt eine einzigartige kulturelle Energie aus, die von den Rhythmen der Garifuna-Trommeln und dem Duft von Hudut geprägt ist. 'Die Kulturhauptstadt Belizes' ist ein Ort, an dem Kunst, Musik und Tanz tief in der Gemeinschaft verwurzelt sind. Mit seinen freundlichen Einwohnern und der entspannten Atmosphäre am Meer ist Dangriga ein idealer Ausgangspunkt, um die nahegelegenen Cayes und den Cockscomb Basin Wildlife Sanctuary zu erkunden. Die Stadt bietet einen authentischen Einblick in das Leben und die Traditionen des Garifuna-Volkes.",
+      "descriptionAdvancedHu": "Dangriga a Stann Creek kerület fővárosa, a garifuna kultúra vibráló központja és Dél-Belize legnagyobb városa. A North Stann Creek torkolatánál fekvő város egyedi kulturális energiát sugároz, amelyet a garifuna dobok ritmusa és a hudut illata jellemez. 'Belize kulturális fővárosa' egy olyan hely, ahol a művészet, a zene és a tánc mélyen gyökerezik a közösségben. Barátságos lakóival és nyugodt tengerparti hangulatával Dangriga ideális kiindulópont a közeli cayes szigetek és a Cockscomb Basin Vadvédelmi Terület felfedezéséhez. A város autentikus betekintést nyújt a garifuna nép életébe és hagyományaiba.",
+      "descriptionAdvancedRo": "Dangriga, capitala districtului Stann Creek, este un centru vibrant al culturii Garifuna și cel mai mare oraș din sudul Belizei. Situat la gura de vărsare a pârâului North Stann, orașul emană o energie culturală unică, modelată de ritmurile tobelor Garifuna și de parfumul de hudut. 'Capitala culturală a Belizei' este un loc unde arta, muzica și dansul sunt adânc înrădăcinate în comunitate. Cu locuitorii săi prietenoși și atmosfera relaxată de la malul mării, Dangriga este un punct de plecare ideal pentru a explora insulele cayes din apropiere și Sanctuarul de faună sălbatică Cockscomb Basin. Orașul oferă o perspectivă autentică asupra vieții și tradițiilor poporului Garifuna.",
+      "descriptionAdvancedEn": "Dangriga, the capital of the Stann Creek District, is a vibrant center of Garifuna culture and the largest town in southern Belize. Located at the mouth of the North Stann Creek, the town exudes a unique cultural energy, shaped by the rhythms of Garifuna drums and the scent of hudut. 'The cultural capital of Belize' is a place where art, music, and dance are deeply rooted in the community. With its friendly inhabitants and relaxed seaside atmosphere, Dangriga is an ideal base for exploring the nearby cayes and the Cockscomb Basin Wildlife Sanctuary. The town offers an authentic insight into the life and traditions of the Garifuna people.",
+      "factsAdvanced": [
+        "Dangriga a Stann Creek kerület közigazgatási központja.",
+        "A város a garifuna kultúra legfontosabb központja Belize-ben.",
+        "November 19-én itt ünneplik a Garifuna Letelepedési Napot.",
+        "A város partjainál található a Belize-i Korallzátony.",
+        "A helyi gazdaság a halászatra, a banán- és a citrusfélék termesztésére épül.",
+        "Dangriga ad otthont a híres Pen Cayetano művésznek.",
+        "A városban több dobkészítő műhely is működik.",
+        "A lakosság körülbelül 10 000 fő."
+      ]
+    },
+    {
+      "id": "san-ignacio-cayo-capital-cities-v2",
+      "descriptionAdvancedDe": "San Ignacio, zusammen mit seiner Schwesterstadt Santa Elena, bildet das größte städtische Zentrum im Cayo-Distrikt und ist das pulsierende Herz des belizischen Binnenlandes. Die Stadt liegt am Ufer des Macal River und ist ein Schmelztiegel der Kulturen, in dem sich Mestizen, Kreolen, Maya und Expats treffen. 'Cayo', wie es von den Einheimischen genannt wird, ist das Epizentrum für Ökotourismus und Abenteuer in Belize, von hier aus starten Touren zu den berühmten Maya-Stätten wie Xunantunich und Caracol, zu Höhlensystemen und in den Dschungel. Der lebhafte Samstagsmarkt, auf dem Bauern und Handwerker aus der ganzen Region ihre Waren anbieten, ist ein unvergessliches Erlebnis und spiegelt die Vielfalt des Distrikts wider.",
+      "descriptionAdvancedHu": "San Ignacio testvérvárosával, Santa Elenával együtt alkotja Cayo kerület legnagyobb városi központját és a belize-i szárazföld lüktető szívét. A Macal folyó partján fekvő város a kultúrák olvasztótégelye, ahol meszticek, kreolok, maják és külföldiek találkoznak. A helyiek által 'Cayo'-nak nevezett település a belize-i ökoturizmus és kaland epicentruma, ahonnan túrák indulnak olyan híres maja lelőhelyekre, mint Xunantunich és Caracol, valamint barlangrendszerekbe és a dzsungelbe. A nyüzsgő szombati piac, ahol a régió minden tájáról érkező gazdák és kézművesek kínálják portékáikat, felejthetetlen élményt nyújt, és a kerület sokszínűségét tükrözi.",
+      "descriptionAdvancedRo": "San Ignacio, împreună cu orașul său soră Santa Elena, formează cel mai mare centru urban din districtul Cayo și inima vibrantă a interiorului Belizei. Orașul este situat pe malurile râului Macal și este un creuzet de culturi, unde se întâlnesc mestizo, creoli, mayași și expați. 'Cayo', așa cum este numit de localnici, este epicentrul ecoturismului și aventurii în Belize, de aici pornind tururi către faimoasele situri mayașe precum Xunantunich și Caracol, către sistemele de peșteri și în junglă. Piața animată de sâmbătă, unde fermierii și artizanii din întreaga regiune își oferă produsele, este o experiență de neuitat și reflectă diversitatea districtului.",
+      "descriptionAdvancedEn": "San Ignacio, along with its sister town Santa Elena, forms the largest urban center in the Cayo District and is the vibrant heart of inland Belize. The town is situated on the banks of the Macal River and is a melting pot of cultures where Mestizos, Creoles, Maya, and expats meet. 'Cayo,' as it is called by locals, is the epicenter of ecotourism and adventure in Belize, with tours departing from here to famous Maya sites like Xunantunich and Caracol, to cave systems, and into the jungle. The lively Saturday market, where farmers and artisans from all over the region offer their goods, is an unforgettable experience and reflects the diversity of the district.",
+      "factsAdvanced": [
+        "San Ignacio és Santa Elena ikervárosok.",
+        "Cayo kerület gazdasági és kulturális központja.",
+        "A Macal és a Mopan folyók itt egyesülnek, létrehozva a Belize folyót.",
+        "A Cahal Pech maja romváros a városközpont közelében található.",
+        "A környék tele van öko-üdülőhelyekkel és dzsungel-lodge-okkal.",
+        "San Ignacio a kiindulópont a guatemalai Tikalba induló túrákhoz is.",
+        "A lakosság rendkívül sokszínű, sok libanoni és kínai bevándorlóval.",
+        "A város mottója: 'A kaland itt kezdődik'."
+      ]
+    },
+    {
+      "id": "belmopan-cayo-capital-cities-v2",
+      "descriptionAdvancedDe": "Belmopan, die Hauptstadt von Belize, ist eine der kleinsten und jüngsten Hauptstädte der Welt. Sie wurde in den 1960er Jahren im geografischen Zentrum des Landes gegründet, nachdem der Hurrikan Hattie die alte Hauptstadt Belize City verwüstet hatte. Belmopan ist eine geplante Stadt mit breiten Boulevards, modernen Regierungsgebäuden und viel Grünfläche. Obwohl sie das administrative Herz des Landes ist, hat sie sich eine ruhige, fast kleinstädtische Atmosphäre bewahrt. Die Stadt beherbergt die University of Belize und ist ein Schmelztiegel der Kulturen, da hier Regierungsangestellte aus allen Teilen des Landes leben. Umgeben von Dschungel, ist Belmopan ein idealer Ausgangspunkt für die Erkundung der Naturschönheiten Zentralbelizes.",
+      "descriptionAdvancedHu": "Belmopan, Belize fővárosa, a világ egyik legkisebb és legfiatalabb fővárosa. Az 1960-as években alapították az ország földrajzi középpontjában, miután a Hattie hurrikán elpusztította a régi fővárost, Belize Cityt. Belmopan egy tervezett város széles sugárutakkal, modern kormányzati épületekkel és sok zöld területtel. Bár az ország közigazgatási szíve, megőrizte csendes, szinte kisvárosi hangulatát. A város ad otthont a Belize-i Egyetemnek, és a kultúrák olvasztótégelye, mivel az ország minden részéből érkeznek ide kormányzati alkalmazottak. A dzsungellel körülvett Belmopan ideális kiindulópont Közép-Belize természeti szépségeinek felfedezéséhez.",
+      "descriptionAdvancedRo": "Belmopan, capitala Belizei, este una dintre cele mai mici și mai tinere capitale din lume. A fost fondată în anii 1960 în centrul geografic al țării, după ce uraganul Hattie a devastat vechea capitală, Belize City. Belmopan este un oraș planificat, cu bulevarde largi, clădiri guvernamentale moderne și mult spațiu verde. Deși este inima administrativă a țării, și-a păstrat o atmosferă liniștită, aproape de oraș mic. Orașul găzduiește Universitatea din Belize și este un creuzet de culturi, deoarece aici locuiesc angajați guvernamentali din toate părțile țării. Înconjurat de junglă, Belmopan este un punct de plecare ideal pentru explorarea frumuseților naturale din centrul Belizei.",
+      "descriptionAdvancedEn": "Belmopan, the capital of Belize, is one of the smallest and youngest capital cities in the world. It was founded in the 1960s in the geographical center of the country after Hurricane Hattie devastated the old capital, Belize City. Belmopan is a planned city with wide boulevards, modern government buildings, and plenty of green space. Although it is the administrative heart of the country, it has retained a quiet, almost small-town atmosphere. The city is home to the University of Belize and is a melting pot of cultures, as government employees from all over the country live here. Surrounded by jungle, Belmopan is an ideal base for exploring the natural beauty of central Belize.",
+      "factsAdvanced": [
+        "Belmopan 1970 óta Belize hivatalos fővárosa.",
+        "A várost a brit kormány finanszírozásával építették.",
+        "A Market Square a város társadalmi és kereskedelmi központja.",
+        "Itt találhatók a nemzeti kormányzati szervek és a nagykövetségek.",
+        "A lakosság körülbelül 20 000 fő.",
+        "A Guanacaste Nemzeti Park a város határában található.",
+        "Belmopan a 'Garden City' (Kertváros) becenevet viseli.",
+        "A város egy maja régészeti lelőhely közelében épült."
+      ]
+    },
+    {
+      "id": "hattieville-belize-district-cities-v2",
+      "descriptionAdvancedDe": "Hattieville ist eine Siedlung im Belize District, deren Geschichte untrennbar mit dem Hurrikan Hattie von 1961 verbunden ist. Ursprünglich als Flüchtlingslager für die durch den Sturm obdachlos gewordenen Bewohner von Belize City gegründet, entwickelte es sich zu einer permanenten Gemeinschaft. Der Name selbst ist eine ständige Erinnerung an diese Katastrophe. Heute ist Hattieville eine wachsende Gemeinde entlang des George Price Highway und dient als Wohnvorort für Belize City. Die Gemeinschaft ist geprägt von einem starken Überlebenswillen und Zusammenhalt. Hier befindet sich auch das zentrale Gefängnis von Belize, was der Gemeinde eine zusätzliche, oft missverstandene Rolle in der nationalen Landschaft gibt.",
+      "descriptionAdvancedHu": "Hattieville egy település a Belize kerületben, amelynek története elválaszthatatlanul kapcsolódik az 1961-es Hattie hurrikánhoz. Eredetileg a vihar által hajléktalanná vált Belize City-i lakosok számára létrehozott menekülttáborként jött létre, majd állandó közösséggé fejlődött. Maga a név is állandó emlékeztetője ennek a katasztrófának. Ma Hattieville egy növekvő közösség a George Price Highway mentén, és Belize City lakóövezeteként szolgál. A közösséget erős túlélési akarat és összetartás jellemzi. Itt található Belize központi börtöne is, ami a közösségnek egy további, gyakran félreértett szerepet ad az országos tájképben.",
+      "descriptionAdvancedRo": "Hattieville este o așezare din districtul Belize, a cărei istorie este inseparabil legată de uraganul Hattie din 1961. Fondată inițial ca tabără de refugiați pentru locuitorii din Belize City rămași fără adăpost în urma furtunii, s-a dezvoltat într-o comunitate permanentă. Numele însuși este o amintire constantă a acestui dezastru. Astăzi, Hattieville este o comunitate în creștere de-a lungul autostrăzii George Price și servește ca o suburbie rezidențială pentru Belize City. Comunitatea este caracterizată de o voință puternică de supraviețuire și coeziune. Aici se află și închisoarea centrală din Belize, ceea ce conferă comunității un rol suplimentar, adesea neînțeles, în peisajul național.",
+      "descriptionAdvancedEn": "Hattieville is a settlement in the Belize District whose history is inextricably linked to Hurricane Hattie of 1961. Originally founded as a refugee camp for residents of Belize City made homeless by the storm, it developed into a permanent community. The name itself is a constant reminder of this disaster. Today, Hattieville is a growing community along the George Price Highway and serves as a residential suburb for Belize City. The community is characterized by a strong will to survive and cohesion. It is also home to Belize's central prison, which gives the community an additional, often misunderstood, role in the national landscape.",
+      "factsAdvanced": [
+        "A Hattie hurrikán után alapították 1961-ben.",
+        "Eredetileg ideiglenes menedékhelynek épült.",
+        "A George Price Highway mentén fekszik, Belize City közelében.",
+        "A lakosságot a hurrikán túlélői és leszármazottaik alkotják.",
+        "Itt található a Belize Central Prison, az ország legnagyobb börtöne.",
+        "A közösség lassan, de folyamatosan növekszik.",
+        "A helyi gazdaság nagymértékben függ a közeli Belize Citytől.",
+        "A település a katasztrófa utáni újjáépítés szimbóluma."
+      ]
+    },
+    {
+      "id": "ladyville-belize-district-cities-v2",
+      "descriptionAdvancedDe": "Ladyville ist die größte Dorfgemeinde in Belize und ein wichtiger Vorort von Belize City. Die Gemeinde liegt am Northern Highway und beherbergt den Philip S. W. Goldson International Airport, das Haupttor des Landes zur Welt. Ursprünglich eine kleine ländliche Siedlung, hat sich Ladyville zu einem geschäftigen Zentrum mit Wohngebieten, Geschäften und leichten Industrieanlagen entwickelt. Es beherbergt auch die meisten Militärbasen des Landes, einschließlich der Belize Defence Force. Die strategische Lage zwischen dem internationalen Flughafen und Belize City macht Ladyville zu einem wichtigen Knotenpunkt für Transport und Logistik im Land.",
+      "descriptionAdvancedHu": "Ladyville Belize legnagyobb falusi közössége és Belize City fontos elővárosa. A Northern Highway mentén fekvő település ad otthont a Philip S. W. Goldson Nemzetközi Repülőtérnek, az ország fő kapujának a világ felé. Eredetileg egy kis vidéki település volt, de mára Ladyville forgalmas központtá fejlődött lakónegyedekkel, üzletekkel és könnyűipari létesítményekkel. Itt található az ország legtöbb katonai bázisa is, beleértve a Belize Védelmi Erőket. Stratégiai elhelyezkedése a nemzetközi repülőtér és Belize City között Ladyville-t az ország fontos közlekedési és logisztikai csomópontjává teszi.",
+      "descriptionAdvancedRo": "Ladyville este cea mai mare comunitate sătească din Belize și o suburbie importantă a orașului Belize. Comunitatea este situată pe Autostrada de Nord și găzduiește Aeroportul Internațional Philip S. W. Goldson, poarta principală a țării către lume. Inițial o mică așezare rurală, Ladyville s-a dezvoltat într-un centru aglomerat cu zone rezidențiale, magazine și facilități industriale ușoare. De asemenea, găzduiește majoritatea bazelor militare ale țării, inclusiv Forța de Apărare din Belize. Locația sa strategică între aeroportul internațional și Belize City face din Ladyville un nod important pentru transport și logistică în țară.",
+      "descriptionAdvancedEn": "Ladyville is the largest village community in Belize and an important suburb of Belize City. The community is located on the Northern Highway and is home to the Philip S. W. Goldson International Airport, the country's main gateway to the world. Originally a small rural settlement, Ladyville has developed into a bustling center with residential areas, shops, and light industrial facilities. It also hosts most of the country's military bases, including the Belize Defence Force. Its strategic location between the international airport and Belize City makes Ladyville an important hub for transportation and logistics in the country.",
+      "factsAdvanced": [
+        "Ladyville ad otthont Belize egyetlen nemzetközi repülőterének (PGIA).",
+        "Az ország legnagyobb népességű falusi rangú települése.",
+        "A Belize Védelmi Erők (BDF) főhadiszállása itt található.",
+        "Stratégiai fontosságú a Belize City-hez való közelsége miatt.",
+        "Az elmúlt évtizedekben gyors népességnövekedésen ment keresztül.",
+        "A helyi gazdaság a repülőtérhez és a katonai jelenléthez kötődik.",
+        "Ladyville a Northern Highway mentén helyezkedik el.",
+        "Számos kereskedelmi egység és szolgáltatás található a területén."
+      ]
+    }
+  ]
+}

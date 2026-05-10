@@ -1,0 +1,65 @@
+{
+  "lang": "ro",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gikizi-relief-v2",
+      "description": "Muntele Gikizi se află într-o zonă colinară din Burundi, cu versanți abrupți și terenuri agricole mici. Relieful lui influențează așezările și drumul apei spre văi.",
+      "facts": ["relief colinar", "terase agricole", "bazin de apă"]
+    },
+    {
+      "id": "musongati-relief-v2",
+      "description": "Zona Musongati este cunoscută pentru relieful ei accidentat și pentru structurile geologice complexe. Dealurile și văile adânci dau regiunii un profil distinct.",
+      "facts": ["estul țării", "relief accidentat", "resurse minerale"]
+    },
+    {
+      "id": "gishora-relief-v2",
+      "description": "Gishora este o zonă de dealuri line din centrul Burundiului, aproape de Gitega. Peisajul ei colinar a favorizat așezări tradiționale și agricultură locală.",
+      "facts": ["dealuri line", "aproape de Gitega", "agricultură locală"]
+    },
+    {
+      "id": "teza-relief-v2",
+      "description": "Teza face parte din zona montană răcoroasă a centrului-vestic al Burundiului. Relieful înalt susține clima potrivită pentru ceai.",
+      "facts": ["zonă montană", "climat rece", "ceai"]
+    },
+    {
+      "id": "songa-relief-v2",
+      "description": "Relieful din Songa este format din platouri și coline care alternează cu văi scurte. Această structură susține agricultura și drenajul natural al apei.",
+      "facts": ["platouri", "văi scurte", "agricultură"]
+    },
+    {
+      "id": "karonje-relief-v2",
+      "description": "Karonje este o zonă cu pante abrupte și relief puternic fragmentat, aproape de lacul Tanganyika. Solul cere măsuri constante de protecție împotriva eroziunii.",
+      "facts": ["pante abrupte", "aproape de Tanganyika", "controlul eroziunii"]
+    },
+    {
+      "id": "cene-relief-v2",
+      "description": "Cene reprezintă un relief tipic de dealuri și văi din Burundiul central. Așezările și drumurile locale urmează forma terenului.",
+      "facts": ["dealuri și văi", "Burundi central", "așezări rurale"]
+    },
+    {
+      "id": "birira-relief-v2",
+      "description": "Birira este o zonă de relief colinar în care câmpurile și satele se așază pe înălțimi. Peisajul este modelat de terenuri ondulate și de agricultură.",
+      "facts": ["zonă colinară", "sate pe înălțimi", "teren ondulat"]
+    },
+    {
+      "id": "nkoma-relief-v2",
+      "description": "Nkoma este un punct de relief mai mic, dar vizibil, într-o regiune deluroasă a Burundiului. Poziția lui oferă perspective asupra terenurilor agricole din jur.",
+      "facts": ["punct de relief", "zonă deluroasă", "terenuri agricole"]
+    },
+    {
+      "id": "mikuba-relief-v2",
+      "description": "Mikuba este o formațiune de relief din interiorul Burundiului, cu văi și înălțimi care se succed rapid. Acest tip de teren influențează direct utilizarea solului și stabilitatea versanților.",
+      "facts": ["interiorul țării", "văi și înălțimi", "versanți instabili"]
+    }
+  ]
+}

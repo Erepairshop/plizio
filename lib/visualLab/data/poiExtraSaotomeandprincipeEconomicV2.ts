@@ -39,8 +39,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Known for chocolate with extremely high cocoa content.",
         "A pioneer for gourmet exports from the archipelago."
       ]
-    }
-  },
+    }, image: "/poi-images/schokoladenmanufaktur-corallo-economic-v2.webp"},
   {
     id: "brauerei-rosema-economic-v2",
     type: "industry",
@@ -79,8 +78,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "The beer is traditionally sold in brown bottles without labels.",
         "A major economic factor for the industrial city of Neves."
       ]
-    }
-  },
+    }, image: "/poi-images/brauerei-rosema-economic-v2.webp"},
   {
     id: "wasserkraftwerk-contador-economic-v2",
     type: "industry",
@@ -199,8 +197,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Center of traditional fish trade on the coast.",
         "A vibrant site for exchange between fishermen and traders."
       ]
-    }
-  },
+    }, image: "/poi-images/fischereihafen-pantufo-economic-v2.webp"},
   {
     id: "hafen-neves-economic-v2",
     type: "port",
@@ -239,8 +236,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Major point for receiving international tankers.",
         "Strategically located for the Lembá industrial zone."
       ]
-    }
-  },
+    }, image: "/poi-images/hafen-neves-economic-v2.webp"},
   {
     id: "solarpark-sao-tome-economic-v2",
     type: "industry",
@@ -279,8 +275,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Contributes to reducing the archipelago's CO2 emissions.",
         "A milestone for the green energy transition in Central Africa."
       ]
-    }
-  },
+    }, image: "/poi-images/solarpark-sao-tome-economic-v2.webp"},
   {
     id: "kakaofabrik-cecab-economic-v2",
     type: "industry",
@@ -319,8 +314,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Specializes in high-quality organic cocoa for gourmet markets.",
         "A pioneer for fair working conditions in agriculture."
       ]
-    }
-  },
+    }, image: "/poi-images/kakaofabrik-cecab-economic-v2.webp"},
   {
     id: "mineralwasserwerk-bago-bago-economic-v2",
     type: "industry",
@@ -359,8 +353,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Market leader for bottled drinking water on São Tomé.",
         "The factory meets international quality standards."
       ]
-    }
-  },
+    }, image: "/poi-images/mineralwasserwerk-bago-bago-economic-v2.webp"},
   {
     id: "fischereihafen-santana-economic-v2",
     type: "port",
@@ -399,8 +392,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Center of artisanal fishing in Cantagalo.",
         "Known for its variety of tropical reef fish."
       ]
-    }
-  },
+    }, image: "/poi-images/fischereihafen-santana-economic-v2.webp"},
   {
     id: "anlegestelle-porto-alegre-economic-v2",
     type: "port",
@@ -439,8 +431,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Important transshipment point for southern agricultural products.",
         "Starting point for maritime excursions along the south coast."
       ]
-    }
-  },
+    }, image: "/poi-images/anlegestelle-porto-alegre-economic-v2.webp"},
   {
     id: "hafen-santo-antonio-economic-v2",
     type: "port",
@@ -479,8 +470,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Features specialized storage areas for containers and fuel.",
         "Secures the basic supply of the autonomous region."
       ]
-    }
-  },
+    }, image: "/poi-images/hafen-santo-antonio-economic-v2.webp"},
   {
     id: "kakaolagerhaus-hafen-economic-v2",
     type: "industry",
@@ -519,8 +509,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Monitors the quality and weight of export shipments.",
         "Symbol of the wealth of the 'Chocolate Island'."
       ]
-    }
-  },
+    }, image: "/poi-images/kakaolagerhaus-hafen-economic-v2.webp"},
   {
     id: "werft-sao-tome-economic-v2",
     type: "industry",
@@ -559,8 +548,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Ensures the operational capability of the island fleet.",
         "A training site for specialized ship craftsmen."
       ]
-    }
-  },
+    }, image: "/poi-images/werft-sao-tome-economic-v2.webp"},
   {
     id: "steinbruch-morro-peixe-economic-v2",
     type: "industry",
@@ -639,8 +627,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Produces standardized structural elements for building construction.",
         "A cornerstone for the expansion of housing construction."
       ]
-    }
-  },
+    }, image: "/poi-images/baustoffwerk-neves-economic-v2.webp"},
   {
     id: "waermekraftwerk-sao-tome-economic-v2",
     type: "industry",
@@ -679,8 +666,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Uses imported fossil fuels for energy generation.",
         "Center of the national power company EMAE."
       ]
-    }
-  },
+    }, image: "/poi-images/waermekraftwerk-sao-tome-economic-v2.webp"},
   {
     id: "fischverarbeitungszentrum-neves-economic-v2",
     type: "industry",
@@ -719,8 +705,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Has the largest cold storage capacities in the northwest.",
         "A major contribution to the country's food security."
       ]
-    }
-  },
+    }, image: "/poi-images/fischverarbeitungszentrum-neves-economic-v2.webp"},
   {
     id: "anlegestelle-rolas-economic-v2",
     type: "port",
@@ -759,8 +744,7 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
         "Vital supply bridge across the strait.",
         "Known for crystal-clear water directly at the quay."
       ]
-    }
-  },
+    }, image: "/poi-images/anlegestelle-rolas-economic-v2.webp"},
   {
     id: "exportterminal-flughafen-economic-v2",
     type: "industry",

@@ -1,0 +1,65 @@
+{
+  "lang": "ro",
+  "country": "Brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBrazilHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "santos-port-economic-v2",
+      "description": "Portul Santos este cel mai mare port din America Latină și principalul punct de ieșire pentru exporturile Braziliei. Leagă economia statului São Paulo de piețele internaționale.",
+      "facts": ["Cel mai mare port din America Latină", "În statul São Paulo", "Nod major pentru exporturi", "Important pentru cafea și soia"]
+    },
+    {
+      "id": "paranagua-port-economic-v2",
+      "description": "Portul Paranaguá este unul dintre cele mai importante porturi agricole ale Braziliei. Are un rol central în exportul de cereale și alte mărfuri din sudul țării.",
+      "facts": ["În statul Paraná", "Exportă soia și porumb", "Port-cheie pentru agricultură", "Legat de coasta Atlanticului"]
+    },
+    {
+      "id": "rio-grande-port-economic-v2",
+      "description": "Portul Rio Grande este principalul port maritim al statului Rio Grande do Sul. Susține comerțul și logistica din sudul Braziliei.",
+      "facts": ["În Rio Grande do Sul", "Port multipurpose", "Susține exporturile regionale", "Legat de sudul Braziliei"]
+    },
+    {
+      "id": "vitoria-port-economic-v2",
+      "description": "Complexul portuar Vitória este un nod important pentru minereu de fier, oțel și celuloză. Susține logistica industrială a statului Espírito Santo.",
+      "facts": ["În Espírito Santo", "Manipulează minereu de fier", "Important pentru oțel și celuloză", "Complex portuar strategic"]
+    },
+    {
+      "id": "itaqui-port-economic-v2",
+      "description": "Portul Itaqui, aproape de São Luís, este un port de ape adânci important pentru minereuri și cereale. Servește ca ieșire strategică pentru nordul și centrul Braziliei.",
+      "facts": ["În Maranhão", "Port de ape adânci", "Exportă minerale și soia", "Conectat la rețele feroviare"]
+    },
+    {
+      "id": "suape-port-economic-v2",
+      "description": "Portul Suape este unul dintre cele mai importante complexe portuare și industriale din nord-estul Braziliei. Leagă zona Recife de comerțul maritim și activitățile industriale.",
+      "facts": ["În Pernambuco", "Lângă Recife", "Port și zonă industrială", "Important pentru petrochimie"]
+    },
+    {
+      "id": "pecem-port-economic-v2",
+      "description": "Portul Pecém este un port modern din Ceará, cu rol puternic în exporturi și industrie grea. A devenit un punct important pentru economia de pe coasta de nord-est.",
+      "facts": ["În Ceará", "Lângă Fortaleza", "Port modern", "Susține industria și exporturile"]
+    },
+    {
+      "id": "rio-de-janeiro-port-economic-v2",
+      "description": "Portul Rio de Janeiro a fost mult timp unul dintre principalele puncte maritime ale țării. Și astăzi rămâne important pentru transportul de mărfuri și pentru oraș.",
+      "facts": ["În Golful Guanabara", "Port urban", "Rol istoric major", "Legat de Rio de Janeiro"]
+    },
+    {
+      "id": "itajai-port-economic-v2",
+      "description": "Portul Itajaí este unul dintre cele mai importante porturi din sudul Braziliei pentru containere. Sprijină economia statului Santa Catarina și exporturile regionale.",
+      "facts": ["În Santa Catarina", "Port important pentru containere", "Legat de exporturi industriale", "Pe coasta atlantică"]
+    },
+    {
+      "id": "sao-francisco-do-sul-port-economic-v2",
+      "description": "Portul São Francisco do Sul este un port vechi și strategic din Santa Catarina. Joacă un rol important în exporturile și logistica din sudul Braziliei.",
+      "facts": ["În Santa Catarina", "Unul dintre cele mai vechi porturi", "Important pentru exporturi", "Port atlantic strategic"]
+    },
+    {
+      "id": "cananeia-history-v2",
+      "description": "Cananéia este una dintre cele mai vechi așezări coloniale din Brazilia. Orașul păstrează un caracter istoric și este legat de începuturile colonizării portugheze.",
+      "facts": ["În statul São Paulo", "Așezare foarte veche", "Origini din secolul al XVI-lea", "Arhitectură colonială"]
+    }
+  ]
+}

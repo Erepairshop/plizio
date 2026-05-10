@@ -18,8 +18,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Malé közelében fekszik", "Fehér korallhomok", "Védett lagúna", "Kiváló sznorkelezési feltételek"],
       ro: ["Situată aproape de Malé", "Nisip alb de corali", "Lagună protejată", "Condiții bune pentru snorkeling"],
       en: ["Located near Malé", "White coral sand", "Protected lagoon", "Good snorkeling conditions"]
-    }
-  },
+    }, image: "/poi-images/kurumba-beach-relief-v2.webp"},
   {
     id: "veligandu-beach-relief-v2",
     type: "coast",
@@ -37,8 +36,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Híres homokpad", "Sekély, meleg víz", "Dinamikus partszakasz", "A Rasdhoo-atoll része"],
       ro: ["Banc de nisip renumit", "Apă mică și caldă", "Linie de coastă dinamică", "Face parte din atolul Rasdhoo"],
       en: ["Famous sandbank", "Shallow warm water", "Dynamic coastline", "Part of Rasdhoo Atoll"]
-    }
-  },
+    }, image: "/poi-images/veligandu-beach-relief-v2.webp"},
   {
     id: "dhigurah-beach-relief-v2",
     type: "coast",
@@ -56,8 +54,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Három kilométer hosszú", "Cetcápák a közelben", "Finom fehér homok", "Hosszú homokpad a végén"],
       ro: ["Trei kilometri lungime", "Rechini balenă în apropiere", "Nisip alb fin", "Banc lung de nisip la capăt"],
       en: ["Three kilometers long", "Whale shark sightings nearby", "Fine white sand", "Long sandbank at the end"]
-    }
-  },
+    }, image: "/poi-images/dhigurah-beach-relief-v2.webp"},
   {
     id: "fulhadhoo-beach-relief-v2",
     type: "coast",
@@ -75,8 +72,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Elszigetelt elhelyezkedés", "Nagyon széles lagúna", "Kristálytiszta víz", "Alig van hajóforgalom"],
       ro: ["Locație retrasă", "Lagună foarte lată", "Apă cristalină", "Trafic de bărci redus"],
       en: ["Secluded location", "Very wide lagoon", "Crystal clear water", "Minimal boat traffic"]
-    }
-  },
+    }, image: "/poi-images/fulhadhoo-beach-relief-v2.webp"},
   {
     id: "reethi-beach-relief-v2",
     type: "coast",
@@ -94,8 +90,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["UNESCO bioszféra-rezervátum", "Gazdag tengeri élővilág", "Pálmafákkal szegélyezett", "Lassan mélyülő"],
       ro: ["Rezervație a biosferei UNESCO", "Faună marină bogată", "Mărginită de palmieri", "Pantă lină spre mare"],
       en: ["UNESCO Biosphere Reserve", "Rich marine fauna", "Palm-lined", "Gently sloping"]
-    }
-  },
+    }, image: "/poi-images/reethi-beach-relief-v2.webp"},
   {
     id: "hulhumale-beach-relief-v2",
     type: "coast",
@@ -113,8 +108,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Mesterségesen kialakított", "Keleti part", "Városi környezet", "Hullámtörők védik"],
       ro: ["Creată artificial", "Coasta de est", "Mediu urban", "Protejată de diguri"],
       en: ["Artificially created", "Eastern coast", "Urban environment", "Protected by breakwaters"]
-    }
-  },
+    }, image: "/poi-images/hulhumale-beach-relief-v2.webp"},
   {
     id: "cocoa-island-beach-relief-v2",
     type: "coast",
@@ -151,8 +145,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Buja növényzet", "Közvetlen zátony-hozzáférés", "Nagyon tiszta víz", "Finomszemcsés homok"],
       ro: ["Vegetație luxuriantă", "Acces direct la recif", "Apă foarte limpede", "Nisip fin"],
       en: ["Lush vegetation", "Direct reef access", "Very clear water", "Fine-grained sand"]
-    }
-  },
+    }, image: "/poi-images/lily-beach-relief-v2.webp"},
   {
     id: "vabbinfaru-beach-relief-v2",
     type: "coast",
@@ -189,8 +182,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Érintetlen szakaszok", "Sűrű dzsungelnövényzet", "Ökológiailag védett", "Teknősök fészkelőhelyei"],
       ro: ["Secțiuni naturale intacte", "Vegetație deasă de junglă", "Protejată ecologic", "Locuri de cuibărit pentru țestoase"],
       en: ["Natural sections", "Dense jungle vegetation", "Ecologically protected", "Turtle nesting sites"]
-    }
-  },
+    }, image: "/poi-images/soneva-fushi-beach-relief-v2.webp"},
   {
     id: "nika-island-beach-relief-v2",
     type: "coast",
@@ -208,8 +200,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Kis privát öblök", "Hullámtörők", "Nyugodt víz", "Finom korallhomok"],
       ro: ["Golfuri mici private", "Diguri de protecție", "Ape calme", "Nisip de corali fin"],
       en: ["Small private bays", "Breakwaters", "Calm waters", "Fine coral sand"]
-    }
-  },
+    }, image: "/poi-images/nika-island-beach-relief-v2.webp"},
   {
     id: "meeru-island-beach-relief-v2",
     type: "coast",
@@ -227,8 +218,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Nagyon hosszú homokos part", "Keleti tájolás", "Széles lagúna", "Finomhomokos"],
       ro: ["Plajă de nisip foarte lungă", "Orientare estică", "Lagună lată", "Nisip fin"],
       en: ["Very long sandy beach", "Eastern orientation", "Wide lagoon", "Fine sand"]
-    }
-  },
+    }, image: "/poi-images/meeru-island-beach-relief-v2.webp"},
   {
     id: "thoddoo-beach-relief-v2",
     type: "coast",
@@ -246,8 +236,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Szigetelt sziget", "Mezőgazdasági környezet", "Mélykék víz", "Érintetlen homok"],
       ro: ["Insulă izolată", "Mediu agricol", "Apă albastru-închis", "Nisip natural"],
       en: ["Isolated island", "Agricultural environment", "Deep blue water", "Natural sand"]
-    }
-  },
+    }, image: "/poi-images/thoddoo-beach-relief-v2.webp"},
   {
     id: "ukulhas-beach-relief-v2",
     type: "coast",
@@ -265,8 +254,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Környezetbarát part", "Élettel teli szegélyzátony", "Hosszú homoksáv", "Nagyon tiszta víz"],
       ro: ["Plajă ecologică", "Recif marginal viu", "Fâșie lungă de nisip", "Apă foarte curată"],
       en: ["Eco-friendly beach", "Vibrant fringing reef", "Long strip of sand", "Very clean water"]
-    }
-  },
+    }, image: "/poi-images/ukulhas-beach-relief-v2.webp"},
   {
     id: "omadhoo-beach-relief-v2",
     type: "coast",
@@ -322,8 +310,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Sűrű pálmaállomány", "Dél-Malé-atoll", "Fehér homok", "Korallok a part közelében"],
       ro: ["Densitate mare de palmieri", "Atolul Malé Sud", "Nisip alb", "Corali în apropierea țărmului"],
       en: ["Dense palm cover", "South Malé Atoll", "White sand", "Corals near the shore"]
-    }
-  },
+    }, image: "/poi-images/fihalhohi-beach-relief-v2.webp"},
   {
     id: "sun-island-beach-relief-v2",
     type: "coast",
@@ -341,8 +328,7 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       hu: ["Nagyon széles strand", "Kiterjedt lagúna", "Védelem a hullámoktól", "Világos homok"],
       ro: ["Plajă foarte lată", "Lagună extinsă", "Protecție împotriva valurilor", "Nisip deschis la culoare"],
       en: ["Very broad beach", "Extensive lagoon", "Protection from waves", "Light-colored sand"]
-    }
-  },
+    }, image: "/poi-images/sun-island-beach-relief-v2.webp"},
   {
     id: "ihuru-beach-relief-v2",
     type: "coast",

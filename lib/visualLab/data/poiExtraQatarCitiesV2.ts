@@ -43,8 +43,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Souq Waqif is the historical commercial center.",
         "Headquarters of the Al Jazeera news network."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-doha-cities-v2.webp"},
   {
     id: "qa-al-rayyan-cities-v2",
     type: "city",
@@ -87,8 +86,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "The Ahmad bin Ali Stadium was a venue for the 2022 World Cup.",
         "Geographically, it encompasses much of Doha's western suburbs."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-rayyan-cities-v2.webp"},
   {
     id: "qa-al-wakrah-cities-v2",
     type: "city",
@@ -131,8 +129,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Features a picturesque public beach and promenade.",
         "Pearl fishing was once the primary source of income here."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-wakrah-cities-v2.webp"},
   {
     id: "qa-al-khor-cities-v2",
     type: "city",
@@ -175,8 +172,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "A major hub for the Qatari fishing industry.",
         "Al Khor Park is one of the country's oldest nature reserves."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-khor-cities-v2.webp"},
   {
     id: "qa-lusail-cities-v2",
     type: "city",
@@ -219,8 +215,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "The striking Katara Towers are an architectural landmark.",
         "The city utilizes an innovative centralized cooling system."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-lusail-cities-v2.webp"},
   {
     id: "qa-mesaieed-cities-v2",
     type: "city",
@@ -263,8 +258,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Built primarily for workers in the 20th century.",
         "A major center for petrochemical refineries."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-mesaieed-cities-v2.webp"},
   {
     id: "qa-dukhan-cities-v2",
     type: "city",
@@ -307,8 +301,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Dukhan Beach is a popular spot for water sports.",
         "Connected to Doha by a well-developed highway."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-dukhan-cities-v2.webp"},
   {
     id: "qa-madinat-ash-shamal-cities-v2",
     type: "city",
@@ -351,8 +344,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Surrounded by significant archaeological sites.",
         "The name literally translates to 'City of the North'."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-madinat-ash-shamal-cities-v2.webp"},
   {
     id: "qa-umm-salal-mohammed-cities-v2",
     type: "city",
@@ -395,8 +387,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Conveniently located on the main highway to the north.",
         "A rapidly growing suburb of Doha."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-umm-salal-mohammed-cities-v2.webp"},
   {
     id: "qa-umm-salal-ali-cities-v2",
     type: "city",
@@ -439,8 +430,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Many local families own large estates here.",
         "The surrounding area is characterized by desert plants."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-umm-salal-ali-cities-v2.webp"},
   {
     id: "qa-al-shahaniya-cities-v2",
     type: "city",
@@ -483,8 +473,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "The Al Dosari Zoo and Game Reserve is situated in this region.",
         "Host to major camel sports tournaments during winter."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-shahaniya-cities-v2.webp"},
   {
     id: "qa-ras-laffan-cities-v2",
     type: "city",
@@ -527,8 +516,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "The area is strictly restricted for security reasons.",
         "The city is operated by QatarEnergy."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-ras-laffan-cities-v2.webp"},
   {
     id: "qa-al-ruwais-cities-v2",
     type: "city",
@@ -571,8 +559,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "One of the oldest continuously inhabited places in the country.",
         "A popular destination for weekend getaways."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-ruwais-cities-v2.webp"},
   {
     id: "qa-al-thakhira-cities-v2",
     type: "city",
@@ -615,8 +602,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Features a traditional small fishing harbor.",
         "Closely linked to the history of Qatari seafaring."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-thakhira-cities-v2.webp"},
   {
     id: "qa-al-wukair-cities-v2",
     type: "city",
@@ -703,8 +689,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Features a traditional harbor with small boats.",
         "The Simaisma Mosque is among the oldest in the region."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-simaisma-cities-v2.webp"},
   {
     id: "qa-abu-dhalouf-cities-v2",
     type: "city",
@@ -747,8 +732,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Offers a clear view of the deep blue Arabian Gulf.",
         "The coastal water here is extremely shallow."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-abu-dhalouf-cities-v2.webp"},
   {
     id: "qa-umm-bab-cities-v2",
     type: "city",
@@ -791,8 +775,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "A popular spot for rustic desert camping.",
         "Offers unforgettable sunsets over the sea."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-umm-bab-cities-v2.webp"},
   {
     id: "qa-al-ghuwariyah-cities-v2",
     type: "city",
@@ -879,8 +862,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Has a small but very tight-knit community.",
         "Dry valleys (wadis) characterize the landscape in spring."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-jumaliyah-cities-v2.webp"},
   {
     id: "qa-abu-samra-cities-v2",
     type: "city",
@@ -923,8 +905,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Surrounded by vast, untouched sand dunes.",
         "Houses customs and immigration facilities."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-abu-samra-cities-v2.webp"},
   {
     id: "qa-al-kharrara-cities-v2",
     type: "city",
@@ -967,8 +948,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Sparse vegetation provides food for wild desert animals.",
         "Far removed from any mass tourism."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-kharrara-cities-v2.webp"},
   {
     id: "qa-rawdat-rashed-cities-v2",
     type: "city",
@@ -1011,8 +991,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Formerly a well-known rest stop for desert travelers.",
         "Possesses a deep, ancient cistern."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-rawdat-rashed-cities-v2.webp"},
   {
     id: "qa-al-zubarah-cities-v2",
     type: "city",
@@ -1055,8 +1034,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Was largely abandoned following an attack in 1811.",
         "Provides deep insights into urban life before the oil era."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-zubarah-cities-v2.webp"},
   {
     id: "qa-muaither-cities-v2",
     type: "city",
@@ -1099,8 +1077,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "A melting pot of expats and locals.",
         "Known for affordable street food from around the world."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-muaither-cities-v2.webp"},
   {
     id: "qa-al-sailiya-cities-v2",
     type: "city",
@@ -1143,8 +1120,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Houses one of the largest logistics parks in the country.",
         "An important hub for Doha's food supply."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-sailiya-cities-v2.webp"},
   {
     id: "qa-al-kheesa-cities-v2",
     type: "city",
@@ -1187,8 +1163,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Designed on a garden city concept.",
         "Numerous small parks brighten the streetscape."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-kheesa-cities-v2.webp"},
   {
     id: "qa-leabaib-cities-v2",
     type: "city",
@@ -1231,8 +1206,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Has a high density of new, modern villas.",
         "The community was massively expanded in the 2010s."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-leabaib-cities-v2.webp"},
   {
     id: "qa-al-mashaf-cities-v2",
     type: "city",
@@ -1275,8 +1249,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
         "Has a direct metro connection to Doha.",
         "The road network was recently completely renewed."
       ]
-    }
-  },
+    }, image: "/poi-images/qa-al-mashaf-cities-v2.webp"},
   {
     id: "qa-al-kiranah-cities-v2",
     type: "city",

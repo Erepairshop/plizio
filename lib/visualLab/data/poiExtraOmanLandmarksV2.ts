@@ -35,8 +35,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "It was opened in 2001 after six years of construction.",
         "The Persian rug inside weighs 21 tons."
       ]
-    }
-  },
+    }, image: "/poi-images/sultan-qaboos-grand-mosque-landmarks-v2.webp"},
   {
     id: "royal-opera-house-muscat-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The opera house was officially opened in 2011.",
         "It features a concert hall with adjustable acoustics."
       ]
-    }
-  },
+    }, image: "/poi-images/royal-opera-house-muscat-landmarks-v2.webp"},
   {
     id: "bimmah-sinkhole-landmarks-v2",
     type: "landmark",
@@ -107,8 +105,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "It is approximately 20 meters deep and 40 meters wide.",
         "A staircase leads down to the water, where visitors can swim."
       ]
-    }
-  },
+    }, image: "/poi-images/bimmah-sinkhole-landmarks-v2.webp"},
   {
     id: "wadi-shab-landmarks-v2",
     type: "landmark",
@@ -143,8 +140,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The famous cave at the end can only be reached by swimming.",
         "The wadi is fed by underground freshwater springs."
       ]
-    }
-  },
+    }, image: "/poi-images/wadi-shab-landmarks-v2.webp"},
   {
     id: "wadi-bani-khalid-landmarks-v2",
     type: "landmark",
@@ -179,8 +175,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "It is one of the most easily accessible wadis in Oman.",
         "The pools are home to small fish that gently nibble at the skin."
       ]
-    }
-  },
+    }, image: "/poi-images/wadi-bani-khalid-landmarks-v2.webp"},
   {
     id: "al-alam-palace-landmarks-v2",
     type: "landmark",
@@ -215,8 +210,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The building was constructed in 1972 as a royal residence.",
         "Visitors cannot enter the palace but can photograph the exterior grounds."
       ]
-    }
-  },
+    }, image: "/poi-images/al-alam-palace-landmarks-v2.webp"},
   {
     id: "muttrah-souq-landmarks-v2",
     type: "landmark",
@@ -251,8 +245,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The souq is often referred to locally as the 'Market of Darkness'.",
         "The wooden ceilings over the alleys are intricately decorated."
       ]
-    }
-  },
+    }, image: "/poi-images/muttrah-souq-landmarks-v2.webp"},
   {
     id: "jebel-shams-landmarks-v2",
     type: "landmark",
@@ -287,8 +280,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The summit reaches an elevation of over 3,000 meters.",
         "The famous Balcony Walk is a popular hiking trail along the edge of the canyon."
       ]
-    }
-  },
+    }, image: "/poi-images/jebel-shams-landmarks-v2.webp"},
   {
     id: "jebel-akhdar-landmarks-v2",
     type: "landmark",
@@ -323,8 +315,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The area is accessible only by 4x4 vehicles.",
         "The rose blooming season occurs between March and April every year."
       ]
-    }
-  },
+    }, image: "/poi-images/jebel-akhdar-landmarks-v2.webp"},
   {
     id: "wahiba-sands-landmarks-v2",
     type: "landmark",
@@ -359,8 +350,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The dunes stretch for 180 kilometers from north to south.",
         "Visitors can stay in desert camps and enjoy camel rides and stargazing."
       ]
-    }
-  },
+    }, image: "/poi-images/wahiba-sands-landmarks-v2.webp"},
   {
     id: "daymaniyat-islands-landmarks-v2",
     type: "landmark",
@@ -395,8 +385,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The nature reserve consists of nine small, uninhabited islands.",
         "Access is strictly regulated to protect bird nesting sites."
       ]
-    }
-  },
+    }, image: "/poi-images/daymaniyat-islands-landmarks-v2.webp"},
   {
     id: "majlis-al-jinn-landmarks-v2",
     type: "landmark",
@@ -431,8 +420,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The name translates to 'Meeting Place of the Spirits'.",
         "The floor area of the cave is large enough to fit several passenger planes."
       ]
-    }
-  },
+    }, image: "/poi-images/majlis-al-jinn-landmarks-v2.webp"},
   {
     id: "national-museum-oman-landmarks-v2",
     type: "landmark",
@@ -503,8 +491,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The collection was originally gathered by the Al Zubair family.",
         "The outdoor area features a replica of a falaj, a traditional irrigation system."
       ]
-    }
-  },
+    }, image: "/poi-images/bait-al-zubair-landmarks-v2.webp"},
   {
     id: "wadi-ghul-landmarks-v2",
     type: "landmark",
@@ -539,8 +526,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The old village of Ghul sits at the entrance of the gorge and is now uninhabited.",
         "Carpet weavers from the area are known for their traditional weaving techniques."
       ]
-    }
-  },
+    }, image: "/poi-images/wadi-ghul-landmarks-v2.webp"},
   {
     id: "al-hoota-cave-landmarks-v2",
     type: "landmark",
@@ -575,8 +561,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The underground lake is home to a rare species of blind fish.",
         "It is the only show cave on the Arabian Peninsula offering guided tours."
       ]
-    }
-  },
+    }, image: "/poi-images/al-hoota-cave-landmarks-v2.webp"},
   {
     id: "frankincense-land-museum-landmarks-v2",
     type: "landmark",
@@ -647,8 +632,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "The waterfall in the wadi can reach over 100 meters high after heavy monsoon rains.",
         "Visitors can enjoy boat rides on the wadi's calm lake."
       ]
-    }
-  },
+    }, image: "/poi-images/wadi-darbat-landmarks-v2.webp"},
   {
     id: "ras-al-jinz-turtle-reserve-landmarks-v2",
     type: "landmark",
@@ -683,8 +667,7 @@ export const poiExtraOmanLandmarksV2: POI[] = [
         "Turtle watching tours take place at night or in the early hours of dawn.",
         "It is the largest nesting site for green sea turtles along the Indian Ocean."
       ]
-    }
-  },
+    }, image: "/poi-images/ras-al-jinz-turtle-reserve-landmarks-v2.webp"},
   {
     id: "al-mughsail-beach-landmarks-v2",
     type: "landmark",

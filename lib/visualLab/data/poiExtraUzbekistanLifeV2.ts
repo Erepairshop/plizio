@@ -18,8 +18,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["1924-ben alapították.", "Több mint 3000 állat él itt.", "Híres a nagy akváriumáról.", "Népszerű családi kirándulóhely."],
       ro: ["A fost fondată în 1924.", "Găzduiește peste 3.000 de animale.", "Renumită pentru acvariul său mare.", "O destinație populară pentru familii."],
       en: ["Founded in 1924.", "Houses over 3,000 animals.", "Known for its large aquarium.", "A popular destination for families."]
-    }
-  },
+    }, image: "/poi-images/uz-tashkent-zoo-life-v2.webp"},
   {
     id: "uz-tashkent-botanical-garden-life-v2",
     type: "park",
@@ -37,8 +36,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["65 hektáron terül el.", "1943-ban alapították.", "Ritka fafajoknak ad otthont.", "Kutatási és pihenési célokat szolgál."],
       ro: ["Se întinde pe 65 de hectare.", "A fost fondată în 1943.", "Găzduiește specii rare de arbori.", "Servește cercetării și recreerii."],
       en: ["Covers 65 hectares.", "Founded in 1943.", "Houses rare tree species.", "Serves research and recreation."]
-    }
-  },
+    }, image: "/poi-images/uz-tashkent-botanical-garden-life-v2.webp"},
   {
     id: "uz-alisher-navoi-park-life-v2",
     type: "park",
@@ -75,8 +73,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["Az első ilyen jellegű park Üzbegisztánban.", "Futó- és kerékpárutakat kínál.", "Az építészet természetes anyagokat használ.", "2017-ben nyitotta meg kapuit."],
       ro: ["Primul parc de acest fel din Uzbekistan.", "Oferă piste de alergare și ciclism.", "Arhitectura folosește materiale naturale.", "Deschis în anul 2017."],
       en: ["The first park of its kind in Uzbekistan.", "Offers running and cycling tracks.", "The architecture uses natural materials.", "Opened in 2017."]
-    }
-  },
+    }, image: "/poi-images/uz-eco-park-tashkent-life-v2.webp"},
   {
     id: "uz-fergana-cotton-fields-life-v2",
     type: "agriculture",
@@ -132,8 +129,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["Az Aydar-Arnaszáj tórendszer része.", "Flamingókat és pelikánokat vonz.", "A Ramsari egyezmény védi.", "Madármegfigyelők körében népszerű."],
       ro: ["Parte a sistemului de lacuri Aydar-Arnasay.", "Atrage flamingo și pelicani.", "Protejat de Convenția de la Ramsar.", "Popular printre observatorii de păsări."],
       en: ["Part of the Aydar-Arnasay lake system.", "Attracts flamingos and pelicans.", "Protected by the Ramsar Convention.", "Popular among birdwatchers."]
-    }
-  },
+    }, image: "/poi-images/uz-arnasay-bird-sanctuary-life-v2.webp"},
   {
     id: "uz-samarkand-mulberry-plantations-life-v2",
     type: "agriculture",
@@ -151,8 +147,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["A selyemhernyók kizárólag ezeket a leveleket eszik.", "A selyemhagyomány évezredekre nyúlik vissza.", "A betakarítás kézi munka.", "Fontos a híres szamarkandi papírhoz is."],
       ro: ["Viermii de mătase mănâncă exclusiv aceste frunze.", "Tradiția mătăsii datează de milenii.", "Recolta se face manual.", "Important pentru faimoasa hârtie de Samarkand."],
       en: ["Silkworms eat exclusively these leaves.", "The silk tradition goes back millennia.", "Harvesting is done by hand.", "Important for the famous Samarkand paper."]
-    }
-  },
+    }, image: "/poi-images/uz-samarkand-mulberry-plantations-life-v2.webp"},
   {
     id: "uz-tashkentland-life-v2",
     type: "kid-friendly",
@@ -170,8 +165,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["Gyakran üzbég Disneylandnek nevezik.", "Közvetlenül a tévétorony mellett található.", "Nagy óriáskerékkel rendelkezik.", "Hétvégente különösen zsúfolt."],
       ro: ["Adesea numit Disneyland-ul uzbec.", "Situat chiar lângă turnul de televiziune.", "Are o roată panoramică mare.", "Foarte vizitat mai ales în weekenduri."],
       en: ["Often referred to as the Uzbek Disneyland.", "Located right next to the TV tower.", "Features a large Ferris wheel.", "Especially busy on weekends."]
-    }
-  },
+    }, image: "/poi-images/uz-tashkentland-life-v2.webp"},
   {
     id: "uz-magic-city-park-life-v2",
     type: "kid-friendly",
@@ -189,8 +183,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["2021-ben nyitotta meg kapuit.", "Tartalmazza a Tower Bridge másolatát.", "Lenyűgöző lézershow-kat kínál.", "A parkba a belépés ingyenes."],
       ro: ["Deschis în anul 2021.", "Include o replică a Tower Bridge.", "Oferă spectacole cu laser impresionante.", "Intrarea în parc este gratuită."],
       en: ["Opened in 2021.", "Includes a replica of the Tower Bridge.", "Offers impressive laser shows.", "Entrance to the park is free."]
-    }
-  },
+    }, image: "/poi-images/uz-magic-city-park-life-v2.webp"},
   {
     id: "uz-central-park-samarkand-life-v2",
     type: "park",
@@ -208,8 +201,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["Elválasztja a régi és az új várost.", "Évszázados fák szegélyezik.", "Gyakran ad otthont szabadtéri koncerteknek.", "Számos kis kávézót kínál."],
       ro: ["Separă orașul vechi de cel nou.", "Este mărginit de copaci seculari.", "Adesea gazdă a concertelor în aer liber.", "Oferă numeroase cafenele mici."],
       en: ["Separates the old and the new city.", "Is lined with centuries-old trees.", "Often the site of open-air concerts.", "Offers numerous small cafes."]
-    }
-  },
+    }, image: "/poi-images/uz-central-park-samarkand-life-v2.webp"},
   {
     id: "uz-amir-timur-square-life-v2",
     type: "park",
@@ -227,8 +219,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["Az utcák csillag alakban sugároznak szét.", "A szobor egy Marx-emlékművet váltott fel.", "Történelmi épületek veszik körül.", "Népszerű találkozóhely a diákok körében."],
       ro: ["Străzile radiază în formă de stea.", "Statuia a înlocuit un monument al lui Marx.", "Înconjurat de clădiri istorice.", "Loc de întâlnire popular pentru studenți."],
       en: ["The streets radiate in a star shape.", "The statue replaced a Marx monument.", "Surrounded by historic buildings.", "A popular meeting place for students."]
-    }
-  },
+    }, image: "/poi-images/uz-amir-timur-square-life-v2.webp"},
   {
     id: "uz-khorezm-melon-fields-life-v2",
     type: "agriculture",
@@ -246,8 +237,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["A Gurvak dinnye a legismertebb fajta.", "Horezmben évente rendeznek dinnyefesztivált.", "A dinnyéket itt hagyományosan aszalják is.", "A sivatagi klíma növeli az édességet."],
       ro: ["Pepenele Gurvak este soiul cel mai cunoscut.", "Horezm are un festival anual al pepenilor.", "Pepenii sunt adesea uscați aici în mod tradițional.", "Clima deșertică le sporește dulceața."],
       en: ["The Gurvak melon is the best-known variety.", "Khorezm hosts an annual melon festival.", "Melons are traditionally dried here.", "The desert climate increases their sweetness."]
-    }
-  },
+    }, image: "/poi-images/uz-khorezm-melon-fields-life-v2.webp"},
   {
     id: "uz-surkhandarya-pomegranates-life-v2",
     type: "agriculture",
@@ -265,8 +255,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["A Dashnabad fajta különösen híres.", "A gránátalma itt a gazdagság szimbóluma.", "A betakarítás októberben kezdődik.", "Nagy részét a környező országokba exportálják."],
       ro: ["Soiul Dashnabad este deosebit de faimos.", "Rodiile sunt considerate un simbol al bogăției.", "Recoltarea începe în octombrie.", "O mare parte este exportată în țările vecine."],
       en: ["The Dashnabad variety is particularly famous.", "Pomegranates are a symbol of wealth here.", "Harvesting begins in October.", "A large portion is exported to neighboring countries."]
-    }
-  },
+    }, image: "/poi-images/uz-surkhandarya-pomegranates-life-v2.webp"},
   {
     id: "uz-namangan-flower-park-life-v2",
     type: "park",
@@ -284,8 +273,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["A virágfesztivált 1961 óta rendezik meg.", "Több mint 10 millió virágot ültetnek el.", "A látogatók a világ minden tájáról érkeznek.", "A rózsák és a tulipánok a fő látványosságok."],
       ro: ["Festivalul florilor are loc din 1961.", "Sunt plantate peste 10 milioane de flori.", "Vizitatorii vin din întreaga lume.", "Trandafirii și lalelele sunt atracțiile principale."],
       en: ["The flower festival has been held since 1961.", "Over 10 million flowers are planted.", "Visitors come from all over the world.", "Roses and tulips are the main attractions."]
-    }
-  },
+    }, image: "/poi-images/uz-namangan-flower-park-life-v2.webp"},
   {
     id: "uz-ashgabat-park-life-v2",
     type: "park",
@@ -303,8 +291,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["2018-ban nyitotta meg kapuit.", "Egy nagy amfiteátrumot is magában foglal.", "Építészete a fehér márványpalotákra emlékeztet.", "Türkmenisztán fővárosáról kapta a nevét."],
       ro: ["Deschis în anul 2018.", "Include un amfiteatru mare.", "Arhitectura amintește de palatele de marmură albă.", "Numit după capitala Turkmenistanului."],
       en: ["Opened in 2018.", "Includes a large amphitheater.", "The architecture resembles white marble palaces.", "Named after the capital of Turkmenistan."]
-    }
-  },
+    }, image: "/poi-images/uz-ashgabat-park-life-v2.webp"},
   {
     id: "uz-zangiota-vineyards-life-v2",
     type: "agriculture",
@@ -322,8 +309,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["A csemegeszőlő itt különösen kedvelt.", "A tőkék egy része hagyományos pergolákon nő.", "A régió rendkívül sok napsütést kap.", "Az olyan édes fajták, mint a 'Kishmish', dominálnak."],
       ro: ["Strugurii de masă sunt deosebit de populari aici.", "Unele vițe de vie cresc în pergole tradiționale.", "Regiunea primește multă lumină solară.", "Domina soiurile dulci precum 'Kishmish'."],
       en: ["Table grapes are particularly popular here.", "Some of the vines grow in traditional pergolas.", "The region receives plenty of sunshine.", "Sweet varieties like 'Kishmish' dominate."]
-    }
-  },
+    }, image: "/poi-images/uz-zangiota-vineyards-life-v2.webp"},
   {
     id: "uz-japanese-garden-tashkent-life-v2",
     type: "park",
@@ -341,8 +327,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["Esküvői fotózások kedvelt helyszíne.", "Japánnal együttműködve tervezték.", "A pávák szabadon sétálnak a kertben.", "A főváros egyik legnyugodtabb pontja."],
       ro: ["Loc popular pentru fotografii de nuntă.", "Proiectat în colaborare cu Japonia.", "Păunii se plimbă liberi aici.", "Unul dintre cele mai liniștite locuri din capitală."],
       en: ["A popular location for wedding photos.", "Designed in collaboration with Japan.", "Peacocks roam freely here.", "One of the quietest places in the capital."]
-    }
-  },
+    }, image: "/poi-images/uz-japanese-garden-tashkent-life-v2.webp"},
   {
     id: "uz-bukhara-deer-center-life-v2",
     type: "wildlife-area",
@@ -360,8 +345,7 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       hu: ["A buharai szarvas majdnem kihalt.", "A tenyésztés a tugaj-erdőkben zajlik.", "Sikeres visszatelepítéseket dokumentáltak.", "Nemzetközi WWF programok is támogatják."],
       ro: ["Cerbul de Buhara a fost aproape dispărut.", "Reproducerea are loc în pădurile Tugai.", "Au fost documentate reintroduceri de succes.", "Este sprijinit de programe internaționale WWF."],
       en: ["The Bukhara deer was nearly extinct.", "Breeding takes place in the Tugai forests.", "Successful reintroductions have been documented.", "Supported by international WWF programs."]
-    }
-  },
+    }, image: "/poi-images/uz-bukhara-deer-center-life-v2.webp"},
   {
     id: "uz-rishton-apricots-life-v2",
     type: "agriculture",

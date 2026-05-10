@@ -13,8 +13,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["1926-ban alapították.", "Védelem alatt áll a Tien-san barnamedve.", "Több mint 250 madárfaj otthona.", "UNESCO Bioszféra-rezervátum."],
       ro: ["Fondată în 1926.", "Protejează ursul brun din Tian Shan.", "Găzduiește peste 250 de specii de păsări.", "Rezervație a Biosferei UNESCO."],
       en: ["Founded in 1926.", "Protects the Tian Shan brown bear.", "Home to over 250 bird species.", "UNESCO Biosphere Reserve."]
-    }
-  },
+    }, image: "/poi-images/aksu-zhabagly-life-v2.webp"},
   {
     id: "altyn-emel-life-v2",
     type: "wildlife-area",
@@ -27,8 +26,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Híres az Éneklő dűnékről.", "Ritka kulán vadszamarak otthona.", "Ősi szaka sírhalmokat rejt.", "Több mint 4600 négyzetkilométeren terül el."],
       ro: ["Renumit pentru Dunele Cântătoare.", "Căminul măgarilor sălbatici Kulan.", "Include tumuli antici Saka.", "Se întinde pe 4.600 de kilometri pătrați."],
       en: ["Famous for the Singing Dunes.", "Home to rare Kulan wild asses.", "Contains ancient Saka burial mounds.", "Spans over 4,600 square kilometers."]
-    }
-  },
+    }, image: "/poi-images/altyn-emel-life-v2.webp"},
   {
     id: "korgalzhyn-life-v2",
     type: "wildlife-area",
@@ -41,8 +39,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["UNESCO Világörökségi helyszín.", "A flamingók legészakibb élőhelye.", "Védi a szajga antilopot.", "Édes- és sósvizű tavakból áll."],
       ro: ["Patrimoniu Mondial UNESCO.", "Cel mai nordic habitat al flamingilor.", "Protejează antilopa Saiga.", "Cuprinde lacuri cu apă dulce și sărată."],
       en: ["UNESCO World Heritage site.", "Northernmost flamingo habitat.", "Protects the Saiga antelope.", "Comprises freshwater and saltwater lakes."]
-    }
-  },
+    }, image: "/poi-images/korgalzhyn-life-v2.webp"},
   {
     id: "naurzum-life-v2",
     type: "wildlife-area",
@@ -55,8 +52,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["A Szariarka UNESCO-helyszín része.", "Fontos pihenőhely a madarak számára.", "Reliktum fenyőerdőkkel rendelkezik.", "Védi a sztyeppei ökoszisztémákat."],
       ro: ["Parte a sitului UNESCO Saryarka.", "Loc important de popas pentru păsări.", "Dispune de păduri de pini relicte.", "Protejează ecosistemele de stepă."],
       en: ["Part of the Saryarka UNESCO site.", "Important resting place for birds.", "Features relic pine forests.", "Protects steppe ecosystems."]
-    }
-  },
+    }, image: "/poi-images/naurzum-life-v2.webp"},
   {
     id: "burabay-life-v2",
     type: "park",
@@ -69,8 +65,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Kazah Svájcként is ismert.", "A Kokshetau-hegy otthona.", "Népszerű turisztikai célpont.", "Gazdag fenyő- és nyírfaerdőkben."],
       ro: ["Cunoscută ca Elveția kazahă.", "Găzduiește Muntele Kokshetau.", "Destinație turistică populară.", "Bogată în păduri de pin și mesteacăn."],
       en: ["Known as the Kazakh Switzerland.", "Home to Mount Kokshetau.", "Popular tourist destination.", "Rich in pine and birch forests."]
-    }
-  },
+    }, image: "/poi-images/burabay-life-v2.webp"},
   {
     id: "bayanaul-life-v2",
     type: "park",
@@ -83,8 +78,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Kazahsztán első nemzeti parkja.", "1985-ben hozták létre.", "Híres a Jasybay-tóról.", "Magában foglalja a szent Konyr-Aulie barlangot."],
       ro: ["Primul parc național din Kazahstan.", "Înființat în 1985.", "Faimos pentru lacul Jasybay.", "Include peștera sfântă Konyr-Aulie."],
       en: ["Kazakhstan's first national park.", "Established in 1985.", "Famous for Lake Jasybay.", "Contains the holy Konyr-Aulie cave."]
-    }
-  },
+    }, image: "/poi-images/bayanaul-life-v2.webp"},
   {
     id: "ile-alatau-life-v2",
     type: "park",
@@ -97,8 +91,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Közvetlenül Almati városa mellett.", "A Sievers-alma otthona.", "Magában foglalja a Nagy Almati-tavat.", "Több mint 4000 méteres csúcsokkal."],
       ro: ["Se învecinează direct cu Almatî.", "Casa mărului Sievers.", "Include Marele Lac Almatî.", "Are vârfuri de peste 4000 de metri."],
       en: ["Directly borders the city of Almaty.", "Home to the Sievers apple.", "Contains the Big Almaty Lake.", "Features peaks over 4000 meters."]
-    }
-  },
+    }, image: "/poi-images/ile-alatau-life-v2.webp"},
   {
     id: "karkaraly-life-v2",
     type: "park",
@@ -111,8 +104,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Zöld oázis a középső sztyeppén.", "Híres a Shaitankol-tóról.", "Argali vadszuhok élőhelye.", "Gazdag fenyőerdők."],
       ro: ["Oază verde în stepa centrală.", "Cunoscut pentru lacul Shaitankol.", "Habitat pentru oile sălbatice argali.", "Păduri bogate de pini."],
       en: ["Green oasis in the central steppe.", "Famous for Lake Shaitankol.", "Habitat for argali wild sheep.", "Rich pine forests."]
-    }
-  },
+    }, image: "/poi-images/karkaraly-life-v2.webp"},
   {
     id: "katon-karagay-life-v2",
     type: "wildlife-area",
@@ -125,8 +117,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Kazahsztán legnagyobb nemzeti parkja.", "Oroszországgal és Kínával határos.", "Hópárducok otthona.", "Gazdag szibériai tajga ökoszisztéma."],
       ro: ["Cel mai mare parc național din Kazahstan.", "Se învecinează cu Rusia și China.", "Găzduiește leoparzi de zăpadă.", "Ecosistem bogat de taiga siberiană."],
       en: ["Largest national park in Kazakhstan.", "Borders Russia and China.", "Home to snow leopards.", "Rich Siberian taiga ecosystem."]
-    }
-  },
+    }, image: "/poi-images/katon-karagay-life-v2.webp"},
   {
     id: "sayram-ugam-life-v2",
     type: "park",
@@ -139,8 +130,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["A nyugati Tien-sanban található.", "Nagy botanikai sokféleség.", "Fontos élőhely a vadvilág számára.", "Hagyományos jurtákat kínál a látogatóknak."],
       ro: ["Situat în vestul Tian Shan.", "Biodiversitate botanică ridicată.", "Habitat important pentru fauna sălbatică.", "Oferă iurte tradiționale vizitatorilor."],
       en: ["Located in the western Tian Shan.", "High botanical biodiversity.", "Important habitat for wild fauna.", "Offers traditional yurts for visitors."]
-    }
-  },
+    }, image: "/poi-images/sayram-ugam-life-v2.webp"},
   {
     id: "zhongar-alatau-life-v2",
     type: "park",
@@ -153,8 +143,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Védi a Sievers-vadalmát.", "2010-ben alapították.", "Egyedülálló alpesi flórát őriz.", "Fontos a genetikai kutatások számára."],
       ro: ["Protejează mărul sălbatic Sievers.", "Fondat în 2010.", "Păstrează flora alpină unică.", "Important pentru cercetarea genetică."],
       en: ["Protects the Sievers wild apple.", "Established in 2010.", "Preserves unique alpine flora.", "Crucial for genetic research."]
-    }
-  },
+    }, image: "/poi-images/zhongar-alatau-life-v2.webp"},
   {
     id: "tarbagatai-life-v2",
     type: "park",
@@ -167,8 +156,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["2018-ban alapították.", "Vadon termő gyümölcsfákat véd.", "Fontos a regionális biodiverzitás szempontjából.", "Támogatja az ökoturizmus fejlődését."],
       ro: ["Înființat în 2018.", "Protejează pomii fructiferi sălbatici.", "Important pentru biodiversitatea regională.", "Promovează dezvoltarea ecoturismului."],
       en: ["Established in 2018.", "Safeguards wild fruit trees.", "Vital for regional biodiversity.", "Supports eco-tourism development."]
-    }
-  },
+    }, image: "/poi-images/tarbagatai-life-v2.webp"},
   {
     id: "ili-delta-life-v2",
     type: "wildlife-area",
@@ -181,8 +169,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Vizes élőhelyeket képez a Balhas-tónál.", "Fontos a fészkelő pelikánok számára.", "Tigrisek visszatelepítési helyszíne.", "Több ezer négyzetkilométert fed le."],
       ro: ["Formează zone umede pe Lacul Balhaș.", "Crucial pentru pelicanii cuibăritori.", "Loc de reintroducere a tigrilor.", "Acoperă mii de kilometri pătrați."],
       en: ["Forms wetlands on Lake Balkhash.", "Crucial for nesting pelicans.", "Site for tiger reintroduction.", "Covers thousands of square kilometers."]
-    }
-  },
+    }, image: "/poi-images/ili-delta-life-v2.webp"},
   {
     id: "markakol-life-v2",
     type: "wildlife-area",
@@ -195,8 +182,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["A Markakol-tó köré épül.", "Az endemikus uszkucs hal otthona.", "Sűrű tajga veszi körül.", "1976 óta védett terület."],
       ro: ["Centrată în jurul lacului Markakol.", "Găzduiește peștele endemic Uskuch.", "Înconjurată de taiga deasă.", "Protejată din 1976."],
       en: ["Centered around Lake Markakol.", "Home to the endemic Uskuch fish.", "Surrounded by dense taiga.", "Protected since 1976."]
-    }
-  },
+    }, image: "/poi-images/markakol-life-v2.webp"},
   {
     id: "karatau-life-v2",
     type: "wildlife-area",
@@ -209,8 +195,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["2004-ben alapították.", "Endemikus flórájáról ismert.", "Védi a Karatau argalit.", "Dél-Kazahsztánban található."],
       ro: ["Înființată în 2004.", "Cunoscută pentru flora endemică.", "Protejează argali Karatau.", "Situată în sudul Kazahstanului."],
       en: ["Established in 2004.", "Known for endemic flora.", "Protects the Karatau argali.", "Located in southern Kazakhstan."]
-    }
-  },
+    }, image: "/poi-images/karatau-life-v2.webp"},
   {
     id: "almaty-zoo-life-v2",
     type: "kid-friendly",
@@ -223,8 +208,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["1937-ben alapították.", "Az egyik legrégebbi Kazahsztánban.", "Hópárduc kifutókkal rendelkezik.", "A fajvédelemre és oktatásra fókuszál."],
       ro: ["Înființată în 1937.", "Una dintre cele mai vechi din Kazahstan.", "Prezintă leoparzi de zăpadă.", "Se concentrează pe conservare și educație."],
       en: ["Founded in 1937.", "One of the oldest in Kazakhstan.", "Features snow leopards.", "Focuses on conservation and education."]
-    }
-  },
+    }, image: "/poi-images/almaty-zoo-life-v2.webp"},
   {
     id: "ailand-astana-life-v2",
     type: "kid-friendly",
@@ -237,8 +221,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Több mint 3000 kilométerre az óceántól.", "Guinness-rekord az elszigeteltségért.", "Hatalmas vízi parkot foglal magában.", "Egy nagy óriáskerékkel is rendelkezik."],
       ro: ["La peste 3000 de kilometri de ocean.", "Deține recordul Guinness pentru izolare.", "Include un parc acvatic masiv.", "Dispune de o roată panoramică uriașă."],
       en: ["More than 3000 kilometers from the ocean.", "Holds a Guinness record for isolation.", "Features a massive water park.", "Includes a large Ferris wheel."]
-    }
-  },
+    }, image: "/poi-images/ailand-astana-life-v2.webp"},
   {
     id: "kostanay-wheat-life-v2",
     type: "agriculture",
@@ -251,8 +234,7 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       hu: ["Jelentős gabonatermelő régió.", "A Szűzföld-kampány eredménye.", "Hatalmas modern kombájnokat használnak.", "Létfontosságú az élelmezésbiztonság szempontjából."],
       ro: ["Regiune majoră producătoare de cereale.", "Rezultatul campaniei Pământurilor Virgine.", "Utilizează combine moderne masive.", "Crucial pentru securitatea alimentară."],
       en: ["Major grain-producing region.", "Result of the Virgin Lands campaign.", "Utilizes massive modern combines.", "Crucial for national food security."]
-    }
-  },
+    }, image: "/poi-images/kostanay-wheat-life-v2.webp"},
   {
     id: "turkistan-cotton-life-v2",
     type: "agriculture",

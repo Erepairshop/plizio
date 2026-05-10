@@ -27,8 +27,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Több mint 1700 méteres magasságban fekszik.", "Gyakran Tajvan \"kis Svájcának\" is nevezik."],
       ro: ["Situată la o altitudine de peste 1.700 de metri.", "Adesea numită \"Mica Elveție\" a Taiwanului."],
       en: ["Located at an altitude of over 1,700 meters.", "Often referred to as the \"Little Switzerland\" of Taiwan."]
-    }
-  },
+    }, image: "/poi-images/qingjing-farm-life-v2.webp"},
   {
     id: "guandu-nature-park-life-v2",
     type: "wildlife-area",
@@ -41,8 +40,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Területe 57 hektár.", "Népszerű madármegfigyelő hely ősszel és télen."],
       ro: ["Se întinde pe o suprafață de 57 de hectare.", "Loc popular pentru observarea păsărilor toamna și iarna."],
       en: ["Covers an area of 57 hectares.", "Popular spot for bird watching in autumn and winter."]
-    }
-  },
+    }, image: "/poi-images/guandu-nature-park-life-v2.webp"},
   {
     id: "flying-cow-ranch-life-v2",
     type: "agriculture",
@@ -55,8 +53,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Olyan programokat kínál, mint a tehénfejés.", "Kiterjedt réteket és erdőket foglal magában."],
       ro: ["Oferă activități precum mulsul vacilor.", "Include pajiști și păduri întinse."],
       en: ["Offers activities such as cow milking.", "Features extensive meadows and forests."]
-    }
-  },
+    }, image: "/poi-images/flying-cow-ranch-life-v2.webp"},
   {
     id: "xitou-nature-education-area-life-v2",
     type: "park",
@@ -69,8 +66,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["A Tajvani Nemzeti Egyetem kezeli.", "Híres a lenyűgöző lombkorona-sétányáról."],
       ro: ["Este administrată de Universitatea Națională din Taiwan.", "Renumită pentru pasarela spectaculoasă printre coroanele copacilor."],
       en: ["Managed by the National Taiwan University.", "Known for the impressive canopy sky walk."]
-    }
-  },
+    }, image: "/poi-images/xitou-nature-education-area-life-v2.webp"},
   {
     id: "daan-forest-park-life-v2",
     type: "park",
@@ -83,8 +79,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["1994-ben nyitották meg.", "Gyakran Tajpej zöld tüdejének is nevezik."],
       ro: ["Deschis în anul 1994.", "Adesea numit plămânul verde al orașului Taipei."],
       en: ["Opened in 1994.", "Often referred to as the green lung of Taipei."]
-    }
-  },
+    }, image: "/poi-images/daan-forest-park-life-v2.webp"},
   {
     id: "aogu-wetland-life-v2",
     type: "wildlife-area",
@@ -97,8 +92,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Korábban polder terület volt.", "Tajvan egyik legnagyobb vizes élőhelye."],
       ro: ["Fostă zonă de polder.", "Una dintre cele mai mari zone umede din Taiwan."],
       en: ["Formerly a polder area.", "One of the largest wetlands in Taiwan."]
-    }
-  },
+    }, image: "/poi-images/aogu-wetland-life-v2.webp"},
   {
     id: "fushoushan-farm-life-v2",
     type: "agriculture",
@@ -111,8 +105,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["A tengerszint felett 2100 és 2614 méter között fekszik.", "Híres almáiról, őszibarackjairól és oolong teájáról."],
       ro: ["Situată între 2.100 și 2.614 metri deasupra nivelului mării.", "Renumită pentru mere, piersici și ceaiul Oolong."],
       en: ["Located between 2,100 and 2,614 meters above sea level.", "Famous for apples, peaches, and Oolong tea."]
-    }
-  },
+    }, image: "/poi-images/fushoushan-farm-life-v2.webp"},
   {
     id: "wuling-farm-life-v2",
     type: "agriculture",
@@ -125,8 +118,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Eredetileg azért alapították, hogy mezőgazdasági munkát biztosítsanak a veteránoknak.", "Az endemikus formosai lazac fontos élőhelye."],
       ro: ["Fondată inițial pentru a oferi activități agricole veteranilor.", "Habitat important pentru somonul endemic de Formosa."],
       en: ["Originally established to provide agriculture work for veterans.", "Important habitat for the endemic Formosan landlocked salmon."]
-    }
-  },
+    }, image: "/poi-images/wuling-farm-life-v2.webp"},
   {
     id: "lihpao-land-life-v2",
     type: "kid-friendly",
@@ -139,8 +131,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Itt található Tajvan egyetlen megszakított pályás hullámvasútja.", "Egy nagy bevásárlóközpont és egy óriáskerék is a része."],
       ro: ["Are singurul roller coaster cu pistă întreruptă din Taiwan.", "Include, de asemenea, un mare centru comercial și o roată panoramică."],
       en: ["Features Taiwan's only tilt coaster.", "Also includes a large shopping mall and a Ferris wheel."]
-    }
-  },
+    }, image: "/poi-images/lihpao-land-life-v2.webp"},
   {
     id: "farglory-ocean-park-life-v2",
     type: "kid-friendly",
@@ -153,8 +144,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Tajvan első tengeri tematikájú vidámparkja.", "Delfin- és oroszlánfóka-műsorokat kínál."],
       ro: ["Primul parc de distracții cu tematică marină din Taiwan.", "Oferă spectacole cu delfini și lei de mare."],
       en: ["Taiwan's first marine-themed amusement park.", "Offers shows featuring dolphins and sea lions."]
-    }
-  },
+    }, image: "/poi-images/farglory-ocean-park-life-v2.webp"},
   {
     id: "leofoo-village-life-v2",
     type: "kid-friendly",
@@ -167,8 +157,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["A park négy különböző tematikus területre oszlik.", "Nagy, szabadon kószáló állatpopulációval rendelkezik."],
       ro: ["Parcul este împărțit în patru zone tematice diferite.", "Deține o mare populație de animale lăsate în libertate."],
       en: ["The park is divided into four different themed areas.", "Features a large free-roaming animal population."]
-    }
-  },
+    }, image: "/poi-images/leofoo-village-life-v2.webp"},
   {
     id: "chulu-ranch-life-v2",
     type: "agriculture",
@@ -181,8 +170,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["A legnagyobb tejgazdaság Tajvanon.", "Lehetőséget kínál a látogatóknak, hogy tehenekkel és lovakkal interakcióba lépjenek."],
       ro: ["Cea mai mare fermă de lactate din Taiwan.", "Oferă vizitatorilor posibilitatea de a interacționa cu vaci și cai."],
       en: ["The largest dairy farm in Taiwan.", "Offers visitors the chance to interact with cows and horses."]
-    }
-  },
+    }, image: "/poi-images/chulu-ranch-life-v2.webp"},
   {
     id: "ruisui-ranch-life-v2",
     type: "agriculture",
@@ -195,8 +183,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Híres a friss tehéntejből készült nugátjáról.", "Népszerű megálló a keleti partvidéken utazók számára."],
       ro: ["Renumită pentru nuga sa preparată din lapte proaspăt de vacă.", "O oprire populară pentru călătorii de pe coasta de est."],
       en: ["Famous for its nougat made from fresh cow's milk.", "A popular rest stop for travelers on the East Coast."]
-    }
-  },
+    }, image: "/poi-images/ruisui-ranch-life-v2.webp"},
   {
     id: "sihcao-green-tunnel-life-v2",
     type: "wildlife-area",
@@ -209,8 +196,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Gyakran Tajvan \"mini-Amazonasának\" is hívják.", "Számos rákfajnak és ritka madárnak ad otthont."],
       ro: ["Adesea numit \"mini-Amazonul\" Taiwanului.", "Găzduiește mulți crabi și specii rare de păsări."],
       en: ["Often referred to as the \"mini-Amazon\" of Taiwan.", "Home to many crabs and rare bird species."]
-    }
-  },
+    }, image: "/poi-images/sihcao-green-tunnel-life-v2.webp"},
   {
     id: "shoushan-zoo-life-v2",
     type: "kid-friendly",
@@ -223,8 +209,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["1978-ban alapították.", "Közismert a környéken élő számos vad makákóról."],
       ro: ["Fondată în anul 1978.", "Cunoscută pentru numeroșii macaci sălbatici din împrejurimi."],
       en: ["Founded in 1978.", "Well-known for the many wild macaques in the surrounding area."]
-    }
-  },
+    }, image: "/poi-images/shoushan-zoo-life-v2.webp"},
   {
     id: "weiwuying-park-life-v2",
     type: "park",
@@ -237,8 +222,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Dél-Tajvan egyik legnagyobb parkja.", "Vizes élőhelyeket és bőséges zöldfelületeket foglal magában."],
       ro: ["Unul dintre cele mai mari parcuri din sudul Taiwanului.", "Include zone umede și spații verzi abundente."],
       en: ["One of the largest parks in southern Taiwan.", "Includes wetlands and abundant green spaces."]
-    }
-  },
+    }, image: "/poi-images/weiwuying-park-life-v2.webp"},
   {
     id: "eda-theme-park-life-v2",
     type: "kid-friendly",
@@ -251,8 +235,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["A parkot az Égei-tenger stílusában alakították ki.", "Hatalmas óriáskerékkel rendelkezik, amely a városra néz."],
       ro: ["Parcul este proiectat în stilul Mării Egee.", "Oferă o roată panoramică uriașă cu vedere la oraș."],
       en: ["The park is designed in an Aegean Sea style.", "Features a giant Ferris wheel overlooking the city."]
-    }
-  },
+    }, image: "/poi-images/eda-theme-park-life-v2.webp"},
   {
     id: "green-world-farm-life-v2",
     type: "wildlife-area",
@@ -265,8 +248,7 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Területe 70 hektár.", "Különösen híres alpaka karámjáról."],
       ro: ["Se întinde pe o suprafață de 70 de hectare.", "Deosebit de cunoscut pentru țarcul său de alpaca."],
       en: ["Covers an area of 70 hectares.", "Especially well-known for its alpaca enclosure."]
-    }
-  },
+    }, image: "/poi-images/green-world-farm-life-v2.webp"},
   {
     id: "taichung-metropolitan-park-life-v2",
     type: "park",

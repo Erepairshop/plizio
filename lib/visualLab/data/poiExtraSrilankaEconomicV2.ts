@@ -18,8 +18,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["1961-ben alapították.", "Szerkezeti acélt és hengerhuzalt gyárt.", "Fontos beszállító infrastrukturális projektekhez."],
       ro: ["Înființată în 1961.", "Produce oțel beton și sârmă laminată.", "Furnizor important pentru proiecte de infrastructură."],
       en: ["Established in 1961.", "Produces reinforcing bars and wire rods.", "Major supplier for infrastructure projects."]
-    }
-  },
+    }, image: "/poi-images/ceylon-steel-corp-economic-v2.webp"},
   {
     id: "lanka-ioc-trinco-terminal-economic-v2",
     type: "energy",
@@ -37,8 +36,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["99 tárolótartállyal rendelkezik.", "A britek építették a második világháború alatt.", "Stratégiailag fontos energiaközpont."],
       ro: ["Are 99 de rezervoare de stocare.", "Construit de britanici în timpul celui de-al Doilea Război Mondial.", "Hub energetic de importanță strategică."],
       en: ["Features 99 storage tanks.", "Built by the British during World War II.", "Strategically important energy hub."]
-    }
-  },
+    }, image: "/poi-images/lanka-ioc-trinco-terminal-economic-v2.webp"},
   {
     id: "holcim-puttalam-plant-economic-v2",
     type: "industry",
@@ -56,8 +54,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["Korábban Puttalam Cementgyár.", "Az egyik legnagyobb cementgyártó.", "Fontos a sziget építőipara számára."],
       ro: ["Fosta Fabrică de Ciment Puttalam.", "Unul dintre cei mai mari producători de ciment.", "Important pentru industria construcțiilor de pe insulă."],
       en: ["Formerly the Puttalam Cement Factory.", "One of the largest cement producers.", "Vital for the island's construction industry."]
-    }
-  },
+    }, image: "/poi-images/holcim-puttalam-plant-economic-v2.webp"},
   {
     id: "samanalawewa-dam-economic-v2",
     type: "energy",
@@ -75,8 +72,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["120 MW áramot termel.", "A gát 100 méter magas.", "A Sabaragamuwa tartományban található."],
       ro: ["Generează 120 MW de putere.", "Barajul are o înălțime de 100 de metri.", "Situat în provincia Sabaragamuwa."],
       en: ["Generates 120 MW of power.", "The dam is 100 meters high.", "Located in the Sabaragamuwa Province."]
-    }
-  },
+    }, image: "/poi-images/samanalawewa-dam-economic-v2.webp"},
   {
     id: "mannar-wind-farm-economic-v2",
     type: "energy",
@@ -94,8 +90,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["100 MW teljesítményű.", "33 szélturbinával rendelkezik.", "Fontos lépés a zöld energia felé."],
       ro: ["Capacitate de 100 MW.", "Dispune de 33 de turbine eoliene.", "Un pas important către energia verde."],
       en: ["Has a capacity of 100 MW.", "Features 33 wind turbines.", "An important step towards green energy."]
-    }
-  },
+    }, image: "/poi-images/mannar-wind-farm-economic-v2.webp"},
   {
     id: "brandix-essentials-koggala-economic-v2",
     type: "industry",
@@ -113,8 +108,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["Vezető ruházati exportőr.", "A Brandix csoport része.", "Több ezer alkalmazottat foglalkoztat."],
       ro: ["Exportator de top de îmbrăcăminte.", "Parte a grupului Brandix.", "Mii de angajați."],
       en: ["A leading apparel exporter.", "Part of the Brandix group.", "Employs thousands of workers."]
-    }
-  },
+    }, image: "/poi-images/brandix-essentials-koggala-economic-v2.webp"},
   {
     id: "colombo-dockyard-economic-v2",
     type: "industry",
@@ -132,8 +126,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["1974-ben alapították.", "Hajókat épít a hazai és a nemzetközi piacra.", "Több szárazdokkal is rendelkezik."],
       ro: ["Înființat în 1974.", "Construiește nave pentru piețele interne și internaționale.", "Dispune de mai multe docuri uscate."],
       en: ["Established in 1974.", "Builds vessels for domestic and international markets.", "Features multiple dry docks."]
-    }
-  },
+    }, image: "/poi-images/colombo-dockyard-economic-v2.webp"},
   {
     id: "sevanagala-sugar-factory-economic-v2",
     type: "industry",
@@ -151,8 +144,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["Több ezer cukornádtermelőt támogat.", "Privatizálták és modernizálták.", "Bagasszból áramot is termel."],
       ro: ["Sprijină mii de fermieri de trestie de zahăr.", "A fost privatizată și modernizată.", "Produce și electricitate din bagasă."],
       en: ["Supports thousands of sugarcane farmers.", "Was privatized and modernized.", "Also produces electricity from bagasse."]
-    }
-  },
+    }, image: "/poi-images/sevanagala-sugar-factory-economic-v2.webp"},
   {
     id: "point-pedro-port-economic-v2",
     type: "port",
@@ -170,8 +162,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["A sziget legészakibb kikötője.", "Fontos a régió halászata szempontjából.", "Jövőbeli bővítési potenciállal rendelkezik."],
       ro: ["Cel mai nordic port de pe insulă.", "Important pentru pescuitul regional.", "Potențial pentru extindere viitoare."],
       en: ["Northernmost port on the island.", "Important for regional fishing.", "Potential for future expansion."]
-    }
-  },
+    }, image: "/poi-images/point-pedro-port-economic-v2.webp"},
   {
     id: "ceylon-fishery-harbours-corp-economic-v2",
     type: "industry",
@@ -189,8 +180,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["Székhelye Colombóban van.", "Több mint 20 halászkikötőt kezel.", "Támogatja a halászati ipart."],
       ro: ["Sediul central în Colombo.", "Gestionează peste 20 de porturi de pescuit.", "Sprijină industria pescuitului."],
       en: ["Headquartered in Colombo.", "Manages over 20 fishery harbors.", "Supports the fishing industry."]
-    }
-  },
+    }, image: "/poi-images/ceylon-fishery-harbours-corp-economic-v2.webp"},
   {
     id: "laksapana-falls-power-station-economic-v2",
     type: "energy",
@@ -208,8 +198,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["Az 1950-es években épült.", "Több erőművi lépcsőből áll.", "Összkapacitása meghaladja a 100 MW-ot."],
       ro: ["Construită în anii 1950.", "Mai multe etape de centrale electrice.", "Capacitate totală de peste 100 MW."],
       en: ["Built in the 1950s.", "Multiple power station stages.", "Total capacity over 100 MW."]
-    }
-  },
+    }, image: "/poi-images/laksapana-falls-power-station-economic-v2.webp"},
   {
     id: "tokyo-cement-trinco-plant-economic-v2",
     type: "industry",
@@ -227,8 +216,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["A trincomalee-i kikötőt használja importra.", "Vezető a cementinnovációban.", "Nagy hangsúlyt fektet a fenntarthatóságra."],
       ro: ["Utilizează portul Trincomalee pentru importuri.", "Lider în inovația cimentului.", "Accent puternic pe sustenabilitate."],
       en: ["Uses Trincomalee port for imports.", "Leader in cement innovation.", "Strong focus on sustainability."]
-    }
-  },
+    }, image: "/poi-images/tokyo-cement-trinco-plant-economic-v2.webp"},
   {
     id: "mirigama-epz-economic-v2",
     type: "industry",
@@ -246,8 +234,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["Elősegíti a regionális ipari fejlődést.", "Jó összeköttetésben áll Colombóval.", "Munkahelyeket teremt a helyi közösség számára."],
       ro: ["Promovează dezvoltarea industrială regională.", "Bine conectată cu Colombo.", "Creează locuri de muncă pentru comunitatea locală."],
       en: ["Promotes regional industrial development.", "Well-connected to Colombo.", "Creates employment for the local community."]
-    }
-  },
+    }, image: "/poi-images/mirigama-epz-economic-v2.webp"},
   {
     id: "jaffna-central-market-economic-v2",
     type: "trade-hub",
@@ -284,8 +271,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["A tonhalhalászat központja.", "Az arab kereskedők első horgonyzóhelye.", "Fontos gazdasági tényező a régió számára."],
       ro: ["Centru pentru pescuitul de ton.", "Primul loc de ancorare pentru comercianții arabi.", "Factor economic important pentru regiune."],
       en: ["A hub for tuna fishing.", "First anchorage for Arab traders.", "Important economic driver for the region."]
-    }
-  },
+    }, image: "/poi-images/beruwala-fishery-harbour-economic-v2.webp"},
   {
     id: "mas-fabric-park-thulhiriya-economic-v2",
     type: "industry",
@@ -303,8 +289,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["Srí Lanka első magán szövetparkja.", "Több textilgyárnak ad otthont.", "Fókuszban a fenntartható termelés."],
       ro: ["Primul parc privat de textile din Sri Lanka.", "Găzduiește mai multe fabrici de textile.", "Accent pe producția durabilă."],
       en: ["Sri Lanka's first privately-owned fabric park.", "Hosts multiple textile mills.", "Focus on sustainable manufacturing."]
-    }
-  },
+    }, image: "/poi-images/mas-fabric-park-thulhiriya-economic-v2.webp"},
   {
     id: "dambulla-dedicated-economic-centre-economic-v2",
     type: "trade-hub",
@@ -322,8 +307,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["A mezőgazdasági termékek központi csomópontja.", "A nap 24 órájában működik.", "Közvetlenül összeköti a gazdákat a vevőkkel."],
       ro: ["Nod central pentru produse agricole.", "Funcționează 24 de ore pe zi.", "Conectează direct fermierii cu cumpărătorii."],
       en: ["Central hub for agricultural produce.", "Operates 24 hours a day.", "Connects farmers directly to buyers."]
-    }
-  },
+    }, image: "/poi-images/dambulla-dedicated-economic-centre-economic-v2.webp"},
   {
     id: "canyon-dam-power-station-economic-v2",
     type: "energy",
@@ -341,8 +325,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["60 MW kapacitású.", "A Canyon-víztározóból termel áramot.", "Az elektromos hálózat fontos része."],
       ro: ["Capacitate de 60 MW.", "Generează energie din rezervorul Canyon.", "Parte importantă a rețelei electrice."],
       en: ["Has a 60 MW capacity.", "Generates power from the Canyon reservoir.", "Important part of the power grid."]
-    }
-  },
+    }, image: "/poi-images/canyon-dam-power-station-economic-v2.webp"},
   {
     id: "prima-ceylon-trincomalee-economic-v2",
     type: "industry",
@@ -360,8 +343,7 @@ export const poiExtraSrilankaEconomicV2: POI[] = [
       hu: ["1977-ben alapították.", "Búzát dolgoz fel lisztté.", "Számos országba exportál termékeket."],
       ro: ["Înființat în 1977.", "Procesează grâu pentru făină.", "Exportă produse în multe țări."],
       en: ["Established in 1977.", "Processes wheat into flour.", "Exports products to many countries."]
-    }
-  },
+    }, image: "/poi-images/prima-ceylon-trincomalee-economic-v2.webp"},
   {
     id: "lanka-ashok-leyland-economic-v2",
     type: "industry",

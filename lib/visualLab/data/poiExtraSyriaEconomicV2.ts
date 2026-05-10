@@ -13,8 +13,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["1964-ben helyezték üzembe.", "Fontos csomópont a kőolajexport számára.", "Tartúsztól északra található.", "Helyi és importált olajat is feldolgoz."],
       ro: ["A fost pusă în funcțiune în 1964.", "Nod important pentru exporturile de țiței.", "Situată la nord de Tartus.", "Procesează atât petrol local, cât și importat."],
       en: ["Commissioned in 1964.", "Important hub for crude oil exports.", "Located north of Tartus.", "Processes both local and imported oil."]
-    }
-  },
+    }, image: "/poi-images/baniyas-refinery-economic-v2.webp"},
   {
     id: "homs-refinery-economic-v2",
     type: "industry",
@@ -27,8 +26,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["1959-ben épült és többször kibővítették.", "A középső és déli tartományokat látja el.", "A konfliktus során megsérült.", "Saját erőművel rendelkezik."],
       ro: ["Construită în 1959 și extinsă de mai multe ori.", "Aprovizionează provinciile centrale și sudice.", "A fost avariată în timpul conflictului.", "Dispune de propria sa centrală electrică."],
       en: ["Built in 1959 and expanded several times.", "Supplies the central and southern provinces.", "Was damaged during the conflict.", "Has its own power plant."]
-    }
-  },
+    }, image: "/poi-images/homs-refinery-economic-v2.webp"},
   {
     id: "port-of-latakia-economic-v2",
     type: "port",
@@ -41,8 +39,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["Nagy konténerterminállal rendelkezik.", "Fontos kapu az importáruk számára.", "Közvetlenül csatlakozik az országos vasúthálózathoz.", "Az 1950-es években jelentősen kibővítették."],
       ro: ["Deține un terminal mare de containere.", "Poartă importantă pentru bunurile de import.", "Conectat direct la rețeaua feroviară națională.", "A fost extins masiv în anii 1950."],
       en: ["Has a large container terminal.", "Important gateway for imported goods.", "Directly connected to the national railway network.", "Was massively expanded in the 1950s."]
-    }
-  },
+    }, image: "/poi-images/port-of-latakia-economic-v2.webp"},
   {
     id: "port-of-tartus-economic-v2",
     type: "port",
@@ -69,8 +66,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["Építése 1968-ban kezdődött, 1973-ban fejeződött be.", "Nyolc turbinával rendelkezik.", "Akár 824 megawatt áramot is termel.", "A mezőgazdasági területek öntözését is biztosítja."],
       ro: ["Construcția a început în 1968, finalizată în 1973.", "Dispune de opt turbine.", "Generează până la 824 megawați de energie electrică.", "Asigură și irigarea terenurilor agricole."],
       en: ["Construction began in 1968, completed in 1973.", "Has eight turbines.", "Generates up to 824 megawatts of electricity.", "Also ensures irrigation of agricultural land."]
-    }
-  },
+    }, image: "/poi-images/tabqa-dam-hydroelectric-plant-economic-v2.webp"},
   {
     id: "tishrin-dam-hydroelectric-plant-economic-v2",
     type: "energy",
@@ -83,8 +79,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["1999-ben készült el.", "Kapacitása 630 megawatt.", "A víztározó több mint 160 négyzetkilométert fed le.", "A megújuló energia fontos forrása Észak-Szíriában."],
       ro: ["A fost finalizat în 1999.", "Are o capacitate de 630 de megawați.", "Lacul de acumulare acoperă peste 160 de kilometri pătrați.", "O sursă importantă de energie regenerabilă în nordul Siriei."],
       en: ["Completed in 1999.", "Has a capacity of 630 megawatts.", "The reservoir covers over 160 square kilometers.", "An important source of renewable energy in northern Syria."]
-    }
-  },
+    }, image: "/poi-images/tishrin-dam-hydroelectric-plant-economic-v2.webp"},
   {
     id: "baath-dam-economic-v2",
     type: "energy",
@@ -97,8 +92,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["81 megawatt áramot termel.", "Az építési munkálatok 1986-ban fejeződtek be.", "Megakadályozza a lefolyás menti áradásokat.", "Támogatja a helyi mezőgazdaságot Rakkában."],
       ro: ["Generează 81 de megawați de energie electrică.", "Lucrările de construcție s-au încheiat în 1986.", "Previne inundațiile în aval.", "Sprijină agricultura locală în Ar-Raqqah."],
       en: ["Generates 81 megawatts of electricity.", "Construction work ended in 1986.", "Prevents downstream flooding.", "Supports local agriculture in Ar-Raqqah."]
-    }
-  },
+    }, image: "/poi-images/baath-dam-economic-v2.webp"},
   {
     id: "omar-oil-field-economic-v2",
     type: "energy",
@@ -111,8 +105,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["Az 1980-as években fedezték fel.", "Stratégiai jelentőséggel bír a gazdaság számára.", "Saját gázfeldolgozó üzemmel rendelkezik.", "A háború előtt a szíriai olaj nagy részét itt termelték."],
       ro: ["A fost descoperit în anii 1980.", "Are o importanță strategică pentru economie.", "Dispune de propria stație de procesare a gazelor.", "Producea majoritatea petrolului sirian înainte de război."],
       en: ["Discovered in the 1980s.", "Has strategic importance for the economy.", "Has its own gas processing plant.", "Produced the majority of Syrian oil before the war."]
-    }
-  },
+    }, image: "/poi-images/omar-oil-field-economic-v2.webp"},
   {
     id: "conoco-gas-plant-economic-v2",
     type: "energy",
@@ -125,8 +118,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["A környező olajmezők gázát dolgozza fel.", "A Deir ez-Zór kormányzóságban található.", "Nemzetközi energetikai vállalatok építették.", "Gázt biztosít a szíriai erőművek számára."],
       ro: ["Procesează gazele din câmpurile petroliere înconjurătoare.", "Situată în guvernoratul Deir ez-Zor.", "A fost construită de companii internaționale de energie.", "Furnizează gaze pentru centralele electrice siriene."],
       en: ["Processes gas from surrounding oil fields.", "Located in the Deir ez-Zor Governorate.", "Was built by international energy companies.", "Provides gas for Syrian power plants."]
-    }
-  },
+    }, image: "/poi-images/conoco-gas-plant-economic-v2.webp"},
   {
     id: "shaer-gas-field-economic-v2",
     type: "energy",
@@ -139,8 +131,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["Az ország legnagyobb gáztartalékai közé tartozik.", "A homszi és damaszkuszi erőműveket látja el.", "Heves harcok színhelye volt.", "Kietlen sivatagi régióban fekszik."],
       ro: ["Este una dintre cele mai mari rezerve de gaze din țară.", "Aprovizionează centralele electrice din Homs și Damasc.", "A fost scena unor lupte grele.", "Situat într-o regiune deșertică aridă."],
       en: ["One of the country's largest gas reserves.", "Supplies the power plants in Homs and Damascus.", "Was the scene of heavy fighting.", "Located in a barren desert region."]
-    }
-  },
+    }, image: "/poi-images/shaer-gas-field-economic-v2.webp"},
   {
     id: "khunayfis-phosphate-mine-economic-v2",
     type: "mine",
@@ -167,8 +158,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["A Közel-Kelet legnagyobb foszfátbányái közé tartozik.", "Orosz befektetések révén korszerűsítették.", "Nyersanyagot biztosít a globális mezőgazdaság számára.", "A bányát külszíni fejtéssel művelik."],
       ro: ["Printre cele mai mari mine de fosfat din Orientul Mijlociu.", "Modernizată prin investiții rusești.", "Furnizează materii prime pentru agricultura globală.", "Mina este exploatată la suprafață."],
       en: ["Among the largest phosphate mines in the Middle East.", "Modernized through Russian investments.", "Supplies raw materials for global agriculture.", "The mine is operated as an open-pit mine."]
-    }
-  },
+    }, image: "/poi-images/al-sharqiyeh-phosphate-mine-economic-v2.webp"},
   {
     id: "adra-industrial-city-economic-v2",
     type: "industry",
@@ -181,8 +171,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["Szíria egyik legnagyobb ipari övezete.", "Főként textil-, vegyi- és élelmiszeriparra fókuszál.", "Munkahelyeket biztosít Damaszkusz környékének.", "Közvetlenül kapcsolódik a főútvonalakhoz."],
       ro: ["Una dintre cele mai mari zone industriale din Siria.", "Axată pe textile, produse chimice și alimente.", "Oferă locuri de muncă pentru împrejurimile Damascului.", "Conectată direct la principalele drumuri de trafic."],
       en: ["One of the largest industrial zones in Syria.", "Focuses on textiles, chemicals, and food.", "Provides jobs for the Damascus area.", "Directly connected to main traffic routes."]
-    }
-  },
+    }, image: "/poi-images/adra-industrial-city-economic-v2.webp"},
   {
     id: "sheikh-najjar-industrial-city-economic-v2",
     type: "industry",
@@ -195,8 +184,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["Több ezer termelőüzemet foglal magában.", "A háború előtt a szíriai exportgazdaság motorja volt.", "Három fő szektorra oszlik.", "Modern infrastruktúrával rendelkezik."],
       ro: ["Include mii de unități de producție.", "Motor al economiei siriene de export înainte de război.", "Este împărțit în trei sectoare principale.", "Deține o infrastructură modernă."],
       en: ["Includes thousands of production facilities.", "Engine of the Syrian export economy before the war.", "Is divided into three main sectors.", "Has a modern infrastructure."]
-    }
-  },
+    }, image: "/poi-images/sheikh-najjar-industrial-city-economic-v2.webp"},
   {
     id: "hassia-industrial-city-economic-v2",
     type: "industry",
@@ -223,8 +211,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["A mező az 1980-as évek óta aktív.", "Sivatagos környezetben található.", "Csővezetékekkel rendelkezik a homszi finomító felé.", "Fontos munkaadó a Deir ez-Zór régióban."],
       ro: ["Câmpul este activ încă din anii 1980.", "Situat într-un mediu deșertic.", "Dispune de conducte către rafinăria din Homs.", "Angajator important în regiunea Deir ez-Zor."],
       en: ["The field has been active since the 1980s.", "Located in a desert-like environment.", "Has pipelines to the Homs refinery.", "Important employer in the Deir ez-Zor region."]
-    }
-  },
+    }, image: "/poi-images/al-thaim-oil-field-economic-v2.webp"},
   {
     id: "jbissa-gas-field-economic-v2",
     type: "energy",
@@ -237,8 +224,7 @@ export const poiExtraSyriaEconomicV2: POI[] = [
       hu: ["Főként kénesmentes földgázt termel.", "Ellátja az országos csővezeték-hálózatot.", "As-Saddádi városának közelében fekszik.", "A kelet-szíriai gazdaság központi pillére."],
       ro: ["Produce în principal gaze naturale dulci.", "Aprovizionează rețeaua națională de conducte.", "Situat lângă orașul Al-Shaddadi.", "Pilon central al economiei siriene de est."],
       en: ["Produces mainly sweet natural gas.", "Supplies the national pipeline network.", "Located near the town of Al-Shaddadi.", "Central pillar of the eastern Syrian economy."]
-    }
-  },
+    }, image: "/poi-images/jbissa-gas-field-economic-v2.webp"},
   {
     id: "suwaydiya-oil-field-economic-v2",
     type: "energy",

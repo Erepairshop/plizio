@@ -1,0 +1,149 @@
+{
+  "lang": "en",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "banyo-lamidat-history-v2",
+      "description": "The traditional lamidat of Banyo in the Adamawa region. It reflects the long-standing Muslim rule of the northern plateau.",
+      "facts": [
+        "in Banyo",
+        "traditional lamidat",
+        "part of Adamawa history"
+      ]
+    },
+    {
+      "id": "ngaoundere-lamidat-history-v2",
+      "description": "The lamidat of Ngaoundere is a major traditional authority center in Adamawa. It remains a key symbol of local rule and heritage.",
+      "facts": [
+        "in Ngaoundere",
+        "traditional authority",
+        "important in Adamawa"
+      ]
+    },
+    {
+      "id": "king-bell-palace-history-v2",
+      "description": "The palace of King Bell in Douala is tied to one of the city's best known ruling families. It preserves the memory of coastal leadership.",
+      "facts": [
+        "in Douala",
+        "linked to the Bell dynasty",
+        "traditional coastal palace"
+      ]
+    },
+    {
+      "id": "german-bridge-edea-history-v2",
+      "description": "A bridge in Edea dating back to the German colonial period. It is one of the town's old engineering landmarks.",
+      "facts": [
+        "in Edea",
+        "from the German era",
+        "historic bridge"
+      ]
+    },
+    {
+      "id": "batoufam-chiefdom-history-v2",
+      "description": "A traditional chiefdom in western Cameroon. It preserves the institutions and symbols of local Bamileke power.",
+      "facts": [
+        "in western Cameroon",
+        "traditional chiefdom",
+        "Bamileke heritage"
+      ]
+    },
+    {
+      "id": "maroua-lamidat-history-v2",
+      "description": "The lamidat of Maroua is the traditional power center of the Far North capital. It reflects the region's Islamic political history.",
+      "facts": [
+        "in Maroua",
+        "traditional power center",
+        "Far North heritage"
+      ]
+    },
+    {
+      "id": "king-akwas-palace-history-v2",
+      "description": "The palace of King Akwa in Douala belongs to one of the city's influential royal families. It is an important part of Duala history.",
+      "facts": [
+        "in Douala",
+        "linked to the Akwa family",
+        "traditional royal palace"
+      ]
+    },
+    {
+      "id": "dschang-colonial-center-history-v2",
+      "description": "Dschang's colonial center preserves traces of German and French administration. It is one of the city's most historic areas.",
+      "facts": [
+        "in Dschang",
+        "colonial-era center",
+        "historic urban core"
+      ]
+    },
+    {
+      "id": "garoua-lamidat-history-v2",
+      "description": "The lamidat of Garoua is a major traditional institution on the Benue River. It anchors the city's historical and social identity.",
+      "facts": [
+        "in Garoua",
+        "on the Benue River",
+        "traditional authority center"
+      ]
+    },
+    {
+      "id": "pitoa-slave-market-site-history-v2",
+      "description": "The old slave market site in Pitoa recalls historic trade routes in northern Cameroon. It stands as a difficult memorial site.",
+      "facts": [
+        "in Pitoa",
+        "linked to slave trade",
+        "historical memorial site"
+      ]
+    },
+    {
+      "id": "rio-dos-camaroes-discovery-history-v2",
+      "description": "The name Rio dos Camaroes refers to the Portuguese naming of the Wouri estuary. It is part of the origin story of Cameroon itself.",
+      "facts": [
+        "Portuguese origin",
+        "name for the Wouri estuary",
+        "basis of Cameroon's name"
+      ]
+    },
+    {
+      "id": "fort-of-yaounde-site-history-v2",
+      "description": "The site of the old fort in Yaounde recalls the city's early colonial military outpost. It marks the start of its urban history.",
+      "facts": [
+        "in Yaounde",
+        "former colonial fort",
+        "early city history"
+      ]
+    },
+    {
+      "id": "saints-peter-and-paul-cathedral-history-v2",
+      "description": "A major Catholic cathedral in Douala. It is one of the city's most important religious buildings.",
+      "facts": [
+        "in Douala",
+        "Catholic cathedral",
+        "major religious landmark"
+      ]
+    },
+    {
+      "id": "old-post-office-buea-history-v2",
+      "description": "The old post office in Buea is a reminder of the town's colonial administrative era. It reflects the city's early public infrastructure.",
+      "facts": [
+        "in Buea",
+        "colonial-era building",
+        "old public office"
+      ]
+    },
+    {
+      "id": "babungo-palace-history-v2",
+      "description": "The palace of Babungo is a traditional power center in northwest Cameroon. It preserves the history and rituals of the local court.",
+      "facts": [
+        "in northwest Cameroon",
+        "traditional palace",
+        "local court rituals"
+      ]
+    }
+  ]
+}

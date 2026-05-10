@@ -119,13 +119,13 @@ export const poiExtraChinaEconomicV2: POI[] = [
       de: "Eines der größten Stahlwerke der Welt und der Hauptproduktionsstandort von Baoshan Iron & Steel Co., Ltd.",
       hu: "A világ egyik legnagyobb acélműve, a Baoshan Iron & Steel Co., Ltd. fő gyártóbázisa.",
       ro: "Una dintre cele mai mari oțelării din lume și principalul centru de producție al Baoshan Iron & Steel Co., Ltd.",
-      en: "One of the largest steel plants in the world and the main production base of Baoshan Iron & Steel Co., Ltd."
+      en: "Baosteel Shanghai Plant is the Baoshan Base of Baoshan Iron & Steel in Shanghai. It traces back to the former Shanghai Baoshan Iron and Steel Plant and remains a core steel production site in China Baowu."
     },
     facts: {
       de: ["Produziert hochwertigen Stahl für die Automobilindustrie", "Führend in der Stahltechnologie", "Wichtiger Exporteur"],
       hu: ["Kiváló minőségű acélt gyárt az autóipar számára", "Vezető az acéltechnológiában", "Jelentős exportőr"],
       ro: ["Produce oțel de înaltă calitate pentru industria auto", "Lider în tehnologia oțelului", "Exportator major"],
-      en: ["Produces high-quality steel for the automotive industry", "Leader in steel technology", "Major exporter"]
+      en: ["Baoshan Base in Shanghai", "Formerly Shanghai Baoshan Iron and Steel Plant", "Part of China Baowu", "Core steel production site"]
     },
     descriptionAdvanced: {
       de: "Das Baosteel-Werk in Shanghai ist das Flaggschiff der China Baowu Steel Group, des größten Stahlproduzenten der Welt. Gelegen im Bezirk Baoshan an der Mündung des Huangpu-Flusses in den Jangtse, ist dieses Werk ein Symbol für Chinas Aufstieg zur industriellen Supermacht. Gegründet Ende der 1970er Jahre im Rahmen der Reform- und Öffnungspolitik, basierte das Werk zunächst auf modernster Technologie aus Japan und Deutschland. Heute ist Baosteel Shanghai ein weltweit führendes Zentrum für die Herstellung von hochwertigen Spezialstählen, insbesondere für die Automobilindustrie, den Schiffbau und die Luft- und Raumfahrt. Das Werk zeichnet sich durch seine hohe Energieeffizienz und seine Vorreiterrolle bei der Entwicklung von 'grünem Stahl' und CO2-armen Produktionstechnologien aus. Baosteel ist nicht nur ein Industriegigant, sondern auch ein Motor für technologische Innovationen im gesamten chinesischen Fertigungssektor.",
@@ -188,15 +188,15 @@ export const poiExtraChinaEconomicV2: POI[] = [
       en: "Yiwu International Trade City"
     },
     description: {
-      de: "Der größte Großhandelsmarkt der Welt, der eine riesige Vielfalt an Kleinwaren anbietet und Käufer aus aller Welt anzieht.",
-      hu: "A világ legnagyobb kiskereskedelmi piaca, amely a kis árucikkek hatalmas választékát kínálja, és a világ minden tájáról vonzza a vásárlókat.",
-      ro: "Cea mai mare piață angro din lume, care oferă o varietate imensă de mărfuri mici și atrage cumpărători din întreaga lume.",
+      de: "Ein riesiger Großhandelsmarkt in Yiwu, der auf Kleinwaren und Exporthandel ausgerichtet ist. Er gilt als wichtiger Knotenpunkt für den internationalen Warenfluss in Ostchina.",
+      hu: "Yiwu hatalmas kisárunagypiaca Csöcsiang tartományban. Több tízezer standdal és óriási árukínálattal a nemzetközi exportkereskedelem fontos központja.",
+      ro: "Yiwu International Trade City este un vast complex comercial angro din Zhejiang, specializat în mărfuri mici și export. Este unul dintre cele mai importante centre de distribuție pentru bunuri de consum din China.",
       en: "The world's largest wholesale market for small commodities, offering a huge variety of goods and attracting buyers globally."
     },
     facts: {
-      de: ["Über 75.000 Stände", "Auch als \\\"China Commodity City\\\" bekannt", "Exportiert in über 200 Länder"],
-      hu: ["Több mint 75 000 stand", "Más néven \\\"Kínai Áruváros\\\"", "Több mint 200 országba exportál"],
-      ro: ["Peste 75.000 de standuri", "Cunoscut și ca \\\"China Commodity City\\\"", "Exportă în peste 200 de țări"],
+      de: ["In Yiwu, Provinz Zhejiang", "Großmarkt für Kleinwaren", "Wichtiger Exportstandort", "International bekannt"],
+      hu: ["Yiwu városában található", "75 000+ állandó stand", "Több mint 200 ország felé kereskedik"],
+      ro: ["Yiwu, provincia Zhejiang", "Peste 75.000 de standuri", "Legături comerciale cu peste 200 de țări"],
       en: ["Over 75,000 booths", "Also known as 'China Commodity City'", "Exports to over 200 countries"]
     }, image: "/poi-images/yiwu-international-trade-city-economic-v2.webp",
     descriptionAdvanced: {

@@ -1,0 +1,39 @@
+{
+  "lang": "hu",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-cafe-life-v2",
+      "description": "A kávéfincák Costa Rica felföldi tájának és mezőgazdaságának jellegzetes elemei. A vulkáni talaj és a hűvösebb klíma kiváló feltételeket ad az arabica kávénak.",
+      "facts": [
+        "Felföldi kávétermesztés",
+        "Vulkáni talaj",
+        "Arabica kávéra épül"
+      ]
+    },
+    {
+      "id": "feria-agricultor-life-v2",
+      "description": "A Feria del Agricultor heti termelői piac, ahol a gazdák közvetlenül adják el a friss árut. A városi fogyasztást és a helyi gazdaságot köti össze.",
+      "facts": [
+        "Heti termelői piac",
+        "Friss helyi áru",
+        "Közvetlen értékesítés"
+      ]
+    },
+    {
+      "id": "balsa-wood-crafts-life-v2",
+      "description": "A balsa fa kézműves tárgyai a costa ricai turisztikai piacok és műhelyek ismert darabjai. A könnyű fa jól mutatja a helyi kézművesség természetes anyaghasználatát.",
+      "facts": [
+        "Könnyű balsa fa",
+        "Kézműves dísztárgyak",
+        "Turisztikai műhelyek"
+      ]
+    }
+  ]
+}

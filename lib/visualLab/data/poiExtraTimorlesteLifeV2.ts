@@ -18,8 +18,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Központi elhelyezkedés", "Tengerre néző kilátás"],
       ro: ["Situat central", "Vedere la mare"],
       en: ["Centrally located", "Sea views"]
-    }
-  },
+    }, image: "/poi-images/jardim-de-lecidere-life-v2.webp"},
   {
     id: "ermera-coffee-plantations-life-v2",
     type: "agriculture",
@@ -37,8 +36,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Fő termőterület", "Bio kávé"],
       ro: ["Principala zonă de cultivare", "Cafea organică"],
       en: ["Main growing area", "Organic coffee"]
-    }
-  },
+    }, image: "/poi-images/ermera-coffee-plantations-life-v2.webp"},
   {
     id: "atauro-coral-reefs-life-v2",
     type: "wildlife-area",
@@ -75,8 +73,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Fontos madárélőhely", "Trópusi száraz erdő"],
       ro: ["Habitat important pentru păsări", "Pădure tropicală uscată"],
       en: ["Important bird habitat", "Tropical dry forest"]
-    }
-  },
+    }, image: "/poi-images/tilomar-nature-reserve-life-v2.webp"},
   {
     id: "maliana-rice-fields-life-v2",
     type: "agriculture",
@@ -94,8 +91,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Jelentős rizstermelés", "Öntözéses mezőgazdaság"],
       ro: ["Producție semnificativă de orez", "Agricultură irigată"],
       en: ["Significant rice production", "Irrigated agriculture"]
-    }
-  },
+    }, image: "/poi-images/maliana-rice-fields-life-v2.webp"},
   {
     id: "fatucama-marine-sanctuary-life-v2",
     type: "wildlife-area",
@@ -113,8 +109,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Cristo Rei közelében", "Gazdag tengeri élővilág"],
       ro: ["Lângă Cristo Rei", "Viață marină bogată"],
       en: ["Near Cristo Rei", "Rich marine life"]
-    }
-  },
+    }, image: "/poi-images/fatucama-marine-sanctuary-life-v2.webp"},
   {
     id: "manatuto-salt-pans-life-v2",
     type: "agriculture",
@@ -132,8 +127,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Hagyományos módszer", "Partvidéki gazdaság"],
       ro: ["Metodă tradițională", "Economie de coastă"],
       en: ["Traditional method", "Coastal economy"]
-    }
-  },
+    }, image: "/poi-images/manatuto-salt-pans-life-v2.webp"},
   {
     id: "cristo-rei-macaque-habitat-life-v2",
     type: "wildlife-area",
@@ -151,8 +145,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Vadon élő makákók", "Dombos terep"],
       ro: ["Macaque sălbatici", "Teren deluros"],
       en: ["Wild macaques", "Hilly terrain"]
-    }
-  },
+    }, image: "/poi-images/cristo-rei-macaque-habitat-life-v2.webp"},
   {
     id: "maubisse-farms-life-v2",
     type: "agriculture",
@@ -170,8 +163,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Hűvös éghajlat", "Zöldségtermesztés"],
       ro: ["Climă răcoroasă", "Cultivarea legumelor"],
       en: ["Cool climate", "Vegetable farming"]
-    }
-  },
+    }, image: "/poi-images/maubisse-farms-life-v2.webp"},
   {
     id: "jardim-borja-da-costa-life-v2",
     type: "park",
@@ -189,8 +181,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Költőről elnevezve", "Zöld oázis"],
       ro: ["Numit după un poet", "Oază verde"],
       en: ["Named after a poet", "Green oasis"]
-    }
-  },
+    }, image: "/poi-images/jardim-borja-da-costa-life-v2.webp"},
   {
     id: "com-coastal-reserve-life-v2",
     type: "wildlife-area",
@@ -208,8 +199,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Teknősfészkek", "Madármegfigyelés"],
       ro: ["Cuiburi de țestoase", "Observarea păsărilor"],
       en: ["Turtle nests", "Bird watching"]
-    }
-  },
+    }, image: "/poi-images/com-coastal-reserve-life-v2.webp"},
   {
     id: "oecusse-sandalwood-life-v2",
     type: "agriculture",
@@ -227,8 +217,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Történelmi exportcikk", "Újraerdősítés"],
       ro: ["Export istoric", "Reîmpădurire"],
       en: ["Historical export", "Reforestation"]
-    }
-  },
+    }, image: "/poi-images/oecusse-sandalwood-life-v2.webp"},
   {
     id: "baucau-terraces-life-v2",
     type: "agriculture",
@@ -246,8 +235,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Forrásvizes öntözés", "Dombos táj"],
       ro: ["Irigare cu apă de izvor", "Peisaj deluros"],
       en: ["Spring water irrigation", "Hilly landscape"]
-    }
-  },
+    }, image: "/poi-images/baucau-terraces-life-v2.webp"},
   {
     id: "lospalos-livestock-life-v2",
     type: "agriculture",
@@ -265,8 +253,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Vízibivaly-tenyésztés", "Füves síkságok"],
       ro: ["Creșterea bivolilor de apă", "Câmpii de iarbă"],
       en: ["Water buffalo breeding", "Grassy plains"]
-    }
-  },
+    }, image: "/poi-images/lospalos-livestock-life-v2.webp"},
   {
     id: "betano-crocodile-habitat-life-v2",
     type: "wildlife-area",
@@ -303,8 +290,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Tíkfa termelés", "Erdőgazdálkodás"],
       ro: ["Producția de lemn de tec", "Silvicultură"],
       en: ["Teak wood production", "Forestry"]
-    }
-  },
+    }, image: "/poi-images/viqueque-teak-forests-life-v2.webp"},
   {
     id: "timor-plaza-kids-zone-life-v2",
     type: "kid-friendly",
@@ -322,8 +308,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Beltéri tevékenység", "Családbarát"],
       ro: ["Activitate interioară", "Potrivit pentru familii"],
       en: ["Indoor activity", "Family friendly"]
-    }
-  },
+    }, image: "/poi-images/timor-plaza-kids-zone-life-v2.webp"},
   {
     id: "dili-promenade-park-life-v2",
     type: "park",
@@ -341,8 +326,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Népszerű sétány", "Tengeri szellő"],
       ro: ["Alee populară", "Briza mării"],
       en: ["Popular walkway", "Sea breeze"]
-    }
-  },
+    }, image: "/poi-images/dili-promenade-park-life-v2.webp"},
   {
     id: "same-cocoa-farms-life-v2",
     type: "agriculture",
@@ -360,8 +344,7 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
       hu: ["Kakaótermesztés", "Feltörekvő ágazat"],
       ro: ["Cultivarea cacaoului", "Sector în curs de dezvoltare"],
       en: ["Cocoa farming", "Emerging sector"]
-    }
-  },
+    }, image: "/poi-images/same-cocoa-farms-life-v2.webp"},
   {
     id: "fuiloro-plateau-farms-life-v2",
     type: "agriculture",

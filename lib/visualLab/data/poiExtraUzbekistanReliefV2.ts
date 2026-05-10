@@ -39,8 +39,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Its name translates to \"Red Sand\".",
         "Home to rare reptile species."
       ]
-    }
-  },
+    }, image: "/poi-images/kyzylkum-desert-relief-v2.webp"},
   {
     id: "ustyurt-plateau-relief-v2",
     type: "plateau",
@@ -79,8 +78,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Consists mainly of limestone.",
         "Extremely sparsely populated region."
       ]
-    }
-  },
+    }, image: "/poi-images/ustyurt-plateau-relief-v2.webp"},
   {
     id: "aralkum-desert-relief-v2",
     type: "desert",
@@ -119,8 +117,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "The soil is highly saline.",
         "A symbol of ecological changes."
       ]
-    }
-  },
+    }, image: "/poi-images/aralkum-desert-relief-v2.webp"},
   {
     id: "fergana-valley-relief-v2",
     type: "valley",
@@ -159,8 +156,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Center of Uzbek silk production.",
         "Surrounded by high mountain ranges."
       ]
-    }
-  },
+    }, image: "/poi-images/fergana-valley-relief-v2.webp"},
   {
     id: "nuratau-mountains-relief-v2",
     type: "mountain",
@@ -239,8 +235,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Popular with hikers and mountaineers.",
         "Borders Kyrgyzstan."
       ]
-    }
-  },
+    }, image: "/poi-images/chatkal-range-relief-v2.webp"},
   {
     id: "gissar-range-relief-v2",
     type: "mountain",
@@ -279,8 +274,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Hosts deep karst caves.",
         "Important source of glacial water."
       ]
-    }
-  },
+    }, image: "/poi-images/gissar-range-relief-v2.webp"},
   {
     id: "turkestan-range-relief-v2",
     type: "mountain",
@@ -359,8 +353,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "The highest point is around 3,769 meters.",
         "Serves as an important watershed."
       ]
-    }
-  },
+    }, image: "/poi-images/kurama-range-relief-v2.webp"},
   {
     id: "karjantau-range-relief-v2",
     type: "mountain",
@@ -399,8 +392,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Popular recreation area of the capital.",
         "Offers spectacular panoramic views."
       ]
-    }
-  },
+    }, image: "/poi-images/karjantau-range-relief-v2.webp"},
   {
     id: "ugam-range-relief-v2",
     type: "mountain",
@@ -439,8 +431,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "The Ugam River originates here.",
         "A paradise for adventurers."
       ]
-    }
-  },
+    }, image: "/poi-images/ugam-range-relief-v2.webp"},
   {
     id: "pskem-range-relief-v2",
     type: "mountain",
@@ -479,8 +470,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Glaciers feed the regional rivers.",
         "Hardly developed for tourism."
       ]
-    }
-  },
+    }, image: "/poi-images/pskem-range-relief-v2.webp"},
   {
     id: "babatag-range-relief-v2",
     type: "mountain",
@@ -519,8 +509,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Climate is hot and dry.",
         "Habitat of the rare markhor goat."
       ]
-    }
-  },
+    }, image: "/poi-images/babatag-range-relief-v2.webp"},
   {
     id: "kugitangtau-range-relief-v2",
     type: "mountain",
@@ -559,8 +548,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Features deep karst gorges.",
         "Borders directly on Turkmenistan."
       ]
-    }
-  },
+    }, image: "/poi-images/kugitangtau-range-relief-v2.webp"},
   {
     id: "zarafshan-range-relief-v2",
     type: "mountain",
@@ -599,8 +587,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Home to numerous archaeological finds.",
         "Features deep, forested valleys."
       ]
-    }
-  },
+    }, image: "/poi-images/zarafshan-range-relief-v2.webp"},
   {
     id: "maidantal-range-relief-v2",
     type: "mountain",
@@ -639,8 +626,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Rarely visited by humans.",
         "Serves as summer pasture for livestock."
       ]
-    }
-  },
+    }, image: "/poi-images/maidantal-range-relief-v2.webp"},
   {
     id: "chirchiq-valley-relief-v2",
     type: "valley",
@@ -719,8 +705,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Known for the cultivation of pomegranates.",
         "Surrounded by protecting mountain ranges."
       ]
-    }
-  },
+    }, image: "/poi-images/surkhandarya-valley-relief-v2.webp"},
   {
     id: "pskem-valley-relief-v2",
     type: "valley",
@@ -759,8 +744,7 @@ export const poiExtraUzbekistanReliefV2: POI[] = [
         "Rich in walnut forests.",
         "Often blocked by snow in winter."
       ]
-    }
-  },
+    }, image: "/poi-images/pskem-valley-relief-v2.webp"},
   {
     id: "sherabad-valley-relief-v2",
     type: "valley",

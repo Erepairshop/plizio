@@ -18,8 +18,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Több mint 3700 méteres magasságot ér el.", "Fontos forrása olyan folyóknak, mint az Eufrátesz.", "Gazdag karsztbarlangokban és vízesésekben."],
       ro: ["Atinge altitudini de peste 3700 de metri.", "O sursă importantă pentru râuri precum Eufratul.", "Bogat în peșteri carstice și cascade."],
       en: ["Reaches elevations of over 3700 meters.", "An important source for rivers like the Euphrates.", "Rich in karst caves and waterfalls."]
-    }
-  },
+    }, image: "/poi-images/tr-taurus-mountains-relief-v2.webp"},
   {
     id: "tr-pontic-mountains-relief-v2",
     type: "mountain",
@@ -37,8 +36,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Legmagasabb csúcsa a Kaçkar Dağı.", "Felfogja a Fekete-tenger felől érkező nedves szeleket.", "Ismert a lejtőin található hagyományos teaültetvényekről."],
       ro: ["Cel mai înalt vârf este Kaçkar Dağı.", "Oprește vânturile umede dinspre Marea Neagră.", "Cunoscut pentru plantațiile tradiționale de ceai de pe pante."],
       en: ["Highest peak is Kaçkar Dağı.", "Intercepts the moist winds from the Black Sea.", "Known for traditional tea plantations on its slopes."]
-    }
-  },
+    }, image: "/poi-images/tr-pontic-mountains-relief-v2.webp"},
   {
     id: "tr-mount-erciyes-relief-v2",
     type: "mountain",
@@ -56,8 +54,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Közép-Anatólia legmagasabb hegye, 3917 méterrel.", "Ma népszerű télisport-központ.", "Utolsó kitörései a történelem előtti időkben történtek."],
       ro: ["Cu 3917 metri, cel mai înalt munte din Anatolia Centrală.", "Astăzi este un centru popular pentru sporturi de iarnă.", "Ultimele sale erupții au avut loc în timpuri preistorice."],
       en: ["With 3917 meters, the highest mountain in Central Anatolia.", "Today a popular winter sports center.", "Its last eruptions occurred in prehistoric times."]
-    }
-  },
+    }, image: "/poi-images/tr-mount-erciyes-relief-v2.webp"},
   {
     id: "tr-mount-hasan-relief-v2",
     type: "mountain",
@@ -75,8 +72,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["3268 méteres magasságot ér el.", "Közép-Anatólia második legmagasabb vulkánja.", "Aktivitása szintén hozzájárult Kappadókia kialakulásához."],
       ro: ["Atinge o altitudine de 3268 de metri.", "Al doilea vulcan ca înălțime din Anatolia Centrală.", "Activitatea sa a contribuit și ea la formarea Cappadociei."],
       en: ["Reaches a height of 3268 meters.", "The second highest volcano in Central Anatolia.", "Its activity also contributed to the formation of Cappadocia."]
-    }
-  },
+    }, image: "/poi-images/tr-mount-hasan-relief-v2.webp"},
   {
     id: "tr-mount-suphan-relief-v2",
     type: "mountain",
@@ -94,8 +90,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["4058 méterével Törökország egyik legmagasabb csúcsa.", "Csúcsát az év nagy részében hó borítja.", "Gyakorlott hegymászók kedvelt célpontja."],
       ro: ["Cu 4058 de metri, este unul dintre cele mai înalte vârfuri din Turcia.", "Vârful său este acoperit de zăpadă aproape tot anul.", "O destinație populară pentru alpiniști experimentați."],
       en: ["With 4058 meters, one of the highest peaks in Turkey.", "Its summit is covered in snow almost all year round.", "A popular destination for experienced mountaineers."]
-    }
-  },
+    }, image: "/poi-images/tr-mount-suphan-relief-v2.webp"},
   {
     id: "tr-kackar-mountains-relief-v2",
     type: "mountain",
@@ -113,8 +108,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Legmagasabb csúcsa 3937 méter.", "Népszerű terület túrázásra és helisízésre.", "Egyedülálló alpesi növény- és állatvilágnak ad otthont."],
       ro: ["Cel mai înalt vârf atinge 3937 de metri.", "O zonă populară pentru drumeții și heliski.", "Găzduiește o floră și faună alpină unică."],
       en: ["The highest peak reaches 3937 meters.", "A popular area for trekking and heliskiing.", "Home to a unique alpine flora and fauna."]
-    }
-  },
+    }, image: "/poi-images/tr-kackar-mountains-relief-v2.webp"},
   {
     id: "tr-ihlara-valley-relief-v2",
     type: "valley",
@@ -132,8 +126,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["A szurdok 16 kilométer hosszú és akár 100 méter mély.", "Lávafolyamok lehűlése során jött létre.", "Számos sziklába vájt barlangtemplom található itt."],
       ro: ["Defileul are 16 kilometri lungime și până la 100 de metri adâncime.", "S-a format prin răcirea fluxurilor de lavă.", "Adăpostește numeroase biserici săpate în stâncă."],
       en: ["The gorge is 16 kilometers long and up to 100 meters deep.", "Formed by the cooling of lava flows.", "Houses numerous rock-hewn cave churches."]
-    }
-  },
+    }, image: "/poi-images/tr-ihlara-valley-relief-v2.webp"},
   {
     id: "tr-munzur-valley-relief-v2",
     type: "valley",
@@ -151,8 +144,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["1971-ben nyilvánították nemzeti parkká.", "Ritka állatfajok, például vadkecskék élőhelye.", "A helyiek szent helyként tisztelik."],
       ro: ["A fost declarat parc național în 1971.", "Habitat pentru specii rare de animale, cum ar fi capra sălbatică.", "Considerat un loc sacru de către localnici."],
       en: ["Declared a national park in 1971.", "Habitat for rare animal species such as the wild goat.", "Considered a sacred place by locals."]
-    }
-  },
+    }, image: "/poi-images/tr-munzur-valley-relief-v2.webp"},
   {
     id: "tr-butterfly-valley-relief-v2",
     type: "valley",
@@ -170,8 +162,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Több mint 100 különböző lepkefajnak ad otthont.", "Csak hajóval vagy meredek túraútvonalakon érhető el.", "1987 óta természetvédelmi terület."],
       ro: ["Găzduiește peste 100 de specii diferite de fluturi.", "Accesibil doar cu barca sau pe trasee abrupte de drumeție.", "Este o rezervație naturală din 1987."],
       en: ["Houses over 100 different butterfly species.", "Accessible only by boat or steep hiking trails.", "Has been a nature reserve since 1987."]
-    }
-  },
+    }, image: "/poi-images/tr-butterfly-valley-relief-v2.webp"},
   {
     id: "tr-anatolian-plateau-relief-v2",
     type: "plateau",
@@ -189,8 +180,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Átlagosan 800-1200 méterrel a tengerszint felett fekszik.", "Kontinentális éghajlat forró nyarakkal és hideg telekkel.", "A gabonatermesztés legfontosabb mezőgazdasági régiója."],
       ro: ["Se află la o altitudine medie de 800 până la 1200 de metri.", "Climat continental cu veri fierbinți și ierni reci.", "Cea mai importantă regiune agricolă pentru cultivarea cerealelor."],
       en: ["Lies on average 800 to 1200 meters above sea level.", "Continental climate with hot summers and cold winters.", "The most important agricultural region for grain cultivation."]
-    }
-  },
+    }, image: "/poi-images/tr-anatolian-plateau-relief-v2.webp"},
   {
     id: "tr-nur-mountains-relief-v2",
     type: "mountain",
@@ -208,8 +198,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Amanos-hegységként is ismert.", "Természetes akadályt képezett az ókorban.", "Egészen a szír határig nyúlik."],
       ro: ["Cunoscut și sub numele de Munții Amanos.", "A format o barieră naturală în antichitate.", "Se întinde până la granița cu Siria."],
       en: ["Also known as the Amanos Mountains.", "Formed a natural barrier in antiquity.", "Reaches all the way to the Syrian border."]
-    }
-  },
+    }, image: "/poi-images/tr-nur-mountains-relief-v2.webp"},
   {
     id: "tr-karapinar-desert-relief-v2",
     type: "desert",
@@ -227,8 +216,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Hírhedt volt az 1950-es évek erős széleróziójáról.", "Egy erdősítési projekt részben megmentette a régiót.", "Ma az elsivatagosodás fontos kutatási területe."],
       ro: ["Notorie pentru eroziunea puternică a vântului în anii 1950.", "Un proiect de împădurire a salvat parțial regiunea.", "Astăzi o importantă zonă de studiu pentru deșertificare."],
       en: ["Notorious for strong wind erosion in the 1950s.", "An afforestation project partially saved the region.", "Today an important study area for desertification."]
-    }
-  },
+    }, image: "/poi-images/tr-karapinar-desert-relief-v2.webp"},
   {
     id: "tr-turquoise-coast-relief-v2",
     type: "coast",
@@ -246,8 +234,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Több száz kilométer hosszan nyúlik el.", "A kék hajóutak turizmusának központja.", "A Taurus-hegység itt gyakran közvetlenül a tengerig ér."],
       ro: ["Se întinde pe sute de kilometri.", "Un punct fierbinte pentru turismul de croazieră albastră.", "Aici Munții Taurus ajung adesea direct la mare."],
       en: ["Stretches for hundreds of kilometers.", "A hotspot for Blue Cruise tourism.", "The Taurus Mountains often reach directly to the sea here."]
-    }
-  },
+    }, image: "/poi-images/tr-turquoise-coast-relief-v2.webp"},
   {
     id: "tr-lycian-coast-relief-v2",
     type: "coast",
@@ -265,8 +252,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["A híres Lükiai út, egy hosszú távú túraútvonal otthona.", "A tájképet meredeken lezuhanó sziklás partok uralják.", "Híres a kristálytiszta vízben elsüllyedt ókori városairól."],
       ro: ["Acasă la faimosul Cale Liciană, un traseu de drumeții pe distanțe lungi.", "Coastele stâncoase abrupte domină peisajul.", "Faimoasă pentru orașele antice scufundate în apele cristaline."],
       en: ["Home to the famous Lycian Way, a long-distance hiking trail.", "Steeply dropping rocky coasts dominate the landscape.", "Famous for sunken ancient cities in crystal-clear waters."]
-    }
-  },
+    }, image: "/poi-images/tr-lycian-coast-relief-v2.webp"},
   {
     id: "tr-aegean-coast-relief-v2",
     type: "coast",
@@ -284,8 +270,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Az enyhébb éghajlat lehetővé teszi az olajbogyó és a füge termesztését.", "A partvonalat a mély bevágások erősen meghosszabbítják.", "Folyók, mint a Maeander, széles hordaléksíkságokat hoztak létre."],
       ro: ["Clima mai blândă permite cultivarea măslinelor și a smochinelor.", "Linia de coastă este mult prelungită prin crestături adânci.", "Râuri precum Meandrul au creat câmpii aluvionare largi."],
       en: ["The milder climate allows for the cultivation of olives and figs.", "The coastline is greatly extended by deep indentations.", "Rivers like the Meander have created broad alluvial plains."]
-    }
-  },
+    }, image: "/poi-images/tr-aegean-coast-relief-v2.webp"},
   {
     id: "tr-black-sea-coast-relief-v2",
     type: "coast",
@@ -303,8 +288,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Törökország legnedvesebb régiója egész évben hulló csapadékkal.", "A homokos strandok itt ritkák, a part többnyire sziklás.", "Sűrű lombhullató erdők fontos élőhelye."],
       ro: ["Cea mai umedă regiune din Turcia, cu precipitații pe tot parcursul anului.", "Plajele cu nisip sunt rare aici, coasta fiind în mare parte stâncoasă.", "Un habitat important pentru păduri de foioase dense."],
       en: ["The wettest region of Turkey with year-round rainfall.", "Sandy beaches are rare here, the coast is mostly rocky.", "An important habitat for dense deciduous forests."]
-    }
-  },
+    }, image: "/poi-images/tr-black-sea-coast-relief-v2.webp"},
   {
     id: "tr-koprulu-canyon-relief-v2",
     type: "valley",
@@ -322,8 +306,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Népszerű célpont a vadvízi evezés szerelmeseinek.", "A meredek sziklafalak akár 100 méter magasra is emelkednek.", "Egy ősi római kőhíd ível át rajta."],
       ro: ["O destinație populară pentru rafting pe ape repezi.", "Pereții stâncoși abrupți se înalță până la 100 de metri.", "Traversat de un vechi pod roman de piatră."],
       en: ["A popular destination for whitewater rafting.", "The steep rock walls rise up to 100 meters high.", "Spanned by an ancient Roman stone bridge."]
-    }
-  },
+    }, image: "/poi-images/tr-koprulu-canyon-relief-v2.webp"},
   {
     id: "tr-cilo-sat-mountains-relief-v2",
     type: "mountain",
@@ -341,8 +324,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Törökország legmagasabb jégkorszaki gleccsereinek ad otthont.", "Legmagasabb csúcsa, az Uludoruk, 4136 méter magas.", "A mély elszigeteltség miatt a növény- és állatvilág paradicsoma."],
       ro: ["Găzduiește cei mai înalți ghețari din era glaciară din Turcia.", "Cel mai înalt vârf, Uludoruk, atinge 4136 de metri.", "Un paradis pentru floră și faună datorită izolării profunde."],
       en: ["Houses the highest Ice Age glaciers in Turkey.", "The highest peak, Uludoruk, reaches 4136 meters.", "A paradise for flora and fauna due to deep isolation."]
-    }
-  },
+    }, image: "/poi-images/tr-cilo-sat-mountains-relief-v2.webp"},
   {
     id: "tr-erzurum-kars-plateau-relief-v2",
     type: "plateau",
@@ -360,8 +342,7 @@ export const poiExtraTurkeyReliefV2: POI[] = [
       hu: ["Átlagos magassága megközelíti a 2000 métert.", "Hideg éghajlata miatt gyakran Törökország Szibériájának nevezik.", "A rövid nyár során kiterjedt füves puszták határozzák meg a látképet."],
       ro: ["Se află la o altitudine medie de aproape 2000 de metri.", "Deseori numit Siberia Turciei din cauza frigului său.", "Pajiștile extinse domină peisajul în timpul scurtei veri."],
       en: ["Lies at an average altitude of almost 2000 meters.", "Often called the Siberia of Turkey due to its cold.", "Extensive grasslands dominate the landscape during the short summer."]
-    }
-  },
+    }, image: "/poi-images/tr-erzurum-kars-plateau-relief-v2.webp"},
   {
     id: "tr-harran-plain-relief-v2",
     type: "plateau",

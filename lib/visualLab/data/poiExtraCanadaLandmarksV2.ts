@@ -46,12 +46,12 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-PE",
     coords: [-63.7483, 46.2081],
     name: { de: "Confederation Bridge", hu: "Konföderáció-híd", ro: "Podul Confederației", en: "Confederation Bridge" },
-    description: { de: "Eine 12,9 km lange Brücke, die Prince Edward Island mit dem Festland verbindet.", hu: "12,9 km hosszú híd, amely a Prince Edward-szigetet köti össze a szárazfölddel.", ro: "Un pod de 12,9 km care leagă Insula Prince Edward de continent.", en: "A 12.9 km bridge connecting Prince Edward Island to the mainland." },
+    description: { de: "Die Confederation Bridge verbindet Prince Edward Island mit New Brunswick.", hu: "A Konföderáció-híd Prince Edward-szigetet köti össze a szárazfölddel. Hosszú, egyenletes ívével Kanada egyik legismertebb mérnöki alkotása.", ro: "Confederation Bridge leag? insula Prince Edward de New Brunswick. Este un pasaj fix important peste apele ?nghe?ate ale golfului.", en: "The Confederation Bridge links Prince Edward Island to mainland New Brunswick. Its long, curved span is one of Canada's best-known engineering projects." },
     facts: {
-      de: ["Längste Brücke über eisbedecktes Wasser", "Verbindet PEI mit New Brunswick", "Eröffnet 1997", "Gebührenpflichtige Brücke"],
-      hu: ["A világ leghosszabb hídja jéggel borított víz felett", "Összeköti a PEI-t New Brunswickkal", "1997-ben nyílt meg", "Fizetős híd"],
-      ro: ["Cel mai lung pod peste ape acoperite de gheață", "Leagă PEI de New Brunswick", "Inaugurat în 1997", "Pod cu taxă"],
-      en: ["World's longest bridge over ice-covered water", "Connects PEI to New Brunswick", "Opened in 1997", "Toll bridge"]
+      de: ["12,9 Kilometer lang", "Verbindet PEI und New Brunswick", "Ganzjährig befahrbar"],
+      hu: ["PEI és New Brunswick között van", "1997-ben nyílt meg", "Fizetős közúti híd"],
+      ro: ["?ntre PEI ?i New Brunswick", "Pasaj fix", "Traverseaz? golful"],
+      en: ["12.9 km long", "Connects PEI to New Brunswick", "Opened in 1997", "Bridge over ice-covered water"]
     },
     descriptionAdvanced: {
       de: "Die Confederation Bridge verbindet die Inselprovinz Prince Edward Island mit dem kanadischen Festland. Mit einer Länge von fast 13 Kilometern ist sie die längste Brücke über eisbedecktem Gewässer der Welt und ein technisches Meisterwerk. Geografie K6 — Ingenieursbauwerke."
@@ -116,11 +116,11 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-QC",
     coords: [-73.5516, 45.5586],
     name: { de: "Olympiastadion Montreal", hu: "Olimpiai Stadion (Montréal)", ro: "Stadionul Olimpic din Montreal", en: "Montreal Olympic Stadium" },
-    description: { de: "Das Stadion wurde für die Olympischen Sommerspiele 1976 gebaut und hat den höchsten geneigten Turm der Welt.", hu: "Az 1976-os nyári olimpiára épült stadion, a világ legmagasabb ferde tornyával.", ro: "Construit pentru Jocurile Olimpice de vară din 1976, stadionul are cel mai înalt turn înclinat din lume.", en: "Built for the 1976 Summer Olympics, it features the world's tallest inclined tower." },
+    description: { de: "Das Stadion wurde für die Olympischen Sommerspiele 1976 gebaut und hat den höchsten geneigten Turm der Welt.", hu: "Az 1976-os nyári olimpiára épült stadion, a világ legmagasabb ferde tornyával.", ro: "Stadionul Olimpic din Montreal a fost construit pentru Jocurile din 1976. R?m?ne unul dintre cele mai recunoscute repere sportive ale ora?ului.", en: "Built for the 1976 Summer Olympics, it features the world's tallest inclined tower." },
     facts: {
       de: ["Spitzname 'The Big O'", "Schrägster Turm der Welt (165 m)", "Ehemalige Heimat der Montreal Expos (MLB)", "Schiebedach wurde nie voll funktionsfähig"],
       hu: ["'The Big O' a beceneve", "A világ legferdébb tornya (165 m)", "A Montreal Expos (MLB) korábbi otthona", "A behúzható tető soha nem lett teljesen működőképes"],
-      ro: ["Poreclit \\\"The Big O\\\"", "Cel mai înalt turn înclinat din lume (165 m)", "Fosta casă a echipei Montreal Expos (MLB)", "Acoperișul retractabil nu a fost niciodată complet funcțional"],
+      ro: ["?n Montreal", "Pentru JO 1976", "Reper sportiv"],
       en: ["Nicknamed 'The Big O'", "World's tallest inclined tower (165m)", "Former home of the Montreal Expos (MLB)", "Retractable roof never became fully operational"]
     }, image: "/poi-images/olympic-stadium-montreal-landmarks-v2.webp"},
   {
@@ -129,11 +129,11 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-BC",
     coords: [-123.112, 49.2767],
     name: { de: "BC Place Stadium", hu: "BC Place Stadion", ro: "Stadionul BC Place", en: "BC Place Stadium" },
-    description: { de: "Ein Mehrzweckstadion in Vancouver mit einem Schiebedach, das von Kabeln getragen wird.", hu: "Többcélú stadion Vancouverben, kábelekkel támogatott, behúzható tetővel.", ro: "Un stadion multifuncțional din Vancouver cu un acoperiș retractabil susținut de cabluri.", en: "A multi-purpose stadium in Vancouver with a cable-supported retractable roof." },
+    description: { de: "Ein Mehrzweckstadion in Vancouver mit einem Schiebedach, das von Kabeln getragen wird.", hu: "Többcélú stadion Vancouverben, kábelekkel támogatott, behúzható tetővel.", ro: "BC Place este stadionul multifunc?ional din Vancouver, cunoscut pentru acoperi?ul s?u ?i pentru evenimentele majore. Este un punct central al zonei sportive locale.", en: "A multi-purpose stadium in Vancouver with a cable-supported retractable roof." },
     facts: {
       de: ["Heimat der BC Lions (CFL) und Vancouver Whitecaps FC (MLS)", "Größtes luftgestütztes Schiebedach der Welt", "Veranstaltungsort für Eröffnungs- und Abschlussfeiern der Olympiade 2010", "Charakteristische 'Kissen'-Optik bei Nacht"],
       hu: ["A BC Lions (CFL) és a Vancouver Whitecaps FC (MLS) otthona", "A világ legnagyobb, kábelekkel támogatott, behúzható teteje", "A 2010-es olimpia nyitó- és záróünnepségének helyszíne", "Jellegzetes 'párna' kinézet éjjel"],
-      ro: ["Casa echipelor BC Lions (CFL) și Vancouver Whitecaps FC (MLS)", "Cel mai mare acoperiș retractabil susținut de cabluri din lume", "Locația ceremoniilor olimpice din 2010", "Aspect distinctiv de \\\"pernă\\\" noaptea"],
+      ro: ["?n Vancouver", "Stadion multifunc?ional", "Cunoscut pentru acoperi?"],
       en: ["Home to BC Lions (CFL) and Vancouver Whitecaps FC (MLS)", "World's largest cable-supported retractable roof", "Venue for 2010 Olympics opening and closing ceremonies", "Distinctive 'pillow' look when lit at night"]
     }, image: "/poi-images/bc-place-stadium-landmarks-v2.webp"},
   {
@@ -168,11 +168,11 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.3948, 43.6677],
     name: { de: "Royal Ontario Museum", hu: "Királyi Ontario Múzeum", ro: "Muzeul Regal Ontario", en: "Royal Ontario Museum" },
-    description: { de: "Ein großes Museum in Toronto, bekannt für seine Mischung aus historischer und moderner Architektur.", hu: "Nagy múzeum Torontóban, a történelmi és modern építészet keverékéről ismert.", ro: "Un muzeu important din Toronto, cunoscut pentru amestecul său de arhitectură istorică și modernă.", en: "A major museum in Toronto, known for its mix of historic and modern architecture." },
+    description: { de: "Ein großes Museum in Toronto, bekannt für seine Mischung aus historischer und moderner Architektur.", hu: "Nagy múzeum Torontóban, a történelmi és modern építészet keverékéről ismert.", ro: "Royal Ontario Museum din Toronto este unul dintre cele mai mari muzee din Canada. Colec?iile sale acoper? istorie natural?, art? ?i cultur?.", en: "A major museum in Toronto, known for its mix of historic and modern architecture." },
     facts: {
       de: ["Spitzname 'ROM'", "Michael Lee-Chin Crystal Anbau", "Umfassende Sammlungen zu Weltkulturen und Naturgeschichte", "Kanadas größtes Museum"],
       hu: ["'ROM' a beceneve", "Michael Lee-Chin Kristály-bővítmény", "Világkultúrák és természettörténeti gyűjtemények", "Kanada legnagyobb múzeuma"],
-      ro: ["Poreclit \\\"ROM\\\"", "Extensia Michael Lee-Chin Crystal", "Colecții vaste de cultură mondială și istorie naturală", "Cel mai mare muzeu din Canada"],
+      ro: ["?n Toronto", "Printre cele mai mari muzee", "Colec?ii variate"],
       en: ["Nicknamed the 'ROM'", "Features the Michael Lee-Chin Crystal addition", "Vast collections of world culture and natural history", "Canada's largest museum"]
     }, image: "/poi-images/royal-ontario-museum-landmarks-v2.webp"},
   {
@@ -207,11 +207,11 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.4097, 43.678],
     name: { de: "Casa Loma", hu: "Casa Loma", ro: "Casa Loma", en: "Casa Loma" },
-    description: { de: "Ein schlossartiges Herrenhaus im neugotischen Stil in Toronto.", hu: "Neogótikus stílusú, kastélyszerű kúria Torontóban.", ro: "Un conac în stil neogotic din Toronto.", en: "A Gothic Revival style mansion and garden in midtown Toronto." },
+    description: { de: "Ein schlossartiges Herrenhaus im neugotischen Stil in Toronto.", hu: "Neogótikus stílusú, kastélyszerű kúria Torontóban.", ro: "Casa Loma este un castel urban din Toronto, ridicat la ?nceputul secolului al XX-lea. Cl?direa este ast?zi un reper turistic foarte cunoscut.", en: "A Gothic Revival style mansion and garden in midtown Toronto." },
     facts: {
       de: ["Erbaut von Sir Henry Pellatt", "Bedeutet 'Haus auf dem Hügel' auf Spanisch", "Beliebter Drehort für Filme", "Heute ein Museum und Veranstaltungsort"],
       hu: ["Sir Henry Pellatt építtette", "Spanyolul 'Ház a dombon'-t jelent", "Népszerű filmforgatási helyszín", "Ma múzeum és rendezvényhelyszín"],
-      ro: ["Construit de Sir Henry Pellatt", "Înseamnă \\\"Casă pe Deal\\\" în spaniolă", "Locație populară pentru filmări", "Acum un muzeu și loc de evenimente"],
+      ro: ["?n Toronto", "Castel urban", "Construit la ?nceputul secolului XX"],
       en: ["Built by Sir Henry Pellatt", "Means 'Hill House' in Spanish", "Popular filming location", "Now a museum and event venue"]
     }, image: "/poi-images/casa-loma-landmarks-v2.webp"},
   {
@@ -311,12 +311,12 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.3708, 43.6489],
     name: { de: "Gooderham Building", hu: "Gooderham-épület", ro: "Clădirea Gooderham", en: "Gooderham Building" },
-    description: { de: "Ein historisches 'Flatiron'-Gebäude in Toronto.", hu: "Történelmi 'Vasalóház' épület Torontóban.", ro: "O clădire istorică de tip \\\"Flatiron\\\" în Toronto.", en: "A historic 'Flatiron' style building in Toronto." },
+    description: { de: "Das Gooderham Building ist ein markantes Flatiron-Gebäude in Downtown Toronto.", hu: "A Gooderham Building Toronto egyik legismertebb épülete, a város laposvas épületének is nevezik. Tégla homlokzata és ék alakú formája miatt könnyen felismerhető.", ro: "O clădire istorică de tip \\\"Flatiron\\\" în Toronto.", en: "The Gooderham Building is a historic wedge-shaped landmark in downtown Toronto. Its narrow footprint and red brick facade make it one of the city's most recognizable buildings." },
     facts: {
-      de: ["Roter Backstein, Keilform", "Erbaut 1892", "Vor dem bekannteren Flatiron Building in New York", "Ikonischer Anblick mit der Skyline im Hintergrund"],
-      hu: ["Vörös tégla, ék alakú", "1892-ben épült", "Megelőzte a híresebb New York-i Flatiron Buildinget", "Ikonikus látvány a háttérben lévő felhőkarcolókkal"],
+      de: ["Erbaut 1892", "Dreieckige Form", "Wahrzeichen im Flatiron-Stil"],
+      hu: ["Torontóban áll", "Ék alakú homlokzata van", "A 19. század végén épült"],
       ro: ["Cărămidă roșie, formă de pană", "Construită în 1892", "Precedă mai faimoasa Clădire Flatiron din New York", "Vedere iconică cu zgârie-norii în fundal"],
-      en: ["Red-brick, wedge-shaped design", "Built in 1892", "Predates the more famous Flatiron Building in NYC", "Iconic view with the skyline behind it"]
+      en: ["Built in 1892", "Red-brick wedge shape", "Predates New York's Flatiron Building"]
     }, image: "/poi-images/gooderham-building-landmarks-v2.webp"},
   {
     id: "hartland-covered-bridge-landmarks-v2",
@@ -324,9 +324,9 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-NB",
     coords: [-67.5278, 46.295],
     name: { de: "Hartland Covered Bridge", hu: "Hartlandi fedett híd", ro: "Podul acoperit Hartland", en: "Hartland Covered Bridge" },
-    description: { de: "Die längste gedeckte Brücke der Welt in New Brunswick.", hu: "A világ leghosszabb fedett hídja New Brunswickben.", ro: "Cel mai lung pod acoperit din lume, în New Brunswick.", en: "The world's longest covered bridge, located in New Brunswick." },
+    description: { de: "Die Hartland Covered Bridge ist die bekannteste überdachte Brücke in New Brunswick.", hu: "A világ leghosszabb fedett hídja New Brunswickben.", ro: "Cel mai lung pod acoperit din lume, în New Brunswick.", en: "The world's longest covered bridge, located in New Brunswick." },
     facts: {
-      de: ["391 Meter lang", "Überquert den Saint John River", "Nationale historische Stätte", "Einspurige Verkehrsführung"],
+      de: ["Über den Saint John River", "In Hartland", "Als längste überdachte Brücke bekannt"],
       hu: ["391 méter hosszú", "Átível a Saint John folyón", "Nemzeti történelmi emlékhely", "Egysávos forgalom"],
       ro: ["391 de metri lungime", "Traversează râul Saint John", "Sit istoric național", "Trafic pe o singură bandă"],
       en: ["391 metres (1,282 ft) long", "Crosses the Saint John River", "National Historic Site", "Single-lane traffic"]
@@ -337,12 +337,12 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-NS",
     coords: [-63.585, 44.663],
     name: { de: "Angus L. Macdonald Bridge", hu: "Angus L. Macdonald híd", ro: "Podul Angus L. Macdonald", en: "Angus L. Macdonald Bridge" },
-    description: { de: "Eine Hängebrücke, die Halifax und Dartmouth über den Hafen verbindet.", hu: "Függőhíd, amely Halifaxot és Dartmouthot köti össze a kikötő felett.", ro: "Un pod suspendat care leagă Halifax de Dartmouth peste port.", en: "A suspension bridge connecting Halifax and Dartmouth over the harbour." },
+    description: { de: "Die Angus L. Macdonald Bridge verbindet Halifax und Dartmouth über den Hafen.", hu: "Függőhíd, amely Halifaxot és Dartmouthot köti össze a kikötő felett.", ro: "Macdonald Bridge leag? Halifax de Dartmouth peste portul ora?ului. Este una dintre conexiunile clasice ale zonei metropolitane Halifax.", en: "The Angus L. Macdonald Bridge connects Halifax and Dartmouth across the harbour. It is a vital part of daily travel in the Halifax region." },
     facts: {
-      de: ["Eröffnet 1955", "Spitzname 'The Old Bridge'", "Wichtige Verkehrsverbindung", "Bietet einen Weg für Fußgänger und Radfahrer"],
+      de: ["Eröffnet 1955", "Verbindet Halifax und Dartmouth", "Hängebrücke über den Hafen"],
       hu: ["1955-ben nyílt meg", "'A Régi Híd' a beceneve", "Fontos közlekedési kapcsolat", "Gyalogosok és kerékpárosok számára is van útja"],
-      ro: ["Inaugurat în 1955", "Poreclit \\\"Podul Vechi\\\"", "Legătură de transport vitală", "Are o cale pentru pietoni și bicicliști"],
-      en: ["Opened in 1955", "Nicknamed 'The Old Bridge'", "A vital transportation link", "Has a dedicated lane for pedestrians and cyclists"]
+      ro: ["Halifax ?i Dartmouth", "Peste port", "Pod suspendat"],
+      en: ["Opened in 1955", "Connects Halifax and Dartmouth", "Nicknamed the Old Bridge"]
     }, image: "/poi-images/macdonald-bridge-halifax-landmarks-v2.webp"},
   {
     id: "winnipeg-legislative-building-landmarks-v2",
@@ -350,11 +350,11 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-MB",
     coords: [-97.1461, 49.8844],
     name: { de: "Manitoba Legislative Building", hu: "Manitoba Törvényhozási Épület", ro: "Clădirea Legislativă din Manitoba", en: "Manitoba Legislative Building" },
-    description: { de: "Der Sitz der gesetzgebenden Versammlung von Manitoba in Winnipeg.", hu: "Manitoba törvényhozó gyűlésének székhelye Winnipegben.", ro: "Sediul Adunării Legislative din Manitoba, în Winnipeg.", en: "The seat of the Legislative Assembly of Manitoba, located in Winnipeg." },
+    description: { de: "Der Sitz der gesetzgebenden Versammlung von Manitoba in Winnipeg.", hu: "Manitoba törvényhozó gyűlésének székhelye Winnipegben.", ro: "Cl?direa Legislativului din Winnipeg g?zduie?te parlamentul provinciei Manitoba. Este cunoscut? pentru arhitectura sa neoclasic? ?i pentru dom.", en: "The seat of the Legislative Assembly of Manitoba, located in Winnipeg." },
     facts: {
       de: ["Neoklassizistische Architektur", "Gekrönt von der 'Golden Boy'-Statue", "Enthält hermetische und freimaurerische Symbole", "Erbaut aus Tyndall-Stein"],
       hu: ["Neoklasszikus építészet", "'Aranyfiú' szobor koronázza", "Hermetikus és szabadkőműves szimbólumokat tartalmaz", "Tyndall kőből épült"],
-      ro: ["Arhitectură neoclasică", "Încununată de statuia \\\"Golden Boy\\\"", "Conține simboluri hermetice și masonice", "Construită din piatră de Tyndall"],
+      ro: ["?n Winnipeg", "Sediul legislativului Manitobei", "Arhitectur? neoclasic?"],
       en: ["Neoclassical architecture", "Topped by the 'Golden Boy' statue", "Contains hermetic and Masonic symbols", "Built with Tyndall stone"]
     }, image: "/poi-images/winnipeg-legislative-building-landmarks-v2.webp"},
   {
@@ -376,12 +376,12 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     parent: "CA-AB",
     coords: [-113.486, 53.541],
     name: { de: "Edmonton Standseilbahn", hu: "Edmontoni sikló", ro: "Funicularul din Edmonton", en: "Edmonton Funicular" },
-    description: { de: "Eine gläserne Standseilbahn, die die Innenstadt mit dem Flusstal verbindet.", hu: "Üveg sikló, amely összeköti a belvárost a folyóvölggyel.", ro: "Un funicular de sticlă care leagă centrul orașului de valea râului.", en: "A glass funicular connecting the downtown area to the river valley." },
+    description: { de: "Eine gläserne Standseilbahn, die die Innenstadt mit dem Flusstal verbindet.", hu: "Üveg sikló, amely összeköti a belvárost a folyóvölggyel.", ro: "Un funicular de sticlă care leagă centrul orașului de valea râului.", en: "The Edmonton Funicular is a glass elevator system that links downtown with the river valley. It gives easy access to views and paths above the North Saskatchewan River." },
     facts: {
       de: ["Mechanisierter Aufzug für alle zugänglich", "Panoramablick auf das North Saskatchewan River Valley", "Verbindet mit einem Aussichtspunkt und einer Brücke", "Kostenlos zu benutzen"],
       hu: ["Mindenki számára hozzáférhető gépesített felvonó", "Panorámás kilátás az Észak-Saskatchewan folyó völgyére", "Kilátóponthoz és hídhoz csatlakozik", "Ingyenesen használható"],
       ro: ["Ascensor mecanizat accesibil tuturor", "Vederi panoramice ale văii râului North Saskatchewan", "Conectează la un punct de belvedere și un pod", "Utilizare gratuită"],
-      en: ["Mechanized elevator accessible to all", "Panoramic views of the North Saskatchewan River Valley", "Connects to a lookout point and bridge", "Free to use"]
+      en: ["Free to use", "Connects downtown to the river valley", "Offers views of the North Saskatchewan River"]
     }, image: "/poi-images/edmonton-funicular-landmarks-v2.webp"},
   {
     id: "prince-edward-viaduct-toronto-landmarks-v2",

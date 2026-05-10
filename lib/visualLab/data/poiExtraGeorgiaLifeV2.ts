@@ -13,8 +13,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["A neve azt jelenti: síró.", "Magas az éves csapadékmennyiség.", "Barnamedvék és hiúzok otthona.", "Népszerű drótkötélpályás (zipline) helyszín."],
       ro: ["Numele înseamnă plângând.", "Precipitații anuale ridicate.", "Găzduiește urși bruni și râși.", "Popular pentru tiroliană."],
       en: ["The name translates to crying.", "High annual rainfall.", "Home to brown bears and lynxes.", "Popular spot for ziplining."]
-    }
-  },
+    }, image: "/poi-images/ge-mtirala-national-park-life-v2.webp"},
   {
     id: "ge-vashlovani-national-park-life-v2",
     type: "wildlife-area",
@@ -27,8 +26,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Félsivatagi tájairól ismert.", "Leopárdok és csíkos hiénák menedéke.", "Számos aktív iszapvulkán található itt.", "Népszerű a terepjárós szafarik körében."],
       ro: ["Cunoscut pentru peisajele de semideșert.", "Găzduiește leoparzi și hiene dungate.", "Numeroși vulcani noroioși activi.", "Popular pentru safari off-road."],
       en: ["Known for semi-desert landscapes.", "Home to leopards and striped hyenas.", "Features numerous active mud volcanoes.", "Popular for off-road safaris."]
-    }
-  },
+    }, image: "/poi-images/ge-vashlovani-national-park-life-v2.webp"},
   {
     id: "ge-lagodekhi-reserve-life-v2",
     type: "wildlife-area",
@@ -55,8 +53,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Több mint 2000 méteres magasságban fekszik.", "A veszélyes Abano-hágón át közelíthető meg.", "Ősi kaukázusi hagyományokat őriz.", "Mély fenyőerdeiről ismert."],
       ro: ["Situat la peste 2000 de metri altitudine.", "Accesibil prin periculosul pas Abano.", "Păstrează vechile tradiții caucaziene.", "Cunoscut pentru pădurile adânci de pin."],
       en: ["Located at an altitude of over 2000 meters.", "Accessed via the dangerous Abano Pass.", "Preserves ancient Caucasian traditions.", "Known for deep pine forests."]
-    }
-  },
+    }, image: "/poi-images/ge-tusheti-national-park-life-v2.webp"},
   {
     id: "ge-kolkheti-national-park-life-v2",
     type: "wildlife-area",
@@ -69,8 +66,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Fontos telelőhely a madarak számára.", "Magában foglalja a Paliasztomi-tavat.", "Az ókori Kolkhidát idézi.", "Ritka tőzeglápokról ismert."],
       ro: ["Zonă importantă de iernare pentru păsări.", "Include Lacul Paliastomi.", "Amintește de antica Colchis.", "Cunoscut pentru turbăriile rare."],
       en: ["Important wintering area for birds.", "Includes Lake Paliastomi.", "Reminiscent of ancient Colchis.", "Known for rare peat bogs."]
-    }
-  },
+    }, image: "/poi-images/ge-kolkheti-national-park-life-v2.webp"},
   {
     id: "ge-javakheti-reserve-life-v2",
     type: "wildlife-area",
@@ -83,8 +79,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Vulkanikus fennsíkon fekszik.", "Számos endemikus madárfaj otthona.", "Rendkívül hideg téli hónapok jellemzik.", "Grúzia legnagyobb tavait védi."],
       ro: ["Situat pe un platou vulcanic.", "Găzduiește multe specii de păsări endemice.", "Luni de iarnă extrem de reci.", "Protejează cele mai mari lacuri din Georgia."],
       en: ["Located on a volcanic plateau.", "Home to many endemic bird species.", "Extremely cold winter months.", "Protects the largest lakes in Georgia."]
-    }
-  },
+    }, image: "/poi-images/ge-javakheti-reserve-life-v2.webp"},
   {
     id: "ge-kintrishi-reserve-life-v2",
     type: "wildlife-area",
@@ -97,8 +92,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Nagyon nedves szubtrópusi éghajlat.", "Ritka kaukázusi szalamandrák élőhelye.", "Középkori kőhidak találhatók itt.", "Sűrű gesztenye- és bükkerdők."],
       ro: ["Climat subtropical foarte umed.", "Găzduiește salamandre caucaziene rare.", "Conține poduri în arc medievale.", "Păduri dense de castani și fagi."],
       en: ["Very humid subtropical climate.", "Home to rare Caucasian salamanders.", "Features medieval arch bridges.", "Dense chestnut and beech forests."]
-    }
-  },
+    }, image: "/poi-images/ge-kintrishi-reserve-life-v2.webp"},
   {
     id: "ge-algeti-national-park-life-v2",
     type: "park",
@@ -111,8 +105,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Sűrű luc- és jegenyefenyő erdőket véd.", "Régészeti lelőhelyekben gazdag.", "Ideális könnyű túrákhoz.", "Őzek és vaddisznók élőhelye."],
       ro: ["Protejează pădurile dense de molid și brad.", "Bogată în situri arheologice.", "Ideală pentru drumeții ușoare.", "Găzduiește căprioare și mistreți."],
       en: ["Protects dense spruce and fir forests.", "Rich in archaeological sites.", "Ideal for light hiking.", "Home to roe deer and wild boars."]
-    }
-  },
+    }, image: "/poi-images/ge-algeti-national-park-life-v2.webp"},
   {
     id: "ge-machakhela-national-park-life-v2",
     type: "park",
@@ -125,8 +118,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Közvetlenül Törökországgal határos.", "Régi erődromokról ismert.", "Helyi kézműves hagyományokat őriz.", "Fontos a kaukázusi barnamedve védelmében."],
       ro: ["Se învecinează direct cu Turcia.", "Cunoscut pentru ruinele vechilor cetăți.", "Păstrează tradițiile meșteșugărești locale.", "Important pentru protejarea ursului brun caucazian."],
       en: ["Borders directly on Turkey.", "Known for old fortress ruins.", "Preserves local craft traditions.", "Important for the protection of the Caucasian brown bear."]
-    }
-  },
+    }, image: "/poi-images/ge-machakhela-national-park-life-v2.webp"},
   {
     id: "ge-tbilisi-botanical-garden-life-v2",
     type: "park",
@@ -139,8 +131,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["1845-ben alapították.", "Egykor királyi palotakert volt.", "Több mint 4500 növényfaj található itt.", "A központban egy nagy vízesés van."],
       ro: ["Fondată în anul 1845.", "Cândva o grădină a palatului regal.", "Găzduiește peste 4500 de specii de plante.", "O cascadă mare în centru."],
       en: ["Founded in the year 1845.", "Once a royal palace garden.", "Home to over 4500 plant species.", "Features a large waterfall in the center."]
-    }
-  },
+    }, image: "/poi-images/ge-tbilisi-botanical-garden-life-v2.webp"},
   {
     id: "ge-rike-park-life-v2",
     type: "park",
@@ -153,8 +144,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Futurisztikus koncertterem a parkban.", "A Narikala erődhöz vezető felvonó kiindulópontja.", "Felülről Grúzia térképét formázza.", "Táncoló szökőkutak nyáron."],
       ro: ["Sală de concerte futuristă în parc.", "Punct de plecare al telecabinei spre cetatea Narikala.", "În formă de harta Georgiei din aer.", "Fântâni dansatoare vara."],
       en: ["Futuristic concert hall located in the park.", "Starting point of the cable car to Narikala Fortress.", "Shaped like the map of Georgia from above.", "Dancing fountains in the summer."]
-    }
-  },
+    }, image: "/poi-images/ge-rike-park-life-v2.webp"},
   {
     id: "ge-vake-park-life-v2",
     type: "park",
@@ -167,8 +157,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["1946-ban nyitották meg.", "Hatalmas második világháborús győzelmi szobor.", "Saját szabadtéri mozival rendelkezik.", "Drótkötélpálya visz a Teknős-tóhoz."],
       ro: ["Deschis în anul 1946.", "Statuie uriașă a Victoriei din al Doilea Război Mondial.", "Are propriul cinematograf în aer liber.", "Telecabină spre Lacul Țestoaselor."],
       en: ["Opened in the year 1946.", "Huge statue of Victory in World War II.", "Features its own open-air cinema.", "Cable car leading to Turtle Lake."]
-    }
-  },
+    }, image: "/poi-images/ge-vake-park-life-v2.webp"},
   {
     id: "ge-mtatsminda-park-life-v2",
     type: "kid-friendly",
@@ -181,8 +170,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Az 1930-as években alapították.", "Óriáskerék a szikla szélén.", "A jelképes TV-torony a közelben található.", "Népszerű az esti városi panoráma miatt."],
       ro: ["Fondat în anii 1930.", "Roată panoramică la marginea stâncii.", "Turnul TV emblematic în apropiere.", "Popular pentru priveliștile nocturne ale orașului."],
       en: ["Founded in the 1930s.", "Ferris wheel on the edge of the cliff.", "Landmark TV tower nearby.", "Popular for evening city views."]
-    }
-  },
+    }, image: "/poi-images/ge-mtatsminda-park-life-v2.webp"},
   {
     id: "ge-mushtaidi-park-life-v2",
     type: "kid-friendly",
@@ -195,8 +183,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Az 1830-as években alapították.", "Mir Fatah Agha után nevezték el.", "Itt található a világ első gyermekvasútja.", "Számos öreg selyemfa él itt."],
       ro: ["Fondat în anii 1830.", "Numit după Mir Fatah Agha.", "Găzduiește prima cale ferată pentru copii din lume.", "Numeroși arbori de mătase bătrâni."],
       en: ["Founded in the 1830s.", "Named after Mir Fatah Agha.", "Hosts the first children's railway in the world.", "Numerous old silk trees."]
-    }
-  },
+    }, image: "/poi-images/ge-mushtaidi-park-life-v2.webp"},
   {
     id: "ge-tsitsinatela-life-v2",
     type: "kid-friendly",
@@ -209,8 +196,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["A neve szentjánosbogarat jelent.", "A nyári hónapokban esténként nyit.", "Több mint 35 különböző attrakció.", "Nagy óriáskerék tengerre néző kilátással."],
       ro: ["Numele înseamnă licurici.", "Se deschide seara în lunile de vară.", "Peste 35 de atracții diferite.", "Roată panoramică mare cu vedere la mare."],
       en: ["The name means firefly.", "Opens in the evenings during summer months.", "Over 35 different rides.", "Large Ferris wheel with a sea view."]
-    }
-  },
+    }, image: "/poi-images/ge-tsitsinatela-life-v2.webp"},
   {
     id: "ge-kakheti-vineyards-life-v2",
     type: "agriculture",
@@ -223,8 +209,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["Grúziát a bor bölcsőjének tartják.", "A kvevri módszer UNESCO kulturális örökség.", "A Rkatsiteli egy fő szőlőfajta.", "A nyár vége a szüret (Rtveli) ideje."],
       ro: ["Georgia este considerată leagănul vinului.", "Metoda Qvevri este patrimoniu cultural UNESCO.", "Rkatsiteli este un soi principal de struguri.", "Sfârșitul verii este timpul recoltării vinului (Rtveli)."],
       en: ["Georgia is considered the cradle of wine.", "Qvevri method is UNESCO cultural heritage.", "Rkatsiteli is a main grape variety.", "Late summer is the time for the grape harvest (Rtveli)."]
-    }
-  },
+    }, image: "/poi-images/ge-kakheti-vineyards-life-v2.webp"},
   {
     id: "ge-imereti-tea-plantations-life-v2",
     type: "agriculture",
@@ -251,8 +236,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["A grúz mandarinok fő termőterülete.", "A betakarítási szezon novemberben kezdődik.", "A szubtrópusi éghajlat megakadályozza a fagykárokat.", "A régió fontos exportcikke."],
       ro: ["Principala zonă de cultivare pentru mandarinele georgiene.", "Sezonul de recoltare începe în noiembrie.", "Clima subtropicală previne daunele provocate de îngheț.", "Un important articol de export al regiunii."],
       en: ["Main growing area for Georgian tangerines.", "Harvest season begins in November.", "Subtropical climate prevents frost damage.", "An important export item of the region."]
-    }
-  },
+    }, image: "/poi-images/ge-guria-citrus-orchards-life-v2.webp"},
   {
     id: "ge-racha-vineyards-life-v2",
     type: "agriculture",
@@ -265,8 +249,7 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
       hu: ["A híres Khvanchkara bor hazája.", "Nagyon korlátozott termőterület a hegyvidéki régiókban.", "A hűvös éghajlat különleges aromákat biztosít.", "Gyakran grúz Svájcként emlegetik."],
       ro: ["Patria faimosului vin Khvanchkara.", "Suprafață de cultivare foarte limitată în regiunile montane.", "Clima răcoroasă oferă arome deosebite.", "Adesea denumită Elveția georgiană."],
       en: ["Home to the famous Khvanchkara wine.", "Very limited cultivation area in mountainous regions.", "Cool climate provides special aromas.", "Often referred to as the Georgian Switzerland."]
-    }
-  },
+    }, image: "/poi-images/ge-racha-vineyards-life-v2.webp"},
   {
     id: "ge-batumi-dolphinarium-life-v2",
     type: "kid-friendly",

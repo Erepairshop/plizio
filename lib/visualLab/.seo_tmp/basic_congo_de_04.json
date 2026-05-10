@@ -1,0 +1,88 @@
+{
+  "lang": "de",
+  "country": "Congo",
+  "files": [
+    "lib/visualLab/data/poiExtraCongoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCongoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCongoLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCongoNatureV2.ts",
+    "lib/visualLab/data/poiExtraCongoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cg-linzolo-mission-history-v2",
+      "description": "Gegründet im Jahr 1883, war die Mission von Linzolo die erste katholische Missionsstation im heutigen Kongo. Der Ort markiert den Beginn einer neuen religiösen und schulischen Präsenz in der Region.",
+      "facts": ["Gegründet 1883", "Erste katholische Mission im Land", "Historischer Missionsort", "Wichtige frühe Kirche"]
+    },
+    {
+      "id": "cg-case-de-gaulle-history-v2",
+      "description": "Die Case de Gaulle erinnert an die französische Kolonialzeit in Brazzaville. Das Gebäude steht für die politische und militärische Geschichte der Hauptstadt im 20. Jahrhundert.",
+      "facts": ["In Brazzaville", "Kolonialzeit", "Historisches Gebäude", "Mit Frankreich verbunden"]
+    },
+    {
+      "id": "cg-sacre-coeur-cathedral-history-v2",
+      "description": "Die Kathedrale Sacré-Cœur ist eine bedeutende katholische Kirche in Brazzaville. Sie prägt das religiöse Stadtbild der Hauptstadt mit ihrer markanten Lage und Architektur.",
+      "facts": ["In Brazzaville", "Katholische Kathedrale", "Religiöses Wahrzeichen", "Markante Architektur"]
+    },
+    {
+      "id": "cg-pointe-noire-lighthouse-history-v2",
+      "description": "Der Leuchtturm von Pointe-Noire sicherte die Navigation an der Atlantikküste. Er steht für die maritime Geschichte der Hafenstadt und ihren Bezug zum Meer.",
+      "facts": ["An der Atlantikküste", "Navigation für Schiffe", "Teil der Hafenstadt", "Maritime Geschichte"]
+    },
+    {
+      "id": "cg-boundji-old-mission-history-v2",
+      "description": "Die alte Mission von Boundji erinnert an die frühe kirchliche Präsenz im nördlichen Inland. Sie ist ein stilles Zeugnis der Missionsgeschichte in der Cuvette.",
+      "facts": ["In der Cuvette", "Frühe Missionsstation", "Historischer Ort", "Kirchliches Erbe"]
+    },
+    {
+      "id": "cg-poste-alima-history-v2",
+      "description": "Der alte Posten an der Alima war ein früher Stützpunkt am Fluss. Er verweist auf die Kolonialgeschichte der Wasserwege im Zentrum des Landes.",
+      "facts": ["Am Alima-Fluss", "Früher Stützpunkt", "Kolonialgeschichte", "Wasserwege im Fokus"]
+    },
+    {
+      "id": "cg-ngabe-historic-site-history-v2",
+      "description": "Ngabé ist ein historischer Ort am Kongo-Fluss mit alten Herrschafts- und Handelsbezügen. Die Stätte erinnert an die frühe regionale Machtgeschichte.",
+      "facts": ["Am Kongo-Fluss", "Historischer Ort", "Handelsgeschichte", "Regionale Machttradition"]
+    },
+    {
+      "id": "cg-old-court-brazzaville-history-v2",
+      "description": "Das alte Gerichtshaus in Brazzaville stammt aus der Kolonialzeit. Es zeigt die frühe Verwaltungsarchitektur der Hauptstadt.",
+      "facts": ["In Brazzaville", "Aus der Kolonialzeit", "Ehemaliges Gerichtsgebäude", "Verwaltungsarchitektur"]
+    },
+    {
+      "id": "cg-fort-rousset-old-fort-history-v2",
+      "description": "Der alte Fortkern von Fort-Rousset erinnert an die frühe militärische Präsenz im Zentrum des Landes. Der Ort ist ein wichtiges Zeugnis der kolonialen Grenzsicherung.",
+      "facts": ["Im Zentrum des Landes", "Ehemalige Festung", "Militärische Präsenz", "Koloniales Zeugnis"]
+    },
+    {
+      "id": "cg-kindamba-old-mission-history-v2",
+      "description": "Die alte Mission von Kindamba gehört zu den frühen christlichen Stützpunkten im Pool. Sie ist ein Zeugnis der Missionsgeschichte im Süden.",
+      "facts": ["Im Pool", "Früher christlicher Stützpunkt", "Südlicher Missionsort", "Historisches Erbe"]
+    },
+    {
+      "id": "cg-independence-bridge-history-v2",
+      "description": "Die Brücke des 15. August 1960 in Brazzaville erinnert an den Unabhängigkeitstag des Landes. Sie verbindet wichtige Teile der Hauptstadt.",
+      "facts": ["In Brazzaville", "Erinnerung an 1960", "Unabhängigkeitssymbol", "Wichtige Verbindung"]
+    },
+    {
+      "id": "cg-palais-du-peuple-landmarks-v2",
+      "description": "Das Palais du Peuple ist eines der wichtigsten Regierungsgebäude in Brazzaville. Hier finden staatliche Sitzungen und offizielle Zeremonien statt.",
+      "facts": ["In Brazzaville", "Regierungsgebäude", "Ort offizieller Zeremonien", "Politisches Zentrum"]
+    },
+    {
+      "id": "cg-maya-maya-airport-landmarks-v2",
+      "description": "Der Terminal am Flughafen Maya-Maya ist das wichtigste Lufttor von Brazzaville. Er verbindet die Hauptstadt mit dem In- und Ausland.",
+      "facts": ["In Brazzaville", "Wichtigstes Lufttor", "Nationaler Flughafen", "Verbindungen ins Ausland"]
+    },
+    {
+      "id": "cg-total-tower-pnr-landmarks-v2",
+      "description": "Der Total Tower steht in Pointe-Noire als modernes Bürogebäude der Erdölwirtschaft. Er gehört zu den markanten Hochpunkten der Küstenstadt.",
+      "facts": ["In Pointe-Noire", "Modernes Bürogebäude", "Mit der Ölwirtschaft verbunden", "Markante Hochhaus-Silhouette"]
+    },
+    {
+      "id": "cg-talangai-viaduct-landmarks-v2",
+      "description": "Das Talangaï-Viadukt ist eine wichtige Brückenkonstruktion im Norden von Brazzaville. Es verbessert den Verkehr zwischen den Stadtteilen.",
+      "facts": ["In Brazzaville", "Nordteil der Stadt", "Wichtige Brücke", "Entlastet den Verkehr"]
+    }
+  ]
+}

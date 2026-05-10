@@ -18,8 +18,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["2018-ban nyílt meg a korszerűsítés után.", "Közép-Ázsiát köti össze Európával."],
       ro: ["Deschis în 2018 după modernizare.", "Conectează Asia Centrală cu Europa."],
       en: ["Opened in 2018 after modernization.", "Connects Central Asia with Europe."]
-    }
-  },
+    }, image: "/poi-images/turkmenbashi-seaport-economic-v2.webp"},
   {
     id: "galkynysh-gas-field-economic-v2",
     type: "energy",
@@ -37,8 +36,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["2006-ban fedezték fel.", "Hatalmas tartalékok a Kínába irányuló exporthoz."],
       ro: ["Descoperit în anul 2006.", "Rezerve uriașe pentru exportul în China."],
       en: ["Discovered in 2006.", "Huge reserves for export to China."]
-    }
-  },
+    }, image: "/poi-images/galkynysh-gas-field-economic-v2.webp"},
   {
     id: "turkmenbashi-oil-refinery-economic-v2",
     type: "industry",
@@ -75,8 +73,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Több mint 3 milliárd dolláros építési költség.", "Polietilént és polipropilént gyárt."],
       ro: ["Costuri de construcție de peste 3 miliarde de dolari.", "Produce polietilenă și polipropilenă."],
       en: ["Construction cost of over 3 billion dollars.", "Produces polyethylene and polypropylene."]
-    }
-  },
+    }, image: "/poi-images/kiyanly-polymer-plant-economic-v2.webp"},
   {
     id: "mary-state-power-plant-economic-v2",
     type: "energy",
@@ -94,8 +91,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Földgázzal üzemel.", "Közép-Ázsia fontos energiaforrása."],
       ro: ["Este alimentată cu gaze naturale.", "Sursă importantă de energie pentru Asia Centrală."],
       en: ["Powered by natural gas.", "Important energy source for Central Asia."]
-    }
-  },
+    }, image: "/poi-images/mary-state-power-plant-economic-v2.webp"},
   {
     id: "bagtyyarlyk-gas-field-economic-v2",
     type: "energy",
@@ -113,8 +109,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["A CNPC üzemelteti.", "A Közép-Ázsia–Kína-gázvezeték kiindulópontja."],
       ro: ["Operat de CNPC.", "Punctul de pornire al conductei Asia Centrală-China."],
       en: ["Operated by CNPC.", "Starting point of the Central Asia-China gas pipeline."]
-    }
-  },
+    }, image: "/poi-images/bagtyyarlyk-gas-field-economic-v2.webp"},
   {
     id: "garlyk-potash-mine-economic-v2",
     type: "mine",
@@ -132,8 +127,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Fehérorosz technológiával épült.", "Fontos a műtrágyagyártás szempontjából."],
       ro: ["Construit cu tehnologie belarusă.", "Important pentru producția de îngrășăminte."],
       en: ["Built with Belarusian technology.", "Important for fertilizer production."]
-    }
-  },
+    }, image: "/poi-images/garlyk-potash-mine-economic-v2.webp"},
   {
     id: "ovadandepe-glass-factory-economic-v2",
     type: "industry",
@@ -151,8 +145,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Helyi kvarchomokot használ.", "Csökkenti az importfüggőséget."],
       ro: ["Folosește nisip cuarțos local.", "Reduce dependența de importuri."],
       en: ["Uses local quartz sand.", "Reduces import dependence."]
-    }
-  },
+    }, image: "/poi-images/ovadandepe-glass-factory-economic-v2.webp"},
   {
     id: "ovadandepe-gtg-plant-economic-v2",
     type: "industry",
@@ -170,8 +163,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Haldor Topsoe technológiát használ.", "Szintetikus benzint (ECO-93) állít elő."],
       ro: ["Folosește tehnologia Haldor Topsoe.", "Produce benzină sintetică (ECO-93)."],
       en: ["Uses Haldor Topsoe technology.", "Produces synthetic gasoline (ECO-93)."]
-    }
-  },
+    }, image: "/poi-images/ovadandepe-gtg-plant-economic-v2.webp"},
   {
     id: "ahal-state-power-plant-economic-v2",
     type: "energy",
@@ -189,8 +181,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Gázturbinákkal van felszerelve.", "Biztosítja a főváros energiaellátását."],
       ro: ["Echipată cu turbine pe gaz.", "Asigură aprovizionarea cu energie a capitalei."],
       en: ["Equipped with gas turbines.", "Ensures the capital's energy supply."]
-    }
-  },
+    }, image: "/poi-images/ahal-state-power-plant-economic-v2.webp"},
   {
     id: "dashoguz-cotton-mill-economic-v2",
     type: "industry",
@@ -208,8 +199,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Türkmén pamutot dolgoz fel.", "Fonalakat exportál Európába és Ázsiába."],
       ro: ["Procesează bumbac turkmen.", "Exportă fire în Europa și Asia."],
       en: ["Processes Turkmen cotton.", "Exports yarns to Europe and Asia."]
-    }
-  },
+    }, image: "/poi-images/dashoguz-cotton-mill-economic-v2.webp"},
   {
     id: "balkanabat-iodine-plant-economic-v2",
     type: "industry",
@@ -227,8 +217,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Türkmenisztán vezető jódtermelő.", "Orvosi és technikai jódot exportál."],
       ro: ["Turkmenistanul este un producător de top de iod.", "Exportă iod medical și tehnic."],
       en: ["Turkmenistan is a leading iodine producer.", "Exports medical and technical iodine."]
-    }
-  },
+    }, image: "/poi-images/balkanabat-iodine-plant-economic-v2.webp"},
   {
     id: "hazar-chemical-plant-economic-v2",
     type: "industry",
@@ -246,8 +235,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Sóstavak erőforrásait hasznosítja.", "Fontos a vegyipar számára."],
       ro: ["Folosește resursele din lacurile sărate.", "Important pentru industria chimică."],
       en: ["Utilizes resources from salt lakes.", "Important for the chemical industry."]
-    }
-  },
+    }, image: "/poi-images/hazar-chemical-plant-economic-v2.webp"},
   {
     id: "ashgabat-textile-complex-economic-v2",
     type: "industry",
@@ -265,8 +253,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Farmereket és lakástextíliákat gyárt.", "Európai gépekkel van felszerelve."],
       ro: ["Produce blugi și textile de casă.", "Echipat cu utilaje europene."],
       en: ["Produces jeans and home textiles.", "Equipped with European machinery."]
-    }
-  },
+    }, image: "/poi-images/ashgabat-textile-complex-economic-v2.webp"},
   {
     id: "lebap-cement-plant-economic-v2",
     type: "industry",
@@ -284,8 +271,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Évi 1 millió tonna kapacitás.", "Nemzeti építési projekteket támogat."],
       ro: ["Capacitate de 1 milion de tone anual.", "Sprijină proiectele naționale de construcții."],
       en: ["Capacity of 1 million tons annually.", "Supports national construction projects."]
-    }
-  },
+    }, image: "/poi-images/lebap-cement-plant-economic-v2.webp"},
   {
     id: "dowletabat-gas-field-economic-v2",
     type: "energy",
@@ -303,8 +289,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Fontos az Oroszországba tartó gázvezetékhez.", "Az 1970-es években fedezték fel."],
       ro: ["Important pentru gazoductul către Rusia.", "Descoperit în anii 1970."],
       en: ["Important for the gas pipeline to Russia.", "Discovered in the 1970s."]
-    }
-  },
+    }, image: "/poi-images/dowletabat-gas-field-economic-v2.webp"},
   {
     id: "turkmenabat-silk-factory-economic-v2",
     type: "industry",
@@ -322,8 +307,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Folytatja a Selyemút hagyományát.", "Keteni selyemszöveteket gyárt."],
       ro: ["Continuă tradiția Drumului Mătăsii.", "Produce țesături de mătase Keteni."],
       en: ["Continues the Silk Road tradition.", "Produces Keteni silk fabrics."]
-    }
-  },
+    }, image: "/poi-images/turkmenabat-silk-factory-economic-v2.webp"},
   {
     id: "farap-trade-hub-economic-v2",
     type: "trade-hub",
@@ -341,8 +325,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["Az Észak-Dél közlekedési folyosó része.", "Összeköti a vasúthálózatot Iránnal."],
       ro: ["Parte a coridorului de transport Nord-Sud.", "Conectează rețeaua feroviară cu Iranul."],
       en: ["Part of the North-South transport corridor.", "Connects the railway network with Iran."]
-    }
-  },
+    }, image: "/poi-images/farap-trade-hub-economic-v2.webp"},
   {
     id: "korpeje-gas-field-economic-v2",
     type: "energy",
@@ -360,8 +343,7 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       hu: ["A Körpeje–Kurtkui-vezeték kiindulópontja.", "Az 1990-es években tárták fel."],
       ro: ["Punct de plecare pentru conducta Korpeje-Kurtkui.", "Dezvoltat în anii 1990."],
       en: ["Starting point of the Korpeje-Kurtkui pipeline.", "Developed in the 1990s."]
-    }
-  },
+    }, image: "/poi-images/korpeje-gas-field-economic-v2.webp"},
   {
     id: "garabogaz-sulfate-plant-economic-v2",
     type: "mine",

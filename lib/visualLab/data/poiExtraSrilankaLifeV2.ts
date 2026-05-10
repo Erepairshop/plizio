@@ -13,8 +13,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Jelentős fészkelőhely a madaraknak", "Leopárdok és elefántok otthona", "A keleti parton fekszik"],
       ro: ["Zonă importantă de cuibărit pentru păsări", "Adăpostește leoparzi și elefanți", "Situat pe coasta de est"],
       en: ["Important nesting site for birds", "Home to leopards and elephants", "Located on the east coast"]
-    }
-  },
+    }, image: "/poi-images/kumana-national-park-life-v2.webp"},
   {
     id: "lunugamvehera-national-park-life-v2",
     type: "wildlife-area",
@@ -27,8 +26,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Fontos elefántfolyosó", "Védi a víztározó vízgyűjtő területét", "Gazdag madárvilág és szarvasok"],
       ro: ["Coridor important pentru elefanți", "Protejează bazinul de recepție al lacului", "Faună bogată de păsări și cerbi"],
       en: ["Important elephant corridor", "Protects the reservoir catchment area", "Rich birdlife and deer"]
-    }
-  },
+    }, image: "/poi-images/lunugamvehera-national-park-life-v2.webp"},
   {
     id: "maduru-oya-national-park-life-v2",
     type: "wildlife-area",
@@ -41,8 +39,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Sok ázsiai elefántnak ad otthont", "Ősi buddhista szentélyek", "3. századi gát található itt"],
       ro: ["Găzduiește mulți elefanți asiatici", "Altare budiste antice", "Baraj datând din secolul al III-lea"],
       en: ["Home to many Asian elephants", "Ancient Buddhist shrines", "Features a 3rd-century dam"]
-    }
-  },
+    }, image: "/poi-images/maduru-oya-national-park-life-v2.webp"},
   {
     id: "pigeon-island-national-park-life-v2",
     type: "wildlife-area",
@@ -55,8 +52,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Népszerű sznorkelezési célpont", "Szirticápák otthona", "A szirti galambról kapta nevét"],
       ro: ["Destinație populară pentru snorkeling", "Găzduiește rechini de recif", "Numit după porumbelul de stâncă"],
       en: ["Popular destination for snorkeling", "Home to blacktip reef sharks", "Named after the rock pigeon"]
-    }
-  },
+    }, image: "/poi-images/pigeon-island-national-park-life-v2.webp"},
   {
     id: "hikkaduwa-national-park-life-v2",
     type: "wildlife-area",
@@ -69,8 +65,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Érzékeny korallzátonyokat véd", "Találkozások tengeri teknősökkel", "Üvegfenekű hajótúrák elérhetők"],
       ro: ["Protejează recifele de corali fragile", "Întâlniri cu țestoase marine", "Plimbări cu barca cu fund de sticlă"],
       en: ["Protects fragile coral reefs", "Encounters with sea turtles", "Glass-bottom boat rides available"]
-    }
-  },
+    }, image: "/poi-images/hikkaduwa-national-park-life-v2.webp"},
   {
     id: "lahugala-kitulana-national-park-life-v2",
     type: "wildlife-area",
@@ -83,8 +78,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Nagyon kicsi nemzeti park", "Elefántcsordákat vonz", "Magában foglalja a Lahugala-tavat"],
       ro: ["Parc național foarte mic", "Atrage turme de elefanți", "Include lacul Lahugala"],
       en: ["Very small national park", "Attracts herds of elephants", "Includes the Lahugala lake"]
-    }
-  },
+    }, image: "/poi-images/lahugala-kitulana-national-park-life-v2.webp"},
   {
     id: "royal-botanical-gardens-peradeniya-life-v2",
     type: "park",
@@ -97,8 +91,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["1843-ban alapították", "Nagy orchideaházzal rendelkezik", "Évente több millió látogatót vonz"],
       ro: ["Fondată în 1843", "Deține o mare seră de orhidee", "Atrage milioane de vizitatori anual"],
       en: ["Founded in 1843", "Features a large orchid house", "Attracts millions of visitors annually"]
-    }
-  },
+    }, image: "/poi-images/royal-botanical-gardens-peradeniya-life-v2.webp"},
   {
     id: "hakgala-botanical-garden-life-v2",
     type: "park",
@@ -111,8 +104,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Több mint 1700 méter magasan fekszik", "Rózsakertjeiről híres", "A Hakgala Természetvédelmi Terület mellett van"],
       ro: ["Situată la peste 1700 de metri altitudine", "Cunoscută pentru grădinile de trandafiri", "Adiacentă Rezervației Naturale Hakgala"],
       en: ["Situated over 1700 meters above sea level", "Known for its rose gardens", "Adjacent to the Hakgala Nature Reserve"]
-    }
-  },
+    }, image: "/poi-images/hakgala-botanical-garden-life-v2.webp"},
   {
     id: "henarathgoda-botanical-garden-life-v2",
     type: "park",
@@ -125,8 +117,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["1876-ban alapították", "Ritka trópusi fák otthona", "Fontos volt a korai gumiipar számára"],
       ro: ["Fondată în 1876", "Găzduiește arbori tropicali rari", "Importantă pentru industria timpurie a cauciucului"],
       en: ["Established in 1876", "Home to rare tropical trees", "Important to the early rubber industry"]
-    }
-  },
+    }, image: "/poi-images/henarathgoda-botanical-garden-life-v2.webp"},
   {
     id: "viharamahadevi-park-life-v2",
     type: "park",
@@ -139,8 +130,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Korábban Victoria Park néven volt ismert", "A városházával szemben található", "Népszerű piknikező- és sétálóhely"],
       ro: ["Fostul parc Victoria", "Situat vizavi de Primărie", "Popular pentru picnicuri și plimbări"],
       en: ["Formerly known as Victoria Park", "Located opposite the Town Hall", "Popular for picnics and walks"]
-    }
-  },
+    }, image: "/poi-images/viharamahadevi-park-life-v2.webp"},
   {
     id: "victoria-park-nuwara-eliya-life-v2",
     type: "park",
@@ -153,8 +143,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Viktória királynő gyémántjubileumára nevezték el", "Jó helyszín madármegfigyelésre", "Színes virágágyásokkal rendelkezik"],
       ro: ["Numit cu ocazia Jubileului de Diamant al Reginei Victoria", "Loc bun pentru observarea păsărilor", "Are straturi colorate de flori"],
       en: ["Named for Queen Victoria's Diamond Jubilee", "Good spot for birdwatching", "Features colorful flowerbeds"]
-    }
-  },
+    }, image: "/poi-images/victoria-park-nuwara-eliya-life-v2.webp"},
   {
     id: "ridiyagama-safari-park-life-v2",
     type: "park",
@@ -167,8 +156,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Az első szafaripark Srí Lankán", "2016-ban nyitotta meg kapuit", "Több mint 500 hektáros területen fekszik"],
       ro: ["Primul parc de safari din Sri Lanka", "Deschis în 2016", "Se întinde pe peste 500 de hectare"],
       en: ["The first safari park in Sri Lanka", "Opened in 2016", "Spans over 500 acres of land"]
-    }
-  },
+    }, image: "/poi-images/ridiyagama-safari-park-life-v2.webp"},
   {
     id: "pedro-tea-estate-life-v2",
     type: "agriculture",
@@ -195,8 +183,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Korábban Mackwoods néven volt ismert", "Több mint 1500 méteres magasságban van", "Több ezer hektáron terül el"],
       ro: ["Cunoscută anterior ca Mackwoods", "Situată la peste 1500 de metri", "Acoperă mii de hectare"],
       en: ["Formerly known as Mackwoods", "Located above 1500 meters", "Covers thousands of hectares"]
-    }
-  },
+    }, image: "/poi-images/damro-labookellie-tea-estate-life-v2.webp"},
   {
     id: "handunugoda-tea-estate-life-v2",
     type: "agriculture",
@@ -209,8 +196,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Érintetlen fehér teát termel", "Szedéskor nem érintkezik emberi bőrrel", "A part közelében fekszik"],
       ro: ["Produce ceai alb virgin", "Fără contact uman la cules", "Situată aproape de coastă"],
       en: ["Produces Virgin White Tea", "No human touch during plucking", "Located near the coast"]
-    }
-  },
+    }, image: "/poi-images/handunugoda-tea-estate-life-v2.webp"},
   {
     id: "halpewatte-tea-factory-life-v2",
     type: "agriculture",
@@ -223,8 +209,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["1940-ben alapították", "Az Uva tartomány legnagyobb gyára", "Kiterjedt teakóstolókat kínál"],
       ro: ["Fondată în 1940", "Cea mai mare fabrică din provincia Uva", "Oferă degustări ample de ceai"],
       en: ["Founded in 1940", "Largest factory in Uva Province", "Offers extensive tea tasting sessions"]
-    }
-  },
+    }, image: "/poi-images/halpewatte-tea-factory-life-v2.webp"},
   {
     id: "newburgh-green-tea-factory-life-v2",
     type: "agriculture",
@@ -237,8 +222,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Csak zöld teát állít elő", "Modern feldolgozási technikákat alkalmaz", "Ellában található"],
       ro: ["Produce doar ceai verde", "Folosește tehnici moderne de procesare", "Situată în Ella"],
       en: ["Produces only green tea", "Uses modern processing techniques", "Located in Ella"]
-    }
-  },
+    }, image: "/poi-images/newburgh-green-tea-factory-life-v2.webp"},
   {
     id: "pinnawala-open-zoo-life-v2",
     type: "kid-friendly",
@@ -251,8 +235,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["2015-ben nyílt meg", "Az állatok természetes élőhelyen élnek", "Közvetlenül az elefántárvaház mellett van"],
       ro: ["Deschisă în 2015", "Animalele trăiesc în habitate naturale", "Chiar lângă orfelinatul de elefanți"],
       en: ["Opened in 2015", "Animals live in natural habitats", "Right next to the elephant orphanage"]
-    }
-  },
+    }, image: "/poi-images/pinnawala-open-zoo-life-v2.webp"},
   {
     id: "millennium-elephant-foundation-life-v2",
     type: "kid-friendly",
@@ -265,8 +248,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
       hu: ["Mentett elefántokról gondoskodik", "Sétákat kínál elefántokkal", "Elősegíti az állatvédelmet"],
       ro: ["Îngrijește elefanții salvați", "Oferă plimbări cu elefanții", "Promovează bunăstarea animalelor"],
       en: ["Cares for rescued elephants", "Offers walks with elephants", "Promotes animal welfare"]
-    }
-  },
+    }, image: "/poi-images/millennium-elephant-foundation-life-v2.webp"},
   {
     id: "kosgoda-sea-turtle-conservation-project-life-v2",
     type: "kid-friendly",

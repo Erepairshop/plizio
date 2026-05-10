@@ -39,8 +39,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Named after the former President Siaka Stevens.",
         "Home ground for the national team, the Leone Stars."
       ]
-    }
-  },
+    }, image: "/poi-images/siaka-stevens-stadium-landmarks-v2.webp"},
   {
     id: "national-museum-sl-landmarks-v2",
     type: "landmark",
@@ -79,8 +78,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Houses important artifacts of the Temne and Mende people.",
         "Located near the historic Cotton Tree."
       ]
-    }
-  },
+    }, image: "/poi-images/national-museum-sl-landmarks-v2.webp"},
   {
     id: "parliament-building-sl-landmarks-v2",
     type: "landmark",
@@ -159,8 +157,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Central point for the Catholic community.",
         "Known for its impressive stained glass windows."
       ]
-    }
-  },
+    }, image: "/poi-images/sacred-heart-cathedral-landmarks-v2.webp"},
   {
     id: "freetown-central-mosque-landmarks-v2",
     type: "landmark",
@@ -199,8 +196,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Architecturally prominent with tall minarets.",
         "A symbol of religious diversity and tolerance."
       ]
-    }
-  },
+    }, image: "/poi-images/freetown-central-mosque-landmarks-v2.webp"},
   {
     id: "guma-valley-dam-landmarks-v2",
     type: "landmark",
@@ -239,8 +235,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "An impressive piece of engineering.",
         "Surrounded by lush tropical nature."
       ]
-    }
-  },
+    }, image: "/poi-images/guma-valley-dam-landmarks-v2.webp"},
   {
     id: "qe-ii-quay-landmarks-v2",
     type: "landmark",
@@ -279,8 +274,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Gateway for international commercial goods.",
         "A busy center of maritime activities."
       ]
-    }
-  },
+    }, image: "/poi-images/qe-ii-quay-landmarks-v2.webp"},
   {
     id: "aberdeen-lighthouse-landmarks-v2",
     type: "landmark",
@@ -319,8 +313,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Offers expansive views of the Atlantic Ocean.",
         "Popular meeting spot near beaches and hotels."
       ]
-    }
-  },
+    }, image: "/poi-images/aberdeen-lighthouse-landmarks-v2.webp"},
   {
     id: "law-courts-building-landmarks-v2",
     type: "landmark",
@@ -359,8 +352,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Center of Sierra Leone's legal system.",
         "Located in the heart of the government district."
       ]
-    }
-  },
+    }, image: "/poi-images/law-courts-building-landmarks-v2.webp"},
   {
     id: "city-hall-freetown-landmarks-v2",
     type: "landmark",
@@ -399,8 +391,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Houses offices and event spaces.",
         "A gift of friendship between Sierra Leone and South Korea."
       ]
-    }
-  },
+    }, image: "/poi-images/city-hall-freetown-landmarks-v2.webp"},
   {
     id: "king-jimmy-bridge-landmarks-v2",
     type: "landmark",
@@ -439,8 +430,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "A site with deep historical significance.",
         "Near the original landing site of the early settlers."
       ]
-    }
-  },
+    }, image: "/poi-images/king-jimmy-bridge-landmarks-v2.webp"},
   {
     id: "peace-museum-sl-landmarks-v2",
     type: "landmark",
@@ -479,8 +469,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Promotes education about human rights and peace.",
         "A place for reflection and learning."
       ]
-    }
-  },
+    }, image: "/poi-images/peace-museum-sl-landmarks-v2.webp"},
   {
     id: "lungi-airport-landmarks-v2",
     type: "landmark",
@@ -519,8 +508,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Accessible via ferry or water taxi from the capital.",
         "Features a modern new terminal building."
       ]
-    }
-  },
+    }, image: "/poi-images/lungi-airport-landmarks-v2.webp"},
   {
     id: "youyi-building-landmarks-v2",
     type: "landmark",
@@ -559,8 +547,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "The name 'Youyi' means 'friendship' in Chinese.",
         "A prominent high-rise in the city skyline."
       ]
-    }
-  },
+    }, image: "/poi-images/youyi-building-landmarks-v2.webp"},
   {
     id: "sam-bangura-tower-landmarks-v2",
     type: "landmark",
@@ -599,8 +586,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Named after a former Governor of the Central Bank.",
         "A modern architectural landmark in the financial district."
       ]
-    }
-  },
+    }, image: "/poi-images/sam-bangura-tower-landmarks-v2.webp"},
   {
     id: "st-pauls-cathedral-kenema-landmarks-v2",
     type: "landmark",
@@ -679,8 +665,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Supports sporting development in the Southern Province.",
         "Venue for regional tournaments and cultural events."
       ]
-    }
-  },
+    }, image: "/poi-images/bo-stadium-landmarks-v2.webp"},
   {
     id: "makeni-clock-tower-landmarks-v2",
     type: "landmark",
@@ -719,8 +704,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "A symbol of urban life in Makeni.",
         "Surrounded by bustling markets and shops."
       ]
-    }
-  },
+    }, image: "/poi-images/makeni-clock-tower-landmarks-v2.webp"},
   {
     id: "immaculate-conception-cathedral-bo-landmarks-v2",
     type: "landmark",
@@ -759,8 +743,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Center for diocesan educational and social projects.",
         "Known for its festive atmosphere during religious holidays."
       ]
-    }
-  },
+    }, image: "/poi-images/immaculate-conception-cathedral-bo-landmarks-v2.webp"},
   {
     id: "wesley-methodist-church-makeni-landmarks-v2",
     type: "landmark",
@@ -799,8 +782,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Plays an active role in the local community.",
         "Known for its traditional church architecture."
       ]
-    }
-  },
+    }, image: "/poi-images/wesley-methodist-church-makeni-landmarks-v2.webp"},
   {
     id: "wallace-johnson-memorial-landmarks-v2",
     type: "landmark",
@@ -839,8 +821,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "He passionately campaigned for independence.",
         "The memorial represents freedom and social progress."
       ]
-    }
-  },
+    }, image: "/poi-images/wallace-johnson-memorial-landmarks-v2.webp"},
   {
     id: "sengbe-pieh-memorial-landmarks-v2",
     type: "landmark",
@@ -879,8 +860,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "The Amistad revolt is a key chapter in global history.",
         "He returned to Sierra Leone after winning his freedom in US courts."
       ]
-    }
-  },
+    }, image: "/poi-images/sengbe-pieh-memorial-landmarks-v2.webp"},
   {
     id: "railway-museum-sl-landmarks-v2",
     type: "landmark",
@@ -919,8 +899,7 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
         "Documents the development of transport in Sierra Leone.",
         "Located in the old railway workshops."
       ]
-    }
-  },
+    }, image: "/poi-images/railway-museum-sl-landmarks-v2.webp"},
   {
     id: "holy-trinity-church-freetown-landmarks-v2",
     type: "landmark",

@@ -39,8 +39,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Designed by architect I. M. Pei.",
         "Located along the Doha Corniche."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-museum-of-islamic-art-landmarks-v2.webp"},
   {
     id: "qatar-national-museum-landmarks-v2",
     type: "landmark",
@@ -79,8 +78,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "The roof features 539 interlocking disks.",
         "The exhibition route is 1.5 kilometers long."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-national-museum-landmarks-v2.webp"},
   {
     id: "qatar-souq-waqif-landmarks-v2",
     type: "landmark",
@@ -119,8 +117,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Restored in 2006 in a traditional architectural style.",
         "A popular gathering place for locals and tourists."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-souq-waqif-landmarks-v2.webp"},
   {
     id: "qatar-the-pearl-landmarks-v2",
     type: "landmark",
@@ -159,8 +156,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Covers an area of nearly 4 square kilometers.",
         "First area where foreigners could own property."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-the-pearl-landmarks-v2.webp"},
   {
     id: "qatar-katara-cultural-village-landmarks-v2",
     type: "landmark",
@@ -199,8 +195,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "The amphitheater can seat 5000 spectators.",
         "Also home to a magnificent Blue Mosque."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-katara-cultural-village-landmarks-v2.webp"},
   {
     id: "qatar-aspire-tower-landmarks-v2",
     type: "landmark",
@@ -239,8 +234,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Also known as The Torch Doha.",
         "Houses a revolving restaurant at a height of 240 meters."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-aspire-tower-landmarks-v2.webp"},
   {
     id: "qatar-state-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -279,8 +273,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Opened to the public in 2011.",
         "Can accommodate up to 30000 worshippers."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-state-grand-mosque-landmarks-v2.webp"},
   {
     id: "qatar-barzan-towers-landmarks-v2",
     type: "landmark",
@@ -359,8 +352,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Served as a coast guard station until the 1980s.",
         "It is the best-preserved fort in Qatar."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-al-zubarah-fort-landmarks-v2.webp"},
   {
     id: "qatar-doha-corniche-landmarks-v2",
     type: "landmark",
@@ -399,8 +391,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "A popular spot for walkers and joggers.",
         "Numerous traditional dhow boats are anchored along the promenade."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-doha-corniche-landmarks-v2.webp"},
   {
     id: "qatar-national-library-landmarks-v2",
     type: "landmark",
@@ -439,8 +430,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Contains over one million printed books.",
         "The Heritage Library segment showcases rare historical manuscripts."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-national-library-landmarks-v2.webp"},
   {
     id: "qatar-east-west-west-east-landmarks-v2",
     type: "landmark",
@@ -559,8 +549,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Features an indoor theme park and an ice rink.",
         "Offers gondola rides inside the building."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-villaggio-mall-landmarks-v2.webp"},
   {
     id: "qatar-banana-island-landmarks-v2",
     type: "landmark",
@@ -599,8 +588,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Features the first overwater villas in Qatar.",
         "The boat ride from Doha takes about 25 minutes."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-banana-island-landmarks-v2.webp"},
   {
     id: "qatar-al-koot-fort-landmarks-v2",
     type: "landmark",
@@ -639,8 +627,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Also referred to as Doha Fort.",
         "Exhibits traditional Qatari handicrafts."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-al-koot-fort-landmarks-v2.webp"},
   {
     id: "qatar-msheireb-museums-landmarks-v2",
     type: "landmark",
@@ -679,8 +666,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Located in the sustainable Msheireb Downtown district.",
         "Addresses themes such as slavery and the beginnings of the oil industry."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-msheireb-museums-landmarks-v2.webp"},
   {
     id: "qatar-mathaf-museum-landmarks-v2",
     type: "landmark",
@@ -719,8 +705,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "Housed in a redesigned former school building.",
         "Home to over 9000 artworks."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-mathaf-museum-landmarks-v2.webp"},
   {
     id: "qatar-lusail-stadium-landmarks-v2",
     type: "landmark",
@@ -759,8 +744,7 @@ export const poiExtraQatarLandmarksV2: POI[] = [
         "The design is inspired by traditional Arab bowls.",
         "To be transformed into a community center with housing."
       ]
-    }
-  },
+    }, image: "/poi-images/qatar-lusail-stadium-landmarks-v2.webp"},
   {
     id: "qatar-al-bayt-stadium-landmarks-v2",
     type: "landmark",

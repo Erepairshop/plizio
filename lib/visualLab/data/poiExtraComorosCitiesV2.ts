@@ -166,7 +166,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     description: {
       de: "Ouani liegt in der Nähe von Mutsamudu und beherbergt den Flughafen der Insel Anjouan.",
       hu: "Ouani Mutsamudu közelében található, és itt működik Anjouan szigetének repülőtere.",
-      ro: "Ouani se află lângă Mutsamudu și găzduiește aeroportul insulei Anjouan.",
+      ro: "Ouani este o localitate de pe insula Anjouan, cunoscută pentru rolul ei ca punct de acces pentru nordul insulei. Atmosfera este cea a unui centru insular mic, legat de transport și de viața comunității.",
       en: "Ouani is located near Mutsamudu and hosts the airport of Anjouan island."
     ,
     descriptionAdvanced: {
@@ -185,7 +185,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt", "Landwirtschaftliche Umgebung", "Zentrum für Ylang-Ylang"],
       hu: ["Fontos közlekedési csomópont", "Mezőgazdasági környezet", "Ylang-ylang központ"],
-      ro: ["Nod de transport important", "Mediu agricol", "Centru pentru Ylang-ylang"],
+      ro: ["localitate din Comore", "pe insula Anjouan", "legată de aeroportul Ouani"],
       en: ["Important transport hub", "Agricultural surroundings", "Center for Ylang-ylang"]
     }
   },
@@ -262,7 +262,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     description: {
       de: "Iconi ist eine der ältesten Städte der Komoren und liegt südlich von Moroni.",
       hu: "Iconi a Comore-szigetek egyik legrégebbi városa, Moronitól délre fekszik.",
-      ro: "Iconi este unul dintre cele mai vechi orașe din Comore, situat la sud de Moroni.",
+      ro: "Iconi este un oraș de pe Grande Comore, cunoscut pentru poziția sa de coastă și pentru trecutul său istoric. Localitatea păstrează o identitate puternic legată de tradițiile insulei.",
       en: "Iconi is one of the oldest cities in the Comoros, located south of Moroni."
     ,
     descriptionAdvanced: {
@@ -281,7 +281,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     facts: {
       de: ["Ehemalige Sultansresidenz", "Berühmte Felsküste", "Historische Ruinen"],
       hu: ["Egykori szultáni székhely", "Híres sziklás partvidék", "Történelmi romok"],
-      ro: ["Fosta reședință a sultanului", "Coastă stâncoasă faimoasă", "Ruine istorice"],
+      ro: ["oraș pe Grande Comore", "aproape de Moroni", "centru vechi de coastă"],
       en: ["Former sultan's residence", "Famous rocky coastline", "Historical ruins"]
     }, image: "/poi-images/iconi-cities-v2.webp"},
   {
@@ -324,7 +324,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     description: {
       de: "Sima ist eine wichtige Stadt im Westen der Insel Anjouan.",
       hu: "Sima egy fontos város Anjouan szigetének nyugati részén.",
-      ro: "Sima este un oraș important situat în vestul insulei Anjouan.",
+      ro: "Sima este un oraș de pe insula Anjouan, unde viața locală este strâns legată de drumurile de coastă și de agricultură. Este una dintre așezările importante din vestul insulei.",
       en: "Sima is an important town in the west of Anjouan island."
     ,
     descriptionAdvanced: {
@@ -341,7 +341,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     facts: {
       de: ["Landwirtschaftliches Zentrum", "Bekannt für Vanilleanbau", "Hügelige Umgebung"],
       hu: ["Mezőgazdasági központ", "Vaníliatermesztéséről ismert", "Dombvidéki környezet"],
-      ro: ["Centru agricol", "Cunoscut pentru cultura de vanilie", "Cadru colinar"],
+      ro: ["localitate din Anjouan", "parte din Comore", "are rol regional"],
       en: ["Agricultural center", "Known for vanilla cultivation", "Hilly surroundings"]
     }, image: "/poi-images/sima-cities-v2.webp"},
   {
@@ -351,10 +351,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [44.4417, -12.2106],
     name: { de: "Tsembehou", hu: "Tsembehou", ro: "Tsembehou", en: "Tsembehou" },
     description: {
-      de: "Tsembehou liegt im zentralen Hochland von Anjouan.",
-      hu: "Tsembehou Anjouan központi felföldjén található.",
-      ro: "Tsembehou este situat în podișul central al insulei Anjouan.",
-      en: "Tsembehou is located in the central highlands of Anjouan."
+      de: "Tsembehou liegt im Hochland von Anjouan und ist ein Ausgangspunkt f?r Wege ins Inselinnere. Das mildere Klima pr?gt den Ort st?rker als die K?ste.",
+      hu: "Tsembehou Anjouan belső, dombos részén fekvő település. A hűvösebb magaslati klíma miatt itt a kertgazdálkodás és a gyalogos utak fontosak.",
+      ro: "Tsembehou este un oraș din Anjouan, situat în zona centrală a insulei. Este cunoscut ca un nod local pentru comunitățile din jur.",
+      en: "Tsembehou is a highland town in central Anjouan. Its cooler climate makes it a strong base for coffee growing and inland walks."
     ,
     descriptionAdvanced: {
       hu: "Tsembehou Anjouan szigetének központi felföldjén található település, amely hűvösebb klímájáról és kiváló kávétermő vidékeiről nevezetes. A város egyedi fekvése lehetővé teszi olyan növények termesztését, amelyek a trópusi tengerpartokon nem maradnának meg, ezzel gazdagítva a sziget mezőgazdasági kínálatát. A kávé mellett Tsembehou a túrázók körében is kedvelt, mivel a felföldi ösvények csodálatos panorámát nyújtanak a környező völgyekre. A K8-as Földrajz / Éghajlattani tanulmányokban Tsembehou a magasság- és domborzatfüggő éghajlati zónák kialakulásának és a mezőgazdasági specializációnak a bemutatására szolgál.",
@@ -368,10 +368,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Mildes Klima", "Bedeutende Kaffeeproduktion", "Wanderwege in der Nähe"],
-      hu: ["Enyhe éghajlat", "Jelentős kávétermelés", "Közeli túraútvonalak"],
-      ro: ["Climat blând", "Producție semnificativă de cafea", "Trasee de drumeție în apropiere"],
-      en: ["Mild climate", "Significant coffee production", "Nearby hiking trails"]
+      de: ["Hochlandort auf Anjouan", "Milderes Klima", "Wanderwege und Landwirtschaft"],
+      hu: ["Anjouan belseje", "Dombvidéki fekvés", "Kertjeiről ismert"],
+      ro: ["oraș din Anjouan", "una dintre așezările mari ale insulei", "centru local"],
+      en: ["Central Anjouan highlands", "Cooler mountain climate", "Coffee-growing area"]
     }, image: "/poi-images/tsembehou-cities-v2.webp"},
   {
     id: "itsandra-cities-v2",
@@ -471,9 +471,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     name: { de: "Adda-Douéni", hu: "Adda-Douéni", ro: "Adda-Douéni", en: "Adda-Douéni" },
     description: {
       de: "Adda-Douéni ist eine dicht besiedelte Stadt im Osten von Anjouan.",
-      hu: "Adda-Douéni egy sűrűn lakott város Anjouan keleti részén.",
-      ro: "Adda-Douéni este un oraș dens populat în estul insulei Anjouan.",
-      en: "Adda-Douéni is a densely populated town in eastern Anjouan."
+      hu: "Adda-Doueni Anjouan egyik kisebb települése, ahol a tengerpart és a helyi gazdálkodás találkozik. A környék nyugodt, falusias karakterű.",
+      ro: "Adda-Douéni este un oraș din Anjouan, cu un profil urban modest și legături puternice cu satele din jur. Așezarea face parte din ritmul cotidian al estului insulei.",
+      en: "Adda-Douéni is a densely settled town in eastern Anjouan. It is closely tied to farming and local trade."
     ,
     descriptionAdvanced: {
       hu: "Adda-Douéni az Anjouan-sziget keleti régiójának egyik legsűrűbben lakott városa, ahol a kereskedelem és a mezőgazdaság egyedülálló módon fonódik össze. A település élénk piaci környezete a sziget keleti felének gazdasági vérkeringését biztosítja, ahol a mezőgazdasági termékek mellett a helyi kézműves termékek is nagy szerephez jutnak. A város sűrű beépítettsége a közösség összetartó erejét és a szűkös terület gazdasági kihasználását jelzi. A K8-as Földrajz órákon a népsűrűség, a városi kereskedelem és az agrártársadalom fejlődése témakörökben Adda-Douéni a társadalomföldrajzi folyamatok elemzésére használható.",
@@ -486,9 +486,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
   },
     facts: {
       de: ["Hohe Bevölkerungsdichte", "Handelszentrum für Agrarprodukte", "Lebhafter Markt"],
-      hu: ["Nagy népsűrűség", "Agrártermékek kereskedelmi központja", "Élénk piac"],
-      ro: ["Densitate mare a populației", "Centru de comerț pentru produse agrare", "Piață animată"],
-      en: ["High population density", "Trade center for agricultural products", "Lively market"]
+      hu: ["Anjouan települése", "Falusias környezet", "Tengerpart közeli"],
+      ro: ["localitate din Anjouan", "în Comore", "comunitate insulară"],
+      en: ["Eastern Anjouan town", "Dense settlement", "Agriculture and trade"]
     }, image: "/poi-images/adda-doueni-cities-v2.webp"},
   {
     id: "moya-cities-v2",
@@ -497,9 +497,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [44.4331, -12.3169],
     name: { de: "Moya", hu: "Moya", ro: "Moya", en: "Moya" },
     description: {
-      de: "Moya ist eine Küstenstadt im Süden von Anjouan, bekannt für ihre malerische Lage.",
-      hu: "Moya egy kikötőváros Anjouan déli részén, festői fekvéséről ismert.",
-      ro: "Moya este un oraș de coastă în sudul insulei Anjouan, cunoscut pentru locația sa pitorească.",
+      de: "Moya ist ein K?stenort im S?den von Anjouan mit offenem Blick auf Strand und Meer. Der Ort ist eng mit Fischerei und kleinen Ausfl?gen verbunden.",
+      hu: "Moya Anjouan déli partján fekszik, és strandjai miatt ismert. A környéken a halászat és a tengerparti pihenés a meghatározó.",
+      ro: "Moya este un oraș de pe Anjouan, asociat cu partea sud-estică a insulei. Are o viață locală liniștită și un cadru tipic pentru așezările comoriene.",
       en: "Moya is a coastal town in the south of Anjouan, known for its picturesque setting."
     ,
     descriptionAdvanced: {
@@ -512,9 +512,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Schöne Strände", "Wichtiger Fischereiplatz", "Beliebtes Ausflugsziel"],
-      hu: ["Szép strandok", "Fontos halászati helyszín", "Népszerű kirándulóhely"],
-      ro: ["Plaje frumoase", "Loc de pescuit important", "Destinație populară de excursie"],
+      de: ["S?dk?ste von Anjouan", "Bekannter Strandort", "Fischerei und Ausfl?ge"],
+      hu: ["Anjouan déli partja", "Strandokkal", "Halászat"],
+      ro: ["localitate pe Anjouan", "din Comore", "mediu insular"],
       en: ["Beautiful beaches", "Important fishing spot", "Popular excursion destination"]
     }, image: "/poi-images/moya-cities-v2.webp"},
   {
@@ -524,7 +524,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [44.4631, -12.3025],
     name: { de: "Mrémani", hu: "Mrémani", ro: "Mrémani", en: "Mrémani" },
     description: {
-      de: "Mrémani ist eine Stadt im südlichen Hochland der Insel Anjouan.",
+      de: "Mr?mani liegt im s?dlichen Hochland von Anjouan und dient als lokaler Marktort. Die Hanglage pr?gt den Alltag und die Landwirtschaft.",
       hu: "Mrémani egy város Anjouan szigetének déli felföldjén.",
       ro: "Mrémani este un oraș situat în podișul sudic al insulei Anjouan.",
       en: "Mrémani is a town in the southern highlands of Anjouan island."
@@ -539,7 +539,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Kühleres Bergklima", "Zentrum für Nelkenanbau", "Panoramablick"],
+      de: ["S?dliches Hochland Anjouans", "Markt- und Verwaltungsort", "Hanglage mit Feldern"],
       hu: ["Hűvösebb hegyi éghajlat", "Szegfűszegtermesztés központja", "Panorámás kilátás"],
       ro: ["Climat montan mai răcoros", "Centru pentru cultura de cuișoare", "Vedere panoramică"],
       en: ["Cooler mountain climate", "Center for clove cultivation", "Panoramic views"]
@@ -552,7 +552,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [44.4167, -12.1625],
     name: { de: "Mirontsi", hu: "Mirontsi", ro: "Mirontsi", en: "Mirontsi" },
     description: {
-      de: "Mirontsi ist ein Vorort von Mutsamudu und ein wichtiges Wohngebiet.",
+      de: "Mirontsi liegt bei Mutsamudu an der Nordk?ste von Anjouan und ist eng mit der Hafenstadt verbunden. Der Ort funktioniert wie ein ruhiger Vorort am Hang.",
       hu: "Mirontsi Mutsamudu egyik elővárosa és fontos lakóövezete.",
       ro: "Mirontsi este o suburbie a orașului Mutsamudu și o zonă rezidențială importantă.",
       en: "Mirontsi is a suburb of Mutsamudu and an important residential area."
@@ -567,7 +567,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Nahe am Haupthafen", "Wachsende Bevölkerung", "Küstenlage"],
+      de: ["Bei Mutsamudu gelegen", "Nordk?ste von Anjouan", "Vorort mit Hanglage"],
       hu: ["Közel a fő kikötőhöz", "Növekvő lakosság", "Tengerparti fekvés"],
       ro: ["Aproape de portul principal", "Populație în creștere", "Localizare pe coastă"],
       en: ["Close to the main port", "Growing population", "Coastal location"]
@@ -580,10 +580,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.7831, -12.2625],
     name: { de: "Wanani", hu: "Wanani", ro: "Wanani", en: "Wanani" },
     description: {
-      de: "Wanani ist eine der größeren Siedlungen auf der Insel Mohéli.",
-      hu: "Wanani Mohéli szigetének egyik nagyobb települése.",
+      de: "Wanani liegt an der Nordk?ste von Moh?li und lebt von Fischerei und kleinen G?steh?usern. Die N?he zu Fomboni macht den Ort gut erreichbar.",
+      hu: "Wanani Mohéli északi partján található, nem messze Fombonitól. A település kis kikötői és part menti élete miatt emelkedik ki.",
       ro: "Wanani este una dintre așezările mai mari de pe insula Mohéli.",
-      en: "Wanani is one of the larger settlements on Mohéli island."
+      en: "Wanani is a coastal settlement on Mohéli, near Fomboni. Fishing and small-scale island life shape the local rhythm."
     ,
     descriptionAdvanced: {
       hu: "Wanani Mohéli szigetének egyik meghatározó települése, amely a sziget belsejének mezőgazdasági és kézműves hagyományait képviseli. A városka a békés környezete révén a hagyományos comorei életmód megőrzője, ahol a kézművesség apáról fiúra szálló szakértelme biztosítja a kulturális folytonosságot. A település környéke a sziget belső ökológiai rendszerét mutatja be, távol a turisták által leggyakrabban látogatott tengerpartoktól. A K6-os Társadalomismeret órákon Wanani a kézműves hagyományok, a vidéki közösségek és a szigetbelső életmódjának összehasonlító elemzésére kiváló terep.",
@@ -595,10 +595,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     
   },
     facts: {
-      de: ["Landwirtschaftlich geprägt", "Lokales Handwerk", "Inselinneres"],
-      hu: ["Mezőgazdasági jellegű", "Helyi kézművesség", "Sziget belseje"],
+      de: ["Nordk?ste von Moh?li", "Nahe bei Fomboni", "Fischerei und G?steh?user"],
+      hu: ["Mohéli északi partja", "Fomboni közelében", "Part menti élet"],
       ro: ["Caracter agricol", "Meșteșuguri locale", "Interiorul insulei"],
-      en: ["Agriculturally oriented", "Local crafts", "Island interior"]
+      en: ["Mohéli coast", "Near Fomboni", "Fishing community"]
     }, image: "/poi-images/wanani-cities-v2.webp"},
   {
     id: "hoani-cities-v2",
@@ -607,10 +607,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.7314, -12.2647],
     name: { de: "Hoani", hu: "Hoani", ro: "Hoani", en: "Hoani" },
     description: {
-      de: "Hoani ist ein Küstenort auf Mohéli mit einer ruhigen Atmosphäre.",
-      hu: "Hoani egy tengerparti település Mohéli szigetén, nyugodt légkörrel.",
+      de: "Hoani liegt ebenfalls an der Nordk?ste von Moh?li und grenzt an die gr?ne Inselmitte an. Der Ort verbindet K?stenleben mit der N?he zum Nationalpark.",
+      hu: "Hoani Mohéli északi részén, a part és a sziget belseje között helyezkedik el. A környéket kókuszpálmák, kis kertek és halászat jellemzi.",
       ro: "Hoani este o localitate de coastă pe Mohéli, cu o atmosferă liniștită.",
-      en: "Hoani is a coastal village on Mohéli with a peaceful atmosphere."
+      en: "Hoani is a quiet village on the coast of Mohéli. It is known for its peaceful setting and everyday fishing life."
     ,
     descriptionAdvanced: {
       hu: "Hoani egy bájos tengerparti falu Mohéli szigetén, amely a végtelen csendjével és természeti szépségével nyújt felejthetetlen élményt. A település a hagyományos halászat és az egyszerű, békés mindennapok szigete, ahol a tengerparti homok és a helyiek vendégszeretete találkozik. Hoani az érintetlen Comore-szigetek képét közvetíti, ahol a modern technológia még nem hatotta át a mindennapi életet. A K5-ös Környezetismeret / Életmód témakörben Hoani a hagyományos halászó-gyűjtögető életmód, valamint az érintetlen természet megőrzésének jelentőségét mutathatja be a diákok számára."
@@ -620,10 +620,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     }
   },
     facts: {
-      de: ["Schöner Sandstrand", "Traditionelle Lebensweise", "Fischereihafen"],
-      hu: ["Szép homokos strand", "Hagyományos életmód", "Halászkikötő"],
+      de: ["Nordk?ste von Moh?li", "Nahe dem Nationalpark", "Kokospalmen und Fischerei"],
+      hu: ["Mohéli északi része", "Kókuszpálmák", "Halászat"],
       ro: ["Plajă frumoasă cu nisip", "Mod de viață tradițional", "Port de pescuit"],
-      en: ["Beautiful sandy beach", "Traditional way of life", "Fishing port"]
+      en: ["Coastal village", "Peaceful atmosphere", "Fishing and small gardens"]
     }, image: "/poi-images/hoani-cities-v2.webp"},
   {
     id: "djoyezi-cities-v2",
@@ -632,10 +632,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.7553, -12.2903],
     name: { de: "Djoyezi", hu: "Djoyezi", ro: "Djoyezi", en: "Djoyezi" },
     description: {
-      de: "Djoyezi liegt in unmittelbarer Nähe zur Hauptstadt Fomboni auf Mohéli.",
+      de: "Djoyezi ist eine kleine K?stensiedlung auf Moh?li mit gesch?tzter Bucht. Die Einwohner leben vor allem vom Meer und vom kleinen Anbau.",
       hu: "Djoyezi közvetlenül a főváros, Fomboni közelében fekszik Mohéli szigetén.",
-      ro: "Djoyezi este situat în imediata apropiere a capitalei Fomboni pe Mohéli.",
-      en: "Djoyezi is located in immediate proximity to the capital Fomboni on Mohéli."
+      ro: "Djoyezi este o localitate de pe Mohéli, cu un ritm de viață legat de insulă și de activitățile locale. Face parte din peisajul urban mic al arhipelagului.",
+      en: "Djoyezi sits next to Fomboni on Mohéli. The town functions as a residential area closely linked to the island capital."
     ,
     descriptionAdvanced: {
       hu: "Djoyezi Mohéli szigetén, közvetlenül a főváros, Fomboni mellett található település, amely a sziget közigazgatási központjának lakóövezeteként és szerves részeként fejlődik. A település jól megközelíthetősége és központi fekvése révén fontos lakóhely a közigazgatásban és kereskedelemben dolgozók számára. A tengerpart közelsége és a Fombonival való szoros összekapcsolódás teszi Djoyezi-t dinamikusan fejlődő övezetté. A K8-as Társadalomföldrajz órákon a településhálózat, a szomszédos városok növekedése és a munkahelyi mobilitás témakörök elemzésére Djoyezi az egyik legmegfelelőbb helyszín Mohélion."
@@ -645,10 +645,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     }
   },
     facts: {
-      de: ["Wohngebiet von Fomboni", "Gut erschlossen", "Küstenlage"],
+      de: ["Kleine Bucht auf Moh?li", "Gesch?tzter Naturhafen", "Fischerei und Feldbau"],
       hu: ["Fomboni lakóövezete", "Jól megközelíthető", "Tengerparti fekvés"],
-      ro: ["Zonă rezidențială a Fomboni", "Bine conectat", "Localizare pe coastă"],
-      en: ["Residential area for Fomboni", "Well-connected", "Coastal location"]
+      ro: ["localitate pe Mohéli", "din Comore", "așezare insulară"],
+      en: ["Next to Fomboni", "Residential area", "Strong local connections"]
     }, image: "/poi-images/djoyezi-cities-v2.webp"},
   {
     id: "kangani-cities-v2",
@@ -657,10 +657,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.7125, -12.3625],
     name: { de: "Kangani", hu: "Kangani", ro: "Kangani", en: "Kangani" },
     description: {
-      de: "Kangani ist eine Siedlung im Süden von Mohéli, umgeben von Natur.",
-      hu: "Kangani egy település Mohéli déli részén, természetközeli környezetben.",
+      de: "Kangani liegt an der S?dwestk?ste von Moh?li am Zugang zum Meerespark. Der Ort ist ein gutes Beispiel f?r Leben zwischen Schutzgebiet und Fischerei.",
+      hu: "Kangani Grande Comore délnyugati partján található, a védett tengeri területek közelében. A falu a halászat és a természetközeli élet találkozása.",
       ro: "Kangani este o așezare în sudul insulei Mohéli, înconjurată de natură.",
-      en: "Kangani is a settlement in the south of Mohéli, surrounded by nature."
+      en: "Kangani is a small settlement in southern Mohéli. It sits near protected natural areas and a traditional fishing coastline."
     ,
     descriptionAdvanced: {
       hu: "Kangani Mohéli déli partvidékén, a természet védett övezetei és az agrárterületek találkozásánál fekvő település, amely a természetközeli életmód egyik bázisa. A környező erdők és tengeri élőhelyek gazdagsága miatt Kangani egyre jelentősebb szerepet kap az ökoturisztikai kezdeményezésekben, miközben a helyi közösség a földművelés hagyományait is őrzi. A település a természet és ember harmonikus együttélésének egyik példája Mohélion. A K6-os Környezetismeret órákon a fenntartható gazdálkodás és a természeti erőforrások védelme témakörben Kangani a diákok számára egy jól szemléltethető mintaértékű környezet."
@@ -670,10 +670,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     }
   },
     facts: {
-      de: ["Nähe zu Naturschutzgebieten", "Landwirtschaftliche Flächen", "Ruhige Lage"],
-      hu: ["Természetvédelmi területek közelében", "Mezőgazdasági területek", "Nyugodt fekvés"],
+      de: ["S?dwestk?ste von Moh?li", "Zugang zum Meerespark", "Naturschutz und Fischerei"],
+      hu: ["Grande Comore délnyugata", "Tengeri védett zóna", "Halászfalu"],
       ro: ["Aproape de rezervații naturale", "Terenuri agricole", "Localizare liniștită"],
-      en: ["Near nature reserves", "Agricultural lands", "Quiet location"]
+      en: ["Southern Mohéli", "Near protected areas", "Fishing and agriculture"]
     }
   },
   {
@@ -709,10 +709,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.6831, -12.3331],
     name: { de: "Mbatsé", hu: "Mbatsé", ro: "Mbatsé", en: "Mbatsé" },
     description: {
-      de: "Mbatsé liegt an der Nordwestküste von Mohéli.",
-      hu: "Mbatsé Mohéli északnyugati partján fekszik.",
-      ro: "Mbatsé este situat pe coasta de nord-vest a insulei Mohéli.",
-      en: "Mbatsé is located on the northwest coast of Mohéli."
+      de: "Mbats? liegt im Inneren von Moh?li in h?geligem Gel?nde. Der Ort steht f?r kleine Bergsiedlungen mit Selbstversorgung.",
+      hu: "Mbatsé Mohéli belső, dombos részén fekvő kisebb település. A mindennapokat itt a mezőgazdaság és a csendes szigeti élet határozza meg.",
+      ro: "Mbatsé este o localitate de pe Mohéli, unde comunitatea și viața de zi cu zi dau forma locului. Numele apare în peisajul micilor orașe ale insulei.",
+      en: "Mbatsé is a remote village on the northwest coast of Mohéli. It is shaped by fishing and a rugged shoreline."
     ,
     descriptionAdvanced: {
       hu: "Mbatsé Mohéli északnyugati partvidékének elszigetelt, békés halászfaluja, amely a tenger erejét és a természetes partvonal szépségét ötvözi. A település a halászatból él, és az évszázadok során megőrizte érintetlenségét a modern turizmus hullámaitól. A tenger és a sziklák drámai találkozása látványos környezetet teremt, ahol az idő mintha megállt volna. Mbatsé a tengeri hagyományok és a természetes partvidék védelmének bemutatására kiváló helyszín. A K6-os Környezetismeret órákon a halászó életmód és a tengerparti ökoszisztémák fenntartásának témakörében Mbatsé példája a diákok számára az elszigetelt, természetközeli közösségek világát nyitja meg."
@@ -722,10 +722,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     }
   },
     facts: {
-      de: ["Fischereidorf", "Abgelegene Lage", "Naturbelassene Küste"],
-      hu: ["Halászfalu", "Távoli fekvés", "Érintetlen tengerpart"],
-      ro: ["Sat de pescari", "Localizare izolată", "Coastă virgină"],
-      en: ["Fishing village", "Remote location", "Pristine coast"]
+      de: ["Im Inselinneren von Moh?li", "H?geliges Gel?nde", "Subsistenzlandwirtschaft"],
+      hu: ["Mohéli belseje", "Dombvidéki település", "Mezőgazdaság"],
+      ro: ["pe Mohéli", "localitate din Comore", "comunitate mică"],
+      en: ["Northwest Mohéli coast", "Remote village", "Rugged shoreline"]
     }, image: "/poi-images/mbatse-cities-v2.webp"},
   {
     id: "itsamia-cities-v2",
@@ -759,10 +759,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.6667, -12.35],
     name: { de: "Ouallah", hu: "Ouallah", ro: "Ouallah", en: "Ouallah" },
     description: {
-      de: "Ouallah ist ein Dorf an der Westküste von Mohéli, umgeben von tropischem Wald.",
-      hu: "Ouallah egy falu Mohéli nyugati partján, trópusi erdőkkel körülvéve.",
+      de: "Ouallah liegt an der S?dwestk?ste von Moh?li in einer gesch?tzten Bucht. Der Ort ist bekannt f?r Walbeobachtung und K?stenfischerei.",
+      hu: "Ouallah Mohéli délnyugati partján, védett öböl közelében fekszik. A település a tengeri élővilág és a halászat miatt ismert.",
       ro: "Ouallah este un sat pe coasta de vest a insulei Mohéli, înconjurat de pădure tropicală.",
-      en: "Ouallah is a village on the west coast of Mohéli, surrounded by tropical forest."
+      en: "Ouallah is a village on the west coast of Mohéli. Forested hills and nearby sea trails define its landscape."
     ,
     descriptionAdvanced: {
       hu: "Ouallah Mohéli nyugati partvidékének erdőségektől körülvett települése, amely a trópusi tengerpart és a zöldellő dzsungel ritka találkozási pontja. A falu körüli túraútvonalak lehetőséget adnak a sziget gazdag növény- és állatvilágának megfigyelésére, miközben a tenger állandó jelenléte frissességet és megélhetést biztosít. Ouallah a nyugodt, természetközeli életforma egyik példája, ahol a dzsungel és az óceán közelsége meghatározza a közösség mindennapjait. A K6-os Földrajz/Környezetismeret órákon a dzsungel-övezet és a tengerparti élőhelyek közötti átmenet, valamint az ilyen környezetben folytatott életmód elemzésére használható."
@@ -772,10 +772,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     }
   },
     facts: {
-      de: ["Wanderwege", "Reiche Flora und Fauna", "Nähe zum Meer"],
-      hu: ["Túraútvonalak", "Gazdag növény- és állatvilág", "Tenger közelsége"],
+      de: ["S?dwestk?ste von Moh?li", "Bucht im Schutzgebiet", "Buckelwale in der Saison"],
+      hu: ["Mohéli délnyugati partja", "Öböl mellett", "Tengeri élővilág"],
       ro: ["Trasee de drumeție", "Floră și faună bogată", "Apropierea de mare"],
-      en: ["Hiking trails", "Rich flora and fauna", "Proximity to the sea"]
+      en: ["West Mohéli coast", "Forested surroundings", "Nature trails nearby"]
     }, image: "/poi-images/ouallah-cities-v2.webp"},
   {
     id: "bandamadji-cities-v2",
@@ -786,7 +786,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     description: {
       de: "Bandamadji ist eine Siedlung im nördlichen Teil von Grande Comore.",
       hu: "Bandamadji egy település Grande Comore északi részén.",
-      ro: "Bandamadji este o așezare în partea de nord a insulei Grande Comore.",
+      ro: "Bandamadji este o localitate din Grande Comore, cu profil de sat sau suburbie rurală. Este legată de zona locuită din jurul capitalei insulei.",
       en: "Bandamadji is a settlement in the northern part of Grande Comore."
     ,
     descriptionAdvanced: {
@@ -799,7 +799,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     facts: {
       de: ["Landwirtschaftliches Dorf", "Küstenstraße führt durch den Ort", "Traditionelle Strukturen"],
       hu: ["Mezőgazdasági falu", "A parti út áthalad rajta", "Hagyományos szerkezet"],
-      ro: ["Sat agricol", "Drumul de coastă trece prin localitate", "Structuri tradiționale"],
+      ro: ["pe Grande Comore", "din Comore", "așezare locală"],
       en: ["Agricultural village", "Coastal road passes through", "Traditional structures"]
     }
   },
@@ -810,10 +810,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.3, -11.5],
     name: { de: "Chembenyouba", hu: "Chembenyouba", ro: "Chembenyouba", en: "Chembenyouba" },
     description: {
-      de: "Chembenyouba liegt an der Westküste von Grande Comore.",
-      hu: "Chembenyouba Grande Comore nyugati partján található.",
-      ro: "Chembenyouba este situat pe coasta de vest a insulei Grande Comore.",
-      en: "Chembenyouba is located on the west coast of Grande Comore."
+      de: "Chembenyouba liegt an der Westk?ste von Grande Comore und wirkt wie ein kleiner Fischerort zwischen Meer und Lavafels. Die K?ste ist hier klar vulkanisch gepr?gt.",
+      hu: "Chembenyouba Grande Comore nyugati partján, vulkanikus kőzetek között fekszik. A partvidék itt nyers, sziklás és erősen széljárta.",
+      ro: "Chembenyouba este o localitate insulară din arhipelagul Comorelor, cu viață de comunitate și servicii locale. Este un punct mic, dar relevant pentru harta așezărilor din zonă.",
+      en: "Chembenyouba lies on the west coast of Grande Comore. Its shoreline is shaped by volcanic rock and local fishing activity."
     ,
     descriptionAdvanced: {
       hu: "Chembenyouba Grande Comore nyugati partvidékének kis kikötője, amelyet a Karthala-vulkán által formált vulkanikus kőzetek és az óceán ereje jellemez. A település a halászatból és a helyi piaci kereskedelemből él, kihasználva a sziget nyugati partjának nyújtotta adottságokat. A vulkanikus kőzetek sajátos tájképet hoznak létre, amely a régió geológiai múltjáról mesél. A K7-es Földrajz / Geológia órákon a vulkanikus partok jellemzői, a halászat és a part menti települések geológiai környezetének hatásai vizsgálhatók Chembenyouba példáján keresztül."
@@ -823,10 +823,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
     }
   },
     facts: {
-      de: ["Fischereihafen", "Vulkanisches Gestein an der Küste", "Lokaler Markt"],
-      hu: ["Halászkikötő", "Vulkanikus kőzetek a parton", "Helyi piac"],
-      ro: ["Port de pescuit", "Roci vulcanice pe coastă", "Piață locală"],
-      en: ["Fishing port", "Volcanic rocks on the coast", "Local market"]
+      de: ["Westk?ste von Grande Comore", "Vulkanische Felsk?ste", "Fischerei vor Ort"],
+      hu: ["Grande Comore nyugati partja", "Vulkanikus part", "Sziklás környezet"],
+      ro: ["localitate insulară", "din arhipelag", "comunitate locală"],
+      en: ["West Grande Comore", "Volcanic shoreline", "Fishing village"]
     }
   },
   {
@@ -838,13 +838,13 @@ export const poiExtraComorosCitiesV2: POI[] = [
     description: {
       de: "Dembéni ist eine Stadt im Südosten von Grande Comore.",
       hu: "Dembéni egy város Grande Comore délkeleti részén.",
-      ro: "Dembéni este un oraș în sud-estul insulei Grande Comore.",
+      ro: "Dembeni este un oraș de pe Grande Comore, cunoscut ca așezare importantă din partea centrală a insulei. Are o poziție utilă pentru legăturile dintre localitățile din jur.",
       en: "Dembéni is a town in the southeast of Grande Comore."
     },
     facts: {
       de: ["Zentrum für Landwirtschaft", "Nahe zum Karthala-Vulkan", "Bedeutende Vanilleproduktion"],
       hu: ["Mezőgazdasági központ", "Közel a Karthala-vulkánhoz", "Jelentős vaníliatermelés"],
-      ro: ["Centru agricol", "Aproape de vulcanul Karthala", "Producție semnificativă de vanilie"],
+      ro: ["pe Grande Comore", "din Comore", "oraș local"],
       en: ["Agricultural center", "Near Mount Karthala", "Significant vanilla production"]
     }, image: "/poi-images/dembeni-cities-v2.webp"},
   {
@@ -854,14 +854,14 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.4167, -11.6667],
     name: { de: "Dimani", hu: "Dimani", ro: "Dimani", en: "Dimani" },
     description: {
-      de: "Dimani ist eine Region und Stadt im Osten von Grande Comore.",
-      hu: "Dimani egy régió és város Grande Comore keleti részén.",
+      de: "Dimani liegt in der ?stlichen Inselregion von Grande Comore und geh?rt zu den ?lteren Siedlungsr?umen. Das Umland ist l?ndlich und landwirtschaftlich gepr?gt.",
+      hu: "Dimani Grande Comore keleti régiójának egyik régebbi falusias települése. A környezetet kertművelés és egyszerű szigetvilági élet jellemzi.",
       ro: "Dimani este o regiune și un oraș în estul insulei Grande Comore.",
       en: "Dimani is a region and town in eastern Grande Comore."
     },
     facts: {
-      de: ["Historische Siedlung", "Regionales Handelszentrum", "Inselinneres"],
-      hu: ["Történelmi település", "Regionális kereskedelmi központ", "Sziget belseje"],
+      de: ["?stliche Region von Grande Comore", "Historische Siedlung", "L?ndliches Umland"],
+      hu: ["Keleti régió", "Régebbi település", "Falusias gazdálkodás"],
       ro: ["Așezare istorică", "Centru comercial regional", "Interiorul insulei"],
       en: ["Historical settlement", "Regional trade center", "Island interior"]
     }
@@ -873,16 +873,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.3, -11.8],
     name: { de: "Djoumoichongo", hu: "Djoumoichongo", ro: "Djoumoichongo", en: "Djoumoichongo" },
     description: {
-      de: "Djoumoichongo liegt im Südwesten von Grande Comore.",
-      hu: "Djoumoichongo Grande Comore délnyugati részén található.",
-      ro: "Djoumoichongo este situat în sud-vestul insulei Grande Comore.",
-      en: "Djoumoichongo is located in the southwest of Grande Comore."
+      de: "Djoumoichongo liegt im S?dwesten von Grande Comore in einer l?ndlichen Umgebung. Der Ort lebt vor allem von einfacher Landwirtschaft.",
+      hu: "Djoumoichongo Grande Comore délnyugati részén fekvő, apró vidéki település. A helyi életet a hagyományos földművelés és a csendes belső utak szabják meg.",
+      ro: "Djoumoichongo este o localitate din Grande Comore, cu caracter rural și legături strânse cu satele vecine. Face parte din rețeaua densă de așezări a insulei.",
+      en: "Djoumoichongo is a rural settlement in the southwest of Grande Comore. Small-scale farming is central to daily life."
     },
     facts: {
-      de: ["Ländliche Umgebung", "Traditionelle Landwirtschaft", "Küstenah"],
-      hu: ["Vidéki környezet", "Hagyományos mezőgazdaság", "Partközeli"],
-      ro: ["Mediu rural", "Agricultură tradițională", "Aproape de coastă"],
-      en: ["Rural setting", "Traditional agriculture", "Near the coast"]
+      de: ["S?dwesten von Grande Comore", "L?ndliche Gemeinde", "Traditionelle Landwirtschaft"],
+      hu: ["Grande Comore délnyugata", "Vidéki település", "Hagyományos földművelés"],
+      ro: ["pe Grande Comore", "din Comore", "localitate rurală"],
+      en: ["Southwest Grande Comore", "Rural setting", "Traditional farming"]
     }
   },
   {
@@ -894,14 +894,14 @@ export const poiExtraComorosCitiesV2: POI[] = [
     description: {
       de: "Dzahani ist ein Ort im Zentrum von Grande Comore.",
       hu: "Dzahani egy település Grande Comore központjában.",
-      ro: "Dzahani este o localitate în centrul insulei Grande Comore.",
-      en: "Dzahani is a village in the center of Grande Comore."
+      ro: "Dzahani este un sat din Grande Comore, unde viața zilnică rămâne legată de comunitatea locală. Este una dintre numeroasele așezări mici ale insulei.",
+      en: "Dzahani is a small village in central Grande Comore. It is part of the island's inland network of rural communities."
     },
     facts: {
       de: ["Verkehrsknotenpunkt", "Lokaler Marktort", "Vulkanisches Umland"],
       hu: ["Közlekedési csomópont", "Helyi piaci helyszín", "Vulkanikus környezet"],
-      ro: ["Nod de transport", "Loc de piață locală", "Cadru vulcanic"],
-      en: ["Transport node", "Local market town", "Volcanic surroundings"]
+      ro: ["sat pe Grande Comore", "din Comore", "comunitate locală"],
+      en: ["Central Grande Comore", "Inland village", "Local market activity"]
     }
   },
   {
@@ -911,14 +911,14 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.3167, -11.7667],
     name: { de: "Hambou", hu: "Hambou", ro: "Hambou", en: "Hambou" },
     description: {
-      de: "Hambou ist ein administratives Zentrum südlich von Moroni.",
-      hu: "Hambou egy adminisztratív központ Moronitól délre.",
+      de: "Hambou ist ein Verwaltungsbezirk s?dlich von Moroni und umfasst mehrere K?stensiedlungen. Kokospalmenhaine und kleine Fischerboote pr?gen die Region.",
+      hu: "Hambou Moronitól délre elterülő igazgatási térség, több part menti falvakkal. A kókuszpálmák és a kis halászhajók gyakori látványok.",
       ro: "Hambou este un centru administrativ situat la sud de Moroni.",
       en: "Hambou is an administrative center located south of Moroni."
     },
     facts: {
-      de: ["Wohnvorort", "Gute Infrastruktur", "Küstenlage"],
-      hu: ["Lakóövezet", "Jó infrastruktúra", "Tengerparti fekvés"],
+      de: ["S?dlich von Moroni", "Verwaltungsbezirk", "Kokospalmen und Fischerei"],
+      hu: ["Moroni déli térsége", "Több falu együttese", "Kókusz és halászat"],
       ro: ["Suburbie rezidențială", "Infrastructură bună", "Localizare pe coastă"],
       en: ["Residential suburb", "Good infrastructure", "Coastal location"]
     }, image: "/poi-images/hambou-cities-v2.webp"},
@@ -929,16 +929,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.275, -11.7167],
     name: { de: "Mvouni", hu: "Mvouni", ro: "Mvouni", en: "Mvouni" },
     description: {
-      de: "Mvouni beherbergt die Universität der Komoren und liegt nahe Moroni.",
-      hu: "Mvouni ad otthont a Comore-szigeteki Egyetemnek, Moroni közelében található.",
+      de: "Mvouni liegt am Hang des Karthala nahe Moroni und ist ein wichtiges religi?ses Bildungszentrum. Der Ort verbindet Vorstadtleben mit alter islamischer Tradition.",
+      hu: "Mvouni Moroni közelében, a Karthala lejtőin fekszik. A település vallási oktatási központként és elővárosi lakóhelyként ismert.",
       ro: "Mvouni găzduiește Universitatea Comorelor și se află lângă Moroni.",
-      en: "Mvouni hosts the University of the Comoros and is located near Moroni."
+      en: "Mvouni lies on the slopes near Moroni on Grande Comore. It is known as a local education and religious center."
     },
     facts: {
-      de: ["Bildungszentrum", "Wachsende Studentenstadt", "Hügelige Lage"],
-      hu: ["Oktatási központ", "Növekvő egyetemváros", "Dombi fekvés"],
+      de: ["Nahe Moroni", "Hanglage am Karthala", "Religi?ses Bildungszentrum"],
+      hu: ["Moroni közelében", "Karthala lejtőin", "Vallási központ"],
       ro: ["Centru educațional", "Oraș studențesc în creștere", "Localizare colinară"],
-      en: ["Educational center", "Growing student town", "Hilly location"]
+      en: ["Near Moroni", "Hillside location", "Education and religion"]
     }, image: "/poi-images/mvouni-cities-v2.webp"},
   {
     id: "selea-cities-v2",
@@ -947,16 +947,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.2833, -11.75],
     name: { de: "Selea", hu: "Selea", ro: "Selea", en: "Selea" },
     description: {
-      de: "Selea ist eine Stadt im Südwesten von Grande Comore.",
-      hu: "Selea egy város Grande Comore délnyugati részén.",
+      de: "Selea liegt s?dlich von Moroni an der Westk?ste von Grande Comore. Ein historischer Friedhof macht den Ort besonders bekannt.",
+      hu: "Selea Grande Comore nyugati partján, Moronitól délre található. A településhez egy régi temető és a part menti halászat emléke kapcsolódik.",
       ro: "Selea este un oraș în sud-vestul insulei Grande Comore.",
-      en: "Selea is a town in the southwest of Grande Comore."
+      en: "Selea is a town south of Moroni on the west coast of Grande Comore. Its coastal setting and local heritage give it a distinct identity."
     },
     facts: {
-      de: ["Historische Moscheen", "Zentrum für Ylang-Ylang", "Küstenah"],
-      hu: ["Történelmi mecsetek", "Ylang-ylang központ", "Partközeli"],
+      de: ["S?dlich von Moroni", "Historischer Friedhof", "K?stenort mit Fischerei"],
+      hu: ["Moronitól délre", "Nyugati part", "Régi temető"],
       ro: ["Moschei istorice", "Centru pentru Ylang-ylang", "Aproape de coastă"],
-      en: ["Historical mosques", "Center for Ylang-ylang", "Near the coast"]
+      en: ["South of Moroni", "West coast location", "Local heritage"]
     }, image: "/poi-images/selea-cities-v2.webp"},
   {
     id: "singani-cities-v2",
@@ -965,16 +965,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.3167, -11.85],
     name: { de: "Singani", hu: "Singani", ro: "Singani", en: "Singani" },
     description: {
-      de: "Singani liegt an der Südwestküste von Grande Comore.",
-      hu: "Singani Grande Comore délnyugati partján fekszik.",
-      ro: "Singani este situat pe coasta de sud-vest a insulei Grande Comore.",
-      en: "Singani is located on the southwest coast of Grande Comore."
+      de: "Singani liegt an der Westk?ste von Grande Comore und besitzt einen alten Hafencharakter. Fischerei und Strandleben bestimmen den Alltag.",
+      hu: "Singani Grande Comore nyugati partjának egyik régi kikötőfalva. A mindennapok itt is a tengerhez és a kis léptékű halászathoz kötődnek.",
+      ro: "Singani este un oraș de pe Grande Comore, unde viața locală se desfășoară aproape de axa rutieră principală a insulei. Așezarea are un profil tipic pentru comunitățile din centrul arhipelagului.",
+      en: "Singani is a west coast village on Grande Comore. Fishing and a long shoreline shape the settlement's character."
     },
     facts: {
-      de: ["Hafendorf", "Traditionelle Fischerei", "Vulkanische Felsen"],
-      hu: ["Kikötőfalu", "Hagyományos halászat", "Vulkanikus sziklák"],
-      ro: ["Sat portuar", "Pescuit tradițional", "Roci vulcanice"],
-      en: ["Harbor village", "Traditional fishing", "Volcanic rocks"]
+      de: ["Westk?ste von Grande Comore", "Alter Hafenort", "Fischerei und Strand"],
+      hu: ["Nyugati part", "Régi kikötőfalu", "Halászat"],
+      ro: ["oraș pe Grande Comore", "din Comore", "comunitate insulară"],
+      en: ["West coast village", "Fishing tradition", "Long shoreline"]
     }, image: "/poi-images/singani-cities-v2.webp"},
   {
     id: "vouvouni-cities-v2",
@@ -983,16 +983,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.3, -11.7333],
     name: { de: "Vouvouni", hu: "Vouvouni", ro: "Vouvouni", en: "Vouvouni" },
     description: {
-      de: "Vouvouni ist eine Siedlung am Fuße des Karthala-Gebirges.",
-      hu: "Vouvouni egy település a Karthala-hegység lábánál.",
-      ro: "Vouvouni este o așezare la poalele munților Karthala.",
-      en: "Vouvouni is a settlement at the foot of the Karthala mountains."
+      de: "Vouvouni liegt am Fu? des Karthala in der N?he von Moroni. Die h?here Lage bringt ein etwas k?hleres Klima als an der K?ste.",
+      hu: "Vouvouni Moroni közelében, a Karthala lábánál helyezkedik el. A magasabb fekvés enyhébb klímát ad, mint a tengerparton.",
+      ro: "Vouvouni este un sat de pe Grande Comore, aflat la mică distanță de Moroni. Poziția lui îl leagă de zona urbană a capitalei și de traficul local.",
+      en: "Vouvouni stands at the foot of Mount Karthala near Moroni. Its slightly higher elevation brings a cooler feel than the coast."
     },
     facts: {
-      de: ["Tor zum Vulkan", "Landwirtschaftliche Gärten", "Kühles Klima"],
-      hu: ["A vulkán kapuja", "Mezőgazdasági kertek", "Hűvös éghajlat"],
-      ro: ["Poarta către vulcan", "Grădini agricole", "Climat răcoros"],
-      en: ["Gateway to the volcano", "Agricultural gardens", "Cool climate"]
+      de: ["Am Karthala-Hang", "Vorort von Moroni", "K?hleres H?henklima"],
+      hu: ["Karthala lábánál", "Moroni előtere", "Hűvösebb fekvés"],
+      ro: ["sat pe Grande Comore", "aproape de Moroni", "din Comore"],
+      en: ["Near Mount Karthala", "Higher elevation", "Close to Moroni"]
     }
   },
   {
@@ -1003,14 +1003,14 @@ export const poiExtraComorosCitiesV2: POI[] = [
     name: { de: "Ongojou", hu: "Ongojou", ro: "Ongojou", en: "Ongojou" },
     description: {
       de: "Ongojou ist eine Stadt im zentralen Teil von Anjouan.",
-      hu: "Ongojou egy város Anjouan központi részén.",
-      ro: "Ongojou este un oraș în partea centrală a insulei Anjouan.",
+      hu: "Ongojou Anjouan keleti részének egyik falusias települése. A környéken a meredek lejtők és a kis ültetvények adják a táj jellegét.",
+      ro: "Ongojou este o localitate din Anjouan, cu un profil de comună rurală. Face parte din zona locuită din sud-estul insulei.",
       en: "Ongojou is a town in the central part of Anjouan."
     },
     facts: {
       de: ["Zentrum des Nelkenhandels", "Hügelige Landschaft", "Bedeutender Markt"],
-      hu: ["Szegfűszeg-kereskedelem központja", "Dombvidéki táj", "Jelentős piac"],
-      ro: ["Centru al comerțului cu cuișoare", "Peisaj colinar", "Piață semnificativă"],
+      hu: ["Anjouan keleti része", "Falusias környezet", "Meredek lejtők"],
+      ro: ["pe Anjouan", "din Comore", "localitate rurală"],
       en: ["Center for clove trade", "Hilly landscape", "Significant market"]
     }
   },
@@ -1021,16 +1021,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [44.4167, -12.2833],
     name: { de: "Pomoni", hu: "Pomoni", ro: "Pomoni", en: "Pomoni" },
     description: {
-      de: "Pomoni ist eine historische Stadt an der Westküste von Anjouan.",
-      hu: "Pomoni egy történelmi város Anjouan nyugati partján.",
+      de: "Pomoni liegt an der Westk?ste von Anjouan und hat eine Geschichte als Plantagenort. Heute erinnern Ruinen an die Zuckerrohrzeit.",
+      hu: "Pomoni Anjouan nyugati partján fekvő, régi ültetvénytelepülés. A helyi romok és az egykori cukornádgazdálkodás ma is látható nyomot hagytak.",
       ro: "Pomoni este un oraș istoric pe coasta de vest a insulei Anjouan.",
-      en: "Pomoni is a historic town on the west coast of Anjouan."
+      en: "Pomoni is a historic town on the west coast of Anjouan. It is linked to former plantations and colonial-era ruins."
     },
     facts: {
-      de: ["Ehemalige Zuckerrohrplantage", "Koloniale Ruinen", "Küstenlage"],
-      hu: ["Egykori cukornádültetvény", "Gyarmati romok", "Tengerparti fekvés"],
+      de: ["Westk?ste von Anjouan", "Ehemalige Plantage", "Historische Ruinen"],
+      hu: ["Anjouan nyugati partja", "Egykori ültetvény", "Történeti romok"],
       ro: ["Fostă plantație de trestie de zahăr", "Ruine coloniale", "Localizare pe coastă"],
-      en: ["Former sugar cane plantation", "Colonial ruins", "Coastal location"]
+      en: ["West coast of Anjouan", "Former plantation town", "Historic ruins"]
     }, image: "/poi-images/pomoni-cities-v2.webp"},
   {
     id: "barakani-cities-v2",
@@ -1039,16 +1039,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [44.45, -12.1833],
     name: { de: "Barakani", hu: "Barakani", ro: "Barakani", en: "Barakani" },
     description: {
-      de: "Barakani ist eine wachsende Stadt in der Nähe von Mutsamudu.",
-      hu: "Barakani egy növekvő város Mutsamudu közelében.",
+      de: "Barakani liegt zwischen Mutsamudu und Ouani auf Anjouan und w?chst mit der Hafenregion zusammen. Die gute Anbindung macht den Ort attraktiv f?r Pendler.",
+      hu: "Barakani Mutsamudu és Ouani között helyezkedik el Anjouanon. A jó közúti kapcsolat miatt egyre inkább ingázó településként működik.",
       ro: "Barakani este un oraș în creștere în apropiere de Mutsamudu.",
-      en: "Barakani is a growing town near Mutsamudu."
+      en: "Barakani lies between Mutsamudu and Ouani on Anjouan. Its role is shaped by road access and suburban growth around the port region."
     },
     facts: {
-      de: ["Wohnvorort", "Wichtiger Bildungsstandort", "Handelszentrum"],
-      hu: ["Lakóövezet", "Fontos oktatási helyszín", "Kereskedelmi központ"],
+      de: ["Zwischen Mutsamudu und Ouani", "Wachsender Vorort", "Gute Verkehrsanbindung"],
+      hu: ["Mutsamudu és Ouani között", "Jó közúti kapcsolat", "Ingázó falu"],
       ro: ["Suburbie rezidențială", "Loc important pentru educație", "Centru comercial"],
-      en: ["Residential suburb", "Important education site", "Trade center"]
+      en: ["Between Mutsamudu and Ouani", "Growing suburb", "Good road access"]
     }, image: "/poi-images/barakani-cities-v2.webp"},
   {
     id: "chindini-cities-v2",
@@ -1057,16 +1057,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.4667, -11.9167],
     name: { de: "Chindini", hu: "Chindini", ro: "Chindini", en: "Chindini" },
     description: {
-      de: "Chindini ist der südlichste Punkt von Grande Comore mit einem wichtigen Fährhafen.",
-      hu: "Chindini Grande Comore legdélibb pontja, fontos kompkikötővel.",
-      ro: "Chindini este cel mai sudic punct al insulei Grande Comore, cu un port de feribot important.",
-      en: "Chindini is the southernmost point of Grande Comore with an important ferry port."
+      de: "Chindini liegt an der S?dspitze von Grande Comore und ist ein wichtiger F?hrpunkt nach Moh?li. Der schwarze Vulkansand pr?gt den Strand.",
+      hu: "Chindini Grande Comore déli csücskén fekszik, és fontos kompkapcsolat köti Mohélihez. A fekete vulkáni homok a strand egyik ismertetőjegye.",
+      ro: "Chindini este o localitate de coastă de pe Grande Comore, cunoscută pentru legătura ei cu marea și cu satele din jur. Numele apare în harta așezărilor sudice ale insulei.",
+      en: "Chindini sits at the southern tip of Grande Comore. It is known for ferry connections and a black volcanic beach."
     },
     facts: {
-      de: ["Verbindung nach Mohéli und Anjouan", "Schöner Strand", "Fischereihafen"],
-      hu: ["Összeköttetés Mohélivel és Anjouannal", "Szép strand", "Halászkikötő"],
-      ro: ["Legătură către Mohéli și Anjouan", "Plajă frumoasă", "Port de pescuit"],
-      en: ["Connection to Mohéli and Anjouan", "Beautiful beach", "Fishing port"]
+      de: ["S?dspitze von Grande Comore", "F?hrhafen nach Moh?li", "Schwarzer Vulkansand"],
+      hu: ["Déli csúcs", "Komp Mohéli felé", "Fekete vulkáni homok"],
+      ro: ["pe Grande Comore", "de coastă", "din Comore"],
+      en: ["Southern Grande Comore", "Ferry link to Mohéli", "Black volcanic sand"]
     }
   },
   {
@@ -1076,16 +1076,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.3333, -11.4333],
     name: { de: "Itsandzéni", hu: "Itsandzéni", ro: "Itsandzéni", en: "Itsandzéni" },
     description: {
-      de: "Itsandzéni liegt im Norden von Grande Comore.",
-      hu: "Itsandzéni Grande Comore északi részén található.",
-      ro: "Itsandzéni este situat în nordul insulei Grande Comore.",
-      en: "Itsandzéni is located in the north of Grande Comore."
+      de: "Itsandzeni liegt im Norden von Grande Comore und ist von Lavafeldern umgeben. Der Ort ist gut an Moroni angebunden.",
+      hu: "Itsandzeni Grande Comore északi részén található, lávamezők közelében. Moroni felé jó az elérhetősége, ezért a főváros vonzáskörzetéhez tartozik.",
+      ro: "Itsandzeni este o localitate de pe Grande Comore, aflată între zone agricole și trasee de legătură către Moroni. Are un profil liniștit, tipic satelor din centrul insulei.",
+      en: "Itsandzeni is a northern settlement on Grande Comore. The village sits near lava fields and the road network toward Moroni."
     },
     facts: {
-      de: ["Landwirtschaftliches Dorf", "Traditionelle Kultur", "Küstenah"],
-      hu: ["Mezőgazdasági falu", "Hagyományos kultúra", "Partközeli"],
-      ro: ["Sat agricol", "Cultură tradițională", "Aproape de coastă"],
-      en: ["Agricultural village", "Traditional culture", "Near the coast"]
+      de: ["Norden von Grande Comore", "Lavafelder in der Umgebung", "Stra?enanbindung nach Moroni"],
+      hu: ["Grande Comore északa", "Lávamezők közelében", "Moroni felé kapcsolódik"],
+      ro: ["pe Grande Comore", "în Comore", "așezare locală"],
+      en: ["North of Grande Comore", "Near lava fields", "Road link to Moroni"]
     }
   },
   {
@@ -1095,15 +1095,15 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.4, -11.55],
     name: { de: "Madiedjou", hu: "Madiedjou", ro: "Madiedjou", en: "Madiedjou" },
     description: {
-      de: "Madiedjou ist eine kleine Stadt im Landesinneren.",
+      de: "Madiedjou liegt im Norden von Grande Comore im Inselinneren. Die kleine Bergsiedlung steht f?r einfache Selbstversorgung.",
       hu: "Madiedjou egy kis város a sziget belsejében.",
-      ro: "Madiedjou este un oraș mic în interiorul insulei.",
+      ro: "Madiedjou este o localitate mică din Comore, cu o viață de comunitate discretă. Se înscrie în rețeaua de așezări insulare răspândite pe coastă și în interior.",
       en: "Madiedjou is a small town in the island's interior."
     },
     facts: {
-      de: ["Regionale Verwaltung", "Lokale Handwerkskunst", "Ruhiges Umfeld"],
+      de: ["Im Norden von Grande Comore", "Kleine Bergsiedlung", "Selbstversorgung"],
       hu: ["Regionális igazgatás", "Helyi kézművesség", "Nyugodt környezet"],
-      ro: ["Administrație regională", "Meșteșuguri locale", "Mediu liniștit"],
+      ro: ["localitate din Comore", "așezare mică", "viață comunitară"],
       en: ["Regional administration", "Local craftsmanship", "Quiet environment"]
     }
   },
@@ -1117,13 +1117,13 @@ export const poiExtraComorosCitiesV2: POI[] = [
       de: "Moidzaza liegt im Osten der Insel Grande Comore.",
       hu: "Moidzaza Grande Comore szigetének keleti részén fekszik.",
       ro: "Moidzaza este situat în estul insulei Grande Comore.",
-      en: "Moidzaza is located in the east of Grande Comore island."
+      en: "Moidzaza is a village in eastern Grande Comore. Fertile volcanic soils support tropical crops and local farming."
     },
     facts: {
       de: ["Tropische Vegetation", "Zentrum für Nelkenanbau", "Vulkanische Böden"],
       hu: ["Trópusi növényzet", "Szegfűszegtermesztés központja", "Vulkanikus talaj"],
       ro: ["Vegetație tropicală", "Centru pentru cultura de cuișoare", "Soluri vulcanice"],
-      en: ["Tropical vegetation", "Center for clove cultivation", "Volcanic soils"]
+      en: ["Eastern Grande Comore", "Volcanic soils", "Tropical farming"]
     }
   },
   {
@@ -1133,16 +1133,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.4833, -11.8],
     name: { de: "Pidjani", hu: "Pidjani", ro: "Pidjani", en: "Pidjani" },
     description: {
-      de: "Pidjani ist eine Küstenstadt im Südosten von Grande Comore.",
+      de: "Pidjani liegt im S?dosten von Grande Comore an der K?ste. Fischerei und Riffe bestimmen hier das Umfeld.",
       hu: "Pidjani egy kikötőváros Grande Comore délkeleti részén.",
-      ro: "Pidjani este un oraș de coastă în sud-estul insulei Grande Comore.",
-      en: "Pidjani is a coastal town in the southeast of Grande Comore."
+      ro: "Pidjani este un oraș de pe Grande Comore, legat de zona nordică a insulei și de drumul de coastă. Este una dintre așezările care structurează viața de zi cu zi din această parte a arhipelagului.",
+      en: "Pidjani is a coastal town in southeastern Grande Comore. Fishing and nearby reef waters shape everyday life there."
     },
     facts: {
-      de: ["Wichtiger Fischereiplatz", "Korallenriffe in der Nähe", "Handelsort"],
+      de: ["S?dosten von Grande Comore", "K?stenort", "Fischerei und Korallenriffe"],
       hu: ["Fontos halászati helyszín", "Közeli korallzátonyok", "Kereskedelmi helyszín"],
-      ro: ["Loc de pescuit important", "Recife de corali în apropiere", "Loc de comerț"],
-      en: ["Important fishing spot", "Nearby coral reefs", "Trading town"]
+      ro: ["oraș pe Grande Comore", "din Comore", "legat de coastă"],
+      en: ["Southeast coast", "Fishing community", "Nearby coral reefs"]
     }, image: "/poi-images/pidjani-cities-v2.webp"},
   {
     id: "tsidje-cities-v2",
@@ -1151,16 +1151,16 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [43.25, -11.6333],
     name: { de: "Tsidjé", hu: "Tsidjé", ro: "Tsidjé", en: "Tsidjé" },
     description: {
-      de: "Tsidjé liegt nördlich von Moroni und Itsandra.",
-      hu: "Tsidjé Moronitól és Itsandrától északra fekszik.",
+      de: "Tsidje liegt am Rand von Moroni und geh?rt zum erweiterten Vorstadtg?rtel. Viele Bewohner pendeln t?glich in die Hauptstadt.",
+      hu: "Tsidje Moroni szélén fekvő elővárosi település. Sok lakó naponta a fővárosba jár dolgozni vagy tanulni.",
       ro: "Tsidjé este situat la nord de Moroni și Itsandra.",
-      en: "Tsidjé is located north of Moroni and Itsandra."
+      en: "Tsidje is a suburb on the edge of Moroni. Many residents commute into the capital for work and school."
     },
     facts: {
-      de: ["Wachsende Vorstadt", "Gute Straßenanbindung", "Wohngebiet"],
-      hu: ["Növekvő előváros", "Jó közúti kapcsolat", "Lakóövezet"],
+      de: ["Am Stadtrand von Moroni", "Vorstadt mit Wohnfunktion", "Gute Stra?enanbindung"],
+      hu: ["Moroni pereme", "Elővárosi szerep", "Napi ingázás"],
       ro: ["Suburbie în creștere", "Conexiune rutieră bună", "Zonă rezidențială"],
-      en: ["Growing suburb", "Good road connection", "Residential area"]
+      en: ["Edge of Moroni", "Residential suburb", "Daily commuting"]
     }, image: "/poi-images/tsidje-cities-v2.webp"},
   {
     id: "bazmini-cities-v2",
@@ -1171,14 +1171,14 @@ export const poiExtraComorosCitiesV2: POI[] = [
     description: {
       de: "Bazmini ist eine Stadt im Nordosten von Anjouan.",
       hu: "Bazmini egy város Anjouan északkeleti részén.",
-      ro: "Bazmini este un oraș în nord-estul insulei Anjouan.",
-      en: "Bazmini is a town in northeastern Anjouan."
+      ro: "Bazmini este un orășel de pe Anjouan, cunoscut și sub forma Bazimini. Are un profil urban mic, specific comunităților din estul arhipelagului.",
+      en: "Bazmini is a small town in northeastern Anjouan. Its hill country setting supports agriculture and local village life."
     },
     facts: {
       de: ["Landwirtschaftlicher Schwerpunkt", "Ylang-Ylang-Produktion", "Hügeliges Gelände"],
       hu: ["Mezőgazdasági fókusz", "Ylang-ylang termelés", "Dombvidéki terület"],
-      ro: ["Accent agricol", "Producție de Ylang-ylang", "Teren colinar"],
-      en: ["Agricultural focus", "Ylang-ylang production", "Hilly terrain"]
+      ro: ["pe Anjouan", "din Comore", "și numele Bazimini"],
+      en: ["Northeastern Anjouan", "Hill country setting", "Agricultural village"]
     }
   },
   {
@@ -1188,14 +1188,14 @@ export const poiExtraComorosCitiesV2: POI[] = [
     coords: [44.4, -12.2],
     name: { de: "Bambao", hu: "Bambao", ro: "Bambao", en: "Bambao" },
     description: {
-      de: "Bambao ist eine bedeutende Region und Stadt auf Anjouan.",
-      hu: "Bambao egy jelentős régió és város Anjouan szigetén.",
+      de: "Bambao liegt im Norden von Anjouan und ist mit einer alten Ylang-Ylang-Plantage verbunden. Der Ort steht f?r die Parf?mtradition der Insel.",
+      hu: "Bambao Anjouan északi részén található, és a ylang-ylang termesztésével hozható kapcsolatba. A település a sziget illóolaj-kultúrájának része.",
       ro: "Bambao este o regiune și un oraș important pe Anjouan.",
       en: "Bambao is a significant region and town on Anjouan."
     },
     facts: {
-      de: ["Zentrum der Vanilleproduktion", "Historische Plantagen", "Dicht bewaldet"],
-      hu: ["Vaníliatermelés központja", "Történelmi ültetvények", "Sűrűn erdősült"],
+      de: ["Norden von Anjouan", "Historische Ylang-Ylang-Plantage", "Parf?mproduktion"],
+      hu: ["Anjouan északi része", "Ylang-ylang termesztés", "Illóolaj-termelés"],
       ro: ["Centru al producției de vanilie", "Plantații istorice", "Zonă dens împădurită"],
       en: ["Center of vanilla production", "Historic plantations", "Densely forested"]
     }

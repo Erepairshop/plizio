@@ -35,8 +35,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Agha Mohammad Khan wählte Teheran 1786 als neue Hauptstadt Irans.", "Der Milad-Turm ist mit 435 Metern Höhe das höchste Gebäude des Landes.", "Die Bevölkerungszahl der Metropolregion überschreitet 15 Millionen Einwohner.", "Der historische Golestan-Palast wurde 2013 zum UNESCO-Weltkulturerbe erklärt.", "Die Teheraner U-Bahn umfasst sieben Hauptlinien mit über 150 Stationen.", "Rund 30 Prozent der iranischen Industrieunternehmen befinden sich in Teheran."],
       ro: ["Turnul Milad, inaugurat în 2007, are o înălțime de 435 de metri.", "Palatul Golestan face parte din Patrimoniul Mondial UNESCO din 2013.", "Bazarul Mare din Teheran are o lungime a coridoarelor de peste 10 kilometri.", "Orașul este situat la o altitudine medie de 1.200 de metri deasupra nivelului mării.", "Populația zonei metropolitane a depășit 15 milioane de locuitori în 2020.", "Calea ferată subterană a orașului (metroul) a fost deschisă în anul 1999."],
       en: ["The city's elevation varies significantly between 1,100 and 1,700 meters above sea level.", "Tehran was chosen as the capital of Iran in 1786 during the reign of Agha Mohammad Khan.", "The Milad Tower stands at 435 meters, making it one of the tallest freestanding towers in the world.", "Over 8.6 million people live within the administrative boundaries of the city.", "The Azadi Tower (Freedom Tower) was built in 1971 to commemorate the 2,500th anniversary of the Persian Empire.", "The city features an extensive metro network with over 250 kilometers of track to alleviate dense traffic."]
-    }
-  },
+    }, image: "/poi-images/tehran-cities-v2.webp"},
   {
     id: "mashhad-cities-v2",
     type: "state-capital",
@@ -71,8 +70,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Über 20 Millionen Pilger besuchen jährlich den Imam-Reza-Schrein.", "Die Gauhar-Schad-Moschee wurde im Jahr 1418 fertiggestellt.", "Die Provinz Khorasan liefert mehr als 70 Prozent der globalen Safranproduktion.", "Maschhad liegt auf einer durchschnittlichen Höhe von 985 Metern über dem Meeresspiegel.", "Nadir Schah erklärte die Stadt 1736 zur Hauptstadt seines Reiches.", "Die Ferdousi-Universität in Maschhad wurde 1949 gegründet."],
       ro: ["Peste 20 de milioane de pelerini vizitează sanctuarul Imamului Reza în fiecare an.", "Orașul Mashhad produce o mare parte din cele 400 de tone de șofran recoltate anual în Iran.", "Complexul religios principal ocupă o suprafață impresionantă de aproape 600.000 de metri pătrați.", "Universitatea Ferdowsi din Mashhad a fost fondată oficial în anul 1949.", "Altitudinea medie a orașului este de aproximativ 985 de metri.", "Numele „Mashhad” înseamnă literal „locul martiriului” în limba arabă."],
       en: ["The city is visited by approximately 20 million pilgrims and tourists annually.", "Its name translates from Arabic as \"the place of martyrdom\".", "The Imam Reza shrine complex is one of the largest mosques in the world by total area.", "Mashhad and the surrounding Khorasan province serve as the center of global saffron production.", "The settlement is situated at an altitude of 985 meters in the valley of the Kashaf River.", "During the 18th century, it briefly served as the capital of Persia under the rule of Nader Shah."]
-    }
-  },
+    }, image: "/poi-images/mashhad-cities-v2.webp"},
   {
     id: "isfahan-cities-v2",
     type: "state-capital",
@@ -107,8 +105,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Schah Abbas der Große machte Isfahan 1598 zur Hauptstadt Persiens.", "Der Naqsch-e-Dschahan-Platz umfasst eine riesige Fläche von 89.000 Quadratmetern.", "Die historische Si-o-se Pol Brücke ist 297 Meter lang und besitzt 33 Bögen.", "Im 17. Jahrhundert erreichte die Bevölkerungszahl schätzungsweise 600.000.", "Der Platz und seine umliegenden Monumente sind seit 1979 UNESCO-Welterbe.", "Die armenische Vank-Kathedrale wurde im Jahr 1606 fertiggestellt."],
       ro: ["Piața Naqsh-e Jahan, construită între 1598 și 1629, măsoară 560 pe 160 de metri.", "Podul Si-o-se-pol, construit în 1602, are exact 33 de arcade impresionante din piatră.", "Isfahanul a devenit capitala Imperiului Persan în anul 1598 sub Șahul Abbas cel Mare.", "Minaretele Moscheii Shahului au o înălțime de 42 de metri și o acustică excepțională.", "Populația orașului depășește 2 milioane de locuitori conform datelor moderne.", "Marele Bazar din Isfahan este unul dintre cele mai vechi și mari din Orientul Mijlociu."],
       en: ["Naqsh-e Jahan Square measures 512 meters long and 163 meters wide, making it one of the largest historical squares globally.", "Shah Abbas the Great made Isfahan the capital of the Safavid Empire in 1598.", "The Sheikh Lotfollah Mosque on the square was built in 1619 and is famous for its color-changing dome.", "The famous Si-o-se Pol bridge features 33 arches and extends for 297 meters.", "The city is home to multiple UNESCO World Heritage sites, highlighting its architectural legacy.", "The Armenian Vank Cathedral in the Jolfa quarter was completed in 1606."]
-    }
-  },
+    }, image: "/poi-images/isfahan-cities-v2.webp"},
   {
     id: "karaj-cities-v2",
     type: "state-capital",
@@ -143,8 +140,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Karadsch ist mit über 1,5 Millionen Einwohnern die viertgrößte Stadt des Irans.", "Die Stadt liegt lediglich 36 Kilometer westlich der Hauptstadt Teheran.", "Der Amir-Kabir-Staudamm wurde im Jahr 1961 offiziell eröffnet.", "Die U-Bahn-Linie 5 verbindet Karadsch direkt mit dem Teheraner Netz.", "Die Skiregion Dizin nördlich von Karadsch reicht bis auf 3600 Meter Höhe.", "In der Stadt sind über 20 Prozent der iranischen Automobilzulieferer beheimatet."],
       ro: ["Barajul Amir Kabir, finalizat în 1961, furnizează apă potabilă esențială pentru regiune.", "Populația orașului a crescut exponențial, atingând aproape 1,6 milioane de locuitori în 2016.", "Drumul Chalus, care începe aici, a fost construit în anii 1930 în perioada Pahlavi.", "Karaj este situat la o altitudine de 1.312 metri la poalele Munților Alborz.", "Universitatea Kharaazmi este una dintre cele mai vechi instituții superioare, activă încă din 1919.", "Orașul acționează ca un nod industrial major, având numeroase fabrici și uzine."],
       en: ["The city's population has drastically increased since the 1950s to over 1.5 million residents.", "Karaj ranks as the fourth most populous city in modern-day Iran.", "The Amir Kabir Dam, built on the Karaj River in 1961, is a crucial water supply base for the region.", "The mountains surrounding the city are highly popular venues for winter sports and mountaineering.", "The settlement lies at an average elevation of approximately 1,300 meters above sea level.", "The city's transportation network, including the Metro Line 5, connects directly to Tehran."]
-    }
-  },
+    }, image: "/poi-images/karaj-cities-v2.webp"},
   {
     id: "shiraz-cities-v2",
     type: "state-capital",
@@ -179,8 +175,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Schiras diente von 1750 bis 1794 unter der Zand-Dynastie als persische Hauptstadt.", "Die historische Vakil-Moschee wurde im Jahr 1773 fertiggestellt.", "Der heutige Pavillon im Eram-Garten stammt größtenteils aus dem 19. Jahrhundert.", "Das Grabmal des Dichters Hafez wurde 1935 in seiner heutigen Form errichtet.", "Die antike Ruinenstadt Persepolis liegt knapp 60 Kilometer entfernt.", "Die Zitadelle des Karim Khan im Stadtzentrum wurde 1766 erbaut."],
       ro: ["Complexul antic Persepolis se află la aproximativ 60 de kilometri nord-est de Shiraz.", "Poetul persan Hafez a trăit în secolul al XIV-lea, iar mausoleul său a fost ridicat în 1935.", "Moscheea Nasir-ol-Molk a fost construită între anii 1876 și 1888 în perioada Qajar.", "Orașul Shiraz are o istorie documentată ce datează de peste 4.000 de ani.", "Grădina Eram din Shiraz este un exemplu clasic de grădină persană, inclusă în patrimoniul UNESCO în 2011.", "Altitudinea medie a orașului este de 1.500 de metri, oferind un climat favorabil culturilor de trandafiri."],
       en: ["The city is situated in the southern part of the country, on a lush plain of the Zagros Mountains.", "Shiraz served as the capital of the Zand dynasty between 1750 and 1794 under Karim Khan.", "The construction of the famous Nasir al-Mulk Mosque lasted from 1876 to 1888.", "Persepolis, located just 60 kilometers northeast of Shiraz, was founded in 515 BC.", "The city is a prominent center for medicine and arts throughout Iran.", "The tomb of Hafez, known as Hafezieh, was built in its current form in 1935 by a French architect."]
-    }
-  },
+    }, image: "/poi-images/shiraz-cities-v2.webp"},
   {
     id: "tabriz-cities-v2",
     type: "state-capital",
@@ -215,8 +210,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Der historische Basar von Täbris umfasst eine Fläche von knapp einem Quadratkilometer.", "Die Blaue Moschee wurde im Jahr 1465 erbaut und 1773 schwer beschädigt.", "Beim verheerenden Erdbeben von 1721 kamen in der Region über 80.000 Menschen ums Leben.", "Die Stadt beherbergt die Tabriz Tractor Manufacturing Company, die 1968 gegründet wurde.", "Im 13. Jahrhundert galt Täbris als wichtigster Knotenpunkt der nördlichen Seidenstraße.", "Die Universität von Täbris wurde 1947 als zweitälteste Universität Irans etabliert."],
       ro: ["Complexul Bazarului Istoric din Tabriz acoperă o suprafață de aproximativ 1 kilometru pătrat.", "Moscheea Albastră a fost construită în anul 1465, suferind daune majore la cutremurul din 1780.", "Tabriz a fost declarat Patrimoniu Mondial UNESCO în 2010 datorită bazarului său istoric.", "Orașul a fost capitala Imperiului Safavid pentru o scurtă perioadă, între 1501 și 1555.", "Tabriz a fost conectat la rețeaua feroviară națională abia în anii 1950.", "Populația orașului modern depășește 1,5 milioane de persoane."],
       en: ["The Historic Bazaar Complex of Tabriz was added to the UNESCO World Heritage list in 2010.", "The city served as the first capital of the Safavid Empire in 1501.", "The famous Blue Mosque was built in 1465 during the reign of the Qara Qoyunlu dynasty.", "Tabriz is situated at a high altitude, spreading approximately 1,350 meters above sea level.", "The city lies in a highly active seismic zone and has endured numerous destructive earthquakes, notably in 1721.", "It is a prominent industrial center, famous for machinery manufacturing, tractor factories, and carpet weaving."]
-    }
-  },
+    }, image: "/poi-images/tabriz-cities-v2.webp"},
   {
     id: "qom-cities-v2",
     type: "state-capital",
@@ -251,8 +245,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Fatima Masuma, die Schwester des achten Imams, verstarb hier im Jahr 816 n. Chr.", "Der goldene Schrein wurde ab dem 16. Jahrhundert unter den Safawiden monumental ausgebaut.", "Mehr als 50.000 Studenten studieren in den theologischen Hochschulen (Hauza) der Stadt.", "Ghom empfängt durchschnittlich nur 130 Millimeter Niederschlag im Jahr.", "Die Jamkaran-Moschee südlich der Stadt wurde im 11. Jahrhundert begründet.", "In den 1990er Jahren verdoppelte sich die Bevölkerungszahl von Ghom auf knapp eine Million."],
       ro: ["Sanctuarul Fatimei Masumeh atrage în medie peste 20 de milioane de pelerini anual.", "În oraș activează peste 50.000 de studenți și clerici în cadrul seminariilor teologice (Hawza).", "Construcția principală a sanctuarului actual a început la începutul secolului al XVII-lea.", "Qom este situat la aproximativ 140 de kilometri sud de capitala Teheran.", "Orașul are un climat arid, cu precipitații medii anuale de doar aproximativ 130 mm.", "Revoluția Iraniană din 1979 a avut unele dintre rădăcinile sale ideologice puternice în Qom."],
       en: ["Millions of pilgrims visit the shrine of Fatima Masumeh every single year.", "The city hosts over 50 religious seminaries, making it one of the largest Shia educational bases in the world.", "Fatima Masumeh, the sister of the eighth Imam, passed away here in the year 816 AD.", "The settlement is located on the edge of the Kavir Desert, at an elevation of about 930 meters.", "The city receives an average of only 130 millimeters of precipitation annually.", "In the 1990s, the population of Qom doubled to nearly one million inhabitants."]
-    }
-  },
+    }, image: "/poi-images/qom-cities-v2.webp"},
   {
     id: "ahvaz-cities-v2",
     type: "state-capital",
@@ -287,8 +280,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die National Iranian South Oil Company verantwortet rund 80 Prozent der iranischen Ölförderung.", "Am 29. Juni 2017 erreichte die Temperatur in Ahvaz sengende 54 Grad Celsius.", "Die Stadt wird vom Karun durchflossen, dem einzigen befahrbaren Fluss Irans.", "Die berühmte Schwarze Brücke (Pol-e Siah) wurde im Jahr 1936 errichtet.", "Im Ersten Golfkrieg (1980–1988) erlitt die Stadt massive infrastrukturelle Schäden.", "Ahvaz besitzt neun große Brücken, die den Flusslauf des Karun überqueren."],
       ro: ["Ahvaz a înregistrat una dintre cele mai ridicate temperaturi din lume, atingând 54 de grade Celsius în 2017.", "Podul Alb a fost construit de ingineri germani în anul 1936 peste râul Karun.", "Râul Karun are o lungime totală de 950 de kilometri, traversând centrul orașului.", "Orașul este responsabil pentru rafinarea și extragerea unei mari părți a petrolului iranian.", "Calea ferată trans-iraniană a conectat Ahvaz de restul țării încă din 1938.", "Regiunea înconjurătoare suferă adesea de furtuni severe de praf din deșert."],
       en: ["The National Iranian South Oil Company manages about 80 percent of Iran's crude oil production from here.", "On June 29, 2017, the temperature in Ahvaz reached a blistering 54 degrees Celsius.", "The Karun River, bisecting the city, is the longest and only navigable river in Iran.", "The famous Black Bridge (Pol-e Siah) was constructed over the river in 1936.", "During the Iran-Iraq War (1980–1988), the city suffered massive infrastructural damage due to its frontline proximity.", "Ahvaz features nine major bridges that span the course of the Karun River."]
-    }
-  },
+    }, image: "/poi-images/ahvaz-cities-v2.webp"},
   {
     id: "kermanshah-cities-v2",
     type: "state-capital",
@@ -323,8 +315,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Felsreliefs von Taq-e Bostan datieren aus der Sassanidenzeit (224–651 n. Chr.).", "Die Bisotun-Inschrift wurde um das Jahr 521 v. Chr. im Auftrag von Dareios I. erstellt.", "Kermanschah gilt als die bevölkerungsreichste kurdischsprachige Stadt Irans.", "Das UNESCO-Weltkulturerbe Bisotun liegt rund 30 Kilometer östlich der Stadt.", "Die lokale Ölraffinerie wurde 1922 in Betrieb genommen.", "Im Jahr 2017 traf ein schweres Erdbeben der Stärke 7,3 die Region und verursachte erhebliche Schäden."],
       ro: ["Basoreliefurile de la Taq-e Bostan au fost sculptate între secolele al III-lea și al VII-lea d.Hr.", "Kermanshah este situat la o altitudine de aproximativ 1.200 de metri deasupra nivelului mării.", "În 2017, un cutremur cu magnitudinea de 7,3 a lovit regiunea, provocând pagube semnificative.", "Orașul este recunoscut ca un hub major pentru agricultură și petrochimie în vestul Iranului.", "Populația orașului Kermanshah era de aproape un milion de locuitori în 2016.", "Inscripția de la Behistun, descifrarea cuneiformelor, se află la 30 km est de oraș."],
       en: ["The rock reliefs of Taq-e Bostan date back to the Sassanid era between the 3rd and 7th centuries.", "The Bisotun Inscription was created around 521 BC commissioned by Darius the Great.", "Kermanshah lies at an altitude of over 1,200 meters in a mountainous basin.", "The city and its surroundings are one of Iran's most important agricultural regions due to abundant mountain springs.", "A significant portion of Kermanshah's population is of Kurdish ethnicity and speaks the Kurdish language.", "In 2017, a severe earthquake measuring 7.3 struck the region, causing substantial damage."]
-    }
-  },
+    }, image: "/poi-images/kermanshah-cities-v2.webp"},
   {
     id: "urmia-cities-v2",
     type: "state-capital",
@@ -359,8 +350,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Archäologische Spuren in der Region weisen auf Siedlungen aus dem Jahr 2000 v. Chr. hin.", "Der Urmia-See hat seit den 1990er Jahren mehr als 80 Prozent seines Volumens eingebüßt.", "Die Jameh-Moschee von Urmia stammt ursprünglich aus der Epoche der Ilchane (13. Jahrhundert).", "Im 19. Jahrhundert gründeten amerikanische Presbyterianer hier 1835 eine der ersten medizinischen Missionen.", "Die Stadt beherbergt eine bedeutende historische assyrisch-christliche Minderheit.", "Die Provinzhauptstadt liegt auf einer Höhe von rund 1330 Metern über dem Meeresspiegel."],
       ro: ["În anii 1990, Lacul Urmia acoperea o suprafață de peste 5.000 de kilometri pătrați.", "În 2015, suprafața lacului scăzuse cu aproape 90% din cauza secetei și a barajelor.", "Urmia se mândrește cu una dintre cele mai vechi biserici creștine, Biserica Sfânta Maria (Naneh Maryam).", "Orașul se află la o altitudine medie de aproximativ 1.330 de metri.", "Primele așezări umane din zonă datează din mileniul al II-lea î.Hr.", "Urmia a fost un centru important al misionarilor americani și europeni în secolul al XIX-lea."],
       en: ["Archaeological traces in the region indicate settlements dating back to 2000 BC.", "Lake Urmia has lost more than 80 percent of its water volume since the 1990s.", "The Jameh Mosque of Urmia originates from the Ilkhanate epoch in the 13th century.", "The city hosts a significant historical Assyrian Christian minority.", "Urmia's surroundings are famous for high-quality agricultural products, especially apples.", "The provincial capital is situated at an elevation of approximately 1,330 meters above sea level."]
-    }
-  },
+    }, image: "/poi-images/urmia-cities-v2.webp"},
   {
     id: "rasht-cities-v2",
     type: "state-capital",
@@ -395,8 +385,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Rascht verzeichnet einen extrem hohen Jahresniederschlag von rund 1300 Millimetern.", "Die Persische Sozialistische Sowjetrepublik bestand in der Region von 1920 bis 1921.", "Das markante Rathaus am Shahrdari-Platz wurde im Jahr 1926 fertiggestellt.", "Im Jahr 2015 ernannte die UNESCO Rascht zur kreativen Stadt der Gastronomie.", "Der Hafenort Bandar-e Anzali liegt nur etwa 40 Kilometer nördlich der Stadt.", "Die Guilan-Universität wurde 1974 als akademisches Zentrum der Nordküste gegründet."],
       ro: ["Rasht a fost recunoscut oficial ca „Oraș Creativ al Gastronomiei” de către UNESCO în 2015.", "Orașul înregistrează precipitații medii anuale ridicate, depășind 1.350 mm pe an.", "Regiunea Gilan produce anual peste 1,5 milioane de tone de orez de înaltă calitate.", "Marea Caspică se află la o distanță scurtă de aproximativ 30 de kilometri la nord de Rasht.", "Clădirea primăriei și turnul cu ceas au fost construite în anii 1920, având un stil neoclasic.", "Populația orașului depășește 670.000 de locuitori conform estimărilor recente."],
       en: ["Rasht experiences extremely high annual rainfall, often exceeding 1,300 millimeters.", "In 2015, UNESCO designated Rasht as a Creative City of Gastronomy.", "The short-lived Persian Socialist Soviet Republic existed in the region from 1920 to 1921.", "The striking City Hall at Shahrdari Square was completed in the year 1926.", "The surrounding region is the country's most important area for rice and tea cultivation.", "Rasht is the largest settlement on the southern coast of the Caspian Sea."]
-    }
-  },
+    }, image: "/poi-images/rasht-cities-v2.webp"},
   {
     id: "zahedan-cities-v2",
     type: "state-capital",
@@ -431,8 +420,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Eisenbahnverbindung nach Britisch-Indien (Quetta) erreichte die Stadt im Jahr 1919.", "Zahedan liegt auf einer Höhe von 1352 Metern im Zentrum der Belutschen-Region.", "Die Makki-Moschee gehört zu den größten sunnitischen Gotteshäusern im gesamten Iran.", "Das Wüstenklima verursacht in den Sommermonaten fast wöchentlich massive Sandstürme.", "Die Universität von Sistan und Belutschistan wurde hier im Jahr 1974 gegründet.", "Die Entfernung zur Grenze nach Pakistan beträgt lediglich 41 Kilometer."],
       ro: ["Linia feroviară Quetta-Zahedan, construită de britanici, leagă Iranul de Pakistan încă din anul 1920.", "Orașul are un climat deșertic, cu precipitații anuale de obicei sub 100 de milimetri.", "Populația orașului a cunoscut o creștere masivă, de la 17.000 în 1956 la peste 580.000 de locuitori.", "Bazarul tradițional din Zahedan este celebru pentru textilele baluchi și mirodeniile indiene.", "Zahedan este situat la o altitudine ridicată de 1.352 de metri deasupra nivelului mării.", "Limba dominantă în regiune este baluchi, pe lângă limba persană oficială."],
       en: ["The railway connection to British India (Quetta) reached the city in the year 1919.", "Zahedan is situated at an elevation of 1,352 meters in the center of the Baluch region.", "The Makki Mosque is one of the largest Sunni places of worship in all of Iran.", "The desert climate causes massive sandstorms almost weekly during the summer months.", "A significant portion of the population is Baluchi and follows Sunni Islam.", "The distance to the border with Pakistan is merely 41 kilometers."]
-    }
-  },
+    }, image: "/poi-images/zahedan-cities-v2.webp"},
   {
     id: "hamadan-cities-v2",
     type: "state-capital",
@@ -467,8 +455,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Stadt wurde als Ekbatana im 8. Jahrhundert v. Chr. von den Medern gegründet.", "Das heutige Avicenna-Mausoleum wurde 1952 zum tausendsten Mondjahr-Jubiläum seines Geburtstags erbaut.", "Die Felsinschriften von Gandsch Nameh datieren in das 6. Jahrhundert v. Chr.", "Hamadan liegt auf einer stattlichen Höhe von 1850 Metern über dem Meeresspiegel.", "Das Alvand-Gebirge im Süden der Stadt gipfelt auf über 3570 Metern Höhe.", "Das Mausoleum von Esther und Mordechai ist ein wichtiges jüdisches Pilgerzentrum aus dem 13. Jahrhundert."],
       ro: ["Mausoleul lui Avicenna a fost construit în anul 1952 și este dominat de un turn înalt de 28 de metri.", "Peștera Ali Sadr a fost redescoperită în anul 1968 și atrage mii de turiști zilnic.", "Hamadan este situat la o altitudine de peste 1.850 de metri, având ierni destul de aspre.", "Inscripțiile rupestre Ganj Nameh din apropiere datează din perioada regelui Darius cel Mare (522-486 î.Hr.).", "Planul circular cu străzi radiale al orașului a fost implementat în anul 1928.", "Orașul este cunoscut la nivel național pentru meșteșugul său vechi de producere a ceramicii și a olăritului."],
       en: ["The city was founded as Ecbatana in the 8th century BC by the Medes.", "The current Avicenna Mausoleum was built in 1952 to mark his 1,000th lunar birth anniversary.", "The rock inscriptions of Ganj Nameh date back to the 6th century BC.", "Hamadan lies at an impressive altitude of 1,850 meters above sea level.", "The Alvand Mountain range to the south of the city peaks at over 3,570 meters.", "The Mausoleum of Esther and Mordechai is an important Jewish pilgrimage site dating from the 13th century."]
-    }
-  },
+    }, image: "/poi-images/hamadan-cities-v2.webp"},
   {
     id: "kerman-cities-v2",
     type: "state-capital",
@@ -503,8 +490,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Kerman wurde vermutlich im 3. Jahrhundert n. Chr. durch den Sassanidenkönig Ardaschir I. gegründet.", "Der Gandsch-Ali-Khan-Komplex wurde zwischen 1596 und 1621 im Zentrum erbaut.", "Die Provinz Kerman ist der größte Pistazienproduzent des Landes.", "Im 13. Jahrhundert besuchte der italienische Reisende Marco Polo die florierende Handelsstadt.", "Die historische Freitagsmoschee von Kerman (Masdsched-e Dschame) wurde 1349 vollendet.", "Das Erdbeben von Bam im Jahr 2003 forderte rund 26.000 Menschenleben in der Nachbarregion."],
       ro: ["Complexul istoric Ganjali Khan a fost construit în secolul al XVII-lea sub domnia dinastiei Safavide.", "În deșertul Dasht-e Lut s-au înregistrat temperaturi la suprafața solului de peste 70 de grade Celsius.", "Kerman se mândrește cu peste 10 qanat-uri antice, vitale pentru susținerea agriculturii locale.", "Iranul este unul dintre primii producători mondiali de fistic, iar Kerman este centrul acestei industrii.", "Populația orașului depășește 530.000 de locuitori, trăind la o altitudine de 1.755 de metri.", "Baia tradițională (Hammam) din complexul Ganjali Khan a fost transformată într-un impresionant muzeu etnografic în 1971."],
       en: ["Kerman was likely founded in the 3rd century AD by the Sassanid king Ardashir I.", "The Ganjali Khan Complex was built in the city center between 1596 and 1621.", "Kerman Province is the largest producer of pistachios in the entire country.", "The city lies on a plain at an altitude of over 1,750 meters.", "Kerman's bazaar is one of the longest and best-preserved historical market streets in Iran.", "The tragic Bam earthquake in 2003 claimed around 26,000 lives in the neighboring region."]
-    }
-  },
+    }, image: "/poi-images/kerman-cities-v2.webp"},
   {
     id: "yazd-cities-v2",
     type: "state-capital",
@@ -539,8 +525,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die historische Altstadt von Yazd wurde 2017 zum UNESCO-Weltkulturerbe ernannt.", "Die Minarette der Freitagsmoschee ragen beeindruckende 52 Meter in die Höhe (erbaut um 1324).", "Das heilige Feuer im zoroastrischen Ateschkadeh brennt angeblich seit dem Jahr 470 n. Chr.", "Die Türme des Schweigens (Dachma) wurden bis zur Verbots-Anordnung in den 1960er Jahren rituell genutzt.", "Marco Polo lobte Yazd 1272 für seine exquisiten Seidenstoffe, bekannt als 'Yazdi'.", "Ein lokales Netzwerk aus Qanaten (Wasserstollen) ist zum Teil über 2000 Jahre alt."],
       ro: ["Flacăra din Templul Focului din Yazd arde neîntrerupt din anul 470 d.Hr.", "Orașul istoric Yazd a fost inclus pe lista Patrimoniului Mondial UNESCO în anul 2017.", "Cel mai înalt turn de vânt (badgir) din lume se află în Grădina Dowlat Abad, având peste 33 de metri înălțime.", "Sistemul de irigații qanat din Yazd se bazează pe o rețea subterană de sute de kilometri veche de milenii.", "Yazd este recunoscut național pentru industria sa de mătase și produsele de patiserie dulci.", "În anul 1272, Marco Polo a descris orașul ca pe o așezare prosperă și bogată în comerț."],
       en: ["The historical old town of Yazd was designated a UNESCO World Heritage site in 2017.", "The minarets of the Friday Mosque tower an impressive 52 meters high, built around 1324.", "The sacred fire in the Zoroastrian Atashkadeh has allegedly been burning continuously since 470 AD.", "The Towers of Silence (Dakhma) were used for ritual sky burials until banned in the 1960s.", "Marco Polo praised Yazd in 1272 for its exquisite silk fabrics, known as \"Yazdi\".", "A local network of qanats (water tunnels) is partially over 2,000 years old."]
-    }
-  },
+    }, image: "/poi-images/yazd-cities-v2.webp"},
   {
     id: "ardabil-cities-v2",
     type: "state-capital",
@@ -575,8 +560,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Das Mausoleum des Scheich Safi ad-Din wurde 1334 errichtet und 2010 UNESCO-Welterbe.", "Ardabil liegt auf einer Höhe von 1500 Metern, was milde Sommer und frostige Winter garantiert.", "Der legendäre Ardabil-Teppich wurde im Jahr 1539 fertiggestellt und besitzt über 26 Millionen Knoten.", "Der ruhende Vulkan Sabalan westlich der Stadt ist mit 4811 Metern der dritthöchste Berg Irans.", "Der Thermalort Sareyn ist nur 28 Kilometer von Ardabil entfernt.", "Die Provinz Ardabil wurde 1993 aus der Provinz Ost-Aserbaidschan ausgegliedert."],
       ro: ["Muntele vulcanic inactiv Sabalan atinge o altitudine impresionantă de 4.811 metri.", "Sanctuarul Șeicului Safi-ad-din a fost construit inițial între începutul secolului al XVI-lea și finele secolului al XVIII-lea.", "Celebrul „Covor din Ardabil” a fost realizat în jurul anului 1540 și măsoară 10,5 pe 5,3 metri.", "Orașul se află pe un platou înalt la aproximativ 1.500 de metri altitudine, oferind un climat răcoros.", "UNESCO a adăugat complexul sanctuarului pe lista Patrimoniului Mondial în 2010.", "Izvoarele termale din Sarein pot atinge temperaturi la suprafață de până la 67 de grade Celsius."],
       en: ["The Mausoleum of Sheikh Safi al-Din was added to the UNESCO World Heritage list in 2010.", "Ardabil lies at an altitude of 1,500 meters, ensuring mild summers and frosty winters.", "The legendary Ardabil Carpet was completed in 1539 and contains over 26 million knots.", "The dormant Sabalan volcano west of the city is Iran's third-highest peak at 4,811 meters.", "The thermal resort town of Sareyn is located just 28 kilometers from Ardabil.", "The province of Ardabil was separated from East Azerbaijan Province in 1993."]
-    }
-  },
+    }, image: "/poi-images/ardabil-cities-v2.webp"},
   {
     id: "bandar-abbas-cities-v2",
     type: "state-capital",
@@ -611,8 +595,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Schah Abbas der Große eroberte die Hafenstadt im Jahr 1614 von den Portugiesen.", "Die Stadt bewältigt mehr als 70 Prozent des gesamten iranischen Seeimports und -exports.", "Die Straße von Hormus ist an ihrer schmalsten Stelle nur 39 Kilometer breit.", "Der nahe gelegene Shahid-Rajaee-Hafenterminal wurde in den 1980er Jahren stark ausgebaut.", "Bandar Abbas verzeichnet im Sommer oft eine Luftfeuchtigkeit von über 80 Prozent bei Temperaturen über 40 Grad.", "Die Stadt ist der wichtigste Stützpunkt der iranischen Marine am Persischen Golf."],
       ro: ["Portul Shahid Rajaee din Bandar Abbas manipulează peste 85% din comerțul maritim de containere al Iranului.", "Marina militară și-a stabilit cartierul general principal în acest oraș de importanță strategică.", "Distanța pe mare până la insula Qeshm este de doar aproximativ 20 de kilometri din port.", "Populația așezării a depășit jumătate de milion de locuitori în secolul al XXI-lea.", "Orașul a fost redenumit din „Gameron” în „Bandar Abbas” în 1622 de către Șahul Abbas I.", "Strâmtoarea Ormuz are o lățime minimă de doar 39 de kilometri la cel mai îngust punct al său."],
       en: ["Shah Abbas the Great captured the port city from the Portuguese in the year 1614.", "The city handles more than 70 percent of all Iranian maritime imports and exports.", "The Strait of Hormuz is only 39 kilometers wide at its narrowest point.", "The nearby Shahid Rajaee port terminal was heavily expanded during the 1980s.", "Bandar Abbas often experiences summer humidity above 80 percent alongside temperatures over 40 degrees Celsius.", "The city is the most critical base for the Iranian Navy in the Persian Gulf."]
-    }
-  },
+    }, image: "/poi-images/bandar-abbas-cities-v2.webp"},
   {
     id: "arak-cities-v2",
     type: "state-capital",
@@ -647,8 +630,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Stadt wurde 1808 durch Yusef Khan-e Gorji zunächst als Sultanabad gegründet.", "Arak ist der Standort der größten Aluminiumfabrik im Iran (gegründet 1972).", "Der IR-40 Schwerwasserreaktor bei Arak wurde 2002 der internationalen Gemeinschaft bekannt.", "Der nahe Meighan-Salzsee produziert jährlich Millionen Tonnen Natriumsulfat.", "In den 1930er Jahren wurde Arak an die transiranische Eisenbahnstrecke angeschlossen.", "Die Stadt ist von Bergen umgeben, wodurch sich Industrieabgase im Kessel sammeln können."],
       ro: ["Orașul Arak a fost fondat în mod oficial în anul 1808 în timpul dinastiei Qajar.", "Complexul petrochimic din Arak este una dintre cele mai mari facilități din Orientul Mijlociu.", "Orașul găzduiește o importantă fabrică de aluminiu care a început producția în 1972.", "Bazarul istoric acoperit din Arak se întinde pe o suprafață de peste 14 hectare.", "Arak este situat la o altitudine relativ mare, de aproximativ 1.750 de metri.", "Din punct de vedere educațional, orașul dispune de mari universități tehnice fondate în anii 1970."],
       en: ["The city was founded in 1808 by Yusef Khan-e Gorji, initially named Sultanabad.", "Arak is the site of the largest aluminum factory in Iran, established in 1972.", "The IR-40 heavy water reactor near Arak became known to the international community in 2002.", "The nearby Meighan salt lake produces millions of tons of sodium sulfate annually.", "In the 1930s, Arak was connected to the Trans-Iranian Railway network.", "The city is surrounded by mountains, which can cause industrial emissions to accumulate in the basin."]
-    }
-  },
+    }, image: "/poi-images/arak-cities-v2.webp"},
   {
     id: "islamshahr-cities-v2",
     type: "city",
@@ -683,8 +665,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Islamshahr hat sich von einem Agrardorf zu einer Großstadt mit über 400.000 Einwohnern entwickelt.", "Die Stadt liegt lediglich 15 Kilometer südwestlich der Kernstadt von Teheran.", "Im April 1995 gab es hier bedeutende soziale Unruhen wegen wirtschaftlicher Engpässe.", "Die Mehrheit der lokalen Industriezweige konzentriert sich auf Textilien und Schuhproduktion.", "Die Bevölkerung wuchs in den 1980er und 1990er Jahren aufgrund massiver Landflucht exponentiell.", "Der Vorort ist stark von der Verkehrsinfrastruktur der Azadegan-Autobahn abhängig."],
       ro: ["Populația orașului Islamshahr a crescut la peste 448.000 de locuitori conform datelor din 2016.", "Orașul se află la o distanță de doar 12 kilometri de periferia capitalei Teheran.", "Economia locală se bazează puternic pe prelucrarea lemnului, producția de încălțăminte și textile.", "Înainte de Revoluția Iraniană din 1979, orașul era cunoscut sub numele de Qasemabad.", "Regiunea este străbătută de principala cale ferată care leagă Teheranul de sudul țării.", "În ciuda dezvoltării industriale rapide, zona menține o activitate intensă pe planul comerțului de retail cu amănuntul."],
       en: ["Islamshahr has evolved from an agrarian village to a metropolis with over 400,000 residents.", "The city is located a mere 15 kilometers southwest of Tehran's core.", "In April 1995, significant social unrest occurred here due to economic hardships.", "The majority of local industries focus on textile and shoe production.", "The population grew exponentially in the 1980s and 1990s due to massive rural flight.", "The suburb is heavily reliant on the traffic infrastructure of the Azadegan Highway."]
-    }
-  },
+    }, image: "/poi-images/islamshahr-cities-v2.webp"},
   {
     id: "zanjan-cities-v2",
     type: "state-capital",
@@ -719,8 +700,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Stadt ist im ganzen Land für ihre traditionellen handgefertigten Messer berühmt.", "Im Jahr 1851 war Zandschan der Schauplatz eines großen Babi-Aufstandes.", "Der nahegelegene Soltaniyeh-Dom wurde 1312 vollendet und besitzt eine 49 Meter hohe Kuppel.", "Der Soltaniyeh-Dom wurde im Jahr 2005 in die UNESCO-Welterbeliste aufgenommen.", "Zandschan liegt auf einer Hochlandebene in 1638 Metern Höhe über dem Meeresspiegel.", "Die Stadt liegt an der strategischen Verkehrsachse 298 Kilometer von Teheran entfernt."],
       ro: ["Mausoleul Soltaniyeh, aflat la sud de oraș, a fost finalizat în anul 1312, remarcându-se prin cupola sa imensă.", "Bazarul istoric din Zanjan măsoară peste un kilometru în lungime, având secțiuni lungi neîntrerupte.", "Zanjan are un climat continental rece, fiind adesea acoperit de zăpezi groase în lunile de iarnă.", "Clădirea istorică a spălătoriei Rakhatshoy Khaneh a fost construită la începutul secolului al XX-lea, în 1928.", "Orașul reprezintă un centru esențial pentru prelucrarea minereurilor, în special extragerea zincului și plumbului.", "Populația modernă a orașului este predominant de etnie turcă azeră."],
       en: ["The city is famous throughout the country for its traditional handcrafted knives.", "In the year 1851, Zanjan was the site of a major Babi uprising.", "The nearby Soltaniyeh Dome was completed in 1312 and features a 49-meter high dome.", "The Soltaniyeh Dome was added to the UNESCO World Heritage list in 2005.", "Zanjan lies on a highland plain at 1,638 meters above sea level.", "The city is situated on a strategic transport axis 298 kilometers away from Tehran."]
-    }
-  },
+    }, image: "/poi-images/zanjan-cities-v2.webp"},
   {
     id: "sanandaj-cities-v2",
     type: "state-capital",
@@ -755,8 +735,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Stadt liegt im schroffen Zagros-Gebirge auf einer Höhe von 1538 Metern.", "Sanandadsch wurde im frühen 17. Jahrhundert (um 1636) als Festungsstadt gegründet.", "Das historische Khosro-Abad-Herrenhaus wurde im Jahr 1808 unter den Kadscharen erbaut.", "Die Stadt ist weltweit berühmt für die feinen handgeknüpften Senne-Teppiche.", "Über 90 Prozent der lokalen Bevölkerung gehören zur kurdischen Ethnie.", "Sanandadsch wurde 2019 in das UNESCO-Netzwerk der kreativen Städte für Musik aufgenommen."],
       ro: ["Sanandaj a fost fondat oficial în anul 1636 de către Suleyman Khan Ardalan.", "Orașul a fost desemnat „Orașul Muzicii” de către rețeaua orașelor creative UNESCO în 2019.", "Populația orașului depășește 410.000 de locuitori conform datelor recente.", "Altitudinea orașului variază între 1.450 și 1.538 de metri deasupra nivelului mării.", "Parcul forestier Abidar, o atracție majoră, este situat direct pe versanții muntelui vestic.", "Cel mai important monument istoric este Conacul Khosro Abad, construit în secolul al XIX-lea."],
       en: ["The city was founded by a famous Safavid-era governor, Soleyman Khan, in 1636.", "The vast majority of Sanandaj's population is ethnically Kurdish and follows Sunni Islam.", "Mount Abidar, towering over the city, features an extensive recreational park.", "The city is famous for its unique woodwork (Orosi) and beautiful, hand-woven carpets.", "The Jameh Mosque (Friday Mosque) is a prominent remnant of the Qajar era, with impressive tiling.", "In 2019, Sanandaj joined the UNESCO Creative Cities Network as a City of Music."]
-    }
-  },
+    }, image: "/poi-images/sanandaj-cities-v2.webp"},
   {
     id: "qazvin-cities-v2",
     type: "state-capital",
@@ -791,8 +770,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Ghaswin war von 1548 bis 1598 die stolze Hauptstadt des persischen Safawiden-Reiches.", "Der historische Tschehel-Sotun-Palast (Vierzig-Säulen-Palast) wurde im 16. Jahrhundert erbaut.", "Die legendäre Festung Alamut liegt in den schwer zugänglichen Bergen nördlich der Stadt.", "Das verheerende Buin-Zahra-Erdbeben im Jahr 1962 forderte über 12.000 Todesopfer in der Provinz.", "Ghaswin beherbergt die bedeutende Jameh-Moschee, deren älteste Teile aus dem 9. Jahrhundert stammen.", "Die Region ist landesweit bekannt für die Produktion hochwertiger kernloser Trauben."],
       ro: ["Qazvin a servit drept capitală a Imperiului Safavid între anii 1548 și 1598.", "Caravanseraiul Sa'd al-Saltaneh acoperă o suprafață enormă de peste 2,6 hectare.", "Orașul a fost grav avariat de numeroase cutremure de-a lungul istoriei sale, cel mai devastator fiind în 1119.", "Moscheea Jameh (Moscheea Vineri) din Qazvin este una dintre cele mai vechi din Iran, ridicată în secolul al IX-lea.", "Populația modernă a orașului este de peste 400.000 de locuitori.", "Palatul Chehel Sotoun adăpostește în prezent principalul muzeu de caligrafie al orașului."],
       en: ["Qazvin was the capital of the Safavid Empire during the second half of the 16th century under Shah Tahmasp I.", "The city was allegedly founded by the Sassanid King Shapur I in the 3rd century.", "The Sa'd al-Saltaneh Caravanserai is Iran's largest covered urban caravanserai.", "Qazvin is also known as the capital of Iranian calligraphy (Paytakht-e Khoshnevisi).", "The surrounding area of the city is famous for high-quality grapes and pistachios.", "To the north stretches the Alamut Valley, home to the famous former mountain fortresses of the Assassins."]
-    }
-  },
+    }, image: "/poi-images/qazvin-cities-v2.webp"},
   {
     id: "khorramabad-cities-v2",
     type: "state-capital",
@@ -827,8 +805,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Falak-ol-Aflak-Festung erstreckt sich über eine Fläche von rund 5300 Quadratmetern.", "Die massiven Mauern der Festung erreichen stellenweise eine Höhe von 22 Metern.", "Die Ursprünge der militärischen Anlage reichen bis in die sassanidische Epoche (224–651 n. Chr.) zurück.", "Die berühmten Luristan-Bronzen aus der Region stammen aus der frühen Eisenzeit (um 1000 v. Chr.).", "Chorramabad liegt in einem Gebirgstal auf einer Höhe von rund 1140 Metern.", "Die antike sassanidische Shapuri-Brücke überquert den Fluss südlich der Festung."],
       ro: ["Castelul Falak-ol-Aflak a fost construit inițial în perioada Imperiului Sasanid (224–651 d.Hr.).", "Suprafața bazei castelului depășește 5.300 de metri pătrați, având opt turnuri masive.", "Orașul este situat la o altitudine ridicată de aproximativ 1.147 de metri deasupra nivelului mării.", "Regiunea Lorestan este considerată printre primele locuri în care omul a domesticit caii, acum mii de ani.", "Muzeul de antropologie din interiorul castelului prezintă peste 12.000 de artefacte istorice din bronz.", "Valea este străbătută de râul Khorramabad, care izvorăște direct din munții înconjurători."],
       en: ["The impressive Falak-ol-Aflak (Heaven of Heavens) fortress was built during the Sassanid era, around the 3rd century.", "Khorramabad lies in the former territory of the ancient Elamite and Kassite civilizations.", "The city is situated in a valley at an elevation of approximately 1,147 meters.", "The Lorestan region is world-renowned for unique bronze artifacts dating back to the 1st millennium BC.", "The city's population primarily speaks the Luri language, an archaic dialect of Persian.", "The region is often referred to as Iran's province of waterfalls due to its abundant springs."]
-    }
-  },
+    }, image: "/poi-images/khorramabad-cities-v2.webp"},
   {
     id: "gorgan-cities-v2",
     type: "state-capital",
@@ -863,8 +840,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Große Mauer von Gorgan erstreckt sich über beeindruckende 195 Kilometer.", "Die historische Ziegelmauer wurde im 5. Jahrhundert n. Chr. durch die Sassaniden errichtet.", "Die hyrkanischen Wälder südlich der Stadt wurden 2019 in die UNESCO-Welterbeliste aufgenommen.", "Bis zum Jahr 1937 trug die Stadt offiziell den Namen Asterabad.", "Gorgan liegt nur rund 30 Kilometer von der Südostküste des Kaspischen Meeres entfernt.", "Die lokale Jameh-Moschee besitzt noch originale Strukturen aus der Seldschukenzeit (11. Jahrhundert)."],
       ro: ["Marele Zid Gorgan are o lungime de aproape 200 de kilometri și datează din epoca sasanidă.", "Orașul primește precipitații medii anuale cuprinse între 600 și 700 de milimetri.", "Până în anul 1937, așezarea a fost cunoscută oficial sub denumirea de Astarabad.", "Populația orașului Gorgan a ajuns la aproape 350.000 de locuitori conform estimărilor din 2016.", "Parcul Național Golestan, renumit pentru biodiversitate, se află la est de oraș și acoperă peste 900 km pătrați.", "Economia regiunii se bazează masiv pe producția agricolă, în special pe cereale."],
       en: ["The city was previously known as Asterabad and regained the name Gorgan in the 1930s.", "The Great Wall of Gorgan was built by the Sassanids in the 5th and 6th centuries against northern nomads.", "The nearby Golestan National Park is one of Iran's oldest and largest nature reserves.", "The region is home to the unique 'Hyrcanian forests', which are recognized as a UNESCO World Heritage site.", "The city's population is highly diverse: Persians, Turkmen, Kazakhs, and Mazandaranis live here side by side.", "In traditional architecture, the wide, protruding roof structures developed due to frequent rainfall."]
-    }
-  },
+    }, image: "/poi-images/gorgan-cities-v2.webp"},
   {
     id: "sari-cities-v2",
     type: "state-capital",
@@ -899,8 +875,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Sari wurde von Agha Mohammad Khan im späten 18. Jahrhundert kurzzeitig zur Hauptstadt erklärt.", "Der historische Resget-Turm südlich der Stadt stammt aus dem frühen 11. Jahrhundert.", "Die Region ist das Hauptanbaugebiet Irans für Reis, mit jährlichen Ernten von über 1 Million Tonnen.", "Das subtropische Klima sorgt für durchschnittliche Niederschlagsmengen von 800 Millimetern pro Jahr.", "Die farbenfrohen Kalksteinterrassen von Badab-e Surt liegen etwa 100 Kilometer entfernt.", "Sari war eine der ersten Städte Irans, die 1929 an das transiranische Eisenbahnnetz angeschlossen wurde."],
       ro: ["Turnul cu ceas din Piața Sa'at (Piața Ceasului) este principalul simbol arhitectural al orașului.", "Sari este recunoscut ca un centru major pentru ambalarea și exportul de citrice iraniene.", "Arheologii au descoperit urme ale așezărilor umane în regiune datând de peste 5.000 de ani.", "Populația orașului Sari a depășit 300.000 de locuitori în anul 2016.", "Râul Tajan traversează estul orașului înainte de a se vărsa direct în Marea Caspică.", "Așezarea a fost pentru scurt timp capitala Iranului în anul 1795, fondată de Agha Mohammad Khan Qajar."],
       en: ["Sari's history spans over 2,500 years according to historians.", "The settlement briefly served as the first capital of Agha Mohammad Khan, the founder of the Qajar dynasty.", "A significant portion of Iran's caviar and fish production originates from this city.", "Sari is warm and extremely humid in the summer, while winters are mild and rainy.", "The nearby Badab-e Surt's terraced, saltwater springs are unique natural attractions of the region.", "The northern line of the Iranian National Railway passes through the city along stunning mountain routes."]
-    }
-  },
+    }, image: "/poi-images/sari-cities-v2.webp"},
   {
     id: "shahriar-cities-v2",
     type: "city",
@@ -935,8 +910,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Bevölkerung der Stadt wuchs in den letzten vier Jahrzehnten auf über 300.000 Einwohner an.", "Schahriar befindet sich rund 40 Kilometer westlich vom Teheraner Stadtzentrum.", "Die Region galt historisch als einer der größten Obstlieferanten für die iranische Hauptstadt.", "Durch die starke Zersiedelung (Urban Sprawl) gingen tausende Hektar Ackerland verloren.", "Die Stadt gehört administrativ zur bevölkerungsreichen Provinz Teheran.", "Zahlreiche Pendler nutzen täglich die staugeplagte Azadegan-Autobahn in Richtung Teheran."],
       ro: ["Shahriar are o populație masivă, care depășește constant 300.000 de locuitori conform estimărilor naționale.", "Orașul acoperă sute de hectare de teren dedicat exclusiv pomiculturii și legumiculturii.", "Distanța rutieră dintre centrul Teheranului și Shahriar este de aproximativ 40 de kilometri.", "Aerul curat al regiunii a atras istoric mulți locuitori bogați pentru a construi vile de vară.", "Populația a cunoscut o explozie a ratei de creștere după anii 1990 datorită expansiunii urbane din capitală.", "Orașul furnizează cantități enorme de fructe proaspete esențiale pentru piețele angro ale capitalei."],
       en: ["Shahriar County is one of the fastest-growing administrative units in Iran by population.", "The city is often regarded as one of Iran's most important stone fruit producing centers.", "The settlement is located in the southwestern part of Tehran Province, adjacent to the metropolis.", "Although industrializing, the economy's foundation remains its extensive orchards.", "Because of the clean air and gardens, many Tehran residents purchase weekend homes here.", "Archaeologists have also excavated ancient historical hills (tepes) in the region."]
-    }
-  },
+    }, image: "/poi-images/shahriar-cities-v2.webp"},
   {
     id: "kashan-cities-v2",
     type: "city",
@@ -971,8 +945,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Der historische Fin-Garten (Bagh-e Fin) wurde im Jahr 1590 unter Schah Abbas I. vollendet.", "Der persische Gartenkomplex gehört seit 2011 offiziell zum UNESCO-Weltkulturerbe.", "Das prächtige Borudscherdi-Haus wurde ab 1857 in einer Bauzeit von fast 18 Jahren errichtet.", "Die archäologische Ausgrabungsstätte Tepe Sialk nahe Kaschan ist über 7000 Jahre alt.", "Der Begriff 'Kaschi' (Kachel) leitet sich direkt vom Namen der Stadt Kaschan ab.", "Im Jahr 1852 wurde Amir Kabir, der reformerische Premierminister Irans, im Fin-Bad ermordet."],
       ro: ["Grădina Fin din Kashan datează din 1590, fiind finalizată sub domnia Șahului Abbas I.", "Arhitectura uimitoare a Casei Borujerdi a necesitat munca a 150 de artizani timp de 18 ani.", "Kashan este faimos pentru extragerea anuală a peste 15.000 de tone de apă de trandafiri distilată.", "Orașul adăpostește situl arheologic Tepe Sialk, care indică locuirea continuă din mileniul al VI-lea î.Hr.", "Populația orașului depășește numărul de 300.000 de locuitori.", "Industria locală se mândrește cu covoare renumite mondial, țesute cu o densitate incredibilă de noduri."],
       en: ["The nearby ruins of the Sialk ziggurat (Tepe Sialk) are over 7,000 years old, one of the world's oldest settlements.", "The Fin Garden in Kashan is an outstanding example of the classic, four-part Persian garden (Chahar Bagh).", "Every spring, the city is the center for the traditional Golabgiri, the distillation of rosewater.", "Kashan was the center of Safavid-era carpet weaving, where some of the famous 'Polonaise' carpets were made.", "The Tabatabaei House was built in the 19th century by a wealthy carpet merchant and features 40 rooms.", "At the request of Shah Abbas the Great, he was buried here as a sign of respect for the Safavid ruler."]
-    }
-  },
+    }, image: "/poi-images/kashan-cities-v2.webp"},
   {
     id: "dezful-cities-v2",
     type: "city",
@@ -1007,8 +980,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Alte Brücke von Desful wurde um das Jahr 260 n. Chr. durch römische Gefangene errichtet.", "Die sassanidische Brücke überspannt den Fluss Dez mit einer ursprünglichen Länge von fast 400 Metern.", "Im Ersten Golfkrieg (1980–1988) wurde die Stadt Ziel von über 160 irakischen Raketenangriffen.", "Das Chogha-Zanbil Zikkurat, ein UNESCO-Welterbe, liegt etwa 45 Kilometer südlich der Stadt.", "Die Sommertemperaturen im Juli und August klettern häufig über 45 Grad Celsius.", "Die landwirtschaftlichen Nutzflächen rund um den Fluss Dez produzieren tausende Tonnen Zitrusfrüchte."],
       ro: ["Podul antic din Dezful datează din anul 260 d.Hr. și este considerat cel mai vechi pod supraviețuitor funcțional.", "În secolul al XIX-lea, economia orașului a prosperat enorm prin prelucrarea renumitului indigo.", "Structurile subterane răcoroase „Shavadun” au fost săpate la adâncimi care variază între 5 și 15 metri.", "Temperaturile de vară înregistrabile în Dezful pot urca la peste 52 de grade Celsius constant.", "Populația modernă depășește 260.000 de cetățeni.", "Orașul a suferit nenumărate atacuri puternice cu rachete în timpul cruntului război irakiano-iranian."],
       en: ["The city is often called 'the city of bricks' due to its unique, traditional architecture.", "The ancient bridge of Dezful is one of the oldest surviving bridges in the world still partially usable for traffic.", "The Roman-era bridge was built by Sassanid King Shapur I after his victory over Emperor Valerian.", "The city's unique network of underground cellars (Shavadun) provides natural cooling in summer.", "Dezful is famous in the region for its high-quality agriculture, especially citrus fruits.", "During the Iran-Iraq War, the city was frequently bombed and thus referred to as 'the city of rockets'."]
-    }
-  },
+    }, image: "/poi-images/dezful-cities-v2.webp"},
   {
     id: "neyshabur-cities-v2",
     type: "city",
@@ -1043,8 +1015,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: ["Die Stadt wurde im Jahr 1221 durch die mongolischen Heere Dschingis Khans nahezu vollständig ausgelöscht.", "Der berühmte Universalgelehrte Omar Chayyam wurde 1048 hier geboren und 1131 bestattet.", "Das architektonisch markante Mausoleum von Omar Chayyam wurde im Jahr 1963 fertiggestellt.", "Die Türkisminen von Nischapur sind seit mehr als 2000 Jahren ununterbrochen in Betrieb.", "Ein katastrophales Erdbeben forderte im Jahr 1145 Schätzungen zufolge zehntausende Todesopfer.", "Nischapur lag einst als Knotenpunkt direkt auf der wichtigsten Achse der historischen Seidenstraße."],
       ro: ["Minele locale extrag faimosul turcoaz cu cel puțin 2.000 de ani de activitate minieră atestată documentar.", "Astronomul legendar Omar Khayyam s-a născut la Nishapur în cursul anului 1048 d.Hr.", "Cutremurele extrem de violente, în special cele din 1145, 1208 și 1280 au decimat infrastructura originală a orașului.", "Structura spectaculoasă a mausoleului lui Omar Khayyam a fost complet terminată în anul 1963.", "La apogeul istoriei sale, numărul de locuitori a depășit 100.000, un număr masiv pentru secolul XI.", "Unitatea administrativă actuală a municipiului găzduiește peste 260.000 de cetățeni rezidenți."],
       en: ["Neyshabur was founded or rebuilt in the 3rd century by the Sassanid ruler Shapur I.", "In the 11th century, it was one of the largest and richest cities in the Islamic world, on par with Baghdad.", "The city was completely destroyed by Genghis Khan's armies during a devastating siege in 1221.", "Omar Khayyam (1048–1131), the famous author of the Rubaiyat, was a native of the city.", "The turquoise mines of Neyshabur have yielded the purest quality blue gemstones for millennia.", "Attar, another prominent Persian Sufi poet, also lived here, and his mausoleum is located in the city."]
-    }
-  },
+    }, image: "/poi-images/neyshabur-cities-v2.webp"},
   {
     id: "ilam-cities-v2",
     type: "state-capital",

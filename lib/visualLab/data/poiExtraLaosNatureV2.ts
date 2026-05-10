@@ -43,8 +43,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Passes through lush tropical jungles.",
         "Important waterway for local mountain villages."
       ]
-    }
-  },
+    }, image: "/poi-images/nam-khan-river-nature-v2.webp"},
   {
     id: "nam-song-river-nature-v2",
     type: "river",
@@ -87,8 +86,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "An important lifeline for local agriculture.",
         "Flows into the Nam Lik River."
       ]
-    }
-  },
+    }, image: "/poi-images/nam-song-river-nature-v2.webp"},
   {
     id: "nam-ngum-river-nature-v2",
     type: "river",
@@ -175,8 +173,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Considered sacred by the local population.",
         "Very difficult to access due to rough roads."
       ]
-    }
-  },
+    }, image: "/poi-images/nong-fa-lake-nature-v2.webp"},
   {
     id: "bokeo-nature-reserve-nature-v2",
     type: "forest",
@@ -219,8 +216,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Provides protection for elephants and Asian black bears.",
         "Supports ecotourism and the local economy."
       ]
-    }
-  },
+    }, image: "/poi-images/bokeo-nature-reserve-nature-v2.webp"},
   {
     id: "phou-hin-poun-park-nature-v2",
     type: "national-park",
@@ -263,8 +259,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Numerous hidden river systems inside caves.",
         "A paradise for nature lovers and cave explorers."
       ]
-    }
-  },
+    }, image: "/poi-images/phou-hin-poun-park-nature-v2.webp"},
   {
     id: "dong-amphan-park-nature-v2",
     type: "national-park",
@@ -307,8 +302,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Habitat for leopards and wild elephants.",
         "Barely visited by tourists, extremely pristine."
       ]
-    }
-  },
+    }, image: "/poi-images/dong-amphan-park-nature-v2.webp"},
   {
     id: "dong-hua-sao-park-nature-v2",
     type: "national-park",
@@ -351,8 +345,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Important habitat for hornbills.",
         "A popular destination for jungle trekking."
       ]
-    }
-  },
+    }, image: "/poi-images/dong-hua-sao-park-nature-v2.webp"},
   {
     id: "hin-namno-park-nature-v2",
     type: "national-park",
@@ -439,8 +432,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Partially funded by dam revenues.",
         "An important home for endangered animal species."
       ]
-    }
-  },
+    }, image: "/poi-images/nakai-nam-theun-park-nature-v2.webp"},
   {
     id: "phou-khao-khouay-park-nature-v2",
     type: "national-park",
@@ -483,8 +475,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Home to wild elephant herds.",
         "Popular for weekend getaways from the capital."
       ]
-    }
-  },
+    }, image: "/poi-images/phou-khao-khouay-park-nature-v2.webp"},
   {
     id: "xe-pian-park-nature-v2",
     type: "national-park",
@@ -527,8 +518,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Protects the critically endangered Asian elephant.",
         "River networks weave through the wet lowlands."
       ]
-    }
-  },
+    }, image: "/poi-images/xe-pian-park-nature-v2.webp"},
   {
     id: "dong-phou-vieng-park-nature-v2",
     type: "national-park",
@@ -571,8 +561,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "The Ho Chi Minh Trail partially passed through this area.",
         "Popular for sustainable ecotourism."
       ]
-    }
-  },
+    }, image: "/poi-images/dong-phou-vieng-park-nature-v2.webp"},
   {
     id: "phou-xang-he-park-nature-v2",
     type: "national-park",
@@ -615,8 +604,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Offers challenging trekking routes.",
         "Heavily forested, barely accessible slopes."
       ]
-    }
-  },
+    }, image: "/poi-images/phou-xang-he-park-nature-v2.webp"},
   {
     id: "nam-kading-park-nature-v2",
     type: "national-park",
@@ -659,8 +647,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "High density of big cats and bears.",
         "An almost untouched wilderness area."
       ]
-    }
-  },
+    }, image: "/poi-images/nam-kading-park-nature-v2.webp"},
   {
     id: "xe-sap-park-nature-v2",
     type: "national-park",
@@ -703,8 +690,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Almost no tourist infrastructure present.",
         "Popular among specialized biologists."
       ]
-    }
-  },
+    }, image: "/poi-images/xe-sap-park-nature-v2.webp"},
   {
     id: "nam-kan-park-nature-v2",
     type: "national-park",
@@ -791,8 +777,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "Most popular spot in the city for sunsets.",
         "Houses ancient temples on the way up."
       ]
-    }
-  },
+    }, image: "/poi-images/mount-phou-si-nature-v2.webp"},
   {
     id: "xe-bang-fai-river-nature-v2",
     type: "river",
@@ -835,8 +820,7 @@ export const poiExtraLaosNatureV2: POI[] = [
         "A hotspot for cave kayaking expeditions.",
         "Flows into the Mekong River."
       ]
-    }
-  },
+    }, image: "/poi-images/xe-bang-fai-river-nature-v2.webp"},
   {
     id: "nam-san-river-nature-v2",
     type: "river",

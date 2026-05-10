@@ -66,8 +66,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "Home to rare birds of prey nesting in the steep cliff faces.",
         "Serves as a strategic viewpoint overlooking the entire Aquidabán river basin."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-cora-relief-v2.webp"},
   {
     id: "cerro-pero-relief-v2",
     type: "mountain",
@@ -133,8 +132,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "Home to the bare-throated bellbird, the national bird of Paraguay.",
         "Summit temperatures can be significantly lower than in the surrounding plains."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-pero-relief-v2.webp"},
   {
     id: "cerro-tres-kandu-relief-v2",
     type: "mountain",
@@ -200,8 +198,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "The relief shelters a variety of medicinal plants found only at this altitude.",
         "An important site for national cadastre GPS base stations."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-tres-kandu-relief-v2.webp"},
   {
     id: "cordillera-de-amambay-relief-v2",
     type: "mountain",
@@ -267,8 +264,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "A key corridor for feline migration between Paraguay and the Mato Grosso.",
         "The region is renowned for its unique Paraguayan Cerrado flora."
       ]
-    }
-  },
+    }, image: "/poi-images/cordillera-de-amambay-relief-v2.webp"},
   {
     id: "cordillera-de-caaguazu-relief-v2",
     type: "mountain",
@@ -401,8 +397,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "Home to the spectacular 'Salto Suizo', one of the country's tallest waterfalls.",
         "The range serves as a vital reservoir for the water supply of Villarrica."
       ]
-    }
-  },
+    }, image: "/poi-images/cordillera-del-ybytyruzu-relief-v2.webp"},
   {
     id: "serrania-de-san-rafael-relief-v2",
     type: "mountain",
@@ -535,8 +530,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "A premier location for watching sunsets over the Paraguay River.",
         "The hill is part of a volcanic chain that traverses central Paraguay."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-lambare-relief-v2.webp"},
   {
     id: "serrania-de-amambay-relief-v2",
     type: "mountain",
@@ -736,8 +730,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "Home to rare species of orchids and bromeliads.",
         "Protected due to its scenic and geological uniqueness."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-acahay-relief-v2.webp"},
   {
     id: "cerro-memby-relief-v2",
     type: "mountain",
@@ -803,8 +796,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "The relief shelters rare small reptiles adapted to the hot rock surfaces.",
         "A primary location for local myths about hidden treasures from war eras."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-memby-relief-v2.webp"},
   {
     id: "serrania-de-san-joaquin-relief-v2",
     type: "mountain",
@@ -937,8 +929,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "The hill range acts as a natural barrier against flooding from the Paraguay River.",
         "Offers some of the best mountain biking and hiking trails in the Central District."
       ]
-    }
-  },
+    }, image: "/poi-images/cordillera-de-los-altos-relief-v2.webp"},
   {
     id: "cerro-leon-relief-v2",
     type: "mountain",
@@ -1004,8 +995,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "A sacred site for the indigenous Ayoreo people, who value the mountain's isolation.",
         "Offers views extending hundreds of kilometers across the Chaco on clear days."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-leon-relief-v2.webp"},
   {
     id: "cerro-mbatovi-relief-v2",
     type: "mountain",
@@ -1071,8 +1061,7 @@ export const poiExtraParaguayReliefV2: POI[] = [
         "Hiking trails are designed to minimize erosion of the delicate soil.",
         "A popular destination for team-building events and scientific excursions."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-mbatovi-relief-v2.webp"},
   {
     id: "serrania-de-caapucu-relief-v2",
     type: "mountain",

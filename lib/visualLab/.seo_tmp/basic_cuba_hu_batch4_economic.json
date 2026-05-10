@@ -1,0 +1,49 @@
+{
+  "lang": "hu",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cu-rum-distillery-2-economic-v2",
+      "description": "Második rumfőzde, amely a kubai italgyártás és a cukornádra épülő hagyomány része.",
+      "facts": ["Rumgyártás", "Cukornád alap", "Kubai italipar"]
+    },
+    {
+      "id": "cu-mining-facility-economic-v2",
+      "description": "Ásványkitermelő és feldolgozó létesítmény, amely a kubai bányászati szektort erősíti.",
+      "facts": ["Nyersanyag-kitermelés", "Bányászati infrastruktúra", "Ipari feldolgozás"]
+    },
+    {
+      "id": "cu-textile-factory-economic-v2",
+      "description": "Textilgyár, amely a helyi könnyűipari termeléshez kapcsolódik.",
+      "facts": ["Textilipar", "Feldolgozó üzem", "Belföldi termelés"]
+    },
+    {
+      "id": "cu-beverage-plant-economic-v2",
+      "description": "Italgyár, amely üdítő- és egyéb italok előállítására szolgál.",
+      "facts": ["Italgyártás", "Élelmiszeripar", "Feldolgozó kapacitás"]
+    },
+    {
+      "id": "cu-power-plant-economic-v2",
+      "description": "Erőmű, amely a kubai villamosenergia-ellátás egyik alaphelyszíne.",
+      "facts": ["Áramtermelés", "Villamos hálózat", "Energiaellátás"]
+    },
+    {
+      "id": "cu-port-surgidero-economic-v2",
+      "description": "Surgidero de Batabanó kikötői létesítménye a déli partvidékhez kötődik.",
+      "facts": ["Mayabeque partvidéke", "Tengeri kapcsolat", "Halászat és logisztika"]
+    },
+    {
+      "id": "cu-mining-plant-2-economic-v2",
+      "description": "Második bányászati üzem, amely a kitermelt nyersanyagok feldolgozását támogatja.",
+      "facts": ["Bányászati feldolgozás", "Nyersanyag-lánc", "Ipari termelés"]
+    },
+    {
+      "id": "cu-dock-fac-economic-v2",
+      "description": "Dokk és rakparti létesítmény, amely a kikötői árumozgatást segíti.",
+      "facts": ["Rakparti infrastruktúra", "Árumozgatás", "Kikötői szolgálat"]
+    }
+  ]
+}

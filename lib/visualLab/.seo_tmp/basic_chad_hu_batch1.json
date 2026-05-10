@@ -1,0 +1,62 @@
+{
+  "lang": "hu",
+  "country": "Chad",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraChadNatureV2.ts",
+    "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "goundi-cities-v2",
+      "description": "Goundi a Mandoul régió egyik alprefektúrája Dél-Csádban. A település a helyi közigazgatási hálózat fontos pontja.",
+      "facts": ["Mandoul régióban van", "Dél-Csádban fekszik", "Alprefektúra", "Helyi közigazgatási központ"]
+    },
+    {
+      "id": "rig-rig-cities-v2",
+      "description": "Rig-Rig a Kanem régióhoz tartozó észak-csádi alprefektúra. A száraz szaharai peremvidék települései közé tartozik.",
+      "facts": ["Kanem régióban van", "Észak-Csádban fekszik", "Alprefektúra", "Sivatagos környezet"]
+    },
+    {
+      "id": "monument-union-ndjamena-landmarks-v2",
+      "description": "A Monument de l'Union N'Djamena egyik központi városi emlékműve. A nemzeti egység gondolatát jelképezi a fővárosban.",
+      "facts": ["N'Djamena központjában áll", "Az egységet szimbolizálja", "Városi emlékmű", "Közismert fővárosi jelkép"]
+    },
+    {
+      "id": "hotel-ledger-plaza-landmarks-v2",
+      "description": "A Ledger Plaza N'Djamena belvárosi, felsőkategóriás szállodája. Korábban Kempinski Hotel N'Djamena néven működött.",
+      "facts": ["2004-ben nyílt", "177 szobája és lakosztálya van", "Korábban Kempinski volt", "9 emeletes"]
+    },
+    {
+      "id": "universite-ndjamena-landmarks-v2",
+      "description": "A University of N'Djamena Csád vezető felsőoktatási intézménye. Az ország fővárosában működő állami egyetem a legfontosabb felsőoktatási központok egyike.",
+      "facts": ["1971-ben alapították", "1994-ben kapta mai nevét", "Állami egyetem", "N'Djamenában működik"]
+    },
+    {
+      "id": "palais-rose-ndjamena-landmarks-v2",
+      "description": "A Palais Rose N'Djamena elnöki palotája volt a korábbi elnevezés szerint. A főváros egyik legismertebb állami épülete.",
+      "facts": ["Elnöki rezidencia", "N'Djamenában található", "Korábbi neve Palais Rose", "2022 óta Palais Toumaï néven ismert"]
+    },
+    {
+      "id": "place-de-la-nation-ndjamena-landmarks-v2",
+      "description": "A Place de la Nation N'Djamena egyik központi tere és ismert közterülete. A városképen a közéleti találkozások egyik fontos pontja.",
+      "facts": ["A főváros egyik központi tere", "Ikonikus városi helyszín", "Nyilvános események helye", "Az egység üzenetét hordozza"]
+    },
+    {
+      "id": "ouaddai-highlands-nature-v2",
+      "description": "Az Ouaddaï-fennsík Kelet-Csád magasföldi vidéke a szudáni határ mentén. A keleti saheli táj egyik meghatározó természetföldrajzi egysége.",
+      "facts": ["Kelet-Csádban van", "A szudáni határ mentén húzódik", "Magasföldi terület", "A keleti Sahel része"]
+    },
+    {
+      "id": "erdi-plateau-relief-v2",
+      "description": "Az Erdi-fennsík Északkelet-Csád elszigetelt sivatagi platója. Az Ennedi térségének peremén fekvő, sziklás táj része.",
+      "facts": ["Ennedi-Est régióban van", "Fennsík, nagyjából 988 m", "A Mourdi-mélyedés közelében", "Ritkán lakott terület"]
+    },
+    {
+      "id": "tarso-emissti-relief-v2",
+      "description": "A Tarso Emissti a Tibeszti-hegység egyik vulkáni tömbje Észak-Csádban. A magas, tagolt domborzat a térség jellegzetes formái közé tartozik.",
+      "facts": ["A Tibeszti része", "Vulkáni eredetű", "Észak-Csádban fekszik", "Sivatagi hegyvidék"]
+    }
+  ]
+}

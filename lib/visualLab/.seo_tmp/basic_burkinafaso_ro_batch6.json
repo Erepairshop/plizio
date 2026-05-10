@@ -1,0 +1,63 @@
+{
+  "lang": "ro",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "foret-pama-nature-v2",
+      "description": "Pădurea Pama este o zonă naturală din estul Burkinei Faso. Ea contribuie la biodiversitatea unei regiuni cu savane și spații deschise.",
+      "facts": ["zonă naturală", "în estul țării", "biodiversitate locală"]
+    },
+    {
+      "id": "monts-banfora-nature-v2",
+      "description": "Munții Banfora sunt unul dintre cele mai cunoscute elemente de relief din sud-vestul țării. Ei dau un caracter aparte peisajului din jurul Banforei.",
+      "facts": ["formă de relief", "în sud-vest", "peisaj cunoscut"]
+    },
+    {
+      "id": "fleuve-sirba-nature-v2",
+      "description": "Râul Sirba este un curs de apă important pentru zonele nord-estice ale Burkinei Faso. El are rol ecologic și sprijină viața locală.",
+      "facts": ["curs de apă", "în nord-est", "rol ecologic"]
+    },
+    {
+      "id": "mare-de-dori-nature-v2",
+      "description": "Zona umedă de la Dori este legată de apa disponibilă într-o regiune aridă. Ea contează pentru faună, vegetație și utilizarea terenurilor.",
+      "facts": ["zonă umedă", "în regiunea Dori", "importantă pentru faună"]
+    },
+    {
+      "id": "foret-arbinda-nature-v2",
+      "description": "Pădurea Arbinda este o zonă naturală din nordul țării, unde vegetația joacă un rol esențial. Ea aparține peisajului sahelian al regiunii.",
+      "facts": ["zonă naturală", "în nord", "peisaj sahelian"]
+    },
+    {
+      "id": "boulsa-relief-v2",
+      "description": "Boulsa este un punct de relief asociat cu terenul ondulat din centrul Burkinei Faso. Zona oferă o trecere clară între câmpii și dealuri joase.",
+      "facts": ["relief local", "teren ondulat", "în centrul țării"]
+    },
+    {
+      "id": "tanguieta-relief-v2",
+      "description": "Tanguieta este un punct de relief legat de zona de tranziție din sud-vest. El face parte din peisajele locale cu diferențe clare de nivel.",
+      "facts": ["relief local", "zonă de tranziție", "diferențe de nivel"]
+    },
+    {
+      "id": "bogande-relief-v2",
+      "description": "Bogandé reprezintă o formă de relief din estul Burkinei Faso. Terenul de aici este tipic pentru regiunile de savană și câmp deschis.",
+      "facts": ["formă de relief", "în estul țării", "teren de savană"]
+    },
+    {
+      "id": "pissila-relief-v2",
+      "description": "Pissila este o zonă de relief din partea central-estică a țării. Ea se înscrie în peisajul ușor ondulat specific regiunii.",
+      "facts": ["relief local", "central-estic", "peisaj ondulat"]
+    },
+    {
+      "id": "gorom-gorom-relief-v2",
+      "description": "Gorom-Gorom este asociat unui relief arid și deschis din nordul Burkinei Faso. Zona este tipică pentru mediul sahelian.",
+      "facts": ["relief arid", "în nordul țării", "mediu sahelian"]
+    }
+  ]
+}

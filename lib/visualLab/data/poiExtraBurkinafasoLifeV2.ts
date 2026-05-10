@@ -47,11 +47,11 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-OU",
     coords: [-1.51, 12.37],
     name: { de: "Ouaga Freizeitpark", hu: "Ouaga Vidámpark", ro: "Parc de distracții Ouaga", en: "Ouaga Amusement Park" },
-    description: { de: "Ein beliebter Ort für Familien mit Kindern in der Hauptstadt Ouagadougou.", hu: "Népszerű helyszín családoknak gyermekekkel a fővárosban, Ouagadougou-ban.", ro: "Un loc popular pentru familiile cu copii în capitala Ouagadougou.", en: "A popular place for families with children in the capital Ouagadougou." },
+    description: { de: "Ein beliebter Ort für Familien mit Kindern in der Hauptstadt Ouagadougou.", hu: "Népszerű helyszín családoknak gyermekekkel a fővárosban, Ouagadougou-ban.", ro: "Parcul Ludique din Ouagadougou este un spațiu urban de agrement pentru familii și copii. Oferă un cadru simplu pentru relaxare și timp liber.", en: "A popular place for families with children in the capital Ouagadougou." },
     facts: {
       de: ["Spielplätze für alle Altersgruppen", "Zentral gelegen", "Häufiger Treffpunkt für Familien", "Grünflächen für Picknicks"],
       hu: ["Játszóterek minden korosztálynak", "Központi elhelyezkedés", "Gyakori találkozóhely családoknak", "Zöldfelületek piknikezéshez"],
-      ro: ["Locuri de joacă pentru toate vârstele", "Situat central", "Loc de întâlnire frecvent pentru familii", "Zone verzi pentru picnic"],
+      ro: ["spațiu de agrement", "în Ouagadougou", "pentru familii"],
       en: ["Playgrounds for all ages", "Centrally located", "Frequent meeting place for families", "Green spaces for picnics"]
     }, image: "/poi-images/parc-ludique-ouaga-life-v2.webp"},
   {
@@ -73,12 +73,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-OU",
     coords: [-1.52, 12.35],
     name: { de: "Zoo Ouagadougou", hu: "Ouagadougou Állatkert", ro: "Grădina Zoologică Ouagadougou", en: "Ouagadougou Zoo" },
-    description: { de: "Ein Bildungszentrum, das einheimische Tierarten zeigt.", hu: "Oktatási központ, amely bemutatja az őshonos állatfajokat.", ro: "Un centru educațional care prezintă speciile de animale native.", en: "An educational center that shows native animal species." },
+    description: { de: "Ein Bildungszentrum, das einheimische Tierarten zeigt.", hu: "Oktatási központ, amely bemutatja az őshonos állatfajokat.", ro: "Un centru educațional care prezintă speciile de animale native.", en: "Jardin Zoologique Ouaga is a small urban zoo in Ouagadougou. It gives families a place to see animals without leaving the capital." },
     facts: {
       de: ["Fokus auf Schutz einheimischer Arten", "Beliebt bei Schulgruppen", "Interaktive Lernangebote", "Besucherzentrum"],
       hu: ["Fókuszban az őshonos fajok védelme", "Népszerű az iskolai csoportok körében", "Interaktív tanulási lehetőségek", "Látogatóközpont"],
       ro: ["Accent pe protecția speciilor native", "Popular printre grupurile școlare", "Oportunități de învățare interactivă", "Centru de vizitatori"],
-      en: ["Focus on protection of native species", "Popular with school groups", "Interactive learning opportunities", "Visitor center"]
+      en: ["Urban zoo", "Family attraction", "Located in Ouagadougou"]
     }, image: "/poi-images/jardin-zoologique-ouaga-life-v2.webp"},
   {
     id: "zone-agricole-bobodioulasso-life-v2",
@@ -99,12 +99,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-SO",
     coords: [-2.15, 11.2],
     name: { de: "Ourou Oase", hu: "Ourou Oázis", ro: "Oaza Ourou", en: "Ourou Oasis" },
-    description: { de: "Ein kleiner, grüner Rückzugsort für Kinder und Familien.", hu: "Kicsi, zöld menedék gyermekek és családok számára.", ro: "Un mic refugiu verde pentru copii și familii.", en: "A small, green retreat for children and families." },
+    description: { de: "Die Oase von Ourou ist ein kleiner grüner Rückzugsort in einer trockeneren Umgebung. Sie dient als Ruhepunkt für Familien und als kurzer Ort zum Durchatmen.", hu: "Az Ourou-oázis egy kisebb zöld folt a szárazabb térségben, amely pihenőhelyként és kiránduló célpontként is működik. A víz és az árnyék miatt a helyiek számára különösen hasznos.", ro: "Oasis de Ourou este un loc de odihnă și recreere asociat unui cadru verde și liniștit. Este folosit mai ales pentru pauză și întâlniri informale.", en: "Oasis de Ourou is a green resting place in a dry landscape. It stands out as a small water-rich spot with local leisure value." },
     facts: {
-      de: ["Natürliche Wasserquelle", "Beliebt für Wochenendausflüge", "Spielgelegenheiten im Schatten", "Ruhepol"],
-      hu: ["Természetes vízforrás", "Népszerű hétvégi kirándulásokhoz", "Játéklehetőségek az árnyékban", "Csendes oázis"],
-      ro: ["Sursă naturală de apă", "Populară pentru excursii de weekend", "Posibilități de joacă la umbră", "Pol de liniște"],
-      en: ["Natural water source", "Popular for weekend trips", "Play opportunities in the shade", "Place of peace"]
+      de: ["Grüne Oase", "Wassernahe Lage", "Beliebt bei Familien"],
+      hu: ["Zöld pihenőhely", "Víz közelében van", "Családi kirándulásokhoz jó"],
+      ro: ["loc de recreere", "cadru verde", "pentru odihnă"],
+      en: ["Oasis setting", "Water-rich stop", "Dry-region contrast"]
     }, image: "/poi-images/oasis-de-ourou-life-v2.webp"},
   {
     id: "reserve-de-bontioli-life-v2",
@@ -125,10 +125,10 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-OU",
     coords: [-1.5, 12.38],
     name: { de: "Vogelpark Ouagadougou", hu: "Ouagadougou Madárpark", ro: "Parcul Păsărilor Ouagadougou", en: "Ouagadougou Bird Park" },
-    description: { de: "Ein Park, der sich der Erhaltung und Ausstellung lokaler Vogelarten widmet.", hu: "Park, amely a helyi madárfajok megőrzésére és bemutatására szolgál.", ro: "Un parc dedicat conservării și expunerii speciilor de păsări locale.", en: "A park dedicated to the conservation and display of local bird species." },
+    description: { de: "Ein Park, der sich der Erhaltung und Ausstellung lokaler Vogelarten widmet.", hu: "Az Ouagadougou-i madárpark a helyi fajok bemutatására és megőrzésére szolgál. Oktató és családbarát térként is működik.", ro: "Un parc dedicat conservării și expunerii speciilor de păsări locale.", en: "A park dedicated to the conservation and display of local bird species." },
     facts: {
       de: ["Vielfalt der Sahel-Vögel", "Bildungsplattform", "Familienfreundlich", "Naturschutzinitiativen"],
-      hu: ["A Száhel-madarak sokfélesége", "Oktatási platform", "Családbarát", "Természetvédelmi kezdeményezések"],
+      hu: ["Madárfajokat mutat be", "Oktató jellegű helyszín", "Családoknak is alkalmas"],
       ro: ["Diversitatea păsărilor din Sahel", "Platformă educațională", "Prietenos cu familia", "Inițiative de conservare"],
       en: ["Diversity of Sahel birds", "Educational platform", "Family-friendly", "Conservation initiatives"]
     }, image: "/poi-images/parc-des-oiseaux-life-v2.webp"},
@@ -165,12 +165,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-KO",
     coords: [-0.3, 12.3],
     name: { de: "Kouritenga Wildreservat", hu: "Kouritenga Vadrezervátum", ro: "Rezervația de faună Kouritenga", en: "Kouritenga Wildlife Reserve" },
-    description: { de: "Ein kleineres Reservat zur Erhaltung der lokalen Biodiversität.", hu: "Kisebb rezervátum a helyi biodiverzitás megőrzésére.", ro: "O rezervație mai mică pentru conservarea biodiversității locale.", en: "A smaller reserve for the conservation of local biodiversity." },
+    description: { de: "Das Faunareservat Kouritenga schützt kleinere Lebensräume im Osten Burkina Fasos. Es steht für lokale Artenvielfalt und ruhige Naturbeobachtung.", hu: "Kisebb rezervátum a helyi biodiverzitás megőrzésére.", ro: "O rezervație mai mică pentru conservarea biodiversității locale.", en: "Reserve de Faune de Kouritenga is a wildlife reserve in eastern Burkina Faso. It protects animals and habitat in a farming region." },
     facts: {
-      de: ["Schutz lokaler Tierarten", "Forschungsprojekte", "Naturlehrpfad", "Ökologisches Refugium"],
+      de: ["Schutzgebiet für Tiere", "Im Osten des Landes", "Wichtig für Biodiversität"],
       hu: ["Helyi állatfajok védelme", "Kutatási projektek", "Természetismereti tanösvény", "Ökológiai menedékhely"],
       ro: ["Protecția speciilor locale", "Proiecte de cercetare", "Potecă naturală", "Refugiu ecologic"],
-      en: ["Protection of local animal species", "Research projects", "Nature trail", "Ecological refuge"]
+      en: ["Wildlife reserve", "Eastern Burkina Faso", "Habitat protection"]
     }, image: "/poi-images/reserve-de-faune-de-kouritenga-life-v2.webp"},
   {
     id: "culture-du-millet-life-v2",
@@ -191,12 +191,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-HO",
     coords: [-4.3, 11.15],
     name: { de: "Bobo-Dioulasso Freizeitpark", hu: "Bobo-Dioulasso Vidámpark", ro: "Parc de distracții Bobo-Dioulasso", en: "Bobo-Dioulasso Amusement Park" },
-    description: { de: "Ein Ort der Unterhaltung für Familien in der zweitgrößten Stadt des Landes.", hu: "Szórakoztató hely családoknak az ország második legnagyobb városában.", ro: "Un loc de divertisment pentru familii în al doilea oraș ca mărime al țării.", en: "A place of entertainment for families in the country's second largest city." },
+    description: { de: "Der Freizeitpark in Bobo-Dioulasso ist ein urbaner Ort für Erholung und Familienzeit. Er ergänzt das städtische Leben mit Spiel- und Aufenthaltsflächen.", hu: "A bobo-dioulassói szabadidőpark a városi pihenés és a közösségi programok helyszíne. A helyiek számára kikapcsolódási lehetőséget ad a mindennapok mellett.", ro: "Parcul de loisir din Bobo-Dioulasso este dedicat relaxării și activităților de timp liber. El completează viața urbană a orașului cu un spațiu de destindere.", en: "Parc de Loisirs de Bobo-Dioulasso is a recreation space for the city. It serves as a place for outings, relaxation, and local events." },
     facts: {
-      de: ["Spielgeräte für Kinder", "Grünanlagen", "Wochenendtreffpunkt", "Cafés für Eltern"],
-      hu: ["Játékok gyermekeknek", "Zöldterületek", "Hétvégi találkozóhely", "Kávézók szülőknek"],
-      ro: ["Echipamente de joacă pentru copii", "Spații verzi", "Loc de întâlnire pentru weekend", "Cafenele pentru părinți"],
-      en: ["Play equipment for children", "Green areas", "Weekend meeting point", "Cafes for parents"]
+      de: ["Freizeitort in Bobo", "Für Familien gedacht", "Städtische Erholung"],
+      hu: ["Városi szabadidőhely", "Közösségi programokra jó", "Pihenésre használják"],
+      ro: ["parc de loisir", "în Bobo-Dioulasso", "pentru timp liber"],
+      en: ["Recreation park", "Urban leisure space", "In Bobo-Dioulasso"]
     }, image: "/poi-images/parc-de-loisirs-de-bobodioulasso-life-v2.webp"},
   {
     id: "elevage-de-zebus-life-v2",
@@ -217,12 +217,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-CL",
     coords: [-3.3, 10.5],
     name: { de: "Boulon Wildreservat", hu: "Boulon Vadrezervátum", ro: "Rezervația de faună Boulon", en: "Boulon Wildlife Reserve" },
-    description: { de: "Schutzgebiet für die lokale Fauna im Südwesten des Landes.", hu: "Védett terület a helyi fauna számára az ország délnyugati részén.", ro: "Zonă protejată pentru fauna locală în sud-vestul țării.", en: "Protected area for local fauna in the southwest of the country." },
+    description: { de: "Schutzgebiet für die lokale Fauna im Südwesten des Landes.", hu: "Védett terület a helyi fauna számára az ország délnyugati részén.", ro: "Zonă protejată pentru fauna locală în sud-vestul țării.", en: "Reserve de Faune de Boulon is a protected wildlife area in southwestern Burkina Faso. It adds conservation value to a landscape shaped by savanna and woodland." },
     facts: {
       de: ["Schutz von Antilopen", "Wald-Savannen-Übergang", "Naturschutzarbeit", "Vogelbeobachtung"],
       hu: ["Antilopok védelme", "Erdő-szavanna átmenet", "Természetvédelmi munka", "Madármegfigyelés"],
       ro: ["Protecția antilopelor", "Tranziția pădure-savană", "Muncă de conservare", "Observarea păsărilor"],
-      en: ["Protection of antelopes", "Forest-savanna transition", "Conservation work", "Birdwatching"]
+      en: ["Protected reserve", "Southwest location", "Savanna habitat"]
     }, image: "/poi-images/reserve-de-faune-de-boulon-life-v2.webp"},
   {
     id: "culture-de-l-anacarde-life-v2",
@@ -243,12 +243,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-OU",
     coords: [-1.45, 12.33],
     name: { de: "Ouaga 2000 Spielplatz", hu: "Ouaga 2000 Játszótér", ro: "Loc de joacă Ouaga 2000", en: "Ouaga 2000 Playground" },
-    description: { de: "Moderne Spielanlage im neueren Stadtteil Ouaga 2000.", hu: "Modern játszótér az újabb Ouaga 2000 városrészben.", ro: "Loc de joacă modern în cartierul mai nou Ouaga 2000.", en: "Modern playground in the newer district of Ouaga 2000." },
+    description: { de: "Moderne Spielanlage im neueren Stadtteil Ouaga 2000.", hu: "Az Ouaga 2000 játszótere a főváros egyik családbarát helyszíne. A gyerekeknek kialakított terület a lakónegyed mindennapi életéhez kapcsolódik.", ro: "Aleea de joacă din Ouaga 2000 este un spațiu gândit pentru copii și familii. Ea face parte din zona urbană modernă a capitalei.", en: "Aire de Jeux de Ouaga 2000 is a play area in one of Ouagadougou’s newer districts. It is designed for children and local family use." },
     facts: {
       de: ["Gut ausgestattet", "Sauber und sicher", "Beliebter Treffpunkt", "Moderne Ausstattung"],
-      hu: ["Jól felszerelt", "Tiszta és biztonságos", "Népszerű találkozóhely", "Modern felszerelés"],
-      ro: ["Bine echipat", "Curat și sigur", "Loc de întâlnire popular", "Echipament modern"],
-      en: ["Well equipped", "Clean and safe", "Popular meeting point", "Modern facilities"]
+      hu: ["Gyerekeknek készült", "Ouaga 2000-ben van", "Családbarát környezet"],
+      ro: ["loc de joacă", "în Ouaga 2000", "pentru copii"],
+      en: ["Children’s play area", "Ouaga 2000 district", "Family-oriented space"]
     }, image: "/poi-images/aire-de-jeux-de-ouaga-2000-life-v2.webp"},
   {
     id: "reserve-de-faune-de-sissili-life-v2",
@@ -269,12 +269,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-MO",
     coords: [-2.8, 12.5],
     name: { de: "Baumwoll-Anbaugebiet", hu: "Gyapot-termesztési régió", ro: "Regiunea de cultivare a bumbacului", en: "Cotton Cultivation Region" },
-    description: { de: "Ein Zentrum der Baumwollproduktion in Burkina Faso.", hu: "A gyapottermelés központja Burkina Fasóban.", ro: "Un centru al producției de bumbac în Burkina Faso.", en: "A center of cotton production in Burkina Faso." },
+    description: { de: "Ein Zentrum der Baumwollproduktion in Burkina Faso.", hu: "A gyapottermelés központja Burkina Fasóban.", ro: "Cultura bumbacului este una dintre activitățile agricole importante din Burkina Faso. Ea leagă câmpurile de piața internă și de industria textilă.", en: "Cotton cultivation is one of Burkina Faso’s most important rural activities. It ties western farming areas to the country’s export economy." },
     facts: {
       de: ["Wirtschaftsmotor", "Große Arbeitsbeschaffung", "Traditionelle Textilindustrie", "Exportorientiert"],
       hu: ["Gazdasági motor", "Jelentős foglalkoztató", "Hagyományos textilipar", "Exportorientált"],
-      ro: ["Motor economic", "Angajator major", "Industrie textilă tradițională", "Orientat spre export"],
-      en: ["Economic engine", "Major employer", "Traditional textile industry", "Export-oriented"]
+      ro: ["cultură agricolă", "bumbac de export", "legată de textile"],
+      en: ["Major cash crop", "Western farming zones", "Export-oriented agriculture"]
     }, image: "/poi-images/culture-du-coton-life-v2.webp"},
   {
     id: "centre-equestre-de-ouaga-life-v2",
@@ -282,12 +282,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-OU",
     coords: [-1.55, 12.34],
     name: { de: "Reitzentrum Ouagadougou", hu: "Ouagadougou Lovasközpont", ro: "Centru ecvestru Ouagadougou", en: "Ouagadougou Equestrian Center" },
-    description: { de: "Eine Einrichtung, die Reitunterricht und Ponyreiten für Kinder anbietet.", hu: "Olyan létesítmény, amely lovaglóleckéket és pónilovaglást kínál gyermekeknek.", ro: "O facilitate care oferă lecții de echitație și plimbări cu ponei pentru copii.", en: "A facility offering riding lessons and pony rides for children." },
+    description: { de: "Das Reitzentrum von Ouagadougou bietet Raum für Pferdesport und Training. Es ist ein Treffpunkt für Menschen, die Reiten und den Umgang mit Pferden pflegen.", hu: "Olyan létesítmény, amely lovaglóleckéket és pónilovaglást kínál gyermekeknek.", ro: "O facilitate care oferă lecții de echitație și plimbări cu ponei pentru copii.", en: "Centre Equestre de Ouaga is an equestrian facility in the capital. It supports horse riding, training, and leisure activity in the city." },
     facts: {
-      de: ["Ponyreiten für Kinder", "Reitkurse", "Pferdepflege-Kurse", "Beliebte Freizeitaktivität"],
+      de: ["Reitsportzentrum", "In Ouagadougou", "Training mit Pferden"],
       hu: ["Pónilovaglás gyermekeknek", "Lovaglótanfolyamok", "Lóápolási tanfolyamok", "Népszerű szabadidős tevékenység"],
       ro: ["Plimbări cu ponei pentru copii", "Cursuri de echitație", "Cursuri de îngrijire a cailor", "Activitate recreativă populară"],
-      en: ["Pony rides for children", "Riding courses", "Horse care courses", "Popular leisure activity"]
+      en: ["Equestrian center", "Horse riding site", "In Ouagadougou"]
     }, image: "/poi-images/centre-equestre-de-ouaga-life-v2.webp"},
   {
     id: "reserve-de-faune-de-tin-akoff-life-v2",
@@ -295,11 +295,11 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-OU",
     coords: [0.0, 14.5],
     name: { de: "Tin-Akoff Reservat", hu: "Tin-Akoff Rezervátum", ro: "Rezervația Tin-Akoff", en: "Tin-Akoff Reserve" },
-    description: { de: "Ein Schutzgebiet, bekannt für seine Wüstentiere und Vögel.", hu: "Védett terület, amely ismert sivatagi állatairól és madarairól.", ro: "O zonă protejată cunoscută pentru animalele deșertice și păsări.", en: "A protected area known for its desert animals and birds." },
+    description: { de: "Ein Schutzgebiet, bekannt für seine Wüstentiere und Vögel.", hu: "Védett terület, amely ismert sivatagi állatairól és madarairól.", ro: "Rezervația faunistică Tin Akoff este un spațiu de protecție pentru fauna locală din nordul Burkinei Faso. Ea aparține peisajelor de savană și de tranziție saheliană.", en: "A protected area known for its desert animals and birds." },
     facts: {
       de: ["Seltene Gazellenarten", "Wüstenökosystem", "Naturschutzforschung", "Einzigartige Landschaft"],
       hu: ["Ritka gazellafajok", "Sivatagi ökoszisztéma", "Természetvédelmi kutatás", "Egyedülálló táj"],
-      ro: ["Specii rare de gazele", "Ecosistem deșertic", "Cercetare de conservare", "Peisaj unic"],
+      ro: ["rezervație faunistică", "în nordul țării", "protejarea faunei"],
       en: ["Rare gazelle species", "Desert ecosystem", "Conservation research", "Unique landscape"]
     }, image: "/poi-images/reserve-de-faune-de-tin-akoff-life-v2.webp"},
   {
@@ -308,12 +308,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-KC",
     coords: [-4.5, 11.0],
     name: { de: "Erdnuss-Anbaugebiet", hu: "Földimogyoró-termesztési régió", ro: "Zona de cultivare a arahidelor", en: "Peanut Cultivation Area" },
-    description: { de: "Landwirtschaftliche Zone spezialisiert auf Erdnüsse.", hu: "Földimogyoróra szakosodott mezőgazdasági zóna.", ro: "Zonă agricolă specializată pe arahide.", en: "Agricultural zone specialized in peanuts." },
+    description: { de: "Der Erdnussanbau ist in Burkina Faso ein wichtiger Teil der ländlichen Ernährung und des Kleinanbaus. Er verbindet Landwirtschaft, Marktverkauf und lokale Versorgung.", hu: "A földimogyoró-termesztés Burkina Faso több régiójában is fontos megélhetési forma. A növény jól illeszkedik a szárazabb és átmeneti klímájú területekhez.", ro: "Cultura arahidelor este importantă în mai multe zone agricole din Burkina Faso. Ea completează economia rurală și alimentația locală.", en: "Peanut cultivation remains a familiar part of rural life in Burkina Faso. It supports household farming and local food markets." },
     facts: {
-      de: ["Wichtige Proteinquelle", "Lokaler Markt", "Dürreresistent", "Bodenverbesserung"],
-      hu: ["Fontos fehérjeforrás", "Helyi piac", "Aszálytűrő", "Talajjavítás"],
-      ro: ["Sursă importantă de proteine", "Piață locală", "Rezistent la secetă", "Îmbunătățirea solului"],
-      en: ["Important source of protein", "Local market", "Drought-resistant", "Soil improvement"]
+      de: ["Erdnussanbau", "Teil der Kleinlandwirtschaft", "Wichtig für Märkte"],
+      hu: ["Földimogyoró-termesztés", "Megélhetési növény", "Szárazabb térségekhez is illik"],
+      ro: ["cultură agricolă", "arahide", "susține economia rurală"],
+      en: ["Rural crop", "Local food supply", "Household farming"]
     }, image: "/poi-images/culture-de-l-arachide-life-v2.webp"},
   {
     id: "parc-de-la-reunification-life-v2",
@@ -321,12 +321,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-OU",
     coords: [-1.52, 12.39],
     name: { de: "Wiedervereinigungspark Ouaga", hu: "Ouaga Újraegyesítési Park", ro: "Parcul Reîntregirii Ouaga", en: "Ouaga Reunification Park" },
-    description: { de: "Ein Park mit Spielbereichen für Kinder im Zentrum von Ouagadougou.", hu: "Park játszóterekkel gyermekeknek Ouagadougou központjában.", ro: "Un parc cu zone de joacă pentru copii în centrul orașului Ouagadougou.", en: "A park with play areas for children in the center of Ouagadougou." },
+    description: { de: "Der Parc de la Réunification ist ein öffentlicher Ort für Begegnung und Freizeit. Er wird als städtische Grünfläche für Ruhe, Bewegung und kurze Auszeiten genutzt.", hu: "A Reunifikáció parkja városi találkozóhely, ahol a pihenés és a közösségi együttlét kap helyet. Nevét a helyi emlékezet és közösségi identitás is erősíti.", ro: "Parcul de la Reunification este un spațiu urban de relaxare și întâlnire. El oferă un cadru simplu pentru plimbare și activități de zi cu zi.", en: "Parc de la Reunification is a public park used for leisure and social gatherings. It offers open green space within an urban setting." },
     facts: {
-      de: ["Zentraler Park", "Familienaktivitäten", "Parkanlagen", "Sicherer Kinderspielplatz"],
-      hu: ["Központi park", "Családi tevékenységek", "Parklétesítmények", "Biztonságos játszótér"],
-      ro: ["Parc central", "Activități de familie", "Facilități de parc", "Loc de joacă sigur pentru copii"],
-      en: ["Central park", "Family activities", "Park facilities", "Safe children's playground"]
+      de: ["Öffentlicher Park", "Ort der Begegnung", "Grünfläche in der Stadt"],
+      hu: ["Közösségi park", "Találkozóhely szerep", "Városi pihenőtér"],
+      ro: ["parc urban", "pentru plimbare", "spațiu de întâlnire"],
+      en: ["Public park", "Urban gathering place", "Green open space"]
     }, image: "/poi-images/parc-de-la-reunification-life-v2.webp"},
   {
     id: "ferme-avicole-ouaga-life-v2",
@@ -334,12 +334,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-OU",
     coords: [-1.48, 12.4],
     name: { de: "Ouagadougou Geflügelfarm", hu: "Ouagadougou Baromfifarm", ro: "Fermă avicolă Ouagadougou", en: "Ouagadougou Poultry Farm" },
-    description: { de: "Ein Betrieb zur Versorgung der Stadt mit Eiern und Geflügelfleisch.", hu: "Üzem, amely tojással és baromfihússal látja el a várost.", ro: "O unitate pentru aprovizionarea orașului cu ouă și carne de pasăre.", en: "An enterprise for supplying the city with eggs and poultry meat." },
+    description: { de: "Ein Betrieb zur Versorgung der Stadt mit Eiern und Geflügelfleisch.", hu: "Az Ouagadougou-i baromfitelep a városi és elővárosi élelmiszerellátás egyik kis, de fontos szereplője. A tojás- és csirkeellátást támogatja.", ro: "O unitate pentru aprovizionarea orașului cu ouă și carne de pasăre.", en: "Ferme Avicole Ouaga is a poultry farm serving the capital area. It helps supply eggs and chicken to a dense urban market." },
     facts: {
       de: ["Lokale Produktion", "Versorgungssicherheit", "Moderne Haltung", "Frische Produkte"],
-      hu: ["Helyi termelés", "Ellátásbiztonság", "Modern tartás", "Friss termékek"],
+      hu: ["Baromfitartó telep", "Élelmiszerellátást segít", "Tojást és csirkét ad"],
       ro: ["Producție locală", "Siguranța aprovizionării", "Crestere modernă", "Produse proaspete"],
-      en: ["Local production", "Supply security", "Modern husbandry", "Fresh products"]
+      en: ["Poultry farm", "Supplies the capital", "Egg and meat production"]
     }, image: "/poi-images/ferme-avicole-ouaga-life-v2.webp"},
   {
     id: "jardin-botanique-ouaga-life-v2",
@@ -347,12 +347,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-OU",
     coords: [-1.54, 12.36],
     name: { de: "Botanischer Garten Ouaga", hu: "Ouagadougou Botanikus Kert", ro: "Grădina Botanică Ouagadougou", en: "Ouagadougou Botanical Garden" },
-    description: { de: "Ein grünes Klassenzimmer für Kinder, um lokale Pflanzen zu lernen.", hu: "Zöld tanterem gyermekek számára, hogy megismerjék a helyi növényeket.", ro: "O sală de clasă verde pentru copii pentru a învăța despre plantele locale.", en: "A green classroom for children to learn about local plants." },
+    description: { de: "Der botanische Garten von Ouagadougou zeigt Pflanzen aus der Region und schafft einen ruhigen Lernort. Er verbindet Bildung mit einem kleinen Stück Natur in der Hauptstadt.", hu: "Az Ouagadougou-i botanikus kert a növények megismerésére és a zöld környezet megőrzésére szolgál. A városi természet egyik nyugodt pontja.", ro: "Grădina botanică din Ouagadougou este un loc dedicat plantelor și liniștii urbane. Ea oferă un contact direct cu vegetația locală.", en: "Jardin Botanique Ouaga is a botanical garden in Ouagadougou. It combines plant display, education, and a quiet place to walk." },
     facts: {
-      de: ["Bildung über Pflanzenwelt", "Picknickplatz", "Grüne Oase", "Pflanzenlehrpfad"],
-      hu: ["Oktatás a növényvilágról", "Piknikezőhely", "Zöld oázis", "Növényismereti tanösvény"],
-      ro: ["Educație despre lumea plantelor", "Loc de picnic", "Oază verde", "Potecă pentru plante"],
-      en: ["Education about plant world", "Picnic spot", "Green oasis", "Plant nature trail"]
+      de: ["Botanischer Garten", "Pflanzen aus der Region", "Lernort in Ouaga"],
+      hu: ["Növénygyűjtemény helye", "Oktatási szerepe van", "Zöld városi tér"],
+      ro: ["grădină botanică", "în Ouagadougou", "plante locale"],
+      en: ["Botanical garden", "Education and leisure", "In the capital"]
     }, image: "/poi-images/jardin-botanique-ouaga-life-v2.webp"},
   {
     id: "reserve-de-faune-de-bontioli-nord-life-v2",
@@ -360,12 +360,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-SO",
     coords: [-3.15, 11.0],
     name: { de: "Bontioli-Nord Reservat", hu: "Bontioli-Észak Rezervátum", ro: "Rezervația Bontioli-Nord", en: "Bontioli-North Reserve" },
-    description: { de: "Ein Schutzgebiet, das sich auf den Erhalt bedrohter Tierarten konzentriert.", hu: "Védett terület, amely a veszélyeztetett állatfajok megőrzésére összpontosít.", ro: "O zonă protejată care se concentrează pe conservarea speciilor de animale amenințate.", en: "A protected area focusing on the conservation of threatened animal species." },
+    description: { de: "Das nördliche Bontioli-Faunareservat schützt einen empfindlichen Naturraum im Südwesten Burkina Fasos. Es ist vor allem für Wildtiere und ihren Lebensraum wichtig.", hu: "A Bontioli északi vadrezervátum védett élőhelyet ad a nyugat-burkinai faunának. A természetvédelmi célok mellett a helyi ökológiai egyensúlyt is támogatja.", ro: "Rezervația faunistică Bontioli Nord este asociată protecției vieții sălbatice din sud-vestul țării. Ea face parte din rețeaua de arii naturale protejate.", en: "Reserve de Faune de Bontioli Nord is part of a protected wildlife zone in the southwest. It helps preserve animals and vegetation in a dry seasonal climate." },
     facts: {
-      de: ["Schutz gefährdeter Arten", "Ökologisches Monitoring", "Bildungsprogramme", "Lebensraum"],
-      hu: ["Veszélyeztetett fajok védelme", "Ökológiai monitoring", "Oktatási programok", "Élőhely"],
-      ro: ["Protecția speciilor amenințate", "Monitorizare ecologică", "Programe educaționale", "Habitat"],
-      en: ["Protection of endangered species", "Ecological monitoring", "Educational programs", "Habitat"]
+      de: ["Faunareservat im Südwesten", "Schutz von Wildtieren", "Empfindlicher Naturraum"],
+      hu: ["Védett élőhely", "Természetvédelmi terület", "A helyi faunát óvja"],
+      ro: ["arie protejată", "în sud-vest", "faună sălbatică"],
+      en: ["Southwestern reserve", "Wildlife protection", "Seasonal climate"]
     }
   },
   {
@@ -374,12 +374,12 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     parent: "BF-NA",
     coords: [-1.3, 13.0],
     name: { de: "Maisanbau-Gebiet", hu: "Kukoricatermesztő Terület", ro: "Zona de cultivare a porumbului", en: "Corn Cultivation Area" },
-    description: { de: "Landwirtschaftliches Gebiet für den Anbau von Mais.", hu: "Mezőgazdasági terület kukorica termesztésére.", ro: "Zonă agricolă pentru cultivarea porumbului.", en: "Agricultural area for the cultivation of corn." },
+    description: { de: "Der Maisanbau ist in vielen Teilen Burkina Fasos eine wichtige Ergänzung zu Hirse und Sorghum. Er unterstützt die lokale Ernährung und den Marktverkauf auf dem Land.", hu: "A kukoricatermesztés fontos része a burkinai mezőgazdaságnak, főként a csapadékosabb régiókban. A mindennapi táplálkozásban is központi szerepet kap.", ro: "Zonă agricolă pentru cultivarea porumbului.", en: "Maize cultivation is a core part of everyday farming in Burkina Faso. It supports both household consumption and local market sales." },
     facts: {
-      de: ["Wichtiges Grundnahrungsmittel", "Hohe Erträge", "Lokal vermarktet", "Traditionelle Felder"],
-      hu: ["Fontos alapélelmiszer", "Magas hozamok", "Helyileg forgalmazott", "Hagyományos földek"],
+      de: ["Mais als Grundnahrung", "Ergänzung zu Hirse", "Wichtig für Dorfmärkte"],
+      hu: ["Kukoricatermesztés", "Csapadékosabb térségekben jellemző", "Alapélelmiszerként is fontos"],
       ro: ["Aliment de bază important", "Randamente ridicate", "Comercializat local", "Câmpuri tradiționale"],
-      en: ["Important staple food", "High yields", "Locally marketed", "Traditional fields"]
+      en: ["Staple crop", "Supports household diets", "Common in rural areas"]
       }
   }
 ];

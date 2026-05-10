@@ -13,8 +13,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Doha legnagyobb parkja.", "Rendelkezik egy mesterséges tóval.", "Az Aspire-torony mellett található.", "Futó- és kerékpárutakat kínál.", "Népszerű a családi piknikekhez."],
       ro: ["Cel mai mare parc din Doha.", "Are un lac artificial.", "Situat lângă Turnul Aspire.", "Oferă piste de alergare și ciclism.", "Popular pentru picnicuri în familie."],
       en: ["Largest park in Doha.", "Features an artificial lake.", "Located next to the Aspire Tower.", "Offers running and cycling tracks.", "Popular for family picnics."]
-    }
-  },
+    }, image: "/poi-images/qatar-aspire-park-life-v2.webp"},
   {
     id: "qatar-al-bidda-park-life-v2",
     type: "park",
@@ -27,8 +26,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Katar első állatbarát parkja.", "Közvetlenül a Corniche mellett található.", "Grillezőket és játszótereket kínál.", "Kiváló szabadtéri sportokhoz.", "Rendszeres rendezvényhelyszín."],
       ro: ["Primul parc din Qatar care acceptă animale de companie.", "Situat direct pe Corniche.", "Oferă zone de grătar și locuri de joacă.", "Excelent pentru sporturi în aer liber.", "Locație regulată pentru evenimente."],
       en: ["First pet-friendly park in Qatar.", "Located directly on the Corniche.", "Offers barbecue areas and playgrounds.", "Excellent for outdoor sports.", "Regular venue for events."]
-    }
-  },
+    }, image: "/poi-images/qatar-al-bidda-park-life-v2.webp"},
   {
     id: "qatar-mia-park-life-v2",
     type: "park",
@@ -41,8 +39,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Körbeöleli az Iszlám Művészeti Múzeumot.", "A legjobb kilátást nyújtja a városra.", "Szabadtéri mozival is rendelkezik.", "Népszerű esti sétákhoz.", "Itt található Richard Serra 7 című szobra."],
       ro: ["Înconjoară Muzeul de Artă Islamică.", "Oferă cea mai bună vedere a orizontului.", "Dispune de un cinema în aer liber.", "Popular pentru plimbările de seară.", "Găzduiește sculptura 7 de Richard Serra."],
       en: ["Surrounds the Museum of Islamic Art.", "Offers the best skyline views.", "Features an open-air cinema.", "Popular for evening walks.", "Home to Richard Serra's 7 sculpture."]
-    }
-  },
+    }, image: "/poi-images/qatar-mia-park-life-v2.webp"},
   {
     id: "qatar-al-khor-family-park-life-v2",
     type: "park",
@@ -55,8 +52,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Katar egyik legnagyobb parkja.", "Számos állatfajnak ad otthont.", "Egy múzeum is található benne.", "Ideális családi kirándulásokhoz.", "Kisvonatozási lehetőséget is kínál."],
       ro: ["Unul dintre cele mai mari parcuri din Qatar.", "Găzduiește multe specii de animale.", "Include un muzeu în parc.", "Ideal pentru ieșiri în familie.", "Oferă o plimbare cu trenulețul."],
       en: ["One of the largest parks in Qatar.", "Houses many animal species.", "Features a museum within the park.", "Ideal for family outings.", "Offers a small train ride."]
-    }
-  },
+    }, image: "/poi-images/qatar-al-khor-family-park-life-v2.webp"},
   {
     id: "qatar-baladna-park-life-v2",
     type: "agriculture",
@@ -69,8 +65,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["A hazai tejtermelés központja.", "Állatsimogatóval rendelkezik.", "A látogatók megnézhetik a fejést.", "Üvegházakkal is büszkélkedhet.", "Népszerű az iskolai osztályok körében."],
       ro: ["Centrul producției interne de lactate.", "Oferă o grădină zoologică de mângâiat.", "Vizitatorii pot viziona mulsul.", "Dispune de sere.", "Popular pentru grupurile școlare."],
       en: ["Center of domestic dairy production.", "Offers a petting zoo.", "Visitors can watch the milking process.", "Features greenhouses.", "Popular among school groups."]
-    }
-  },
+    }, image: "/poi-images/qatar-baladna-park-life-v2.webp"},
   {
     id: "qatar-heenat-salma-farm-life-v2",
     type: "agriculture",
@@ -83,8 +78,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["A fenntartható mezőgazdaságra fókuszál.", "Permakultúrás workshopokat kínál.", "Biozöldségeket termeszt.", "Öko-sátrakkal várja a vendégeket.", "Támogatja a helyi kézműveseket."],
       ro: ["Se concentrează pe agricultura durabilă.", "Oferă ateliere de permacultură.", "Cultivă legume organice.", "Are corturi ecologice pentru oaspeți.", "Sprijină meșteșugarii locali."],
       en: ["Focuses on sustainable agriculture.", "Offers permaculture workshops.", "Grows organic vegetables.", "Features eco-tents for guests.", "Supports local artisans."]
-    }
-  },
+    }, image: "/poi-images/qatar-heenat-salma-farm-life-v2.webp"},
   {
     id: "qatar-torba-farm-life-v2",
     type: "agriculture",
@@ -111,8 +105,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Egy katari család magántulajdonában van.", "Afrikai struccoknak ad otthont.", "Tágas kifutókkal rendelkezik.", "Szafarikat is kínál a látogatóknak.", "Több mint 300 állatfaj él itt."],
       ro: ["Proprietate privată a unei familii qatareze.", "Găzduiește struți africani.", "Dispune de incinte spațioase.", "Oferă safariuri pentru vizitatori.", "Mai mult de 300 de specii de animale."],
       en: ["Privately owned by a Qatari family.", "Houses African ostriches.", "Features spacious enclosures.", "Offers safaris for visitors.", "More than 300 species of animals."]
-    }
-  },
+    }, image: "/poi-images/qatar-al-dosari-zoo-life-v2.webp"},
   {
     id: "qatar-oxygen-park-life-v2",
     type: "park",
@@ -125,8 +118,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Az Education City területén található.", "Innovatív hűtőrendszerrel rendelkezik.", "Ideális esti kocogáshoz.", "Több mint 130 000 négyzetméteres.", "Az egészséget és a fitneszt népszerűsíti."],
       ro: ["Situat în Education City.", "Sistem inovator de răcire în parc.", "Ideal pentru jogging de seară.", "Peste 130.000 de metri pătrați.", "Promovează sănătatea și fitness-ul."],
       en: ["Located in Education City.", "Innovative cooling system in the park.", "Ideal for evening jogging.", "Over 130,000 square meters.", "Promotes health and fitness."]
-    }
-  },
+    }, image: "/poi-images/qatar-oxygen-park-life-v2.webp"},
   {
     id: "qatar-katara-green-hills-life-v2",
     type: "park",
@@ -139,8 +131,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["A Katara kulturális falu felett helyezkedik el.", "360 fokos panorámát nyújt.", "Sűrűn beültetett fákkal.", "Tökéletes fotózáshoz.", "Csendes sétautakat kínál."],
       ro: ["Situat deasupra satului cultural Katara.", "Oferă o vedere de 360 de grade.", "Plantat abundent cu copaci.", "Perfect pentru fotografie.", "Oferă cărări liniștite de plimbare."],
       en: ["Located above the Katara cultural village.", "Offers a 360-degree view.", "Lushly planted with trees.", "Perfect for photography.", "Offers quiet walking paths."]
-    }
-  },
+    }, image: "/poi-images/qatar-katara-green-hills-life-v2.webp"},
   {
     id: "qatar-desert-falls-waterpark-life-v2",
     type: "kid-friendly",
@@ -153,8 +144,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Több mint 50 hullámvasút és csúszda.", "Integrált gokartpályával rendelkezik.", "Kanyonozási élményeket is kínál.", "Egy nagy tengerparti üdülőhely része.", "Egész évben nyitva tart."],
       ro: ["Mai mult de 50 de curse și tobogane.", "Pistă de karting integrată.", "Oferă experiențe de canyoning.", "Face parte dintr-un mare resort pe plajă.", "Deschis tot anul."],
       en: ["More than 50 rides and slides.", "Integrated go-kart track.", "Offers canyoning experiences.", "Part of a large beach resort.", "Open year-round."]
-    }
-  },
+    }, image: "/poi-images/qatar-desert-falls-waterpark-life-v2.webp"},
   {
     id: "qatar-angry-birds-world-life-v2",
     type: "kid-friendly",
@@ -167,8 +157,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["A világ első Angry Birds parkja.", "Beltéri és kültéri részekkel is rendelkezik.", "Hatalmas trambulinparkot kínál.", "Egy mászófa is található benne.", "A Doha Festival City-ben található."],
       ro: ["Primul parc Angry Birds din lume.", "Are zone interioare și exterioare.", "Oferă un parc uriaș de trambuline.", "Găzduiește un copac de cățărat.", "Situat în Doha Festival City."],
       en: ["First Angry Birds park in the world.", "Features indoor and outdoor areas.", "Offers a huge trampoline park.", "Houses a climbing tree.", "Located in Doha Festival City."]
-    }
-  },
+    }, image: "/poi-images/qatar-angry-birds-world-life-v2.webp"},
   {
     id: "qatar-snow-dunes-life-v2",
     type: "kid-friendly",
@@ -181,8 +170,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Valódi havat állít elő -4 fokon.", "Helyi téli legendák ihlették.", "Gyors hócsúszdákat kínál.", "Korcsolyázós kávézóval rendelkezik.", "Szintén a Doha Festival City-ben van."],
       ro: ["Produce zăpadă reală la -4 grade.", "Inspirat de legendele locale de iarnă.", "Oferă tobogane rapide de zăpadă.", "Dispune de o cafenea de patinaj pe gheață.", "Situat tot în Doha Festival City."],
       en: ["Produces real snow at -4 degrees.", "Inspired by local winter legends.", "Offers fast snow slides.", "Features an ice-skating cafe.", "Also located in Doha Festival City."]
-    }
-  },
+    }, image: "/poi-images/qatar-snow-dunes-life-v2.webp"},
   {
     id: "qatar-kidzmondo-doha-life-v2",
     type: "kid-friendly",
@@ -237,8 +225,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Különböző sportpályák állnak rendelkezésre.", "Katari épületek miniatűr modelljeivel rendelkezik.", "Speciális kerékpárutak vannak beépítve.", "Asztalitenisz-asztalokkal felszerelt.", "Kiváló hely a közösségi sportokhoz."],
       ro: ["Sunt disponibile diverse terenuri de sport.", "Prezintă modele în miniatură ale clădirilor din Qatar.", "Trasee speciale pentru biciclete integrate.", "Dotat cu mese de tenis de masă.", "Loc bun pentru sporturile comunitare."],
       en: ["Various sports fields available.", "Features miniature models of Qatari buildings.", "Special cycling paths integrated.", "Equipped with table tennis tables.", "Great place for community sports."]
-    }
-  },
+    }, image: "/poi-images/qatar-barzan-olympic-park-life-v2.webp"},
   {
     id: "qatar-al-wakrah-public-garden-life-v2",
     type: "park",
@@ -265,8 +252,7 @@ export const poiExtraQatarLifeV2: POI[] = [
       hu: ["Népszerű célpont iskolai osztályok számára.", "Hagyományos ételeket is kínál.", "A látogatók etethetik az állatokat.", "A katari örökséget népszerűsíti.", "Történelmi tárgyakkal is rendelkezik."],
       ro: ["Destinație populară pentru școli.", "Oferă mese tradiționale.", "Vizitatorii pot hrăni animalele.", "Promovează moștenirea din Qatar.", "Dispune de artefacte istorice."],
       en: ["Popular destination for school groups.", "Offers traditional meals.", "Visitors can feed the animals.", "Promotes Qatari heritage.", "Features historical artifacts."]
-    }
-  },
+    }, image: "/poi-images/qatar-north-sedra-farm-life-v2.webp"},
   {
     id: "qatar-al-sulaiteen-farm-life-v2",
     type: "agriculture",

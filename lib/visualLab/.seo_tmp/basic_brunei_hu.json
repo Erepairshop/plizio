@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "Brunei",
+  "files": [
+    "lib/visualLab/data/poiExtraBruneiLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tasek-merimbun-landmarks-v2",
+      "description": "A Tasek Merimbun Brunei legnagyobb természetes tava a Tutong körzetben. S alakú vizét sötétre színező, tőzeges vízfolyások táplálják.",
+      "facts": [
+        "Brunei legnagyobb természetes tava",
+        "Tutong körzetében található",
+        "S alakú tó",
+        "1984 óta ASEAN Heritage Park"
+      ]
+    }
+  ]
+}

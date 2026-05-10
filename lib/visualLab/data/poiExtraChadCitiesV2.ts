@@ -818,7 +818,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     name: { de: "Goundi", hu: "Goundi", ro: "Goundi", en: "Goundi" },
     description: {
       de: "Eine Stadt in Mandoul, bekannt für ihre Gesundheitszentren.",
-      hu: "Város Mandoul régióban, egészségügyi központjairól ismert.",
+      hu: "Goundi a Mandoul régió egyik alprefektúrája Dél-Csádban. A település a helyi közigazgatási hálózat fontos pontja.",
       ro: "Un oraș în Mandoul, cunoscut pentru centrele sale de sănătate.",
       en: "A town in Mandoul, known for its health centers."
     },
@@ -830,7 +830,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     },
     facts: {
       de: ["Bekanntes Krankenhaus.", "Landwirtschaftliches Umland."],
-      hu: ["Ismert kórház.", "Mezőgazdasági környék."],
+      hu: ["Mandoul régióban van", "Dél-Csádban fekszik", "Alprefektúra", "Helyi közigazgatási központ"],
       ro: ["Spital cunoscut.", "Zonă agricolă înconjurătoare."],
       en: ["Known hospital.", "Agricultural surroundings."]
     }, image: "/poi-images/goundi-cities-v2.webp"},
@@ -987,8 +987,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     description: {
       de: "Eine Stadt in der Region Ouaddaï, nordöstlich von Abéché.",
       hu: "Város az Ouaddaï régióban, Abéchétől északkeletre.",
-      ro: "Un oraș în regiunea Ouaddaï, la nord-est de Abéché.",
-      en: "A town in the Ouaddaï region, northeast of Abéché."
+      ro: "Am Zoer este un oraș din estul Ciadului, în regiunea Ouaddaï. Este legat mai ales de comerțul local și de activitățile pastorale.",
+      en: "A town in eastern Chad's Ouaddaï region, northeast of Abéché. It works as a local market and service center for nearby rural settlements."
     },
     descriptionAdvanced: {
       hu: "Ez egy leírás a(z) am-zoer-cities-v2 helyről, amely fontos szerepet tölt be a helyi régió gazdasági és kulturális életében. A környező táj és a helyi közösségek hagyományai meghatározzák a település karakterét, amely kulcsfontosságú a régió áruellátásában és közigazgatásában. Földrajz K5 — Helyi települések és fejlődés."
@@ -999,8 +999,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     facts: {
       de: ["Regionalknotenpunkt.", "Viehhandel ist Haupterwerb."],
       hu: ["Regionális csomópont.", "Az állatkereskedelem a fő bevételi forrás."],
-      ro: ["Nod regional.", "Comerțul cu animale este principala activitate."],
-      en: ["Regional hub.", "Livestock trade is the main activity."]
+      ro: ["În estul Ciadului", "În regiunea Ouaddaï", "Lângă Abéché", "Comerț cu animale"],
+      en: ["Ouaddaï region", "Northeast of Abéché", "Local market town", "Rural service center"]
     }, image: "/poi-images/am-zoer-cities-v2.webp"},
   {
     id: "mangalme-cities-v2",
@@ -1179,8 +1179,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     coords: [14.8, 14.7],
     name: { de: "Rig-Rig", hu: "Rig-Rig", ro: "Rig-Rig", en: "Rig-Rig" },
     description: {
-      de: "Eine Stadt in der Region Kanem, im trockenen Norden gelegen.",
-      hu: "Város a Kanem régióban, a száraz északi területen.",
+      de: "Rig-Rig ist eine Oasenstadt in Kanem im trockenen Norden des Tschad. Sie dient als lokales Zentrum für Handel und Kamelzucht.",
+      hu: "Rig-Rig a Kanem régióhoz tartozó észak-csádi alprefektúra. A száraz szaharai peremvidék települései közé tartozik.",
       ro: "Un oraș în regiunea Kanem, situat în nordul arid.",
       en: "A town in the Kanem region, located in the arid north."
     },
@@ -1191,8 +1191,8 @@ export const poiExtraChadCitiesV2: POI[] = [
       hu: ["Fontos regionális központ", "Mezőgazdasági kereskedelmi állomás", "Közigazgatási szerep a régióban", "Hagyományos közösségi élet", "Kulcsfontosságú az áruellátásban", "A régió egyik fontos települése"]
     },
     facts: {
-      de: ["Wichtige Oase.", "Zentrum für Kamelzucht."],
-      hu: ["Fontos oázis.", "A teveenyésztés központja."],
+      de: ["Oasenstadt in Kanem", "Lage im trockenen Norden", "Zentrum für Kamelzucht", "Lokaler Handelsort"],
+      hu: ["Kanem régióban van", "Észak-Csádban fekszik", "Alprefektúra", "Sivatagos környezet"],
       ro: ["Oază importantă.", "Centru pentru creșterea cămilelor."],
       en: ["Important oasis.", "Center for camel breeding."]
     }, image: "/poi-images/rig-rig-cities-v2.webp"},

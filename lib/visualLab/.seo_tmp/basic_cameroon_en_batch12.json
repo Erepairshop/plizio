@@ -1,0 +1,86 @@
+{
+  "lang": "en",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-dja-relief-v2",
+      "description": "The Dja area in southeastern Cameroon is made up of low hills and dense forest terrain. It belongs to the country's southern upland zone.",
+      "facts": [
+        "southeast Cameroon",
+        "low hilly terrain",
+        "dense forest zone"
+      ]
+    },
+    {
+      "id": "mount-kribi-relief-v2",
+      "description": "The Kribi area sits on a gently rising coastal relief. It links the Atlantic lowlands to the inland forest belt.",
+      "facts": [
+        "on the coast",
+        "gentle coastal rise",
+        "links coast and inland"
+      ]
+    },
+    {
+      "id": "mount-bouba-relief-v2",
+      "description": "The Bouba area in the north has broad inland relief with open terrain. It is part of the country’s northern landscape.",
+      "facts": [
+        "in northern Cameroon",
+        "broad inland terrain",
+        "open landscape"
+      ]
+    },
+    {
+      "id": "mount-waza-relief-v2",
+      "description": "The Waza area lies in the dry far north with flat terrain and Sahel conditions. Its relief is shaped by open plains and seasonal watercourses.",
+      "facts": [
+        "far north plains",
+        "Sahel conditions",
+        "dry open terrain"
+      ]
+    },
+    {
+      "id": "mount-logone-relief-v2",
+      "description": "The Logone area is part of the low-lying northern plains near the border. It is shaped by floodplains and broad river valleys.",
+      "facts": [
+        "northern lowlands",
+        "floodplains",
+        "broad river valleys"
+      ]
+    },
+    {
+      "id": "mount-kadey-relief-v2",
+      "description": "The Kadey area in the east combines rolling terrain and river basins. It belongs to the broader forested upland zone.",
+      "facts": [
+        "eastern Cameroon",
+        "rolling terrain",
+        "river basin landscape"
+      ]
+    },
+    {
+      "id": "mount-nyong-relief-v2",
+      "description": "The Nyong area is a forested river landscape in southern Cameroon. Its relief is shaped by humid lowlands and drainage basins.",
+      "facts": [
+        "southern Cameroon",
+        "forested lowlands",
+        "river basin relief"
+      ]
+    },
+    {
+      "id": "mount-sangha-relief-v2",
+      "description": "The Sangha area in the southeast is a low forested basin with broad river corridors. It belongs to Cameroon's southern rainforest zone.",
+      "facts": [
+        "southeast basin",
+        "forest corridor",
+        "southern rainforest zone"
+      ]
+    }
+  ]
+}

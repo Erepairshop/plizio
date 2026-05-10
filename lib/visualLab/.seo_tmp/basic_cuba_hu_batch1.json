@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCubaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jatibonico-cities-v2",
+      "description": "Sancti Spíritus tartomány egyik városa és községe, Kuba középső részén.",
+      "facts": ["Sancti Spíritus tartomány", "Közép-Kuba", "Mezőgazdasági környezet"]
+    },
+    {
+      "id": "placetas-cities-v2",
+      "description": "Villa Clara tartomány központi kubai városa, régi vasúti és kereskedelmi kapcsolatokkal.",
+      "facts": ["Villa Clara tartomány", "Közép-Kuba", "Vasúti csomópont"]
+    },
+    {
+      "id": "santo-domingo-cities-v2",
+      "description": "Villa Clara tartomány egyik községe és városa, a sziget középső térségében.",
+      "facts": ["Villa Clara tartomány", "Közép-Kuba", "Helyi mezőgazdaság"]
+    },
+    {
+      "id": "manicaragua-cities-v2",
+      "description": "Villa Clara tartomány hegyvidéki községe és városa, a középső kubai térségben.",
+      "facts": ["Villa Clara tartomány", "Hegyvidéki település", "Hanabanilla-tó térsége"]
+    },
+    {
+      "id": "amancio-cities-v2",
+      "description": "Las Tunas tartomány egyik városa és községe, Kuba déli-középső részén.",
+      "facts": ["Las Tunas tartomány", "Dél-közép Kuba", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "niquero-cities-v2",
+      "description": "Granma tartomány déli városa és községe, a sziget legdélebbi települései közé tartozik.",
+      "facts": ["Granma tartomány", "Déli partvidék", "Kuba legdélibb községe"]
+    },
+    {
+      "id": "media-luna-cities-v2",
+      "description": "Granma tartomány déli, tengerparti községe és városa.",
+      "facts": ["Granma tartomány", "Déli partvidék", "Tengerhez kötődő település"]
+    },
+    {
+      "id": "caimanera-cities-v2",
+      "description": "Guantánamo tartomány kisvárosa és községe, a Guantánamói-öböl közelében.",
+      "facts": ["Guantánamo tartomány", "Guantánamói-öböl mellett", "Határ menti település"]
+    },
+    {
+      "id": "san-cristobal-cities-v2",
+      "description": "Artemisa tartomány városa és községe, Nyugat-Kuba egyik régi települése.",
+      "facts": ["Artemisa tartomány", "Nyugat-Kuba", "Sierra de los Órganos előtere"]
+    },
+    {
+      "id": "aguada-de-pasajeros-cities-v2",
+      "description": "Cienfuegos tartomány községe és városa, a tartomány legnyugatibb részén.",
+      "facts": ["Cienfuegos tartomány", "A legnyugatibb község", "Közúti kapcsolat"]
+    },
+    {
+      "id": "fortaleza-cabana-history-v2",
+      "description": "Havanna híres 18. századi erődítménye a kikötő bejáratánál.",
+      "facts": ["1763 után épült", "Havanna-öböl mellett", "Korábbi börtön"]
+    },
+    {
+      "id": "casa-diego-velazquez-history-v2",
+      "description": "Santiago de Cuba legrégebbi fennmaradt háza, egykori gyarmati rezidencia.",
+      "facts": ["1515 körül épült", "Santiago de Cuba", "Ma múzeum"]
+    },
+    {
+      "id": "faro-morro-santiago-history-v2",
+      "description": "Santiago de Cuba történelmi világítótornya a kikötő védelmi rendszerében.",
+      "facts": ["A kikötő bejáratánál", "A Morro-erődhöz kötődik", "Tengerészeti jelzőpont"]
+    },
+    {
+      "id": "fuerte-cojimar-history-v2",
+      "description": "Kis parti erőd Havanna közelében, a tengerparti védelem részeként ismert.",
+      "facts": ["Havanna közelében", "Parti védelem", "Hemingwayhez kapcsolódik"]
+    },
+    {
+      "id": "teatro-tomas-terry-history-v2",
+      "description": "Cienfuegos ismert történelmi színháza, gazdag belső díszítéssel.",
+      "facts": ["1889-ben épült", "Cienfuegos kulturális jelképe", "Olasz freskós mennyezet"]
+    }
+  ]
+}

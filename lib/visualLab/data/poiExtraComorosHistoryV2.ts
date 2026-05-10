@@ -86,14 +86,14 @@ export const poiExtraComorosHistoryV2: POI[] = [
     description: {
       de: "Das historische Zentrum von Iconi ist eine der ältesten Siedlungen auf Grande Comore mit engen Gassen und alten Mauern.",
       hu: "Iconi történelmi központja Grande Comore egyik legrégebbi települése, szűk utcákkal és régi falakkal.",
-      ro: "Centrul istoric din Iconi este una dintre cele mai vechi așezări de pe Grande Comore, cu străzi înguste și ziduri vechi.",
-      en: "The historic center of Iconi is one of the oldest settlements on Grande Comore, with narrow streets and old walls."
+      ro: "Medina din Iconi este partea veche a orașului, cu străzi înguste și o structură urbană istorică. Ea păstrează imaginea unui vechi centru comorian de pe Grande Comore.",
+      en: "Iconi's old center preserves narrow lanes and stone walls that reflect the town's precolonial past. It remains one of Grande Comore's best-known historic quarters."
     },
     facts: {
       de: ["Ehemalige Hauptstadt", "Traditionelle Steinbauten", "Bedeutendes Kulturerbe"],
       hu: ["Egykori főváros", "Hagyományos kőépületek", "Jelentős kulturális örökség"],
-      ro: ["Fosta capitală", "Construcții tradiționale din piatră", "Moștenire culturală importantă"],
-      en: ["Former capital", "Traditional stone buildings", "Significant cultural heritage"]
+      ro: ["cartier istoric", "în Iconi", "pe Grande Comore"],
+      en: ["Old settlement on Grande Comore", "Narrow stone lanes", "Linked to local legends"]
     }, image: "/poi-images/iconi-medina-history-v2.webp"},
   {
     id: "domoni-moschee-history-v2",
@@ -294,14 +294,14 @@ export const poiExtraComorosHistoryV2: POI[] = [
     },
     description: {
       de: "In Ntsaoueni befindet sich eine der ehrwürdigsten Moscheen des Landes, die mit der Ausbreitung des Islams auf der Insel verbunden ist.",
-      hu: "Ntsaoueniben található az ország egyik legfontosabb mecsetje, amely az iszlám szigeti elterjedéséhez kötődik.",
-      ro: "În Ntsaoueni se află una dintre cele mai venerabile moschei din țară, legată de răspândirea islamului pe insulă.",
+      hu: "Az Ntsaoueni mecset a Grande Comore északi részén álló helyi vallási épület. A mecset a környék közösségi és mindennapi életének fontos pontja.",
+      ro: "Moscheea din Ntsaouéni este un lăcaș de cult local din Grande Comore. Face parte din țesutul religios tradițional al satului.",
       en: "In Ntsaoueni is one of the country's most venerable mosques, linked to the spread of Islam on the island."
     },
     facts: {
       de: ["Legendärer Ursprung", "Antikes Mauerwerk", "Zentrum für Pilger"],
-      hu: ["Legendás eredet", "Ősi falazat", "Zarándokközpont"],
-      ro: ["Origine legendară", "Zidărie antică", "Centru pentru pelerini"],
+      hu: ["Grande Comore északa", "Helyi mecset", "Közösségi szerep"],
+      ro: ["moschee locală", "în Ntsaouéni", "pe Grande Comore"],
       en: ["Legendary origin", "Ancient masonry", "Center for pilgrims"]
     }, image: "/poi-images/ntsaoueni-moschee-history-v2.webp"},
   {
@@ -363,13 +363,13 @@ export const poiExtraComorosHistoryV2: POI[] = [
     },
     description: {
       de: "Die antike Moschee von Fomboni ist das älteste religiöse Bauwerk auf Mohéli und zeugt von der frühen Islamisierung der Insel.",
-      hu: "Fomboni antik mecsetje a legrégebbi vallási épület Mohéli szigetén, és a korai iszlamizációról tanúskodik.",
+      hu: "A fomboni mecset Mohéli fővárosának ismert vallási helyszíne. A városközpontban a helyi közösség egyik legfontosabb gyűjtőpontja.",
       ro: "Moscheea antică din Fomboni este cea mai veche construcție religioasă de pe Mohéli, atestând islamizarea timpurie a insulei.",
       en: "The ancient mosque of Fomboni is the oldest religious building on Mohéli, bearing witness to the early Islamization of the island."
     },
     facts: {
       de: ["Wahrzeichen von Mohéli", "Einfache Swahili-Bauweise", "Kulturhistorisches Monument"],
-      hu: ["Mohéli jelképe", "Egyszerű szuahéli építési mód", "Kultúrtörténeti emlékmű"],
+      hu: ["Fomboni központja", "Mohéli vallási helyszíne", "Közösségi találkozópont"],
       ro: ["Punct de reper al Mohéli", "Stil swahili simplu", "Monument cultural-istoric"],
       en: ["Landmark of Mohéli", "Simple Swahili construction", "Cultural-historical monument"]
     }
@@ -458,13 +458,13 @@ export const poiExtraComorosHistoryV2: POI[] = [
       de: "Die Ruinen von Itsandra umfassen Reste der königlichen Befestigungen und Mauern des einstigen Herrschaftszentrums.",
       hu: "Itsandra romjai magukban foglalják a királyi erődítmények és az egykori uralkodói központ falainak maradványait.",
       ro: "Ruinele din Itsandra cuprind rămășițe ale fortificațiilor regale și zidurilor fostului centru de putere.",
-      en: "The ruins of Itsandra include remains of the royal fortifications and walls of the former center of power."
+      en: "The ruins of Itsandra preserve remnants of royal fortifications and walls from the former seat of power. They offer a direct look at the town's historical importance near Moroni."
     },
     facts: {
       de: ["Ehemalige Sultansfestung", "Mittelalterliche Mauern", "Historisches Monument von Grande Comore"],
       hu: ["Egykori szultáni erőd", "Középkori falak", "Grande Comore történelmi műemléke"],
       ro: ["Fostă fortăreață a sultanului", "Ziduri medievale", "Monument istoric din Grande Comore"],
-      en: ["Former sultan's fortress", "Medieval walls", "Historic monument of Grande Comore"]
+      en: ["Former royal center", "Remains of defensive walls", "Near Moroni"]
     }
   }
 ];

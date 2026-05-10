@@ -18,8 +18,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Izrael területének 55%-át teszi ki.", "Itt található a Ramon-kráter."],
       ro: ["Acoperă peste 55% din Israel.", "Adăpostește craterul Ramon."],
       en: ["Covers over 55% of Israel.", "Home to the Makhtesh Ramon."]
-    }
-  },
+    }, image: "/poi-images/israel-negev-desert-relief-v2.webp"},
   {
     id: "israel-judaean-desert-relief-v2",
     type: "desert",
@@ -37,8 +36,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Jeruzsálemtől keletre fekszik.", "Híres a qumráni barlangokról."],
       ro: ["Situat la est de Ierusalim.", "Renumit pentru peșterile de la Qumran."],
       en: ["Located east of Jerusalem.", "Famous for the Qumran Caves."]
-    }
-  },
+    }, image: "/poi-images/israel-judaean-desert-relief-v2.webp"},
   {
     id: "israel-golan-heights-relief-v2",
     type: "plateau",
@@ -56,8 +54,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Vulkanikus eredetű.", "Legmagasabb pontja a Hermon-hegy."],
       ro: ["De origine vulcanică.", "Cel mai înalt punct este Muntele Hermon."],
       en: ["Volcanic in origin.", "Highest point is Mount Hermon."]
-    }
-  },
+    }, image: "/poi-images/israel-golan-heights-relief-v2.webp"},
   {
     id: "israel-jezreel-valley-relief-v2",
     type: "valley",
@@ -75,8 +72,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Nagyon termékeny mezőgazdasági régió.", "Fontos történelmi csomópont."],
       ro: ["Regiune agricolă foarte fertilă.", "Nod istoric important."],
       en: ["Highly fertile agricultural region.", "Important historical junction."]
-    }
-  },
+    }, image: "/poi-images/israel-jezreel-valley-relief-v2.webp"},
   {
     id: "israel-arava-valley-relief-v2",
     type: "valley",
@@ -94,8 +90,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["A Nagy-hasadékvölgy része.", "Rendkívül száraz sivatagi klíma."],
       ro: ["Parte a Marelui Rift.", "Climat de deșert extrem de uscat."],
       en: ["Part of the Great Rift Valley.", "Extremely dry desert climate."]
-    }
-  },
+    }, image: "/poi-images/israel-arava-valley-relief-v2.webp"},
   {
     id: "israel-mount-sodom-relief-v2",
     type: "mountain",
@@ -113,8 +108,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["80%-ban sóból áll.", "Évente néhány millimétert nő."],
       ro: ["Format din 80% sare.", "Crește cu câțiva milimetri pe an."],
       en: ["Composed of 80% salt.", "Grows a few millimeters annually."]
-    }
-  },
+    }, image: "/poi-images/israel-mount-sodom-relief-v2.webp"},
   {
     id: "israel-mount-scopus-relief-v2",
     type: "mountain",
@@ -132,8 +126,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["826 méterre emelkedik a tengerszint felett.", "A Héber Egyetem campusa is itt van."],
       ro: ["Se ridică la 826 metri deasupra mării.", "Sediul Universității Ebraice."],
       en: ["Rises 826 meters above sea level.", "Home to the Hebrew University."]
-    }
-  },
+    }, image: "/poi-images/israel-mount-scopus-relief-v2.webp"},
   {
     id: "israel-carmel-coast-relief-v2",
     type: "coast",
@@ -151,8 +144,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Körülbelül 30 kilométer hosszan terül el.", "Sok banánültetvénynek ad otthont."],
       ro: ["Se întinde pe aproximativ 30 de kilometri.", "Găzduiește multe plantații de banane."],
       en: ["Stretches for about 30 kilometers.", "Home to many banana plantations."]
-    }
-  },
+    }, image: "/poi-images/israel-carmel-coast-relief-v2.webp"},
   {
     id: "israel-sharon-plain-relief-v2",
     type: "coast",
@@ -170,8 +162,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Rendkívül sűrűn lakott.", "Régebben mocsarak borították."],
       ro: ["Foarte dens populată.", "Anterior acoperită de mlaștini."],
       en: ["Highly densely populated.", "Formerly covered by swamps."]
-    }
-  },
+    }, image: "/poi-images/israel-sharon-plain-relief-v2.webp"},
   {
     id: "israel-mount-ebal-relief-v2",
     type: "mountain",
@@ -189,8 +180,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["940 méter magas.", "Nablusztól északra található."],
       ro: ["Înălțime de 940 metri.", "Situat la nord de Nablus."],
       en: ["Height of 940 meters.", "Located north of Nablus."]
-    }
-  },
+    }, image: "/poi-images/israel-mount-ebal-relief-v2.webp"},
   {
     id: "israel-mount-gerizim-relief-v2",
     type: "mountain",
@@ -208,8 +198,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["881 méter magas.", "A szamaritánusok szent helye."],
       ro: ["Înălțime de 881 metri.", "Sanctuar al samaritenilor."],
       en: ["Height of 881 meters.", "Sanctuary of the Samaritans."]
-    }
-  },
+    }, image: "/poi-images/israel-mount-gerizim-relief-v2.webp"},
   {
     id: "israel-zin-valley-relief-v2",
     type: "valley",
@@ -227,8 +216,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Kiszáradt folyómeder (vádi).", "Mély kanyonjairól ismert."],
       ro: ["Albia uscată a unui râu (Wadi).", "Cunoscut pentru canioanele sale adânci."],
       en: ["Dry riverbed (Wadi).", "Known for deep canyons."]
-    }
-  },
+    }, image: "/poi-images/israel-zin-valley-relief-v2.webp"},
   {
     id: "israel-mount-ramon-relief-v2",
     type: "mountain",
@@ -246,8 +234,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["1037 méter magas.", "Dél-Izrael legmagasabb hegye."],
       ro: ["Înălțime de 1037 metri.", "Cel mai înalt munte din sudul Israelului."],
       en: ["Height of 1037 meters.", "Highest mountain in southern Israel."]
-    }
-  },
+    }, image: "/poi-images/israel-mount-ramon-relief-v2.webp"},
   {
     id: "israel-judaean-mountains-relief-v2",
     type: "mountain",
@@ -265,8 +252,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Akár 1000 méteres magasságot is eléri.", "Erősen teraszosított táj."],
       ro: ["Atinge până la 1000 de metri altitudine.", "Peisaj puternic terasat."],
       en: ["Reaches up to 1000 meters in height.", "Heavily terraced landscape."]
-    }
-  },
+    }, image: "/poi-images/israel-judaean-mountains-relief-v2.webp"},
   {
     id: "israel-beit-netofa-valley-relief-v2",
     type: "valley",
@@ -284,8 +270,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Alsó-Galileában található.", "Hossza körülbelül 16 kilométer."],
       ro: ["Situată în Galileea Inferioară.", "Lungime de aproximativ 16 kilometri."],
       en: ["Located in the Lower Galilee.", "Length of about 16 kilometers."]
-    }
-  },
+    }, image: "/poi-images/israel-beit-netofa-valley-relief-v2.webp"},
   {
     id: "israel-mount-bental-relief-v2",
     type: "mountain",
@@ -303,8 +288,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Kialudt vulkáni kráter.", "1171 méter magas."],
       ro: ["Crater vulcanic stins.", "Înălțime de 1171 metri."],
       en: ["Extinct volcanic crater.", "Height of 1171 meters."]
-    }
-  },
+    }, image: "/poi-images/israel-mount-bental-relief-v2.webp"},
   {
     id: "israel-zvulun-valley-relief-v2",
     type: "valley",
@@ -322,8 +306,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Haifától északra fekszik.", "Zebulon törzsének történelmi területe."],
       ro: ["Situată la nord de Haifa.", "Teritoriul istoric al tribului Zabulon."],
       en: ["Located north of Haifa.", "Historical territory of the tribe of Zebulun."]
-    }
-  },
+    }, image: "/poi-images/israel-zvulun-valley-relief-v2.webp"},
   {
     id: "israel-paran-valley-relief-v2",
     type: "valley",
@@ -341,8 +324,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Izrael legnagyobb vádija.", "Az Arava-völgybe torkollik."],
       ro: ["Cel mai mare wadi din Israel.", "Se varsă în Valea Arava."],
       en: ["Israel's largest wadi.", "Flows into the Arava Valley."]
-    }
-  },
+    }, image: "/poi-images/israel-paran-valley-relief-v2.webp"},
   {
     id: "israel-mount-karkom-relief-v2",
     type: "mountain",
@@ -360,8 +342,7 @@ export const poiExtraIsraelReliefV2: POI[] = [
       hu: ["Több mint 40 000 sziklarajz található itt.", "Egyesek a Sínai-heggyel azonosítják."],
       ro: ["Are peste 40.000 de petroglife.", "Unii cred că este Muntele Sinai."],
       en: ["Has over 40,000 petroglyphs.", "Some believe it is Mount Sinai."]
-    }
-  },
+    }, image: "/poi-images/israel-mount-karkom-relief-v2.webp"},
   {
     id: "israel-jordan-valley-relief-v2",
     type: "valley",

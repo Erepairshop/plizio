@@ -1,0 +1,18 @@
+{
+  "lang": "hu",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sonabhy-bingo-depot-economic-v2",
+      "description": "A SONABHY bingo-i telepe az üzemanyag-ellátási lánc egyik fontos pontja Burkina Fasóban. A tárolás és az elosztás biztonságát segíti a középső országrészben.",
+      "facts": ["Üzemanyag-tároló telep", "A SONABHY rendszer része", "Az ellátási biztonságot erősíti"]
+    }
+  ]
+}

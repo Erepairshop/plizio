@@ -30,8 +30,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "Its average elevation is around 1,000 meters.",
         "The area is bisected by the Salween River."
       ]
-    }
-  },
+    }, image: "/poi-images/shan-hills-relief-v2.webp"},
   {
     id: "arakan-mountains-relief-v2",
     type: "mountain",
@@ -61,8 +60,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The mountain range is considered an extension of the Himalayas.",
         "Its highest point is Nat Ma Taung at 3,053 meters."
       ]
-    }
-  },
+    }, image: "/poi-images/arakan-mountains-relief-v2.webp"},
   {
     id: "tenasserim-hills-relief-v2",
     type: "mountain",
@@ -92,8 +90,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The mountains are covered with dense tropical rainforests.",
         "It has rich reserves of tin and tungsten."
       ]
-    }
-  },
+    }, image: "/poi-images/tenasserim-hills-relief-v2.webp"},
   {
     id: "patkai-range-relief-v2",
     type: "mountain",
@@ -123,8 +120,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The range is crossed by the Pangsau Pass.",
         "It is home to various Naga tribes."
       ]
-    }
-  },
+    }, image: "/poi-images/patkai-range-relief-v2.webp"},
   {
     id: "kachin-hills-relief-v2",
     type: "mountain",
@@ -185,8 +181,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The southern part contains the Indawgyi Lake region.",
         "Dense tropical jungles cover its slopes."
       ]
-    }
-  },
+    }, image: "/poi-images/kumon-bum-mountains-relief-v2.webp"},
   {
     id: "chin-hills-relief-v2",
     type: "mountain",
@@ -216,8 +211,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The western part of the range drops steeply towards India.",
         "The area is home to numerous endemic bird species."
       ]
-    }
-  },
+    }, image: "/poi-images/chin-hills-relief-v2.webp"},
   {
     id: "rakhine-coast-relief-v2",
     type: "coast",
@@ -309,8 +303,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The delta is Myanmar's most important rice-growing region.",
         "Its area is constantly growing due to the river's sediments."
       ]
-    }
-  },
+    }, image: "/poi-images/irrawaddy-delta-relief-v2.webp"},
   {
     id: "sittang-valley-relief-v2",
     type: "valley",
@@ -340,8 +333,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The Sittaung River flows through the valley.",
         "During the monsoon, it is often hit by significant floods."
       ]
-    }
-  },
+    }, image: "/poi-images/sittang-valley-relief-v2.webp"},
   {
     id: "chindwin-valley-relief-v2",
     type: "valley",
@@ -371,8 +363,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The valley extends south of the Hukaung Valley.",
         "It is rich in amber and jade deposits."
       ]
-    }
-  },
+    }, image: "/poi-images/chindwin-valley-relief-v2.webp"},
   {
     id: "kabaw-valley-relief-v2",
     type: "valley",
@@ -402,8 +393,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "Historically, it was a disputed border area between India and Myanmar.",
         "Numerous local legends surround the formation of the valley."
       ]
-    }
-  },
+    }, image: "/poi-images/kabaw-valley-relief-v2.webp"},
   {
     id: "zibyu-taungdan-relief-v2",
     type: "mountain",
@@ -464,8 +454,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "Fossils of early primates have been found in the range.",
         "It consists of rock layers that are about 40 million years old."
       ]
-    }
-  },
+    }, image: "/poi-images/pondaung-range-relief-v2.webp"},
   {
     id: "ponnyadaung-range-relief-v2",
     type: "mountain",
@@ -495,8 +484,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The region's climate is significantly drier compared to eastern areas.",
         "It plays a major role in maintaining local microclimatic conditions."
       ]
-    }
-  },
+    }, image: "/poi-images/ponnyadaung-range-relief-v2.webp"},
   {
     id: "mingin-taungdan-relief-v2",
     type: "mountain",
@@ -557,8 +545,7 @@ export const poiExtraMyanmarReliefV2: POI[] = [
         "The peak has an elevation of 2,563 meters.",
         "The area around the mountain is bordered by the Kengtung Basin."
       ]
-    }
-  },
+    }, image: "/poi-images/loi-pangnao-relief-v2.webp"},
   {
     id: "mount-saramati-relief-v2",
     type: "mountain",

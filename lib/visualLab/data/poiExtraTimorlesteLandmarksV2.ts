@@ -13,8 +13,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A szigeten szigorúan tilos éjszakázni.", "A környező vizek a Konis Santana Nemzeti Park részét képezik."],
       ro: ["Înnoptarea pe insulă este strict interzisă.", "Apele înconjurătoare fac parte din Parcul Național Konis Santana."],
       en: ["Staying overnight on the island is strictly forbidden.", "The surrounding waters are part of the Konis Santana National Park."]
-    }
-  },
+    }, image: "/poi-images/jaco-island-landmarks-v2.webp"},
   {
     id: "tatamailau-statue-landmarks-v2",
     type: "landmark",
@@ -27,8 +26,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A szobrot 1997-ben állították fel.", "Olaszországból importálták az országba."],
       ro: ["Statuia a fost ridicată în anul 1997.", "A fost importată din Italia."],
       en: ["The statue was erected in 1997.", "It was imported from Italy."]
-    }
-  },
+    }, image: "/poi-images/tatamailau-statue-landmarks-v2.webp"},
   {
     id: "nino-konis-santana-landmarks-v2",
     type: "landmark",
@@ -41,8 +39,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A parkot 2007-ben alapították.", "Területe 1236 négyzetkilométer."],
       ro: ["Parcul a fost înființat în anul 2007.", "Se întinde pe 1236 de kilometri pătrați."],
       en: ["The park was established in 2007.", "It covers 1236 square kilometers."]
-    }
-  },
+    }, image: "/poi-images/nino-konis-santana-landmarks-v2.webp"},
   {
     id: "tais-market-landmarks-v2",
     type: "landmark",
@@ -55,8 +52,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A tais hagyományos kézzel szőtt textília.", "Minden körzetnek megvan a maga mintája és színe."],
       ro: ["Tais sunt textile tradiționale țesute manual.", "Fiecare district are propriile sale modele și culori."],
       en: ["Tais are traditional hand-woven textiles.", "Each district has its own patterns and colors."]
-    }
-  },
+    }, image: "/poi-images/tais-market-landmarks-v2.webp"},
   {
     id: "marobo-hot-springs-landmarks-v2",
     type: "landmark",
@@ -69,8 +65,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A víz hőmérséklete elérheti a 60 fokot.", "Bobonaro körzetében találhatók."],
       ro: ["Apa poate atinge o temperatură de 60 de grade.", "Se află în municipiul Bobonaro."],
       en: ["The water can reach a temperature of 60 degrees.", "They are located in the Bobonaro municipality."]
-    }
-  },
+    }, image: "/poi-images/marobo-hot-springs-landmarks-v2.webp"},
   {
     id: "tasi-tolu-park-landmarks-v2",
     type: "landmark",
@@ -83,8 +78,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A név szó szerint 'Három tenger'-t jelent.", "A terület fontos madárrezervátum."],
       ro: ["Numele înseamnă literal 'Trei Mări'.", "Zona este o rezervație importantă de păsări."],
       en: ["The name literally means 'Three Seas'.", "The area is an important bird sanctuary."]
-    }
-  },
+    }, image: "/poi-images/tasi-tolu-park-landmarks-v2.webp"},
   {
     id: "dili-lighthouse-landmarks-v2",
     type: "landmark",
@@ -97,8 +91,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A világítótorony 1894-ben épült.", "A Dili kikötő bejáratát jelzi."],
       ro: ["Farul a fost construit în anul 1894.", "El marchează intrarea în portul Dili."],
       en: ["The lighthouse was built in 1894.", "It marks the entrance to the port of Dili."]
-    }
-  },
+    }, image: "/poi-images/dili-lighthouse-landmarks-v2.webp"},
   {
     id: "baucau-pool-landmarks-v2",
     type: "landmark",
@@ -111,8 +104,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A fürdőt a portugálok építették.", "Buja növényzet veszi körül."],
       ro: ["Piscina a fost construită de portughezi.", "Este înconjurată de o vegetație luxuriantă."],
       en: ["The pool was built by the Portuguese.", "It is surrounded by lush vegetation."]
-    }
-  },
+    }, image: "/poi-images/baucau-pool-landmarks-v2.webp"},
   {
     id: "xanana-reading-room-landmarks-v2",
     type: "landmark",
@@ -125,8 +117,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["Az épületet eredetileg az indonézek építették.", "2000-ben nyitotta meg kapuit."],
       ro: ["Clădirea a fost construită inițial de indonezieni.", "A fost deschisă în anul 2000."],
       en: ["The building was originally built by the Indonesians.", "It was opened in the year 2000."]
-    }
-  },
+    }, image: "/poi-images/xanana-reading-room-landmarks-v2.webp"},
   {
     id: "valu-beach-landmarks-v2",
     type: "landmark",
@@ -139,8 +130,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["Innen indulnak csónakok a Jaco-szigetre.", "A terület népszerű a sznorkelezők körében."],
       ro: ["De aici pleacă bărci spre Insula Jaco.", "Zona este populară pentru snorkeling."],
       en: ["Boats depart for Jaco Island from here.", "The area is popular for snorkeling."]
-    }
-  },
+    }, image: "/poi-images/valu-beach-landmarks-v2.webp"},
   {
     id: "lospalos-houses-landmarks-v2",
     type: "landmark",
@@ -153,8 +143,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["Ezeket a házakat Uma Lulik-nak hívják.", "Fontos szimbólumai Kelet-Timornak."],
       ro: ["Aceste case sunt numite Uma Lulik.", "Ele sunt un simbol important al Timorului de Est."],
       en: ["These houses are called Uma Lulik.", "They are an important symbol of East Timor."]
-    }
-  },
+    }, image: "/poi-images/lospalos-houses-landmarks-v2.webp"},
   {
     id: "one-dollar-beach-landmarks-v2",
     type: "landmark",
@@ -167,8 +156,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A strand körülbelül 40 percre található Dilitől.", "A nevét egy korábbi belépődíjról kapta."],
       ro: ["Plaja este la aproximativ 40 de minute de Dili.", "Numele provine de la o fostă taxă de intrare."],
       en: ["The beach is about 40 minutes away from Dili.", "The name comes from a former entrance fee."]
-    }
-  },
+    }, image: "/poi-images/one-dollar-beach-landmarks-v2.webp"},
   {
     id: "beloi-beach-landmarks-v2",
     type: "landmark",
@@ -181,8 +169,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["Népszerű kiindulópont a búvárok számára.", "A strand hajóval érhető el Diliből."],
       ro: ["Este un punct de plecare popular pentru scafandri.", "Plaja este accesibilă cu barca din Dili."],
       en: ["It is a popular starting point for divers.", "The beach is accessible by boat from Dili."]
-    }
-  },
+    }, image: "/poi-images/beloi-beach-landmarks-v2.webp"},
   {
     id: "arte-moris-landmarks-v2",
     type: "landmark",
@@ -195,8 +182,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["2003-ban alapították, a függetlenedés után.", "Az Arte Moris jelentése 'Élő Művészet'."],
       ro: ["A fost fondat în 2003, după independență.", "Arte Moris înseamnă 'Artă Vie'."],
       en: ["It was founded in 2003 after independence.", "Arte Moris means 'Living Art'."]
-    }
-  },
+    }, image: "/poi-images/arte-moris-landmarks-v2.webp"},
   {
     id: "ira-lalaro-landmarks-v2",
     type: "landmark",
@@ -209,8 +195,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A tóban krokodilok élnek, ezért tilos az úszás.", "Egy nagy karsztvidéken terül el."],
       ro: ["În lac trăiesc crocodili, așadar înotul este interzis.", "Este situat într-o mare zonă carstică."],
       en: ["Crocodiles live in the lake, so swimming is forbidden.", "It is located in a large karst area."]
-    }
-  },
+    }, image: "/poi-images/ira-lalaro-landmarks-v2.webp"},
   {
     id: "palacio-das-cinzas-landmarks-v2",
     type: "landmark",
@@ -223,8 +208,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["Az épület 1999-ben nagyrészt megsemmisült.", "Egykor fontos adminisztratív irodáknak adott otthont."],
       ro: ["Clădirea a fost distrusă în mare parte în 1999.", "A găzduit odată birouri administrative importante."],
       en: ["The building was largely destroyed in 1999.", "It once housed important administrative offices."]
-    }
-  },
+    }, image: "/poi-images/palacio-das-cinzas-landmarks-v2.webp"},
   {
     id: "dili-mosque-landmarks-v2",
     type: "landmark",
@@ -251,8 +235,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A hajó 1942-ben zátonyra futott.", "A legénységet az incidens után kimentették."],
       ro: ["Nava a eșuat în anul 1942.", "Echipajul a fost salvat după incident."],
       en: ["The ship ran aground in 1942.", "The crew was rescued after the incident."]
-    }
-  },
+    }, image: "/poi-images/voyager-shipwreck-landmarks-v2.webp"},
   {
     id: "lourdes-grotto-landmarks-v2",
     type: "landmark",
@@ -265,8 +248,7 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       hu: ["A helyszínről széles kilátás nyílik a hegyekre.", "A helyiek számára az imádság helye."],
       ro: ["Locul oferă o vedere largă asupra munților.", "Este un loc de rugăciune pentru localnici."],
       en: ["The site offers a wide view over the mountains.", "It is a place of prayer for locals."]
-    }
-  },
+    }, image: "/poi-images/lourdes-grotto-landmarks-v2.webp"},
   {
     id: "letefoho-coffee-landmarks-v2",
     type: "landmark",

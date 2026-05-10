@@ -44,8 +44,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "The only preserved fort of this size in the country"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/forte-de-sao-sebastiao-history-v2.webp"},
   {
     id: "catedral-de-sao-tome-history-v2",
     type: "historical",
@@ -89,8 +88,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "The most important religious building in the country"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/catedral-de-sao-tome-history-v2.webp"},
   {
     id: "roca-agua-ize-history-v2",
     type: "historical",
@@ -134,8 +132,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Located in the Cantagalo district"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-agua-ize-history-v2.webp"},
   {
     id: "roca-porto-real-history-v2",
     type: "historical",
@@ -269,8 +266,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Popular meeting spot on the waterfront"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/padrao-dos-descobrimentos-history-v2.webp"},
   {
     id: "roca-plancad-history-v2",
     type: "historical",
@@ -314,8 +310,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Historic drying beds preserved"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-plancad-history-v2.webp"},
   {
     id: "roca-bemposta-history-v2",
     type: "historical",
@@ -359,8 +354,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Traditional cocoa processing methods"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-bemposta-history-v2.webp"},
   {
     id: "forte-de-santo-antonio-da-ponta-da-mina-history-v2",
     type: "historical",
@@ -404,8 +398,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Panoramic view of the coastline"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/forte-de-santo-antonio-da-ponta-da-mina-history-v2.webp"},
   {
     id: "roca-sao-jose-history-v2",
     type: "historical",
@@ -449,8 +442,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Easily accessible historical heritage"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-sao-jose-history-v2.webp"},
   {
     id: "roca-ribeira-ize-history-v2",
     type: "historical",
@@ -494,8 +486,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Now reclaimed by nature"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-ribeira-ize-history-v2.webp"},
   {
     id: "roca-vau-inha-history-v2",
     type: "historical",
@@ -539,8 +530,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Partially in use for local agriculture"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-vau-inha-history-v2.webp"},
   {
     id: "roca-tras-os-montes-history-v2",
     type: "historical",
@@ -584,8 +574,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Close to the Monte Café area"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-tras-os-montes-history-v2.webp"},
   {
     id: "roca-pinheira-history-v2",
     type: "historical",
@@ -674,8 +663,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Located in the Mé-Zóchi region"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-novo-destino-history-v2.webp"},
   {
     id: "roca-monte-mario-history-v2",
     type: "historical",
@@ -764,8 +752,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Located near the north coast"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-vista-alegre-history-v2.webp"},
   {
     id: "roca-santa-cecilia-history-v2",
     type: "historical",
@@ -809,8 +796,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Part of the agricultural heritage of Mé-Zóchi"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-santa-cecilia-history-v2.webp"},
   {
     id: "roca-ribeira-palma-history-v2",
     type: "historical",
@@ -854,8 +840,7 @@ export const poiExtraSaotomeandprincipeHistoryV2: POI[] = [
         "Untouched historical surroundings"
       ]
     },
-    historyPeriod: "colonial"
-  },
+    historyPeriod: "colonial", image: "/poi-images/roca-ribeira-palma-history-v2.webp"},
   {
     id: "roca-morro-peixe-history-v2",
     type: "historical",

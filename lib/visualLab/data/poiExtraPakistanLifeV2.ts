@@ -43,8 +43,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Home to leopards and jackals.",
         "Characterized by barren, rocky hills."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-kirthar-nationalpark-life-v2.webp"},
   {
     id: "pk-ayubia-nationalpark-life-v2",
     type: "park",
@@ -87,8 +86,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Famous for the Pipeline walking track.",
         "Home to the Rhesus macaque."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-ayubia-nationalpark-life-v2.webp"},
   {
     id: "pk-changa-manga-life-v2",
     type: "park",
@@ -131,8 +129,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Today it serves as an important recreation area.",
         "Home to a variety of bird species."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-changa-manga-life-v2.webp"},
   {
     id: "pk-lahore-safari-life-v2",
     type: "park",
@@ -175,8 +172,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Features a large walk-in aviary.",
         "Is a popular destination for school trips."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-lahore-safari-life-v2.webp"},
   {
     id: "pk-lal-suhanra-life-v2",
     type: "wildlife-area",
@@ -219,8 +215,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Also includes wetlands and lakes.",
         "Plays an important role in nature conservation."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-lal-suhanra-life-v2.webp"},
   {
     id: "pk-margalla-hills-life-v2",
     type: "park",
@@ -307,8 +302,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Stretches across rugged mountainous terrain.",
         "Promoting ecotourism is a primary goal."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-machiara-park-life-v2.webp"},
   {
     id: "pk-jallo-park-life-v2",
     type: "park",
@@ -351,8 +345,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Features a butterfly breeding center.",
         "A popular destination for weekend outings."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-jallo-park-life-v2.webp"},
   {
     id: "pk-joyland-lahore-life-v2",
     type: "kid-friendly",
@@ -395,8 +388,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Located in the Fortress Stadium complex.",
         "Regarded as a landmark for urban entertainment."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-joyland-lahore-life-v2.webp"},
   {
     id: "pk-punjab-wheat-life-v2",
     type: "agriculture",
@@ -483,8 +475,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "The soil and hot climate are ideal.",
         "Mangos are a major economic factor."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-multan-mango-life-v2.webp"},
   {
     id: "pk-hazarganji-chiltan-life-v2",
     type: "wildlife-area",
@@ -527,8 +518,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Vegetation is desert-like and sparse.",
         "Serves as a refuge for reptiles and birds."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-hazarganji-chiltan-life-v2.webp"},
   {
     id: "pk-hunza-apricot-life-v2",
     type: "agriculture",
@@ -571,8 +561,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Contribute to the longevity of the local population.",
         "Are grown on steep mountain terraces."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-hunza-apricot-life-v2.webp"},
   {
     id: "pk-sindh-cotton-life-v2",
     type: "agriculture",
@@ -615,8 +604,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Sindh provides ideal hot weather for growth.",
         "Irrigation systems are essential for the harvest."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-sindh-cotton-life-v2.webp"},
   {
     id: "pk-daman-e-koh-life-v2",
     type: "park",
@@ -659,8 +647,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Wild monkeys are often fed by visitors.",
         "Located on the way to the higher elevated Pir Sohawa."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-daman-e-koh-life-v2.webp"},
   {
     id: "pk-danzoo-karachi-life-v2",
     type: "kid-friendly",
@@ -703,8 +690,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "Houses exotic animals such as white lions.",
         "Is particularly popular among young children."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-danzoo-karachi-life-v2.webp"},
   {
     id: "pk-haleji-birds-life-v2",
     type: "wildlife-area",
@@ -747,8 +733,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "A paradise for bird watchers.",
         "Home to cormorants and pelicans."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-haleji-birds-life-v2.webp"},
   {
     id: "pk-soan-valley-farms-life-v2",
     type: "agriculture",
@@ -791,8 +776,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "The region has a unique microclimate.",
         "Traditional agricultural methods are widespread here."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-soan-valley-farms-life-v2.webp"},
   {
     id: "pk-taunsa-barrage-wildlife-life-v2",
     type: "wildlife-area",
@@ -835,8 +819,7 @@ export const poiExtraPakistanLifeV2: POI[] = [
         "The barrage regulates irrigation and floods.",
         "Serves as a wintering area for waterfowl."
       ]
-    }
-  },
+    }, image: "/poi-images/pk-taunsa-barrage-wildlife-life-v2.webp"},
   {
     id: "pk-bagh-e-jinnah-life-v2",
     type: "park",

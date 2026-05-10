@@ -27,8 +27,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["A világ leggyorsabban növekvő kikötője.", "A Vörös-tenger partján fekszik."],
       ro: ["Portul cu cea mai rapidă creștere din lume.", "Situat pe coasta Mării Roșii."],
       en: ["Fastest-growing port in the world.", "Located on the Red Sea coast."]
-    }
-  },
+    }, image: "/poi-images/king-abdullah-port-economic-v2.webp"},
   {
     id: "jubail-industrial-city-economic-v2",
     type: "industry",
@@ -41,8 +40,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["A világ legnagyobb ipari projektje.", "A petrolkémia egyik központja.", "A Perzsa-öböl partján található."],
       ro: ["Cel mai mare proiect industrial din lume.", "Centru pentru petrochimie.", "Situat pe malul Golfului Persic."],
       en: ["World's largest industrial city project.", "A major hub for petrochemicals.", "Located on the Arabian Gulf."]
-    }
-  },
+    }, image: "/poi-images/jubail-industrial-city-economic-v2.webp"},
   {
     id: "yanbu-industrial-city-economic-v2",
     type: "industry",
@@ -55,8 +53,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["Az olaj- és gázipar fontos központja.", "A Vörös-tenger második legnagyobb ipari kikötője."],
       ro: ["Centru important pentru petrol și gaze.", "Al doilea cel mai mare port industrial de pe Marea Roșie."],
       en: ["Major hub for oil and gas industries.", "Second-largest industrial port on the Red Sea."]
-    }
-  },
+    }, image: "/poi-images/yanbu-industrial-city-economic-v2.webp"},
   {
     id: "jeddah-islamic-port-economic-v2",
     type: "port",
@@ -83,8 +80,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["A legnagyobb kikötő a Perzsa-öbölben.", "Az export egyik legfőbb tranzitállomása."],
       ro: ["Cel mai mare port de la Golful Persic.", "Punct central pentru exporturi."],
       en: ["Largest port on the Arabian Gulf.", "A central hub for export operations."]
-    }
-  },
+    }, image: "/poi-images/king-abdulaziz-port-dammam-economic-v2.webp"},
   {
     id: "mahd-adh-dhahab-mine-economic-v2",
     type: "mine",
@@ -97,8 +93,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["Az ország legjelentősebb aranybányája.", "Már az ókorban is használták."],
       ro: ["Cea mai importantă mină de aur din țară.", "Folosită încă din antichitate."],
       en: ["Most significant gold mine in the country.", "Used since ancient times."]
-    }
-  },
+    }, image: "/poi-images/mahd-adh-dhahab-mine-economic-v2.webp"},
   {
     id: "ghawar-oil-field-economic-v2",
     type: "energy",
@@ -111,8 +106,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["A világ legnagyobb szárazföldi olajmezője.", "1948-ban fedezték fel."],
       ro: ["Cel mai mare câmp petrolier terestru din lume.", "Descoperit în anul 1948."],
       en: ["The largest onshore oil field in the world.", "Discovered in 1948."]
-    }
-  },
+    }, image: "/poi-images/ghawar-oil-field-economic-v2.webp"},
   {
     id: "safaniya-oil-field-economic-v2",
     type: "energy",
@@ -125,8 +119,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["A világ legnagyobb tengeri olajmezője.", "A Saudi Aramco üzemelteti."],
       ro: ["Cel mai mare câmp petrolier offshore din lume.", "Operat de Saudi Aramco."],
       en: ["The largest offshore oil field in the world.", "Operated by Saudi Aramco."]
-    }
-  },
+    }, image: "/poi-images/safaniya-oil-field-economic-v2.webp"},
   {
     id: "riyadh-dry-port-economic-v2",
     type: "trade-hub",
@@ -139,8 +132,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["Az ország legnagyobb szárazkikötője.", "Rijádot köti össze Dammámmal."],
       ro: ["Cel mai mare port uscat din țară.", "Conectează Riyadh de Dammam."],
       en: ["The largest dry port in the country.", "Connects Riyadh with Dammam."]
-    }
-  },
+    }, image: "/poi-images/riyadh-dry-port-economic-v2.webp"},
   {
     id: "king-salman-energy-park-economic-v2",
     type: "energy",
@@ -195,8 +187,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["A nem olajalapú ipart hivatott fellendíteni.", "A jemeni határ közelében fekszik."],
       ro: ["Menit să promoveze industriile non-petroliere.", "Situat aproape de granița cu Yemen."],
       en: ["Aims to boost non-oil industries.", "Located near the Yemeni border."]
-    }
-  },
+    }, image: "/poi-images/jazan-economic-city-economic-v2.webp"},
   {
     id: "waad-al-shamal-economic-v2",
     type: "mine",
@@ -209,8 +200,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["A foszfátbányászat központja.", "Erősíti az északi régió gazdaságát."],
       ro: ["Centru pentru extracția fosfaților.", "Întărește economia din nord."],
       en: ["A hub for phosphate mining.", "Strengthens the northern economy."]
-    }
-  },
+    }, image: "/poi-images/waad-al-shamal-economic-v2.webp"},
   {
     id: "shoaiba-power-plant-economic-v2",
     type: "energy",
@@ -223,8 +213,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["A világ egyik legnagyobb erőműve.", "Áramtermelés és vízsótalanítás egyben."],
       ro: ["Una dintre cele mai mari centrale electrice din lume.", "Combină energia electrică și desalinizarea."],
       en: ["One of the largest power plants globally.", "Combines power generation and desalination."]
-    }
-  },
+    }, image: "/poi-images/shoaiba-power-plant-economic-v2.webp"},
   {
     id: "petro-rabigh-economic-v2",
     type: "industry",
@@ -237,8 +226,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["Hatalmas finomító és petrolkémiai komplexum.", "Közös vállalat a Sumitomo Chemical-lal."],
       ro: ["Mare complex de rafinare și petrochimie.", "Proiect comun cu Sumitomo Chemical."],
       en: ["Major refinery and petrochemical complex.", "Joint venture with Sumitomo Chemical."]
-    }
-  },
+    }, image: "/poi-images/petro-rabigh-economic-v2.webp"},
   {
     id: "shaybah-oil-field-economic-v2",
     type: "energy",
@@ -251,8 +239,7 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
       hu: ["Mélyen a Rub al-Háli sivatagban található.", "Kiváló minőségű kőolajat termel."],
       ro: ["Situat adânc în deșertul Rub al-Khali.", "Produce țiței de înaltă calitate."],
       en: ["Located deep in the Rub al-Khali desert.", "Produces high-quality crude oil."]
-    }
-  },
+    }, image: "/poi-images/shaybah-oil-field-economic-v2.webp"},
   {
     id: "jafurah-gas-field-economic-v2",
     type: "energy",

@@ -18,8 +18,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Azerbajdzsán legmagasabb pontja.", "Az orosz határon található."],
       ro: ["Cel mai înalt punct din Azerbaidjan.", "Situat la granița cu Rusia."],
       en: ["Highest point in Azerbaijan.", "Located on the border with Russia."]
-    }
-  },
+    }, image: "/poi-images/bazarduzu-mountain-relief-v2.webp"},
   {
     id: "shahdagh-mountain-relief-v2",
     type: "mountain",
@@ -56,8 +55,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Jelentős zarándokhely.", "3629 méter magas."],
       ro: ["Loc important de pelerinaj.", "Are 3629 de metri înălțime."],
       en: ["Significant pilgrimage site.", "3629 meters high."]
-    }
-  },
+    }, image: "/poi-images/babadag-mountain-relief-v2.webp"},
   {
     id: "tufandag-mountain-relief-v2",
     type: "mountain",
@@ -75,8 +73,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["A neve 'Viharhegyet' jelent.", "Népszerű a hegymászók körében."],
       ro: ["Numele înseamnă 'Muntele Furtunilor'.", "Popular printre alpiniști."],
       en: ["Name means 'Mountain of Storms'.", "Popular among mountaineers."]
-    }
-  },
+    }, image: "/poi-images/tufandag-mountain-relief-v2.webp"},
   {
     id: "kapudzhukh-mountain-relief-v2",
     type: "mountain",
@@ -94,8 +91,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Nahicseván legmagasabb pontja.", "3905 méter magas."],
       ro: ["Cel mai înalt punct din Nahicevan.", "3905 metri înălțime."],
       en: ["Highest point of Nakhchivan.", "3905 meters high."]
-    }
-  },
+    }, image: "/poi-images/kapudzhukh-mountain-relief-v2.webp"},
   {
     id: "talysh-mountains-relief-v2",
     type: "mountain",
@@ -113,8 +109,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Határhegység Irán felé.", "A perzsa leopárd élőhelye."],
       ro: ["Munți de graniță cu Iranul.", "Habitatul leopardului persan."],
       en: ["Border mountains with Iran.", "Home to the Persian leopard."]
-    }
-  },
+    }, image: "/poi-images/talysh-mountains-relief-v2.webp"},
   {
     id: "kura-aras-lowland-relief-v2",
     type: "valley",
@@ -132,8 +127,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Jelentős mezőgazdasági központ.", "A Kura és az Arax folyók szelik át."],
       ro: ["Mare centru agricol.", "Traversată de râurile Kura și Aras."],
       en: ["Major agricultural center.", "Flowed through by the Kura and Aras rivers."]
-    }
-  },
+    }, image: "/poi-images/kura-aras-lowland-relief-v2.webp"},
   {
     id: "gobustan-desert-relief-v2",
     type: "desert",
@@ -151,8 +145,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Száraz félsivatagi éghajlat.", "Sziklarajzokról és iszapvulkánokról ismert."],
       ro: ["Climat arid de semideșert.", "Cunoscut pentru petroglife și vulcani noroioși."],
       en: ["Arid semi-desert climate.", "Known for petroglyphs and mud volcanoes."]
-    }
-  },
+    }, image: "/poi-images/gobustan-desert-relief-v2.webp"},
   {
     id: "absheron-peninsula-relief-v2",
     type: "coast",
@@ -170,8 +163,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Kőolaj- és földgázkészletekben gazdag.", "Itt található a főváros, Baku."],
       ro: ["Bogată în zăcăminte de petrol și gaze naturale.", "Aici se află capitala, Baku."],
       en: ["Rich in oil and natural gas deposits.", "The capital Baku is located here."]
-    }
-  },
+    }, image: "/poi-images/absheron-peninsula-relief-v2.webp"},
   {
     id: "karabakh-plateau-relief-v2",
     type: "plateau",
@@ -189,8 +181,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Vulkanikus eredetű.", "Magassága 2000 és 3000 méter között mozog."],
       ro: ["De origine vulcanică.", "Altitudini cuprinse între 2000 și 3000 de metri."],
       en: ["Of volcanic origin.", "Elevations between 2000 and 3000 meters."]
-    }
-  },
+    }, image: "/poi-images/karabakh-plateau-relief-v2.webp"},
   {
     id: "mount-kapaz-relief-v2",
     type: "mountain",
@@ -208,8 +199,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["3066 méter magas.", "Okozta a Göygöl-tó kialakulását."],
       ro: ["Altitudine de 3066 de metri.", "A cauzat formarea Lacului Göygöl."],
       en: ["Elevation of 3066 meters.", "Caused the formation of Lake Göygöl."]
-    }
-  },
+    }, image: "/poi-images/mount-kapaz-relief-v2.webp"},
   {
     id: "zangezur-mountains-relief-v2",
     type: "mountain",
@@ -227,8 +217,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Határhegység Azerbajdzsán és Örményország között.", "Legmagasabb pontja a Qapıcıq."],
       ro: ["Munți de graniță între Azerbaidjan și Armenia.", "Cel mai înalt vârf este Qapijiq."],
       en: ["Border mountains between Azerbaijan and Armenia.", "Highest peak is Mount Kapudzhukh."]
-    }
-  },
+    }, image: "/poi-images/zangezur-mountains-relief-v2.webp"},
   {
     id: "murovdag-mountain-relief-v2",
     type: "mountain",
@@ -246,8 +235,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Legmagasabb csúcsa a Gamish (3724 m).", "A Kis-Kaukázus központi része."],
       ro: ["Cel mai înalt vârf este Gamish (3724 m).", "Partea centrală a Caucazului Mic."],
       en: ["Highest peak is Mount Gamish (3724 m).", "Central part of the Lesser Caucasus."]
-    }
-  },
+    }, image: "/poi-images/murovdag-mountain-relief-v2.webp"},
   {
     id: "kura-valley-relief-v2",
     type: "valley",
@@ -265,8 +253,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Az ország fontos vízi útvonala.", "A mezőgazdasági termelés központja."],
       ro: ["O importantă arteră de apă a țării.", "Centru pentru producția agricolă."],
       en: ["Important waterway of the country.", "Center for agricultural production."]
-    }
-  },
+    }, image: "/poi-images/kura-valley-relief-v2.webp"},
   {
     id: "shirvan-steppe-relief-v2",
     type: "desert",
@@ -284,8 +271,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["A Sirváni Nemzeti Parkról ismert.", "Sok gazella otthona."],
       ro: ["Cunoscută pentru Parcul Național Șirvan.", "Găzduiește multe gazele."],
       en: ["Known for the Shirvan National Park.", "Home to many gazelles."]
-    }
-  },
+    }, image: "/poi-images/shirvan-steppe-relief-v2.webp"},
   {
     id: "mil-steppe-relief-v2",
     type: "desert",
@@ -303,8 +289,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Intenzíven öntözik.", "A gyapottermesztés központja."],
       ro: ["Este irigată intens.", "Centru al cultivării bumbacului."],
       en: ["Intensively irrigated.", "Center of cotton cultivation."]
-    }
-  },
+    }, image: "/poi-images/mil-steppe-relief-v2.webp"},
   {
     id: "mughan-steppe-relief-v2",
     type: "desert",
@@ -322,8 +307,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Történelmi régió.", "Az iráni határon fekszik."],
       ro: ["Regiune istorică.", "Se învecinează cu granița iraniană."],
       en: ["Historical region.", "Borders the Iranian frontier."]
-    }
-  },
+    }, image: "/poi-images/mughan-steppe-relief-v2.webp"},
   {
     id: "beshbarmag-mountain-relief-v2",
     type: "mountain",
@@ -341,8 +325,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["382 méter magas.", "Sok helyi számára szent hely."],
       ro: ["382 de metri înălțime.", "Loc sacru pentru mulți localnici."],
       en: ["382 meters high.", "Sacred site for many locals."]
-    }
-  },
+    }, image: "/poi-images/beshbarmag-mountain-relief-v2.webp"},
   {
     id: "nabran-coast-relief-v2",
     type: "coast",
@@ -360,8 +343,7 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       hu: ["Népszerű üdülőövezet.", "Az erdők és a strandok itt találkoznak."],
       ro: ["Zonă populară de recreere.", "Pădurile și plajele se întâlnesc aici."],
       en: ["Popular recreation area.", "Forests and beaches meet here."]
-    }
-  },
+    }, image: "/poi-images/nabran-coast-relief-v2.webp"},
   {
     id: "goyazan-mountain-relief-v2",
     type: "mountain",

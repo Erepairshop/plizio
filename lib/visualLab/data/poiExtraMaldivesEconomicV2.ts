@@ -13,8 +13,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["A nemzetközi áruforgalom legfontosabb kapuja.", "A Maldives Ports Limited üzemelteti."],
       ro: ["Cea mai importantă poartă pentru mărfurile internaționale.", "Operat de Maldives Ports Limited."],
       en: ["Most important gateway for international cargo.", "Operated by Maldives Ports Limited."]
-    }
-  },
+    }, image: "/poi-images/male-commercial-harbour-economic-v2.webp"},
   {
     id: "mifco-felivaru-economic-v2",
     type: "industry",
@@ -27,8 +26,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Tonhalkonzerveket gyárt exportra.", "Az 1970-es években alapították."],
       ro: ["Produce conserve de ton pentru export.", "Înființată în anii 1970."],
       en: ["Produces canned tuna for export.", "Established in the 1970s."]
-    }
-  },
+    }, image: "/poi-images/mifco-felivaru-economic-v2.webp"},
   {
     id: "hulhumale-power-station-economic-v2",
     type: "energy",
@@ -41,8 +39,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Új dízelgenerátorokkal bővítették.", "A Nagy-Malé régió hálózatának része."],
       ro: ["Extinsă cu noi generatoare diesel.", "Parte a rețelei regiunii Greater Malé."],
       en: ["Expanded with new diesel generators.", "Part of the Greater Malé region grid."]
-    }
-  },
+    }, image: "/poi-images/hulhumale-power-station-economic-v2.webp"},
   {
     id: "thilafushi-industrial-zone-economic-v2",
     type: "industry",
@@ -55,8 +52,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Eredetileg szeméttelepként hozták létre.", "Cementcsomagoló és hajóépítő üzemek is találhatók itt."],
       ro: ["Inițial a fost creată ca o groapă de gunoi.", "Găzduiește ambalarea cimentului și construcția de bărci."],
       en: ["Originally created as a landfill site.", "Hosts cement packing and boat building facilities."]
-    }
-  },
+    }, image: "/poi-images/thilafushi-industrial-zone-economic-v2.webp"},
   {
     id: "kooddoo-fish-processing-economic-v2",
     type: "industry",
@@ -83,8 +79,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["A főváros legnagyobb áramtermelője.", "Nagy dízelgenerátorokat használ."],
       ro: ["Cel mai mare producător de energie din capitală.", "Folosește generatoare diesel mari."],
       en: ["Largest power producer in the capital.", "Uses large diesel generators."]
-    }
-  },
+    }, image: "/poi-images/stelco-male-power-plant-economic-v2.webp"},
   {
     id: "maldives-inflight-catering-economic-v2",
     type: "industry",
@@ -111,8 +106,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["A Horizon Fisheries üzemelteti.", "Hallisztet is gyártanak itt."],
       ro: ["Operat de Horizon Fisheries.", "Produce și făină de pește."],
       en: ["Operated by Horizon Fisheries.", "Also produces fishmeal."]
-    }
-  },
+    }, image: "/poi-images/maandhoo-fisheries-complex-economic-v2.webp"},
   {
     id: "gan-airport-port-economic-v2",
     type: "port",
@@ -125,8 +119,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["A legdélibb atollon található.", "Fontos a déli üdülőhelyek logisztikája szempontjából."],
       ro: ["Situat în cel mai sudic atol.", "Important pentru logistica stațiunilor din sud."],
       en: ["Located in the southernmost atoll.", "Important for the logistics of southern resorts."]
-    }
-  },
+    }, image: "/poi-images/gan-airport-port-economic-v2.webp"},
   {
     id: "addu-city-fisheries-economic-v2",
     type: "industry",
@@ -139,8 +132,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Növeli a helyi fogás hozzáadott értékét.", "Fontos munkahelyeket teremt délen."],
       ro: ["Crește valoarea adăugată a capturilor locale.", "Creează locuri de muncă importante în sud."],
       en: ["Increases the value added of local catch.", "Creates important jobs in the south."]
-    }
-  },
+    }, image: "/poi-images/addu-city-fisheries-economic-v2.webp"},
   {
     id: "sto-trade-center-male-economic-v2",
     type: "trade-hub",
@@ -153,8 +145,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Az import jelentős részét ellenőrzi.", "Itt található az ország legnagyobb szupermarkete."],
       ro: ["Controlează o mare parte a importurilor.", "Include cel mai mare supermarket din țară."],
       en: ["Controls a large part of imports.", "Includes the country's largest supermarket."]
-    }
-  },
+    }, image: "/poi-images/sto-trade-center-male-economic-v2.webp"},
   {
     id: "hulhumale-yacht-marina-economic-v2",
     type: "port",
@@ -167,8 +158,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Több mint 300 hajó számára kínál kikötőhelyet.", "Jachtkarbantartó létesítményekkel is rendelkezik."],
       ro: ["Oferă dane pentru peste 300 de bărci.", "Dispune de facilități de întreținere pentru iahturi."],
       en: ["Offers berths for over 300 boats.", "Has maintenance facilities for yachts."]
-    }
-  },
+    }, image: "/poi-images/hulhumale-yacht-marina-economic-v2.webp"},
   {
     id: "horizon-fisheries-processing-economic-v2",
     type: "industry",
@@ -181,8 +171,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Európába és Ázsiába is exportál.", "Támogatja az MSC-tanúsítvánnyal rendelkező halászatot."],
       ro: ["Exportă în Europa și Asia.", "Promovează pescuitul certificat MSC."],
       en: ["Exports to Europe and Asia.", "Promotes MSC-certified fishing."]
-    }
-  },
+    }, image: "/poi-images/horizon-fisheries-processing-economic-v2.webp"},
   {
     id: "male-fish-market-economic-v2",
     type: "trade-hub",
@@ -195,8 +184,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["A sárgaúszójú tonhal kereskedelmi központja.", "Naponta több száz tranzakció zajlik itt."],
       ro: ["Centru comercial pentru tonul cu aripioare galbene.", "Sute de tranzacții în fiecare zi."],
       en: ["Trading hub for yellowfin tuna.", "Hundreds of transactions daily."]
-    }
-  },
+    }, image: "/poi-images/male-fish-market-economic-v2.webp"},
   {
     id: "dhiffushi-solar-power-economic-v2",
     type: "energy",
@@ -223,8 +211,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Összeköti az atollokat a fővárossal.", "Mezőgazdasági termékek átrakóhelye."],
       ro: ["Conectează atolii cu capitala.", "Punct de transfer pentru produsele agricole."],
       en: ["Connects the atolls with the capital.", "Transfer point for agricultural goods."]
-    }
-  },
+    }, image: "/poi-images/kadhdhoo-regional-port-economic-v2.webp"},
   {
     id: "fenaka-thinadhoo-power-economic-v2",
     type: "energy",
@@ -237,8 +224,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Nemrégiben új generátorokkal modernizálták.", "Több mint tízezer lakost lát el árammal."],
       ro: ["Recent modernizată cu noi generatoare.", "Furnizează energie pentru peste zece mii de locuitori."],
       en: ["Recently modernized with new generators.", "Provides power for over ten thousand residents."]
-    }
-  },
+    }, image: "/poi-images/fenaka-thinadhoo-power-economic-v2.webp"},
   {
     id: "ensis-fisheries-processing-economic-v2",
     type: "industry",
@@ -251,8 +237,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Az ország egyik legnagyobb halexportőre.", "Saját hűtőkocsi-flottával rendelkezik."],
       ro: ["Unul dintre cei mai mari exportatori de pește din țară.", "Are propria flotă de vehicule frigorifice."],
       en: ["One of the country's largest fish exporters.", "Owns its own fleet of refrigerated vehicles."]
-    }
-  },
+    }, image: "/poi-images/ensis-fisheries-processing-economic-v2.webp"},
   {
     id: "kulhudhuffushi-regional-port-economic-v2",
     type: "port",
@@ -265,8 +250,7 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       hu: ["Csökkenti az északi területek szállítási költségeit.", "Folyamatosan bővítik a kapacitását."],
       ro: ["Reduce costurile de transport pentru nord.", "Capacitatea sa este extinsă continuu."],
       en: ["Reduces transportation costs for the north.", "Its capacity is continuously being expanded."]
-    }
-  },
+    }, image: "/poi-images/kulhudhuffushi-regional-port-economic-v2.webp"},
   {
     id: "thilafushi-boat-building-economic-v2",
     type: "industry",

@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gikizi-relief-v2",
+      "description": "Gikizi bezeichnet eine lokale Erhebung in Burundis Hügelland. Die Gegend ist von kleinen Feldern und verstreuten Siedlungen geprägt.",
+      "facts": ["Hügelland", "ländlich", "kleine Felder"]
+    },
+    {
+      "id": "musongati-relief-v2",
+      "description": "Musongati liegt in einer welligen Landschaft im Osten Burundis. Das Relief bildet den Rahmen für Landwirtschaft und Bergbau.",
+      "facts": ["Osten", "wellige Höhen", "Bergbauregion"]
+    },
+    {
+      "id": "gishora-relief-v2",
+      "description": "Gishora liegt auf einer Höhe im Zentrum Burundis und ist von sanften Hügeln umgeben. Die Topografie macht den Ort zu einem typischen Hochlandstandort.",
+      "facts": ["Zentralburundi", "Hochland", "sanfte Hügel"]
+    },
+    {
+      "id": "teza-relief-v2",
+      "description": "Teza liegt im kühlen Hochland von Muramvya. Die Umgebung ist hügelig und für Teeplantagen gut geeignet.",
+      "facts": ["Muramvya", "Hochland", "Teezone"]
+    },
+    {
+      "id": "songa-relief-v2",
+      "description": "Songa gehört zu den hügeligen Orten im Süden Burundis. Die Landschaft ist stark landwirtschaftlich genutzt.",
+      "facts": ["Süden", "Hügelland", "Ackerbau"]
+    },
+    {
+      "id": "karonje-relief-v2",
+      "description": "Karonje ist eine kleine Reliefzone in einer ländlichen Region Burundis. Die Fläche wird vor allem von Feldern und Wegen durchzogen.",
+      "facts": ["ländlich", "Reliefpunkt", "Felder"]
+    },
+    {
+      "id": "cene-relief-v2",
+      "description": "Cene ist eine lokale Erhebung im zentralen Burundi. Das Gebiet ist Teil des typischen burundischen Hügellands.",
+      "facts": ["Zentralburundi", "Hügel", "ländliches Umfeld"]
+    },
+    {
+      "id": "birira-relief-v2",
+      "description": "Birira liegt in einem von Hügeln geprägten Teil des Landes. Die Höhenzüge strukturieren dort die Siedlungen und den Ackerbau.",
+      "facts": ["Höhenzüge", "Ackerbau", "Dorfregion"]
+    },
+    {
+      "id": "nkoma-relief-v2",
+      "description": "Nkoma gehört zu den kleineren Reliefpunkten Burundis. Die Umgebung ist hügelig und von landwirtschaftlicher Nutzung geprägt.",
+      "facts": ["kleine Erhebung", "Hügelland", "Landwirtschaft"]
+    },
+    {
+      "id": "mikuba-relief-v2",
+      "description": "Mikuba ist eine lokale Erhebung im burundischen Binnenhochland. Sie fügt sich in die vielen Hügel und Täler des Landes ein.",
+      "facts": ["Binnenhochland", "Täler", "Relief"]
+    }
+  ]
+}

@@ -18,7 +18,20 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Altitudine de 744 metri", "Cel mai înalt punct din São Vicente", "Situat în partea de nord-est a insulei", "Rezervație naturală protejată", "Ecosistem montan arid", "Panoramă asupra orașului Mindelo"]
-    }, image: "/poi-images/monte-verde-relief-v2.webp"},
+    }, image: "/poi-images/monte-verde-relief-v2.webp",
+    description: {
+      de: "Monte Verde ist der höchste Berg auf São Vicente. Von hier reicht der Blick weit über Mindelo und die Atlantikküste.",
+      hu: "Monte Verde São Vicente legmagasabb pontja. A csúcsról jól látszik Mindelo és az Atlanti-óceán partvonala.",
+      ro: "Monte Verde este cel mai înalt punct al insulei São Vicente. Se află la est de Mindelo și domină partea nordică a insulei.",
+      en: "Monte Verde is the highest point on Sao Vicente and rises above the eastern side of the island. It is a clear landmark for views over Mindelo and the Atlantic coast."
+    },
+    facts: {
+      de: ["744 Meter hoch", "höchster Punkt von São Vicente", "bei Mindelo"],
+      hu: ["744 méter magas", "São Vicente legmagasabb pontja", "Mindelo fölött áll", "kilátás a tengerre"],
+      ro: ["São Vicente", "aprox. 774 m", "cel mai înalt vârf al insulei"],
+      en: ["Highest point on Sao Vicente", "744 m above sea level", "East of Mindelo"]
+    }
+  },
   {
     id: "cova-de-paul-relief-v2",
     type: "relief",
@@ -35,6 +48,18 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Crater vulcanic antic", "Situat pe insula Santo Antão", "Zonă agricolă fertilă", "Culturi de cafea și trestie de zahăr", "Microclimat montan umed", "Altitudine variabilă a craterului"]
+    },
+    description: {
+      de: "Die Cova de Paúl ist ein vulkanischer Krater auf Santo Antão. Im Inneren liegt ein fruchtbares Tal mit Feldern und Plantagen.",
+      hu: "A Cova de Paúl Santo Antão vulkáni krátere, amely termékeny völggyé alakult. A hegyek között kialakult mikroklíma a földművelést is segíti.",
+      ro: "Cova de Paúl este o caldeiră vulcanică din Santo Antão, la capătul traseului spre Vale do Paúl. Relieful ei marchează una dintre cele mai cunoscute zone de drumeție din Capul Verde.",
+      en: "Cova de Paul is a volcanic crater on Santo Antao that opens into one of the island's best-known green valleys. Its sheltered shape helps create a cooler microclimate for farming and hiking."
+    },
+    facts: {
+      de: ["Krater auf Santo Antão", "fruchtbarer Talboden", "Landwirtschaftsgebiet"],
+      hu: ["vulkáni kráter", "Santo Antão szigetén", "termékeny völgy", "kávé és cukornád is terem"],
+      ro: ["Santo Antão", "caldeiră vulcanică", "startul traseului Cova–Paúl"],
+      en: ["Volcanic crater on Santo Antao", "Leads toward the Paul Valley", "Known for fertile ground"]
     }
   },
   {
@@ -53,7 +78,20 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Marginea calderei vulcanului Fogo", "Înconjoară Pico do Fogo", "Structură geologică vulcanică", "Sol fertil de origine vulcanică", "Înălțime medie de 1600 metri", "Parte a parcului natural Fogo"]
-    }, image: "/poi-images/bordeira-do-fogo-relief-v2.webp"},
+    }, image: "/poi-images/bordeira-do-fogo-relief-v2.webp",
+    description: {
+      de: "Die Bordeira do Fogo bildet den Kraterrand des Pico do Fogo. Das Relief prägt die Caldera und die Siedlungen im Inneren.",
+      hu: "A Bordeira do Fogo a Pico do Fogo kalderájának pereme. A meredek falak a vulkáni tájat és a Cha das Caldeiras környékét határozzák meg.",
+      ro: "Bordeira este marginea uriașei caldere din centrul insulei Fogo. Pereții ei abrupți înconjoară Chã das Caldeiras și protejează zona de scurgerile de lavă.",
+      en: "Bordeira do Fogo is the great crater rim that frames Pico do Fogo. It forms one of the most dramatic volcanic landscapes on the island of Fogo."
+    },
+    facts: {
+      de: ["am Pico do Fogo", "Kraterrand der Caldera", "vulkanische Landschaft"],
+      hu: ["a Pico do Fogo pereme", "kaldera perem", "vulkáni táj", "Cha das Caldeiras határa"],
+      ro: ["Fogo", "perete de calderă", "în jurul Chã das Caldeiras"],
+      en: ["Crater rim on Fogo", "Surrounds Pico do Fogo", "Overlooks Chã das Caldeiras"]
+    }
+  },
   {
     id: "monte-trigo-relief-v2",
     type: "mountain",
@@ -70,7 +108,20 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situat în vestul insulei Santo Antão", "Relief stâncos și abrupt", "Acces dificil pe uscat", "Apropiere directă de ocean", "Zonă cu ecosistem arid", "Punct de reper pentru pescari"]
-    }, image: "/poi-images/monte-trigo-relief-v2.webp"},
+    }, image: "/poi-images/monte-trigo-relief-v2.webp",
+    description: {
+      de: "Monte Trigo liegt im Westen von Santo Antão nahe einem abgelegenen Fischerdorf. Die steilen Hänge treffen dort direkt auf den Atlantik.",
+      hu: "Monte Trigo Santo Antão nyugati, meredek partvidékének jellegzetes hegye. Egy elszigetelt halászfalu fölé magasodik közvetlenül az óceán mellett.",
+      ro: "Monte Trigo este o așezare de pe coasta vestică a insulei Santo Antão, la poalele lui Tope de Coroa. Zona este izolată și deservită de relieful vulcanic al extremității vestice.",
+      en: "Monte Trigo marks the remote western edge of Santo Antao near the Atlantic coast. The area sits by the foot of Tope de Coroa and is linked to the island's hiking routes."
+    },
+    facts: {
+      de: ["im Westen von Santo Antão", "abgelegene Lage", "steile Küste"],
+      hu: ["Santo Antão nyugati részén", "meredek part", "elszigetelt fekvés", "az óceán mellett áll"],
+      ro: ["Santo Antão", "la poalele lui Tope de Coroa", "vestul extrem al insulei"],
+      en: ["Western Santo Antao", "Near Tope de Coroa", "Close to Tarrafal de Monte Trigo"]
+    }
+  },
   {
     id: "monte-grande-sal-relief-v2",
     type: "mountain",
@@ -87,7 +138,20 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Cel mai înalt punct din insula Sal", "Altitudine de aproximativ 406 metri", "Peisaj arid și deșertic", "Punct de orientare istoric", "Geologie bazaltică", "Vizibilitate asupra întregii insule"]
-    }, image: "/poi-images/monte-grande-sal-relief-v2.webp"},
+    }, image: "/poi-images/monte-grande-sal-relief-v2.webp",
+    description: {
+      de: "Monte Grande ist der höchste Punkt der Insel Sal. Der Hügel hebt sich deutlich aus der sonst flachen, trockenen Landschaft.",
+      hu: "Monte Grande Sal legmagasabb pontja, bár csak közepes magaslat. A sziget sík, száraz tájából mégis jól kiemelkedik.",
+      ro: "Monte Grande este cel mai înalt punct al insulei Sal. Se află în nordul insulei, într-un relief altfel foarte plat.",
+      en: "Monte Grande is the highest point on Sal and stands out on an otherwise flat island. It rises north of Espargos and is part of Sal's protected landscape."
+    },
+    facts: {
+      de: ["höchster Punkt von Sal", "trockenes Relief", "markanter Hügel"],
+      hu: ["Sal legmagasabb pontja", "kb. 406 méter", "száraz, sík környezet", "tájékozódási pont"],
+      ro: ["Sal", "aprox. 406 m", "cel mai înalt punct al insulei"],
+      en: ["Highest point on Sal", "About 406 m high", "North of Espargos"]
+    }
+  },
   {
     id: "monte-penoso-relief-v2",
     type: "mountain",
@@ -104,7 +168,20 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situat pe insula Maio", "Altitudine de 436 metri", "Formațiuni de rocă sedimentară", "Peisaj arid și platouri", "Ecosistem adaptat la secetă", "Importanță geologică locală"]
-    }, image: "/poi-images/monte-penoso-relief-v2.webp"},
+    }, image: "/poi-images/monte-penoso-relief-v2.webp",
+    description: {
+      de: "Monte Penoso liegt auf der Insel Maio. Er gehört zu den markanten Erhebungen in einer sonst flachen und trockenen Landschaft.",
+      hu: "Monte Penoso Maio egyik kiemelkedő magaslata a száraz szigeti tájban. A környékről a fennsíkok és a part is belátható.",
+      ro: "Monte Penoso este punctul cel mai înalt al insulei Maio. Muntele face parte dintr-un peisaj protejat și domină insula joasă și aridă.",
+      en: "Monte Penoso is the highest point on Maio and rises above the island's low, open terrain. The mountain belongs to the protected landscape on the eastern side of the island."
+    },
+    facts: {
+      de: ["auf Maio", "arides Relief", "markante Erhebung"],
+      hu: ["Maio szigetén van", "kb. 436 méter", "száraz, köves domborzat", "helyi geológiai pont"],
+      ro: ["Maio", "436 m", "cel mai înalt punct al insulei"],
+      en: ["Highest point on Maio", "436 m above sea level", "Eastern part of the island"]
+    }
+  },
   {
     id: "monte-batalha-relief-v2",
     type: "mountain",
@@ -121,7 +198,20 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situat pe insula Santiago", "Altitudine de 550 metri", "Formațiuni de bazalt", "Topografie accidentată", "Utilizare pentru pășunat", "Punct de observație geologică"]
-    }, image: "/poi-images/monte-batalha-relief-v2.webp"},
+    }, image: "/poi-images/monte-batalha-relief-v2.webp",
+    description: {
+      de: "Monte Batalha ist eine Bergformation auf Santiago. Er gehört zum vulkanischen Relief im Inselinneren.",
+      hu: "Monte Batalha Santiago középső részének vulkanikus hegye. A környéken kisebb legelők és művelt parcellák is megjelennek.",
+      ro: "Monte Batalha se află pe insula Maio, în apropiere de Calheta și Porto Inglês. Este unul dintre vârfurile care marchează relieful interior al insulei.",
+      en: "Monte Batalha is a mountain on Maio with views across the island's southern side. It is one of the smaller but named high points in the island's landscape."
+    },
+    facts: {
+      de: ["auf Santiago", "vulkanischer Ursprung", "Teil des Inselinneren"],
+      hu: ["Santiago szigetén", "vulkanikus eredetű", "kb. 550 méter", "tagolt hegyvidéki terep"],
+      ro: ["Maio", "aprox. 294 m", "aproape de Calheta"],
+      en: ["Mountain on Maio", "294 m high", "Near Calheta and Porto Inglês"]
+    }
+  },
   {
     id: "monte-sobrado-relief-v2",
     type: "mountain",
@@ -138,6 +228,18 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situat pe insula Sal", "Altitudine de aproximativ 300 metri", "Peisaj vulcanic arid", "Contrast cu plajele din Sal", "Geologie bazaltică erodată", "Zonă pentru drumeții montane"]
+    },
+    description: {
+      de: "Monte Sobrado liegt auf Sal und gehört zu den auffälligen Erhebungen der Insel. Das Umfeld ist trocken und stark erodiert.",
+      hu: "Monte Sobrado Sal száraz, erodált belső részének egyik markáns magaslata. Jól mutatja a sziget vulkáni eredetét.",
+      ro: "Monte Sobrado este un vârf din sudul insulei Fogo. Se ridică deasupra zonei Santa Catarina do Fogo și a satelor din jur.",
+      en: "Monte Sobrado rises in the volcanic highlands of Fogo. It is one of the island's prominent peaks in the Santa Catarina do Fogo area."
+    },
+    facts: {
+      de: ["auf Sal", "aride Landschaft", "erodiertes Vulkangestein"],
+      hu: ["Sal szigetén van", "száraz, erodált táj", "vulkáni kőzet", "kisebb magaslat"],
+      ro: ["Fogo", "aprox. 1.743 m", "în Santa Catarina do Fogo"],
+      en: ["Mountain on Fogo", "1,743 m high", "In Santa Catarina do Fogo"]
     }
   },
   {
@@ -156,7 +258,20 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situat pe insula Brava", "Altitudine de 600 metri", "Vegetație bogată și verdeață", "Topografie abruptă", "Climat temperat și umed", "Priveliște asupra coastei oceanice"]
-    }, image: "/poi-images/monte-duarte-relief-v2.webp"},
+    }, image: "/poi-images/monte-duarte-relief-v2.webp",
+    description: {
+      de: "Monte Duarte ist eine markante Erhebung auf Brava. Er bietet einen Blick über die grüne Insel und ihre steilen Küsten.",
+      hu: "Monte Duarte Brava egyik jellegzetes csúcsa. A zöldebb, párásabb sziget meredek partjai fölé magasodik.",
+      ro: "Monte Duarte este un vârf din Fogo, în partea sud-centrală a insulei. Relieful său vulcanic face parte din zona montană care structurează insula.",
+      en: "Monte Duarte is a high volcanic mountain on Fogo. It belongs to the rugged interior of the island and adds to the steep relief around Santa Catarina do Fogo."
+    },
+    facts: {
+      de: ["auf Brava", "höhere Berglage", "steile Küstenhänge"],
+      hu: ["Brava szigetén", "kb. 600 méter", "zöld, párás környezet", "meredek tengerpart"],
+      ro: ["Fogo", "aprox. 1.772 m", "în zona Santa Catarina do Fogo"],
+      en: ["Mountain on Fogo", "About 1,772 m high", "Part of the island's volcanic interior"]
+    }
+  },
   {
     id: "pico-da-antonia-relief-v2",
     type: "mountain",
@@ -173,7 +288,20 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Cel mai înalt punct din Santiago", "Altitudine de 1394 metri", "Centru hidrologic al insulei", "Zonă protejată cu specii endemice", "Traseu popular de drumeții", "Vizibilitate asupra insulei Santiago"]
-    }, image: "/poi-images/pico-da-antonia-relief-v2.webp"},
+    }, image: "/poi-images/pico-da-antonia-relief-v2.webp",
+    description: {
+      de: "Pico da Antónia ist der höchste Berg auf Santiago. Der Gipfel prägt das zentrale Bergland der Insel deutlich.",
+      hu: "Pico da Antónia Santiago legmagasabb hegye 1394 méterrel. Fontos vízgyűjtő és túrahely a sziget középső részén.",
+      ro: "Pico de Antónia este cel mai înalt munte al insulei Santiago. Vârful se află în centrul insulei și este un reper important al reliefului local.",
+      en: "Pico da Antonia is the highest mountain on Santiago and a major landmark in the island's central highlands. Its slopes shape much of the surrounding relief."
+    },
+    facts: {
+      de: ["1.394 Meter hoch", "höchster Punkt von Santiago", "zentrales Bergland"],
+      hu: ["1394 méter magas", "Santiago legmagasabb pontja", "központi hegyvidék", "vízgyűjtő terület"],
+      ro: ["Santiago", "1.394 m", "cel mai înalt punct al insulei"],
+      en: ["Highest point on Santiago", "About 1,394 m high", "Central mountain massif"]
+    }
+  },
   {
     id: "monte-tchota-relief-v2",
     type: "mountain",

@@ -30,8 +30,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/qargha-reservoir-landmarks-v2.webp"},
   {
     id: "national-museum-afghanistan-landmarks-v2",
     type: "tourist-attraction",
@@ -61,8 +60,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/national-museum-afghanistan-landmarks-v2.webp"},
   {
     id: "band-e-amir-park-landmarks-v2",
     type: "tourist-attraction",
@@ -92,8 +90,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/band-e-amir-park-landmarks-v2.webp"},
   {
     id: "bagh-e-bala-palace-landmarks-v2",
     type: "landmark",
@@ -123,8 +120,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/bagh-e-bala-palace-landmarks-v2.webp"},
   {
     id: "salang-pass-landmarks-v2",
     type: "landmark",
@@ -154,8 +150,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/salang-pass-landmarks-v2.webp"},
   {
     id: "wazir-akbar-khan-mosque-landmarks-v2",
     type: "landmark",
@@ -216,8 +211,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/abdul-rahman-mosque-landmarks-v2.webp"},
   {
     id: "id-gah-mosque-landmarks-v2",
     type: "landmark",
@@ -247,8 +241,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/id-gah-mosque-landmarks-v2.webp"},
   {
     id: "pul-e-khishti-mosque-landmarks-v2",
     type: "landmark",
@@ -278,8 +271,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/pul-e-khishti-mosque-landmarks-v2.webp"},
   {
     id: "shah-do-shamshira-landmarks-v2",
     type: "landmark",
@@ -309,8 +301,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/shah-do-shamshira-landmarks-v2.webp"},
   {
     id: "tv-hill-landmarks-v2",
     type: "landmark",
@@ -371,8 +362,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/chihil-sutun-palace-landmarks-v2.webp"},
   {
     id: "tajbeg-palace-landmarks-v2",
     type: "landmark",
@@ -402,8 +392,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tajbeg-palace-landmarks-v2.webp"},
   {
     id: "arg-presidential-palace-landmarks-v2",
     type: "landmark",
@@ -433,8 +422,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/arg-presidential-palace-landmarks-v2.webp"},
   {
     id: "kabul-zoo-landmarks-v2",
     type: "tourist-attraction",
@@ -464,8 +452,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/kabul-zoo-landmarks-v2.webp"},
   {
     id: "khost-great-mosque-landmarks-v2",
     type: "landmark",
@@ -495,8 +482,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/khost-great-mosque-landmarks-v2.webp"},
   {
     id: "minaret-of-chakari-landmarks-v2",
     type: "monument",
@@ -526,8 +512,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/minaret-of-chakari-landmarks-v2.webp"},
   {
     id: "omar-mine-museum-landmarks-v2",
     type: "tourist-attraction",
@@ -557,8 +542,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/omar-mine-museum-landmarks-v2.webp"},
   {
     id: "paghman-gardens-landmarks-v2",
     type: "tourist-attraction",
@@ -588,8 +572,7 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/paghman-gardens-landmarks-v2.webp"},
   {
     id: "darunta-dam-landmarks-v2",
     type: "landmark",

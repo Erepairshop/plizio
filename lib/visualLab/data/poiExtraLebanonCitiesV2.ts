@@ -36,8 +36,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt seit der Staatsgründung 1943", "Erste schriftliche Erwähnung im 15. Jahrhundert v. Chr. (Amarna-Briefe)", "Berühmte römische Rechtsschule ab dem 3. Jahrhundert n. Chr.", "Französisches Mandat 1920 bis 1943", "Bürgerkrieg von 1975 bis 1990 zerstörte das Stadtzentrum", "Hafenexplosion am 4. August 2020 mit über 220 Toten", "Internationaler Flughafen Rafic Hariri seit 1954 in Betrieb", "Metropolregion mit etwa 2,4 Millionen Einwohnern"]
-    }
-  },
+    }, image: "/poi-images/beirut-cities-v2.webp"},
   {
     id: "tripoli-cities-v2",
     type: "city",
@@ -73,8 +72,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Zweitgrößte Stadt Libanons mit etwa 230.000 Einwohnern", "Phönizische Gründung im 8. Jahrhundert v. Chr.", "Hauptstadt der Kreuzfahrer-Grafschaft Tripolis 1109 bis 1289", "Mamlukische Herrschaft von 1289 bis 1516", "Über 100 mamlukische Bauwerke im historischen Zentrum", "Zitadelle Raymond de Saint-Gilles ab 1103 erbaut", "Endpunkt der Erdölpipeline aus Kirkuk während des Mandats", "Berühmt für Süßigkeiten wie Halawet El Jibn"]
-    }
-  },
+    }, image: "/poi-images/tripoli-cities-v2.webp"},
   {
     id: "sidon-cities-v2",
     type: "city",
@@ -110,8 +108,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 80.000 Einwohner, drittgrößte Stadt Libanons", "Durchgehende Besiedlung seit rund 4000 v. Chr.", "Phönizisches Zentrum der Purpurfarben-Produktion", "Seefestung der Kreuzritter ab 1228 erbaut", "Khan El Franj aus dem 17. Jahrhundert als Karawanserei", "Geburtsort des Premierministers Rafic Hariri (1944)", "Verwaltungssitz unter dem französischen Mandat", "Tempel des Eshmun aus dem 7. Jahrhundert v. Chr. in der Nähe"]
-    }
-  },
+    }, image: "/poi-images/sidon-cities-v2.webp"},
   {
     id: "tyre-cities-v2",
     type: "city",
@@ -147,8 +144,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 60.000 Einwohner, 80 Kilometer südlich von Beirut", "Phönizische Gründung um 2750 v. Chr.", "Mutterstadt Karthagos, gegründet 814 v. Chr.", "Eroberung durch Alexander den Großen im Jahr 332 v. Chr.", "Römisches Hippodrom mit 480 Metern Länge", "UNESCO-Weltkulturerbe seit 1984", "Geburtsort des Purpurfarben-Handels", "Drei archäologische Hauptstätten im Stadtgebiet"]
-    }
-  },
+    }, image: "/poi-images/tyre-cities-v2.webp"},
   {
     id: "byblos-cities-v2",
     type: "city",
@@ -184,8 +180,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 37 Kilometer nördlich von Beirut", "Besiedlung seit dem 7. Jahrtausend v. Chr.", "Geburtsort des phönizischen Alphabets im 11. Jahrhundert v. Chr.", "Wichtigster Papyrushandelsplatz im 3. Jahrtausend v. Chr.", "Kreuzritterburg ab 1104 erbaut", "UNESCO-Weltkulturerbe seit 1984", "Königsgräber mit dem berühmten Sarkophag des Ahiram", "Sieben aufeinanderfolgende Zivilisationsschichten erforscht"]
-    }
-  },
+    }, image: "/poi-images/byblos-cities-v2.webp"},
   {
     id: "jounieh-cities-v2",
     type: "city",
@@ -221,8 +216,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 100.000 Einwohner, 16 Kilometer nördlich von Beirut", "Phönizische Siedlung Porphyreon im Altertum", "Téléférique-Seilbahn seit 1965 in Betrieb", "Marienstatue Notre-Dame du Liban aus dem Jahr 1908", "Wirtschaftszentrum während des Bürgerkriegs 1975 bis 1990", "Casino du Liban seit 1959 geöffnet", "Halbmondförmige Bucht mit 600 Metern Höhenunterschied", "Hafenausbau unter französischem Mandat"]
-    }
-  },
+    }, image: "/poi-images/jounieh-cities-v2.webp"},
   {
     id: "baalbek-cities-v2",
     type: "city",
@@ -258,8 +252,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Im Bekaa-Tal auf 1.170 Metern Höhe", "Etwa 80.000 Einwohner", "Römischer Name Heliopolis ab 47 v. Chr.", "Jupitertempel mit ursprünglich 54 Säulen, je 22 Meter hoch", "Bacchustempel als bestes erhaltenes römisches Bauwerk", "Megalithe der Trilithon-Steine wiegen je rund 800 Tonnen", "UNESCO-Weltkulturerbe seit 1984", "Internationales Festival seit 1955 jeden Sommer"]
-    }
-  },
+    }, image: "/poi-images/baalbek-cities-v2.webp"},
   {
     id: "zahle-cities-v2",
     type: "city",
@@ -295,8 +288,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 130.000 Einwohner, größte christliche Stadt Libanons", "Hauptstadt des Gouvernements Bekaa auf 1.050 Metern Höhe", "Gründung im 18. Jahrhundert durch melkitische Christen", "Zerstörung während der drusisch-maronitischen Kämpfe 1860", "Französisches Mandat 1920 bis 1943", "Fest des Weines seit 1957 jährlich", "Zentrum des libanesischen Weinanbaus mit Bekaa-Weinen", "Restaurants entlang des Berdawni-Flusses"]
-    }
-  },
+    }, image: "/poi-images/zahle-cities-v2.webp"},
   {
     id: "nabatieh-cities-v2",
     type: "city",
@@ -332,8 +324,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 100.000 Einwohner auf 400 Metern Höhe", "Hauptstadt des Gouvernements Nabatieh", "Montagsmarkt seit der osmanischen Zeit", "Französisches Mandat 1920 bis 1943", "Frontstadt während der israelischen Besetzung 1982 bis 2000", "Berühmte schiitische Aschura-Prozessionen jeden Muharram", "Burg Beaufort der Kreuzritter aus dem 12. Jahrhundert in der Nähe", "Wichtigstes schiitisches Zentrum im Südlibanon"]
-    }
-  },
+    }, image: "/poi-images/nabatieh-cities-v2.webp"},
   {
     id: "aley-cities-v2",
     type: "city",
@@ -369,8 +360,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 130.000 Einwohner auf 800 Metern Höhe", "17 Kilometer südöstlich von Beirut", "Sommerresidenz reicher Familien seit dem 19. Jahrhundert", "Eisenbahnlinie Beirut-Damaskus seit 1895", "Französisches Mandat 1920 bis 1943", "Bergkrieg zwischen Drusen und Christen 1983 bis 1984", "Drusische Mehrheit mit gemischter Bevölkerung", "Spitzname Braut der Sommerresorts"]
-    }
-  },
+    }, image: "/poi-images/aley-cities-v2.webp"},
   {
     id: "bcharre-cities-v2",
     type: "city",
@@ -443,8 +433,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 30.000 Einwohner, 50 Kilometer nördlich von Beirut", "Phönizische Wurzeln aus dem 2. Jahrtausend v. Chr.", "225 Meter lange phönizische Seemauer", "Erdbeben im 6. Jahrhundert verursachte starke Schäden", "Mseilha-Festung der Kreuzritter ab 1104", "Osmanisches Zentrum für Olivenöl und Seide", "Berühmt für traditionelle frische Limonade", "Kirche Mar Stephan aus dem 19. Jahrhundert"]
-    }
-  },
+    }, image: "/poi-images/batroun-cities-v2.webp"},
   {
     id: "zgharta-cities-v2",
     type: "city",
@@ -480,8 +469,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 70.000 Einwohner auf 250 Metern Höhe", "8 Kilometer von Tripoli entfernt", "Eng verbunden mit dem Sommerort Ehden auf 1.450 Metern", "Hochburg der maronitischen Frangieh-Familie", "Sleiman Frangieh war Präsident von 1970 bis 1976", "Marada-Miliz im Bürgerkrieg 1975 bis 1990", "Zentrum der Olivenölproduktion", "Französisches Mandat 1920 bis 1943"]
-    }
-  },
+    }, image: "/poi-images/zgharta-cities-v2.webp"},
   {
     id: "amioun-cities-v2",
     type: "city",
@@ -517,8 +505,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 12.000 Einwohner auf 350 Metern Höhe", "Hauptstadt des Distrikts El Koura", "Name aus dem aramäischen Emun (fest)", "Kirche St. Phocas aus dem 11. Jahrhundert", "Antike Höhlenwohnungen aus römischer Zeit in den Klippen", "Wichtiges griechisch-orthodoxes Zentrum", "Französisches Mandat 1920 bis 1943", "Region berühmt für Olivenöl-Produktion"]
-    }
-  },
+    }, image: "/poi-images/amioun-cities-v2.webp"},
   {
     id: "jezzine-cities-v2",
     type: "city",
@@ -554,8 +541,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 22.000 Einwohner auf 950 Metern Höhe", "22 Kilometer östlich von Sidon", "Wasserfall mit 80 Metern Höhe", "Traditionelles Bestecksortiment mit Vogelkopf-Griffen seit dem 19. Jahrhundert", "Französisches Mandat 1920 bis 1943", "Hauptquartier der Südlibanesischen Armee 1982 bis 2000", "Maronitische Mehrheit in der Bergstadt", "Beliebte Sommerfrische seit dem 19. Jahrhundert"]
-    }
-  },
+    }, image: "/poi-images/jezzine-cities-v2.webp"},
   {
     id: "hermel-cities-v2",
     type: "city",
@@ -591,8 +577,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 30.000 Einwohner auf 700 Metern Höhe", "Im äußersten Norden des Bekaa-Tals", "Quelle des Orontes-Flusses in der Nähe", "Hermel-Pyramide aus dem 1. oder 2. Jahrhundert v. Chr.", "Pyramide 27 Meter hoch mit Jagdreliefs", "Schiitische Mehrheitsbevölkerung", "Beliebter Rafting-Ausgangspunkt", "Französisches Mandat 1920 bis 1943"]
-    }
-  },
+    }, image: "/poi-images/hermel-cities-v2.webp"},
   {
     id: "bhamdoun-cities-v2",
     type: "city",
@@ -628,8 +613,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 9.000 Einwohner auf 1.150 Metern Höhe", "25 Kilometer südöstlich von Beirut", "Eisenbahn Beirut-Damaskus seit 1895", "Sommerresidenz für Beiruter und Golfaraber", "Französisches Mandat 1920 bis 1943", "Bergkrieg 1983 verursachte schwere Zerstörungen", "Weinberge umgeben die Stadt", "Tourismus-Wiederaufbau seit den 1990er Jahren"]
-    }
-  },
+    }, image: "/poi-images/bhamdoun-cities-v2.webp"},
   {
     id: "halba-cities-v2",
     type: "city",
@@ -665,8 +649,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 23.000 Einwohner, Hauptstadt des Gouvernements Akkar", "110 Kilometer von Beirut, 28 Kilometer von Tripoli", "Gouvernement Akkar 2003 vom Nord abgespalten", "Sunnitische Mehrheit mit christlichen und alawitischen Minderheiten", "Tabakanbau seit französischem Mandat 1920 bis 1943", "Aufnahme syrischer Flüchtlinge seit 2011", "Eine der ärmsten Regionen Libanons", "Olivenhaine prägen die Landschaft"]
-    }
-  },
+    }, image: "/poi-images/halba-cities-v2.webp"},
   {
     id: "rashaya-cities-v2",
     type: "city",
@@ -702,8 +685,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 8.000 Einwohner auf 1.250 Metern Höhe", "Am Westhang des Hermon-Gebirges", "Zitadelle als französisches Mandatsgefängnis", "Inhaftierung der Politiker am 11. November 1943", "Freilassung am 22. November 1943, Tag der Unabhängigkeit", "Wiege der libanesischen Unabhängigkeit", "Architektur aus rotem Sandstein", "Drusisch-christlich gemischte Bevölkerung"]
-    }
-  },
+    }, image: "/poi-images/rashaya-cities-v2.webp"},
   {
     id: "hasbaya-cities-v2",
     type: "city",
@@ -739,8 +721,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 5.000 Einwohner auf 750 Metern Höhe", "Am Westhang des Hermon-Gebirges", "Schihab-Palast aus dem 12. Jahrhundert", "Ursprünglich Kreuzritterburg, später drusischer Palast", "Wichtiges Zentrum der drusischen Gemeinschaft", "Olivenhaine prägen die Wirtschaft", "Israelische Besetzung 1978 bis 2000 in der Nähe", "Französisches Mandat 1920 bis 1943"]
-    }
-  },
+    }, image: "/poi-images/hasbaya-cities-v2.webp"},
   {
     id: "rayak-cities-v2",
     type: "city",
@@ -776,8 +757,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 5.000 Einwohner auf 920 Metern Höhe", "60 Kilometer östlich von Beirut", "Bahnstrecke Beirut-Damaskus seit 1895", "Bahnstrecke Tripoli-Aleppo seit 1906", "Eigenständige Lokomotivenproduktion in den 1940er Jahren", "Über 1.000 Bahnarbeiter in der Blütezeit", "Französische Militärbasis seit dem Mandat 1920 bis 1943", "Bahnverkehr seit dem Bürgerkrieg eingestellt"]
-    }
-  },
+    }, image: "/poi-images/rayak-cities-v2.webp"},
   {
     id: "chtaura-cities-v2",
     type: "city",
@@ -813,8 +793,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 12.000 Einwohner auf 1.000 Metern Höhe", "45 Kilometer östlich von Beirut", "Hauptstraße Beirut-Damaskus seit französischem Mandat 1920 bis 1943", "Karawanserei-Standort seit der osmanischen Zeit", "Massabki-Milchproduktmarke seit 1850", "Berühmt für Joghurt, Labneh und Halloumi", "Strategischer Verkehrsknotenpunkt zur syrischen Grenze", "Restaurantindustrie als Wirtschaftsmotor"]
-    }
-  },
+    }, image: "/poi-images/chtaura-cities-v2.webp"},
   {
     id: "anjar-cities-v2",
     type: "city",
@@ -850,8 +829,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 2.400 mehrheitlich armenische Einwohner", "Armenische Flüchtlinge aus Mussa Dagh seit 1939", "Umayyadische Stadt gegründet im frühen 8. Jahrhundert", "Erbaut unter Kalif Walid I. (705 bis 715)", "Stadtanlage 370 mal 310 Meter mit 40 Türmen", "UNESCO-Weltkulturerbe seit 1984", "Einzigartige umayyadische Stadtanlage Libanons", "Auf 950 Metern Höhe im Bekaa-Tal"]
-    }
-  },
+    }, image: "/poi-images/anjar-cities-v2.webp"},
   {
     id: "deir-el-qamar-cities-v2",
     type: "city",
@@ -887,8 +865,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 5.000 Einwohner auf 800 Metern Höhe", "Hauptstadt des Emirats des Libanongebirges 1590 bis 1840", "Residenz Emir Fakhreddines II. (1572 bis 1635)", "Fakhreddine-Moschee von 1493", "Name bedeutet Kloster des Mondes", "Französisches Mandat 1920 bis 1943", "Maronitische Mehrheit mit drusischer Minderheit", "Architektonisches Juwel der osmanischen Zeit"]
-    }
-  },
+    }, image: "/poi-images/deir-el-qamar-cities-v2.webp"},
   {
     id: "broummana-cities-v2",
     type: "city",
@@ -924,8 +901,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 12.000 Einwohner auf 800 Metern Höhe", "17 Kilometer nordöstlich von Beirut", "High School Brummana von Quäkern 1873 gegründet", "Eine der ältesten Privatschulen des Mittleren Ostens", "Sommerfrische seit dem späten 19. Jahrhundert", "Französisches Mandat 1920 bis 1943", "Pinien-Wälder umgeben den Ort", "Luxushotels und Pubs entlang der Hauptstraße"]
-    }
-  },
+    }, image: "/poi-images/broummana-cities-v2.webp"},
   {
     id: "ehden-cities-v2",
     type: "city",
@@ -961,8 +937,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Im Sommer 25.000, im Winter unter 1.000 Einwohner", "Auf 1.450 Metern Höhe im Nordgebirge", "Saisonale Wanderbewegung mit Zgharta", "Christliche Siedlung seit dem 7. Jahrhundert", "Mar Mama Kirche aus dem 8. Jahrhundert", "Naturschutzgebiet Horsh Ehden seit 1992", "1.740 Hektar mit 1.058 Arten", "Eden-Massaker an der Frangieh-Familie im Jahr 1978"]
-    }
-  },
+    }, image: "/poi-images/ehden-cities-v2.webp"},
   {
     id: "qobayat-cities-v2",
     type: "city",
@@ -998,8 +973,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 11.000 Einwohner auf 700 Metern Höhe", "In der Region Akkar nahe der syrischen Grenze", "Maronitische Mehrheit", "Seidenraupenfabrik aus dem 19. Jahrhundert als Museum", "Französisches Mandat 1920 bis 1943", "Ausgangspunkt des Lebanon Mountain Trail seit 2007", "Fernwanderweg 470 Kilometer lang", "Starke Auswanderung nach Australien"]
-    }
-  },
+    }, image: "/poi-images/qobayat-cities-v2.webp"},
   {
     id: "bint-jbeil-cities-v2",
     type: "city",
@@ -1035,8 +1009,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 25.000 Einwohner auf 750 Metern Höhe", "120 Kilometer südlich von Beirut", "Wenige Kilometer von der israelischen Grenze", "Schiitische Mehrheit, Hauptort des Distrikts", "Israelische Besetzung 1978 bis 2000", "Krieg im Sommer 2006 verursachte schwere Zerstörungen", "Donnerstagsmarkt einer der größten des Südens", "Französisches Mandat 1920 bis 1943"]
-    }
-  },
+    }, image: "/poi-images/bint-jbeil-cities-v2.webp"},
   {
     id: "marjayoun-cities-v2",
     type: "city",
@@ -1072,8 +1045,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 7.000 Einwohner auf 750 Metern Höhe", "Am Fuß des Hermon-Gebirges", "Name bedeutet Wiese der Quellen", "Griechisch-orthodoxe Mehrheit", "Französisches Mandat 1920 bis 1943", "Hauptquartier der Südlibanesischen Armee 1978 bis 2000", "Israelischer Rückzug im Jahr 2000", "Berühmt für Olivenöl und Wein"]
-    }
-  },
+    }, image: "/poi-images/marjayoun-cities-v2.webp"},
   {
     id: "chekka-cities-v2",
     type: "city",

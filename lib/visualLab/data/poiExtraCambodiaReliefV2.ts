@@ -13,8 +13,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["Legmagasabb pontja a Phnom Aural.", "Olyan ritka fajok otthona, mint az indokínai tigris."],
       ro: ["Cel mai înalt punct este Phnom Aural.", "Găzduiește specii rare, cum ar fi tigrul indochinez."],
       en: ["Highest point is Phnom Aural.", "Home to rare species such as the Indochinese tiger."]
-    }
-  },
+    }, image: "/poi-images/cardamom-mountains-relief-v2.webp"},
   {
     id: "damrei-mountains-relief-v2",
     type: "mountain",
@@ -41,8 +40,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["Itt található a híres Preah Vihear templom.", "Átlagos magassága körülbelül 500 méter."],
       ro: ["Aici se află faimosul templu Preah Vihear.", "Înălțimea medie este de aproximativ 500 de metri."],
       en: ["The famous Preah Vihear temple is located here.", "The average elevation is about 500 meters."]
-    }
-  },
+    }, image: "/poi-images/dangrek-mountains-relief-v2.webp"},
   {
     id: "phnom-aural-relief-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["Magassága eléri az 1813 métert.", "Egy védett vadvédelmi rezervátumban található."],
       ro: ["Atinge o înălțime de 1813 metri.", "Este situat într-o rezervație naturală protejată."],
       en: ["Reaches an elevation of 1813 meters.", "Located within a protected wildlife sanctuary."]
-    }
-  },
+    }, image: "/poi-images/phnom-aural-relief-v2.webp"},
   {
     id: "phnom-kulen-plateau-relief-v2",
     type: "plateau",
@@ -97,8 +94,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["Friss rákpiacáról híres.", "A francia gyarmati elit egykori menedékhelye volt."],
       ro: ["Cunoscută pentru piața de crabi proaspeți.", "Fostă destinație de retragere pentru elita colonială franceză."],
       en: ["Known for the fresh crab market.", "Former retreat for the French colonial elite."]
-    }
-  },
+    }, image: "/poi-images/kep-coast-relief-v2.webp"},
   {
     id: "koh-rong-coast-relief-v2",
     type: "coast",
@@ -111,8 +107,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["Népszerű a búvárok és sznorkelezők körében.", "Éjszaka biolumineszcens planktonok világítanak itt."],
       ro: ["Populară printre scafandri și iubitorii de snorkeling.", "Dispune de plancton bioluminescent noaptea."],
       en: ["Popular with divers and snorkelers.", "Features bioluminescent plankton at night."]
-    }
-  },
+    }, image: "/poi-images/koh-rong-coast-relief-v2.webp"},
   {
     id: "ream-coast-relief-v2",
     type: "coast",
@@ -125,8 +120,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["A Ream Nemzeti Park része.", "Fontos élőhelye a tengeri madaraknak."],
       ro: ["Face parte din Parcul Național Ream.", "Un habitat important pentru păsările marine."],
       en: ["Part of the Ream National Park.", "An important habitat for marine birds."]
-    }
-  },
+    }, image: "/poi-images/ream-coast-relief-v2.webp"},
   {
     id: "mekong-valley-cambodia-relief-v2",
     type: "valley",
@@ -153,8 +147,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["Magassága eléri az 1717 métert.", "Fontos biológiai sokféleség központ."],
       ro: ["Atinge o înălțime de 1717 metri.", "Un hotspot important pentru biodiversitate."],
       en: ["Reaches an elevation of 1717 meters.", "An important biodiversity hotspot."]
-    }
-  },
+    }, image: "/poi-images/phnom-samkos-relief-v2.webp"},
   {
     id: "mondulkiri-plateau-relief-v2",
     type: "plateau",
@@ -195,8 +188,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["A hatalmas Virachey Nemzeti Park része.", "Számos területe még mindig feltáratlan."],
       ro: ["Face parte din uriașul Parc Național Virachey.", "Multe zone sunt încă neexplorate."],
       en: ["Part of the vast Virachey National Park.", "Many areas are still unexplored."]
-    }
-  },
+    }, image: "/poi-images/virachey-mountains-relief-v2.webp"},
   {
     id: "phnom-santuk-relief-v2",
     type: "mountain",
@@ -209,8 +201,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["Több mint 800 lépcsőfok vezet a csúcsra.", "Híres fekvő Buddha szobrairól."],
       ro: ["Peste 800 de trepte duc spre vârf.", "Faimos pentru statuile lui Buddha culcat."],
       en: ["Over 800 steps lead to the summit.", "Famous for its reclining Buddha statues."]
-    }
-  },
+    }, image: "/poi-images/phnom-santuk-relief-v2.webp"},
   {
     id: "bokor-mountain-relief-v2",
     type: "mountain",
@@ -223,8 +214,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["Magassága eléri az 1081 métert.", "Egykor luxus francia menedékhely volt az 1920-as években."],
       ro: ["Atinge o înălțime de 1081 metri.", "Cândva o destinație de lux pentru francezi în anii 1920."],
       en: ["Reaches an elevation of 1081 meters.", "Once a luxurious French retreat in the 1920s."]
-    }
-  },
+    }, image: "/poi-images/bokor-mountain-relief-v2.webp"},
   {
     id: "koh-kong-coast-relief-v2",
     type: "coast",
@@ -237,8 +227,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["Ázsia egyik legnagyobb egybefüggő mangroveerdejével rendelkezik.", "Más régiókhoz képest kevésbé turisztikai célpont."],
       ro: ["Deține unele dintre cele mai mari păduri de mangrove continue din Asia.", "Mai puțin dezvoltată turistic în comparație cu alte regiuni."],
       en: ["Possesses some of the largest continuous mangrove forests in Asia.", "Less touristically developed compared to other regions."]
-    }
-  },
+    }, image: "/poi-images/koh-kong-coast-relief-v2.webp"},
   {
     id: "kampot-coast-relief-v2",
     type: "coast",
@@ -265,8 +254,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       hu: ["A templom a 11. századból származik.", "Széles kilátást nyújt a sík tájra."],
       ro: ["Templul datează din secolul al XI-lea.", "Oferă o vedere largă asupra peisajului plat."],
       en: ["The temple dates back to the 11th century.", "Offers a wide view over the flat landscape."]
-    }
-  },
+    }, image: "/poi-images/phnom-chisor-relief-v2.webp"},
   {
     id: "botum-sakor-peninsula-relief-v2",
     type: "coast",

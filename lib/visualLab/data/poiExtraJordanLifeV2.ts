@@ -13,8 +13,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["A Talal Király-gátra néz.", "Célja a helyi növényvilág megőrzése.", "2005-ben alapították.", "Több mint 600 növényfajt véd."],
       ro: ["Oferă o vedere asupra barajului King Talal.", "Se concentrează pe conservarea florei native.", "A fost fondată în anul 2005.", "Protejează peste 600 de specii de plante."],
       en: ["Overlooks the King Talal Dam.", "Focuses on native flora conservation.", "Founded in 2005.", "Protects over 600 plant species."]
-    }
-  },
+    }, image: "/poi-images/royal-botanic-garden-jordan-life-v2.webp"},
   {
     id: "amman-national-park-life-v2",
     type: "park",
@@ -41,8 +40,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Ammán egyik legnagyobb parkja.", "Itt található a Gyerekmúzeum.", "Hatalmas kertekkel rendelkezik.", "Kiterjedt sportlétesítményeket kínál."],
       ro: ["Unul dintre cele mai mari parcuri din Amman.", "Găzduiește Muzeul Copiilor.", "Dispune de grădini extinse.", "Oferă numeroase facilități sportive."],
       en: ["One of Amman's largest parks.", "Houses the Children's Museum.", "Features extensive gardens.", "Offers numerous sports facilities."]
-    }
-  },
+    }, image: "/poi-images/al-hussein-public-parks-life-v2.webp"},
   {
     id: "jordan-valley-citrus-farms-life-v2",
     type: "agriculture",
@@ -55,8 +53,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["A Jordán-völgy az ország agrármagja.", "A citrom és a narancs kiválóan terem itt.", "A terület a tengerszint alatt fekszik.", "Öntözése az Abdullah Király-csatornából történik."],
       ro: ["Valea Iordanului este centrul agricol al Iordaniei.", "Lămâile și portocalele cresc excelent aici.", "Zona este situată sub nivelul mării.", "Irigarea se face prin Canalul Regele Abdullah."],
       en: ["The Jordan Valley is Jordan's agricultural core.", "Lemons and oranges thrive here.", "The area is located below sea level.", "Irrigated by the King Abdullah Canal."]
-    }
-  },
+    }, image: "/poi-images/jordan-valley-citrus-farms-life-v2.webp"},
   {
     id: "aqaba-bird-observatory-life-v2",
     type: "wildlife-area",
@@ -69,8 +66,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Kritikus megállóhely a költöző madaraknak.", "Évente több mint 300 madárfajt vonz.", "Tisztított szennyvizet használ a vizesélőhelyekhez.", "Különösen tavasszal és ősszel aktív."],
       ro: ["Popas crucial pentru păsările migratoare.", "Atrage peste 300 de specii de păsări anual.", "Folosește apă uzată tratată pentru zonele umede.", "Deosebit de activ primăvara și toamna."],
       en: ["Crucial stopover for migratory birds.", "Attracts over 300 bird species annually.", "Uses treated wastewater for wetlands.", "Especially active during spring and autumn."]
-    }
-  },
+    }, image: "/poi-images/aqaba-bird-observatory-life-v2.webp"},
   {
     id: "childrens-museum-jordan-life-v2",
     type: "kid-friendly",
@@ -83,8 +79,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["2007-ben nyitotta meg Ránija királyné.", "Több mint 150 interaktív kiállítást kínál.", "A játékon keresztüli tanulást ösztönzi.", "Az Al-Huszajn Parkok területén található."],
       ro: ["Deschis în 2007 de Regina Rania.", "Oferă peste 150 de expoziții interactive.", "Promovează învățarea prin joc.", "Situat în Parcurile Publice Al Hussein."],
       en: ["Opened in 2007 by Queen Rania.", "Offers over 150 interactive exhibits.", "Promotes learning through play.", "Located within Al Hussein Public Parks."]
-    }
-  },
+    }, image: "/poi-images/childrens-museum-jordan-life-v2.webp"},
   {
     id: "ghamadan-park-life-v2",
     type: "park",
@@ -97,8 +92,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Kiterjedt erdős területtel rendelkezik.", "Kisebb állatkert és lovarda is működik itt.", "A környezetvédelemnek szentelték.", "Népszerű hétvégi kirándulóhely Ammánban."],
       ro: ["Include o zonă extinsă împădurită.", "Dispune de o mică grădină zoologică și facilități ecvestre.", "Dedicat conservării mediului.", "O evadare populară de weekend în Amman."],
       en: ["Includes an expansive forested area.", "Features a small zoo and equestrian facilities.", "Dedicated to environmental preservation.", "A popular weekend getaway in Amman."]
-    }
-  },
+    }, image: "/poi-images/ghamadan-park-life-v2.webp"},
   {
     id: "ajloun-olive-groves-life-v2",
     type: "agriculture",
@@ -111,8 +105,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Adzslún a kiváló olívaolajáról ismert.", "Néhány olajfa több száz éves.", "A hagyományos gazdálkodás még mindig elterjedt.", "A betakarítás fontos kulturális esemény."],
       ro: ["Ajloun este faimos pentru uleiul de măsline.", "Unii măslini au o vechime de secole.", "Metodele agricole tradiționale sunt încă folosite.", "Sezonul recoltei este un eveniment cultural major."],
       en: ["Ajloun is famous for high-quality olive oil.", "Some olive trees are centuries old.", "Traditional farming methods are widely used.", "The harvest season is a major cultural event."]
-    }
-  },
+    }, image: "/poi-images/ajloun-olive-groves-life-v2.webp"},
   {
     id: "al-mawa-wildlife-life-v2",
     type: "wildlife-area",
@@ -125,8 +118,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["A régió első vadvédelmi mentőközpontja.", "Biztonságos otthont ad az egzotikus állatoknak.", "A Princess Alia Foundation alapította.", "Konfliktusövezetekből mentett állatokat gondoz."],
       ro: ["Primul centru de salvare a faunei din regiune.", "Oferă o casă sigură animalelor exotice.", "Fondat de Fundația Prințesei Alia.", "Găzduiește animale salvate din zone de conflict."],
       en: ["First wildlife rescue center in the region.", "Provides a safe haven for exotic animals.", "Founded by the Princess Alia Foundation.", "Houses animals rescued from conflict zones."]
-    }
-  },
+    }, image: "/poi-images/al-mawa-wildlife-life-v2.webp"},
   {
     id: "king-abdullah-park-irbid-life-v2",
     type: "park",
@@ -139,8 +131,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Jelentős rekreációs terület Észak-Jordániában.", "Kiterjedt sétautakkal rendelkezik.", "Népszerű az egyetemisták körében.", "Helyi közösségi eseményeknek ad otthont."],
       ro: ["O zonă majoră de recreere în nordul Iordaniei.", "Dispune de alei extinse pentru plimbări.", "Popular printre studenții universitari.", "Găzduiește diverse evenimente comunitare."],
       en: ["A major recreational area in northern Jordan.", "Features extensive walking paths.", "Popular among university students.", "Hosts local community events."]
-    }
-  },
+    }, image: "/poi-images/king-abdullah-park-irbid-life-v2.webp"},
   {
     id: "prince-hashem-bird-garden-life-v2",
     type: "kid-friendly",
@@ -153,8 +144,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Kis állatkert és park Ammánban.", "Különféle madárfajoknak ad otthont.", "Árnyékos játszóterekkel rendelkezik.", "Nyugodt menedék a Shmeisani negyedben."],
       ro: ["Mică grădină zoologică și parc în Amman.", "Găzduiește diverse specii de păsări.", "Oferă zone de joacă umbrite.", "Un refugiu liniștit în cartierul Shmeisani."],
       en: ["A small zoo and park in Amman.", "Home to various bird species.", "Features shaded play areas.", "A quiet refuge in the Shmeisani district."]
-    }
-  },
+    }, image: "/poi-images/prince-hashem-bird-garden-life-v2.webp"},
   {
     id: "haya-cultural-center-life-v2",
     type: "kid-friendly",
@@ -181,8 +171,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["2004-ben alapították a természet rehabilitációjára.", "Az ökoturizmusra és a környezeti nevelésre összpontosít.", "Helyreállítja a helyi állat- és növényvilágot.", "Kabinokat és kempingezési lehetőséget kínál."],
       ro: ["Fondat în 2004 pentru reabilitarea naturii.", "Se concentrează pe ecoturism și educație de mediu.", "Restaurează habitatele locale pentru faună.", "Oferă cabine și facilități de campare."],
       en: ["Established in 2004 for nature rehabilitation.", "Focuses on eco-tourism and environmental education.", "Restores local habitats for flora and fauna.", "Offers cabins and camping facilities."]
-    }
-  },
+    }, image: "/poi-images/sharhabil-bin-hassneh-ecopark-life-v2.webp"},
   {
     id: "ghor-al-safi-tomato-farms-life-v2",
     type: "agriculture",
@@ -195,8 +184,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Ideális terület a téli mezőgazdasághoz.", "Jordánia 'paradicsomkosaraként' ismert.", "A meleg éghajlat szezonon kívüli termesztést is lehetővé tesz.", "Hazai és export piacokat egyaránt kiszolgál."],
       ro: ["Ideal pentru agricultura de iarnă.", "Cunoscut sub numele de 'coșul de roșii' al Iordaniei.", "Clima caldă permite producția în afara sezonului.", "Aprovizionează atât piața internă, cât și exportul."],
       en: ["Ideal for winter agriculture.", "Known as Jordan's 'tomato basket'.", "Warm climate allows out-of-season crop production.", "Supplies both domestic and export markets."]
-    }
-  },
+    }, image: "/poi-images/ghor-al-safi-tomato-farms-life-v2.webp"},
   {
     id: "aqaba-marine-park-life-v2",
     type: "wildlife-area",
@@ -209,8 +197,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Védi a jordán tengerpart korallzátonyait.", "Több mint 120 kőkorallfajnak ad otthont.", "Népszerű sznorkelezési és búvárkodási célpont.", "Célja a turizmus és a tengeri természetvédelem egyensúlya."],
       ro: ["Protejează recifele de corali de pe coasta Iordaniei.", "Găzduiește peste 120 de specii de corali duri.", "O destinație populară pentru snorkeling și scufundări.", "Are ca scop echilibrarea turismului cu conservarea marină."],
       en: ["Protects the coral reefs along Jordan's coast.", "Home to over 120 species of hard corals.", "A popular destination for snorkeling and diving.", "Aims to balance tourism with marine conservation."]
-    }
-  },
+    }, image: "/poi-images/aqaba-marine-park-life-v2.webp"},
   {
     id: "amman-waves-aqua-park-life-v2",
     type: "kid-friendly",
@@ -223,8 +210,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Az ország egyik legnagyobb víziparkja.", "Hullámmedencékkel és vízicsúszdákkal várja a látogatókat.", "Kiemelt célpont a forró nyári hónapokban.", "A fővárostól délre, a repülőtéri úton található."],
       ro: ["Unul dintre cele mai mari parcuri acvatice din țară.", "Oferă piscine cu valuri și tobogane cu apă.", "O destinație de top în lunile fierbinți de vară.", "Situat la sud de capitală, pe drumul spre aeroport."],
       en: ["One of the largest water parks in the country.", "Features wave pools and water slides.", "A prime destination during the hot summer months.", "Situated south of the capital on the airport road."]
-    }
-  },
+    }, image: "/poi-images/amman-waves-aqua-park-life-v2.webp"},
   {
     id: "wild-jordan-center-life-v2",
     type: "park",
@@ -237,8 +223,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["A Királyi Természetvédelmi Társaság irányítja.", "Népszerűsíti az ökoturizmust Jordániában.", "Panorámás kilátást nyújt Ammán óvárosára.", "Helyi készítésű természetes termékeket árusít."],
       ro: ["Administrat de Societatea Regală pentru Conservarea Naturii.", "Promovează ecoturismul în Iordania.", "Oferă vederi panoramice asupra orașului vechi Amman.", "Vinde produse naturale realizate local."],
       en: ["Managed by the Royal Society for the Conservation of Nature.", "Promotes eco-tourism in Jordan.", "Offers panoramic views of the old city of Amman.", "Features a nature shop selling locally crafted products."]
-    }
-  },
+    }, image: "/poi-images/wild-jordan-center-life-v2.webp"},
   {
     id: "jordan-valley-date-palms-life-v2",
     type: "agriculture",
@@ -265,8 +250,7 @@ export const poiExtraJordanLifeV2: POI[] = [
       hu: ["Földalatti víztartó rétegeket használ öntözésre.", "Olyan növényeket termeszt a sivatagban, mint az olajbogyó.", "Kihívásokkal néz szembe a fenntartható vízhasználat terén.", "A száraz tájakat termékeny mezőgazdasági zónákká alakítja."],
       ro: ["Utilizează acvifere subterane pentru irigare.", "Produce culturi precum măsline și rodii în deșert.", "Se confruntă cu provocări privind utilizarea durabilă a apei.", "Transformă peisajele aride în zone agricole productive."],
       en: ["Utilizes underground aquifers for irrigation.", "Produces crops like olives and pomegranates in the desert.", "Faces challenges regarding sustainable water use.", "Transforms arid landscapes into productive agricultural zones."]
-    }
-  },
+    }, image: "/poi-images/al-azraq-desert-agriculture-life-v2.webp"},
   {
     id: "wadi-bin-hammad-nature-life-v2",
     type: "wildlife-area",

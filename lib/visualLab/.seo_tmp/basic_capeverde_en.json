@@ -1,0 +1,61 @@
+{
+  "lang": "en",
+  "country": "Capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monte-verde-relief-v2",
+      "description": "Monte Verde is the highest point on Sao Vicente and rises above the eastern side of the island. It is a clear landmark for views over Mindelo and the Atlantic coast.",
+      "facts": ["Highest point on Sao Vicente", "744 m above sea level", "East of Mindelo"]
+    },
+    {
+      "id": "cova-de-paul-relief-v2",
+      "description": "Cova de Paul is a volcanic crater on Santo Antao that opens into one of the island's best-known green valleys. Its sheltered shape helps create a cooler microclimate for farming and hiking.",
+      "facts": ["Volcanic crater on Santo Antao", "Leads toward the Paul Valley", "Known for fertile ground"]
+    },
+    {
+      "id": "bordeira-do-fogo-relief-v2",
+      "description": "Bordeira do Fogo is the great crater rim that frames Pico do Fogo. It forms one of the most dramatic volcanic landscapes on the island of Fogo.",
+      "facts": ["Crater rim on Fogo", "Surrounds Pico do Fogo", "Overlooks Chã das Caldeiras"]
+    },
+    {
+      "id": "monte-trigo-relief-v2",
+      "description": "Monte Trigo marks the remote western edge of Santo Antao near the Atlantic coast. The area sits by the foot of Tope de Coroa and is linked to the island's hiking routes.",
+      "facts": ["Western Santo Antao", "Near Tope de Coroa", "Close to Tarrafal de Monte Trigo"]
+    },
+    {
+      "id": "monte-grande-sal-relief-v2",
+      "description": "Monte Grande is the highest point on Sal and stands out on an otherwise flat island. It rises north of Espargos and is part of Sal's protected landscape.",
+      "facts": ["Highest point on Sal", "About 406 m high", "North of Espargos"]
+    },
+    {
+      "id": "monte-penoso-relief-v2",
+      "description": "Monte Penoso is the highest point on Maio and rises above the island's low, open terrain. The mountain belongs to the protected landscape on the eastern side of the island.",
+      "facts": ["Highest point on Maio", "436 m above sea level", "Eastern part of the island"]
+    },
+    {
+      "id": "monte-batalha-relief-v2",
+      "description": "Monte Batalha is a mountain on Maio with views across the island's southern side. It is one of the smaller but named high points in the island's landscape.",
+      "facts": ["Mountain on Maio", "294 m high", "Near Calheta and Porto Inglês"]
+    },
+    {
+      "id": "monte-sobrado-relief-v2",
+      "description": "Monte Sobrado rises in the volcanic highlands of Fogo. It is one of the island's prominent peaks in the Santa Catarina do Fogo area.",
+      "facts": ["Mountain on Fogo", "1,743 m high", "In Santa Catarina do Fogo"]
+    },
+    {
+      "id": "monte-duarte-relief-v2",
+      "description": "Monte Duarte is a high volcanic mountain on Fogo. It belongs to the rugged interior of the island and adds to the steep relief around Santa Catarina do Fogo.",
+      "facts": ["Mountain on Fogo", "About 1,772 m high", "Part of the island's volcanic interior"]
+    },
+    {
+      "id": "pico-da-antonia-relief-v2",
+      "description": "Pico da Antonia is the highest mountain on Santiago and a major landmark in the island's central highlands. Its slopes shape much of the surrounding relief.",
+      "facts": ["Highest point on Santiago", "About 1,394 m high", "Central mountain massif"]
+    }
+  ]
+}

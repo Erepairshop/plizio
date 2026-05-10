@@ -45,8 +45,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "An important habitat for the Dorado, known as the 'king of Paraguayan rivers'.",
         "A central component of the Paraguay-Paraná waterway for inland shipping."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-paraguay-nature-v2.webp"},
   {
     id: "py-rio-parana-nature-v2",
     type: "river",
@@ -91,8 +90,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "The river carries gigantic amounts of sediment to the Río de la Plata.",
         "Home to the Surubí, one of the continent's largest catfish species."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-parana-nature-v2.webp"},
   {
     id: "py-cerro-tres-kandu-nature-v2",
     type: "mountain",
@@ -137,8 +135,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "A popular destination for hikers with marked trails and viewing platforms.",
         "The ascent takes between 2 and 4 hours depending on fitness levels."
       ]
-    }
-  },
+    }, image: "/poi-images/py-cerro-tres-kandu-nature-v2.webp"},
   {
     id: "py-lago-ypacarai-nature-v2",
     type: "lake",
@@ -183,8 +180,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "An important habitat for water birds such as the Jabiru stork.",
         "The center of Paraguayan social life during the summer months."
       ]
-    }
-  },
+    }, image: "/poi-images/py-lago-ypacarai-nature-v2.webp"},
   {
     id: "py-saltos-del-monday-nature-v2",
     type: "river",
@@ -229,8 +225,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "Counted among the most significant geological attractions in Paraguay.",
         "A popular filming location for both national and international movie productions."
       ]
-    }
-  },
+    }, image: "/poi-images/py-saltos-del-monday-nature-v2.webp"},
   {
     id: "py-reserva-mbaracyu-nature-v2",
     type: "forest",
@@ -321,8 +316,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "The park covers an area of approximately 5,538 hectares.",
         "A key site for observing colorful parrots and toucans."
       ]
-    }
-  },
+    }, image: "/poi-images/py-parque-cerro-cora-nature-v2.webp"},
   {
     id: "py-rio-pilcomayo-nature-v2",
     type: "river",
@@ -367,8 +361,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "A key location for catching 'Sábalo', a fish species vital for local subsistence.",
         "A central player in binational water distribution agreements between Paraguay and Argentina."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-pilcomayo-nature-v2.webp"},
   {
     id: "py-rio-tebicuary-nature-v2",
     type: "river",
@@ -413,8 +406,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "Serves as the primary reservoir for Paraguay's national rice production.",
         "Home to the 'Raya' (freshwater stingray), which likes to hide in the fine sand."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-tebicuary-nature-v2.webp"},
   {
     id: "py-lago-ypoa-nature-v2",
     type: "lake",
@@ -459,8 +451,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "Actually consists of three interconnected bodies of water: Ypoá, Cabral, and Paranamí.",
         "Serves as a vital transit point for migratory water birds traveling between hemispheres."
       ]
-    }
-  },
+    }, image: "/poi-images/py-lago-ypoa-nature-v2.webp"},
   {
     id: "py-parque-defensores-chaco-nature-v2",
     type: "forest",
@@ -505,8 +496,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "Features geological formations that are unique in the world.",
         "The climate is characterized by extreme dry spells and sudden torrential rains."
       ]
-    }
-  },
+    }, image: "/poi-images/py-parque-defensores-chaco-nature-v2.webp"},
   {
     id: "py-cerro-acahay-nature-v2",
     type: "mountain",
@@ -551,8 +541,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "The soil on the mountain is particularly rich in minerals, promoting unique flora.",
         "An important site for local folklore and oral traditions."
       ]
-    }
-  },
+    }, image: "/poi-images/py-cerro-acahay-nature-v2.webp"},
   {
     id: "py-isla-yacyreta-nature-v2",
     type: "island",
@@ -597,8 +586,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "Home to a specialized center for the conservation of endangered local fish species.",
         "A key site for studying the impacts of large dams on biodiversity."
       ]
-    }
-  },
+    }, image: "/poi-images/py-isla-yacyreta-nature-v2.webp"},
   {
     id: "py-rio-apa-nature-v2",
     type: "river",
@@ -643,8 +631,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "The primary water supplier for the limestone industry in the north.",
         "Offers excellent conditions for nature tourism and the observation of wetland birds."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-apa-nature-v2.webp"},
   {
     id: "py-reserva-san-rafael-nature-v2",
     type: "forest",
@@ -689,8 +676,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "An important site for research into the reforestation of native hardwoods.",
         "Offers guided tours for observing nocturnal birds and rare mammals."
       ]
-    }
-  },
+    }, image: "/poi-images/py-reserva-san-rafael-nature-v2.webp"},
   {
     id: "py-cerro-leon-nature-v2",
     type: "mountain",
@@ -735,8 +721,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "A key location for studying climate-resilient plant species.",
         "One of the most remote and difficult-to-reach places in all of Paraguay."
       ]
-    }
-  },
+    }, image: "/poi-images/py-cerro-leon-nature-v2.webp"},
   {
     id: "py-ojos-de-mar-nature-v2",
     type: "lake",
@@ -781,8 +766,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "A significant site for researching the Paraguayan groundwater system.",
         "Home to rare small fish species adapted to this isolated habitat."
       ]
-    }
-  },
+    }, image: "/poi-images/py-ojos-de-mar-nature-v2.webp"},
   {
     id: "py-rio-aquidaban-nature-v2",
     type: "river",
@@ -827,8 +811,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "Spectacular sandbars form during the dry season, inviting relaxation.",
         "A major factor in the development of cattle ranching and agriculture in the north."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-aquidaban-nature-v2.webp"},
   {
     id: "py-cerro-yaguaron-nature-v2",
     type: "mountain",
@@ -919,8 +902,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "The park features an extensive network of hiking trails through various forest types.",
         "A key site for preserving Paraguayan ironwood stocks."
       ]
-    }
-  },
+    }, image: "/poi-images/py-parque-ybycui-nature-v2.webp"},
   {
     id: "py-laguna-blanca-nature-v2",
     type: "lake",
@@ -965,8 +947,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "A popular destination for divers and underwater photographers in Paraguay.",
         "An important site for scientific studies on limnetic ecology."
       ]
-    }
-  },
+    }, image: "/poi-images/py-laguna-blanca-nature-v2.webp"},
   {
     id: "py-rio-ypane-nature-v2",
     type: "river",
@@ -1011,8 +992,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "The river course is a vital habitat for caimans and capybaras.",
         "Serves as natural drainage for the vast plains of the central north."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-ypane-nature-v2.webp"},
   {
     id: "py-cerro-memby-nature-v2",
     type: "mountain",
@@ -1057,8 +1037,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "A significant site for local birdlife nesting in the rock crevices.",
         "A symbol of the unyielding character of the people in the Concepción department."
       ]
-    }
-  },
+    }, image: "/poi-images/py-cerro-memby-nature-v2.webp"},
   {
     id: "py-rio-aguaray-guazu-nature-v2",
     type: "river",
@@ -1103,8 +1082,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "The riparian areas host a variety of plants with medicinal uses.",
         "A key site for studying water quality in the agricultural belt."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-aguaray-guazu-nature-v2.webp"},
   {
     id: "py-cerro-pero-nature-v2",
     type: "mountain",
@@ -1149,8 +1127,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "Part of a private nature reserve within the mountain range.",
         "An important landmark for navigation in the Guairá region."
       ]
-    }
-  },
+    }, image: "/poi-images/py-cerro-pero-nature-v2.webp"},
   {
     id: "py-rio-jejui-guazu-nature-v2",
     type: "river",
@@ -1195,8 +1172,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "The name refers to a local tree species found in the region.",
         "Offers excellent conditions for kayaking and nature observation from the water."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-jejui-guazu-nature-v2.webp"},
   {
     id: "py-pantanal-paraguayo-nature-v2",
     type: "forest",
@@ -1241,8 +1217,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "Access is primarily possible only by boat from Bahía Negra.",
         "A central component of Paraguay's ecotourism portfolio."
       ]
-    }
-  },
+    }, image: "/poi-images/py-pantanal-paraguayo-nature-v2.webp"},
   {
     id: "py-rio-monte-lindo-nature-v2",
     type: "river",
@@ -1287,8 +1262,7 @@ export const poiExtraParaguayNatureV2: POI[] = [
         "A key site for studying hydrological cycles in the Chaco.",
         "A popular destination for nature observers seeking the vastness of western Paraguay."
       ]
-    }
-  },
+    }, image: "/poi-images/py-rio-monte-lindo-nature-v2.webp"},
   {
     id: "py-cerro-guazu-nature-v2",
     type: "mountain",

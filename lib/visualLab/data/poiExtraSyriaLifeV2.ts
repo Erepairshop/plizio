@@ -13,8 +13,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["A mesterséges Aszad-tó partján fekszik.", "Fontos pihenőhely a vándormadarak számára.", "A helyi biológiai sokféleség védelmére hozták létre.", "Farkasok és rókák élőhelye."],
       ro: ["Situată pe malul lacului artificial Assad.", "Un loc important de odihnă pentru păsările migratoare.", "Înființată pentru a proteja biodiversitatea locală.", "Oferă habitat pentru lupi și vulpi."],
       en: ["Located on the shores of the artificial Lake Assad.", "An important resting place for migratory birds.", "Established to protect local biodiversity.", "Provides habitat for wolves and foxes."]
-    }
-  },
+    }, image: "/poi-images/al-thawra-nature-reserve-life-v2.webp"},
   {
     id: "tishreen-park-life-v2",
     type: "park",
@@ -27,8 +26,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Damaszkusz egyik legkiterjedtebb parkja.", "Népszerű találkozóhely a családok számára.", "Hatalmas pázsitokkal és játszóterekkel rendelkezik.", "Nyáron kellemes árnyékot nyújt."],
       ro: ["Unul dintre cele mai extinse parcuri din Damasc.", "Un loc de întâlnire popular pentru familii.", "Dispune de peluze întinse și locuri de joacă.", "Oferă umbră plăcută în timpul verii."],
       en: ["One of the most extensive parks in Damascus.", "A popular meeting place for families.", "Features extensive lawns and playgrounds.", "Provides pleasant shade during the summer."]
-    }
-  },
+    }, image: "/poi-images/tishreen-park-life-v2.webp"},
   {
     id: "al-shouh-and-al-arz-reserve-life-v2",
     type: "wildlife-area",
@@ -41,8 +39,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["A veszélyeztetett kilikiai jegenyefenyő otthona.", "Szíria utolsó cédruserdeinek egy részét védi.", "Fontos a ritka madárfajok megőrzése szempontjából.", "Népszerű ökológiai kutatások célpontja."],
       ro: ["Găzduiește bradul cilicic aflat pe cale de dispariție.", "Protejează unele dintre ultimele păduri de cedru din Siria.", "Importantă pentru conservarea speciilor rare de păsări.", "Populară pentru cercetarea ecologică."],
       en: ["Home to the endangered Cilician fir.", "Protects some of Syria's last cedar forests.", "Important for the conservation of rare bird species.", "Popular for ecological research."]
-    }
-  },
+    }, image: "/poi-images/al-shouh-and-al-arz-reserve-life-v2.webp"},
   {
     id: "ghab-plain-life-v2",
     type: "agriculture",
@@ -55,8 +52,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Korábban egy kiterjedt mocsárvidék volt.", "A 20. század közepén csapolták le.", "Búzát, pamutot és cukorrépát termesztenek itt.", "A szíriai mezőgazdaság fontos központja."],
       ro: ["Anterior a fost o zonă mlăștinoasă extinsă.", "A fost drenată la mijlocul secolului al XX-lea.", "Produce grâu, bumbac și sfeclă de zahăr.", "Un centru important al agriculturii siriene."],
       en: ["Formerly an extensive swamp area.", "Was drained in the mid-20th century.", "Produces wheat, cotton, and sugar beets.", "An important center of Syrian agriculture."]
-    }
-  },
+    }, image: "/poi-images/ghab-plain-life-v2.webp"},
   {
     id: "sabkhat-al-jabbul-life-v2",
     type: "wildlife-area",
@@ -69,8 +65,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Szíria egyik legnagyobb természetes sóstava.", "Télen több ezer rózsás flamingónak ad otthont.", "Jelentős Ramsari terület.", "A sólepárlókat gazdaságilag is hasznosítják."],
       ro: ["Unul dintre cele mai mari lacuri sărate naturale din Siria.", "Găzduiește mii de flamingo roz în timpul iernii.", "Zonă umedă de importanță internațională Ramsar.", "Bazinele de sare sunt, de asemenea, exploatate economic."],
       en: ["One of the largest natural salt lakes in Syria.", "Hosts thousands of greater flamingos in winter.", "An important Ramsar wetland site.", "The salt pans are also used economically."]
-    }
-  },
+    }, image: "/poi-images/sabkhat-al-jabbul-life-v2.webp"},
   {
     id: "fronloq-forest-life-v2",
     type: "wildlife-area",
@@ -83,8 +78,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Sűrű fenyőerdeiről ismert.", "Fontos menedékhely a vadon élő állatok számára.", "A nyári erdőtüzek veszélyeztetik.", "A természetmegfigyelők népszerű célpontja."],
       ro: ["Cunoscută pentru pădurile sale dense de pini.", "Oferă refugii importante pentru animalele sălbatice.", "Amenințată de incendiile forestiere în timpul verii.", "O destinație populară pentru observatorii naturii."],
       en: ["Known for its dense pine forests.", "Provides important refuges for wild animals.", "Threatened by summer forest fires.", "A popular destination for nature watchers."]
-    }
-  },
+    }, image: "/poi-images/fronloq-forest-life-v2.webp"},
   {
     id: "aleppo-public-park-life-v2",
     type: "park",
@@ -97,8 +91,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Aleppó legnagyobb közparkja.", "Pompás szökőkutakkal rendelkezik.", "A 20. században alakították ki.", "Szabadtéri kulturális rendezvények helyszíne."],
       ro: ["Cel mai mare parc public din Alep.", "Are fântâni arteziene magnifice.", "A fost amenajat în secolul al XX-lea.", "Un loc pentru evenimente culturale în aer liber."],
       en: ["The largest public park in Aleppo.", "Features magnificent fountains.", "Was established in the 20th century.", "A venue for outdoor cultural events."]
-    }
-  },
+    }, image: "/poi-images/aleppo-public-park-life-v2.webp"},
   {
     id: "happy-land-park-life-v2",
     type: "kid-friendly",
@@ -111,8 +104,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["A damaszkuszi repülőtérhez vezető úton található.", "Hullámvasutak és óriáskerekek is vannak itt.", "Népszerű hétvégi kirándulóhely.", "A környék minden részéből vonzza a látogatókat."],
       ro: ["Situat pe drumul spre aeroportul din Damasc.", "Oferă montagne russe și roți panoramice.", "O destinație populară pentru ieșirile de weekend.", "Atrage vizitatori din întreaga regiune înconjurătoare."],
       en: ["Located on the Damascus airport road.", "Offers roller coasters and Ferris wheels.", "A popular weekend excursion destination.", "Attracts visitors from all over the surrounding region."]
-    }
-  },
+    }, image: "/poi-images/happy-land-park-life-v2.webp"},
   {
     id: "al-jazira-cotton-fields-life-v2",
     type: "agriculture",
@@ -125,8 +117,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Szíria egykor az egyik vezető pamutexportőr volt.", "A Dzsazíra-régió az ország gabona- és pamutraktára.", "Az Eufrátesz mellékfolyói öntözik.", "Fontos a helyi textilipar számára."],
       ro: ["Siria a fost odată unul dintre principalii exportatori de bumbac.", "Regiunea Al-Jazira este grânarul și centrul bumbacului din țară.", "Irigată de afluenții fluviului Eufrat.", "Importantă pentru industria textilă locală."],
       en: ["Syria was once one of the top cotton exporters.", "The Al-Jazira region is the breadbasket and cotton center of the country.", "Irrigated by tributaries of the Euphrates.", "Important for the local textile industry."]
-    }
-  },
+    }, image: "/poi-images/al-jazira-cotton-fields-life-v2.webp"},
   {
     id: "ghouta-oasis-life-v2",
     type: "agriculture",
@@ -139,8 +130,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["A Barada folyó öntözi.", "Híres a sárgabarack- és olajfáiról.", "Zöld övet alkot a főváros körül.", "A szíriai mezőgazdasági örökség szimbóluma."],
       ro: ["Este irigată de râul Barada.", "Renumită pentru caișii și măslinii săi.", "Formează o centură verde în jurul capitalei.", "Un simbol al patrimoniului agricol sirian."],
       en: ["Irrigated by the Barada River.", "Famous for its apricot and olive trees.", "Forms a green belt around the capital.", "A symbol of Syria's agricultural heritage."]
-    }
-  },
+    }, image: "/poi-images/ghouta-oasis-life-v2.webp"},
   {
     id: "lattakia-citrus-orchards-life-v2",
     type: "agriculture",
@@ -153,8 +143,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["A szíriai citrusfélék nagy részét itt termelik.", "A termelés az enyhe mediterrán klímából profitál.", "A partvidéki régió fontos gazdasági tényezője.", "A betakarítási időszak meghatározza a helyi életet télen."],
       ro: ["Produc o mare parte din citricele siriene.", "Beneficiază de clima mediteraneană blândă.", "Un factor economic important al regiunii de coastă.", "Sezonul de recoltare modelează viața locală iarna."],
       en: ["Produce a large part of Syrian citrus fruits.", "Benefit from the mild Mediterranean climate.", "An important economic factor of the coastal region.", "The harvest season shapes local life in winter."]
-    }
-  },
+    }, image: "/poi-images/lattakia-citrus-orchards-life-v2.webp"},
   {
     id: "tartus-olive-groves-life-v2",
     type: "agriculture",
@@ -181,8 +170,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Hazai és egzotikus állatoknak is otthont ad.", "Oktatási programokat kínál gyerekeknek.", "Parkosított kertekkel és piknikezőhelyekkel rendelkezik.", "Az állatvédelmi tudatosság növelésének helyszíne."],
       ro: ["Găzduiește animale native și exotice.", "Oferă programe educaționale pentru copii.", "Are grădini amenajate și zone de picnic.", "Un loc pentru creșterea gradului de conștientizare privind protecția animalelor."],
       en: ["Houses native and exotic animals.", "Offers educational programs for children.", "Features landscaped gardens and picnic areas.", "A place to raise awareness for animal protection."]
-    }
-  },
+    }, image: "/poi-images/al-adawi-zoo-life-v2.webp"},
   {
     id: "abu-qubays-protected-area-life-v2",
     type: "wildlife-area",
@@ -195,8 +183,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Sűrű tölgy- és fenyőerdőket véd.", "Vaddisznók és különféle ragadozó madarak otthona.", "Mély völgyek jellemzik.", "Ideális túrázásra és természetjárásra."],
       ro: ["Protejează păduri dense de stejar și pin.", "Cămin al porcilor mistreți și al diverselor păsări de pradă.", "Se caracterizează prin văi adânci.", "Ideală pentru drumeții și explorarea naturii."],
       en: ["Protects dense oak and pine forests.", "Home to wild boars and various birds of prey.", "Characterized by deep valleys.", "Ideal for hiking and nature exploration."]
-    }
-  },
+    }, image: "/poi-images/abu-qubays-protected-area-life-v2.webp"},
   {
     id: "al-sabil-park-life-v2",
     type: "park",
@@ -209,8 +196,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["A 20. század közepén nyitották meg.", "Egy nyilvános kútról (Sabil) nevezték el.", "Népszerű hely a pihentető sétákhoz.", "Gazdag botanikai sokféleséggel rendelkezik."],
       ro: ["Deschis la mijlocul secolului al XX-lea.", "Numit după o fântână publică (Sabil).", "Un loc popular pentru plimbări relaxante.", "Are o bogată diversitate botanică."],
       en: ["Opened in the mid-20th century.", "Named after a public fountain (Sabil).", "A popular place for relaxing walks.", "Features a rich botanical diversity."]
-    }
-  },
+    }, image: "/poi-images/al-sabil-park-life-v2.webp"},
   {
     id: "al-rastan-farmlands-life-v2",
     type: "agriculture",
@@ -237,8 +223,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Látványos kilátást nyújt a partvidékre.", "Az ökoturizmus fontos helyszíne.", "A szíriai partvidéki hegység része.", "Ritka mediterrán növényeknek ad otthont."],
       ro: ["Oferă vederi spectaculoase spre coastă.", "O locație importantă pentru ecoturism.", "Parte a Munților de Coastă sirieni.", "Găzduiește plante mediteraneene rare."],
       en: ["Offers spectacular views of the coast.", "An important location for ecotourism.", "Part of the Syrian Coastal Mountains.", "Home to rare Mediterranean plants."]
-    }
-  },
+    }, image: "/poi-images/jabal-al-nabi-matta-life-v2.webp"},
   {
     id: "al-jalaa-park-life-v2",
     type: "park",
@@ -251,8 +236,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Teniszpályákkal és úszómedencékkel is rendelkezik.", "Gyakran használják sportversenyekre.", "A fiatalok népszerű találkozóhelye.", "Zöldterületeket kombinál sportlétesítményekkel."],
       ro: ["Dispune de terenuri de tenis și piscine.", "Adesea folosit pentru competiții sportive.", "Un punct de întâlnire popular pentru tineri.", "Combină spațiile verzi cu facilitățile sportive."],
       en: ["Features tennis courts and swimming pools.", "Often used for sports competitions.", "A popular meeting place for young people.", "Combines green spaces with sports facilities."]
-    }
-  },
+    }, image: "/poi-images/al-jalaa-park-life-v2.webp"},
   {
     id: "hawran-wheat-fields-life-v2",
     type: "agriculture",
@@ -265,8 +249,7 @@ export const poiExtraSyriaLifeV2: POI[] = [
       hu: ["Egykor a Római Birodalom magtára volt.", "Nagyra értékelt durumbúzát termelnek itt.", "A termesztés nagymértékben függ a téli esőzésektől.", "A régió vulkanikus eredetű."],
       ro: ["A fost odată grânarul Imperiului Roman.", "Produce un grâu dur foarte apreciat.", "Cultivarea depinde puternic de ploile de iarnă.", "Regiunea este de origine vulcanică."],
       en: ["Was once the breadbasket of the Roman Empire.", "Produces a highly prized durum wheat.", "Cultivation heavily depends on winter rains.", "The region is of volcanic origin."]
-    }
-  },
+    }, image: "/poi-images/hawran-wheat-fields-life-v2.webp"},
   {
     id: "al-riyadeh-park-life-v2",
     type: "park",

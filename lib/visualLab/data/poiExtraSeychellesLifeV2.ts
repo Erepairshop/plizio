@@ -47,8 +47,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["1901-ben alapították", "Óriásteknős kifutó", "Egzotikus pálmafajok", "Családok körében népszerű"],
       ro: ["Fondată în 1901", "Țarc pentru țestoase uriașe", "Specii de palmieri exotici", "Populară printre familii"],
       en: ["Established in 1901", "Giant tortoise enclosure", "Exotic palm species", "Popular with families"]
-    }
-  },
+    }, image: "/poi-images/victoria-botanical-gardens-life-v2.webp"},
   {
     id: "roche-caiman-bird-sanctuary-life-v2",
     type: "animal-habitat",
@@ -71,8 +70,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Mesterséges vizes élőhely", "Madármegfigyelő hely", "Victoria közelében", "Helyreállított terület"],
       ro: ["Zonă umedă artificială", "Punct de observare a păsărilor", "Situat lângă Victoria", "Teren renaturat"],
       en: ["Man-made wetland", "Bird watching post", "Located near Victoria", "Restored land area"]
-    }
-  },
+    }, image: "/poi-images/roche-caiman-bird-sanctuary-life-v2.webp"},
   {
     id: "barbarons-biodiversity-centre-life-v2",
     type: "animal-habitat",
@@ -95,8 +93,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Kutatás és megőrzés", "Botanikus kertek", "Endemikus növényfajok", "Mahé nyugati partján"],
       ro: ["Cercetare și conservare", "Grădini botanice", "Specii de plante endemice", "Pe coasta de vest a insulei Mahé"],
       en: ["Research and conservation", "Botanical gardens", "Endemic plant species", "On Mahé's west coast"]
-    }
-  },
+    }, image: "/poi-images/barbarons-biodiversity-centre-life-v2.webp"},
   {
     id: "tea-plantation-mahe-life-v2",
     type: "agriculture",
@@ -167,8 +164,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Legnagyobb játszópark", "Victoriában található", "Lánckörhinta", "Biztonságos pihenőhely"],
       ro: ["Cel mai mare parc de joacă", "Situat în Victoria", "Carusel cu lanțuri", "Loc de recreere sigur"],
       en: ["Largest playground", "Located in Victoria", "Chain carousel", "Safe recreational space"]
-    }
-  },
+    }, image: "/poi-images/paradis-des-enfants-life-v2.webp"},
   {
     id: "black-parrot-habitat-life-v2",
     type: "animal-habitat",
@@ -191,8 +187,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["A madár egyetlen lelőhelye", "Praslin Nemzeti Parkban", "Endemikus papagájfaj", "Szigorúan védett"],
       ro: ["Singurul loc unde trăiește", "În Parcul Național Praslin", "Specie de papagal endemică", "Strict protejat"],
       en: ["Only habitat of this bird", "In Praslin National Park", "Endemic parrot species", "Strictly protected"]
-    }
-  },
+    }, image: "/poi-images/black-parrot-habitat-life-v2.webp"},
   {
     id: "anse-kerlan-turtle-hatchery-life-v2",
     type: "animal-habitat",
@@ -215,8 +210,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Fontos fészkelőhely", "Cserepesteknősök", "Praslin szigetén", "Megfigyelt fészekaljak"],
       ro: ["Loc de cuibărit vital", "Țestoase Hawksbill", "Pe insula Praslin", "Cuiburi monitorizate"],
       en: ["Vital nesting site", "Hawksbill sea turtles", "On Praslin Island", "Monitored nesting sites"]
-    }
-  },
+    }, image: "/poi-images/anse-kerlan-turtle-hatchery-life-v2.webp"},
   {
     id: "beacon-island-habitat-life-v2",
     type: "animal-habitat",
@@ -263,8 +257,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Praslintól északra", "Jelentős madárvilág", "Meredek sziklák", "Védett rezervátum"],
       ro: ["La nord de Praslin", "Avifaună semnificativă", "Stânci abrupte", "Rezervație protejată"],
       en: ["North of Praslin", "Significant bird life", "Steep rock cliffs", "Protected reserve"]
-    }
-  },
+    }, image: "/poi-images/booby-island-reserve-life-v2.webp"},
   {
     id: "recif-island-sanctuary-life-v2",
     type: "animal-habitat",
@@ -287,8 +280,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Nagy madárkolónia", "Gránit képződmény", "Védett státusz", "Csérek fészkelőhelye"],
       ro: ["Colonie mare de păsări", "Formațiune granitică", "Statut protejat", "Loc de cuibărit pentru rândunele"],
       en: ["Large bird colony", "Granitic formation", "Protected status", "Nesting site for terns"]
-    }
-  },
+    }, image: "/poi-images/recif-island-sanctuary-life-v2.webp"},
   {
     id: "vacoa-nature-trail-mangroves-life-v2",
     type: "animal-habitat",
@@ -311,8 +303,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Mangrove-ökoszisztéma", "Tanösvény", "Barbarons (Mahé)", "Rákfajokban gazdag"],
       ro: ["Ecosistem de mangrove", "Traseu educativ", "Barbarons (Mahé)", "Bogat în specii de rabi"],
       en: ["Mangrove ecosystem", "Nature trail", "Barbarons (Mahé)", "Rich in crab species"]
-    }
-  },
+    }, image: "/poi-images/vacoa-nature-trail-mangroves-life-v2.webp"},
   {
     id: "glacis-trois-freres-habitat-life-v2",
     type: "animal-habitat",
@@ -335,8 +326,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Kancsóka növények otthona", "Apró Sooglossid békák", "Hegyi fennsík", "Egyedülálló flóra"],
       ro: ["Casa plantelor carnivore", "Micuțele broaște Sooglossid", "Platou montan", "Floră unică"],
       en: ["Home to pitcher plants", "Tiny Sooglossid frogs", "Mountain plateau", "Unique flora"]
-    }
-  },
+    }, image: "/poi-images/glacis-trois-freres-habitat-life-v2.webp"},
   {
     id: "la-digue-vanilla-plantations-life-v2",
     type: "agriculture",
@@ -383,8 +373,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Pacsuli termesztés", "Dél-Mahé", "Parfüm alapanyag", "Hagyományos mezőgazdaság"],
       ro: ["Cultivarea patchouli", "Sudul insulei Mahé", "Materie primă pentru parfum", "Agricultură tradițională"],
       en: ["Patchouli cultivation", "Southern Mahé", "Perfume raw material", "Traditional farming"]
-    }
-  },
+    }, image: "/poi-images/patchouli-fields-mahe-life-v2.webp"},
   {
     id: "silhouette-cinnamon-forest-life-v2",
     type: "agriculture",
@@ -407,8 +396,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Vad fahéj", "Silhouette-sziget", "Aromás örökség", "Egykori exportcikk"],
       ro: ["Scorțișoară sălbatică", "Insula Silhouette", "Patrimoniu aromatic", "Fost produs de export"],
       en: ["Wild cinnamon growth", "Silhouette Island", "Aromatic heritage", "Former export commodity"]
-    }
-  },
+    }, image: "/poi-images/silhouette-cinnamon-forest-life-v2.webp"},
   {
     id: "vaches-marines-habitat-life-v2",
     type: "animal-habitat",
@@ -431,8 +419,7 @@ export const poiExtraSeychellesLifeV2: POI[] = [
       hu: ["Madárvédelmi sziklák", "Mahétól nyugatra", "Történelmi dugong lelőhely", "Lakatlan élőhely"],
       ro: ["Stânci pentru păsări", "La vest de Mahé", "Loc istoric pentru dugongi", "Habitat nelocuit"],
       en: ["Bird sanctuary rocks", "West of Mahé", "Historic dugong site", "Uninhabited habitat"]
-    }
-  },
+    }, image: "/poi-images/vaches-marines-habitat-life-v2.webp"},
   {
     id: "mamelles-island-colony-life-v2",
     type: "animal-habitat",

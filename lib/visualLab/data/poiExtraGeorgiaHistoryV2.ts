@@ -37,8 +37,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["A 11. században épült Arszukiszdze építész irányításával.", "A grúz királyok hagyományos koronázási és temetkezési helye."],
       ro: ["Construită în secolul al XI-lea sub conducerea arhitectului Arsukisdze.", "Locul tradițional de încoronare și înmormântare al regilor georgieni."],
       en: ["Built in the 11th century under the architect Arsukisdze.", "Traditional coronation and burial site of the Georgian kings."]
-    }
-  },
+    }, image: "/poi-images/ge-svetitskhoveli-history-v2.webp"},
   {
     id: "ge-uplistsikhe-history-v2",
     type: "ruin",
@@ -56,8 +55,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["Grúzia egyik legrégebbi városi települése.", "A pogány és a keresztény barlangépítészet keveréke."],
       ro: ["Una dintre cele mai vechi așezări urbane din Georgia.", "Un amestec de arhitectură rupestră păgână și creștină."],
       en: ["One of the oldest urban settlements in Georgia.", "A mixture of pagan and Christian cave architecture."]
-    }
-  },
+    }, image: "/poi-images/ge-uplistsikhe-history-v2.webp"},
   {
     id: "ge-vardzia-history-v2",
     type: "ruin",
@@ -75,8 +73,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["Eredetileg a város akár tizenhárom emeletből is állt.", "1283-ban egy földrengés leszakította a külső falat, feltárva a kolostort."],
       ro: ["Inițial, orașul avea până la treisprezece etaje.", "În 1283, un cutremur a dărâmat peretele exterior și a dezvăluit mănăstirea."],
       en: ["Originally, the city had up to thirteen storeys.", "In 1283, an earthquake tore off the outer wall and exposed the monastery."]
-    }
-  },
+    }, image: "/poi-images/ge-vardzia-history-v2.webp"},
   {
     id: "ge-gelati-history-v2",
     type: "historical-site",
@@ -94,8 +91,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["UNESCO világörökség, kiváló mozaikokkal és freskókkal.", "Építő Dávid király a kolostor bejárati kapujában van eltemetve."],
       ro: ["Patrimoniu UNESCO cu mozaicuri și fresce remarcabile.", "Regele David Ziditorul este înmormântat în poarta mănăstirii."],
       en: ["UNESCO World Heritage site with outstanding mosaics and frescoes.", "King David the Builder is buried in the entrance gate of the monastery."]
-    }
-  },
+    }, image: "/poi-images/ge-gelati-history-v2.webp"},
   {
     id: "ge-bagrati-history-v2",
     type: "historical-site",
@@ -113,8 +109,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["III. Bagrat királyról, az egyesített Grúzia első királyáról nevezték el.", "1692-ben az oszmán csapatok súlyosan megrongálták, a 20. században restaurálták."],
       ro: ["Numită după Regele Bagrat al III-lea, primul rege al Georgiei unite.", "Grav avariată de trupele otomane în 1692 și restaurată în secolul al XX-lea."],
       en: ["Named after King Bagrat III, the first king of united Georgia.", "Severely damaged by Ottoman troops in 1692 and restored in the 20th century."]
-    }
-  },
+    }, image: "/poi-images/ge-bagrati-history-v2.webp"},
   {
     id: "ge-gergeti-history-v2",
     type: "historical-site",
@@ -132,8 +127,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["Az inváziók idején itt rejtették el az értékes mcchetai ereklyéket.", "Meredek hegyi úton vagy egy festői túrával közelíthető meg."],
       ro: ["În timpul invaziilor, aici au fost ascunse relicve prețioase din Mțheta.", "Accesibilă printr-un drum montan abrupt sau o drumeție pitorească."],
       en: ["During times of invasion, valuable relics from Mtskheta were hidden here.", "Accessible via a steep mountain road or a picturesque hike."]
-    }
-  },
+    }, image: "/poi-images/ge-gergeti-history-v2.webp"},
   {
     id: "ge-dadiani-history-v2",
     type: "historical-site",
@@ -170,8 +164,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["A középkori Grúzia egyik leglenyűgözőbb építészeti műemlékeként tartják számon.", "A közelmúltban egy átfogó projekt keretében restaurálták."],
       ro: ["Considerat unul dintre cele mai impresionante monumente de arhitectură din Georgia medievală.", "A fost restaurat recent în cadrul unui proiect amplu."],
       en: ["Considered one of the most impressive architectural monuments of medieval Georgia.", "It was recently restored as part of a comprehensive project."]
-    }
-  },
+    }, image: "/poi-images/ge-mutso-history-v2.webp"},
   {
     id: "ge-gremi-history-v2",
     type: "historical-site",
@@ -189,8 +182,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["1565-ben építtette Levan kaheti király.", "A várost 1615-ben I. Abbász sah csapatai a földdel tették egyenlővé."],
       ro: ["Construită în 1565 de Regele Levan al Kahetiului.", "Orașul a fost ras de pe fața pământului de trupele lui Șah Abbas I în 1615."],
       en: ["Built in 1565 by King Levan of Kakheti.", "The city was razed to the ground by the troops of Shah Abbas I in 1615."]
-    }
-  },
+    }, image: "/poi-images/ge-gremi-history-v2.webp"},
   {
     id: "ge-jvari-history-v2",
     type: "historical-site",
@@ -208,8 +200,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["A Dzsvari név grúz nyelven szó szerint 'keresztet' jelent.", "Mcchetával együtt az UNESCO világörökség része."],
       ro: ["Numele Jvari înseamnă literal 'cruce' în georgiană.", "Face parte din Patrimoniul Mondial UNESCO împreună cu Mțheta."],
       en: ["The name Jvari literally means 'cross' in Georgian.", "It is a UNESCO World Heritage site together with Mtskheta."]
-    }
-  },
+    }, image: "/poi-images/ge-jvari-history-v2.webp"},
   {
     id: "ge-rabati-history-v2",
     type: "historical-site",
@@ -227,8 +218,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["A 9. században alapították Lomisza néven.", "2012-ben átfogó és nagyszabású restauráción esett át."],
       ro: ["Fondată în secolul al IX-lea sub numele de Lomisa.", "A fost restaurată complet și elaborat în 2012."],
       en: ["Founded in the 9th century under the name Lomisa.", "It underwent a comprehensive and elaborate restoration in 2012."]
-    }
-  },
+    }, image: "/poi-images/ge-rabati-history-v2.webp"},
   {
     id: "ge-khertvisi-history-v2",
     type: "historical-site",
@@ -246,8 +236,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["Egy stratégiailag tökéletes, sziklás földnyelven épült a Kr. e. 2. században.", "A legenda szerint Nagy Sándor is ostromolta a helyet."],
       ro: ["Construită pe un promontoriu stâncos, perfect din punct de vedere strategic, în secolul al II-lea î.Hr.", "Conform legendei, Alexandru cel Mare ar fi asediat locul."],
       en: ["Built on a strategically perfect rocky promontory in the 2nd century BC.", "According to legend, Alexander the Great besieged the site."]
-    }
-  },
+    }, image: "/poi-images/ge-khertvisi-history-v2.webp"},
   {
     id: "ge-david-gareja-history-v2",
     type: "historical-site",
@@ -265,8 +254,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["A komplexum több száz barlangból, kápolnából és lakóhelyiségből áll.", "Évszázadokon át a szerzetesi élet virágzó központja volt."],
       ro: ["Complexul este format din sute de peșteri, capele și spații de locuit.", "A fost un centru înfloritor al vieții monahale timp de secole."],
       en: ["The complex consists of hundreds of caves, chapels, and living quarters.", "It was a flourishing center of monastic life for centuries."]
-    }
-  },
+    }, image: "/poi-images/ge-david-gareja-history-v2.webp"},
   {
     id: "ge-gonio-history-v2",
     type: "ruin",
@@ -284,8 +272,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["Idősebb Plinius említette először az 1. században.", "A hagyomány szerint Mátyás apostol az erőd falain belül van eltemetve."],
       ro: ["A fost menționată pentru prima dată de Plinius cel Bătrân în secolul I.", "Tradiția spune că apostolul Matia ar fi înmormântat în interiorul zidurilor cetății."],
       en: ["First mentioned by Pliny the Elder in the 1st century.", "According to tradition, the Apostle Matthias is buried within the fortress walls."]
-    }
-  },
+    }, image: "/poi-images/ge-gonio-history-v2.webp"},
   {
     id: "ge-shatili-history-v2",
     type: "ruin",
@@ -303,8 +290,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["A 7. és a 13. század között alakult ki, rendkívüli elszigeteltségben.", "A grúz népi építészet egyik legkiemelkedőbb példája."],
       ro: ["A fost construit între secolele al VII-lea și al XIII-lea, într-o izolare extremă.", "Reprezintă unul dintre cele mai remarcabile exemple de arhitectură populară georgiană."],
       en: ["It originated between the 7th and 13th centuries in extreme isolation.", "It is one of the most outstanding examples of Georgian vernacular architecture."]
-    }
-  },
+    }, image: "/poi-images/ge-shatili-history-v2.webp"},
   {
     id: "ge-ananuri-history-v2",
     type: "historical-site",
@@ -322,8 +308,7 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
       hu: ["A komplexum két templomot is magában foglal, finom kőfaragásokkal a homlokzatokon.", "Számos pusztítás ellenére a pártázatok és a védőtornyok kiválóan fennmaradtak."],
       ro: ["Complexul include două biserici cu sculpturi fine în piatră pe fațade.", "În ciuda multor distrugeri, crenelurile și turnurile de apărare sunt excelent conservate."],
       en: ["The complex includes two churches with fine stone carvings on the facades.", "Despite many destructions, the battlements and defensive towers are excellently preserved."]
-    }
-  },
+    }, image: "/poi-images/ge-ananuri-history-v2.webp"},
   {
     id: "ge-didgori-history-v2",
     type: "monument",

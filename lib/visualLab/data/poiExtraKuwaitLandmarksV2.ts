@@ -23,8 +23,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["414 méter magas", "2011-ben adták át", "80 emelettel rendelkezik", "Panorámás kilátás a Perzsa-öbölre"],
       ro: ["Are 414 metri înălțime", "Finalizat în 2011", "Are 80 de etaje", "Oferă vedere panoramică la Golful Persic"],
       en: ["414 meters tall", "Completed in 2011", "Has 80 floors", "Offers panoramic views of the Arabian Gulf"]
-    }
-  },
+    }, image: "/poi-images/al-hamra-tower-landmarks-v2.webp"},
   {
     id: "grand-mosque-landmarks-v2",
     type: "landmark",
@@ -47,8 +46,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["1986-ban nyílt meg", "Akár 10 000 hívőt is befogad", "Egy 74 méter magas minaretje van", "A kupola átmérője 26 méter"],
       ro: ["Deschisă în 1986", "Poate găzdui până la 10.000 de credincioși", "Are un minaret de 74 de metri înălțime", "Cupola are un diametru de 26 de metri"],
       en: ["Opened in 1986", "Can accommodate up to 10,000 worshippers", "Features a 74-meter-tall minaret", "The dome has a diameter of 26 meters"]
-    }
-  },
+    }, image: "/poi-images/grand-mosque-landmarks-v2.webp"},
   {
     id: "liberation-tower-landmarks-v2",
     type: "landmark",
@@ -71,8 +69,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["372 méter magas", "Az építkezés az öbölháború előtt kezdődött", "Az 1991-es felszabadulásról nevezték el", "Kilátóterasszal rendelkezik"],
       ro: ["Are 372 metri înălțime", "Construcția a început înaintea Războiului din Golf", "Numit după eliberarea din 1991", "Are o punte de observație"],
       en: ["372 meters tall", "Construction began before the Gulf War", "Named after the 1991 liberation", "Features an observation deck"]
-    }
-  },
+    }, image: "/poi-images/liberation-tower-landmarks-v2.webp"},
   {
     id: "sheikh-jaber-cultural-centre-landmarks-v2",
     type: "tourist-attraction",
@@ -95,8 +92,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["A dizájn csillogó ékszerekre emlékeztet", "2016-ban nyitotta meg kapuit", "214 000 négyzetméteres területet foglal el", "Nemzetközi előadásoknak ad otthont"],
       ro: ["Designul amintește de bijuterii strălucitoare", "Deschis în 2016", "Acoperă o suprafață de 214.000 de metri pătrați", "Găzduiește spectacole internaționale"],
       en: ["Design resembles sparkling jewels", "Opened in 2016", "Covers an area of 214,000 square meters", "Hosts international performances"]
-    }
-  },
+    }, image: "/poi-images/sheikh-jaber-cultural-centre-landmarks-v2.webp"},
   {
     id: "sheikh-abdullah-cultural-centre-landmarks-v2",
     type: "tourist-attraction",
@@ -119,8 +115,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Hat fő múzeumból áll", "2018-ban nyitották meg", "A Szálmija negyedben található", "Több mint 22 galériát tartalmaz"],
       ro: ["Constă din șase muzee principale", "Deschis în 2018", "Situat în cartierul Salmiya", "Include peste 22 de galerii"],
       en: ["Consists of six main museums", "Opened in 2018", "Located in the Salmiya district", "Features over 22 galleries"]
-    }
-  },
+    }, image: "/poi-images/sheikh-abdullah-cultural-centre-landmarks-v2.webp"},
   {
     id: "souq-al-mubarakiya-landmarks-v2",
     type: "tourist-attraction",
@@ -143,8 +138,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Több mint 200 éves", "Az öbölháború után felújították", "A hagyományos kézművesség központja", "Élénk kávézóiról ismert"],
       ro: ["Are peste 200 de ani", "Restaurat după Războiul din Golf", "Centru pentru meșteșuguri tradiționale", "Cunoscut pentru cafenelele sale pline de viață"],
       en: ["Over 200 years old", "Restored after the Gulf War", "Center for traditional crafts", "Known for its bustling cafes"]
-    }
-  },
+    }, image: "/poi-images/souq-al-mubarakiya-landmarks-v2.webp"},
   {
     id: "the-avenues-landmarks-v2",
     type: "tourist-attraction",
@@ -167,8 +161,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["A világ egyik legnagyobb bevásárlóközpontja", "Több mint 1100 üzlettel rendelkezik", "A Grand Avenue része európai körutakra emlékeztet", "2007-ben nyílt meg"],
       ro: ["Unul dintre cele mai mari mall-uri din lume", "Are peste 1100 de magazine", "Designul Grand Avenue amintește de bulevardele europene", "Deschis în 2007"],
       en: ["One of the largest malls in the world", "Features over 1100 stores", "Grand Avenue zone resembles European boulevards", "Opened in 2007"]
-    }
-  },
+    }, image: "/poi-images/the-avenues-landmarks-v2.webp"},
   {
     id: "kuwait-national-museum-landmarks-v2",
     type: "tourist-attraction",
@@ -191,8 +184,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Eredetileg 1983-ban nyílt meg", "Az öbölháború alatt kifosztották, később felújították", "Michel Ecochard francia építész tervezte", "Egy planetárium is található benne"],
       ro: ["Deschis inițial în 1983", "A fost jefuit în timpul Războiului din Golf și restaurat ulterior", "Proiectat de arhitectul francez Michel Ecochard", "Include un planetariu"],
       en: ["Originally opened in 1983", "Looted during the Gulf War and later restored", "Designed by French architect Michel Ecochard", "Includes a planetarium"]
-    }
-  },
+    }, image: "/poi-images/kuwait-national-museum-landmarks-v2.webp"},
   {
     id: "scientific-center-landmarks-v2",
     type: "tourist-attraction",
@@ -215,8 +207,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Itt található a Közel-Kelet legnagyobb akváriuma", "Kuvait három fő ökoszisztémáját mutatja be", "Egy IMAX mozival is rendelkezik", "2000-ben nyitották meg"],
       ro: ["Găzduiește cel mai mare acvariu din Orientul Mijlociu", "Prezintă cele trei ecosisteme principale ale Kuweitului", "Include un cinematograf IMAX", "Deschis în 2000"],
       en: ["Houses the largest aquarium in the Middle East", "Showcases Kuwait's three main ecosystems", "Includes an IMAX theater", "Opened in 2000"]
-    }
-  },
+    }, image: "/poi-images/scientific-center-landmarks-v2.webp"},
   {
     id: "green-island-landmarks-v2",
     type: "tourist-attraction",
@@ -239,8 +230,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Az első mesterséges sziget az öbölben", "1988-ban adták át", "Importált sziklák veszik körül", "Népszerű hely piknikezéshez és kerékpározáshoz"],
       ro: ["Prima insulă artificială din Golf", "Deschisă în 1988", "Înconjurată de pietre importate", "Loc popular pentru picnicuri și plimbări cu bicicleta"],
       en: ["The first artificial island in the Gulf", "Opened in 1988", "Surrounded by imported rocks", "Popular spot for picnics and cycling"]
-    }
-  },
+    }, image: "/poi-images/green-island-landmarks-v2.webp"},
   {
     id: "al-shaheed-park-landmarks-v2",
     type: "tourist-attraction",
@@ -263,8 +253,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Magában foglalja a Habitat Múzeumot és az Emlékmúzeumot", "Fenntartható építészet jellemzi", "Több mint 2 kilométer hosszú futópályája van", "Kuvait mártírjainak szentelték"],
       ro: ["Include Muzeul Habitatului și Muzeul Memorial", "Prezintă arhitectură sustenabilă", "Are o pistă de alergare de peste 2 kilometri", "Dedicat martirilor din Kuweit"],
       en: ["Includes the Habitat Museum and the Memorial Museum", "Features sustainable architecture", "Has a running track over 2 kilometers long", "Dedicated to Kuwait's martyrs"]
-    }
-  },
+    }, image: "/poi-images/al-shaheed-park-landmarks-v2.webp"},
   {
     id: "tareq-rajab-museum-landmarks-v2",
     type: "tourist-attraction",
@@ -287,8 +276,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Több mint 30 000 műtárgynak ad otthont", "1980-ban alapították", "Ritka kéziratok figyelemre méltó gyűjteményével rendelkezik", "A gyűjteményt Tareq Rajab és felesége hozta létre"],
       ro: ["Găzduiește peste 30.000 de artefacte", "Înființat în 1980", "Prezintă o colecție remarcabilă de manuscrise rare", "Colecția a fost asamblată de Tareq Rajab și soția sa"],
       en: ["Houses over 30,000 artifacts", "Established in 1980", "Features a remarkable collection of rare manuscripts", "The collection was assembled by Tareq Rajab and his wife"]
-    }
-  },
+    }, image: "/poi-images/tareq-rajab-museum-landmarks-v2.webp"},
   {
     id: "sadu-house-landmarks-v2",
     type: "tourist-attraction",
@@ -311,8 +299,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Egy régi kuvaiti házban található", "1979-ben indult projektként", "A sivatagi élet által ihletett mintákat mutat be", "Szövőműhelyeket is szerveznek"],
       ro: ["Situat într-o casă veche kuweitiană", "A început ca un proiect în 1979", "Prezintă modele inspirate din viața în deșert", "Oferă ateliere de țesut"],
       en: ["Located in an old Kuwaiti heritage house", "Started as a project in 1979", "Showcases patterns inspired by desert life", "Offers weaving workshops"]
-    }
-  },
+    }, image: "/poi-images/sadu-house-landmarks-v2.webp"},
   {
     id: "mirror-house-landmarks-v2",
     type: "tourist-attraction",
@@ -335,8 +322,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["A világ egyetlen háza, amelyet teljesen tükrök borítanak", "Közel 70 tonna tükröt használtak fel", "A díszítés 1966-ban kezdődött", "A művész személyes tárlatvezetéseket tart"],
       ro: ["Singura casă din lume acoperită complet cu oglinzi", "S-au folosit aproape 70 de tone de oglinzi", "Decorarea a început în 1966", "Artista oferă tururi personale"],
       en: ["The only house in the world completely covered with mirrors", "Used nearly 70 tons of mirrors", "The decoration started in 1966", "The artist provides personal tours"]
-    }
-  },
+    }, image: "/poi-images/mirror-house-landmarks-v2.webp"},
   {
     id: "kuwait-water-towers-landmarks-v2",
     type: "landmark",
@@ -359,8 +345,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Sune Lindström svéd építész tervezte", "31 ilyen torony van az országban", "Az 1970-es években épültek", "Több millió gallon friss vizet tárolnak"],
       ro: ["Proiectate de arhitectul suedez Sune Lindström", "Există 31 de astfel de turnuri în țară", "Construite în anii 1970", "Pot stoca milioane de galoane de apă dulce"],
       en: ["Designed by Swedish architect Sune Lindström", "There are 31 such towers in the country", "Built in the 1970s", "They hold millions of gallons of fresh water"]
-    }
-  },
+    }, image: "/poi-images/kuwait-water-towers-landmarks-v2.webp"},
   {
     id: "jaber-causeway-landmarks-v2",
     type: "landmark",
@@ -407,8 +392,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["A nagyobb Marina World komplexum része", "Festői kilátást nyújt a jachtokra", "A helyiek népszerű találkozóhelye", "Hosszú tengerparti sétánnyal rendelkezik"],
       ro: ["Parte a complexului mai mare Marina World", "Oferă vederi pitorești la iahturi", "Un loc de întâlnire socială pentru localnici", "Are o promenadă lungă pe plajă"],
       en: ["Part of the larger Marina World complex", "Offers picturesque views of the yachts", "A popular social gathering place for locals", "Features a long beachfront promenade"]
-    }
-  },
+    }, image: "/poi-images/marina-crescent-landmarks-v2.webp"},
   {
     id: "mall-360-landmarks-v2",
     type: "tourist-attraction",
@@ -431,8 +415,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Pompás belső botanikus falairól ismert", "Egy beltéri vidámparkot is tartalmaz", "2009-ben nyílt meg", "Innovatív dizájnjáért díjakat nyert"],
       ro: ["Cunoscut pentru pereții botanici interiori magnifici", "Include un parc de distracții interior", "Deschis în 2009", "A câștigat premii pentru designul său inovator"],
       en: ["Known for its magnificent indoor botanical walls", "Includes an indoor amusement park", "Opened in 2009", "Won awards for its innovative design"]
-    }
-  },
+    }, image: "/poi-images/mall-360-landmarks-v2.webp"},
   {
     id: "kuwait-zoo-landmarks-v2",
     type: "tourist-attraction",
@@ -455,8 +438,7 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       hu: ["Az Omariya negyedben található", "Az 1990-es pusztítások után újjáépítették", "Nagy zöldterületekkel rendelkezik piknikezéshez", "Elősegíti az állatvédelmet az országban"],
       ro: ["Situată în zona Omariya", "Reconstruită după distrugerile din 1990", "Are zone verzi întinse pentru picnicuri", "Promovează conservarea faunei în țară"],
       en: ["Located in the Omariya area", "Rebuilt after the destruction in 1990", "Features large green spaces for picnics", "Promotes wildlife conservation in the country"]
-    }
-  },
+    }, image: "/poi-images/kuwait-zoo-landmarks-v2.webp"},
   {
     id: "al-kout-mall-landmarks-v2",
     type: "tourist-attraction",

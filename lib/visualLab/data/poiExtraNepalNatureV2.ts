@@ -13,8 +13,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["Magassága eléri a 8848 métert.", "Elsőként 1953-ban mászta meg Hillary és Tenzing."],
       ro: ["Atinge o altitudine de 8.848 metri.", "Prima ascensiune în 1953 de către Hillary și Tenzing."],
       en: ["Reaches an elevation of 8,848 meters.", "First ascent in 1953 by Hillary and Tenzing."]
-    }
-  },
+    }, image: "/poi-images/mount-everest-nature-v2.webp"},
   {
     id: "sagarmatha-national-park-nature-v2",
     type: "national-park",
@@ -27,8 +26,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["1976-ban alapították.", "A ritka hópárduc élőhelye."],
       ro: ["Înființat în anul 1976.", "Găzduiește leopardul de zăpadă rar."],
       en: ["Established in 1976.", "Home to the rare snow leopard."]
-    }
-  },
+    }, image: "/poi-images/sagarmatha-national-park-nature-v2.webp"},
   {
     id: "chitwan-national-park-nature-v2",
     type: "national-park",
@@ -41,8 +39,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["1973-ban alapították.", "Híres a bengáli tigrisekről és az indiai orrszarvúkról."],
       ro: ["Înființat în 1973.", "Renumit pentru tigrii bengalezi și rinocerii indieni."],
       en: ["Established in 1973.", "Famous for Bengal tigers and Indian rhinoceroses."]
-    }
-  },
+    }, image: "/poi-images/chitwan-national-park-nature-v2.webp"},
   {
     id: "bardiya-national-park-nature-v2",
     type: "national-park",
@@ -55,8 +52,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["Területe 968 négyzetkilométer.", "Fontos élőhelye a vadon élő elefántoknak."],
       ro: ["Acoperă o suprafață de 968 kilometri pătrați.", "Un habitat important pentru elefanții sălbatici."],
       en: ["Covers an area of 968 square kilometers.", "An important habitat for wild elephants."]
-    }
-  },
+    }, image: "/poi-images/bardiya-national-park-nature-v2.webp"},
   {
     id: "phewa-lake-nature-v2",
     type: "lake",
@@ -69,8 +65,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["Nepál második legnagyobb tava.", "A Tal Barahi templom a tó egyik szigetén található."],
       ro: ["Al doilea lac ca mărime din Nepal.", "Templul Tal Barahi se află pe o insulă din lac."],
       en: ["Second largest lake in Nepal.", "The Tal Barahi Temple is located on an island in the lake."]
-    }
-  },
+    }, image: "/poi-images/phewa-lake-nature-v2.webp"},
   {
     id: "rara-lake-nature-v2",
     type: "lake",
@@ -83,8 +78,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["2990 méteres magasságban fekszik.", "A Rara Nemzeti Park központja."],
       ro: ["Situat la o altitudine de 2.990 de metri.", "Piesa centrală a Parcului Național Rara."],
       en: ["Located at an altitude of 2,990 meters.", "The centerpiece of Rara National Park."]
-    }
-  },
+    }, image: "/poi-images/rara-lake-nature-v2.webp"},
   {
     id: "tilicho-lake-nature-v2",
     type: "lake",
@@ -97,8 +91,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["Körülbelül 4919 méterrel a tengerszint felett található.", "Népszerű célpont az Annapurna Circuit túrázói számára."],
       ro: ["Situat la aproape 4.919 metri deasupra nivelului mării.", "O destinație populară pentru drumeții de pe Circuitul Annapurna."],
       en: ["Located at almost 4,919 meters above sea level.", "A popular destination for trekkers on the Annapurna Circuit."]
-    }
-  },
+    }, image: "/poi-images/tilicho-lake-nature-v2.webp"},
   {
     id: "gokyo-lakes-nature-v2",
     type: "lake",
@@ -111,8 +104,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["A világ legmagasabban fekvő édesvizű tórendszere.", "Mind a hinduk, mind a buddhisták szentnek tartják."],
       ro: ["Cel mai înalt sistem de lacuri cu apă dulce din lume.", "Sunt considerate sacre atât de hinduși, cât și de budiști."],
       en: ["The world's highest freshwater lake system.", "They are considered sacred by both Hindus and Buddhists."]
-    }
-  },
+    }, image: "/poi-images/gokyo-lakes-nature-v2.webp"},
   {
     id: "langtang-national-park-nature-v2",
     type: "national-park",
@@ -125,8 +117,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["1976-ban hozták létre Katmandutól északra.", "A vörös macskamedve és a himalájai feketemedve otthona."],
       ro: ["Înființat în 1976 la nord de Kathmandu.", "Adăpostește panda roșu și ursul negru himalayan."],
       en: ["Established in 1976 north of Kathmandu.", "Home to the red panda and Himalayan black bear."]
-    }
-  },
+    }, image: "/poi-images/langtang-national-park-nature-v2.webp"},
   {
     id: "annapurna-conservation-area-nature-v2",
     type: "national-park",
@@ -139,8 +130,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["7629 négyzetkilométeres területével Nepál legnagyobb védett régiója.", "A világ leghíresebb túraútvonalainak ad otthont."],
       ro: ["Cu 7.629 kilometri pătrați, este cea mai mare regiune protejată din Nepal.", "Oferă unele dintre cele mai faimoase trasee de drumeție din lume."],
       en: ["With 7,629 square kilometers, it is Nepal's largest protected region.", "Features some of the world's most famous trekking routes."]
-    }
-  },
+    }, image: "/poi-images/annapurna-conservation-area-nature-v2.webp"},
   {
     id: "shey-phoksundo-national-park-nature-v2",
     type: "national-park",
@@ -153,8 +143,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["Itt található a mélykék Phoksundo-tó.", "Az egyetlen nemzeti park a Dolpa régióban."],
       ro: ["Include lacul albastru profund Phoksundo.", "Singurul parc național din regiunea Dolpa."],
       en: ["Contains the deep blue Phoksundo Lake.", "The only national park in the Dolpa region."]
-    }
-  },
+    }, image: "/poi-images/shey-phoksundo-national-park-nature-v2.webp"},
   {
     id: "koshi-tappu-wildlife-reserve-nature-v2",
     type: "national-park",
@@ -181,8 +170,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["Körülbelül 507 kilométer hosszú Nepálban.", "Népszerű a vadvízi evezős expedíciók körében."],
       ro: ["Are o lungime de aproximativ 507 kilometri în Nepal.", "Popular pentru expedițiile de rafting pe ape repezi."],
       en: ["About 507 kilometers long in Nepal.", "Popular for whitewater rafting expeditions."]
-    }
-  },
+    }, image: "/poi-images/karnali-river-nature-v2.webp"},
   {
     id: "kali-gandaki-river-nature-v2",
     type: "river",
@@ -195,8 +183,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["A Dhaulagiri és az Annapurna között folyik.", "Ismert a Shaligram nevű fekete ammonitesz kövületekről."],
       ro: ["Curge între Dhaulagiri și Annapurna.", "Cunoscut pentru fosilele de amoniți negri numite Shaligram."],
       en: ["Flows between Dhaulagiri and Annapurna.", "Known for black ammonite fossils called Shaligram."]
-    }
-  },
+    }, image: "/poi-images/kali-gandaki-river-nature-v2.webp"},
   {
     id: "kanchenjunga-nature-v2",
     type: "mountain",
@@ -209,8 +196,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["Magassága 8586 méter.", "A neve azt jelenti: 'A nagy hó öt kincsesháza'."],
       ro: ["Atinge o altitudine de 8.586 metri.", "Numele său înseamnă 'Cele cinci comori ale zăpezii mari'."],
       en: ["Reaches a height of 8,586 meters.", "The name means 'The Five Treasures of the High Snow'."]
-    }
-  },
+    }, image: "/poi-images/kanchenjunga-nature-v2.webp"},
   {
     id: "makalu-nature-v2",
     type: "mountain",
@@ -223,8 +209,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["8485 méter magas.", "Mindössze 19 kilométerre délkeletre fekszik a Mount Everesttől."],
       ro: ["Are o altitudine de 8.485 de metri.", "Situat la doar 19 kilometri sud-est de Muntele Everest."],
       en: ["Is 8,485 meters high.", "Located just 19 kilometers southeast of Mount Everest."]
-    }
-  },
+    }, image: "/poi-images/makalu-nature-v2.webp"},
   {
     id: "dhaulagiri-nature-v2",
     type: "mountain",
@@ -237,8 +222,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["Legmagasabb csúcsa 8167 méter.", "1960-ban mászták meg először."],
       ro: ["Cel mai înalt vârf al său măsoară 8.167 de metri.", "A fost escaladat pentru prima dată în 1960."],
       en: ["Its highest peak measures 8,167 meters.", "Was first climbed in 1960."]
-    }
-  },
+    }, image: "/poi-images/dhaulagiri-nature-v2.webp"},
   {
     id: "shivapuri-nagarjun-national-park-nature-v2",
     type: "national-park",
@@ -251,8 +235,7 @@ export const poiExtraNepalNatureV2: POI[] = [
       hu: ["Fontos vízforrásként szolgál Katmandu számára.", "Népszerű célpont egynapos túrázásokhoz."],
       ro: ["Servește ca sursă importantă de apă pentru Kathmandu.", "O destinație populară pentru drumeții de o zi."],
       en: ["Serves as a major water source for Kathmandu.", "A popular destination for day hikes."]
-    }
-  },
+    }, image: "/poi-images/shivapuri-nagarjun-national-park-nature-v2.webp"},
   {
     id: "shuklaphanta-national-park-nature-v2",
     type: "national-park",

@@ -23,8 +23,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["A foszfát fő exportpontja", "A partvidék ipari jelképe", "Összeköttetés a hahotoéi bányával", "Speciális szállítószalag-rendszerek"],
       ro: ["Principalul punct de export pentru fosfați", "Simbol industrial al coastei", "Legătură cu mina din Hahotoé", "Instalații de benzi transportoare specializate"],
       en: ["Main export point for phosphates", "Industrial landmark of the coast", "Connected to the Hahotoé mine", "Specialized conveyor belt systems"]
-    }
-  },
+    }, image: "/poi-images/kpeme-wharf-economic-v2.webp"},
   {
     id: "snpt-hahotoe-economic-v2",
     type: "industry",
@@ -71,8 +70,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Togo legnagyobb cementgyártója", "Stratégiai elhelyezkedés a kikötőnél", "Legmodernebb gyártósorok", "Fontos a regionális városfejlesztéshez"],
       ro: ["Cel mai mare producător de ciment din Togo", "Amplasare strategică lângă port", "Instalații de producție de ultimă generație", "Important pentru dezvoltarea urbană regională"],
       en: ["Largest cement producer in Togo", "Strategic location near the port", "State-of-the-art production facilities", "Crucial for regional urban development"]
-    }
-  },
+    }, image: "/poi-images/cimtogo-lome-economic-v2.webp"},
   {
     id: "wacem-tabligbo-economic-v2",
     type: "industry",
@@ -95,8 +93,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["A klinkergyártás központja", "Nagyipari komplexum", "Helyi mészkőbányákat használ", "Klinkerexport a régióba"],
       ro: ["Centrul producției de clincher", "Complex industrial de mari dimensiuni", "Utilizează cariere locale de calcar", "Export de clincher în regiune"],
       en: ["Center of clinker production", "Large-scale industrial complex", "Uses local limestone quarries", "Exports clinker to the region"]
-    }
-  },
+    }, image: "/poi-images/wacem-tabligbo-economic-v2.webp"},
   {
     id: "heidelberg-tabligbo-economic-v2",
     type: "industry",
@@ -119,8 +116,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Nyugat-Afrika legmodernebb klinkergyára", "Fenntartható gyártási technológiák", "A régió nagy foglalkoztatója", "Egy globális építőanyag-konszern része"],
       ro: ["Cea mai modernă fabrică de clincher din Africa de Vest", "Tehnologii de producție durabile", "Angajator major în regiune", "Parte a unui grup global de materiale de construcții"],
       en: ["Most modern clinker plant in West Africa", "Sustainable production technologies", "Major employer in the region", "Part of a global building materials group"]
-    }
-  },
+    }, image: "/poi-images/heidelberg-tabligbo-economic-v2.webp"},
   {
     id: "sitex-kara-economic-v2",
     type: "industry",
@@ -143,8 +139,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Togoi gyapot feldolgozása", "Észak-Togo ipari központja", "Szövetgyártás a piac számára", "A helyi értéklánc elősegítése"],
       ro: ["Prelucrarea bumbacului togolez", "Centru industrial al Togo-ului de Nord", "Producția de țesături pentru piață", "Promovarea lanțului de valoare local"],
       en: ["Processing of Togolese cotton", "Industrial center of Northern Togo", "Production of fabrics for the market", "Promotion of the local value chain"]
-    }
-  },
+    }, image: "/poi-images/sitex-kara-economic-v2.webp"},
   {
     id: "nioto-lome-economic-v2",
     type: "industry",
@@ -167,8 +162,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Étolajgyártás", "Karité-dió feldolgozása", "Fontos a helyi élelmezésbiztonsághoz", "Ipari olajütő Loméban"],
       ro: ["Producerea uleiului comestibil", "Prelucrarea nucilor de shea", "Important pentru securitatea alimentară locală", "Presă de ulei industrială în Lomé"],
       en: ["Production of cooking oil", "Processing of shea nuts", "Important for local food security", "Industrial oil mill in Lomé"]
-    }
-  },
+    }, image: "/poi-images/nioto-lome-economic-v2.webp"},
   {
     id: "bb-lome-economic-v2",
     type: "industry",
@@ -191,8 +185,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Piacvezető az italgyártásban", "Gyártóbázis a fővásonban", "Az egyik legnagyobb magánfoglalkoztató", "Ismert nemzeti márkák"],
       ro: ["Lider de piață în producția de băuturi", "Unitate de producție în capitală", "Unul dintre cei mai mari angajatori privați", "Mărci naționale cunoscute"],
       en: ["Market leader in beverages", "Production site in the capital", "One of the largest private employers", "Well-known national brands"]
-    }
-  },
+    }, image: "/poi-images/bb-lome-economic-v2.webp"},
   {
     id: "lct-lome-economic-v2",
     type: "port",
@@ -239,8 +232,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Stratégiai kikötői operátor", "Multimodális logisztikai csomópont", "Fontos a tengerparttal nem rendelkező országoknak", "Magas operatív hatékonyság"],
       ro: ["Operator portuar strategic", "Nod logistic multimodal", "Important pentru țările fără ieșire la mare", "Eficiență operațională ridicată"],
       en: ["Strategic port operator", "Multimodal logistics hub", "Crucial for landlocked countries like Mali", "High operational efficiency"]
-    }
-  },
+    }, image: "/poi-images/togo-terminal-economic-v2.webp"},
   {
     id: "pia-adetikope-economic-v2",
     type: "industry",
@@ -287,8 +279,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Olajpálma-gyümölcs feldolgozása", "Fontos üzem a Plateaux régióban", "Nyers pálmaolaj gyártása", "Kapcsolat a helyi kistermelőkkel"],
       ro: ["Prelucrarea fructelor de palmier", "Unitate importantă în regiunea Plateaux", "Producția de ulei de palmier brut", "Legătură cu micii fermieri locali"],
       en: ["Processing of oil palm fruits", "Major plant in the Plateaux region", "Production of crude palm oil", "Connected to local smallholder farmers"]
-    }
-  },
+    }, image: "/poi-images/sopal-agou-economic-v2.webp"},
   {
     id: "contourglobal-lome-economic-v2",
     type: "industry",
@@ -311,8 +302,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Termikus erőmű", "A hálózati stabilitás biztosítása", "Legmodernebb energiatechnológia", "Fontos az ipari bázis számára"],
       ro: ["Centrală termoelectrică", "Asigurarea stabilității rețelei", "Tehnologie energetică de ultimă oră", "Importantă pentru baza industrială"],
       en: ["Thermal power plant", "Ensuring grid stability", "State-of-the-art energy technology", "Crucial for the industrial base"]
-    }
-  },
+    }, image: "/poi-images/contourglobal-lome-economic-v2.webp"},
   {
     id: "stsl-fuel-depot-economic-v2",
     type: "industry",
@@ -335,8 +325,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Hatalmas tartálypark a tengerparton", "Stratégiai üzemanyag-tartalék", "Csővezetékes összeköttetés", "A szomszédos országok ellátása"],
       ro: ["Parc mare de rezervoare pe malul mării", "Rezervă strategică de combustibil", "Legătură prin conducte", "Aprovizionarea țărilor vecine"],
       en: ["Large tank farm by the sea", "Strategic fuel reserve", "Pipeline connectivity", "Supply to landlocked neighboring countries"]
-    }
-  },
+    }, image: "/poi-images/stsl-fuel-depot-economic-v2.webp"},
   {
     id: "sgmt-flour-mill-economic-v2",
     type: "industry",
@@ -359,8 +348,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Ipari lisztgyártás", "Stratégiai helyen a kikötőben", "Pékségek ellátása országszerte", "Nagy silókapacitások"],
       ro: ["Producția industrială de făină", "Amplasată strategic în port", "Aprovizionarea brutăriilor la nivel național", "Capacități mari de siloz"],
       en: ["Industrial flour production", "Strategically located at the port", "Supply to bakeries nationwide", "Large silo capacities"]
-    }
-  },
+    }, image: "/poi-images/sgmt-flour-mill-economic-v2.webp"},
   {
     id: "togo-carriere-economic-v2",
     type: "industry",
@@ -383,8 +371,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Hatalmas mészkőbánya", "A cementgyártás alapja", "Ipari robbantástechnika", "Jelentős regionális bányászat"],
       ro: ["Carieră mare de calcar", "Baza producției de ciment", "Tehnică de dinamitare industrială", "Minerit regional important"],
       en: ["Large limestone quarry", "Basis of cement production", "Industrial blasting techniques", "Significant regional mining"]
-    }
-  },
+    }, image: "/poi-images/togo-carriere-economic-v2.webp"},
   {
     id: "kekeli-power-economic-v2",
     type: "industry",
@@ -407,8 +394,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["A legmodernebb gázerőmű", "Hozzájárulás az energiaváltáshoz", "Fontos a főváros, Lomé számára", "Beruházás a modern infrastruktúrába"],
       ro: ["Cea mai modernă centrală pe gaz", "Contribuție la tranziția energetică", "Importantă pentru capitala Lomé", "Investiție în infrastructură modernă"],
       en: ["State-of-the-art gas power plant", "Contribution to the energy transition", "Crucial for the capital city Lomé", "Investment in modern infrastructure"]
-    }
-  },
+    }, image: "/poi-images/kekeli-power-economic-v2.webp"},
   {
     id: "scan-togo-economic-v2",
     type: "industry",
@@ -431,8 +417,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Nagyüzemi klinkergyártás", "Egy nemzetközi konszern része", "Munkahelyek biztosítása", "Az ipari lánc alapvető része"],
       ro: ["Instalație mare pentru producția de clincher", "Parte a unui grup internațional", "Asigurarea locurilor de muncă", "Parte esențială a lanțului industrial"],
       en: ["Large-scale clinker production facility", "Part of an international group", "Securing local jobs", "Essential part of the industrial chain"]
-    }
-  },
+    }, image: "/poi-images/scan-togo-economic-v2.webp"},
   {
     id: "pompage-lassa-economic-v2",
     type: "industry",
@@ -455,8 +440,7 @@ export const poiExtraTogoEconomicV2: POI[] = [
       hu: ["Kara központi vízellátása", "Nagyüzemi szűrőberendezések", "Fontos a közegészségügy számára", "Ipari szivattyúállomás"],
       ro: ["Alimentarea centrală cu apă pentru Kara", "Instalații de filtrare la scară mare", "Importantă pentru igiena publică", "Stație de pompare industrială"],
       en: ["Central water supply for Kara", "Large-scale technical filter systems", "Crucial for public hygiene", "Industrial pumping station"]
-    }
-  },
+    }, image: "/poi-images/pompage-lassa-economic-v2.webp"},
   {
     id: "snpt-akoumape-economic-v2",
     type: "industry",

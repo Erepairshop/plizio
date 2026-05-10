@@ -1,0 +1,90 @@
+{
+  "lang": "en",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCubaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCubaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCubaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCubaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCubaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "niquero-cities-v2",
+      "description": "A coastal town in southeastern Cuba, known for fishing, farming, and its access to the Cabo Cruz area.",
+      "facts": ["Granma Province", "Southeastern Cuba", "Coastal and rural economy"]
+    },
+    {
+      "id": "san-cristobal-cities-v2",
+      "description": "A western Cuban town in Artemisa Province, with a local role in farming and transport.",
+      "facts": ["Artemisa Province", "West of Havana", "Regional market town"]
+    },
+    {
+      "id": "batabano-cities-v2",
+      "description": "A southern coastal town and port in Mayabeque Province, facing the Gulf of Batabanó.",
+      "facts": ["Mayabeque Province", "South coast of Cuba", "Fishing and ferry link"]
+    },
+    {
+      "id": "melena-del-sur-cities-v2",
+      "description": "A municipality in Mayabeque Province, set in Cuba's fertile agricultural belt.",
+      "facts": ["Mayabeque Province", "Near Havana", "Rural farming area"]
+    },
+    {
+      "id": "majagua-cities-v2",
+      "description": "A central Cuban municipality in Ciego de Ávila Province, surrounded by farmland and sugarcane areas.",
+      "facts": ["Ciego de Ávila Province", "Central Cuba", "Agricultural municipality"]
+    },
+    {
+      "id": "calixto-garcia-cities-v2",
+      "description": "A municipality in Holguín Province, named after Cuban independence leader Calixto García.",
+      "facts": ["Holguín Province", "Eastern Cuba", "Named for Calixto García"]
+    },
+    {
+      "id": "cu-havana-port-economic-v2",
+      "description": "The main port of Havana Bay and one of Cuba's busiest maritime gateways.",
+      "facts": ["Havana Bay", "Capital-city port", "Cargo and passenger traffic"]
+    },
+    {
+      "id": "cu-matanzas-port-economic-v2",
+      "description": "A key port on Cuba's northern coast, tied to the industrial city of Matanzas.",
+      "facts": ["Northern coast", "Matanzas Bay area", "Sugar and cargo trade"]
+    },
+    {
+      "id": "cu-nuevitas-port-economic-v2",
+      "description": "A northern port in Camagüey Province that supports local industry and shipping.",
+      "facts": ["Camagüey Province", "North coast", "Industrial cargo port"]
+    },
+    {
+      "id": "cu-antilla-port-economic-v2",
+      "description": "A small port on Cuba's north coast in Holguín Province, serving local transport needs.",
+      "facts": ["Holguín Province", "North coast", "Regional shipping point"]
+    },
+    {
+      "id": "cu-cardenas-port-economic-v2",
+      "description": "A port city in Matanzas Province with a long role in sugar exports and coastal trade.",
+      "facts": ["Matanzas Province", "Near Varadero", "Sugar export history"]
+    },
+    {
+      "id": "cu-guantanamo-port-economic-v2",
+      "description": "A southeastern Cuban port linked to regional commerce and coastal shipping.",
+      "facts": ["Guantánamo Province", "Southeast Cuba", "Local cargo handling"]
+    },
+    {
+      "id": "cu-fidel-industry-economic-v2",
+      "description": "An industrial site associated with Cuba's state-led manufacturing and processing sector.",
+      "facts": ["Industrial facility", "State-run economy", "Basic production site"]
+    },
+    {
+      "id": "cu-santiago-industry-economic-v2",
+      "description": "An industrial facility in the Santiago de Cuba area, part of the city's wider economic base.",
+      "facts": ["Santiago de Cuba", "Eastern Cuba", "Industrial production"]
+    },
+    {
+      "id": "cu-sugar-mill-1-economic-v2",
+      "description": "A Cuban sugar mill representing the island's long sugar-processing tradition.",
+      "facts": ["Sugar industry", "Agricultural processing", "Cuba's export legacy"]
+    }
+  ]
+}

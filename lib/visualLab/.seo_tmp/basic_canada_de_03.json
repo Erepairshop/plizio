@@ -1,0 +1,85 @@
+{
+  "lang": "de",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-york-toronto-history-v2",
+      "description": "Eine historische Militäranlage in Toronto, die den Krieg von 1812 prägte.",
+      "facts": ["Schauplatz der Schlacht von York", "National Historic Site", "Verteidigte Oberkanada"]
+    },
+    {
+      "id": "battle-of-batoche-history-v2",
+      "description": "Die Schlacht von Batoche war ein Schlüsselereignis der Nordwest-Rebellion von 1885.",
+      "facts": ["1885 ausgetragen", "Zentral für die Métis-Geschichte", "Louis Riel war eine Schlüsselfigur"]
+    },
+    {
+      "id": "grosse-ile-irish-memorial-history-v2",
+      "description": "Grosse Île diente als Quarantänestation für Einwanderer im Sankt-Lorenz-Strom.",
+      "facts": ["19. Jahrhundert", "Wichtig für irische Einwanderung", "National Historic Site"]
+    },
+    {
+      "id": "fort-henry-kingston-history-v2",
+      "description": "Fort Henry bewachte Kingston und den Zugang zum Ontariosee.",
+      "facts": ["Über Kingston gelegen", "Schutz von Hafen und Kanal", "Bekannt als Militärmuseum"]
+    },
+    {
+      "id": "klondike-gold-rush-history-v2",
+      "description": "Der Klondike-Goldrausch löste Ende des 19. Jahrhunderts einen großen Ansturm in den Yukon aus.",
+      "facts": ["Goldfund 1896", "Dawson City als Zentrum", "Zog Tausende in den Norden"]
+    },
+    {
+      "id": "fort-langley-history-v2",
+      "description": "Fort Langley war eine frühe Handelsposten-Siedlung der Hudson's Bay Company in British Columbia.",
+      "facts": ["Am Fraser River", "Hudson's Bay Company", "Frühe Kolonialgeschichte"]
+    },
+    {
+      "id": "royal-bc-museum-history-v2",
+      "description": "Das Royal BC Museum in Victoria zeigt die Natur- und Kulturgeschichte von British Columbia.",
+      "facts": ["In Victoria", "Provinzmuseum von BC", "Starke Indigenous- und Natur-Sammlungen"]
+    },
+    {
+      "id": "fort-malden-amherstburg-history-v2",
+      "description": "Fort Malden sicherte Amherstburg am Detroit River und spielte im Krieg von 1812 eine Rolle.",
+      "facts": ["Am Detroit River", "War of 1812", "National Historic Site"]
+    },
+    {
+      "id": "gulf-of-georgia-cannery-history-v2",
+      "description": "Die Gulf of Georgia Cannery erinnert an die Fischkonserven-Industrie in Steveston bei Richmond.",
+      "facts": ["In Steveston", "Salmonkonserven an der Küste", "National Historic Site"]
+    },
+    {
+      "id": "esterhazy-flour-mill-history-v2",
+      "description": "Die Esterhazy Flour Mill steht für die frühe Getreideverarbeitung in Saskatchewan.",
+      "facts": ["In Saskatchewan", "Historische Mühle der Präriesiedler", "Zeuge des frühen Getreidehandels"]
+    },
+    {
+      "id": "confederation-bridge-landmarks-v2",
+      "description": "Die Confederation Bridge verbindet Prince Edward Island mit New Brunswick.",
+      "facts": ["12,9 Kilometer lang", "Verbindet PEI und New Brunswick", "Ganzjährig befahrbar"]
+    },
+    {
+      "id": "gooderham-building-landmarks-v2",
+      "description": "Das Gooderham Building ist ein markantes Flatiron-Gebäude in Downtown Toronto.",
+      "facts": ["Erbaut 1892", "Dreieckige Form", "Wahrzeichen im Flatiron-Stil"]
+    },
+    {
+      "id": "hartland-covered-bridge-landmarks-v2",
+      "description": "Die Hartland Covered Bridge ist die bekannteste überdachte Brücke in New Brunswick.",
+      "facts": ["Über den Saint John River", "In Hartland", "Als längste überdachte Brücke bekannt"]
+    },
+    {
+      "id": "macdonald-bridge-halifax-landmarks-v2",
+      "description": "Die Angus L. Macdonald Bridge verbindet Halifax und Dartmouth über den Hafen.",
+      "facts": ["Eröffnet 1955", "Verbindet Halifax und Dartmouth", "Hängebrücke über den Hafen"]
+    }
+  ]
+}

@@ -43,8 +43,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "The ginkgo trees are over 1,000 years old.",
         "Part of the Kaesong UNESCO World Heritage site."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-songgyungwan-history-v2.webp"},
   {
     id: "northkorea-sonjuk-bridge-history-v2",
     type: "monument",
@@ -87,8 +86,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Consists of massive, simple stone blocks.",
         "The red stain on the stone is said to be his blood."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-sonjuk-bridge-history-v2.webp"},
   {
     id: "northkorea-wang-gon-tomb-history-v2",
     type: "historical-site",
@@ -131,8 +129,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "The stone figures represent the king's guard.",
         "Symbolizes the past unity of the Korean peninsula."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-wang-gon-tomb-history-v2.webp"},
   {
     id: "northkorea-pohyon-temple-history-v2",
     type: "historical-site",
@@ -175,8 +172,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Protects woodblocks of the Tripitaka Koreana.",
         "Severely damaged during the Korean War, later restored."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-pohyon-temple-history-v2.webp"},
   {
     id: "northkorea-anak-tomb-3-history-v2",
     type: "ruin",
@@ -219,8 +215,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Part of the Goguryeo Tombs UNESCO World Heritage site.",
         "Depicts the life of the elite in antiquity."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-anak-tomb-3-history-v2.webp"},
   {
     id: "northkorea-kaesong-namdaemun-history-v2",
     type: "monument",
@@ -263,8 +258,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Houses the famous Yeonbok Bronze Bell.",
         "Faithfully reconstructed in 1954 after war damage."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-kaesong-namdaemun-history-v2.webp"},
   {
     id: "northkorea-kongmin-tomb-history-v2",
     type: "historical-site",
@@ -307,8 +301,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Adorned with artistic granite animal sculptures.",
         "One of the few unlooted royal tombs."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-kongmin-tomb-history-v2.webp"},
   {
     id: "northkorea-kwangbop-temple-history-v2",
     type: "historical-site",
@@ -351,8 +344,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Center of Korean Zen Buddhism.",
         "Contains a characteristic octagonal five-story pagoda."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-kwangbop-temple-history-v2.webp"},
   {
     id: "northkorea-anhak-palace-ruins-history-v2",
     type: "ruin",
@@ -395,8 +387,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "The surrounding wall was 2.5 kilometers long.",
         "Most important Goguryeo-era archaeological site in Pyongyang."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-anhak-palace-ruins-history-v2.webp"},
   {
     id: "northkorea-taedong-gate-history-v2",
     type: "monument",
@@ -439,8 +430,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "It was the east gate of the historical city wall of Pyongyang.",
         "One of North Korea's national cultural treasures."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-taedong-gate-history-v2.webp"},
   {
     id: "northkorea-ryongwang-pavilion-history-v2",
     type: "monument",
@@ -483,8 +473,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Houses the historic Pyongyang Bell (1726).",
         "Has been faithfully restored several times after destruction."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-ryongwang-pavilion-history-v2.webp"},
   {
     id: "northkorea-ulmil-pavilion-history-v2",
     type: "monument",
@@ -527,8 +516,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Typical conical wall structure of the Goguryeo period.",
         "Well-known viewpoint for Moran Park."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-ulmil-pavilion-history-v2.webp"},
   {
     id: "northkorea-chilsong-gate-history-v2",
     type: "monument",
@@ -571,8 +559,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Named after the constellation of the Great Bear (Seven Stars).",
         "Was completely rebuilt in 1712."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-chilsong-gate-history-v2.webp"},
   {
     id: "northkorea-woljong-temple-history-v2",
     type: "historical-site",
@@ -615,8 +602,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Preserves valuable Buddhist wall paintings.",
         "Survived the wars almost completely intact."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-woljong-temple-history-v2.webp"},
   {
     id: "northkorea-sungyang-seowon-history-v2",
     type: "historical-site",
@@ -659,8 +645,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Part of the Kaesong UNESCO World Heritage site.",
         "Displays classic Joseon wooden architecture."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-sungyang-seowon-history-v2.webp"},
   {
     id: "northkorea-manwoldae-ruins-history-v2",
     type: "ruin",
@@ -703,8 +688,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Architecture adapted to the mountain according to feng shui.",
         "Site of joint North and South Korean excavations."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-manwoldae-ruins-history-v2.webp"},
   {
     id: "northkorea-pyohun-temple-history-v2",
     type: "historical-site",
@@ -747,8 +731,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Was expanded in the 18th century.",
         "One of the few east coast temples to survive the war."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-pyohun-temple-history-v2.webp"},
   {
     id: "northkorea-kumsong-battlefield-history-v2",
     type: "battlefield",
@@ -791,8 +774,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "Moved the border again just before the armistice.",
         "Many trenches are still visible in the mountains."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-kumsong-battlefield-history-v2.webp"},
   {
     id: "northkorea-hwangryong-fortress-history-v2",
     type: "ruin",
@@ -835,8 +817,7 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
         "The wall remains are over 8 kilometers long.",
         "Consists of massive, irregular granite blocks."
       ]
-    }
-  },
+    }, image: "/poi-images/northkorea-hwangryong-fortress-history-v2.webp"},
   {
     id: "northkorea-anguk-temple-history-v2",
     type: "historical-site",

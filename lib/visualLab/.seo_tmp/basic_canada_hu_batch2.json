@@ -1,0 +1,65 @@
+{
+  "lang": "hu",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "saint-john-port-economic-v2",
+      "description": "Saint John kikötője New Brunswick egyik legfontosabb tengeri kapuja. A Fundy-öbölben fekvő mélyvizű kikötő egész évben fontos áruforgalmat kezel.",
+      "facts": ["New Brunswickban található", "A Fundy-öböl partján van", "Mélyvizű kereskedelmi kikötő"]
+    },
+    {
+      "id": "sept-iles-port-economic-v2",
+      "description": "Sept-Îles kikötője Québec északi partjának egyik kulcsfontosságú gazdasági pontja. Különösen az ércszállítás és a tengeri teherforgalom miatt jelentős.",
+      "facts": ["Québec északi partján fekszik", "Az érckivitelhez kapcsolódik", "Fontos tengeri teherkikötő"]
+    },
+    {
+      "id": "windsor-assembly-plant-economic-v2",
+      "description": "Windsor autógyártó üzeme az ontariói járműipar egyik ismert helyszíne. Az amerikai határhoz közeli város régóta az összeszerelőipar része.",
+      "facts": ["Windsorban, Ontarioban van", "Az autóiparhoz kapcsolódik", "A határ menti ipari zóna része"]
+    },
+    {
+      "id": "saskatoon-uranium-mining-economic-v2",
+      "description": "Saskatoon az uránbányászat és az ahhoz kapcsolódó vállalati háttér egyik kanadai központja. A város és környéke fontos szerepet játszik Saskatchewan bányászati gazdaságában.",
+      "facts": ["Saskatchewan legnagyobb városai közé tartozik", "Az urániparhoz kötődik", "Bányászati szolgáltató központ"]
+    },
+    {
+      "id": "nanticoke-steel-plant-economic-v2",
+      "description": "A nanticoke-i ipari övezet Ontario déli részének nehézipari térsége. A vas- és acélfeldolgozás mellett az energiaipar is meghatározó itt.",
+      "facts": ["Dél-ontariói ipari térség", "A nehéziparhoz kötődik", "Acél- és energiaipari múltja van"]
+    },
+    {
+      "id": "columbia-river-hydro-economic-v2",
+      "description": "A Columbia folyó vízenergia-rendszere Brit Columbia egyik legfontosabb energiatermelő bázisa. A gátak és erőművek a tartomány villamosenergia-ellátását támogatják.",
+      "facts": ["Brit Columbiában található", "Vízenergia-termelésre épül", "Gátak és erőművek sora alkotja"]
+    },
+    {
+      "id": "hamilton-port-economic-v2",
+      "description": "Hamilton kikötője az Ontario-tó nyugati medencéjének egyik legforgalmasabb áruforgalmi pontja. A város ipari arculatához szorosan kapcsolódik a nagy tömegű szállítmányozás.",
+      "facts": ["Az Ontario-tó partján van", "Nagy áruforgalmat kezel", "Az ipari Hamilton része"]
+    },
+    {
+      "id": "sarnia-petrochemical-economic-v2",
+      "description": "Sarnia petrolkémiai övezete Kanada egyik legismertebb vegyipari központja. A St. Clair-folyó környéki ipar a finomításra és a feldolgozásra épül.",
+      "facts": ["Ontario délnyugati részén van", "Petrolkémiai központ", "A St. Clair-folyó közelében fekszik"]
+    },
+    {
+      "id": "vancouver-grain-terminals-economic-v2",
+      "description": "Vancouver gabonatermináljai a kanadai nyugati export egyik kulcshelyszínei. A kikötőn át a prérik gabonája jut el a csendes-óceáni piacokra.",
+      "facts": ["Brit Columbia partján működik", "Gabonakivitelhez kapcsolódik", "A nyugati export fontos csomópontja"]
+    },
+    {
+      "id": "charlottetown-port-economic-v2",
+      "description": "Charlottetown kikötője Prince Edward-sziget tartományi fővárosának tengeri kapcsolatait szolgálja. A kisebb kikötő helyi szállítást, kereskedelmet és turizmust támogat.",
+      "facts": ["Prince Edward-szigeten van", "A tartományi főváros kikötője", "Helyi kereskedelmet szolgál"]
+    }
+  ]
+}

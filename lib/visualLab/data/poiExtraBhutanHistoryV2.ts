@@ -21,8 +21,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut 1649 auf Befehl von Ngawang Namgyal.", "Diente der Abwehr tibetischer Invasionen.", "Der Name bedeutet 'Festung des siegreichen Drukpa'.", "1951 durch ein Feuer fast vollständig zerstört.", "Der Wiederaufbau begann 2016.", "Liegt auf einer Höhe von ca. 2.580 Metern.", "Strategische Lage im Paro-Tal.", "Ein wichtiges nationales Symbol Bhutans."]
-    }
-  },
+    }, image: "/poi-images/drukgyel-dzong-history-v2.webp"},
   {
     id: "kyichu-lhakhang-history-v2",
     type: "historical-site",
@@ -43,8 +42,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Gegründet im 7. Jahrhundert von König Songtsen Gampo.", "Einer von 108 Tempeln zur Unterwerfung einer Dämonin.", "Beherbergt eine Statue des Jowo Jamba aus dem 7. Jh.", "1968 durch die königliche Großmutter erweitert.", "Der Guru Lhakhang beherbergt eine 5m hohe Guru Rinpoche Statue.", "Zwei Orangenbäume im Hof sollen ganzjährig Früchte tragen.", "Wichtiger Pilgerort für bhutanische Buddhisten.", "Renoviert im Jahr 1830 von Je Khenpo Sherab Gyaltshen."]
-    }
-  },
+    }, image: "/poi-images/kyichu-lhakhang-history-v2.webp"},
   {
     id: "rinpung-dzong-history-v2",
     type: "monument",
@@ -65,8 +63,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut 1646 von Ngawang Namgyal.", "Der Name bedeutet 'Festung auf einem Juwelenhaufen'.", "Beherbergt die Verwaltung des Paro-Distrikts.", "Heimat von etwa 200 Mönchen.", "Austragungsort des jährlichen Paro Tshechu Festivals.", "Erreichbar über die traditionelle Nyamai Zam Brücke.", "Drehort für Bernardo Bertoluccis Film 'Little Buddha' (1993).", "Schützte erfolgreich gegen Invasionen aus Tibet."]
-    }
-  },
+    }, image: "/poi-images/rinpung-dzong-history-v2.webp"},
   {
     id: "ta-dzong-paro-history-v2",
     type: "historical-site",
@@ -87,8 +84,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut 1649 als Wachturm für den Rinpung Dzong.", "Ungewöhnliche runde, zylindrische Form.", "Die Mauern sind bis zu 2,5 Meter dick.", "Hat insgesamt sieben Stockwerke.", "1968 in das Nationalmuseum von Bhutan umgewandelt.", "Beherbergt über 3.000 bhutanische Artefakte.", "Dokumentiert 1.500 Jahre bhutanischer Geschichte.", "Bietet einen Panoramablick auf das Paro-Tal."]
-    }
-  },
+    }, image: "/poi-images/ta-dzong-paro-history-v2.webp"},
   {
     id: "punakha-dzong-history-v2",
     type: "monument",
@@ -109,8 +105,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut 1637-38 von Ngawang Namgyal.", "Zweitältester und zweitgrößter Dzong in Bhutan.", "War bis 1955 die Hauptstadt von Bhutan.", "Krönungsort des ersten Königs im Jahr 1907.", "Liegt am Zusammenfluss der Flüsse Pho Chhu und Mo Chhu.", "Beherbergt die heiligsten Reliquien des Landes.", "Schwer beschädigt durch Gletscherfluten 1994.", "Winterresidenz des Je Khenpo (geistliches Oberhaupt)."]
-    }
-  },
+    }, image: "/poi-images/punakha-dzong-history-v2.webp"},
   {
     id: "chimi-lhakhang-history-v2",
     type: "historical-site",
@@ -131,8 +126,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut im Jahr 1499 von Ngawang Chogyel.", "Gewidmet dem 'Göttlichen Verrückten', Drukpa Kunley.", "Bekannt als der Tempel der Fruchtbarkeit.", "Pilger erhalten Segen durch einen hölzernen Phallus.", "Legende besagt, dass hier ein Dämon begraben liegt.", "Häuser in der Umgebung sind mit Phallussymbolen bemalt.", "Die ursprüngliche Stupa wurde von Drukpa Kunley selbst errichtet.", "Beherbergt eine Statue von Kunley und seinem Hund Sachi."]
-    }
-  },
+    }, image: "/poi-images/chimi-lhakhang-history-v2.webp"},
   {
     id: "khamsum-yulley-namgyal-chorten-history-v2",
     type: "monument",
@@ -153,8 +147,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut über einen Zeitraum von 9 Jahren.", "2004 von der Königinmutter geweiht.", "Dient dem Schutz vor negativen Kräften.", "Einzigartig, da es zornvollen Gottheiten gewidmet ist.", "Die Pläne basieren auf den Lehren des Dudjom Lingpa.", "Vier Stockwerke mit komplexen tantrischen Statuen.", "Der Aufstieg dauert etwa 45-60 Minuten.", "Bietet eine spektakuläre Aussicht auf das Punakha-Tal."]
-    }
-  },
+    }, image: "/poi-images/khamsum-yulley-namgyal-chorten-history-v2.webp"},
   {
     id: "tashichho-dzong-history-v2",
     type: "monument",
@@ -175,8 +168,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Ursprünglicher Bau aus dem Jahr 1216 (Dho-Ngyen Dzong).", "1641 von Ngawang Namgyal neu erbaut.", "Sitz der bhutanischen Regierung seit 1952.", "Renoviert und erweitert von 1962 bis 1969.", "Beherbergt den Thronsaal und königliche Büros.", "Sommersitz des Je Khenpo und der zentralen Mönchskörperschaft.", "Wurde ohne architektonische Pläne oder Nägel erbaut.", "Der ursprüngliche Dzong wurde 1772 durch ein Feuer zerstört."]
-    }
-  },
+    }, image: "/poi-images/tashichho-dzong-history-v2.webp"},
   {
     id: "national-memorial-chorten-history-v2",
     type: "monument",
@@ -197,8 +189,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut 1974 zum Gedenken an König Jigme Dorji Wangchuck.", "Konzipiert von Thinley Norbu Rinpoche.", "Repräsentiert den Geist (Geist) des Buddha.", "Enthält keine menschlichen Überreste.", "Ein zentraler Ort für tägliche Gebete in Thimphu.", "Verfügt über vier Stockwerke mit verschiedenen Schreinen.", "Die Außenseite ist mit Mandalas und Statuen geschmückt.", "Die Baukosten beliefen sich auf etwa 1,4 Millionen Ngultrum (1974)."]
-    }
-  },
+    }, image: "/poi-images/national-memorial-chorten-history-v2.webp"},
   {
     id: "changangkha-lhakhang-history-v2",
     type: "historical-site",
@@ -219,8 +210,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Gegründet im 12. Jahrhundert von Lama Phajo Drugom Shigpo.", "Ältester Tempel im Thimphu-Tal.", "Zentrum für die Namensgebung von Neugeborenen.", "Die Schutzgottheit ist Tamdrin (Hayagriva).", "Beherbergt eine Statue des 11-köpfigen Avalokiteshvara.", "Bietet einen Panoramablick auf Thimphu.", "Lama Phajo Drugom Shigpo hat den Drukpa-Kagyü-Buddhismus eingeführt.", "Die ursprüngliche Struktur wurde über die Jahrhunderte erweitert."]
-    }
-  },
+    }, image: "/poi-images/changangkha-lhakhang-history-v2.webp"},
   {
     id: "semtokha-dzong-history-v2",
     type: "historical-site",
@@ -241,8 +231,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut 1629 von Zhabdrung Ngawang Namgyal.", "Gilt als der erste und älteste Dzong in Bhutan.", "Der Name bedeutet 'Palast der tiefgründigen geheimen Mantras'.", "Überlebte 1630 einen Angriff von fünf rivalisierenden Lamas.", "Beherbergt heute das Institut für Sprach- und Kulturstudien.", "Strategisch günstig gelegen, um das Thimphu-Tal zu kontrollieren.", "Enthält einige der ältesten Wandmalereien des Landes.", "Wurde 1961 vom dritten König renoviert."]
-    }
-  },
+    }, image: "/poi-images/semtokha-dzong-history-v2.webp"},
   {
     id: "trongsa-dzong-history-v2",
     type: "monument",
@@ -263,8 +252,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erster Tempel an dieser Stelle wurde 1543 gegründet.", "Ausbau zum heutigen Dzong im Jahr 1644.", "Größter Dzong in Bhutan.", "Stammsitz der Wangchuck-Dynastie.", "Zukünftige Könige mussten hier als Gouverneur dienen.", "Kontrollierte den Handel zwischen Ost- und Westbhutan.", "Beherbergt 25 Tempel (Lhakhangs).", "Der Bau erstreckt sich über mehrere Ebenen eines Bergrückens."]
-    }
-  },
+    }, image: "/poi-images/trongsa-dzong-history-v2.webp"},
   {
     id: "ta-dzong-trongsa-history-v2",
     type: "historical-site",
@@ -285,8 +273,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut im 17. Jahrhundert als Wachturm.", "Diente dem Schutz des Trongsa Dzong.", "2008 in ein Museum umgewandelt.", "Gewidmet der Geschichte der Wangchuck-Dynastie.", "Beherbergt die originale Rabenkrone des ersten Königs.", "Das Museum erstreckt sich über 11 Galerien und 5 Stockwerke.", "Zeigt Artefakte aus über 100 Jahren Monarchie.", "Bietet einen 360-Grad-Blick auf das Mangde-Tal."]
-    }
-  },
+    }, image: "/poi-images/ta-dzong-trongsa-history-v2.webp"},
   {
     id: "kurjey-lhakhang-history-v2",
     type: "historical-site",
@@ -307,8 +294,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Guru Rinpoche meditierte hier im 8. Jahrhundert.", "Beherbergt den Körperabdruck von Guru Rinpoche in einem Felsen.", "Der erste Tempel wurde 1652 erbaut.", "Der Komplex besteht aus drei separaten Tempeln.", "Umgeben von einer Mauer mit 108 Chorten.", "Eine Zypresse soll aus Guru Rinpoches Stock gewachsen sein.", "Der zweite Tempel wurde von König Ugyen Wangchuck erbaut (1900).", "Ein wichtiger Pilgerort für bhutanische Buddhisten."]
-    }
-  },
+    }, image: "/poi-images/kurjey-lhakhang-history-v2.webp"},
   {
     id: "jambay-lhakhang-history-v2",
     type: "historical-site",
@@ -329,8 +315,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut im 7. Jahrhundert von König Songtsen Gampo.", "Einer von 108 Tempeln zur Zähmung einer Dämonin.", "Auf dem linken Knie der Dämonin erbaut.", "Beherbergt eine Statue des zukünftigen Buddha Maitreya.", "Austragungsort des Jambay Lhakhang Drup Festivals.", "Berühmt für den 'Tercham' (Nackttanz) und 'Mewang' (Feuersegen).", "Im 8. Jahrhundert von Guru Rinpoche besucht.", "Unter dem Haupttempel befinden sich drei heilige Steinstufen."]
-    }
-  },
+    }, image: "/poi-images/jambay-lhakhang-history-v2.webp"},
   {
     id: "jakar-dzong-history-v2",
     type: "monument",
@@ -351,8 +336,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Gründung auf ein Omen eines weißen Vogels im 16. Jh. zurückgeführt.", "Der heutige Dzong wurde 1667 erbaut.", "Umfang von über 1.500 Metern.", "Der Name bedeutet 'Festung des weißen Vogels'.", "Administratives Zentrum des Bumthang Distrikts.", "Der zentrale Turm (Utse) ist ungewöhnlich positioniert.", "Historischer Sitz der Könige der Wangchuck-Dynastie.", "Wurde im 19. Jahrhundert durch ein Erdbeben beschädigt und wiederaufgebaut."]
-    }
-  },
+    }, image: "/poi-images/jakar-dzong-history-v2.webp"},
   {
     id: "wangdue-phodrang-dzong-history-v2",
     type: "monument",
@@ -373,8 +357,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut 1638 von Zhabdrung Ngawang Namgyal.", "Strategisch günstig an einer wichtigen Straßenkreuzung gelegen.", "Der Name bedeutet 'Palast der Macht'.", "Am 24. Juni 2012 durch ein Feuer zerstört.", "Der Wiederaufbau wurde 2014 begonnen und 2022 abgeschlossen.", "Der ursprüngliche Bau soll nur ein Jahr gedauert haben.", "Wurde auf einem Bergrücken in Form eines Elefanten erbaut.", "Vor dem Brand beherbergte er 10 Tempel."]
-    }
-  },
+    }, image: "/poi-images/wangdue-phodrang-dzong-history-v2.webp"},
   {
     id: "lhuentse-dzong-history-v2",
     type: "monument",
@@ -395,8 +378,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Stammsitz der königlichen Wangchuck-Dynastie.", "Ursprünglicher Tempel 1552 von Kuenga Wangpo erbaut.", "Der heutige Dzong wurde 1654 erbaut.", "Liegt im historisch isolierten Kurtoe-Tal.", "Berühmt für die besten Textilweber des Landes.", "Beherbergt heilige Reliquien, die von Pema Lingpa entdeckt wurden.", "Verwaltungszentrum für den Distrikt Lhuentse.", "Bietet einen strategischen Blick über den Kuri Chhu Fluss."]
-    }
-  },
+    }, image: "/poi-images/lhuentse-dzong-history-v2.webp"},
   {
     id: "trashigang-dzong-history-v2",
     type: "monument",
@@ -417,8 +399,7 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Erbaut im Jahr 1659 von Minjur Tenpa.", "Der Name bedeutet 'Festung des glückverheißenden Berges'.", "Wurde nie durch Feuer oder Erdbeben zerstört.", "Strategische Lage über dem Zusammenfluss zweier Flüsse.", "War das administrative Zentrum für ganz Ost-Bhutan.", "Beherbergt ein großes jährliches Tshechu-Festival.", "Diente der Abwehr von Invasionen aus Tibet.", "Die Restaurierungsarbeiten wurden 2019 abgeschlossen."]
-    }
-  },
+    }, image: "/poi-images/trashigang-dzong-history-v2.webp"},
   {
     id: "dechen-phodrang-monastery-history-v2",
     type: "historical-site",

@@ -23,8 +23,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["A Seychelle-szigetek legmagasabb pontja", "905 méterrel a tengerszint felett", "Sűrű köderdő része", "Ritka endemikus növények otthona"],
       ro: ["Cel mai înalt punct din Seychelles", "905 metri deasupra nivelului mării", "Parte a unei păduri tropicale dense", "Găzduiește plante endemice rare"],
       en: ["Highest point in the Seychelles", "905 meters above sea level", "Part of a dense mist forest", "Home to rare endemic plants"]
-    }
-  },
+    }, image: "/poi-images/morne-seychellois-nature-v2.webp"},
   {
     id: "vallee-de-mai-nature-v2",
     type: "forest",
@@ -47,8 +46,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["UNESCO Világörökségi helyszín", "A tengerikókusz hazája", "Gyakran az 'Édenkertként' emlegetik", "A fekete papagáj élőhelye"],
       ro: ["Sit în patrimoniul UNESCO", "Casa palmierului Coco de Mer", "Supranumit adesea 'Grădina Edenului'", "Habitatul papagalului negru"],
       en: ["UNESCO World Heritage site", "Home of the Coco de Mer", "Often called the 'Garden of Eden'", "Habitat of the Black Parrot"]
-    }
-  },
+    }, image: "/poi-images/vallee-de-mai-nature-v2.webp"},
   {
     id: "anse-lazio-nature-v2",
     type: "sea",
@@ -71,8 +69,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Türkizkék víz", "Híres gránitképződmények", "Ideális úszáshoz és sznorkelezéshez", "Praslin szigetének északnyugati részén"],
       ro: ["Apă turcoaz", "Formațiuni faimoase de granit", "Ideală pentru înot și snorkeling", "În nord-vestul insulei Praslin"],
       en: ["Turquoise waters", "Famous granite formations", "Ideal for swimming and snorkeling", "Northwest of Praslin Island"]
-    }
-  },
+    }, image: "/poi-images/anse-lazio-nature-v2.webp"},
   {
     id: "anse-source-d-argent-nature-v2",
     type: "sea",
@@ -95,8 +92,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["A világ legtöbbet fotózott strandja", "Egyedülálló gránitsziklák", "Korallzátony által védett", "Kristálytiszta víz"],
       ro: ["Cea mai fotografiată plajă din lume", "Stânci de granit unice", "Protejată de un recif", "Apă de cristal"],
       en: ["Most photographed beach in the world", "Unique granite boulders", "Protected by a reef", "Crystal clear water"]
-    }
-  },
+    }, image: "/poi-images/anse-source-d-argent-nature-v2.webp"},
   {
     id: "cousin-island-nature-v2",
     type: "island",
@@ -119,8 +115,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Szigorú természetvédelmi terület", "A seychelle-szigeteki poszáta otthona", "Fontos fészkelőhely a teknősöknek", "Teljesen mentes az invazív fajoktól"],
       ro: ["Rezervație naturală strictă", "Casa pitulicei de Seychelles", "Loc important de cuibărit pentru țestoase", "Fără specii invazive"],
       en: ["Strict nature reserve", "Home of the Seychelles Warbler", "Important hawksbill turtle nesting site", "Entirely free of invasive species"]
-    }
-  },
+    }, image: "/poi-images/cousin-island-nature-v2.webp"},
   {
     id: "aride-island-nature-v2",
     type: "island",
@@ -143,8 +138,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["A legnagyobb tengeri madárpopuláció", "Érintetlen természet", "Nincsenek állandó lakosai", "Ritka endemikus növények"],
       ro: ["Cea mai mare populație de păsări marine", "Natură virgină", "Fără locuitori permanenți", "Găzduiește plante endemice rare"],
       en: ["Largest seabird population in Seychelles", "Pristine nature", "No permanent residents", "Home to rare endemic plants"]
-    }
-  },
+    }, image: "/poi-images/aride-island-nature-v2.webp"},
   {
     id: "curieuse-island-nature-v2",
     type: "island",
@@ -167,8 +161,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Több mint 200 óriásteknős", "Egykori lepratelep", "Vörös gránitsziklák", "Mangrove tanösvény"],
       ro: ["Peste 200 de țestoase uriașe", "Fostă colonie de leproși", "Stânci de granit roșu", "Traseu prin mangrove"],
       en: ["Over 200 giant tortoises", "Former leper colony", "Red granite rocks", "Mangrove boardwalk"]
-    }
-  },
+    }, image: "/poi-images/curieuse-island-nature-v2.webp"},
   {
     id: "sainte-anne-marine-nature-v2",
     type: "sea",
@@ -191,8 +184,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["1973-ban alapították", "Tökéletes sznorkelezéshez", "Rövid hajóút Victoriától", "Gazdag vízi élővilág"],
       ro: ["Fondat în 1973", "Perfect pentru snorkeling", "Scurtă călătorie cu barca din Victoria", "Viață marină bogată"],
       en: ["Established in 1973", "Perfect for snorkeling", "Short boat ride from Victoria", "Rich marine life"]
-    }
-  },
+    }, image: "/poi-images/sainte-anne-marine-nature-v2.webp"},
   {
     id: "silhouette-island-nature-v2",
     type: "island",
@@ -215,8 +207,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Nincsenek aszfaltozott utak", "Magas az endemikus fajok aránya", "Mont Dauban csúcs (740 m)", "Fontos védett terület"],
       ro: ["Fără drumuri asfaltate", "Proporție mare de specii endemice", "Muntele Mont Dauban (740m)", "Zonă protejată importantă"],
       en: ["No paved roads", "High percentage of endemic species", "Mont Dauban peak (740m)", "Crucial conservation area"]
-    }
-  },
+    }, image: "/poi-images/silhouette-island-nature-v2.webp"},
   {
     id: "bird-island-nature-v2",
     type: "island",
@@ -239,8 +230,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["A szigetcsoport legészakibb tagja", "Közvetlen közel a madárvilághoz", "Itt él 'Esmeralda' (óriásteknős)", "Nincs TV vagy telefon"],
       ro: ["Cea mai nordică insulă din Seychelles", "Aproape de lumea păsărilor", "Casa lui 'Esmeralda' (țestoasă uriașă)", "Fără televiziune sau telefoane"],
       en: ["Northernmost Seychelles island", "Up close with bird life", "Home to 'Esmeralda' (giant tortoise)", "No television or phones"]
-    }
-  },
+    }, image: "/poi-images/bird-island-nature-v2.webp"},
   {
     id: "denis-island-nature-v2",
     type: "island",
@@ -263,8 +253,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Híres a mélytengeri halászatról", "Gazdag korallzátonyok", "Fehér homokos strandok szegélyezik", "Ökológiailag fenntartható"],
       ro: ["Faimoasă pentru pescuitul la mare adâncime", "Recife de corali bogate", "Plaje cu nisip alb", "Gestionată sustenabil"],
       en: ["Known for deep-sea fishing", "Rich coral reefs", "Fringed by white sandy beaches", "Ecologically sustainable"]
-    }
-  },
+    }, image: "/poi-images/denis-island-nature-v2.webp"},
   {
     id: "aldabra-atoll-nature-v2",
     type: "island",
@@ -287,8 +276,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["UNESCO Világörökségi helyszín", "Több mint 150 000 óriásteknős", "Rendkívül elszigetelt", "Egyedülálló ökoszisztéma"],
       ro: ["Sit în patrimoniul UNESCO", "Peste 150.000 de țestoase uriașe", "Foarte izolat", "Ecosistem unic"],
       en: ["UNESCO World Heritage site", "Over 150,000 giant tortoises", "Extremely remote", "Unique ecosystem"]
-    }
-  },
+    }, image: "/poi-images/aldabra-atoll-nature-v2.webp"},
   {
     id: "desroches-island-nature-v2",
     type: "island",
@@ -311,8 +299,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["A Külső-szigetek része", "Kiváló búvárhelyek", "Hosszú homokos strandok", "Buja növényzet"],
       ro: ["Parte a Insulelor Exterioare", "Locuri excelente pentru scufundări", "Plaje lungi cu nisip", "Vegetație luxuriantă"],
       en: ["Part of the Outer Islands", "Excellent diving sites", "Long sandy beaches", "Lush vegetation"]
-    }
-  },
+    }, image: "/poi-images/desroches-island-nature-v2.webp"},
   {
     id: "mount-simpson-nature-v2",
     type: "mountain",
@@ -359,8 +346,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["A Seychelle-szigetek egyetlen felföldi mocsara", "Túrák központja", "Endemikus békák otthona", "Sűrű esőerdő"],
       ro: ["Singura mlaștină înaltă din Seychelles", "Centru pentru drumeții", "Casa broaștelor endemice", "Pădure tropicală densă"],
       en: ["Only upland swamp in Seychelles", "Hub for hiking trails", "Home to endemic frogs", "Dense rainforest"]
-    }
-  },
+    }, image: "/poi-images/mare-aux-cochons-nature-v2.webp"},
   {
     id: "fond-ferdinand-nature-v2",
     type: "forest",
@@ -383,8 +369,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Praslin legnagyobb rezervátuma", "Kilátópont a szigetekre", "A Vallée de Mai kedvezőbb árú alternatívája", "Gazdag biodiverzitás"],
       ro: ["Cea mai mare rezervație de pe Praslin", "Punct de belvedere asupra insulelor", "Alternativă mai accesibilă la Vallée de Mai", "Biodiversitate bogată"],
       en: ["Largest reserve on Praslin", "Panoramic viewpoint", "More affordable alternative to Vallée de Mai", "Rich biodiversity"]
-    }
-  },
+    }, image: "/poi-images/fond-ferdinand-nature-v2.webp"},
   {
     id: "copolia-trail-nature-v2",
     type: "mountain",
@@ -407,8 +392,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Látványos kilátás Victoriára", "Kancsóka növények a csúcson", "Viszonylag könnyű emelkedő", "Sűrű trópusi erdő"],
       ro: ["Vedere spectaculoasă asupra Victoriei", "Plante carnivore pe vârf", "Urcare relativ ușoară", "Pădure tropicală densă"],
       en: ["Spectacular view of Victoria", "Pitcher plants at the summit", "Relatively easy climb", "Lush tropical forest"]
-    }
-  },
+    }, image: "/poi-images/copolia-trail-nature-v2.webp"},
   {
     id: "north-island-nature-v2",
     type: "island",
@@ -431,8 +415,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Exkluzív öko-üdülőhely", "Fajok sikeres visszatelepítése", "Pompás homokos strandok", "Magántulajdon"],
       ro: ["Eco-resort exclusivist", "Reintroducere reușită a speciilor", "Plaje magnifice cu nisip", "Proprietate privată"],
       en: ["Exclusive eco-resort", "Successful species reintroduction", "Magnificent sandy beaches", "Private property"]
-    }
-  },
+    }, image: "/poi-images/north-island-nature-v2.webp"},
   {
     id: "fregate-island-nature-v2",
     type: "island",
@@ -455,8 +438,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["A seychelle-szigeteki szarkarigó hazája", "Hét privát strand", "Óriásteknős központ", "Legmagasabb ökológiai standardok"],
       ro: ["Casa mierlei de Seychelles", "Șapte plaje private", "Centru pentru țestoase uriașe", "Standarde ecologice înalte"],
       en: ["Home to the Seychelles Magpie Robin", "Seven private beaches", "Giant tortoise sanctuary", "High ecological standards"]
-    }
-  },
+    }, image: "/poi-images/fregate-island-nature-v2.webp"},
   {
     id: "anse-georgette-nature-v2",
     type: "sea",
@@ -479,8 +461,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Nincsenek korallok a vízben", "Intenzív türkizkék szín", "Gránitsziklák övezik", "Nagyon exkluzív"],
       ro: ["Fără corali în apă", "Culoare turcoaz intensă", "Încadrată de stânci de granit", "Foarte exclusivistă"],
       en: ["No corals in the water", "Intense turquoise color", "Framed by granite rocks", "Very exclusive"]
-    }
-  },
+    }, image: "/poi-images/anse-georgette-nature-v2.webp"},
   {
     id: "anse-intendance-nature-v2",
     type: "sea",
@@ -503,8 +484,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Erős hullámzás", "Nincs védőzátony", "Fontos teknős fészkelőhely", "Fehér porcukorszerű homok"],
       ro: ["Valuri puternice", "Fără recif de protecție", "Loc important de cuibărit pentru țestoase", "Nisip alb fin"],
       en: ["Strong surf", "No protecting reef", "Important turtle nesting site", "White powdery sand"]
-    }
-  },
+    }, image: "/poi-images/anse-intendance-nature-v2.webp"},
   {
     id: "ile-therese-nature-v2",
     type: "island",
@@ -527,8 +507,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Népszerű egynapos kirándulóhely", "Két nagy strandja van", "Lakatlan", "Port Glaud előtt fekszik"],
       ro: ["Destinație populară pentru excursii de o zi", "Două plaje mari", "Nelocuită", "Situată în fața Port Glaud"],
       en: ["Popular day trip destination", "Two large beaches", "Uninhabited", "Located off Port Glaud"]
-    }
-  },
+    }, image: "/poi-images/ile-therese-nature-v2.webp"},
   {
     id: "felicite-island-nature-v2",
     type: "island",
@@ -551,8 +530,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Privát sziget", "A tengeri park része", "Bizar gránitképződmények", "Luxus üdülőhely"],
       ro: ["Insulă privată", "Parte a parcului marin", "Formațiuni de granit bizare", "Resort de lux"],
       en: ["Private island", "Part of the marine park", "Bizarre granite formations", "Luxury resort"]
-    }
-  },
+    }, image: "/poi-images/felicite-island-nature-v2.webp"},
   {
     id: "grand-barbe-nature-v2",
     type: "forest",
@@ -575,8 +553,7 @@ export const poiExtraSeychellesNatureV2: POI[] = [
       hu: ["Egykori ültetvény", "Elszigetelt nyugati part", "Hatalmas mangroveerdő", "Csak gyalogosan érhető el"],
       ro: ["Fostă plantație", "Coastă de vest izolată", "Pădure mare de mangrove", "Accesibilă doar prin drumeție"],
       en: ["Former plantation", "Remote west coast", "Large mangrove forest", "Accessible only by hiking"]
-    }
-  },
+    }, image: "/poi-images/grand-barbe-nature-v2.webp"},
   {
     id: "morne-blanc-nature-v2",
     type: "mountain",

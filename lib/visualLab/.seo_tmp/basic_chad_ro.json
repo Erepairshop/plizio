@@ -1,0 +1,56 @@
+{
+  "lang": "ro",
+  "country": "Chad",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "am-zoer-cities-v2",
+      "description": "Am Zoer este un oraș din estul Ciadului, în regiunea Ouaddaï. Este legat mai ales de comerțul local și de activitățile pastorale.",
+      "facts": ["În estul Ciadului", "În regiunea Ouaddaï", "Lângă Abéché", "Comerț cu animale"]
+    },
+    {
+      "id": "place-de-la-nation-ndjamena-landmarks-v2",
+      "description": "Place de la Nation este piața publică centrală din N'Djamena. Aici au loc ceremonii oficiale și parade importante.",
+      "facts": ["În capitala N'Djamena", "Piață publică centrală", "Loc pentru parade", "Spațiu ceremonial"]
+    },
+    {
+      "id": "mourdi-depression-relief-v2",
+      "description": "Depresiunea Mourdi este un bazin arid din nordul Ciadului, aproape de Ennedi. Relieful ei jos marchează o zonă de tranziție în deșert.",
+      "facts": ["În nordul Ciadului", "Lângă platoul Ennedi", "Bazin arid", "Relief jos"]
+    },
+    {
+      "id": "tarso-emissti-relief-v2",
+      "description": "Tarso Emissti este un masiv vulcanic din Tibesti, în nordul Ciadului. Versanții abrupți și roca vulcanică îi dau un relief foarte fragmentat.",
+      "facts": ["Parte din Tibesti", "Origine vulcanică", "În nordul Ciadului", "Relief montan înalt"]
+    },
+    {
+      "id": "abou-telfane-massif-relief-v2",
+      "description": "Masivul Abou Telfane se ridică în regiunea Guéra, în centrul Ciadului. Este un reper local important într-un peisaj dominat de câmpii și savană.",
+      "facts": ["În regiunea Guéra", "Centrul Ciadului", "Reper geografic", "Relief izolat"]
+    },
+    {
+      "id": "djoli-hills-relief-v2",
+      "description": "Dealurile Djoli formează un relief ondulat în estul Ciadului. Ele marchează trecerea spre zone mai uscate și sunt folosite local pentru pășunat.",
+      "facts": ["În estul Ciadului", "Relief domol", "Zonă de pășunat", "Tranziție spre Sahel"]
+    },
+    {
+      "id": "biltine-plateau-relief-v2",
+      "description": "Platoul Biltine este un platou arid din estul Ciadului. Valele uscate și suprafețele stâncoase îi definesc peisajul.",
+      "facts": ["În Wadi Fira", "Platou arid", "Relief stâncos", "Aproape de Biltine"]
+    },
+    {
+      "id": "gere-massif-relief-v2",
+      "description": "Masivul Gere este o formă de relief izolată din regiunea Guéra. Oferă un microclimat ușor diferit față de câmpiile din jur.",
+      "facts": ["În centrul Ciadului", "În regiunea Guéra", "Relief izolat", "Microclimat local"]
+    },
+    {
+      "id": "dougui-forest-relief-v2",
+      "description": "Pădurea Dougui este o zonă forestieră rară din sudul Ciadului. Într-un mediu dominat de savană, are un rol important pentru sol și biodiversitate.",
+      "facts": ["În sudul Ciadului", "Ecosistem tropical", "Protejează solul", "Habitat local"]
+    }
+  ]
+}

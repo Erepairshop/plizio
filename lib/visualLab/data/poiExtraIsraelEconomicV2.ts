@@ -13,8 +13,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["1933-ban nyitották meg.", "Fontos csomópont a Földközi-tengeren.", "A Haifai-öbölben található."],
       ro: ["Deschis în anul 1933.", "Nod important la Marea Mediterană.", "Situat în Golful Haifa."],
       en: ["Opened in 1933.", "Important hub on the Mediterranean Sea.", "Located on the Bay of Haifa."]
-    }
-  },
+    }, image: "/poi-images/il-port-haifa-economic-v2.webp"},
   {
     id: "il-port-ashdod-economic-v2",
     type: "port",
@@ -41,8 +40,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["Az Akabai-öbölben fekszik.", "Fontos az ázsiai kereskedelem számára.", "Izrael legdélibb kikötője."],
       ro: ["Situat în Golful Aqaba.", "Important pentru comerțul cu Asia.", "Cel mai sudic port din Israel."],
       en: ["Located on the Gulf of Aqaba.", "Important for trade with Asia.", "Southernmost port of Israel."]
-    }
-  },
+    }, image: "/poi-images/il-port-eilat-economic-v2.webp"},
   {
     id: "il-orot-rabin-economic-v2",
     type: "energy",
@@ -55,8 +53,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["1981-ben helyezték üzembe.", "Főként szenet és gázt használ.", "Hadera mellett található."],
       ro: ["Pusă în funcțiune în 1981.", "Folosește în principal cărbune și gaz.", "Situată lângă Hadera."],
       en: ["Commissioned in 1981.", "Uses primarily coal and gas.", "Located near Hadera."]
-    }
-  },
+    }, image: "/poi-images/il-orot-rabin-economic-v2.webp"},
   {
     id: "il-rutenberg-economic-v2",
     type: "energy",
@@ -69,8 +66,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["Pinhasz Rutenbergről kapta a nevét.", "Az ország második legnagyobb erőműve.", "Közvetlenül a Földközi-tenger partján fekszik."],
       ro: ["Numită după Pinhas Rutenberg.", "A doua cea mai mare centrală din țară.", "Situată direct la Marea Mediterană."],
       en: ["Named after Pinhas Rutenberg.", "Second largest power plant in the country.", "Located directly on the Mediterranean."]
-    }
-  },
+    }, image: "/poi-images/il-rutenberg-economic-v2.webp"},
   {
     id: "il-reading-economic-v2",
     type: "energy",
@@ -83,8 +79,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["1938-ban nyitották meg.", "A Jarkon folyó torkolatánál fekszik.", "Bauhaus stílusú építészet."],
       ro: ["Deschisă în anul 1938.", "Situată la gura râului Yarkon.", "Arhitectură în stil Bauhaus."],
       en: ["Opened in 1938.", "Located at the mouth of the Yarkon.", "Bauhaus-style architecture."]
-    }
-  },
+    }, image: "/poi-images/il-reading-economic-v2.webp"},
   {
     id: "il-ashalim-economic-v2",
     type: "energy",
@@ -97,8 +92,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["A torony magassága több mint 240 méter.", "Több ezer tükröt használ.", "Fontos a zöld energia szempontjából Izraelben."],
       ro: ["Înălțimea turnului este de peste 240 de metri.", "Folosește mii de oglinzi.", "Importantă pentru energia verde în Israel."],
       en: ["Tower height of over 240 meters.", "Uses thousands of mirrors.", "Important for green energy in Israel."]
-    }
-  },
+    }, image: "/poi-images/il-ashalim-economic-v2.webp"},
   {
     id: "il-haifa-refinery-economic-v2",
     type: "industry",
@@ -111,8 +105,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["A brit mandátum idején alapították.", "A Bazan csoport része.", "Fontos a petrolkémiai ipar számára."],
       ro: ["Fondată în perioada mandatului britanic.", "Aparține Grupului Bazan.", "Importantă pentru industria petrochimică."],
       en: ["Founded during the British Mandate.", "Part of the Bazan Group.", "Important for the petrochemical industry."]
-    }
-  },
+    }, image: "/poi-images/il-haifa-refinery-economic-v2.webp"},
   {
     id: "il-ashdod-refinery-economic-v2",
     type: "industry",
@@ -125,8 +118,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["1973-ban helyezték üzembe.", "Izrael második legnagyobb finomítója.", "Üzemanyagokat és vegyszereket gyárt."],
       ro: ["Pusă în funcțiune în 1973.", "A doua rafinărie ca mărime din Israel.", "Produce combustibili și substanțe chimice."],
       en: ["Commissioned in 1973.", "Second largest refinery in Israel.", "Produces fuels and chemicals."]
-    }
-  },
+    }, image: "/poi-images/il-ashdod-refinery-economic-v2.webp"},
   {
     id: "il-dead-sea-works-economic-v2",
     type: "industry",
@@ -139,8 +131,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["1929-ben alapították.", "A világ egyik legnagyobb műtrágyagyártója.", "A tó déli medencéjénél található."],
       ro: ["Fondată în anul 1929.", "Unul dintre cei mai mari producători de îngrășăminte.", "Situată pe bazinul sudic al mării."],
       en: ["Founded in 1929.", "One of the world's largest fertilizer producers.", "Located on the southern basin of the sea."]
-    }
-  },
+    }, image: "/poi-images/il-dead-sea-works-economic-v2.webp"},
   {
     id: "il-ramat-hovav-economic-v2",
     type: "industry",
@@ -153,8 +144,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["Beér-Seva városától délre fekszik.", "A nehéziparra összpontosít.", "Veszélyes hulladék lerakóval rendelkezik."],
       ro: ["Situată la sud de Beer Șeva.", "Se concentrează pe industria grea.", "Dispune de un depozit de deșeuri periculoase."],
       en: ["Located south of Beersheba.", "Focus on heavy industry.", "Has a hazardous waste landfill."]
-    }
-  },
+    }, image: "/poi-images/il-ramat-hovav-economic-v2.webp"},
   {
     id: "il-diamond-exchange-economic-v2",
     type: "trade-hub",
@@ -167,8 +157,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["Négy felhőkarcolóból álló komplexum.", "Szigorú biztonsági intézkedések jellemzik.", "Hatalmas exportvolumenért felelős."],
       ro: ["Un complex format din patru zgârie-nori.", "Măsuri stricte de securitate.", "Responsabil pentru volume uriașe de export."],
       en: ["A complex of four skyscrapers.", "Strict security measures.", "Responsible for huge export volumes."]
-    }
-  },
+    }, image: "/poi-images/il-diamond-exchange-economic-v2.webp"},
   {
     id: "il-matam-park-economic-v2",
     type: "industry",
@@ -181,8 +170,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["Az 1970-es években alapították.", "Az izraeli innováció központja.", "Mérnökök tízezreit foglalkoztatja."],
       ro: ["Fondat în anii 1970.", "Centrul inovației israeliene.", "Angajează zeci de mii de ingineri."],
       en: ["Founded in the 1970s.", "Hub of Israeli innovation.", "Employs tens of thousands of engineers."]
-    }
-  },
+    }, image: "/poi-images/il-matam-park-economic-v2.webp"},
   {
     id: "il-airport-city-economic-v2",
     type: "trade-hub",
@@ -195,8 +183,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["Központi elhelyezkedés Izraelben.", "Sok vállalati központ székhelye.", "Jelentős raktárkapacitást kínál."],
       ro: ["Locație centrală în Israel.", "Sediul multor corporații.", "Oferă capacități mari de depozitare."],
       en: ["Central location in Israel.", "Headquarters of many corporations.", "Offers large storage capacities."]
-    }
-  },
+    }, image: "/poi-images/il-airport-city-economic-v2.webp"},
   {
     id: "il-sorek-desalination-economic-v2",
     type: "industry",
@@ -209,8 +196,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["2013-ban kezdte meg működését.", "Több millió köbméter vizet termel.", "Fejlett szűréstechnikát alkalmaz."],
       ro: ["A intrat în funcțiune în 2013.", "Produce milioane de metri cubi de apă.", "Utilizează tehnologie avansată de filtrare."],
       en: ["Began operations in 2013.", "Produces millions of cubic meters of water.", "Uses advanced filtration technology."]
-    }
-  },
+    }, image: "/poi-images/il-sorek-desalination-economic-v2.webp"},
   {
     id: "il-hadera-desalination-economic-v2",
     type: "industry",
@@ -223,8 +209,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["2009-ben nyitották meg.", "A maga nemében az egyik legnagyobb létesítmény.", "Szorosan együttműködik az erőművel."],
       ro: ["Deschisă în anul 2009.", "Una dintre cele mai mari facilități de acest gen.", "Lucrează îndeaproape cu centrala electrică."],
       en: ["Opened in 2009.", "One of the largest facilities of its kind.", "Works closely with the power plant."]
-    }
-  },
+    }, image: "/poi-images/il-hadera-desalination-economic-v2.webp"},
   {
     id: "il-zin-mine-economic-v2",
     type: "mine",
@@ -237,8 +222,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["Mélyen a sivatagi tájban fekszik.", "Értékes nyersanyagokat biztosít.", "Az izraeli műtrágyagyártás része."],
       ro: ["Situată adânc în peisajul deșertic.", "Asigură materii prime valoroase.", "Parte a producției israeliene de îngrășăminte."],
       en: ["Located deep in the desert landscape.", "Secures valuable raw materials.", "Part of Israeli fertilizer production."]
-    }
-  },
+    }, image: "/poi-images/il-zin-mine-economic-v2.webp"},
   {
     id: "il-ashkelon-terminal-economic-v2",
     type: "trade-hub",
@@ -251,8 +235,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["Az EAPC vezeték része.", "Nagy szupertankereket is képes fogadni.", "Stratégiailag fontos infrastruktúra."],
       ro: ["Parte a conductei EAPC.", "Poate deservi supertancuri mari.", "Infrastructură strategică importantă."],
       en: ["Part of the EAPC pipeline.", "Can handle large supertankers.", "Strategically important infrastructure."]
-    }
-  },
+    }, image: "/poi-images/il-ashkelon-terminal-economic-v2.webp"},
   {
     id: "il-osem-sderot-economic-v2",
     type: "industry",
@@ -265,8 +248,7 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["A régió egyik legnagyobb munkaadója.", "A híres Bamba snackeket is gyártja.", "Az ipari ellenállóképesség szimbóluma."],
       ro: ["Unul dintre cei mai mari angajatori din regiune.", "Produce faimoasele gustări Bamba.", "Simbol al rezilienței industriale."],
       en: ["One of the largest employers in the region.", "Produces the famous Bamba snacks.", "Symbol of industrial resilience."]
-    }
-  },
+    }, image: "/poi-images/il-osem-sderot-economic-v2.webp"},
   {
     id: "il-caesarea-park-economic-v2",
     type: "industry",

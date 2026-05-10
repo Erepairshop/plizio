@@ -35,8 +35,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "It was part of the ancient Silk Road city of Balasagun.",
         "The minaret was originally 45 meters high but lost its top during an earthquake."
       ]
-    }
-  },
+    }, image: "/poi-images/burana-tower-landmarks-v2.webp"},
   {
     id: "tash-rabat-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "It was used as a resting place for travelers and merchants.",
         "The structure is made of stone and features 31 rooms."
       ]
-    }
-  },
+    }, image: "/poi-images/tash-rabat-landmarks-v2.webp"},
   {
     id: "sulaiman-too-landmarks-v2",
     type: "landmark",
@@ -107,8 +105,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "It is Kyrgyzstan's first UNESCO World Heritage site.",
         "Features ancient petroglyphs and a cave shrine."
       ]
-    }
-  },
+    }, image: "/poi-images/sulaiman-too-landmarks-v2.webp"},
   {
     id: "jeti-oguz-rocks-landmarks-v2",
     type: "landmark",
@@ -143,8 +140,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "The name translates to Seven Bulls.",
         "It is a popular destination for hikers and photographers."
       ]
-    }
-  },
+    }, image: "/poi-images/jeti-oguz-rocks-landmarks-v2.webp"},
   {
     id: "skazka-canyon-landmarks-v2",
     type: "landmark",
@@ -179,8 +175,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "The landscape was shaped by wind and water erosion.",
         "The rocks change color dramatically depending on the sunlight."
       ]
-    }
-  },
+    }, image: "/poi-images/skazka-canyon-landmarks-v2.webp"},
   {
     id: "rukh-ordo-landmarks-v2",
     type: "landmark",
@@ -215,8 +210,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "Founded in 2002 as a place of tolerance and culture.",
         "Located right on the shores of Lake Issyk-Kul."
       ]
-    }
-  },
+    }, image: "/poi-images/rukh-ordo-landmarks-v2.webp"},
   {
     id: "holy-trinity-karakol-landmarks-v2",
     type: "landmark",
@@ -251,8 +245,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "It is one of the few preserved wooden churches in the region.",
         "After the revolution, the building was used as a school and a sports hall."
       ]
-    }
-  },
+    }, image: "/poi-images/holy-trinity-karakol-landmarks-v2.webp"},
   {
     id: "dungan-mosque-landmarks-v2",
     type: "landmark",
@@ -323,8 +316,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "Manas is the central hero of the Kyrgyz national epic.",
         "The park includes a museum and a large ritual mound."
       ]
-    }
-  },
+    }, image: "/poi-images/manas-ordo-landmarks-v2.webp"},
   {
     id: "ala-too-square-landmarks-v2",
     type: "landmark",
@@ -359,8 +351,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "It was formerly known as Lenin Square.",
         "The changing of the guard at the flagpole takes place daily."
       ]
-    }
-  },
+    }, image: "/poi-images/ala-too-square-landmarks-v2.webp"},
   {
     id: "state-history-museum-landmarks-v2",
     type: "landmark",
@@ -395,8 +386,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "The building features distinctive Soviet modernist architecture.",
         "Houses extensive collections of traditional Kyrgyz carpets."
       ]
-    }
-  },
+    }, image: "/poi-images/state-history-museum-landmarks-v2.webp"},
   {
     id: "victory-square-bishkek-landmarks-v2",
     type: "landmark",
@@ -431,8 +421,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "Opened in 1985 for the 40th anniversary of victory in WWII.",
         "The central flame burns continuously in honor of the fallen."
       ]
-    }
-  },
+    }, image: "/poi-images/victory-square-bishkek-landmarks-v2.webp"},
   {
     id: "osh-bazaar-landmarks-v2",
     type: "landmark",
@@ -467,8 +456,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "An ideal place to try kurut (dried yogurt balls).",
         "Considered one of the most authentic markets in Central Asia."
       ]
-    }
-  },
+    }, image: "/poi-images/osh-bazaar-landmarks-v2.webp"},
   {
     id: "uzgen-minaret-landmarks-v2",
     type: "landmark",
@@ -503,8 +491,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "Belonged to a mosque that was destroyed in the 12th century.",
         "Nearby are three well-preserved mausoleums."
       ]
-    }
-  },
+    }, image: "/poi-images/uzgen-minaret-landmarks-v2.webp"},
   {
     id: "cholpon-ata-petroglyphs-landmarks-v2",
     type: "landmark",
@@ -539,8 +526,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "Some of the carvings are over 4000 years old.",
         "The stones were deposited by glaciers from the Tian Shan mountains."
       ]
-    }
-  },
+    }, image: "/poi-images/cholpon-ata-petroglyphs-landmarks-v2.webp"},
   {
     id: "saimaluu-tash-landmarks-v2",
     type: "landmark",
@@ -575,8 +561,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "The name translates to Patterned Stone.",
         "The site is accessible only for a few summer months a year."
       ]
-    }
-  },
+    }, image: "/poi-images/saimaluu-tash-landmarks-v2.webp"},
   {
     id: "kurmanjan-datka-monument-landmarks-v2",
     type: "landmark",
@@ -611,8 +596,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "Replaced an old Lenin statue at this location in 2004.",
         "Kurmanjan Datka led her people during the 19th century."
       ]
-    }
-  },
+    }, image: "/poi-images/kurmanjan-datka-monument-landmarks-v2.webp"},
   {
     id: "osh-lenin-statue-landmarks-v2",
     type: "landmark",
@@ -647,8 +631,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "The statue is over 25 meters tall.",
         "It symbolically faces the city hall of Osh."
       ]
-    }
-  },
+    }, image: "/poi-images/osh-lenin-statue-landmarks-v2.webp"},
   {
     id: "ata-beyit-landmarks-v2",
     type: "landmark",
@@ -683,8 +666,7 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
         "137 victims of the 1938 Stalinist purges rest here.",
         "The famous Kyrgyz writer Chinghiz Aitmatov is buried here."
       ]
-    }
-  },
+    }, image: "/poi-images/ata-beyit-landmarks-v2.webp"},
   {
     id: "karakol-historical-museum-landmarks-v2",
     type: "landmark",

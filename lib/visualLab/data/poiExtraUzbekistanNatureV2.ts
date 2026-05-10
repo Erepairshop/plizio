@@ -13,8 +13,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Korábban a Föld negyedik legnagyobb beltengereként tartották számon.", "Kiszáradása az egyik legnagyobb környezeti katasztrófa."],
       ro: ["A fost considerat anterior al patrulea cel mai mare lac interior de pe Pământ.", "Secarea sa este una dintre cele mai mari catastrofe ecologice."],
       en: ["Formerly considered the fourth largest inland lake on Earth.", "Its drying up is one of the greatest environmental disasters."]
-    }
-  },
+    }, image: "/poi-images/aral-sea-nature-v2.webp"},
   {
     id: "aydar-lake-nature-v2",
     type: "lake",
@@ -27,8 +26,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Más tavakkal együtt alkotja az Arnasay-tórendszert.", "Fontos terület a vándormadarak és a halászat számára."],
       ro: ["Împreună cu alte lacuri formează sistemul de lacuri Arnasay.", "O zonă importantă pentru păsările migratoare și pescuit."],
       en: ["Together with other lakes it forms the Arnasay lake system.", "An important area for migratory birds and fishing."]
-    }
-  },
+    }, image: "/poi-images/aydar-lake-nature-v2.webp"},
   {
     id: "charvak-reservoir-nature-v2",
     type: "lake",
@@ -41,8 +39,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["1970-ben töltötték fel a gát megépítése után.", "Strandokat és vízi sportolási lehetőségeket kínál a turistáknak."],
       ro: ["A fost umplut în 1970 după construcția barajului.", "Oferă plaje și sporturi nautice pentru turiști."],
       en: ["Was filled in 1970 after the construction of the dam.", "Offers beaches and water sports for tourists."]
-    }
-  },
+    }, image: "/poi-images/charvak-reservoir-nature-v2.webp"},
   {
     id: "sarykamysh-lake-nature-v2",
     type: "lake",
@@ -55,8 +52,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Neve a türk nyelveken 'sárga nádat' jelent.", "Az Aral-tó zsugorodása után jelentősen megnőtt a mérete."],
       ro: ["Numele său înseamnă 'stuf galben' în limbile turcice.", "A crescut semnificativ după micșorarea Mării Aral."],
       en: ["Its name means 'yellow reed' in Turkic languages.", "Has grown significantly after the shrinking of the Aral Sea."]
-    }
-  },
+    }, image: "/poi-images/sarykamysh-lake-nature-v2.webp"},
   {
     id: "tudakul-lake-nature-v2",
     type: "lake",
@@ -69,8 +65,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["A tó vize enyhén sós.", "Fontos pihenőhely a vándorló madarak számára."],
       ro: ["Apa lacului este ușor sărată.", "Servește ca loc important de odihnă pentru păsările migratoare."],
       en: ["The water of the lake is slightly salty.", "Serves as an important resting place for migratory birds."]
-    }
-  },
+    }, image: "/poi-images/tudakul-lake-nature-v2.webp"},
   {
     id: "amu-darya-nature-v2",
     type: "river",
@@ -83,8 +78,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Nagy részben a természetes határt képezi Afganisztánnal.", "Vizét intenzíven használják a pamuttermesztéshez."],
       ro: ["Formează o mare parte a graniței cu Afganistanul.", "Apa sa este folosită intens pentru cultivarea bumbacului."],
       en: ["Forms a large part of the border with Afghanistan.", "Its water is intensively used for cotton cultivation."]
-    }
-  },
+    }, image: "/poi-images/amu-darya-nature-v2.webp"},
   {
     id: "syr-darya-nature-v2",
     type: "river",
@@ -97,8 +91,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Az ókorban Jaxartes néven ismerték.", "Északon több nagy víztározó is duzzasztja."],
       ro: ["În antichitate era cunoscut sub numele de Jaxartes.", "Se acumulează în nord în mai multe rezervoare mari."],
       en: ["Was known in antiquity as the Jaxartes.", "Dammed in the north in several large reservoirs."]
-    }
-  },
+    }, image: "/poi-images/syr-darya-nature-v2.webp"},
   {
     id: "zarafshan-river-nature-v2",
     type: "river",
@@ -111,8 +104,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Neve perzsául 'aranyhintőt' jelent.", "Már nem éri el az Amu-darját, mert a sivatagban elszivárog."],
       ro: ["Numele înseamnă 'răspânditor de aur' în persană.", "Nu mai ajunge în Amu Daria, deoarece seacă în deșert."],
       en: ["The name means 'gold-spreader' in Persian.", "No longer reaches the Amu Darya as it soaks into the desert."]
-    }
-  },
+    }, image: "/poi-images/zarafshan-river-nature-v2.webp"},
   {
     id: "khazret-sultan-nature-v2",
     type: "mountain",
@@ -125,8 +117,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Magassága eléri a 4643 métert a tengerszint felett.", "Kihívást jelentő célpont a régió hegymászói számára."],
       ro: ["Atinge o altitudine de 4.643 de metri deasupra nivelului mării.", "Este o destinație provocatoare pentru alpiniștii din regiune."],
       en: ["Reaches an altitude of 4,643 meters above sea level.", "Is a challenging destination for mountaineers in the region."]
-    }
-  },
+    }, image: "/poi-images/khazret-sultan-nature-v2.webp"},
   {
     id: "greater-chimgan-nature-v2",
     type: "mountain",
@@ -139,8 +130,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["A hegycsúcs 3309 méter magasan fekszik.", "Festői tája miatt 'üzbég Svájcnak' is nevezik."],
       ro: ["Vârful muntelui este la 3.309 metri altitudine.", "Este supranumit 'Elveția uzbecă' datorită peisajului său pitoresc."],
       en: ["The peak of the mountain is at 3,309 meters.", "It is dubbed the 'Uzbek Switzerland' due to its picturesque landscape."]
-    }
-  },
+    }, image: "/poi-images/greater-chimgan-nature-v2.webp"},
   {
     id: "mount-adelung-nature-v2",
     type: "mountain",
@@ -153,8 +143,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["3999 méteres magasságával éppen csak elmarad a 4000 méteres határtól.", "Taskent tartomány legészakkeletibb részén található."],
       ro: ["La 3.999 de metri, ratează la limită pragul de 4000 de metri.", "Situat în nord-estul extrem al regiunii Tașkent."],
       en: ["At 3,999 meters, it just misses the 4,000-meter mark.", "Located in the extreme northeast of the Tashkent Region."]
-    }
-  },
+    }, image: "/poi-images/mount-adelung-nature-v2.webp"},
   {
     id: "mount-beshtor-nature-v2",
     type: "mountain",
@@ -167,8 +156,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Magassága több mint 4299 méter, ami rendkívül elszigeteltté teszi.", "Északi lejtőit gleccserek borítják."],
       ro: ["Înălțimea este de peste 4.299 de metri, fiind extrem de izolat.", "Pantele nordice sunt acoperite de ghețari."],
       en: ["The height is over 4,299 meters, making it extremely remote.", "The northern slopes are covered with glaciers."]
-    }
-  },
+    }, image: "/poi-images/mount-beshtor-nature-v2.webp"},
   {
     id: "ugam-chatkal-national-park-nature-v2",
     type: "national-park",
@@ -181,8 +169,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Az UNESCO Nyugati Tien-san világörökség része.", "Ritka fajoknak ad otthont, mint a hópárduc és a barna medve."],
       ro: ["Face parte din Patrimoniul Mondial UNESCO Tian Shan de Vest.", "Găzduiește specii rare, cum ar fi leopardul zăpezilor și ursul brun."],
       en: ["Part of the UNESCO World Heritage Site Western Tian Shan.", "Home to rare species such as the snow leopard and the brown bear."]
-    }
-  },
+    }, image: "/poi-images/ugam-chatkal-national-park-nature-v2.webp"},
   {
     id: "zaamin-national-park-nature-v2",
     type: "national-park",
@@ -195,8 +182,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["1976-ban alapították az egyedülálló borókaerdő ökológiájának védelme érdekében.", "Fontos élőhelyet biztosít az ázsiai fekete medve számára."],
       ro: ["Fondat în 1976 pentru a proteja ecologia unică a pădurii de ienupăr.", "Oferă habitate importante pentru ursul negru asiatic."],
       en: ["Founded in 1976 to protect the unique juniper forest ecology.", "Provides important habitats for the Asian black bear."]
-    }
-  },
+    }, image: "/poi-images/zaamin-national-park-nature-v2.webp"},
   {
     id: "nuratau-kyzylkum-reserve-nature-v2",
     type: "national-park",
@@ -209,8 +195,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Védi a Szevercov-vadjuh endemikus populációját.", "Sivatagi, sztyeppei és hegyi ökoszisztémákat köt össze."],
       ro: ["Protejează populația endemică a oii sălbatice Severtsov.", "Conectează ecosistemele de deșert, stepă și munte."],
       en: ["Protects the endemic population of the Severtsov wild sheep.", "Connects desert, steppe and mountain ecosystems."]
-    }
-  },
+    }, image: "/poi-images/nuratau-kyzylkum-reserve-nature-v2.webp"},
   {
     id: "gissar-reserve-nature-v2",
     type: "national-park",
@@ -223,8 +208,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["Magában foglalja a híres Tamerlán-barlangot és rejtett vízeséseket.", "1983-ban alapították a ritka állat- és növényfajok megőrzésére."],
       ro: ["Include celebra Peșteră Tamerlan și cascade ascunse.", "A fost înființată în 1983 pentru a conserva speciile rare."],
       en: ["Includes the famous Tamerlane Cave and hidden waterfalls.", "Was established in 1983 to preserve rare animal and plant species."]
-    }
-  },
+    }, image: "/poi-images/gissar-reserve-nature-v2.webp"},
   {
     id: "surkhan-reserve-nature-v2",
     type: "national-park",
@@ -251,8 +235,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["A rezervátum a biológiai sokféleség oázisa egy egyébként sivatagos régióban.", "Sikeres központ a buharai szarvas visszatelepítésére."],
       ro: ["Rezervația este o oază de biodiversitate într-o regiune altfel deșertică.", "Centru de succes pentru reintroducerea cerbului de Buhara."],
       en: ["The reserve is an oasis of biodiversity in an otherwise desert region.", "Successful center for the reintroduction of the Bukhara deer."]
-    }
-  },
+    }, image: "/poi-images/badai-tugai-reserve-nature-v2.webp"},
   {
     id: "zeravshan-reserve-nature-v2",
     type: "forest",
@@ -265,8 +248,7 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
       hu: ["A régió egyedülálló tugáj-erdeinek megmentésére alapították.", "Fontos élőhelye a ritka zarafsoni fácánnak."],
       ro: ["A fost fondată pentru a salva pădurile unice tugai din regiune.", "Este un habitat important pentru rarul fazan de Zarafșan."],
       en: ["Was founded to save the unique tugai forests of the region.", "It is an important habitat for the rare Zarafshan pheasant."]
-    }
-  },
+    }, image: "/poi-images/zeravshan-reserve-nature-v2.webp"},
   {
     id: "kitab-reserve-nature-v2",
     type: "mountain",

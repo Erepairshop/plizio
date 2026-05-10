@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "minago-cities-v2",
+      "description": "Minago liegt im Süden Burundis und ist ein ländlich geprägter Ort mit engem Bezug zu Landwirtschaft und regionalem Handel.",
+      "facts": ["Südburundi", "Agrarort", "lokaler Markt"]
+    },
+    {
+      "id": "isale-cities-v2",
+      "description": "Isale liegt westlich von Bujumbura in den Hügeln über der Hauptstadt. Der Ort ist vor allem für Gemüseanbau und kleine Siedlungen bekannt.",
+      "facts": ["Bujumbura-Rural", "Hügel über der Stadt", "Gemüseanbau"]
+    },
+    {
+      "id": "bugendana-cities-v2",
+      "description": "Bugendana liegt nördlich von Gitega im zentralen Burundi. Der Ort ist ein ländliches Zentrum mit Feldern und kleinen Märkten.",
+      "facts": ["nördlich von Gitega", "ländlich", "Agrarmarkt"]
+    },
+    {
+      "id": "giheta-cities-v2",
+      "description": "Giheta liegt westlich von Gitega und ist für Handwerk und kulturelle Orte bekannt. Der Ort verbindet ländliches Leben mit regionaler Kultur.",
+      "facts": ["nahe Gitega", "Kunsthandwerk", "Kulturort"]
+    },
+    {
+      "id": "vyanda-cities-v2",
+      "description": "Vyanda liegt im Süden Burundis nahe dem gleichnamigen Waldreservat. Die Gegend ist von Wald, Landwirtschaft und Biodiversität geprägt.",
+      "facts": ["südliches Burundi", "nahe Waldreservat", "Biodiversität"]
+    },
+    {
+      "id": "mugamba-cities-v2",
+      "description": "Mugamba liegt im kühlen Hochland der Provinz Bururi. Der Ort ist von Teegebieten und bergiger Landwirtschaft umgeben.",
+      "facts": ["Bururi-Hochland", "Teeanbau", "kühler Ort"]
+    },
+    {
+      "id": "kayokwe-cities-v2",
+      "description": "Kayokwe liegt in der Provinz Mwaro im zentralen Burundi. Felder und kleine Handelswege prägen das Umfeld des Ortes.",
+      "facts": ["Mwaro", "Zentralburundi", "Handel"]
+    },
+    {
+      "id": "gisozi-cities-v2",
+      "description": "Gisozi liegt in der Provinz Mwaro und ist von Hügelland geprägt. Der Ort bietet weite Ausblicke über das zentrale Hochland.",
+      "facts": ["Mwaro", "Hochland", "Panoramablick"]
+    },
+    {
+      "id": "gahombo-cities-v2",
+      "description": "Gahombo liegt im nördlichen Burundi und ist stark landwirtschaftlich geprägt. Die Stadt ist ein Sammelpunkt für Kaffee und andere Feldfrüchte.",
+      "facts": ["nördliches Burundi", "Kaffee", "Landwirtschaft"]
+    },
+    {
+      "id": "rango-cities-v2",
+      "description": "Rango liegt im hügeligen Norden Burundis und ist ein ruhiger ländlicher Ort. Die Umgebung wird vor allem von Ackerflächen genutzt.",
+      "facts": ["nördliches Hochland", "ländlich", "Ackerbau"]
+    },
+    {
+      "id": "kabarore-cities-v2",
+      "description": "Kabarore liegt im Norden nahe der Grenze zu Ruanda. Der Ort ist ein kleiner Handels- und Transitpunkt in einer hügeligen Landschaft.",
+      "facts": ["Grenznähe", "Handel", "Hügelland"]
+    },
+    {
+      "id": "gatara-cities-v2",
+      "description": "Gatara liegt im westlichen Teil der Provinz Kayanza. Die Gegend ist bergig und eng mit Landwirtschaft verbunden.",
+      "facts": ["Kayanza", "bergig", "Agrarregion"]
+    },
+    {
+      "id": "bukeye-cities-v2",
+      "description": "Bukeye liegt in der Provinz Muramvya und ist für sein angenehmes Hochlandklima bekannt. Gärten und kleine Farmen prägen den Ort.",
+      "facts": ["Muramvya", "Hochlandklima", "Gärten"]
+    }
+  ]
+}

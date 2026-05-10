@@ -23,8 +23,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["A kormányzók egykori rezidenciája", "Kilátás az Agou-hegyre", "Középkori stílusú építészet", "Dús vegetáció veszi körül"],
       ro: ["Fosta reședință a guvernatorilor", "Vedere spre Muntele Agou", "Arhitectură în stil medieval", "Înconjurat de vegetație luxuriantă"],
       en: ["Former residence for governors", "View of Mount Agou", "Medieval-style architecture", "Surrounded by lush vegetation"]
-    }
-  },
+    }, image: "/poi-images/chateau-viale-history-v2.webp"},
   {
     id: "maison-esclaves-agbodrafo-history-v2",
     type: "historical",
@@ -47,8 +46,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["Rabszolgakereskedők építették 1835 körül", "A brazil de Souza család székhelye", "Titkos raktárak a padló alatt", "Fontos emlékhely"],
       ro: ["Construită de negustorii de sclavi în jurul anului 1835", "Sediul familiei braziliene de Souza", "Depozite secrete sub podea", "Loc important de comemorare"],
       en: ["Built by slave traders around 1835", "Seat of the Brazilian de Souza family", "Secret storage rooms under the floor", "Significant site of remembrance"]
-    }
-  },
+    }, image: "/poi-images/maison-esclaves-agbodrafo-history-v2.webp"},
   {
     id: "musee-national-lome-history-v2",
     type: "historical",
@@ -71,8 +69,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["1975-ben alapították", "Kiterjedt néprajzi gyűjtemény", "Kiállítások a függetlenségről", "Hagyományos hangszerek"],
       ro: ["Fondat în anul 1975", "Colecție etnografică extinsă", "Expoziții despre independență", "Instrumente muzicale tradiționale"],
       en: ["Founded in 1975", "Extensive ethnographic collection", "Exhibits on independence", "Traditional musical instruments"]
-    }
-  },
+    }, image: "/poi-images/musee-national-lome-history-v2.webp"},
   {
     id: "palais-gouverneurs-history-v2",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["A nemzeti szabadság szimbóluma", "Széttört iga ábrázolása", "Állami ünnepségek központi helye", "A főváros jelképe"],
       ro: ["Simbol al libertății naționale", "Reprezentarea unui jug sfărâmat", "Loc central pentru sărbătorile de stat", "Emblemă a capitalei"],
       en: ["Symbol of national freedom", "Depiction of a broken yoke", "Central square for state ceremonies", "Landmark of the capital"]
-    }
-  },
+    }, image: "/poi-images/monument-independance-history-v2.webp"},
   {
     id: "cathedrale-sacre-coeur-history-v2",
     type: "historical",
@@ -143,8 +139,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["1902-ben szentelték fel", "Szteyler misszionáriusok építették", "Színes üvegablakok", "A katolikus élet központja"],
       ro: ["Inaugurată în anul 1902", "Construită de misionarii de la Steyl", "Vitralii colorate", "Centrul vieții catolice"],
       en: ["Inaugurated in 1902", "Built by Steyl missionaries", "Colorful stained glass windows", "Center of Catholic life"]
-    }
-  },
+    }, image: "/poi-images/cathedrale-sacre-coeur-history-v2.webp"},
   {
     id: "cimetiere-allemand-lome-history-v2",
     type: "historical",
@@ -167,8 +162,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["A gyarmati történelem tanúja", "19. század végi sírok", "Régi német feliratos sírkövek", "A városközpont közelében"],
       ro: ["Mărturie a istoriei coloniale", "Morminte de la sfârșitul secolului al XIX-lea", "Inscripții în scriere germană veche", "Aproape de centrul orașului"],
       en: ["Testimony of colonial history", "Graves from the late 19th century", "Inscriptions in old German script", "Near the city center"]
-    }
-  },
+    }, image: "/poi-images/cimetiere-allemand-lome-history-v2.webp"},
   {
     id: "koutammakou-batammariba-history-v2",
     type: "historical",
@@ -191,8 +185,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["2004 óta UNESCO világörökség", "Hagyományos vályogépítészet", "A kulturális identitás szimbóluma", "Toronyházas tájkép"],
       ro: ["Patrimoniu UNESCO din 2004", "Arhitectură tradițională din lut", "Simbol al identității culturale", "Peisajul 'caselor-turn'"],
       en: ["UNESCO World Heritage since 2004", "Traditional mud architecture", "Symbol of cultural identity", "Landscape of 'tower houses'"]
-    }
-  },
+    }, image: "/poi-images/koutammakou-batammariba-history-v2.webp"},
   {
     id: "grottes-nano-history-v2",
     type: "historical",
@@ -239,8 +232,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["Homokkőbe vájt járatok", "Titkos ösvények és bejáratok", "A szavanna kulturális öröksége", "Régészeti lelőhely"],
       ro: ["Săpate în gresie", "Poteci și accese secrete", "Moștenire culturală a savanei", "Sit arheologic"],
       en: ["Carved into sandstone", "Secret paths and entrances", "Cultural heritage of the savanna", "Archaeological site"]
-    }
-  },
+    }, image: "/poi-images/grottes-maproug-history-v2.webp"},
   {
     id: "sites-fer-bandjeli-history-v2",
     type: "historical",
@@ -263,8 +255,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["Ősi vastermelés", "Hagyományos kohók", "Regionális kereskedelmi központ", "Salakhalmok maradványai"],
       ro: ["Extracție antică de fier", "Furnale tradiționale", "Centru al comerțului regional", "Rămășițe de grămezi de zgură"],
       en: ["Ancient iron extraction", "Traditional blast furnaces", "Center of regional trade", "Remains of slag heaps"]
-    }
-  },
+    }, image: "/poi-images/sites-fer-bandjeli-history-v2.webp"},
   {
     id: "ruines-radio-kamina-history-v2",
     type: "historical",
@@ -287,8 +278,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["Korának legmodernebb állomása", "Közvetlen kapcsolat Berlinnel", "1914-ben saját maguk rombolták le", "Impozáns alapok maradtak meg"],
       ro: ["Cea mai modernă stație a timpului său", "Legătură directă cu Berlinul", "Distrusă în 1914 chiar de constructori", "Fundații impunătoare conservate"],
       en: ["Most modern station of its time", "Direct link to Berlin", "Self-destroyed in 1914", "Imposing foundations remain"]
-    }
-  },
+    }, image: "/poi-images/ruines-radio-kamina-history-v2.webp"},
   {
     id: "murailles-notse-history-v2",
     type: "historical",
@@ -335,8 +325,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["Az első móló 1904-ben épült", "Acélszerkezet a tengerbe", "Fontos a kakaóexporthoz", "A régi partvidék jelképe"],
       ro: ["Primul wharf construit în 1904", "Construcție din oțel în mare", "Important pentru exportul de cacao", "Emblemă a vechii coaste"],
       en: ["First wharf built in 1904", "Steel structure into the sea", "Critical for cocoa exports", "Landmark of the old coastline"]
-    }
-  },
+    }, image: "/poi-images/wharf-lome-history-v2.webp"},
   {
     id: "marche-fetiches-akodessewa-history-v2",
     type: "historical",
@@ -359,8 +348,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["A legnagyobb ilyen jellegű piac", "A vudu orvoslás központja", "Rituális tárgyak és amulettek", "A dél kulturális szíve"],
       ro: ["Cea mai mare piață de acest tip", "Centru pentru medicina Voodoo", "Obiecte rituale și amulete", "Inima culturală a sudului"],
       en: ["Largest market of its kind", "Center for Voodoo medicine", "Ritual items and amulets", "Cultural heart of the south"]
-    }
-  },
+    }, image: "/poi-images/marche-fetiches-akodessewa-history-v2.webp"},
   {
     id: "pont-allemand-amakpape-history-v2",
     type: "historical",
@@ -383,8 +371,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["Történelmi vasszerkezet", "A vasútvonal része", "Több mint 100 éve áll", "Műszaki műemlék"],
       ro: ["Construcție istorică din fier", "Parte a liniei de cale ferată", "Rezistă de peste 100 de ani", "Monument tehnic"],
       en: ["Historic iron construction", "Part of the railway line", "Survived for over 100 years", "Technical monument"]
-    }
-  },
+    }, image: "/poi-images/pont-allemand-amakpape-history-v2.webp"},
   {
     id: "quartier-historique-aneho-history-v2",
     type: "historical",
@@ -431,8 +418,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["Togoföld alapítási helye", "Történelmi sztélé", "A Mlapa-palota közelében", "Fontos politikai emlékhely"],
       ro: ["Locul fondării Togoland-ului", "Stelă istorică", "Lângă palatul lui Mlapa", "Loc important de memorie politică"],
       en: ["Founding site of Togoland", "Historical stele", "Near the Palace of Mlapa", "Important political memory site"]
-    }
-  },
+    }, image: "/poi-images/monument-traite-togoville-history-v2.webp"},
   {
     id: "puit-esclaves-chilla-history-v2",
     type: "historical",
@@ -455,8 +441,7 @@ export const poiExtraTogoHistoryV2: POI[] = [
       hu: ["A rabszolgaút állomása", "Történelmi pihenőhely", "Emlékezés a szenvedésre", "Régészetileg jelentős"],
       ro: ["Stație pe ruta sclavilor", "Loc de popas istoric", "Amintire a suferinței", "Semnificativ arheologic"],
       en: ["Station on the slave route", "Historical resting place", "Remembrance of suffering", "Archaeologically significant"]
-    }
-  },
+    }, image: "/poi-images/puit-esclaves-chilla-history-v2.webp"},
   {
     id: "fort-allemand-sansanne-mango-history-v2",
     type: "historical",

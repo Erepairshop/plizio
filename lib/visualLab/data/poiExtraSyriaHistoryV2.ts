@@ -35,8 +35,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Flourished mainly in the 2nd and 3rd centuries.",
         "Queen Zenobia led a revolt from here."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-palmyra-history-v2.webp"},
   {
     id: "sy-krak-des-chevaliers-history-v2",
     type: "historical-site",
@@ -71,8 +70,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Was significantly expanded in the 12th century.",
         "Fell to the Mamluk Sultan Baibars in 1271."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-krak-des-chevaliers-history-v2.webp"},
   {
     id: "sy-aleppo-citadel-history-v2",
     type: "historical-site",
@@ -107,8 +105,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Stands on a 50-meter-high artificial hill.",
         "Was used by Ayyubids, Mamluks, and Ottomans."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-aleppo-citadel-history-v2.webp"},
   {
     id: "sy-umayyad-mosque-history-v2",
     type: "monument",
@@ -143,8 +140,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Built under Caliph al-Walid I.",
         "The golden mosaics depict paradisiacal landscapes."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-umayyad-mosque-history-v2.webp"},
   {
     id: "sy-apamea-history-v2",
     type: "ruin",
@@ -179,8 +175,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "The main street is lined with hundreds of columns.",
         "Was founded by Seleucus I Nicator."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-apamea-history-v2.webp"},
   {
     id: "sy-bosra-amphitheatre-history-v2",
     type: "monument",
@@ -215,8 +210,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Can accommodate about 15,000 spectators.",
         "Its acoustics remain excellent to this day."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-bosra-amphitheatre-history-v2.webp"},
   {
     id: "sy-ebla-history-v2",
     type: "ruin",
@@ -251,8 +245,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "The Ebla tablets were discovered in 1974.",
         "Was a major Syrian kingdom in the 3rd millennium BC."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-ebla-history-v2.webp"},
   {
     id: "sy-ugarit-history-v2",
     type: "ruin",
@@ -287,8 +280,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "The Ugaritic alphabet has 30 cuneiform characters.",
         "Was destroyed by the Sea Peoples in the 12th century BC."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-ugarit-history-v2.webp"},
   {
     id: "sy-saladin-castle-history-v2",
     type: "historical-site",
@@ -323,8 +315,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "A 28-meter deep ditch was cut into the solid rock.",
         "A distinctive 18-meter-high rock needle stands in the middle of the ditch."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-saladin-castle-history-v2.webp"},
   {
     id: "sy-mari-history-v2",
     type: "ruin",
@@ -359,8 +350,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Was destroyed by Hammurabi in the 18th century BC.",
         "The palace had over 300 rooms."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-mari-history-v2.webp"},
   {
     id: "sy-amrit-history-v2",
     type: "ruin",
@@ -395,8 +385,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "One of the few examples of intact Phoenician architecture.",
         "Includes the remains of an ancient stadium."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-amrit-history-v2.webp"},
   {
     id: "sy-margat-history-v2",
     type: "historical-site",
@@ -431,8 +420,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Was captured by Sultan Qalawun in 1285.",
         "Was long considered impregnable due to its enormous supplies."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-margat-history-v2.webp"},
   {
     id: "sy-resafa-history-v2",
     type: "ruin",
@@ -467,8 +455,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Had huge underground cisterns for water supply.",
         "Also known as Sergiopolis in Byzantine times."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-resafa-history-v2.webp"},
   {
     id: "sy-qasr-al-hayr-al-sharqi-history-v2",
     type: "ruin",
@@ -503,8 +490,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Built in 728 by Caliph Hisham.",
         "Served as an outpost along the caravan routes."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-qasr-al-hayr-al-sharqi-history-v2.webp"},
   {
     id: "sy-serjilla-history-v2",
     type: "ruin",
@@ -539,8 +525,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Features an intact Roman bathhouse and olive presses.",
         "Was abandoned in the 7th century for unknown reasons."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-serjilla-history-v2.webp"},
   {
     id: "sy-al-raqqah-wall-history-v2",
     type: "monument",
@@ -575,8 +560,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Caliph al-Mansur ordered the construction in 772.",
         "The wall was made of baked bricks."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-al-raqqah-wall-history-v2.webp"},
   {
     id: "sy-temple-of-jupiter-history-v2",
     type: "ruin",
@@ -611,8 +595,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Construction began under Emperor Augustus.",
         "Later, a Christian basilica was built into its ruins."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-temple-of-jupiter-history-v2.webp"},
   {
     id: "sy-damascus-citadel-history-v2",
     type: "historical-site",
@@ -647,8 +630,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Was begun by the Seljuk ruler Atsiz bin Uwaq in 1076.",
         "Only one of the original 14 gates is completely preserved."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-damascus-citadel-history-v2.webp"},
   {
     id: "sy-dura-europos-history-v2",
     type: "ruin",
@@ -683,8 +665,7 @@ export const poiExtraSyriaHistoryV2: POI[] = [
         "Is called the 'Pompeii of the desert' due to its preservation.",
         "Was conquered by the Sassanids around 256 and abandoned."
       ]
-    }
-  },
+    }, image: "/poi-images/sy-dura-europos-history-v2.webp"},
   {
     id: "sy-hama-norias-history-v2",
     type: "monument",

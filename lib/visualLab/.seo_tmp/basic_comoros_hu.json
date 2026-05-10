@@ -1,0 +1,63 @@
+{
+  "lang": "hu",
+  "country": "Comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosCitiesV2.ts",
+    "lib/visualLab/data/poiExtraComorosHistoryV2.ts",
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosLifeV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tsembehou-cities-v2",
+      "description": "Tsembehou Anjouan belső, dombos részén fekvő település. A hűvösebb magaslati klíma miatt itt a kertgazdálkodás és a gyalogos utak fontosak.",
+      "facts": ["Anjouan belseje", "Dombvidéki fekvés", "Kertjeiről ismert"]
+    },
+    {
+      "id": "adda-doueni-cities-v2",
+      "description": "Adda-Doueni Anjouan egyik kisebb települése, ahol a tengerpart és a helyi gazdálkodás találkozik. A környék nyugodt, falusias karakterű.",
+      "facts": ["Anjouan települése", "Falusias környezet", "Tengerpart közeli"]
+    },
+    {
+      "id": "moya-cities-v2",
+      "description": "Moya Anjouan déli partján fekszik, és strandjai miatt ismert. A környéken a halászat és a tengerparti pihenés a meghatározó.",
+      "facts": ["Anjouan déli partja", "Strandokkal", "Halászat"]
+    },
+    {
+      "id": "wanani-cities-v2",
+      "description": "Wanani Mohéli északi partján található, nem messze Fombonitól. A település kis kikötői és part menti élete miatt emelkedik ki.",
+      "facts": ["Mohéli északi partja", "Fomboni közelében", "Part menti élet"]
+    },
+    {
+      "id": "hoani-cities-v2",
+      "description": "Hoani Mohéli északi részén, a part és a sziget belseje között helyezkedik el. A környéket kókuszpálmák, kis kertek és halászat jellemzi.",
+      "facts": ["Mohéli északi része", "Kókuszpálmák", "Halászat"]
+    },
+    {
+      "id": "kangani-cities-v2",
+      "description": "Kangani Grande Comore délnyugati partján található, a védett tengeri területek közelében. A falu a halászat és a természetközeli élet találkozása.",
+      "facts": ["Grande Comore délnyugata", "Tengeri védett zóna", "Halászfalu"]
+    },
+    {
+      "id": "mbatse-cities-v2",
+      "description": "Mbatsé Mohéli belső, dombos részén fekvő kisebb település. A mindennapokat itt a mezőgazdaság és a csendes szigeti élet határozza meg.",
+      "facts": ["Mohéli belseje", "Dombvidéki település", "Mezőgazdaság"]
+    },
+    {
+      "id": "ouallah-cities-v2",
+      "description": "Ouallah Mohéli délnyugati partján, védett öböl közelében fekszik. A település a tengeri élővilág és a halászat miatt ismert.",
+      "facts": ["Mohéli délnyugati partja", "Öböl mellett", "Tengeri élővilág"]
+    },
+    {
+      "id": "chembenyouba-cities-v2",
+      "description": "Chembenyouba Grande Comore nyugati partján, vulkanikus kőzetek között fekszik. A partvidék itt nyers, sziklás és erősen széljárta.",
+      "facts": ["Grande Comore nyugati partja", "Vulkanikus part", "Sziklás környezet"]
+    },
+    {
+      "id": "dimani-cities-v2",
+      "description": "Dimani Grande Comore keleti régiójának egyik régebbi falusias települése. A környezetet kertművelés és egyszerű szigetvilági élet jellemzi.",
+      "facts": ["Keleti régió", "Régebbi település", "Falusias gazdálkodás"]
+    }
+  ]
+}

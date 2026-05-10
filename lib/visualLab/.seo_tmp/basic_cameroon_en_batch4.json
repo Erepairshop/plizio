@@ -1,0 +1,149 @@
+{
+  "lang": "en",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "foumban-royal-palace-history-v2",
+      "description": "The royal palace in Foumban is the seat of the Bamoun kingdom. It remains the city's main symbol of royal tradition.",
+      "facts": [
+        "seat of the Bamoun king",
+        "in Foumban",
+        "royal heritage site"
+      ]
+    },
+    {
+      "id": "bimbia-slave-port-history-v2",
+      "description": "An old Atlantic slave-trade site near Limbe. The ruins mark one of the darkest chapters in the region's coastal history.",
+      "facts": [
+        "near Limbe",
+        "linked to slave trade",
+        "historical memorial site"
+      ]
+    },
+    {
+      "id": "kribi-lighthouse-history-v2",
+      "description": "A colonial-era lighthouse on Kribi's coast. It has long guided shipping along the Atlantic shoreline.",
+      "facts": [
+        "on the Kribi coast",
+        "used for navigation",
+        "colonial-era landmark"
+      ]
+    },
+    {
+      "id": "prime-ministers-lodge-history-v2",
+      "description": "An old government residence in Buea linked to Cameroon's colonial and post-colonial administration. It is part of the city's political memory.",
+      "facts": [
+        "in Buea",
+        "government residence",
+        "linked to colonial rule"
+      ]
+    },
+    {
+      "id": "bismarck-fountain-history-v2",
+      "description": "A colonial-era fountain in Douala. It is one of the city's oldest surviving monuments from the German period.",
+      "facts": [
+        "in Douala",
+        "from the German era",
+        "one of the old monuments"
+      ]
+    },
+    {
+      "id": "charles-atangana-palace-history-v2",
+      "description": "The palace of Charles Atangana in Yaounde recalls a major traditional leader from the colonial era. It reflects local power under French rule.",
+      "facts": [
+        "in Yaounde",
+        "linked to Charles Atangana",
+        "colonial-era palace"
+      ]
+    },
+    {
+      "id": "mankon-fons-palace-history-v2",
+      "description": "The palace of the Fon of Mankon is a traditional authority center near Bamenda. It remains a key site of Grassfields culture.",
+      "facts": [
+        "near Bamenda",
+        "seat of the Fon",
+        "Grassfields heritage"
+      ]
+    },
+    {
+      "id": "bafut-palace-history-v2",
+      "description": "The palace of Bafut is one of the best known traditional compounds in northwest Cameroon. It preserves the history of the Bafut chiefdom.",
+      "facts": [
+        "in northwest Cameroon",
+        "traditional palace",
+        "part of the chiefdom"
+      ]
+    },
+    {
+      "id": "notre-dame-des-victoires-history-v2",
+      "description": "A major Catholic cathedral in Yaounde. It is one of the capital's best-known religious buildings.",
+      "facts": [
+        "in Yaounde",
+        "Catholic cathedral",
+        "important religious site"
+      ]
+    },
+    {
+      "id": "reunification-monument-history-v2",
+      "description": "A national monument in Yaounde commemorating the reunification of Cameroon in 1961. It is a central symbol of state unity.",
+      "facts": [
+        "in Yaounde",
+        "marks 1961 reunification",
+        "symbol of national unity"
+      ]
+    },
+    {
+      "id": "palace-of-rey-bouba-history-v2",
+      "description": "A large traditional palace in northern Cameroon and the seat of the Rey Bouba lamidat. It represents enduring Fulani rulership.",
+      "facts": [
+        "in northern Cameroon",
+        "seat of a lamidat",
+        "traditional Fulani rule"
+      ]
+    },
+    {
+      "id": "bandjoun-chiefdom-history-v2",
+      "description": "A traditional chiefdom in the western highlands. It preserves the political and cultural identity of Bandjoun.",
+      "facts": [
+        "in the western highlands",
+        "traditional chiefdom",
+        "cultural identity site"
+      ]
+    },
+    {
+      "id": "diy-gid-biy-ruins-history-v2",
+      "description": "An archaeological site in the Mandara Mountains of far northern Cameroon. The ruins are linked to the early history of the region.",
+      "facts": [
+        "in the Mandara Mountains",
+        "archaeological ruins",
+        "far northern Cameroon"
+      ]
+    },
+    {
+      "id": "old-german-cemetery-douala-history-v2",
+      "description": "An old colonial cemetery in Douala. It keeps graves and traces from the German period of the city's history.",
+      "facts": [
+        "in Douala",
+        "colonial cemetery",
+        "German-period graves"
+      ]
+    },
+    {
+      "id": "general-leclerc-monument-history-v2",
+      "description": "A French colonial-era monument in Yaounde. It is tied to the city's wartime and administrative past.",
+      "facts": [
+        "in Yaounde",
+        "colonial monument",
+        "linked to wartime history"
+      ]
+    }
+  ]
+}

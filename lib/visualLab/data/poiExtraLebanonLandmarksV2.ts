@@ -18,8 +18,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["A Közel-Kelet leghosszabb barlangja.", "Teljes hossza eléri a közel 9 kilométert."],
       ro: ["Cea mai lungă peșteră din Orientul Mijlociu.", "Atinge o lungime totală de aproape 9 kilometri."],
       en: ["Longest cave in the Middle East.", "Reaches a total length of almost 9 kilometers."]
-    }
-  },
+    }, image: "/poi-images/jeita-grotto-landmarks-v2.webp"},
   {
     id: "pigeon-rocks-landmarks-v2",
     type: "landmark",
@@ -37,8 +36,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["Népszerű képeslapmotívum.", "Magasságuk mintegy 60 méter."],
       ro: ["Motiv popular pentru cărți poștale.", "Înălțime de aproximativ 60 de metri."],
       en: ["Popular motif for postcards.", "Height of around 60 meters."]
-    }
-  },
+    }, image: "/poi-images/pigeon-rocks-landmarks-v2.webp"},
   {
     id: "qadisha-valley-landmarks-v2",
     type: "landmark",
@@ -56,8 +54,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["Az UNESCO világörökség része.", "Számos sziklába vájt kolostornak ad otthont."],
       ro: ["Face parte din Patrimoniul Mondial UNESCO.", "Găzduiește numeroase mănăstiri săpate în stâncă."],
       en: ["Part of the UNESCO World Heritage.", "Houses numerous monasteries carved into the rock."]
-    }
-  },
+    }, image: "/poi-images/qadisha-valley-landmarks-v2.webp"},
   {
     id: "cedars-of-god-landmarks-v2",
     type: "landmark",
@@ -75,8 +72,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["Néhány fa több mint 1000 éves.", "A libanoni cédrus az ország nemzeti szimbóluma."],
       ro: ["Unii copaci au peste 1.000 de ani.", "Cedrul libanez este simbolul național al țării."],
       en: ["Some trees are over 1,000 years old.", "The Lebanon cedar is the national symbol of the country."]
-    }
-  },
+    }, image: "/poi-images/cedars-of-god-landmarks-v2.webp"},
   {
     id: "moussa-castle-landmarks-v2",
     type: "landmark",
@@ -94,8 +90,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["Az építkezés több mint 60 évig tartott.", "Történelmi fegyverek gyűjteményének ad otthont."],
       ro: ["Construcția a durat peste 60 de ani.", "Găzduiește o colecție de arme istorice."],
       en: ["Construction took over 60 years.", "Houses a collection of historical weapons."]
-    }
-  },
+    }, image: "/poi-images/moussa-castle-landmarks-v2.webp"},
   {
     id: "beiteddine-palace-landmarks-v2",
     type: "landmark",
@@ -113,8 +108,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["A libanoni emírek egykori székhelye.", "Részletes mozaikjairól ismert."],
       ro: ["Fostul sediu al emirilor Libanului.", "Cunoscut pentru mozaicurile sale detaliate."],
       en: ["Former seat of the Emirs of Lebanon.", "Known for its detailed mosaics."]
-    }
-  },
+    }, image: "/poi-images/beiteddine-palace-landmarks-v2.webp"},
   {
     id: "our-lady-of-lebanon-landmarks-v2",
     type: "landmark",
@@ -132,8 +126,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["A szobor 8,5 méter magas.", "1904-ben épült."],
       ro: ["Statuia are 8,5 metri înălțime.", "Construită în anul 1904."],
       en: ["The statue is 8.5 meters high.", "Erected in the year 1904."]
-    }
-  },
+    }, image: "/poi-images/our-lady-of-lebanon-landmarks-v2.webp"},
   {
     id: "byblos-castle-landmarks-v2",
     type: "landmark",
@@ -151,8 +144,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["Az ókori Büblosz városának szívében található.", "Kilátást nyújt a régi kikötőre."],
       ro: ["Situat în inima orașului antic Byblos.", "Oferă o vedere asupra vechiului port."],
       en: ["Located in the heart of the ancient city of Byblos.", "Offers a view of the old harbor."]
-    }
-  },
+    }, image: "/poi-images/byblos-castle-landmarks-v2.webp"},
   {
     id: "sursock-museum-landmarks-v2",
     type: "landmark",
@@ -170,8 +162,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["1912-ben épült.", "Velencei és oszmán építészeti elemeket ötvöz."],
       ro: ["Construit în anul 1912.", "Combină elemente arhitecturale venețiene și otomane."],
       en: ["Built in the year 1912.", "Combines Venetian and Ottoman architectural elements."]
-    }
-  },
+    }, image: "/poi-images/sursock-museum-landmarks-v2.webp"},
   {
     id: "national-museum-of-beirut-landmarks-v2",
     type: "landmark",
@@ -189,8 +180,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["1942-ben nyitották meg.", "Föníciai leletek nagy gyűjteményével rendelkezik."],
       ro: ["Inaugurat în anul 1942.", "Deține o mare colecție de artefacte feniciene."],
       en: ["Opened in the year 1942.", "Possesses a large collection of Phoenician artifacts."]
-    }
-  },
+    }, image: "/poi-images/national-museum-of-beirut-landmarks-v2.webp"},
   {
     id: "temple-of-bacchus-landmarks-v2",
     type: "landmark",
@@ -208,8 +198,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["A Krisztus utáni 2. században épült.", "Az oszlopok 19 méter magasak."],
       ro: ["Construit în secolul al II-lea după Hristos.", "Coloanele au 19 metri înălțime."],
       en: ["Built in the 2nd century AD.", "The columns are 19 meters high."]
-    }
-  },
+    }, image: "/poi-images/temple-of-bacchus-landmarks-v2.webp"},
   {
     id: "sidon-sea-castle-landmarks-v2",
     type: "landmark",
@@ -227,8 +216,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["A szárazfölddel egy kőhíd köti össze.", "Egy ókori föníciai templom romjaira épült."],
       ro: ["Conectat la continent printr-un pod de piatră.", "Construit pe ruinele unui vechi templu fenician."],
       en: ["Connected to the mainland by a stone bridge.", "Built on the ruins of an ancient Phoenician temple."]
-    }
-  },
+    }, image: "/poi-images/sidon-sea-castle-landmarks-v2.webp"},
   {
     id: "baatara-gorge-waterfall-landmarks-v2",
     type: "landmark",
@@ -246,8 +234,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["A víz 255 méter mélybe zuhan.", "Csak 1952-ben vált ismertté a nyugati kutatók számára."],
       ro: ["Apa cade 255 de metri în adâncime.", "A devenit cunoscută cercetătorilor occidentali abia în 1952."],
       en: ["The water drops 255 meters into the depths.", "Only became known to Western researchers in 1952."]
-    }
-  },
+    }, image: "/poi-images/baatara-gorge-waterfall-landmarks-v2.webp"},
   {
     id: "beaufort-castle-landmarks-v2",
     type: "landmark",
@@ -265,8 +252,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["A név jelentése 'Szép erőd'.", "A 12. században hódították meg."],
       ro: ["Numele înseamnă 'Fortăreață Frumoasă'.", "A fost cucerită în secolul al XII-lea."],
       en: ["The name means 'Beautiful Fortress'.", "Was conquered in the 12th century."]
-    }
-  },
+    }, image: "/poi-images/beaufort-castle-landmarks-v2.webp"},
   {
     id: "mzaar-kfardebian-landmarks-v2",
     type: "landmark",
@@ -284,8 +270,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["80 kilométernyi sípályát kínál.", "A legmagasabb csúcsok elérik a 2465 métert."],
       ro: ["Oferă 80 de kilometri de pârtii.", "Cele mai înalte vârfuri ating 2.465 de metri."],
       en: ["Offers 80 kilometers of ski slopes.", "The highest peaks reach 2,465 meters."]
-    }
-  },
+    }, image: "/poi-images/mzaar-kfardebian-landmarks-v2.webp"},
   {
     id: "mohammad-al-amin-mosque-landmarks-v2",
     type: "landmark",
@@ -303,8 +288,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["2008-ban készült el.", "A minaretek 72 méter magasak."],
       ro: ["A fost finalizată în anul 2008.", "Minaretele au 72 de metri înălțime."],
       en: ["Was completed in the year 2008.", "The minarets are 72 meters high."]
-    }
-  },
+    }, image: "/poi-images/mohammad-al-amin-mosque-landmarks-v2.webp"},
   {
     id: "saint-george-maronite-cathedral-landmarks-v2",
     type: "landmark",
@@ -322,8 +306,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["Az épületet 1894-ben szentelték fel.", "Építészetét a Szent Péter-bazilika ihlette."],
       ro: ["Clădirea a fost sfințită în 1894.", "Arhitectura sa a fost inspirată de Bazilica Sfântul Petru."],
       en: ["The building was consecrated in 1894.", "Its architecture was inspired by St. Peter's Basilica."]
-    }
-  },
+    }, image: "/poi-images/saint-george-maronite-cathedral-landmarks-v2.webp"},
   {
     id: "roman-baths-of-beirut-landmarks-v2",
     type: "landmark",
@@ -341,8 +324,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["A romokat 1968-ban fedezték fel.", "Egykor fontos társadalmi találkozóhelyek voltak."],
       ro: ["Ruinele au fost descoperite în 1968.", "Au fost cândva un important loc de întâlnire socială."],
       en: ["The ruins were discovered in 1968.", "They were once an important social meeting place."]
-    }
-  },
+    }, image: "/poi-images/roman-baths-of-beirut-landmarks-v2.webp"},
   {
     id: "tyre-hippodrome-landmarks-v2",
     type: "landmark",
@@ -360,8 +342,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       hu: ["20 000 néző számára biztosított helyet.", "A legjobb állapotban fennmaradt római hippodromként tartják számon."],
       ro: ["A oferit spațiu pentru 20.000 de spectatori.", "Este considerat cel mai bine conservat hipodrom roman."],
       en: ["It offered space for 20,000 spectators.", "Considered the best-preserved Roman hippodrome."]
-    }
-  },
+    }, image: "/poi-images/tyre-hippodrome-landmarks-v2.webp"},
   {
     id: "ksara-caves-landmarks-v2",
     type: "landmark",

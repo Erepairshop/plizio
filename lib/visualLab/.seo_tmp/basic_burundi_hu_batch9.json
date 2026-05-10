@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gikizi-relief-v2",
+      "description": "Gikizi Burundi dombvidékének egyik helyi kiemelkedése. A környéket kisebb földek és elszórt települések jellemzik.",
+      "facts": ["dombvidék", "vidéki", "kis földek"]
+    },
+    {
+      "id": "musongati-relief-v2",
+      "description": "Musongati Kelet-Burundi hullámos tájában fekszik. A domborzat a mezőgazdaság és a bányászat keretét is adja.",
+      "facts": ["kelet", "hullámos magaslatok", "bányászati térség"]
+    },
+    {
+      "id": "gishora-relief-v2",
+      "description": "Gishora Burundi középső részének magasabban fekvő pontja, amelyet enyhe dombok vesznek körül. A hely tipikus magasföldi település.",
+      "facts": ["Közép-Burundi", "fennsík", "enyhe dombok"]
+    },
+    {
+      "id": "teza-relief-v2",
+      "description": "Teza Muramvya hűvös magaslatain fekszik. A dombos környezet különösen kedvez a teültetvényeknek.",
+      "facts": ["Muramvya", "fennsík", "teezóna"]
+    },
+    {
+      "id": "songa-relief-v2",
+      "description": "Songa Burundi déli részének dombos települései közé tartozik. A tájat erősen mezőgazdasági használat formálja.",
+      "facts": ["Dél-Burundi", "dombvidék", "szántóföldek"]
+    },
+    {
+      "id": "karonje-relief-v2",
+      "description": "Karonje egy kisebb domborzati zóna Burundi vidéki térségének egyik részén. A területet főként mezők és utak szabdalják.",
+      "facts": ["vidéki", "reliefpont", "mezők"]
+    },
+    {
+      "id": "cene-relief-v2",
+      "description": "Cene egy helyi emelkedés Közép-Burundiban. A terület a burundi dombvidék jellegzetes része.",
+      "facts": ["Közép-Burundi", "dombok", "vidéki környezet"]
+    },
+    {
+      "id": "birira-relief-v2",
+      "description": "Birira az ország dombokkal tagolt részén található. A magaslatok meghatározzák a falvak és a szántóföldek elrendezését.",
+      "facts": ["magaslatok", "szántóföldek", "falusi térség"]
+    },
+    {
+      "id": "nkoma-relief-v2",
+      "description": "Nkoma Burundi kisebb domborzati pontjai közé tartozik. A környék dombos, és erősen kötődik a mezőgazdasághoz.",
+      "facts": ["kis kiemelkedés", "dombvidék", "mezőgazdaság"]
+    },
+    {
+      "id": "mikuba-relief-v2",
+      "description": "Mikuba a burundi belső magasföld egyik helyi emelkedése. Jól illeszkedik az ország sok dombja és völgye közé.",
+      "facts": ["belso magasföld", "völgyek", "relief"]
+    }
+  ]
+}

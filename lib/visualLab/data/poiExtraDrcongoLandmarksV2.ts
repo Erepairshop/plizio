@@ -189,8 +189,7 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-monument-independance-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: ["Commemorates the year 1960.", "Located in the city center.", "A significant monument in Kinshasa commemorating Congolese independence from Belgium.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
-    }
-  },
+    }, image: "/poi-images/cd-monument-independance-landmarks-v2.webp"},
   {
     id: "cd-stade-tata-raphael-landmarks-v2",
     type: "landmark",
@@ -273,8 +272,7 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-baobab-de-stanley-landmarks-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: ["Is a protected historical monument.", "Located on the banks of the Congo.", "A giant baobab tree in Boma, in whose hollow trunk explorer Henry Morton Stanley is said to have spent the night.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region.", "Documented in local and regional studies on the DR Congo."]
-    }
-  },
+    }, image: "/poi-images/cd-baobab-de-stanley-landmarks-v2.webp"},
   {
     id: "cd-cathedrale-assomption-boma-landmarks-v2",
     type: "landmark",

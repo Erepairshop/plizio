@@ -1,0 +1,122 @@
+{
+  "lang": "en",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "geovic-cobalt-mine-economic-v2",
+      "description": "A cobalt-nickel mining project in eastern Cameroon near Lomie. It is often cited among the country's strategic mineral deposits.",
+      "facts": [
+        "near Lomie",
+        "cobalt and nickel project",
+        "strategic mineral deposit"
+      ]
+    },
+    {
+      "id": "mbalam-iron-ore-economic-v2",
+      "description": "A major iron-ore deposit in southeastern Cameroon near Mbalam. It remains part of the country's long-term mining plans.",
+      "facts": [
+        "near Mbalam",
+        "in southeastern Cameroon",
+        "planned iron ore project"
+      ]
+    },
+    {
+      "id": "nkout-iron-deposit-economic-v2",
+      "description": "An iron-ore deposit in southeastern Cameroon linked to the country's mining pipeline. It is part of the wider Ntem area resource story.",
+      "facts": [
+        "iron ore resource",
+        "in the southeast",
+        "part of the mining pipeline"
+      ]
+    },
+    {
+      "id": "minim-martap-bauxite-economic-v2",
+      "description": "A bauxite deposit in the Adamawa region near Minim Martap. It is one of Cameroon's best known aluminum raw material sites.",
+      "facts": [
+        "in Adamawa",
+        "near Minim Martap",
+        "bauxite resource"
+      ]
+    },
+    {
+      "id": "akonolinga-rutile-mine-economic-v2",
+      "description": "A rutile mining area near Akonolinga in central Cameroon. Rutile is valued as an industrial mineral for titanium production.",
+      "facts": [
+        "near Akonolinga",
+        "industrial mineral site",
+        "rutile for titanium"
+      ]
+    },
+    {
+      "id": "cimencam-douala-economic-v2",
+      "description": "A cement production site in Douala tied to Cameroon's construction supply chain. It serves the country's busiest industrial city.",
+      "facts": [
+        "in Douala",
+        "cement production site",
+        "serves construction demand"
+      ]
+    },
+    {
+      "id": "dangote-cement-douala-economic-v2",
+      "description": "A cement plant in Douala that adds local supply for construction and infrastructure. It is part of the city's industrial belt.",
+      "facts": [
+        "in Douala",
+        "cement plant",
+        "supports infrastructure work"
+      ]
+    },
+    {
+      "id": "chococam-factory-douala-economic-v2",
+      "description": "A cocoa-processing factory in Douala linked to one of Cameroon's best known food brands. It connects cocoa harvests to consumer products.",
+      "facts": [
+        "in Douala",
+        "cocoa processing",
+        "food manufacturing site"
+      ]
+    },
+    {
+      "id": "cdc-rubber-tiko-economic-v2",
+      "description": "A rubber production site in Tiko tied to the Cameroon Development Corporation. It is part of the coastal plantation economy.",
+      "facts": [
+        "in Tiko",
+        "plantation-based rubber",
+        "part of the CDC network"
+      ]
+    },
+    {
+      "id": "socapalm-dibombari-economic-v2",
+      "description": "A palm oil site in Dibombari near Douala. It links plantation farming with industrial processing for the domestic market.",
+      "facts": [
+        "near Douala",
+        "palm oil production",
+        "plantation agriculture"
+      ]
+    },
+    {
+      "id": "hevecam-niete-economic-v2",
+      "description": "A large rubber plantation and processing site in Niété in southern Cameroon. It is one of the region's major export-oriented agribusinesses.",
+      "facts": [
+        "in Niété",
+        "rubber plantation",
+        "export-oriented agribusiness"
+      ]
+    },
+    {
+      "id": "sabc-brewery-yaounde-economic-v2",
+      "description": "A major beverage plant in Yaounde and part of Cameroon's leading drinks network. It supplies beer and soft drinks to the central region.",
+      "facts": [
+        "in Yaounde",
+        "beverage production",
+        "supplies the central region"
+      ]
+    }
+  ]
+}

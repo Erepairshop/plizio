@@ -24,8 +24,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["1881-ben alapították.", "Guinness-rekorder a fehér márványépületek száma miatt."],
       ro: ["Fondat în 1881.", "Deține recordul Guinness pentru cele mai multe clădiri din marmură albă."],
       en: ["Founded in 1881.", "Holds a Guinness World Record for the most white marble buildings."]
-    }
-  },
+    }, image: "/poi-images/tm-ashgabat-cities-v2.webp"},
   {
     id: "tm-turkmenabat-cities-v2",
     type: "city",
@@ -49,8 +48,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Csardzsou néven volt ismert.", "Fontos ipari központ."],
       ro: ["Cunoscut anterior ca Chardzhou.", "Important centru industrial."],
       en: ["Formerly known as Chardzhou.", "Important industrial center."]
-    }
-  },
+    }, image: "/poi-images/tm-turkmenabat-cities-v2.webp"},
   {
     id: "tm-dasoguz-cities-v2",
     type: "city",
@@ -74,8 +72,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Daşoguz tartomány közigazgatási központja.", "Az üzbég határ közelében fekszik."],
       ro: ["Centrul administrativ al regiunii Dașoguz.", "Situat aproape de granița cu Uzbekistan."],
       en: ["Administrative center of Daşoguz Region.", "Located near the border with Uzbekistan."]
-    }
-  },
+    }, image: "/poi-images/tm-dasoguz-cities-v2.webp"},
   {
     id: "tm-mary-cities-v2",
     type: "city",
@@ -99,8 +96,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["1884-ben alapították.", "A gyapotipar egyik központja."],
       ro: ["Fondat în 1884.", "Un centru al industriei bumbacului."],
       en: ["Founded in 1884.", "A center for the cotton industry."]
-    }
-  },
+    }, image: "/poi-images/tm-mary-cities-v2.webp"},
   {
     id: "tm-balkanabat-cities-v2",
     type: "city",
@@ -124,8 +120,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Nebit-Dag néven ismerték.", "A Nagy-Balkán-hegység lábánál fekszik."],
       ro: ["Cunoscut anterior ca Nebit-Dag.", "Situat la poalele Munților Balcani Mari."],
       en: ["Formerly known as Nebit-Dag.", "Located at the foot of the Great Balkan mountain range."]
-    }
-  },
+    }, image: "/poi-images/tm-balkanabat-cities-v2.webp"},
   {
     id: "tm-bayramaly-cities-v2",
     type: "city",
@@ -149,8 +144,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Népszerű gyógyhely.", "A közelben történelmi romok találhatók."],
       ro: ["Stațiune balneară populară.", "Ruine istorice sunt situate în apropiere."],
       en: ["Popular health resort.", "Historical ruins are located nearby."]
-    }
-  },
+    }, image: "/poi-images/tm-bayramaly-cities-v2.webp"},
   {
     id: "tm-turkmenbasy-cities-v2",
     type: "city",
@@ -174,8 +168,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábbi neve Krasznovodszk volt.", "Az Awaza turisztikai övezetről ismert."],
       ro: ["Numit anterior Krasnovodsk.", "Cunoscut pentru zona turistică Awaza."],
       en: ["Formerly named Krasnovodsk.", "Known for the Awaza tourist zone."]
-    }
-  },
+    }, image: "/poi-images/tm-turkmenbasy-cities-v2.webp"},
   {
     id: "tm-tejen-cities-v2",
     type: "city",
@@ -199,8 +192,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["A Tejen folyóról ismert.", "A dinnyetermesztés központja."],
       ro: ["Cunoscut pentru râul Tejen.", "Centru al producției de pepeni."],
       en: ["Known for the Tejen River.", "Center of melon production."]
-    }
-  },
+    }, image: "/poi-images/tm-tejen-cities-v2.webp"},
   {
     id: "tm-abadan-cities-v2",
     type: "city",
@@ -274,8 +266,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Egy ideig az Atamyrat nevet viselte.", "Fontos folyami átkelőhely."],
       ro: ["A purtat o vreme numele de Atamyrat.", "Important punct de trecere a râului."],
       en: ["Temporarily bore the name Atamyrat.", "Important river crossing."]
-    }
-  },
+    }, image: "/poi-images/tm-kerki-cities-v2.webp"},
   {
     id: "tm-yoloten-cities-v2",
     type: "city",
@@ -324,8 +315,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["UNESCO Világörökségi helyszín.", "Horezm egykori fővárosa."],
       ro: ["Sit al Patrimoniului Mondial UNESCO.", "Fosta capitală a Khwarazmului."],
       en: ["UNESCO World Heritage site.", "Former capital of Khwarazm."]
-    }
-  },
+    }, image: "/poi-images/tm-koneurgenc-cities-v2.webp"},
   {
     id: "tm-anau-cities-v2",
     type: "city",
@@ -349,8 +339,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Az Ahal tartomány központja.", "A Seyit Cemaleddin mecset romjai találhatók itt."],
       ro: ["Centrul regiunii Ahal.", "Ruinele Moscheii Seyit Cemaleddin."],
       en: ["Center of the Ahal Region.", "Ruins of the Seyit Cemaleddin Mosque."]
-    }
-  },
+    }, image: "/poi-images/tm-anau-cities-v2.webp"},
   {
     id: "tm-hazar-cities-v2",
     type: "city",
@@ -374,8 +363,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Cseleken néven ismerték.", "Fontos a kőolaj-kitermelés szempontjából."],
       ro: ["Cunoscut anterior ca Cheleken.", "Important pentru extracția petrolului."],
       en: ["Formerly known as Cheleken.", "Important for oil extraction."]
-    }
-  },
+    }, image: "/poi-images/tm-hazar-cities-v2.webp"},
   {
     id: "tm-gurbansoltan-eje-cities-v2",
     type: "city",
@@ -399,8 +387,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Saparmyrat Nyýazow édesanyjáról kapta a nevét.", "Korábban Yylanly néven ismerték."],
       ro: ["Numit după mama lui Saparmyrat Nyýazow.", "Cunoscut anterior ca Yylanly."],
       en: ["Named after the mother of Saparmyrat Nyýazow.", "Formerly known as Yylanly."]
-    }
-  },
+    }, image: "/poi-images/tm-gurbansoltan-eje-cities-v2.webp"},
   {
     id: "tm-gumdag-cities-v2",
     type: "city",
@@ -474,8 +461,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["A gázkitermelés miatt jött létre.", "Fontos tranzitpont."],
       ro: ["Creat datorită extracției de gaze.", "Punct de tranzit important."],
       en: ["Created due to gas extraction.", "Important transit point."]
-    }
-  },
+    }, image: "/poi-images/tm-gazojak-cities-v2.webp"},
   {
     id: "tm-bereket-cities-v2",
     type: "city",
@@ -499,8 +485,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Gazanjyk néven ismerték.", "A transzkaszpi vasúthálózat része."],
       ro: ["Cunoscut anterior ca Gazanjyk.", "Parte a rețelei feroviare Transcaspice."],
       en: ["Formerly known as Gazanjyk.", "Part of the Trans-Caspian railway network."]
-    }
-  },
+    }, image: "/poi-images/tm-bereket-cities-v2.webp"},
   {
     id: "tm-boldumsaz-cities-v2",
     type: "city",
@@ -549,8 +534,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Az 1881-es Gökdepe-i csata helyszíne.", "A Saparmyrat Hajji mecset otthona."],
       ro: ["Locul bătăliei de la Gökdepe (1881).", "Găzduiește Moscheea Saparmyrat Hajji."],
       en: ["Site of the Battle of Gökdepe (1881).", "Home to the Saparmyrat Hajji Mosque."]
-    }
-  },
+    }, image: "/poi-images/tm-gokdepe-cities-v2.webp"},
   {
     id: "tm-sayat-cities-v2",
     type: "city",
@@ -574,8 +558,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Fontos a mezőgazdaság számára.", "Az Amu-darja közelében fekszik."],
       ro: ["Important pentru agricultură.", "Situat aproape de Amu Darya."],
       en: ["Important for agriculture.", "Located near the Amu Darya."]
-    }
-  },
+    }, image: "/poi-images/tm-sayat-cities-v2.webp"},
   {
     id: "tm-seydi-cities-v2",
     type: "city",
@@ -599,8 +582,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["A költő, Seýitnazar Seýdi után kapta a nevét.", "Korábbi neve Neftezavodszk volt."],
       ro: ["Numit după poetul Seýitnazar Seýdi.", "Fostul nume a fost Neftezavodsk."],
       en: ["Named after the poet Seýitnazar Seýdi.", "Former name was Neftezavodsk."]
-    }
-  },
+    }, image: "/poi-images/tm-seydi-cities-v2.webp"},
   {
     id: "tm-kaka-cities-v2",
     type: "city",
@@ -624,8 +606,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Történelmileg Kaahka néven ismert.", "Jelentős a mezőgazdaság szempontjából."],
       ro: ["Cunoscut istoric ca Kaahka.", "Semnificativ pentru agricultură."],
       en: ["Historically known as Kaahka.", "Significant for agriculture."]
-    }
-  },
+    }, image: "/poi-images/tm-kaka-cities-v2.webp"},
   {
     id: "tm-tagta-cities-v2",
     type: "city",
@@ -674,8 +655,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Az Amu-darja jobb partján fekszik.", "Fontos kereskedelmi csomópont."],
       ro: ["Situat pe malul drept al râului Amu Darya.", "Important nod comercial."],
       en: ["Located on the right bank of the Amu Darya.", "Important trade hub."]
-    }
-  },
+    }, image: "/poi-images/tm-farap-cities-v2.webp"},
   {
     id: "tm-serdar-cities-v2",
     type: "city",
@@ -699,8 +679,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Gyzylarbat.", "Hagyományos szőnyegeiről híres."],
       ro: ["Fostul Gyzylarbat.", "Faimos pentru covoarele tradiționale."],
       en: ["Formerly Gyzylarbat.", "Famous for traditional carpets."]
-    }
-  },
+    }, image: "/poi-images/tm-serdar-cities-v2.webp"},
   {
     id: "tm-gubadag-cities-v2",
     type: "city",
@@ -724,8 +703,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Telmanovszk.", "Fontos gyapottermelő."],
       ro: ["Fostul Telmanovsk.", "Important producător de bumbac."],
       en: ["Formerly Telmanovsk.", "Important cotton producer."]
-    }
-  },
+    }, image: "/poi-images/tm-gubadag-cities-v2.webp"},
   {
     id: "tm-darganata-cities-v2",
     type: "city",

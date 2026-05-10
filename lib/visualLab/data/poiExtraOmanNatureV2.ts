@@ -18,8 +18,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["1997-ben alapították.", "220 négyzetkilométeres területet fed le.", "Ritka vadmacskák és sasok otthona."],
       ro: ["A fost fondat în 1997.", "Acoperă o suprafață de 220 kilometri pătrați.", "Adăpostește pisici sălbatice și vulturi rare."],
       en: ["Established in 1997.", "Covers an area of 220 square kilometers.", "Home to rare wildcats and eagles."]
-    }
-  },
+    }, image: "/poi-images/oman-al-saleel-national-park-nature-v2.webp"},
   {
     id: "oman-arabian-oryx-sanctuary-nature-v2",
     type: "national-park",
@@ -37,8 +36,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["Omán első UNESCO természeti világöröksége volt.", "A státuszt 2007-ben visszavonták határmódosítások miatt.", "Ritka sivatagi rókákat is véd."],
       ro: ["A fost primul sit al patrimoniului natural UNESCO din Oman.", "Statutul a fost retras în 2007 din cauza modificărilor granițelor.", "Protejează și vulpi rare de deșert."],
       en: ["Was Oman's first UNESCO World Natural Heritage site.", "The status was withdrawn in 2007 due to boundary changes.", "Also protects rare desert foxes."]
-    }
-  },
+    }, image: "/poi-images/oman-arabian-oryx-sanctuary-nature-v2.webp"},
   {
     id: "oman-qurum-natural-park-nature-v2",
     type: "national-park",
@@ -56,8 +54,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["1993-ban nyitották meg a nagyközönség előtt.", "Számos vándormadárnak ad otthont.", "Mesterséges vízesésekkel is rendelkezik."],
       ro: ["Deschis publicului în 1993.", "Oferă habitat pentru numeroase păsări migratoare.", "Dispune de cascade artificiale."],
       en: ["Opened to the public in 1993.", "Provides habitat for numerous migratory birds.", "Features artificial waterfalls."]
-    }
-  },
+    }, image: "/poi-images/oman-qurum-natural-park-nature-v2.webp"},
   {
     id: "oman-al-ansab-wetlands-nature-v2",
     type: "lake",
@@ -75,8 +72,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["Több mint 300 különböző madárfajt dokumentáltak itt.", "Tisztított szennyvízből hozták létre.", "Rendszeresen vonzza a flamingókat és sasokat."],
       ro: ["Peste 300 de specii diferite de păsări documentate.", "A fost creat din ape uzate tratate.", "Atrage în mod regulat flamingo și vulturi."],
       en: ["Over 300 different bird species documented.", "Created from treated wastewater.", "Regularly attracts flamingos and eagles."]
-    }
-  },
+    }, image: "/poi-images/oman-al-ansab-wetlands-nature-v2.webp"},
   {
     id: "oman-ayn-sahalnoot-nature-v2",
     type: "lake",
@@ -113,8 +109,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["A víz egy ősi öntözőrendszert (faladzs) tölt fel.", "Színes tündérrózsáknak ad otthont.", "A közeli barlangok látogathatók."],
       ro: ["Apa umple un sistem vechi de irigații (falaj).", "Găzduiește nuferi colorați.", "Peșterile din apropiere pot fi vizitate."],
       en: ["The water fills an ancient irrigation system (falaj).", "Home to colorful water lilies.", "The nearby caves can be visited."]
-    }
-  },
+    }, image: "/poi-images/oman-ayn-razat-nature-v2.webp"},
   {
     id: "oman-ayn-athum-nature-v2",
     type: "lake",
@@ -208,8 +203,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["Ismert apró természetes úszómedencéiről.", "Ritka ofiolit sziklaképződmények is találhatók itt.", "Népszerű a közeli dűnéken való terepjárózás."],
       ro: ["Cunoscut pentru micile piscine naturale de înot.", "Aici se găsesc formațiuni stâncoase rare de ofiolit.", "Popular pentru condusul off-road aventuros pe dunele din apropiere."],
       en: ["Known for small natural swimming pools.", "Rare ophiolite rock formations are found here.", "Popular for adventurous dune bashing nearby."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-al-abiyad-nature-v2.webp"},
   {
     id: "oman-wadi-andam-nature-v2",
     type: "river",
@@ -227,8 +221,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["A vádi több mint 100 kilométer hosszan terül el.", "Heves esőzések után gyakran okoz villámárvizeket.", "Természetes folyosóként szolgál a vadon élő állatok számára."],
       ro: ["Wadi-ul se întinde pe mai mult de 100 de kilometri.", "Produce adesea viituri periculoase după ploi abundente.", "Servește drept coridor natural pentru fauna sălbatică."],
       en: ["The wadi extends for over 100 kilometers.", "Often produces dangerous flash floods after heavy rain.", "Serves as a natural corridor for wildlife."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-andam-nature-v2.webp"},
   {
     id: "oman-wadi-muaydin-nature-v2",
     type: "river",
@@ -246,8 +239,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["Ez táplálja az ősi Birkat al Mawz város faladzs-rendszerét.", "A falak masszív mészkőrétegekből állnak.", "Partjai mentén ősi romok találhatók."],
       ro: ["Alimentează sistemul de falaj al orașului antic Birkat al Mawz.", "Pereții constau din straturi masive de calcar.", "Există ruine antice de-a lungul malurilor sale."],
       en: ["It feeds the falaj system of the ancient city of Birkat al Mawz.", "The walls consist of massive limestone layers.", "There are ancient ruins along its banks."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-muaydin-nature-v2.webp"},
   {
     id: "oman-jebel-harim-nature-v2",
     type: "mountain",
@@ -265,8 +257,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["Magassága eléri a 2087 métert.", "Sziklái tengeri fosszíliákban gazdagok.", "A csúcson egy radarállomás található."],
       ro: ["Atinge o înălțime de 2.087 de metri.", "Rocile sale sunt bogate în fosile marine.", "O stație radar se află pe vârf."],
       en: ["Reaches an altitude of 2,087 meters.", "Its rocks are rich in marine fossils.", "A radar station is located on the summit."]
-    }
-  },
+    }, image: "/poi-images/oman-jebel-harim-nature-v2.webp"},
   {
     id: "oman-jebel-madar-nature-v2",
     type: "mountain",
@@ -284,8 +275,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["Geológiailag egy sókupolára emlékeztet.", "Lejtőin rendkívül gyűrött kőzetrétegek találhatók.", "Fontos geológiai tanulmányok helyszíne Ománban."],
       ro: ["Din punct de vedere geologic amintește de o cupolă de sare.", "Pantele sale prezintă straturi de roci extrem de cutate.", "Important pentru studiile geologice din Oman."],
       en: ["Geologically resembles a salt dome.", "Its slopes feature extremely folded rock layers.", "Important for geological studies in Oman."]
-    }
-  },
+    }, image: "/poi-images/oman-jebel-madar-nature-v2.webp"},
   {
     id: "oman-wadi-ash-shuwaymiyyah-nature-v2",
     type: "river",
@@ -303,8 +293,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["Omán elszigetelt keleti partvidékén fekszik.", "Függőkerteket és kis vízeséseket rejt.", "Az ország egyik legérintetlenebb völgye."],
       ro: ["Situat pe coasta de est izolată a Omanului.", "Adăpostește grădini suspendate și mici cascade.", "Una dintre cele mai imaculate văi din țară."],
       en: ["Located on Oman's remote east coast.", "Harbors hanging gardens and small waterfalls.", "One of the most pristine valleys in the country."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-ash-shuwaymiyyah-nature-v2.webp"},
   {
     id: "oman-wadi-al-fara-nature-v2",
     type: "river",
@@ -322,8 +311,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["Híres a partján álló Ruszták-erődről.", "A vádiban gyógyító termálforrások találhatók.", "A folyóvölgyet pálmaligetek szegélyezik."],
       ro: ["Cunoscut pentru fortul Rustaq de pe malul său.", "Wadi-ul are izvoare termale vindecătoare.", "Valea râului este mărginită de plantații de palmieri."],
       en: ["Famous for the Rustaq Fort on its banks.", "The wadi features healing thermal springs.", "The river valley is lined with palm groves."]
-    }
-  },
+    }, image: "/poi-images/oman-wadi-al-fara-nature-v2.webp"},
   {
     id: "oman-jebel-as-sarat-nature-v2",
     type: "mountain",
@@ -341,8 +329,7 @@ export const poiExtraOmanNatureV2: POI[] = [
       hu: ["Népszerű terep a kihívást jelentő hegymászásokhoz.", "Többszáz éves borókafáknak ad otthont.", "Az ománi ofiolit komplexum része."],
       ro: ["Teren popular pentru alpiniști experimentați.", "Adăpostește ienuperi vechi de secole.", "Face parte din complexul de ofiolit din Oman."],
       en: ["Popular terrain for challenging climbing tours.", "Home to centuries-old juniper trees.", "Part of the Omani ophiolite complex."]
-    }
-  },
+    }, image: "/poi-images/oman-jebel-as-sarat-nature-v2.webp"},
   {
     id: "oman-khawr-awqad-nature-v2",
     type: "lake",

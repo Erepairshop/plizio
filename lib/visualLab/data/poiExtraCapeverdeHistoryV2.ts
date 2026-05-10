@@ -18,7 +18,20 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Established as the first European city in the tropics in 1462", "Formerly served as the capital of the Cape Verde archipelago", "UNESCO World Heritage site since 2009", "Served as a vital junction in the transatlantic maritime routes", "Home to the oldest colonial-era fortress in the region", "The local architecture reflects diverse Portuguese colonial influences"]
-    }, image: "/poi-images/cv-cidade-velha-history-v2.webp"},
+    }, image: "/poi-images/cv-cidade-velha-history-v2.webp",
+    description: {
+      de: "Cidade Velha ist die historische Altstadt von Ribeira Grande auf Santiago. Der Ort zählt zu den wichtigsten Kolonialstätten Kap Verdes.",
+      hu: "Cidade Velha Santiago történelmi magja és Cabo Verde egyik legfontosabb gyarmati emléke. Az egykori Ribeira Grande részeként UNESCO-helyszín.",
+      ro: "Cidade Velha a fost prima capitală a Capului Verde și nucleul vechii Ribeira Grande. Astăzi este sit UNESCO și cel mai important ansamblu istoric colonial din arhipelag.",
+      en: "Cidade Velha is the historic core of old Ribeira Grande on Santiago and one of the most important colonial sites in Cape Verde. It was the first European city founded in the tropics and is now a UNESCO World Heritage site."
+    },
+    facts: {
+      de: ["UNESCO-Welterbe", "älteste europäische Stadt der Tropen", "ehemalige Kolonialhauptstadt"],
+      hu: ["UNESCO világörökség", "az egykori Ribeira Grande", "korai gyarmati központ", "Santiago déli partján"],
+      ro: ["Ribeira Grande de Santiago", "prima capitală a țării", "UNESCO din 2009"],
+      en: ["First European city in the tropics", "Former capital of Cape Verde", "UNESCO site since 2009"]
+    }
+  },
   {
     id: "cv-fortaleza-real-sao-filipe-history-v2",
     type: "historical",
@@ -35,7 +48,20 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Built in the 16th century to defend against pirate raids", "Located on a hill overlooking the historic settlement of Ribeira Grande", "Strategically key for the defense of the colony's central port", "Features walls and artillery platforms that have survived centuries", "Provides an excellent vantage point over the coastline and ocean", "Restored to offer visitors educational insights into colonial military defense"]
-    }, image: "/poi-images/cv-fortaleza-real-sao-filipe-history-v2.webp"},
+    }, image: "/poi-images/cv-fortaleza-real-sao-filipe-history-v2.webp",
+    description: {
+      de: "Die Festung São Filipe überragt Cidade Velha oberhalb der Bucht. Sie wurde zur Verteidigung gegen Piraten und Rivalen gebaut.",
+      hu: "A São Filipe erőd Cidade Velha fölé magasodik, és a kikötő védelmére épült. A kalóztámadások és a rivális hatalmak ellen szolgált.",
+      ro: "Fortaleza Real de São Filipe domină Cidade Velha de pe înălțimea Achada de São Filipe. A fost ridicată în secolul al XVI-lea pentru apărare împotriva atacurilor maritime.",
+      en: "Fortaleza Real de Sao Filipe rises above Cidade Velha and was built to defend the settlement from pirates. Its hilltop position gave the colony a clear view over the bay."
+    },
+    facts: {
+      de: ["16. Jahrhundert", "über Cidade Velha", "Verteidigungsanlage"],
+      hu: ["16. századi erőd", "Cidade Velha fölött", "védelmi célra épült", "kilátás a partra"],
+      ro: ["sec. al XVI-lea", "deasupra Cidade Velha", "fortificație de apărare"],
+      en: ["Built in the 16th century", "Overlooks Cidade Velha", "Built for coastal defense"]
+    }
+  },
   {
     id: "cv-pelourinho-cidade-velha-history-v2",
     type: "historical",
@@ -52,7 +78,20 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the historic center of Cidade Velha", "Symbolizes the judicial authority and the era of the slave trade", "Served as a site for public punishments during the colonial period", "An iconic landmark within the UNESCO World Heritage site", "Represents a vital, if difficult, piece of the island's colonial history", "Offers a starting point for historical guided tours through the valley"]
-    }, image: "/poi-images/cv-pelourinho-cidade-velha-history-v2.webp"},
+    }, image: "/poi-images/cv-pelourinho-cidade-velha-history-v2.webp",
+    description: {
+      de: "Der Pranger von Cidade Velha steht im historischen Zentrum der alten Kolonialstadt. Er erinnert an die harte Rechtspraxis der Kolonialzeit.",
+      hu: "A Cidade Velha-i pellengér a gyarmati igazságszolgáltatás emléke. A történelmi központban áll, és a rabszolgaság korára utal.",
+      ro: "Pelourinho din Cidade Velha este coloana de piatră din centrul vechiului oraș colonial. A marcat autoritatea locală și pedeapsa publică în perioada colonială.",
+      en: "The Pelourinho of Cidade Velha stands in the old town square and marks the city's colonial past. It was a public symbol of judicial authority during the slave-trade era."
+    },
+    facts: {
+      de: ["im UNESCO-Areal", "Symbol der Kolonialherrschaft", "Ort öffentlicher Strafen"],
+      hu: ["a történelmi központban", "gyarmati büntetőhely", "UNESCO-terület része", "a rabszolgatartás emléke"],
+      ro: ["în zona UNESCO", "coloană de piatră", "simbol al puterii coloniale"],
+      en: ["In the historic square", "Linked to colonial justice", "Part of the UNESCO area"]
+    }
+  },
   {
     id: "cv-ruinas-se-catedral-history-v2",
     type: "historical",
@@ -69,7 +108,20 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Construction began in 1555 but was never fully completed", "Intended to be the primary cathedral for the West African diocese", "Remnants represent architectural designs from the Portuguese Renaissance", "Archaeological remains are a key part of the UNESCO heritage area", "Located within the historic valley of Cidade Velha", "One of the earliest attempts to establish European religious infrastructure in the tropics"]
-    }, image: "/poi-images/cv-ruinas-se-catedral-history-v2.webp"},
+    }, image: "/poi-images/cv-ruinas-se-catedral-history-v2.webp",
+    description: {
+      de: "Die Ruinen der Sé-Kathedrale in Cidade Velha gehören zu den frühesten christlichen Bauwerken des Archipels. Sie zeigen den unvollendeten Anspruch der Kolonialzeit.",
+      hu: "A SÉ-katedrális romjai a korai egyházi építkezések nyomai Cidade Velhában. Az épület sosem készült el teljesen.",
+      ro: "Ruinele Sé-Catedralei din Cidade Velha păstrează urmele uneia dintre cele mai vechi biserici coloniale din Capul Verde. Ele fac parte din centrul istoric al vechii Ribeira Grande.",
+      en: "The ruins of the cathedral in Cidade Velha are among the best-known remains of old Ribeira Grande. They show the scale of the former religious center of the first capital."
+    },
+    facts: {
+      de: ["Baubeginn im 16. Jahrhundert", "frühes Kirchenprojekt", "Teil des historischen Zentrums"],
+      hu: ["16. századi kezdés", "félbemaradt katedrális", "a történelmi központ része", "korai egyházi emlék"],
+      ro: ["sec. al XVI-lea", "lângă centrul istoric", "ruine ale catedralei vechi"],
+      en: ["Ruins in Cidade Velha", "Old cathedral of Ribeira Grande", "Historic religious site"]
+    }
+  },
   {
     id: "cv-tarrafal-concentration-camp-history-v2",
     type: "historical",
@@ -86,7 +138,20 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Operational between 1936 and 1974 by the Portuguese regime", "Used as a primary facility for political prisoners across the Portuguese empire", "Now serves as a museum dedicated to historical memory and human rights", "A central site for understanding the national liberation movement", "Symbolizes the struggle for freedom against authoritarian rule", "One of the most significant sites for 20th-century history in Cape Verde"]
-    }, image: "/poi-images/cv-tarrafal-concentration-camp-history-v2.webp"},
+    }, image: "/poi-images/cv-tarrafal-concentration-camp-history-v2.webp",
+    description: {
+      de: "Das Lager Tarrafal auf Santiago war eines der bekanntesten politischen Gefängnisse des portugiesischen Estado Novo. Heute ist es ein Ort des Gedenkens.",
+      hu: "A Tarrafal tábor a portugál diktatúra egyik legismertebb politikai börtöne volt. Ma emlékhely és múzeum.",
+      ro: "Lagărul Tarrafal de pe Santiago a funcționat ca închisoare politică în perioada Estado Novo. Astăzi este un loc de memorie și patrimoniu național.",
+      en: "The Tarrafal Concentration Camp in Chao Bom, on Santiago, was a Portuguese colonial detention camp. It became a symbol of political repression under the Estado Novo regime."
+    },
+    facts: {
+      de: ["1936 eröffnet", "für politische Gefangene", "heute Museum"],
+      hu: ["1936-ban nyílt", "politikai foglyok tábora", "1974 után zárták be", "ma múzeum"],
+      ro: ["deschis în 1936", "închisoare politică", "azi sit memorial"],
+      en: ["Opened in 1936", "In Chao Bom, Tarrafal", "National heritage site"]
+    }
+  },
   {
     id: "cv-farol-dona-maria-pia-history-v2",
     type: "historical",
@@ -253,13 +318,13 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
       de: "Eine alte Festung auf einem Hügel über Mindelo, die einst den Hafen verteidigte.",
       hu: "Régi erőd egy dombon Mindelo felett, amely egykor a kikötőt védte.",
       ro: "O veche fortăreață pe un deal deasupra orașului Mindelo, care odinioară apăra portul.",
-      en: "An old fortress on a hill above Mindelo that once defended the harbor."
+      en: "Fortim d'El Rei is a small fort in Mindelo on Sao Vicente. Built in the mid-19th century, it was used to defend Porto Grande Bay and the city."
     },
     facts: {
       de: ["Erbaut im Jahr 1852.", "Diente zeitweise als Gefängnis."],
       hu: ["1852-ben épült.", "Időnként börtönként is szolgált."],
       ro: ["Construită în anul 1852.", "A servit periodic drept închisoare."],
-      en: ["Built in 1852.", "Served as a prison at times."]
+      en: ["Built in 1852-1853", "In Mindelo, Sao Vicente", "Defended Porto Grande Bay"]
     }, image: "/poi-images/cv-fortim-del-rei-history-v2.webp"},
   {
     id: "cv-historical-salt-pans-pedra-de-lume-history-v2",

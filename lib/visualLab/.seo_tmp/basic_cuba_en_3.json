@@ -1,0 +1,90 @@
+{
+  "lang": "en",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCubaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCubaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCubaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCubaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCubaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-la-vigia-life-v2",
+      "description": "The former Finca Vigia estate near Havana, closely linked to Ernest Hemingway's life in Cuba.",
+      "facts": ["Hemingway home", "Near Havana", "Literary heritage"]
+    },
+    {
+      "id": "zoologico-de-26-life-v2",
+      "description": "A city zoo in Havana that serves as a small family attraction.",
+      "facts": ["Havana", "Urban zoo", "Family visits"]
+    },
+    {
+      "id": "finca-pinar-tabaco-life-v2",
+      "description": "A tobacco farm in Pinar del Rio that reflects western Cuba's farming traditions.",
+      "facts": ["Tobacco fields", "Vuelta Abajo region", "Traditional farming"]
+    },
+    {
+      "id": "parque-kike-acosta-life-v2",
+      "description": "A neighborhood park used for everyday recreation and local gatherings.",
+      "facts": ["Urban green space", "Local leisure", "Community use"]
+    },
+    {
+      "id": "zoologico-de-piedra-life-v2",
+      "description": "A stone animal garden and outdoor attraction known for carved figures and family visits.",
+      "facts": ["Carved animals", "Outdoor attraction", "Popular with families"]
+    },
+    {
+      "id": "parque-carlos-manuel-de-cespedes-life-v2",
+      "description": "A central park named after Carlos Manuel de Cespedes, a key figure in Cuban independence.",
+      "facts": ["Bayamo area", "Independence legacy", "Urban landmark"]
+    },
+    {
+      "id": "finca-organic-matanzas-life-v2",
+      "description": "An organic farm in Matanzas focused on fresh produce and rural tourism.",
+      "facts": ["Organic produce", "Rural tourism", "Matanzas Province"]
+    },
+    {
+      "id": "zoologico-camaguey-life-v2",
+      "description": "A zoo in Camaguey that provides a classic family outing in the city.",
+      "facts": ["Camaguey", "Animal exhibits", "Family attraction"]
+    },
+    {
+      "id": "jardin-botanico-cienfuegos-life-v2",
+      "description": "A botanical garden in Cienfuegos with a focus on tropical plants and education.",
+      "facts": ["Tropical plants", "Educational visits", "Cienfuegos"]
+    },
+    {
+      "id": "parque-infantil-cuba-life-v2",
+      "description": "A children's park designed for play, rest, and simple outdoor recreation.",
+      "facts": ["Playground area", "Family leisure", "Urban recreation"]
+    },
+    {
+      "id": "finca-agroecologica-trinidad-life-v2",
+      "description": "An agroecological farm near Trinidad that highlights sustainable farming.",
+      "facts": ["Sustainable farming", "Local produce", "Trinidad area"]
+    },
+    {
+      "id": "zoologico-de-baracoa-life-v2",
+      "description": "A small zoo in Baracoa that adds a local wildlife stop to the city.",
+      "facts": ["Baracoa", "Local wildlife", "Small zoo"]
+    },
+    {
+      "id": "parque-santiago-de-cuba-life-v2",
+      "description": "A city park in Santiago de Cuba used for everyday recreation and public life.",
+      "facts": ["Santiago de Cuba", "Public park", "Local meeting point"]
+    },
+    {
+      "id": "finca-cacao-baracoa-life-v2",
+      "description": "A cacao farm near Baracoa, one of Cuba's best-known cocoa growing areas.",
+      "facts": ["Cacao growing", "Eastern Cuba", "Baracoa region"]
+    },
+    {
+      "id": "zoologico-de-manzanillo-life-v2",
+      "description": "A municipal zoo in Manzanillo serving as a simple family destination.",
+      "facts": ["Manzanillo", "Family attraction", "Local zoo"]
+    }
+  ]
+}

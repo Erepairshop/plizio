@@ -62,13 +62,13 @@ export const poiExtraChadReliefV2: POI[] = [
     
     description: {
       de: "Ein abgelegenes Sandsteinplateau im Nordosten des Landes, bekannt für seine bizarren Felsformationen und Fossilien.",
-      hu: "Távoli homokkőfennsík az ország északkeleti részén, amely bizarr sziklaalakzatairól és fosszíliáiról ismert.",
+      hu: "Az Erdi-fennsík Északkelet-Csád elszigetelt sivatagi platója. Az Ennedi térségének peremén fekvő, sziklás táj része.",
       ro: "Un podiș izolat de gresie în nord-estul țării, cunoscut pentru formațiunile stâncoase bizare și fosile.",
       en: "A remote sandstone plateau in the northeast of the country, known for its bizarre rock formations and fossils."
     },
     facts: {
       de: ["Sandsteinlandschaft", "Reich an Fossilienfunden"],
-      hu: ["Homokkő táj", "Gazdag fosszília-leletekben"],
+      hu: ["Ennedi-Est régióban van", "Fennsík, nagyjából 988 m", "A Mourdi-mélyedés közelében", "Ritkán lakott terület"],
       ro: ["Peisaj de gresie", "Bogat în fosile"],
       en: ["Sandstone landscape", "Rich in fossil finds"]
     }, image: "/poi-images/erdi-plateau-relief-v2.webp"},
@@ -98,13 +98,13 @@ export const poiExtraChadReliefV2: POI[] = [
     description: {
       de: "Eine weite Senke zwischen dem Ennedi-Massiv und dem Erdi-Plateau, geprägt von Wanderdünen und Wüstenklima.",
       hu: "Hatalmas mélyedés az Ennedi-masszívum és az Erdi-fennsík között, vándorló dűnékkel és sivatagi éghajlattal.",
-      ro: "O depresiune vastă între masivul Ennedi și podișul Erdi, caracterizată de dune mișcătoare și climat deșertic.",
+      ro: "Depresiunea Mourdi este un bazin arid din nordul Ciadului, aproape de Ennedi. Relieful ei jos marchează o zonă de tranziție în deșert.",
       en: "A vast depression between the Ennedi Massif and the Erdi Plateau, characterized by shifting dunes and desert climate."
     },
     facts: {
       de: ["Wandernde Sanddünen", "Extreme Trockenheit"],
       hu: ["Vándorló homokdűnék", "Extrém szárazság"],
-      ro: ["Dune de nisip mișcătoare", "Secetă extremă"],
+      ro: ["În nordul Ciadului", "Lângă platoul Ennedi", "Bazin arid", "Relief jos"],
       en: ["Shifting sand dunes", "Extreme aridity"]
     }, image: "/poi-images/mourdi-depression-relief-v2.webp"},
   {
@@ -167,14 +167,14 @@ export const poiExtraChadReliefV2: POI[] = [
     
     description: {
       de: "Einer der vielen vulkanischen Massive des Tibesti, bekannt für seine zerklüfteten Abhänge und isolierte Lage.",
-      hu: "A Tibeszti számos vulkáni masszívumának egyike, amely egyenetlen lejtőiről és elszigetelt fekvéséről ismert.",
-      ro: "Unul dintre numeroasele masive vulcanice din Tibesti, cunoscut pentru pantele sale abrupte și locația izolată.",
+      hu: "A Tarso Emissti a Tibeszti-hegység egyik vulkáni tömbje Észak-Csádban. A magas, tagolt domborzat a térség jellegzetes formái közé tartozik.",
+      ro: "Tarso Emissti este un masiv vulcanic din Tibesti, în nordul Ciadului. Versanții abrupți și roca vulcanică îi dau un relief foarte fragmentat.",
       en: "One of the many volcanic massifs of Tibesti, known for its rugged slopes and isolated location."
     },
     facts: {
       de: ["Erloßener Vulkan", "Hochalpine Wüste"],
-      hu: ["Kialudt vulkán", "Magashegyi sivatag"],
-      ro: ["Vulcan stins", "Deșert montan înalt"],
+      hu: ["A Tibeszti része", "Vulkáni eredetű", "Észak-Csádban fekszik", "Sivatagi hegyvidék"],
+      ro: ["Parte din Tibesti", "Origine vulcanică", "În nordul Ciadului", "Relief montan înalt"],
       en: ["Extinct volcano", "High alpine desert"]
     }, image: "/poi-images/tarso-emissti-relief-v2.webp"},
   {
@@ -235,13 +235,13 @@ export const poiExtraChadReliefV2: POI[] = [
       de: "Ausgedehnte Felder von Sicheldünen in der Borkou-Region, die durch starke Nordostwinde geformt werden.",
       hu: "Kiterjedt sarlódűne-mezők a Borkou-régióban, amelyeket az erős északkeleti szelek formálnak.",
       ro: "Câmpuri vaste de dune în formă de seceră în regiunea Borkou, modelate de vânturile puternice de nord-est.",
-      en: "Extensive fields of barchan dunes in the Borkou region, shaped by strong northeasterly winds."
+      en: "A field of barchan dunes in the Borkou region of northern Chad. Strong desert winds constantly reshape the sand."
     },
     facts: {
       de: ["Sicheldünen (Barchane)", "Windgeformte Landschaft"],
       hu: ["Sarlódűnék (barkánok)", "Szélformálta táj"],
       ro: ["Dune seceră (barcane)", "Peisaj modelat de vânt"],
-      en: ["Barchan dunes", "Wind-sculpted landscape"]
+      en: ["Northern Chad", "Borkou region", "Barchan dunes", "Wind-shaped desert"]
     }
   },
   {
@@ -365,16 +365,16 @@ export const poiExtraChadReliefV2: POI[] = [
     
     
     description: {
-      de: "Ein markantes Gebirgsmassiv in der Guéra-Region, das die umliegenden Ebenen deutlich überragt.",
-      hu: "Jellegzetes hegymasszívum a Guéra-régióban, amely jelentősen kiemelkedik a környező síkságokból.",
-      ro: "Un masiv muntos proeminent în regiunea Guéra, care se înalță clar deasupra câmpiilor înconjurătoare.",
-      en: "A prominent mountain massif in the Guéra region, significantly towering over the surrounding plains."
+      de: "Das Abou-Telfane-Massiv ragt in der Guéra-Region deutlich über die Ebene. Es prägt das lokale Mikroklima und sammelt Wasser für die Umgebung.",
+      hu: "Az Abou Telfane a Guéra-masszívum egyik fő hegytömbje Közép-Csádban. A Mongo környéki tagolt gránitos dombvidék része.",
+      ro: "Masivul Abou Telfane se ridică în regiunea Guéra, în centrul Ciadului. Este un reper local important într-un peisaj dominat de câmpii și savană.",
+      en: "A mountain massif in the Guéra region of central Chad. It rises above the surrounding plains and influences local runoff and microclimate."
     },
     facts: {
-      de: ["Guéra-Region", "Isoliertes Bergmassiv"],
-      hu: ["Guéra-régió", "Elszigetelt hegymasszívum"],
-      ro: ["Regiunea Guéra", "Masiv muntos izolat"],
-      en: ["Guéra region", "Isolated mountain massif"]
+      de: ["Massiv in der Guéra-Region", "Überragt die Ebene", "Prägt das Mikroklima", "Wichtige Wasserquelle"],
+      hu: ["A Guéra-masszívum része", "Közép-Csádban van", "Az egyik fő hegytömb", "Mongo környékéhez kapcsolódik"],
+      ro: ["În regiunea Guéra", "Centrul Ciadului", "Reper geografic", "Relief izolat"],
+      en: ["Guéra region", "Central Chad", "Isolated massif", "Higher than the plains"]
     }, image: "/poi-images/abou-telfane-massif-relief-v2.webp"},
   {
     id: "bahr-el-ghazal-depression-relief-v2",
@@ -431,16 +431,16 @@ export const poiExtraChadReliefV2: POI[] = [
     
     
     description: {
-      de: "Eine beeindruckende geologische Verwerfung in der Borkou-Region, die eine steile Geländestufe bildet.",
-      hu: "Lenyűgöző geológiai vetődés a Borkou-régióban, amely meredek tereplépcsőt alkot.",
+      de: "Die Angamma-Kante ist eine markante Geländestufe in der Borkou-Region. Sie trennt Landschaftsräume und zeigt die geologische Schichtung des Nordens.",
+      hu: "Az Angamma-szakadék a régi Mega-Csád tó partvonalának egyik látványos pereme Észak-Csádban. A korábbi delta üledékei formálták ezt a meredek lépcsőt.",
       ro: "O falie geologică impresionantă în regiunea Borkou, care formează o treaptă abruptă de teren.",
-      en: "An impressive geological fault in the Borkou region, forming a steep terrain step."
+      en: "A steep escarpment in the Borkou region, close to the former Lake Mega-Chad shoreline. It marks a major break in terrain and exposes layered geology."
     },
     facts: {
-      de: ["Geologische Verwerfung", "Borkou-Region"],
-      hu: ["Geológiai vetődés", "Borkou-régió"],
+      de: ["Geologische Geländestufe", "In der Borkou-Region", "Trennt Landschaftsräume", "Sichtbare Gesteinsschichten"],
+      hu: ["Mega-Csádhoz kapcsolódik", "Régi tóparti perem", "Észak-Csádban található", "Deltaüledékek alakították"],
       ro: ["Falie geologică", "Regiunea Borkou"],
-      en: ["Geological fault", "Borkou region"]
+      en: ["Borkou region", "Former Mega-Chad shoreline", "Steep terrain step", "Layered geology"]
     }, image: "/poi-images/angamma-escarpment-relief-v2.webp"},
   {
     id: "djoli-hills-relief-v2",
@@ -464,16 +464,16 @@ export const poiExtraChadReliefV2: POI[] = [
     
     
     description: {
-      de: "Eine hügelige Landschaft im Osten des Tschad, die den Übergang zum Sudan bildet.",
-      hu: "Dombos táj Csád keleti részén, amely az átmenetet képezi Szudán felé.",
-      ro: "Un peisaj deluros în estul Ciadului, care formează tranziția către Sudan.",
-      en: "A hilly landscape in eastern Chad, forming the transition towards Sudan."
+      de: "Das Djoli-Hügelland liegt im Osten des Tschad und bildet einen sanften Übergang zur trockeneren Umgebung. Es ist wichtig als Weidegebiet für Hirten.",
+      hu: "A Djoli környéki dombos táj Dél-Csádban, a Moyen-Chari régióban található. A Manda Nemzeti Park térségéhez közeli, falusias vidék.",
+      ro: "Dealurile Djoli formează un relief ondulat în estul Ciadului. Ele marchează trecerea spre zone mai uscate și sunt folosite local pentru pășunat.",
+      en: "A hilly landscape in southern Chad, around the Moyen-Chari area. The hills form a local transition zone between flatter lowlands and nearby savanna."
     },
     facts: {
-      de: ["Osttschad", "Grenze zum Sudan"],
-      hu: ["Kelet-Csád", "Határ Szudánnal"],
-      ro: ["Ciadul de est", "Granița cu Sudanul"],
-      en: ["Eastern Chad", "Border with Sudan"]
+      de: ["Hügelland im Osten", "Übergang zur Sahelzone", "Wichtige Weideflächen", "Genutzt von Hirten"],
+      hu: ["Moyen-Chari régióban van", "Dél-Csádban fekszik", "A Manda park közelében", "Dombos, falusias táj"],
+      ro: ["În estul Ciadului", "Relief domol", "Zonă de pășunat", "Tranziție spre Sahel"],
+      en: ["Southern Chad", "Moyen-Chari area", "Hilly terrain", "Transition zone"]
     }, image: "/poi-images/djoli-hills-relief-v2.webp"},
   {
     id: "kapka-massif-relief-v2",
@@ -498,15 +498,15 @@ export const poiExtraChadReliefV2: POI[] = [
     
     description: {
       de: "Ein zerklüftetes Gebirge im Wadi-Fira-Gebiet, bekannt für seine strategische Lage und karge Schönheit.",
-      hu: "Zord hegyvidék Wadi Fira területén, amely stratégiai fekvéséről és kopár szépségéről ismert.",
+      hu: "A Kapka-masszívum Wadi Fira régió egyik hegyes tömbje Északkelet-Csádban. A száraz tájban elszigetelt magaslatként emelkedik ki.",
       ro: "Munți accidentați în zona Wadi Fira, cunoscuți pentru poziția lor strategică și frumusețea aridă.",
-      en: "A rugged mountain range in the Wadi Fira area, known for its strategic location and barren beauty."
+      en: "A rugged massif in the Wadi Fira region of eastern Chad. It stands out as a rocky highland above the surrounding dry plains."
     },
     facts: {
       de: ["Wadi-Fira-Region", "Schroffe Gipfel"],
-      hu: ["Wadi Fira régió", "Zord csúcsok"],
+      hu: ["Wadi Fira régióban van", "Kb. 850 m magas", "Kapka Djémé közelében", "Elszigetelt hegytömb"],
       ro: ["Regiunea Wadi Fira", "Vârfuri abrupte"],
-      en: ["Wadi Fira region", "Rugged peaks"]
+      en: ["Wadi Fira region", "Eastern Chad", "Rocky highland", "Isolated massif"]
     }
   },
   {
@@ -531,16 +531,16 @@ export const poiExtraChadReliefV2: POI[] = [
     
     
     description: {
-      de: "Ein trockenes Hochplateau im Osten des Landes, das vor allem von Hirtennomaden genutzt wird.",
-      hu: "Száraz fennsík az ország keleti részén, amelyet elsősorban pásztornomádok használnak.",
-      ro: "Un podiș arid în estul țării, folosit în principal de nomazii păstori.",
-      en: "A dry high plateau in the east of the country, primarily used by pastoral nomads."
+      de: "Das Biltine-Plateau ist ein trockenes Hochland im Osten des Tschad. Nomadische Viehhalter nutzen die kargen Weideflächen.",
+      hu: "A Biltine-fennsík Kelet-Csád magasabban fekvő, száraz térsége. A Wadi Fira vidékének egyik jellegzetes domborzati egysége.",
+      ro: "Platoul Biltine este un platou arid din estul Ciadului. Valele uscate și suprafețele stâncoase îi definesc peisajul.",
+      en: "A dry plateau in eastern Chad near Biltine. It is part of the wider Wadi Fira landscape and is used for pastoral grazing."
     },
     facts: {
-      de: ["Osttschad", "Nomadische Weideflächen"],
-      hu: ["Kelet-Csád", "Nomád legelőterületek"],
-      ro: ["Ciadul de est", "Pașuni nomade"],
-      en: ["Eastern Chad", "Nomadic grazing lands"]
+      de: ["Trockenes Hochland", "Im Osten des Tschad", "Karge Weideflächen", "Nutzung durch Nomaden"],
+      hu: ["Wadi Fira térségében van", "Biltine környékéhez kapcsolódik", "Kelet-Csádban található", "Félszáraz fennsík"],
+      ro: ["În Wadi Fira", "Platou arid", "Relief stâncos", "Aproape de Biltine"],
+      en: ["Eastern Chad", "Near Biltine", "Wadi Fira landscape", "Pastoral grazing"]
     }, image: "/poi-images/biltine-plateau-relief-v2.webp"},
   {
     id: "tchigai-plateau-relief-v2",
@@ -564,16 +564,16 @@ export const poiExtraChadReliefV2: POI[] = [
     
     
     description: {
-      de: "Ein weites, einsames Plateau an der Nordgrenze des Tibesti-Massivs, fast völlig vegetationslos.",
-      hu: "Hatalmas, magányos fennsík a Tibeszti-masszívum északi határán, szinte teljesen növényzet nélkül.",
+      de: "Das Tchigai-Plateau liegt an der Nordgrenze des Tibesti und gehört zu den einsamsten Wüstenräumen des Landes. Fast ohne Vegetation zeigt es eine karge Steinlandschaft.",
+      hu: "A Tchigai-fennsík a Csád és Niger határvidékének magasplatója. A Tibeszti és a nyugati szaharai térségek közti száraz átmeneti zónához tartozik.",
       ro: "Un podiș vast și solitar la granița de nord a masivului Tibesti, aproape complet lipsit de vegetație.",
-      en: "A vast, lonely plateau on the northern border of the Tibesti Massif, almost entirely devoid of vegetation."
+      en: "A remote plateau on the northern borderland around Tibesti. It is almost entirely bare rock and desert."
     },
     facts: {
-      de: ["Extrem isolierte Lage", "Steinwüste"],
-      hu: ["Extrém elszigetelt fekvés", "Kősivatag"],
+      de: ["Nordgrenze des Tibesti", "Sehr abgelegen", "Fast ohne Vegetation", "Karge Steinlandschaft"],
+      hu: ["Határ menti fennsík", "Nigerrel osztozó térség", "Északnyugati sivatagi vidék", "Száraz, magas fekvésű táj"],
       ro: ["Locație extrem de izolată", "Deșert de piatră"],
-      en: ["Extremely isolated location", "Stony desert"]
+      en: ["Near Tibesti", "Borderland plateau", "Very sparse vegetation", "Remote desert landscape"]
     }, image: "/poi-images/tchigai-plateau-relief-v2.webp"},
   {
     id: "gere-massif-relief-v2",
@@ -597,16 +597,16 @@ export const poiExtraChadReliefV2: POI[] = [
     
     
     description: {
-      de: "Ein Gebirgszug im Herzen der Guéra-Region, bekannt für seine markanten Granitfelsen.",
-      hu: "Hegylánc a Guéra-régió szívében, amely jellegzetes gránitszikláiról ismert.",
-      ro: "Un lanț muntos în inima regiunii Guéra, cunoscut pentru stâncile sale de granit proeminente.",
-      en: "A mountain range in the heart of the Guéra region, known for its prominent granite rocks."
+      de: "Das Gere-Massiv ist ein Gebirgszug in der Guéra-Region mit markanten Granitfelsen. Es bietet Schutz für lokale Pflanzen und Tiere.",
+      hu: "A Guéra-masszívum Csád szívének egyik központi hegyvidéki egysége. A Mongo környékét meghatározó gránitos domborzat tartozik ide.",
+      ro: "Masivul Gere este o formă de relief izolată din regiunea Guéra. Oferă un microclimat ușor diferit față de câmpiile din jur.",
+      en: "A mountain massif in the Guéra region of central Chad. Its granite outcrops and higher ground make it a local landmark above the surrounding plains."
     },
     facts: {
-      de: ["Guéra-Region", "Granitformationen"],
-      hu: ["Guéra-régió", "Gránitképződmények"],
-      ro: ["Regiunea Guéra", "Formațiuni de granit"],
-      en: ["Guéra region", "Granite formations"]
+      de: ["Gebirgszug in Guéra", "Markante Granitfelsen", "Schutz für Arten", "Wichtiger Landschaftsanker"],
+      hu: ["Közép-Csádban van", "A Guéra térség része", "Több hegytömbből áll", "A Mongo vidéke fölé magasodik"],
+      ro: ["În centrul Ciadului", "În regiunea Guéra", "Relief izolat", "Microclimat local"],
+      en: ["Guéra region", "Central Chad", "Granite outcrops", "Local landmark"]
     }
   },
   {
@@ -631,16 +631,16 @@ export const poiExtraChadReliefV2: POI[] = [
     
     
     description: {
-      de: "Einer der verbleibenden dichten Waldbestände im Süden des Tschad, ein Rückzugsort für tropische Arten.",
-      hu: "Csád déli részének egyik megmaradt sűrű erdőállománya, trópusi fajok menedékhelye.",
-      ro: "Una dintre pădurile dese rămase în sudul Ciadului, un refugiu pentru speciile tropicale.",
-      en: "One of the remaining dense forest stands in southern Chad, a sanctuary for tropical species."
+      de: "Der Dougui-Wald gehört zu den seltenen dichten Waldflächen im Süden des Tschad. Er schützt den Boden vor Erosion und bietet Lebensraum für tropische Arten.",
+      hu: "A Dougui erdősége egy csádi erdős táj, amely ritkább zöld foltot ad a szárazabb környezetben. A helyi erdőgazdálkodási és tájvédelmi munkákhoz is kapcsolódik.",
+      ro: "Pădurea Dougui este o zonă forestieră rară din sudul Ciadului. Într-un mediu dominat de savană, are un rol important pentru sol și biodiversitate.",
+      en: "A forested area in southern Chad, with denser tree cover than the surrounding savanna. It helps protect the soil and provides habitat for tropical species."
     },
     facts: {
-      de: ["Südtschad", "Tropisches Ökosystem"],
-      hu: ["Dél-Csád", "Trópusi ökoszisztéma"],
-      ro: ["Sudul Ciadului", "Ecosistem tropical"],
-      en: ["Southern Chad", "Tropical ecosystem"]
+      de: ["Seltener Wald im Süden", "Schützt vor Erosion", "Lebensraum für Tropenarten", "Wichtige ökologische Nische"],
+      hu: ["Csádi erdős terület", "A Dougui névhez kötődik", "Helyi élőhelyet ad", "Erdőgazdálkodási jelentőségű"],
+      ro: ["În sudul Ciadului", "Ecosistem tropical", "Protejează solul", "Habitat local"],
+      en: ["Southern Chad", "Forested area", "Soil protection", "Tropical species habitat"]
     }, image: "/poi-images/dougui-forest-relief-v2.webp"},
   {
     id: "kyabe-forest-relief-v2",

@@ -1,0 +1,131 @@
+{
+  "lang": "en",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yaounde-notre-dame-landmarks-v2",
+      "description": "A prominent Catholic cathedral in Yaounde. It is one of the capital's best known civic and religious landmarks.",
+      "facts": [
+        "in Yaounde",
+        "Catholic cathedral",
+        "capital landmark"
+      ]
+    },
+    {
+      "id": "mvolye-basilica-landmarks-v2",
+      "description": "The Basilica of Mary Queen of Apostles in Mvolye is a major church in Yaounde. It is a landmark of modern Catholic architecture.",
+      "facts": [
+        "in Yaounde",
+        "major basilica",
+        "modern church landmark"
+      ]
+    },
+    {
+      "id": "olembe-stadium-landmarks-v2",
+      "description": "A large modern stadium in the north of Yaounde. It hosts major football matches and national events.",
+      "facts": [
+        "in Yaounde",
+        "large football stadium",
+        "used for major events"
+      ]
+    },
+    {
+      "id": "reunification-monument-landmarks-v2",
+      "description": "A national monument in Yaounde that marks Cameroon's reunification. It is one of the city's most recognizable symbols.",
+      "facts": [
+        "in Yaounde",
+        "symbol of reunification",
+        "national monument"
+      ]
+    },
+    {
+      "id": "national-museum-landmarks-v2",
+      "description": "Cameroon's national museum in Yaounde. It displays objects that trace the country's cultural and political history.",
+      "facts": [
+        "in Yaounde",
+        "national museum",
+        "cultural collections"
+      ]
+    },
+    {
+      "id": "douala-cathedral-landmarks-v2",
+      "description": "A major cathedral in Douala and an important religious landmark of the coastal city. It anchors the city's Catholic community.",
+      "facts": [
+        "in Douala",
+        "major cathedral",
+        "coastal city landmark"
+      ]
+    },
+    {
+      "id": "japoma-stadium-landmarks-v2",
+      "description": "A large stadium in Douala used for football and public events. It is one of Cameroon's main sports venues.",
+      "facts": [
+        "in Douala",
+        "major stadium",
+        "sports and events venue"
+      ]
+    },
+    {
+      "id": "nouvelle-liberte-landmarks-v2",
+      "description": "A well known statue in Douala representing freedom and modern city life. It has become one of the city's most photographed landmarks.",
+      "facts": [
+        "in Douala",
+        "modern city statue",
+        "popular photo spot"
+      ]
+    },
+    {
+      "id": "wouri-bridge-landmarks-v2",
+      "description": "The bridge over the Wouri River linking parts of Douala. It is a vital transport connection for the country's main port city.",
+      "facts": [
+        "crosses the Wouri",
+        "in Douala",
+        "important road link"
+      ]
+    },
+    {
+      "id": "foumban-palace-landmarks-v2",
+      "description": "The royal palace in Foumban is a standout landmark of the Bamoun kingdom. Its architecture and museum make it a key visitor site.",
+      "facts": [
+        "in Foumban",
+        "royal palace",
+        "Bamoun heritage site"
+      ]
+    },
+    {
+      "id": "roumde-adjia-stadium-landmarks-v2",
+      "description": "A stadium in Maroua used for football and local gatherings. It is one of the main sports grounds in the Far North.",
+      "facts": [
+        "in Maroua",
+        "sports stadium",
+        "Far North venue"
+      ]
+    },
+    {
+      "id": "kribi-lighthouse-landmarks-v2",
+      "description": "The lighthouse of Kribi is a familiar coastal landmark. It stands near the Atlantic shore and recalls the town's maritime role.",
+      "facts": [
+        "in Kribi",
+        "coastal lighthouse",
+        "maritime landmark"
+      ]
+    },
+    {
+      "id": "ahmadou-ahidjo-stadium-landmarks-v2",
+      "description": "Cameroon's national stadium in Yaounde. It hosts major football matches and state events.",
+      "facts": [
+        "in Yaounde",
+        "national stadium",
+        "major sports venue"
+      ]
+    }
+  ]
+}

@@ -23,8 +23,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["Az államfő székhelye", "Modern nyugat-afrikai építészet", "Kiterjedt kertek veszik körül", "A politikai hatalom jelképe"],
       ro: ["Sediul șefului statului", "Arhitectură modernă vest-africană", "Înconjurat de grădini vaste", "Simbol al puterii politice"],
       en: ["Seat of the head of state", "Modern West African architecture", "Surrounded by extensive gardens", "Landmark of political power"]
-    }
-  },
+    }, image: "/poi-images/palais-presidence-lome-landmarks-v2.webp"},
   {
     id: "stade-kegue-lome-landmarks-v2",
     type: "landmark",
@@ -47,8 +46,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["A nemzeti válogatott otthona", "Több mint 30 000 férőhelyes", "2019-ben modernizálták", "A togói sport központja"],
       ro: ["Casa echipei naționale", "Capacitate de peste 30.000 de locuri", "Modernizat în anul 2019", "Centrul sportului togolez"],
       en: ["Home of the national team", "Capacity of over 30,000 seats", "Modernized in 2019", "Center of Togolese sports"]
-    }
-  },
+    }, image: "/poi-images/stade-kegue-lome-landmarks-v2.webp"},
   {
     id: "hotel-2-fevrier-lome-landmarks-v2",
     type: "landmark",
@@ -71,8 +69,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["Az ország legmagasabb épülete", "Luxusszálloda és konferenciaközpont", "102 méter magas építmény", "A banknegyed jelképe"],
       ro: ["Cea mai înaltă clădire din țară", "Hotel de lux și centru de conferințe", "Structură înaltă de 102 metri", "Emblemă în cartierul bancar"],
       en: ["Tallest building in the country", "Luxury hotel and conference center", "102-meter high structure", "Landmark in the banking district"]
-    }
-  },
+    }, image: "/poi-images/hotel-2-fevrier-lome-landmarks-v2.webp"},
   {
     id: "port-autonome-lome-landmarks-v2",
     type: "landmark",
@@ -95,8 +92,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["A legfontosabb gazdasági motor", "Modern konténerterminál", "A tengerparttal nem rendelkező országok elosztója", "Lenyűgöző darurendszerek"],
       ro: ["Cel mai important motor economic", "Terminal de containere modern", "Hub pentru statele fără ieșire la mare", "Instalații de macarale impresionante"],
       en: ["Primary economic engine", "Modern container terminal", "Hub for landlocked countries", "Impressive crane installations"]
-    }
-  },
+    }, image: "/poi-images/port-autonome-lome-landmarks-v2.webp"},
   {
     id: "cathedrale-saint-esprit-kpalime-landmarks-v2",
     type: "landmark",
@@ -119,8 +115,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["A Kpaliméi egyházmegye központja", "Pompás üvegfestmények", "A modern és a hagyomány keveréke", "Fontos vallási találkozóhely"],
       ro: ["Centrul diecezei Kpalimé", "Vitralii magnifice", "Amestec de modern și tradiție", "Loc important de întâlnire religioasă"],
       en: ["Center of the Kpalimé Diocese", "Magnificent stained glass", "Blend of modern and tradition", "Significant religious meeting place"]
-    }
-  },
+    }, image: "/poi-images/cathedrale-saint-esprit-kpalime-landmarks-v2.webp"},
   {
     id: "grande-mosquee-sokode-landmarks-v2",
     type: "landmark",
@@ -143,8 +138,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["A régió legnagyobb mecsetje", "Jellegzetes minaretek", "Az oktatás és az ima központja", "A város építészeti jelképe"],
       ro: ["Cea mai mare moschee din regiune", "Minarete proeminente", "Centru pentru educație și rugăciune", "Emblemă arhitecturală a orașului"],
       en: ["Largest mosque in the region", "Striking minarets", "Center for education and prayer", "Architectural landmark of the city"]
-    }
-  },
+    }, image: "/poi-images/grande-mosquee-sokode-landmarks-v2.webp"},
   {
     id: "phare-lome-landmarks-v2",
     type: "landmark",
@@ -239,8 +233,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["A pénzügyi igazgatás központja", "Jellegzetes üveghomlokzat", "Szigorúan őrzött épület", "Fontos pénzügyi szimbólum"],
       ro: ["Centrul administrării monetare", "Fațadă de sticlă proeminentă", "Clădire de înaltă securitate", "Simbol financiar important"],
       en: ["Center of monetary administration", "Striking glass facade", "High-security building", "Major financial symbol"]
-    }
-  },
+    }, image: "/poi-images/siege-bceao-lome-landmarks-v2.webp"},
   {
     id: "cathedrale-sainte-therese-aneho-landmarks-v2",
     type: "landmark",
@@ -263,8 +256,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["Történelmi vallási épület", "Kilátás a lagúnára", "Színes belső tér", "A benini határ közelében"],
       ro: ["Clădire religioasă istorică", "Vedere spre lagună", "Interior colorat", "Aproape de granița cu Benin"],
       en: ["Historic religious building", "View over the lagoon", "Colorful interior", "Near the Benin border"]
-    }
-  },
+    }, image: "/poi-images/cathedrale-sainte-therese-aneho-landmarks-v2.webp"},
   {
     id: "grande-mosquee-kara-landmarks-v2",
     type: "landmark",
@@ -287,8 +279,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["Északi szellemi központ", "Részletgazdag díszítés", "A nagy pénteki imák helyszíne", "A Kara régió jelképe"],
       ro: ["Centru spiritual în nord", "Decorațiuni elaborate", "Locul rugăciunilor mari de vineri", "Emblemă a regiunii Kara"],
       en: ["Spiritual center in the north", "Elaborate decorations", "Site of major Friday prayers", "Landmark of the Kara Region"]
-    }
-  },
+    }, image: "/poi-images/grande-mosquee-kara-landmarks-v2.webp"},
   {
     id: "stade-municipal-lome-landmarks-v2",
     type: "landmark",
@@ -335,8 +326,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["Kapu a világra", "A régió legmodernebb terminálja", "Futurisztikus építészet", "Fontos közlekedési csomópont"],
       ro: ["Poarta către lume", "Cel mai modern terminal din regiune", "Arhitectură futuristă", "Nod de transport important"],
       en: ["Gateway to the world", "Most modern terminal in the region", "Futuristic architecture", "Significant transport hub"]
-    }
-  },
+    }, image: "/poi-images/aeroport-terminal-lome-landmarks-v2.webp"},
   {
     id: "monument-unite-nationale-lome-landmarks-v2",
     type: "landmark",
@@ -359,8 +349,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["A béke és az egyetértés szimbóluma", "Központi elhelyezkedés", "Megemlékezések helyszíne", "Az egység művészi ábrázolása"],
       ro: ["Simbol al păcii și armoniei", "Situat central", "Loc pentru ceremonii comemorative", "Reprezentare artistică a unității"],
       en: ["Symbol of peace and harmony", "Centrally located", "Site for commemorative ceremonies", "Artistic representation of unity"]
-    }
-  },
+    }, image: "/poi-images/monument-unite-nationale-lome-landmarks-v2.webp"},
   {
     id: "theatre-verdure-lome-landmarks-v2",
     type: "landmark",
@@ -383,8 +372,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["Az előadóművészetek központja", "A tenger közelében fekszik", "A nemzeti tehetségek színpada", "Fontos kulturális jelkép"],
       ro: ["Centru al artelor spectacolului", "Situat lângă mare", "Scenă pentru talentele naționale", "Reper cultural important"],
       en: ["Center for performing arts", "Located near the sea", "Stage for national talents", "Significant cultural landmark"]
-    }
-  },
+    }, image: "/poi-images/theatre-verdure-lome-landmarks-v2.webp"},
   {
     id: "grande-mosquee-lome-landmarks-v2",
     type: "landmark",
@@ -455,8 +443,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["Az északi sportélet központja", "Helyi klubok otthona", "Hagyományos küzdelmek helyszíne", "Jelentős sportinfrastruktúra"],
       ro: ["Centrul sportului din nord", "Casa cluburilor locale", "Loc pentru lupte tradiționale", "Infrastructură sportivă semnificativă"],
       en: ["Center of sports in the north", "Home to local clubs", "Venue for traditional wrestling", "Significant sports infrastructure"]
-    }
-  },
+    }, image: "/poi-images/stade-municipal-kara-landmarks-v2.webp"},
   {
     id: "palais-congres-kara-landmarks-v2",
     type: "landmark",
@@ -503,8 +490,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["A kereskedelem központja", "Kulturális olvasztótégely", "Jellegzetes építészet", "Az északi rész legfontosabb piaca"],
       ro: ["Centrul comerțului", "Creuzet cultural", "Arhitectură proeminentă", "Cea mai importantă piață din nord"],
       en: ["Center of commerce", "Cultural melting pot", "Striking architecture", "Most important market in the north"]
-    }
-  },
+    }, image: "/poi-images/marche-central-kara-landmarks-v2.webp"},
   {
     id: "bibliotheque-universitaire-lome-landmarks-v2",
     type: "landmark",
@@ -527,8 +513,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["A tudomány központja", "Modern oktatási infrastruktúra", "Az ország legnagyobb könyvtára", "A kampusz szívében"],
       ro: ["Centru al învățăturii", "Infrastructură educațională modernă", "Cea mai mare bibliotecă din țară", "În inima campusului"],
       en: ["Center of scholarship", "Modern educational infrastructure", "Largest library in the country", "At the heart of the campus"]
-    }
-  },
+    }, image: "/poi-images/bibliotheque-universitaire-lome-landmarks-v2.webp"},
   {
     id: "pont-kara-landmarks-v2",
     type: "landmark",
@@ -551,8 +536,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["Központi folyami átkelő", "Kilátás a Kara-folyóra", "A fő közlekedési útvonal része", "Fontos a városi logisztikában"],
       ro: ["Trecere centrală peste râu", "Vedere spre râul Kara", "Parte a arterei principale de transport", "Important pentru logistica urbană"],
       en: ["Central river crossing", "View of the Kara River", "Part of the main transport artery", "Important for urban logistics"]
-    }
-  },
+    }, image: "/poi-images/pont-kara-landmarks-v2.webp"},
   {
     id: "monument-colombe-lome-landmarks-v2",
     type: "landmark",
@@ -575,8 +559,7 @@ export const poiExtraTogoLandmarksV2: POI[] = [
       hu: ["A béke szimbóluma", "Elegáns szobor", "Népszerű találkozóhely", "Egy körforgalom központja"],
       ro: ["Simbol al păcii", "Sculptură elegantă", "Loc de întâlnire popular", "Centrul unui sens giratoriu"],
       en: ["Symbol of peace", "Elegant sculpture", "Popular meeting point", "Center of a roundabout"]
-    }
-  },
+    }, image: "/poi-images/monument-colombe-lome-landmarks-v2.webp"},
   {
     id: "place-reconciliation-lome-landmarks-v2",
     type: "landmark",

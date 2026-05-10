@@ -60,11 +60,11 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-03",
     coords: [-82.1, 22.8],
     name: { de: "Alturas de Bejucal-Madruga", hu: "Alturas de Bejucal-Madruga", ro: "Alturas de Bejucal-Madruga", en: "Alturas de Bejucal-Madruga" },
-    description: { de: "Eine hügelige Landschaft im westlichen Teil des Inselinneren.", hu: "Havas táj a sziget belsejének nyugati részén.", ro: "Un peisaj deluros în partea de vest a interiorului insulei.", en: "A hilly landscape in the western part of the island's interior." },
+    description: { de: "Eine hügelige Landschaft im westlichen Teil des Inselinneren.", hu: "Bejucal és Madruga között húzódó dombvidék Nyugat-Kuba belső részén.", ro: "Un peisaj deluros în partea de vest a interiorului Cubei. Este o formațiune geologică tipică pentru zona centrală a insulei.", en: "A hilly landscape in the western part of the island's interior." },
     facts: {
       de: ["Hügellandschaft", "Geologische Formation"],
-      hu: ["Havas táj", "Geológiai formáció"],
-      ro: ["Peisaj deluros", "Formațiune geologică"],
+      hu: ["Dombos táj", "Nyugat-Kuba", "Geológiai formáció"],
+      ro: ["peisaj deluros", "formațiune geologică"],
       en: ["Hilly landscape", "Geological formation"]
     }, image: "/poi-images/alturas-de-bejucal-madruga-relief-v2.webp",
     descriptionAdvanced: {
@@ -86,12 +86,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-12",
     coords: [-76.4, 19.9],
     name: { de: "Loma del Gato", hu: "Loma del Gato", ro: "Loma del Gato", en: "Loma del Gato" },
-    description: { de: "Ein markanter Gipfel in der Sierra Maestra.", hu: "Jellegzetes csúcs a Sierra Maestra hegységben.", ro: "Un vârf proeminent în Sierra Maestra.", en: "A prominent peak in the Sierra Maestra." },
+    description: { de: "Die Loma del Gato ist ein markanter Gipfel in der Sierra Maestra. Der Berg ist ein typischer Punkt der östlichen Küstengebirge.", hu: "A Loma del Gato a Sierra Maestra keleti részéhez kötődő hegy.", ro: "Un vârf proeminent în Sierra Maestra.", en: "A hillside peak in the Sierra Maestra area of eastern Cuba." },
     facts: {
-      de: ["Berg in der Sierra Maestra", "Wandergebiet"],
-      hu: ["Hegy a Sierra Maestrában", "Túrázóhely"],
+      de: ["In der Sierra Maestra", "Markanter Gipfel", "Beliebtes Wanderziel"],
+      hu: ["Sierra Maestra", "Kelet-Kuba", "Hegyi terep"],
       ro: ["Munte în Sierra Maestra", "Zonă de drumeție"],
-      en: ["Mountain in Sierra Maestra", "Hiking area"]
+      en: ["Sierra Maestra", "Eastern Cuba", "Hill landscape"]
     }, image: "/poi-images/loma-del-gato-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein markanter Gipfel in der Sierra Maestra. Berg in der Sierra Maestra. Wandergebiet. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -112,12 +112,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-09",
     coords: [-84.4, 21.8],
     name: { de: "Guanahacabibes Halbinsel", hu: "Guanahacabibes-félsziget", ro: "Peninsula Guanahacabibes", en: "Guanahacabibes Peninsula" },
-    description: { de: "Ein weitgehend bewaldetes Naturschutzgebiet im äußersten Westen Kubas.", hu: "Nagyrészt erdős természetvédelmi terület Kuba legnyugatibb csücskében.", ro: "O rezervație naturală în mare parte împădurită în extremul vest al Cubei.", en: "A largely forested nature reserve in the extreme west of Cuba." },
+    description: { de: "Die Halbinsel Guanahacabibes ist ein weitgehend bewaldetes Schutzgebiet im äußersten Westen Kubas. Sie ist als Nationalpark bekannt.", hu: "A Guanahacabibes-félsziget Kuba legnyugatibb természeti vidékei közé tartozik.", ro: "O rezervație naturală în mare parte împădurită în extremul vest al Cubei. Zona este cunoscută ca parc național.", en: "The westernmost peninsula of Cuba, known for its protected natural areas." },
     facts: {
-      de: ["Nationalpark", "Dichter Wald"],
-      hu: ["Nemzeti Park", "Sűrű erdő"],
-      ro: ["Parc Național", "Pădure densă"],
-      en: ["National Park", "Dense forest"]
+      de: ["Im äußersten Westen Kubas", "Nationalpark", "Dicht bewaldetes Schutzgebiet"],
+      hu: ["Pinar del Río", "Nemzeti park", "Gazdag élővilág"],
+      ro: ["parc național", "pădure densă"],
+      en: ["Far west of Cuba", "Biosphere reserve", "Coastal headland"]
     }, image: "/poi-images/peninsula-de-guanahacabibes-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein weitgehend bewaldetes Naturschutzgebiet im äußersten Westen Kubas. Nationalpark. Dichter Wald. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -138,10 +138,10 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-08",
     coords: [-77.7, 21.6],
     name: { de: "Sierra de Cubitas", hu: "Sierra de Cubitas", ro: "Sierra de Cubitas", en: "Sierra de Cubitas" },
-    description: { de: "Ein isolierter Gebirgszug im Zentrum Kubas mit interessanten Felsformationen.", hu: "Izolált hegylánc Kuba központjában, érdekes sziklaformációkkal.", ro: "Un lanț muntos izolat în centrul Cubei cu formațiuni stâncoase interesante.", en: "An isolated mountain range in the center of Cuba with interesting rock formations." },
+    description: { de: "Die Sierra de Cubitas ist ein isolierter Gebirgszug in Zentralkuba mit Kalksteinformen. Das Gebiet ist ein typisches Ziel für Wanderungen.", hu: "A Sierra de Cubitas mészkőhegysége Camagüey tartomány egyik ismert domborzati eleme.", ro: "Un lanț muntos izolat în centrul Cubei cu formațiuni stâncoase interesante.", en: "An isolated mountain range in the center of Cuba with interesting rock formations." },
     facts: {
-      de: ["Kalksteingebirge", "Wanderziel"],
-      hu: ["Mészkőhegység", "Túrázási célpont"],
+      de: ["In Zentralkuba", "Kalksteingebirge", "Wanderziel"],
+      hu: ["Mészkőhegység", "Camagüey tartomány", "Hegyi táj"],
       ro: ["Munți de calcar", "Destinație de drumeție"],
       en: ["Limestone mountains", "Hiking destination"]
     }, image: "/poi-images/sierra-de-cubitas-relief-v2.webp",
@@ -164,12 +164,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-12",
     coords: [-76.2, 19.8],
     name: { de: "Loma la Taberna", hu: "Loma la Taberna", ro: "Loma la Taberna", en: "Loma la Taberna" },
-    description: { de: "Eine sanfte Erhebung im östlichen Teil Kubas.", hu: "Enyhe magaslat Kuba keleti részén.", ro: "O colină ușoară în partea de est a Cubei.", en: "A gentle elevation in the eastern part of Cuba." },
+    description: { de: "Eine sanfte Erhebung im östlichen Teil Kubas.", hu: "A Loma La Taberna egy dombos természetes táj Kuba középső részén.", ro: "O colină ușoară în partea de est a Cubei. Este un peisaj natural simplu, specific zonelor deluroase.", en: "A hilly relief feature in eastern Cuba." },
     facts: {
       de: ["Hügelige Region", "Naturlandschaft"],
-      hu: ["Havas régió", "Természeti táj"],
-      ro: ["Regiune deluroasă", "Peisaj natural"],
-      en: ["Hilly region", "Natural landscape"]
+      hu: ["Dombvidék", "Közép-Kuba", "Természeti formáció"],
+      ro: ["regiune deluroasă", "peisaj natural"],
+      en: ["Hilly terrain", "Eastern Cuba", "Rural landscape"]
     }, image: "/poi-images/loma-la-taberna-relief-v2.webp",
     descriptionAdvanced: {
       de: "Eine sanfte Erhebung im östlichen Teil Kubas. Hügelige Region. Naturlandschaft. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -190,12 +190,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-14",
     coords: [-74.9, 20.3],
     name: { de: "Cuchillas del Toa", hu: "Cuchillas del Toa", ro: "Cuchillas del Toa", en: "Cuchillas del Toa" },
-    description: { de: "Ein zerklüftetes Berggebiet mit einer hohen Artenvielfalt.", hu: "Tagolt hegyvidék magas biodiverzitással.", ro: "O zonă montană accidentată cu o mare biodiversitate.", en: "A rugged mountain area with high biodiversity." },
+    description: { de: "Ein zerklüftetes Berggebiet mit einer hohen Artenvielfalt.", hu: "Tagolt hegyvidék magas biodiverzitással.", ro: "O zonă montană accidentată cu o mare biodiversitate.", en: "A rugged mountain area in far eastern Cuba with rich biodiversity." },
     facts: {
       de: ["Biosphärenreservat", "Steile Gebirgskämme"],
       hu: ["Bioszféra-rezervátum", "Meredek hegygerincek"],
       ro: ["Rezervație a biosferei", "Creste muntoase abrupte"],
-      en: ["Biosphere reserve", "Steep ridges"]
+      en: ["Northeast Cuba", "Rugged relief", "High biodiversity"]
     }, image: "/poi-images/cuchillas-del-toa-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein zerklüftetes Berggebiet mit einer hohen Artenvielfalt. Biosphärenreservat. Steile Gebirgskämme. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -216,12 +216,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-11",
     coords: [-75.5, 20.5],
     name: { de: "Pico Cristal", hu: "Pico Cristal", ro: "Pico Cristal", en: "Pico Cristal" },
-    description: { de: "Ein bedeutender Gipfel im Osten der Insel.", hu: "Jelentős csúcs a sziget keleti részén.", ro: "Un vârf important în estul insulei.", en: "A significant peak in the east of the island." },
+    description: { de: "Der Pico Cristal ist ein bedeutender Gipfel im Osten Kubas. Er gehört zur Bergregion von Holguín und zu den höheren Punkten der Insel.", hu: "A Pico Cristal a Holguín térségéhez kötődő hegyvidéki pont.", ro: "Un vârf important în estul Cubei, din regiunea montană Holguín. Face parte dintr-un spațiu natural protejat.", en: "A prominent peak in the Sierra del Cristal mountain range." },
     facts: {
-      de: ["Bergregion", "Nationalpark"],
-      hu: ["Hegyvidék", "Nemzeti Park"],
-      ro: ["Regiune montană", "Parc Național"],
-      en: ["Mountain region", "National Park"]
+      de: ["Im Osten Kubas", "Bergregion von Holguín", "Nationalparkgebiet"],
+      hu: ["Holguín tartomány", "Hegyi terület", "Védett természeti környezet"],
+      ro: ["regiune montană", "parc național"],
+      en: ["About 1,231 m", "Sierra del Cristal", "Endemic species"]
     }, image: "/poi-images/pico-cristal-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein bedeutender Gipfel im Osten der Insel. Bergregion. Nationalpark. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -242,12 +242,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-11",
     coords: [-75.6, 20.5],
     name: { de: "Sierra del Cristal", hu: "Sierra del Cristal", ro: "Sierra del Cristal", en: "Sierra del Cristal" },
-    description: { de: "Ein unberührtes Gebirgsmassiv mit dichten Wäldern.", hu: "Érintetlen hegyvonulat sűrű erdőkkel.", ro: "Un masiv muntos virgin cu păduri dense.", en: "An untouched mountain massif with dense forests." },
+    description: { de: "Die Sierra del Cristal ist ein unberührtes Gebirgsmassiv mit dichten Wäldern. Sie liegt im östlichen Teil der Insel und wirkt sehr abgelegen.", hu: "A Sierra del Cristal sűrű erdőkkel borított hegyvidéki tömb Kuba keleti részén.", ro: "Un lanț muntos din estul Cubei, cunoscut pentru relieful său accidentat. Are zone protejate și peisaje de pădure.", en: "A mountain range in eastern Cuba with forested slopes and protected habitats." },
     facts: {
-      de: ["Dichter Wald", "Bergmassiv"],
-      hu: ["Sűrű erdő", "Hegyvonulat"],
-      ro: ["Pădure densă", "Masiv muntos"],
-      en: ["Dense forest", "Mountain massif"]
+      de: ["Im Osten Kubas", "Dichte Wälder", "Gebirgsmassiv"],
+      hu: ["Kelet-Kuba", "Hegyvidéki tömb", "Sűrű erdő"],
+      ro: ["lanț muntos", "zonă protejată", "peisaj de pădure"],
+      en: ["Eastern Cuba", "Mountain chain", "Forest slopes"]
     }, image: "/poi-images/sierra-del-cristal-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein unberührtes Gebirgsmassiv mit dichten Wäldern. Dichter Wald. Bergmassiv. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -268,12 +268,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-05",
     coords: [-80.5, 22.0],
     name: { de: "Loma del Cuchillo", hu: "Loma del Cuchillo", ro: "Loma del Cuchillo", en: "Loma del Cuchillo" },
-    description: { de: "Eine markante Geländestufe in der Nähe von Cienfuegos.", hu: "Jellegzetes tereplépcső Cienfuegos közelében.", ro: "Un prag proeminent de teren lângă Cienfuegos.", en: "A prominent terrain step near Cienfuegos." },
+    description: { de: "Die Loma del Cuchillo ist eine markante Geländestufe nahe Cienfuegos. Sie gehört zu den kleineren, aber auffälligen Reliefstrukturen der Region.", hu: "A Loma del Cuchillo egy geológiai eredetű dombvonulat Kuba keleti térségében.", ro: "O ridicare deluroasă din estul insulei, într-un peisaj natural puțin populat. Este tipică pentru relieful local al Cubei.", en: "A hill area in eastern Cuba with a rural mountain profile." },
     facts: {
-      de: ["Geologische Formation", "Hügelzug"],
-      hu: ["Geológiai formáció", "Hegyhát"],
-      ro: ["Formațiune geologică", "Șir de dealuri"],
-      en: ["Geological formation", "Range of hills"]
+      de: ["Nahe Cienfuegos", "Geländestufe", "Hügelzug"],
+      hu: ["Dombvonulat", "Geológiai formáció", "Kelet-kubai táj"],
+      ro: ["relief local", "zonă deluroasă"],
+      en: ["Hill ridge", "Sierra Maestra area", "Scenic terrain"]
     }, image: "/poi-images/loma-del-cuchillo-relief-v2.webp",
     descriptionAdvanced: {
       de: "Eine markante Geländestufe in der Nähe von Cienfuegos. Geologische Formation. Hügelzug. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -294,12 +294,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-12",
     coords: [-76.3, 19.9],
     name: { de: "Sierra Maestra Oriental", hu: "Sierra Maestra Keleti", ro: "Sierra Maestra Orientală", en: "Eastern Sierra Maestra" },
-    description: { de: "Der östliche Teil des bedeutendsten Gebirges Kubas.", hu: "Kuba legfontosabb hegységének keleti része.", ro: "Partea estică a celui mai important lanț muntos din Cuba.", en: "The eastern part of Cuba's most important mountain range." },
+    description: { de: "Der östliche Teil der Sierra Maestra ist von steilen Hängen und Berglandschaften geprägt. Er bildet einen wichtigen Abschnitt des größten kubanischen Gebirges.", hu: "A Sierra Maestra keleti szakasza meredek hegyoldalairól ismert.", ro: "Partea estică a celui mai important lanț muntos din Cuba. Este marcată de pante abrupte și peisaj montan.", en: "The eastern section of the Sierra Maestra, Cuba's best-known mountain chain." },
     facts: {
-      de: ["Steile Hänge", "Berglandschaft"],
-      hu: ["Meredek lejtők", "Hegyvidék"],
-      ro: ["Pante abrupte", "Peisaj montan"],
-      en: ["Steep slopes", "Mountain landscape"]
+      de: ["Östlicher Sierra-Maestra-Teil", "Steile Hänge", "Berglandschaft"],
+      hu: ["Meredek lejtők", "Kelet-Kuba", "Hegyi táj"],
+      ro: ["pante abrupte", "peisaj montan"],
+      en: ["Eastern mountain chain", "Rugged terrain", "Historic region"]
     }, image: "/poi-images/sierra-maestra-oriental-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der östliche Teil des bedeutendsten Gebirges Kubas. Steile Hänge. Berglandschaft. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -320,12 +320,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-11",
     coords: [-76.2, 21.1],
     name: { de: "Loma de la Cruz", hu: "Loma de la Cruz", ro: "Loma de la Cruz", en: "Loma de la Cruz" },
-    description: { de: "Ein bekannter Aussichtshügel in Holguín.", hu: "Jól ismert kilátódomb Holguínban.", ro: "Un deal de belvedere binecunoscut în Holguín.", en: "A well-known viewpoint hill in Holguín." },
+    description: { de: "Die Loma de la Cruz ist ein bekannter Aussichtshügel in Holguín. Der Ort verbindet Stadtnähe mit einem guten Blick über die Umgebung.", hu: "A Loma de la Cruz egy jellegzetes holguíni domb és kilátópont.", ro: "Un deal de belvedere binecunoscut în Holguín. Este apreciat pentru priveliștea asupra orașului și a împrejurimilor.", en: "A hill in Holguin that serves as a city viewpoint and local symbol." },
     facts: {
-      de: ["Aussichtspunkt", "Hügel"],
-      hu: ["Kilátópont", "Domb"],
-      ro: ["Punct de belvedere", "Deal"],
-      en: ["Viewpoint", "Hill"]
+      de: ["In Holguín", "Aussichtspunkt", "Bekannter Hügel"],
+      hu: ["Holguín városa", "Kilátópont", "Városi domb"],
+      ro: ["punct de belvedere", "deal"],
+      en: ["Holguin", "Hilltop viewpoint", "Urban symbol"]
     }, image: "/poi-images/loma-de-la-cruz-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein bekannter Aussichtshügel in Holguín. Aussichtspunkt. Hügel. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -346,12 +346,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-04",
     coords: [-81.2, 22.3],
     name: { de: "Zapata Halbinsel", hu: "Zapata-félsziget", ro: "Peninsula Zapata", en: "Zapata Peninsula" },
-    description: { de: "Ein riesiges Feuchtgebiet mit ausgedehnten Waldflächen.", hu: "Hatalmas vizes élőhely kiterjedt erdős területekkel.", ro: "O zonă umedă imensă cu zone forestiere extinse.", en: "A vast wetland with extensive forested areas." },
+    description: { de: "Die Zapata-Halbinsel ist ein riesiges Feuchtgebiet mit ausgedehnten Waldflächen. Sie zählt zu den wichtigsten Naturräumen im Süden Kubas.", hu: "A Zapata-félsziget Kuba egyik legfontosabb mocsaras és természetvédelmi vidéke.", ro: "O zonă umedă imensă cu zone forestiere extinse în sudul Cubei. Este una dintre cele mai importante arii naturale ale insulei.", en: "A low-lying southern peninsula known for its wetlands and swamp landscape." },
     facts: {
-      de: ["Nationalpark", "Feuchtgebiet"],
-      hu: ["Nemzeti Park", "Vizes élőhely"],
-      ro: ["Parc Național", "Zonă umedă"],
-      en: ["National Park", "Wetland"]
+      de: ["Im Süden Kubas", "Nationalpark und Feuchtgebiet", "Ausgedehnte Waldflächen"],
+      hu: ["Ciénaga de Zapata", "Nemzeti park", "Vizes élőhely"],
+      ro: ["parc național", "zonă umedă"],
+      en: ["Southern coast", "Wetlands", "Zapata Swamp"]
     }, image: "/poi-images/peninsula-de-zapata-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein riesiges Feuchtgebiet mit ausgedehnten Waldflächen. Nationalpark. Feuchtgebiet. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -372,12 +372,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-09",
     coords: [-83.7, 22.6],
     name: { de: "Mogotes von Viñales", hu: "Viñales mogotéi", ro: "Mogotele din Viñales", en: "Viñales Mogotes" },
-    description: { de: "Einzigartige kegelförmige Karstberge in der Provinz Pinar del Río.", hu: "Egyedülálló kúp alakú karszthegyek Pinar del Río tartományban.", ro: "Munți carstici conici unici în provincia Pinar del Río.", en: "Unique cone-shaped karst mountains in Pinar del Río province." },
+    description: { de: "Die Mogotes von Viñales sind die typischen kegelförmigen Karstberge in Pinar del Río. Sie prägen eine der bekanntesten Landschaften Kubas.", hu: "A viñalesi mogoték a kubai karsztvidék legismertebb kúphegyei közé tartoznak.", ro: "Munți carstici conici unici din provincia Pinar del Río. Ei definesc peisajul celebru al Văii Viñales.", en: "The famous limestone mogotes of the Viñales Valley in western Cuba." },
     facts: {
-      de: ["Karstlandschaft", "Kegelberge"],
-      hu: ["Karszttáj", "Kúphegyek"],
-      ro: ["Peisaj carstic", "Munți conici"],
-      en: ["Karst landscape", "Cone mountains"]
+      de: ["In Pinar del Río", "Kegelförmige Karstberge", "Viñales-Landschaft"],
+      hu: ["Karsztvidék", "Kúphegyek", "Viñales völgye"],
+      ro: ["peisaj carstic", "munți conici"],
+      en: ["Viñales Valley", "Limestone hills", "UNESCO landscape"]
     }, image: "/poi-images/mogotes-de-viniales-relief-v2.webp",
     descriptionAdvanced: {
       de: "Einzigartige kegelförmige Karstberge in der Provinz Pinar del Río. Karstlandschaft. Kegelberge. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -398,12 +398,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-07",
     coords: [-79.9, 21.8],
     name: { de: "Südliches Escambray-Gebirge", hu: "Déli Escambray-hegység", ro: "Munții Escambray Sudici", en: "Southern Escambray Mountains" },
-    description: { de: "Die südlichen Ausläufer des Escambray-Gebirges zum Meer hin.", hu: "Az Escambray-hegység déli nyúlványai a tenger felé.", ro: "Ramificațiile sudice ale munților Escambray spre mare.", en: "The southern spurs of the Escambray Mountains towards the sea." },
+    description: { de: "Die südlichen Ausläufer des Escambray-Gebirges reichen zum Meer hinab. Steile Hänge prägen diese Küstenlandschaft.", hu: "Az Escambray déli hegyvidéke a közép-kubai táj markáns része.", ro: "Ramificațiile sudice ale munților Escambray spre mare. Zonă cu pante abrupte și peisaj montan.", en: "The southern part of the Escambray mountain range in central Cuba." },
     facts: {
-      de: ["Steile Hänge", "Berglandschaft"],
-      hu: ["Meredek lejtők", "Hegyvidék"],
-      ro: ["Pante abrupte", "Peisaj montan"],
-      en: ["Steep slopes", "Mountain landscape"]
+      de: ["Südlicher Escambray", "Steile Hänge", "Berglandschaft"],
+      hu: ["Közép-Kuba", "Hegyi táj", "Meredek lejtők"],
+      ro: ["pante abrupte", "peisaj montan"],
+      en: ["Central Cuba", "Mountain terrain", "Forested slopes"]
     }, image: "/poi-images/sierra-del-esccambray-sur-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die südlichen Ausläufer des Escambray-Gebirges zum Meer hin. Steile Hänge. Berglandschaft. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",
@@ -424,12 +424,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-05",
     coords: [-80.2, 22.1],
     name: { de: "Loma del Gallo", hu: "Loma del Gallo", ro: "Loma del Gallo", en: "Loma del Gallo" },
-    description: { de: "Eine Erhebung nahe der Küste im Zentrum.", hu: "Magaslat a tengerpart közelében a központban.", ro: "O colină lângă coastă în centru.", en: "An elevation near the coast in the center." },
+    description: { de: "Die Loma del Gallo ist eine Erhebung nahe der Küste im Zentrum Kubas. Sie gehört zu den markanten Hügelformen der Region.", hu: "A Loma del Gallo egy helyi domb és természetes kilátópont.", ro: "O colină lângă coastă, în centrul Cubei. Este o formă de relief simplă, dar vizibilă în peisaj.", en: "A hill feature in eastern Cuba with local scenic value." },
     facts: {
-      de: ["Hügel", "Landschaft"],
-      hu: ["Domb", "Táj"],
-      ro: ["Deal", "Peisaj"],
-      en: ["Hill", "Landscape"]
+      de: ["Im Zentrum Kubas", "Küstennahe Erhebung", "Hügelige Landschaft"],
+      hu: ["Dombvidék", "Természeti táj", "Kilátópont"],
+      ro: ["deal", "peisaj"],
+      en: ["Eastern Cuba", "Hilltop relief", "Rural surroundings"]
     }, image: "/poi-images/loma-del-gallo-relief-v2.webp",
     descriptionAdvanced: {
       de: "Eine Erhebung nahe der Küste im Zentrum. Hügel. Landschaft. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -450,12 +450,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-14",
     coords: [-74.6, 20.4],
     name: { de: "Cuchillas de Baracoa", hu: "Cuchillas de Baracoa", ro: "Cuchillas de Baracoa", en: "Cuchillas de Baracoa" },
-    description: { de: "Ein zerklüftetes Berggebiet bei Baracoa.", hu: "Tagolt hegyvidék Baracoa közelében.", ro: "O zonă montană accidentată lângă Baracoa.", en: "A rugged mountain area near Baracoa." },
+    description: { de: "Die Cuchillas de Baracoa bilden ein zerklüftetes Berggebiet nahe Baracoa. Dichte Wälder und schmale Bergkämme bestimmen das Bild.", hu: "A Cuchillas de Baracoa hegygerincei a keleti kubai domborzat jellegzetes vonulatai.", ro: "O zonă montană accidentată lângă Baracoa. Crestele muntoase și pădurea densă îi dau un aspect sălbatic.", en: "A rugged mountain chain around Baracoa in eastern Cuba." },
     facts: {
-      de: ["Dichter Wald", "Bergkämme"],
-      hu: ["Sűrű erdő", "Hegygerincek"],
-      ro: ["Pădure densă", "Creste muntoase"],
-      en: ["Dense forest", "Mountain ridges"]
+      de: ["Nahe Baracoa", "Dichte Wälder", "Bergkämme"],
+      hu: ["Baracoa térsége", "Hegygerincek", "Sűrű növényzet"],
+      ro: ["pădure densă", "creste muntoase"],
+      en: ["Near Baracoa", "Steep relief", "Wet eastern region"]
     }, image: "/poi-images/cuchillas-de-baracoa-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein zerklüftetes Berggebiet bei Baracoa. Dichter Wald. Bergkämme. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -476,12 +476,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-14",
     coords: [-74.1, 20.2],
     name: { de: "Maisí-Hochebene", hu: "Maisí-fennsík", ro: "Platoul Maisí", en: "Maisí Plateau" },
-    description: { de: "Eine markante Hochebene am östlichsten Punkt Kubas.", hu: "Jellegzetes fennsík Kuba legkeletibb pontján.", ro: "Un platou proeminent în cel mai estic punct al Cubei.", en: "A prominent plateau at the easternmost point of Cuba." },
+    description: { de: "Die Meseta de Maisí ist eine markante Hochebene am östlichsten Punkt Kubas. Die Lage an der Küste macht sie geographisch besonders auffällig.", hu: "A Maisí-fennsík Kuba legkeletibb magasföldi területei közé tartozik.", ro: "Un platou proeminent în cel mai estic punct al Cubei. Poziția sa costieră îl face ușor de recunoscut.", en: "A high plateau at the far eastern tip of Cuba." },
     facts: {
-      de: ["Hochebene", "Küstenlage"],
-      hu: ["Fennsík", "Tengerparti fekvés"],
-      ro: ["Platou", "Poziție costieră"],
-      en: ["Plateau", "Coastal location"]
+      de: ["Östlichster Punkt Kubas", "Hochebene", "Küstenlage"],
+      hu: ["Kelet-Kuba", "Fennsík", "Partközeli magasföld"],
+      ro: ["platou", "poziție costieră"],
+      en: ["Extreme east of Cuba", "Plateau terrain", "Coastal viewpoints"]
     }, image: "/poi-images/meseta-de-maisí-relief-v2.webp",
     descriptionAdvanced: {
       de: "Eine markante Hochebene am östlichsten Punkt Kubas. Hochebene. Küstenlage. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -502,12 +502,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-07",
     coords: [-79.9, 21.7],
     name: { de: "Loma la Vigía", hu: "Loma la Vigía", ro: "Loma la Vigía", en: "Loma la Vigía" },
-    description: { de: "Ein Aussichtshügel bei Trinidad.", hu: "Kilátódomb Trinidad közelében.", ro: "Un deal de belvedere lângă Trinidad.", en: "A viewpoint hill near Trinidad." },
+    description: { de: "Die Loma la Vigía ist ein Aussichtshügel bei Trinidad. Von hier aus öffnet sich der Blick über die umliegende Landschaft.", hu: "A Loma La Vigía egy jellegzetes domb és kilátópont Kuba egyik táján.", ro: "Un deal de belvedere lângă Trinidad. Oferă o perspectivă bună asupra împrejurimilor.", en: "A hill known for its lookout position in eastern Cuba." },
     facts: {
-      de: ["Hügel", "Aussicht"],
-      hu: ["Domb", "Kilátás"],
-      ro: ["Deal", "Belvedere"],
-      en: ["Hill", "View"]
+      de: ["Bei Trinidad", "Aussichtshügel", "Blick über die Umgebung"],
+      hu: ["Dombvidék", "Kilátópont", "Természeti formáció"],
+      ro: ["deal", "belvedere"],
+      en: ["Hill lookout", "Eastern Cuba", "Scenic views"]
     }, image: "/poi-images/loma-la-vigia-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein Aussichtshügel bei Trinidad. Hügel. Aussicht. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -528,12 +528,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-09",
     coords: [-83.5, 22.4],
     name: { de: "Alturas de Pérez", hu: "Alturas de Pérez", ro: "Alturas de Pérez", en: "Alturas de Pérez" },
-    description: { de: "Hügelland in der westlichen Provinz.", hu: "Dombvidék a nyugati tartományban.", ro: "Ținut deluros în provincia vestică.", en: "Hilly land in the western province." },
+    description: { de: "Die Alturas de Pérez sind ein Hügelland in der westlichen Provinz. Das Gebiet zeigt die weiche, ländliche Topografie des Westens.", hu: "Az Alturas de Pérez egy helyi dombvidéki magaslat Kubában.", ro: "Ținut deluros în provincia vestică. Relieful are un caracter rural și blând.", en: "A modest upland area in central-eastern Cuba." },
     facts: {
-      de: ["Hügel", "Landschaft"],
-      hu: ["Domb", "Táj"],
-      ro: ["Deal", "Peisaj"],
-      en: ["Hill", "Landscape"]
+      de: ["Westliche Provinz", "Hügelland", "Ländliche Topografie"],
+      hu: ["Dombos felszín", "Magaslat", "Természeti táj"],
+      ro: ["deal", "peisaj"],
+      en: ["Upland terrain", "Cuba relief", "Rural landscape"]
     },
     descriptionAdvanced: {
       de: "Hügelland in der westlichen Provinz. Hügel. Landschaft. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -554,12 +554,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-08",
     coords: [-77.6, 21.5],
     name: { de: "Loma de la Gloria", hu: "Loma de la Gloria", ro: "Loma de la Gloria", en: "Loma de la Gloria" },
-    description: { de: "Eine Erhebung in der Camagüey-Region.", hu: "Magaslat Camagüey régióban.", ro: "O colină în regiunea Camagüey.", en: "An elevation in the Camagüey region." },
+    description: { de: "Die Loma de la Gloria ist eine Erhebung in der Camagüey-Region. Sie gehört zu den typischen kleineren Hügeln der Ebene.", hu: "A Loma de la Gloria egy ismert kubai domb és természetes kilátóhely.", ro: "O colină în regiunea Camagüey. Este un punct simplu de relief, vizibil în câmpia locală.", en: "A hill feature in eastern Cuba with a strong local profile." },
     facts: {
-      de: ["Hügel", "Landschaft"],
-      hu: ["Domb", "Táj"],
-      ro: ["Deal", "Peisaj"],
-      en: ["Hill", "Landscape"]
+      de: ["In der Camagüey-Region", "Erhebung", "Typische Hügelform"],
+      hu: ["Domb", "Kilátóhely", "Tájképi pont"],
+      ro: ["deal", "peisaj"],
+      en: ["Hill area", "Eastern Cuba", "Local landmark"]
     }, image: "/poi-images/loma-de-la-gloria-relief-v2.webp",
     descriptionAdvanced: {
       de: "Eine Erhebung in der Camagüey-Region. Hügel. Landschaft. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -580,12 +580,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-07",
     coords: [-80.1, 21.9],
     name: { de: "Loma del Taburete", hu: "Loma del Taburete", ro: "Loma del Taburete", en: "Loma del Taburete" },
-    description: { de: "Ein Berg im Herzen der Escambray-Region.", hu: "Hegy az Escambray régió szívében.", ro: "Un munte în inima regiunii Escambray.", en: "A mountain in the heart of the Escambray region." },
+    description: { de: "Die Loma del Taburete ist ein Berg im Herzen der Escambray-Region. Er steht für die bergige Natur des Zentrums der Insel.", hu: "A Loma del Taburete egy kisebb hegy vagy domb Kuba természetes domborzatában.", ro: "Un munte în inima regiunii Escambray. Face parte din relieful montan al Cubei centrale.", en: "A small hill in Cuba's eastern interior." },
     facts: {
-      de: ["Berg", "Natur"],
-      hu: ["Hegy", "Természet"],
-      ro: ["Munte", "Natură"],
-      en: ["Mountain", "Nature"]
+      de: ["In der Escambray-Region", "Berg", "Zentralkubanische Natur"],
+      hu: ["Hegy vagy domb", "Természeti táj", "Helyi domborzat"],
+      ro: ["munte", "natură"],
+      en: ["Small hill", "Eastern Cuba", "Rural terrain"]
     }, image: "/poi-images/loma-del-taburete-relief-v2.webp",
     descriptionAdvanced: {
       de: "Ein Berg im Herzen der Escambray-Region. Berg. Natur. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -606,12 +606,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-07",
     coords: [-80.0, 21.9],
     name: { de: "Pico San Juan", hu: "Pico San Juan", ro: "Vârful San Juan", en: "Pico San Juan" },
-    description: { de: "Der höchste Punkt im Escambray-Gebirge.", hu: "Az Escambray-hegység legmagasabb pontja.", ro: "Cel mai înalt punct din munții Escambray.", en: "The highest point in the Escambray Mountains." },
+    description: { de: "Der Pico San Juan ist der höchste Punkt im Escambray-Gebirge. Er markiert den wichtigsten Höhenpunkt dieser Bergregion.", hu: "A Pico San Juan az Escambray legmagasabb csúcsai közé tartozik.", ro: "Cel mai înalt punct din munții Escambray. Este un reper important al regiunii montane centrale.", en: "A peak in the Escambray mountains of central Cuba." },
     facts: {
-      de: ["Höchster Gipfel", "Escambray"],
-      hu: ["Legmagasabb csúcs", "Escambray"],
-      ro: ["Vârful cel mai înalt", "Escambray"],
-      en: ["Highest peak", "Escambray"]
+      de: ["Im Escambray-Gebirge", "Höchster Punkt", "Wichtiger Gipfel"],
+      hu: ["Escambray", "Legmagasabb csúcs", "Hegyi kirándulóhely"],
+      ro: ["vârful cel mai înalt", "Escambray"],
+      en: ["Escambray range", "Central Cuba", "Mountain peak"]
     }, image: "/poi-images/pico-san-juan-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der höchste Punkt im Escambray-Gebirge. Höchster Gipfel. Escambray. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",
@@ -632,12 +632,12 @@ export const poiExtraCubaReliefV2: POI[] = [
     parent: "CU-05",
     coords: [-79.9, 22.4],
     name: { de: "Loma del Capiro", hu: "Loma del Capiro", ro: "Loma del Capiro", en: "Loma del Capiro" },
-    description: { de: "Ein bedeutender Hügel bei Santa Clara.", hu: "Jelentős domb Santa Clara közelében.", ro: "Un deal proeminent lângă Santa Clara.", en: "A prominent hill near Santa Clara." },
+    description: { de: "Die Loma del Capiro ist ein bedeutender Hügel bei Santa Clara. Der Aussichtspunkt ist eng mit dem Stadtbild verbunden.", hu: "A Loma del Capiro Santa Clara egyik legismertebb városi dombja és kilátópontja.", ro: "Un deal proeminent lângă Santa Clara, cunoscut ca punct de belvedere. Are și o semnificație locală istorică.", en: "A hill in Santa Clara best known as a city lookout." },
     facts: {
-      de: ["Historischer Hügel", "Aussicht"],
-      hu: ["Történelmi domb", "Kilátás"],
-      ro: ["Deal istoric", "Belvedere"],
-      en: ["Historical hill", "View"]
+      de: ["Bei Santa Clara", "Aussichtshügel", "Stadtnahes Relief"],
+      hu: ["Santa Clara", "Városi domb", "Kilátópont"],
+      ro: ["deal istoric", "belvedere"],
+      en: ["Santa Clara", "Hilltop view", "City landmark"]
     },
     descriptionAdvanced: {
       de: "Ein bedeutender Hügel bei Santa Clara. Historischer Hügel. Aussicht. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel. Wirtschaft und Kultur tragen Spuren der spanischen Kolonialzeit.",

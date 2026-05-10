@@ -1,0 +1,90 @@
+{
+  "lang": "en",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCubaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCubaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCubaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCubaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCubaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "parque-holguin-life-v2",
+      "description": "A central park in Holguin used as a daily meeting place for locals.",
+      "facts": ["Holguin", "Shady walkways", "Families and visitors"]
+    },
+    {
+      "id": "finca-cacao-guantanamo-life-v2",
+      "description": "A small cocoa farm in Guantanamo that highlights tropical agriculture.",
+      "facts": ["Cocoa harvest", "Sustainable farming", "Eastern Cuba"]
+    },
+    {
+      "id": "zoologico-de-matanzas-life-v2",
+      "description": "A small zoo in Matanzas with local animals and a calm atmosphere.",
+      "facts": ["Matanzas", "Local fauna", "Family excursion"]
+    },
+    {
+      "id": "parque-infantil-matanzas-life-v2",
+      "description": "A children's park in Matanzas designed for play and simple outdoor leisure.",
+      "facts": ["Playground", "Safety", "Family leisure"]
+    },
+    {
+      "id": "penon-del-fraile-nature-v2",
+      "description": "A natural monument and forested area in Holguin province.",
+      "facts": ["Protected area", "Native flora", "Quiet landscape"]
+    },
+    {
+      "id": "loma-del-gato-relief-v2",
+      "description": "A hillside peak in the Sierra Maestra area of eastern Cuba.",
+      "facts": ["Sierra Maestra", "Eastern Cuba", "Hill landscape"]
+    },
+    {
+      "id": "peninsula-de-guanahacabibes-relief-v2",
+      "description": "The westernmost peninsula of Cuba, known for its protected natural areas.",
+      "facts": ["Far west of Cuba", "Biosphere reserve", "Coastal headland"]
+    },
+    {
+      "id": "loma-la-taberna-relief-v2",
+      "description": "A hilly relief feature in eastern Cuba.",
+      "facts": ["Hilly terrain", "Eastern Cuba", "Rural landscape"]
+    },
+    {
+      "id": "cuchillas-del-toa-relief-v2",
+      "description": "A rugged mountain area in far eastern Cuba with rich biodiversity.",
+      "facts": ["Northeast Cuba", "Rugged relief", "High biodiversity"]
+    },
+    {
+      "id": "pico-cristal-relief-v2",
+      "description": "A prominent peak in the Sierra del Cristal mountain range.",
+      "facts": ["About 1,231 m", "Sierra del Cristal", "Endemic species"]
+    },
+    {
+      "id": "sierra-del-cristal-relief-v2",
+      "description": "A mountain range in eastern Cuba with forested slopes and protected habitats.",
+      "facts": ["Eastern Cuba", "Mountain chain", "Forest slopes"]
+    },
+    {
+      "id": "loma-del-cuchillo-relief-v2",
+      "description": "A hill area in eastern Cuba with a rural mountain profile.",
+      "facts": ["Hill ridge", "Sierra Maestra area", "Scenic terrain"]
+    },
+    {
+      "id": "sierra-maestra-oriental-relief-v2",
+      "description": "The eastern section of the Sierra Maestra, Cuba's best-known mountain chain.",
+      "facts": ["Eastern mountain chain", "Rugged terrain", "Historic region"]
+    },
+    {
+      "id": "loma-de-la-cruz-relief-v2",
+      "description": "A hill in Holguin that serves as a city viewpoint and local symbol.",
+      "facts": ["Holguin", "Hilltop viewpoint", "Urban symbol"]
+    },
+    {
+      "id": "peninsula-de-zapata-relief-v2",
+      "description": "A low-lying southern peninsula known for its wetlands and swamp landscape.",
+      "facts": ["Southern coast", "Wetlands", "Zapata Swamp"]
+    }
+  ]
+}

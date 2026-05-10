@@ -137,7 +137,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       de: "Ein Nebenfluss des Sangha, bekannt für seine ausgedehnten Sumpfgebiete.",
       hu: "A Sangha mellékfolyója, amely kiterjedt mocsaras területeiről ismert.",
       ro: "Un afluent al Sangha, cunoscut pentru zonele sale mlaștinoase întinse.",
-      en: "A tributary of the Sangha, known for its extensive marshy areas."
+      en: "Likouala-aux-Herbes is a river and wetland landscape in northern Congo. It is known for slow water, swamp forest, and bird habitat."
     ,
     descriptionAdvanced: {
       en: "The Likouala-aux-Herbes is a distinct riverine environment in the north, renowned for its vast, swampy landscapes that are largely untouched. These extensive wetlands provide an ideal habitat for numerous water-bird species and support a unique, slow-moving aquatic ecosystem. The river is a vital, though remote, component of the northern Congo Basin's complex hydrological architecture. Geography K8 — swamp ecosystems and northern hydrology."
@@ -150,7 +150,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       de: ["Große Feuchtgebiete", "Heimat vieler Wasservögel", "Schwer zugängliche Region", "Typischer Regenwaldfluss"],
       hu: ["Nagy vizes élőhelyek", "Sok vízimadár otthona", "Nehezen megközelíthető régió", "Tipikus esőerdei folyó"],
       ro: ["Zone umede mari", "Habitat pentru multe păsări de apă", "Regiune greu accesibilă", "Râu tipic de pădure tropicală"],
-      en: ["Large wetlands", "Home to many water birds", "Difficult to access region", "Typical rainforest river"]
+      en: ["Northern Congo", "Swamp forest", "Bird habitat"]
     }, image: "/poi-images/cg-likouala-aux-herbes-nature-v2.webp"},
   {
     id: "cg-berongou-mountain-nature-v2",
@@ -280,13 +280,13 @@ export const poiExtraCongoNatureV2: POI[] = [
       de: "Ein Küstengebirgsregenwald, der sich über mehrere zentralafrikanische Länder erstreckt.",
       hu: "Tengerparti hegyi esőerdő, amely több közép-afrikai országon át húzódik.",
       ro: "O pădure tropicală montană de coastă, care se întinde pe mai multe țări.",
-      en: "A coastal mountain rainforest stretching across several Central African countries."
+      en: "Mayombe Forest is a dense tropical forest in south-western Congo. It forms part of the wider Congo Basin forest belt."
     },
     facts: {
       de: ["Hoher Endemismus", "Hügelige Waldlandschaft", "Sehr niederschlagsreich", "Wichtige Forstwirtschaftsregion"],
       hu: ["Magas endemizmus", "Dombos erdei táj", "Nagyon csapadékos", "Fontos erdőgazdálkodási régió"],
       ro: ["Endemism ridicat", "Peisaj forestier deluros", "Precipitații foarte bogate", "Regiune forestieră importantă"],
-      en: ["High endemism", "Hilly forest landscape", "Very high rainfall", "Important forestry region"]
+      en: ["South-west Congo", "Dense tropical forest", "Part of the Congo Basin"]
     }, image: "/poi-images/cg-mayombe-forest-nature-v2.webp"},
   {
     id: "cg-atlantic-ocean-cg-nature-v2",
@@ -298,13 +298,13 @@ export const poiExtraCongoNatureV2: POI[] = [
       de: "Die Küstenlinie der Republik Kongo am Golf von Guinea.",
       hu: "A Kongói Köztársaság tengerpartja a Guineai-öbölnél.",
       ro: "Linia de coastă a Republicii Congo la Golful Guineei.",
-      en: "The coastline of the Republic of the Congo on the Gulf of Guinea."
+      en: "The Atlantic Ocean shapes Congo's western coast and port access. It also influences the country's coastal climate and marine life."
     },
     facts: {
       de: ["Ca. 170 km Küstenlänge", "Reich an Erdölvorkommen", "Wichtige Fischfanggründe", "Sandige Strände"],
       hu: ["Kb. 170 km hosszú partvonal", "Kőolajkincsekben gazdag", "Fontos halászterületek", "Homokos strandok"],
       ro: ["Aproximativ 170 km de coastă", "Bogat în rezerve de petrol", "Zone de pescuit importante", "Plaje nisipoase"],
-      en: ["Approx. 170 km of coastline", "Rich in oil deposits", "Important fishing grounds", "Sandy beaches"]
+      en: ["Western coastline", "Port access", "Coastal climate influence"]
     }, image: "/poi-images/cg-atlantic-ocean-cg-nature-v2.webp"},
   {
     id: "cg-loango-bay-nature-v2",
@@ -315,13 +315,13 @@ export const poiExtraCongoNatureV2: POI[] = [
     description: {
       de: "Eine historische Bucht an der Atlantikküste mit großer ökologischer Bedeutung.",
       hu: "Történelmi öböl az Atlanti-parton, nagy ökológiai jelentőséggel.",
-      ro: "Un golf istoric pe coasta Atlanticului, cu o mare importanță ecologică.",
+      ro: "Golful Loango este un golf de pe coasta atlantică a departamentului Kouilou, la sud-vest de Pointe-Noire. Zona combină plaje, ape de coastă și zone umede litorale.",
       en: "A historical bay on the Atlantic coast with great ecological significance."
     },
     facts: {
       de: ["Historischer Hafenplatz", "Schöne Küstenlandschaft", "Nahe dem Conkouati-Nationalpark", "Wichtiges Meeresökosystem"],
       hu: ["Történelmi kikötőhely", "Szép tengerparti táj", "Közel a Conkouati Nemzeti Parkhoz", "Fontos tengeri ökoszisztéma"],
-      ro: ["Port istoric", "Peisaj costier frumos", "Lângă Parcul Național Conkouati", "Ecosistem marin important"],
+      ro: ["În Kouilou", "Pe coasta Atlanticului", "Lângă Pointe-Noire"],
       en: ["Historical port site", "Beautiful coastal landscape", "Near Conkouati National Park", "Important marine ecosystem"]
     }
   },
@@ -352,14 +352,14 @@ export const poiExtraCongoNatureV2: POI[] = [
     description: {
       de: "Ein malerischer Küstensee in der Nähe von Pointe-Noire.",
       hu: "Gleccser eredetű festői tengerparti tó Pointe-Noire közelében.",
-      ro: "Un lac de coastă pitoresc în apropiere de Pointe-Noire.",
-      en: "A picturesque coastal lake near Pointe-Noire."
+      ro: "Lacul Cayo este un lac mic din regiunea de coastă a Republicii Congo, în Kouilou. Este cunoscut pentru fauna piscicolă și pentru peisajul său liniștit.",
+      en: "Lake Cayo is a small lake in south-western Congo. It belongs to the coastal landscape of the Kouilou region."
     },
     facts: {
       de: ["Beliebtes Ausflugsziel", "Süßwassersee nahe dem Meer", "Reiche Vogelwelt", "Ruhige Umgebung"],
       hu: ["Népszerű kirándulóhely", "Édesvizű tó a tenger közelében", "Gazdag madárvilág", "Nyugodt környezet"],
-      ro: ["Destinație populară de excursie", "Lac de apă dulce lângă mare", "Avifaună bogată", "Mediu liniștit"],
-      en: ["Popular excursion destination", "Freshwater lake near the sea", "Rich birdlife", "Quiet surroundings"]
+      ro: ["În Kouilou", "Lac costier", "Faună piscicolă"],
+      en: ["In Kouilou", "Coastal lake", "South-west Congo"]
     }
   },
   {
@@ -387,16 +387,16 @@ export const poiExtraCongoNatureV2: POI[] = [
     coords: [15.5, -2.5],
     name: { de: "Batéké-Plateaus", hu: "Batéké-fennsík", ro: "Platoul Batéké", en: "Batéké Plateaus" },
     description: {
-      de: "Ein riesiges Hochplateau aus Sandstein mit einer Mischung aus Savanne und Wäldern.",
-      hu: "Hatalmas homokkő fennsík, szavannák és erdők keverékével.",
+      de: "Die Batéké-Plateaus sind eine weite Hochebene mit Savannen und lichten Wäldern. Die Landschaft prägt den Osten und Südosten der Republik Kongo.",
+      hu: "A Bat?k?-fenns?kok Brazzaville-t?l keletre h?z?d?, sz?les fenns?k- ?s szavannavid?ket alkotnak. Ritk?n lakott t?j, ahol a v?zgy?jt?s ?s a term?szetes ?l?helyek fontosak.",
       ro: "Un podiș vast de gresie cu un mix de savană și păduri.",
-      en: "A vast sandstone plateau with a mixture of savanna and forests."
+      en: "The Batéké Plateaus are a broad savanna plateau region in central Congo. Their open grasslands stand in contrast to the country's forested lowlands."
     },
     facts: {
-      de: ["Sandige Böden", "Einzigartige Erosionslandschaften", "Höhe bis zu 800 Meter", "Wichtige Wasserscheide"],
-      hu: ["Homokos talaj", "Egyedülálló eróziós tájak", "Akár 800 méter magasság", "Fontos vízválasztó"],
+      de: ["Weite Hochebene", "Savannen und lichte Wälder", "Im Osten und Südosten", "Markante Landschaft"],
+      hu: ["Brazzaville-t?l keletre", "Fenns?k ?s szavanna", "Ritk?n lakott", "Fontos ?l?hely"],
       ro: ["Soluri nisipoase", "Peisaje de eroziune unice", "Înălțime de până la 800 metri", "Drenaj important"],
-      en: ["Sandy soils", "Unique erosional landscapes", "Height up to 800 meters", "Important watershed"]
+      en: ["Central Congo", "Savanna plateau", "Open grasslands"]
     }, image: "/poi-images/cg-bateke-plateaus-nature-v2.webp"},
   {
     id: "cg-lesio-louna-reserve-nature-v2",
@@ -441,16 +441,16 @@ export const poiExtraCongoNatureV2: POI[] = [
     coords: [13.5, -3.8],
     name: { de: "Mpoulou", hu: "Mpoulou folyó", ro: "Râul Mpoulou", en: "Mpoulou River" },
     description: {
-      de: "Ein malerischer Fluss in der Lékoumou-Region im Süden Kongos.",
-      hu: "Gleccser eredetű festői folyó a dél-kongói Lékoumou régióban.",
-      ro: "Un râu pitoresc în regiunea Lékoumou din sudul Congo.",
-      en: "A picturesque river in the Lékoumou region of southern Congo."
+      de: "Der Mpoulou ist ein kleiner Fluss im Süden des Landes. Er entwässert eine ländliche Landschaft mit Feldern und Wäldern.",
+      hu: "A Mpoulou egy kisebb foly? Kong? ?szaki r?sz?n. A k?rnyez? erd?s ter?letek v?zh?l?zat?nak r?sze.",
+      ro: "Râul Mpoulou este un curs de apă local din Republica Congo. Face parte din rețeaua hidrografică mică a bazinului Congo.",
+      en: "The Mpoulou River is a small river in southern Congo. It supports local drainage and rural landscapes along its course."
     },
     facts: {
-      de: ["Durchfließt dichten Wald", "Bedeutung für lokale Gemeinschaften", "Vielseitiges Ökosystem", "Klares Wasser"],
-      hu: ["Sűrű erdőn folyik át", "Fontos a helyi közösségeknek", "Változatos ökoszisztéma", "Tiszta víz"],
-      ro: ["Curge prin pădure densă", "Important pentru comunitățile locale", "Ecosistem diversificat", "Apă limpede"],
-      en: ["Flows through dense forest", "Important for local communities", "Diverse ecosystem", "Clear water"]
+      de: ["Fluss im Süden", "Ländliche Landschaft", "Entwässert Felder", "Wälder am Ufer"],
+      hu: ["?szaki foly?", "Erd?s k?rnyezet", "Helyi v?zh?l?zat", "Kisebb v?zfoly?s"],
+      ro: ["Curs de apă local", "În bazinul Congo", "Râu de mică amploare"],
+      en: ["Southern Congo", "Small river", "Local drainage"]
     }, image: "/poi-images/cg-mpoulou-river-nature-v2.webp"},
   {
     id: "cg-loufoulakari-river-nature-v2",
@@ -479,13 +479,13 @@ export const poiExtraCongoNatureV2: POI[] = [
     description: {
       de: "Ein kleiner, tiefblauer See in einer idyllischen Waldlandschaft.",
       hu: "Kicsi, mélykék vizű tó idilli erdei környezetben.",
-      ro: "Un lac mic, de un albastru profund, într-un peisaj forestier idilic.",
+      ro: "Lacul Bleu, numit și Lac Zamboula, se află în rezervația Lésio-Louna, la nord de Brazzaville. Este cunoscut pentru apa limpede și pentru cadrul forestier din jur.",
       en: "A small, deep-blue lake in an idyllic forest landscape."
     },
     facts: {
       de: ["Kristallklares Wasser", "Sehr tief für seine Größe", "Umgeben von Regenwald", "Geheimtipp für Naturliebhaber"],
       hu: ["Kristálytiszta víz", "Mérethez képest nagyon mély", "Esőerdő veszi körül", "Természetkedvelők titkos tippje"],
-      ro: ["Apă de cristal", "Foarte adânc pentru mărimea sa", "Înconjurat de pădure tropicală", "Loc special pentru iubitorii de natură"],
+      ro: ["În Lésio-Louna", "La nord de Brazzaville", "Apă limpede"],
       en: ["Crystal clear water", "Very deep for its size", "Surrounded by rainforest", "Hidden gem for nature lovers"]
     }, image: "/poi-images/cg-blue-lake-cg-nature-v2.webp"},
   {
@@ -497,13 +497,13 @@ export const poiExtraCongoNatureV2: POI[] = [
     description: {
       de: "Ein gewundener Fluss im tiefen Norden, der in den Ubangi mündet.",
       hu: "Kanyargós folyó az ország mély északi részén, az Ubangiba torkollik.",
-      ro: "Un râu sinuos în nordul îndepărtat, care se varsă în Ubangi.",
+      ro: "Motaba este un râu din departamentul Likouala, în nordul Republicii Congo. Curge prin zone de pădure și mlaștină din bazinul Ubangi.",
       en: "A winding river in the deep north, discharging into the Ubangi."
     },
     facts: {
       de: ["Durchfließt isolierte Gebiete", "Wichtiger Wasserweg für Pygmäen", "Reich an Biodiversität", "Schwer zugänglich"],
       hu: ["Elszigetelt területeken folyik át", "Fontos vízi út a pigmeusoknak", "Biodiverzitásban gazdag", "Nehezen megközelíthető"],
-      ro: ["Curge prin zone izolate", "Cale navigabilă importantă pentru pigmei", "Bogat în biodiversitate", "Greu accesibil"],
+      ro: ["În Likouala", "Râu de pădure", "Afluent al Ubangi"],
       en: ["Flows through isolated areas", "Important waterway for Pygmies", "Rich in biodiversity", "Difficult to access"]
     }, image: "/poi-images/cg-motaba-river-nature-v2.webp"},
   {
@@ -513,16 +513,16 @@ export const poiExtraCongoNatureV2: POI[] = [
     coords: [18.5, 2.5],
     name: { de: "Ibenga", hu: "Ibenga folyó", ro: "Râul Ibenga", en: "Ibenga River" },
     description: {
-      de: "Ein abgelegener Fluss im äußersten Nordosten der Republik Kongo.",
+      de: "Der Ibenga ist ein Fluss im Norden der Republik Kongo. Er fließt durch ein abgelegenes Waldgebiet und gehört zum Wassersystem des Kongobeckens.",
       hu: "Távoli folyó a Kongói Köztársaság legészakkeletibb részén.",
-      ro: "Un râu îndepărtat în extremitatea de nord-est a Republicii Congo.",
-      en: "A remote river in the far northeast of the Republic of the Congo."
+      ro: "Ibenga este un râu din Republica Congo, afluent de dreapta al Ubangi. Traversează zone de pădure tropicală din nord-estul țării.",
+      en: "The Ibenga River flows through the forested north of Congo. It is part of the river network that shapes the country's inland ecosystems."
     },
     facts: {
-      de: ["Grenzregion", "Unberührte Natur", "Nebenfluss des Ubangi", "Fließt durch dichten Dschungel"],
+      de: ["Fluss im Norden", "Abgelegenes Waldgebiet", "Teil des Kongobeckens", "Natürlicher Wasserlauf"],
       hu: ["Határmenti régió", "Érintetlen természet", "Az Ubangi mellékfolyója", "Sűrű dzsungelen folyik át"],
-      ro: ["Regiune de frontieră", "Natură virgină", "Afluent al Ubangi", "Curge prin junglă densă"],
-      en: ["Border region", "Pristine nature", "Tributary of the Ubangi", "Flows through dense jungle"]
+      ro: ["Afluent al Ubangi", "În nord-estul țării", "Prin pădure tropicală"],
+      en: ["Forested north", "River network", "Inland ecosystem"]
     }
   }
 ];

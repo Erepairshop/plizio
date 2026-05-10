@@ -18,8 +18,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["Magassága 3088 méter.", "Libanon legmagasabb pontja.", "Gyakran nyárig hó borítja.", "Népszerű a hegymászók körében."],
       ro: ["Altitudinea este de 3088 metri.", "Cel mai înalt punct din Liban.", "Adesea acoperit de zăpadă până în vară.", "Popular printre alpiniști."],
       en: ["Elevation is 3088 meters.", "Highest point in Lebanon.", "Often snow-capped until summer.", "Popular among mountaineers."]
-    }
-  },
+    }, image: "/poi-images/qurnat-as-sawda-relief-v2.webp"},
   {
     id: "bekaa-valley-relief-v2",
     type: "valley",
@@ -37,8 +36,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["A legfontosabb borvidék.", "A Litáni-folyó szeli ketté.", "A Nagy-hasadékvölgy része.", "Átlagos magassága 1000 méter."],
       ro: ["Cea mai importantă regiune viticolă.", "Traversată de râul Litani.", "Parte a Marelui Rift African.", "Situată la o altitudine medie de 1000 de metri."],
       en: ["Main wine-producing region.", "Bisected by the Litani River.", "Part of the Great Rift Valley.", "Sits at an average elevation of 1000 meters."]
-    }
-  },
+    }, image: "/poi-images/bekaa-valley-relief-v2.webp"},
   {
     id: "anti-lebanon-mountains-relief-v2",
     type: "mountain",
@@ -56,8 +54,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["Szárazabb, mint a Libanon-hegység.", "A keleti határt képezi.", "Ritkábban lakott terület.", "Fontos vízválasztó."],
       ro: ["Mai arid decât Munții Liban.", "Formează granița estică.", "Mai slab populat.", "Cumpănă importantă de ape."],
       en: ["Drier than the Mount Lebanon range.", "Forms the eastern border.", "Less densely populated.", "Important drainage divide."]
-    }
-  },
+    }, image: "/poi-images/anti-lebanon-mountains-relief-v2.webp"},
   {
     id: "mount-sannine-relief-v2",
     type: "mountain",
@@ -75,8 +72,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["Magassága eléri a 2628 métert.", "Bejrút egész területéről látható.", "Számos hegyi forrás eredője.", "A téli sportok központja."],
       ro: ["Atinge 2628 metri altitudine.", "Vizibil din întregul Beirut.", "Sursa multor izvoare montane.", "Centru pentru sporturile de iarnă."],
       en: ["Reaches 2628 meters in height.", "Visible from all over Beirut.", "Source of many mountain springs.", "Center for winter sports."]
-    }
-  },
+    }, image: "/poi-images/mount-sannine-relief-v2.webp"},
   {
     id: "mount-hermon-relief-v2",
     type: "mountain",
@@ -94,8 +90,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["Legmagasabb pontja 2814 méter.", "Három ország határán fekszik.", "A Jordán-folyó forrása.", "Ókori iratok gyakran említik."],
       ro: ["Cel mai înalt punct are 2814 metri.", "Graniță pentru trei țări.", "Sursa râului Iordan.", "Adesea menționat în scrierile antice."],
       en: ["Highest point is 2814 meters.", "Border of three countries.", "Source of the Jordan River.", "Often mentioned in ancient writings."]
-    }
-  },
+    }, image: "/poi-images/mount-hermon-relief-v2.webp"},
   {
     id: "chouf-mountains-relief-v2",
     type: "mountain",
@@ -113,8 +108,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["A súfi cédrusok otthona.", "Fontos élőhely a vadon élő állatok számára.", "Gazdag történelmi hegyi falvakban.", "Népszerű az ökoturizmus számára."],
       ro: ["Casa cedrilor din Chouf.", "Habitat important pentru fauna sălbatică.", "Bogat în sate montane istorice.", "Popular pentru ecoturism."],
       en: ["Home to the Chouf cedars.", "Important habitat for wildlife.", "Rich in historical mountain villages.", "Popular for ecotourism."]
-    }
-  },
+    }, image: "/poi-images/chouf-mountains-relief-v2.webp"},
   {
     id: "litani-valley-relief-v2",
     type: "valley",
@@ -132,8 +126,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["Fontos a vízellátás szempontjából.", "Libanon leghosszabb folyója.", "A Földközi-tengerbe torkollik.", "Esése vízenergiát biztosít."],
       ro: ["Important pentru aprovizionarea cu apă.", "Cel mai lung râu din Liban.", "Se varsă în Marea Mediterană.", "Panta sa oferă energie hidroelectrică."],
       en: ["Important for water supply.", "Longest river in Lebanon.", "Flows into the Mediterranean Sea.", "Gradient provides hydroelectric power."]
-    }
-  },
+    }, image: "/poi-images/litani-valley-relief-v2.webp"},
   {
     id: "adonis-valley-relief-v2",
     type: "valley",
@@ -151,8 +144,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["A folyó tavasszal gyakran vöröses színű.", "Gazdag endemikus növényekben.", "Meredek, zöld szurdokok jellemzik.", "Történelmi zarándokhely."],
       ro: ["Râul capătă adesea o culoare roșiatică primăvara.", "Bogat în plante endemice.", "Defilee abrupte și verzi.", "Loc istoric de pelerinaj."],
       en: ["The river often turns reddish in spring.", "Rich in endemic plants.", "Steep, green gorges.", "Historical pilgrimage site."]
-    }
-  },
+    }, image: "/poi-images/adonis-valley-relief-v2.webp"},
   {
     id: "mount-barouk-relief-v2",
     type: "mountain",
@@ -170,8 +162,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["Magassága megközelíti a 2000 métert.", "A Súf Természetvédelmi Terület része.", "Farkasok menedékhelye.", "Télen hóbiztos terület."],
       ro: ["Altitudine de aproape 2000 de metri.", "Parte a rezervației Chouf.", "Refugiu pentru lupi.", "Aproape mereu cu zăpadă iarna."],
       en: ["Height of nearly 2000 meters.", "Part of the Chouf Reserve.", "Refuge for wolves.", "Snow-reliable in winter."]
-    }
-  },
+    }, image: "/poi-images/mount-barouk-relief-v2.webp"},
   {
     id: "mount-makmel-relief-v2",
     type: "mountain",
@@ -189,8 +180,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["A legmagasabb csúcsok otthona.", "Nagyon zord éghajlat jellemzi.", "Vadkecskék élőhelye.", "A csúcsokon alig van növényzet."],
       ro: ["Găzduiește cele mai înalte vârfuri.", "Climă foarte aspră.", "Casa caprelor sălbatice.", "Aproape fără vegetație pe creste."],
       en: ["Hosts the highest peaks.", "Very harsh climate.", "Home to wild goats.", "Barely vegetated on the summits."]
-    }
-  },
+    }, image: "/poi-images/mount-makmel-relief-v2.webp"},
   {
     id: "mount-kneisseh-relief-v2",
     type: "mountain",
@@ -208,8 +198,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["Magassága körülbelül 2090 méter.", "Tiszta rálátás a fővárosra.", "Népszerű túraútvonal.", "Fontos rádiórelé-állomások találhatók itt."],
       ro: ["Altitudine de aproximativ 2090 metri.", "Vedere clară către capitală.", "Traseu popular de drumeții.", "Stații importante de relee radio."],
       en: ["Elevation around 2090 meters.", "Clear view of the capital.", "Popular hiking route.", "Important radio relay stations."]
-    }
-  },
+    }, image: "/poi-images/mount-kneisseh-relief-v2.webp"},
   {
     id: "qannoubine-valley-relief-v2",
     type: "valley",
@@ -227,8 +216,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["A Kadisa-völgyrendszer része.", "Számos sziklába vájt kolostorral rendelkezik.", "Az UNESCO Világörökség része.", "Rendkívül meredek sziklafalak övezik."],
       ro: ["Parte a sistemului Văii Qadisha.", "Numeroase mănăstiri săpate în stâncă.", "Patrimoniu Mondial UNESCO.", "Pereți de stâncă extrem de abrupți."],
       en: ["Part of the Qadisha valley system.", "Numerous rock-hewn monasteries.", "UNESCO World Heritage site.", "Extremely steep rock faces."]
-    }
-  },
+    }, image: "/poi-images/qannoubine-valley-relief-v2.webp"},
   {
     id: "batroun-coast-relief-v2",
     type: "coast",
@@ -246,8 +234,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["Ókori föníciai tengeri fal.", "A szörfösök kedvelt helye.", "Tiszta, mélykék víz jellemzi.", "Gazdag tengeri biológiai sokféleség."],
       ro: ["Zid maritim antic fenician.", "Popular printre surferi.", "Apă limpede, albastru închis.", "Bogată biodiversitate marină."],
       en: ["Ancient Phoenician sea wall.", "Popular with surfers.", "Clear, deep blue water.", "Rich marine biodiversity."]
-    }
-  },
+    }, image: "/poi-images/batroun-coast-relief-v2.webp"},
   {
     id: "mount-niha-relief-v2",
     type: "mountain",
@@ -284,8 +271,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["A Baatara-szurdok otthona.", "Jelentős sziklamászó terület.", "Sűrű cédruserdők borítják.", "Karsztosodott mészkőtáj jellemzi."],
       ro: ["Casa Defileului Baatara.", "Zonă importantă de escaladă.", "Păduri dese de cedru.", "Peisaj calcaros carstic."],
       en: ["Home to the Baatara Gorge.", "Important rock climbing area.", "Dense cedar forests.", "Karstified limestone landscape."]
-    }
-  },
+    }, image: "/poi-images/tannourine-mountains-relief-v2.webp"},
   {
     id: "byblos-coast-relief-v2",
     type: "coast",
@@ -322,8 +308,7 @@ export const poiExtraLebanonReliefV2: POI[] = [
       hu: ["Történelmi feliratok a sziklafalakon.", "Mindkét oldalon meredek lejtők találhatók.", "A Szannín-hegy olvadékvizét szállítja.", "Korábban nehezen járható volt."],
       ro: ["Inscripții istorice pe pereții de stâncă.", "Versanți abrupți pe ambele părți.", "Transportă apa topită de pe Muntele Sannine.", "Odinioară greu de trecut."],
       en: ["Historical inscriptions on the rock faces.", "Steep slopes on both sides.", "Carries meltwater from Mount Sannine.", "Historically difficult to pass."]
-    }
-  },
+    }, image: "/poi-images/nahr-al-kalb-valley-relief-v2.webp"},
   {
     id: "naqoura-coast-relief-v2",
     type: "coast",

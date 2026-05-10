@@ -30,8 +30,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A 10. században élt híres arab költőről kapta a nevét.", "A Shahbandar kávéházat 1932-ben alapították az utca központjában.", "2007 márciusában egy merénylet 30 ember életét követelte a könyvpiacon.", "A felújított könyvpiacot 2008 decemberében adták át újra a közönségnek.", "A terület végét lezáró Al-Kislá tornyát 1869-ben építették.", "Al-Mutanabbi bronzszobrát 1968-ban állították fel a Tigris folyó partján."],
       ro: ["Strada se întinde pe o lungime de aproximativ 300 de metri.", "A fost numită în anii 1920 după poetul abbasid Al-Mutanabbi.", "La 5 martie 2007, o mașină-capcană a distrus mari părți ale străzii și a ucis 30 de persoane.", "Redeschiderea oficială după atac a avut loc la 18 decembrie 2008.", "Cafeneaua Shabandar de la capătul străzii și-a început activitatea în anul 1917.", "Pe malul Tigrului se află o statuie din bronz a lui Al-Mutanabbi, creată de sculptorul Mohammed Ghani Hikmat.", "Astăzi, peste 100 de librării și edituri sunt stabilite pe această stradă."],
       en: ["The street was named after the famous 10th-century Arab poet Al-Mutanabbi.", "The historic Shahbandar Cafe opened its doors to intellectuals in 1932.", "A car bomb attack on March 5, 2007, killed 30 people in the book market.", "The fully restored book market was officially reopened to the public in December 2008.", "The Al-Qishla clock tower at the end of the street was constructed in 1869.", "A bronze statue of Al-Mutanabbi was erected along the Tigris River in 1968."]
-    }
-  },
+    }, image: "/poi-images/al-mutanabbi-street-landmarks-v2.webp"},
   {
     id: "baghdad-tower-landmarks-v2",
     type: "landmark",
@@ -61,8 +60,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A vasbeton szerkezetű torony teljes magassága eléri a 205 métert.", "Az épületet eredetileg 1994-ben adták át a nagyközönségnek.", "A megfigyelő fedélzet és az étterem 110 méteres magasságban található.", "Az építkezés 1992-ben kezdődött, miután a korábbi távközlési tornyok megsemmisültek.", "A 2003-as háború után a nevét Bagdadi tévétoronyra változtatták.", "A létesítmény mintegy 2 millió dolláros részleges felújításon esett át 2010-ben."],
       ro: ["Înălțimea totală a turnului este de 205 metri.", "Turnul a fost finalizat și deschis în anul 1994.", "Restaurantul rotativ este situat la o înălțime de 150 de metri.", "Partea sferică a turnului are un diametru maxim de 30 de metri.", "În anul 2003, turnul a suferit avarii în timpul capturării Bagdadului.", "Returnarea către autoritățile irakiene a avut loc în iulie 2007.", "Construcția se sprijină pe o fundație formată din 3000 de metri cubi de beton."],
       en: ["The reinforced concrete structure reaches a total height of 205 meters.", "The tower was officially opened to the public in 1994.", "The observation deck and the revolving restaurant are located at a height of 110 meters.", "Construction began in 1992 after the previous telecommunications towers were destroyed.", "The facility underwent a partial renovation project costing nearly 2 million dollars in 2010.", "The tower was officially renamed to Baghdad Tower following the 2003 war."]
-    }
-  },
+    }, image: "/poi-images/baghdad-tower-landmarks-v2.webp"},
   {
     id: "al-kadhimiya-mosque-landmarks-v2",
     type: "landmark",
@@ -92,8 +90,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A mecsetben nyugszik a 799-ben és a 835-ben elhunyt két síita imám.", "A jelenlegi struktúra alapjait 1515-ben rakták le a Szafavida Birodalom idején.", "A két aranykupolát 1881-ben borították be aranylemezekkel.", "A vallási komplexum teljes alapterülete mintegy 26 000 négyzetméter.", "A mecsethez négy, 35 méternél magasabb minaret csatlakozik.", "A zarándoklatok csúcsidőszakában több millió ember látogatja meg a szentélyt."],
       ro: ["Sanctuarul original a fost construit în anul 799 peste mormântul lui Musa al-Kadhim.", "Clădirea are două cupole de aur, fiecare cu o înălțime de 22 de metri.", "Patru minarete de aur flanchează cupolele la colțurile altarului interior.", "Șahul safavid Ismail I a ordonat reconstrucția cuprinzătoare în anul 1508.", "În anul 1881, guvernatorul otoman Midhat Pașa a adăugat un mare ceas în turn.", "Curtea interioară oferă spațiu pentru mai mult de 10.000 de credincioși simultan.", "Mormintele sunt înconjurate de o rețea masivă acoperită cu argint și aur, numită Zarih."],
       en: ["The mosque houses the remains of two Shia Imams who passed away in 799 and 835.", "The foundations of the current structure were laid in 1515 during the Safavid Empire.", "The two prominent domes were covered with gold plates during renovations in 1881.", "The entire religious complex occupies a total area of approximately 26,000 square meters.", "Four minarets exceeding 35 meters in height are attached to the main mosque building.", "Millions of worshippers visit the shrine complex during peak pilgrimage periods."]
-    }
-  },
+    }, image: "/poi-images/al-kadhimiya-mosque-landmarks-v2.webp"},
   {
     id: "abbasid-palace-landmarks-v2",
     type: "monument",
@@ -123,8 +120,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["Az épületet a 12. század végén, al-Nászir kalifa uralkodása idején emelték.", "A kétszintes komplexum belső udvara egy 1500 négyzetméteres területet foglal magába.", "Az épület belső mennyezete több mint 10 000 különálló tégladarabból álló mukarnasz díszítést tartalmaz.", "A 20. század első felében a létesítményt brit katonai raktárként is használták.", "Az iraki állam 1980-ban teljes körű restaurálást hajtott végre a belső tereken.", "Jelenleg mintegy 300 kora középkori iszlám műtárgy tekinthető meg az épületben."],
       ro: ["Se estimează că edificiul a fost construit între anii 1180 și 1225.", "Curtea interioară centrală are o suprafață de aproximativ 400 de metri pătrați.", "Structura este formată în principal din cărămizi de lut ars.", "Palatul are un iwan conservat, o sală boltită deschisă pe o parte.", "În anii 1930, Direcția de Antichități din Irak a inițiat restaurarea clădirii.", "O parte a clădirii a fost avariată în anul 2003, în timpul jafurilor din Bagdad.", "Este una dintre cele doar patru clădiri rămase din perioada abbasidă din Bagdad."],
       en: ["The building was erected during the reign of Caliph Al-Nasir in the late 12th century.", "The inner courtyard of the two-story complex covers an area of 1,500 square meters.", "The interior ceiling features muqarnas decorations composed of over 10,000 separate brick pieces.", "During the first half of the 20th century, the facility was utilized as a British military warehouse.", "The Iraqi government carried out a comprehensive restoration of the interior spaces in 1980.", "Around 300 early medieval Islamic artifacts are currently exhibited within the building."]
-    }
-  },
+    }, image: "/poi-images/abbasid-palace-landmarks-v2.webp"},
   {
     id: "victory-arch-landmarks-v2",
     type: "monument",
@@ -154,8 +150,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A rozsdamentes acélból készült kardok mindegyike 43 méter hosszú és 24 tonna súlyú.", "Az emlékművet hivatalosan 1989. augusztus 8-án avatták fel.", "A bronzkézek formáját közvetlenül Szaddám Huszein gipszöntvényeiről mintázták.", "A diadalív alapjainál 2500, a harcmezőn gyűjtött katonai sisak található.", "A kardok legmagasabb pontja 40 méterre emelkedik az úttest fölé.", "A struktúra egy 30 méter széles utat ível át a Zöld Zóna közelében."],
       ro: ["Construcția monumentului a început în 1986 și a fost finalizată în 1989.", "Fiecare dintre săbii are o lungime de 43 de metri.", "Lamele au fost fabricate din 24 de tone de oțel inoxidabil.", "Fiecare mână de bronz cântărește aproximativ 40 de tone.", "Aproximativ 5000 de căști iraniene sunt ancorate în plase la baza săbiilor.", "Monumentul marchează intrările într-un loc central de paradă.", "O demolare planificată în anul 2007 a fost oprită din cauza protestelor."],
       en: ["Each stainless steel sword measures 43 meters in length and weighs 24 tons.", "The monument was officially inaugurated to the public on August 8, 1989.", "The bronze hands were modeled directly from plaster casts of Saddam Hussein.", "The base of the triumphal arch features 2,500 military helmets collected from the battlefield.", "The highest point of the crossed swords rises 40 meters above the roadway.", "The massive structure spans a 30-meter-wide road situated near the Green Zone."]
-    }
-  },
+    }, image: "/poi-images/victory-arch-landmarks-v2.webp"},
   {
     id: "unknown-soldier-monument-landmarks-v2",
     type: "monument",
@@ -185,8 +180,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A komplexumot 1979 és 1982 között építették Khaled Al-Rahal tervei alapján.", "A pajzsot formázó konzolos tető átmérője 42 méter, és 12 fokos szögben dől.", "A központi emlékkockát 250 tonna vörös gránittal borították.", "Az emlékmű körül egy 250 méter átmérőjű mesterséges dombot hoztak létre.", "A földalatti szinten egy 3000 négyzetméteres kiállítótér található.", "Az emlékmű kilátóterasza 18 méteres magasságban helyezkedik el."],
       ro: ["Monumentul a fost inaugurat oficial pe 8 august 1982.", "Scutul acoperit cu cupru măsoară 42 de metri în diametru.", "Scutul atinge o înălțime de 18 metri la marginea sa cea mai înaltă.", "Construcția a fost realizată de compania italiană de construcții Cogefar.", "Movila artificială are un diametru de 250 de metri.", "Lângă scut se află un turn în spirală din oțel cu o înălțime de 65 de metri.", "Muzeul subteran cuprinde trei etaje."],
       en: ["The complex was constructed between 1979 and 1982 based on designs by Khaled Al-Rahal.", "The cantilevered roof forming the shield has a 42-meter diameter and tilts at a 12-degree angle.", "The central memorial cube is covered with 250 tons of red granite material.", "An artificial hill with a diameter of 250 meters was created around the monument.", "The underground level houses an exhibition space spanning 3,000 square meters.", "The observation deck of the monument is situated at a height of 18 meters."]
-    }
-  },
+    }, image: "/poi-images/unknown-soldier-monument-landmarks-v2.webp"},
   {
     id: "shanidar-cave-landmarks-v2",
     type: "tourist-attraction",
@@ -278,8 +272,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A mecset építését 638-ban kezdték meg, nem sokkal a város alapítása után.", "A létesítmény alapterülete meghaladja a 11 000 négyzetmétert.", "Az épületet körülvevő masszív téglafalak 9 méter magasak és 28 bástya tagolja őket.", "Ali ibn Abi Talib kalifát 661. január 26-án támadták meg a mecset falai között.", "A belső udvarban 4 különböző imafülke (mihrab) található a különböző imákhoz.", "A komplexum jelentős felújításon esett át az 1990-es évek végén."],
       ro: ["Moscheea a fost fondată în anul 638 (17 AH).", "Zona acoperă o suprafață de exact 11.162 de metri pătrați.", "Zidul limitrof exterior atinge o înălțime de 10 metri.", "Patru minarete masive flanchează colțurile zidului exterior.", "Altarul de aur peste mormântul lui Muslim ibn Aqil a fost restaurat în 1998.", "În curte sunt mai mulți stâlpi care marchează anumite locuri de rugăciune ale profeților.", "Ali ibn Abi Talib a fost atacat aici la 26 ianuarie 661 în timpul rugăciunii de dimineață."],
       en: ["The construction of the mosque began in 638, shortly after the founding of the city.", "The total floor area of the religious facility exceeds 11,000 square meters.", "The massive brick walls surrounding the building are 9 meters high and feature 28 bastions.", "Caliph Ali ibn Abi Talib was attacked inside the mosque on January 26, 661.", "The inner courtyard contains four different prayer niches designated for specific prayers.", "The complex underwent significant renovation work during the late 1990s."]
-    }
-  },
+    }, image: "/poi-images/great-mosque-kufa-landmarks-v2.webp"},
   {
     id: "al-askari-shrine-landmarks-v2",
     type: "landmark",
@@ -309,8 +302,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A szentély magját a 9. században emelték, miután 868-ban elhunyt a tizedik imám.", "A fő kupola 68 méter magas, átmérője pedig eléri a 20 métert.", "Az eredeti kupolát 1905-ben mintegy 72 000 aranylemezzel borították be.", "2006. február 22-én egy bombatámadás elpusztította az aranykupolát.", "A 2007-es második merénylet a szentély két 36 méter magas minaretjét döntötte romba.", "Az UNESCO által támogatott újjáépítési projekt 2009-ben fejeződött be sikeresen."],
       ro: ["Primul altar peste morminte a fost construit în anul 944.", "Cupola de aur avea un diametru de 20 de metri și o înălțime de 68 de metri.", "Pentru aurirea cupolei în anul 1905 au fost folosite 72.000 de bucăți de aur.", "Atacul care a distrus cupola a avut loc pe 22 februarie 2006.", "La 13 iunie 2007, cele două minarete înalte de 36 de metri au fost aruncate în aer.", "Proiectul de reconstrucție a fost aprobat oficial în aprilie 2009.", "În aprilie 2015, noua cupolă și minaretele au fost prezentate publicului."],
       en: ["The core of the shrine was built in the 9th century after the tenth Imam died in 868.", "The main dome is 68 meters high and its diameter reaches 20 meters.", "The original dome was covered with approximately 72,000 gold plates in 1905.", "On February 22, 2006, a bomb attack completely destroyed the golden dome.", "The second bombing in 2007 reduced the two 36-meter-high minarets to rubble.", "The UNESCO-supported reconstruction project was successfully completed in 2009."]
-    }
-  },
+    }, image: "/poi-images/al-askari-shrine-landmarks-v2.webp"},
   {
     id: "jalil-khayat-mosque-landmarks-v2",
     type: "landmark",
@@ -340,8 +332,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A mecset építése 10 éven át tartott, és végül 2007-ben nyitotta meg kapuit.", "A vallási komplexum teljes alapterülete mintegy 15 000 négyzetméter.", "Az épület központi kupolája 48 méter magasra nyúlik a padlószinttől számítva.", "A két minaret mindegyike 73 méter magasságban magasodik a város fölé.", "A belső imaterem mintegy 2000 hívő befogadására alkalmas egyszerre.", "A fali mozaikokhoz és a belső terekhez több ezer négyzetméter márványt használtak fel."],
       ro: ["Punerea pietrei de temelie pentru moschee a avut loc în anul 1997.", "Clădirea a fost inaugurată oficial pe 15 februarie 2007.", "Cupola principală are un diametru de 15 metri și o înălțime de 48 de metri.", "Cele două minarete ating fiecare o înălțime totală de 73 de metri.", "Proprietatea moscheii se întinde pe o suprafață de 15.000 de metri pătrați.", "Sala de rugăciune și curtea pot găzdui până la 2000 de persoane.", "Peste 30 de cupole mai mici înconjoară sala principală de rugăciune."],
       en: ["The construction of the mosque took 10 years, finally opening its doors in 2007.", "The total footprint of the religious complex is approximately 15,000 square meters.", "The central dome of the building rises 48 meters from the floor level.", "Each of the two minarets towers 73 meters above the surrounding urban area.", "The interior prayer hall is designed to accommodate 2,000 worshippers simultaneously.", "Thousands of square meters of marble were utilized for the wall mosaics and interior spaces."]
-    }
-  },
+    }, image: "/poi-images/jalil-khayat-mosque-landmarks-v2.webp"},
   {
     id: "al-qishla-landmarks-v2",
     type: "monument",
@@ -371,8 +362,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A laktanyaépület alapjait 1869-ben fektették le Midhat pasa utasítására.", "A komplexum jellegzetes óratornya 22 méter magas a térszinttől számítva.", "A toronyórákat 1922-ben szerelték be, melyeket V. György brit király ajándékozott.", "I. Faiszál iraki király megkoronázására a komplexum udvarán került sor 1921-ben.", "A létesítmény egy átfogó, 3 millió dolláros restauráláson esett át 2013-ban.", "A főépület hossza meghaladja a 100 métert, a Tigris folyó partvonalát követve."],
       ro: ["Construcția complexului a început în 1861 sub conducerea lui Mehmed Namik Pașa.", "Turnul distinctiv cu ceas are o înălțime de 22 de metri.", "Ceasul cu patru cadrane a fost instalat în anii 1920.", "În anul 1921, clădirea a servit drept loc de încoronare a lui Faisal I ca primul rege al Irakului.", "Curtea interioară cuprinde o zonă dreptunghiulară de câteva mii de metri pătrați.", "În anul 2013 a fost finalizată o restaurare cuprinzătoare a clădirii.", "Complexul cu două etaje are arcade deschise în stilul tradițional al Bagdadului."],
       en: ["The foundations of the barracks building were laid in 1869 under the orders of Midhat Pasha.", "The characteristic clock tower of the complex is 22 meters high from ground level.", "The tower clocks, gifted by British King George V, were installed in 1922.", "The coronation of Iraqi King Faisal I took place in the courtyard of the complex in 1921.", "The facility underwent a comprehensive 3 million dollar restoration project in 2013.", "The main building extends over 100 meters, following the shoreline of the Tigris River."]
-    }
-  },
+    }, image: "/poi-images/al-qishla-landmarks-v2.webp"},
   {
     id: "tree-of-knowledge-landmarks-v2",
     type: "tourist-attraction",
@@ -402,8 +392,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A szimbolikus fa a Tigris és Eufrátesz folyók összefolyásánál található.", "Az eredeti jujubafa az 1920-as évek közepén száradt ki véglegesen.", "A maradványokat az 1950-es években beton alapzattal erősítették meg.", "A helyszínt jelző táblát az 1900-as évek elején helyezték el a fa mellé.", "A terület egyben a 200 kilométer hosszú Shatt al-Arab folyó kiindulópontja.", "Évente több mint 10 000 helyi és külföldi látogató keresi fel a szimbolikus kertet."],
       ro: ["Copacul se află exact la confluența fluviilor Tigru și Eufrat din Qurna.", "O platformă de beton cu o placă comemorativă înconjoară ciotul istoric al copacului.", "Placa instalată în anii 1950 îl menționează pe Avraam, care ar fi vizitat acest loc în anul 2000 î.Hr.", "Arborele original a căzut definitiv la începutul anilor 1980.", "Guvernul irakian a finanțat renovarea parcului din jur în anul 2007.", "Zona suferă de o salinitate ridicată a apelor subterane, care poate ajunge până la 15.000 ppm.", "Distanța până la capitala provinciei Basra este de aproximativ 74 de kilometri."],
       en: ["The symbolic tree is located precisely at the confluence of the Tigris and Euphrates rivers.", "The original jujube tree completely dried out and died in the mid-1920s.", "The remains were reinforced with a concrete base during the 1950s for preservation.", "The sign marking the site was placed next to the tree in the early 1900s.", "The area also serves as the starting point for the 200-kilometer-long Shatt al-Arab river.", "More than 10,000 local and foreign visitors come to the symbolic garden every year."]
-    }
-  },
+    }, image: "/poi-images/tree-of-knowledge-landmarks-v2.webp"},
   {
     id: "ezekiel-tomb-landmarks-v2",
     type: "monument",
@@ -433,8 +422,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A szentélykomplexum jelenlegi formáját a 14. század elején nyerte el.", "Az épülethez tartozó tégla minaret magassága eléri a 20 métert.", "Az 1950-es évekig évente közel 5000 zsidó zarándok látogatta meg a helyszínt pészahkor.", "A belső falakon egy 19. századi héber nyelvű felirat sora olvasható.", "A szentély 2010-ben jelentős restauráláson esett át a minaret megóvása érdekében.", "A sírkápolna belseje egy 6 méter átmérőjű, kupolával fedett teret foglal magába."],
       ro: ["Potrivit tradiției, profetul Ezechiel a fost înmormântat aici în secolul al VI-lea î.Hr.", "Minaretul monumental din cărămidă datează din anul 1316.", "Până în 1950, până la 5000 de evrei vizitau anual site-ul în timpul festivalului de Paște.", "Sarcofagul măsoară 3,5 metri în lungime și 1,5 metri în lățime.", "Pe pereții camerei funerare sunt păstrate texte ebraice din Cartea lui Ezechiel.", "În anii 2010, au fost efectuate lucrări de restaurare de către guvernul irakian.", "Situl conține și mormintele a cinci savanți din perioada Geonim."],
       en: ["The sanctuary complex acquired its current architectural form in the early 14th century.", "The brick minaret attached to the building reaches a height of 20 meters.", "Until the 1950s, nearly 5,000 Jewish pilgrims visited the site annually during Passover.", "A 19th-century Hebrew inscription can be read on the interior walls of the chamber.", "The shrine underwent significant restoration work in 2010 to preserve the minaret.", "The interior of the tomb chapel encloses a domed space with a diameter of 6 meters."]
-    }
-  },
+    }, image: "/poi-images/ezekiel-tomb-landmarks-v2.webp"},
   {
     id: "al-nuri-mosque-landmarks-v2",
     type: "landmark",
@@ -464,8 +452,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A mecset építését 1172-ben kezdték meg Núr ad-Dín Zengi utasítására.", "Az Al-Hadba minaret 45 méter magas volt az elpusztulása előtt.", "A torony dőlése a 2010-es évekre megközelítette a 3 méteres eltérést a függőlegestől.", "Az épületegyüttes 2017. június 21-én semmisült meg a város ostroma során.", "Az újjáépítési projekt költségvetése eléri az 50 millió dollárt.", "A helyreállítás során az eredeti minaret mintegy 44 000 tégláját hasznosítják újra."],
       ro: ["Moscheea a fost construită între anii 1172 și 1173.", "Minaretul cilindric Al-Hadba avea o înălțime de 45 de metri.", "Minaretul avea o înclinație de aproximativ 2,5 metri de la axa sa verticală.", "La 21 iunie 2017, complexul și minaretul au fost distruse de explozii.", "În aprilie 2018, Emiratele Arabe Unite au donat 50,4 milioane de dolari pentru reconstrucție.", "În timpul lucrărilor de curățare, săli vechi de rugăciune din secolul al XII-lea au fost descoperite sub moschee.", "Piatra de temelie pentru reconstrucție a fost pusă pe 16 decembrie 2018."],
       en: ["Construction of the mosque commenced in 1172 under the orders of Nur ad-Din Zengi.", "The Al-Hadba minaret stood 45 meters high prior to its destruction.", "By the 2010s, the inclination of the tower reached a deviation of nearly 3 meters from the vertical.", "The building complex was destroyed on June 21, 2017, during the siege of the city.", "The budget for the UNESCO reconstruction project amounts to 50 million dollars.", "Approximately 44,000 bricks from the original minaret are being reused during the restoration."]
-    }
-  },
+    }, image: "/poi-images/al-nuri-mosque-landmarks-v2.webp"},
   {
     id: "delal-bridge-landmarks-v2",
     type: "monument",
@@ -495,8 +482,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A mészkőből épült híd teljes hossza pontosan 114 méter.", "A szerkezet legmagasabb pontja a folyó vízszintjétől számítva 15,5 méter.", "A folyót átívelő híd összesen 5 aszimmetrikus kőívből áll.", "A híd alapjainak szélessége eléri a 4,7 métert a stabilitás érdekében.", "A 20. század elején a híd még elbírta a könnyebb gépjárművek forgalmát is.", "A történelmi építmény 1980 óta kizárólag gyalogos hídként funkcionál."],
       ro: ["Podul are o lungime totală de 114 metri.", "Arcul principal central se întinde pe o distanță de 16 metri.", "În punctul cel mai înalt, podul atinge o înălțime de 15,5 metri deasupra râului.", "Acesta este format din cinci arcuri de dimensiuni diferite.", "Blocurile de calcar ale structurii cântăresc fiecare până la jumătate de tonă.", "Legendele locale spun că podul poartă numele unei fete numite Delal, care a fost sacrificată pentru construcție.", "În anul 2021, guvernul provincial a inițiat o nouă campanie de restaurare."],
       en: ["The total length of the bridge built from limestone blocks is exactly 114 meters.", "The highest point of the structure is 15.5 meters above the water level of the river.", "The bridge spanning the river consists of a total of 5 asymmetrical stone arches.", "The width of the bridge foundations reaches 4.7 meters to ensure structural stability.", "In the early 20th century, the bridge could support the traffic of lighter motor vehicles.", "Since 1980, the historical structure has functioned exclusively as a pedestrian bridge."]
-    }
-  },
+    }, image: "/poi-images/delal-bridge-landmarks-v2.webp"},
   {
     id: "abu-hanifa-mosque-landmarks-v2",
     type: "landmark",
@@ -526,8 +512,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A mecset építését az 1065-ös évben kezdték meg a jelenlegi helyszínen.", "Az imaterem fölé magasodó fő kupola átmérője eléri a 25 métert.", "A mecset minaretje 35 méter magasan emelkedik az Adhamija kerület fölé.", "A fő imaterem mintegy 5000 hívő egyidejű befogadására lett tervezve.", "A vallási komplexumhoz tartozó könyvtárban több száz középkori kéziratot őriznek.", "A komplexum teljes alapterülete megközelíti a 10 000 négyzetmétert."],
       ro: ["Primul altar peste mormântul lui Abu Hanifa a fost construit în anul 1065.", "Complexul a fost renovat complet în anul 1534 sub sultanul otoman Suleiman Magnificul.", "Sala centrală de rugăciune acoperă o zonă de peste 800 de metri pătrați.", "Marea cupolă a moscheii are un diametru de 15 metri.", "Minaretul se ridică la o înălțime de 35 de metri.", "În anul 2003, turnul cu ceas al moscheii a suferit avarii în timpul războiului.", "Madrasa teologică a moscheii găzduiește astăzi aproximativ 500 de studenți."],
       en: ["Construction of the mosque at its current location began in the year 1065.", "The main dome rising above the prayer hall has a diameter reaching 25 meters.", "The mosque minaret rises 35 meters high over the surrounding Adhamiyah district.", "The main prayer hall was designed to accommodate 5,000 worshippers simultaneously.", "Hundreds of medieval manuscripts are preserved in the library attached to the religious complex.", "The total floor area of the complex approaches 10,000 square meters."]
-    }
-  },
+    }, image: "/poi-images/abu-hanifa-mosque-landmarks-v2.webp"},
   {
     id: "gali-ali-beg-waterfall-landmarks-v2",
     type: "tourist-attraction",
@@ -557,8 +542,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A vízesés teljes esési magassága eléri a 130 métert a szurdokvölgyben.", "A helyszín 800 méteres tengerszint feletti magasságban fekszik.", "A zuhatag képe az 1978-ban kibocsátott 5 dináros bankjegy hátoldalán szerepelt.", "Jelenleg a 2013-as szériájú 5000 iraki dináros bankjegyet is ez a vízesés díszíti.", "A vízeséshez vezető 12 kilométeres szurdokot évente ezrek látogatják.", "A vízhozam a tavaszi hóolvadás idején elérheti a másodpercenkénti 20 köbmétert."],
       ro: ["Cascada este situată la aproximativ 130 de kilometri nord-est de Erbil.", "Înălțimea de cădere a cascadei principale este de aproximativ 12 metri.", "Pereții de stâncă din jur ai canionului ating înălțimi de peste 800 de metri.", "Cascada este descrisă pe bancnota irakiană de 5000 de dinari.", "Regiunea din jurul cascadei este la o altitudine de aproximativ 800 de metri deasupra nivelului mării.", "Apele din Gali Ali Beg se varsă în cele din urmă în râul Zab Mare.", "Vara, la sfârșit de săptămână, cascada este adesea vizitată de mii de turiști pe zi."],
       en: ["The total drop height of the waterfall reaches 130 meters within the gorge valley.", "The site is located at an elevation of 800 meters above sea level.", "An image of the cascade appeared on the back of the 5 dinar banknote issued in 1978.", "Currently, the waterfall decorates the 2013 series 5,000 Iraqi dinar banknote.", "The 12-kilometer gorge leading to the waterfall is visited by thousands annually.", "During the spring snowmelt, the water flow can reach 20 cubic meters per second."]
-    }
-  },
+    }, image: "/poi-images/gali-ali-beg-waterfall-landmarks-v2.webp"},
   {
     id: "bekhal-waterfall-landmarks-v2",
     type: "tourist-attraction",
@@ -588,8 +572,7 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       hu: ["A vízesés Rawanduz városától 10 kilométeres távolságra fekszik.", "A karsztforrás vízhozama tavaszi csúcsidőszakban óriási mennyiségű vizet ad.", "A feltörő forrásvíz átlagos hőmérséklete a nyári hónapokban is 15 Celsius-fok körül marad.", "A vízesést körülvevő turisztikai terület 950 méteres tengerszint feletti magasságban van.", "A zuhatag szélessége az esőzések idején meghaladhatja a 30 métert.", "A helyszínt a csúcsidényben naponta akár 5000 hazai turista is meglátogatja."],
       ro: ["Cascada Bekhal este situată la aproximativ 10 kilometri de orașul Rawanduz.", "Apa izvorăște direct din stâncă la o altitudine de aproximativ 1100 de metri deasupra nivelului mării.", "Cascadele se extind pe o lățime de aproape 50 de metri pe versantul muntelui.", "Temperatura apei depășește rar 15 grade Celsius, chiar și în plină vară.", "O inundație gravă din anul 2018 a distrus părți din infrastructura turistică la cascadă.", "Apa de izvor este, de asemenea, utilizată pentru alimentarea cu apă potabilă și agricultură în zona înconjurătoare.", "În plin sezon, până la 5000 de turiști vizitează locul pe zi."],
       en: ["The waterfall is located at a distance of 10 kilometers from the town of Rawanduz.", "The karst spring produces an enormous volume of water during the peak spring season.", "The average temperature of the spring water remains around 15 degrees Celsius in summer.", "The tourist area surrounding the waterfall sits at an elevation of 950 meters.", "The width of the cascade can exceed 30 meters during periods of heavy rainfall.", "During peak season, the site is visited by up to 5,000 domestic tourists daily."]
-    }
-  },
+    }, image: "/poi-images/bekhal-waterfall-landmarks-v2.webp"},
   {
     id: "basra-sports-city-landmarks-v2",
     type: "landmark",

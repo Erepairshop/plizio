@@ -27,13 +27,13 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     description: {
       de: "Die Hauptstadt am Golf von Tadjoura ist das pulsierende Herz des Landes und ein strategisch wichtiger Hafen am Horn von Afrika.",
       hu: "A Tadjoura-öböl partján fekvő főváros az ország lüktető szíve és stratégiai fontosságú kikötő Afrika szarván.",
-      ro: "Capitala situată în Golful Tadjoura este inima vibrantă a țării și un port strategic în Cornul Africii.",
+      ro: "Capitala și centrul economic al țării, situată strategic pe coasta Golfului Aden. Este un port vital ce conectează rutele comerciale maritime internaționale.",
       en: "The capital city on the Gulf of Tadjoura is the vibrant heart of the country and a strategic port in the Horn of Africa."
     },
     facts: {
       de: ["Gegründet im Jahr 1888", "Wichtiger Eisenbahnknotenpunkt nach Äthiopien", "Vielzahl internationaler Militärstützpunkte"],
       hu: ["1888-ban alapították", "Fontos vasúti csomópont Etiópia felé", "Számos nemzetközi katonai támaszpont otthona"],
-      ro: ["Fondat în 1888", "Nod feroviar important către Etiopia", "Găzduiește numeroase baze militare internaționale"],
+      ro: ["Port major la Marea Roșie.", "Capitala și cel mai mare oraș.", "Centru logistic și comercial."],
       en: ["Founded in 1888", "Major railway hub to Ethiopia", "Home to many international military bases"]
     }, image: "/poi-images/djibouti-city-cities-v2.webp"},
   {
@@ -1136,13 +1136,13 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     }
   },
     description: {
-      de: "Ein Gebirgsdorf im Mabla-Gebirge, das für seinen Weihrauch bekannt ist.",
+      de: "Medeho ist eine kleine Siedlung, die vor allem durch ihre Lage in einer ariden Region geprägt ist.",
       hu: "Hegyi falu a Mabla-hegységben, amely tömjénéről ismert.",
       ro: "Un sat montan în Munții Mabla, cunoscut pentru tămâia sa.",
       en: "A mountain village in the Mabla Mountains known for its frankincense."
     },
     facts: {
-      de: ["Ernte von Weihrauchharz", "Isolierte Lage", "Einzigartige Bergvegetation"],
+      de: ["Kleine Siedlung", "Aride Umgebung", "Regionaler Knotenpunkt"],
       hu: ["Tömjéngyanta betakarítása", "Izolált elhelyezkedés", "Egyedülálló hegyi vegetáció"],
       ro: ["Recoltarea rășinii de tămâie", "Locație izolată", "Vegetație montană unică"],
       en: ["Frankincense resin harvesting", "Isolated location", "Unique mountain vegetation"]

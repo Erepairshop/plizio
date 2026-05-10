@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "douala-autonomous-port-economic-v2",
+      "description": "Principalul port maritim al Camerunului, pe estuarul Wouri din Douala. Este poarta de intrare pentru o mare parte din comerțul extern al țării.",
+      "facts": ["pe estuarul Wouri", "cel mai mare port al țării", "nod pentru import și export"]
+    },
+    {
+      "id": "kribi-deep-sea-port-economic-v2",
+      "description": "Un port modern de apă adâncă pe coasta atlantică, la Kribi. A fost gândit pentru nave mari și pentru a reduce presiunea asupra portului din Douala.",
+      "facts": ["pe coasta atlantică", "proiectat pentru nave mari", "sprijină exporturile"]
+    },
+    {
+      "id": "limbe-port-economic-v2",
+      "description": "Portul din Limbe se află în golful Ambas și deservește în special activitățile locale. Este legat de pescuit, de transportul de coastă și de economia orașului.",
+      "facts": ["în golful Ambas", "aproape de Muntele Camerun", "important pentru pescuit"]
+    },
+    {
+      "id": "sonara-oil-refinery-economic-v2",
+      "description": "Rafinăria SONARA din Limbe este centrul principal de prelucrare a petrolului din Camerun. Instalația alimentează piața internă cu produse petroliere.",
+      "facts": ["în Limbe", "singura rafinărie a țării", "prelucrează țiței"]
+    },
+    {
+      "id": "alucam-smelter-edea-economic-v2",
+      "description": "ALUCAM din Edéa este un reper al industriei aluminiului din Camerun. Unitatea este legată de energia hidro și de zona industrială a orașului.",
+      "facts": ["în Edéa", "parte din industria aluminiului", "legată de energia hidro"]
+    },
+    {
+      "id": "edea-hydro-station-economic-v2",
+      "description": "Centrala hidroelectrică din Edéa folosește energia râului Sanaga. Este una dintre cele mai cunoscute instalații energetice ale țării.",
+      "facts": ["pe râul Sanaga", "una dintre cele mai vechi centrale", "susține industria locală"]
+    },
+    {
+      "id": "song-loulou-hydro-economic-v2",
+      "description": "Song Loulou este una dintre cele mai importante centrale hidroelectrice din Camerun. Barajul de pe Sanaga susține rețeaua națională de electricitate.",
+      "facts": ["pe râul Sanaga", "baraj hidroenergetic major", "sprijină rețeaua națională"]
+    },
+    {
+      "id": "memveele-dam-economic-v2",
+      "description": "Barajul Memve'ele este un proiect hidroenergetic din sudul Camerunului. A fost construit pentru a crește producția de electricitate și stabilitatea rețelei.",
+      "facts": ["pe râul Ntem", "în sudul țării", "proiect hidroenergetic"]
+    },
+    {
+      "id": "lom-pangar-dam-economic-v2",
+      "description": "Barajul Lom Pangar se află în estul Camerunului și reglează debitele unui bazin important. El susține extinderea producției de energie hidro din țară.",
+      "facts": ["pe râul Lom", "în regiunea Est", "reglează debitele Sanaga"]
+    },
+    {
+      "id": "betare-oya-gold-mines-economic-v2",
+      "description": "Betare Oya este cunoscută pentru exploatările de aur din estul Camerunului. Zona combină mineritul artizanal cu activități de prospecțiune mai mari.",
+      "facts": ["în estul Camerunului", "zonă auriferă", "mineritul rămâne activ"]
+    },
+    {
+      "id": "geovic-cobalt-mine-economic-v2",
+      "description": "Proiectul Geovic este asociat cu resurse de cobalt din estul Camerunului. Numele este legat de un perimetru minier strategic pentru metalele critice.",
+      "facts": ["în estul țării", "asociat cu cobaltul", "proiect minier strategic"]
+    },
+    {
+      "id": "mbalam-iron-ore-economic-v2",
+      "description": "Mbalam este unul dintre cele mai cunoscute zăcăminte de minereu de fier din sud-estul Camerunului. Este urmărit pentru potențialul său industrial și de export.",
+      "facts": ["zăcământ de fier", "aproape de granița cu Congo", "interes industrial ridicat"]
+    }
+  ]
+}

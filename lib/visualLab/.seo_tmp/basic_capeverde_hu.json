@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "porto-grande-mindelo-economic-v2",
+      "description": "Mindelo fő kikötője São Vicente szigetén. A teher-, utas- és kompforgalom egyik legfontosabb kapuja Cabo Verde északi részén.",
+      "facts": ["São Vicente legnagyobb kikötője", "Mindelóban található", "teher- és kompforgalom", "a sziget fő ellátási pontja"]
+    },
+    {
+      "id": "porto-da-praia-economic-v2",
+      "description": "Praia fő kikötője Santiago szigetén. A főváros áruforgalmának és ellátásának egyik legfontosabb központja.",
+      "facts": ["Praia fő tengeri kapuja", "Santiago ellátási pontja", "konténer- és áruforgalom", "logisztikai csomópont"]
+    },
+    {
+      "id": "porto-de-palmeira-economic-v2",
+      "description": "Palmeira Sal szigetének fő kikötője. Az ellátás, a halászat és a helyi személyforgalom egyik alaphelye.",
+      "facts": ["Sal fő kikötője", "Palmeira településen", "a sziget ellátási pontja", "halászat és személyforgalom"]
+    },
+    {
+      "id": "porto-novo-harbour-economic-v2",
+      "description": "Porto Novo Santo Antão fő tengeri kapcsolata. A kompok itt kötik össze a szigetet Mindelóval és a többi szigettel.",
+      "facts": ["Santo Antão fő kikötője", "Mindelóval kapcsolódik", "kompforgalom", "mezőgazdasági áruk szállítása"]
+    },
+    {
+      "id": "porto-vale-cavaleiros-economic-v2",
+      "description": "A Vale de Cavaleiros kikötő São Filipe mellett Fogo szigetén található. Fontos szerepe van az ellátásban és a Praia felé tartó kompforgalomban.",
+      "facts": ["Fogo fő kikötője", "São Filipe közelében", "ellátási pont", "bor és kávé szállítása"]
+    },
+    {
+      "id": "cv-cidade-velha-history-v2",
+      "description": "Cidade Velha Santiago történelmi magja és Cabo Verde egyik legfontosabb gyarmati emléke. Az egykori Ribeira Grande részeként UNESCO-helyszín.",
+      "facts": ["UNESCO világörökség", "az egykori Ribeira Grande", "korai gyarmati központ", "Santiago déli partján"]
+    },
+    {
+      "id": "cv-fortaleza-real-sao-filipe-history-v2",
+      "description": "A São Filipe erőd Cidade Velha fölé magasodik, és a kikötő védelmére épült. A kalóztámadások és a rivális hatalmak ellen szolgált.",
+      "facts": ["16. századi erőd", "Cidade Velha fölött", "védelmi célra épült", "kilátás a partra"]
+    },
+    {
+      "id": "cv-pelourinho-cidade-velha-history-v2",
+      "description": "A Cidade Velha-i pellengér a gyarmati igazságszolgáltatás emléke. A történelmi központban áll, és a rabszolgaság korára utal.",
+      "facts": ["a történelmi központban", "gyarmati büntetőhely", "UNESCO-terület része", "a rabszolgatartás emléke"]
+    },
+    {
+      "id": "cv-ruinas-se-catedral-history-v2",
+      "description": "A SÉ-katedrális romjai a korai egyházi építkezések nyomai Cidade Velhában. Az épület sosem készült el teljesen.",
+      "facts": ["16. századi kezdés", "félbemaradt katedrális", "a történelmi központ része", "korai egyházi emlék"]
+    },
+    {
+      "id": "cv-tarrafal-concentration-camp-history-v2",
+      "description": "A Tarrafal tábor a portugál diktatúra egyik legismertebb politikai börtöne volt. Ma emlékhely és múzeum.",
+      "facts": ["1936-ban nyílt", "politikai foglyok tábora", "1974 után zárták be", "ma múzeum"]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "lang": "ro",
+  "country": "Burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "wahgnion-gold-mine-economic-v2",
+      "description": "Mina de aur Wahgnion este un proiect minier din sud-vestul Burkinei Faso. Ea susține activitatea economică dintr-o zonă în care mineritul are un rol important.",
+      "facts": ["mină de aur", "în sud-vest", "rol economic regional"]
+    },
+    {
+      "id": "pouytenga-cattle-market-economic-v2",
+      "description": "Piața de vite din Pouytenga este un loc important pentru comerțul zootehnic din țară. Aici se întâlnesc crescători, comercianți și transportatori din mai multe regiuni.",
+      "facts": ["piață de vite", "în Pouytenga", "nod comercial regional"]
+    },
+    {
+      "id": "sonabhy-péni-depot-economic-v2",
+      "description": "Depozitul SONABHY din Peni este legat de stocarea și distribuția produselor petroliere. El are un rol direct în aprovizionarea zonei de sud-vest.",
+      "facts": ["depozit de carburanți", "în zona Peni", "sprijină distribuția"]
+    },
+    {
+      "id": "cimasso-bobo-dioulasso-economic-v2",
+      "description": "CIMASSO din Bobo-Dioulasso este o fabrică de ciment cu rol în piața construcțiilor. Ea susține dezvoltarea urbană și cererea regională de materiale.",
+      "facts": ["fabrică de ciment", "în Bobo-Dioulasso", "utilă pentru construcții"]
+    },
+    {
+      "id": "zina-solar-power-station-economic-v2",
+      "description": "Centrala solară de la Zina este parte din extinderea energiei regenerabile în Burkina Faso. Proiectul contribuie la diversificarea surselor de electricitate.",
+      "facts": ["centrală solară", "energie regenerabilă", "diversifică producția"]
+    },
+    {
+      "id": "dédougou-cotton-gin-economic-v2",
+      "description": "Instalația de la Dédougou este legată de separarea și pregătirea bumbacului pentru procesare. Ea face legătura dintre ferme și industria textilă.",
+      "facts": ["prelucrarea bumbacului", "în Dédougou", "legătură cu fermierii"]
+    },
+    {
+      "id": "kou-valley-rice-mills-economic-v2",
+      "description": "Moriile de orez din valea Kou susțin una dintre cele mai importante activități agricole din vestul Burkinei Faso. Ele adaugă valoare producției locale de orez.",
+      "facts": ["mori de orez", "în valea Kou", "susțin producția locală"]
+    },
+    {
+      "id": "parc-ludique-ouaga-life-v2",
+      "description": "Parcul Ludique din Ouagadougou este un spațiu urban de agrement pentru familii și copii. Oferă un cadru simplu pentru relaxare și timp liber.",
+      "facts": ["spațiu de agrement", "în Ouagadougou", "pentru familii"]
+    },
+    {
+      "id": "oasis-de-ourou-life-v2",
+      "description": "Oasis de Ourou este un loc de odihnă și recreere asociat unui cadru verde și liniștit. Este folosit mai ales pentru pauză și întâlniri informale.",
+      "facts": ["loc de recreere", "cadru verde", "pentru odihnă"]
+    },
+    {
+      "id": "parc-de-loisirs-de-bobodioulasso-life-v2",
+      "description": "Parcul de loisir din Bobo-Dioulasso este dedicat relaxării și activităților de timp liber. El completează viața urbană a orașului cu un spațiu de destindere.",
+      "facts": ["parc de loisir", "în Bobo-Dioulasso", "pentru timp liber"]
+    },
+    {
+      "id": "aire-de-jeux-de-ouaga-2000-life-v2",
+      "description": "Aleea de joacă din Ouaga 2000 este un spațiu gândit pentru copii și familii. Ea face parte din zona urbană modernă a capitalei.",
+      "facts": ["loc de joacă", "în Ouaga 2000", "pentru copii"]
+    },
+    {
+      "id": "culture-du-coton-life-v2",
+      "description": "Cultura bumbacului este una dintre activitățile agricole importante din Burkina Faso. Ea leagă câmpurile de piața internă și de industria textilă.",
+      "facts": ["cultură agricolă", "bumbac de export", "legată de textile"]
+    }
+  ]
+}

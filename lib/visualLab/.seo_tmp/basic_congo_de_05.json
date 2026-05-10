@@ -1,0 +1,58 @@
+{
+  "lang": "de",
+  "country": "Congo",
+  "files": [
+    "lib/visualLab/data/poiExtraCongoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCongoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCongoLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCongoNatureV2.ts",
+    "lib/visualLab/data/poiExtraCongoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cg-marche-total-landmarks-v2",
+      "description": "Marché Total ist ein großer Markt in Brazzaville mit starkem Alltagsbetrieb. Er ist ein wichtiger Treffpunkt für Handel und Stadtleben.",
+      "facts": ["Großer Markt", "In Brazzaville", "Wichtiger Handelsort", "Lebendiges Stadtleben"]
+    },
+    {
+      "id": "cg-marche-gare-pnr-landmarks-v2",
+      "description": "Marché de la Gare liegt nahe dem Bahnhof von Pointe-Noire. Der Markt ist ein lebendiger Ort für Handel im Umfeld der Bahn.",
+      "facts": ["Nahe dem Bahnhof", "In Pointe-Noire", "Lokaler Handel", "Lebendiger Markt"]
+    },
+    {
+      "id": "cg-ifc-brazzaville-landmarks-v2",
+      "description": "Das Institut Français du Congo ist ein wichtiges Kulturhaus in Brazzaville. Es bietet Raum für Kunst, Sprache und Veranstaltungen.",
+      "facts": ["Kulturzentrum", "In Brazzaville", "Kunst und Sprache", "Veranstaltungsort"]
+    },
+    {
+      "id": "cg-oyo-tower-landmarks-v2",
+      "description": "Der Turm des 15. August in Oyo ist ein modernes Wahrzeichen im Norden des Landes. Er erinnert an den Unabhängigkeitstag und prägt die Silhouette der Stadt.",
+      "facts": ["In Oyo", "Unabhängigkeitssymbol", "Modernes Wahrzeichen", "Im Norden des Landes"]
+    },
+    {
+      "id": "cg-foreign-ministry-landmarks-v2",
+      "description": "Das Außenministerium in Brazzaville ist ein repräsentatives Regierungsgebäude. Es steht für die diplomatische Arbeit des Landes.",
+      "facts": ["In Brazzaville", "Sitz der Diplomatie", "Regierungsviertel", "Modernes Gebäude"]
+    },
+    {
+      "id": "cg-bateke-plateaus-nature-v2",
+      "description": "Die Batéké-Plateaus sind eine weite Hochebene mit Savannen und lichten Wäldern. Die Landschaft prägt den Osten und Südosten der Republik Kongo.",
+      "facts": ["Weite Hochebene", "Savannen und lichte Wälder", "Im Osten und Südosten", "Markante Landschaft"]
+    },
+    {
+      "id": "cg-mpoulou-river-nature-v2",
+      "description": "Der Mpoulou ist ein kleiner Fluss im Süden des Landes. Er entwässert eine ländliche Landschaft mit Feldern und Wäldern.",
+      "facts": ["Fluss im Süden", "Ländliche Landschaft", "Entwässert Felder", "Wälder am Ufer"]
+    },
+    {
+      "id": "cg-ibenga-river-nature-v2",
+      "description": "Der Ibenga ist ein Fluss im Norden der Republik Kongo. Er fließt durch ein abgelegenes Waldgebiet und gehört zum Wassersystem des Kongobeckens.",
+      "facts": ["Fluss im Norden", "Abgelegenes Waldgebiet", "Teil des Kongobeckens", "Natürlicher Wasserlauf"]
+    },
+    {
+      "id": "grotte-de-bihoua-relief-v2",
+      "description": "Die Grotte de Bihoua ist eine Höhle im südlichen Kongo mit lokalem Naturwert. Sie ist ein kleines, aber markantes Zeugnis der Karstlandschaft der Region.",
+      "facts": ["Höhle im Süden", "Karstlandschaft", "Lokaler Naturwert", "Markantes Naturdenkmal"]
+    }
+  ]
+}

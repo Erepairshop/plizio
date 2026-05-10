@@ -35,8 +35,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Seat of the government and the president.",
         "Houses the famous Sheikh Zayed Mosque."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-abu-dhabi-cities-v2.webp"},
   {
     id: "uae-dubai-cities-v2",
     type: "state-capital",
@@ -71,8 +70,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Home to the Burj Khalifa, the tallest building in the world.",
         "A major global financial and tourism hub."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-dubai-cities-v2.webp"},
   {
     id: "uae-sharjah-cities-v2",
     type: "state-capital",
@@ -107,8 +105,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Considered the cultural capital of the Arab world.",
         "Follows a stricter interpretation of Islamic laws."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-sharjah-cities-v2.webp"},
   {
     id: "uae-ajman-cities-v2",
     type: "state-capital",
@@ -143,8 +140,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Has a rich history in traditional boat building.",
         "Offers a more relaxed alternative to its large neighbors."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-ajman-cities-v2.webp"},
   {
     id: "uae-umm-al-quwain-cities-v2",
     type: "state-capital",
@@ -179,8 +175,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "The most sparsely populated emirate in the country.",
         "Surrounded by extensive mangroves and lagoons."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-umm-al-quwain-cities-v2.webp"},
   {
     id: "uae-ras-al-khaimah-cities-v2",
     type: "state-capital",
@@ -215,8 +210,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "A major center for ceramics production.",
         "Features a diverse topographic relief."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-ras-al-khaimah-cities-v2.webp"},
   {
     id: "uae-fujairah-cities-v2",
     type: "state-capital",
@@ -251,8 +245,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Important hub for international maritime trade.",
         "Separated from the rest of the country by high mountains."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-fujairah-cities-v2.webp"},
   {
     id: "uae-al-ain-cities-v2",
     type: "city",
@@ -287,8 +280,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Traditional birthplace of the ruling Al Nahyan family.",
         "Houses an extensive, historical irrigation system."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-al-ain-cities-v2.webp"},
   {
     id: "uae-ruwais-cities-v2",
     type: "city",
@@ -323,8 +315,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Built specifically for energy sector workers.",
         "Features a massive industrial refinery complex."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-ruwais-cities-v2.webp"},
   {
     id: "uae-madinat-zayed-cities-v2",
     type: "city",
@@ -359,8 +350,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Was officially founded in the late 1960s.",
         "An important hub for camel sports."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-madinat-zayed-cities-v2.webp"},
   {
     id: "uae-ghayathi-cities-v2",
     type: "city",
@@ -467,8 +457,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Famous for the annual Liwa Date Festival.",
         "Serves as the southernmost inhabited buffer zone before the great desert."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-liwa-oasis-cities-v2.webp"},
   {
     id: "uae-sweihan-cities-v2",
     type: "city",
@@ -503,8 +492,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "The Sweihan camel races attract visitors from all over the country.",
         "Considered a hotspot for traditional falconry training."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-sweihan-cities-v2.webp"},
   {
     id: "uae-sila-cities-v2",
     type: "city",
@@ -539,8 +527,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Located near the border crossing with Saudi Arabia.",
         "The local population has historically lived closely with the sea."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-sila-cities-v2.webp"},
   {
     id: "uae-hatta-cities-v2",
     type: "city",
@@ -575,8 +562,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "The nearby reservoir is popular with kayakers.",
         "Offers steep trails for mountain bike enthusiasts."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-hatta-cities-v2.webp"},
   {
     id: "uae-jebel-ali-cities-v2",
     type: "city",
@@ -611,8 +597,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Possesses the largest man-made port on Earth.",
         "Houses a massive free trade zone with thousands of companies."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-jebel-ali-cities-v2.webp"},
   {
     id: "uae-khor-fakkan-cities-v2",
     type: "city",
@@ -647,8 +632,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "An exclave of Sharjah that is physically separated from the rest of the emirate.",
         "Features impressive waterfalls and a massive amphitheater."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-khor-fakkan-cities-v2.webp"},
   {
     id: "uae-kalba-cities-v2",
     type: "city",
@@ -683,8 +667,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "The ancient mangrove forests are nesting grounds for rare bird species.",
         "Serves as the southern border point to Omani territories."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-kalba-cities-v2.webp"},
   {
     id: "uae-dibba-al-hisn-cities-v2",
     type: "city",
@@ -719,8 +702,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Was an important marketplace on the maritime route in antiquity.",
         "Directly adjoining territories of Fujairah and Oman."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-dibba-al-hisn-cities-v2.webp"},
   {
     id: "uae-al-dhaid-cities-v2",
     type: "city",
@@ -755,8 +737,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Is irrigated by Falaj channels from the Hajar Mountains.",
         "Supplies much of the fresh vegetables for the northern emirates."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-al-dhaid-cities-v2.webp"},
   {
     id: "uae-al-madam-cities-v2",
     type: "city",
@@ -791,8 +772,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "The abandoned village is a fascinating photographic subject.",
         "The surrounding dunes serve as a playground for off-road adventures."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-al-madam-cities-v2.webp"},
   {
     id: "uae-manama-ajman-cities-v2",
     type: "city",
@@ -827,8 +807,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Politically belongs to Ajman but is surrounded by Sharjah and Fujairah.",
         "Known for its tranquil fruit and palm plantations."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-manama-ajman-cities-v2.webp"},
   {
     id: "uae-masfout-cities-v2",
     type: "city",
@@ -863,8 +842,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "The rugged surroundings increasingly attract nature hikers.",
         "Another enclave of Ajman, hidden within the mountain range."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-masfout-cities-v2.webp"},
   {
     id: "uae-falaj-al-mualla-cities-v2",
     type: "city",
@@ -899,8 +877,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Home to historical fortifications from past eras.",
         "The inland heart of the small emirate of Umm Al Quwain."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-falaj-al-mualla-cities-v2.webp"},
   {
     id: "uae-ar-rams-cities-v2",
     type: "city",
@@ -935,8 +912,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "The historical center of pearl diving in Ras Al Khaimah.",
         "Features a picturesque natural bay with old boats."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-ar-rams-cities-v2.webp"},
   {
     id: "uae-khatt-cities-v2",
     type: "city",
@@ -971,8 +947,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "The warm springs are a popular attraction for wellness tourists.",
         "Features deep archaeological layers from the Bronze Age."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-khatt-cities-v2.webp"},
   {
     id: "uae-al-hamriyah-cities-v2",
     type: "city",
@@ -1043,8 +1018,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Acts as a logistical stepping stone for snorkeling excursions.",
         "An important supplier of fresh sea fish for the region."
       ]
-    }
-  },
+    }, image: "/poi-images/uae-dibba-al-fujairah-cities-v2.webp"},
   {
     id: "uae-masafi-cities-v2",
     type: "city",

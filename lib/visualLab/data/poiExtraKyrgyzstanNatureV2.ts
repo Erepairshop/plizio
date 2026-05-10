@@ -38,8 +38,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Second largest mountain lake in the world.",
         "Its name means hot lake in Kyrgyz."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-lake-issyk-kul-nature-v2.webp"},
   {
     id: "kg-lake-song-kol-nature-v2",
     type: "lake",
@@ -77,8 +76,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Accessible from May to September.",
         "Covers an area of about 270 square kilometers."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-lake-song-kol-nature-v2.webp"},
   {
     id: "kg-forest-ala-archa-nature-v2",
     type: "forest",
@@ -116,8 +114,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Home to rare snow leopards.",
         "Covers an area of 194 square kilometers."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-forest-ala-archa-nature-v2.webp"},
   {
     id: "kg-mountain-tien-shan-nature-v2",
     type: "mountain",
@@ -155,8 +152,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "The highest peak is Jengish Chokusu.",
         "An important mountain system for glaciers."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-mountain-tien-shan-nature-v2.webp"},
   {
     id: "kg-mountain-jengish-chokusu-nature-v2",
     type: "mountain",
@@ -194,8 +190,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "The first successful ascent was in 1956.",
         "Located on the border with China."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-mountain-jengish-chokusu-nature-v2.webp"},
   {
     id: "kg-mountain-khan-tengri-nature-v2",
     type: "mountain",
@@ -233,8 +228,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Has a distinctive pyramidal shape.",
         "Often glows reddish at sunset."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-mountain-khan-tengri-nature-v2.webp"},
   {
     id: "kg-mountain-lenin-peak-nature-v2",
     type: "mountain",
@@ -272,8 +266,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Located on the border with Tajikistan.",
         "First ascended in 1928."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-mountain-lenin-peak-nature-v2.webp"},
   {
     id: "kg-river-naryn-nature-v2",
     type: "river",
@@ -311,8 +304,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "An important source of hydroelectric power in the country.",
         "It is 807 kilometers long."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-river-naryn-nature-v2.webp"},
   {
     id: "kg-river-chu-nature-v2",
     type: "river",
@@ -350,8 +342,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Crucial for agricultural irrigation in the region.",
         "Originates in the Tien Shan mountains."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-river-chu-nature-v2.webp"},
   {
     id: "kg-river-talas-nature-v2",
     type: "river",
@@ -389,8 +380,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "It is 661 kilometers long.",
         "Historically known for the Battle of Talas."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-river-talas-nature-v2.webp"},
   {
     id: "kg-river-kara-darya-nature-v2",
     type: "river",
@@ -428,8 +418,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Has a length of 318 kilometers.",
         "Feeds numerous irrigation canals."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-river-kara-darya-nature-v2.webp"},
   {
     id: "kg-lake-sary-chelek-nature-v2",
     type: "lake",
@@ -467,8 +456,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "The water depth reaches up to 234 meters.",
         "Surrounded by dense walnut and fruit forests."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-lake-sary-chelek-nature-v2.webp"},
   {
     id: "kg-river-chatkal-nature-v2",
     type: "river",
@@ -506,8 +494,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Flows through deep, pristine gorges.",
         "Eventually empties into the Charvak Reservoir in Uzbekistan."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-river-chatkal-nature-v2.webp"},
   {
     id: "kg-forest-arslanbob-nature-v2",
     type: "forest",
@@ -545,8 +532,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Located in the Jalal-Abad Region.",
         "Attracts many pilgrims and nature lovers."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-forest-arslanbob-nature-v2.webp"},
   {
     id: "kg-lake-kel-suu-nature-v2",
     type: "lake",
@@ -584,8 +570,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "The water is deep blue to turquoise.",
         "Only accessible during the short summer months."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-lake-kel-suu-nature-v2.webp"},
   {
     id: "kg-lake-ala-kul-nature-v2",
     type: "lake",
@@ -623,8 +608,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Situated at an altitude of 3,560 meters.",
         "A highlight on trekking routes near Karakol."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-lake-ala-kul-nature-v2.webp"},
   {
     id: "kg-mountain-alai-nature-v2",
     type: "mountain",
@@ -662,8 +646,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Characterized by barren, high alpine landscapes.",
         "Home to many nomadic tribes."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-mountain-alai-nature-v2.webp"},
   {
     id: "kg-forest-besh-tash-nature-v2",
     type: "forest",
@@ -740,8 +723,7 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
         "Offers excellent opportunities for ecotourism.",
         "Dense coniferous forests cover the mountain flanks."
       ]
-    }
-  },
+    }, image: "/poi-images/kg-forest-chon-kemin-nature-v2.webp"},
   {
     id: "kg-lake-chatyr-kul-nature-v2",
     type: "lake",

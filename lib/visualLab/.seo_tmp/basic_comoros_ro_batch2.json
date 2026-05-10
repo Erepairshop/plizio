@@ -1,0 +1,77 @@
+{
+  "lang": "ro",
+  "country": "Comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosCitiesV2.ts",
+    "lib/visualLab/data/poiExtraComorosHistoryV2.ts",
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "singani-cities-v2",
+      "description": "Singani este un oraș de pe Grande Comore, unde viața locală se desfășoară aproape de axa rutieră principală a insulei. Așezarea are un profil tipic pentru comunitățile din centrul arhipelagului.",
+      "facts": ["oraș pe Grande Comore", "din Comore", "comunitate insulară"]
+    },
+    {
+      "id": "vouvouni-cities-v2",
+      "description": "Vouvouni este un sat de pe Grande Comore, aflat la mică distanță de Moroni. Poziția lui îl leagă de zona urbană a capitalei și de traficul local.",
+      "facts": ["sat pe Grande Comore", "aproape de Moroni", "din Comore"]
+    },
+    {
+      "id": "ongojou-cities-v2",
+      "description": "Ongojou este o localitate din Anjouan, cu un profil de comună rurală. Face parte din zona locuită din sud-estul insulei.",
+      "facts": ["pe Anjouan", "din Comore", "localitate rurală"]
+    },
+    {
+      "id": "chindini-cities-v2",
+      "description": "Chindini este o localitate de coastă de pe Grande Comore, cunoscută pentru legătura ei cu marea și cu satele din jur. Numele apare în harta așezărilor sudice ale insulei.",
+      "facts": ["pe Grande Comore", "de coastă", "din Comore"]
+    },
+    {
+      "id": "itsandzeni-cities-v2",
+      "description": "Itsandzeni este o localitate de pe Grande Comore, aflată între zone agricole și trasee de legătură către Moroni. Are un profil liniștit, tipic satelor din centrul insulei.",
+      "facts": ["pe Grande Comore", "în Comore", "așezare locală"]
+    },
+    {
+      "id": "madiedjou-cities-v2",
+      "description": "Madiedjou este o localitate mică din Comore, cu o viață de comunitate discretă. Se înscrie în rețeaua de așezări insulare răspândite pe coastă și în interior.",
+      "facts": ["localitate din Comore", "așezare mică", "viață comunitară"]
+    },
+    {
+      "id": "pidjani-cities-v2",
+      "description": "Pidjani este un oraș de pe Grande Comore, legat de zona nordică a insulei și de drumul de coastă. Este una dintre așezările care structurează viața de zi cu zi din această parte a arhipelagului.",
+      "facts": ["oraș pe Grande Comore", "din Comore", "legat de coastă"]
+    },
+    {
+      "id": "bazmini-cities-v2",
+      "description": "Bazmini este un orășel de pe Anjouan, cunoscut și sub forma Bazimini. Are un profil urban mic, specific comunităților din estul arhipelagului.",
+      "facts": ["pe Anjouan", "din Comore", "și numele Bazimini"]
+    },
+    {
+      "id": "iconi-medina-history-v2",
+      "description": "Medina din Iconi este partea veche a orașului, cu străzi înguste și o structură urbană istorică. Ea păstrează imaginea unui vechi centru comorian de pe Grande Comore.",
+      "facts": ["cartier istoric", "în Iconi", "pe Grande Comore"]
+    },
+    {
+      "id": "ntsaoueni-moschee-history-v2",
+      "description": "Moscheea din Ntsaouéni este un lăcaș de cult local din Grande Comore. Face parte din țesutul religios tradițional al satului.",
+      "facts": ["moschee locală", "în Ntsaouéni", "pe Grande Comore"]
+    },
+    {
+      "id": "palais-du-gouvernement-landmarks-v2",
+      "description": "Palais du gouvernement este o clădire administrativă din Moroni, capitala Comorelor. Numele lui trimite direct la centrul puterii executive din oraș.",
+      "facts": ["în Moroni", "clădire oficială", "sediu administrativ"]
+    },
+    {
+      "id": "itsandra-beach-hotel-landmarks-v2",
+      "description": "Itsandra Beach Hotel este un hotel de litoral din zona Itsandra, la nord de Moroni. Este legat de turismul de coastă și de plaja din apropiere.",
+      "facts": ["hotel de coastă", "în zona Itsandra", "pe Grande Comore"]
+    },
+    {
+      "id": "ouani-airport-terminal-landmarks-v2",
+      "description": "Terminalul aeroportuar din Ouani este poarta aeriană a insulei Anjouan. Prin el se face legătura între insulă și restul arhipelagului.",
+      "facts": ["terminal aeroportuar", "în Ouani", "pe Anjouan"]
+    }
+  ]
+}

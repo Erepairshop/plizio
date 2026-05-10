@@ -18,8 +18,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Az ország legmagasabb pontja.", "Szaúd-Arábia határának közelében található."],
       ro: ["Cel mai înalt punct din țară.", "Situat aproape de granița cu Arabia Saudită."],
       en: ["The highest point in the country.", "Located near the border with Saudi Arabia."]
-    }
-  },
+    }, image: "/poi-images/qurayn-abu-al-bawl-relief-v2.webp"},
   {
     id: "khor-al-adaid-relief-v2",
     type: "coast",
@@ -37,8 +36,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Az UNESCO által elismert természetvédelmi terület.", "Csak terepjáróval megközelíthető."],
       ro: ["Rezervație naturală recunoscută de UNESCO.", "Accesibil doar cu vehicule de teren."],
       en: ["UNESCO-recognized nature reserve.", "Accessible only by off-road vehicles."]
-    }
-  },
+    }, image: "/poi-images/khor-al-adaid-relief-v2.webp"},
   {
     id: "mesaieed-dunes-relief-v2",
     type: "desert",
@@ -56,8 +54,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Népszerű célpont a dűnelovaglás szerelmeseinek.", "Éles ellentétben áll a közeli Mesaieed iparvárossal."],
       ro: ["Destinație populară pentru safari în deșert.", "Contrastează cu orașul industrial din apropiere, Mesaieed."],
       en: ["Popular destination for dune bashing.", "Contrasts with the nearby industrial city of Mesaieed."]
-    }
-  },
+    }, image: "/poi-images/mesaieed-dunes-relief-v2.webp"},
   {
     id: "ras-abrouq-relief-v2",
     type: "plateau",
@@ -75,8 +72,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Zekreet falu közelében található.", "Népszerű hely kempingezéshez és természetfotózáshoz."],
       ro: ["Situat în apropierea satului Zekreet.", "Loc popular pentru campare și fotografia de natură."],
       en: ["Located near the village of Zekreet.", "Popular spot for camping and nature photography."]
-    }
-  },
+    }, image: "/poi-images/ras-abrouq-relief-v2.webp"},
   {
     id: "dahl-al-misfir-relief-v2",
     type: "valley",
@@ -94,8 +90,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Körülbelül 40 méter mély.", "A gipszkristályok enyhén világítanak a sötétben."],
       ro: ["Aproximativ 40 de metri adâncime.", "Cristalele de gips strălucesc ușor în întuneric."],
       en: ["Approximately 40 meters deep.", "The gypsum crystals glow slightly in the dark."]
-    }
-  },
+    }, image: "/poi-images/dahl-al-misfir-relief-v2.webp"},
   {
     id: "singing-sand-dunes-relief-v2",
     type: "desert",
@@ -113,8 +108,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Ritka akusztikus jelenség.", "A legjobb feltételek a kora reggeli órákban vannak."],
       ro: ["Un fenomen acustic rar.", "Cele mai bune condiții în orele dimineții devreme."],
       en: ["A rare acoustic phenomenon.", "Best conditions are in the early morning hours."]
-    }
-  },
+    }, image: "/poi-images/singing-sand-dunes-relief-v2.webp"},
   {
     id: "jebel-nakhsh-relief-v2",
     type: "mountain",
@@ -132,8 +126,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Akár 90 méteres magasságot is elérhet.", "Fontos geológiai lelőhely a tengeri kövületek számára."],
       ro: ["Atinge înălțimi de până la 90 de metri.", "Sit geologic important pentru fosilele marine."],
       en: ["Reaches heights of up to 90 meters.", "Important geological site for marine fossils."]
-    }
-  },
+    }, image: "/poi-images/jebel-nakhsh-relief-v2.webp"},
   {
     id: "jebel-fuwayrit-relief-v2",
     type: "mountain",
@@ -151,8 +144,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Népszerű a sziklamászók és boulderezők körében.", "Menedéket nyújt a közelben fészkelő tengeri teknősöknek."],
       ro: ["Popular printre alpiniști și practicanții de bouldering.", "Oferă adăpost pentru broaștele țestoase marine care cuibăresc în apropiere."],
       en: ["Popular with rock climbers and boulderers.", "Provides shelter for nesting sea turtles nearby."]
-    }
-  },
+    }, image: "/poi-images/jebel-fuwayrit-relief-v2.webp"},
   {
     id: "dukhan-ridge-relief-v2",
     type: "mountain",
@@ -170,8 +162,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Összetett tektonikus gyűrődések során alakult ki.", "Meghatározza a félsziget nyugati látképét."],
       ro: ["S-a format prin cutări tectonice complexe.", "Domină orizontul vestic al peninsulei."],
       en: ["Formed by complex tectonic folding.", "Dominates the western skyline of the peninsula."]
-    }
-  },
+    }, image: "/poi-images/dukhan-ridge-relief-v2.webp"},
   {
     id: "al-thakhira-mangroves-relief-v2",
     type: "coast",
@@ -189,8 +180,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Fontos élőhely a vándormadarak számára.", "Gyakran kajakkal fedezik fel."],
       ro: ["Habitat important pentru păsările migratoare.", "Adesea explorat cu caiacul."],
       en: ["Important habitat for migratory birds.", "Often explored by kayak."]
-    }
-  },
+    }, image: "/poi-images/al-thakhira-mangroves-relief-v2.webp"},
   {
     id: "wadi-al-banat-relief-v2",
     type: "valley",
@@ -208,8 +198,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Nevének jelentése \"Lányok völgye\".", "A Katarra jellemző sivatagi flórát mutatja be."],
       ro: ["Se traduce prin \"Valea fetelor\".", "Prezintă flora deșertică tipică pentru Qatar."],
       en: ["Translates to \"Valley of the Girls\".", "Showcases the typical desert flora of Qatar."]
-    }
-  },
+    }, image: "/poi-images/wadi-al-banat-relief-v2.webp"},
   {
     id: "sabkhat-dukhan-relief-v2",
     type: "desert",
@@ -227,8 +216,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Az ország egyik legnagyobb sóssíksága.", "Nyáron rendkívül száraz és repedezett."],
       ro: ["Una dintre cele mai mari câmpii de sare din țară.", "Extrem de uscată și crăpată vara."],
       en: ["One of the largest sabkhas in the country.", "Extremely dry and cracked in the summer."]
-    }
-  },
+    }, image: "/poi-images/sabkhat-dukhan-relief-v2.webp"},
   {
     id: "umm-tais-relief-v2",
     type: "coast",
@@ -246,8 +234,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Fontos költőhely a tengeri teknősök számára.", "Különböző érzékeny ökoszisztémákat foglal magába."],
       ro: ["Zonă importantă de cuibărit pentru broaștele țestoase marine.", "Include diverse ecosisteme fragile."],
       en: ["Important nesting area for sea turtles.", "Includes various fragile ecosystems."]
-    }
-  },
+    }, image: "/poi-images/umm-tais-relief-v2.webp"},
   {
     id: "wadi-al-sail-relief-v2",
     type: "valley",
@@ -265,8 +252,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Ma már erősen befolyásolja a városfejlesztés.", "Egykor szezonális vízfolyás volt."],
       ro: ["Astăzi puternic influențată de dezvoltarea urbană.", "Odinioară un curs de apă sezonier."],
       en: ["Today heavily influenced by urban development.", "Once a seasonal watercourse."]
-    }
-  },
+    }, image: "/poi-images/wadi-al-sail-relief-v2.webp"},
   {
     id: "al-kharrara-depression-relief-v2",
     type: "valley",
@@ -284,8 +270,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Népszerű a sivatagi szafarik körében.", "Kifejezett karsztjelenségek jellemzik."],
       ro: ["Populară pentru safari în deșert.", "Fenomene carstice pronunțate."],
       en: ["Popular for desert safaris.", "Pronounced karst phenomena."]
-    }
-  },
+    }, image: "/poi-images/al-kharrara-depression-relief-v2.webp"},
   {
     id: "ras-rakan-relief-v2",
     type: "coast",
@@ -303,8 +288,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Katar északi pólusa.", "Dagály idején gyakran kis szigetté válik."],
       ro: ["Polul nord al Qatarului.", "Adesea devine o mică insulă la maree înaltă."],
       en: ["The North Pole of Qatar.", "Often becomes a small island at high tide."]
-    }
-  },
+    }, image: "/poi-images/ras-rakan-relief-v2.webp"},
   {
     id: "fuwayrit-beach-relief-v2",
     type: "coast",
@@ -322,8 +306,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Évente lezárják a teknősök költési időszakában.", "Puha, porszerű homok."],
       ro: ["Închisă anual în timpul sezonului de cuibărit al broaștelor țestoase.", "Nisip fin, pulverulent."],
       en: ["Closed annually during the turtle nesting season.", "Soft, powdery sand."]
-    }
-  },
+    }, image: "/poi-images/fuwayrit-beach-relief-v2.webp"},
   {
     id: "zekreet-peninsula-relief-v2",
     type: "coast",
@@ -341,8 +324,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["A 'Film City' filmes díszletről ismert.", "Arab bejza antilopcsordáknak ad otthont."],
       ro: ["Cunoscută pentru decorul de film 'Film City'.", "Găzduiește turme de antilope oryx arab."],
       en: ["Known for the 'Film City' movie set.", "Home to herds of Arabian oryx antelopes."]
-    }
-  },
+    }, image: "/poi-images/zekreet-peninsula-relief-v2.webp"},
   {
     id: "al-aamriya-desert-relief-v2",
     type: "desert",
@@ -360,8 +342,7 @@ export const poiExtraQatarReliefV2: POI[] = [
       hu: ["Tipikus hamada (kavicssivatag).", "Szívós sivatagi cserjék otthona."],
       ro: ["Hamada tipică (deșert de pietriș).", "Adăpostește arbuști deșertici rezistenți."],
       en: ["Typical hamada (gravel desert).", "Home to hardy desert shrubs."]
-    }
-  },
+    }, image: "/poi-images/al-aamriya-desert-relief-v2.webp"},
   {
     id: "wadi-msheireb-relief-v2",
     type: "valley",

@@ -18,7 +18,20 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtigstes katholisches Gotteshaus in Yaoundé.", "Bekannt für ihre imposante Kuppelarchitektur.", "Spirituelles Herz der Hauptstadt.", "Wichtiger Ort für nationale religiöse Zeremonien.", "Architektonisches Symbol im Stadtzentrum.", "Prägt das Bild der Hauptstadt seit Jahrzehnten."]
-    }, image: "/poi-images/yaounde-notre-dame-landmarks-v2.webp"},
+    }, image: "/poi-images/yaounde-notre-dame-landmarks-v2.webp",
+    description: {
+      de: "Die Notre-Dame-Kirche in Yaounde ist ein markantes katholisches Bauwerk der Hauptstadt. Sie gehört zu den bekannten religiösen Wahrzeichen der Stadt.",
+      hu: "A yaoundéi Notre-Dame-templom a főváros egyik ismert katolikus látványossága. A városi vallási élet fontos pontja.",
+      ro: "Biserica Notre-Dame din Yaoundé este unul dintre reperele religioase ale capitalei. Silueta ei este ușor de recunoscut în zona centrală a orașului.",
+      en: "A prominent Catholic cathedral in Yaounde. It is one of the capital's best known civic and religious landmarks."
+    },
+    facts: {
+      de: ["in Yaounde", "katholisches Wahrzeichen", "prägt das Stadtbild"],
+      hu: ["Yaoundé központja", "katolikus templom", "ismert városi látványosság"],
+      ro: ["în Yaoundé", "lăcaș catolic", "reper central"],
+      en: ["in Yaounde", "Catholic cathedral", "capital landmark"]
+    }
+  },
   {
     id: "mvolye-basilica-landmarks-v2",
     type: "landmark",
@@ -35,7 +48,20 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Markante Basilika auf einem Hügel von Yaoundé.", "Bedeutender Wallfahrtsort für Gläubige.", "Bietet einen Panoramablick über die gesamte Stadt.", "Eindrucksvolle Architektur im Stadtteil Mvolyé.", "Symbol für die christliche Geschichte der Stadt.", "Wichtiger Ort der religiösen Besinnung."]
-    }, image: "/poi-images/mvolye-basilica-landmarks-v2.webp"},
+    }, image: "/poi-images/mvolye-basilica-landmarks-v2.webp",
+    description: {
+      de: "Die Basilika von Mvolye liegt in Yaounde und ist ein bedeutender katholischer Bau. Ihre Architektur macht sie zu einem der auffälligen Wahrzeichen der Stadt.",
+      hu: "A Mvolyé-bazilika Yaoundé egyik nagy katolikus szentélye. A főváros vallási arculatához erősen hozzátartozik.",
+      ro: "Bazilica din Mvolyé este un reper catolic important din Yaoundé. Clădirea este cunoscută pentru rolul său religios și pentru poziția sa urbană.",
+      en: "The Basilica of Mary Queen of Apostles in Mvolye is a major church in Yaounde. It is a landmark of modern Catholic architecture."
+    },
+    facts: {
+      de: ["in Yaounde", "katholischer Sakralbau", "auffällige Architektur"],
+      hu: ["Yaoundé déli része", "nagy bazilika", "katolikus zarándokhely"],
+      ro: ["în cartierul Mvolyé", "biserică importantă", "vizibilă în oraș"],
+      en: ["in Yaounde", "major basilica", "modern church landmark"]
+    }
+  },
   {
     id: "olembe-stadium-landmarks-v2",
     type: "landmark",
@@ -52,7 +78,20 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Größtes und modernstes Stadion in Kamerun.", "Benannt nach dem Präsidenten Paul Biya.", "Hauptspielort für internationale Sportveranstaltungen.", "Architektonisches Highlight der Sportinfrastruktur.", "Symbol für kamerunische Sportbegeisterung.", "Modernste Stadiontechnik in Zentralafrika."]
-    }, image: "/poi-images/olembe-stadium-landmarks-v2.webp"},
+    }, image: "/poi-images/olembe-stadium-landmarks-v2.webp",
+    description: {
+      de: "Das Olembe-Stadion ist eine der größten modernen Sportanlagen Kameruns. Es wurde als Prestigeprojekt für internationale Fußballspiele errichtet.",
+      hu: "Az Olembe stadion a főváros északi peremén álló modern aréna. Nagy nemzetközi és hazai mérkőzésekre épült.",
+      ro: "Stadionul Olembe este una dintre cele mai mari arene sportive din Camerun. Complexul a devenit un punct de referință pentru evenimentele majore din Yaoundé.",
+      en: "A large modern stadium in the north of Yaounde. It hosts major football matches and national events."
+    },
+    facts: {
+      de: ["großes Stadion in Yaounde", "moderne Sportanlage", "für internationale Spiele gedacht"],
+      hu: ["Yaoundé mellett", "modern stadion", "nagy mérkőzések helye"],
+      ro: ["în Yaoundé", "stadion mare", "găzduiește meciuri importante"],
+      en: ["in Yaounde", "large football stadium", "used for major events"]
+    }
+  },
   {
     id: "reunification-monument-landmarks-v2",
     type: "landmark",
@@ -69,6 +108,18 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Zentrales nationales Wahrzeichen in Yaoundé.", "Symbol für die nationale Einheit Kameruns.", "Markante, spiralförmige Architektur.", "Erinnert an die Wiedervereinigung des Landes.", "Wichtiger Schauplatz bei Staatsakten.", "Symbol der modernen kamerunischen Identität."]
+    },
+    description: {
+      de: "Das Reunification Monument ist eines der wichtigsten Symbole der kamerunischen Einheit. Es steht in Yaounde und erinnert an die Vereinigung von 1961.",
+      hu: "A reunifikációs emlékmű Yaoundé modern szimbóluma. A keleti és nyugati Kamerun egyesülését idézi.",
+      ro: "Monumentul Reunificării este un simbol central al statului camerunez. Sculptura urbană amintește de unirea teritoriilor istorice ale țării.",
+      en: "A national monument in Yaounde that marks Cameroon's reunification. It is one of the city's most recognizable symbols."
+    },
+    facts: {
+      de: ["in Yaounde", "Symbol der Einheit", "Bezug auf 1961"],
+      hu: ["egyesülési emlékmű", "Yaoundéban áll", "nemzeti szimbólum"],
+      ro: ["în Yaoundé", "simbol național", "legat de reunificare"],
+      en: ["in Yaounde", "symbol of reunification", "national monument"]
     }
   },
   {
@@ -87,7 +138,20 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Befindet sich im historischen ehemaligen Präsidentenpalast.", "Zentrum für das kamerunische Kulturerbe.", "Umfassende Sammlung zur Geschichte des Landes.", "Wichtiger Ort für ethnologische Ausstellungen.", "Präsentiert Kunst aus allen Regionen Kameruns.", "Zentrale Anlaufstelle für Bildungsreisen."]
-    }, image: "/poi-images/national-museum-landmarks-v2.webp"},
+    }, image: "/poi-images/national-museum-landmarks-v2.webp",
+    description: {
+      de: "Das Nationalmuseum in Yaounde zeigt Geschichte und Kultur Kameruns an einem zentralen Ort. Das Gebäude selbst gehört zum ehemaligen Präsidialkomplex.",
+      hu: "A kameruni nemzeti múzeum a történeti elnöki rezidenciában működik Yaoundéban. Az ország kulturális emlékeit mutatja be.",
+      ro: "Muzeul Național din Yaoundé prezintă istoria și cultura Camerunului. Clădirea este un reper important pentru vizitatorii capitalei.",
+      en: "Cameroon's national museum in Yaounde. It displays objects that trace the country's cultural and political history."
+    },
+    facts: {
+      de: ["in Yaounde", "nationales Ausstellungshaus", "Teil des ehemaligen Präsidentenpalasts"],
+      hu: ["Yaoundé központja", "régi elnöki épület", "kulturális gyűjtemény"],
+      ro: ["în Yaoundé", "muzeu național", "colecții istorice și culturale"],
+      en: ["in Yaounde", "national museum", "cultural collections"]
+    }
+  },
   {
     id: "douala-cathedral-landmarks-v2",
     type: "landmark",
@@ -104,7 +168,20 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtiges religiöses Gebäude in Douala.", "Spirituelles Zentrum für die Küstenregion.", "Markante Architektur im Stadtbild.", "Historisch bedeutendes Gotteshaus.", "Treffpunkt für die katholische Gemeinde.", "Architektonisches Wahrzeichen der Stadt."]
-    }, image: "/poi-images/douala-cathedral-landmarks-v2.webp"},
+    }, image: "/poi-images/douala-cathedral-landmarks-v2.webp",
+    description: {
+      de: "Die Kathedrale von Douala ist ein wichtiges religiöses Bauwerk in der Wirtschaftsmetropole. Sie gehört zu den bekanntesten Kirchen der Stadt.",
+      hu: "A doualai katedrális a város fő katolikus templomai közé tartozik. A belváros vallási arculatának fontos része.",
+      ro: "Catedrala din Douala este unul dintre reperele religioase ale celui mai mare oraș camerunez. Edificiul are o prezență puternică în peisajul urban.",
+      en: "A major cathedral in Douala and an important religious landmark of the coastal city. It anchors the city's Catholic community."
+    },
+    facts: {
+      de: ["in Douala", "katholische Kathedrale", "städtisches Wahrzeichen"],
+      hu: ["Douala belvárosa", "katolikus katedrális", "városi vallási pont"],
+      ro: ["în Douala", "catedrală catolică", "reper al centrului"],
+      en: ["in Douala", "major cathedral", "coastal city landmark"]
+    }
+  },
   {
     id: "japoma-stadium-landmarks-v2",
     type: "landmark",
@@ -121,7 +198,20 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Modernes Stadion im Distrikt Japoma.", "Symbol für die sportliche Modernisierung.", "Architektonisch anspruchsvolles Bauwerk.", "Wichtiger Austragungsort für internationale Spiele.", "Bedeutende Sportinfrastruktur in der Küstenregion.", "Modernste Stadiontechnik und -bauweise."]
-    }, image: "/poi-images/japoma-stadium-landmarks-v2.webp"},
+    }, image: "/poi-images/japoma-stadium-landmarks-v2.webp",
+    description: {
+      de: "Das Japoma-Stadion in Douala ist ein großes, modernes Mehrzweckstadion. Es wurde für Fußball und andere Sportereignisse konzipiert.",
+      hu: "A Japoma stadion Douala nagy sportlétesítménye. Nemzetközi mérkőzések és klubesemények helyszíne.",
+      ro: "Stadionul Japoma este o arenă sportivă modernă din Douala. A fost construit pentru competiții de fotbal și evenimente de amploare.",
+      en: "A large stadium in Douala used for football and public events. It is one of Cameroon's main sports venues."
+    },
+    facts: {
+      de: ["in Douala", "moderne Arena", "für große Sportevents gebaut"],
+      hu: ["Douala külvárosa", "nagy stadion", "sportesemények helye"],
+      ro: ["în Douala", "arenă modernă", "pentru competiții sportive"],
+      en: ["in Douala", "major stadium", "sports and events venue"]
+    }
+  },
   {
     id: "nouvelle-liberte-landmarks-v2",
     type: "landmark",
@@ -138,7 +228,20 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Berühmtes modernes Denkmal in Douala.", "Errichtet aus industriellen Schrottteilen.", "Symbol für künstlerische Kreativität.", "Wahrzeichen des urbanen Wandels.", "Bekanntestes Monument im öffentlichen Raum.", "Kulturelle Landmarke in Douala."]
-    }, image: "/poi-images/nouvelle-liberte-landmarks-v2.webp"},
+    }, image: "/poi-images/nouvelle-liberte-landmarks-v2.webp",
+    description: {
+      de: "Die Nouvelle Liberté ist eine bekannte Skulptur in Douala und ein Symbol der urbanen Moderne. Sie steht an einem der wichtigsten Verkehrsknoten der Stadt.",
+      hu: "A Nouvelle Liberté Douala legismertebb kortárs szobra. A város modern identitását jelképezi.",
+      ro: "Nouvelle Liberté este una dintre cele mai cunoscute sculpturi publice din Douala. Lucrarea a devenit un simbol al orașului și al expresiei urbane moderne.",
+      en: "A well known statue in Douala representing freedom and modern city life. It has become one of the city's most photographed landmarks."
+    },
+    facts: {
+      de: ["Skulptur in Douala", "urbanes Wahrzeichen", "am Rond-point Deido"],
+      hu: ["Douala ikonja", "kortárs szobor", "modern városszimbólum"],
+      ro: ["în Douala", "sculptură urbană", "simbol contemporan"],
+      en: ["in Douala", "modern city statue", "popular photo spot"]
+    }
+  },
   {
     id: "wouri-bridge-landmarks-v2",
     type: "landmark",
@@ -155,7 +258,20 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtige Brücke über den Wouri-Fluss.", "Entscheidende Lebensader für den Handel.", "Verbindung zur Westregion Kameruns.", "Zentraler Punkt für den täglichen Verkehr.", "Architektonisch bedeutendes Bauwerk.", "Verkehrstechnisch unerlässliche Infrastruktur."]
-    }, image: "/poi-images/wouri-bridge-landmarks-v2.webp"},
+    }, image: "/poi-images/wouri-bridge-landmarks-v2.webp",
+    description: {
+      de: "Die Wouri-Brücke verbindet wichtige Teile von Douala über den Fluss Wouri hinweg. Sie ist eine der zentralen Verkehrsadern der Stadt.",
+      hu: "A Wouri-híd Douala legfontosabb közúti átkelője. A város és a kikötő közlekedését köti össze.",
+      ro: "Podul Wouri leagă părțile importante ale orașului Douala peste estuarul fluviului. Este o infrastructură-cheie pentru circulația din zonă.",
+      en: "The bridge over the Wouri River linking parts of Douala. It is a vital transport connection for the country's main port city."
+    },
+    facts: {
+      de: ["Brücke in Douala", "über den Wouri", "wichtig für den Verkehr"],
+      hu: ["Wouri folyó felett", "fontos híd", "Douala közlekedése"],
+      ro: ["peste Wouri", "legătură rutieră esențială", "important pentru Douala"],
+      en: ["crosses the Wouri", "in Douala", "important road link"]
+    }
+  },
   {
     id: "foumban-palace-landmarks-v2",
     type: "landmark",
@@ -172,7 +288,20 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Architektonisch herausragendes Wahrzeichen.", "Wichtiges Zentrum der Bamoun-Kultur.", "Berühmter Palastbau in Foumban.", "Zentrale Anlaufstelle für Kulturinteressierte.", "Verbindung von Tradition und Baukunst.", "Kulturelles Herz des Bamoun-Sultanats."]
-    }, image: "/poi-images/foumban-palace-landmarks-v2.webp"},
+    }, image: "/poi-images/foumban-palace-landmarks-v2.webp",
+    description: {
+      de: "Der Palast von Foumban ist eines der bekanntesten Wahrzeichen des Bamoun-Reiches. Er verbindet traditionelle Architektur mit königlicher Geschichte.",
+      hu: "A foumbani palota a Bamoun királyság központi látványossága. A királyi hagyomány és a múzeumi örökség találkozik benne.",
+      ro: "Palatul din Foumban este unul dintre cele mai recunoscute repere tradiționale din Camerun. Arhitectura sa amintește de rolul regal al orașului.",
+      en: "The royal palace in Foumban is a standout landmark of the Bamoun kingdom. Its architecture and museum make it a key visitor site."
+    },
+    facts: {
+      de: ["in Foumban", "Sitz des Bamoun-Hofs", "bekanntes Kulturdenkmal"],
+      hu: ["Foumban központja", "Bamoun palota", "királyi örökség"],
+      ro: ["în Foumban", "reper tradițional", "legat de regatul Bamoun"],
+      en: ["in Foumban", "royal palace", "Bamoun heritage site"]
+    }
+  },
   {
     id: "yaounde-central-mosque-landmarks-v2",
     type: "landmark",
@@ -234,13 +363,13 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Das wichtigste Sportstadion in Garoua wurde für den Afrika-Cup aufwendig renoviert und ist die Heimat des lokalen Erfolgsvereins Coton Sport.",
       hu: "Garoua legfontosabb sportstadionját az Afrika Kupára jelentősen felújították, és a sikeres helyi klub, a Coton Sport otthona.",
       ro: "Principalul stadion sportiv din Garoua a fost renovat masiv pentru Cupa Africii și este casa clubului local de succes Coton Sport.",
-      en: "The main sports stadium in Garoua was extensively renovated for the Africa Cup and is the home of the successful local club Coton Sport."
+      en: "A stadium in Maroua used for football and local gatherings. It is one of the main sports grounds in the Far North."
     },
     facts: {
       de: ["Bietet Platz für etwa 30.000 Zuschauer.", "Erbaut im Jahr 1978.", "Wurde 2020 komplett modernisiert.", "Austragungsort von Länderspielen der kamerunischen Nationalmannschaft."],
       hu: ["Körülbelül 30 000 nézőt tud befogadni.", "1978-ban épült.", "2020-ban teljesen modernizálták.", "A kameruni nemzeti válogatott mérkőzéseinek egyik helyszíne."],
       ro: ["Are o capacitate de aproximativ 30.000 de spectatori.", "Construit în 1978.", "A fost complet modernizat în 2020.", "Gazda unor meciuri ale echipei naționale a Camerunului."],
-      en: ["Holds approximately 30,000 spectators.", "Built in 1978.", "Completely modernized in 2020.", "Venue for matches of the Cameroonian national team."]
+      en: ["in Maroua", "sports stadium", "Far North venue"]
     }, image: "/poi-images/roumde-adjia-stadium-landmarks-v2.webp"},
   {
     id: "limbe-omnisport-stadium-landmarks-v2",
@@ -349,13 +478,13 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Dieser historische weiße Leuchtturm steht malerisch an der Atlantikküste von Kribi und ist ein Relikt der deutschen Kolonialzeit.",
       hu: "Ez a történelmi fehér világítótorony festőien magasodik Kribi atlanti partvidékén, a német gyarmati korszak emlékeként.",
       ro: "Acest far istoric alb se înalță pitoresc pe coasta atlantică a orașului Kribi, fiind o relicvă a perioadei coloniale germane.",
-      en: "This historic white lighthouse stands picturesquely on the Atlantic coast of Kribi as a relic of the German colonial period."
+      en: "The lighthouse of Kribi is a familiar coastal landmark. It stands near the Atlantic shore and recalls the town's maritime role."
     },
     facts: {
       de: ["Erbaut im Jahr 1906.", "Diente zur Navigation für die Schiffe, die Tropenholz transportierten.", "Heute ein ikonisches Wahrzeichen der Küstenstadt.", "Rundes Gebäude mit roter Kuppel."],
       hu: ["1906-ban épült.", "A trópusi fát szállító hajók navigációját segítette.", "Ma a tengerparti város ikonikus jelképe.", "Kerek épület piros kupolával."],
       ro: ["Construit în 1906.", "Servea la navigarea navelor care transportau lemn tropical.", "Astăzi este un reper iconic al orașului de coastă.", "Clădire rotundă cu o cupolă roșie."],
-      en: ["Built in 1906.", "Used for navigating ships transporting tropical timber.", "Today an iconic landmark of the coastal city.", "Round building with a red dome."]
+      en: ["in Kribi", "coastal lighthouse", "maritime landmark"]
     }, image: "/poi-images/kribi-lighthouse-landmarks-v2.webp"},
   {
     id: "prime-minister-lodge-landmarks-v2",
@@ -418,13 +547,13 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       de: "Das traditionelle Nationalstadion im Viertel Mfandena in Yaoundé ist seit Jahrzehnten das Zentrum des kamerunischen Fußballs.",
       hu: "A Yaoundé Mfandena negyedében található hagyományos nemzeti stadion évtizedek óta a kameruni futball központja.",
       ro: "Stadionul național tradițional din cartierul Mfandena din Yaoundé este centrul fotbalului camerunez de decenii.",
-      en: "The traditional national stadium in the Mfandena neighborhood of Yaoundé has been the center of Cameroonian football for decades."
+      en: "Cameroon's national stadium in Yaounde. It hosts major football matches and state events."
     },
     facts: {
       de: ["Erbaut im Jahr 1972.", "Fasst heute etwa 40.000 Zuschauer.", "Heimstadion für Teams wie Canon Yaoundé und Tonnerre Yaoundé.", "Benannt nach dem ersten Präsidenten Kameruns."],
       hu: ["1972-ben épült.", "Ma körülbelül 40 000 nézőt tud befogadni.", "Olyan csapatok hazai pályája, mint a Canon Yaoundé és a Tonnerre Yaoundé.", "Kamerun első elnökéről nevezték el."],
       ro: ["Construit în 1972.", "Găzduiește astăzi aproximativ 40.000 de spectatori.", "Stadionul de acasă pentru echipe precum Canon Yaoundé și Tonnerre Yaoundé.", "Numit după primul președinte al Camerunului."],
-      en: ["Built in 1972.", "Today holds about 40,000 spectators.", "Home stadium for teams like Canon Yaoundé and Tonnerre Yaoundé.", "Named after the first President of Cameroon."]
+      en: ["in Yaounde", "national stadium", "major sports venue"]
     }, image: "/poi-images/ahmadou-ahidjo-stadium-landmarks-v2.webp"},
   {
     id: "palais-des-congres-landmarks-v2",

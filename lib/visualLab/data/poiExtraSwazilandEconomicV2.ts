@@ -39,8 +39,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Inland customs clearance facility",
         "Direct rail link to Maputo"
       ]
-    }
-  },
+    }, image: "/poi-images/matsapha-dry-port-economic-v2.webp"},
   {
     id: "maloma-anthracite-mine-economic-v2",
     type: "industry",
@@ -79,8 +78,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Exports primarily to South Africa",
         "Major employer in the Shiselweni District"
       ]
-    }
-  },
+    }, image: "/poi-images/maloma-anthracite-mine-economic-v2.webp"},
   {
     id: "mpaka-goods-station-economic-v2",
     type: "port",
@@ -119,8 +117,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Important stop for ore trains",
         "Site of technical maintenance facilities"
       ]
-    }
-  },
+    }, image: "/poi-images/mpaka-goods-station-economic-v2.webp"},
   {
     id: "malkerns-cannery-economic-v2",
     type: "industry",
@@ -159,8 +156,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "One of the oldest industrial facilities",
         "Processes fruit from the Malkerns Valley"
       ]
-    }
-  },
+    }, image: "/poi-images/malkerns-cannery-economic-v2.webp"},
   {
     id: "nhlangano-forestry-economic-v2",
     type: "industry",
@@ -199,8 +195,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Base for exports to South Africa",
         "Sustainable forestry for decades"
       ]
-    }
-  },
+    }, image: "/poi-images/nhlangano-forestry-economic-v2.webp"},
   {
     id: "bhunya-pulp-mill-economic-v2",
     type: "industry",
@@ -239,8 +234,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Important site for the paper industry",
         "Defines the economy in western Manzini"
       ]
-    }
-  },
+    }, image: "/poi-images/bhunya-pulp-mill-economic-v2.webp"},
   {
     id: "peak-timbers-sawmill-economic-v2",
     type: "industry",
@@ -279,8 +273,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Specializes in structural timber",
         "Located amidst man-made forests"
       ]
-    }
-  },
+    }, image: "/poi-images/peak-timbers-sawmill-economic-v2.webp"},
   {
     id: "ubombo-sugar-refinery-economic-v2",
     type: "industry",
@@ -319,8 +312,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Uses biomass for power generation",
         "Hub of the Lowveld economy"
       ]
-    }
-  },
+    }, image: "/poi-images/ubombo-sugar-refinery-economic-v2.webp"},
   {
     id: "mhlume-sugar-factory-economic-v2",
     type: "industry",
@@ -399,8 +391,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "High degree of automation",
         "Center of a purpose-built town"
       ]
-    }
-  },
+    }, image: "/poi-images/simunye-sugar-complex-economic-v2.webp"},
   {
     id: "eswatini-brewery-matsapha-economic-v2",
     type: "industry",
@@ -439,8 +430,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "State-of-the-art bottling lines in Matsapha",
         "Uses local grain for specialty beers"
       ]
-    }
-  },
+    }, image: "/poi-images/eswatini-brewery-matsapha-economic-v2.webp"},
   {
     id: "nhlangano-textile-factory-economic-v2",
     type: "industry",
@@ -479,8 +469,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Exports primarily under AGOA rules",
         "Key economic driver for the southern region"
       ]
-    }
-  },
+    }, image: "/poi-images/nhlangano-textile-factory-economic-v2.webp"},
   {
     id: "sidvokodvo-rail-workshops-economic-v2",
     type: "industry",
@@ -519,8 +508,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Historically significant rail depot",
         "Key junction for freight trains"
       ]
-    }
-  },
+    }, image: "/poi-images/sidvokodvo-rail-workshops-economic-v2.webp"},
   {
     id: "matsapha-industrial-estate-south-economic-v2",
     type: "industry",
@@ -559,8 +547,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Excellent highway connectivity",
         "Modern energy and water infrastructure"
       ]
-    }
-  },
+    }, image: "/poi-images/matsapha-industrial-estate-south-economic-v2.webp"},
   {
     id: "oshoek-border-terminal-economic-v2",
     type: "port",
@@ -599,8 +586,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Main gateway to Johannesburg",
         "Large customs and logistics warehouses on site"
       ]
-    }
-  },
+    }, image: "/poi-images/oshoek-border-terminal-economic-v2.webp"},
   {
     id: "lomahasha-trade-hub-economic-v2",
     type: "port",
@@ -639,8 +625,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Vital for citrus exports",
         "Large truck terminal facility"
       ]
-    }
-  },
+    }, image: "/poi-images/lomahasha-trade-hub-economic-v2.webp"},
   {
     id: "lavumisa-freight-terminal-economic-v2",
     type: "port",
@@ -679,8 +664,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Central point for fuel imports",
         "Major customs post in the south"
       ]
-    }
-  },
+    }, image: "/poi-images/lavumisa-freight-terminal-economic-v2.webp"},
   {
     id: "mananga-border-post-economic-v2",
     type: "port",
@@ -719,8 +703,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Vital for the Mhlume sugar factory",
         "Specialized in agricultural logistics"
       ]
-    }
-  },
+    }, image: "/poi-images/mananga-border-post-economic-v2.webp"},
   {
     id: "montigny-sawmill-economic-v2",
     type: "industry",
@@ -759,8 +742,7 @@ export const poiExtraSwazilandEconomicV2: POI[] = [
         "Large-scale kiln drying facilities",
         "Exports as far as overseas markets"
       ]
-    }
-  },
+    }, image: "/poi-images/montigny-sawmill-economic-v2.webp"},
   {
     id: "dokolwako-diamond-mine-economic-v2",
     type: "industry",

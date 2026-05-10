@@ -30,8 +30,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A park területét 1973-ban adták át a nagyközönségnek.", "A teljes zöldterület nagysága eléri a 34 hektárt.", "A komplexum központjában egy 120 000 négyzetméteres mesterséges tó található.", "A terület megközelítőleg 1500 méteres tengerszint feletti magasságban fekszik.", "A modern attrakciók közé tartozik a parkban üzemelő 4D mozi.", "A sétányokon perzsa költők és tudósok szobrai kaptak helyet."],
       ro: ["Parcul a fost deschis publicului larg în anul 1973.", "Suprafața totală a Parcului Mellat atinge impresionanta cifră de 34 de hectare.", "În centrul complexului se află un lac artificial cu o suprafață de 120.000 de metri pătrați.", "Terenul este situat la o altitudine de aproximativ 1.500 de metri deasupra nivelului mării.", "Printre atracțiile moderne se numără un cinematograf 4D care funcționează în interiorul parcului.", "Pe aleile parcului sunt amplasate numeroase statui ale poeților și savanților persani celebri."],
       en: ["The park was officially opened to the public in 1973.", "The total green area of Mellat Park covers 34 hectares.", "A 120,000-square-meter artificial lake forms the center of the complex.", "The park is situated at an elevation of approximately 1,500 meters.", "Modern attractions within the park include a functioning 4D cinema.", "Statues of famous Persian poets and scholars line the walkways."]
-    }
-  },
+    }, image: "/poi-images/mellat-park-tehran-life-v2.webp"},
   {
     id: "laleh-park-tehran-life-v2",
     type: "park",
@@ -61,8 +60,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A Laleh Park zöldterülete mintegy 35 hektáros területet foglal el.", "A komplexum alapítására és kialakítására 1966-ban került sor.", "Az 1979-es iszlám forradalom előtt a park a Farah Park nevet viselte.", "A szomszédos Teheráni Kortárs Művészeti Múzeum épületét 1977-ben nyitották meg.", "A parkban látható Omar Hajjám perzsa költő egyik legismertebb szobra.", "Az északi oldalon található Szőnyegmúzeum több mint 1500 történelmi darabot őriz."],
       ro: ["Zona verde a Parcului Laleh acoperă o suprafață de aproximativ 35 de hectare.", "Fondarea și amenajarea complexului de parc au avut loc în anul 1966.", "Înainte de Revoluția Islamică din 1979, parcul purta numele de Parcul Farah.", "Clădirea Muzeului de Artă Contemporană din Teheran a fost inaugurată în anul 1977.", "În parc poate fi admirată una dintre cele mai faimoase statui ale poetului persan Omar Khayyam.", "Muzeul Covoarelor, situat în apropiere, găzduiește peste 1.500 de covoare istorice."],
       en: ["The green space of Laleh Park covers an area of approximately 35 hectares.", "The foundation and development of the park complex took place in 1966.", "Before the 1979 Islamic Revolution, the park was known as Farah Park.", "The adjacent Tehran Museum of Contemporary Art was inaugurated in 1977.", "One of the most famous statues of the Persian poet Omar Khayyam is displayed in the park.", "The nearby Carpet Museum houses more than 1,500 historical carpets."]
-    }
-  },
+    }, image: "/poi-images/laleh-park-tehran-life-v2.webp"},
   {
     id: "eram-amusement-park-life-v2",
     type: "kid-friendly",
@@ -92,8 +90,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["Az Eram Vidámpark létesítményét 1971-ben alapították.", "A teljes parkkomplexum egy 75 hektáros területet foglal el.", "A három zónában összesen több mint 70 különböző attrakció üzemel.", "A park közepén elterülő mesterséges tó felülete eléri a 8 hektárt.", "A komplexum területét három teljesen elkülönülő szórakoztató zónára osztották.", "Éves szinten a vidámpark látogatóinak száma meghaladja a 2 milliót."],
       ro: ["Parcul de Distracții Eram a fost fondat oficial în anul 1971.", "Întregul complex de parcuri acoperă o suprafață totală de aproximativ 75 de hectare.", "Cele trei zone de divertisment operează în total peste 70 de atracții și curse diferite.", "Lacul artificial din centrul parcului are o suprafață de 8 hectare.", "Terenul complexului a fost împărțit în trei zone de divertisment complet separate.", "La nivel anual, numărul vizitatorilor parcului de distracții depășește pragul de 2 milioane."],
       en: ["Eram Amusement Park was officially founded and opened in 1971.", "The entire park complex occupies a sprawling area of 75 hectares.", "The three zones collectively operate more than 70 different amusement rides.", "The artificial lake at the center of the park covers 8 hectares.", "The facility is divided into three completely separate entertainment zones.", "The amusement park annually welcomes over two million visitors."]
-    }
-  },
+    }, image: "/poi-images/eram-amusement-park-life-v2.webp"},
   {
     id: "isfahan-birds-garden-life-v2",
     type: "park",
@@ -123,8 +120,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A madárpark létesítménye 1996-ban nyitotta meg kapuit.", "A komplexum teljes alapterülete pontosan 55 000 négyzetméter.", "Egy 40 000 négyzetméteres drótháló fedi le a szabadon repülő területet.", "A hálós tetőszerkezetet összesen 11 darab hatalmas acéloszlop tartja.", "A parkban megközelítőleg 130 különböző madárfaj képviselői élnek.", "Az itt gondozott madarak egyedszáma együttesen meghaladja az 5000-et."],
       ro: ["Facilitatea parcului de păsări și-a deschis porțile pentru public în anul 1996.", "Suprafața totală a complexului ecologic este de exact 55.000 de metri pătrați.", "O plasă masivă de 40.000 de metri pătrați acoperă zona de zbor liber.", "Structura acoperișului din plasă este susținută de un număr de 11 coloane uriașe din oțel.", "În parc trăiesc reprezentanți ai aproximativ 130 de specii diferite de păsări.", "Numărul total de exemplare de păsări îngrijite aici depășește cifra de 5.000."],
       en: ["The bird park facility officially opened its doors to the public in 1996.", "The total area of the ecological complex measures exactly 55,000 square meters.", "A massive 40,000-square-meter net covers the free-flight enclosure.", "The canopy structure is supported by a total of 11 giant steel columns.", "Representatives of approximately 130 different bird species live in the park.", "The total number of birds cared for in the garden exceeds 5,000."]
-    }
-  },
+    }, image: "/poi-images/isfahan-birds-garden-life-v2.webp"},
   {
     id: "tehran-zoo-life-v2",
     type: "kid-friendly",
@@ -154,8 +150,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["Az eredeti Teheráni Állatkertet az 1953-as évben alapították.", "A jelenlegi Eram Park-i létesítmény 1992-ben fogadta az első látogatókat.", "A zoológiai kert területe mintegy 5 hektáron terül el.", "Az intézmény 110 különböző faj több mint 800 egyedét gondozza.", "A ritka iráni állatfajok szaporításában a park meghatározó szerepet tölt be.", "2013-ban egy nőstény ázsiai elefánt érkezett a parkba Srí Lankáról."],
       ro: ["Grădina Zoologică originală din Teheran a fost fondată și deschisă în anul 1953.", "Actuala facilitate din Eram Park a primit primii vizitatori în anul 1992.", "Terenul grădinii zoologice se întinde pe o suprafață de aproximativ 5 hectare.", "Instituția îngrijește peste 800 de animale din 110 specii diferite.", "În anul 2013, o femelă de elefant asiatic a fost adusă în parc din Sri Lanka.", "Parcul joacă un rol determinant în reproducerea speciilor iraniene rare."],
       en: ["The original Tehran Zoological Garden was founded and opened in 1953.", "The current facility located within Eram Park welcomed its first visitors in 1992.", "The grounds of the zoological garden cover an area of approximately 5 hectares.", "The institution cares for more than 800 animals from 110 different species.", "In 2013, a female Asian elephant was brought to the park from Sri Lanka.", "The park plays a determining role in the breeding of rare Iranian animal species."]
-    }
-  },
+    }, image: "/poi-images/tehran-zoo-life-v2.webp"},
   {
     id: "rafsanjan-pistachio-life-v2",
     type: "agriculture",
@@ -185,8 +180,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A rafszandzsáni régió több mint 80 000 hektáron termeszt pisztáciát.", "Kermán tartomány adja a teljes iráni pisztáciatermelés mintegy 70 százalékát.", "Egy kifejlett, egészséges pisztáciafa évente akár 50 kilogramm termést is hozhat.", "A legértékesebb iráni pisztáciafajta, az Akbari is ebből a régióból származik.", "Az ország éves pisztáciatermelése gyakran meghaladja a 200 000 tonnát.", "A fő betakarítási munkálatok augusztus és október között zajlanak."],
       ro: ["Regiunea Rafsanjan cultivă fistic pe o suprafață de peste 80.000 de hectare.", "Provincia Kerman asigură aproximativ 70 la sută din producția totală de fistic a Iranului.", "Un arbore de fistic matur și sănătos poate produce până la 50 de kilograme de nuci pe an.", "Cel mai scump și valoros soi de fistic iranian, Akbari, provine din această regiune.", "Producția anuală de fistic a țării depășește adesea cantitatea de 200.000 de tone.", "Principala campanie de recoltare a fisticului are loc între lunile august și octombrie."],
       en: ["The Rafsanjan region cultivates pistachios on an area exceeding 80,000 hectares.", "Kerman province accounts for approximately 70 percent of Iran's total pistachio production.", "A mature, healthy pistachio tree can yield up to 50 kilograms of nuts annually.", "The most expensive and valuable Iranian pistachio variety, Akbari, originates here.", "The country's annual pistachio production frequently surpasses 200,000 tons.", "The primary harvesting operations take place between August and October."]
-    }
-  },
+    }, image: "/poi-images/rafsanjan-pistachio-life-v2.webp"},
   {
     id: "khorasan-saffron-life-v2",
     type: "agriculture",
@@ -216,8 +210,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A globális sáfránytermelés több mint 90 százaléka Iránból származik.", "A horászáni sáfránytermő területek nagysága meghaladja a 100 000 hektárt.", "Egy kilogramm szárított fűszerhez körülbelül 170 000 virágra van szükség.", "Minden egyes krókuszvirág pontosan három apró, piros bibeszálat tartalmaz.", "A betakarítási időszak mindössze 2-3 hétre korlátozódik az őszi szezonban.", "A tartomány sáfrányipara becslések szerint mintegy 500 000 embernek ad munkát."],
       ro: ["Peste 90 la sută din producția globală de șofran provine din Iran.", "Suprafața terenurilor cultivate cu șofran în Iran depășește 100.000 de hectare.", "Pentru a obține un kilogram de condiment uscat sunt necesare până la 170.000 de flori.", "Fiecare floare de brândușă conține exact trei stigmate roșii subțiri.", "Perioada de recoltare este extrem de scurtă, limitându-se la doar 2-3 săptămâni toamna.", "Se estimează că industria șofranului din provincie oferă locuri de muncă pentru aproximativ 500.000 de oameni."],
       en: ["Over 90 percent of the global saffron production originates from Iran.", "The saffron-producing lands in Khorasan cover an area of more than 100,000 hectares.", "Approximately 170,000 flowers are needed to produce a single kilogram of dried saffron.", "Every single crocus flower contains exactly three tiny red stigmas.", "The harvest period is extremely short, limited to just 2 to 3 weeks in autumn.", "The province's saffron industry is estimated to employ about 500,000 people."]
-    }
-  },
+    }, image: "/poi-images/khorasan-saffron-life-v2.webp"},
   {
     id: "lahijan-tea-plantations-life-v2",
     type: "agriculture",
@@ -247,8 +240,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["Az első láhidzsáni teaültetvényeket 1899-ben hozták létre.", "Gilán tartományban a teatermelő területek nagysága eléri a 30 000 hektárt.", "Irán éves teatermelése átlagosan 20 000 és 30 000 tonna között mozog.", "A legkiválóbb minőséget adó első tavaszi betakarítás májusban történik.", "Láhidzsán területén és környékén több mint 50 teafeldolgozó üzem működik.", "A helyi teamúzeum a termesztést meghonosító Kaszef Al Szaltaneh mauzóleumában kapott helyet."],
       ro: ["Prima cultivare a ceaiului în regiunea Lahijan a început în anul 1899.", "Suprafața terenurilor destinate cultivării ceaiului în provincia Gilan atinge 30.000 de hectare.", "Producția anuală de ceai a Iranului variază în medie între 20.000 și 30.000 de tone.", "Cea mai valoroasă recoltă, tăietura de primăvară, are loc în cursul lunii mai.", "În orașul Lahijan și în împrejurimi funcționează peste 50 de fabrici de procesare a ceaiului.", "Muzeul Ceaiului este găzduit chiar în mausoleul fondatorului Kashef Al Saltaneh."],
       en: ["The first tea plantations in Lahijan were established in the year 1899.", "The area dedicated to tea cultivation in Gilan province reaches 30,000 hectares.", "Iran's annual tea production averages between 20,000 and 30,000 tons.", "The highest-quality first spring harvest takes place during the month of May.", "More than 50 tea processing factories operate in and around Lahijan.", "The Tea Museum is housed in the mausoleum of founder Kashef Al Saltaneh."]
-    }
-  },
+    }, image: "/poi-images/lahijan-tea-plantations-life-v2.webp"},
   {
     id: "jamshidieh-park-life-v2",
     type: "park",
@@ -278,8 +270,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A Dzsamzsidieh Park területét 1977-ben nyitották meg a nagyközönség előtt.", "A hegyvidéki létesítmény kiterjedése hozzávetőlegesen 10 hektár.", "A zöldterület több mint 1800 méteres tengerszint feletti magasságban terül el.", "A létesítmény kiindulópontként szolgál a 3350 méter magas Kolakcsal-csúcs meghódításához.", "A sziklás parkkomplexum terveit az iráni építész, Kamran Diba készítette.", "A terület történelmileg Dzsamzsid Davallu Kádzsár magántulajdonát képezte."],
       ro: ["Terenul Parcului Jamshidieh a fost deschis publicului în anul 1977.", "Zona verde și stâncoasă se întinde pe o suprafață de aproximativ 10 hectare.", "Complexul este situat la o altitudine de peste 1.800 de metri deasupra nivelului mării.", "Facilitatea servește drept punct de plecare pentru ascensiunea vârfului Kolakchal de 3.350 de metri.", "Planurile acestui complex au fost realizate de celebrul arhitect iranian Kamran Diba.", "Din punct de vedere istoric, terenul a fost proprietatea privată a lui Jamshid Davallu Qajar."],
       en: ["Jamshidieh Park was officially opened to the general public in 1977.", "The rocky green space covers an area of approximately 10 hectares.", "The complex is located at an altitude of over 1,800 meters above sea level.", "The facility serves as a starting point for ascending the 3,350-meter Kolakchal peak.", "The architectural design of the stone park was created by Kamran Diba.", "Historically, the land was the private property of Jamshid Davallu Qajar."]
-    }
-  },
+    }, image: "/poi-images/jamshidieh-park-life-v2.webp"},
   {
     id: "isfahan-flowers-garden-life-v2",
     type: "park",
@@ -309,8 +300,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A virágoskert komplexumát az 1990-es évek végén adták át a látogatóknak.", "A park pontosan 67 000 négyzetméteres területet ölel fel.", "Az itt felépített trópusi üvegház 250 négyzetméteres alapterülettel rendelkezik.", "A gyógynövénykert részlegén több mint 130 különböző növényfajt termesztenek.", "A gyűjteményben együttesen több mint 400 különböző virág- és növényfaj található meg.", "A kert látványosságai közé tartozik egy 4 méter magas mesterséges vízesés is."],
       ro: ["Complexul grădinii de flori a fost deschis publicului la sfârșitul anilor 1990.", "Parcul acoperă cu exactitate o suprafață de 67.000 de metri pătrați.", "Sera tropicală construită aici are o suprafață de 250 de metri pătrați.", "În secțiunea grădinii de plante medicinale sunt cultivate peste 130 de specii diferite.", "Colecția găzduiește în total peste 400 de specii distincte de flori și plante.", "Printre atracțiile grădinii se numără o cascadă artificială cu o înălțime de 4 metri."],
       en: ["The flower garden complex was opened to visitors in the late 1990s.", "The park covers an exact total area of 67,000 square meters.", "The tropical greenhouse built on the premises spans 250 square meters.", "Over 130 different plant species are cultivated in the medicinal herb garden section.", "The collection hosts a total of more than 400 distinct flower and plant species.", "Attractions within the garden include a 4-meter-tall artificial waterfall."]
-    }
-  },
+    }, image: "/poi-images/isfahan-flowers-garden-life-v2.webp"},
   {
     id: "mazandaran-rice-paddies-life-v2",
     type: "agriculture",
@@ -371,8 +361,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["Az Ab-o-Atas Parkot a 2009-es évben nyitották meg a nagyközönség számára.", "A modern pihenőpark alapterülete összesen 2,4 hektárt tesz ki.", "A téren álló négy acéltorony akár 10 méter magas lángcsóvákat is képes kilövellni.", "A komplexumhoz tartozó gördeszkapálya 4500 négyzetméteren terül el.", "A szomszédos parkot összekötő többszintes Tabiat-hidat 2014-ben adták át.", "A park területén egy világítótoronyhoz hasonló építmény működik kilátóként."],
       ro: ["Parcul Ab-o-Atash a fost deschis publicului larg în anul 2009.", "Suprafața totală a acestei zone moderne de recreere este de 2,4 hectare.", "Cele patru turnuri de oțel generează flăcări care ajung până la 10 metri înălțime.", "Pista de skateboard aferentă complexului se întinde pe 4.500 de metri pătrați.", "Faimosul Pod Tabiat, care conectează parcul vecin, a fost inaugurat în 2014.", "În perimetrul parcului se află o structură asemănătoare unui far ce servește drept platformă de observație."],
       en: ["Ab-o-Atash Park was officially opened to the general public in 2009.", "The total area of this modern recreational space is 2.4 hectares.", "The four steel towers generate flames that reach up to 10 meters in height.", "The skatepark belonging to the complex covers 4,500 square meters.", "The famous Tabiat Bridge connecting the neighboring park was inaugurated in 2014.", "A lighthouse-like structure within the park serves as an observation platform."]
-    }
-  },
+    }, image: "/poi-images/ab-o-atash-park-life-v2.webp"},
   {
     id: "qamsar-rose-gardens-life-v2",
     type: "agriculture",
@@ -402,8 +391,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["Gamszár városa és a rózsamezők megközelítőleg 1900 méteres tengerszint feletti magasságban fekszenek.", "A damaszkuszi rózsát több mint 1000 éve termesztik folyamatosan ebben a régióban.", "A betakarítási csúcsidőszak május közepe és június eleje közé esik.", "30 kilogramm rózsasziromból átlagosan 40 liter magas minőségű rózsavizet párolnak le.", "Kásán és Gamszár régiójában több mint 1500 hagyományos rózsavíz-lepárló üzemel.", "A gamszári rózsavizet Szaúd-Arábiába is exportálják a Kába éves lemosásához."],
       ro: ["Orașul Qamsar și livezile sale de trandafiri se află la o altitudine de 1.900 de metri.", "Trandafirul de Damasc este cultivat continuu în această regiune de peste 1.000 de ani.", "Perioada de vârf a recoltării are loc între mijlocul lunii mai și începutul lunii iunie.", "Din 30 de kilograme de petale se distilează în medie 40 de litri de apă de trandafiri premium.", "În regiunea Kashan și Qamsar funcționează peste 1.500 de distilerii tradiționale de apă de trandafiri.", "Apa de trandafiri din Qamsar este utilizată anual pentru curățarea Kaabei din Mecca."],
       en: ["The town of Qamsar and its rose fields are situated at an altitude of 1,900 meters.", "The Damask rose has been cultivated continuously in this region for over 1,000 years.", "The peak harvesting season occurs between mid-May and early June.", "An average of 40 liters of premium rose water is distilled from 30 kilograms of petals.", "More than 1,500 traditional rose water distilleries operate in the Kashan region.", "Qamsar rose water is exported to Saudi Arabia for the annual washing of the Kaaba."]
-    }
-  },
+    }, image: "/poi-images/qamsar-rose-gardens-life-v2.webp"},
   {
     id: "nazhvan-forest-park-life-v2",
     type: "park",
@@ -433,8 +421,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A Nazsván Erdőpark teljes zöldterülete eléri az 1200 hektárt.", "A park lombkoronái felett haladó drótkötélpálya 1900 méter hosszú.", "A komplexumban található Iszfahán Akváriumot 2016-ban nyitották meg.", "Az akvárium 33 medencéjében több mint 6500 tengeri élőlény tekinthető meg.", "A terület folyóparti szakaszain kiterjedt piknikező és kerékpáros övezeteket építettek ki.", "A park lepkemúzeuma több ezer preparált példányt mutat be a világ minden tájáról."],
       ro: ["Suprafața totală verde a Parcului Forestier Nazhvan atinge 1.200 de hectare.", "Telecabina care trece pe deasupra coronamentului are o lungime de 1.900 de metri.", "Acvariul din Isfahan, situat în parc, a fost inaugurat în anul 2016.", "Cele 33 de bazine ale acvariului prezintă peste 6.500 de creaturi marine.", "De-a lungul malurilor râului există numeroase trasee pentru biciclete și zone de picnic.", "Muzeul fluturilor din parc expune mii de exemplare preparate din întreaga lume."],
       en: ["The total green area of Nazhvan Forest Park reaches 1,200 hectares.", "The cable car running above the park's tree canopy is 1,900 meters long.", "The Isfahan Aquarium located within the complex was opened in 2016.", "The aquarium's 33 tanks display more than 6,500 marine creatures.", "Extensive picnic areas and cycling paths have been built along the riverbanks.", "The park's butterfly museum exhibits thousands of mounted specimens worldwide."]
-    }
-  },
+    }, image: "/poi-images/nazhvan-forest-park-life-v2.webp"},
   {
     id: "bam-date-palm-groves-life-v2",
     type: "agriculture",
@@ -464,8 +451,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A bami pálmaligetek kiterjedése eléri a több ezer hektárt.", "A Mazafati fajta adja a teljes iráni datolyatermelés mintegy 20 százalékát.", "Egyetlen kifejlett datolyapálma évente akár 100 kilogramm gyümölcsöt is teremhet.", "A ligetek öntözését biztosító ősi kanatrendszerek több mint 2000 éves múltra tekintenek vissza.", "A datolya fő betakarítási időszaka augusztus végére és szeptemberre esik.", "Irán évente több mint 300 000 tonna datolyát exportál a globális piacokra."],
       ro: ["Extinderea livezilor de palmieri din regiunea Bam atinge mii de hectare.", "Soiul Mazafati reprezintă aproximativ 20 la sută din producția totală de curmale a Iranului.", "Un singur palmier matur poate produce până la 100 de kilograme de curmale anual.", "Sistemul antic de qanat-uri care irigă livezile are o vechime de peste 2.000 de ani.", "Principala campanie de recoltare a curmalelor are loc la sfârșitul lunii august și în septembrie.", "Iranul exportă anual peste 300.000 de tone de curmale pe piețele globale."],
       en: ["The date palm groves in the Bam region cover thousands of hectares.", "The Mazafati variety accounts for about 20 percent of Iran's total date production.", "A single mature date palm tree can yield up to 100 kilograms of fruit annually.", "The ancient qanat systems irrigating the groves are over 2,000 years old.", "The main date harvesting season takes place in late August and September.", "Iran exports over 300,000 tons of dates to global markets every year."]
-    }
-  },
+    }, image: "/poi-images/bam-date-palm-groves-life-v2.webp"},
   {
     id: "saveh-pomegranate-orchards-life-v2",
     type: "agriculture",
@@ -495,8 +481,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["Száveh régiójában a gránátalma-ültetvények több mint 10 000 hektáron terülnek el.", "A kertekben a gyümölcs több mint 70 különböző, jól megkülönböztethető fajtája terem.", "A termelés oroszlánrészét a rendkívül népszerű Malas-e Saveh fajta teszi ki.", "A térség éves gránátalma-termése rendszeresen meghaladja a 150 000 tonnát.", "Száveh jelenleg Irán legnagyobb volumenű gránátalma-előállító központja.", "A betakarítási kampány szeptember végétől egészen novemberig eltart."],
       ro: ["Plantațiile de rodii din regiunea Saveh se întind pe o suprafață de peste 10.000 de hectare.", "În aceste grădini cresc peste 70 de soiuri specifice și distincte de rodie.", "Cea mai mare parte a producției este reprezentată de popularul soi \"Malas-e Saveh\".", "Randamentul anual de rodii al regiunii Saveh depășește adesea 150.000 de tone.", "Orașul Saveh este în prezent cel mai mare centru de producție a rodiilor din Iran.", "Campania de recoltare se desfășoară de la sfârșitul lunii septembrie până în noiembrie."],
       en: ["Pomegranate orchards in the Saveh region stretch across more than 10,000 hectares.", "Over 70 specific and distinct varieties of pomegranate grow in these gardens.", "The highly popular Malas-e Saveh variety constitutes the bulk of production.", "The annual pomegranate yield of the Saveh region regularly exceeds 150,000 tons.", "Saveh is currently the largest volume pomegranate production center in Iran.", "The harvesting campaign runs from the end of September through November."]
-    }
-  },
+    }, image: "/poi-images/saveh-pomegranate-orchards-life-v2.webp"},
   {
     id: "national-botanical-garden-iran-life-v2",
     type: "park",
@@ -526,8 +511,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A botanikus kert alapítási és tervezési munkálatai 1968-ban kezdődtek.", "Az intézmény zöldterülete összesen 145 hektáros területet ölel fel.", "A gyűjtemény több mint 3000 különböző növényfajt gondoz a világ minden tájáról.", "A komplexum 7 hazai és 6 nemzetközi éghajlati-földrajzi övezetet rekonstruál.", "A létesítmény központjában kialakított mesterséges tó 3 hektáros felületű.", "A kutatóközpont herbáriuma több ezer szárított növényi példányt őriz tudományos célokra."],
       ro: ["Proiectarea și fondarea Grădinii Botanice au început în anul 1968.", "Suprafața totală verde a instituției acoperă 145 de hectare.", "Colecția cultivă peste 3.000 de specii diferite de plante din întreaga lume.", "Complexul reconstituie 7 zone climatice naționale și 6 zone internaționale.", "Lacul artificial creat în centrul facilității are o suprafață de 3 hectare.", "Ierbarul centrului de cercetare păstrează mii de specimene uscate de plante."],
       en: ["The founding and design work for the botanical garden began in 1968.", "The institution's total green space covers an area of 145 hectares.", "The collection cultivates over 3,000 different plant species from around the world.", "The complex reconstructs 7 domestic and 6 international climatic-geographic zones.", "An artificial lake created in the center of the facility spans 3 hectares.", "The research center's herbarium preserves thousands of dried plant specimens."]
-    }
-  },
+    }, image: "/poi-images/national-botanical-garden-iran-life-v2.webp"},
   {
     id: "el-goli-park-life-v2",
     type: "park",
@@ -557,8 +541,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A négyzetes alaprajzú mesterséges tó vízfelülete 5,5 hektárt foglal el.", "A medence maximális vízmélysége a középpont felé eléri a 12 métert.", "A pavilonhoz egy dél felől bevezető töltéshíd biztosít közvetlen szárazföldi kapcsolatot.", "A tó eredetileg Tebriz keleti kertjeinek öntözővíz-tározójaként épült fel.", "A központi nyári palota a Kádzsár-korszakban kapta meg jelenlegi formáját.", "A park szolgálja ki Tebriz mintegy 1,5 millió lakosának rekreációs igényeit."],
       ro: ["Suprafața lacului artificial pătrat din parcul Elgoli este de 5,5 hectare.", "Adâncimea maximă a bazinului ajunge la 12 metri în zona centrală.", "Un pod lung, construit în partea de sud, oferă acces direct la pavilionul central.", "Lacul a fost inițial construit ca rezervor pentru irigarea grădinilor din estul Tabrizului.", "Pavilionul regal de vară și-a primit forma actuală în timpul perioadei Qajar.", "Parcul deservește nevoile de recreere ale celor aproximativ 1,5 milioane de locuitori din Tabriz."],
       en: ["The square-shaped artificial lake covers a water surface area of 5.5 hectares.", "The basin's maximum depth reaches 12 meters near the center.", "A causeway built from the south provides direct land access to the central pavilion.", "The lake was originally built as an irrigation reservoir for eastern Tabriz gardens.", "The central summer palace received its current architectural form during the Qajar era.", "The park serves the recreational needs of Tabriz's approximately 1.5 million residents."]
-    }
-  },
+    }, image: "/poi-images/el-goli-park-life-v2.webp"},
   {
     id: "dena-protected-area-life-v2",
     type: "wildlife-area",
@@ -588,8 +571,7 @@ export const poiExtraIranLifeV2: POI[] = [
       hu: ["A Dena Védett Terület közel 94 000 hektárnyi hegyvidéki tájat ölel fel.", "Az UNESCO 2010-ben nyilvánította a régiót nemzetközi bioszféra-rezervátummá.", "A masszívumban több mint 40 olyan hegycsúcs van, amely meghaladja a 4000 métert.", "A Dena legmagasabb pontja, a Kás-Masztán csúcs 4409 méteres magasságig emelkedik.", "A rezervátum több mint 1200, jelentős részben endemikus növényfajt véd.", "A hegyvidéki terület 169 különböző állatfajnak, köztük a perzsa leopárdnak ad otthont."],
       ro: ["Aria Protejată Dena cuprinde aproape 94.000 de hectare de peisaj montan.", "UNESCO a declarat regiunea rezervație internațională a biosferei în anul 2010.", "În masiv există peste 40 de vârfuri muntoase care depășesc 4.000 de metri.", "Cel mai înalt punct din Dena este Vârful Qash-Mastan, având 4.409 metri.", "Rezervația protejează peste 1.200 de specii de plante, multe dintre ele fiind endemice.", "Zona găzduiește 169 de specii de animale diferite, inclusiv leopardul persan."],
       en: ["The Dena Protected Area encompasses nearly 94,000 hectares of mountain landscape.", "UNESCO declared the region an international biosphere reserve in the year 2010.", "There are more than 40 mountain peaks in the massif that exceed 4,000 meters.", "The highest point of Dena, Qash-Mastan Peak, rises to an altitude of 4,409 meters.", "The reserve protects over 1,200 plant species, many of which are endemic.", "The mountainous area is home to 169 different animal species, including the Persian leopard."]
-    }
-  },
+    }, image: "/poi-images/dena-protected-area-life-v2.webp"},
   {
     id: "shadegan-wildlife-refuge-life-v2",
     type: "wildlife-area",

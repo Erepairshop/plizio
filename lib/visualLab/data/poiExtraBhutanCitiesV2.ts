@@ -33,8 +33,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Established as capital in 1961.", "Altitude: Approximately 2,334 meters.", "Population: Over 115,000 as of 2017.", "Home to the Tashichho Dzong, a fortress-monastery.", "Features the world's tallest sitting Buddha statue, Buddha Dordenma.", "The city has no traffic lights; intersections are manually directed.", "The National Memorial Chorten was built in 1974.", "The Motithang Takin Preserve protects Bhutan's national animal."]
-    }
-  },
+    }, image: "/poi-images/thimphu-cities-v2.webp"},
   {
     id: "phuntsholing-cities-v2",
     type: "city",
@@ -67,8 +66,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Borders the Indian town of Jaigaon.", "Serves as the main commercial hub of Bhutan.", "Altitude: Approximately 300 meters.", "The Bhutan Gate is a major landmark at the border crossing.", "The Zangto Pelri Lhakhang was built in the 1990s.", "Phuntsholing is the administrative seat of Chukha District.", "It experiences a hot, humid subtropical climate.", "Cross-border trade with India is the primary economic activity."]
-    }
-  },
+    }, image: "/poi-images/phuntsholing-cities-v2.webp"},
   {
     id: "paro-cities-v2",
     type: "city",
@@ -101,8 +99,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Home to Paro International Airport (PBH).", "Altitude: Approximately 2,200 meters.", "The famous Taktsang (Tiger's Nest) Monastery is located here.", "Rinpung Dzong, built in 1646, is a major landmark.", "The National Museum is housed in the Ta Dzong.", "The Paro Tshechu is one of the biggest religious festivals in Bhutan.", "Kyichu Lhakhang is one of the oldest temples in Bhutan, built in the 7th century.", "The main street was built in 1985."]
-    }
-  },
+    }, image: "/poi-images/paro-cities-v2.webp"},
   {
     id: "gelephu-cities-v2",
     type: "city",
@@ -135,8 +132,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Located in Sarpang District, southern Bhutan.", "Site of a planned major economic and administrative hub called 'Mindfulness City'.", "It has a domestic airport (GLU).", "Known for the Gelephu Tshachu (hot springs).", "Experiences a hot, subtropical climate.", "Major agricultural products include oranges and cardamom.", "Population was approximately 9,858 in 2017.", "It is one of the three designated points of entry for foreigners by road."]
-    }
-  },
+    }, image: "/poi-images/gelephu-cities-v2.webp"},
   {
     id: "samdrup-jongkhar-cities-v2",
     type: "city",
@@ -169,8 +165,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["It is the oldest town in southeastern Bhutan.", "Borders the Indian state of Assam.", "Serves as a major gateway to eastern Bhutan.", "The region is known for coal mining.", "Altitude: Approximately 280 meters.", "The Samdrup Jongkhar Dzong is the administrative headquarters.", "The town hosts a weekly market attracting traders from India.", "The Deothang town, site of a historic battle, is nearby."]
-    }
-  },
+    }, image: "/poi-images/samdrup-jongkhar-cities-v2.webp"},
   {
     id: "wangdue-phodrang-cities-v2",
     type: "city",
@@ -203,8 +198,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["The original Wangdue Phodrang Dzong was built in 1638.", "The historic dzong was destroyed by fire in June 2012.", "The dzong is currently being rebuilt with traditional methods.", "The town is located at the confluence of the Puna Tsang Chhu and Dang Chhu rivers.", "Altitude: Approximately 1,300 meters.", "The region is known for its distinctive bamboo work and stone carving.", "The nearby Phobjikha Valley is a wintering ground for black-necked cranes.", "It serves as the administrative center of Wangdue Phodrang District."]
-    }
-  },
+    }, image: "/poi-images/wangdue-phodrang-cities-v2.webp"},
   {
     id: "punakha-cities-v2",
     type: "city",
@@ -237,8 +231,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Former capital of Bhutan until 1955.", "Punakha Dzong was built in 1637 by Shabdrung Ngawang Namgyal.", "The dzong is located at the confluence of Pho Chhu and Mo Chhu rivers.", "Altitude: Approximately 1,200 meters.", "Site of the coronation of the first king, Ugyen Wangchuck, in 1907.", "Hosts the Punakha Tshechu and Drubchen festivals.", "The nearby Chimi Lhakhang temple is dedicated to fertility.", "The valley is a major rice-producing area."]
-    }
-  },
+    }, image: "/poi-images/punakha-cities-v2.webp"},
   {
     id: "jakar-cities-v2",
     type: "city",
@@ -271,8 +264,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Located in the Bumthang Valley, the spiritual center of Bhutan.", "Jakar Dzong was constructed in 1667.", "Altitude: Approximately 2,600 meters.", "The region is known for its 'four valleys' geography.", "Home to ancient temples like Jambay Lhakhang (7th century).", "Famous for producing Swiss-style cheese and Red Panda beer.", "The Wangduechhoeling Palace was the first palace of the Wangchuck dynasty.", "Bumthang is a major producer of buckwheat in Bhutan."]
-    }
-  },
+    }, image: "/poi-images/jakar-cities-v2.webp"},
   {
     id: "mongar-cities-v2",
     type: "city",
@@ -305,8 +297,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Known as the gateway to Eastern Bhutan.", "The town is built on a hillside, not in a valley.", "Mongar Dzong was built in 1930 at the request of the third king.", "The journey to Mongar crosses the high Thrumshingla Pass (3,750m).", "Altitude of the town is approximately 1,600 meters.", "The region is noted for its weavers and textiles.", "It is the administrative capital of Mongar District.", "The area is famous for the production of corn."]
-    }
-  },
+    }, image: "/poi-images/mongar-cities-v2.webp"},
   {
     id: "trashigang-cities-v2",
     type: "city",
@@ -339,8 +330,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Largest town in eastern Bhutan.", "Trashigang Dzong was built in 1659 to defend against Tibetan invasions.", "Altitude: Approximately 1,150 meters.", "It serves as a market town for the Brokpa people of Merak and Sakteng.", "Sherubtse College, Bhutan's first, is located in the district.", "The dzong overlooks the confluence of the Drangme Chhu and Gamri Chhu.", "The town was once a busy trade center with Tibet.", "Gom Kora temple, a popular pilgrimage site, is a short drive away."]
-    }
-  },
+    }, image: "/poi-images/trashigang-cities-v2.webp"},
   {
     id: "trongsa-cities-v2",
     type: "city",
@@ -373,8 +363,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Ancestral home of the Bhutanese Royal Family.", "Trongsa Dzong is the largest dzong in Bhutan, built in 1644.", "Located in the geographical center of the country.", "The first and second kings of Bhutan ruled the country from Trongsa.", "Altitude: Approximately 2,200 meters.", "The Ta Dzong (watchtower) above the main fortress is now a museum.", "The title 'Penlop of Trongsa' is traditionally held by the crown prince.", "The town's name means 'new village' in Dzongkha."]
-    }
-  },
+    }, image: "/poi-images/trongsa-cities-v2.webp"},
   {
     id: "samtse-cities-v2",
     type: "city",
@@ -407,8 +396,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Located in southwestern Bhutan, near the border with India.", "Administrative headquarters of Samtse District.", "Home to Samtse College of Education, established in 1968.", "The district is a major producer of oranges and cardamom.", "Population is predominantly of Lhotshampa (Nepali-speaking) origin.", "Altitude: Approximately 415 meters.", "The region is known for its deposits of talc and dolomite.", "Samtse was previously known as Sipsu."]
-    }
-  },
+    }, image: "/poi-images/samtse-cities-v2.webp"},
   {
     id: "damphu-cities-v2",
     type: "city",
@@ -441,8 +429,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Administrative center of Tsirang District.", "The district is renowned for its high agricultural productivity.", "Major products include organic oranges, cardamom, and vegetables.", "Altitude: Approximately 1,100 meters.", "The population is largely Lhotshampa.", "A new dzong was consecrated in Tsirang in 2008.", "The area is known for its gentle slopes and mild climate.", "The name 'Tsirang' is believed to mean 'leafy slope'."]
-    }
-  },
+    }, image: "/poi-images/damphu-cities-v2.webp"},
   {
     id: "haa-cities-v2",
     type: "city",
@@ -475,8 +462,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["The Haa Valley opened to tourism in 2002.", "Located in western Bhutan, bordering Tibet.", "Altitude: Approximately 2,700 meters.", "Home to the Lhakhang Karpo (White Temple) and Lhakhang Nagpo (Black Temple).", "The Indian Military Training Team (IMTRAT) has a base here.", "The Haa Summer Festival showcases local culture.", "The main crops are wheat, barley, and potatoes.", "The valley is known for its traditional shamanistic rituals."]
-    }
-  },
+    }, image: "/poi-images/haa-cities-v2.webp"},
   {
     id: "lhuntse-cities-v2",
     type: "city",
@@ -509,8 +495,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Ancestral home of the Bhutanese Royal Family.", "Renowned for its master weavers and high-quality textiles (Kishu Thara).", "Lhuntse Dzong overlooks the Kuri Chhu river.", "Altitude: Approximately 1,460 meters.", "It is one of the most rural and isolated districts in Bhutan.", "The world's largest statue of Guru Padmasambhava is located in the district.", "The landscape is rugged and mountainous.", "Weaving is a primary source of income for many households."]
-    }
-  },
+    }, image: "/poi-images/lhuntse-cities-v2.webp"},
   {
     id: "pemagatshel-cities-v2",
     type: "city",
@@ -577,8 +562,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Located in south-central Bhutan.", "Known for its rich biodiversity and pristine forests.", "Home to the rare Golden Langur primate.", "The district includes a large part of Royal Manas National Park.", "The inhabitants are known as Khengpas and speak the Khengkha dialect.", "Altitude of the town is approximately 1,900 meters.", "Zhemgang Dzong was founded by Lama Zhang Dorje Drakpa in the 12th century.", "It is one of the least developed districts in Bhutan."]
-    }
-  },
+    }, image: "/poi-images/zhemgang-cities-v2.webp"},
   {
     id: "gasa-cities-v2",
     type: "city",
@@ -611,8 +595,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Northernmost and least populated district in Bhutan.", "Gasa Dzong, also known as Tashi Thongmoen Dzong, was built in the 1640s.", "Altitude of Gasa town is approximately 2,850 meters.", "Famous for the Gasa Tshachu (hot springs).", "Home to the Layap nomadic community.", "The district is a major habitat for the national animal, the Takin.", "Experiences heavy snowfall in winter.", "Cordyceps collection is a major source of income for the locals."]
-    }
-  },
+    }, image: "/poi-images/gasa-cities-v2.webp"},
   {
     id: "daga-cities-v2",
     type: "city",
@@ -645,8 +628,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Administrative center of Dagana District.", "Daga Dzong was built in 1651 by Shabdrung Ngawang Namgyal.", "The district is a major producer of oranges and cardamom.", "Altitude: Approximately 1,500 meters.", "The name 'Dagana' is derived from 'Darkala', a deity.", "The district is known for its ethnic diversity.", "The landscape is characterized by steep slopes and deep valleys.", "It is one of the less accessible districts in Bhutan."]
-    }
-  },
+    }, image: "/poi-images/daga-cities-v2.webp"},
   {
     id: "nganglam-cities-v2",
     type: "city",
@@ -713,8 +695,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Administrative capital of Sarpang District.", "Located on the border with Assam, India.", "The original town was relocated due to repeated flooding from the Sarpang River.", "Altitude: Approximately 210 meters.", "The economy is largely agrarian, with oranges as a key product.", "The Phibsoo Wildlife Sanctuary is located in the district.", "The climate is hot and humid subtropical.", "It is a key entry point for trade from India."]
-    }
-  },
+    }, image: "/poi-images/sarpang-cities-v2.webp"},
   {
     id: "tsimasham-cities-v2",
     type: "city",
@@ -747,8 +728,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Headquarters of Chukha District.", "The town is also commonly called Chukha.", "Located on the Thimphu-Phuntsholing highway.", "Altitude: Approximately 1,800 meters.", "The district is home to Bhutan's first major hydropower project, Chukha Hydel.", "The larger Tala Hydroelectric Project is also in Chukha district.", "The town offers panoramic views of the surrounding area.", "It serves as a key administrative, not commercial, center."]
-    }
-  },
+    }, image: "/poi-images/tsimasham-cities-v2.webp"},
   {
     id: "deothang-cities-v2",
     type: "city",
@@ -815,8 +795,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Home to Sherubtse College, Bhutan's first modern degree college (1966).", "Located in Trashigang District, Eastern Bhutan.", "Altitude: Approximately 1,750 meters.", "Sherubtse College is a constituent college of the Royal University of Bhutan.", "The town's economy and social life revolve around the college.", "It is located on the main highway connecting Trashigang and Samdrup Jongkhar.", "The name 'Kanglung' means 'at the foot of the hill'.", "The Zangdopelri Lhakhang is a notable temple in the town."]
-    }
-  },
+    }, image: "/poi-images/kanglung-cities-v2.webp"},
   {
     id: "gyalpozhing-cities-v2",
     type: "city",
@@ -883,8 +862,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["A key stopover town on the Samdrup Jongkhar-Trashigang highway.", "Located in Trashigang District.", "Altitude: Approximately 1,950 meters.", "The economy is heavily dependent on highway transit.", "It serves as a sub-district (Dungkhag) headquarters.", "The inhabitants are mostly Sharchop.", "The surrounding area is characterized by temperate broadleaf forests.", "The town has basic amenities for travelers."]
-    }
-  },
+    }, image: "/poi-images/wamrong-cities-v2.webp"},
   {
     id: "rangjung-cities-v2",
     type: "city",
@@ -917,8 +895,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Located in the Radhi valley, Trashigang District.", "Home to the prominent Rangjung Woesel Choeling Monastery.", "The surrounding valley is known as the 'Rice Bowl of the East'.", "Altitude: Approximately 1,400 meters.", "The region is famous for its 'Bura' (raw silk) weaving.", "The monastery was founded by H.E. Garab Rinpoche in 1989.", "Acts as a gateway to the nomadic regions of Merak and Sakteng.", "The town has developed significantly around the monastery."]
-    }
-  },
+    }, image: "/poi-images/rangjung-cities-v2.webp"},
   {
     id: "khuruthang-cities-v2",
     type: "city",
@@ -951,8 +928,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["A new, planned town in Punakha District.", "Serves as the main commercial center for the Punakha valley.", "Located a few kilometers south of the Punakha Dzong.", "Built on the fertile plains of the Puna Tsang Chhu.", "Altitude: Approximately 1,250 meters.", "Features a modern grid layout, unlike older towns.", "Hosts the Punakha Higher Secondary School.", "Established to relieve population pressure on the old town area."]
-    }
-  },
+    }, image: "/poi-images/khuruthang-cities-v2.webp"},
   {
     id: "trashi-yangtse-cities-v2",
     type: "city",
@@ -985,8 +961,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Known for its woodworking, especially the creation of 'dapa' (wooden bowls).", "Home to the School of Traditional Arts (Zorig Chusum).", "The Chorten Kora stupa is a major pilgrimage site.", "Altitude: Approximately 1,850 meters.", "The district was created in 1992, separating from Trashigang.", "Bumdeling Wildlife Sanctuary, a RAMSAR site, is in the district.", "The sanctuary is a wintering home for black-necked cranes.", "The town has a very relaxed, traditional atmosphere."]
-    }
-  },
+    }, image: "/poi-images/trashi-yangtse-cities-v2.webp"},
   {
     id: "lhamoizingkha-cities-v2",
     type: "city",

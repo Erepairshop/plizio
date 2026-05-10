@@ -23,8 +23,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Az ország legnagyobb nemzeti parkja", "Fontos keselyű-élőhely", "Híres az oroszlán-megfigyelésekről", "Hatalmas patás csordák"],
       ro: ["Cel mai mare parc național al țării", "Habitat important pentru vulturi", "Faimos pentru observarea leilor", "Turme mari de ungulate"],
       en: ["Country's largest national park", "Important vulture habitat", "Famous for lion sightings", "Large herds of ungulates"]
-    }
-  },
+    }, image: "/poi-images/hlane-national-park-life-v2.webp"},
   {
     id: "mkhaya-game-reserve-life-v2",
     type: "animal-habitat",
@@ -47,8 +46,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Orrszarvú-védelmi terület", "Látható itt tsessebe antilop", "Névadója a Mkhaya fa", "Kizárólag vezetett szafarik"],
       ro: ["Sanctuar pentru rinoceri", "Observarea antilopelor tsessebe", "Numit după arborele Mkhaya", "Exclusiv pentru safari ghidate"],
       en: ["Sanctuary for rhinos", "Sightings of tsessebe antelope", "Named after the Mkhaya tree", "Exclusive for guided safaris"]
-    }
-  },
+    }, image: "/poi-images/mkhaya-game-reserve-life-v2.webp"},
   {
     id: "mlilwane-sanctuary-life-v2",
     type: "animal-habitat",
@@ -71,8 +69,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Nincsenek nagy ragadozók", "Ideális túrázáshoz és biciklizéshez", "A természetvédelem úttörője", "Vízilovak is élnek itt"],
       ro: ["Fără prădători mari", "Ideal pentru drumeții și ciclism", "Pionier al conservării", "Prezența hipopotamilor"],
       en: ["No large predators", "Ideal for hiking and cycling", "Pioneer of conservation", "Presence of hippos"]
-    }
-  },
+    }, image: "/poi-images/mlilwane-sanctuary-life-v2.webp"},
   {
     id: "mbuluzi-game-reserve-life-v2",
     type: "animal-habitat",
@@ -95,8 +92,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Több mint 300 madárfaj", "Zsiráfok megfigyelése", "A Mbuluzi-folyó partján", "Számos gyalogos vadmegfigyelő út"],
       ro: ["Peste 300 de specii de păsări", "Observarea girafelor", "Pe malul râului Mbuluzi", "Trasee pentru observarea animalelor"],
       en: ["Over 300 bird species", "Sightings of giraffes", "On the banks of Mbuluzi River", "Many trails for game viewing"]
-    }
-  },
+    }, image: "/poi-images/mbuluzi-game-reserve-life-v2.webp"},
   {
     id: "mlawula-reserve-life-v2",
     type: "animal-habitat",
@@ -119,8 +115,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Ritka vasfa erdők", "Pitonok élőhelye", "A Lubombo-gerinc mellett", "Veszélyeztetett madarak menedéke"],
       ro: ["Păduri rare de lemn de fier", "Habitat pentru pitoni", "Se învecinează cu creasta Lubombo", "Refugiu pentru păsări pe cale de dispariție"],
       en: ["Rare ironwood forests", "Habitat for pythons", "Borders the Lubombo ridge", "Haven for endangered birds"]
-    }
-  },
+    }, image: "/poi-images/mlawula-reserve-life-v2.webp"},
   {
     id: "nisela-safaris-life-v2",
     type: "animal-habitat",
@@ -143,8 +138,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Krokodil-megfigyelésről híres", "A forró Lowveld vidéken található", "Antilopok a környéken", "Népszerű iskolai kirándulóhely"],
       ro: ["Faimos pentru crocodili", "Situat în zona caldă Lowveld", "Antilope în împrejurimi", "Destinație pentru excursii școlare"],
       en: ["Known for crocodile viewing", "Located in the hot Lowveld", "Antelopes in the area", "Popular school trip destination"]
-    }
-  },
+    }, image: "/poi-images/nisela-safaris-life-v2.webp"},
   {
     id: "royal-jozini-reserve-life-v2",
     type: "animal-habitat",
@@ -167,8 +161,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Elefánt-folyosó", "A Jozini-tó partján", "Vízimadarakban gazdag", "Jelentős ökoturisztikai projekt"],
       ro: ["Coridor pentru elefanți", "Pe malul lacului Jozini", "Bogat în păsări de apă", "Proiect important de ecoturism"],
       en: ["Elephant corridor", "On the shores of Jozini Lake", "Rich in water birds", "Major ecotourism project"]
-    }
-  },
+    }, image: "/poi-images/royal-jozini-reserve-life-v2.webp"},
   {
     id: "malolotja-birds-life-v2",
     type: "animal-habitat",
@@ -191,8 +184,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Kék fecske védelme", "Fontos madármegfigyelő hely", "Magaslati ökoszisztéma", "Tarvarjak élőhelye"],
       ro: ["Protejarea rândunicii albastre", "Zonă importantă pentru păsări", "Ecosistem de munte", "Prezența ibișilor pleșuvi"],
       en: ["Protection of Blue Swallow", "Important birding area", "High-altitude ecosystem", "Presence of Bald Ibis"]
-    }
-  },
+    }, image: "/poi-images/malolotja-birds-life-v2.webp"},
   {
     id: "phophonyane-fauna-life-v2",
     type: "animal-habitat",
@@ -239,8 +231,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Gyertyaöntés megtekintése", "Színes állatfigurák", "Interaktív workshopok", "Családok kedvence"],
       ro: ["Vizualizarea modelării ceară", "Figurine de animale colorate", "Ateliere interactive", "Popular printre familii"],
       en: ["Watch candle molding", "Colorful animal shapes", "Interactive workshops", "Family favorite"]
-    }
-  },
+    }, image: "/poi-images/swazi-candles-life-v2.webp"},
   {
     id: "ngwenya-glass-life-v2",
     type: "kid-landmark",
@@ -263,8 +254,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Üvegfúvó bemutatók", "100% újrahasznosított üveg", "Oktató jellegű iskolásoknak", "Kis üvegállatkák"],
       ro: ["Demonstrații de suflare a sticlei", "100% sticlă reciclată", "Educativ pentru elevi", "Mici figurine de sticlă"],
       en: ["Glass blowing demos", "100% recycled glass", "Educational for students", "Small glass animal figures"]
-    }
-  },
+    }, image: "/poi-images/ngwenya-glass-life-v2.webp"},
   {
     id: "mantenga-village-life-v2",
     type: "kid-landmark",
@@ -311,8 +301,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Az ananásztermesztés központja", "Termékeny vulkáni föld", "Jelentős exporttermék", "Nagy konzervgyár a közelben"],
       ro: ["Centrul cultivării ananasului", "Pământ vulcanic fertil", "Produs de export major", "Fabrică mare de conserve locală"],
       en: ["Center of pineapple farming", "Fertile volcanic soil", "Significant export item", "Major cannery on site"]
-    }
-  },
+    }, image: "/poi-images/malkerns-pineapples-life-v2.webp"},
   {
     id: "big-bend-sugar-life-v2",
     type: "agriculture",
@@ -335,8 +324,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Legnagyobb cukorrégió", "Intenzív öntözés", "A cukoripar alapja", "Legfontosabb munkaadó"],
       ro: ["Cea mai mare regiune de zahăr", "Irigare intensivă", "Baza industriei zahărului", "Cel mai important angajator"],
       en: ["Largest sugar region", "Intensive irrigation", "Basis of sugar industry", "Main employer in the area"]
-    }
-  },
+    }, image: "/poi-images/big-bend-sugar-life-v2.webp"},
   {
     id: "simunye-estate-life-v2",
     type: "agriculture",
@@ -359,8 +347,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Legmodernebb cukorgyár", "Hatalmas művelt területek", "Fenntartható öntözés", "Gazdasági központ"],
       ro: ["Cea mai modernă fabrică de zahăr", "Suprafețe imense cultivate", "Irigare sustenabilă", "Centru economic"],
       en: ["Modern sugar mill", "Vast cultivated areas", "Sustainable irrigation", "Economic hub"]
-    }
-  },
+    }, image: "/poi-images/simunye-estate-life-v2.webp"},
   {
     id: "mhlume-agriculture-life-v2",
     type: "agriculture",
@@ -407,8 +394,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Kistermelői fókusz", "Változatos zöldségtermelés", "Közösségi irányítás", "Közvetlen értékesítés"],
       ro: ["Focus pe micii fermieri", "Producție diversă de legume", "Administrare comunitară", "Marketing direct"],
       en: ["Focus on smallholders", "Diverse vegetable production", "Community management", "Direct marketing"]
-    }
-  },
+    }, image: "/poi-images/vuvulane-farms-life-v2.webp"},
   {
     id: "tambankulu-citrus-life-v2",
     type: "agriculture",
@@ -431,8 +417,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Citrusfélék exportra", "Jelentős narancsültetvények", "Ideális Lowveld klíma", "Modern csomagolóüzemek"],
       ro: ["Citrice pentru export", "Plantații de portocali", "Climat ideal în Lowveld", "Instalații de ambalare moderne"],
       en: ["Citrus for export", "Major orange orchards", "Ideal Lowveld climate", "Modern packing facilities"]
-    }
-  },
+    }, image: "/poi-images/tambankulu-citrus-life-v2.webp"},
   {
     id: "ubombo-sugar-life-v2",
     type: "agriculture",
@@ -455,8 +440,7 @@ export const poiExtraSwazilandLifeV2: POI[] = [
       hu: ["Hagyományokban gazdag", "Nagy cukornádmalom", "Fontos része a GDP-nek", "Regionális infrastruktúra"],
       ro: ["Sit bogat în tradiție", "Moară mare de trestie", "Parte importantă a PIB-ului", "Infrastructură regională"],
       en: ["Rich in tradition", "Large sugar cane mill", "Important part of GDP", "Regional infrastructure"]
-    }
-  },
+    }, image: "/poi-images/ubombo-sugar-life-v2.webp"},
   {
     id: "luyengo-campus-life-v2",
     type: "agriculture",

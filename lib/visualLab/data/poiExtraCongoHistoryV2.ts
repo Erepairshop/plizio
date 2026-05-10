@@ -23,13 +23,13 @@ export const poiExtraCongoHistoryV2: POI[] = [
     description: {
       de: "Ein historischer Ort an der Küste, von dem aus Millionen von Menschen während des transatlantischen Sklavenhandels verschifft wurden.",
       hu: "Történelmi helyszín a tengerparton, ahonnan emberek millióit szállították el a transzatlanti rabszolga-kereskedelem során.",
-      ro: "Un sit istoric de pe coastă, de unde milioane de oameni au fost îmbarcați în timpul comerțului transatlantic cu sclavi.",
+      ro: "Loango a fost un port de îmbarcare pe coasta Atlanticului, legat de comerțul transatlantic cu sclavi. Astăzi situl este cunoscut ca loc de memorie istorică.",
       en: "A historical site on the coast from which millions of people were shipped during the transatlantic slave trade."
     },
     facts: {
       de: ["UNESCO-Tentativliste", "Gedenkstätte für die Opfer", "Bedeutender Exporthafen", "Historische Ruinen"],
       hu: ["UNESCO világörökségi jelölt", "Emlékhely az áldozatoknak", "Jelentős exportkikötő", "Történelmi romok"],
-      ro: ["Lista tentativă UNESCO", "Loc de comemorare a victimelor", "Port de export major", "Ruine istorice"],
+      ro: ["Pe coasta Atlanticului", "Legat de comerțul cu sclavi", "Sit de memorie"],
       en: ["UNESCO tentative list", "Memorial for the victims", "Major export port", "Historical ruins"]
     }, image: "/poi-images/cg-loango-slave-port-history-v2.webp"},
   {
@@ -81,13 +81,13 @@ export const poiExtraCongoHistoryV2: POI[] = [
     }
   },
     description: {
-      de: "Gegründet im Jahr 1883, war dies die erste katholische Missionsstation im heutigen Kongo.",
+      de: "Gegründet im Jahr 1883, war die Mission von Linzolo die erste katholische Missionsstation im heutigen Kongo. Der Ort markiert den Beginn einer neuen religiösen und schulischen Präsenz in der Region.",
       hu: "Az 1883-ban alapított állomás volt az első katolikus misszió a mai Kongó területén.",
       ro: "Fondată în 1883, aceasta a fost prima stație de misiune catolică din Congo-ul de astăzi.",
       en: "Founded in 1883, this was the first Catholic mission station in present-day Congo."
     },
     facts: {
-      de: ["Gegründet 1883", "Erste Mission im Land", "Historische Kirche", "Koloniales Erbe"],
+      de: ["Gegründet 1883", "Erste katholische Mission im Land", "Historischer Missionsort", "Wichtige frühe Kirche"],
       hu: ["1883-ban alapították", "Az ország első missziója", "Történelmi templom", "Gyarmati örökség"],
       ro: ["Fondată în 1883", "Prima misiune din țară", "Biserică istorică", "Moștenire colonială"],
       en: ["Founded in 1883", "First mission in the country", "Historic church", "Colonial heritage"]
@@ -113,13 +113,13 @@ export const poiExtraCongoHistoryV2: POI[] = [
     description: {
       de: "Eine beeindruckende Basilika in Brazzaville, bekannt für ihre Architektur mit grünen Dachziegeln.",
       hu: "Lenyűgöző bazilika Brazzaville-ben, amely zöld tetőcserepeiről és különleges építészetéről ismert.",
-      ro: "O bazilică impresionantă în Brazzaville, cunoscută pentru arhitectura sa cu țigle verzi.",
+      ro: "Basilica Sainte-Anne-du-Congo este o biserică catolică monumentală din Brazzaville. Clădirea are un acoperiș verde și este una dintre imaginile emblematice ale orașului.",
       en: "An impressive basilica in Brazzaville, known for its architecture and distinctive green roof tiles."
     },
     facts: {
       de: ["Vom Architekten Roger Erell", "Bau begann 1943", "Grüne Dachziegel", "Wahrzeichen von Brazzaville"],
       hu: ["Roger Erell tervezte", "Az építés 1943-ban kezdődött", "Zöld tetőcserepek", "Brazzaville jelképe"],
-      ro: ["Proiectată de Roger Erell", "Construcția a început în 1943", "Țigle verzi", "Simbol al orașului Brazzaville"],
+      ro: ["În Brazzaville", "Lăcaș catolic", "Acoperiș verde"],
       en: ["Designed by Roger Erell", "Construction started in 1943", "Green roof tiles", "Landmark of Brazzaville"]
     }, image: "/poi-images/cg-sainte-anne-basilica-history-v2.webp"},
   {
@@ -172,15 +172,15 @@ export const poiExtraCongoHistoryV2: POI[] = [
   },
     description: {
       de: "Die historische Hauptstadt des Téké-Königreichs und Residenz des Makoko (Königs).",
-      hu: "A Téké Királyság történelmi fővárosa és a Makoko (király) székhelye.",
-      ro: "Capitala istorică a Regatului Téké și reședința lui Makoko (regele).",
-      en: "The historical capital of the Téké Kingdom and the residence of the Makoko (king)."
+      hu: "Mb? a T?k? Kir?lys?g t?rt?nelmi k?zpontja volt. A hely a makok?i hatalomhoz ?s a hagyom?nyos kir?lys?gi szervezethez kapcsol?dik.",
+      ro: "Mbé este un domeniu regal asociat culturii Teke și istoriei politice din centrul țării. Situl a ajuns pe lista tentativă UNESCO pentru valoarea sa culturală.",
+      en: "M'bé Historic Site is linked to the royal history of the Téké people in central Congo. It is remembered as an important traditional and political center."
     },
     facts: {
       de: ["Sitz des Makoko", "Téké-Königreich", "UNESCO-Weltkulturerbe-Kandidat", "Traditionelle Hauptstadt"],
-      hu: ["A Makoko székhelye", "Téké Királyság", "UNESCO Világörökségi jelölt", "Hagyományos főváros"],
-      ro: ["Sediul lui Makoko", "Regatul Téké", "Candidat Patrimoniu UNESCO", "Capitală tradițională"],
-      en: ["Seat of the Makoko", "Téké Kingdom", "UNESCO tentative list", "Traditional capital"]
+      hu: ["T?k? Kir?lys?g k?zpontja", "A Makoko sz?khelye", "Hagyom?nyos hatalmi hely", "T?rt?nelmi eml?khely"],
+      ro: ["Legat de Teke", "Situl regal", "Listă tentativă UNESCO"],
+      en: ["Linked to the Téké monarchy", "Historic royal center", "In central Congo"]
     }
   },
   {
@@ -202,16 +202,16 @@ export const poiExtraCongoHistoryV2: POI[] = [
     }
   },
     description: {
-      de: "Die Residenz von Charles de Gaulle in Brazzaville, als die Stadt die Hauptstadt von 'Freies Frankreich' war.",
-      hu: "Charles de Gaulle rezidenciája Brazzaville-ben, amikor a város a Szabad Franciaország fővárosa volt.",
+      de: "Die Case de Gaulle erinnert an die französische Kolonialzeit in Brazzaville. Das Gebäude steht für die politische und militärische Geschichte der Hauptstadt im 20. Jahrhundert.",
+      hu: "A Brazzaville-i Case de Gaulle Charles de Gaulle egykori rezidenci?ja volt a m?sodik vil?gh?bor? idej?n. Az ?p?let a v?ros szabadfrancia korszak?nak eml?ke.",
       ro: "Reședința lui Charles de Gaulle în Brazzaville, când orașul era capitala Franței Libere.",
-      en: "The residence of Charles de Gaulle in Brazzaville when the city served as the capital of Free France."
+      en: "Case de Gaulle is a colonial-era site in Brazzaville associated with Charles de Gaulle and Free France. It remains one of the city's best-known historical addresses."
     },
     facts: {
-      de: ["Gebaut 1941", "Hauptstadt von Freies Frankreich", "Historische Residenz", "Am Fluss gelegen"],
-      hu: ["1941-ben épült", "A Szabad Franciaország fővárosa", "Történelmi rezidencia", "A folyóparton fekszik"],
+      de: ["In Brazzaville", "Kolonialzeit", "Historisches Gebäude", "Mit Frankreich verbunden"],
+      hu: ["De Gaulle rezidenci?ja", "Szabad Franciaorsz?g korszaka", "Brazzaville-ben van", "Gyarmati eml?khely"],
       ro: ["Construită în 1941", "Capitala Franței Libere", "Reședință istorică", "Situată lângă râu"],
-      en: ["Built in 1941", "Capital of Free France", "Historic residence", "Located by the river"]
+      en: ["In Brazzaville", "Linked to Free France", "Colonial-era site"]
     }, image: "/poi-images/cg-case-de-gaulle-history-v2.webp"},
   {
     id: "cg-sacre-coeur-cathedral-history-v2",
@@ -232,16 +232,16 @@ export const poiExtraCongoHistoryV2: POI[] = [
     }
   },
     description: {
-      de: "Die älteste Kathedrale Zentralafrikas, ein wichtiges Zeugnis der kolonialen Architektur.",
+      de: "Die Kathedrale Sacré-Cœur ist eine bedeutende katholische Kirche in Brazzaville. Sie prägt das religiöse Stadtbild der Hauptstadt mit ihrer markanten Lage und Architektur.",
       hu: "Közép-Afrika legrégebbi székesegyháza, a gyarmati építészet egyik fontos emléke.",
-      ro: "Cea mai veche catedrală din Africa Centrală, un reper important al arhitecturii coloniale.",
-      en: "The oldest cathedral in Central Africa, an important witness to colonial architecture."
+      ro: "Catedrala Sfânta Inimă din Brazzaville este o biserică catolică importantă din centrul capitalei. Este unul dintre reperele religioase vechi ale orașului.",
+      en: "Sacré-Cœur Cathedral of Brazzaville is a major Catholic church in the capital. Its long presence makes it one of the city's important religious monuments."
     },
     facts: {
-      de: ["Bau begann 1892", "Älteste Kathedrale der Region", "Kolonialstil", "Religiöses Zentrum"],
+      de: ["In Brazzaville", "Katholische Kathedrale", "Religiöses Wahrzeichen", "Markante Architektur"],
       hu: ["Az építés 1892-ben kezdődött", "A régió legöregebb katedrálisa", "Gyarmati stílus", "Vallási központ"],
-      ro: ["Construcția a început în 1892", "Cea mai veche catedrală din regiune", "Stil colonial", "Centru religios"],
-      en: ["Construction started in 1892", "Oldest cathedral in the region", "Colonial style", "Religious center"]
+      ro: ["În Brazzaville", "Biserică catolică", "Reper religios"],
+      en: ["In Brazzaville", "Catholic cathedral", "Religious monument"]
     }, image: "/poi-images/cg-sacre-coeur-cathedral-history-v2.webp"},
   {
     id: "cg-pointe-noire-lighthouse-history-v2",
@@ -262,16 +262,16 @@ export const poiExtraCongoHistoryV2: POI[] = [
     }
   },
     description: {
-      de: "Ein historisches Wahrzeichen der Hafenstadt, das seit Jahrzehnten den Schiffen am Atlantik den Weg weist.",
+      de: "Der Leuchtturm von Pointe-Noire sicherte die Navigation an der Atlantikküste. Er steht für die maritime Geschichte der Hafenstadt und ihren Bezug zum Meer.",
       hu: "A kikötőváros történelmi jelképe, amely évtizedek óta mutatja az utat a hajóknak az Atlanti-óceánon.",
-      ro: "Un reper istoric al orașului portuar, care ghidează navele de pe Atlantic de zeci de ani.",
-      en: "A historical landmark of the port city that has guided ships on the Atlantic for decades."
+      ro: "Farul din Pointe-Noire marchează intrarea spre port și ajută navigația de pe coasta atlantică. Este un reper maritim al orașului portuar.",
+      en: "Pointe-Noire Lighthouse is a coastal navigation landmark near the city's port area. It helped guide ships along the Atlantic shoreline."
     },
     facts: {
-      de: ["Historisches Leuchtfeuer", "Wahrzeichen am Atlantik", "Maritimes Erbe", "Panoramablick"],
+      de: ["An der Atlantikküste", "Navigation für Schiffe", "Teil der Hafenstadt", "Maritime Geschichte"],
       hu: ["Történelmi fényforrás", "Atlanti-parti jelkép", "Tengerészeti örökség", "Panorámás kilátás"],
-      ro: ["Far istoric", "Simbol la Atlantic", "Moștenire maritimă", "Vedere panoramică"],
-      en: ["Historic beacon", "Atlantic landmark", "Maritime heritage", "Panoramic view"]
+      ro: ["Lângă port", "Pe coasta Atlanticului", "Reper maritim"],
+      en: ["In Pointe-Noire", "Coastal lighthouse", "Port navigation aid"]
     }, image: "/poi-images/cg-pointe-noire-lighthouse-history-v2.webp"},
   {
     id: "cg-brazzaville-train-station-history-v2",
@@ -293,15 +293,15 @@ export const poiExtraCongoHistoryV2: POI[] = [
   },
     description: {
       de: "Der Endpunkt der Kongo-Ozean-Bahn, ein historisches Gebäude aus der Zeit der industriellen Erschließung.",
-      hu: "A Kongó-Óceán vasút végállomása, az ipari fejlődés korának történelmi épülete.",
-      ro: "Capătul liniei ferate Congo-Ocean, o clădire istorică din perioada expansiunii industriale.",
-      en: "The terminus of the Congo-Ocean Railway, a historical building from the era of industrial expansion."
+      hu: "A Brazzaville-i vas?t?llom?s a t?rt?nelmi Kongo-Oce?n vas?t fontos v?rosi pontja. A f?v?ros ?s az orsz?g bels? r?sze k?z?tti kapcsolatot id?zi.",
+      ro: "Gara din Brazzaville este capătul estic al liniei Congo-Océan. Clădirea leagă capitala de Pointe-Noire prin rețeaua feroviară națională.",
+      en: "The Old Brazzaville Railway Station is part of the city's CFCO transport heritage. It reflects the era when rail travel linked the capital to the coast."
     },
     facts: {
       de: ["Endpunkt der CFCO", "Architektur des 20. Jahrhunderts", "Bedeutender Verkehrsknoten", "Historischer Kern"],
-      hu: ["A CFCO végpontja", "20. századi építészet", "Jelentős közlekedési csomópont", "Történelmi mag"],
-      ro: ["Terminusul CFCO", "Arhitectură de secol XX", "Nod de transport major", "Nucleu istoric"],
-      en: ["Terminus of the CFCO", "20th-century architecture", "Major transport hub", "Historic core"]
+      hu: ["T?rt?nelmi vas?tvonal", "F?v?rosi ?llom?s", "Bels? kapcsolatok", "K?zleked?si ?r?ks?g"],
+      ro: ["Capătul estic al CFCO", "Leagă de Pointe-Noire", "În centrul capitalei"],
+      en: ["In Brazzaville", "CFCO heritage", "Rail transport history"]
     }
   },
   {
@@ -316,16 +316,16 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Old Boundji Mission"
     },
     description: {
-      de: "Eine der frühesten Missionsstationen im Inneren des Landes, die eine Schlüsselrolle bei der Bildung spielte.",
-      hu: "Az ország belsejének egyik legkorábbi missziós állomása, amely kulcsszerepet játszott az oktatásban.",
+      de: "Die alte Mission von Boundji erinnert an die frühe kirchliche Präsenz im nördlichen Inland. Sie ist ein stilles Zeugnis der Missionsgeschichte in der Cuvette.",
+      hu: "A Boundji-i r?gi misszi? a korai kereszt?ny jelenl?t egyik eml?ke ?szak-Kong?ban. Az ?p?let a vall?si ?s oktat?si terjeszked?s korszak?t id?zi.",
       ro: "Una dintre primele stații de misiune din interiorul țării, având un rol cheie în educație.",
-      en: "One of the earliest mission stations in the interior of the country, playing a key role in education."
+      en: "The Old Boundji Mission preserves the memory of early missionary activity in the Cuvette region. It stands as a reminder of the area's religious history."
     },
     facts: {
-      de: ["Frühes Bildungszentrum", "Historische Missionskirche", "Cuvette-Region", "Kulturelles Erbe"],
-      hu: ["Korai oktatási központ", "Történelmi missziós templom", "Cuvette régió", "Kulturális örökség"],
+      de: ["In der Cuvette", "Frühe Missionsstation", "Historischer Ort", "Kirchliches Erbe"],
+      hu: ["Korai misszi?s helysz?n", "?szak-kong?i eml?k", "Vall?si ?r?ks?g", "T?rt?nelmi ?p?let"],
       ro: ["Centru educațional timpuriu", "Biserică istorică de misiune", "Regiunea Cuvette", "Moștenire culturală"],
-      en: ["Early educational center", "Historic mission church", "Cuvette region", "Cultural heritage"]
+      en: ["In Boundji", "Mission station", "Religious history"]
     }
   },
   {
@@ -341,14 +341,14 @@ export const poiExtraCongoHistoryV2: POI[] = [
     },
     description: {
       de: "Antike Felsenhöhlen in der Plateaux-Region, die Zeugnisse früherer Besiedlung und Riten beherbergen.",
-      hu: "Ősi sziklabarlangok a Plateaux régióban, amelyek a korai letelepedés és rítusok emlékeit őrzik.",
-      ro: "Peșteri rupestre antice din regiunea Plateaux, care adăpostesc dovezi ale locuirii timpurii și ale unor rituri.",
+      hu: "A Lekana-barlangok term?szetes barlangrendszert jelentenek a Plateaux t?rs?gben. A k?pz?dm?ny a helyi k?zetek ?s er?zi? nyomait ?rzi.",
+      ro: "Peșterile de la Lekana sunt un sit natural din zona Plateaux, asociat cu reliefuri calcaroase și formațiuni subterane. Sunt legate de peisajul carstic al regiunii.",
       en: "Ancient rock caves in the Plateaux region, housing evidence of early settlement and rituals."
     },
     facts: {
       de: ["Prähistorische Fundstätte", "Kulturelle Riten", "Plateaux-Region", "Natürliche Unterstände"],
-      hu: ["Prehisztorikus lelőhely", "Kulturális rítusok", "Plateaux régió", "Természetes menedékek"],
-      ro: ["Sit preistoric", "Rituri culturale", "Regiunea Plateaux", "Adăposturi naturale"],
+      hu: ["Term?szetes barlangok", "Plateaux t?rs?gben", "K?zetek ?s er?zi?", "Geol?giai helysz?n"],
+      ro: ["În zona Plateaux", "Relief calcaros", "Situl carstic"],
       en: ["Prehistoric site", "Cultural rituals", "Plateaux region", "Natural shelters"]
     }, image: "/poi-images/cg-lekana-caves-history-v2.webp"},
   {
@@ -364,15 +364,15 @@ export const poiExtraCongoHistoryV2: POI[] = [
     },
     description: {
       de: "Das Mausoleum für den ermordeten Präsidenten Marien Ngouabi, eine wichtige nationale Gedenkstätte.",
-      hu: "A meggyilkolt Marien Ngouabi elnök mauzóleuma, fontos nemzeti emlékhely.",
-      ro: "Mausoleul președintelui asasinat Marien Ngouabi, un loc important de comemorare națională.",
-      en: "The mausoleum for the assassinated President Marien Ngouabi, a significant national memorial site."
+      hu: "A Ngouabi-mauz?leum Marien Ngouabi eln?k eml?khelye Brazzaville-ben. A hely a modern kong?i t?rt?nelem egyik fontos politikai pontja.",
+      ro: "Mausoleul lui Marien Ngouabi din Brazzaville adăpostește mormântul celui de-al treilea președinte al țării. Este unul dintre locurile memoriale importante ale capitalei.",
+      en: "The Marien Ngouabi Mausoleum in Brazzaville honors the former Congolese president. It is an important memorial site in the capital."
     },
     facts: {
       de: ["Nationales Denkmal", "Ehemaliger Präsident", "Historischer Ort", "Brazzaville-Zentrum"],
-      hu: ["Nemzeti emlékmű", "Egykori elnök", "Történelmi helyszín", "Brazzaville központja"],
-      ro: ["Monument național", "Fost președinte", "Sit istoric", "Centrul orașului Brazzaville"],
-      en: ["National monument", "Former president", "Historic site", "Central Brazzaville"]
+      hu: ["Marien Ngouabi eml?khelye", "Brazzaville-ben van", "Politikai jelent?s?g?", "Nemzeti eml?km?"],
+      ro: ["În Brazzaville", "Mormântul lui Marien Ngouabi", "Memorial național"],
+      en: ["In Brazzaville", "Memorial site", "For Marien Ngouabi"]
     }, image: "/poi-images/cg-ngouabi-mausoleum-history-v2.webp"},
   {
     id: "cg-brazzaville-city-hall-history-v2",
@@ -387,15 +387,15 @@ export const poiExtraCongoHistoryV2: POI[] = [
     },
     description: {
       de: "Ein bedeutendes koloniales Verwaltungsgebäude im Herzen der Stadt, das noch heute genutzt wird.",
-      hu: "Jelentős gyarmati közigazgatási épület a város szívében, amelyet ma is használnak.",
-      ro: "O clădire administrativă colonială importantă din inima orașului, utilizată și în prezent.",
-      en: "A significant colonial administrative building in the heart of the city, still in use today."
+      hu: "A Brazzaville-i v?rosh?za a f?v?ros ?nkorm?nyzati k?zpontja. Az ?p?let a v?rosi igazgat?s mindennapi m?k?d?s?t szolg?lja.",
+      ro: "Primăria din Brazzaville este clădirea administrativă centrală a orașului. Se află în zona istorică și concentrează funcțiile municipale.",
+      en: "Historic Brazzaville City Hall is one of the capital's key administrative buildings. It reflects the city's colonial and civic heritage."
     },
     facts: {
       de: ["Koloniale Architektur", "Verwaltungssitz", "Zentraler Platz", "Historisches Erbe"],
-      hu: ["Gyarmati építészet", "Közigazgatási székhely", "Központi tér", "Történelmi örökség"],
-      ro: ["Arhitectură colonială", "Sediu administrativ", "Piața centrală", "Moștenire istorică"],
-      en: ["Colonial architecture", "Administrative seat", "Central square", "Historic heritage"]
+      hu: ["?nkorm?nyzati k?zpont", "F?v?rosi ?p?let", "V?rosi igazgat?s", "Brazzaville-ben tal?lhat?"],
+      ro: ["Clădire administrativă", "În centrul orașului", "Funcții municipale"],
+      en: ["In Brazzaville", "Administrative building", "Civic heritage"]
     }, image: "/poi-images/cg-brazzaville-city-hall-history-v2.webp"},
   {
     id: "cg-poste-alima-history-v2",
@@ -409,13 +409,13 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Poste de l'Alima"
     },
     description: {
-      de: "Ein historischer Außenposten am Alima-Fluss, der während der frühen Erkundung Kongos gegründet wurde.",
+      de: "Der alte Posten an der Alima war ein früher Stützpunkt am Fluss. Er verweist auf die Kolonialgeschichte der Wasserwege im Zentrum des Landes.",
       hu: "Történelmi állomás az Alima-folyó partján, amelyet Kongó korai felfedezése során alapítottak.",
       ro: "Un post istoric pe râul Alima, fondat în timpul perioadei timpurii de explorare a Congo-ului.",
       en: "A historic outpost on the Alima River, established during the early exploration of the Congo."
     },
     facts: {
-      de: ["Erkundungsstation", "Am Alima-Ufer", "Historischer Handelsposten", "Erschließung des Nordens"],
+      de: ["Am Alima-Fluss", "Früher Stützpunkt", "Kolonialgeschichte", "Wasserwege im Fokus"],
       hu: ["Felfedező állomás", "Az Alima partján", "Történelmi kereskedelmi poszt", "Az északi területek feltárása"],
       ro: ["Stație de explorare", "Pe malul râului Alima", "Post comercial istoric", "Expansiune spre nord"],
       en: ["Exploration station", "On the Alima banks", "Historic trading post", "Northern expansion"]
@@ -432,16 +432,16 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Ngabé Historic Center"
     },
     description: {
-      de: "Ein bedeutender Ort für das Téké-Volk am Ufer des Kongo, wo wichtige Verträge unterzeichnet wurden.",
-      hu: "A téke nép egyik fontos helyszíne a Kongó partján, ahol jelentős szerződéseket írtak alá.",
-      ro: "Un loc important pentru poporul Téké, pe malul fluviului Congo, unde au fost semnate tratate majore.",
-      en: "An important site for the Téké people on the banks of the Congo, where major treaties were signed."
+      de: "Ngabé ist ein historischer Ort am Kongo-Fluss mit alten Herrschafts- und Handelsbezügen. Die Stätte erinnert an die frühe regionale Machtgeschichte.",
+      hu: "Ngab? t?rt?nelmi helysz?ne a T?k? m?lt egyik eml?ke a Kong? k?z?ps? r?sz?n. A telep?l?s a hagyom?nyos kir?lyi ?s region?lis eml?kezethez kapcsol?dik.",
+      ro: "Ngabé este un sit istoric legat de lumea Teke și de vechile structuri politice din valea Congo. Zona este asociată cu memoria regală și tradiția locală.",
+      en: "Ngabé Historic Center preserves the memory of an old river settlement in the Pool area. It is part of the region's longer settlement history."
     },
     facts: {
-      de: ["Vertrag von 1880", "Téké-Tradition", "Kongo-Ufer", "Historische Zeremonien"],
-      hu: ["1880-as szerződés", "Téke hagyományok", "Kongó-part", "Történelmi ceremóniák"],
-      ro: ["Tratatul din 1880", "Tradiție Téké", "Malul fluviului Congo", "Ceremonii istorice"],
-      en: ["Treaty of 1880", "Téké tradition", "Congo riverbank", "Historical ceremonies"]
+      de: ["Am Kongo-Fluss", "Historischer Ort", "Handelsgeschichte", "Regionale Machttradition"],
+      hu: ["T?k? ?r?ks?g", "K?z?p-kong?i helysz?n", "Hagyom?nyos eml?k", "T?rt?nelmi telep?l?s"],
+      ro: ["Legat de Teke", "Memorie regală", "În valea Congo"],
+      en: ["In the Pool area", "Historic settlement", "River corridor"]
     }
   },
   {
@@ -456,16 +456,16 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Old Court of Brazzaville"
     },
     description: {
-      de: "Das alte Gerichtsgebäude der Stadt, ein klassisches Beispiel für koloniale Justizbauten.",
+      de: "Das alte Gerichtshaus in Brazzaville stammt aus der Kolonialzeit. Es zeigt die frühe Verwaltungsarchitektur der Hauptstadt.",
       hu: "A város régi bírósági épülete, a gyarmati igazságügyi építészet klasszikus példája.",
-      ro: "Vechea clădire a tribunalului, un exemplu clasic de arhitectură judiciară colonială.",
-      en: "The old court building of the city, a classic example of colonial judicial architecture."
+      ro: "Fosta curte din Brazzaville este o clădire colonială legată de administrația juridică a perioadei franceze. Astăzi rămâne un reper al centrului vechi al orașului.",
+      en: "The Old Court of Brazzaville is a former judicial building in the capital. It stands as a reminder of the city's administrative past."
     },
     facts: {
-      de: ["Justizpalast", "Kolonialer Baustil", "Historisches Stadtzentrum", "Erhaltener Kern"],
+      de: ["In Brazzaville", "Aus der Kolonialzeit", "Ehemaliges Gerichtsgebäude", "Verwaltungsarchitektur"],
       hu: ["Igazságügyi palota", "Gyarmati stílus", "Történelmi városközpont", "Megőrzött épület"],
-      ro: ["Palat de justiție", "Stil colonial", "Centrul istoric", "Nucleu conservat"],
-      en: ["Palace of Justice", "Colonial style", "Historic city center", "Preserved core"]
+      ro: ["Clădire colonială", "În Brazzaville", "Legată de justiție"],
+      en: ["In Brazzaville", "Former courthouse", "Administrative past"]
     }
   },
   {
@@ -480,16 +480,16 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Historic Fort-Rousset Core"
     },
     description: {
-      de: "Der historische Teil der Stadt Owando, der früher als militärischer und administrativer Außenposten diente.",
-      hu: "Owando városának történelmi része, amely korábban katonai és közigazgatási állomásként szolgált.",
-      ro: "Partea istorică a orașului Owando, care a servit anterior ca avanpost militar și administrativ.",
-      en: "The historical part of the city of Owando, which previously served as a military and administrative outpost."
+      de: "Der alte Fortkern von Fort-Rousset erinnert an die frühe militärische Präsenz im Zentrum des Landes. Der Ort ist ein wichtiges Zeugnis der kolonialen Grenzsicherung.",
+      hu: "A r?gi Fort Rousset egy gyarmati id?szakb?l sz?rmaz? er?dhely a f?v?ros t?rs?g?ben. A katonai ?s igazgat?si m?lt eml?k?t ?rzi.",
+      ro: "Fort-Rousset este numele colonial vechi al actualului Owando, născut în jurul unui post francez de la începutul secolului XX. Denumirea evocă perioada fortului și a administrației coloniale.",
+      en: "Historic Fort-Rousset Core marks the older colonial center of today's Owando. The name preserves the town's earlier identity as Fort-Rousset."
     },
     facts: {
-      de: ["Militärposten", "Heutiges Owando", "Koloniale Gründung", "Strategische Lage"],
-      hu: ["Katonai poszt", "A mai Owando", "Gyarmati alapítás", "Stratégiai helyszín"],
-      ro: ["Post militar", "Astăzi Owando", "Fondat în perioada colonială", "Locație strategică"],
-      en: ["Military post", "Modern-day Owando", "Colonial foundation", "Strategic location"]
+      de: ["Im Zentrum des Landes", "Ehemalige Festung", "Militärische Präsenz", "Koloniales Zeugnis"],
+      hu: ["Gyarmati er?d", "F?v?rosi t?rs?g", "Katonai m?lt", "T?rt?nelmi helysz?n"],
+      ro: ["Vechiul nume al lui Owando", "Post colonial francez", "În Cuvette"],
+      en: ["In Owando", "Former name Fort-Rousset", "Colonial-era core"]
     }, image: "/poi-images/cg-fort-rousset-old-fort-history-v2.webp"},
   {
     id: "cg-kindamba-old-mission-history-v2",
@@ -503,16 +503,16 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Kindamba Mission Station"
     },
     description: {
-      de: "Eine historische Missionsstation in der Pool-Region, die für ihre markante Kirche bekannt ist.",
-      hu: "Történelmi missziós állomás a Pool régióban, amely jellegzetes templomáról ismert.",
-      ro: "O stație de misiune istorică din regiunea Pool, cunoscută pentru biserica sa distinctivă.",
-      en: "A historical mission station in the Pool region, known for its distinctive church."
+      de: "Die alte Mission von Kindamba gehört zu den frühen christlichen Stützpunkten im Pool. Sie ist ein Zeugnis der Missionsgeschichte im Süden.",
+      hu: "A Kindamba-i r?gi misszi? a vall?si jelenl?t korai nyoma a Pool t?rs?gben. A hely a r?gi? misszi?s ?s oktat?si m?ltj?t id?zi.",
+      ro: "Vechea misiune din Kindamba amintește de prezența misionarilor în departamentul Pool. Situl este legat de începuturile creștinismului local și de istoria comunității.",
+      en: "Kindamba Mission Station records the presence of early missionary activity in the Pool region. It is part of the area's local religious heritage."
     },
     facts: {
-      de: ["Pool-Region", "Alte Architektur", "Religiöses Erbe", "Zentrum der Gemeinschaft"],
-      hu: ["Pool régió", "Régi építészet", "Vallási örökség", "Közösségi központ"],
-      ro: ["Regiunea Pool", "Arhitectură veche", "Moștenire religioasă", "Centru comunitar"],
-      en: ["Pool region", "Old architecture", "Religious heritage", "Community center"]
+      de: ["Im Pool", "Früher christlicher Stützpunkt", "Südlicher Missionsort", "Historisches Erbe"],
+      hu: ["Korai misszi?", "Pool t?rs?gben", "Vall?si m?lt", "T?rt?nelmi eml?k"],
+      ro: ["În departamentul Pool", "Legată de misiuni", "Memorie locală"],
+      en: ["In Kindamba", "Mission station", "Local religious heritage"]
     }, image: "/poi-images/cg-kindamba-old-mission-history-v2.webp"},
   {
     id: "cg-independence-bridge-history-v2",
@@ -526,16 +526,16 @@ export const poiExtraCongoHistoryV2: POI[] = [
       en: "Independence Bridge"
     },
     description: {
-      de: "Ein monumentales Bauwerk in Brazzaville, das an die Erlangung der Unabhängigkeit erinnert.",
-      hu: "Monumentális építmény Brazzaville-ben, amely a függetlenség elnyerésének emlékét őrzi.",
+      de: "Die Brücke des 15. August 1960 in Brazzaville erinnert an den Unabhängigkeitstag des Landes. Sie verbindet wichtige Teile der Hauptstadt.",
+      hu: "A F?ggetlens?g h?dja Brazzaville egyik jelk?pes k?z?ti ?tkel?je. A n?v a kong?i ?llamis?g ?s a f?v?ros moderniz?ci?j?nak korszak?ra utal.",
       ro: "O construcție monumentală în Brazzaville, care comemorează obținerea independenței.",
-      en: "A monumental structure in Brazzaville commemorating the achievement of independence."
+      en: "Independence Bridge is a major bridge in Brazzaville with civic and symbolic value. It is associated with the capital's modern urban development."
     },
     facts: {
-      de: ["Unabhängigkeits-Symbol", "Brazzaville-Wahrzeichen", "Moderne Geschichte", "Gedenkbrücke"],
-      hu: ["A függetlenség szimbóluma", "Brazzaville-i jelkép", "Modern történelem", "Emlékhíd"],
+      de: ["In Brazzaville", "Erinnerung an 1960", "Unabhängigkeitssymbol", "Wichtige Verbindung"],
+      hu: ["Brazzaville-ben", "K?z?ti h?d", "?llamis?gi jelk?p", "Modern v?rosi ?tkel?"],
       ro: ["Simbol al independenței", "Reper în Brazzaville", "Istorie modernă", "Pod comemorativ"],
-      en: ["Independence symbol", "Brazzaville landmark", "Modern history", "Memorial bridge"]
+      en: ["In Brazzaville", "Commemorative bridge", "Urban development"]
     }
   }
 ];

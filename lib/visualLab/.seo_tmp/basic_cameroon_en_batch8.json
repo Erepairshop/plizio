@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mbalmayo-forstgarten-life-v2",
+      "description": "A forest garden in Mbalmayo that shows the town's connection to forestry and plant research. It is used for learning and quiet visits.",
+      "facts": [
+        "in Mbalmayo",
+        "forest garden",
+        "forestry and education"
+      ]
+    },
+    {
+      "id": "douala-botanischer-garten-life-v2",
+      "description": "A botanical garden in Douala with tropical plants and shaded paths. It offers a green break inside the busy port city.",
+      "facts": [
+        "in Douala",
+        "botanical garden",
+        "tropical plants"
+      ]
+    },
+    {
+      "id": "buea-fruchtgarten-life-v2",
+      "description": "A fruit garden in Buea on the slopes of Mount Cameroon. The cool climate supports a wide range of crops.",
+      "facts": [
+        "in Buea",
+        "fruit growing",
+        "cool mountain climate"
+      ]
+    },
+    {
+      "id": "garoua-rindermarkt-life-v2",
+      "description": "A cattle market in Garoua where herders trade livestock. It is part of the city's livestock culture and commerce.",
+      "facts": [
+        "in Garoua",
+        "cattle trading",
+        "livestock market"
+      ]
+    },
+    {
+      "id": "maroua-kunsthandwerk-life-v2",
+      "description": "A craft market in Maroua known for leatherwork, baskets, and local art. It reflects the creativity of the Far North.",
+      "facts": [
+        "in Maroua",
+        "craft market",
+        "local art and leatherwork"
+      ]
+    }
+  ]
+}

@@ -13,8 +13,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["A 18. század végén épült.", "Ma a Dubaji Múzeumnak ad otthont."],
       ro: ["Construit la sfârșitul secolului al XVIII-lea.", "Găzduiește astăzi Muzeul din Dubai."],
       en: ["Built in the late 18th century.", "Now houses the Dubai Museum."]
-    }
-  },
+    }, image: "/poi-images/al-fahidi-fort-history-v2.webp"},
   {
     id: "al-ahmadiya-school-history-v2",
     type: "historical-site",
@@ -27,8 +26,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["1912-ben alapították.", "1958-ig működött aktív iskolaként."],
       ro: ["A fost fondată în 1912.", "A funcționat ca școală activă până în 1958."],
       en: ["Founded in 1912.", "Served as an active school until 1958."]
-    }
-  },
+    }, image: "/poi-images/al-ahmadiya-school-history-v2.webp"},
   {
     id: "jazirat-al-hamra-ghost-town-history-v2",
     type: "ruin",
@@ -41,8 +39,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Az 1960-as években hagyták el.", "Sok épület korallkőből épült."],
       ro: ["A fost abandonat în anii 1960.", "Multe clădiri sunt construite din piatră de coral."],
       en: ["Abandoned in the 1960s.", "Many buildings are constructed from coral stone."]
-    }
-  },
+    }, image: "/poi-images/jazirat-al-hamra-ghost-town-history-v2.webp"},
   {
     id: "bidaa-bint-saud-history-v2",
     type: "ruin",
@@ -55,8 +52,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Körülbelül 25 kilométerre fekszik Al Aintól.", "Az itt talált fazekastermékek nagyon jellegzetesek."],
       ro: ["Situat la aproximativ 25 de kilometri de Al Ain.", "Ceramica găsită aici este foarte caracteristică."],
       en: ["Located about 25 kilometers from Al Ain.", "Pottery found here is highly distinctive."]
-    }
-  },
+    }, image: "/poi-images/bidaa-bint-saud-history-v2.webp"},
   {
     id: "jebel-buhais-history-v2",
     type: "ruin",
@@ -83,8 +79,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["2001-ben restaurálták.", "A torony jellegzetes kör alakú."],
       ro: ["Restaurat în anul 2001.", "Turnul are o formă circulară distinctivă."],
       en: ["Restored in 2001.", "The tower has a distinctive circular shape."]
-    }
-  },
+    }, image: "/poi-images/sakamkam-fort-history-v2.webp"},
   {
     id: "awhlah-fort-history-v2",
     type: "monument",
@@ -97,8 +92,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Vastag, faragott kövekből álló falai vannak.", "Nehezen megközelíthető hegyvidéki tájon fekszik."],
       ro: ["Are pereți groși din pietre tăiate.", "Este situat într-un peisaj montan greu accesibil."],
       en: ["It has thick walls made of hewn stones.", "Located in a hard-to-reach mountainous landscape."]
-    }
-  },
+    }, image: "/poi-images/awhlah-fort-history-v2.webp"},
   {
     id: "umm-an-nar-site-history-v2",
     type: "historical-site",
@@ -125,8 +119,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Történelem előtti nyomokat találtak itt a datolya fogyasztására.", "Egykor több ezer gyöngyhalásznak adott otthont a szezonban."],
       ro: ["Există dovezi preistorice ale consumului de curmale aici.", "Găzduia odată mii de pescari de perle în timpul sezonului."],
       en: ["There are prehistoric traces of date consumption here.", "Once housed thousands of pearl divers during the season."]
-    }
-  },
+    }, image: "/poi-images/dalma-pearl-center-history-v2.webp"},
   {
     id: "sheikh-saeed-house-history-v2",
     type: "monument",
@@ -139,8 +132,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["1896-ban épült.", "A ház stratégiailag a Dubaj-öböl torkolatánál fekszik."],
       ro: ["Construit în anul 1896.", "Casa este situată strategic la gura pârâului Dubai Creek."],
       en: ["Built in 1896.", "The house is strategically located at the mouth of the Dubai Creek."]
-    }
-  },
+    }, image: "/poi-images/sheikh-saeed-house-history-v2.webp"},
   {
     id: "dibba-al-hisn-fort-history-v2",
     type: "monument",
@@ -153,8 +145,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Az alapfal valószínűleg a 16. századból származik.", "A fontos Dibba-öbölre nézett."],
       ro: ["Zidul de fundație ar putea data din secolul al XVI-lea.", "Supraveghea importantul golf Dibba."],
       en: ["The foundation wall possibly dates from the 16th century.", "It overlooked the important bay of Dibba."]
-    }
-  },
+    }, image: "/poi-images/dibba-al-hisn-fort-history-v2.webp"},
   {
     id: "masfut-fort-history-v2",
     type: "monument",
@@ -167,8 +158,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["A 19. században épült.", "Helyi kőből és vályogból készült."],
       ro: ["Construit în secolul al XIX-lea.", "Realizat din rocă locală și lut."],
       en: ["Built in the 19th century.", "Constructed from local rock and mud."]
-    }
-  },
+    }, image: "/poi-images/masfut-fort-history-v2.webp"},
   {
     id: "ajman-fort-history-v2",
     type: "monument",
@@ -181,8 +171,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["A 18. század végén épült.", "1970-ig az uralkodó rezidenciája volt."],
       ro: ["Construit la sfârșitul secolului al XVIII-lea.", "A fost reședința conducătorului până în 1970."],
       en: ["Built in the late 18th century.", "Was the residence of the ruler until 1970."]
-    }
-  },
+    }, image: "/poi-images/ajman-fort-history-v2.webp"},
   {
     id: "umm-al-quwain-fort-history-v2",
     type: "monument",
@@ -209,8 +198,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Körülbelül 1845-ben épült.", "A régió egyik legnagyobb gyöngykereskedőjéé volt."],
       ro: ["Construită în jurul anului 1845.", "A aparținut unuia dintre cei mai mari negustori de perle din regiune."],
       en: ["Built around 1845.", "Belonged to one of the largest pearl merchants in the region."]
-    }
-  },
+    }, image: "/poi-images/bait-al-naboodah-history-v2.webp"},
   {
     id: "souq-al-arsa-history-v2",
     type: "historical-site",
@@ -223,8 +211,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Sardzsa történelmi negyedében található.", "Korallkőből épült építészetét gondosan megőrizték."],
       ro: ["Se află în cartierul istoric al orașului Sharjah.", "Arhitectura sa din piatră de coral a fost atent păstrată."],
       en: ["Located in the historical district of Sharjah.", "Its coral stone architecture has been carefully preserved."]
-    }
-  },
+    }, image: "/poi-images/souq-al-arsa-history-v2.webp"},
   {
     id: "rumailah-site-history-v2",
     type: "ruin",
@@ -237,8 +224,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Az épületeket kőalapzatra emelték.", "Fejlett mezőgazdasági gyakorlatok bizonyítékait mutatja."],
       ro: ["Clădirile au fost ridicate pe fundații de piatră.", "Prezintă dovezi ale unor practici agricole avansate."],
       en: ["The buildings were constructed on stone foundations.", "Shows evidence of advanced agricultural practices."]
-    }
-  },
+    }, image: "/poi-images/rumailah-site-history-v2.webp"},
   {
     id: "tell-abraq-history-v2",
     type: "ruin",
@@ -251,8 +237,7 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Sardzsa és Umm Al Quwain határán fekszik.", "Egy lenyűgöző kör alakú erődöt tártak fel itt."],
       ro: ["Situat la granița dintre Sharjah și Umm Al Quwain.", "Aici a fost excavat un fort circular impresionant."],
       en: ["Located on the border between Sharjah and Umm Al Quwain.", "An impressive circular fort was excavated here."]
-    }
-  },
+    }, image: "/poi-images/tell-abraq-history-v2.webp"},
   {
     id: "qasr-al-ain-history-v2",
     type: "monument",

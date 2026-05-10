@@ -49,8 +49,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Center of the cotton industry",
         "Houses the Ismoil Somoni Monument"
       ]
-    }
-  },
+    }, image: "/poi-images/dushanbe-cities-v2.webp"},
   {
     id: "khujand-cities-v2",
     type: "city",
@@ -99,8 +98,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Second largest city",
         "Large bazaar"
       ]
-    }
-  },
+    }, image: "/poi-images/khujand-cities-v2.webp"},
   {
     id: "bokhtar-cities-v2",
     type: "city",
@@ -149,8 +147,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Formerly Qurghonteppa",
         "Large cotton harvest"
       ]
-    }
-  },
+    }, image: "/poi-images/bokhtar-cities-v2.webp"},
   {
     id: "kulob-cities-v2",
     type: "city",
@@ -199,8 +196,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Near the mountains",
         "Cultural center"
       ]
-    }
-  },
+    }, image: "/poi-images/kulob-cities-v2.webp"},
   {
     id: "istaravshan-cities-v2",
     type: "city",
@@ -249,8 +245,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Mug Teppe fortress",
         "Wood carving"
       ]
-    }
-  },
+    }, image: "/poi-images/istaravshan-cities-v2.webp"},
   {
     id: "vahdat-cities-v2",
     type: "city",
@@ -299,8 +294,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Industrial base",
         "Kofarnihon river"
       ]
-    }
-  },
+    }, image: "/poi-images/vahdat-cities-v2.webp"},
   {
     id: "tursunzoda-cities-v2",
     type: "city",
@@ -349,8 +343,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Regional industry",
         "Rapid growth"
       ]
-    }
-  },
+    }, image: "/poi-images/tursunzoda-cities-v2.webp"},
   {
     id: "konibodom-cities-v2",
     type: "city",
@@ -399,8 +392,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Many orchards",
         "Large lake nearby"
       ]
-    }
-  },
+    }, image: "/poi-images/konibodom-cities-v2.webp"},
   {
     id: "isfara-cities-v2",
     type: "city",
@@ -449,8 +441,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Old settlement",
         "Dried fruit export"
       ]
-    }
-  },
+    }, image: "/poi-images/isfara-cities-v2.webp"},
   {
     id: "panjakent-cities-v2",
     type: "city",
@@ -499,8 +490,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Sogdian ruins",
         "Ancient wall paintings"
       ]
-    }
-  },
+    }, image: "/poi-images/panjakent-cities-v2.webp"},
   {
     id: "khorugh-cities-v2",
     type: "city",
@@ -549,8 +539,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "On the Panj River",
         "High mountains"
       ]
-    }
-  },
+    }, image: "/poi-images/khorugh-cities-v2.webp"},
   {
     id: "yovon-cities-v2",
     type: "city",
@@ -599,8 +588,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "In Khatlon",
         "Growing community"
       ]
-    }
-  },
+    }, image: "/poi-images/yovon-cities-v2.webp"},
   {
     id: "hisor-cities-v2",
     type: "city",
@@ -649,8 +637,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Old trade center",
         "Hisor Valley"
       ]
-    }
-  },
+    }, image: "/poi-images/hisor-cities-v2.webp"},
   {
     id: "nurek-cities-v2",
     type: "city",
@@ -699,8 +686,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Power generation",
         "Deep reservoir"
       ]
-    }
-  },
+    }, image: "/poi-images/nurek-cities-v2.webp"},
   {
     id: "farkhor-cities-v2",
     type: "city",
@@ -799,8 +785,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Salt mountain",
         "Growing economy"
       ]
-    }
-  },
+    }, image: "/poi-images/vose-cities-v2.webp"},
   {
     id: "buston-cities-v2",
     type: "city",
@@ -849,8 +834,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Civil development",
         "Northern Tajikistan"
       ]
-    }
-  },
+    }, image: "/poi-images/buston-cities-v2.webp"},
   {
     id: "ghafurov-cities-v2",
     type: "city",
@@ -899,8 +883,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "In the Fergana Valley",
         "Named after a historian"
       ]
-    }
-  },
+    }, image: "/poi-images/ghafurov-cities-v2.webp"},
   {
     id: "danghara-cities-v2",
     type: "city",
@@ -949,8 +932,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "New buildings",
         "Agricultural region"
       ]
-    }
-  },
+    }, image: "/poi-images/danghara-cities-v2.webp"},
   {
     id: "shahrtuz-cities-v2",
     type: "city",
@@ -999,8 +981,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "On the Kofarnihon",
         "Cotton"
       ]
-    }
-  },
+    }, image: "/poi-images/shahrtuz-cities-v2.webp"},
   {
     id: "zafarobod-cities-v2",
     type: "city",
@@ -1099,8 +1080,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Northeastern border",
         "Green valleys"
       ]
-    }
-  },
+    }, image: "/poi-images/shaydon-cities-v2.webp"},
   {
     id: "murghob-cities-v2",
     type: "city",
@@ -1149,8 +1129,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Very cold winters",
         "Barren landscape"
       ]
-    }
-  },
+    }, image: "/poi-images/murghob-cities-v2.webp"},
   {
     id: "ayni-cities-v2",
     type: "city",
@@ -1199,8 +1178,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Roads to the north",
         "Named after an author"
       ]
-    }
-  },
+    }, image: "/poi-images/ayni-cities-v2.webp"},
   {
     id: "gharm-cities-v2",
     type: "city",
@@ -1249,8 +1227,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "High mountains",
         "Agriculture"
       ]
-    }
-  },
+    }, image: "/poi-images/gharm-cities-v2.webp"},
   {
     id: "qabodiyon-cities-v2",
     type: "city",
@@ -1299,8 +1276,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "In the south",
         "Rich history"
       ]
-    }
-  },
+    }, image: "/poi-images/qabodiyon-cities-v2.webp"},
   {
     id: "levakant-cities-v2",
     type: "city",
@@ -1399,8 +1375,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Mountainous landscape",
         "On the Vakhsh"
       ]
-    }
-  },
+    }, image: "/poi-images/roghun-cities-v2.webp"},
   {
     id: "hamadoni-cities-v2",
     type: "city",
@@ -1449,8 +1424,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Outpost",
         "Fertile land"
       ]
-    }
-  },
+    }, image: "/poi-images/hamadoni-cities-v2.webp"},
   {
     id: "ishkoshim-cities-v2",
     type: "city",

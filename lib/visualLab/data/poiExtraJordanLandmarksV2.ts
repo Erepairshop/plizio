@@ -18,8 +18,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A homlokzat 40 méter magas.", "Eredetileg királyi sírként szolgált.", "Ez a Siq szurdok végpontja.", "Az Indiana Jones filmből is ismert."],
       ro: ["Fațada are 40 de metri înălțime.", "Inițial a servit drept mormânt regal.", "Este punctul final al defileului Siq.", "Cunoscut din filmul Indiana Jones."],
       en: ["The facade is 40 meters high.", "It originally served as a royal tomb.", "It is the end point of the Siq.", "Known from the Indiana Jones movie."]
-    }
-  },
+    }, image: "/poi-images/al-khazneh-landmarks-v2.webp"},
   {
     id: "ad-deir-landmarks-v2",
     type: "landmark",
@@ -37,8 +36,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A szélessége közel 50 méter.", "A 2. század elején épült.", "Nevét a belsejében lévő bizánci keresztekről kapta.", "Feltehetően nabateus templomként szolgált."],
       ro: ["Lățimea este de aproape 50 de metri.", "A fost construit la începutul secolului al II-lea.", "Numele provine de la crucile bizantine din interior.", "Probabil a servit drept templu nabatean."],
       en: ["The width is nearly 50 meters.", "It was built in the early 2nd century.", "The name comes from Byzantine crosses inside.", "It probably served as a Nabataean temple."]
-    }
-  },
+    }, image: "/poi-images/ad-deir-landmarks-v2.webp"},
   {
     id: "the-siq-landmarks-v2",
     type: "landmark",
@@ -56,8 +54,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A szurdok mintegy 1,2 kilométer hosszú.", "A sziklafalak akár 80 méter magasak is lehetnek.", "Tektonikus erők hozták létre.", "Az ősi vízcsatornák maradványai a falakon láthatók."],
       ro: ["Defileul are o lungime de aproximativ 1,2 kilometri.", "Pereții de stâncă au o înălțime de până la 80 de metri.", "A fost creat de forțe tectonice.", "Există rămășițe ale canalelor de apă antice pe pereți."],
       en: ["The gorge is about 1.2 kilometers long.", "The rock walls are up to 80 meters high.", "It was created by tectonic forces.", "There are remains of ancient water channels on the walls."]
-    }
-  },
+    }, image: "/poi-images/the-siq-landmarks-v2.webp"},
   {
     id: "royal-tombs-petra-landmarks-v2",
     type: "landmark",
@@ -75,8 +72,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["Petra fő völgyére néznek.", "Az Urnasírnak nagy előudvara van.", "A Selyemsír a színes kőzetrétegeivel nyűgöz le.", "Nabateus királyok számára épültek."],
       ro: ["Ele au vedere la valea principală din Petra.", "Mormântul Urnei are o curte mare.", "Mormântul de Mătase impresionează cu straturile sale colorate de piatră.", "Au fost construite pentru regii nabateeni."],
       en: ["They overlook the main valley of Petra.", "The Urn Tomb has a large courtyard.", "The Silk Tomb impresses with colored rock layers.", "They were built for Nabataean kings."]
-    }
-  },
+    }, image: "/poi-images/royal-tombs-petra-landmarks-v2.webp"},
   {
     id: "great-temple-petra-landmarks-v2",
     type: "landmark",
@@ -94,8 +90,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A terület mintegy 7000 négyzetmétert ölel fel.", "Egy kis színház is található a belsejében.", "Elefántfejes oszlopfőket találtak itt.", "Az építkezést az i.e. 1. században kezdték."],
       ro: ["Zona acoperă aproximativ 7000 de metri pătrați.", "Are un mic teatru în interior.", "Aici au fost găsite capiteluri cu cap de elefant.", "Construcția a început în secolul I î.Hr."],
       en: ["The area covers about 7000 square meters.", "It features a small theater inside.", "Elephant-headed capitals were found here.", "Construction began in the 1st century BC."]
-    }
-  },
+    }, image: "/poi-images/great-temple-petra-landmarks-v2.webp"},
   {
     id: "little-petra-landmarks-v2",
     type: "landmark",
@@ -113,8 +108,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A Siq al-Barid név azt jelenti: 'Hideg szurdok'.", "Ritka nabateus mennyezetfestmények láthatók itt.", "A hely karavánok pihenőhelyéül szolgált.", "Jóval csendesebb, mint a fővölgy."],
       ro: ["Numele Siq al-Barid înseamnă 'Canionul Rece'.", "Există picturi pe tavan nabateene rare.", "Locul a servit drept popas pentru caravane.", "Este mult mai liniștit decât valea principală."],
       en: ["The name Siq al-Barid means 'Cold Canyon'.", "There are rare Nabataean ceiling paintings.", "The place served as a resting place for caravans.", "It is much quieter than the main valley."]
-    }
-  },
+    }, image: "/poi-images/little-petra-landmarks-v2.webp"},
   {
     id: "nymphaeum-amman-landmarks-v2",
     type: "landmark",
@@ -132,8 +126,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["Kr. u. 191-ben épült.", "A komplexum kétszintes volt.", "A víz faragott oroszlánfejekből folyt.", "Felfrissülést nyújtott az utazóknak."],
       ro: ["A fost construit în 191 d.Hr.", "Complexul avea două etaje.", "Apa curgea din capete de leu sculptate.", "Ofertea răcorire pentru călători."],
       en: ["It was built in 191 AD.", "The complex was two stories high.", "Water flowed from carved lion heads.", "It provided refreshment for travelers."]
-    }
-  },
+    }, image: "/poi-images/nymphaeum-amman-landmarks-v2.webp"},
   {
     id: "umayyad-palace-amman-landmarks-v2",
     type: "landmark",
@@ -151,8 +144,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A komplexum a tartományi kormányzó székhelye volt.", "A jelenlegi kupolát spanyol régészek adták hozzá.", "Egy nagy víztartály biztosította az ellátást.", "749-ben egy földrengés pusztította el."],
       ro: ["Complexul a fost sediul guvernatorului provinciei.", "Domul actual a fost adăugat de arheologii spanioli.", "Un rezervor mare de apă a asigurat aprovizionarea.", "A fost distrus de un cutremur în 749."],
       en: ["The complex was the seat of the provincial governor.", "The current dome was added by Spanish archaeologists.", "A large water tank ensured the supply.", "It was destroyed by an earthquake in 749."]
-    }
-  },
+    }, image: "/poi-images/umayyad-palace-amman-landmarks-v2.webp"},
   {
     id: "king-abdullah-mosque-amman-landmarks-v2",
     type: "landmark",
@@ -170,8 +162,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["1982 és 1989 között épült.", "A kupola átmérője 35 méter.", "3000 hívő befogadására alkalmas.", "Belsejében egy iszlám múzeum is található."],
       ro: ["A fost construită între 1982 și 1989.", "Domul are un diametru de 35 de metri.", "Poate găzdui 3000 de credincioși.", "În interior există un muzeu islamic."],
       en: ["It was built between 1982 and 1989.", "The dome has a diameter of 35 meters.", "It can accommodate 3000 worshipers.", "There is an Islamic museum inside."]
-    }
-  },
+    }, image: "/poi-images/king-abdullah-mosque-amman-landmarks-v2.webp"},
   {
     id: "abu-darwish-mosque-landmarks-v2",
     type: "landmark",
@@ -189,8 +180,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A mecset 1961-ben épült.", "A kövek Jordánia különböző régióiból származnak.", "Ammán számos pontjáról jól látható.", "A nem muszlimok csak kívülről tekinthetik meg az épületet."],
       ro: ["Moscheea a fost construită în 1961.", "Pietrele provin din diferite regiuni ale Iordaniei.", "Este vizibilă din multe părți ale Ammanului.", "Non-musulmanii pot privi clădirea doar din exterior."],
       en: ["The mosque was built in 1961.", "The stones come from different regions of Jordan.", "It is visible from many parts of Amman.", "Non-Muslims are only allowed to view the building from the outside."]
-    }
-  },
+    }, image: "/poi-images/abu-darwish-mosque-landmarks-v2.webp"},
   {
     id: "qasr-al-abd-landmarks-v2",
     type: "landmark",
@@ -208,8 +198,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["Az építmény az i.e. 2. századból származik.", "A név jelentése 'A rabszolga kastélya'.", "Néhány kőtömb súlya meghaladja a 15 tonnát.", "A külső falakon oroszlános domborművek találhatók."],
       ro: ["Structura datează din secolul al II-lea î.Hr.", "Numele înseamnă 'Castelul Sclavului'.", "Unele blocuri de piatră cântăresc peste 15 tone.", "Pe pereții exteriori sunt sculptate reliefuri cu lei."],
       en: ["The structure dates from the 2nd century BC.", "The name means 'Castle of the Slave'.", "Some stone blocks weigh over 15 tons.", "Lion reliefs are carved on the outer walls."]
-    }
-  },
+    }, image: "/poi-images/qasr-al-abd-landmarks-v2.webp"},
   {
     id: "oval-plaza-jerash-landmarks-v2",
     type: "landmark",
@@ -227,8 +216,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["Lenyűgöző 90-szer 80 méteres méretű.", "56 ión oszlop szegélyezi.", "A teret az 1. században alakították ki.", "Piactérként és találkozóhelyként szolgált."],
       ro: ["Măsoară impresionant 90 pe 80 de metri.", "Este mărginit de 56 de coloane ionice.", "Piața a fost creată în secolul I.", "A servit ca piață și loc de adunare."],
       en: ["It measures an impressive 90 by 80 meters.", "It is lined with 56 Ionic columns.", "The plaza was created in the 1st century.", "It served as a marketplace and gathering place."]
-    }
-  },
+    }, image: "/poi-images/oval-plaza-jerash-landmarks-v2.webp"},
   {
     id: "arch-of-hadrian-jerash-landmarks-v2",
     type: "landmark",
@@ -246,8 +234,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A kapu majdnem 21 méter magas.", "Három íves átjáróval rendelkezik.", "A kapu egy részét kiterjedten restaurálták.", "A város új főkapujának szánták."],
       ro: ["Poarta are o înălțime de aproape 21 de metri.", "Are trei pasaje boltite.", "O parte a porții a fost restaurată extensiv.", "Trebuia să fie noua poartă principală a orașului."],
       en: ["The gate is nearly 21 meters high.", "It has three arched passageways.", "A part of the gate has been extensively restored.", "It was intended to be the city's new main gate."]
-    }
-  },
+    }, image: "/poi-images/arch-of-hadrian-jerash-landmarks-v2.webp"},
   {
     id: "temple-of-artemis-jerash-landmarks-v2",
     type: "landmark",
@@ -265,8 +252,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A 12 korinthoszi oszlopból tizenegy még ma is áll.", "Az oszlopok enyhén kilengenek a szélben.", "A templom sosem készült el teljesen.", "A 12. században erődítményként használták."],
       ro: ["Unsprezece din cele 12 coloane corintice stau încă în picioare.", "Coloanele se leagănă ușor în vânt.", "Templul nu a fost niciodată finalizat complet.", "În secolul al XII-lea a fost folosit ca fortăreață."],
       en: ["Eleven of the 12 Corinthian columns still stand.", "The columns sway slightly in the wind.", "The temple was never fully completed.", "In the 12th century it was used as a fortress."]
-    }
-  },
+    }, image: "/poi-images/temple-of-artemis-jerash-landmarks-v2.webp"},
   {
     id: "south-theater-jerash-landmarks-v2",
     type: "landmark",
@@ -284,8 +270,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["Több mint 3000 néző befogadására volt alkalmas.", "A színház az 1. század végén épült.", "A kőülések egy része görög betűkkel van számozva.", "Ma gyakran zenei fesztiválokat tartanak itt."],
       ro: ["Putea găzdui peste 3000 de spectatori.", "Teatrul a fost construit la sfârșitul secolului I.", "Scaunele de piatră sunt parțial numerotate cu litere grecești.", "Astăzi aici au loc adesea festivaluri de muzică."],
       en: ["It could accommodate over 3000 spectators.", "The theater was built in the late 1st century.", "The stone seats are partially numbered with Greek letters.", "Today music festivals are often held here."]
-    }
-  },
+    }, image: "/poi-images/south-theater-jerash-landmarks-v2.webp"},
   {
     id: "qasr-al-mushatta-landmarks-v2",
     type: "landmark",
@@ -303,8 +288,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["Az építkezés 744 körül kezdődött, de soha nem fejeződött be.", "Nagyon közel van a Queen Alia nemzetközi repülőtérhez.", "A komplexumot egy hatalmas négyzetes fal veszi körül.", "A név jelentése 'Téli tábor'."],
       ro: ["Construcția a început în jurul anului 744, dar nu a fost niciodată terminată.", "Este situat foarte aproape de aeroportul internațional Queen Alia.", "Complexul este înconjurat de un zid pătrat masiv.", "Numele înseamnă 'Tabără de iarnă'."],
       en: ["Construction began around 744 but was never finished.", "It is located very close to Queen Alia International Airport.", "The complex is surrounded by a massive square wall.", "The name means 'Winter Camp'."]
-    }
-  },
+    }, image: "/poi-images/qasr-al-mushatta-landmarks-v2.webp"},
   {
     id: "qasr-tuba-landmarks-v2",
     type: "landmark",
@@ -322,8 +306,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["Körülbelül 100 kilométerre fekszik Ammántól.", "Az épület két azonos szimmetrikus félből áll.", "Feladata a Hidzsázba tartó karavánok védelme volt.", "A falak nagy része fennmaradt."],
       ro: ["Este situat la aproximativ 100 de kilometri de Amman.", "Clădirea este formată din două jumătăți simetrice identice.", "Trebuia să protejeze caravanele pe drumul spre Hejaz.", "O mare parte din ziduri s-au păstrat."],
       en: ["It is located about 100 kilometers from Amman.", "The building consists of two identical symmetrical halves.", "It was intended to protect caravans on the route to the Hejaz.", "Much of the walls has been preserved."]
-    }
-  },
+    }, image: "/poi-images/qasr-tuba-landmarks-v2.webp"},
   {
     id: "lots-cave-landmarks-v2",
     type: "landmark",
@@ -341,8 +324,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A helyszínt régészetileg csak 1991-ben fedezték fel.", "A látogatóknak több száz lépcsőfokot kell megmászniuk.", "A templomrom padlóján mozaikok maradtak fenn.", "Feliratok említik benne Szent Lótot."],
       ro: ["Situl a fost descoperit arheologic abia în 1991.", "Vizitatorii trebuie să urce sute de trepte.", "Mozaicuri sunt păstrate pe podeaua ruinelor bisericii.", "Există inscripții care îl menționează pe Sfântul Lot."],
       en: ["The site was not discovered archaeologically until 1991.", "Visitors must climb hundreds of steps.", "Mosaics are preserved on the floor of the church ruins.", "There are inscriptions mentioning Saint Lot."]
-    }
-  },
+    }, image: "/poi-images/lots-cave-landmarks-v2.webp"},
   {
     id: "jabal-haroun-landmarks-v2",
     type: "landmark",
@@ -360,8 +342,7 @@ export const poiExtraJordanLandmarksV2: POI[] = [
       hu: ["A hegy mintegy 1350 méter magas.", "A megmászásához több órás túra szükséges.", "A fehér mecset a 14. századból származik.", "Muszlimok és zsidók számára egyaránt szent hely."],
       ro: ["Muntele are aproximativ 1350 de metri înălțime.", "Ascensiunea necesită o drumeție de câteva ore.", "Moscheea albă datează din secolul al XIV-lea.", "Este un loc sfânt atât pentru musulmani, cât și pentru evrei."],
       en: ["The mountain is about 1350 meters high.", "The ascent requires a hike of several hours.", "The white mosque dates from the 14th century.", "It is a sacred place for both Muslims and Jews."]
-    }
-  },
+    }, image: "/poi-images/jabal-haroun-landmarks-v2.webp"},
   {
     id: "rujm-al-malfouf-landmarks-v2",
     type: "landmark",

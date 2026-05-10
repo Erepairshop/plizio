@@ -585,13 +585,13 @@ export const poiExtraChinaLifeV2: POI[] = [
       de: "Der größte Frischblumenmarkt Asiens, in der Nähe von Kunming gelegen. Hier werden täglich riesige Mengen an Blumen gehandelt.",
       hu: "Ázsia legnagyobb friss virágpiaca, Kunming közelében. Naponta hatalmas mennyiségű virágot adnak-vesznek itt.",
       ro: "Cea mai mare piață de flori proaspete din Asia, situată lângă Kunming. Volume uriașe de flori sunt tranzacționate aici zilnic.",
-      en: "The largest fresh-cut flower market in Asia, located near Kunming. Huge volumes of flowers are traded here daily."
+      en: "Dounan Flower Market near Kunming grew from a small local market into Asia's largest flower market. It is now a central trading hub for China's fresh-cut flower industry."
     },
     facts: {
       de: ["Funktioniert rund um die Uhr.", "Bestimmt die Blumenpreise in ganz China und darüber hinaus.", "Exportiert Blumen in über 50 Länder."],
       hu: ["Éjjel-nappal működik.", "Meghatározza a virágárakat egész Kínában és azon túl is.", "Több mint 50 országba exportál virágot."],
       ro: ["Funcționează non-stop.", "Stabilește prețurile florilor în toată China și dincolo de ea.", "Exportă flori în peste 50 de țări."],
-      en: ["Operates 24/7.", "Determines flower prices across China and beyond.", "Exports flowers to over 50 countries."]
+      en: ["Asia's largest fresh-cut flower market", "Near Kunming, Yunnan", "Exports to 40+ countries and regions", "Over 70% of China's fresh-cut flower market share"]
     }
   }
 ];

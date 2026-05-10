@@ -37,8 +37,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["1937-ben fejezték be az építését.", "Hatalmas központi kupolával rendelkezik."],
       ro: ["Finalizat în 1937.", "Prezintă o cupolă centrală masivă."],
       en: ["Completed in 1937.", "Features a massive central dome."]
-    }
-  },
+    }, image: "/poi-images/central-market-phnom-penh-landmarks-v2.webp"},
   {
     id: "cambo-viet-monument-landmarks-v2",
     type: "monument",
@@ -56,8 +55,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["A két állam barátságát szimbolizálja.", "A Hun Sen parkban található."],
       ro: ["Simbolizează prietenia dintre cele două state.", "Situat în Parcul Hun Sen."],
       en: ["Symbolizes the friendship between the two states.", "Located in Hun Sen Park."]
-    }
-  },
+    }, image: "/poi-images/cambo-viet-monument-landmarks-v2.webp"},
   {
     id: "wat-ounalom-landmarks-v2",
     type: "landmark",
@@ -75,8 +73,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["A Maha-Nikaya rend központja.", "Az 1440-es években alapították."],
       ro: ["Sediul ordinului Maha Nikaya.", "Fondat în anii 1440."],
       en: ["Headquarters of the Maha Nikaya order.", "Founded in the 1440s."]
-    }
-  },
+    }, image: "/poi-images/wat-ounalom-landmarks-v2.webp"},
   {
     id: "baphuon-landmarks-v2",
     type: "landmark",
@@ -94,8 +91,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["A 11. században épült.", "Helyreállítása évtizedekig tartott."],
       ro: ["Construit în secolul al XI-lea.", "Reconstrucția a durat zeci de ani."],
       en: ["Built in the 11th century.", "Reconstruction took decades to complete."]
-    }
-  },
+    }, image: "/poi-images/baphuon-landmarks-v2.webp"},
   {
     id: "terrace-of-the-elephants-landmarks-v2",
     type: "landmark",
@@ -113,8 +109,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Hossza meghaladja a 300 métert.", "Az Angkor Thom-i falakon belül található."],
       ro: ["Măsoară peste 300 de metri în lungime.", "Parte a orașului înconjurat cu ziduri Angkor Thom."],
       en: ["Measures over 300 meters in length.", "Part of the walled city of Angkor Thom."]
-    }
-  },
+    }, image: "/poi-images/terrace-of-the-elephants-landmarks-v2.webp"},
   {
     id: "phimeanakas-landmarks-v2",
     type: "landmark",
@@ -132,8 +127,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["A 10. század végén épült.", "A királyi negyed legmagasabb temploma."],
       ro: ["Construit la sfârșitul secolului al X-lea.", "Cel mai înalt templu din zona regală."],
       en: ["Constructed at the end of the 10th century.", "Tallest temple in the royal enclosure."]
-    }
-  },
+    }, image: "/poi-images/phimeanakas-landmarks-v2.webp"},
   {
     id: "pre-rup-landmarks-v2",
     type: "landmark",
@@ -144,15 +138,14 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       de: "Ein Tempelberg aus Ziegeln und Laterit, dessen warme Farbtöne ihn zu einem beliebten Ort für Sonnenuntergänge machen.",
       hu: "Téglából és lateritből épült hegytemplom, melynek meleg színárnyalatai miatt kedvelt hely a naplemente megtekintésére.",
       ro: "Un templu-munte din cărămidă și laterit, ale cărui tonuri calde îl fac un loc popular pentru apusurile de soare.",
-      en: "A temple mountain made of brick and laterite, whose warm hues make it a popular spot for sunsets."
+      en: "Pre Rup is a brick and laterite temple mountain in the Angkor area. Its upper tiers are a popular place to watch the sunset."
     },
     facts: {
       de: ["Oft fälschlicherweise für ein Krematorium gehalten.", "Erbaut im Jahr 961."],
       hu: ["Gyakran tévesen krematóriumnak hitték.", "961-ben építették."],
       ro: ["Adesea confundat cu un crematoriu.", "Construit în 961."],
-      en: ["Often mistakenly thought to be a crematorium.", "Built in 961."]
-    }
-  },
+      en: ["Built in 961.", "Temple of King Rajendravarman II.", "Part of the Angkor complex.", "Often linked with cremation rites."]
+    }, image: "/poi-images/pre-rup-landmarks-v2.webp"},
   {
     id: "east-mebon-landmarks-v2",
     type: "landmark",
@@ -170,8 +163,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Siva isten tiszteletére emelték.", "Egykor csak csónakkal lehetett megközelíteni."],
       ro: ["Dedicat zeului hindus Shiva.", "Cândva accesibil doar cu barca."],
       en: ["Dedicated to the Hindu god Shiva.", "Once accessible only by boat."]
-    }
-  },
+    }, image: "/poi-images/east-mebon-landmarks-v2.webp"},
   {
     id: "phnom-bakheng-landmarks-v2",
     type: "landmark",
@@ -189,8 +181,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Angkor egyik legrégebbi temploma.", "Nagyon népszerű kilátóhely."],
       ro: ["Unul dintre cele mai vechi temple din Angkor.", "Foarte popular ca punct de belvedere."],
       en: ["One of the oldest temples in Angkor.", "Highly popular as a viewing point."]
-    }
-  },
+    }, image: "/poi-images/phnom-bakheng-landmarks-v2.webp"},
   {
     id: "ta-keo-landmarks-v2",
     type: "landmark",
@@ -208,8 +199,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Teljesen homokkőből épült.", "Soha nem fejezték be teljesen."],
       ro: ["Construit în întregime din gresie.", "Nu a fost niciodată finalizat complet."],
       en: ["Built entirely of sandstone.", "Was never fully completed."]
-    }
-  },
+    }, image: "/poi-images/ta-keo-landmarks-v2.webp"},
   {
     id: "banteay-kdei-landmarks-v2",
     type: "landmark",
@@ -227,8 +217,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Neve a Szerzetesek Citadelláját jelenti.", "Kevésbé restaurálták, mint más templomokat."],
       ro: ["Numele său înseamnă Cetatea Călugărilor.", "Mai puțin restaurat decât alte temple."],
       en: ["Its name translates to Citadel of Monks.", "Less restored than other temples in the area."]
-    }
-  },
+    }, image: "/poi-images/banteay-kdei-landmarks-v2.webp"},
   {
     id: "wat-banan-landmarks-v2",
     type: "landmark",
@@ -246,8 +235,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Egy 400 méter magas dombon fekszik.", "A 11. és 13. század között épült."],
       ro: ["Situat pe un deal înalt de 400 de metri.", "Construit între secolele al XI-lea și al XIII-lea."],
       en: ["Located on a 400-meter-high hill.", "Constructed from the 11th to 13th centuries."]
-    }
-  },
+    }, image: "/poi-images/wat-banan-landmarks-v2.webp"},
   {
     id: "phnom-sampeau-landmarks-v2",
     type: "landmark",
@@ -265,8 +253,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Jelentős helyszín a Vörös Khmer korszakból.", "Hatalmas denevérbarlang is található itt."],
       ro: ["Sit important în perioada Khmerilor Roșii.", "Are o peșteră mare cu lilieci."],
       en: ["Significant site during the Khmer Rouge era.", "Features a large bat cave."]
-    }
-  },
+    }, image: "/poi-images/phnom-sampeau-landmarks-v2.webp"},
   {
     id: "bokor-hill-station-landmarks-v2",
     type: "landmark",
@@ -284,8 +271,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["A franciák nyitották meg az 1920-as években.", "Egy egykori Grand Hotel is a része."],
       ro: ["Deschis de francezi în anii 1920.", "Include un fost Grand Hotel."],
       en: ["Opened by the French in the 1920s.", "Includes a former Grand Hotel."]
-    }
-  },
+    }, image: "/poi-images/bokor-hill-station-landmarks-v2.webp"},
   {
     id: "kbal-spean-landmarks-v2",
     type: "landmark",
@@ -303,8 +289,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Az Ezer Linga Völgyeként is ismert.", "1968-ban fedezték fel."],
       ro: ["Cunoscută sub numele de Valea celor o mie de Lingas.", "Descoperită în anul 1968."],
       en: ["Known as the Valley of a Thousand Lingas.", "Discovered in 1968."]
-    }
-  },
+    }, image: "/poi-images/kbal-spean-landmarks-v2.webp"},
   {
     id: "thommanon-landmarks-v2",
     type: "landmark",
@@ -322,8 +307,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Kiváló homokkő domborművekkel büszkélkedhet.", "Átfogó restauráláson esett át."],
       ro: ["Impresionează prin reliefuri fine din gresie.", "A fost restaurat extensiv."],
       en: ["Boasts fine sandstone reliefs.", "Has undergone extensive restoration."]
-    }
-  },
+    }, image: "/poi-images/thommanon-landmarks-v2.webp"},
   {
     id: "wat-botum-landmarks-v2",
     type: "landmark",
@@ -341,8 +325,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["1442-ben alapították.", "Számos politikus és híresség nyughelye."],
       ro: ["Fondat în anul 1442.", "Locul de odihnă al multor politicieni și celebrități."],
       en: ["Founded in 1442.", "Resting place for many politicians and celebrities."]
-    }
-  },
+    }, image: "/poi-images/wat-botum-landmarks-v2.webp"},
   {
     id: "preah-ko-landmarks-v2",
     type: "landmark",
@@ -360,8 +343,7 @@ export const poiExtraCambodiaLandmarksV2: POI[] = [
       hu: ["Neve Szent Bikát jelent.", "A 9. század végén épült."],
       ro: ["Numele înseamnă Taurul Sacru.", "Construit la sfârșitul secolului al IX-lea."],
       en: ["Name translates to the Sacred Bull.", "Constructed in the late 9th century."]
-    }
-  },
+    }, image: "/poi-images/preah-ko-landmarks-v2.webp"},
   {
     id: "lolei-landmarks-v2",
     type: "landmark",

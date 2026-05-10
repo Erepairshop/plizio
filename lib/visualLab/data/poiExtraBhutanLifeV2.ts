@@ -21,8 +21,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Jedes Jahr überwintern hier etwa 500 Schwarzhalskraniche.", "Das Tal ist Teil des Jigme Singye Wangchuck Nationalparks.", "Kartoffelanbau ist die Haupteinnahmequelle der lokalen Bauern.", "Das Gangteng-Kloster stammt aus dem 17. Jahrhundert.", "Ein jährliches Kranichfest findet im November statt.", "Die Region ist ein ausgewiesenes Ramsar-Schutzgebiet.", "Stromleitungen wurden unterirdisch verlegt, um die Vögel zu schützen.", "Das Informationszentrum der Royal Society for Protection of Nature (RSPN) befindet sich hier."]
-    }
-  },
+    }, image: "/poi-images/phobjikha-valley-life-v2.webp"},
   {
     id: "motithang-takin-preserve-life-v2",
     type: "wildlife-area",
@@ -43,8 +42,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der Takin wurde 1985 zum Nationaltier Bhutans ernannt.", "Eine Legende besagt, der Lama Drukpa Kunley habe den Takin erschaffen.", "Das Reservat wurde in den 1970er Jahren eingerichtet.", "Takine leben in Höhen von 1.000 bis 4.500 Metern.", "Das Gehege umfasst eine Fläche von 3,4 Hektar (8,4 Acres).", "Neben Takinen sind auch Sambar- und Muntjakhirsche zu sehen.", "Es liegt nur wenige Autominuten vom Stadtzentrum Thimphus entfernt.", "Die beste Zeit für einen Besuch ist am Morgen, wenn sie gefüttert werden."]
-    }
-  },
+    }, image: "/poi-images/motithang-takin-preserve-life-v2.webp"},
   {
     id: "royal-botanical-park-lampelri-life-v2",
     type: "park",
@@ -65,8 +63,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Eröffnet am 2. Juni 2008 zur Feier der Krönung des 5. Königs.", "Der Park umfasst eine Fläche von 125 Hektar (ca. 50 ha).", "Beherbergt 46 Rhododendron-Arten.", "Der Baritsho-See im Park hat religiöse Bedeutung.", "Es gibt ein Rhododendron-Festival, das jedes Jahr im Frühling stattfindet.", "Lebensraum für den seltenen Roten Panda.", "Liegt auf einer Höhe zwischen 2.100 und 3.800 Metern.", "Bietet 18 km Wanderwege für Besucher."]
-    }
-  },
+    }, image: "/poi-images/royal-botanical-park-lampelri-life-v2.webp"},
   {
     id: "torsa-strict-nature-reserve-life-v2",
     type: "wildlife-area",
@@ -87,8 +84,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Mit 609,51 km² eines der größten Schutzgebiete Bhutans.", "Das einzige streng unbewohnte Schutzgebiet des Landes.", "Grenzt an den Jigme Khesar Strict Nature Reserve.", "Schützt die Quellgebiete des Torsa-Flusses.", "Höhenlage reicht von 1.400 bis 4.800 Metern.", "Beherbergt den legendären Rufous-necked Hornbill.", "Keine touristische Infrastruktur vorhanden.", "Entscheidend für den grenzüberschreitenden Schutz von Wildtieren mit Sikkim."]
-    }
-  },
+    }, image: "/poi-images/torsa-strict-nature-reserve-life-v2.webp"},
   {
     id: "phipsoo-wildlife-sanctuary-life-v2",
     type: "wildlife-area",
@@ -109,8 +105,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Größe: 268,93 Quadratkilometer.", "Einziger Lebensraum des Axishirsches in Bhutan.", "Wichtiger Korridor für Elefanten zwischen Bhutan und Indien.", "Beherbergt den seltenen Goldlangur.", "Gegründet im Jahr 1993.", "Reicht von 200 bis 1.600 Meter Höhe.", "Besteht zu 45% aus subtropischem Laubwald.", "Bedroht durch Wilderei und illegale Abholzung."]
-    }
-  },
+    }, image: "/poi-images/phipsoo-wildlife-sanctuary-life-v2.webp"},
   {
     id: "coronation-park-thimphu-life-v2",
     type: "park",
@@ -131,8 +126,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Eröffnet im Jahr 2008 zum 100-jährigen Jubiläum der Monarchie.", "Die Buddha-Statue ist 13,7 Meter hoch.", "Liegt direkt am Ufer des Wang Chhu Flusses.", "Umfasst eine Fläche von etwa 5,6 Hektar.", "Ein beliebter Ort für das jährliche Thimphu Tshechu Festival.", "Hat einen Spielbereich für Kinder.", "Freier Eintritt für alle Besucher.", "Gegenüber dem Changlimithang-Stadion gelegen."]
-    }
-  },
+    }, image: "/poi-images/coronation-park-thimphu-life-v2.webp"},
   {
     id: "paro-rice-terraces-life-v2",
     type: "agriculture",
@@ -153,8 +147,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Paro ist das Hauptanbaugebiet für bhutanischen roten Reis.", "Roter Reis ist eine mittelkörnige Sorte mit nussigem Geschmack.", "Die Bewässerung erfolgt durch jahrhundertealte Kanalsysteme.", "Die Ernte findet typischerweise im Oktober und November statt.", "Der Reisanbau wird oft noch mit Hilfe von Ochsen durchgeführt.", "Die Terrassen verhindern Bodenerosion an den Hängen.", "Die Reisfelder bieten Lebensraum für verschiedene Vogelarten.", "Die Farbe der Felder wechselt von grün zu gold je nach Saison."]
-    }
-  },
+    }, image: "/poi-images/paro-rice-terraces-life-v2.webp"},
   {
     id: "samcholing-tea-estate-life-v2",
     type: "agriculture",
@@ -175,8 +168,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Gegründet als königliches Projekt zur ländlichen Entwicklung.", "Konzentriert sich auf den Anbau von Bio-Tee.", "Die erste Ernte fand im Jahr 2015 statt.", "Liegt im Distrikt Trongsa auf etwa 1.800 Metern Höhe.", "Schafft Arbeitsplätze für die lokale Gemeinschaft.", "Produziert sowohl grünen als auch schwarzen Tee.", "Die Marke heißt 'Bhutan Green Tea'.", "Trägt zur Diversifizierung der Landwirtschaft in Bhutan bei."]
-    }
-  },
+    }, image: "/poi-images/samcholing-tea-estate-life-v2.webp"},
   {
     id: "kuensel-phodrang-nature-park-life-v2",
     type: "park",
@@ -197,8 +189,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Umfasst eine Fläche von 381 Hektar (943 Acres).", "Wurde 2011 zum 31. Geburtstag Seiner Majestät des Königs eröffnet.", "Beherbergt die 51,5 Meter hohe Buddha Dordenma Statue.", "Verfügt über ein Netz von Wander- und Mountainbike-Wegen.", "Schützt das Einzugsgebiet für die Wasserversorgung von Thimphu.", "Bietet einige der besten Aussichtspunkte auf das Thimphu-Tal.", "Teil eines größeren Plans zur Schaffung eines 'grünen Gürtels' um die Stadt.", "Im Park finden regelmäßig Mountainbike-Rennen statt."]
-    }
-  },
+    }, image: "/poi-images/kuensel-phodrang-nature-park-life-v2.webp"},
   {
     id: "ludrong-memorial-garden-life-v2",
     type: "park",
@@ -219,8 +210,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Gewidmet Jigme Dorji Wangchuck, dem 3. König von Bhutan.", "Standort war früher Teil des königlichen Palastgeländes.", "Dient als Ex-situ-Erhaltungszentrum für seltene Pflanzen.", "Beherbergt eine Sammlung von über 200 Pflanzenarten.", "Ein friedlicher Ort für Kontemplation und Entspannung.", "Wird vom Nationalen Biodiversitätszentrum verwaltet.", "Der Eintritt ist oft kostenlos.", "Liegt im nördlichen Teil von Thimphu."]
-    }
-  },
+    }, image: "/poi-images/ludrong-memorial-garden-life-v2.webp"},
   {
     id: "zangtopelri-park-life-v2",
     type: "park",
@@ -241,8 +231,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der zentrale Tempel ist Guru Rinpoche gewidmet.", "Der Name 'Zangdopelri' bedeutet 'Kupferfarbener Bergpalast'.", "Der Park ist ein wichtiger sozialer Treffpunkt in Phuentsholing.", "Umgeben von einer Reihe von großen Gebetsmühlen.", "Ein beliebter Ort für morgendliche und abendliche Spaziergänge.", "Im Park befindet sich ein kleiner Spielplatz für Kinder.", "Stellt eine Oase der Ruhe in der belebten Grenzstadt dar.", "Der Tempel enthält beeindruckende Wandmalereien und Statuen."]
-    }
-  },
+    }, image: "/poi-images/zangtopelri-park-life-v2.webp"},
   {
     id: "bumthang-apple-orchards-life-v2",
     type: "agriculture",
@@ -263,8 +252,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Der kommerzielle Apfelanbau begann in den 1970er Jahren.", "Bumthang ist der größte Apfelproduzent in Bhutan.", "Beliebte Sorten sind Red Delicious, Royal Delicious und Golden Delicious.", "Die Erntezeit ist von August bis Oktober.", "Äpfel werden zu Saft, Weinbrand und dem lokalen 'Ara' verarbeitet.", "Die Apfelblüte im Frühling ist eine Touristenattraktion.", "Fördert die lokale Wirtschaft und reduziert Importe.", "Die 'Red Panda' Brauerei in Bumthang stellt auch Apfelwein her."]
-    }
-  },
+    }, image: "/poi-images/bumthang-apple-orchards-life-v2.webp"},
   {
     id: "punakha-mustard-fields-life-v2",
     type: "agriculture",
@@ -285,8 +273,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Blütezeit ist von Februar bis März.", "Senföl ist ein wesentlicher Bestandteil der bhutanischen Küche.", "Angebaut als Zwischenfrucht nach der Reisernte.", "Die gelben Felder bilden einen starken Kontrast zum Punakha Dzong.", "Die Pflanze wird zur Herstellung von Speiseöl und als Gewürz verwendet.", "Eine wichtige Einnahmequelle für Bauern in den wärmeren Tälern.", "Die Samen werden nach der Blüte im April geerntet.", "Die Landschaft zieht in dieser Zeit viele Fotografen an."]
-    }
-  },
+    }, image: "/poi-images/punakha-mustard-fields-life-v2.webp"},
   {
     id: "national-seed-centre-paro-life-v2",
     type: "agriculture",
@@ -307,8 +294,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Gegründet im Jahr 1995.", "Verantwortlich für die nationale Saatgutversorgung.", "Betreibt eine Genbank zur Erhaltung der Pflanzenvielfalt.", "Produziert Saatgut für Reis, Mais, Weizen, Buchweizen und Kartoffeln.", "Unterstützt das Ziel der 100% biologischen Landwirtschaft in Bhutan.", "Fördert die Verwendung von lokal angepassten Sorten.", "Bietet Schulungen für Landwirte an.", "Wichtiger Akteur zur Gewährleistung der Ernährungssicherheit."]
-    }
-  },
+    }, image: "/poi-images/national-seed-centre-paro-life-v2.webp"},
   {
     id: "rspn-crane-visitor-centre-life-v2",
     type: "kid-friendly",
@@ -329,8 +315,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Verwaltet von der Royal Society for Protection of Nature (RSPN).", "Bietet leistungsstarke Teleskope zur Vogelbeobachtung.", "Liegt auf einem Hügel mit Panoramablick auf das Tal.", "Das jährliche Kranichfest findet auf dem Gelände des Zentrums statt.", "Erlöse aus dem Souvenirladen unterstützen den lokalen Naturschutz.", "Bietet Bildungsprogramme für Schulen und Touristen.", "Eröffnet im Jahr 1998.", "Ein Muss für jeden Besucher des Phobjikha-Tals im Winter."]
-    }
-  },
+    }, image: "/poi-images/rspn-crane-visitor-centre-life-v2.webp"},
   {
     id: "yusipang-agricultural-center-life-v2",
     type: "agriculture",
@@ -351,8 +336,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Führend in der forst- und landwirtschaftlichen Forschung.", "Entwickelt Strategien zur Anpassung an den Klimawandel.", "Arbeitet an der Züchtung verbesserter Pflanzensorten.", "Unterstützt Bhutans Ziel der 100% biologischen Landwirtschaft.", "Fokus auf nachhaltige Bodenbewirtschaftung und Agroforstwirtschaft.", "Gegründet im Jahr 1982 als Renewable Natural Resources Research Centre.", "Verantwortlich für die Zentral- und Westregionen Bhutans.", "Ein wichtiger Partner für Landwirte und politische Entscheidungsträger."]
-    }
-  },
+    }, image: "/poi-images/yusipang-agricultural-center-life-v2.webp"},
   {
     id: "haa-valley-yak-pastures-life-v2",
     type: "agriculture",
@@ -373,8 +357,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Das Haa-Tal wurde erst 2002 für den Tourismus geöffnet.", "Die Yak-Hirten werden als 'Bjops' bezeichnet.", "Yaks werden für Milch, Fleisch, Wolle und als Lasttiere genutzt.", "Chhurpi, ein harter Käse aus Yakmilch, ist eine lokale Spezialität.", "Die Weiden liegen oft über 4.000 Meter hoch.", "Das jährliche Haa Summer Festival feiert die nomadische Kultur.", "Die Region ist auch für den Anbau von Buchweizen bekannt.", "Die Hirten praktizieren eine Form der Transhumanz (Wanderweidewirtschaft)."]
-    }
-  },
+    }, image: "/poi-images/haa-valley-yak-pastures-life-v2.webp"},
   {
     id: "chamkhar-dairy-farms-life-v2",
     type: "agriculture",
@@ -395,8 +378,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Die Käseherstellung wurde von dem Schweizer Fritz Maurer eingeführt.", "Begann in den späten 1960er / frühen 1970er Jahren.", "Produziert werden Sorten wie Gouda und Emmentaler.", "Die Milch stammt von Jersey- und Brown-Swiss-Kühen.", "Die 'Red Panda Brewery' in der Nähe stellt ebenfalls Käse her.", "Wichtiger Beitrag zur lokalen Wirtschaft in Bumthang.", "Die Produkte werden im ganzen Land verkauft.", "Ein Beispiel für erfolgreiche internationale Zusammenarbeit."]
-    }
-  },
+    }, image: "/poi-images/chamkhar-dairy-farms-life-v2.webp"},
   {
     id: "simply-bhutan-living-museum-life-v2",
     type: "kid-friendly",
@@ -417,8 +399,7 @@ export const poiExtraBhutanLifeV2: POI[] = [
     },
     factsAdvanced: {
       multi4: ["Ein 'lebendiges Museum', das 2012 gegründet wurde.", "Wird vom Bhutan Youth Development Fund betrieben.", "Schafft Arbeitsplätze und Ausbildungsmöglichkeiten für junge Menschen.", "Besucher können traditionelle Kleidung (Gho und Kira) anprobieren.", "Man kann sich im Bogenschießen, dem Nationalsport, versuchen.", "Zeigt die Herstellung von 'Zaw', geröstetem Reis.", "Der Erlös unterstützt benachteiligte Jugendliche.", "Bietet eine interaktive und praktische Kulturerfahrung."]
-    }
-  },
+    }, image: "/poi-images/simply-bhutan-living-museum-life-v2.webp"},
   {
     id: "centennial-farmers-market-life-v2",
     type: "agriculture",

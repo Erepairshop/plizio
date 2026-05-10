@@ -18,8 +18,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Viqueque körzetében található.", "Látványos kilátást nyújt.", "Helyi vadvilág élőhelye.", "Fontos a helyi mitológiában."],
       ro: ["Situat în districtul Viqueque.", "Oferă vederi spectaculoase.", "Habitat pentru fauna locală.", "Important pentru mitologia locală."],
       en: ["Located in the Viqueque district.", "Offers spectacular views.", "Habitat for local wildlife.", "Important to local mythology."]
-    }
-  },
+    }, image: "/poi-images/mount-builo-relief-v2.webp"},
   {
     id: "mount-manucoco-relief-v2",
     type: "mountain",
@@ -37,8 +36,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Atauro legmagasabb pontja.", "Csúcsa majdnem 1000 méter magas.", "Népszerű túracélpont.", "Változatos növényvilággal rendelkezik."],
       ro: ["Cel mai înalt punct de pe Atauro.", "Atinge aproape 1.000 de metri altitudine.", "Destinație populară pentru drumeții.", "Are o floră diversă."],
       en: ["Highest point on Atauro.", "Reaches nearly 1,000 meters in altitude.", "Popular destination for hikers.", "Has a diverse flora."]
-    }
-  },
+    }, image: "/poi-images/mount-manucoco-relief-v2.webp"},
   {
     id: "mount-legumau-relief-v2",
     type: "mountain",
@@ -56,8 +54,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["A határ közelében fekszik.", "Sűrűn erdősült lejtők jellemzik.", "Nehezen megközelíthető terep.", "Fontos vízválasztó."],
       ro: ["Situat aproape de graniță.", "Pante dens împădurite.", "Teren greu accesibil.", "Un important cumpănă de ape."],
       en: ["Located near the border.", "Densely forested slopes.", "Difficult to access terrain.", "Important watershed."]
-    }
-  },
+    }, image: "/poi-images/mount-legumau-relief-v2.webp"},
   {
     id: "baucau-plateau-relief-v2",
     type: "plateau",
@@ -75,8 +72,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Korallmészkőből áll.", "Meredeken emelkedik ki a partról.", "Sok édesvizű forrása van.", "Mezőgazdaságilag hasznosított terület."],
       ro: ["Este format din calcar coraligen.", "Se înalță abrupt de la coastă.", "Găzduiește multe izvoare de apă dulce.", "Zonă folosită pentru agricultură."],
       en: ["Made of coral limestone.", "Rises steeply from the coast.", "Hosts many freshwater springs.", "Area used for agriculture."]
-    }
-  },
+    }, image: "/poi-images/baucau-plateau-relief-v2.webp"},
   {
     id: "fuiloro-plateau-relief-v2",
     type: "plateau",
@@ -94,8 +90,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Átlagos magassága 500-700 méter.", "Fontos a szarvasmarha-tenyésztés számára.", "Lautém körzet része.", "Viszonylag sík domborzatú."],
       ro: ["Altitudinea medie este între 500 și 700 de metri.", "Important pentru creșterea vitelor.", "Parte a districtului Lautém.", "Topografie relativ plană."],
       en: ["Average elevation is between 500 and 700 meters.", "Important for cattle breeding.", "Part of the Lautém district.", "Relatively flat topography."]
-    }
-  },
+    }, image: "/poi-images/fuiloro-plateau-relief-v2.webp"},
   {
     id: "mount-paitchau-relief-v2",
     type: "mountain",
@@ -113,8 +108,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Magassága majdnem 1000 méter.", "Főként mészkőből áll.", "Endemikus madárfajok otthona.", "Sűrűn erdősült."],
       ro: ["Altitudinea este de aproape 1.000 de metri.", "Este format în principal din calcar.", "Adăpostește specii de păsări endemice.", "Dens împădurit."],
       en: ["Elevation is nearly 1,000 meters.", "Made primarily of limestone.", "Home to endemic bird species.", "Densely forested."]
-    }
-  },
+    }, image: "/poi-images/mount-paitchau-relief-v2.webp"},
   {
     id: "mount-bibileo-relief-v2",
     type: "mountain",
@@ -132,8 +126,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Meghatározó magaslat Viqueque-ben.", "Nehezen megközelíthető.", "Ritka növényeknek ad otthont.", "Gyakran felhők borítják."],
       ro: ["Altitudine dominantă în Viqueque.", "Greu accesibil.", "Găzduiește plante rare.", "Adesea acoperit de nori."],
       en: ["Dominant elevation in Viqueque.", "Difficult to access.", "Hosts rare plants.", "Often covered by clouds."]
-    }
-  },
+    }, image: "/poi-images/mount-bibileo-relief-v2.webp"},
   {
     id: "mount-diatuto-relief-v2",
     type: "mountain",
@@ -151,8 +144,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Ökológiai kulcsszerepet játszik.", "A központi hegység része.", "Népszerű a természetkutatók körében.", "Biodiverzitásban gazdag."],
       ro: ["Joacă un rol ecologic cheie.", "Parte a lanțului muntos central.", "Popular printre naturaliști.", "Bogat în biodiversitate."],
       en: ["Plays a key ecological role.", "Part of the central mountain range.", "Popular with naturalists.", "Rich in biodiversity."]
-    }
-  },
+    }, image: "/poi-images/mount-diatuto-relief-v2.webp"},
   {
     id: "hato-builico-valley-relief-v2",
     type: "valley",
@@ -189,8 +181,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["A nemzeti park része.", "Kiváló búvárkodásra.", "Nyugodt vizű.", "Tengeri teknősök élőhelye."],
       ro: ["Aparține parcului național.", "Excelent pentru snorkeling.", "Ape calme.", "Habitat pentru broaștele țestoase marine."],
       en: ["Part of the national park.", "Excellent for snorkeling.", "Calm waters.", "Habitat for sea turtles."]
-    }
-  },
+    }, image: "/poi-images/com-coast-relief-v2.webp"},
   {
     id: "areia-branca-coast-relief-v2",
     type: "coast",
@@ -208,8 +199,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Jelentése 'Fehér Homok'.", "Népszerű helyi pihenőhely.", "A Cristo Rei szobor tekint le rá.", "Sok helyi étterem van a közelben."],
       ro: ["Înseamnă 'Nisip Alb'.", "Zonă de recreere populară.", "Supravegheată de statuia Cristo Rei.", "Multe restaurante locale în apropiere."],
       en: ["Means 'White Sand'.", "Popular local recreation area.", "Overlooked by the Cristo Rei statue.", "Many local restaurants nearby."]
-    }
-  },
+    }, image: "/poi-images/areia-branca-coast-relief-v2.webp"},
   {
     id: "maliana-valley-relief-v2",
     type: "valley",
@@ -227,8 +217,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["A nemzet rizstárolójaként tartják számon.", "Magas hegyek veszik körül.", "Forróbb mikroklímája van.", "Stratégiailag fontos régió."],
       ro: ["Considerat grânarul de orez al națiunii.", "Este înconjurat de munți înalți.", "Are un microclimat mai cald.", "Regiune importantă strategic."],
       en: ["Considered the rice bowl of the nation.", "Surrounded by high mountains.", "Has a hotter microclimate.", "Strategically important region."]
-    }
-  },
+    }, image: "/poi-images/maliana-valley-relief-v2.webp"},
   {
     id: "ossu-valley-relief-v2",
     type: "valley",
@@ -246,8 +235,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Meredek sziklák veszik körül.", "Nagy mennyiségű csapadék hullik.", "Számos barlang található itt.", "Hűvös hegyi klíma."],
       ro: ["Înconjurat de stânci abrupte.", "Cantitate mare de precipitații.", "Găzduiește numeroase peșteri.", "Climat montan răcoros."],
       en: ["Surrounded by steep cliffs.", "High amount of rainfall.", "Home to numerous caves.", "Cool mountain climate."]
-    }
-  },
+    }, image: "/poi-images/ossu-valley-relief-v2.webp"},
   {
     id: "dolok-oan-coast-relief-v2",
     type: "coast",
@@ -265,8 +253,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Csendesebb a szomszédos strandoknál.", "Túraútvonalakon megközelíthető.", "Tiszta, sekély víz.", "Idilli trópusi környezet."],
       ro: ["Mai liniștită decât plajele învecinate.", "Accesibilă prin trasee de drumeție.", "Ape clare și puțin adânci.", "Peisaj tropical idilic."],
       en: ["Quieter than neighboring beaches.", "Accessible via hiking trails.", "Clear, shallow water.", "Idyllic tropical setting."]
-    }
-  },
+    }, image: "/poi-images/dolok-oan-coast-relief-v2.webp"},
   {
     id: "laga-coast-relief-v2",
     type: "coast",
@@ -284,8 +271,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Hagyományos sókitermeléséről ismert.", "Homokos strandok koralltörmelékkel.", "Turisztikailag alig kiépített.", "Kilátás a Wetar-szorosra."],
       ro: ["Cunoscută pentru extracția tradițională a sării.", "Plaje de nisip cu resturi de corali.", "Slab dezvoltată turistic.", "Vedere spre Strâmtoarea Wetar."],
       en: ["Known for traditional salt extraction.", "Sand beaches with coral debris.", "Hardly developed for tourism.", "View of the Wetar Strait."]
-    }
-  },
+    }, image: "/poi-images/laga-coast-relief-v2.webp"},
   {
     id: "mount-tapo-relief-v2",
     type: "mountain",
@@ -303,8 +289,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Sűrű monszunerdő borítja.", "Fontos ökológiai folyosó.", "Gyakran köd borítja.", "Meredek domborzat jellemzi."],
       ro: ["Acoperit cu pădure densă de muson.", "Coridor ecologic important.", "Adesea ascuns în ceață.", "Caracterizat printr-un relief abrupt."],
       en: ["Covered with dense monsoon forest.", "Important ecological corridor.", "Often hidden in mist.", "Characterized by steep relief."]
-    }
-  },
+    }, image: "/poi-images/mount-tapo-relief-v2.webp"},
   {
     id: "mount-lari-guto-relief-v2",
     type: "mountain",
@@ -322,8 +307,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Éles sziklák jellemzik.", "Történelmi menedékhely.", "Ellenálló kőzetből áll.", "Meghatározza a tájképet."],
       ro: ["Caracterizat prin stânci ascuțite.", "Refugiu istoric.", "Este format din rocă rezistentă.", "Domină peisajul."],
       en: ["Characterized by sharp cliffs.", "Historical retreat area.", "Consists of resistant rock.", "Dominates the landscape."]
-    }
-  },
+    }, image: "/poi-images/mount-lari-guto-relief-v2.webp"},
   {
     id: "betano-coast-relief-v2",
     type: "coast",
@@ -341,8 +325,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Hozzáférés a zord Timor-tengerhez.", "Erős hullámverés.", "Történelmileg jelentős hely.", "Vulkanikus homokból áll."],
       ro: ["Acces la Marea Timorului, aspră.", "Valuri puternice.", "Loc cu importanță istorică.", "Formată din nisip vulcanic."],
       en: ["Access to the rough Timor Sea.", "Strong surf.", "Historically significant place.", "Consists of volcanic sand."]
-    }
-  },
+    }, image: "/poi-images/betano-coast-relief-v2.webp"},
   {
     id: "lore-coast-relief-v2",
     type: "coast",
@@ -360,8 +343,7 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Természetvédelmi terület része.", "Fontos fészkelőhely teknősöknek.", "Sűrű mangroveerdők szegélyezik.", "Alig van emberi beavatkozás."],
       ro: ["Parte a unei rezervații naturale.", "Loc important de cuibărit pentru broaște țestoase.", "Mărginită de mangrove dense.", "Puține intervenții umane."],
       en: ["Part of a nature reserve.", "Important nesting site for turtles.", "Fringed by dense mangroves.", "Hardly any human intervention."]
-    }
-  },
+    }, image: "/poi-images/lore-coast-relief-v2.webp"},
   {
     id: "suai-coast-relief-v2",
     type: "coast",

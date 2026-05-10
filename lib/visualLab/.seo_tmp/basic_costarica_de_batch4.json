@@ -1,0 +1,109 @@
+{
+  "lang": "de",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cr-iglesia-de-metal-grecia-landmarks-v2",
+      "description": "Eine einzigartige Kirche aus vorgefertigten Stahlplatten aus Belgien.",
+      "facts": [
+        "Erbaut in den 1890er Jahren",
+        "Vollständig aus Metall",
+        "Neugotischer Stil",
+        "Rot gestrichen"
+      ]
+    },
+    {
+      "id": "cr-sanatorio-duran-landmarks-v2",
+      "description": "Ein verlassenes ehemaliges Tuberkulose-Krankenhaus, das als heimgesucht gilt.",
+      "facts": [
+        "Gegründet 1918",
+        "In den Bergen bei Cartago",
+        "Heute eine Touristenattraktion",
+        "Bekannt für paranormale Geschichten"
+      ]
+    },
+    {
+      "id": "cr-mercado-central-sanjose-landmarks-v2",
+      "description": "Der größte und älteste Markt in San José, voller Leben und lokaler Produkte.",
+      "facts": [
+        "Gegründet 1880",
+        "Labyrinth aus Gängen und Ständen",
+        "Bietet traditionelle Speisen (Sodas)",
+        "Herz des lokalen Handels"
+      ]
+    },
+    {
+      "id": "cr-sloth-sanctuary-landmarks-v2",
+      "description": "Das weltweit erste Faultier-Rettungszentrum.",
+      "facts": [
+        "Gegründet 1992",
+        "Pionier in der Faultierforschung",
+        "Pflegt verletzte und verwaiste Faultiere",
+        "Bietet Bildungstouren an"
+      ]
+    },
+    {
+      "id": "cr-estadio-ricardo-saprissa-landmarks-v2",
+      "description": "Heimat des Fußballvereins Deportivo Saprissa, bekannt als 'Die Monsterhöhle'.",
+      "facts": [
+        "Eröffnet 1972",
+        "Heimat von Deportivo Saprissa",
+        "Bekannt für seine intensive Atmosphäre",
+        "Eines der größten Stadien des Landes"
+      ]
+    },
+    {
+      "id": "cr-iglesia-colonial-orosi-landmarks-v2",
+      "description": "Eine der ältesten Kirchen Costa Ricas, die noch in Gebrauch ist.",
+      "facts": [
+        "Erbaut 1743",
+        "Einfacher Kolonialstil (Adobe)",
+        "Beherbergt ein kleines Museum für religiöse Kunst",
+        "Nationaldenkmal"
+      ]
+    },
+    {
+      "id": "cr-parque-viva-landmarks-v2",
+      "description": "Ein moderner Veranstaltungsort für Konzerte, Messen und Motorsport.",
+      "facts": [
+        "Größter Veranstaltungsort in Zentralamerika",
+        "Amphitheater, Veranstaltungszentrum und Rennstrecke",
+        "Eröffnet 2015",
+        "Nahe dem Flughafen SJO"
+      ]
+    },
+    {
+      "id": "teatro-nacional-life-v2",
+      "description": "Das prächtigste Gebäude des Landes, ein Symbol der Kaffeeblöte.",
+      "facts": [
+        "Eröffnet: 1897",
+        "Neoklassizistischer Stil",
+        "Kulturdenkmal"
+      ]
+    },
+    {
+      "id": "finca-cafe-life-v2",
+      "description": "Eine traditionelle Kaffeefarm in der fruchtbaren Vulkanregion.",
+      "facts": [
+        "Vulkanischer Boden",
+        "Handgepflückt",
+        "Nachhaltiger Anbau"
+      ]
+    },
+    {
+      "id": "sarchi-crafts-life-v2",
+      "description": "Bekannt für die traditionellen bunten Ochsenkarren.",
+      "facts": [
+        "Bunte Ochsenkarren",
+        "Holzschnitzerei",
+        "Kulturerbe"
+      ]
+    }
+  ]
+}

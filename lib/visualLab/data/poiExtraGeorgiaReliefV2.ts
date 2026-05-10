@@ -13,8 +13,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["A Szvanéti-hegylánc legmagasabb csúcsa.", "Népszerű célpont a kihívást kereső hegymászók körében."],
       ro: ["Cel mai înalt vârf din lanțul Svaneti.", "O destinație populară pentru alpiniștii experimentați."],
       en: ["Highest peak of the Svaneti Range.", "A popular destination for experienced mountaineers."]
-    }
-  },
+    }, image: "/poi-images/laila-relief-v2.webp"},
   {
     id: "diklosmta-relief-v2",
     type: "mountain",
@@ -27,8 +26,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Magassága eléri a 4285 métert.", "A dagesztáni határon fekszik."],
       ro: ["Atinge o altitudine de 4.285 de metri.", "Situat la granița cu Daghestan."],
       en: ["Reaches an elevation of 4,285 meters.", "Located on the border with Dagestan."]
-    }
-  },
+    }, image: "/poi-images/diklosmta-relief-v2.webp"},
   {
     id: "tebulosmta-relief-v2",
     type: "mountain",
@@ -41,8 +39,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["4492 méterével a régió legmagasabb hegye.", "Lejtőit alpesi rétek veszik körül."],
       ro: ["Cu 4.492 de metri, este cel mai înalt munte din regiune.", "Pantele sunt înconjurate de pajiști alpine."],
       en: ["At 4,492 meters, it is the highest mountain in the region.", "The slopes are surrounded by alpine meadows."]
-    }
-  },
+    }, image: "/poi-images/tebulosmta-relief-v2.webp"},
   {
     id: "shota-rustaveli-peak-relief-v2",
     type: "mountain",
@@ -55,8 +52,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Több mint 4800 méter magas.", "A 12. századi költőről kapta a nevét."],
       ro: ["Are peste 4.800 de metri înălțime.", "Numit după poetul din secolul al XII-lea."],
       en: ["Over 4,800 meters high.", "Named after the 12th-century poet."]
-    }
-  },
+    }, image: "/poi-images/shota-rustaveli-peak-relief-v2.webp"},
   {
     id: "ailama-relief-v2",
     type: "mountain",
@@ -69,8 +65,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Magassága 4547 méter.", "Kihívást jelentő alpinista célpontnak számít."],
       ro: ["Altitudinea este de 4.547 de metri.", "Considerată o destinație alpină provocatoare."],
       en: ["The elevation is 4,547 meters.", "Considered a challenging alpine destination."]
-    }
-  },
+    }, image: "/poi-images/ailama-relief-v2.webp"},
   {
     id: "khvamli-massif-relief-v2",
     type: "mountain",
@@ -83,8 +78,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Eléri a 2002 méteres magasságot.", "Jelentős szerepet játszik a grúz mitológiában."],
       ro: ["Atinge o altitudine de 2.002 metri.", "Important în mitologia georgiană."],
       en: ["Reaches a height of 2,002 meters.", "Significant in Georgian mythology."]
-    }
-  },
+    }, image: "/poi-images/khvamli-massif-relief-v2.webp"},
   {
     id: "didgori-mountain-relief-v2",
     type: "mountain",
@@ -97,8 +91,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["1647 méter magas.", "A híres didgori csata helyszíne."],
       ro: ["Are o înălțime de 1.647 de metri.", "Locul faimoasei bătălii de la Didgori."],
       en: ["1,647 meters high.", "Site of the famous Battle of Didgori."]
-    }
-  },
+    }, image: "/poi-images/didgori-mountain-relief-v2.webp"},
   {
     id: "mtatsminda-relief-v2",
     type: "mountain",
@@ -111,8 +104,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["715 méterrel emelkedik a tengerszint fölé.", "Itt található a grúz írók panteonja."],
       ro: ["Se ridică la 715 metri deasupra nivelului mării.", "Găzduiește Panteonul scriitorilor georgieni."],
       en: ["Rises 715 meters above sea level.", "Houses the Pantheon of Georgian writers."]
-    }
-  },
+    }, image: "/poi-images/mtatsminda-relief-v2.webp"},
   {
     id: "likhi-range-relief-v2",
     type: "mountain",
@@ -125,8 +117,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Két nagy hegységrendszert köt össze.", "Fontos éghajlatválasztó vonal."],
       ro: ["Conectează două mari sisteme montane.", "O importantă linie de demarcație climatică."],
       en: ["Connects two major mountain systems.", "An important climatic divide."]
-    }
-  },
+    }, image: "/poi-images/likhi-range-relief-v2.webp"},
   {
     id: "trialeti-range-relief-v2",
     type: "mountain",
@@ -139,8 +130,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Legmagasabb pontja a Saviklde hegy.", "Geotermikus forrásokban gazdag."],
       ro: ["Cel mai înalt punct este muntele Shaviklde.", "Bogat în izvoare geotermale."],
       en: ["Highest point is Mount Shaviklde.", "Rich in geothermal springs."]
-    }
-  },
+    }, image: "/poi-images/trialeti-range-relief-v2.webp"},
   {
     id: "javakheti-plateau-relief-v2",
     type: "plateau",
@@ -153,8 +143,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Magassága többnyire meghaladja a 2000 métert.", "Számos fontos vizes élőhelynek ad otthont."],
       ro: ["Altitudinea este în general de peste 2.000 de metri.", "Găzduiește numeroase zone umede importante."],
       en: ["Elevation mostly over 2,000 meters.", "Hosts numerous important wetlands."]
-    }
-  },
+    }, image: "/poi-images/javakheti-plateau-relief-v2.webp"},
   {
     id: "iori-plateau-relief-v2",
     type: "plateau",
@@ -167,8 +156,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Szárazság és sztyeppei éghajlat jellemzi.", "A ragadozó madarak fontos élőhelye."],
       ro: ["Caracterizat de secetă și climă de stepă.", "Un habitat important pentru păsările de pradă."],
       en: ["Characterized by aridity and steppe climate.", "An important habitat for birds of prey."]
-    }
-  },
+    }, image: "/poi-images/iori-plateau-relief-v2.webp"},
   {
     id: "udabno-desert-relief-v2",
     type: "desert",
@@ -181,8 +169,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["A név grúzul szó szerint sivatagot jelent.", "A régió gazdag ásványi anyagokban."],
       ro: ["Numele înseamnă literal 'deșert' în georgiană.", "Regiunea este bogată în minerale."],
       en: ["The name literally means 'desert' in Georgian.", "The region is rich in minerals."]
-    }
-  },
+    }, image: "/poi-images/udabno-desert-relief-v2.webp"},
   {
     id: "pankisi-gorge-relief-v2",
     type: "valley",
@@ -195,8 +182,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Körülbelül 10 kilométer hosszú.", "Egy egyedülálló kaukázusi kultúra otthona."],
       ro: ["Are aproximativ 10 kilometri lungime.", "Găzduiește o cultură caucaziană unică."],
       en: ["About 10 kilometers long.", "Home to a unique Caucasian culture."]
-    }
-  },
+    }, image: "/poi-images/pankisi-gorge-relief-v2.webp"},
   {
     id: "kodori-gorge-relief-v2",
     type: "valley",
@@ -223,8 +209,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Szénsavas ásványvizekben gazdag.", "Több mint 2000 méteres magasságban található."],
       ro: ["Bogată în izvoare minerale carbogazoase.", "Situată la o altitudine de peste 2.000 de metri."],
       en: ["Rich in carbonated mineral springs.", "Located at an altitude of over 2,000 meters."]
-    }
-  },
+    }, image: "/poi-images/truso-valley-relief-v2.webp"},
   {
     id: "sno-valley-relief-v2",
     type: "valley",
@@ -237,8 +222,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Népszerű kiindulópont hegyi túrákhoz.", "A grúz hadiútról ágazik le."],
       ro: ["Un punct de plecare popular pentru drumeții montane.", "Se ramifică de pe Drumul Militar Georgian."],
       en: ["A popular starting point for mountain hikes.", "Branches off from the Georgian Military Highway."]
-    }
-  },
+    }, image: "/poi-images/sno-valley-relief-v2.webp"},
   {
     id: "darial-gorge-relief-v2",
     type: "valley",
@@ -251,8 +235,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Történelmileg az 'alánok kapuja' néven ismert.", "Fontos határátkelőhely Oroszország felé."],
       ro: ["Cunoscut istoric sub numele de 'Porțile Alanilor'.", "O trecere importantă a frontierei spre Rusia."],
       en: ["Historically known as the 'Gates of the Alans'.", "An important border crossing into Russia."]
-    }
-  },
+    }, image: "/poi-images/darial-gorge-relief-v2.webp"},
   {
     id: "borjomi-gorge-relief-v2",
     type: "valley",
@@ -265,8 +248,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["A híres Borzsomi ásványvíz otthona.", "Különleges, gyógyító mikroklíma jellemzi."],
       ro: ["Casa celebrei ape minerale Borjomi.", "Caracterizată printr-un microclimat special, vindecător."],
       en: ["Home of the famous Borjomi mineral water.", "Characterized by a special, healing microclimate."]
-    }
-  },
+    }, image: "/poi-images/borjomi-gorge-relief-v2.webp"},
   {
     id: "adjara-coast-relief-v2",
     type: "coast",

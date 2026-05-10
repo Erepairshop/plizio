@@ -55,8 +55,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["Kr. e. 515-ben kezdődött a grandiózus építkezés", "A terasz területe mintegy 125 000 négyzetméter", "Az Apadána csarnok tetőzetét 72 darab, 19 méter magas kőoszlop tartotta", "Kr. e. 330-ban Nagy Sándor seregei kifosztották és felgyújtották", "A Minden Nemzet Kapuját I. Xerxész építtette Kr. e. 475 körül", "Több mint 3000 ékírásos agyagtáblát találtak az egykori kincstár romjai között", "1979 óta az UNESCO Világörökségének kiemelkedő része"],
       ro: ["Fondat de Darius I în anul 518 î.Hr.", "Terasa acoperă o suprafață de aproximativ 125.000 de metri pătrați", "Palatul Apadana putea găzdui până la 10.000 de invitați", "Distrugerea de către Alexandru cel Mare în anul 330 î.Hr.", "Coloanele palatului Apadana aveau inițial o înălțime de până la 20 de metri", "Desemnat ca Patrimoniu Mondial UNESCO în anul 1979"],
       en: ["Founded by Darius I in the year 518 BC", "The terrace covers an area of approximately 125,000 square meters", "The Apadana Palace could accommodate up to 10,000 guests", "Destroyed by Alexander the Great in the year 330 BC", "The columns of the Apadana were originally up to 20 meters high", "Designated as a UNESCO World Heritage Site in 1979"]
-    }
-  },
+    }, image: "/poi-images/iran-persepolis-history-v2.webp"},
   {
     id: "iran-pasargadae-history-v2",
     type: "ruin",
@@ -111,8 +110,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A várost Nagy Círusz alapította Kr. e. 546 körül", "A teljes régészeti park területe mintegy 160 hektár", "Itt hozták létre az első ismert négyszögletes perzsa kertet (csahárbág)", "Nagy Círusz sírja egy hatlépcsős, 11 méter magas mészkő építmény", "A Tol-e Taht (Trónus-domb) nevű fellegvár kőfalai a település felett magasodnak", "Nagy Sándor Kr. e. 330-ban tiszteletét tette a nagy perzsa uralkodó sírjánál", "2004-ben nyilvánította az UNESCO Világörökségi helyszínné"],
       ro: ["Fondat de Cirus cel Mare în jurul anului 550 î.Hr.", "Mormântul lui Cirus este construit din blocuri masive de calcar", "Complexul total se întinde pe o suprafață de 1,6 kilometri pătrați", "Primele săpături sistematice au început în 1928 sub conducerea lui Ernst Herzfeld", "Inclus oficial pe lista Patrimoniului Mondial UNESCO din anul 2004", "Cirus a căzut în luptă în 530 î.Hr., după care mormântul său a fost finalizat aici"],
       en: ["Founded by Cyrus the Great around the year 550 BC", "The tomb of Cyrus is built from massive limestone blocks", "The entire Pasargadae complex covers an area of 1.6 square kilometers", "First systematic excavations began in 1928 led by Ernst Herzfeld", "Officially listed as a UNESCO World Heritage Site since 2004", "Cyrus fell in battle in 530 BC, after which his tomb was completed here"]
-    }
-  },
+    }, image: "/poi-images/iran-pasargadae-history-v2.webp"},
   {
     id: "iran-golestan-palace-history-v2",
     type: "historical-site",
@@ -167,8 +165,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A palotaegyüttes jelenleg 17 különböző csarnokból, múzeumból és pavilonból áll", "A Márvány Trónus (Taht-e Marmar) teraszát 1806-ban építették sárga jazdi márványból", "A Tükörterem (Talar-e Aineh) építése 1874-től 1877-ig tartott", "Az 1880-as években jelentős európai stílusú átalakításokon esett át", "A palota falai között koronázták meg az utolsó perzsa sahokat a 20. században", "Híres szélfogó tornyai (bádgír) a természetes hűtést szolgálták", "2013-ban került fel az UNESCO Világörökség listájára"],
       ro: ["Cele mai vechi părți ale complexului datează din secolul al XVI-lea", "Agha Mohammad Khan a ales Teheranul drept capitală în 1789", "Complexul acoperea inițial o suprafață de 4,5 hectare", "Celebrul Tron al Păunului a fost realizat în 1798 pentru Fath Ali Shah", "Declarat Patrimoniu Mondial UNESCO în anul 2013", "Multe dintre clădirile actuale au fost construite în timpul domniei lui Naser al-Din Shah (1797–1834)"],
       en: ["The oldest parts of the complex date from the 16th century", "Agha Mohammad Khan chose Tehran as his capital in 1789", "The complex originally covered an area of 4.5 hectares", "The famous Peacock Throne was made in 1798 for Fath Ali Shah", "Declared a UNESCO World Heritage Site in the year 2013", "Many of the current buildings were constructed during the reign of Naser al-Din Shah (1797–1834)"]
-    }
-  },
+    }, image: "/poi-images/iran-golestan-palace-history-v2.webp"},
   {
     id: "iran-arg-e-bam-history-v2",
     type: "ruin",
@@ -223,8 +220,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A komplexum teljes kiterjedése eléri a 180 000 négyzetmétert", "A várost védő vastag vályogfal magassága néhol eléri a 6-7 métert", "Fénykorában mintegy 9000-13000 ember lakott a citadella falain belül", "A vár története a Kr. e. 6. századig, az Akhaimenida-korszakig nyúlik vissza", "2003. december 26-án egy 6,6-os erősségű földrengés a vár 80%-át lerombolta", "A 38 őrtorony alkotta védelmi rendszert szinte teljesen újjá kellett építeni", "Az erődítmény egy föld alatti csatornarendszerből (qanat) kapta a vizét"],
       ro: ["Complexul inițial acoperea o suprafață de aproximativ 180.000 de metri pătrați", "Zidurile exterioare ale cetății aveau o înălțime de până la 7 metri", "Până la 12.000 de oameni trăiau odinioară între zidurile orașului", "Cutremurul tragic a avut loc pe 26 decembrie 2003", "Părțile fundamentale ale structurii datează din perioada 579–323 î.Hr.", "Inclus pe lista Patrimoniului Mondial în Pericol în 2004 și retras în 2013"],
       en: ["The original complex covered an area of approximately 180,000 square meters", "The outer fortress walls were up to 7 meters high", "Up to 12,000 people once lived within the city walls", "The tragic earthquake occurred on December 26, 2003", "The fundamental parts of the structure date from the period 579–323 BC", "Included on the List of World Heritage in Danger in 2004 and removed in 2013"]
-    }
-  },
+    }, image: "/poi-images/iran-arg-e-bam-history-v2.webp"},
   {
     id: "iran-bisotun-history-v2",
     type: "monument",
@@ -279,8 +275,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A domborművet és a feliratokat mintegy 100 méter magasságban vájták a sziklába", "A monumentális faragvány szélessége 25 méter, magassága eléri a 15 métert", "Kr. e. 522-es és azt követő történelmi eseményeket, győzelmeket ír le", "Összesen három nyelvet tartalmaz: óperzsa, elámi és babiloni (akkád)", "A szöveg több mint 1200 soros, és aprólékos ékírással készült", "Henry Rawlinson az 1830-as és 40-es években másolta és fejtette meg a feliratokat", "Az UNESCO 2006-ban emelte a Világörökség rangjára"],
       ro: ["Inscripția a fost finalizată în jurul anului 520 î.Hr.", "Relieful are o lățime de 15 metri și o înălțime de 25 de metri", "Se află la aproximativ 100 de metri deasupra solului pe o stâncă", "Ofițerul britanic Henry Rawlinson a început descifrarea în anul 1835", "Textul în persană veche constă din 414 rânduri structurate în cinci coloane", "Din anul 2006, situl aparține Patrimoniului Mondial UNESCO"],
       en: ["The inscription was completed around the year 520 BC", "The relief is 15 meters wide and 25 meters high", "It is located about 100 meters above the ground on a cliff", "British officer Henry Rawlinson began decipherment in the year 1835", "The Old Persian text consists of 414 lines structured in five columns", "Since the year 2006, the site has been a UNESCO World Heritage Site"]
-    }
-  },
+    }, image: "/poi-images/iran-bisotun-history-v2.webp"},
   {
     id: "iran-tchogha-zanbil-history-v2",
     type: "ruin",
@@ -335,8 +330,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A monumentális zikkurat alapja egy 105 x 105 méteres négyzet", "Eredeti magassága meghaladta az 53 métert, ebből 25 méter maradt fenn", "Kr. e. 1250 körül épült az elámi Untas-Napirisa király parancsára", "Az épülethez több mint 5000 ékírásos felirattal ellátott téglát használtak fel", "A várost soha nem fejezték be, Kr. e. 640-ben Assur-bán-apli asszír király pusztította el", "A belső termek megvilágítását üvegcsövekből álló ablakrendszer biztosította", "Irán első műemlékeként már 1979-ben az UNESCO Világörökség listájára került"],
       ro: ["Construcția a început în jurul anului 1250 î.Hr.", "Înălțimea originală a ziguratului era de aproximativ 53 de metri", "Astăzi se mai păstrează doar puțin sub 25 de metri din structură", "Complexul a fost redescoperit în 1935 în timpul unor zboruri de explorare petrolieră", "Săpăturile au fost conduse de arheologul Roman Ghirshman între 1951 și 1962", "În 1979, a devenit primul sit din Iran inclus pe lista Patrimoniului Mondial UNESCO"],
       en: ["Construction began around the year 1250 BC", "The original height of the ziggurat was approximately 53 meters", "Today, only slightly less than 25 meters of the structure remains", "The complex was rediscovered in 1935 during oil exploration flights", "Excavations were led by archaeologist Roman Ghirshman between 1951 and 1962", "In 1979, it became the first site in Iran included on the UNESCO World Heritage list"]
-    }
-  },
+    }, image: "/poi-images/iran-tchogha-zanbil-history-v2.webp"},
   {
     id: "iran-shushtar-hydraulic-history-v2",
     type: "historical-site",
@@ -391,8 +385,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A rendszer gyökerei az Akhaimenida-korszakig, az i.e. 5. századig nyúlnak vissza", "A fő struktúrát I. Sápúr szászánida király idején, 260 körül bővítették ki", "Az építésben Valerianus római császár legyőzött légiói is részt vettek", "A Band-e Kaiszar (Caesar gátja) híd és gát több mint 500 méter hosszú volt", "Két fő terelőcsatornán, a Gargar- és a Satit-csatornán osztja meg a folyót", "A rendszer 40 000 hektár mezőgazdasági terület vízellátását biztosította", "2009-ben felkerült az UNESCO Világörökségi listájára"],
       ro: ["Originile sistemului datează din secolul al V-lea î.Hr.", "Extinderi majore au avut loc sub regele Shapur I (241–272 d.Hr.)", "Prizonierii de război romani au ajutat la construirea Barajului Valerian (Band-e Kaisar)", "Rețeaua de apă a irigat o suprafață de aproape 40.000 de hectare", "Canalele principale Gargar și Shatit deviază apa din râul Karun", "Din 2009, sistemul hidraulic se află pe lista Patrimoniului Mondial UNESCO"],
       en: ["The origins of the system date back to the 5th century BC", "Major expansions took place under King Shapur I (241–272 AD)", "Roman prisoners of war helped build the Valerian Dam (Band-e Kaisar)", "The water network irrigated an area of almost 40,000 hectares", "The main canals Gargar and Shatit divert water from the Karun River", "Since 2009, the hydraulic system has been on the UNESCO World Heritage list"]
-    }
-  },
+    }, image: "/poi-images/iran-shushtar-hydraulic-history-v2.webp"},
   {
     id: "iran-soltaniyeh-dome-history-v2",
     type: "monument",
@@ -447,8 +440,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A mauzóleum építése 1302-ben kezdődött és 1312-ben fejeződött be", "A kupola külső magassága eléri a tekintélyes 49 métert", "Átmérője meghaladja a 25 métert, így a harmadik legnagyobb téglakupola a világon", "A kupolát borító több ezer türkizkék csempe súlya becslések szerint 200 tonna", "A nyolcszögletű épületet eredetileg 8 darab, egyenként 17 méteres minaret vette körül", "Ez a világ legrégebbi ismert dupla héjszerkezetű téglakupolája", "2005-ben nyilvánították az UNESCO Világörökség részévé"],
       ro: ["Mausoleul a fost construit între anii 1302 și 1312", "Cupola masivă atinge o înălțime de aproape 50 de metri", "Diametrul cupolei măsoară aproximativ 25 de metri", "Este cea mai veche cupolă cu înveliș dublu păstrată din Iran", "Conducătorul Öljeitü a murit în 1316 și a fost înmormântat aici", "Situl a fost declarat Patrimoniu Mondial UNESCO în anul 2005"],
       en: ["The mausoleum was built between the years 1302 and 1312", "The massive dome reaches a height of almost 50 meters", "The diameter of the dome measures approximately 25 meters", "It is the oldest preserved double-shell dome in Iran", "Ruler Öljeitü died in 1316 and was buried here", "The site was declared a UNESCO World Heritage Site in the year 2005"]
-    }
-  },
+    }, image: "/poi-images/iran-soltaniyeh-dome-history-v2.webp"},
   {
     id: "iran-takht-e-soleyman-history-v2",
     type: "ruin",
@@ -503,8 +495,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A komplexum több mint 2200 méteres tengerszint feletti magasságban fekszik", "Az erődítmény külső fala mintegy 1120 méter hosszú, és 38 bástya tagolta", "A krátertó 120 méter hosszú, 80 méter széles és egyes pontokon 60 méter mély", "A tó vize erősen meszes és kalcium-karbonátban gazdag, hőmérséklete 21°C", "A legjelentősebb zoroasztriánus tűztemplomok itt működtek az 5-7. században", "Hérakleiosz bizánci császár hadjárata során 627-ben jelentősen megrongálódott", "Az Ilhánida-korban (13. század) vadászkastélyt és palotát építettek a romokra"],
       ro: ["Perioada de maximă prosperitate a fost între secolele III și VII d.Hr.", "Lacul din crater atinge o adâncime impresionantă de 112 metri", "Zidul inelar de protecție al complexului avea o înălțime de 13 metri", "Un număr de 38 de turnuri de apărare fortificau zidul de piatră", "Împăratul bizantin Heraclius a distrus templul focului în anul 624", "În 2003 a fost adăugat pe lista Patrimoniului Mondial UNESCO"],
       en: ["The period of maximum prosperity was between the 3rd and 7th centuries AD", "The crater lake reaches an impressive depth of 112 meters", "The protective ring wall of the complex was 13 meters high", "A total of 38 defense towers fortified the stone wall", "The Byzantine Emperor Heraclius destroyed the fire temple in the year 624", "In 2003, it was added to the UNESCO World Heritage list"]
-    }
-  },
+    }, image: "/poi-images/iran-takht-e-soleyman-history-v2.webp"},
   {
     id: "iran-sheikh-safi-shrine-history-v2",
     type: "historical-site",
@@ -559,8 +550,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["Szafi ad-Dín sejk mauzóleuma, az Allah-Allah kupola 1334 után épült fel", "A szentélykomplexum összesen mintegy 21 ezer négyzetméteres területet foglal el", "I. Abbász sah építtette a Csini Hane (Porcelánház) termet 1612-ben", "A porcelánterem falait 1256 mélyedés díszíti kínai vázák és edények számára", "Az épületegyüttes a Szafavida Birodalom legfontosabb zarándokhelyévé vált a 16. században", "A híres Ardabili szőnyeget – a világ egyik legszebb szőnyegét – 1539-40-ben e szentély számára szőtték", "2010-ben az UNESCO a Világörökség részévé nyilvánította"],
       ro: ["Șeicul Safi al-Din a trăit între anii 1252 și 1334", "Nucleul complexului arhitectural a fost construit între 1524 și 1576", "Shah Abbas I a adăugat celebra Chini Khaneh (Casa Porțelanului)", "În anul 1828, trupele ruse au jefuit mare parte din colecția bibliotecii", "Cupola centrală a mormântului poartă denumirea de Cupola Allah-Allah", "Întregul complex este recunoscut ca Patrimoniu Mondial UNESCO din anul 2010"],
       en: ["Sheikh Safi al-Din lived from 1252 to the year 1334", "The core of the architectural complex was built between 1524 and 1576", "Shah Abbas I added the famous Chini Khaneh (Porcelain House)", "In the year 1828, Russian troops looted a large part of the library collection", "The central dome of the tomb is named the Allah-Allah Dome", "The entire complex has been recognized as a UNESCO World Heritage Site since 2010"]
-    }
-  },
+    }, image: "/poi-images/iran-sheikh-safi-shrine-history-v2.webp"},
   {
     id: "iran-susa-history-v2",
     type: "ruin",
@@ -615,8 +605,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["Az emberi megtelepedés első nyomai a területen Kr. e. 4395 körülig vezethetők vissza", "Szúza közel ezer éven át, Kr. e. 2700-tól az Elámi Birodalom fővárosa volt", "Assur-bán-apli asszír király seregei Kr. e. 647-ben porig rombolták", "Nagy Círusz Kr. e. 538-ban hódította meg, és az Akhaimenida Birodalomhoz csatolta", "I. Dárajavaus perzsa király Kr. e. 521-ben hatalmas Apadána palotát építtetett itt", "A francia régészeti expedíciók 1901-ben itt találták meg Hammurapi híres törvényoszlopát", "A régészeti lelőhely 2015 óta az UNESCO Világörökség része"],
       ro: ["Cele mai vechi urme de așezare datează din aproximativ 4395 î.Hr.", "Darius I a transformat Susa într-o reședință regală majoră în 521 î.Hr.", "Arheologul francez Jacques de Morgan a condus excavări masive în anul 1897", "Orașul a fost distrus în anul 647 î.Hr. de regele asirian Assurbanipal", "Sala Apadana din Susa acoperea odinioară o suprafață de peste 10.000 de metri pătrați", "Situl arheologic a fost inclus în Patrimoniul Mondial UNESCO în anul 2015"],
       en: ["The oldest traces of settlement date back to approximately 4395 BC", "Darius I transformed Susa into a major royal residence in 521 BC", "French archaeologist Jacques de Morgan led massive excavations in the year 1897", "The city was destroyed in the year 647 BC by the Assyrian king Ashurbanipal", "The Apadana hall of Susa once covered an area of over 10,000 square meters", "The archaeological site was included in the UNESCO World Heritage list in 2015"]
-    }
-  },
+    }, image: "/poi-images/iran-susa-history-v2.webp"},
   {
     id: "iran-naqsh-e-rustam-history-v2",
     type: "monument",
@@ -671,8 +660,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A sziklafalban összesen négy darab, 20 méter magas Akhaimenida királysír található", "I. Dárajavaus (Kr. e. 486) sírját az egyetlen azonosított felirat igazolja", "A sírok mindegyike a föld felszíne felett 15-20 méteres magasságban lett kivájva", "Nyolc hatalmas szászánida szikladombormű díszíti a hegy lábát a 3. századból", "A domborművek leghíresebbike I. Sápúr Kr. u. 260-as győzelmét örökíti meg a rómaiak felett", "Nagy Sándor seregei Kr. e. 330-ban feltörték és kifosztották a sírokat", "A Zoroaszter Kockája (Ka'ba-ye Zartosht) kőtornya Kr. e. 5. századi eredetű"],
       ro: ["Cele mai vechi morminte rupestre au fost create în jurul anului 500 î.Hr.", "Cele patru morminte aparțin lui Darius I, Xerxes I, Artaxerxes I și Darius II", "Reliefurile sasanide au fost adăugate între anii 225 și 325 d.Hr.", "Relieful lui Shapur I celebrează victoria din bătălia de la Edessa (260 d.Hr.)", "Turnul pătrat din piatră, Ka'ba-ye Zartosht, se află chiar în fața mormintelor", "Situl a deținut o importanță religioasă și națională de la epoca ahemenidă"],
       en: ["The oldest rock tombs were created around the year 500 BC", "The four tombs belong to Darius I, Xerxes I, Artaxerxes I, and Darius II", "The Sassanid reliefs were added between the years 225 and 325 AD", "The relief of Shapur I celebrates the victory at the Battle of Edessa (260 AD)", "The square stone tower, Ka'ba-ye Zartosht, stands right in front of the tombs", "The site has held religious and national importance since the Achaemenid era"]
-    }
-  },
+    }, image: "/poi-images/iran-naqsh-e-rustam-history-v2.webp"},
   {
     id: "iran-alamut-castle-history-v2",
     type: "ruin",
@@ -727,8 +715,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A vár mintegy 2163 méter tengerszint feletti magasságban, egy meredek sziklán épült", "Haszan Szabbáh 1090. szeptember 4-én szerezte meg az erődöt 3000 aranydinárért", "Az aszaszin szekta (nizariták) 166 éven keresztül tartotta irányítása alatt a területet", "A komplexum hossza körülbelül 120 méter, szélessége pedig 10 és 35 méter között változik", "Hatalmas, sziklába vájt ciszternákat építettek, hogy túléljék az éveken át tartó ostromokat", "Hülegü kán mongol serege 1256. december 20-án foglalta el, és a legendás könyvtárát felgyújtotta", "A 2004-es pusztító földrengés az Alamut régiót és a romokat is jelentősen károsította"],
       ro: ["Castelul inițial a fost probabil construit în anul 865 d.Hr.", "Hassan-i Sabbah a preluat controlul fortăreței în anul 1090 d.Hr.", "Ruinele sunt situate la o altitudine extremă de peste 2100 de metri", "Rețeaua ismaili a menținut fortăreața timp de aproximativ 166 de ani", "În decembrie 1256 garnizoana s-a predat forțelor mongole", "Ruinele se întind pe o lungime de aproape 120 de metri pe creasta stâncoasă"],
       en: ["The initial castle was likely built in the year 865 AD", "Hassan-i Sabbah took control of the fortress in the year 1090 AD", "The ruins are located at an extreme altitude of over 2100 meters", "The Ismaili network maintained the fortress for approximately 166 years", "In December 1256, the garrison surrendered to the Mongol forces", "The ruins stretch for nearly 120 meters on the rocky ridge"]
-    }
-  },
+    }, image: "/poi-images/iran-alamut-castle-history-v2.webp"},
   {
     id: "iran-qabus-tower-history-v2",
     type: "monument",
@@ -783,8 +770,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A tornyot Kr. u. 1006-ban (a hidzsra szerint 397-ben) fejezték be", "A téglaépítmény teljes magassága eléri az 53 métert", "Egy további 10 méter magas mesterséges dombra építették", "A torony külső átmérője az alapnál 17 méter, a csúcsnál 15,5 méter", "Alaprajza egy tízágú csillag, amelyet hatalmas, 18 méter magas kúpos tető zár le", "A téglafalak vastagsága a talajszinten eléri az elképesztő 3 métert", "A tornyot 2012-ben az UNESCO a Világörökség részévé nyilvánította"],
       ro: ["Turnul a fost finalizat în anul 1006 (anul 397 în calendarul islamic)", "Înălțimea totală atinge exact 53 de metri, fără soclul care lipsește astăzi", "La bază, pereții structurii au o grosime extraordinară de 3 metri", "Turnul este înconjurat de două benzi de inscripții cufice realizate din cărămidă", "Acoperișul conic masiv atinge o înălțime de 18 metri", "În anul 2012, monumentul a fost declarat Patrimoniu Mondial UNESCO"],
       en: ["The tower was completed in the year 1006 (year 397 in the Islamic calendar)", "The total height reaches exactly 53 meters, without the base that is missing today", "At the base, the structure's walls have an extraordinary thickness of 3 meters", "The tower is surrounded by two bands of Kufic inscriptions made of brick", "The massive conical roof reaches a height of 18 meters", "In the year 2012, the monument was declared a UNESCO World Heritage Site"]
-    }
-  },
+    }, image: "/poi-images/iran-qabus-tower-history-v2.webp"},
   {
     id: "iran-falak-ol-aflak-history-v2",
     type: "monument",
@@ -839,8 +825,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A hatalmas vár alapjait a 3. században, I. Sápúr szászánida király alatt rakták le", "Az erődítmény mintegy 40 méterrel magasodik Horramábád városa fölé", "A várkomplexum teljes területe eléri az 5300 négyzetmétert", "A masszív külső falakat nyolc hatalmas megfigyelő torony (bástya) erősíti meg", "Az erőd falainak magassága helyenként megközelíti a 22,5 métert", "A várudvaron egy sziklába vájt, több mint 40 méter mély kút biztosította a vízellátást", "A várban napjainkban Loresztán antropológiai és régészeti múzeuma működik"],
       ro: ["Fundația originală datează din timpul Imperiului Sasanid (secolele III - VII)", "Cetatea acoperă o suprafață impresionantă de aproape 5.300 de metri pătrați", "Dintre cele 12 turnuri inițiale, astăzi se mai păstrează intacte 8 turnuri", "Zidurile de apărare ating o înălțime uimitoare de până la 22 de metri", "Curtea interioară deține un puț adânc de aproximativ 40 de metri pentru apă", "În anii 1950, dinastia Pahlavi a utilizat castelul pe post de închisoare"],
       en: ["The original foundation dates from the time of the Sassanid Empire (3rd to 7th centuries)", "The fortress covers an impressive area of almost 5,300 square meters", "Of the initial 12 towers, 8 towers remain intact today", "The defensive walls reach an astonishing height of up to 22 meters", "The inner courtyard holds a deep well of about 40 meters for water", "In the 1950s, the Pahlavi dynasty used the castle as a prison"]
-    }
-  },
+    }, image: "/poi-images/iran-falak-ol-aflak-history-v2.webp"},
   {
     id: "iran-taq-e-bostan-history-v2",
     type: "monument",
@@ -895,8 +880,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A domborművek az i. sz. 4. századtól a 7. század elejéig terjedő időszakban készültek", "A nagyobbik boltívet II. Huszrau (590–628) király tiszteletére vájták a sziklába", "A nagy boltív belső magassága nagyjából 9 méter, szélessége pedig 7,5 méter", "A kisebbik, Sápúr-boltívet mintegy 200 évvel korábban, a 4. század végén faragták ki", "A vadászjelenetek több mint 30 elefántot és számtalan szarvast ábrázolnak lenyűgöző élethűséggel", "II. Ardasír (379-383) domborművén Ahura Mazdá és Mitra istenek adják át a hatalmat", "Az emlékmű egy percenként 14 000 liter vizet adó természetes karsztforrás mellé épült"],
       ro: ["Reliefurile au fost realizate între anii 383 și 628 d.Hr.", "Scenele expun încoronările regilor Ardashir II și Shapur III", "Grota principală are o înălțime spectaculoasă de aproximativ 9 metri", "Scenele de vânătoare sunt sculptate elaborat pe pereții laterali ai grotei mari", "În secolul al XIX-lea, locul a fost ușor deteriorat de reliefuri adăugate de dinastia Qajar", "Izvorul istoric sacru de la bază era un popas vital pentru caravanele Drumului Mătăsii"],
       en: ["The reliefs were created between the years 383 and 628 AD", "The scenes display the coronations of kings Ardashir II and Shapur III", "The main grotto has a spectacular height of approximately 9 meters", "The hunting scenes are elaborately sculpted on the side walls of the large grotto", "In the 19th century, the site was slightly damaged by reliefs added by the Qajar dynasty", "The sacred historical spring at the base was a vital stop for Silk Road caravans"]
-    }
-  },
+    }, image: "/poi-images/iran-taq-e-bostan-history-v2.webp"},
   {
     id: "iran-jameh-mosque-isfahan-history-v2",
     type: "historical-site",
@@ -951,8 +935,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A mecset alapjait egy ősi, zoroasztriánus tűztemplom romjain vetették meg a 8. században", "A komplexum teljes területe meghaladja a lenyűgöző 20 000 négyzetmétert", "Itt alkalmazták először – 1086-ban – a négy iván köré szervezett mecset-alaprajzot", "A déli Nizam al-Mulk kupola (1086) korának legnagyobb téglakupolája volt az iszlám világban", "Az Ilhánida korból (1310) származik a páratlanul finom stukkódíszítésű Öldzsejtü-mihráb", "A mecset udvarát négy különböző korszakban épült, gigantikus boltíves csarnok (iván) szegélyezi", "Az UNESCO 2012-ben emelte a Világörökség listájára az építészeti sokszínűség okán"],
       ro: ["Primele lucrări de construcție la fundații au început în anul 771", "Complexul vast acoperă astăzi o suprafață de peste 20.000 de metri pătrați", "Cupolele masive de nord și sud au fost adăugate între 1086 și 1088 de Selgiucizi", "Mihrabul complex realizat din stuc sub domnia lui Öljeitü datează din anul 1310", "Moscheea este unul dintre primele exemple de implementare a tiparului cu patru iwan-uri", "În 2012, structura a fost inclusă pe prestigioasa listă a Patrimoniului Mondial UNESCO"],
       en: ["The first construction works on the foundations began in the year 771", "The vast complex today covers an area of over 20,000 square meters", "The massive north and south domes were added between 1086 and 1088 by the Seljuks", "The complex mihrab made of stucco under the reign of Öljeitü dates from the year 1310", "The mosque is one of the first examples of implementing the four-iwan pattern", "In 2012, the structure was included on the prestigious UNESCO World Heritage list"]
-    }
-  },
+    }, image: "/poi-images/iran-jameh-mosque-isfahan-history-v2.webp"},
   {
     id: "iran-fin-garden-history-v2",
     type: "historical-site",
@@ -1007,8 +990,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["A jelenleg is látható kert 1590-ben készült el I. Abbász sah (Szafavida-dinasztia) parancsára", "A komplexum területe mintegy 23 000 négyzetmétert tesz ki (2,3 hektár)", "A kertek vízellátását biztosító cseszme-je Szolejmanije forrás sosem apad el", "A vízfolyásokat és szökőkutakat teljes mértékben a természetes víznyomás működteti", "A kertben található ciprusfák egy része több mint 400 éves kort is megélt", "Itt gyilkolták meg Nászer ad-Dín sah utasítására a híres reformer nagyvezírt, Amír Kabírt 1852-ben", "2011 óta a perzsa kertek UNESCO Világörökségi gyűjteményének kilenc tagjának egyike"],
       ro: ["Structura fundamentală a fost terminată în jurul anului 1590 sub conducerea lui Shah Abbas I", "Grădina delimitată de ziduri acoperă o suprafață de aproape 2,3 hectare", "O mare parte dintre falnicii chiparoși din incintă au între 100 și 400 de ani", "Asasinatul politic al liderului Amir Kabir a avut loc în baia complexului în 1852", "Zeci de pavilioane elegante au fost adăugate în epoca Qajar din secolul al XIX-lea", "Din anul 2011, Grădina Fin este parte integrantă a Patrimoniului Mondial UNESCO"],
       en: ["The fundamental structure was finished around the year 1590 under the rule of Shah Abbas I", "The walled garden covers an area of almost 2.3 hectares", "A large part of the towering cypresses on the premises are between 100 and 400 years old", "The political assassination of leader Amir Kabir took place in the complex's bath in 1852", "Dozens of elegant pavilions were added during the Qajar era in the 19th century", "Since the year 2011, Fin Garden has been an integral part of the UNESCO World Heritage Site"]
-    }
-  },
+    }, image: "/poi-images/iran-fin-garden-history-v2.webp"},
   {
     id: "iran-cyrus-tomb-history-v2",
     type: "monument",
@@ -1063,8 +1045,7 @@ export const poiExtraIranHistoryV2: POI[] = [
       hu: ["Nagy Círusz síremléke Kr. e. 530 és 528 között épült fel", "A teljes építmény magassága 11,1 méter, az alapjának mérete pedig 13,35 × 12,2 méter", "Hat fokozatosan szűkülő, egyenként kb. 1 méter magas mészkő lépcsőfokból áll", "A felhasznált, többtonnás kőtömböket fém kapcsokkal és ólommal erősítették össze", "Az ókori feljegyzések szerint Nagy Sándor felnyittatta a sírt Kr. e. 330-ban", "Az iszlám korban Salamon anyjának sírjaként tisztelték, ami megóvta a lerombolástól", "2004-ben Paszargadai részeként az UNESCO Világörökség listájára került"],
       ro: ["Mausoleul a fost construit în secolul al VI-lea î.Hr. pentru liderul Cirus cel Mare", "Structura monumentală din calcar se înalță la aproximativ 11 metri", "Baza este formată exact din șase trepte de piatră colosale", "Alexandru cel Mare a vizitat și a cruțat monumentul în anul 330 î.Hr.", "Cea mai de jos treaptă a piedestalului măsoară aproximativ 13 pe 12 metri", "În trecut, o inscripție antică persană împodobea mormântul, dar astăzi este pierdută"],
       en: ["The mausoleum was built in the 6th century BC for the leader Cyrus the Great", "The monumental limestone structure rises to approximately 11 meters", "The base consists of exactly six colossal stone steps", "Alexander the Great visited and spared the monument in the year 330 BC", "The lowest step of the pedestal measures approximately 13 by 12 meters", "In the past, an ancient Persian inscription adorned the tomb, but today it is lost"]
-    }
-  },
+    }, image: "/poi-images/iran-cyrus-tomb-history-v2.webp"},
   {
     id: "iran-naqsh-e-jahan-history-v2",
     type: "historical-site",

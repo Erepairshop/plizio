@@ -13,8 +13,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Magassága eléri a mintegy 3000 métert.", "Népszerű úti cél a túrázók és a természet szerelmesei körében."],
       ro: ["Atinge o altitudine de aproximativ 3.000 de metri.", "O destinație populară pentru drumeții și iubitorii de natură."],
       en: ["Reaches an elevation of around 3,000 meters.", "A popular destination for hikers and nature lovers."]
-    }
-  },
+    }, image: "/poi-images/jabal-sawda-nature-v2.webp"},
   {
     id: "asir-national-park-nature-v2",
     type: "national-park",
@@ -41,8 +40,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["120 kilométer hosszan terül el.", "A főváros természetes víztisztítását szolgálja."],
       ro: ["Se întinde pe o lungime de 120 de kilometri.", "Servește la tratarea naturală a apei din capitală."],
       en: ["Stretches over a length of 120 kilometers.", "Serves as a natural water treatment system for the capital."]
-    }
-  },
+    }, image: "/poi-images/wadi-hanifa-nature-v2.webp"},
   {
     id: "jabal-tuwaiq-nature-v2",
     type: "mountain",
@@ -69,8 +67,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Az UNESCO által elismert világörökségi helyszín.", "Homokdűnék és buja növényzet veszi körül."],
       ro: ["Este un sit recunoscut ca Patrimoniu Mondial UNESCO.", "Înconjurat de dune de nisip și vegetație luxuriantă."],
       en: ["It is a UNESCO-recognized World Heritage site.", "Surrounded by sand dunes and lush vegetation."]
-    }
-  },
+    }, image: "/poi-images/al-asfar-lake-nature-v2.webp"},
   {
     id: "farasan-islands-nature-v2",
     type: "national-park",
@@ -97,8 +94,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Magassága eléri a 2580 métert.", "Nevét az egykor itt nőtt mandulafákról kapta."],
       ro: ["Atinge o altitudine de 2.580 de metri.", "Numele provine de la migdalii care creșteau aici odată."],
       en: ["Reaches an elevation of 2,580 meters.", "The name comes from the almond trees that once grew here."]
-    }
-  },
+    }, image: "/poi-images/jabal-al-lawz-nature-v2.webp"},
   {
     id: "wadi-qanuna-nature-v2",
     type: "river",
@@ -111,8 +107,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["A folyóvölgy hossza több mint 100 kilométer.", "Pálmafák és buja helyi növényzet veszi körül."],
       ro: ["Lungimea văii râului depășește 100 de kilometri.", "Înconjurată de palmieri și vegetație locală luxuriantă."],
       en: ["The length of the river valley is over 100 kilometers.", "Surrounded by palm trees and lush local vegetation."]
-    }
-  },
+    }, image: "/poi-images/wadi-qanuna-nature-v2.webp"},
   {
     id: "raghadan-forest-nature-v2",
     type: "forest",
@@ -125,8 +120,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Híres a parkban élő játékos páviánokról.", "Függőhidakat kínál a látogatóknak."],
       ro: ["Faimos pentru babuinii jucăuși care locuiesc în parc.", "Oferă poduri suspendate pentru vizitatori."],
       en: ["Famous for the playful baboons that inhabit the park.", "Features suspension bridges for visitors."]
-    }
-  },
+    }, image: "/poi-images/raghadan-forest-nature-v2.webp"},
   {
     id: "al-kharrarah-nature-v2",
     type: "national-park",
@@ -139,8 +133,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Az eső után kialakuló tavat a 'Folyékony fény tavának' is nevezik.", "A Tuvajk-hegység közelében található."],
       ro: ["Lacul care se formează după ploaie este numit și 'Lacul Luminii Lichide'.", "Situat în apropierea Munților Tuwaiq."],
       en: ["The lake formed after rain is also called the 'Lake of Liquid Light'.", "Located near the Tuwaiq Mountains."]
-    }
-  },
+    }, image: "/poi-images/al-kharrarah-nature-v2.webp"},
   {
     id: "sharaan-nature-reserve-nature-v2",
     type: "national-park",
@@ -153,8 +146,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["A cél az, hogy biztonságos menedékké váljon az arab leopárd számára.", "Drámai homokkő formációkból áll."],
       ro: ["Se dorește a fi un refugiu sigur pentru leopardul arab.", "Este format din formațiuni dramatice de gresie."],
       en: ["Aims to become a safe haven for the Arabian leopard.", "Consists of dramatic sandstone rock formations."]
-    }
-  },
+    }, image: "/poi-images/sharaan-nature-reserve-nature-v2.webp"},
   {
     id: "thumamah-national-park-nature-v2",
     type: "national-park",
@@ -167,8 +159,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Számos dűnével rendelkezik, amelyek ideálisak a homokdeszkázáshoz.", "Hagyományos beduin sátrakat kínál a turistáknak."],
       ro: ["Include numeroase dune ideale pentru sandboarding.", "Găzduiește corturi tradiționale de beduini pentru turiști."],
       en: ["Includes numerous dunes ideal for sandboarding.", "Hosts traditional Bedouin tents for tourists."]
-    }
-  },
+    }, image: "/poi-images/thumamah-national-park-nature-v2.webp"},
   {
     id: "jabal-daka-nature-v2",
     type: "mountain",
@@ -181,8 +172,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["A hegyet gyakran sűrű köd borítja.", "Népszerű helyszín a csillagvizsgálók számára."],
       ro: ["Muntele este adesea învăluit într-o ceață densă.", "Un loc popular pentru observarea stelelor."],
       en: ["The mountain is often shrouded in thick fog.", "A popular spot for stargazing."]
-    }
-  },
+    }, image: "/poi-images/jabal-daka-nature-v2.webp"},
   {
     id: "wadi-namar-nature-v2",
     type: "river",
@@ -195,8 +185,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["A tó partján egy 2 kilométer hosszú sétány található.", "Népszerű piknikezőhely a helyiek körében."],
       ro: ["Malul lacului are o promenadă lungă de 2 kilometri.", "Un loc de picnic popular pentru localnici."],
       en: ["The lakefront features a 2-kilometer-long promenade.", "A popular picnic spot for locals."]
-    }
-  },
+    }, image: "/poi-images/wadi-namar-nature-v2.webp"},
   {
     id: "raydah-escarpment-reserve-nature-v2",
     type: "national-park",
@@ -209,8 +198,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Az aszíri szarka egyik utolsó megmaradt menedéke.", "Mély szurdokok és magas sziklák jellemzik."],
       ro: ["Unul dintre ultimele refugii rămase pentru coțofana de Asir.", "Caracterizat prin defileuri adânci și stânci înalte."],
       en: ["One of the last remaining refuges for the Asir magpie.", "Characterized by deep gorges and high cliffs."]
-    }
-  },
+    }, image: "/poi-images/raydah-escarpment-reserve-nature-v2.webp"},
   {
     id: "jabal-shada-nature-v2",
     type: "mountain",
@@ -223,8 +211,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["A barlangokat évezredek óta lakták emberek.", "A gránittömböket a szél és az időjárás formálta."],
       ro: ["Peșterile au fost locuite de oameni de milenii.", "Blocurile de granit au fost sculptate de vânt și vreme."],
       en: ["The caves have been inhabited by humans for millennia.", "The granite boulders were sculpted by wind and weather."]
-    }
-  },
+    }, image: "/poi-images/jabal-shada-nature-v2.webp"},
   {
     id: "uruq-bani-maarid-nature-v2",
     type: "national-park",
@@ -237,8 +224,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Az UNESCO által elismert természeti világörökség.", "A táj hatalmas, egyenes homokdűnékből áll."],
       ro: ["Este un sit al Patrimoniului Natural Mondial recunoscut de UNESCO.", "Peisajul este alcătuit din dune de nisip liniare masive."],
       en: ["It is a UNESCO-recognized World Natural Heritage site.", "The landscape consists of massive linear sand dunes."]
-    }
-  },
+    }, image: "/poi-images/uruq-bani-maarid-nature-v2.webp"},
   {
     id: "king-salman-nature-v2",
     type: "national-park",
@@ -265,8 +251,7 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Tavasszal a régió számtalan vadvirággal virágzik.", "A királyi család kedvelt elvonulási helye."],
       ro: ["Primăvara, regiunea înflorește cu nenumărate flori sălbatice.", "Un loc de refugiu popular pentru familia regală."],
       en: ["In spring, the region blooms with countless wildflowers.", "A popular retreat for the royal family."]
-    }
-  },
+    }, image: "/poi-images/rawdat-khuraim-nature-v2.webp"},
   {
     id: "jabal-qidr-nature-v2",
     type: "mountain",

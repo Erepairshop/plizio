@@ -23,13 +23,13 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     
   },
     description: {
-      de: "Diese markante Moschee im Herzen von Dschibuti-Stadt wurde 1906 erbaut und ist eines der bekanntesten historischen Symbole der Hauptstadt.",
+      de: "Die Hamoudi-Moschee ist ein zentrales religiöses und historisches Gebäude im Herzen von Djibouti-Stadt.",
       hu: "Dzsibuti város szívében található jellegzetes mecset 1906-ban épült, és a főváros egyik legismertebb történelmi jelképe.",
       ro: "Această moschee distinctivă din inima orașului Djibouti a fost construită în 1906 și este unul dintre cele mai cunoscute simboluri istorice ale capitalei.",
       en: "This distinctive mosque in the heart of Djibouti City was built in 1906 and is one of the capital's most famous historical symbols."
     },
     facts: {
-      de: ["Baujahr 1906", "Wahrzeichen der Altstadt", "Platz für über 1.000 Gläubige", "Mischung aus osmanischen und lokalen Baustilen"],
+      de: ["Historische Architektur", "Religiöses Zentrum", "Stadtmarke"],
       hu: ["1906-ban épült", "Az óváros jelképe", "Több mint 1000 hívő befogadására alkalmas", "Oszmán és helyi építészeti stílusok keveréke"],
       ro: ["Construită în 1906", "Simbol al orașului vechi", "Capacitate de peste 1.000 de credincioși", "Amestec de stiluri arhitecturale otomane și locale"],
       en: ["Built in 1906", "Landmark of the old city", "Capacity for over 1,000 worshippers", "Mix of Ottoman and local architectural styles"]
@@ -211,13 +211,13 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     }
   },
     description: {
-      de: "Dieses Gebäude war das erste Verwaltungszentrum der französischen Kolonialmacht in der Region, bevor die Hauptstadt nach Dschibuti-Stadt verlegt wurde.",
+      de: "Das historische Gebäude in Obock diente während der französischen Kolonialzeit als offizielle Residenz.",
       hu: "Ez az épület volt a francia gyarmati hatalom első közigazgatási központja a régióban, mielőtt a fővárost Dzsibuti városába helyezték át.",
       ro: "Această clădire a fost primul centru administrativ al puterii coloniale franceze în regiune, înainte ca capitala să fie mutată în orașul Djibouti.",
       en: "This building was the first administrative center of the French colonial power in the region before the capital was moved to Djibouti City."
     },
     facts: {
-      de: ["Erbaut um 1885", "Sitz der ersten französischen Gouverneure", "Zeugnis der frühen Kolonialgeschichte", "Markante koloniale Architektur"],
+      de: ["Kolonialgeschichte", "Ehemalige Residenz", "Obock-Standort"],
       hu: ["1885 körül épült", "Az első francia kormányzók székhelye", "A korai gyarmati történelem tanúja", "Jellegzetes gyarmati építészet"],
       ro: ["Construită în jurul anului 1885", "Sediul primilor guvernatori francezi", "Mărturie a istoriei coloniale timpurii", "Arhitectură colonială distinctivă"],
       en: ["Built around 1885", "Seat of the first French governors", "Evidence of early colonial history", "Distinctive colonial architecture"]

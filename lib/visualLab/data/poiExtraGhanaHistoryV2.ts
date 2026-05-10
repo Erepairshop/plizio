@@ -41,8 +41,7 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       hu: ["Eredeti neve São Jorge da Mina.", "Arany- és rabszolgakereskedelemre szolgált.", "A legosibb európai épület Fekete-Afrikában.", "A legosibb európai erod a Szaharától délre fekvo Afrikában, a portugálok építették 1482-ben.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban."],
       ro: ["Numit inițial São Jorge da Mina.", "A servit comer?ului cu aur ?i sclavi.", "Cea mai veche cladire europeana din Africa subsahariana.", "Cea mai veche cladire europeana din Africa subsahariana, construita de portughezi în 1482.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol."],
       en: ["Originally named São Jorge da Mina.", "Served the gold and slave trade.", "Oldest European building in sub-Saharan Africa.", "The oldest European building in existence south of the Sahara, erected by the Portuguese in 1482.", "Located in the West African state of Ghana along the Gulf of Guinea coast.", "The region lies within the tropical belt, with marked rainy and dry seasons.", "Accessible via the national road network radiating from Accra.", "Plays a role in the Ghanaian economy, driven by cocoa, gold and oil exports."]
-    }
-  },
+    }, image: "/poi-images/elmina-castle-history-v2.webp"},
   {
     id: "osu-castle-history-v2",
     type: "historical",
@@ -146,8 +145,7 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       hu: ["Nagy rabszolgapiacként szolgált.", "Az úgynevezett 'utolsó fürdo' helyszíne.", "Afrikai osök földi maradványai nyugszanak itt.", "Történelmi emlékhely, ahol a rabszolgák az utolsó fürdojüket vették a partmenti erodök felé vezeto úton.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban."],
       ro: ["A servit drept o mare pia?a de sclavi.", "Locul a?a-numitei 'ultime bai'.", "Aici se odihnesc ramați?ele stramo?ilor africani.", "Un sit memorial istoric unde sclavii au facut ultima baie pe drumul lor spre forturile de coasta.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol."],
       en: ["Served as a major slave market.", "Site of the so-called 'last bath'.", "Remains of African ancestors rest here.", "A historic memorial site where slaves had their last bath on their journey to the coastal forts.", "Located in the West African state of Ghana along the Gulf of Guinea coast.", "The region lies within the tropical belt, with marked rainy and dry seasons.", "Accessible via the national road network radiating from Accra.", "Plays a role in the Ghanaian economy, driven by cocoa, gold and oil exports."]
-    }
-  },
+    }, image: "/poi-images/assin-manso-slave-river-history-v2.webp"},
   {
     id: "fort-prinzenstein-history-v2",
     type: "historical",
@@ -335,8 +333,7 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       hu: ["Fekete Csillag térnek is hívják.", "Akár 30 000 ember befogadására is alkalmas.", "Itt található a Függetlenségi Diadalív és a Fekete Csillag Emlékmu.", "A világ egyik legnagyobb városi tere, amely Ghána 1957-es függetlenségének állít emléket.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban."],
       ro: ["Cunoscuta ?i ca Pia?a Steaua Neagra.", "Poate gazdui pâna la 30.000 de oameni.", "Include Arcul Independenței ?i Monumentul Stelei Negre.", "Una dintre cele mai mari piețe din lume, care comemoreaza independența Ghanei în 1957.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol."],
       en: ["Also known as Black Star Square.", "Can hold up to 30,000 people.", "Includes the Independence Arch and the Black Star Monument.", "One of the largest city squares in the world, commemorating Ghana's independence in 1957.", "Located in the West African state of Ghana along the Gulf of Guinea coast.", "The region lies within the tropical belt, with marked rainy and dry seasons.", "Accessible via the national road network radiating from Accra.", "Plays a role in the Ghanaian economy, driven by cocoa, gold and oil exports."]
-    }
-  },
+    }, image: "/poi-images/independence-square-accra-history-v2.webp"},
   {
     id: "yaa-asantewaa-museum-history-v2",
     type: "historical",
@@ -503,8 +500,7 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       hu: ["Kr. e. 2500 és 1500 közé teheto.", "Agyagfigurákat és kobaltákat találtak itt.", "Bizonyíték a fekete szemu bab termesztésére.", "Régészeti lelohely, amely bizonyítékot szolgáltat Fekete-Afrika legkorábbi mezogazdasági közösségeire.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban."],
       ro: ["Dateaza din aproximativ 2500 pâna în 1500 î.Hr.", "Descoperiri de figurine de lut ?i topoare de piatra.", "Dovezi ale cultivarii fasolei cu ochi negri.", "Un sit arheologic care ofera dovezi ale primelor comunitați agricole din Africa subsahariana.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol."],
       en: ["Dates from about 2500 to 1500 BC.", "Finds of clay figures and stone axes.", "Evidence of the cultivation of cowpeas.", "An archaeological site that provides evidence of the earliest agricultural communities in sub-Saharan Africa.", "Located in the West African state of Ghana along the Gulf of Guinea coast.", "The region lies within the tropical belt, with marked rainy and dry seasons.", "Accessible via the national road network radiating from Accra.", "Plays a role in the Ghanaian economy, driven by cocoa, gold and oil exports."]
-    }
-  },
+    }, image: "/poi-images/kintampo-complex-history-v2.webp"},
   {
     id: "prempeh-ii-museum-history-v2",
     type: "historical",
@@ -545,8 +541,7 @@ export const poiExtraGhanaHistoryV2: POI[] = [
       hu: ["Az 1660-as években épült.", "Az Aranypart egyik legrégebbi katonai épületeként tartják számon.", "Kiváló kilátást nyújt Elminára.", "Egy kis holland erod az Elmina várával szemközti dombon, amelyet eredetileg azért építettek, hogy megakadályozzák a fo kastély elleni támadásokat.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban."],
       ro: ["Construit în anii 1660.", "Considerata a fi una dintre cele mai vechi cladiri militare de pe Coasta de Aur.", "Ofera o vedere excelenta asupra Elminei.", "O mica fortarea?a olandeza pe un deal vizavi de Castelul Elmina, construita inițial pentru a preveni atacurile asupra castelului principal.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol."],
       en: ["Built in the 1660s.", "Considered to be one of the oldest military buildings on the Gold Coast.", "Offers an excellent view of Elmina.", "A small Dutch fort on a hill opposite Elmina Castle, originally built to prevent attacks on the main castle.", "Located in the West African state of Ghana along the Gulf of Guinea coast.", "The region lies within the tropical belt, with marked rainy and dry seasons.", "Accessible via the national road network radiating from Accra.", "Plays a role in the Ghanaian economy, driven by cocoa, gold and oil exports."]
-    }
-  },
+    }, image: "/poi-images/fort-st-jago-history-v2.webp"},
   {
     id: "fort-victoria-cape-coast-history-v2",
     type: "historical",

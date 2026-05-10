@@ -1,0 +1,29 @@
+{
+  "lang": "de",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "brarudi-brauerei-economic-v2",
+      "description": "Brarudi ist die wichtigste Brauerei des Landes in Bujumbura. Das Unternehmen prägt den Getränkemarkt und ist ein bekannter Industriebetrieb im Alltag vieler Menschen.",
+      "facts": ["Bujumbura", "Bier und Getränke", "wichtiger Arbeitgeber"]
+    },
+    {
+      "id": "sosumo-zuckerfabrik-economic-v2",
+      "description": "SOSUMO verarbeitet Zuckerrohr im Osten Burundis und ist zentral für die heimische Zuckerproduktion. Die Anlage verbindet Landwirtschaft und Industrie in einer ländlichen Region.",
+      "facts": ["Ostburundi", "Zuckerrohr", "landwirtschaftliche Industrie"]
+    },
+    {
+      "id": "hafen-von-nyanza-lac-economic-v2",
+      "description": "Der Hafen von Nyanza-Lac liegt am südlichen Tanganjikasee und dient dem Handel mit Tansania. Er ist zugleich ein wichtiger Punkt für Fischerei und lokale Versorgung.",
+      "facts": ["Südufer des Sees", "Handel", "Fischerei"]
+    },
+    {
+      "id": "hafen-von-rumonge-economic-v2",
+      "description": "Der Hafen von Rumonge liegt am Seeufer und unterstützt den Handel der Stadt mit dem südlichen Umland. Besonders der Umschlag von Fisch und Palmöl spielt hier eine Rolle.",
+      "facts": ["Rumonge", "Seehafen", "Palmöl und Fisch"]
+    }
+  ]
+}

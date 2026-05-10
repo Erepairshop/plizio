@@ -24,8 +24,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Togo fővárosa", "A régió egyetlen mélytengeri kikötője", "Híres a Grand Marché piacról", "A Loméi Egyetem székhelye"],
       ro: ["Capitala Togoului", "Singurul port de mare adâncime din regiune", "Faimos pentru Grand Marché", "Sediul Universității din Lomé"],
       en: ["Capital of Togo", "Region's only deep-water port", "Famous for the Grand Marché", "Home to the University of Lomé"]
-    }
-  },
+    }, image: "/poi-images/lome-cities-v2.webp"},
   {
     id: "atakpame-cities-v2",
     type: "state-capital",
@@ -49,8 +48,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Plateaux régió fővárosa", "Híres a gólyalábas táncairól", "Egykori német rádióállomás", "Fontos gyapotkereskedelmi központ"],
       ro: ["Capitala regiunii Plateaux", "Cunoscut pentru dansurile pe picioroange", "Fostă stație radio germană", "Important centru comercial pentru bumbac"],
       en: ["Capital of the Plateaux Region", "Known for stilt dances", "Former German radio station", "Major cotton trading hub"]
-    }
-  },
+    }, image: "/poi-images/atakpame-cities-v2.webp"},
   {
     id: "sokode-cities-v2",
     type: "state-capital",
@@ -74,8 +72,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Centrale régió fővárosa", "A Kotokoli kultúra központja", "Híres a késtáncáról", "Fontos közlekedési csomópont"],
       ro: ["Capitala regiunii Centrale", "Centrul culturii Kotokoli", "Faimos pentru dansul cuțitelor", "Important nod de transport"],
       en: ["Capital of the Centrale Region", "Center of Kotokoli culture", "Famous for the knife dance", "Key transportation hub"]
-    }
-  },
+    }, image: "/poi-images/sokode-cities-v2.webp"},
   {
     id: "kara-cities-v2",
     type: "state-capital",
@@ -99,8 +96,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Kara régió fővárosa", "Az Evala birkózóversenyek helyszíne", "Modern egyeteme van", "Sörgyári ipari központ"],
       ro: ["Capitala regiunii Kara", "Gazda competițiilor de lupte Evala", "Dispune de o universitate modernă", "Centru industrial pentru berării"],
       en: ["Capital of the Kara Region", "Host of Evala wrestling matches", "Home to a modern university", "Industrial center for breweries"]
-    }
-  },
+    }, image: "/poi-images/kara-cities-v2.webp"},
   {
     id: "dapaong-cities-v2",
     type: "state-capital",
@@ -124,8 +120,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Savanes régió fővárosa", "Legfontosabb határmenti kereskedelmi hely", "Kapu a Nanói-barlangokhoz", "Nagyon forró félsivatagi éghajlat"],
       ro: ["Capitala regiunii Savanes", "Cel mai important punct de comerț la graniță", "Poarta către peșterile din Nano", "Climat semideșertic foarte cald"],
       en: ["Capital of the Savanes Region", "Key border trading town", "Gateway to the Nano caves", "Very hot semi-arid climate"]
-    }
-  },
+    }, image: "/poi-images/dapaong-cities-v2.webp"},
   {
     id: "tsevie-cities-v2",
     type: "city",
@@ -149,8 +144,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Híres a pálmaolaj-termeléséről", "Az Ayiza-fesztivál házigazdája", "Régebben fontos vasúti megálló volt", "Az ewe kultúra központja"],
       ro: ["Faimos pentru producția de ulei de palmier", "Gazda festivalului Ayiza", "Fost punct feroviar important", "Centru al culturii Ewe"],
       en: ["Famous for palm oil production", "Host of the Ayiza festival", "Formerly a key railway stop", "Center of Ewe culture"]
-    }
-  },
+    }, image: "/poi-images/tsevie-cities-v2.webp"},
   {
     id: "aneho-cities-v2",
     type: "city",
@@ -174,8 +168,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Togo korábbi fővárosa", "A vudu hiedelemvilág központja", "A benini határ mellett fekszik", "Híres halászati hagyományairól"],
       ro: ["Fosta capitală a Togoului", "Centru al credințelor Voodoo", "Situat la granița cu Benin", "Faimos pentru tradiția pescuitului"],
       en: ["Former capital of Togo", "Center of Voodoo beliefs", "Located on the Benin border", "Famous for fishing traditions"]
-    }
-  },
+    }, image: "/poi-images/aneho-cities-v2.webp"},
   {
     id: "kpalime-cities-v2",
     type: "city",
@@ -199,8 +192,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A kakaótermesztés központja", "Kapu Togo legmagasabb hegyéhez", "Híres a batikolt szöveteiről", "A túrázók kedvelt helye"],
       ro: ["Centrul cultivării cacauei", "Poarta către cel mai înalt munte din Togo", "Cunoscut pentru țesăturile batik", "Loc preferat de excursioniști"],
       en: ["Center of cocoa production", "Gateway to Togo's highest peak", "Known for batik fabrics", "Popular spot for hikers"]
-    }
-  },
+    }, image: "/poi-images/kpalime-cities-v2.webp"},
   {
     id: "tabligbo-cities-v2",
     type: "city",
@@ -249,8 +241,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A régió legnagyobb állatvására", "Az Ouatchi kultúra központja", "Híres a kerámiáiról", "Fontos rituális helyszín"],
       ro: ["Cea mai mare piață de vite din regiune", "Centru al culturii Ouatchi", "Cunoscut pentru olărit", "Loc ritualic important"],
       en: ["Region's largest livestock market", "Center of Ouatchi culture", "Known for pottery", "Important ritual site"]
-    }
-  },
+    }, image: "/poi-images/vogan-cities-v2.webp"},
   {
     id: "notse-cities-v2",
     type: "city",
@@ -274,8 +265,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Az ewék történelmi fővárosa", "Az Agbogbo-fal maradványai", "Az ananásztermelés központja", "Az Agbogbo-Zan fesztivál helyszíne"],
       ro: ["Capitala istorică a poporului Ewe", "Vestigiile zidului Agbogbo", "Centrul producției de ananas", "Locul festivalului Agbogbo-Zan"],
       en: ["Historic capital of the Ewe", "Remains of the Agbogbo Wall", "Center of pineapple production", "Host of the Agbogbo-Zan festival"]
-    }
-  },
+    }, image: "/poi-images/notse-cities-v2.webp"},
   {
     id: "sansanne-mango-cities-v2",
     type: "city",
@@ -299,8 +289,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Az Oti-folyó mentén fekszik", "Híres a halpiacáról", "Történelmi karavánállomás", "A tschokossi kultúra központja"],
       ro: ["Situat pe râul Oti", "Cunoscut pentru piața de pește", "Punct istoric pentru caravane", "Centru al culturii Chakosi"],
       en: ["Located on the Oti River", "Known for its fish market", "Historic caravan base", "Center of Chakosi culture"]
-    }
-  },
+    }, image: "/poi-images/sansanne-mango-cities-v2.webp"},
   {
     id: "bassar-cities-v2",
     type: "city",
@@ -324,8 +313,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Történelmi vasművességi központ", "Híres a jamszgyökeréről", "Hagyományos kohók maradtak fenn", "Kapu a Bassar-hegységhez"],
       ro: ["Centru istoric al fierului", "Faimos pentru igname", "Furale tradiționale conservate", "Poarta către munții Bassar"],
       en: ["Historic iron-working center", "Famous for its yams", "Traditional furnaces preserved", "Gateway to the Bassar Mountains"]
-    }
-  },
+    }, image: "/poi-images/bassar-cities-v2.webp"},
   {
     id: "tchamba-cities-v2",
     type: "city",
@@ -374,8 +362,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A kávétermesztés központja", "Az Akloa-vízesés közelében", "Ghánai határ közelsége", "Trópusi erdei éghajlat"],
       ro: ["Centrul cultivării cafelei", "Aproape de cascada Akloa", "Proximitatea de granița cu Ghana", "Climat de pădure tropicală"],
       en: ["Center of coffee production", "Near the Akloa waterfalls", "Close to the Ghana border", "Tropical forest climate"]
-    }
-  },
+    }, image: "/poi-images/badou-cities-v2.webp"},
   {
     id: "niamtougou-cities-v2",
     type: "city",
@@ -399,8 +386,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Második nemzetközi repülőtér", "Jelentős vasárnapi piac", "A losso kultúra központja", "Fontos katonai bázis"],
       ro: ["Al doilea aeroport internațional", "Piață importantă de duminică", "Centru al culturii Losso", "Bază militară importantă"],
       en: ["Second international airport", "Significant Sunday market", "Center of Losso culture", "Important military base"]
-    }
-  },
+    }, image: "/poi-images/niamtougou-cities-v2.webp"},
   {
     id: "bafilo-cities-v2",
     type: "city",
@@ -449,8 +435,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Kapu a Koutammakou Parkhoz", "A tambermák otthona", "Híres a toronyházairól (Takienta)", "UNESCO világörökségi régió"],
       ro: ["Poarta către parcul Koutammakou", "Căminul poporului Tamberma", "Cunoscut pentru casele-turn (Takienta)", "Regiune de patrimoniu UNESCO"],
       en: ["Gateway to Koutammakou Park", "Home of the Tamberma people", "Known for tower houses (Takienta)", "UNESCO World Heritage region"]
-    }
-  },
+    }, image: "/poi-images/kande-cities-v2.webp"},
   {
     id: "sotouboua-cities-v2",
     type: "city",
@@ -474,8 +459,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Togo földrajzi középpontja", "Fontos gabonapiac", "Nagy gyapotültetvények", "Az 1-es főút csomópontja"],
       ro: ["Centrul geografic al Togoului", "Piață importantă de cereale", "Plantații mari de bumbac", "Nod pe drumul național 1"],
       en: ["Geographic center of Togo", "Major grain market", "Large cotton plantations", "Hub on National Road 1"]
-    }
-  },
+    }, image: "/poi-images/sotouboua-cities-v2.webp"},
   {
     id: "blitta-cities-v2",
     type: "city",
@@ -499,8 +483,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Régebben a vasút végállomása", "Fontos kamionos pihenőhely", "Nagy naperőművel rendelkezik", "Kukoricakereskedelmi központ"],
       ro: ["Fosta stație terminus a căii ferate", "Popas important pentru camioane", "Dispune de o mare centrală solară", "Centru comercial pentru porumb"],
       en: ["Former railway terminus", "Major truck stop area", "Home to a large solar plant", "Trading center for maize"]
-    }
-  },
+    }, image: "/poi-images/blitta-cities-v2.webp"},
   {
     id: "keve-cities-v2",
     type: "city",
@@ -524,8 +507,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Ghánai határ közelsége", "A maniokfeldolgozás központja", "Fontos helyi piac", "Zöld környezet"],
       ro: ["Proximitatea de granița cu Ghana", "Centru al procesării maniocului", "Piață locală importantă", "Împrejurimi verzi"],
       en: ["Near the Ghana border", "Center for cassava processing", "Important local market", "Green surroundings"]
-    }
-  },
+    }, image: "/poi-images/keve-cities-v2.webp"},
   {
     id: "afagnan-cities-v2",
     type: "city",
@@ -549,8 +531,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Híres regionális kórház", "A Mono-folyó közelében", "Fontos oktatási helyszín", "Az ouatchi etnikum központja"],
       ro: ["Spital regional faimos", "Lângă râul Mono", "Centru educațional important", "Centru al etniei Ouatchi"],
       en: ["Famous regional hospital", "Near the Mono River", "Significant educational site", "Center of the Ouatchi ethnic group"]
-    }
-  },
+    }, image: "/poi-images/afagnan-cities-v2.webp"},
   {
     id: "togoville-cities-v2",
     type: "city",
@@ -574,8 +555,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Az ország névadója", "Az 1884-es szerződés aláírási helye", "A vudu hiedelem központja", "A Togo-tó partján fekszik"],
       ro: ["Numele țării provine de aici", "Locul semnării tratatului din 1884", "Centru al credinței Voodoo", "Situat pe lacul Togo"],
       en: ["Namesake of the country", "Site of the 1884 treaty signing", "Center of Voodoo beliefs", "Located on Lake Togo"]
-    }
-  },
+    }, image: "/poi-images/togoville-cities-v2.webp"},
   {
     id: "elavagnon-cities-v2",
     type: "city",
@@ -599,8 +579,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A kakaótermesztés központja", "Dombos környezet", "Fontos helyi piac", "Plateaux régió"],
       ro: ["Centru al cultivării cacauei", "Împrejurimi colinare", "Piață locală importantă", "Regiunea Plateaux"],
       en: ["Center of cocoa production", "Hilly surroundings", "Important local market", "Plateaux Region"]
-    }
-  },
+    }, image: "/poi-images/elavagnon-cities-v2.webp"},
   {
     id: "agou-cities-v2",
     type: "city",
@@ -624,8 +603,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Az Agou-hegy lábánál", "Túrázási központ", "Dús flóra és fauna", "Hűvösebb mikroklíma"],
       ro: ["La poalele muntelui Agou", "Centru pentru drumeții", "Floră și faună luxuriantă", "Microclimat mai răcoros"],
       en: ["At the foot of Mount Agou", "Hiking hub", "Lush flora and fauna", "Cooler microclimate"]
-    }
-  },
+    }, image: "/poi-images/agou-cities-v2.webp"},
   {
     id: "amou-oblo-cities-v2",
     type: "city",
@@ -649,8 +627,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Példamutató várostervezés", "A régió legtisztább városa", "Oktatási központ", "Modern infrastruktúra"],
       ro: ["Planificare urbană exemplară", "Cel mai curat oraș din regiune", "Centru educațional", "Infrastructură modernă"],
       en: ["Exemplary urban planning", "Cleanest town in the region", "Educational center", "Modern infrastructure"]
-    }
-  },
+    }, image: "/poi-images/amou-oblo-cities-v2.webp"},
   {
     id: "anie-cities-v2",
     type: "city",
@@ -674,8 +651,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Fontos vasúti megálló", "A textilipar központja", "Stratégiai elhelyezkedés", "Kereskedelmi központ"],
       ro: ["Nod feroviar important", "Centru al industriei textile", "Locație strategică", "Centru comercial"],
       en: ["Key railway stop", "Center of textile industry", "Strategic location", "Trading hub"]
-    }
-  },
+    }, image: "/poi-images/anie-cities-v2.webp"},
   {
     id: "hiheatro-cities-v2",
     type: "city",
@@ -724,8 +700,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Nyugati Plateaux régió", "A ghánai határ közelében", "Dombos domborzat", "Kakaótermesztő vidék"],
       ro: ["Regiunea Plateaux de vest", "Lângă granița cu Ghana", "Topografie colinară", "Zonă de cultivare a cacauei"],
       en: ["Western Plateaux Region", "Near the Ghana border", "Hilly topography", "Cocoa growing area"]
-    }
-  },
+    }, image: "/poi-images/kougnohou-cities-v2.webp"},
   {
     id: "tohoun-cities-v2",
     type: "city",
@@ -749,8 +724,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Benini határváros", "Kereskedelmi csomópont", "Kulturális olvasztótégely", "Fontos vámállomás"],
       ro: ["Oraș de graniță cu Benin", "Nod comercial", "Creuzet cultural", "Stație vamală importantă"],
       en: ["Border town with Benin", "Trade junction", "Cultural melting pot", "Key customs station"]
-    }
-  },
+    }, image: "/poi-images/tohoun-cities-v2.webp"},
   {
     id: "wahala-cities-v2",
     type: "city",
@@ -824,8 +798,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Elszigetelt elhelyezkedés", "Hagyományos kultúra", "Szép természeti táj", "Az akposso kultúra központja"],
       ro: ["Locație izolată", "Cultură tradițională", "Peisaj natural frumos", "Centru al culturii Akposso"],
       en: ["Remote location", "Traditional culture", "Beautiful natural landscape", "Center of Akposso culture"]
-    }
-  },
+    }, image: "/poi-images/mo-cities-v2.webp"},
   {
     id: "pagala-cities-v2",
     type: "city",
@@ -849,8 +822,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A rizstermesztés központja", "Pálmaolaj-termelés", "Regionális mezőgazdaság", "Vidéki jelleg"],
       ro: ["Centru al cultivării orezului", "Producția de ulei de palmier", "Agricultură regională", "Caracter rural"],
       en: ["Center for rice cultivation", "Palm oil production", "Regional agriculture", "Rural character"]
-    }
-  },
+    }, image: "/poi-images/pagala-cities-v2.webp"},
   {
     id: "pagouda-cities-v2",
     type: "city",
@@ -874,8 +846,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A kabyè kultúra központja", "Teraszos gazdálkodás", "Hagyományos rítusok", "Dombos vidék"],
       ro: ["Centru al culturii Kabyè", "Agricultură terasată", "Ritualuri tradiționale", "Teren colinar"],
       en: ["Center of Kabyè culture", "Terraced farming", "Traditional rites", "Hilly terrain"]
-    }
-  },
+    }, image: "/poi-images/pagouda-cities-v2.webp"},
   {
     id: "guerin-kouka-cities-v2",
     type: "city",
@@ -899,8 +870,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Szavannás régió", "Jamszgyökér-kereskedelmi hely", "Északnyugat-Togo", "Hagyományos piac"],
       ro: ["Regiune de savană", "Piață de igname", "Nord-vestul Togoului", "Piață tradițională"],
       en: ["Savanna region", "Yam trading hub", "Northwestern Togo", "Traditional market"]
-    }
-  },
+    }, image: "/poi-images/guerin-kouka-cities-v2.webp"},
   {
     id: "kante-cities-v2",
     type: "city",
@@ -924,8 +894,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Tamberma régió központja", "A Koutammakou Park közelében", "Fontos pihenőhely", "Hagyományos piac"],
       ro: ["Centru al regiunii Tamberma", "Lângă parcul Koutammakou", "Popas important", "Piață tradițională"],
       en: ["Center of the Tamberma region", "Near Koutammakou Park", "Significant stopover", "Traditional market"]
-    }
-  },
+    }, image: "/poi-images/kante-cities-v2.webp"},
   {
     id: "kpagouda-cities-v2",
     type: "city",
@@ -974,8 +943,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Eyadéma szülőhelye", "Szimbolikus jelentőség", "Modern építészet", "Kara közelében fekszik"],
       ro: ["Locul de naștere al lui Eyadéma", "Semnificație simbolică", "Arhitectură modernă", "Situat lângă Kara"],
       en: ["Birthplace of Eyadéma", "Symbolic significance", "Modern architecture", "Located near Kara"]
-    }
-  },
+    }, image: "/poi-images/pya-cities-v2.webp"},
   {
     id: "sabi-lamba-cities-v2",
     type: "city",
@@ -999,8 +967,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Vidéki idill", "Hagyományos mezőgazdaság", "Hiteles kultúra", "Kara régió"],
       ro: ["Idilă rurală", "Agricultură tradițională", "Cultură autentică", "Regiunea Kara"],
       en: ["Rural idyll", "Traditional agriculture", "Authentic culture", "Kara Region"]
-    }
-  },
+    }, image: "/poi-images/sabi-lamba-cities-v2.webp"},
   {
     id: "sanda-kagbanda-cities-v2",
     type: "city",
@@ -1024,8 +991,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Helyi kereskedelmi hely", "Kara közelében fekszik", "Fontos piac", "Mezőgazdasági termékek"],
       ro: ["Punct de comerț local", "Situat lângă Kara", "Piață importantă", "Produse agrare"],
       en: ["Local trading post", "Near Kara", "Significant market", "Agricultural products"]
-    }
-  },
+    }, image: "/poi-images/sanda-kagbanda-cities-v2.webp"},
   {
     id: "sirka-cities-v2",
     type: "city",
@@ -1049,8 +1015,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Kabyè-hegység", "Nagyszerű kilátópontok", "Szent hely", "Hegyi szavanna"],
       ro: ["Munții Kabyè", "Puncte de belvedere", "Loc sfânt", "Savană montană"],
       en: ["Kabyè Mountains", "Great viewpoints", "Sacred site", "Mountain savanna"]
-    }
-  },
+    }, image: "/poi-images/sirka-cities-v2.webp"},
   {
     id: "yade-cities-v2",
     type: "city",
@@ -1074,8 +1039,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Történelmi település", "Kara dombvidék", "Klán-hagyományok", "Legendákban gazdag terület"],
       ro: ["Așezare istorică", "Zona colinară Kara", "Tradiții de clan", "Zonă bogată în legende"],
       en: ["Historic settlement", "Kara highlands", "Clan traditions", "Area rich in legends"]
-    }
-  },
+    }, image: "/poi-images/yade-cities-v2.webp"},
   {
     id: "biankouri-cities-v2",
     type: "city",
@@ -1099,8 +1063,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Északi határmenti régió", "Állatkereskedelmi központ", "Savannes régió", "Száraz éghajlat"],
       ro: ["Regiunea de frontieră nord", "Centru de comerț cu vite", "Regiunea Savanes", "Climat arid"],
       en: ["Northern border region", "Livestock trading center", "Savanes Region", "Dry climate"]
-    }
-  },
+    }, image: "/poi-images/biankouri-cities-v2.webp"},
   {
     id: "tandjouare-cities-v2",
     type: "city",
@@ -1174,8 +1137,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Északi oktatási központ", "Szociális intézmények", "Száraz szavanna", "Dapaong közelében"],
       ro: ["Centru educațional de nord", "Facilități sociale", "Savană aridă", "Situat lângă Dapaong"],
       en: ["Northern educational hub", "Social welfare facilities", "Dry savanna", "Near Dapaong"]
-    }
-  },
+    }, image: "/poi-images/bombouaka-cities-v2.webp"},
   {
     id: "cinkasse-cities-v2",
     type: "city",
@@ -1224,8 +1186,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Benini határ közelsége", "Gabonatermesztő vidék", "Savannes régió", "Száraz szavanna"],
       ro: ["Proximitatea de granița cu Benin", "Zonă de cultivare a cerealelor", "Regiunea Savanes", "Savană aridă"],
       en: ["Near the Benin border", "Grain growing area", "Savanes Region", "Dry savanna"]
-    }
-  },
+    }, image: "/poi-images/mandouri-cities-v2.webp"},
   {
     id: "bogou-cities-v2",
     type: "city",

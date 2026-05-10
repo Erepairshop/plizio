@@ -43,8 +43,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Considered a symbol of Lao nationalism.",
         "Featured on the national seal of Laos."
       ]
-    }
-  },
+    }, image: "/poi-images/pha-that-luang-landmarks-v2.webp"},
   {
     id: "patuxai-landmarks-v2",
     type: "landmark",
@@ -87,8 +86,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Features five towers in traditional style.",
         "Offers an observation deck at the top."
       ]
-    }
-  },
+    }, image: "/poi-images/patuxai-landmarks-v2.webp"},
   {
     id: "wat-xieng-thong-landmarks-v2",
     type: "landmark",
@@ -131,8 +129,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Features an impressive Tree of Life mosaic.",
         "Served as a royal temple until 1975."
       ]
-    }
-  },
+    }, image: "/poi-images/wat-xieng-thong-landmarks-v2.webp"},
   {
     id: "buddha-park-landmarks-v2",
     type: "landmark",
@@ -175,8 +172,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "A large pumpkin-shaped building symbolizes Hell, Earth, and Heaven.",
         "Built primarily of reinforced concrete."
       ]
-    }
-  },
+    }, image: "/poi-images/buddha-park-landmarks-v2.webp"},
   {
     id: "vat-phou-landmarks-v2",
     type: "landmark",
@@ -219,8 +215,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Was originally dedicated to Lord Shiva.",
         "An important center of the Khmer Empire."
       ]
-    }
-  },
+    }, image: "/poi-images/vat-phou-landmarks-v2.webp"},
   {
     id: "wat-si-saket-landmarks-v2",
     type: "landmark",
@@ -263,8 +258,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Houses over 6,800 Buddha figures.",
         "The architecture shows strong Siamese influences."
       ]
-    }
-  },
+    }, image: "/poi-images/wat-si-saket-landmarks-v2.webp"},
   {
     id: "haw-phra-kaew-landmarks-v2",
     type: "landmark",
@@ -307,8 +301,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Today an important national museum.",
         "Features beautifully carved wooden doors."
       ]
-    }
-  },
+    }, image: "/poi-images/haw-phra-kaew-landmarks-v2.webp"},
   {
     id: "royal-palace-museum-landmarks-v2",
     type: "landmark",
@@ -351,8 +344,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Houses the sacred Phra Bang Buddha statue.",
         "Converted into a national museum in 1975."
       ]
-    }
-  },
+    }, image: "/poi-images/royal-palace-museum-landmarks-v2.webp"},
   {
     id: "that-ing-hang-landmarks-v2",
     type: "landmark",
@@ -395,8 +387,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Women must wear traditional Sinh skirts when visiting.",
         "Hosts a large annual festival."
       ]
-    }
-  },
+    }, image: "/poi-images/that-ing-hang-landmarks-v2.webp"},
   {
     id: "that-sikhottabong-landmarks-v2",
     type: "landmark",
@@ -439,8 +430,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Particularly sacred to the people of Khammouane.",
         "A festival is held in the third lunar month."
       ]
-    }
-  },
+    }, image: "/poi-images/that-sikhottabong-landmarks-v2.webp"},
   {
     id: "wat-mai-suwannaphumaham-landmarks-v2",
     type: "landmark",
@@ -483,8 +473,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Was the home of the highest Buddhist patriarch in Laos.",
         "Temporarily housed the Phra Bang statue."
       ]
-    }
-  },
+    }, image: "/poi-images/wat-mai-suwannaphumaham-landmarks-v2.webp"},
   {
     id: "viengxay-caves-landmarks-v2",
     type: "landmark",
@@ -527,8 +516,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Were heavily bombed by the US.",
         "Today a site of historical significance."
       ]
-    }
-  },
+    }, image: "/poi-images/viengxay-caves-landmarks-v2.webp"},
   {
     id: "pak-ou-caves-landmarks-v2",
     type: "landmark",
@@ -571,8 +559,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "House over 4,000 Buddha statues.",
         "An important pilgrimage site for centuries."
       ]
-    }
-  },
+    }, image: "/poi-images/pak-ou-caves-landmarks-v2.webp"},
   {
     id: "mount-phousi-landmarks-v2",
     type: "landmark",
@@ -615,8 +602,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "A popular spot for watching the sunset.",
         "Surrounded by rivers on both sides."
       ]
-    }
-  },
+    }, image: "/poi-images/mount-phousi-landmarks-v2.webp"},
   {
     id: "kong-lor-cave-landmarks-v2",
     type: "landmark",
@@ -659,8 +645,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "The cave is only accessible by small boats.",
         "Features impressive stalactites and stalagmites."
       ]
-    }
-  },
+    }, image: "/poi-images/kong-lor-cave-landmarks-v2.webp"},
   {
     id: "wat-visounnarath-landmarks-v2",
     type: "landmark",
@@ -703,8 +688,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Houses many ancient Buddha statues.",
         "The stupa is named That Makmo."
       ]
-    }
-  },
+    }, image: "/poi-images/wat-visounnarath-landmarks-v2.webp"},
   {
     id: "cope-visitor-centre-landmarks-v2",
     type: "landmark",
@@ -747,8 +731,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Provides prosthetics for survivors of unexploded ordnance (UXO).",
         "Funded by donations and souvenir sales."
       ]
-    }
-  },
+    }, image: "/poi-images/cope-visitor-centre-landmarks-v2.webp"},
   {
     id: "chao-anouvong-statue-landmarks-v2",
     type: "landmark",
@@ -791,8 +774,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "King Anouvong led a rebellion against Siam.",
         "A symbol of Laotian resistance."
       ]
-    }
-  },
+    }, image: "/poi-images/chao-anouvong-statue-landmarks-v2.webp"},
   {
     id: "wat-aham-landmarks-v2",
     type: "landmark",
@@ -835,8 +817,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
         "Features colorful murals depicting Buddha's life.",
         "Stands in close proximity to Wat Visounnarath."
       ]
-    }
-  },
+    }, image: "/poi-images/wat-aham-landmarks-v2.webp"},
   {
     id: "lao-national-museum-landmarks-v2",
     type: "landmark",

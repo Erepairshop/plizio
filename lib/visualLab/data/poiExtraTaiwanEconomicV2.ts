@@ -23,8 +23,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["1980-ban alapították.", "A TSMC globális központja."],
       ro: ["Fondat în 1980.", "Sediul central al TSMC."],
       en: ["Founded in 1980.", "Headquarters of TSMC."]
-    }
-  },
+    }, image: "/poi-images/hsinchu-science-park-economic-v2.webp"},
   {
     id: "port-of-kaohsiung-economic-v2",
     type: "port",
@@ -47,8 +46,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["Évente több mint 10 millió TEU forgalom.", "Kulcsfontosságú ázsiai csendes-óceáni csomópont."],
       ro: ["Peste 10 milioane de TEU anual.", "Hub cheie în regiunea Asia-Pacific."],
       en: ["Over 10 million TEU handled annually.", "Key hub in the Asia-Pacific region."]
-    }
-  },
+    }, image: "/poi-images/port-of-kaohsiung-economic-v2.webp"},
   {
     id: "port-of-keelung-economic-v2",
     type: "port",
@@ -71,8 +69,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["Történelmi természetes kikötő.", "Kiemelt szerep a főváros ellátásában."],
       ro: ["Port natural istoric.", "Important pentru importurile către Taipei."],
       en: ["Historic natural harbor.", "Crucial for imports to the capital city."]
-    }
-  },
+    }, image: "/poi-images/port-of-keelung-economic-v2.webp"},
   {
     id: "taichung-power-plant-economic-v2",
     type: "energy",
@@ -95,8 +92,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["Több mint 5500 MW beépített teljesítmény.", "Fokozatosan átállnak földgáz alapú termelésre."],
       ro: ["Capacitate instalată de peste 5.500 MW.", "Se face tranziția treptată către gaze naturale."],
       en: ["Installed capacity over 5,500 MW.", "Gradually transitioning to natural gas."]
-    }
-  },
+    }, image: "/poi-images/taichung-power-plant-economic-v2.webp"},
   {
     id: "mailiao-refinery-economic-v2",
     type: "industry",
@@ -143,8 +139,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["1976-ban nyitották meg.", "Fontos a konténer- és ömlesztettáru-forgalom számára."],
       ro: ["Deschis în 1976.", "Important pentru containere și mărfuri în vrac."],
       en: ["Opened in 1976.", "Crucial for bulk cargo and containers."]
-    }
-  },
+    }, image: "/poi-images/port-of-taichung-economic-v2.webp"},
   {
     id: "southern-taiwan-science-park-economic-v2",
     type: "industry",
@@ -215,8 +210,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["A termelés az 1980-as években leállt.", "Ma már jelentős bányászati múzeumként működik."],
       ro: ["Producția a încetat în anii 1980.", "Astăzi este un important muzeu minier."],
       en: ["Production ceased in the 1980s.", "Today operates as a major mining museum."]
-    }
-  },
+    }, image: "/poi-images/jinguashi-gold-mine-economic-v2.webp"},
   {
     id: "maanshan-nuclear-power-plant-economic-v2",
     type: "energy",
@@ -239,8 +233,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["Két nyomottvizes reaktorral rendelkezik.", "A tervek szerint a következő években leállítják."],
       ro: ["Are două reactoare cu apă sub presiune.", "Este programată pentru dezafectare în anii următori."],
       en: ["Features two pressurized water reactors.", "Scheduled for decommissioning in the coming years."]
-    }
-  },
+    }, image: "/poi-images/maanshan-nuclear-power-plant-economic-v2.webp"},
   {
     id: "port-of-taipei-economic-v2",
     type: "port",
@@ -263,8 +256,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["Gyorsan növekvő konténerkikötő.", "Jelentős az autóipari tranzitforgalma."],
       ro: ["Port de containere cu creștere rapidă.", "Hub major pentru tranzitul automobilelor."],
       en: ["Fast-growing container port.", "Major hub for automobile transit."]
-    }
-  },
+    }, image: "/poi-images/port-of-taipei-economic-v2.webp"},
   {
     id: "pingxi-coal-mine-economic-v2",
     type: "mine",
@@ -287,8 +279,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["A kitermelés 1997-ben fejeződött be.", "Ma Tajvani Szénbányászati Múzeumként látogatható."],
       ro: ["Extracția a încetat în 1997.", "Astăzi funcționează ca Muzeul Minei de Cărbune din Taiwan."],
       en: ["Extraction ceased in 1997.", "Now serves as the Taiwan Coal Mine Museum."]
-    }
-  },
+    }, image: "/poi-images/pingxi-coal-mine-economic-v2.webp"},
   {
     id: "nangang-software-park-economic-v2",
     type: "industry",
@@ -311,8 +302,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["Számos nemzetközi IT-vállalat otthona.", "Közvetlen kapcsolata van a nagysebességű vasúttal."],
       ro: ["Găzduiește multe companii IT internaționale.", "Legat direct la rețeaua feroviară de mare viteză."],
       en: ["Hosts many international IT companies.", "Directly connected to the high-speed rail network."]
-    }
-  },
+    }, image: "/poi-images/nangang-software-park-economic-v2.webp"},
   {
     id: "kaohsiung-software-park-economic-v2",
     type: "industry",
@@ -335,8 +325,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["A déli IT-ipar fellendítése érdekében alapították.", "Közvetlenül a kikötő közelében helyezkedik el."],
       ro: ["Fondat pentru a promova industria IT din sud.", "Situat aproape de port."],
       en: ["Established to promote the southern IT industry.", "Located close to the harbor."]
-    }
-  },
+    }, image: "/poi-images/kaohsiung-software-park-economic-v2.webp"},
   {
     id: "guanyin-industrial-park-economic-v2",
     type: "industry",
@@ -359,8 +348,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["A tajvani gyárak egyik legfontosabb központja.", "Kiváló logisztikai kapcsolatok a repülőtérrel."],
       ro: ["O locație majoră pentru fabricile taiwaneze.", "Bine conectat la aeroporturi."],
       en: ["A major hub for Taiwanese factories.", "Well-connected to airports."]
-    }
-  },
+    }, image: "/poi-images/guanyin-industrial-park-economic-v2.webp"},
   {
     id: "changhua-coastal-industrial-park-economic-v2",
     type: "industry",
@@ -383,8 +371,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["Több mint 3600 hektáron terül el.", "A megújuló energiák (szélenergia) fontos központja."],
       ro: ["Acoperă peste 3.600 de hectare.", "Un hub important pentru energia regenerabilă (eoliană)."],
       en: ["Covers over 3,600 hectares.", "A major hub for renewable energy (wind power)."]
-    }
-  },
+    }, image: "/poi-images/changhua-coastal-industrial-park-economic-v2.webp"},
   {
     id: "taoyuan-free-trade-zone-economic-v2",
     type: "trade-hub",
@@ -407,8 +394,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["Vámmentes tárolást és továbbfeldolgozást biztosít.", "Erősíti Tajvan exportorientált gazdaságát."],
       ro: ["Permite depozitarea și procesarea scutită de taxe.", "Întărește economia de export a Taiwanului."],
       en: ["Enables duty-free storage and processing.", "Strengthens Taiwan's export economy."]
-    }
-  },
+    }, image: "/poi-images/taoyuan-free-trade-zone-economic-v2.webp"},
   {
     id: "linyuan-petrochemical-park-economic-v2",
     type: "industry",
@@ -431,8 +417,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["Kaohsziung területén helyezkedik el.", "A műanyagipar alapanyagait állítja elő."],
       ro: ["Situat în Kaohsiung.", "Produce materii prime pentru industria plasticului."],
       en: ["Located in Kaohsiung.", "Produces raw materials for the plastics industry."]
-    }
-  },
+    }, image: "/poi-images/linyuan-petrochemical-park-economic-v2.webp"},
   {
     id: "mingtan-pumped-storage-plant-economic-v2",
     type: "energy",
@@ -455,8 +440,7 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
       hu: ["A Nap-Hold-tavat használja felső víztározóként.", "1602 MW beépített teljesítmény."],
       ro: ["Folosește Lacul Soarelui și Lunii ca rezervor superior.", "Capacitate de 1.602 MW."],
       en: ["Uses Sun Moon Lake as its upper reservoir.", "Capacity of 1,602 MW."]
-    }
-  },
+    }, image: "/poi-images/mingtan-pumped-storage-plant-economic-v2.webp"},
   {
     id: "port-of-suao-economic-v2",
     type: "port",

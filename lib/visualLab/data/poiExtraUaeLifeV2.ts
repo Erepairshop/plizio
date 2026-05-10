@@ -18,8 +18,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["1968-ban alapította Zájed sejk.", "Több mint 4000 állatnak ad otthont.", "Az arab bejza tenyésztésére fókuszál.", "Zsiráfetetési élményeket is nyújt."],
       ro: ["A fost fondată în 1968 de Șeicul Zayed.", "Găzduiește peste 4000 de animale.", "Se concentrează pe creșterea oryxului arab.", "Oferă experiențe de hrănire a girafelor."],
       en: ["Founded in 1968 by Sheikh Zayed.", "Houses over 4000 animals.", "Focuses on breeding the Arabian Oryx.", "Offers giraffe feeding experiences."]
-    }
-  },
+    }, image: "/poi-images/al-ain-zoo-life-v2.webp"},
   {
     id: "dubai-safari-park-life-v2",
     type: "wildlife-area",
@@ -56,8 +55,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Lehetővé teszi a zsiráfokkal való reggelizést.", "Külön állatsimogató résszel rendelkezik.", "Klimatizált hüllőbarlang is található itt.", "Oroszlánfóka és madár bemutatókat kínál."],
       ro: ["Permite micul dejun cu girafe.", "Are o zonă specială pentru mângâierea animalelor.", "Există o peșteră de reptile cu aer condiționat.", "Oferă spectacole cu lei de mare și păsări."],
       en: ["Allows guests to have breakfast with giraffes.", "Has a petting zoo section for domestic animals.", "Features an air-conditioned reptile cave.", "Offers sea lion and bird shows."]
-    }
-  },
+    }, image: "/poi-images/emirates-park-zoo-life-v2.webp"},
   {
     id: "sharjah-desert-park-life-v2",
     type: "park",
@@ -94,8 +92,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["2013 Valentin-napján nyitotta meg kapuit.", "Több mint 50 millió nyíló virágot mutat be.", "Egy Airbus A380-as repülőgép virágos másával is büszkélkedhet.", "A forró nyári hónapokban zárva tart."],
       ro: ["A fost deschisă de Ziua Îndrăgostiților în 2013.", "Prezintă peste 50 de milioane de flori înflorite.", "Are o replică florală a unui Airbus A380.", "Este închisă în timpul lunilor fierbinți de vară."],
       en: ["Opened on Valentine's Day in 2013.", "Displays over 50 million blooming flowers.", "Features a floral replica of an Airbus A380.", "Closes during the hot summer months."]
-    }
-  },
+    }, image: "/poi-images/dubai-miracle-garden-life-v2.webp"},
   {
     id: "dubai-butterfly-garden-life-v2",
     type: "park",
@@ -113,8 +110,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Kilenc speciálisan épített kupolából áll.", "Körülbelül 15000 pillangónak ad otthont.", "A hőmérsékletet folyamatosan 24 fokon tartják.", "Közvetlenül a Miracle Garden mellett található."],
       ro: ["Este formată din nouă domuri special construite.", "Găzduiește aproximativ 15000 de fluturi.", "Temperatura este menținută constant la 24 de grade.", "Se află chiar lângă Miracle Garden."],
       en: ["Consists of nine custom-built domes.", "Houses around 15,000 butterflies.", "The temperature is kept constant at 24 degrees Celsius.", "Located right next to the Miracle Garden."]
-    }
-  },
+    }, image: "/poi-images/dubai-butterfly-garden-life-v2.webp"},
   {
     id: "al-noor-island-life-v2",
     type: "park",
@@ -132,8 +128,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Építészetileg díjnyertes lepkekázzal rendelkezik.", "Éjszaka különleges fényinstallációk világítják meg.", "Festői irodalmi pavilon is várja az idelátogatókat.", "Egy fapallós sétány vezet át a buja tájon."],
       ro: ["Are o casă de fluturi premiată arhitectural.", "Este iluminată noaptea prin instalații speciale de lumină.", "Oferă un pavilion literar pitoresc.", "Are o pasarelă din lemn prin peisajul luxuriant."],
       en: ["Features an architecturally award-winning butterfly house.", "Is illuminated at night by special light installations.", "Offers a picturesque literature pavilion.", "Has a wooden walkway through the lush landscape."]
-    }
-  },
+    }, image: "/poi-images/al-noor-island-life-v2.webp"},
   {
     id: "green-planet-dubai-life-v2",
     type: "kid-friendly",
@@ -151,8 +146,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Több mint 3000 növényt és állatot fogad be.", "A világ egyik legnagyobb mesterséges fájával rendelkezik.", "Lajhároknak és tukánoknak is otthont ad.", "Autentikus esőerdei környezetet teremt a város közepén."],
       ro: ["Găzduiește peste 3000 de plante și animale.", "Dispune de unul dintre cei mai mari copaci artificiali din lume.", "Este casa leneșilor și a tucanilor.", "Creează un mediu autentic de pădure tropicală în mijlocul orașului."],
       en: ["Houses over 3,000 plants and animals.", "Features one of the world's largest artificial trees.", "Is home to sloths and toucans.", "Creates an authentic rainforest environment in the middle of the city."]
-    }
-  },
+    }, image: "/poi-images/green-planet-dubai-life-v2.webp"},
   {
     id: "umm-al-emarat-park-life-v2",
     type: "park",
@@ -170,8 +164,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Eredetileg csak nők és gyermekek számára nyitották meg.", "Gyönyörű árnyékházzal rendelkezik a trópusi növények számára.", "Állatsimogató is van benne tevékkel és kecskékkel.", "Magában foglalja a Bölcsesség Kertjét Zájed sejk tiszteletére."],
       ro: ["A fost deschis inițial ca un parc doar pentru femei și copii.", "Are o casă de umbră frumoasă pentru plante tropicale.", "Oferă o mini-grădină zoologică cu cămile și capre.", "Include Grădina Înțelepciunii în onoarea Șeicului Zayed."],
       en: ["Was originally opened as a park exclusively for women and children.", "Features a beautiful Shade House for tropical plants.", "Offers a petting zoo with camels and goats.", "Includes the Wisdom Garden in honor of Sheikh Zayed."]
-    }
-  },
+    }, image: "/poi-images/umm-al-emarat-park-life-v2.webp"},
   {
     id: "zabeel-park-life-v2",
     type: "park",
@@ -189,8 +182,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Ez az EAE első technológia-központú parkja.", "A híres építészeti alkotás, a Dubai Frame otthona.", "Közel 50 futballpályányi területet foglal magában.", "Csónakázási lehetőséget is kínál a mesterséges tavon."],
       ro: ["Este primul parc orientat spre tehnologie din EAU.", "Acasă la faimosul monument arhitectural Dubai Frame.", "Acoperă o zonă de mărimea a aproape 50 de terenuri de fotbal.", "Oferă plimbări cu barca pe lacul artificial."],
       en: ["It is the first technology-driven park in the UAE.", "Home to the famous architectural landmark Dubai Frame.", "Covers an area equal to nearly 50 football pitches.", "Offers boating on its man-made lake."]
-    }
-  },
+    }, image: "/poi-images/zabeel-park-life-v2.webp"},
   {
     id: "al-ain-oasis-life-v2",
     type: "agriculture",
@@ -208,8 +200,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Az ősi faladzs öntözőrendszert használja.", "Több mint 140 000 datolyapálmának ad otthont.", "Ez Al Ain városának legnagyobb oázisa.", "2011-ben nyilvánították UNESCO Világörökségi helyszínné."],
       ro: ["Folosește sistemul antic de irigații Falaj.", "Găzduiește peste 140.000 de curmali.", "Este cea mai mare oază din orașul Al Ain.", "A fost declarată sit al Patrimoniului Mondial UNESCO în 2011."],
       en: ["Uses the ancient Falaj irrigation system.", "Houses over 140,000 date palms.", "It is the largest oasis in the city of Al Ain.", "Was declared a UNESCO World Heritage site in 2011."]
-    }
-  },
+    }, image: "/poi-images/al-ain-oasis-life-v2.webp"},
   {
     id: "hatta-honey-bee-garden-life-v2",
     type: "agriculture",
@@ -227,8 +218,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["A vendégek méhészruhát ölthetnek és megnézhetik a kaptárokat.", "A méhek a Ghaf és a Sidr fák nektárját gyűjtik.", "Célja, hogy felhívja a figyelmet a méhek fontosságára.", "Helyben termelt, tiszta mézet árusítanak."],
       ro: ["Oaspeții pot îmbrăca costume de apicultor și pot vizita stupii.", "Albinele colectează nectar de la arborii Ghaf și Sidr.", "Are ca scop creșterea gradului de conștientizare privind importanța albinelor.", "Vinde miere pură, produsă local."],
       en: ["Guests can put on beekeeper suits and visit the hives.", "The bees collect nectar from the Ghaf and Sidr trees.", "Aims to raise awareness about the importance of bees.", "Sells locally produced, pure honey."]
-    }
-  },
+    }, image: "/poi-images/hatta-honey-bee-garden-life-v2.webp"},
   {
     id: "dubai-crocodile-park-life-v2",
     type: "wildlife-area",
@@ -246,8 +236,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Több mint 250 nílusi krokodil otthona.", "Interaktív krokodilmúzeummal is büszkélkedhet.", "A medencék vize egész évben temperált.", "Különleges víz alatti megfigyelőablakok állnak rendelkezésre."],
       ro: ["Acasă la peste 250 de crocodili de Nil.", "Are un muzeu interactiv dedicat crocodililor.", "Bazinele de apă sunt menținute la temperatură controlată tot anul.", "Există ferestre speciale de observare subacvatică."],
       en: ["Home to more than 250 Nile crocodiles.", "Features an interactive crocodile museum.", "The water basins are temperature-controlled year-round.", "There are special underwater observation windows."]
-    }
-  },
+    }, image: "/poi-images/dubai-crocodile-park-life-v2.webp"},
   {
     id: "sharjah-aquarium-life-v2",
     type: "kid-friendly",
@@ -265,8 +254,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Több mint 100 tengeri élőlényfajt mutat be.", "Felhívja a figyelmet a tengeri szennyezés veszélyeire.", "Víz alatti alagutakkal rendelkezik a látogatók számára.", "A jegy gyakran a közeli Tengerészeti Múzeumba is érvényes."],
       ro: ["Expune peste 100 de specii de viețuitoare marine.", "Promovează conștientizarea privind poluarea marină.", "Are tuneluri subacvatice pentru vizitatori.", "Un bilet include adesea intrarea la Muzeul Maritim din apropiere."],
       en: ["Displays over 100 species of marine life.", "Promotes awareness of marine pollution.", "Features underwater tunnels for visitors.", "A ticket often includes the nearby Maritime Museum."]
-    }
-  },
+    }, image: "/poi-images/sharjah-aquarium-life-v2.webp"},
   {
     id: "national-aquarium-abu-dhabi-life-v2",
     type: "kid-friendly",
@@ -284,8 +272,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Ez a Közel-Kelet legnagyobb akváriuma.", "Tízezernyi tengeri állatnak ad otthont.", "Tengeri teknősök számára mentőközpontot is üzemeltet.", "Üvegfenekű hajótúrákat kínál a látogatóknak."],
       ro: ["Cel mai mare acvariu din Orientul Mijlociu.", "Găzduiește zeci de mii de animale marine.", "Operează un centru de salvare pentru broaștele țestoase marine.", "Oferă plimbări cu bărci cu fund de sticlă vizitatorilor."],
       en: ["The largest aquarium in the Middle East.", "Houses tens of thousands of marine animals.", "Operates a sea turtle rescue center.", "Offers glass-bottom boat rides for visitors."]
-    }
-  },
+    }, image: "/poi-images/national-aquarium-abu-dhabi-life-v2.webp"},
   {
     id: "the-camel-farm-life-v2",
     type: "agriculture",
@@ -303,8 +290,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Lehetőség van tevelovaglásra és etetésre is.", "A látogatók megkóstolhatják a tejejüket.", "Bemutatja a hagyományos sivatagi lakosok életét.", "A farm csirkéknek és kecskéknek is otthont ad."],
       ro: ["Puteți încerca călăria pe cămile și hrănirea lor.", "Vizitatorii pot gusta lapte de cămilă.", "Arată viața tradițională a locuitorilor deșertului.", "Ferma găzduiește și găini, și capre."],
       en: ["You can try camel riding and feeding.", "Visitors can taste camel milk.", "Showcases the life of traditional desert dwellers.", "The farm also houses chickens and goats."]
-    }
-  },
+    }, image: "/poi-images/the-camel-farm-life-v2.webp"},
   {
     id: "arabian-wildlife-park-life-v2",
     type: "wildlife-area",
@@ -322,8 +308,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["A Sir Bani Yas sziget több mint felét elfoglalja.", "Az arab bejza egyik legnagyobb csordájának ad otthont.", "Gepárdokat és hiénákat is visszatelepítettek ide.", "Vezetett terepjárós szafari túrákat kínál."],
       ro: ["Ocupă mai mult de jumătate din insula Sir Bani Yas.", "Găzduiește una dintre cele mai mari turme de oryx arab.", "Gheparzii și hienele au fost reintroduse aici.", "Oferă tururi ghidate de safari în vehicule de teren."],
       en: ["Takes up more than half of Sir Bani Yas Island.", "Houses one of the largest herds of Arabian Oryx.", "Cheetahs and hyenas have been reintroduced here.", "Offers guided safari tours in off-road vehicles."]
-    }
-  },
+    }, image: "/poi-images/arabian-wildlife-park-life-v2.webp"},
   {
     id: "rumailah-farm-life-v2",
     type: "agriculture",
@@ -341,8 +326,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Friss tej és fagylalt gyártásáról ismert.", "A látogatók vezetett farmtúrákon vehetnek részt.", "Skóciából származó Jersey fajtájú teheneket tenyészt.", "Népszerű kirándulóhely Fudzsejrában."],
       ro: ["Renumită pentru producția de lapte proaspăt și înghețată.", "Puteți participa la tururi ghidate ale fermei.", "Crește vaci din rasa Jersey aduse din Scoția.", "O destinație populară de excursie în Fujairah."],
       en: ["Known for producing fresh milk and ice cream.", "You can participate in guided farm tours.", "Breeds Jersey cows brought from Scotland.", "A popular excursion destination in Fujairah."]
-    }
-  },
+    }, image: "/poi-images/rumailah-farm-life-v2.webp"},
   {
     id: "al-montazah-parks-life-v2",
     type: "park",
@@ -360,8 +344,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       hu: ["Sardzsa egyik legrégebbi szabadidős területének számít.", "Teljesen felújították és új tematikát kapott.", "A Khalid-lagúna egyik szigetén fekszik.", "Vidámparki játékokat és hangulatos piknikezőhelyeket kínál."],
       ro: ["Este considerată una dintre cele mai vechi zone de agrement din Sharjah.", "A fost complet renovată și re-tematizată.", "Este situată pe o insulă în Laguna Khalid.", "Oferă atracții de parc de distracții și zone de picnic confortabile."],
       en: ["Considered one of the oldest recreational areas in Sharjah.", "Was completely renovated and re-themed.", "Located on an island in the Khalid Lagoon.", "Offers amusement rides and cozy picnic areas."]
-    }
-  },
+    }, image: "/poi-images/al-montazah-parks-life-v2.webp"},
   {
     id: "quranic-park-dubai-life-v2",
     type: "park",

@@ -1,0 +1,65 @@
+{
+  "lang": "ro",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bujumbura-cities-v2",
+      "description": "Bujumbura este principalul centru urban și economic al Burundiului, așezat pe malul lacului Tanganyika. Orașul combină rolul portuar cu cel comercial și administrativ.",
+      "facts": ["pe lacul Tanganyika", "fostă capitală", "cel mai mare oraș"]
+    },
+    {
+      "id": "gitega-cities-v2",
+      "description": "Gitega este capitala politică a Burundiului și un centru important pentru administrație și cultură. Orașul se află în zona de podiș central, cu un ritm mai liniștit decât Bujumbura.",
+      "facts": ["capitală politică", "podiș central", "centru cultural"]
+    },
+    {
+      "id": "muyinga-cities-v2",
+      "description": "Muyinga este un oraș din nord-estul Burundiului, cunoscut pentru rolul său regional în comerț și agricultură. Zona din jur susține piețele locale și aprovizionarea provinciei.",
+      "facts": ["nord-estul țării", "piață regională", "capitală de provincie"]
+    },
+    {
+      "id": "ngozi-cities-v2",
+      "description": "Ngozi este unul dintre centrele importante din nordul Burundiului, cu un profil puternic agricol și educațional. Orașul deservește o regiune fertilă, legată mai ales de cultura cafelei.",
+      "facts": ["nordul Burundiului", "educație", "cafea"]
+    },
+    {
+      "id": "rumonge-cities-v2",
+      "description": "Rumonge se află pe malul lacului Tanganyika și are o legătură strânsă cu pescuitul și comerțul. Poziția sa de coastă îl transformă într-un punct activ în sudul țării.",
+      "facts": ["malul Tanganyikăi", "pescuit", "oraș portuar"]
+    },
+    {
+      "id": "kayanza-cities-v2",
+      "description": "Kayanza este un oraș din nordul înalt al Burundiului, puternic legat de ceai și cafea. În jurul lui se adună producția agricolă și schimburile locale ale regiunii.",
+      "facts": ["podiș înalt", "ceai", "cafea"]
+    },
+    {
+      "id": "bururi-cities-v2",
+      "description": "Bururi este un oraș din sudul Burundiului, situat într-o zonă mai răcoroasă de dealuri. Împrejurimile sale sunt marcate de agricultură și peisaje naturale.",
+      "facts": ["sudul țării", "zonă deluroasă", "climat mai răcoros"]
+    },
+    {
+      "id": "rutana-cities-v2",
+      "description": "Rutana este un oraș din sud-estul Burundiului, înconjurat de relief colinar și terenuri agricole. Viața locală este strâns legată de munca micilor fermieri.",
+      "facts": ["sud-estul țării", "relief colinar", "agricultură locală"]
+    },
+    {
+      "id": "muramvya-cities-v2",
+      "description": "Muramvya este un oraș cu o puternică încărcătură istorică în centrul-vestic al Burundiului. A fost mult timp asociat cu reședința regală și cu tradițiile monarhice.",
+      "facts": ["centru-vest", "reședință regală", "istorie monarhică"]
+    },
+    {
+      "id": "makamba-cities-v2",
+      "description": "Makamba se află în sudul extrem al Burundiului, aproape de granița cu Tanzania. Orașul are un rol administrativ și comercial important pentru zona de frontieră.",
+      "facts": ["aproape de Tanzania", "sudul extrem", "centru administrativ"]
+    }
+  ]
+}

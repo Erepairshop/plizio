@@ -35,8 +35,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A monumentális építmény teljes magassága eléri a 45 métert.", "A tornyot ünnepélyes keretek között 1971. október 16-án adták át.", "Homlokzatának burkolásához pontosan 8000 fehér márványtömböt hoztak Iszfahánból.", "A torony alapját egy hatalmas, mintegy 50 000 négyzetméteres tér alkotja.", "A projektet egy mindössze 24 éves építészhallgató, Hossein Amanat tervezte.", "Az alagsorban egy kiterjedt kultúrtörténeti múzeum kapott helyet.", "Eredeti neve Shahyad-torony volt, ami a királyok emlékművét jelentette."],
       ro: ["Structura monumentală atinge o înălțime totală de 45 de metri.", "Turnul a fost inaugurat oficial pe data de 16 octombrie 1971.", "Pentru fațadă s-au folosit exact 8.000 de blocuri de marmură albă din Isfahan.", "Baza turnului formează o piață imensă cu o suprafață de 50.000 de metri pătrați.", "Proiectul a fost conceput de studentul la arhitectură Hossein Amanat.", "La subsolul clădirii se găsește un extins muzeu de istorie culturală.", "Numele său original a fost Turnul Shahyad, semnificând monumentul regilor."],
       en: []
-    }
-  },
+    }, image: "/poi-images/azadi-tower-landmarks-v2.webp"},
   {
     id: "milad-tower-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A torony magassága a beépített antennával együtt eléri a 435 métert.", "A létesítmény ünnepélyes megnyitójára 2008-ban került sor.", "A magasban található toronyfej összesen 12 különálló emeletből áll.", "A panorámás forgó étterem lenyűgöző, 276 méteres magasságban üzemel.", "A csúcstechnológiás liftek 7 m/s sebességgel szállítják az utasokat.", "A torony tetején elhelyezett antenna önmagában 120 méter hosszú.", "Az építkezés 1997-ben indult és több mint tíz évig tartott."],
       ro: ["Înălțimea totală a turnului, inclusiv antena, atinge 435 de metri.", "Inaugurarea oficială a facilității a avut loc în anul 2008.", "Capul turnului este alcătuit în total din 12 etaje distincte.", "Restaurantul panoramic rotativ funcționează la o înălțime de 276 de metri.", "Lifturile avansate tehnologic urcă cu o viteză de șapte metri pe secundă.", "Doar antena montată în vârful structurii măsoară 120 de metri în lungime.", "Lucrările de construcție au început în anul 1997."],
       en: []
-    }
-  },
+    }, image: "/poi-images/milad-tower-landmarks-v2.webp"},
   {
     id: "khaju-bridge-landmarks-v2",
     type: "landmark",
@@ -107,8 +105,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A hidat 1650-ben fejezték be II. Abbász sah uralkodása alatt.", "A kőépítmény teljes hossza 133 méter, szélessége pedig 12 méter.", "Az alsó szinten összesen 24 elegánsan formázott kőív található.", "A híd a város legfontosabb folyóját, a Zájande-rudot íveli át.", "A középső részen egy különleges királyi pavilon kapott helyet.", "Nemcsak közlekedésre használták, hanem működő gátként is funkcionált.", "A zsiliprendszer segítségével szabályozták a környező területek öntözését."],
       ro: ["Podul a fost finalizat în anul 1650 în timpul domniei șahului Abbas al II-lea.", "Structura de piatră are o lungime totală de 133 de metri și o lățime de 12 metri.", "Există un număr de 24 de arcade de piatră frumos proporționate la nivelul inferior.", "Podul traversează râul Zayandeh Rud, cel mai important râu al orașului.", "În secțiunea centrală a fost construit un pavilion regal special pentru relaxare.", "Construcția nu a fost folosită doar pentru trafic, ci a funcționat și ca baraj.", "Sistemul de ecluze a reglat irigarea zonelor agricole din împrejurimi."],
       en: []
-    }
-  },
+    }, image: "/poi-images/khaju-bridge-landmarks-v2.webp"},
   {
     id: "si-o-se-pol-landmarks-v2",
     type: "landmark",
@@ -143,8 +140,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A Si-o-se-pol név pontos jelentése 'a 33 ív hídja'.", "A lenyűgöző híd építése 1599 és 1602 között zajlott.", "Az építmény teljes hossza eléri a tekintélyes 298 métert.", "A híd szélessége közel 14 méter, ami kényelmes áthaladást biztosít.", "Az építkezést a neves hadvezér, Allahverdi kán felügyelte.", "Közvetlen kapcsolatot teremt a történelmi Csahar Bag sétánnyal.", "Fő építőanyagai a jellegzetes sárga téglák és a speciális habarcs."],
       ro: ["Numele Si-o-se-pol se traduce exact prin expresia \"podul cu 33 de arcade\".", "Impresionantul pod a fost construit între anii 1599 și 1602.", "Structura are o lungime remarcabilă de 298 de metri.", "Lățimea podului este de aproape 14 metri, asigurând o trecere confortabilă.", "Construcția a fost supravegheată de cunoscutul comandant Allahverdi Khan.", "Stabilește o legătură directă cu istoricul bulevard umbrit Chahar Bagh.", "Materialele principale sunt cărămizile galbene specifice și un mortar special."],
       en: []
-    }
-  },
+    }, image: "/poi-images/si-o-se-pol-landmarks-v2.webp"},
   {
     id: "nasir-al-mulk-mosque-landmarks-v2",
     type: "tourist-attraction",
@@ -179,8 +175,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A mecset építési munkálatai 1876-tól egészen 1888-ig tartottak.", "Az építkezést Mirza Haszan Ali kádzsár elöljáró rendelte el.", "A nyugati csarnokban különleges, kézzel készült ólomüveg ablakok találhatók.", "A rózsaszínes csempék miatt kapta a 'Rózsaszín mecset' becenevet.", "A belső udvaron egy 24 méter hosszú téglalap alakú medence fekszik.", "A belső tér boltozatait csavart kőoszlopok sora támasztja alá.", "A lenyűgöző dizájn Mohammad Haszan-e-Memar építész munkáját dicséri."],
       ro: ["Lucrările de construcție ale moscheii au durat din anul 1876 până în 1888.", "Proiectul a fost comandat de oficialul qajar Mirza Hasan Ali.", "Sala de vest prezintă vitralii uimitoare realizate manual cu mare finețe.", "Plăcile rozalii folosite la decorare i-au adus porecla de \"Moscheea Roz\".", "Curtea interioară dispune de un bazin dreptunghiular cu o lungime de 24 de metri.", "Bolțile spațiului interior sunt susținute de un șir de stâlpi din piatră răsuciți.", "Designul uluitor a fost realizat de arhitectul iscusit Mohammad Hasan-e-Memar."],
       en: []
-    }
-  },
+    }, image: "/poi-images/nasir-al-mulk-mosque-landmarks-v2.webp"},
   {
     id: "eram-garden-landmarks-v2",
     type: "tourist-attraction",
@@ -215,8 +210,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A kert mai, pompás szerkezete a 19. századi kádzsár uralom alatt alakult ki.", "A központi királyi pavilon három szinten terül el a kert szívében.", "Az UNESCO 2011-ben a perzsa kertek részeként világörökséggé nyilvánította.", "A vízellátást a hagyományos és mérnökileg zseniális qanat-technika biztosítja.", "A kertben található egy híres, több mint 35 méter magas sirázi ciprusfa.", "A botanikai komplexum ma a Sirázi Egyetem felügyelete alá tartozik.", "A palota csempéin Háfiz és Szádi költeményeiből vett jelenetek láthatók."],
       ro: ["Structura actuală și grandioasă a grădinii s-a format sub stăpânirea Qajar.", "Pavilionul regal central se întinde pe trei etaje în inima complexului verde.", "În anul 2011, a fost inclusă în Patrimoniul Mondial UNESCO al grădinilor persane.", "Alimentarea cu apă este asigurată de tehnica tradițională și ingenioasă qanat.", "În grădină crește un faimos chiparos de Shiraz, înalt de peste 35 de metri.", "Complexul botanic aparține în prezent jurisdicției Universității din Shiraz.", "Plăcile palatului ilustrează scene preluate din poeziile lui Hafez și Saadi."],
       en: []
-    }
-  },
+    }, image: "/poi-images/eram-garden-landmarks-v2.webp"},
   {
     id: "vank-cathedral-landmarks-v2",
     type: "tourist-attraction",
@@ -251,8 +245,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["Az első kisebb templom építési munkálatai már 1606-ban elkezdődtek.", "A nagyszabású kibővítés és átépítés 1655 és 1664 között zajlott.", "A székesegyházat I. Abbász sah engedélyével és támogatásával emelték.", "Az épület az iszfaháni örmények által lakott Új-Dzsolfa negyedben található.", "A belső teret borító freskók bibliai jeleneteket és keresztény mártírokat ábrázolnak.", "Az udvaron helyezték üzembe 1636-ban Irán legelső nyomdagépét.", "A kapcsolódó múzeum több mint 700 történelmi örmény kéziratot őriz."],
       ro: ["Construcția primei biserici mici a început încă din anul 1606.", "Extinderea și reconstrucția la scară largă au avut loc între anii 1655 și 1664.", "Catedrala a fost ridicată cu permisiunea și sprijinul șahului Abbas I.", "Clădirea se află în cartierul Noua Jolfa, locuit istoric de armenii din Isfahan.", "Frescele care acoperă interiorul descriu scene biblice și martiri creștini.", "În curte a fost pusă în funcțiune prima tiparniță din Iran în anul 1636.", "Muzeul adiacent conservă peste 700 de manuscrise armenești istorice."],
       en: []
-    }
-  },
+    }, image: "/poi-images/vank-cathedral-landmarks-v2.webp"},
   {
     id: "ali-qapu-palace-landmarks-v2",
     type: "landmark",
@@ -287,8 +280,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A palota monumentális épülete eléri a 38 méteres magasságot.", "A belső tér hat építészetileg egyedülálló, díszített emeletre oszlik.", "A királyi verandát pontosan 18 darab masszív faoszlop támasztja alá.", "Az építkezés a 16. század végén kezdődött I. Abbász sah parancsára.", "A hatodik emeleten kapott helyet a híres és egyedi akusztikájú zeneterem.", "Innen figyelték az uralkodók a főtéren rendezett lovaspóló meccseket.", "A belső falakat Reza Abbasi udvari festő aprólékos freskói díszítik."],
       ro: ["Clădirea monumentală a palatului atinge o înălțime de 38 de metri.", "Interiorul este împărțit în șase etaje decorate, unice din punct de vedere arhitectural.", "Veranda regală este susținută de exact 18 stâlpi masivi din lemn sculptat.", "Construcția a început la sfârșitul secolului al XVI-lea la ordinul șahului Abbas I.", "La etajul al șaselea se află sala de muzică cu o acustică faimoasă și unică.", "De aici, conducătorii urmăreau competițiile de polo organizate în piața principală.", "Pereții interiori sunt decorați cu fresce meticuloase ale pictorului de curte Reza Abbasi."],
       en: []
-    }
-  },
+    }, image: "/poi-images/ali-qapu-palace-landmarks-v2.webp"},
   {
     id: "chehel-sotoun-landmarks-v2",
     type: "tourist-attraction",
@@ -323,8 +315,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A palota építési munkálatait 1647-ben fejezték be véglegesen.", "A megrendelő a szafavida uralkodó, II. Abbász sah volt.", "A pavilon 20 faoszloppal rendelkezik, amelyek a vízben tükröződnek.", "Az épület előtt húzódó díszes vízmedence pontosan 110 méter hosszú.", "Egy 1706-os pusztító tűzvész súlyos károkat okozott a palota szerkezetében.", "A belső freskók többek között a történelmi csáldiráni csatát is megörökítik.", "A környező kertet 2011-ben hivatalosan is UNESCO világörökséggé nyilvánították."],
       ro: ["Lucrările de construcție a palatului au fost finalizate în anul 1647.", "Clientul a fost conducătorul dinastiei safavide, șahul Abbas al II-lea.", "Pavilionul are 20 de stâlpi de lemn care se reflectă complet în apă.", "Bazinul de apă decorativ care se întinde în fața clădirii are fix 110 metri lungime.", "Un incendiu devastator în 1706 a provocat daune grave structurii palatului.", "Frescele interioare comemorează, printre altele, istorica Bătălie de la Chaldiran.", "Grădina înconjurătoare a fost declarată oficial Patrimoniu Mondial UNESCO în 2011."],
       en: []
-    }
-  },
+    }, image: "/poi-images/chehel-sotoun-landmarks-v2.webp"},
   {
     id: "tabiat-bridge-landmarks-v2",
     type: "landmark",
@@ -359,8 +350,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A hidat 2014 októberében nyitották meg hivatalosan a forgalom előtt.", "Teljes hossza 270 méter, amellyel átível a Modarres autópálya felett.", "A tervet az akkor mindössze 26 éves építész, Leila Araghian készítette.", "A szerkezet három különböző gyalogos szintre van felosztva.", "Az építkezés során több mint 2000 tonna masszív acélt használtak fel.", "Közvetlen kapcsolatot biztosít a Taleghani és az Abo-Atas parkok között.", "Az egész híd három hatalmas, fára emlékeztető tartópilléren nyugszik."],
       ro: ["Podul a fost deschis oficial traficului public în luna octombrie a anului 2014.", "Lungimea sa totală este de 270 de metri, trecând peste autostrada Modarres.", "Proiectul a fost creat de arhitecta Leila Araghian, având atunci doar 26 de ani.", "Structura este împărțită pe trei niveluri pietonale complet diferite.", "La construcție au fost utilizate peste 2.000 de tone de oțel solid.", "Oferă o conexiune directă între marile parcuri din oraș, Taleghani și Abo-Atash.", "Întregul pod se sprijină pe trei stâlpi de susținere uriași, asemănători copacilor."],
       en: []
-    }
-  },
+    }, image: "/poi-images/tabiat-bridge-landmarks-v2.webp"},
   {
     id: "hafez-tomb-landmarks-v2",
     type: "monument",
@@ -395,8 +385,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A neves perzsa költő, Háfiz 1390-ben hunyt el Siráz városában.", "A napjainkban is látható modern pavilon 1935-ben épült fel.", "A síremlék dizájnját André Godard francia építész álmodta meg.", "A pavilon lenyűgöző kupolája pontosan nyolc masszív kőoszlopon nyugszik.", "A vörösréz kupola alsó részét bonyolult csempemozaikok borítják.", "A komplexum a történelmi jelentőségű Muszalla kertekben helyezkedik el.", "Az alabástrom szarkofágon Háfiz saját műveiből vett idézetek olvashatók."],
       ro: ["Renumitul poet persan Hafez a murit în anul 1390 în orașul Shiraz.", "Pavilionul modern, vizibil și astăzi, a fost construit în anul 1935.", "Designul mormântului a fost visat de arhitectul francez André Godard.", "Cupola uimitoare a pavilionului se sprijină pe exact opt stâlpi masivi de piatră.", "Partea inferioară a cupolei de cupru este acoperită cu mozaicuri de faianță complexe.", "Complexul este situat în Grădinile Musalla, care au o importanță istorică majoră.", "Pe sarcofagul de alabastru se pot citi citate prelevate din propriile lucrări ale lui Hafez."],
       en: []
-    }
-  },
+    }, image: "/poi-images/hafez-tomb-landmarks-v2.webp"},
   {
     id: "saadi-tomb-landmarks-v2",
     type: "monument",
@@ -431,8 +420,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["Szádi, a neves költő a 13. században élt és alkotta meg mesterműveit.", "A modern mauzóleum építése 1950-től 1952-ig tartott.", "A terveket az akkori idők elismert iráni építésze, Mohszen Foroughi készítette.", "A szarkofágot rejtő főterem szabályos nyolcszögletű alaprajzzal rendelkezik.", "A pihenőhely felett egy feltűnő, ragyogó türkizkék kupola magasodik.", "A komplexum alagsorában egy természetes, tiszta vizű forrás csörgedezik.", "A kék csempékkel díszített falakon Szádi legismertebb versei olvashatók."],
       ro: ["Saadi, renumitul poet, a trăit și și-a creat capodoperele în secolul al XIII-lea.", "Construcția mausoleului modern a durat din anul 1950 până în anul 1952.", "Planurile au fost întocmite de Mohsen Foroughi, arhitect iranian apreciat al vremii.", "Sala principală care ascunde sarcofagul are o formă de octogon regulat.", "O cupolă izbitoare, strălucitoare, de culoare turcoaz, se ridică deasupra locului de odihnă.", "Un izvor cu apă naturală, cristalină, curge prin subsolul complexului.", "Poeziile celebre ale lui Saadi pot fi citite pe pereții decorați cu faianță albastră."],
       en: []
-    }
-  },
+    }, image: "/poi-images/saadi-tomb-landmarks-v2.webp"},
   {
     id: "dowlat-abad-garden-landmarks-v2",
     type: "tourist-attraction",
@@ -467,8 +455,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A kertkomplexum építése 1750 körül fejeződött be Jazd városában.", "Az építkezést Mohammad Tagi Hán Bafgi helyi uralkodó rendelte el.", "A széltorony eléri a világrekordnak számító 33,8 méteres magasságot.", "A kert lenyűgöző, mintegy 70 000 négyzetméteres területen fekszik.", "Egyike annak a kilenc perzsa kertnek, amely 2011-ben UNESCO világörökség lett.", "A létesítmény vízellátását egy 65 kilométer hosszú qanat-rendszer biztosítja.", "A hűtőrendszer működése a párolgási hűtés fizikai elvén alapul."],
       ro: ["Construcția complexului de grădini a fost finalizată în jurul anului 1750 în orașul Yazd.", "Construcția a fost comandată de domnitorul local Mohammad Taghi Khan Bafghi.", "Turnul de vânt atinge înălțimea record mondial de 33,8 metri.", "Grădina este așezată pe o suprafață impresionantă de aproximativ 70.000 de metri pătrați.", "A devenit sit al Patrimoniului Mondial UNESCO ca parte a celor nouă grădini persane.", "Aprovizionarea cu apă a instalației este asigurată de un sistem qanat de 65 de kilometri.", "Sistemul de răcire inovator funcționează pe principiul fizic al răcirii prin evaporare."],
       en: []
-    }
-  },
+    }, image: "/poi-images/dowlat-abad-garden-landmarks-v2.webp"},
   {
     id: "amir-chakhmaq-complex-landmarks-v2",
     type: "landmark",
@@ -503,8 +490,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A komplexum a 15. századból, a timurida korszakból származik.", "A feltűnő Tekijeh-homlokzat pontosan három emelet magas.", "Dzsalál ad-Dín Amir Csakmak és felesége, Szeti Fatemeh alapította.", "A téren álló hatalmas fa nakhl-szerkezet súlya több tonnát nyom.", "A tér a síita Asúra-szertartások egyik legfontosabb központja.", "Történelmileg egy mecsetet és egy nyilvános fürdőt is magába foglalt.", "A téglaépítészet tökéletesen tükrözi Jazd sivatagi városának stílusát."],
       ro: ["Complexul istoric datează din secolul al XV-lea, din epoca glorioasă timuridă.", "Fațada remarcabilă a structurii Tekkiyeh are exact trei etaje înălțime.", "A fost fondat de conducătorul Jalal ad-Din Amir Chakhmaq și soția sa, Seti Fatemeh.", "Structura uriașă de lemn (nakhl) aflată în piață cântărește mai multe tone.", "Piața servește ca unul dintre cele mai importante centre ale ritualurilor șiite Ashura.", "De-a lungul istoriei, a încorporat, de asemenea, o moschee și o baie publică tradițională.", "Arhitectura rafinată din cărămidă reflectă perfect stilul orașului deșertic Yazd."],
       en: []
-    }
-  },
+    }, image: "/poi-images/amir-chakhmaq-complex-landmarks-v2.webp"},
   {
     id: "imam-reza-shrine-landmarks-v2",
     type: "landmark",
@@ -539,8 +525,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["Ali ar-Rida imám 818-ban hunyt el, és ezen a szent helyen temették el.", "A komplexum elképesztő, közel 600 000 négyzetméteres teljes területtel rendelkezik.", "Évente megközelítőleg 25 millió zarándok látogat el a szentélybe.", "A sírhely felett emelkedő hatalmas aranykupola a létesítmény fő jelképe.", "Az impozáns Goharshad-mecsetet 1418-ban integrálták a komplexumba.", "A szentély könyvtára több tízezer felbecsülhetetlen történelmi kéziratot őriz.", "A területen összesen hét masszív, pompásan díszített belső udvar található."],
       ro: ["Imamul Ali ar-Rida a decedat în 818 și a fost înmormântat în acest loc sfânt.", "Complexul are o suprafață totală absolut impresionantă de aproape 600.000 de metri pătrați.", "Aproximativ 25 de milioane de pelerini vizitează sanctuarul în fiecare an calendaristic.", "Cupola uriașă de aur care se ridică deasupra mormântului este simbolul principal.", "Impozanta Moschee Goharshad a fost integrată grandios în complex în anul 1418.", "Biblioteca sanctuarului păstrează zeci de mii de manuscrise istorice neprețuite.", "În incintă există un număr de șapte curți interioare masive, bogat decorate."],
       en: []
-    }
-  },
+    }, image: "/poi-images/imam-reza-shrine-landmarks-v2.webp"},
   {
     id: "shah-cheragh-landmarks-v2",
     type: "landmark",
@@ -575,8 +560,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A mauzóleum a 9. században élt Ahmad és Mohammad testvérek emlékét őrzi.", "Az első kupolás épületet a 14. században emelték a sírok fölé.", "A lenyűgöző tükörmozaikok túlnyomó része a 19. századból származik.", "A Sah Cserag elnevezés magyarra fordítva 'A fény királyát' jelenti.", "Az Imám Reza-szentély után ez Irán második legfontosabb zarándokhelye.", "A központi fő kupolát rendkívül bonyolult mintázatú kék csempék borítják.", "A bejárat hatalmas ezüstajtói az iráni kézművesség valódi mesterművei."],
       ro: ["Mausoleul păstrează memoria fraților Ahmad și Muhammad, care au trăit în secolul al IX-lea.", "Prima clădire masivă cu cupolă a fost ridicată peste morminte în secolul al XIV-lea.", "Cea mai mare parte a mozaicurilor de oglinzi fascinante datează din secolul al XIX-lea.", "Numele Shah Cheragh tradus în limba română înseamnă clar \"Regele Luminii\".", "După sanctuarul Imamului Reza, acesta este al doilea cel mai important loc de pelerinaj.", "Cupola principală centrală este acoperită cu faianță albastră cu modele deosebit de complexe.", "Ușile uriașe din argint de la intrare sunt capodopere autentice ale măiestriei iraniene."],
       en: []
-    }
-  },
+    }, image: "/poi-images/shah-cheragh-landmarks-v2.webp"},
   {
     id: "vakil-bazaar-landmarks-v2",
     type: "tourist-attraction",
@@ -647,8 +631,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A palotakomplexum egy mintegy 11 hektáros területen helyezkedik el.", "A Pahlavi-család modern főpalotájának építése 1968-ban fejeződött be.", "A főpalota alumíniumteteje hidraulikusan, gombnyomásra nyitható volt.", "A területet eredetileg a kádzsárok használták nyári menedékként.", "A történelmi jelentőségű Ahmad Sah-pavilon szintén a birtokon áll.", "A palota könyvtára több mint 23 000 ritka könyvet és kötetet tartalmaz.", "Az 1979-es iszlám forradalom után az egész komplexumot múzeummá alakították."],
       ro: ["Complexul palatului este situat pe o suprafață vastă de aproximativ 11 hectare.", "Construcția palatului principal modern al familiei Pahlavi a fost finalizată în 1968.", "Acoperișul din aluminiu al palatului putea fi deschis hidraulic, la o singură apăsare de buton.", "Terenul a fost folosit inițial de monarhii Qajar ca un sanctuar liniștit de vară.", "Pavilionul Ahmad Shah, de o importanță istorică deosebită, se află pe moșie.", "Biblioteca regală a palatului conține peste 23.000 de cărți și volume foarte rare.", "După Revoluția Islamică din anul 1979, întregul complex a fost transformat în muzeu."],
       en: []
-    }
-  },
+    }, image: "/poi-images/niavaran-complex-landmarks-v2.webp"},
   {
     id: "sadabad-complex-landmarks-v2",
     type: "tourist-attraction",
@@ -683,8 +666,7 @@ export const poiExtraIranLandmarksV2: POI[] = [
       hu: ["A gigantikus palotaterület több mint 110 hektáron terül el.", "A komplexumban összesen 18 különböző palota és melléképület található.", "A Fehér Palotát az 1930-as években építették Reza sah számára.", "A Zöld Palotát teljes egészében különleges zöld márványlapok borítják.", "A birtok az Elburz-hegység hűvösebb, erdős lejtőin helyezkedik el.", "Ma a létesítmény különféle katonai és művészeti múzeumoknak ad otthont.", "A királyi kertek története egészen a 19. századig vezethető vissza."],
       ro: ["Zona gigantică a palatului regal se întinde pe o suprafață de peste 110 hectare.", "Complexul include un număr total de 18 palate diferite și clădiri anexe rafinate.", "Palatul Alb a fost construit în cursul anilor 1930, destinat șahului Reza Pahlavi.", "Palatul Verde este complet acoperit cu plăci uimitoare de marmură verde extrem de rară.", "Proprietatea este situată pe pantele mult mai răcoroase și împădurite ale Munților Elburz.", "Astăzi, facilitatea adăpostește o varietate de muzee cu specific militar și artistic.", "Istoria grădinilor regale datează încă din secolul al XIX-lea, în plină epocă Qajar."],
       en: []
-    }
-  },
+    }, image: "/poi-images/sadabad-complex-landmarks-v2.webp"},
   {
     id: "vakil-mosque-landmarks-v2",
     type: "tourist-attraction",

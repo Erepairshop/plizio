@@ -1,0 +1,112 @@
+{
+  "lang": "de",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "orosi-church-history-v2",
+      "description": "Eine der ältesten noch genutzten Kirchen in Costa Rica, erbaut 1743 im Kolonialstil. Sie beherbergt ein kleines Museum für religiöse Kunst.",
+      "facts": [
+        "Erbaut 1743",
+        "Koloniale Architektur",
+        "Franziskaner-Mission",
+        "Nationalmonument seit 1920"
+      ]
+    },
+    {
+      "id": "finca-6-spheres-history-v2",
+      "description": "Ein archäologischer Park, der die mysteriösen präkolumbianischen Steinkugeln von Costa Rica zeigt. Ein UNESCO-Weltkulturerbe.",
+      "facts": [
+        "UNESCO-Weltkulturerbe",
+        "Über 300 Kugeln bekannt",
+        "Aus Granodiorit gefertigt",
+        "Diquís-Kultur"
+      ]
+    },
+    {
+      "id": "la-casona-santa-rosa-history-v2",
+      "description": "Das historische Hauptgebäude der Hacienda Santa Rosa, Schauplatz der Schlacht von 1856. Es wurde nach einem Brand wieder aufgebaut.",
+      "facts": [
+        "Historisches Bauernhaus",
+        "Zentraler Ort der Schlacht",
+        "Mehrmals wiederaufgebaut",
+        "Museum vor Ort"
+      ]
+    },
+    {
+      "id": "las-animas-cross-history-v2",
+      "description": "Ein großes Kreuz in der Nähe von Cartago, das an die Opfer eines Vulkanausbruchs oder einer Epidemie im 19. Jahrhundert erinnert.",
+      "facts": [
+        "Erinnerungskreuz",
+        "Opfer von Naturkatastrophen",
+        "Aussichtspunkt",
+        "Religiöse Bedeutung"
+      ]
+    },
+    {
+      "id": "la-palma-railway-history-v2",
+      "description": "Überreste der alten 'Dschungelbahn' zur Atlantikküste, die für den Bananenexport von entscheidender Bedeutung war.",
+      "facts": [
+        "Historische Eisenbahnlinie",
+        "Bananenexport",
+        "Erbaut im 19. Jahrhundert",
+        "Heute teilweise Wanderweg"
+      ]
+    },
+    {
+      "id": "san-vicente-de-moravia-church-history-v2",
+      "description": "Eine beeindruckende neugotische Metallkirche, die vollständig in Belgien hergestellt und nach Costa Rica verschifft wurde.",
+      "facts": [
+        "Vollständig aus Metall",
+        "In Belgien hergestellt",
+        "Neugotischer Stil",
+        "Erbaut 1891"
+      ]
+    },
+    {
+      "id": "nicoya-church-history-v2",
+      "description": "Die Kirche San Blas in Nicoya ist eine der ältesten Kirchen Costa Ricas, erbaut 1644, und ein Zeugnis der frühen Kolonialisierung.",
+      "facts": [
+        "Erbaut 1644",
+        "Überlebte mehrere Erdbeben",
+        "Kleines historisches Museum",
+        "Im Herzen der Halbinsel Nicoya"
+      ]
+    },
+    {
+      "id": "atlantico-railway-station-history-v2",
+      "description": "Ein historischer Bahnhof in San José, der Endpunkt der alten 'Dschungelbahn'. Heute beherbergt er das Eisenbahnmuseum.",
+      "facts": [
+        "Erbaut 1908",
+        "Endpunkt der Atlantikbahn",
+        "Architektonisches Erbe",
+        "Heute Eisenbahnmuseum"
+      ]
+    },
+    {
+      "id": "ceibo-tree-of-la-paz-history-v2",
+      "description": "Ein riesiger und uralter Kapokbaum, der als heiliger Ort für indigene Gemeinschaften und als historischer Treffpunkt diente.",
+      "facts": [
+        "Uralter Baum",
+        "Heiliger Ort der Indigenen",
+        "Historischer Treffpunkt",
+        "Symbol für Stärke"
+      ]
+    },
+    {
+      "id": "national-archives-history-v2",
+      "description": "Das Gebäude, das die wichtigsten historischen Dokumente des Landes beherbergt. Ein Ort von großer Bedeutung für die nationale Identität.",
+      "facts": [
+        "Aufbewahrung der Landesgeschichte",
+        "Gegründet 1881",
+        "Wichtige Quelle für Forscher",
+        "Historisches Gebäude"
+      ]
+    }
+  ]
+}

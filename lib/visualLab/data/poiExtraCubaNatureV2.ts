@@ -196,13 +196,13 @@ export const poiExtraCubaNatureV2: POI[] = [
     name: { de: "Río Yumurí", hu: "Yumurí-folyó", ro: "Râul Yumurí", en: "Yumurí River" },
     description: {
       de: "Ein Fluss im Osten Kubas, der einen spektakulären Canyon durch die Berge gegraben hat.",
-      hu: "Folyó Kelet-Kubában, amely egy látványos kanyont vájt a hegyekbe.",
+      hu: "A Yumurí folyó Matanzas egyik ismert természeti vize, a környék látképének része.",
       ro: "Un râu în estul Cubei care a săpat un canion spectaculos prin munți.",
       en: "A river in eastern Cuba that has carved a spectacular canyon through the mountains."
     },
     facts: {
       de: ["Berühmt für den Yumurí-Canyon", "Malerische Landschaft", "Mündet in der Nähe von Baracoa ins Meer"],
-      hu: ["Híres a Yumurí-kanyonról", "Festői táj", "Baracoa közelében ömlik a tengerbe"],
+      hu: ["Matanzas tartomány", "Természeti folyó", "Scénikus völgyvidék"],
       ro: ["Faimos pentru Canionul Yumurí", "Peisaj pitoresc", "Se varsă în mare lângă Baracoa"],
       en: ["Famous for the Yumurí Canyon", "Picturesque landscape", "Flows into the sea near Baracoa"]
     }, image: "/poi-images/rio-yumuri-nature-v2.webp",
@@ -507,13 +507,13 @@ export const poiExtraCubaNatureV2: POI[] = [
     description: {
       de: "Ein großes Sumpfgebiet auf der Isla de la Juventud, das die Insel praktisch in zwei Teile teilt.",
       hu: "Nagy mocsaras terület az Ifjúság szigetén, amely gyakorlatilag két részre osztja a szigetet.",
-      ro: "O mare zonă mlăștinoasă pe Isla de la Juventud, care împarte practic insula în două.",
+      ro: "O zonă mlăștinoasă mare pe Isla de la Juventud, care împarte practic insula în două. Este un ecosistem important și greu de accesat.",
       en: "A large swamp area on the Isle of Youth that virtually divides the island in two."
     },
     facts: {
       de: ["Wichtiges Ökosystem", "Heimat des kubanischen Krokodils", "Schwer zugänglich"],
       hu: ["Fontos ökoszisztéma", "A kubai krokodil otthona", "Nehezen megközelíthető"],
-      ro: ["Ecosistem important", "Habitatul crocodilului cubanez", "Greu accesibil"],
+      ro: ["ecosistem important", "habitatul crocodilului cubanez", "greu accesibil"],
       en: ["Important ecosystem", "Home to the Cuban crocodile", "Difficult to access"]
     }, image: "/poi-images/cienaga-de-lanier-nature-v2.webp",
     descriptionAdvanced: {
@@ -878,15 +878,15 @@ export const poiExtraCubaNatureV2: POI[] = [
     name: { de: "Peñón del Fraile", hu: "Peñón del Fraile", ro: "Peñón del Fraile", en: "Peñón del Fraile" },
     description: {
       de: "Ein Naturdenkmal und Waldgebiet in der Provinz Holguín.",
-      hu: "Természeti emlék és erdős terület Holguín tartományban.",
-      ro: "Un monument natural și o zonă împădurită în provincia Holguín.",
-      en: "A natural monument and forested area in the province of Holguín."
+      hu: "A Peñón del Fraile egy helyi természeti sziklaalakzat, amely látványos part menti pontként ismert.",
+      ro: "Un monument natural și o zonă împădurită din provincia Holguín. Oferă un peisaj liniștit, cu floră nativă.",
+      en: "A natural monument and forested area in Holguin province."
     },
     facts: {
       de: ["Geschütztes Gebiet", "Einheimische Flora", "Ruhige Naturlandschaft"],
-      hu: ["Védett terület", "Bennszülött növényvilág", "Csendes természeti táj"],
-      ro: ["Arie protejată", "Floră nativă", "Peisaj natural liniștit"],
-      en: ["Protected area", "Native flora", "Quiet natural landscape"]
+      hu: ["Sziklaképződmény", "Parti látványosság", "Természeti domborzat"],
+      ro: ["arie protejată", "floră nativă", "peisaj natural liniștit"],
+      en: ["Protected area", "Native flora", "Quiet landscape"]
     }, image: "/poi-images/penon-del-fraile-nature-v2.webp",
     descriptionAdvanced: {
       de: "Ein Naturdenkmal und Waldgebiet in der Provinz Holguín. Geschütztes Gebiet. Einheimische Flora. Ruhige Naturlandschaft. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden. Sierra Maestra im Südosten prägt die Topografie der Insel.",

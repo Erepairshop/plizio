@@ -26,8 +26,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/machu-picchu-history-v2.webp"},
   {
     id: "sacsayhuaman-history-v2",
     type: "historical",
@@ -53,8 +52,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/sacsayhuaman-history-v2.webp"},
   {
     id: "ollantaytambo-history-v2",
     type: "historical",
@@ -80,8 +78,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ollantaytambo-history-v2.webp"},
   {
     id: "pisac-history-v2",
     type: "historical",
@@ -107,8 +104,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/pisac-history-v2.webp"},
   {
     id: "moray-history-v2",
     type: "historical",
@@ -161,8 +157,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/choquequirao-history-v2.webp"},
   {
     id: "kuelap-history-v2",
     type: "historical",
@@ -188,8 +183,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/kuelap-history-v2.webp"},
   {
     id: "chan-chan-history-v2",
     type: "historical",
@@ -215,8 +209,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/chan-chan-history-v2.webp"},
   {
     id: "huaca-del-sol-history-v2",
     type: "historical",
@@ -242,8 +235,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/huaca-del-sol-history-v2.webp"},
   {
     id: "huaca-de-la-luna-history-v2",
     type: "historical",
@@ -269,8 +261,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/huaca-de-la-luna-history-v2.webp"},
   {
     id: "nazca-linien-history-v2",
     type: "historical",
@@ -296,8 +287,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/nazca-linien-history-v2.webp"},
   {
     id: "caral-history-v2",
     type: "historical",
@@ -323,8 +313,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/caral-history-v2.webp"},
   {
     id: "chavin-de-huantar-history-v2",
     type: "historical",
@@ -350,8 +339,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/chavin-de-huantar-history-v2.webp"},
   {
     id: "huaca-rajada-history-v2",
     type: "historical",
@@ -377,8 +365,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/huaca-rajada-history-v2.webp"},
   {
     id: "el-brujo-history-v2",
     type: "historical",
@@ -404,8 +391,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/el-brujo-history-v2.webp"},
   {
     id: "vilcabamba-history-v2",
     type: "historical",
@@ -431,8 +417,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/vilcabamba-history-v2.webp"},
   {
     id: "pachacamac-history-v2",
     type: "historical",
@@ -458,8 +443,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/pachacamac-history-v2.webp"},
   {
     id: "tipon-history-v2",
     type: "historical",
@@ -485,8 +469,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tipon-history-v2.webp"},
   {
     id: "puka-pukara-history-v2",
     type: "historical",
@@ -512,8 +495,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/puka-pukara-history-v2.webp"},
   {
     id: "tambomachay-history-v2",
     type: "historical",
@@ -539,8 +521,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tambomachay-history-v2.webp"},
   {
     id: "pikillaqta-history-v2",
     type: "historical",
@@ -566,8 +547,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/pikillaqta-history-v2.webp"},
   {
     id: "qorikancha-history-v2",
     type: "historical",
@@ -593,8 +573,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/qorikancha-history-v2.webp"},
   {
     id: "cahuachi-history-v2",
     type: "historical",
@@ -620,8 +599,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/cahuachi-history-v2.webp"},
   {
     id: "tucume-history-v2",
     type: "historical",
@@ -647,8 +625,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tucume-history-v2.webp"},
   {
     id: "sillustani-history-v2",
     type: "historical",
@@ -674,8 +651,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/sillustani-history-v2.webp"},
   {
     id: "pampa-de-ayacucho-history-v2",
     type: "historical",
@@ -701,8 +677,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/pampa-de-ayacucho-history-v2.webp"},
   {
     id: "huari-ruinen-history-v2",
     type: "historical",
@@ -755,8 +730,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/marcahuamachuco-history-v2.webp"},
   {
     id: "raqchi-history-v2",
     type: "historical",
@@ -782,8 +756,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/raqchi-history-v2.webp"},
   {
     id: "chauchilla-history-v2",
     type: "historical",

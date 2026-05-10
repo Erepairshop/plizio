@@ -23,8 +23,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["La Digue legmagasabb csúcsa", "333 méterrel a tengerszint felett", "Jellegzetes gránitsziklák a csúcson"],
       ro: ["Cel mai înalt vârf de pe La Digue", "333 de metri deasupra nivelului mării", "Stânci de granit distinctive pe vârf"],
       en: ["Highest peak on La Digue", "333 meters above sea level", "Distinctive granite rocks at the summit"]
-    }
-  },
+    }, image: "/poi-images/nid-d-aigle-relief-v2.webp"},
   {
     id: "mont-dauban-relief-v2",
     type: "mountain",
@@ -47,8 +46,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Silhouette legmagasabb pontja", "751 méter magas", "Érintetlen köderdő veszi körül"],
       ro: ["Cel mai înalt punct din Silhouette", "751 de metri înălțime", "Înconjurat de o pădure tropicală virgină"],
       en: ["Highest point of Silhouette", "751 meters high", "Surrounded by pristine mist forest"]
-    }
-  },
+    }, image: "/poi-images/mont-dauban-relief-v2.webp"},
   {
     id: "glacis-noir-relief-v2",
     type: "relief",
@@ -71,8 +69,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["360 fokos körpanorámát nyújt", "Ritka pálmafajok otthona", "Földtanilag érdekes gránitlapok"],
       ro: ["Oferă o vedere panoramică de 360 de grade", "Casa unor specii rare de palmieri", "Plăci de granit interesante geologic"],
       en: ["Offers 360-degree panoramic views", "Home to rare palm species", "Geologically interesting granite slabs"]
-    }
-  },
+    }, image: "/poi-images/glacis-noir-relief-v2.webp"},
   {
     id: "mont-pot-a-eau-relief-v2",
     type: "mountain",
@@ -95,8 +92,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Fontos botanikai lelőhely", "620 méterrel a tengerszint felett", "Időszakos köderdő-csúcs"],
       ro: ["Situl botanic important", "620 de metri deasupra nivelului mării", "Vârf cu pădure tropicală de ceață"],
       en: ["Important botanical site", "620 meters above sea level", "Intermittent mist forest peak"]
-    }
-  },
+    }, image: "/poi-images/mont-pot-a-eau-relief-v2.webp"},
   {
     id: "mont-sebert-relief-v2",
     type: "mountain",
@@ -119,8 +115,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Népszerű célpont a tapasztalt túrázók számára", "Kb. 550 méter magas", "Látványos kilátás a repülőtérre"],
       ro: ["Destinație populară pentru excursioniști experimentați", "Înălțime de aproximativ 550 de metri", "Vedere spectaculoasă asupra aeroportului"],
       en: ["Popular destination for challenging hikes", "Height of approx. 550 meters", "Spectacular view of the airport"]
-    }
-  },
+    }, image: "/poi-images/mont-sebert-relief-v2.webp"},
   {
     id: "mont-planeau-relief-v2",
     type: "mountain",
@@ -143,8 +138,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Mahé hegygerincének része", "Gyakori kiindulópont természetmegfigyelésekhez", "Sűrű trópusi növényzet"],
       ro: ["Parte a lanțului muntos de pe Mahé", "Punct de plecare frecvent pentru observarea naturii", "Vegetație tropicală densă"],
       en: ["Part of the Mahé mountain ridge", "Frequent starting point for nature observations", "Dense tropical vegetation"]
-    }
-  },
+    }, image: "/poi-images/mont-planeau-relief-v2.webp"},
   {
     id: "mont-poseidon-relief-v2",
     type: "mountain",
@@ -167,8 +161,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Kilátást nyújt a keleti és nyugati partra", "Viszonylag elszigetelt csúcs", "Gránit sziklaalakzatok"],
       ro: ["Oferă vedere spre coasta de est și de vest", "Vârf relativ izolat", "Formațiuni stâncoase granitice"],
       en: ["Offers views of the east and west coasts", "Relatively isolated peak", "Granitic rock formations"]
-    }
-  },
+    }, image: "/poi-images/mont-poseidon-relief-v2.webp"},
   {
     id: "dans-gallas-relief-v2",
     type: "relief",
@@ -191,8 +184,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Népszerű túraútvonal (Dans Gallas Trail)", "Egyedülálló gránitlépcsők", "Kilátás Mahé északnyugati részére"],
       ro: ["Traseu popular de drumeție (Dans Gallas Trail)", "Trepte unice de granit", "Vedere asupra nord-vestului insulei Mahé"],
       en: ["Popular hiking path (Dans Gallas Trail)", "Unique granite steps", "View of Northwest Mahé"]
-    }
-  },
+    }, image: "/poi-images/dans-gallas-relief-v2.webp"},
   {
     id: "belle-vue-relief-v2",
     type: "relief",
@@ -215,8 +207,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Népszerű megálló a fotósok számára", "Trópusi kertekbe ágyazva", "Kilátás az Indiai-óceánra"],
       ro: ["Oprire populară pentru fotografi", "Înconjurat de grădini tropicale", "Vedere spre Oceanul Indian"],
       en: ["Popular stop for photographers", "Embedded in tropical gardens", "View of the Indian Ocean"]
-    }
-  },
+    }, image: "/poi-images/belle-vue-relief-v2.webp"},
   {
     id: "mont-signal-relief-v2",
     type: "mountain",
@@ -239,8 +230,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Történelmi jelentőség a kikötő számára", "Mahé északi hegyvonulatának része", "Jó túraútvonalak érhetők el"],
       ro: ["Semnificație istorică pentru port", "Parte a lanțului muntos nordic din Mahé", "Trasee bune de drumeție disponibile"],
       en: ["Historical significance for the port", "Part of northern Mahé mountain range", "Good hiking trails available"]
-    }
-  },
+    }, image: "/poi-images/mont-signal-relief-v2.webp"},
   {
     id: "salazie-plateau-relief-v2",
     type: "relief",
@@ -287,8 +277,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Kb. 500 méter magas", "Természetvédelmi terület része", "Ritka madárfajoknak ad otthont"],
       ro: ["Înălțime de aproximativ 500 de metri", "Parte a unei zone protejate", "Găzduiește specii rare de păsări"],
       en: ["Height of approx. 500 meters", "Part of a protected area", "Home to rare bird species"]
-    }
-  },
+    }, image: "/poi-images/montagne-brulee-relief-v2.webp"},
   {
     id: "castle-peak-relief-v2",
     type: "mountain",
@@ -311,8 +300,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Földtanilag jellegzetes szerkezet", "Kiváló kilátópont", "Mahé gránitképződményeinek része"],
       ro: ["Structură geologică distinctivă", "Punct de observație excelent", "Parte a formațiunilor de granit de pe Mahé"],
       en: ["Geologically striking structure", "Excellent vantage point", "Part of Mahé's granite formations"]
-    }
-  },
+    }, image: "/poi-images/castle-peak-relief-v2.webp"},
   {
     id: "fond-azore-relief-v2",
     type: "mountain",
@@ -359,8 +347,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Parti túrák népszerű célpontja", "Stratégiai megfigyelőpont", "Jellegzetes gránitsziklák"],
       ro: ["Destinație populară pentru drumeții de coastă", "Punct strategic de observație", "Faleză de granit distinctivă"],
       en: ["Popular destination for coastal hikes", "Strategic observation point", "Striking granite cliffs"]
-    }
-  },
+    }, image: "/poi-images/point-lookout-relief-v2.webp"},
   {
     id: "zimbabwe-viewpoint-relief-v2",
     type: "relief",
@@ -383,8 +370,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["A legjobb kilátás az Anse Lazio-ra", "Fontos távközlési helyszín", "Látni lehet innen egészen Curieuse-ig"],
       ro: ["Cea mai bună vedere asupra Anse Lazio", "Locație importantă de telecomunicații", "Oferă vizibilitate până la Curieuse"],
       en: ["Best view of Anse Lazio", "Important telecommunications site", "Offers visibility as far as Curieuse"]
-    }
-  },
+    }, image: "/poi-images/zimbabwe-viewpoint-relief-v2.webp"},
   {
     id: "mont-jasmin-relief-v2",
     type: "mountain",
@@ -407,8 +393,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Elszigetelt túraövezet", "A gránitképződmények része", "Ritka orchideák előfordulási helye"],
       ro: ["Zonă de drumeție izolată", "Parte a formațiunilor de granit", "Prezența unor orhidee rare"],
       en: ["Remote hiking area", "Part of the granite formations", "Occurrence of rare orchids"]
-    }
-  },
+    }, image: "/poi-images/mont-jasmin-relief-v2.webp"},
   {
     id: "mont-harrison-relief-v2",
     type: "mountain",
@@ -431,8 +416,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Kb. 600 méter magas", "Másodlagos trópusi erdő veszi körül", "Gyakran borítja köd"],
       ro: ["Înălțime de aproximativ 600 de metri", "Înconjurat de pădure tropicală secundară", "Adesea învăluit în ceață"],
       en: ["Height of approx. 600 meters", "Surrounded by secondary tropical forest", "Often surrounded by mist"]
-    }
-  },
+    }, image: "/poi-images/mont-harrison-relief-v2.webp"},
   {
     id: "mont-bernardia-relief-v2",
     type: "mountain",
@@ -455,8 +439,7 @@ export const poiExtraSeychellesReliefV2: POI[] = [
       hu: ["Kilátást nyújt a Port Glaud Nemzeti Parkra", "Gránit sziklafalak", "Ideális madármegfigyeléshez"],
       ro: ["Oferă vedere spre Parcul Național Port Glaud", "Pereți de stâncă granitici", "Ideal pentru observarea păsărilor"],
       en: ["Offers view of Port Glaud National Park", "Granitic rock faces", "Ideal for birdwatching"]
-    }
-  },
+    }, image: "/poi-images/mont-bernardia-relief-v2.webp"},
   {
     id: "congo-rouge-relief-v2",
     type: "forest",

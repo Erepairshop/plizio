@@ -23,8 +23,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Togo legnagyobb lagúnája", "Szent hely a helyi hagyományok számára", "Népszerű vitorlázóhely", "Togoville városa közelében"],
       ro: ["Cea mai mare lagună din Togo", "Loc sacru pentru tradițiile locale", "Popular pentru navigație", "Lângă orașul Togoville"],
       en: ["Togo's largest lagoon", "Sacred site for local traditions", "Popular for sailing trips", "Near the town of Togoville"]
-    }
-  },
+    }, image: "/poi-images/lake-togo-nature-v2.webp"},
   {
     id: "mount-agou-nature-v2",
     type: "mountain",
@@ -47,8 +46,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Togo legmagasabb pontja", "Az Atakora-hegység része", "Gyakran köd borítja", "Fontos rádióállomás a csúcson"],
       ro: ["Cel mai înalt punct din Togo", "Parte a munților Atakora", "Adesea învăluit în ceață", "Stație radio importantă pe vârf"],
       en: ["Highest point in Togo", "Part of the Atakora mountain range", "Often shrouded in mist", "Major radio station on the summit"]
-    }
-  },
+    }, image: "/poi-images/mount-agou-nature-v2.webp"},
   {
     id: "mono-river-nature-v2",
     type: "river",
@@ -71,8 +69,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Körülbelül 400 km hosszú", "A Guineai-öbölbe torkollik", "Vízilovak élőhelye", "Fontos a mezőgazdaság számára"],
       ro: ["Lungime de aproximativ 400 km", "Se varsă în Golful Guineei", "Habitat pentru hipopotami", "Important pentru agricultură"],
       en: ["Length of about 400 km", "Flows into the Gulf of Guinea", "Habitat for hippos", "Important for agriculture"]
-    }
-  },
+    }, image: "/poi-images/mono-river-nature-v2.webp"},
   {
     id: "oti-river-nature-v2",
     type: "river",
@@ -95,8 +92,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["A Volta nagy mellékfolyója", "Határos Ghánával", "Halakban gazdag", "Öntözővíz-forrás északon"],
       ro: ["Afluent major al râului Volta", "Se învecinează cu Ghana", "Bogat în specii de pești", "Sursă de irigații în nord"],
       en: ["Major tributary of the Volta", "Borders Ghana", "Rich in fish species", "Irrigation source in the north"]
-    }
-  },
+    }, image: "/poi-images/oti-river-nature-v2.webp"},
   {
     id: "fazao-malfakassa-forest-nature-v2",
     type: "forest",
@@ -119,8 +115,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Az ország legnagyobb nemzeti parkja", "Elefántok védett területe", "Erdő és szavanna keveréke", "Látványos hegyi táj"],
       ro: ["Cel mai mare parc național din țară", "Zonă protejată pentru elefanți", "Amestec de pădure și savană", "Peisaj montan spectaculos"],
       en: ["Largest national park in the country", "Protected area for elephants", "Mix of forest and savanna", "Spectacular mountain scenery"]
-    }
-  },
+    }, image: "/poi-images/fazao-malfakassa-forest-nature-v2.webp"},
   {
     id: "keran-forest-nature-v2",
     type: "forest",
@@ -143,8 +138,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Fontos madárvédelmi terület", "Az Oti-folyó szeli át", "Számos antilopfaj otthona", "Nyílt szavannás táj"],
       ro: ["Zonă importantă pentru păsări", "Traversat de râul Oti", "Găzduiește multe specii de antilope", "Peisaj de savană deschisă"],
       en: ["Important bird area", "Traversed by the Oti River", "Home to many antelope species", "Open savanna landscape"]
-    }
-  },
+    }, image: "/poi-images/keran-forest-nature-v2.webp"},
   {
     id: "fosse-aux-lions-forest-nature-v2",
     type: "forest",
@@ -167,8 +161,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["A név jelentése 'Oroszlán-verem'", "Jelentős elefántpopuláció", "Szavannai ökoszisztéma", "Burkina Faso határához közel"],
       ro: ["Numele înseamnă 'Groapa cu lei'", "Populație semnificativă de elefanți", "Ecosistem de savană", "Lângă granița cu Burkina Faso"],
       en: ["Name means 'Lion's Pit'", "Significant elephant population", "Savanna ecosystem", "Near the border with Burkina Faso"]
-    }
-  },
+    }, image: "/poi-images/fosse-aux-lions-forest-nature-v2.webp"},
   {
     id: "cascade-aklowa-forest-nature-v2",
     type: "forest",
@@ -191,8 +184,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["A régió legmagasabb vízesése", "Trópusi esőerdő veszi körül", "Csak gyalogúton érhető el", "Egész évben van benne víz"],
       ro: ["Cea mai înaltă cascadă din regiune", "Înconjurată de pădure tropicală", "Accesibilă doar prin traseu montan", "Debit de apă pe tot parcursul anului"],
       en: ["Highest waterfall in the region", "Surrounded by tropical rainforest", "Accessible only via a hiking trail", "Flows year-round"]
-    }
-  },
+    }, image: "/poi-images/cascade-aklowa-forest-nature-v2.webp"},
   {
     id: "mount-malfakassa-nature-v2",
     type: "mountain",
@@ -215,8 +207,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Fontos kilátópont", "Gazdag endemikus növényekben", "Egy hegylánc része", "Ritka majomfajok otthona"],
       ro: ["Punct de observație important", "Bogat în plante endemice", "Parte a unui lanț muntos", "Găzduiește specii rare de maimuțe"],
       en: ["Important viewpoint", "Rich in endemic plants", "Part of a mountain range", "Home to rare monkey species"]
-    }
-  },
+    }, image: "/poi-images/mount-malfakassa-nature-v2.webp"},
   {
     id: "mount-koranga-nature-v2",
     type: "mountain",
@@ -239,8 +230,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Kihívást jelentő túrahely", "Az Atakora-masszívum része", "Kilátás a Kara-síkságra", "Száraz hegyi éghajlat"],
       ro: ["Zonă de drumeție provocatoare", "Parte a masivului Atakora", "Vedere spre câmpia Kara", "Climat montan arid"],
       en: ["Challenging hiking area", "Part of the Atakora massif", "View over the Kara plain", "Dry mountain climate"]
-    }
-  },
+    }, image: "/poi-images/mount-koranga-nature-v2.webp"},
   {
     id: "kara-river-nature-v2",
     type: "river",
@@ -263,8 +253,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Kara városán folyik keresztül", "Fontos vízbázis", "Az Oti mellékfolyója", "Termékeny parti zónák"],
       ro: ["Curge prin orașul Kara", "Sursă importantă de apă", "Afluent al râului Oti", "Zone de mal fertile"],
       en: ["Flows through Kara city", "Important water supplier", "Tributary of the Oti", "Fertile riverbanks"]
-    }
-  },
+    }, image: "/poi-images/kara-river-nature-v2.webp"},
   {
     id: "mo-river-nature-v2",
     type: "river",
@@ -287,8 +276,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["A Mono-medence része", "Fontos a helyi halászat számára", "Érintetlen természeti tájak", "Szezonális vízszintingadozás"],
       ro: ["Parte a bazinului Mono", "Important pentru pescuitul local", "Peisaje naturale virgine", "Fluctuații sezoniere ale apei"],
       en: ["Part of the Mono basin", "Important for local fishing", "Untouched natural landscapes", "Seasonal water fluctuations"]
-    }
-  },
+    }, image: "/poi-images/mo-river-nature-v2.webp"},
   {
     id: "sio-river-nature-v2",
     type: "river",
@@ -311,8 +299,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["A Plateaux régiót csapolja le", "Fontos a rizstermesztéshez", "A parti síkságra torkollik", "Madarakban gazdag torkolat"],
       ro: ["Drenează regiunea Plateaux", "Important pentru cultivarea orezului", "Se varsă în câmpia de coastă", "Zonă de estuar bogată în păsări"],
       en: ["Drains the Plateaux region", "Important for rice cultivation", "Flows into the coastal plain", "Bird-rich estuary area"]
-    }
-  },
+    }, image: "/poi-images/sio-river-nature-v2.webp"},
   {
     id: "haho-river-nature-v2",
     type: "river",
@@ -335,8 +322,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["A Togo-tó fő mellékfolyója", "A Maritime régión folyik keresztül", "Egész évben van benne víz", "Jelentős a közlekedésben"],
       ro: ["Principalul afluent al Lacului Togo", "Curge prin regiunea Maritime", "Debit permanent de apă", "Semnificativ pentru transport"],
       en: ["Main tributary of Lake Togo", "Flows through the Maritime region", "Permanent water flow", "Significant for transport"]
-    }
-  },
+    }, image: "/poi-images/haho-river-nature-v2.webp"},
   {
     id: "gulf-guinea-sea-nature-v2",
     type: "sea",
@@ -359,8 +345,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Az Atlanti-óceán része", "Nagy halrajok otthona", "Fontos kereskedelmi útvonal", "Meleg tengeráramlatok"],
       ro: ["Parte a Oceanului Atlantic", "Găzduiește bancuri mari de pești", "Rută comercială importantă", "Curenți marini calzi"],
       en: ["Part of the Atlantic Ocean", "Home to large fish shoals", "Important trade route", "Warm ocean currents"]
-    }
-  },
+    }, image: "/poi-images/gulf-guinea-sea-nature-v2.webp"},
   {
     id: "togodo-forest-nature-v2",
     type: "forest",
@@ -383,8 +368,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Főemlősök védett területe", "A Mono-folyó partján", "Ritka fafajok", "Fontos kutatási terület"],
       ro: ["Zonă protejată pentru primate", "Pe malul râului Mono", "Specii de arbori rare", "Zonă importantă de cercetare"],
       en: ["Protected area for primates", "On the banks of the Mono River", "Rare tree species", "Important research area"]
-    }
-  },
+    }, image: "/poi-images/togodo-forest-nature-v2.webp"},
   {
     id: "missahoe-forest-nature-v2",
     type: "forest",
@@ -407,8 +391,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Pillangómegfigyelő központ", "Kellemes mikroklíma", "Trópusi hegyi esőerdő", "Az Agou-hegy közelében"],
       ro: ["Centru pentru observarea fluturilor", "Microclimat plăcut", "Pădure tropicală montană", "Lângă Muntele Agou"],
       en: ["Center for butterfly watching", "Pleasant microclimate", "Tropical mountain rainforest", "Near Mount Agou"]
-    }
-  },
+    }, image: "/poi-images/missahoe-forest-nature-v2.webp"},
   {
     id: "aledjo-forest-nature-v2",
     type: "forest",
@@ -455,8 +438,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Antilopok menedékhelye", "A Mono-folyó határolja", "Jelentős fafaj-diverzitás", "Fontos a természetvédelem számára"],
       ro: ["Refugiu pentru antilope", "Mărginit de râul Mono", "Diversitate semnificativă de arbori", "Important pentru conservare"],
       en: ["Refuge for antelopes", "Bounded by the Mono River", "Significant tree diversity", "Important for conservation"]
-    }
-  },
+    }, image: "/poi-images/abdoulaye-forest-nature-v2.webp"},
   {
     id: "lake-nangbeto-nature-v2",
     type: "lake",
@@ -479,8 +461,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Togo legnagyobb víztározója", "Vízenergiát termel", "A belvízi halászat központja", "A Nangbéto-gát hozta létre"],
       ro: ["Cel mai mare rezervuar din Togo", "Produce energie hidroelectrică", "Centru pentru pescuit interior", "Creat prin barajul Nangbéto"],
       en: ["Togo's largest reservoir", "Produces hydroelectric power", "Center for inland fishing", "Created by the Nangbéto Dam"]
-    }
-  },
+    }, image: "/poi-images/lake-nangbeto-nature-v2.webp"},
   {
     id: "koumongou-river-nature-v2",
     type: "river",
@@ -503,8 +484,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["A Kéran-parkon folyik keresztül", "Szezonális vízfolyás", "Fontos a vadvilág számára", "Az Otiba torkollik"],
       ro: ["Curge prin parcul Kéran", "Curs de apă sezonier", "Important pentru viața sălbatică", "Se varsă în râul Oti"],
       en: ["Flows through Kéran Park", "Seasonal watercourse", "Important for wildlife", "Empties into the Oti"]
-    }
-  },
+    }, image: "/poi-images/koumongou-river-nature-v2.webp"},
   {
     id: "mount-tabalo-nature-v2",
     type: "mountain",
@@ -527,8 +507,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Népszerű a hegymászók körében", "Gazdag növény- és állatvilág", "A Togo-hegység része", "Kilátás a Centrale régióra"],
       ro: ["Popular printre alpiniști", "Floră și faună bogată", "Parte a lanțului muntos Togo", "Vedere asupra regiunii Centrale"],
       en: ["Popular with climbers", "Rich flora and fauna", "Part of the Togo mountain range", "View over the Centrale region"]
-    }
-  },
+    }, image: "/poi-images/mount-tabalo-nature-v2.webp"},
   {
     id: "cascade-kpime-forest-nature-v2",
     type: "forest",
@@ -551,8 +530,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Könnyen elérhető kirándulóhely", "Víztározó a régió számára", "Tiszta hegyi víz", "Kpalimé városa közelében"],
       ro: ["Destinație ușor accesibilă", "Rezervor de apă pentru regiune", "Apă de munte limpede", "Lângă orașul Kpalimé"],
       en: ["Easily accessible excursion spot", "Water reservoir for the region", "Clear mountain water", "Near the town of Kpalimé"]
-    }
-  },
+    }, image: "/poi-images/cascade-kpime-forest-nature-v2.webp"},
   {
     id: "bight-benin-sea-nature-v2",
     type: "sea",
@@ -575,8 +553,7 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Történelmileg jelentős vízfelület", "Gazdag tengeri élővilág", "Erős tengeri hullámzás", "Fontos a regionális kereskedelemben"],
       ro: ["Zonă maritimă istorică", "Bogată în viață marină", "Surp de mare puternic", "Importantă pentru comerțul regional"],
       en: ["Historically significant waters", "Rich in marine life", "Strong sea surf", "Important for regional trade"]
-    }
-  },
+    }, image: "/poi-images/bight-benin-sea-nature-v2.webp"},
   {
     id: "mount-ibeti-nature-v2",
     type: "mountain",

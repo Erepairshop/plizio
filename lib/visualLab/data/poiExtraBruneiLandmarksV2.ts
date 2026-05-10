@@ -30,8 +30,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Fläche: 12 Hektar", "Eröffnet: 22. Oktober 2017", "Anlass: 50. Thronjubiläum des Sultans", "Breite der Promenade: 6 Meter", "Bietet Blick auf Kampong Ayer", "Standort: Bandar Seri Begawan", "Integriert nachhaltige Designmerkmale", "Wichtiger Ort für nationale Feste"],
       ro: ["Fläche: 12 Hektar", "Eröffnet: 22. Oktober 2017", "Anlass: 50. Thronjubiläum des Sultans", "Breite der Promenade: 6 Meter", "Bietet Blick auf Kampong Ayer", "Standort: Bandar Seri Begawan", "Integriert nachhaltige Designmerkmale", "Wichtiger Ort für nationale Feste"],
       en: ["Fläche: 12 Hektar", "Eröffnet: 22. Oktober 2017", "Anlass: 50. Thronjubiläum des Sultans", "Breite der Promenade: 6 Meter", "Bietet Blick auf Kampong Ayer", "Standort: Bandar Seri Begawan", "Integriert nachhaltige Designmerkmale", "Wichtiger Ort für nationale Feste"]
-    }
-  },
+    }, image: "/poi-images/taman-mahkota-jubli-emas-landmarks-v2.webp"},
   {
     id: "tasek-lama-recreational-park-landmarks-v2",
     type: "landmark",
@@ -61,8 +60,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Beliebt seit den 1970er Jahren", "Verfügt über einen natürlichen Wasserfall", "Beinhaltet einen Beobachtungsturm", "Lebensraum für Langschwanzmakaken", "Wichtiges städtisches Naherholungsgebiet", "Gut gepflegte Wanderwege", "Lage: Zentrum von Bandar Seri Begawan", "Kostenloser Eintritt für die Öffentlichkeit"],
       ro: ["Beliebt seit den 1970er Jahren", "Verfügt über einen natürlichen Wasserfall", "Beinhaltet einen Beobachtungsturm", "Lebensraum für Langschwanzmakaken", "Wichtiges städtisches Naherholungsgebiet", "Gut gepflegte Wanderwege", "Lage: Zentrum von Bandar Seri Begawan", "Kostenloser Eintritt für die Öffentlichkeit"],
       en: ["Beliebt seit den 1970er Jahren", "Verfügt über einen natürlichen Wasserfall", "Beinhaltet einen Beobachtungsturm", "Lebensraum für Langschwanzmakaken", "Wichtiges städtisches Naherholungsgebiet", "Gut gepflegte Wanderwege", "Lage: Zentrum von Bandar Seri Begawan", "Kostenloser Eintritt für die Öffentlichkeit"]
-    }
-  },
+    }, image: "/poi-images/tasek-lama-recreational-park-landmarks-v2.webp"},
   {
     id: "sultan-haji-omar-ali-saifuddien-bridge-landmarks-v2",
     type: "landmark",
@@ -92,8 +90,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Länge: 30 Kilometer", "Längste Brücke in Südostasien", "Eröffnet: März 2020", "Baukosten: 1,6 Mrd. BND", "Bauzeit: 2014-2020", "Verbindet die Temburong-Exklave", "Höhe des Pylons: 100 Meter", "Verkürzt die Reisezeit auf unter 30 Minuten"],
       ro: ["Länge: 30 Kilometer", "Längste Brücke in Südostasien", "Eröffnet: März 2020", "Baukosten: 1,6 Mrd. BND", "Bauzeit: 2014-2020", "Verbindet die Temburong-Exklave", "Höhe des Pylons: 100 Meter", "Verkürzt die Reisezeit auf unter 30 Minuten"],
       en: ["Länge: 30 Kilometer", "Längste Brücke in Südostasien", "Eröffnet: März 2020", "Baukosten: 1,6 Mrd. BND", "Bauzeit: 2014-2020", "Verbindet die Temburong-Exklave", "Höhe des Pylons: 100 Meter", "Verkürzt die Reisezeit auf unter 30 Minuten"]
-    }
-  },
+    }, image: "/poi-images/sultan-haji-omar-ali-saifuddien-bridge-landmarks-v2.webp"},
   {
     id: "raja-isteri-pengiran-anak-hajah-saleha-bridge-landmarks-v2",
     type: "landmark",
@@ -123,8 +120,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Pylonhöhe: 157 Meter", "Gesamtlänge: 750 Meter", "Eröffnet: 2017", "Benannt nach Königin Saleha", "Typ: Schrägseilbrücke", "Pylon hat eine islamische Kuppel", "Beinhaltet eine Gebetsgalerie", "Verbindet das Stadtzentrum mit Sungai Kebun"],
       ro: ["Pylonhöhe: 157 Meter", "Gesamtlänge: 750 Meter", "Eröffnet: 2017", "Benannt nach Königin Saleha", "Typ: Schrägseilbrücke", "Pylon hat eine islamische Kuppel", "Beinhaltet eine Gebetsgalerie", "Verbindet das Stadtzentrum mit Sungai Kebun"],
       en: ["Pylonhöhe: 157 Meter", "Gesamtlänge: 750 Meter", "Eröffnet: 2017", "Benannt nach Königin Saleha", "Typ: Schrägseilbrücke", "Pylon hat eine islamische Kuppel", "Beinhaltet eine Gebetsgalerie", "Verbindet das Stadtzentrum mit Sungai Kebun"]
-    }
-  },
+    }, image: "/poi-images/raja-isteri-pengiran-anak-hajah-saleha-bridge-landmarks-v2.webp"},
   {
     id: "jerudong-park-landmarks-v2",
     type: "landmark",
@@ -154,8 +150,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Erbaut: 1994", "Standort: Jerudong", "Früher war der Eintritt frei", "Konzert von Michael Jackson im Jahr 1996", "Wiedereröffnet: 2014", "Beinhaltet einen Wasserpark", "Verfügt über einen Musikbrunnen", "Gilt als Bruneis führender Freizeitpark"],
       ro: ["Erbaut: 1994", "Standort: Jerudong", "Früher war der Eintritt frei", "Konzert von Michael Jackson im Jahr 1996", "Wiedereröffnet: 2014", "Beinhaltet einen Wasserpark", "Verfügt über einen Musikbrunnen", "Gilt als Bruneis führender Freizeitpark"],
       en: ["Erbaut: 1994", "Standort: Jerudong", "Früher war der Eintritt frei", "Konzert von Michael Jackson im Jahr 1996", "Wiedereröffnet: 2014", "Beinhaltet einen Wasserpark", "Verfügt über einen Musikbrunnen", "Gilt als Bruneis führender Freizeitpark"]
-    }
-  },
+    }, image: "/poi-images/jerudong-park-landmarks-v2.webp"},
   {
     id: "the-empire-brunei-landmarks-v2",
     type: "landmark",
@@ -185,8 +180,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Eröffnet: 2000", "Fläche: 180 Hektar", "Architekt: Leandro V. Locsin", "Verfügt über einen von Jack Nicklaus entworfenen Golfplatz", "Mehr als 500 Zimmer und Villen", "Wird oft als 7-Sterne-Hotel bezeichnet", "Atrium ist über 8 Stockwerke hoch", "Baukosten über 1 Milliarde US-Dollar"],
       ro: ["Eröffnet: 2000", "Fläche: 180 Hektar", "Architekt: Leandro V. Locsin", "Verfügt über einen von Jack Nicklaus entworfenen Golfplatz", "Mehr als 500 Zimmer und Villen", "Wird oft als 7-Sterne-Hotel bezeichnet", "Atrium ist über 8 Stockwerke hoch", "Baukosten über 1 Milliarde US-Dollar"],
       en: ["Eröffnet: 2000", "Fläche: 180 Hektar", "Architekt: Leandro V. Locsin", "Verfügt über einen von Jack Nicklaus entworfenen Golfplatz", "Mehr als 500 Zimmer und Villen", "Wird oft als 7-Sterne-Hotel bezeichnet", "Atrium ist über 8 Stockwerke hoch", "Baukosten über 1 Milliarde US-Dollar"]
-    }
-  },
+    }, image: "/poi-images/the-empire-brunei-landmarks-v2.webp"},
   {
     id: "ash-shaliheen-mosque-landmarks-v2",
     type: "landmark",
@@ -216,8 +210,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Fertiggestellt: 2012", "Architekt: Abdel-Wahed El-Wakil", "Stil: Marokkanisch inspiriert", "Kapazität: 1000 Gläubige", "Verfügt über ein einziehbares Dach", "Standort: Nähe des Premierministerbüros", "Verwendet handgefertigte Materialien", "Beispiel für neue klassische islamische Architektur"],
       ro: ["Fertiggestellt: 2012", "Architekt: Abdel-Wahed El-Wakil", "Stil: Marokkanisch inspiriert", "Kapazität: 1000 Gläubige", "Verfügt über ein einziehbares Dach", "Standort: Nähe des Premierministerbüros", "Verwendet handgefertigte Materialien", "Beispiel für neue klassische islamische Architektur"],
       en: ["Fertiggestellt: 2012", "Architekt: Abdel-Wahed El-Wakil", "Stil: Marokkanisch inspiriert", "Kapazität: 1000 Gläubige", "Verfügt über ein einziehbares Dach", "Standort: Nähe des Premierministerbüros", "Verwendet handgefertigte Materialien", "Beispiel für neue klassische islamische Architektur"]
-    }
-  },
+    }, image: "/poi-images/ash-shaliheen-mosque-landmarks-v2.webp"},
   {
     id: "yayasan-sultan-haji-hassanal-bolkiah-complex-landmarks-v2",
     type: "landmark",
@@ -247,8 +240,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Eröffnet: 1996", "Ist eine gemeinnützige Stiftung", "Architektur: Modern-malaiischer Mix", "Lage: Gegenüber der Omar Ali Saifuddien Moschee", "Verbunden durch eine Fußgängerbrücke", "Beherbergt Geschäfte, Restaurants und Büros", "Gewinne werden für wohltätige Zwecke verwendet", "Bietet Blick auf Kampong Ayer"],
       ro: ["Eröffnet: 1996", "Ist eine gemeinnützige Stiftung", "Architektur: Modern-malaiischer Mix", "Lage: Gegenüber der Omar Ali Saifuddien Moschee", "Verbunden durch eine Fußgängerbrücke", "Beherbergt Geschäfte, Restaurants und Büros", "Gewinne werden für wohltätige Zwecke verwendet", "Bietet Blick auf Kampong Ayer"],
       en: ["Eröffnet: 1996", "Ist eine gemeinnützige Stiftung", "Architektur: Modern-malaiischer Mix", "Lage: Gegenüber der Omar Ali Saifuddien Moschee", "Verbunden durch eine Fußgängerbrücke", "Beherbergt Geschäfte, Restaurants und Büros", "Gewinne werden für wohltätige Zwecke verwendet", "Bietet Blick auf Kampong Ayer"]
-    }
-  },
+    }, image: "/poi-images/yayasan-sultan-haji-hassanal-bolkiah-complex-landmarks-v2.webp"},
   {
     id: "taman-persiaran-damuan-landmarks-v2",
     type: "landmark",
@@ -278,8 +270,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["ASEAN-Skulpturenpark", "Skulpturen von 6 ASEAN-Nationen", "Symposium fand 1985 statt", "Bietet Blick auf den Istana Nurul Iman Palast", "Lage: Am Ufer des Damuan-Flusses", "Beliebt für Spaziergänge am Abend", "Verbindet Kunst und Natur", "Frei zugänglich für die Öffentlichkeit"],
       ro: ["ASEAN-Skulpturenpark", "Skulpturen von 6 ASEAN-Nationen", "Symposium fand 1985 statt", "Bietet Blick auf den Istana Nurul Iman Palast", "Lage: Am Ufer des Damuan-Flusses", "Beliebt für Spaziergänge am Abend", "Verbindet Kunst und Natur", "Frei zugänglich für die Öffentlichkeit"],
       en: ["ASEAN-Skulpturenpark", "Skulpturen von 6 ASEAN-Nationen", "Symposium fand 1985 statt", "Bietet Blick auf den Istana Nurul Iman Palast", "Lage: Am Ufer des Damuan-Flusses", "Beliebt für Spaziergänge am Abend", "Verbindet Kunst und Natur", "Frei zugänglich für die Öffentlichkeit"]
-    }
-  },
+    }, image: "/poi-images/taman-persiaran-damuan-landmarks-v2.webp"},
   {
     id: "kampong-ayer-cultural-and-tourism-gallery-landmarks-v2",
     type: "landmark",
@@ -309,8 +300,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Eröffnet: 2009", "Auf Stelzen im Wasser gebaut", "Dokumentiert die Geschichte von Kampong Ayer", "Verfügt über einen Aussichtsturm", "360-Grad-Panoramablick", "Zeigt historische Artefakte", "Informationszentrum für Touristen", "Eintritt ist kostenlos"],
       ro: ["Eröffnet: 2009", "Auf Stelzen im Wasser gebaut", "Dokumentiert die Geschichte von Kampong Ayer", "Verfügt über einen Aussichtsturm", "360-Grad-Panoramablick", "Zeigt historische Artefakte", "Informationszentrum für Touristen", "Eintritt ist kostenlos"],
       en: ["Eröffnet: 2009", "Auf Stelzen im Wasser gebaut", "Dokumentiert die Geschichte von Kampong Ayer", "Verfügt über einen Aussichtsturm", "360-Grad-Panoramablick", "Zeigt historische Artefakte", "Informationszentrum für Touristen", "Eintritt ist kostenlos"]
-    }
-  },
+    }, image: "/poi-images/kampong-ayer-cultural-and-tourism-gallery-landmarks-v2.webp"},
   {
     id: "bangunan-dewan-majlis-landmarks-v2",
     type: "landmark",
@@ -371,8 +361,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Kapazität: ca. 28.000 Zuschauer", "Eröffnet: 23. September 1983", "Benannt nach Sultan Hassanal Bolkiah", "Hauptnutzung: Fußballspiele", "Verfügt über eine Leichtathletik-Laufbahn", "Austragungsort der Südostasienspiele 1999", "Teil eines größeren nationalen Sportkomplexes", "Heimatstadion der bruneiischen Nationalmannschaft"],
       ro: ["Kapazität: ca. 28.000 Zuschauer", "Eröffnet: 23. September 1983", "Benannt nach Sultan Hassanal Bolkiah", "Hauptnutzung: Fußballspiele", "Verfügt über eine Leichtathletik-Laufbahn", "Austragungsort der Südostasienspiele 1999", "Teil eines größeren nationalen Sportkomplexes", "Heimatstadion der bruneiischen Nationalmannschaft"],
       en: ["Kapazität: ca. 28.000 Zuschauer", "Eröffnet: 23. September 1983", "Benannt nach Sultan Hassanal Bolkiah", "Hauptnutzung: Fußballspiele", "Verfügt über eine Leichtathletik-Laufbahn", "Austragungsort der Südostasienspiele 1999", "Teil eines größeren nationalen Sportkomplexes", "Heimatstadion der bruneiischen Nationalmannschaft"]
-    }
-  },
+    }, image: "/poi-images/hassanal-bolkiah-national-stadium-landmarks-v2.webp"},
   {
     id: "tasek-merimbun-landmarks-v2",
     type: "landmark",
@@ -381,15 +370,15 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     name: { de: "Tasek Merimbun", hu: "Tasek Merimbun", ro: "Tasek Merimbun", en: "Tasek Merimbun" },
     description: {
       de: "Der größte natürliche See in Brunei, der als ASEAN-Kulturerbe anerkannt ist und von dunklem Wasser und üppigen Wäldern geprägt wird.",
-      hu: "Brunei legnagyobb természetes tava, amelyet ASEAN kulturális örökségként tartanak számon, sötét vizével és buja erdeivel.",
+      hu: "A Tasek Merimbun Brunei legnagyobb természetes tava a Tutong körzetben. S alakú vizét sötétre színező, tőzeges vízfolyások táplálják.",
       ro: "Cel mai mare lac natural din Brunei, recunoscut ca sit de patrimoniu ASEAN, caracterizat de ape întunecate și păduri luxuriante.",
-      en: "The largest natural lake in Brunei, recognized as an ASEAN Heritage Park, characterized by its dark waters and lush forests."
+      en: "Tasek Merimbun is the largest natural lake in Brunei. It is located in the Tutong District and is known for its S-shaped shoreline and peat swamp setting."
     },
     facts: {
       de: ["S-förmiger See.", "Heimat seltener Flora und Fauna."],
-      hu: ["S-alakú tó.", "Ritka növény- és állatvilág otthona."],
+      hu: ["Brunei legnagyobb természetes tava", "Tutong körzetében található", "S alakú tó", "1984 óta ASEAN Heritage Park"],
       ro: ["Lac în formă de S.", "Acasă pentru o floră și faună rară."],
-      en: ["S-shaped lake.", "Home to rare flora and fauna."]
+      en: ["Largest natural lake in Brunei", "Located in Tutong District", "Known for its S-shape", "Surrounded by peat swamp forest"]
     },
     descriptionAdvanced: {
       de: "Tasek Merimbun, im Tutong-Distrikt gelegen, ist der größte natürliche See Bruneis und ein Gebiet von internationaler ökologischer Bedeutung. Der See hat eine markante S-Form und ist bekannt für sein dunkles, torfiges Wasser, das durch Tannine aus den umliegenden Torfmoorwäldern gefärbt ist. Im Jahr 1984 wurde der See zusammen mit dem umliegenden 7.800 Hektar großen Gebiet zum Tasek Merimbun Heritage Park erklärt, dem elften ASEAN Heritage Park. Das Gebiet ist ein Hotspot der Biodiversität und beherbergt seltene Arten wie den Weißkopf-Languren und den Nashornvogel. Auf einer kleinen Insel im See befindet sich ein Forschungszentrum. Der Park bietet Besuchern Holzstege, einen Aussichtsturm und die Möglichkeit, die einzigartige Flora und Fauna des Torfmoor-Ökosystems zu erleben.",
@@ -402,8 +391,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Größter natürlicher See in Brunei", "Form: S-förmig", "Wasserfarbe: Dunkel durch Tannine", "Zum ASEAN Heritage Park erklärt (1984)", "Fläche des Parks: 7.800 Hektar", "Heimat des Weißkopf-Languren", "Umfasst Torfmoorwälder", "Verfügt über ein Forschungszentrum auf einer Insel"],
       ro: ["Größter natürlicher See in Brunei", "Form: S-förmig", "Wasserfarbe: Dunkel durch Tannine", "Zum ASEAN Heritage Park erklärt (1984)", "Fläche des Parks: 7.800 Hektar", "Heimat des Weißkopf-Languren", "Umfasst Torfmoorwälder", "Verfügt über ein Forschungszentrum auf einer Insel"],
       en: ["Größter natürlicher See in Brunei", "Form: S-förmig", "Wasserfarbe: Dunkel durch Tannine", "Zum ASEAN Heritage Park erklärt (1984)", "Fläche des Parks: 7.800 Hektar", "Heimat des Weißkopf-Languren", "Umfasst Torfmoorwälder", "Verfügt über ein Forschungszentrum auf einer Insel"]
-    }
-  },
+    }, image: "/poi-images/tasek-merimbun-landmarks-v2.webp"},
   {
     id: "ulu-temburong-canopy-walkway-landmarks-v2",
     type: "landmark",
@@ -433,8 +421,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Höhe: ca. 43 Meter", "Lage: Ulu-Temburong-Nationalpark", "Erreichbar per Langboot (Temuai)", "Bietet 360-Grad-Blick auf den Regenwald", "Stahlkonstruktion mit Hängebrücken", "Erfordert einen Aufstieg über viele Stufen", "Ermöglicht die Beobachtung des Kronendachs", "Zugang wird zum Schutz der Natur reguliert"],
       ro: ["Höhe: ca. 43 Meter", "Lage: Ulu-Temburong-Nationalpark", "Erreichbar per Langboot (Temuai)", "Bietet 360-Grad-Blick auf den Regenwald", "Stahlkonstruktion mit Hängebrücken", "Erfordert einen Aufstieg über viele Stufen", "Ermöglicht die Beobachtung des Kronendachs", "Zugang wird zum Schutz der Natur reguliert"],
       en: ["Höhe: ca. 43 Meter", "Lage: Ulu-Temburong-Nationalpark", "Erreichbar per Langboot (Temuai)", "Bietet 360-Grad-Blick auf den Regenwald", "Stahlkonstruktion mit Hängebrücken", "Erfordert einen Aufstieg über viele Stufen", "Ermöglicht die Beobachtung des Kronendachs", "Zugang wird zum Schutz der Natur reguliert"]
-    }
-  },
+    }, image: "/poi-images/ulu-temburong-canopy-walkway-landmarks-v2.webp"},
   {
     id: "pantai-seri-kenangan-landmarks-v2",
     type: "landmark",
@@ -464,8 +451,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Bedeutung: Strand der unvergesslichen Erinnerungen", "Lage: Tutong-Distrikt", "Trennt das Südchinesische Meer vom Tutong-Fluss", "Beliebter Picknick- und Angelplatz", "Einzigartige schmale Landzunge", "Verfügt über einfache Hütten und einen Spielplatz", "Besonders malerisch bei Sonnenuntergang", "Bietet zwei verschiedene Wasserumgebungen"],
       ro: ["Bedeutung: Strand der unvergesslichen Erinnerungen", "Lage: Tutong-Distrikt", "Trennt das Südchinesische Meer vom Tutong-Fluss", "Beliebter Picknick- und Angelplatz", "Einzigartige schmale Landzunge", "Verfügt über einfache Hütten und einen Spielplatz", "Besonders malerisch bei Sonnenuntergang", "Bietet zwei verschiedene Wasserumgebungen"],
       en: ["Bedeutung: Strand der unvergesslichen Erinnerungen", "Lage: Tutong-Distrikt", "Trennt das Südchinesische Meer vom Tutong-Fluss", "Beliebter Picknick- und Angelplatz", "Einzigartige schmale Landzunge", "Verfügt über einfache Hütten und einen Spielplatz", "Besonders malerisch bei Sonnenuntergang", "Bietet zwei verschiedene Wasserumgebungen"]
-    }
-  },
+    }, image: "/poi-images/pantai-seri-kenangan-landmarks-v2.webp"},
   {
     id: "bukit-shahbandar-forest-recreation-park-landmarks-v2",
     type: "landmark",
@@ -495,8 +481,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Lage: Nähe Jerudong", "Bekannt für Wanderwege", "Verfügt über 9 Hügel", "Bietet verschiedene Schwierigkeitsgrade", "Aussichtstürme mit Panoramablick", "Beliebt bei Fitness-Enthusiasten", "Durchquert einen sekundären tropischen Wald", "Der Eintritt ist frei"],
       ro: ["Lage: Nähe Jerudong", "Bekannt für Wanderwege", "Verfügt über 9 Hügel", "Bietet verschiedene Schwierigkeitsgrade", "Aussichtstürme mit Panoramablick", "Beliebt bei Fitness-Enthusiasten", "Durchquert einen sekundären tropischen Wald", "Der Eintritt ist frei"],
       en: ["Lage: Nähe Jerudong", "Bekannt für Wanderwege", "Verfügt über 9 Hügel", "Bietet verschiedene Schwierigkeitsgrade", "Aussichtstürme mit Panoramablick", "Beliebt bei Fitness-Enthusiasten", "Durchquert einen sekundären tropischen Wald", "Der Eintritt ist frei"]
-    }
-  },
+    }, image: "/poi-images/bukit-shahbandar-forest-recreation-park-landmarks-v2.webp"},
   {
     id: "brunei-energy-hub-dermaga-diraja-landmarks-v2",
     type: "landmark",
@@ -526,8 +511,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Eröffnet: 2022", "Standort: Ehem. Zollgebäude (erbaut 1950er)", "Thema: Öl- und Gasindustrie Bruneis", "Hauptsponsor: Brunei Shell Petroleum", "Interaktives Museum", "Dient auch als Kunst- und Kulturzentrum", "Lage: Ufer von Bandar Seri Begawan", "Verbindet Geschichte und moderne Technologie"],
       ro: ["Eröffnet: 2022", "Standort: Ehem. Zollgebäude (erbaut 1950er)", "Thema: Öl- und Gasindustrie Bruneis", "Hauptsponsor: Brunei Shell Petroleum", "Interaktives Museum", "Dient auch als Kunst- und Kulturzentrum", "Lage: Ufer von Bandar Seri Begawan", "Verbindet Geschichte und moderne Technologie"],
       en: ["Eröffnet: 2022", "Standort: Ehem. Zollgebäude (erbaut 1950er)", "Thema: Öl- und Gasindustrie Bruneis", "Hauptsponsor: Brunei Shell Petroleum", "Interaktives Museum", "Dient auch als Kunst- und Kulturzentrum", "Lage: Ufer von Bandar Seri Begawan", "Verbindet Geschichte und moderne Technologie"]
-    }
-  },
+    }, image: "/poi-images/brunei-energy-hub-dermaga-diraja-landmarks-v2.webp"},
   {
     id: "lapau-landmarks-v2",
     type: "landmark",
@@ -557,8 +541,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Typ: Königliche Zeremonienhalle", "Fertiggestellt: 1968", "Krönungsort von Sultan Hassanal Bolkiah (1968)", "Inspiriert von malaiischer Architektur", "Verfügt über eine goldene Kuppel", "Wird für staatliche und königliche Zeremonien genutzt", "Liegt neben dem alten Parlamentsgebäude", "Symbol der Monarchie in Brunei"],
       ro: ["Typ: Königliche Zeremonienhalle", "Fertiggestellt: 1968", "Krönungsort von Sultan Hassanal Bolkiah (1968)", "Inspiriert von malaiischer Architektur", "Verfügt über eine goldene Kuppel", "Wird für staatliche und königliche Zeremonien genutzt", "Liegt neben dem alten Parlamentsgebäude", "Symbol der Monarchie in Brunei"],
       en: ["Typ: Königliche Zeremonienhalle", "Fertiggestellt: 1968", "Krönungsort von Sultan Hassanal Bolkiah (1968)", "Inspiriert von malaiischer Architektur", "Verfügt über eine goldene Kuppel", "Wird für staatliche und königliche Zeremonien genutzt", "Liegt neben dem alten Parlamentsgebäude", "Symbol der Monarchie in Brunei"]
-    }
-  },
+    }, image: "/poi-images/lapau-landmarks-v2.webp"},
   {
     id: "agroteknologi-park-tungku-landmarks-v2",
     type: "landmark",
@@ -588,8 +571,7 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
       hu: ["Fläche: 500 Hektar", "Zweck: Agrarforschung, Bildung, Erholung", "Präsentiert moderne Agrartechniken (Hydrokultur)", "Fördert die Ernährungssicherheit Bruneis", "Verfügt über Obst- und Blumengärten", "Verkauf von saisonalen Früchten vor Ort", "Beliebter Ort für Familienausflüge", "Lage: In der Nähe von Tungku Beach"],
       ro: ["Fläche: 500 Hektar", "Zweck: Agrarforschung, Bildung, Erholung", "Präsentiert moderne Agrartechniken (Hydrokultur)", "Fördert die Ernährungssicherheit Bruneis", "Verfügt über Obst- und Blumengärten", "Verkauf von saisonalen Früchten vor Ort", "Beliebter Ort für Familienausflüge", "Lage: In der Nähe von Tungku Beach"],
       en: ["Fläche: 500 Hektar", "Zweck: Agrarforschung, Bildung, Erholung", "Präsentiert moderne Agrartechniken (Hydrokultur)", "Fördert die Ernährungssicherheit Bruneis", "Verfügt über Obst- und Blumengärten", "Verkauf von saisonalen Früchten vor Ort", "Beliebter Ort für Familienausflüge", "Lage: In der Nähe von Tungku Beach"]
-    }
-  },
+    }, image: "/poi-images/agroteknologi-park-tungku-landmarks-v2.webp"},
   {
     id: "sungai-basong-recreation-park-landmarks-v2",
     type: "landmark",

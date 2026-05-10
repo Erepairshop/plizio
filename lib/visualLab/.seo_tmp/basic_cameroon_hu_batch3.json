@@ -1,0 +1,44 @@
+{
+  "lang": "hu",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sodecoton-maroua-economic-v2",
+      "description": "A SODECOTON marouai üzeme a kameruni gyapotfeldolgozás egyik kulcspontja. A farmerhálózat és az exportlánc része.",
+      "facts": ["gyapotfeldolgozás", "marouai üzem", "északi exportlánc"]
+    },
+    {
+      "id": "cimencam-figuil-economic-v2",
+      "description": "A figuili CIMENCAM üzem az északi régió cementellátását biztosítja. A távoli területek építkezéseihez is szállít.",
+      "facts": ["cementgyár Figuilben", "északi ellátás", "építőanyag-termelés"]
+    },
+    {
+      "id": "kribi-gas-plant-economic-v2",
+      "description": "A kribi gázüzem a partvidék energiaellátásához kapcsolódik. Földgázt használ áramtermelésre és ipari célokra.",
+      "facts": ["gázüzem Kribiben", "földgázra épül", "áram és ipar"]
+    },
+    {
+      "id": "foumban-bauxite-economic-v2",
+      "description": "A Foumban környéki bauxitlelőhely a nyugati régió nyersanyagbázisához tartozik. Az alumíniumipari tervek egyik tartaléka.",
+      "facts": ["bauxit a nyugaton", "Foumban térsége", "alumínium-alapanyag"]
+    },
+    {
+      "id": "ngaoundal-bauxite-economic-v2",
+      "description": "A Ngaoundal melletti bauxitprojekt az Adamaoua nyersanyagkészletét erősíti. A jövőbeli ipari fejlesztésekhez kötődik.",
+      "facts": ["bauxit Adamaouában", "Ngaoundal térsége", "ipari fejlesztési alap"]
+    },
+    {
+      "id": "camalco-makan-economic-v2",
+      "description": "A Camalco Makanban bauxit- és alumíniumipari projektet fejleszt. A nyersanyag-kitermeléshez és a feldolgozáshoz is kapcsolódik.",
+      "facts": ["bauxitprojekt Makanban", "nyersanyag-kitermelés", "alumíniumlánc"]
+    },
+    {
+      "id": "sabc-ndokoti-economic-v2",
+      "description": "A ndokoti SABC telep Douala egyik legfontosabb itallogisztikai pontja. A nagyvárosi ellátási lánc része.",
+      "facts": ["Douala városrész", "itallogisztikai központ", "SABC telep"]
+    }
+  ]
+}

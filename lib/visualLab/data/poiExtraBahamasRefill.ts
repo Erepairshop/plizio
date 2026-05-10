@@ -441,8 +441,7 @@ export const poiExtraBahamasRefill: POI[] = [
       hu: ["1741-ben épült", "Nassau kikötőjének keleti bejáratát őrzi", "A legrégebbi fennmaradt erőd New Providence szigetén.", "A karibi térségben fekvő Bahama-szigetek területén található.", "A régiót trópusi-tengeri éghajlat jellemzi.", "A szigetek közlekedési hálózatán keresztül érhető el.", "Szerepet játszik a helyi gazdaságban és kultúrában.", "A bahamai táj sokszínűségét képviseli."],
       ro: ["Construit în 1741", "Păzește intrarea estică în portul Nassau", "Cel mai vechi fort supraviețuitor de pe New Providence.", "Este situat în statul-arhipelag caraibian Bahamas.", "Regiunea este caracterizată de un climat tropical-maritim.", "Accesibil prin rețeaua națională de transport a insulelor.", "Joacă un rol în economia și cultura locală.", "Reprezentativ pentru diversitatea peisajului bahamian."],
       en: ["Built in 1741", "Guards the eastern entrance to Nassau Harbour", "The oldest surviving fort on New Providence.", "Located in the Caribbean island nation of the Bahamas.", "The region is marked by a tropical-maritime climate.", "Accessible via the national transport network of the islands.", "Plays a role in the local economy and culture.", "Representative of the diversity of the Bahamian landscape."]
-    }
-  },
+    }, image: "/poi-images/bs-fort-montagu-refill.webp"},
   {
     id: "bs-blackbeards-tower-refill",
     type: "historical",
@@ -735,8 +734,7 @@ export const poiExtraBahamasRefill: POI[] = [
       hu: ["A világon az első ilyen", "Horgászat nem engedélyezett", "Védett terület az Exuma-szigeteken, érintetlen szépségéről ismert.", "A karibi térségben fekvő Bahama-szigetek területén található.", "A régiót trópusi-tengeri éghajlat jellemzi.", "A szigetek közlekedési hálózatán keresztül érhető el.", "Szerepet játszik a helyi gazdaságban és kultúrában.", "A bahamai táj sokszínűségét képviseli."],
       ro: ["Primul de acest fel din lume", "Pescuitul nu este permis", "O zonă protejată în Exumas, renumită pentru frumusețea sa neatinsă.", "Este situat în statul-arhipelag caraibian Bahamas.", "Regiunea este caracterizată de un climat tropical-maritim.", "Accesibil prin rețeaua națională de transport a insulelor.", "Joacă un rol în economia și cultura locală.", "Reprezentativ pentru diversitatea peisajului bahamian."],
       en: ["First of its kind in the world", "No-take fishing zone", "A protected area in the Exumas known for its pristine beauty.", "Located in the Caribbean island nation of the Bahamas.", "The region is marked by a tropical-maritime climate.", "Accessible via the national transport network of the islands.", "Plays a role in the local economy and culture.", "Representative of the diversity of the Bahamian landscape."]
-    }
-  },
+    }, image: "/poi-images/bs-exuma-cays-land-and-sea-park-refill.webp"},
   {
     id: "bs-inagua-national-park-refill",
     type: "animal-habitat",

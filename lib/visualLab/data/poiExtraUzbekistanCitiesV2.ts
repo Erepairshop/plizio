@@ -44,8 +44,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Has the tallest television tower in Central Asia at 375 meters.",
         "Over 2.9 million people live in its metropolitan area."
       ]
-    }
-  },
+    }, image: "/poi-images/tashkent-cities-v2.webp"},
   {
     id: "samarkand-cities-v2",
     type: "city",
@@ -89,8 +88,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "In the 14th century, Timur made Samarkand the capital of his empire.",
         "The city was founded in the 8th century BC as Marakanda."
       ]
-    }
-  },
+    }, image: "/poi-images/samarkand-cities-v2.webp"},
   {
     id: "bukhara-cities-v2",
     type: "city",
@@ -134,8 +132,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Was an important center of Islamic theology for centuries.",
         "The city is located in an oasis on the edge of the Kyzylkum desert."
       ]
-    }
-  },
+    }, image: "/poi-images/bukhara-cities-v2.webp"},
   {
     id: "namangan-cities-v2",
     type: "city",
@@ -179,8 +176,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "A center of the Uzbek textile and clothing industry.",
         "The region is famous for growing peaches and apples."
       ]
-    }
-  },
+    }, image: "/poi-images/namangan-cities-v2.webp"},
   {
     id: "andijan-cities-v2",
     type: "city",
@@ -224,8 +220,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Babur, the founder of the Indian Mughal Empire, was born here in 1483.",
         "The economy benefits from its proximity to the border with Kyrgyzstan."
       ]
-    }
-  },
+    }, image: "/poi-images/andijan-cities-v2.webp"},
   {
     id: "fergana-cities-v2",
     type: "city",
@@ -269,8 +264,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "An important center for processing oil and gas in the region.",
         "The city is located at an altitude of around 580 meters above sea level."
       ]
-    }
-  },
+    }, image: "/poi-images/fergana-cities-v2.webp"},
   {
     id: "nukus-cities-v2",
     type: "city",
@@ -314,8 +308,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The city has experienced a boom as a research and industrial center since 1960.",
         "Is located in a region severely affected by the drying up of the Aral Sea."
       ]
-    }
-  },
+    }, image: "/poi-images/nukus-cities-v2.webp"},
   {
     id: "karshi-cities-v2",
     type: "city",
@@ -359,8 +352,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Around the city are some of the largest natural gas fields in Uzbekistan.",
         "Has a 16th-century historical bridge over the Qashqadaryo river."
       ]
-    }
-  },
+    }, image: "/poi-images/karshi-cities-v2.webp"},
   {
     id: "kokand-cities-v2",
     type: "city",
@@ -404,8 +396,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "One of the most important religious centers of the Fergana Valley with dozens of historical mosques.",
         "A traditional center of silk spinning and wood carving."
       ]
-    }
-  },
+    }, image: "/poi-images/kokand-cities-v2.webp"},
   {
     id: "margilan-cities-v2",
     type: "city",
@@ -449,8 +440,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Was an important resting place for merchants on the Silk Road.",
         "Is one of the oldest cities in the Fergana Valley, mentioned in documents as early as the 9th century."
       ]
-    }
-  },
+    }, image: "/poi-images/margilan-cities-v2.webp"},
   {
     id: "navoiy-cities-v2",
     type: "city",
@@ -494,8 +484,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The Navoiy Mining and Metallurgical Combinat is one of the world's largest gold and uranium producers.",
         "Is the first Uzbek city in which a Free Economic Zone was established."
       ]
-    }
-  },
+    }, image: "/poi-images/navoiy-cities-v2.webp"},
   {
     id: "jizzakh-cities-v2",
     type: "city",
@@ -539,8 +528,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Sharof Rashidov, the longtime party leader of the Uzbek SSR, was born here.",
         "Is located near the picturesque Saamin National Park."
       ]
-    }
-  },
+    }, image: "/poi-images/jizzakh-cities-v2.webp"},
   {
     id: "urgench-cities-v2",
     type: "city",
@@ -584,8 +572,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Is an important center of the cotton industry in the Khorezm region.",
         "Was heavily industrialized and expanded during the Soviet era in the 1950s."
       ]
-    }
-  },
+    }, image: "/poi-images/urgench-cities-v2.webp"},
   {
     id: "termez-cities-v2",
     type: "city",
@@ -629,8 +616,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Trade with Afghanistan was conducted over the Friendship Bridge on the Amu Darya.",
         "Is considered the hottest city in Uzbekistan with summer temperatures often exceeding 45 degrees Celsius."
       ]
-    }
-  },
+    }, image: "/poi-images/termez-cities-v2.webp"},
   {
     id: "chirchiq-cities-v2",
     type: "city",
@@ -674,8 +660,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "During the Second World War, numerous factories were evacuated here.",
         "Near the city is a large winter sports area called Beldersay."
       ]
-    }
-  },
+    }, image: "/poi-images/chirchiq-cities-v2.webp"},
   {
     id: "angren-cities-v2",
     type: "city",
@@ -719,8 +704,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Is located on the important railway line connecting the Fergana Valley with the rest of Uzbekistan.",
         "The surrounding mountains make the city a starting point for mountain hikes."
       ]
-    }
-  },
+    }, image: "/poi-images/angren-cities-v2.webp"},
   {
     id: "olmaliq-cities-v2",
     type: "city",
@@ -764,8 +748,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The large Kalmakyr open-pit mine is one of the largest copper mines in the world.",
         "The city stadium is home to the well-known football club AGMK Olmaliq."
       ]
-    }
-  },
+    }, image: "/poi-images/olmaliq-cities-v2.webp"},
   {
     id: "bekabad-cities-v2",
     type: "city",
@@ -854,8 +837,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The historical center of Shahrisabz has been a UNESCO World Heritage Site since 2000.",
         "The 15th-century Kok-Gumbaz Mosque is known for its huge blue dome."
       ]
-    }
-  },
+    }, image: "/poi-images/shahrisabz-cities-v2.webp"},
   {
     id: "guliston-cities-v2",
     type: "city",
@@ -899,8 +881,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Is an important educational center in the Sirdaryo region with its own university.",
         "Is located in the center of an artificially irrigated steppe region."
       ]
-    }
-  },
+    }, image: "/poi-images/guliston-cities-v2.webp"},
   {
     id: "denov-cities-v2",
     type: "city",
@@ -944,8 +925,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The city's bazaar is one of the largest and liveliest in southern Uzbekistan.",
         "During the Soviet era, the first attempts at growing subtropical fruits were made here."
       ]
-    }
-  },
+    }, image: "/poi-images/denov-cities-v2.webp"},
   {
     id: "zarafshan-cities-v2",
     type: "city",
@@ -989,8 +969,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Due to its isolated location, the city's water is brought in via a 250-kilometer pipeline system.",
         "Because of its rich mineral resources, it is often called the \"El Dorado of Uzbekistan\"."
       ]
-    }
-  },
+    }, image: "/poi-images/zarafshan-cities-v2.webp"},
   {
     id: "kattakurgan-cities-v2",
     type: "city",
@@ -1034,8 +1013,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Has one of the oldest Uzbek drama theaters, which opened in 1921.",
         "Is known for its traditional meat dishes and the lively Sunday bazaar."
       ]
-    }
-  },
+    }, image: "/poi-images/kattakurgan-cities-v2.webp"},
   {
     id: "asaka-cities-v2",
     type: "city",
@@ -1079,8 +1057,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The factory in Asaka exports vehicles to many states of the former Soviet Union.",
         "Is strongly characterized by agriculture and considered a center of fruit growing in the Fergana Valley."
       ]
-    }
-  },
+    }, image: "/poi-images/asaka-cities-v2.webp"},
   {
     id: "khiva-cities-v2",
     type: "city",
@@ -1124,8 +1101,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The old town is enclosed by an imposing mud brick wall over two kilometers long.",
         "Was a notorious slave market on the Silk Road for centuries."
       ]
-    }
-  },
+    }, image: "/poi-images/khiva-cities-v2.webp"},
   {
     id: "yangiyul-cities-v2",
     type: "city",
@@ -1169,8 +1145,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "One of the most important satellite cities of the capital Tashkent.",
         "Numerous factories for confectionery and pasta are based here."
       ]
-    }
-  },
+    }, image: "/poi-images/yangiyul-cities-v2.webp"},
   {
     id: "chust-cities-v2",
     type: "city",
@@ -1214,8 +1189,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "One of the oldest settlement sites in the Fergana Valley with prehistoric finds.",
         "Has a charming city park with mineral springs and old tea trees."
       ]
-    }
-  },
+    }, image: "/poi-images/chust-cities-v2.webp"},
   {
     id: "khodjeyli-cities-v2",
     type: "city",
@@ -1259,8 +1233,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "A historical center of textile processing in Karakalpakstan.",
         "The Gyaur-Kala fortress from the Zoroastrian period is located near Mizdakhan."
       ]
-    }
-  },
+    }, image: "/poi-images/khodjeyli-cities-v2.webp"},
   {
     id: "turtkul-cities-v2",
     type: "city",
@@ -1304,8 +1277,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The city had to be moved several times due to flooding of the Amu Darya river.",
         "Turtkul is today an important center for growing cotton and rice."
       ]
-    }
-  },
+    }, image: "/poi-images/turtkul-cities-v2.webp"},
   {
     id: "kungrad-cities-v2",
     type: "city",

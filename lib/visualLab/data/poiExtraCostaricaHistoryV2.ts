@@ -22,14 +22,14 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Ort der berühmten Schlacht von 1856, bei der costa-ricanische Truppen die Filibuster von William Walker besiegten. Es ist ein Nationalhelden-Denkmal.",
-      hu: "Az 1856-os híres csata helyszíne, ahol a Costa Rica-i csapatok legyőzték William Walker kalandorait. Nemzeti hősi emlékhely.",
+      hu: "Az 1856-os Santa Rosa-i csata helyszíne, ahol a costa ricai erők megállították William Walker csapatait. A hely a nemzeti függetlenség és szuverenitás fontos emlékhelye.",
       ro: "Locul celebrei bătălii din 1856, unde trupele costa-ricane i-au învins pe filibusterii lui William Walker. Este un monument al eroilor naționali.",
       en: "Site of the famous 1856 battle where Costa Rican forces defeated the filibusters of William Walker. It's a national heroes' monument."
     },
     
     facts: {
       de: ["Schlacht im Jahr 1856", "Sieg über William Walker", "Teil des Santa Rosa Nationalparks", "Symbol des Nationalstolzes"],
-      hu: ["1856-os csata", "Győzelem William Walker felett", "A Santa Rosa Nemzeti Park része", "A nemzeti büszkeség szimbóluma"],
+      hu: ["1856-os csata", "William Walker ellen", "Nemzeti emlékhely"],
       ro: ["Bătălia din 1856", "Victorie împotriva lui William Walker", "Parte a Parcului Național Santa Rosa", "Simbol al mândriei naționale"],
       en: ["Battle fought in 1856", "Victory over William Walker", "Located in Santa Rosa National Park", "Symbol of national sovereignty"]
     },
@@ -55,14 +55,14 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
     description: {
       de: "Eine ikonische neugotische Kirche im Herzen von San José, bekannt für ihren markanten Turm und ihre deutsche Orgel.",
       hu: "Ikonikus neogótikus templom San José szívében, jellegzetes tornyáról és német orgonájáról ismert.",
-      ro: "O biserică neogotică iconică în inima orașului San José, cunoscută pentru turnul său distinctiv și orga sa germană.",
+      ro: "Biserica La Merced din San José este un reper neogotic cunoscut pentru turnul său roșu și pentru orga germană. Face parte din peisajul istoric al centrului capitalei.",
       en: "An iconic neo-Gothic church in the heart of San José, known for its distinctive tower and German-made organ."
     },
     
     facts: {
       de: ["Neugotischer Stil", "Erbaut Ende des 19. Jahrhunderts", "Markanter roter Turm", "Wichtiges religiöses Wahrzeichen"],
       hu: ["Neogótikus stílus", "A 19. század végén épült", "Jellegzetes vörös torony", "Fontos vallási jelkép"],
-      ro: ["Stil neogotic", "Construită la sfârșitul secolului al XIX-lea", "Turn roșu distinctiv", "Reper religios important"],
+      ro: ["În San José", "Stil neogotic", "Orga germană"],
       en: ["Neo-Gothic style", "Built in the late 19th century", "Distinctive red tower", "Important religious landmark in the capital"]
     },
      image: "/poi-images/las-mercedes-church-history-v2.webp"},
@@ -118,16 +118,16 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Eine der ältesten noch genutzten Kirchen in Costa Rica, erbaut 1743 im Kolonialstil. Sie beherbergt ein kleines Museum für religiöse Kunst.",
-      hu: "Costa Rica egyik legrégebbi, ma is használatban lévő temploma, 1743-ban épült gyarmati stílusban. Egy kis vallási művészeti múzeumnak ad otthont.",
+      hu: "Orosi gyarmati temploma Costa Rica egyik legrégebbi, ma is álló egyházi épülete. Az 1700-as években emelt templom a gyarmati korszak vallási örökségét őrzi.",
       ro: "Una dintre cele mai vechi biserici încă în uz din Costa Rica, construită în 1743 în stil colonial. Găzduiește un mic muzeu de artă religioasă.",
-      en: "One of the oldest churches still in use in Costa Rica, built in 1743 in a colonial style. It hosts a small museum of religious art."
+      en: "A colonial-era church in the Orosi Valley and one of Costa Rica's oldest surviving religious buildings. It is closely tied to the area's Spanish colonial past."
     },
     
     facts: {
       de: ["Erbaut 1743", "Koloniale Architektur", "Franziskaner-Mission", "Nationalmonument seit 1920"],
-      hu: ["1743-ban épült", "Gyarmati építészet", "Ferences misszió", "1920 óta nemzeti műemlék"],
+      hu: ["Gyarmati kori templom", "1743-ból származik", "Az egyik legrégebbi épület"],
       ro: ["Construită în 1743", "Arhitectură colonială", "Misiune franciscană", "Monument național din 1920"],
-      en: ["Built in 1743", "Spanish colonial architecture", "Franciscan mission origin", "Declared a National Monument in 1920"]
+      en: ["Orosi Valley", "Colonial period", "Historic parish church"]
     },
     
   },
@@ -151,15 +151,15 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Ein archäologischer Park, der die mysteriösen präkolumbianischen Steinkugeln von Costa Rica zeigt. Ein UNESCO-Weltkulturerbe.",
-      hu: "Régészeti park, amely Costa Rica titokzatos prekolumbiánus kőgolyóit mutatja be. Az UNESCO Világörökség része.",
-      ro: "Un parc arheologic ce prezintă misterioasele sfere de piatră precolumbiene din Costa Rica. Un sit al Patrimoniului Mondial UNESCO.",
+      hu: "A déli Diquís-régió egyik legismertebb régészeti helyszíne, ahol a kőgolyók eredeti környezetükben láthatók. A hely a prekolumbián múlt és a helyi emlékezet ritka találkozása.",
+      ro: "Finca 6 din Delta Diquís este unul dintre cele mai importante situri arheologice din Costa Rica. Aici au fost descoperite sferele de piatră care au devenit un simbol precolumbian al țării.",
       en: "An archaeological park showcasing the mysterious pre-Columbian stone spheres of Costa Rica. A UNESCO World Heritage site."
     },
     
     facts: {
       de: ["UNESCO-Weltkulturerbe", "Über 300 Kugeln bekannt", "Aus Granodiorit gefertigt", "Diquís-Kultur"],
-      hu: ["UNESCO Világörökség", "Több mint 300 ismert gömb", "Granodioritból készült", "Diquís-kultúra"],
-      ro: ["Patrimoniu Mondial UNESCO", "Peste 300 de sfere cunoscute", "Făcute din granodiorit", "Cultura Diquís"],
+      hu: ["Diquís-kőgolyók", "Régészeti lelőhely", "Eredeti elrendezésben láthatók"],
+      ro: ["În Delta Diquís", "Sfere de piatră", "Patrimoniu arheologic"],
       en: ["UNESCO World Heritage Site", "Over 300 spheres known", "Carved from granodiorite", "Created by the Diquís culture"]
     },
     
@@ -186,14 +186,14 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       de: "Das historische Hauptgebäude der Hacienda Santa Rosa, Schauplatz der Schlacht von 1856. Es wurde nach einem Brand wieder aufgebaut.",
       hu: "A Santa Rosa hacienda történelmi főépülete, az 1856-os csata helyszíne. Egy tűzvész után újjáépítették.",
       ro: "Clădirea istorică principală a haciendei Santa Rosa, scena bătăliei din 1856. A fost reconstruită după un incendiu.",
-      en: "The historic main house of the Santa Rosa Hacienda, setting of the 1856 battle. It has been rebuilt after being destroyed by fire."
+      en: "The historic ranch house at Santa Rosa National Park, remembered for the 1856 Battle of Santa Rosa. It is one of the best-known symbols of Costa Rican national history."
     },
     
     facts: {
       de: ["Historisches Bauernhaus", "Zentraler Ort der Schlacht", "Mehrmals wiederaufgebaut", "Museum vor Ort"],
       hu: ["Történelmi farmház", "A csata központi helyszíne", "Többször újjáépítették", "Múzeum a helyszínen"],
       ro: ["Casă de fermă istorică", "Locul central al bătăliei", "Reconstruită de mai multe ori", "Muzeu la fața locului"],
-      en: ["Historic ranch house", "Focal point of the battle", "Rebuilt multiple times", "On-site museum"]
+      en: ["Santa Rosa National Park", "Battle of 1856", "Historic ranch house"]
     },
      image: "/poi-images/la-casona-santa-rosa-history-v2.webp"},
   {
@@ -345,14 +345,14 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
     description: {
       de: "Eine weitere wichtige Stätte mit Felsritzungen in Guanacaste, die Einblicke in das Leben der präkolumbianischen Völker gibt.",
       hu: "Egy másik fontos sziklavésetes lelőhely Guanacastében, amely betekintést nyújt a prekolumbiánus népek életébe.",
-      ro: "Un alt sit important cu gravuri rupestre în Guanacaste, oferind o perspectivă asupra vieții popoarelor precolumbiene.",
+      ro: "Petroglifele de la Cabuyal păstrează gravuri vechi pe piatră, într-un peisaj rural din Guanacaste. Situl leagă arta rupestră de istoria comunităților locale.",
       en: "Another significant site of rock carvings in Guanacaste, offering insights into the lives of pre-Columbian peoples."
     },
     
     facts: {
       de: ["Präkolumbianische Kunst", "In der Nähe der Küste", "Zeigt spiralige und tierische Motive", "Wenig erforscht"],
       hu: ["Prekolumbiánus művészet", "A tengerpart közelében", "Spirál- és állatmotívumok", "Kevéssé kutatott"],
-      ro: ["Artă precolumbiană", "Aproape de coastă", "Prezintă motive spiralate și animale", "Puțin cercetat"],
+      ro: ["În Guanacaste", "Gravuri pe piatră", "Artă rupestră"],
       en: ["Pre-Columbian art", "Located near the coast", "Features spiral and animal motifs", "Less studied than other sites"]
     },
      image: "/poi-images/cabuyal-petroglyphs-history-v2.webp"},
@@ -376,16 +376,16 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Ein großes Kreuz in der Nähe von Cartago, das an die Opfer eines Vulkanausbruchs oder einer Epidemie im 19. Jahrhundert erinnert.",
-      hu: "Egy nagy kereszt Cartago közelében, amely egy 19. századi vulkánkitörés vagy járvány áldozataira emlékeztet.",
+      hu: "Cartago közelében álló emlékereszt, amely 19. századi természeti katasztrófák áldozataira utal. Rövid zarándok- és emlékpontként ismert.",
       ro: "O cruce mare lângă Cartago care comemorează victimele unei erupții vulcanice sau ale unei epidemii din secolul al XIX-lea.",
-      en: "A large cross near Cartago that commemorates the victims of a volcanic eruption or an epidemic in the 19th century."
+      en: "A commemorative cross associated with local memory and religious tradition in Cartago Province. It reflects the area's strong blend of faith and historical identity."
     },
     
     facts: {
       de: ["Erinnerungskreuz", "Opfer von Naturkatastrophen", "Aussichtspunkt", "Religiöse Bedeutung"],
-      hu: ["Emlékkereszt", "Természeti katasztrófák áldozatai", "Kilátópont", "Vallási jelentőség"],
+      hu: ["Cartago közelében", "Emlékereszt", "Természeti katasztrófákra utal"],
       ro: ["Cruce comemorativă", "Victimele dezastrelor naturale", "Punct de belvedere", "Semnificație religioasă"],
-      en: ["Commemorative cross", "Victims of natural disasters", "Viewpoint", "Religious significance"]
+      en: ["In Cartago Province", "Commemorative monument", "Local religious memory"]
     },
      image: "/poi-images/las-animas-cross-history-v2.webp"},
   {
@@ -408,14 +408,14 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Überreste der alten 'Dschungelbahn' zur Atlantikküste, die für den Bananenexport von entscheidender Bedeutung war.",
-      hu: "Az Atlanti-óceán partjára vezető régi \\\"dzsungelvasút\\\" maradványai, amely a banánexport szempontjából kulcsfontosságú volt.",
+      hu: "A La Palma vasúti szakasz a karibi part felé vezető régi útvonal egyik megmaradt emléke. A banánexport és a vasútépítés történetéhez kötődik.",
       ro: "Rămășițe ale vechii 'căi ferate din junglă' către coasta Atlanticului, care a fost crucială pentru exportul de banane.",
       en: "Remains of the old 'Jungle Train' to the Atlantic coast, which was crucial for the banana export industry."
     },
     
     facts: {
       de: ["Historische Eisenbahnlinie", "Bananenexport", "Erbaut im 19. Jahrhundert", "Heute teilweise Wanderweg"],
-      hu: ["Történelmi vasútvonal", "Banánexport", "A 19. században épült", "Ma részben túraútvonal"],
+      hu: ["Történeti vasúti szakasz", "Karibi kapcsolat", "Banánexporthoz kötődik"],
       ro: ["Linie ferată istorică", "Exportul de banane", "Construită în secolul al XIX-lea", "Astăzi, parțial traseu de drumeție"],
       en: ["Historic railway line", "Banana export industry", "Built in the 19th century", "Now partly a hiking trail"]
     },
@@ -473,16 +473,16 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Eine beeindruckende neugotische Metallkirche, die vollständig in Belgien hergestellt und nach Costa Rica verschifft wurde.",
-      hu: "Lenyűgöző neogótikus fém-templom, amelyet teljes egészében Belgiumban gyártottak és szállítottak Costa Ricába.",
-      ro: "O impresionantă biserică neogotică din metal, fabricată integral în Belgia și transportată în Costa Rica.",
-      en: "An impressive neo-Gothic metal church, entirely manufactured in Belgium and shipped to Costa Rica."
+      hu: "San Vicente de Moravia temploma a moraviai városmag egyik régi vallási pontja. A környék közösségi életében ma is fontos szerepet játszik.",
+      ro: "Biserica din San Vicente de Moravia este un reper religios al zonei metropolitane. Templul marchează centrul vieții parohiale locale.",
+      en: "A parish church in Moravia that serves as a local historical landmark. It stands at the center of community life and neighborhood identity."
     },
     
     facts: {
       de: ["Vollständig aus Metall", "In Belgien hergestellt", "Neugotischer Stil", "Erbaut 1891"],
-      hu: ["Teljesen fémből készült", "Belgiumban gyártották", "Neogótikus stílus", "1891-ben épült"],
-      ro: ["Complet din metal", "Fabricată în Belgia", "Stil neogotic", "Construită în 1891"],
-      en: ["Made entirely of metal", "Manufactured in Belgium", "Neo-Gothic design", "Built in 1891"]
+      hu: ["Moravia központi része", "Régi plébániai helyszín", "Közösségi szerepű templom"],
+      ro: ["În Moravia", "Reper parohial", "Parte din zona metropolitană"],
+      en: ["In Moravia", "Parish church", "Community landmark"]
     },
     
   },
@@ -570,15 +570,15 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Ein historischer Ort mit einem Wasserfall, der in der Kolonialzeit als Treffpunkt und Waschplatz diente.",
-      hu: "Történelmi helyszín egy vízeséssel, amely a gyarmati időkben találkozóhelyként és mosóhelyként szolgált.",
-      ro: "Un loc istoric cu o cascadă care a servit drept loc de întâlnire și spălătorie în perioada colonială.",
+      hu: "El Salto de Belén egy történeti vízesés és találkozóhely Heredia térségében. A gyarmati korszakban a helyi közösségi élethez is kapcsolódott.",
+      ro: "El Salto de Belén este o cascadă și zonă de apă cunoscută în Guanacaste, lângă Nicoya. Este apreciată pentru peisajul natural și pentru locul de înot.",
       en: "A historic site with a waterfall that served as a meeting point and washing place during colonial times."
     },
     
     facts: {
       de: ["Kolonialer Treffpunkt", "Natürlicher Waschplatz", "Lokale Legenden", "Historische soziale Bedeutung"],
-      hu: ["Gyarmati találkozóhely", "Természetes mosóhely", "Helyi legendák", "Történelmi társadalmi jelentőség"],
-      ro: ["Loc de întâlnire colonial", "Spălătorie naturală", "Legende locale", "Importanță socială istorică"],
+      hu: ["Heredia térségében", "Történeti vízesés", "Gyarmati találkozóhely"],
+      ro: ["În Nicoya", "Cascadă naturală", "Zonă de agrement"],
       en: ["Colonial meeting spot", "Natural washing place", "Site of local legends", "Historic social importance"]
     },
      image: "/poi-images/el-salto-de-belen-history-v2.webp"},
@@ -602,16 +602,16 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Die Kirche San Blas in Nicoya ist eine der ältesten Kirchen Costa Ricas, erbaut 1644, und ein Zeugnis der frühen Kolonialisierung.",
-      hu: "A nicoyai San Blas-templom Costa Rica egyik legrégebbi, 1644-ben épült temploma, a korai gyarmatosítás tanúja.",
+      hu: "A nicoyai San Blas templom Costa Rica egyik legismertebb gyarmati emléke. A város történeti központjában áll, és az ország legősibb templomai közé tartozik.",
       ro: "Biserica San Blas din Nicoya este una dintre cele mai vechi biserici din Costa Rica, construită în 1644, și o mărturie a colonizării timpurii.",
-      en: "The church of San Blas in Nicoya is one of the oldest churches in Costa Rica, built in 1644, and a testament to early colonization."
+      en: "A colonial church in Nicoya and one of the oldest churches in the region. It is a key reminder of the peninsula's long religious history."
     },
     
     facts: {
       de: ["Erbaut 1644", "Überlebte mehrere Erdbeben", "Kleines historisches Museum", "Im Herzen der Halbinsel Nicoya"],
-      hu: ["1644-ben épült", "Több földrengést túlélt", "Kis történelmi múzeum", "A Nicoya-félsziget szívében"],
+      hu: ["San Blas-templom", "Gyarmati örökség", "Az egyik legrégebbi templom"],
       ro: ["Construită în 1644", "A supraviețuit mai multor cutremure", "Mic muzeu istoric", "În inima peninsulei Nicoya"],
-      en: ["Built in 1644", "Survived several earthquakes", "Small historical museum", "In the heart of the Nicoya Peninsula"]
+      en: ["Built in 1644", "Nicoya Peninsula", "Historic religious site"]
     },
      image: "/poi-images/nicoya-church-history-v2.webp"},
   {
@@ -667,14 +667,14 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
     description: {
       de: "Die Geschichte der entflohenen Sklaven (Cimarrones), die in den Bergen von Talamanca Zuflucht fanden und ihre eigene Kultur bewahrten.",
       hu: "A szökött rabszolgák (cimarrones) története, akik a Talamanca-hegységben találtak menedéket és megőrizték saját kultúrájukat.",
-      ro: "Istoria sclavilor fugari (Cimarrones) care și-au găsit refugiu în munții Talamanca și și-au păstrat propria cultură.",
+      ro: "Cultura cimarron vorbește despre rezistență, libertate și identități afro-descendente din America Latină. În Costa Rica, ea se leagă de memoria comunităților care au păstrat tradiții prin muzică și ritual.",
       en: "The history of escaped slaves (Cimarrones) who found refuge in the Talamanca mountains, preserving their own culture."
     },
     
     facts: {
       de: ["Entflohene Sklaven", "Widerstand gegen die Kolonialisierung", "Bewahrung afrikanischer Traditionen", "Talamanca-Region"],
       hu: ["Szökött rabszolgák", "Ellenállás a gyarmatosítással szemben", "Afrikai hagyományok megőrzése", "Talamanca régió"],
-      ro: ["Sclavi fugari", "Rezistență la colonizare", "Păstrarea tradițiilor africane", "Regiunea Talamanca"],
+      ro: ["Rădăcini afro-descendente", "Tema rezistenței", "Tradiții orale și muzicale"],
       en: ["Escaped enslaved peoples", "Resistance against colonization", "Preservation of African traditions", "Talamanca region"]
     },
      image: "/poi-images/cimarron-culture-history-v2.webp"},
@@ -698,16 +698,16 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Ein historischer Bahnhof in San José, der Endpunkt der alten 'Dschungelbahn'. Heute beherbergt er das Eisenbahnmuseum.",
-      hu: "Történelmi pályaudvar San Joséban, a régi \\\"dzsungelvasút\\\" végállomása. Ma a Vasúti Múzeumnak ad otthont.",
+      hu: "A San Joséban álló Atlántico vasútállomás a Limón felé tartó történeti vasút egyik kulcsépülete volt. Ma építészeti örökségként őrzik.",
       ro: "O gară istorică în San José, capătul vechii 'căi ferate din junglă'. Astăzi găzduiește Muzeul Căilor Ferate.",
-      en: "A historic railway station in San José, the terminus of the old 'Jungle Train'. Today it houses the Railway Museum."
+      en: "The former Atlantic railway station in San Jose, now remembered as a heritage site. It was once a major rail terminus before becoming part of the railway museum story."
     },
     
     facts: {
       de: ["Erbaut 1908", "Endpunkt der Atlantikbahn", "Architektonisches Erbe", "Heute Eisenbahnmuseum"],
-      hu: ["1908-ban épült", "Az Atlanti vasút végállomása", "Építészeti örökség", "Ma Vasúti Múzeum"],
+      hu: ["San José-ban van", "1908-ban épült", "A Limón-vonal végállomása volt"],
       ro: ["Construită în 1908", "Capătul liniei ferate atlantice", "Patrimoniu arhitectural", "Astăzi, Muzeul Căilor Ferate"],
-      en: ["Built in 1908", "Terminus of the Atlantic railway", "Architectural heritage building", "Now the Railway Museum"]
+      en: ["Built in 1908", "Atlantic railway terminus", "Now a museum site"]
     },
      image: "/poi-images/atlantico-railway-station-history-v2.webp"},
   {
@@ -730,14 +730,14 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Die Heimat des indigenen Volkes der Boruca, bekannt für ihre lebhaften Masken und den traditionellen 'Tanz der Teufelchen'.",
-      hu: "A boruca őslakos nép otthona, amely élénk maszkjairól és a hagyományos \\\"Ördögök tánca\\\" nevű szertartásról ismert.",
+      hu: "A boruca ősi földjei a dél-costa ricai őslakos közösség történelmi területei. A maszkfaragás, a nyelv és a rituálék megőrzésének fontos helye.",
       ro: "Patria poporului indigen Boruca, cunoscut pentru măștile sale vibrante și tradiționalul 'Dans al Diavolilor Mici'.",
       en: "The homeland of the Boruca indigenous people, known for their vibrant masks and the traditional 'Dance of the Little Devils'."
     },
     
     facts: {
       de: ["Indigenes Reservat", "Berühmt für Maskenherstellung", "Jährlicher 'Tanz der Teufelchen'", "Bewahrung der Kultur"],
-      hu: ["Őslakos rezervátum", "Híres maszk-készítés", "Évenkénti \\\"Ördögök tánca\\\"", "Kulturális örökség megőrzése"],
+      hu: ["Őslakos történeti terület", "Maszkfaragó hagyomány", "Kulturális megőrzés"],
       ro: ["Rezervație indigenă", "Renumită pentru confecționarea măștilor", "Anualul 'Dans al Diavolilor Mici'", "Păstrarea culturii"],
       en: ["Indigenous reserve", "Famous for intricate mask carving", "Annual 'Dance of the Little Devils'", "Strong cultural preservation"]
     },
@@ -762,16 +762,16 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
   },
     description: {
       de: "Ein riesiger und uralter Kapokbaum, der als heiliger Ort für indigene Gemeinschaften und als historischer Treffpunkt diente.",
-      hu: "Hatalmas és ősi kapokfa, amely szent helyként szolgált az őslakos közösségek számára, és történelmi találkozóhely volt.",
-      ro: "Un arbore Kapok gigantic și antic care a servit drept loc sacru pentru comunitățile indigene și punct de întâlnire istoric.",
-      en: "A giant and ancient Kapok tree that served as a sacred site for indigenous communities and a historical meeting point."
+      hu: "A La Paz ceibája egy nagy, jelképes fa a közép-costa ricai természeti útvonalak egyik pontján. A helyi emlékezetben a táj és a természet tiszteletét képviseli.",
+      ro: "Arborele ceibo de la La Paz reprezintă un simbol al pădurii tropicale și al biodiversității din Costa Rica. Coroana sa mare îl face ușor de recunoscut în peisajul forestier.",
+      en: "A historic ceiba tree linked to La Paz and local memory in the northern highlands. It is treated as a symbolic meeting point and a natural heritage marker."
     },
     
     facts: {
       de: ["Uralter Baum", "Heiliger Ort der Indigenen", "Historischer Treffpunkt", "Symbol für Stärke"],
-      hu: ["Ősi fa", "Az őslakosok szent helye", "Történelmi találkozóhely", "Az erő szimbóluma"],
-      ro: ["Arbore antic", "Loc sacru indigen", "Punct de întâlnire istoric", "Simbol al puterii"],
-      en: ["Ancient tree", "Sacred indigenous site", "Historical meeting point", "Symbol of strength"]
+      hu: ["Ceiba pentandra", "La Paz térségéhez kötődik", "Jelképes természeti pont"],
+      ro: ["Specie tropicală", "Simbol al pădurii", "Coroană foarte mare"],
+      en: ["Ceiba tree", "Symbolic local site", "Heritage landmark"]
     },
      image: "/poi-images/ceibo-tree-of-la-paz-history-v2.webp"},
   {

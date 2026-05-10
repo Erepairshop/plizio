@@ -550,7 +550,7 @@ export const poiExtraChileHistoryV2: POI[] = [
       de: ["Wurde 1779 erbaut.", "Teil des spanischen Verteidigungsnetzes von Chiloé."],
       hu: ["1779-ben épült.", "A Chiloé körüli spanyol védelmi hálózat része."],
       ro: ["A fost construit în 1779.", "Face parte din rețeaua spaniolă de apărare a Chiloé."],
-      en: ["Built in 1779.", "Part of the Spanish defense network of Chiloé."]
+      en: ["Built in 1779.", "Overlooks Ancud Bay.", "Part of Chiloé's Spanish defense network."]
     }, image: "/poi-images/fuerte-ahui-history-v2.webp"},
   {
     id: "ruinas-de-huanchaca-history-v2",
@@ -726,7 +726,7 @@ export const poiExtraChileHistoryV2: POI[] = [
       de: ["Errichtet im Jahr 1769.", "Bekannt für seine leuchtend rote Fassade."],
       hu: ["1769-ben épült.", "Élénkvörös homlokzatáról ismert."],
       ro: ["Construită în 1769.", "Cunoscută pentru fațada sa roșie strălucitoare."],
-      en: ["Built in 1769.", "Known for its bright red facade."]
+      en: ["Built in 1769.", "Near the Plaza de Armas.", "Now houses the Museum of Santiago."]
     }, image: "/poi-images/casa-colorada-history-v2.webp"},
   {
     id: "palacio-cousino-history-v2",
@@ -903,7 +903,7 @@ export const poiExtraChileHistoryV2: POI[] = [
       de: ["Erbaut im Jahr 1645.", "Es ist Teil eines der größten Festungssysteme Amerikas."],
       hu: ["1645-ben épült.", "Amerika egyik legnagyobb erődrendszerének része."],
       ro: ["Construit în anul 1645.", "Face parte din unul dintre cele mai mari sisteme de fortificații din America."],
-      en: ["Built in 1645.", "It is part of one of the largest fort systems in the Americas."]
+      en: ["Built in 1645.", "Controlled the mouth of the Valdivia River.", "Part of one of the largest fort systems in the Americas."]
     }, image: "/poi-images/fuerte-corral-history-v2.webp"},
   {
     id: "fuerte-amargos-history-v2",

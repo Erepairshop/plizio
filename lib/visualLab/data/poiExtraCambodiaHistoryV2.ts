@@ -23,8 +23,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["A 12. században épült", "Szerepel a nemzeti zászlón"],
       ro: ["Construit în secolul al XII-lea", "Prezent pe steagul național"],
       en: ["Built in the 12th century", "Featured on the national flag"]
-    }
-  },
+    }, image: "/poi-images/angkor-wat-history-v2.webp"},
   {
     id: "bayon-temple-history-v2",
     type: "historical-site",
@@ -47,8 +46,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["A 12. század végén épült", "Több mint 200 mosolygó kőarccal rendelkezik"],
       ro: ["Construit la sfârșitul secolului al XII-lea", "Are peste 200 de fețe de piatră zâmbitoare"],
       en: ["Built in the late 12th century", "Features over 200 smiling stone faces"]
-    }
-  },
+    }, image: "/poi-images/bayon-temple-history-v2.webp"},
   {
     id: "ta-prohm-history-v2",
     type: "ruin",
@@ -61,18 +59,17 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       en: "Ta Prohm"
     },
     description: {
-      de: "Eine faszinierende Tempelruine, die größtenteils im Zustand ihrer Entdeckung belassen wurde, umgeben von riesigen Baumwurzeln.",
-      hu: "Lenyűgöző templomrom, amelyet nagyrészt a felfedezéskori állapotában hagytak meg, hatalmas fagyökerekkel körbefonva.",
-      ro: "O ruină fascinantă a unui templu, lăsată în mare parte în starea în care a fost descoperită, înconjurată de rădăcini uriașe de copaci.",
-      en: "A fascinating temple ruin left largely in the condition it was discovered, enveloped by massive tree roots."
+      de: "Ta Prohm ist ein Tempel im Angkor-Komplex, der wegen seiner von Bäumen überwachsenen Mauern bekannt ist. Die Anlage zeigt besonders gut, wie Architektur und Dschungel hier ineinandergreifen.",
+      hu: "A Ta Prohm az angkori templomok egyik legismertebb romja, amelyet a fák gyökerei szinte teljesen benőttek. Jayavarman VII idején épült, és különösen erős dzsungelhangulata miatt emlékezetes.",
+      ro: "Un templu din complexul Angkor, lăsat parțial în starea în care a fost găsit, cu rădăcini mari de arbori care cresc peste ziduri. Este unul dintre cele mai cunoscute situri khmere.",
+      en: "Ta Prohm is a jungle temple in the Angkor area, known for tree roots growing over its walls. It is one of the best-known temple ruins in Cambodia."
     },
     facts: {
-      de: ["Bekannt als \"Tomb Raider Tempel\"", "Erbaut im Jahr 1186"],
-      hu: ["\"Tomb Raider templomként\" is ismert", "1186-ban épült"],
-      ro: ["Cunoscut ca \"Templul Tomb Raider\"", "Construit în anul 1186"],
-      en: ["Known as the \"Tomb Raider Temple\"", "Built in the year 1186"]
-    }
-  },
+      de: ["Tempel aus dem späten 12. Jahrhundert", "Von Jayavarman VII für seine Mutter errichtet", "Teil des Angkor-Archaeologieparks", "Bekannt für mächtige Wurzeln und Türme"],
+      hu: ["A 12. század végén épült", "Jayavarman VII idején készült", "A király édesanyjának ajánlották", "Az Angkor régészeti park része"],
+      ro: ["Parte din Angkor", "Ridicat la sfârșitul secolului al XII-lea", "Dedicat mamei lui Jayavarman VII", "Cunoscut pentru rădăcinile de copac"],
+      en: ["Built in the late 12th century.", "Part of the Angkor Archaeological Park.", "Commissioned by Jayavarman VII.", "Famous for giant tree roots."]
+    }, image: "/poi-images/ta-prohm-history-v2.webp"},
   {
     id: "banteay-srei-history-v2",
     type: "historical-site",
@@ -95,8 +92,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["Siva istennek szentelték", "A 10. században épült"],
       ro: ["Dedicat zeului Shiva", "Construit în secolul al X-lea"],
       en: ["Dedicated to the god Shiva", "Built in the 10th century"]
-    }
-  },
+    }, image: "/poi-images/banteay-srei-history-v2.webp"},
   {
     id: "preah-khan-history-v2",
     type: "ruin",
@@ -109,18 +105,17 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       en: "Preah Khan"
     },
     description: {
-      de: "Ein weitläufiger Tempelkomplex, der einst als buddhistisches Kloster und Universität diente.",
-      hu: "Kiterjedt templomkomplexum, amely egykor buddhista kolostorként és egyetemként szolgált.",
-      ro: "Un complex extins de temple care a servit cândva ca mănăstire budistă și universitate.",
-      en: "An extensive temple complex that once served as a Buddhist monastery and university."
+      de: "Preah Khan ist ein großer Tempelkomplex in Angkor, der einst als Kloster und Lernort diente. Heute gehört er zu den wichtigsten Ruinen der Anlage.",
+      hu: "A Preah Khan egy nagy angkori templomkomplexum, amely egykor vallási központ és tanulóhely is volt. A romjai ma is jól mutatják a Khmer Birodalom méretét és szervezettségét.",
+      ro: "Un complex templar mare din Angkor, construit în 1191 sub Jayavarman VII. A servit ca mănăstire budistă și centru de învățare.",
+      en: "Preah Khan is a large temple complex in Angkor that once served as a Buddhist monastery and learning center. Today it is one of the most atmospheric ruins in the park."
     },
     facts: {
-      de: ["Erbaut von König Jayavarman VII", "Name bedeutet \"Heiliges Schwert\""],
-      hu: ["VII. Dzsajavarman király építtette", "Neve azt jelenti, \"Szent Kard\""],
-      ro: ["Construit de regele Jayavarman VII", "Numele înseamnă \"Sabia Sfântă\""],
-      en: ["Built by King Jayavarman VII", "Name means \"Holy Sword\""]
-    }
-  },
+      de: ["Erbaut im Jahr 1191", "Von Jayavarman VII für seinen Vater gestiftet", "Name bedeutet „Heiliges Schwert“", "Teil des Angkor-Komplexes"],
+      hu: ["1191-ben szentelték fel", "Jayavarman VII építtette", "Neve azt jelenti: Szent Kard", "Az Angkor régészeti parkban áll"],
+      ro: ["Parte din Angkor", "Construit în 1191", "Ridicat de Jayavarman VII", "A funcționat ca mănăstire și școală"],
+      en: ["Built in 1191.", "Commissioned by Jayavarman VII.", "Name means \"Sacred Sword\".", "Located north of Angkor Thom."]
+    }, image: "/poi-images/preah-khan-history-v2.webp"},
   {
     id: "tuol-sleng-history-v2",
     type: "historical-site",
@@ -135,16 +130,15 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     description: {
       de: "Ein ehemaliges Gefängnis der Roten Khmer, das heute als Gedenkstätte und Museum an die Opfer des Genozids erinnert.",
       hu: "A Vörös Khmer egykori börtöne, amely ma emlékhelyként és múzeumként őrzi a népirtás áldozatainak emlékét.",
-      ro: "O fostă închisoare a Khmerilor Roșii, care servește acum ca memorial și muzeu dedicat victimelor genocidului.",
+      ro: "Un fost liceu transformat de regimul Khmerilor Roșii în închisoarea S-21. Astăzi este muzeu și memorial în Phnom Penh.",
       en: "A former Khmer Rouge prison that now serves as a memorial and museum remembering the victims of the genocide."
     },
     facts: {
       de: ["Auch als Sicherheitsobjekt 21 (S-21) bekannt", "Ehemalige High School"],
       hu: ["S-21-es biztonsági börtönként is ismert", "Egykori középiskola"],
-      ro: ["Cunoscută și sub numele de Închisoarea de Securitate 21 (S-21)", "Fost liceu"],
+      ro: ["Fost liceu", "Cunoscut ca S-21", "Folosit de Khmerii Roșii", "Acum muzeu al genocidului"],
       en: ["Also known as Security Prison 21 (S-21)", "Former high school"]
-    }
-  },
+    }, image: "/poi-images/tuol-sleng-history-v2.webp"},
   {
     id: "choeung-ek-history-v2",
     type: "historical-site",
@@ -167,8 +161,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["Több mint 8000 ember tömegsírja", "Buddhista sztúpa szolgál emlékműként"],
       ro: ["Gropi comune a peste 8.000 de oameni", "O stupă budistă servește ca memorial"],
       en: ["Mass graves of over 8,000 people", "A Buddhist stupa serves as a memorial"]
-    }
-  },
+    }, image: "/poi-images/choeung-ek-history-v2.webp"},
   {
     id: "independence-monument-kh-history-v2",
     type: "monument",
@@ -182,17 +175,16 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     },
     description: {
       de: "Ein lotusförmiges Monument in Phnom Penh, das an die Unabhängigkeit von Frankreich im Jahr 1953 erinnert.",
-      hu: "Lótusz alakú emlékmű Phnompenben, amely az 1953-as francia gyarmati uralom alóli függetlenné válásnak állít emléket.",
+      hu: "A Függetlenségi Emlékmű Phnompen központi jelképe, amely Kambodzsa francia uralom alóli függetlenségét idézi fel. Lótusz formája a modern fővárosi építészet egyik legismertebb példája.",
       ro: "Un monument în formă de lotus din Phnom Penh care comemorează independența față de Franța în 1953.",
-      en: "A lotus-shaped monument in Phnom Penh commemorating the independence from France in 1953."
+      en: "The Independence Monument is a lotus-shaped landmark in central Phnom Penh. It commemorates Cambodia's independence from France in 1953."
     },
     facts: {
       de: ["Erbaut im Jahr 1958", "Entworfen vom Architekten Vann Molyvann"],
-      hu: ["1958-ban épült", "Vann Molyvann építész tervezte"],
+      hu: ["1958-ban avatták fel", "Az 1953-as függetlenséget ünnepli", "Vann Molyvann tervezte", "Phnompen egyik fő nevezetessége"],
       ro: ["Construit în anul 1958", "Proiectat de arhitectul Vann Molyvann"],
-      en: ["Built in 1958", "Designed by architect Vann Molyvann"]
-    }
-  },
+      en: ["Inaugurated in 1958.", "Designed by Vann Molyvann.", "Stands on Norodom Boulevard.", "Used for national ceremonies."]
+    }, image: "/poi-images/independence-monument-kh-history-v2.webp"},
   {
     id: "royal-palace-kh-history-v2",
     type: "historical-site",
@@ -215,8 +207,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["Az 1860-as években épült", "A kambodzsai királyok székhelye"],
       ro: ["Construit în anii 1860", "Reședința regilor cambodgieni"],
       en: ["Constructed in the 1860s", "Seat of the Kings of Cambodia"]
-    }
-  },
+    }, image: "/poi-images/royal-palace-kh-history-v2.webp"},
   {
     id: "wat-phnom-history-v2",
     type: "historical-site",
@@ -239,8 +230,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["1372-ben alapították", "27 méterével a város legmagasabb vallási épülete"],
       ro: ["Fondat în anul 1372", "Cea mai înaltă clădire religioasă din oraș la 27 de metri"],
       en: ["Founded in 1372", "The tallest religious structure in the city at 27 meters"]
-    }
-  },
+    }, image: "/poi-images/wat-phnom-history-v2.webp"},
   {
     id: "koh-ker-history-v2",
     type: "ruin",
@@ -263,8 +253,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["Főváros 928 és 944 között", "A piramis 36 méter magas"],
       ro: ["Capitală între 928 și 944", "Piramida are o înălțime de 36 de metri"],
       en: ["Capital from 928 to 944", "The pyramid is 36 meters tall"]
-    }
-  },
+    }, image: "/poi-images/koh-ker-history-v2.webp"},
   {
     id: "preah-vihear-history-v2",
     type: "historical-site",
@@ -287,8 +276,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["UNESCO Világörökség része", "Látványos kilátás a környező síkságra"],
       ro: ["Patrimoniu Mondial UNESCO", "Vedere spectaculoasă asupra câmpiei"],
       en: ["UNESCO World Heritage site", "Offers a spectacular view of the plains"]
-    }
-  },
+    }, image: "/poi-images/preah-vihear-history-v2.webp"},
   {
     id: "sambor-prei-kuk-history-v2",
     type: "ruin",
@@ -311,8 +299,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["A 6. és 7. századból származik", "Téglatemplomokból áll"],
       ro: ["Datează din secolele VI și VII", "Conține temple din cărămidă"],
       en: ["Dates to the 6th and 7th centuries", "Features brick temples"]
-    }
-  },
+    }, image: "/poi-images/sambor-prei-kuk-history-v2.webp"},
   {
     id: "banteay-chhmar-history-v2",
     type: "ruin",
@@ -335,8 +322,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["VII. Dzsajavarman építtette", "Jelentős fali domborműveket tartalmaz"],
       ro: ["Construit de Jayavarman VII", "Conține reliefuri murale semnificative"],
       en: ["Built by Jayavarman VII", "Contains significant bas-reliefs"]
-    }
-  },
+    }, image: "/poi-images/banteay-chhmar-history-v2.webp"},
   {
     id: "beng-mealea-history-v2",
     type: "ruin",
@@ -359,8 +345,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["A 12. században épült", "Angkor egyik legrejtélyesebb temploma"],
       ro: ["Construit în secolul al XII-lea", "Unul dintre cele mai misterioase temple din Angkor"],
       en: ["Constructed in the 12th century", "One of Angkor's most mysterious temples"]
-    }
-  },
+    }, image: "/poi-images/beng-mealea-history-v2.webp"},
   {
     id: "roluos-bakong-history-v2",
     type: "historical-site",
@@ -383,8 +368,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["A 9. században épült", "A korai főváros, Hariharalaya központja"],
       ro: ["Construit în secolul al IX-lea", "Centrul primei capitale Hariharalaya"],
       en: ["Constructed in the 9th century", "Center of the early capital Hariharalaya"]
-    }
-  },
+    }, image: "/poi-images/roluos-bakong-history-v2.webp"},
   {
     id: "phnom-chisor-history-v2",
     type: "historical-site",
@@ -407,8 +391,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["A 11. században épült", "Több mint 400 lépcső vezet a csúcsra"],
       ro: ["Construit în secolul al XI-lea", "Peste 400 de trepte duc spre vârf"],
       en: ["Built in the 11th century", "Over 400 steps lead to the summit"]
-    }
-  },
+    }, image: "/poi-images/phnom-chisor-history-v2.webp"},
   {
     id: "ta-som-history-v2",
     type: "ruin",
@@ -431,8 +414,7 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       hu: ["12. század vége", "A király édesapjának ajánlották"],
       ro: ["Sfârșitul secolului al XII-lea", "Dedicat tatălui regelui"],
       en: ["Late 12th century", "Dedicated to the king's father"]
-    }
-  },
+    }, image: "/poi-images/ta-som-history-v2.webp"},
   {
     id: "neak-pean-history-v2",
     type: "historical-site",
@@ -445,18 +427,17 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       en: "Neak Pean"
     },
     description: {
-      de: "Ein künstlicher Inseltempel auf einem runden Becken, der vermutlich als Pilgerort zur rituellen Waschung diente.",
-      hu: "Mesterséges szigettemplom egy kör alakú medencében, amely feltehetően rituális fürdőhelyként szolgált a zarándokok számára.",
-      ro: "Un templu artificial pe o insulă într-un bazin circular, folosit probabil ca loc de pelerinaj pentru abluțiuni rituale.",
-      en: "An artificial island temple centered in a circular basin, believed to have served as a pilgrimage site for ritual bathing."
+      de: "Neak Pean ist ein kleiner Tempel auf einer künstlichen Insel in Angkor. Der Ort war mit Wasser und ritueller Reinigung verbunden.",
+      hu: "A Neak Pean egy mesterséges szigeten álló kis angkori templom, amely egykor rituális tisztuláshoz kapcsolódhatott. Kerek vízfelülete és különleges elhelyezése miatt könnyen felismerhető.",
+      ro: "Un templu-bazin din Angkor, construit pe o insulă artificială. A fost legat de ideea de vindecare și de apa sacralizată.",
+      en: "Neak Pean is a small temple on an artificial island in Angkor. It was built around a central pond and linked to ideas of healing and purification."
     },
     facts: {
-      de: ["Name bedeutet \"Verschlungene Schlangen\"", "Erbaut im späten 12. Jahrhundert"],
-      hu: ["Neve \"Összefonódó Kígyókat\" jelent", "A 12. század végén épült"],
-      ro: ["Numele înseamnă \"Șerpi Împletiți\"", "Construit la sfârșitul secolului al XII-lea"],
-      en: ["Name translates to \"Entwined Serpents\"", "Built in the late 12th century"]
-    }
-  },
+      de: ["Spätes 12. Jahrhundert", "Künstliche Insel in einem runden Becken", "Mit Heilung und Waschritualen verbunden", "Als heiliger Wasserort bekannt"],
+      hu: ["A 12. század végén épült", "Jayavarman VII korából származik", "Neve összefonódó kígyókat jelent", "Egy kör alakú medencében áll"],
+      ro: ["Parte din Angkor", "Ridicat în secolul al XII-lea", "Insulă artificială", "Asociat cu vindecarea"],
+      en: ["Built in the late 12th century.", "Associated with Jayavarman VII.", "Set on an artificial island.", "Linked to healing rituals."]
+    }, image: "/poi-images/neak-pean-history-v2.webp"},
   {
     id: "wat-ek-phnom-history-v2",
     type: "ruin",

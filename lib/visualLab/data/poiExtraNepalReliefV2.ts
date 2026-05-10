@@ -13,8 +13,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["Magassága eléri a 8516 métert.", "A csúcsot a Déli-nyereg köti össze az Everesttel."],
       ro: ["Atinge o altitudine de 8.516 metri.", "Vârful este conectat de Everest prin Șaua Sudică."],
       en: ["Reaches an elevation of 8,516 meters.", "The peak is connected to Everest via the South Col."]
-    }
-  },
+    }, image: "/poi-images/nepal-lhotse-relief-v2.webp"},
   {
     id: "nepal-cho-oyu-relief-v2",
     type: "mountain",
@@ -27,8 +26,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["Neve tibeti nyelven türkizkék istennőt jelent.", "Magassága 8188 méter."],
       ro: ["Numele înseamnă Zeița de Turcoaz în tibetană.", "Altitudinea este de 8.188 metri."],
       en: ["The name means Turquoise Goddess in Tibetan.", "The elevation is 8,188 meters."]
-    }
-  },
+    }, image: "/poi-images/nepal-cho-oyu-relief-v2.webp"},
   {
     id: "nepal-manaslu-relief-v2",
     type: "mountain",
@@ -41,8 +39,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["Magassága 8163 méter.", "Elsőként egy japán csapat mászta meg 1956-ban."],
       ro: ["Altitudinea este de 8.163 de metri.", "Prima ascensiune a fost realizată în 1956 de o echipă japoneză."],
       en: ["The elevation is 8,163 meters.", "First ascended in 1956 by a Japanese team."]
-    }
-  },
+    }, image: "/poi-images/nepal-manaslu-relief-v2.webp"},
   {
     id: "nepal-annapurna-i-relief-v2",
     type: "mountain",
@@ -55,8 +52,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["8091 méterével ez volt az első megmászott nyolcezres.", "Maurice Herzog mászta meg először 1950-ben."],
       ro: ["Cu 8.091 de metri, a fost primul optmiar escaladat.", "Prima ascensiune a fost realizată de Maurice Herzog în 1950."],
       en: ["At 8,091 meters, it was the first eight-thousander summited.", "The first ascent was made by Maurice Herzog in 1950."]
-    }
-  },
+    }, image: "/poi-images/nepal-annapurna-i-relief-v2.webp"},
   {
     id: "nepal-machapuchare-relief-v2",
     type: "mountain",
@@ -69,8 +65,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A hegy le van zárva a hegymászók elől.", "Magassága eléri a 6993 métert."],
       ro: ["Muntele este interzis alpiniștilor.", "Atinge o altitudine de 6.993 de metri."],
       en: ["The mountain is closed to climbers.", "Reaches an elevation of 6,993 meters."]
-    }
-  },
+    }, image: "/poi-images/nepal-machapuchare-relief-v2.webp"},
   {
     id: "nepal-ama-dablam-relief-v2",
     type: "mountain",
@@ -83,8 +78,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A főcsúcs 6812 méter magas.", "A technikás hegymászók népszerű célpontja."],
       ro: ["Vârful principal are o înălțime de 6.812 metri.", "Este o destinație populară pentru alpiniștii tehnici."],
       en: ["The main peak is 6,812 meters high.", "It is a popular destination for technical climbers."]
-    }
-  },
+    }, image: "/poi-images/nepal-ama-dablam-relief-v2.webp"},
   {
     id: "nepal-pumori-relief-v2",
     type: "mountain",
@@ -97,8 +91,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["Neve hajadon lányt jelent.", "A hegy magassága 7161 méter."],
       ro: ["Numele înseamnă fiică necăsătorită.", "Altitudinea muntelui este de 7.161 de metri."],
       en: ["The name translates to unmarried daughter.", "The elevation of the mountain is 7,161 meters."]
-    }
-  },
+    }, image: "/poi-images/nepal-pumori-relief-v2.webp"},
   {
     id: "nepal-nuptse-relief-v2",
     type: "mountain",
@@ -111,8 +104,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A főcsúcs eléri a 7861 métert.", "A hegynek meredek, sziklás déli fala van."],
       ro: ["Vârful principal atinge 7.861 de metri.", "Muntele are un perete sudic abrupt și stâncos."],
       en: ["The main peak reaches 7,861 meters.", "The mountain features a steep, rocky south face."]
-    }
-  },
+    }, image: "/poi-images/nepal-nuptse-relief-v2.webp"},
   {
     id: "nepal-gyachung-kang-relief-v2",
     type: "mountain",
@@ -125,8 +117,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A Mahalangur Himal hegyvonulatban fekszik a tibeti határon.", "Magassága 7952 méter."],
       ro: ["Este situat în Mahalangur Himal, la granița tibetană.", "Altitudinea este de 7.952 de metri."],
       en: ["It is located in the Mahalangur Himal on the Tibetan border.", "The elevation is 7,952 meters."]
-    }
-  },
+    }, image: "/poi-images/nepal-gyachung-kang-relief-v2.webp"},
   {
     id: "nepal-langtang-lirung-relief-v2",
     type: "mountain",
@@ -139,8 +130,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A csúcs magassága 7227 méter.", "A hegy hatalmas jéglavináiról ismert."],
       ro: ["Vârful atinge 7.227 de metri.", "Muntele este cunoscut pentru avalanșele masive de gheață."],
       en: ["The peak reaches 7,227 meters.", "The mountain is known for massive ice avalanches."]
-    }
-  },
+    }, image: "/poi-images/nepal-langtang-lirung-relief-v2.webp"},
   {
     id: "nepal-himalchuli-relief-v2",
     type: "mountain",
@@ -153,8 +143,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A hegy 7893 méter magas.", "Három jellegzetes főcsúcsa van."],
       ro: ["Muntele are o înălțime de 7.893 de metri.", "Are trei vârfuri principale proeminente."],
       en: ["The mountain is 7,893 meters high.", "It has three prominent main peaks."]
-    }
-  },
+    }, image: "/poi-images/nepal-himalchuli-relief-v2.webp"},
   {
     id: "nepal-kathmandu-valley-relief-v2",
     type: "valley",
@@ -167,8 +156,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["Az átlagos magasság 1400 méter.", "Hét UNESCO világörökségi helyszínnek ad otthont."],
       ro: ["Altitudinea medie este de 1.400 de metri.", "Găzduiește șapte situri din Patrimoniul Mondial UNESCO."],
       en: ["The average elevation is 1,400 meters.", "It is home to seven UNESCO World Heritage sites."]
-    }
-  },
+    }, image: "/poi-images/nepal-kathmandu-valley-relief-v2.webp"},
   {
     id: "nepal-pokhara-valley-relief-v2",
     type: "valley",
@@ -181,8 +169,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A Phewa-tó a völgy legnagyobb tava.", "Ez az Annapurna-túrák kiindulópontja."],
       ro: ["Lacul Phewa este cel mai mare lac din vale.", "Este punctul de plecare pentru drumețiile din Annapurna."],
       en: ["Phewa Lake is the largest lake in the valley.", "It serves as the gateway for Annapurna treks."]
-    }
-  },
+    }, image: "/poi-images/nepal-pokhara-valley-relief-v2.webp"},
   {
     id: "nepal-khumbu-valley-relief-v2",
     type: "valley",
@@ -195,8 +182,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A völgy Északkelet-Nepálban található.", "Itt terül el a Sagarmatha Nemzeti Park."],
       ro: ["Valea este situată în nord-estul Nepalului.", "Aici se află Parcul Național Sagarmatha."],
       en: ["The valley is located in northeastern Nepal.", "It is home to the Sagarmatha National Park."]
-    }
-  },
+    }, image: "/poi-images/nepal-khumbu-valley-relief-v2.webp"},
   {
     id: "nepal-langtang-valley-relief-v2",
     type: "valley",
@@ -209,8 +195,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["Gyakran a gleccserek völgyének is nevezik.", "A túraútvonal legmagasabb pontja meghaladja a 4900 métert."],
       ro: ["Este numită și Valea Ghețarilor.", "Cel mai înalt punct al traseului depășește 4.900 de metri."],
       en: ["It is also called the Valley of Glaciers.", "The highest point of the trek is over 4,900 meters."]
-    }
-  },
+    }, image: "/poi-images/nepal-langtang-valley-relief-v2.webp"},
   {
     id: "nepal-tsum-valley-relief-v2",
     type: "valley",
@@ -223,8 +208,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A Tsum név az élénk jelentésű tibeti szóból ered.", "A régiót csak 2008-ban nyitották meg a túrázók előtt."],
       ro: ["Numele Tsum provine din cuvântul tibetan pentru viu.", "Regiunea a fost deschisă pentru drumeți abia în 2008."],
       en: ["The name Tsum comes from the Tibetan word for vivid.", "The region was only opened to trekkers in 2008."]
-    }
-  },
+    }, image: "/poi-images/nepal-tsum-valley-relief-v2.webp"},
   {
     id: "nepal-manang-valley-relief-v2",
     type: "valley",
@@ -237,8 +221,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["Fontos megálló az Annapurna-körúton.", "A helyi kultúra erős tibeti hatást mutat."],
       ro: ["Este o oprire importantă pe Circuitul Annapurna.", "Cultura de aici este puternic influențată de tibetani."],
       en: ["It is a major stop on the Annapurna Circuit.", "The local culture is heavily influenced by Tibetan traditions."]
-    }
-  },
+    }, image: "/poi-images/nepal-manang-valley-relief-v2.webp"},
   {
     id: "nepal-kali-gandaki-valley-relief-v2",
     type: "valley",
@@ -251,8 +234,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A szintkülönbség több mint 5500 méter.", "A völgy ősi kereskedelmi útvonal volt Tibet felé."],
       ro: ["Diferența de altitudine este de peste 5.500 de metri.", "Valea a fost o veche rută comercială către Tibet."],
       en: ["The elevation drop is over 5,500 meters.", "The valley was an ancient trade route to Tibet."]
-    }
-  },
+    }, image: "/poi-images/nepal-kali-gandaki-valley-relief-v2.webp"},
   {
     id: "nepal-gokyo-valley-relief-v2",
     type: "valley",
@@ -265,8 +247,7 @@ export const poiExtraNepalReliefV2: POI[] = [
       hu: ["A legmagasabban fekvő tó 4990 méteren található.", "Alternatív túraútvonalat kínál az Everest-alaptábor felé."],
       ro: ["Cel mai înalt lac este situat la 4.990 de metri.", "Oferă o rută alternativă de drumeție către tabăra de bază Everest."],
       en: ["The highest lake is located at 4,990 meters.", "It offers an alternative trekking route to the Everest Base Camp."]
-    }
-  },
+    }, image: "/poi-images/nepal-gokyo-valley-relief-v2.webp"},
   {
     id: "nepal-mustang-plateau-relief-v2",
     type: "plateau",

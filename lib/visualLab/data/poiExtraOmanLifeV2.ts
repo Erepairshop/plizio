@@ -23,8 +23,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Kilenc apró szigetből áll", "A cserepesteknősök fontos fészkelőhelye", "Gazdag tengeri biológiai sokféleség", "Népszerű búvár- és sznorkelezőhely"],
       ro: ["Cuprinde nouă insule mici", "Zonă importantă de cuibărit pentru țestoase", "Biodiversitate marină bogată", "Zonă populară pentru scufundări"],
       en: ["Comprises nine small islands", "Major nesting site for hawksbill turtles", "Rich marine biodiversity", "Popular diving and snorkeling area"]
-    }
-  },
+    }, image: "/poi-images/ad-dimaniyat-islands-life-v2.webp"},
   {
     id: "ras-al-jinz-turtle-reserve-life-v2",
     type: "wildlife-area",
@@ -47,8 +46,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["A zöld teknőst védi", "Évente több ezer fészek", "Éjszakai megfigyelő túrák", "Az Arab-félsziget legkeletibb pontja"],
       ro: ["Protejează broasca țestoasă verde", "Mii de cuiburi anual", "Tururi de observație pe timp de noapte", "Cel mai estic punct al Peninsulei Arabe"],
       en: ["Protects the green sea turtle", "Thousands of nests annually", "Nighttime observation tours", "Easternmost point of the Arabian Peninsula"]
-    }
-  },
+    }, image: "/poi-images/ras-al-jinz-turtle-reserve-life-v2.webp"},
   {
     id: "al-wusta-wildlife-reserve-life-v2",
     type: "wildlife-area",
@@ -71,8 +69,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Az arab bejza otthona", "Kiterjedt sivatagi ökoszisztéma", "Ritka gazellafajokat véd", "Közép-Ománban található"],
       ro: ["Adăpostește oryxul arab", "Ecosistem deșertic vast", "Protejează specii rare de gazele", "Situată în Omanul Central"],
       en: ["Home to the Arabian Oryx", "Expansive desert ecosystem", "Protects rare gazelle species", "Located in central Oman"]
-    }
-  },
+    }, image: "/poi-images/al-wusta-wildlife-reserve-life-v2.webp"},
   {
     id: "al-ansab-wetlands-life-v2",
     type: "wildlife-area",
@@ -95,8 +92,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Mesterségesen kialakított vizesélőhely", "Vándormadarakat vonz", "Kezelt vizet használ", "Több mint 290 dokumentált madárfaj"],
       ro: ["Zonă umedă artificială", "Atrage păsări migratoare", "Folosește apă tratată", "Peste 290 de specii de păsări"],
       en: ["Artificially created wetland", "Attracts migratory birds", "Utilizes treated water", "Over 290 bird species documented"]
-    }
-  },
+    }, image: "/poi-images/al-ansab-wetlands-life-v2.webp"},
   {
     id: "qurum-natural-park-life-v2",
     type: "park",
@@ -119,8 +115,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Maszkat legnagyobb parkja", "Népszerű családi piknikezőhely", "Egy nagy tavat is magában foglal", "Közvetlenül egy mangroveerdő mellett"],
       ro: ["Cel mai mare parc din Muscat", "Popular pentru picnicuri în familie", "Include un lac mare", "Lângă o pădure de mangrove"],
       en: ["Largest park in Muscat", "Popular for family picnics", "Includes a large lake", "Adjacent to a mangrove forest"]
-    }
-  },
+    }, image: "/poi-images/qurum-natural-park-life-v2.webp"},
   {
     id: "al-naseem-park-life-v2",
     type: "park",
@@ -167,8 +162,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Jellegzetes tömjénfüstölő emlékmű", "Kilátás a Muttrah kikötőre", "Dombos terep", "Két történelmi negyedet köt össze"],
       ro: ["Monument în formă de arzător de tămâie", "Vedere la portul Muttrah", "Teren deluros", "Conectează două districte istorice"],
       en: ["Striking incense burner monument", "Overlooks Muttrah harbor", "Hilly terrain", "Connects two historic districts"]
-    }
-  },
+    }, image: "/poi-images/riyam-park-life-v2.webp"},
   {
     id: "kalbuh-park-life-v2",
     type: "park",
@@ -191,8 +185,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Közvetlenül a tengerparton fekszik", "Hosszú sétány", "Esti órákban népszerű", "Kilátás a nyílt tengerre"],
       ro: ["Situat direct pe coastă", "Promenadă lungă", "Popular seara", "Vedere la mare deschisă"],
       en: ["Located directly on the coast", "Long promenade", "Popular in the evening", "Views of the open sea"]
-    }
-  },
+    }, image: "/poi-images/kalbuh-park-life-v2.webp"},
   {
     id: "al-amerat-park-life-v2",
     type: "park",
@@ -215,8 +208,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["A Maszkat Fesztivál fő helyszíne", "Nagy szabad terek", "Kulturális rendezvények", "Maszkat déli részén található"],
       ro: ["Locația principală a Festivalului Muscat", "Spații deschise mari", "Evenimente culturale", "În partea de sud a Muscatului"],
       en: ["Main venue for the Muscat Festival", "Large open spaces", "Cultural events", "Located in southern Muscat"]
-    }
-  },
+    }, image: "/poi-images/al-amerat-park-life-v2.webp"},
   {
     id: "ayn-sahalnawt-life-v2",
     type: "park",
@@ -239,8 +231,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Természetes édesvizű forrás", "Különösen zöld a monszun alatt", "Mészkősziklák veszik körül", "Vízparti piknikezőhelyek"],
       ro: ["Izvor natural de apă dulce", "Deosebit de verde în timpul musonului", "Înconjurat de stânci de calcar", "Locuri de picnic pe malul apei"],
       en: ["Natural freshwater spring", "Particularly green during Khareef", "Surrounded by limestone cliffs", "Waterside picnic areas"]
-    }
-  },
+    }, image: "/poi-images/ayn-sahalnawt-life-v2.webp"},
   {
     id: "salalah-banana-plantations-life-v2",
     type: "agriculture",
@@ -287,8 +278,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["UNESCO Világörökség része", "Több ezer tömjénfa", "Hagyományos gyantagyűjtés", "A Boswellia sacra természetes élőhelye"],
       ro: ["Sit al Patrimoniului Mondial UNESCO", "Mii de copaci de tămâie", "Recoltarea tradițională a rășinii", "Habitat natural pentru Boswellia sacra"],
       en: ["UNESCO World Heritage site", "Thousands of frankincense trees", "Traditional resin harvesting", "Natural habitat of Boswellia sacra"]
-    }
-  },
+    }, image: "/poi-images/wadi-dawkah-frankincense-reserve-life-v2.webp"},
   {
     id: "saiq-rose-terraces-life-v2",
     type: "agriculture",
@@ -311,8 +301,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Damaszkuszi rózsa termesztése", "Áprilisi és májusi betakarítás", "Hagyományos lepárlás", "Hűvös hegyi klíma"],
       ro: ["Cultivarea trandafirilor de Damasc", "Recoltare în aprilie și mai", "Distilare tradițională", "Climat montan răcoros"],
       en: ["Cultivation of Damascus roses", "Harvest in April and May", "Traditional distillation", "Cool mountain climate"]
-    }
-  },
+    }, image: "/poi-images/saiq-rose-terraces-life-v2.webp"},
   {
     id: "nakhal-date-palm-plantations-life-v2",
     type: "agriculture",
@@ -335,8 +324,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["A Nakhal erőd körül terül el", "Nagyon régi datolyatermesztés", "Meleg források öntözik", "Jelentős datolyatermelés"],
       ro: ["Înconjoară Fortul Nakhal", "Cultivarea străveche a curmalelor", "Irigată de izvoare termale", "Producție importantă de curmale"],
       en: ["Surrounds Nakhal Fort", "Ancient date cultivation", "Irrigated by hot springs", "Significant date production"]
-    }
-  },
+    }, image: "/poi-images/nakhal-date-palm-plantations-life-v2.webp"},
   {
     id: "birkat-al-mouz-plantations-life-v2",
     type: "agriculture",
@@ -359,8 +347,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Történelmi agyagfalu", "UNESCO által listázott falaj rendszer", "Banán és datolya termesztése", "A Jabal Akhdar kapuja"],
       ro: ["Sat istoric din chirpici", "Sistem falaj inclus pe lista UNESCO", "Cultivarea bananelor și curmalelor", "Poarta către Jabal Akhdar"],
       en: ["Historic mudbrick village", "UNESCO-listed falaj system", "Banana and date cultivation", "Gateway to Jabal Akhdar"]
-    }
-  },
+    }, image: "/poi-images/birkat-al-mouz-plantations-life-v2.webp"},
   {
     id: "al-numan-zoo-life-v2",
     type: "kid-friendly",
@@ -383,8 +370,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Az első állatkert Ománban", "Magánkézben van", "Családokra fókuszál", "Állatok a világ minden tájáról"],
       ro: ["Prima grădină zoologică din Oman", "Privată", "Axată pe familii", "Animale din toată lumea"],
       en: ["First zoo in Oman", "Privately owned", "Focus on families", "Animals from around the world"]
-    }
-  },
+    }, image: "/poi-images/al-numan-zoo-life-v2.webp"},
   {
     id: "oman-aquarium-life-v2",
     type: "kid-friendly",
@@ -431,8 +417,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Maszkat legnépszerűbb vidámparkja", "Nagy óriáskerék", "Közvetlenül a Qurum Park mellett", "Sok gyermekjáték"],
       ro: ["Cel mai popular parc de distracții din Muscat", "Roată mare", "Lângă parcul Qurum", "Multe atracții pentru copii"],
       en: ["Most popular theme park in Muscat", "Large Ferris wheel", "Located next to Qurum Park", "Many rides for children"]
-    }
-  },
+    }, image: "/poi-images/marah-land-life-v2.webp"},
   {
     id: "snow-oman-life-v2",
     type: "kid-friendly",
@@ -455,8 +440,7 @@ export const poiExtraOmanLifeV2: POI[] = [
       hu: ["Az első hópark Ománban", "Mínusz fokok egész évben", "Pingvinkolónia", "14 000 négyzetméter terület"],
       ro: ["Primul parc de zăpadă din Oman", "Temperaturi negative tot anul", "Colonie de pinguini", "14.000 de metri pătrați"],
       en: ["First snow park in Oman", "Sub-zero temperatures year-round", "Penguin colony", "14,000 square meters in size"]
-    }
-  },
+    }, image: "/poi-images/snow-oman-life-v2.webp"},
   {
     id: "hawana-aqua-park-life-v2",
     type: "kid-friendly",

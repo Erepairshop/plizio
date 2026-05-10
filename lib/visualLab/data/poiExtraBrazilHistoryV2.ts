@@ -86,12 +86,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-44.1772, -21.1102],
     name: { de: "Tiradentes", hu: "Tiradentes", ro: "Tiradentes", en: "Tiradentes" },
-    description: { de: "Eine charmante Kolonialstadt, benannt nach einem Helden der brasilianischen Unabhängigkeitsbewegung.", hu: "Egy bájos gyarmati város, amelyet a brazil függetlenségi mozgalom egyik hőséről neveztek el.", ro: "Un oraș colonial fermecător, numit după un erou al mișcării de independență a Braziliei.", en: "A charming colonial town named after a hero of the Brazilian independence movement." },
+    description: { de: "Eine charmante Kolonialstadt, benannt nach einem Helden der brasilianischen Unabhängigkeitsbewegung.", hu: "Egy bájos gyarmati város, amelyet a brazil függetlenségi mozgalom egyik hőséről neveztek el.", ro: "Un oraș colonial fermecător, numit după un erou al mișcării de independență a Braziliei.", en: "Tiradentes is a well-preserved colonial town in Minas Gerais named after Brazil's national independence hero. Its hills, churches, and cobblestone streets reflect the wealth of the 18th-century gold cycle." },
     facts: {
       de: ["Kopfsteinpflasterstra\\\\u00dfen.", "Ehemalige Goldgr\\\\u00e4berstadt.", "Fahrt mit der Dampflokomotive m\\\\u00f6glich.", "Historische Kirchen.", "Kulinarisches Zentrum."],
       hu: ["Macskak\\\\u00f6ves utc\\\\u00e1k.", "Egykori arany\\\\u00e1s\\\\u00f3 v\\\\u00e1ros.", "G\\\\u0151zmozdonyos utaz\\\\u00e1s lehets\\\\u00e9ges.", "T\\\\u00f6rt\\\\u00e9nelmi templomok.", "Kulin\\\\u00e1ris k\\\\u00f6zpont."],
       ro: ["Str\\\\u0103zi pietruite.", "Fost ora\\\\u0219 minier de aur.", "Plimbare cu trenul cu aburi posibil\\\\u0103.", "Biserici istorice.", "Centru culinar."],
-      en: ["Cobblestone streets.", "Former gold-mining town.", "Steam train ride available.", "Historic churches.", "Culinary hub."]
+      en: ["In Minas Gerais", "Named after Tiradentes", "Linked to the gold cycle", "Known for colonial churches"]
     },
     descriptionAdvanced: {
       en: "Tiradentes is a remarkably preserved colonial town named in honor of the Brazilian national hero, Joaquim José da Silva Xavier (known as 'Tiradentes'). Like Ouro Preto, it flourished during the Minas Gerais Gold Rush. Its cobblestone streets, white-washed colonial houses, and baroque churches retain a timeless character, offering a glimpse into the daily life of colonial Brazil. History K8 – colonial town life and national figures.",
@@ -112,12 +112,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-43.8569, -20.4994],
     name: { de: "Heiligtum von Congonhas", hu: "Congonhas szentélye", ro: "Sanctuarul din Congonhas", en: "Sanctuary of Congonhas" },
-    description: { de: "Das Heiligtum von Congonhas ist eine bedeutende Wallfahrtsstätte in Minas Gerais. Besonders bekannt ist es für die Prophetenstatuen und die barocke Anlage von Aleijadinho.", hu: "Zarándokhely, amely a 18. századi Aleijadinho művész híres szobrairól ismert.", ro: "Un loc de pelerinaj cu sculpturi faimoase ale artistului Aleijadinho din secolul al XVIII-lea.", en: "A pilgrimage site featuring famous sculptures by the 18th-century artist Aleijadinho." },
+    description: { de: "Das Heiligtum von Congonhas ist eine bedeutende Wallfahrtsstätte in Minas Gerais. Besonders bekannt ist es für die Prophetenstatuen und die barocke Anlage von Aleijadinho.", hu: "Zarándokhely, amely a 18. századi Aleijadinho művész híres szobrairól ismert.", ro: "Un loc de pelerinaj cu sculpturi faimoase ale artistului Aleijadinho din secolul al XVIII-lea.", en: "The Sanctuary of Congonhas is a major pilgrimage site in Minas Gerais and one of Brazil's best-known Baroque ensembles. It is especially famous for Aleijadinho's Twelve Prophets sculptures." },
     facts: {
       de: ["UNESCO-Welterbe", "Im Bundesstaat Minas Gerais", "Berühmt für die Zwölf Propheten"],
       hu: ["UNESCO vil\\\\u00e1g\\\\u00f6r\\\\u00f6ks\\\\u00e9g.", "Tizenk\\\\u00e9t pr\\\\u00f3f\\\\u00e9taszobor.", "Barokk m\\\\u0171v\\\\u00e9szet.", "Fontos zar\\\\u00e1ndokhely.", "A 18. sz\\\\u00e1zadban \\\\u00e9p\\\\u00fclt."],
       ro: ["Patrimoniu Mondial UNESCO.", "Dou\\\\u0103sprezece statui de profe\\\\u021bi.", "Art\\\\u0103 baroc\\\\u0103.", "Loc important de pelerinaj.", "Construit \\\\u00een secolul al XVIII-lea."],
-      en: ["UNESCO World Heritage site.", "Twelve prophet statues.", "Baroque art.", "Important pilgrimage site.", "Built in the 18th century."]
+      en: ["In Minas Gerais", "UNESCO World Heritage site", "Famous for the Twelve Prophets", "Baroque pilgrimage complex"]
     },
     descriptionAdvanced: {
       en: "The Sanctuary of Bom Jesus de Matosinhos in Congonhas is a monumental example of Brazilian Baroque and Rococo religious art, built in the late 18th century. It is world-famous for the twelve life-size soapstone statues of the prophets carved by Aleijadinho, considered his magnum opus. The site attracts pilgrims and art lovers from around the world for its spiritual and historical significance. History K8 – religious art and colonial devotion.",
@@ -286,8 +286,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["2017 \\\\u00f3ta UNESCO vil\\\\u00e1g\\\\u00f6r\\\\u00f6ks\\\\u00e9g.", "Fontos eml\\\\u00e9kezeti hely.", "2011-ben \\\\u00e1sat\\\\u00e1sok sor\\\\u00e1n fedezt\\\\u00e9k fel \\\\u00fajra.", "K\\\\u00f6r\\\\u00fclbel\\\\u00fcl 900 000 rabszolga \\\\u00e9rkezett ide.", "A kik\\\\u00f6t\\\\u0151i ter\\\\u00fcleten tal\\\\u00e1lhat\\\\u00f3.", "Történelmi rakpart Rio de Janeiróban, amely a 19. században az afrikai rabszolgák fő érkezési pontja volt.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Patrimoniu Mondial UNESCO din 2017.", "Loc important de memorie.", "Redescoperit \\\\u00een 2011 \\\\u00een timpul s\\\\u0103p\\\\u0103turilor.", "Aproximativ 900.000 de sclavi au sosit aici.", "Situat \\\\u00een zona portuar\\\\u0103.", "Un debarcader istoric din Rio de Janeiro, care a fost principalul punct de sosire pentru sclavii africani în secolul al XIX-lea.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["UNESCO World Heritage site since 2017.", "Important site of memory.", "Rediscovered in 2011 during excavations.", "Around 900,000 slaves arrived here.", "Located in the port area.", "A historic wharf in Rio de Janeiro that was the main arrival point for African slaves in the 19th century.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/cais-do-valongo-history-v2.webp"},
   {
     id: "mariana-history-v2",
     type: "historical",
@@ -346,12 +345,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-44.2463, -21.1352],
     name: { de: "São João del-Rei", hu: "São João del-Rei", ro: "São João del-Rei", en: "São João del-Rei" },
-    description: { de: "Eine historische Stadt in Minas Gerais, berühmt für ihre reiche barocke Architektur und die alte Eisenbahnstrecke.", hu: "Történelmi város Minas Gerais államban, amely gazdag barokk építészetéről és régi vasútvonaláról híres.", ro: "Un oraș istoric din Minas Gerais, faimos pentru arhitectura sa barocă bogată și linia veche de cale ferată.", en: "A historic city in Minas Gerais, famous for its rich Baroque architecture and the old railway line." },
+    description: { de: "Eine historische Stadt in Minas Gerais, berühmt für ihre reiche barocke Architektur und die alte Eisenbahnstrecke.", hu: "Történelmi város Minas Gerais államban, amely gazdag barokk építészetéről és régi vasútvonaláról híres.", ro: "Un oraș istoric din Minas Gerais, faimos pentru arhitectura sa barocă bogată și linia veche de cale ferată.", en: "São João del Rei is a historic city in Minas Gerais with strong ties to Brazil's colonial gold era. Its churches, old streets, and preserved center keep that history visible." },
     facts: {
       de: ["Stadt der Glocken.", "Geburtsort von Tancredo Neves.", "Dampfzugverbindung nach Tiradentes.", "Pr\\\\u00e4chtige barocke Kirchen.", "Historisches Zentrum."],
       hu: ["A harangok v\\\\u00e1rosa.", "Tancredo Neves sz\\\\u00fcl\\\\u0151helye.", "G\\\\u0151z\\\\u00f6s vonat\\\\u00fat Tiradentesbe.", "Pomp\\\\u00e1s barokk templomok.", "T\\\\u00f6rt\\\\u00e9nelmi k\\\\u00f6zpont."],
       ro: ["Ora\\\\u0219ul Clopotelor.", "Locul de na\\\\u0219tere al lui Tancredo Neves.", "Conexiune cu trenul cu aburi c\\\\u0103tre Tiradentes.", "Biserici baroce magnifice.", "Centru istoric."],
-      en: ["City of Bells.", "Birthplace of Tancredo Neves.", "Steam train connection to Tiradentes.", "Magnificent Baroque churches.", "Historic center."]
+      en: ["In Minas Gerais", "Colonial gold-town heritage", "Known for Baroque churches", "Historic railway connection"]
     },
     descriptionAdvanced: {
       de: "São João del-Rei ist ein bemerkenswertes Element der brasilianischen Geografie und Kultur. Eine historische Stadt in Minas Gerais, berühmt für ihre reiche barocke Architektur und die alte Eisenbahnstrecke. Stadt der Glocken. Geburtsort von Tancredo Neves. Dampfzugverbindung nach Tiradentes. Dieser Ort hat eine besondere Bedeutung in der Geschichte Brasiliens, von der portugiesischen Kolonialzeit bis zur modernen Republik. Wie viele bedeutende Orte in Brasilien verbindet dieser Ort regionale Eigenheiten mit der übergreifenden Bedeutung des fünftgrößten Landes der Welt. Damit trägt dieser Ort zum vielseitigen Profil Brasiliens bei, wo tropische Natur, portugiesisches Erbe, Samba, Fußball und Karneval ineinandergreifen.",
@@ -449,12 +448,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-SP",
     coords: [-47.9263, -25.0147],
     name: { de: "Cananéia", hu: "Cananéia", ro: "Cananéia", en: "Cananéia" },
-    description: { de: "Eine der ältesten Siedlungen Brasiliens, gelegen in einer malerischen Küstenregion.", hu: "Brazília egyik legrégebbi települése, festői tengerparti régióban.", ro: "Una dintre cele mai vechi așezări din Brazilia, situată într-o regiune de coastă pitorească.", en: "One of the oldest settlements in Brazil, located in a picturesque coastal region." },
+    description: { de: "Eine der ältesten Siedlungen Brasiliens, gelegen in einer malerischen Küstenregion.", hu: "Brazília egyik legrégebbi települése, festői tengerparti régióban.", ro: "Cananéia este una dintre cele mai vechi așezări coloniale din Brazilia. Orașul păstrează un caracter istoric și este legat de începuturile colonizării portugheze.", en: "Cananéia is often described as one of the oldest settlements in Brazil. Located on the south coast of São Paulo state, it preserves traces of the earliest Portuguese presence in the region." },
     facts: {
       de: ["Beansprucht, die \\\\u00e4lteste Stadt Brasiliens zu sein.", "Historischer Hafen.", "Koloniale Architektur.", "Nahe der Ilha do Cardoso.", "Gegr\\\\u00fcndet um 1531."],
       hu: ["Azt \\\\u00e1ll\\\\u00edtja, hogy Braz\\\\u00edlia legr\\\\u00e9gebbi v\\\\u00e1rosa.", "T\\\\u00f6rt\\\\u00e9nelmi kik\\\\u00f6t\\\\u0151.", "Gyarmati \\\\u00e9p\\\\u00edt\\\\u00e9szet.", "Az Ilha do Cardoso k\\\\u00f6zel\\\\u00e9ben.", "1531 k\\\\u00f6r\\\\u00fcl alap\\\\u00edtott\\\\u00e1k."],
-      ro: ["Pretinde a fi cel mai vechi ora\\\\u0219 din Brazilia.", "Port istoric.", "Arhitectur\\\\u0103 colonial\\\\u0103.", "Aproape de Ilha do Cardoso.", "Fondat \\\\u00een jurul anului 1531."],
-      en: ["Claims to be the oldest city in Brazil.", "Historic port.", "Colonial architecture.", "Near Ilha do Cardoso.", "Founded around 1531."]
+      ro: ["În statul São Paulo", "Așezare foarte veche", "Origini din secolul al XVI-lea", "Arhitectură colonială"],
+      en: ["In São Paulo state", "One of Brazil's oldest settlements", "Early Portuguese colonial history", "Coastal historic town"]
     },
     descriptionAdvanced: {
       de: "Cananéia ist ein bemerkenswertes Element der brasilianischen Geografie und Kultur. Eine der ältesten Siedlungen Brasiliens, gelegen in einer malerischen Küstenregion. Beansprucht, die \\\\u00e4lteste Stadt Brasiliens zu sein. Historischer Hafen. Koloniale Architektur. Dieser Ort hat eine besondere Bedeutung in der Geschichte Brasiliens, von der portugiesischen Kolonialzeit bis zur modernen Republik. Wie viele bedeutende Orte in Brasilien verbindet dieser Ort regionale Eigenheiten mit der übergreifenden Bedeutung des fünftgrößten Landes der Welt. Damit trägt dieser Ort zum vielseitigen Profil Brasiliens bei, wo tropische Natur, portugiesisches Erbe, Samba, Fußball und Karneval ineinandergreifen.",
@@ -526,12 +525,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-GO",
     coords: [-48.9525, -15.8522],
     name: { de: "Pirenópolis", hu: "Pirenópolis", ro: "Pirenópolis", en: "Pirenópolis" },
-    description: { de: "Eine historische Stadt in Goiás, die für ihr koloniales Erbe und das Fest der Cavalhadas bekannt ist.", hu: "Történelmi város Goiásban, amely gyarmati örökségéről és a Cavalhadas fesztiválról ismert.", ro: "Un oraș istoric din Goiás, cunoscut pentru moștenirea sa colonială și festivalul Cavalhadas.", en: "A historic town in Goiás known for its colonial heritage and the Cavalhadas festival." },
+    description: { de: "Eine historische Stadt in Goiás, die für ihr koloniales Erbe und das Fest der Cavalhadas bekannt ist.", hu: "Történelmi város Goiásban, amely gyarmati örökségéről és a Cavalhadas fesztiválról ismert.", ro: "Un oraș istoric din Goiás, cunoscut pentru moștenirea sa colonială și festivalul Cavalhadas.", en: "Pirenópolis is a colonial town in Goiás that grew during the gold rush period. Its preserved center and traditional festivals give it a strong historic character." },
     facts: {
       de: ["Bekannt als Piri.", "Gegr\\\\u00fcndet im Jahr 1727.", "Historisches Zentrum unter Denkmalschutz.", "Cavalhadas-Festival.", "Umgeben von Wasserf\\\\u00e4llen."],
       hu: ["Piri n\\\\u00e9ven is ismert.", "1727-ben alap\\\\u00edtott\\\\u00e1k.", "A t\\\\u00f6rt\\\\u00e9nelmi k\\\\u00f6zpont m\\\\u0171eml\\\\u00e9kv\\\\u00e9delem alatt \\\\u00e1ll.", "Cavalhadas fesztiv\\\\u00e1l.", "V\\\\u00edzes\\\\u00e9sek veszik k\\\\u00f6r\\\\u00fcl."],
       ro: ["Cunoscut sub numele de Piri.", "Fondat \\\\u00een 1727.", "Centrul istoric este protejat ca monument.", "Festivalul Cavalhadas.", "\\\\u00cenconjurat de cascade."],
-      en: ["Known as Piri.", "Founded in 1727.", "Historic center is a protected monument.", "Cavalhadas festival.", "Surrounded by waterfalls."]
+      en: ["In Goiás", "Founded in the gold-rush era", "Preserved colonial center", "Known for traditional festivals"]
     },
     descriptionAdvanced: {
       de: "Pirenópolis ist ein bemerkenswertes Element der brasilianischen Geografie und Kultur. Eine historische Stadt in Goiás, die für ihr koloniales Erbe und das Fest der Cavalhadas bekannt ist. Bekannt als Piri. Gegr\\\\u00fcndet im Jahr 1727. Historisches Zentrum unter Denkmalschutz. Dieser Ort hat eine besondere Bedeutung in der Geschichte Brasiliens, von der portugiesischen Kolonialzeit bis zur modernen Republik. Wie viele bedeutende Orte in Brasilien verbindet dieser Ort regionale Eigenheiten mit der übergreifenden Bedeutung des fünftgrößten Landes der Welt. Damit trägt dieser Ort zum vielseitigen Profil Brasiliens bei, wo tropische Natur, portugiesisches Erbe, Samba, Fußball und Karneval ineinandergreifen.",
@@ -578,12 +577,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-RN",
     coords: [-35.1947, -5.7563],
     name: { de: "Forte dos Reis Magos", hu: "Forte dos Reis Magos", ro: "Forte dos Reis Magos", en: "Forte dos Reis Magos" },
-    description: { de: "Eine sternförmige Festung in Natal, die im 16. Jahrhundert von den Portugiesen zur Verteidigung der Küste erbaut wurde.", hu: "Csillag alakú erőd Natalban, amelyet a 16. században építettek a portugálok a part védelmére.", ro: "O fortăreață în formă de stea în Natal, construită de portughezi în secolul al XVI-lea pentru a apăra coasta.", en: "A star-shaped fortress in Natal, built by the Portuguese in the 16th century to defend the coast." },
+    description: { de: "Eine sternförmige Festung in Natal, die im 16. Jahrhundert von den Portugiesen zur Verteidigung der Küste erbaut wurde.", hu: "Csillag alakú erőd Natalban, amelyet a 16. században építettek a portugálok a part védelmére.", ro: "O fortăreață în formă de stea în Natal, construită de portughezi în secolul al XVI-lea pentru a apăra coasta.", en: "Forte dos Reis Magos is a star-shaped fortress in Natal, in Rio Grande do Norte. Built by the Portuguese, it marks an early stage in the coastal defense of northeastern Brazil." },
     facts: {
       de: ["Erbaut im Jahr 1598.", "Sternf\\\\u00f6rmiger Grundriss.", "Befindet sich an der M\\\\u00fcndung des Flusses Potengi.", "\\\\u00c4ltestes Bauwerk in Natal.", "Enth\\\\u00e4lt den Marco de Touros."],
       hu: ["1598-ban \\\\u00e9p\\\\u00fclt.", "Csillag alak\\\\u00fa alaprajz.", "A Potengi foly\\\\u00f3 torkolat\\\\u00e1n\\\\u00e1l tal\\\\u00e1lhat\\\\u00f3.", "A legr\\\\u00e9gebbi \\\\u00e9p\\\\u00edtm\\\\u00e9ny Natalban.", "Tartalmazza a Marco de Touros-t."],
       ro: ["Construit \\\\u00een 1598.", "Plan \\\\u00een form\\\\u0103 de stea.", "Situat la gura r\\\\u00e2ului Potengi.", "Cea mai veche structur\\\\u0103 din Natal.", "Con\\\\u021bine Marco de Touros."],
-      en: ["Built in 1598.", "Star-shaped layout.", "Located at the mouth of the Potengi River.", "Oldest structure in Natal.", "Contains the Marco de Touros."]
+      en: ["In Natal", "Built by the Portuguese", "Founded in 1598", "Star-shaped coastal fort"]
     },
     descriptionAdvanced: {
       de: "Forte dos Reis Magos ist ein bemerkenswertes Element der brasilianischen Geografie und Kultur. Eine sternförmige Festung in Natal, die im 16. Jahrhundert von den Portugiesen zur Verteidigung der Küste erbaut wurde. Erbaut im Jahr 1598. Sternf\\\\u00f6rmiger Grundriss. Befindet sich an der M\\\\u00fcndung des Flusses Potengi. Dieser Ort hat eine besondere Bedeutung in der Geschichte Brasiliens, von der portugiesischen Kolonialzeit bis zur modernen Republik. Wie viele bedeutende Orte in Brasilien verbindet dieser Ort regionale Eigenheiten mit der übergreifenden Bedeutung des fünftgrößten Landes der Welt. Damit trägt dieser Ort zum vielseitigen Profil Brasiliens bei, wo tropische Natur, portugiesisches Erbe, Samba, Fußball und Karneval ineinandergreifen.",
@@ -604,12 +603,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-RJ",
     coords: [-43.1805, -22.9866],
     name: { de: "Forte de Copacabana", hu: "Forte de Copacabana", ro: "Forte de Copacabana", en: "Copacabana Fort" },
-    description: { de: "Eine historische Militärbasis am Ende der Copacabana, die heute ein Militärmuseum beherbergt.", hu: "Történelmi katonai bázis a Copacabana végén, amely ma egy hadtörténeti múzeumnak ad otthont.", ro: "O bază militară istorică la capătul plajei Copacabana, care găzduiește astăzi un muzeu militar.", en: "A historic military base at the end of Copacabana beach, now housing a military museum." },
+    description: { de: "Eine historische Militärbasis am Ende der Copacabana, die heute ein Militärmuseum beherbergt.", hu: "Történelmi katonai bázis a Copacabana végén, amely ma egy hadtörténeti múzeumnak ad otthont.", ro: "O bază militară istorică la capătul plajei Copacabana, care găzduiește astăzi un muzeu militar.", en: "Forte de Copacabana is a coastal fort at the southern end of Copacabana Beach in Rio de Janeiro. It combines military history with one of the city's best-known viewpoints." },
     facts: {
       de: ["Erbaut im Jahr 1914.", "Beherbergt das Armeemuseum.", "Krupp-Kanonen aus Deutschland.", "Ort der Revolte der 18 vom Fort.", "Bietet einen Panoramablick auf die Copacabana."],
       hu: ["1914-ben \\\\u00e9p\\\\u00fclt.", "A Hadsereg M\\\\u00fazeum\\\\u00e1nak ad otthont.", "N\\\\u00e9met Krupp \\\\u00e1gy\\\\u00fak.", "A 18-ak felkel\\\\u00e9s\\\\u00e9nek helysz\\\\u00edne.", "Panor\\\\u00e1m\\\\u00e1s kil\\\\u00e1t\\\\u00e1st ny\\\\u00fajt a Copacaban\\\\u00e1ra."],
       ro: ["Construit \\\\u00een 1914.", "G\\\\u0103zduie\\\\u0219te Muzeul Armatei.", "Tunuri Krupp din Germania.", "Locul Revoltei celor 18 din Fort.", "Ofer\\\\u0103 o vedere panoramic\\\\u0103 la Copacabana."],
-      en: ["Built in 1914.", "Houses the Army Historical Museum.", "German Krupp cannons.", "Site of the Revolt of the 18 of the Fort.", "Offers a panoramic view of Copacabana."]
+      en: ["In Rio de Janeiro", "Overlooks Copacabana", "Early 20th-century fort", "Now includes a museum"]
     },
     descriptionAdvanced: {
       de: "Forte de Copacabana ist ein bemerkenswertes Element der brasilianischen Geografie und Kultur. Eine historische Militärbasis am Ende der Copacabana, die heute ein Militärmuseum beherbergt. Erbaut im Jahr 1914. Beherbergt das Armeemuseum. Krupp-Kanonen aus Deutschland. Dieser Ort hat eine besondere Bedeutung in der Geschichte Brasiliens, von der portugiesischen Kolonialzeit bis zur modernen Republik. Wie viele bedeutende Orte in Brasilien verbindet dieser Ort regionale Eigenheiten mit der übergreifenden Bedeutung des fünftgrößten Landes der Welt. Damit trägt dieser Ort zum vielseitigen Profil Brasiliens bei, wo tropische Natur, portugiesisches Erbe, Samba, Fußball und Karneval ineinandergreifen.",
@@ -656,12 +655,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-PA",
     coords: [-48.4913, -1.4527],
     name: { de: "Theatro da Paz", hu: "Theatro da Paz", ro: "Theatro da Paz", en: "Theatro da Paz" },
-    description: { de: "Ein prächtiges Opernhaus in Belém, das während der Glanzzeit des Kautschukbooms erbaut wurde.", hu: "Egy pompás operaház Belémben, amelyet a kaucsukláz virágkorában építettek.", ro: "O operă magnifică din Belém, construită în perioada de glorie a boom-ului cauciucului.", en: "A magnificent opera house in Belém, built during the heyday of the rubber boom." },
+    description: { de: "Ein prächtiges Opernhaus in Belém, das während der Glanzzeit des Kautschukbooms erbaut wurde.", hu: "Egy pompás operaház Belémben, amelyet a kaucsukláz virágkorában építettek.", ro: "O operă magnifică din Belém, construită în perioada de glorie a boom-ului cauciucului.", en: "Theatro da Paz is a grand neoclassical theater in Belém, Pará, built during the rubber boom. It is one of the most important cultural landmarks in northern Brazil." },
     facts: {
       de: ["Erbaut im Jahr 1878.", "Neoklassizistischer Stil.", "Fresken von Domenico de Angelis.", "Symbol des Reichtums aus Kautschuk.", "Kapazit\\\\u00e4t f\\\\u00fcr 900 Zuschauer."],
       hu: ["1878-ban \\\\u00e9p\\\\u00fclt.", "Neoklasszikus st\\\\u00edlus.", "Domenico de Angelis fresk\\\\u00f3i.", "A kaucsukb\\\\u00f3l sz\\\\u00e1rmaz\\\\u00f3 gazdags\\\\u00e1g szimb\\\\u00f3luma.", "900 f\\\\u0151s befogad\\\\u00f3k\\\\u00e9pess\\\\u00e9g."],
       ro: ["Construit \\\\u00een 1878.", "Stil neoclasic.", "Fresce de Domenico de Angelis.", "Simbol al bog\\\\u0103\\\\u021biei din cauciuc.", "Capacitate de 900 de spectatori."],
-      en: ["Built in 1878.", "Neoclassical style.", "Frescoes by Domenico de Angelis.", "Symbol of rubber wealth.", "Capacity for 900 spectators."]
+      en: ["In Belém", "Opened in 1878", "Built during the rubber boom", "Neoclassical theater"]
     },
     descriptionAdvanced: {
       de: "Theatro da Paz ist ein bemerkenswertes Element der brasilianischen Geografie und Kultur. Ein prächtiges Opernhaus in Belém, das während der Glanzzeit des Kautschukbooms erbaut wurde. Erbaut im Jahr 1878. Neoklassizistischer Stil. Fresken von Domenico de Angelis. Dieser Ort hat eine besondere Bedeutung in der Geschichte Brasiliens, von der portugiesischen Kolonialzeit bis zur modernen Republik. Wie viele bedeutende Orte in Brasilien verbindet dieser Ort regionale Eigenheiten mit der übergreifenden Bedeutung des fünftgrößten Landes der Welt. Damit trägt dieser Ort zum vielseitigen Profil Brasiliens bei, wo tropische Natur, portugiesisches Erbe, Samba, Fußball und Karneval ineinandergreifen.",
@@ -708,12 +707,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-BA",
     coords: [-38.5327, -13.0102],
     name: { de: "Farol da Barra", hu: "Farol da Barra", ro: "Farol da Barra", en: "Barra Lighthouse" },
-    description: { de: "Ein historischer Leuchtturm in Salvador, der sich im Forte de Santo Antônio da Barra befindet.", hu: "Történelmi világítótorony Salvadorban, amely a Forte de Santo Antônio da Barra erődben található.", ro: "Un far istoric în Salvador, situat în Forte de Santo Antônio da Barra.", en: "A historic lighthouse in Salvador, located within the Forte de Santo Antônio da Barra." },
+    description: { de: "Ein historischer Leuchtturm in Salvador, der sich im Forte de Santo Antônio da Barra befindet.", hu: "Történelmi világítótorony Salvadorban, amely a Forte de Santo Antônio da Barra erődben található.", ro: "Un far istoric în Salvador, situat în Forte de Santo Antônio da Barra.", en: "Farol da Barra is the lighthouse at the entrance to Salvador's bay and a symbol of the city. It stands next to a historic fort and marks one of Bahia's best-known coastal viewpoints." },
     facts: {
       de: ["Einer der \\\\u00e4ltesten Leuchtt\\\\u00fcrme Amerikas.", "Erbaut im Jahr 1698.", "Teil des nautischen Museums von Bahia.", "Beliebter Ort f\\\\u00fcr Sonnenunterg\\\\u00e4nge.", "Schwarz-wei\\\\u00df gestreiftes Muster."],
       hu: ["Amerika egyik legr\\\\u00e9gebbi vil\\\\u00e1g\\\\u00edt\\\\u00f3tornya.", "1698-ban \\\\u00e9p\\\\u00fclt.", "A bahiai tenger\\\\u00e9szeti m\\\\u00fazeum r\\\\u00e9sze.", "N\\\\u00e9pszer\\\\u0171 hely a naplement\\\\u00e9khez.", "Fekete-feh\\\\u00e9r cs\\\\u00edkos minta."],
       ro: ["Unul dintre cele mai vechi faruri din America.", "Construit \\\\u00een 1698.", "Parte a muzeului nautic din Bahia.", "Loc popular pentru apusuri de soare.", "Model \\\\u00een dungi alb-negru."],
-      en: ["One of the oldest lighthouses in the Americas.", "Built in 1698.", "Part of the Nautical Museum of Bahia.", "Popular spot for sunsets.", "Black and white striped pattern."]
+      en: ["In Salvador", "At the bay entrance", "Linked to a historic fort", "Important coastal landmark"]
     },
     descriptionAdvanced: {
       de: "Farol da Barra ist ein bemerkenswertes Element der brasilianischen Geografie und Kultur. Ein historischer Leuchtturm in Salvador, der sich im Forte de Santo Antônio da Barra befindet. Einer der \\\\u00e4ltesten Leuchtt\\\\u00fcrme Amerikas. Erbaut im Jahr 1698. Teil des nautischen Museums von Bahia. Dieser Ort hat eine besondere Bedeutung in der Geschichte Brasiliens, von der portugiesischen Kolonialzeit bis zur modernen Republik. Wie viele bedeutende Orte in Brasilien verbindet dieser Ort regionale Eigenheiten mit der übergreifenden Bedeutung des fünftgrößten Landes der Welt. Damit trägt dieser Ort zum vielseitigen Profil Brasiliens bei, wo tropische Natur, portugiesisches Erbe, Samba, Fußball und Karneval ineinandergreifen.",

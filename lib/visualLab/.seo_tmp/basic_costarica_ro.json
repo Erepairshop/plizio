@@ -1,0 +1,147 @@
+{
+  "lang": "ro",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "puerto-limon-economic-v2",
+      "description": "Cel mai important port de la Marea Caraibilor al Costa Ricăi, cu o identitate afro-caraibiană puternică. Este poarta maritimă principală pentru exporturi și pentru traficul din estul țării.",
+      "facts": [
+        "Pe coasta caraibiană",
+        "Centru major de export",
+        "Cultură afro-caraibiană"
+      ]
+    },
+    {
+      "id": "parque-industrial-cartago-economic-v2",
+      "description": "Parc industrial din Cartago, orientat spre producție avansată și dispozitive medicale. Locația lui susține legătura dintre forța de muncă specializată și exporturile tehnologice.",
+      "facts": [
+        "În orașul Cartago",
+        "Focus pe dispozitive medicale",
+        "Lângă coridorul tehnologic"
+      ]
+    },
+    {
+      "id": "puerto-quepos-economic-v2",
+      "description": "Portul Quepos este legat mai ales de turism, pescuit și accesul către Manuel Antonio. Atmosfera lui este mai degrabă de marină mică decât de port de marfă.",
+      "facts": [
+        "Pe Pacific",
+        "Legat de Manuel Antonio",
+        "Important pentru pescuit"
+      ]
+    },
+    {
+      "id": "terminal-punta-arenas-economic-v2",
+      "description": "Terminalul din Punta Arenas deservește legăturile maritime din Golful Nicoya. Este un punct de plecare util pentru pasageri și vehicule care merg spre peninsula Nicoya.",
+      "facts": [
+        "În Puntarenas",
+        "Legătură spre Nicoya",
+        "Folosit de ferry"
+      ]
+    },
+    {
+      "id": "terminal-ferry-nicoya-economic-v2",
+      "description": "Terminalul de ferry din zona Nicoya leagă coasta de peninsula Nicoya peste Golful Nicoya. Reduce mult timpul de deplasare față de traseele ocolitoare.",
+      "facts": [
+        "Traversare peste golf",
+        "Acces la peninsula Nicoya",
+        "Transport de pasageri și mașini"
+      ]
+    },
+    {
+      "id": "puerto-golfito-economic-v2",
+      "description": "Portul Golfito deschide accesul spre Golfo Dulce și spre sudul Pacificului costarican. Zona are o istorie comercială puternică și rămâne importantă pentru transportul regional.",
+      "facts": [
+        "În sudul Pacificului",
+        "La Golfo Dulce",
+        "Istoric comercial"
+      ]
+    },
+    {
+      "id": "zona-franca-el-coyol-economic-v2",
+      "description": "Zona Franca El Coyol este una dintre cele mai cunoscute platforme industriale din Alajuela. Aici s-au concentrat companii de dispozitive medicale și servicii de export.",
+      "facts": [
+        "În Alajuela",
+        "Hub pentru dispozitive medicale",
+        "Parte din zona industrială Coyol"
+      ]
+    },
+    {
+      "id": "puerto-cocos-economic-v2",
+      "description": "Puerto Cocos este numele asociat cu Playa del Coco din Guanacaste, o zonă costieră foarte frecventată. Aici se întâlnesc turismul, navigația de agrement și viața de plajă.",
+      "facts": [
+        "În Guanacaste",
+        "Cunoscut ca Playa del Coco",
+        "Turism de coastă"
+      ]
+    },
+    {
+      "id": "terminal-puerto-balboa-economic-v2",
+      "description": "Terminalul Balboa este un nod maritim major la intrarea pacifică a Canalului Panama. Pentru rutele regionale, el este un punct important de transbord și logistică.",
+      "facts": [
+        "La intrarea Pacifică a canalului",
+        "Terminal de transbord",
+        "Rol regional în logistică"
+      ]
+    },
+    {
+      "id": "puerto-cito-economic-v2",
+      "description": "Puerto Cito este o mică zonă de coastă de pe Costa Ballena, la sud de Dominical. Este cunoscută pentru poziția ei liniștită lângă plaje și natură.",
+      "facts": [
+        "Pe Costa Ballena",
+        "Sud de Dominical",
+        "Zonă de coastă liniștită"
+      ]
+    },
+    {
+      "id": "planta-energia-don-pedro-economic-v2",
+      "description": "Planta Don Pedro este o centrală hidroelectrică mică, dar importantă pentru rețeaua energetică locală. Ea arată rolul energiei regenerabile în mixul costarican.",
+      "facts": [
+        "Centrală hidroelectrică",
+        "Putere redusă, rol local",
+        "Parte din energia regenerabilă"
+      ]
+    },
+    {
+      "id": "zona-franca-bes-economic-v2",
+      "description": "Zona Franca BES din El Coyol este un parc de afaceri și logistică din Alajuela. Locația îi oferă acces rapid la aeroport și la principalele culoare industriale.",
+      "facts": [
+        "În El Coyol",
+        "Aproape de Alajuela",
+        "Acces bun la aeroport"
+      ]
+    },
+    {
+      "id": "puerto-cacao-economic-v2",
+      "description": "Puerto Cacao este legat de coasta sudică și de peisajele din zona Golfito și Playa Cacao. Numele trimite direct la cultura cacao și la economia tropicală a regiunii.",
+      "facts": [
+        "Legat de cacao",
+        "În sudul Pacificului",
+        "Aproape de Golfito"
+      ]
+    },
+    {
+      "id": "parque-industrial-barreal-economic-v2",
+      "description": "Parcul industrial din Barreal de Heredia face parte din coridorul tehnologic al zonei centrale. Aici se concentrează activități de producție, servicii și logistică.",
+      "facts": [
+        "În Barreal de Heredia",
+        "Parte din coridorul tehnologic",
+        "Activități de producție și servicii"
+      ]
+    },
+    {
+      "id": "zona-franca-global-park-economic-v2",
+      "description": "Zona Franca Global Park este un parc de afaceri și industrie din Heredia, orientat spre firme internaționale. Amplasarea lui în zona metropolitană îl face atractiv pentru operațiuni de export și servicii.",
+      "facts": [
+        "În Heredia",
+        "Parc de afaceri și industrie",
+        "Atragere pentru firme internaționale"
+      ]
+    }
+  ]
+}

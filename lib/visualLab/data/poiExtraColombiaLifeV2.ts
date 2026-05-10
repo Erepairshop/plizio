@@ -14,12 +14,12 @@ export const poiExtraColombiaLifeV2: POI[] = [
       en: "Parque Explora"
     },
     description: {
-      de: "Ein interaktives Wissenschaftsmuseum in Medellín mit einem großen Aquarium und einem Vivarium.",
+      de: "Ein interaktives Wissenschaftsmuseum in Medellín mit Aquarium, Vivarium und Mitmachbereichen.",
       hu: "Interaktív tudományos múzeum Medellínben, hatalmas akváriummal és terráriummal.",
       ro: "Un muzeu interactiv de știință în Medellín, cu un acvariu imens și un vivariu.",
       en: "An interactive science museum in Medellín featuring a large aquarium and a vivarium." },
     facts: {
-      de: ["Eröffnet 2008.", "Besitzt das größte Süßwasseraquarium Südamerikas."],
+      de: ["Eröffnet 2008.", "In Medellín, Antioquia.", "Interaktives Wissenschaftsmuseum.", "Mit Aquarium und Vivarium."],
       hu: ["2008-ban nyílt meg.", "Dél-Amerika legnagyobb édesvízi akváriumával rendelkezik."],
       ro: ["Deschis în 2008.", "Găzduiește cel mai mare acvariu de apă dulce din America de Sud."],
       en: ["Opened in 2008.", "Features South America's largest freshwater aquarium."]

@@ -13,8 +13,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["2013-ban nyitották meg.", "Egy 12 méter széles gyalogos sétány található itt.", "Rendszeres fény- és vízishow-kat tartanak."],
       ro: ["A fost deschis în 2013.", "Are o alee pietonală lată de 12 metri.", "Găzduiește spectacole regulate de lumini și apă."],
       en: ["Opened to the public in 2013.", "Features a 12-meter-wide pedestrian walkway.", "Hosts regular light and water fountain shows."]
-    }
-  },
+    }, image: "/poi-images/sa-king-abdullah-park-life-v2.webp"},
   {
     id: "sa-salam-park-life-v2",
     type: "park",
@@ -27,8 +26,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["A mesterséges tó 33 000 négyzetméteres.", "Körülbelül 1000 datolyapálma nő a parkban.", "Csónakázási lehetőség is van a tavon."],
       ro: ["Lacul artificial acoperă 33.000 de metri pătrați.", "Aproximativ 1000 de palmieri de curmale cresc în parc.", "Oferă plimbări cu barca pe lac."],
       en: ["The artificial lake covers 33,000 square meters.", "Around 1000 date palms grow in the park.", "Offers boat rides on the lake."]
-    }
-  },
+    }, image: "/poi-images/sa-salam-park-life-v2.webp"},
   {
     id: "sa-al-hada-rose-farms-life-v2",
     type: "agriculture",
@@ -41,8 +39,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Évente több millió rózsát termelnek itt.", "A betakarítási szezon általában áprilisban van.", "A rózsákból kiváló minőségű parfümolajat is készítenek."],
       ro: ["Produce milioane de trandafiri anual.", "Sezonul de recoltare este de obicei în aprilie.", "Din trandafiri se obține și ulei de parfum de înaltă calitate."],
       en: ["Produces millions of roses annually.", "Harvest season usually peaks in April.", "The roses are also used to make high-quality perfume oil."]
-    }
-  },
+    }, image: "/poi-images/sa-al-hada-rose-farms-life-v2.webp"},
   {
     id: "sa-fakieh-aquarium-life-v2",
     type: "kid-friendly",
@@ -55,8 +52,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Több mint 200 tengeri fajnak ad otthont.", "Napi delfin- és oroszlánfókashow-kat tartanak.", "Egy víz alatti nézőalagúttal is rendelkezik."],
       ro: ["Găzduiește peste 200 de specii marine.", "Oferă spectacole zilnice cu delfini și lei de mare.", "Dispune de un tunel cu vedere subacvatică."],
       en: ["Houses over 200 marine species.", "Offers daily dolphin and sea lion shows.", "Features an underwater viewing tunnel."]
-    }
-  },
+    }, image: "/poi-images/sa-fakieh-aquarium-life-v2.webp"},
   {
     id: "sa-al-shallal-theme-park-life-v2",
     type: "kid-friendly",
@@ -69,8 +65,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Évente körülbelül egymillió látogatót vonz.", "Ázsia egyik legnagyobb hullámvasútja található itt.", "Egy speciális Amazonas tematikus zónával rendelkezik."],
       ro: ["Atrage aproximativ un milion de vizitatori anual.", "Găzduiește una dintre cele mai mari montagne russe din Asia.", "Are o zonă tematică specială pentru Amazon."],
       en: ["Attracts around one million visitors annually.", "Features one of the largest roller coasters in Asia.", "Has a special Amazon jungle-themed area."]
-    }
-  },
+    }, image: "/poi-images/sa-al-shallal-theme-park-life-v2.webp"},
   {
     id: "sa-riyadh-zoo-life-v2",
     type: "kid-friendly",
@@ -83,8 +78,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["1957-ben alapították, eredetileg a királyi család számára.", "Több mint 1500 állatnak ad otthont 40 fajból.", "55 hektáros területen fekszik."],
       ro: ["A fost fondată inițial în 1957 pentru familia regală.", "Găzduiește peste 1500 de animale din 40 de specii.", "Se întinde pe o suprafață de 55 de hectare."],
       en: ["Originally founded in 1957 for the royal family.", "Houses over 1500 animals from 40 species.", "Covers an area of 55 hectares."]
-    }
-  },
+    }, image: "/poi-images/sa-riyadh-zoo-life-v2.webp"},
   {
     id: "sa-al-ahsa-date-farms-life-v2",
     type: "agriculture",
@@ -97,8 +91,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Több mint 2,5 millió datolyapálmának ad otthont.", "2018-ban az UNESCO Világörökség részévé nyilvánították.", "Évente több mint 100 000 tonna datolyát termel."],
       ro: ["Găzduiește peste 2,5 milioane de palmieri de curmale.", "A fost declarată Patrimoniu Mondial UNESCO în 2018.", "Produce peste 100.000 de tone de curmale anual."],
       en: ["Contains more than 2.5 million date palms.", "Was declared a UNESCO World Heritage Site in 2018.", "Produces over 100,000 tons of dates annually."]
-    }
-  },
+    }, image: "/poi-images/sa-al-ahsa-date-farms-life-v2.webp"},
   {
     id: "sa-mahazat-as-sayd-life-v2",
     type: "wildlife-area",
@@ -125,8 +118,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["A King Abdulaziz Történelmi Központ része.", "Hagyományos iszlám kertelemeket tartalmaz.", "Mesterséges vízfolyásokkal rendelkezik."],
       ro: ["Face parte din Centrul Istoric King Abdulaziz.", "Include elemente tradiționale de grădină islamică.", "Are cursuri de apă artificiale."],
       en: ["Part of the King Abdulaziz Historical Centre.", "Features traditional Islamic garden elements.", "Has artificial water channels."]
-    }
-  },
+    }, image: "/poi-images/sa-national-museum-park-life-v2.webp"},
   {
     id: "sa-jubail-mangrove-park-life-v2",
     type: "wildlife-area",
@@ -139,8 +131,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["A mangrovefák védik a partot az eróziótól.", "Fa pallósorok vezetnek a látogatók számára.", "Fontos állomás a vándormadarak számára."],
       ro: ["Arborii de mangrove protejează coasta de eroziune.", "Există pasarele de lemn pentru vizitatori.", "Un punct de oprire important pentru păsările migratoare."],
       en: ["The mangrove trees protect the coastline from erosion.", "There are wooden boardwalks for visitors.", "An important stopover for migratory birds."]
-    }
-  },
+    }, image: "/poi-images/sa-jubail-mangrove-park-life-v2.webp"},
   {
     id: "sa-taif-strawberry-farm-life-v2",
     type: "agriculture",
@@ -153,8 +144,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["A régió hűvös éghajlatát használja ki.", "Olyan termékeket is kínálnak, mint az eperlekvár.", "Népszerű agroturisztikai célpont."],
       ro: ["Beneficiază de clima răcoroasă a regiunii.", "Oferă și produse precum gemul de căpșuni.", "O destinație populară pentru agroturism."],
       en: ["Benefits from the region's cool climate.", "Also offers products like strawberry jam.", "A popular destination for agrotourism."]
-    }
-  },
+    }, image: "/poi-images/sa-taif-strawberry-farm-life-v2.webp"},
   {
     id: "sa-atallah-happy-land-park-life-v2",
     type: "kid-friendly",
@@ -167,8 +157,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Már 1986-ban megnyitotta kapuit.", "Egy nagy óriáskerékkel rendelkezik, amely a tengerre néz.", "Bowlingpálya és mászófalak is találhatók itt."],
       ro: ["Și-a deschis porțile încă din 1986.", "Are o mare roată panoramică cu vedere la mare.", "Oferă și o pistă de bowling și pereți de escaladă."],
       en: ["Opened its doors back in 1986.", "Features a large Ferris wheel with sea views.", "Also offers a bowling alley and climbing walls."]
-    }
-  },
+    }, image: "/poi-images/sa-atallah-happy-land-park-life-v2.webp"},
   {
     id: "sa-king-fahd-park-dammam-life-v2",
     type: "park",
@@ -181,8 +170,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Ez a legnagyobb park a szaúdi Keleti Tartományban.", "1,2 millió négyzetméteres területet foglal el.", "Egy kisebb szórakoztatóközpont is található benne."],
       ro: ["Este cel mai mare parc din Provincia de Est saudită.", "Acoperă o suprafață de 1,2 milioane de metri pătrați.", "Include și un mic centru de divertisment."],
       en: ["It is the largest park in the Saudi Eastern Province.", "Covers an area of 1.2 million square meters.", "Also includes a small entertainment center."]
-    }
-  },
+    }, image: "/poi-images/sa-king-fahd-park-dammam-life-v2.webp"},
   {
     id: "sa-nofa-wildlife-safari-life-v2",
     type: "wildlife-area",
@@ -195,8 +183,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Több mint 700 állatnak, köztük zsiráfoknak és gepárdoknak ad otthont.", "A területen egy golfpálya is található.", "A látogatók nyitott szafarijárművekből figyelhetik meg az állatokat."],
       ro: ["Găzduiește peste 700 de animale, inclusiv girafe și gheparzi.", "Terenul include și un teren de golf.", "Vizitatorii pot observa animalele din vehicule deschise de safari."],
       en: ["Houses over 700 animals, including giraffes and cheetahs.", "The grounds also include a golf course.", "Visitors can view the animals in open safari vehicles."]
-    }
-  },
+    }, image: "/poi-images/sa-nofa-wildlife-safari-life-v2.webp"},
   {
     id: "sa-al-rudaf-park-life-v2",
     type: "park",
@@ -209,8 +196,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["A nagy szökőkút akár 80 méter magasra is fellövi a vizet.", "A zöldterület több mint 560 000 négyzetméter.", "A Taifi Rózsafesztivál idején a park különösen színes."],
       ro: ["Marea fântână aruncă apa până la 80 de metri înălțime.", "Zona verde se întinde pe peste 560.000 de metri pătrați.", "În timpul Festivalului Trandafirilor din Taif, parcul este deosebit de colorat."],
       en: ["The large fountain shoots water up to 80 meters high.", "The green area covers over 560,000 square meters.", "The park is especially colorful during the Taif Rose Festival."]
-    }
-  },
+    }, image: "/poi-images/sa-al-rudaf-park-life-v2.webp"},
   {
     id: "sa-al-ghat-national-park-life-v2",
     type: "park",
@@ -223,8 +209,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Egy hegyekkel körülvett völgyben fekszik.", "Fontos terület a helyi növényvilág megőrzése szempontjából.", "Tavasszal a sivatag lágy színekben pompázik."],
       ro: ["Este situat într-o vale înconjurată de munți.", "O zonă importantă pentru conservarea florei locale.", "Primăvara, deșertul înflorește în culori blânde."],
       en: ["Located in a valley surrounded by mountains.", "An important area for the conservation of local flora.", "In spring, the desert blooms in soft colors."]
-    }
-  },
+    }, image: "/poi-images/sa-al-ghat-national-park-life-v2.webp"},
   {
     id: "sa-al-jouf-olive-orchards-life-v2",
     type: "agriculture",
@@ -237,8 +222,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Több mint 18 millió olajfa található itt.", "Guinness-rekorder, mint a legnagyobb modern olajbogyófarm.", "Minden évben nagy olívafesztivált rendeznek itt."],
       ro: ["Acolo sunt peste 18 milioane de măslini.", "Deține Recordul Mondial Guinness pentru cea mai mare fermă modernă de măslini.", "În fiecare an are loc aici un mare festival al măslinelor."],
       en: ["There are over 18 million olive trees there.", "Holds the Guinness World Record for the largest modern olive farm.", "A large olive festival is held here every year."]
-    }
-  },
+    }, image: "/poi-images/sa-al-jouf-olive-orchards-life-v2.webp"},
   {
     id: "sa-ibex-reserve-life-v2",
     type: "wildlife-area",
@@ -251,8 +235,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Mély völgyeket és meredek sziklákat foglal magában.", "A kőszáli kecskék mellett szirtiborzok és rókák is élnek itt.", "A belépés szigorúan szabályozott az állatok nyugalmának érdekében."],
       ro: ["Include văi adânci și stânci abrupte.", "Pe lângă ibecși, aici trăiesc și damani și vulpi.", "Accesul este strict reglementat pentru a nu deranja animalele."],
       en: ["Comprises deep valleys and steep cliffs.", "Besides ibex, rock hyraxes and foxes also live here.", "Access is strictly regulated to avoid disturbing the animals."]
-    }
-  },
+    }, image: "/poi-images/sa-ibex-reserve-life-v2.webp"},
   {
     id: "sa-water-splash-park-life-v2",
     type: "kid-friendly",
@@ -265,8 +248,7 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
       hu: ["Különösen népszerű a forró nyári hónapokban.", "Külön részleggel rendelkezik a kisgyermekek számára.", "A családok privát faházakat is bérelhetnek."],
       ro: ["Deosebit de popular în lunile fierbinți de vară.", "Oferă zone separate pentru copiii mici.", "Dispune de cabane private pe care familiile le pot închiria."],
       en: ["Especially popular during the hot summer months.", "Offers separate areas for small children.", "Features private chalets that families can rent."]
-    }
-  },
+    }, image: "/poi-images/sa-water-splash-park-life-v2.webp"},
   {
     id: "sa-jeddah-corniche-parks-life-v2",
     type: "park",

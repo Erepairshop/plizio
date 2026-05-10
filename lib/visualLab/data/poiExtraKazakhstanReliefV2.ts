@@ -13,8 +13,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["A csúcs magassága 7010 méter.", "Kirgizisztán és Kína határán fekszik."],
       ro: ["Altitudinea vârfului este de 7010 metri.", "Situat la granița cu Kârgâzstan și China."],
       en: ["Peak elevation of 7010 meters.", "Located on the border with Kyrgyzstan and China."]
-    }
-  },
+    }, image: "/poi-images/khan-tengri-relief-v2.webp"},
   {
     id: "belukha-mountain-relief-v2",
     type: "mountain",
@@ -27,8 +26,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Magassága eléri a 4506 métert.", "Jelentős gleccserhegy."],
       ro: ["Atinge o altitudine de 4506 metri.", "Un munte glaciar important."],
       en: ["Reaches an elevation of 4506 meters.", "A significant glaciated mountain."]
-    }
-  },
+    }, image: "/poi-images/belukha-mountain-relief-v2.webp"},
   {
     id: "charyn-canyon-relief-v2",
     type: "valley",
@@ -41,8 +39,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Körülbelül 90 kilométer hosszú.", "Híres a Kastélyok völgyéről."],
       ro: ["Aproximativ 90 de kilometri lungime.", "Faimos pentru Valea Castelelor."],
       en: ["About 90 kilometers long.", "Famous for the Valley of Castles."]
-    }
-  },
+    }, image: "/poi-images/charyn-canyon-relief-v2.webp"},
   {
     id: "ustyurt-plateau-relief-v2",
     type: "plateau",
@@ -55,8 +52,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Mintegy 200 000 négyzetkilométer kiterjedésű.", "Híres meredek sziklafalairól."],
       ro: ["Acoperă aproximativ 200.000 de kilometri pătrați.", "Cunoscut pentru stâncile sale abrupte."],
       en: ["Covers about 200,000 square kilometers.", "Known for its steep cliffs (chinks)."]
-    }
-  },
+    }, image: "/poi-images/ustyurt-plateau-relief-v2.webp"},
   {
     id: "kyzylkum-desert-relief-v2",
     type: "desert",
@@ -69,8 +65,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["A neve azt jelenti: Vörös homok.", "Hideg sivatag szélsőséges hőmérséklet-ingadozásokkal."],
       ro: ["Numele înseamnă Nisipul Roșu.", "Un deșert rece cu variații extreme de temperatură."],
       en: ["The name means Red Sand.", "A cold desert with extreme temperature variations."]
-    }
-  },
+    }, image: "/poi-images/kyzylkum-desert-relief-v2.webp"},
   {
     id: "caspian-sea-coast-kz-relief-v2",
     type: "coast",
@@ -83,8 +78,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["A Föld legnagyobb tava.", "Kazahsztán partvonala több mint 1800 km hosszú."],
       ro: ["Cel mai mare lac de pe Pământ.", "Linia de coastă a Kazahstanului are peste 1800 km lungime."],
       en: ["The largest lake on Earth.", "Kazakhstan's coastline is over 1800 km long."]
-    }
-  },
+    }, image: "/poi-images/caspian-sea-coast-kz-relief-v2.webp"},
   {
     id: "karagiye-depression-relief-v2",
     type: "valley",
@@ -97,8 +91,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["132 méterrel a tengerszint alatt fekszik.", "A Mangislak-félszigeten található."],
       ro: ["Se află la 132 de metri sub nivelul mării.", "Situată pe Peninsula Mangyshlak."],
       en: ["Lies 132 meters below sea level.", "Located on the Mangyshlak Peninsula."]
-    }
-  },
+    }, image: "/poi-images/karagiye-depression-relief-v2.webp"},
   {
     id: "betpak-dala-relief-v2",
     type: "desert",
@@ -111,8 +104,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Területe mintegy 75 000 négyzetkilométer.", "A súlyosan veszélyeztetett szajga antilopok otthona."],
       ro: ["Suprafață de aproximativ 75.000 de kilometri pătrați.", "Căminul antilopelor saiga, grav amenințate."],
       en: ["Area of about 75,000 square kilometers.", "Home to the critically endangered saiga antelopes."]
-    }
-  },
+    }, image: "/poi-images/betpak-dala-relief-v2.webp"},
   {
     id: "zailiysky-alatau-relief-v2",
     type: "mountain",
@@ -125,8 +117,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Legmagasabb csúcsa a 4979 méteres Talgar-csúcs.", "Népszerű téli sportközpont."],
       ro: ["Pik Talgar este cel mai înalt vârf, având 4979 metri.", "O zonă populară pentru sporturile de iarnă."],
       en: ["Pik Talgar is the highest peak at 4979 meters.", "A popular area for winter sports."]
-    }
-  },
+    }, image: "/poi-images/zailiysky-alatau-relief-v2.webp"},
   {
     id: "muyunkum-desert-relief-v2",
     type: "desert",
@@ -139,8 +130,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Északon a Csu folyó határolja.", "Alkalmazkodott sivatagi növény- és állatvilágnak ad otthont."],
       ro: ["Mărginit de râul Chu la nord.", "Găzduiește floră și faună adaptate la deșert."],
       en: ["Bounded by the Chu River to the north.", "Hosts adapted desert flora and fauna."]
-    }
-  },
+    }, image: "/poi-images/muyunkum-desert-relief-v2.webp"},
   {
     id: "saryarka-steppe-relief-v2",
     type: "plateau",
@@ -153,8 +143,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Az UNESCO Világörökség része.", "Gazdag ásványi anyagokban és kincsekben."],
       ro: ["Face parte din Patrimoniul Mondial UNESCO.", "Bogată în minerale și resurse naturale."],
       en: ["Part of the UNESCO World Heritage Site.", "Rich in minerals and natural resources."]
-    }
-  },
+    }, image: "/poi-images/saryarka-steppe-relief-v2.webp"},
   {
     id: "mangyshlak-peninsula-relief-v2",
     type: "plateau",
@@ -167,8 +156,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Gazdag kőolaj- és földgázkészletekben.", "Sivatagos tájairól ismert."],
       ro: ["Bogată în zăcăminte de petrol și gaze naturale.", "Cunoscută pentru peisajele sale deșertice."],
       en: ["Rich in oil and natural gas reserves.", "Known for its desert-like landscapes."]
-    }
-  },
+    }, image: "/poi-images/mangyshlak-peninsula-relief-v2.webp"},
   {
     id: "turgay-trough-relief-v2",
     type: "valley",
@@ -195,8 +183,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Az Északi-Aral-tó lassan újra stabilizálódik.", "Egykor a világ négy legnagyobb tavának egyike volt."],
       ro: ["Marea Aral de Nord se stabilizează încet.", "Fostul unul dintre cele mai mari patru lacuri din lume."],
       en: ["The North Aral Sea is slowly stabilizing.", "Formerly one of the four largest lakes in the world."]
-    }
-  },
+    }, image: "/poi-images/aral-sea-coast-kz-relief-v2.webp"},
   {
     id: "dzungarian-alatau-relief-v2",
     type: "mountain",
@@ -209,8 +196,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Legmagasabb pontja a Szemjonov-Tyan-Sanszkij-csúcs.", "A hópárduc fontos élőhelye."],
       ro: ["Cel mai înalt punct este Vârful Semyonov-Tian-Shansky.", "Un habitat important pentru leopardul de zăpadă."],
       en: ["Highest point is Pik Semyonov-Tian-Shansky.", "An important habitat for the snow leopard."]
-    }
-  },
+    }, image: "/poi-images/dzungarian-alatau-relief-v2.webp"},
   {
     id: "karkaraly-mountains-relief-v2",
     type: "mountain",
@@ -223,8 +209,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["A Karkarali Nemzeti Park része.", "Festői tavairól és fenyőerdeiről híres."],
       ro: ["Parte a Parcului Național Karkaraly.", "Faimoși pentru lacurile pitorești și pădurile de pini."],
       en: ["Part of the Karkaraly National Park.", "Famous for picturesque lakes and pine forests."]
-    }
-  },
+    }, image: "/poi-images/karkaraly-mountains-relief-v2.webp"},
   {
     id: "tarbagatai-mountains-relief-v2",
     type: "mountain",
@@ -237,8 +222,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["A név jelentése: Mormoták helye.", "Legmagasabb hegye a közel 3000 méteres Tasztau."],
       ro: ["Numele înseamnă Locul marmotelor.", "Cel mai înalt munte este Tastau, cu aproape 3000 de metri."],
       en: ["The name means Place of marmots.", "Highest mountain is Tastau at nearly 3000 meters."]
-    }
-  },
+    }, image: "/poi-images/tarbagatai-mountains-relief-v2.webp"},
   {
     id: "aralkum-desert-relief-v2",
     type: "desert",
@@ -251,8 +235,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["A 20. század második felében alakult ki.", "Több mint 60 000 négyzetkilométeres területet borít."],
       ro: ["S-a format în a doua jumătate a secolului al XX-lea.", "Acoperă o suprafață de peste 60.000 de kilometri pătrați."],
       en: ["Formed in the second half of the 20th century.", "Covers an area of over 60,000 square kilometers."]
-    }
-  },
+    }, image: "/poi-images/aralkum-desert-relief-v2.webp"},
   {
     id: "altai-mountains-kz-relief-v2",
     type: "mountain",
@@ -265,8 +248,7 @@ export const poiExtraKazakhstanReliefV2: POI[] = [
       hu: ["Az UNESCO Világörökség része.", "Számos ritka állatfaj otthona."],
       ro: ["Patrimoniu Mondial UNESCO.", "Căminul a numeroase specii de animale rare."],
       en: ["UNESCO World Heritage Site.", "Home to numerous rare animal species."]
-    }
-  },
+    }, image: "/poi-images/altai-mountains-kz-relief-v2.webp"},
   {
     id: "ili-valley-relief-v2",
     type: "valley",

@@ -1,0 +1,85 @@
+{
+  "lang": "ro",
+  "country": "Democraticrepublicofcongo",
+  "files": [
+    "lib/visualLab/data/poiExtraDemocraticrepublicofcongoLifeV2.ts",
+    "lib/visualLab/data/poiExtraDemocraticrepublicofcongoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kaniama-state-farm-life-v2",
+      "description": "Această fermă de stat din provincia Haut-Lomami este o unitate agricolă semnificativă pentru producția locală de alimente. Jucând un rol esențial în securitatea alimentară regională, aceasta gestionează mari suprafețe cultivate.",
+      "facts": ["Situată în Haut-Lomami", "Centru agricol regional", "Focus pe securitatea alimentară"]
+    },
+    {
+      "id": "tumba-lake-nature-v2",
+      "description": "Lacul Tumba este un corp de apă de mică adâncime, legat de fluviul Congo printr-un canal. Este recunoscut pentru biodiversitatea sa acvatică bogată și importanța pentru ecosistemele zonelor umede.",
+      "facts": ["Arie de mică adâncime", "Legat de fluviul Congo", "Biodiversitate bogată"]
+    },
+    {
+      "id": "idjwi-island-nature-v2",
+      "description": "Situată în lacul Kivu, Idjwi este una dintre cele mai mari insule interioare din Africa. Insula are un relief muntos și un microclimat propice agriculturii tradiționale.",
+      "facts": ["Situată în lacul Kivu", "Insulă interioară vastă", "Relief muntos"]
+    },
+    {
+      "id": "mateba-island-nature-v2",
+      "description": "Insula Mateba se află în estuarul fluviului Congo și este o rezervație naturală protejată. Aceasta găzduiește păduri riverane și o varietate de specii de păsări și reptile.",
+      "facts": ["În estuarul Congo", "Rezervație naturală", "Habitat de păduri riverane"]
+    },
+    {
+      "id": "muanda-coast-nature-v2",
+      "description": "Coasta din jurul localității Muanda reprezintă singura ieșire la Oceanul Atlantic a țării. Zona este caracterizată de mangrove, plaje nisipoase și un estuar important.",
+      "facts": ["Ieșire la Atlantic", "Ecosistem de mangrove", "Estuar important"]
+    },
+    {
+      "id": "epulu-river-nature-v2",
+      "description": "Râul Epulu traversează rezervația de faună Okapi din regiunea Ituri. Este un curs de apă vital pentru conservarea speciilor endemice și a pădurilor tropicale dese.",
+      "facts": ["Traversează rezervația Okapi", "Situat în Ituri", "Vital pentru conservare"]
+    },
+    {
+      "id": "mbomou-river-nature-v2",
+      "description": "Râul Mbomou formează o parte din granița naturală a țării și este un afluent important al fluviului Ubangi. Zona sa adiacentă este acoperită de păduri tropicale virgine.",
+      "facts": ["Afluent al râului Ubangi", "Graniță naturală", "Păduri tropicale dese"]
+    },
+    {
+      "id": "aruwimi-river-nature-v2",
+      "description": "Râul Aruwimi este un afluent major al fluviului Congo, având un bazin hidrografic extins. Acesta curge prin inima bazinului Congo, susținând habitate forestiere dense.",
+      "facts": ["Afluent al fluviului Congo", "Bazin hidrografic extins", "Păduri tropicale"]
+    },
+    {
+      "id": "pool-malebo-nature-v2",
+      "description": "Pool Malebo este o secțiune largă, asemănătoare unui lac, a fluviului Congo între Kinshasa și Brazzaville. Este un nod vital pentru navigația fluvială și ecosistemele de coastă.",
+      "facts": ["Secțiune lărgită a râului", "Nod de navigație", "Între două capitale"]
+    },
+    {
+      "id": "elila-river-nature-v2",
+      "description": "Râul Elila este un afluent situat în partea de est a țării, parcurgând regiuni muntoase și forestiere. Este un curs de apă important pentru comunitățile locale.",
+      "facts": ["Afluent din est", "Zone muntoase", "Importanță locală"]
+    },
+    {
+      "id": "ulindi-river-nature-v2",
+      "description": "Râul Ulindi curge prin regiuni dense din provincia Kivu, fiind un afluent al râului Lualaba. Zona este marcată de relief variat și păduri tropicale.",
+      "facts": ["Afluent al râului Lualaba", "Situat în Kivu", "Păduri tropicale"]
+    },
+    {
+      "id": "mukamba-lake-nature-v2",
+      "description": "Lacul Mukamba este un lac natural situat în provincia Kasaï, cunoscut pentru împrejurimile sale pitorești. Este un punct de atracție pentru ecosistemele acvatice locale.",
+      "facts": ["Situat în Kasaï", "Lac natural", "Ecosisteme acvatice"]
+    },
+    {
+      "id": "mangengenge-mountain-nature-v2",
+      "description": "Muntele Mangengenge este un punct de reper natural notabil în apropierea capitalei Kinshasa. Traseele de pe acest munte oferă o vedere asupra regiunii și a vegetației locale.",
+      "facts": ["Lângă Kinshasa", "Punct de reper", "Trasee montane"]
+    },
+    {
+      "id": "lomami-forest-nature-v2",
+      "description": "Pădurea Lomami este o regiune vastă de pădure tropicală care găzduiește numeroase specii rare. Este una dintre cele mai importante zone pentru conservarea biodiversității din țară.",
+      "facts": ["Pădure tropicală vastă", "Specii rare", "Zona de conservare"]
+    },
+    {
+      "id": "mangrove-forest-nature-v2",
+      "description": "Pădurile de mangrove din estuarul fluviului Congo constituie un ecosistem marin și terestru deosebit. Acestea protejează linia de coastă și oferă refugiu pentru fauna locală.",
+      "facts": ["În estuarul Congo", "Ecosistem de coastă", "Refugiu faunistic"]
+    }
+  ]
+}

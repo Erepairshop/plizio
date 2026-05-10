@@ -18,8 +18,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Kulturális és politikai központ.", "Itt található a Souq Al Mubarakiya piac."],
       ro: ["Centru cultural și politic.", "Găzduiește piața Souq Al Mubarakiya."],
       en: ["Cultural and political center.", "Home to the Souq Al Mubarakiya."]
-    }
-  },
+    }, image: "/poi-images/kw-kuwait-city-cities-v2.webp"},
   {
     id: "kw-al-ahmadi-cities-v2",
     type: "city",
@@ -37,8 +36,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Az 1940-es években alapították.", "A Kuvaiti Olajtársaság székhelye."],
       ro: ["Fondat în anii 1940.", "Sediul central al Kuwait Oil Company."],
       en: ["Founded in the 1940s.", "Headquarters of the Kuwait Oil Company."]
-    }
-  },
+    }, image: "/poi-images/kw-al-ahmadi-cities-v2.webp"},
   {
     id: "kw-al-jahra-cities-v2",
     type: "city",
@@ -56,8 +54,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Az 1920-as dzsahrai csata helyszíne.", "Fontos mezőgazdasági régió."],
       ro: ["Locul bătăliei de la Jahra din 1920.", "Regiune agricolă importantă."],
       en: ["Site of the 1920 Battle of Jahra.", "Important agricultural region."]
-    }
-  },
+    }, image: "/poi-images/kw-al-jahra-cities-v2.webp"},
   {
     id: "kw-hawally-cities-v2",
     type: "city",
@@ -113,8 +110,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["A hat tartomány közül a legújabb.", "Modern infrastruktúrával rendelkezik."],
       ro: ["Cea mai nouă dintre cele șase provincii.", "Dispune de o infrastructură modernă."],
       en: ["Newest of the six governorates.", "Features modern infrastructure."]
-    }
-  },
+    }, image: "/poi-images/kw-mubarak-al-kabeer-cities-v2.webp"},
   {
     id: "kw-salmiya-cities-v2",
     type: "city",
@@ -132,8 +128,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Itt található a Marina Mall.", "Nagy tengeri parkot kínál."],
       ro: ["Găzduiește Marina Mall.", "Oferă un parc maritim mare."],
       en: ["Home to the Marina Mall.", "Features a large marine park."]
-    }
-  },
+    }, image: "/poi-images/kw-salmiya-cities-v2.webp"},
   {
     id: "kw-fahaheel-cities-v2",
     type: "city",
@@ -189,8 +184,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont.", "Számos helyi piac található itt."],
       ro: ["Nod de transport important.", "Numeroase piețe locale."],
       en: ["Important transport hub.", "Numerous local markets."]
-    }
-  },
+    }, image: "/poi-images/kw-khaitan-cities-v2.webp"},
   {
     id: "kw-mangaf-cities-v2",
     type: "city",
@@ -227,8 +221,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Népszerű szabadidős célpont.", "Számos étterem a parton."],
       ro: ["Destinație populară de agrement.", "Numeroase restaurante pe coastă."],
       en: ["Popular leisure destination.", "Numerous restaurants on the coast."]
-    }
-  },
+    }, image: "/poi-images/kw-abu-halifa-cities-v2.webp"},
   {
     id: "kw-rumaithiya-cities-v2",
     type: "city",
@@ -246,8 +239,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Számos szövetkezetéről ismert.", "Családbarát környezet."],
       ro: ["Cunoscut pentru numeroasele cooperative.", "Mediu prietenos pentru familii."],
       en: ["Known for numerous cooperatives.", "Family-friendly environment."]
-    }
-  },
+    }, image: "/poi-images/kw-rumaithiya-cities-v2.webp"},
   {
     id: "kw-sabah-al-salem-cities-v2",
     type: "city",
@@ -265,8 +257,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["A kuvaiti állampolgárok fontos lakóhelye.", "Van egy nagy kórháza."],
       ro: ["Loc de reședință important pentru cetățenii kuweitieni.", "Are un spital mare."],
       en: ["Important residential area for Kuwaiti citizens.", "Has a large hospital."]
-    }
-  },
+    }, image: "/poi-images/kw-sabah-al-salem-cities-v2.webp"},
   {
     id: "kw-jabriya-cities-v2",
     type: "city",
@@ -284,8 +275,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Központi orvosi központ.", "Exkluzív lakóövezeteket kínál."],
       ro: ["Centru medical principal.", "Oferă zone rezidențiale exclusive."],
       en: ["Central medical hub.", "Offers exclusive residential areas."]
-    }
-  },
+    }, image: "/poi-images/kw-jabriya-cities-v2.webp"},
   {
     id: "kw-salwa-cities-v2",
     type: "city",
@@ -303,8 +293,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Multikulturális szomszédság.", "Közel fekszik a strandhoz."],
       ro: ["Cartier multicultural.", "Situat aproape de plajă."],
       en: ["Multicultural neighborhood.", "Located close to the beach."]
-    }
-  },
+    }, image: "/poi-images/kw-salwa-cities-v2.webp"},
   {
     id: "kw-bayan-cities-v2",
     type: "city",
@@ -322,8 +311,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Itt található a botanikus kert.", "Nagyon biztonságos és csendes környék."],
       ro: ["Găzduiește Grădina Botanică.", "Cartier foarte sigur și liniștit."],
       en: ["Houses the Botanical Garden.", "Very safe and quiet neighborhood."]
-    }
-  },
+    }, image: "/poi-images/kw-bayan-cities-v2.webp"},
   {
     id: "kw-ardhiya-cities-v2",
     type: "city",
@@ -341,8 +329,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Fontos sportközpont.", "Egy egyetemi enklávét is magában foglal."],
       ro: ["Centru sportiv important.", "Include și o enclavă universitară."],
       en: ["Important sports center.", "Also includes a university enclave."]
-    }
-  },
+    }, image: "/poi-images/kw-ardhiya-cities-v2.webp"},
   {
     id: "kw-mahboula-cities-v2",
     type: "city",
@@ -360,8 +347,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Népszerű a nyugati bevándorlók körében.", "Erős építkezési tevékenység az elmúlt években."],
       ro: ["Popular printre expatriații occidentali.", "Activitate puternică de construcții în ultimii ani."],
       en: ["Popular among western expatriates.", "Strong construction activity in recent years."]
-    }
-  },
+    }, image: "/poi-images/kw-mahboula-cities-v2.webp"},
   {
     id: "kw-fintas-cities-v2",
     type: "city",
@@ -379,8 +365,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["A hagyományos kuvaiti kultúráról ismert.", "Népszerű piknikező helyeket kínál."],
       ro: ["Cunoscut pentru cultura tradițională kuweitiană.", "Oferă locuri populare de picnic."],
       en: ["Known for traditional Kuwaiti culture.", "Offers popular picnic spots."]
-    }
-  },
+    }, image: "/poi-images/kw-fintas-cities-v2.webp"},
   {
     id: "kw-sabahiya-cities-v2",
     type: "city",
@@ -417,8 +402,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Mubarak Al-Kabeer tartomány része.", "Különösen népszerű a helyi családok körében."],
       ro: ["Face parte din guvernoratul Mubarak Al-Kabeer.", "Deosebit de popular printre familiile locale."],
       en: ["Part of the Mubarak Al-Kabeer governorate.", "Especially popular among local families."]
-    }
-  },
+    }, image: "/poi-images/kw-al-qusour-cities-v2.webp"},
   {
     id: "kw-al-qurain-cities-v2",
     type: "city",
@@ -436,8 +420,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Fontos történelmi helyszín.", "Nyüzsgő bevásárlóközpontja van."],
       ro: ["Sit istoric important.", "Are un centru comercial plin de viață."],
       en: ["Important historical site.", "Has a vibrant shopping center."]
-    }
-  },
+    }, image: "/poi-images/kw-al-qurain-cities-v2.webp"},
   {
     id: "kw-ali-sabah-al-salem-cities-v2",
     type: "city",
@@ -455,8 +438,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["A szaúdi határ közelében található.", "Az ipari és lakóövezetek elkülönülnek."],
       ro: ["Situat în apropierea graniței cu Arabia Saudită.", "Zonele industriale și rezidențiale sunt separate."],
       en: ["Located near the Saudi border.", "Industrial and residential areas are separated."]
-    }
-  },
+    }, image: "/poi-images/kw-ali-sabah-al-salem-cities-v2.webp"},
   {
     id: "kw-sulaibikhat-cities-v2",
     type: "city",
@@ -474,8 +456,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Kilátást nyújt az öbölre.", "Fontos kórházi helyszín."],
       ro: ["Oferă o vedere a golfului.", "Locație importantă pentru spitale."],
       en: ["Offers a view of the bay.", "Important hospital location."]
-    }
-  },
+    }, image: "/poi-images/kw-sulaibikhat-cities-v2.webp"},
   {
     id: "kw-shuwaikh-cities-v2",
     type: "city",
@@ -493,8 +474,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Az ország legfontosabb kereskedelmi kikötője.", "Nagyszámú gyár található itt."],
       ro: ["Principalul port comercial al țării.", "Număr mare de fabrici."],
       en: ["Main commercial port of the country.", "Large number of factories."]
-    }
-  },
+    }, image: "/poi-images/kw-shuwaikh-cities-v2.webp"},
   {
     id: "kw-al-adan-cities-v2",
     type: "city",
@@ -512,8 +492,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Magas életminőség családok számára.", "Jó infrastruktúrával rendelkezik."],
       ro: ["Calitate ridicată a vieții pentru familii.", "Dispune de o infrastructură bună."],
       en: ["High quality of life for families.", "Features good infrastructure."]
-    }
-  },
+    }, image: "/poi-images/kw-al-adan-cities-v2.webp"},
   {
     id: "kw-surra-cities-v2",
     type: "city",
@@ -531,8 +510,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Több külföldi nagykövetség székhelye.", "Nagyon zöld és gondozott utcák."],
       ro: ["Sediul mai multor ambasade străine.", "Străzi foarte verzi și bine întreținute."],
       en: ["Home to several foreign embassies.", "Very green and well-maintained streets."]
-    }
-  },
+    }, image: "/poi-images/kw-surra-cities-v2.webp"},
   {
     id: "kw-qurtuba-cities-v2",
     type: "city",
@@ -550,8 +528,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       hu: ["Különösen csendes és biztonságos.", "Aktív helyi közösségi központtal rendelkezik."],
       ro: ["Deosebit de liniștit și sigur.", "Are un centru comunitar local activ."],
       en: ["Particularly quiet and safe.", "Has an active local community center."]
-    }
-  },
+    }, image: "/poi-images/kw-qurtuba-cities-v2.webp"},
   {
     id: "kw-rawda-cities-v2",
     type: "city",

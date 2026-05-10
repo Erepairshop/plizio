@@ -18,7 +18,20 @@ export const poiExtraCanadaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Erbaut 1793 zur Verteidigung gegen US-Invasion", "Schauplatz der Schlacht von York 1813", "National Historic Site Kanadas", "Beherbergt das größte Ensemble originaler Militärgebäude", "Wichtiger Standort während des Kriegs von 1812", "Ermöglicht historische Rekonstruktionen"]
-    }, image: "/poi-images/fort-york-toronto-history-v2.webp"},
+    }, image: "/poi-images/fort-york-toronto-history-v2.webp",
+    description: {
+      de: "Eine historische Militäranlage in Toronto, die den Krieg von 1812 prägte.",
+      hu: "Fort York Toronto egyik legfontosabb történelmi katonai helyszíne. Az 1812-es háború idején a város védelmében játszott szerepet.",
+      ro: "Fort York este un sit istoric din Toronto, asociat cu ?nceputurile defensive ale ora?ului. A fost un punct militar important ?n perioada colonial?.",
+      en: "Fort York is a historic military site in Toronto that defended the city during the War of 1812. It remains one of the city's key heritage places."
+    },
+    facts: {
+      de: ["Schauplatz der Schlacht von York", "National Historic Site", "Verteidigte Oberkanada"],
+      hu: ["Torontóban található", "Az 1812-es háborúhoz kötődik", "Nemzeti történelmi helyszín"],
+      ro: ["?n Toronto", "Situl defensiv istoric", "Perioada colonial?"],
+      en: ["In Toronto", "Linked to the Battle of York", "National Historic Site"]
+    }
+  },
   {
     id: "battle-of-batoche-history-v2",
     type: "historical",
@@ -35,7 +48,20 @@ export const poiExtraCanadaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Entscheidende Schlacht der Nordwest-Rebellion 1885", "Métis-Widerstand gegen die Regierung", "Louis Riel war eine der Schlüsselfiguren", "Ende des bewaffneten Métis-Widerstands", "National Historic Site in Saskatchewan", "Bedeutsam für die Identität der Métis"]
-    }, image: "/poi-images/battle-of-batoche-history-v2.webp"},
+    }, image: "/poi-images/battle-of-batoche-history-v2.webp",
+    description: {
+      de: "Die Schlacht von Batoche war ein Schlüsselereignis der Nordwest-Rebellion von 1885.",
+      hu: "A batoche-i csata a kanadai északnyugati ellenállás egyik döntő ütközete volt. 1885-ben zajlott a mai Saskatchewan területén.",
+      ro: "B?t?lia de la Batoche a avut loc ?n 1885, ?n actualul Saskatchewan. A fost un moment cheie al Rebeliunii Nord-Vestului.",
+      en: "The Battle of Batoche was a decisive 1885 clash in the North-West Rebellion in Saskatchewan. It is a major event in Métis history and Canadian colonial history."
+    },
+    facts: {
+      de: ["1885 ausgetragen", "Zentral für die Métis-Geschichte", "Louis Riel war eine Schlüsselfigur"],
+      hu: ["1885-ben zajlott", "Saskatchewan területéhez kötődik", "A északnyugati ellenállás része"],
+      ro: ["Anul 1885", "?n Saskatchewan", "Parte din Rebeliunea Nord-Vestului"],
+      en: ["Fought in 1885", "Part of the North-West Rebellion", "Important to Métis history"]
+    }
+  },
   {
     id: "grosse-ile-irish-memorial-history-v2",
     type: "historical",
@@ -52,7 +78,20 @@ export const poiExtraCanadaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Quarantänestation für Einwanderer (1832–1937)", "Zentrum der Ankunft während der irischen Hungersnot", "Über 5.000 irische Einwanderer verstarben hier", "National Historic Site Kanadas", "Bedeutsames Denkmal für irische Geschichte", "Symbol für die Härten der frühen Einwanderung"]
-    }, image: "/poi-images/grosse-ile-irish-memorial-history-v2.webp"},
+    }, image: "/poi-images/grosse-ile-irish-memorial-history-v2.webp",
+    description: {
+      de: "Grosse Île diente als Quarantänestation für Einwanderer im Sankt-Lorenz-Strom.",
+      hu: "Grosse-Île az ír bevándorlás és a karantén történetének fontos emlékhelye Québecben. A hely az 1840-es évek ír éhínségéhez is kapcsolódik.",
+      ro: "Memorialul de pe Grosse-?le evoc? istoria imigran?ilor irlandezi ?i perioada de carantin?. Locul este legat ?n special de criza din 1847.",
+      en: "Grosse Île was a quarantine station on the St. Lawrence River for incoming immigrants. It is closely associated with Irish migration and the 1847 famine."
+    },
+    facts: {
+      de: ["19. Jahrhundert", "Wichtig für irische Einwanderung", "National Historic Site"],
+      hu: ["Québecben található", "Karanténállomás volt", "Az ír bevándorlás emlékhelye"],
+      ro: ["Pe Grosse-?le", "Legat de imigran?ii irlandezi", "Anul 1847"],
+      en: ["Former quarantine station", "Linked to Irish migration", "National Historic Site"]
+    }
+  },
   {
     id: "fort-henry-kingston-history-v2",
     type: "historical",
@@ -69,7 +108,20 @@ export const poiExtraCanadaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Schutz des Rideau-Kanals und des St.-Lorenz-Stroms", "Erbaut zum Schutz gegen US-Aggressionen", "Teil des UNESCO-Welterbes mit dem Rideau-Kanal", "Bekannt für exzellente Militärvorführungen", "Ehemaliger Standort britischer Garnisonen", "Wichtiger Punkt der britischen Verteidigung"]
-    }, image: "/poi-images/fort-henry-kingston-history-v2.webp"},
+    }, image: "/poi-images/fort-henry-kingston-history-v2.webp",
+    description: {
+      de: "Fort Henry bewachte Kingston und den Zugang zum Ontariosee.",
+      hu: "Fort Henry Kingston fölött, a Szent Lőrinc folyó közelében álló történelmi erőd. A brit katonai védelem fontos része volt a 19. században.",
+      ro: "Fort Henry este o fortifica?ie istoric? din Kingston, pe malul lacului Ontario. A f?cut parte din sistemul de ap?rare al estului Canadei.",
+      en: "Fort Henry is a historic fort in Kingston built to guard the harbour and the Rideau Canal route. It is one of the best-known military heritage sites in Ontario."
+    },
+    facts: {
+      de: ["Über Kingston gelegen", "Schutz von Hafen und Kanal", "Bekannt als Militärmuseum"],
+      hu: ["Kingstonban van", "A Szent Lőrinc-folyóra néz", "19. századi katonai erőd"],
+      ro: ["?n Kingston", "Pe lacul Ontario", "Fortifica?ie istoric?"],
+      en: ["In Kingston", "Built for defence after the War of 1812", "Part of the Rideau Canal UNESCO site"]
+    }
+  },
   {
     id: "klondike-gold-rush-history-v2",
     type: "historical",
@@ -86,7 +138,20 @@ export const poiExtraCanadaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Goldfund am Bonanza Creek 1896", "Zehntausende Glücksritter in den Yukon", "Dawson City wurde zum Zentrum des Goldrausches", "Dauer: 1896 bis ca. 1899", "Bedeutsam für die Erschließung des Nordens", "Mythos des schnellen Reichtums"]
-    }, image: "/poi-images/klondike-gold-rush-history-v2.webp"},
+    }, image: "/poi-images/klondike-gold-rush-history-v2.webp",
+    description: {
+      de: "Der Klondike-Goldrausch löste Ende des 19. Jahrhunderts einen großen Ansturm in den Yukon aus.",
+      hu: "A klondike-i aranyláz a Yukon történetének egyik leghíresebb eseménye. 1896 után több ezer aranykeresőt vonzott a térségbe.",
+      ro: "Goana dup? aur din Klondike a atras mii de oameni ?n Yukon la sf?r?itul secolului al XIX-lea. A schimbat rapid dezvoltarea nordului canadian.",
+      en: "The Klondike Gold Rush was the great Yukon gold boom that began in 1896. It drew thousands of prospectors north and turned Dawson City into a famous frontier town."
+    },
+    facts: {
+      de: ["Goldfund 1896", "Dawson City als Zentrum", "Zog Tausende in den Norden"],
+      hu: ["A Yukonhoz kötődik", "1896 után indult", "Tömeges aranykeresést hozott"],
+      ro: ["?n Yukon", "Sf?r?itul secolului XIX", "A atras mii de prospectori"],
+      en: ["Started in 1896", "Centered on Dawson City", "Drew thousands of prospectors north"]
+    }
+  },
   {
     id: "writing-on-stone-park-history-v2",
     type: "historical",
@@ -215,15 +280,15 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       en: "Fort Langley"
     },
     description: {
-      de: "Ein ehemaliger Pelzhandelsposten der Hudson's Bay Company, der oft als 'Geburtsort von British Columbia' bezeichnet wird.",
+      de: "Fort Langley war eine frühe Handelsposten-Siedlung der Hudson's Bay Company in British Columbia.",
       hu: "A Hudson-öböl Társaság egykori szőrmekereskedelmi állomása, amelyet gyakran 'Brit Columbia szülőhelyének' neveznek.",
-      ro: "Un fost post de comerț cu blănuri al Companiei Hudson's Bay, adesea numit 'locul de naștere al Columbiei Britanice'.",
+      ro: "Fort Langley a fost un post comercial istoric din Fraser Valley. Este legat de comer?ul cu bl?nuri ?i de ?nceputurile coloniale ale Columbiei Britanice.",
       en: "A former Hudson's Bay Company fur trading post, often called the 'Birthplace of British Columbia'."
     },
     facts: {
-      de: ["Gegründet 1827", "Hier wurde 1858 die Kronkolonie British Columbia ausgerufen", "Wichtiger Posten im Goldrausch am Fraser River", "Nationale historische Stätte"],
+      de: ["Am Fraser River", "Hudson's Bay Company", "Frühe Kolonialgeschichte"],
       hu: ["1827-ben alapították", "Itt kiáltották ki Brit Columbia koronagyarmatot 1858-ban", "Fontos állomás a Fraser-folyói aranyláz idején", "Nemzeti történelmi helyszín"],
-      ro: ["Fondat în 1827", "Colonia Coroanei Columbia Britanică a fost proclamată aici în 1858", "Post important în timpul goanei după aur de pe râul Fraser", "Sit istoric național"],
+      ro: ["?n Fraser Valley", "Post comercial istoric", "Legat de comer?ul cu bl?nuri"],
       en: ["Established in 1827", "The Crown Colony of British Columbia was proclaimed here in 1858", "Key post in the Fraser River Gold Rush", "National Historic Site"]
     }, image: "/poi-images/fort-langley-history-v2.webp"},
   {
@@ -378,15 +443,15 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       en: "Royal BC Museum"
     },
     description: {
-      de: "Das Provinzmuseum von British Columbia mit umfangreichen Sammlungen zur Natur- und Menschheitsgeschichte.",
+      de: "Das Royal BC Museum in Victoria zeigt die Natur- und Kulturgeschichte von British Columbia.",
       hu: "Brit Columbia tartományi múzeuma, amely kiterjedt természet- és emberiségtörténeti gyűjteményekkel rendelkezik.",
-      ro: "Muzeul provincial al Columbiei Britanice, cu colecții extinse de istorie naturală și umană.",
+      ro: "Royal BC Museum din Victoria este unul dintre muzeele majore ale Columbiei Britanice. Reune?te colec?ii despre natur? ?i istoria uman? a provinciei.",
       en: "The provincial museum of British Columbia, with extensive collections of natural and human history."
     },
     facts: {
-      de: ["Gegründet 1886", "Umfasst das BC Archives", "Beherbergt ein IMAX-Kino", "Berühmt für seine Dioramen der First Nations"],
+      de: ["In Victoria", "Provinzmuseum von BC", "Starke Indigenous- und Natur-Sammlungen"],
       hu: ["1886-ban alapították", "Magában foglalja a BC Archívumot", "IMAX mozinak ad otthont", "Híres az Első Nemzetek diorámáiról"],
-      ro: ["Fondat în 1886", "Include Arhivele BC", "Găzduiește un cinematograf IMAX", "Renumit pentru dioramele despre Primele Națiuni"],
+      ro: ["?n Victoria", "Muzeu provincial important", "Natur? ?i istorie uman?"],
       en: ["Founded in 1886", "Includes the BC Archives", "Houses an IMAX theatre", "Famous for its First Nations dioramas"]
     }, image: "/poi-images/royal-bc-museum-history-v2.webp"},
   {
@@ -447,15 +512,15 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       en: "Fort Malden"
     },
     description: {
-      de: "Eine Verteidigungsfestung in Amherstburg, die während des Krieges von 1812 eine wichtige Rolle spielte.",
+      de: "Fort Malden sicherte Amherstburg am Detroit River und spielte im Krieg von 1812 eine Rolle.",
       hu: "Védelmi erődítmény Amherstburgban, amely fontos szerepet játszott az 1812-es háborúban.",
-      ro: "O fortificație defensivă în Amherstburg, care a jucat un rol important în Războiul din 1812.",
+      ro: "Fort Malden este un fort istoric din Amherstburg, pe r?ul Detroit. Este legat de istoria militar? a zonei ?i de R?zboiul din 1812.",
       en: "A defence fortification in Amherstburg that played a significant role in the War of 1812."
     },
     facts: {
-      de: ["Gegründet 1796", "War der Ausgangspunkt für die britische Einnahme von Detroit", "Standort der Verhandlungen für den Huron-Vertrag", "Nationale historische Stätte"],
+      de: ["Am Detroit River", "War of 1812", "National Historic Site"],
       hu: ["1796-ban alapították", "Detroit brit elfoglalásának kiindulópontja volt", "A Huron-szerződés tárgyalásainak helyszíne", "Nemzeti történelmi helyszín"],
-      ro: ["Fondat în 1796", "A fost punctul de plecare pentru capturarea britanică a Detroitului", "Locul negocierilor pentru Tratatul Huron", "Sit istoric național"],
+      ro: ["?n Amherstburg", "Pe r?ul Detroit", "Legat de R?zboiul din 1812"],
       en: ["Established in 1796", "Was the launching point for the British capture of Detroit", "Site of treaty negotiations for the Huron Treaty", "National Historic Site"]
     }, image: "/poi-images/fort-malden-amherstburg-history-v2.webp"},
   {
@@ -585,16 +650,16 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       en: "Gulf of Georgia Cannery"
     },
     description: {
-      de: "Eine nationale historische Stätte, die die Geschichte der Fischkonservenindustrie an der Westküste Kanadas darstellt.",
-      hu: "Nemzeti történelmi emlékhely, amely a halkonzerv-ipar történetét mutatja be Kanada nyugati partján.",
+      de: "Die Gulf of Georgia Cannery erinnert an die Fischkonserven-Industrie in Steveston bei Richmond.",
+      hu: "A Gulf of Georgia Cannery Brit Columbia történeti halfeldolgozó üzeme. A stevestoni létesítmény a csendes-óceáni lazacipar múltját mutatja be.",
       ro: "Un sit istoric național care prezintă istoria industriei conservelor de pește de pe coasta de vest a Canadei.",
-      en: "A national historic site that showcases the history of the fishing and canning industry on Canada's West Coast."
+      en: "The Gulf of Georgia Cannery is a historic salmon cannery in Steveston, Richmond, British Columbia. It preserves the story of the west coast fishing industry."
     },
     facts: {
-      de: ["Erbaut 1894", "Einst die größte Konservenfabrik in British Columbia", "Konzentrierte sich auf Lachs und später auf Hering", "Bekannt als 'Das Monster Cannery'"],
-      hu: ["1894-ben épült", "Egykor Brit Columbia legnagyobb konzervgyára volt", "Lazacra, majd később heringre összpontosított", "'A Szörny Konzervgyár' néven ismerték"],
+      de: ["In Steveston", "Salmonkonserven an der Küste", "National Historic Site"],
+      hu: ["Stevestonban, Brit Columbiában van", "Történelmi halkonzervgyár", "A lazaciparhoz kapcsolódik"],
       ro: ["Construită în 1894", "Odată cea mai mare fabrică de conserve din Columbia Britanică", "S-a concentrat pe somon și mai târziu pe hering", "Cunoscută ca 'Conserva Monstru'"],
-      en: ["Built in 1894", "Once the largest cannery in British Columbia", "Focused on salmon and later herring", "Known as 'The Monster Cannery'"]
+      en: ["Built in 1894", "In Steveston, Richmond", "Now a National Historic Site"]
     }, image: "/poi-images/gulf-of-georgia-cannery-history-v2.webp"},
   {
     id: "green-gables-pei-history-v2",
@@ -654,16 +719,16 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       en: "Esterhazy Flour Mill"
     },
     description: {
-      de: "Eine historische Getreidemühle, die von ungarischen Einwanderern erbaut wurde und die landwirtschaftliche Geschichte der Prärie repräsentiert.",
-      hu: "Történelmi lisztmalom, amelyet magyar bevándorlók építettek, és a préri mezőgazdasági történetét képviseli.",
+      de: "Die Esterhazy Flour Mill steht für die frühe Getreideverarbeitung in Saskatchewan.",
+      hu: "Az esterhazy-i lisztmalom Saskatchewan mezőgazdasági múltjának egyik emléke. A gabonaőrlés és a helyi telepesgazdaság történetét idézi fel.",
       ro: "O moară de făină istorică, construită de imigranți maghiari, care reprezintă istoria agricolă a preriei.",
-      en: "A historic flour mill built by Hungarian immigrants, representing the agricultural history of the prairies."
+      en: "The Esterhazy Flour Mill is a historic prairie mill in Saskatchewan built by Hungarian immigrants. It reflects the early grain economy and immigrant history of the region."
     },
     facts: {
-      de: ["Erbaut 1907", "Eine der wenigen erhaltenen Mühlen ihrer Art", "Wichtiger Teil der ungarisch-kanadischen Geschichte", "Provinzielles Kulturerbe"],
-      hu: ["1907-ben épült", "Egyike a kevés megmaradt ilyen típusú malomnak", "A magyar-kanadai történelem fontos része", "Tartományi kulturális örökség"],
+      de: ["In Saskatchewan", "Historische Mühle der Präriesiedler", "Zeuge des frühen Getreidehandels"],
+      hu: ["Saskatchewanban található", "Régi gabonamalom", "A telepesgazdaságot mutatja be"],
       ro: ["Construită în 1907", "Una dintre puținele mori de acest tip care au supraviețuit", "Parte importantă a istoriei maghiaro-canadiene", "Proprietate de patrimoniu provincial"],
-      en: ["Built in 1907", "One of the few surviving mills of its kind", "Important part of Hungarian-Canadian history", "Provincial Heritage Property"]
+      en: ["Built in 1907", "One of the few surviving prairie mills", "Linked to Hungarian-Canadian history"]
     }
   }
 ];

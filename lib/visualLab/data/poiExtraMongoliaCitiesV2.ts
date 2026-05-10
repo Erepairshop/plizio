@@ -61,8 +61,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Gandan-Kloster mit 26,5 Meter hoher Migjid-Janraisig-Statue",
         "Internationaler Flughafen Chinggis Khaan seit 2021 in Betrieb"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-ulaanbaatar-cities-v2.webp"},
   {
     id: "mn-erdenet-cities-v2",
     type: "city",
@@ -123,8 +122,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Erzreserven werden auf 1,2 Milliarden Tonnen geschätzt",
         "Liefert rund 25 Prozent der mongolischen Exporteinnahmen"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-erdenet-cities-v2.webp"},
   {
     id: "mn-darkhan-cities-v2",
     type: "city",
@@ -185,8 +183,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Stahlwerk und Zementfabrik prägen die Industrie",
         "Kharagiin-Kloster bewahrt Statuen aus der Säuberung 1937"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-darkhan-cities-v2.webp"},
   {
     id: "mn-choibalsan-cities-v2",
     type: "city",
@@ -247,8 +244,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Bahnverbindung nach Russland und Fleischindustrie",
         "Hauptstadt der Provinz Dornod"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-choibalsan-cities-v2.webp"},
   {
     id: "mn-moron-cities-v2",
     type: "city",
@@ -309,8 +305,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Region der Tsaatan, letzten Rentierhirten Asiens",
         "Flughafen mit täglicher Verbindung nach Ulaanbaatar"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-moron-cities-v2.webp"},
   {
     id: "mn-khovd-cities-v2",
     type: "city",
@@ -371,8 +366,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Bekannt für Wassermelonenanbau in der Buyant-Oase",
         "1.580 Kilometer westlich von Ulaanbaatar"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-khovd-cities-v2.webp"},
   {
     id: "mn-olgii-cities-v2",
     type: "city",
@@ -433,8 +427,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Eine der größten Moscheen der Mongolei",
         "Nahe dem Khüiten Peak (4.374 m), höchster Berg der Mongolei"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-olgii-cities-v2.webp"},
   {
     id: "mn-ulaangom-cities-v2",
     type: "city",
@@ -495,8 +488,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Heimat der Dörwöd-Volksgruppe",
         "Ursprung als Kloster der Sangiin-Linie 1757"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-ulaangom-cities-v2.webp"},
   {
     id: "mn-arvaikheer-cities-v2",
     type: "city",
@@ -557,8 +549,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Orchon-Tal seit 2004 UNESCO-Welterbe",
         "Asphaltierte Straße nach Ulaanbaatar seit 2014"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-arvaikheer-cities-v2.webp"},
   {
     id: "mn-tsetserleg-cities-v2",
     type: "city",
@@ -619,8 +610,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Nahe dem Khorgo-Krater und Tariat-Vulkan",
         "Stadtgründung 1631 als Klostersiedlung"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-tsetserleg-cities-v2.webp"},
   {
     id: "mn-sukhbaatar-cities-v2",
     type: "city",
@@ -681,8 +671,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Selenge mit 1.024 Kilometern längster Fluss der Mongolei",
         "Wichtigster Bahn-Grenzübergang nach Russland"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-sukhbaatar-cities-v2.webp"},
   {
     id: "mn-dalanzadgad-cities-v2",
     type: "city",
@@ -743,8 +732,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Bayanzag-Klippen: Erste Dinosauriereier 1922 entdeckt",
         "Asphaltierte Straße nach Ulaanbaatar seit 2014"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-dalanzadgad-cities-v2.webp"},
   {
     id: "mn-sainshand-cities-v2",
     type: "city",
@@ -805,8 +793,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Reich an Dinosaurierfossilien und Saxaul-Wäldern",
         "Uran- und Kohleabbau seit 2017"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-sainshand-cities-v2.webp"},
   {
     id: "mn-zuunmod-cities-v2",
     type: "city",
@@ -867,8 +854,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Bogd Khan Uul (2.257 m) seit 1778 Naturschutzgebiet",
         "Zentrum landwirtschaftlicher Forschung für Weizen"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-zuunmod-cities-v2.webp"},
   {
     id: "mn-uliastai-cities-v2",
     type: "city",
@@ -929,8 +915,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "984 Kilometer westlich von Ulaanbaatar",
         "Wintertemperaturen unter minus 45 Grad"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-uliastai-cities-v2.webp"},
   {
     id: "mn-altai-cities-v2",
     type: "city",
@@ -991,8 +976,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Heimat von rund 40 Gobibären (Mazaalai)",
         "Erdbeben der Stärke 7,5 im Jahr 2002 überstanden"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-altai-cities-v2.webp"},
   {
     id: "mn-baruun-urt-cities-v2",
     type: "city",
@@ -1053,8 +1037,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Berühmt für Naadam-Champion-Pferde",
         "Asphaltierte Straße aus Ulaanbaatar seit 2018"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-baruun-urt-cities-v2.webp"},
   {
     id: "mn-mandalgovi-cities-v2",
     type: "city",
@@ -1115,8 +1098,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Buddhistische Schnitzereien aus dem 17. Jahrhundert",
         "Jahresniederschlag nur 130 Millimeter"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-mandalgovi-cities-v2.webp"},
   {
     id: "mn-bayankhongor-cities-v2",
     type: "city",
@@ -1177,8 +1159,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Über 100 Thermalquellen für Therapie",
         "Dinosaurierfossilien von Tarbosaurus bataar"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-bayankhongor-cities-v2.webp"},
   {
     id: "mn-bulgan-cities-v2",
     type: "city",
@@ -1239,8 +1220,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Rund 250.000 Hektar Getreideanbau",
         "Russisch-mongolische Holzarchitektur prägt die Stadt"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-bulgan-cities-v2.webp"},
   {
     id: "mn-choir-cities-v2",
     type: "city",
@@ -1301,8 +1281,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Bahnsteig Choir mit 320 Metern besonders lang",
         "240 Kilometer südöstlich von Ulaanbaatar"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-choir-cities-v2.webp"},
   {
     id: "mn-ondorkhaan-cities-v2",
     type: "city",
@@ -1363,8 +1342,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Lin-Biao-Flugzeugabsturz 13. September 1971",
         "331 Kilometer östlich von Ulaanbaatar"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-ondorkhaan-cities-v2.webp"},
   {
     id: "mn-zuunkharaa-cities-v2",
     type: "city",
@@ -1425,8 +1403,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Wichtiges Anbaugebiet für Weizen und Sonnenblumen",
         "Eisenbahnerstadt seit den 1940er Jahren"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-zuunkharaa-cities-v2.webp"},
   {
     id: "mn-kharkhorin-cities-v2",
     type: "city",
@@ -1487,8 +1464,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Erdene Zuu aus Karakorum-Steinen gebaut",
         "UNESCO-Welterbe Orchon-Tal seit 2004"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-kharkhorin-cities-v2.webp"},
   {
     id: "mn-bor-ondor-cities-v2",
     type: "city",
@@ -1549,8 +1525,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Eigene Eisenbahnverbindung seit 1986",
         "Etwa 35 Prozent der mongolischen Flussspat-Produktion"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-bor-ondor-cities-v2.webp"},
   {
     id: "mn-sharyn-gol-cities-v2",
     type: "city",
@@ -1611,8 +1586,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Heizwert der Kohle rund 3.500 kcal/kg",
         "Bevölkerungsrückgang nach 1990 um etwa die Hälfte"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-sharyn-gol-cities-v2.webp"},
   {
     id: "mn-nalaikh-cities-v2",
     type: "city",
@@ -1673,8 +1647,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "40 Meter hohes Dschingis-Khan-Reiterstandbild von 2008",
         "Kasachische Minderheit rund 17 Prozent"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-nalaikh-cities-v2.webp"},
   {
     id: "mn-tosontsengel-cities-v2",
     type: "city",
@@ -1735,8 +1708,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Holzverarbeitung und Sägewerke als Hauptindustrie",
         "Permafrost prägt den Untergrund der Region"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-tosontsengel-cities-v2.webp"},
   {
     id: "mn-khutul-cities-v2",
     type: "city",
@@ -1797,8 +1769,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
         "Versorgt 70 Prozent des nationalen Bedarfs",
         "240 Kilometer nördlich von Ulaanbaatar"
       ]
-    }
-  },
+    }, image: "/poi-images/mn-khutul-cities-v2.webp"},
   {
     id: "mn-zamyn-uud-cities-v2",
     type: "city",

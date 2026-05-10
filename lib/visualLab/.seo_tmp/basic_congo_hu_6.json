@@ -1,0 +1,50 @@
+{
+  "lang": "hu",
+  "country": "Congo",
+  "files": [
+    "lib/visualLab/data/poiExtraCongoNatureV2.ts",
+    "lib/visualLab/data/poiExtraCongoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cg-mpoulou-river-nature-v2",
+      "description": "A Mpoulou egy kisebb foly? Kong? ?szaki r?sz?n. A k?rnyez? erd?s ter?letek v?zh?l?zat?nak r?sze.",
+      "facts": [
+        "?szaki foly?",
+        "Erd?s k?rnyezet",
+        "Helyi v?zh?l?zat",
+        "Kisebb v?zfoly?s"
+      ]
+    },
+    {
+      "id": "cg-bateke-plateaus-nature-v2",
+      "description": "A Bat?k?-fenns?kok Brazzaville-t?l keletre h?z?d?, sz?les fenns?k- ?s szavannavid?ket alkotnak. Ritk?n lakott t?j, ahol a v?zgy?jt?s ?s a term?szetes ?l?helyek fontosak.",
+      "facts": [
+        "Brazzaville-t?l keletre",
+        "Fenns?k ?s szavanna",
+        "Ritk?n lakott",
+        "Fontos ?l?hely"
+      ]
+    },
+    {
+      "id": "grotte-de-bihoua-relief-v2",
+      "description": "A Bihoua-barlang egy term?szetes ?reg a d?li Kong? dombvid?k?n. A k?pz?dm?ny a helyi k?zetek ?s az er?zi? nyom?t ?rzi.",
+      "facts": [
+        "Term?szetes barlang",
+        "D?li dombvid?k",
+        "K?zetk?pz?dm?ny",
+        "Geol?giai helysz?n"
+      ]
+    },
+    {
+      "id": "mont-bamba-relief-v2",
+      "description": "A Mont Bamba egy kisebb hegyvid?ki pont a Kong? d?li r?sz?n. A k?rny?k dombos t?jk?p?hez tartozik.",
+      "facts": [
+        "Hegyi pont",
+        "D?li orsz?gr?sz",
+        "Dombos t?j",
+        "Helyi relief"
+      ]
+    }
+  ]
+}

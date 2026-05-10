@@ -23,8 +23,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Zebráknak és antilopoknak ad otthont", "Népszerű szafari helyszín"],
       ro: ["Găzduiește zebre și antilope", "Destinație populară pentru safari"],
       en: ["Home to zebras and antelopes", "Popular destination for safaris"]
-    }
-  },
+    }, image: "/poi-images/sarakawa-wildtierreservat-life-v2.webp"},
   {
     id: "kpalime-kaffeeplantagen-life-v2",
     type: "agriculture",
@@ -47,8 +46,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Fontos kávétermesztő vidék", "Hagyományos betakarítási módszerek"],
       ro: ["Zonă importantă de cultivare a cafelei", "Metode tradiționale de recoltare"],
       en: ["Important coffee-growing area", "Traditional harvesting methods"]
-    }
-  },
+    }, image: "/poi-images/kpalime-kaffeeplantagen-life-v2.webp"},
   {
     id: "centrale-reisfelder-life-v2",
     type: "agriculture",
@@ -71,8 +69,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["A rizstermesztés központja", "Öntözőrendszerek használata"],
       ro: ["Centrul cultivării orezului", "Utilizarea sistemelor de irigații"],
       en: ["Center of rice cultivation", "Use of irrigation systems"]
-    }
-  },
+    }, image: "/poi-images/centrale-reisfelder-life-v2.webp"},
   {
     id: "bassar-yam-felder-life-v2",
     type: "agriculture",
@@ -143,8 +140,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Fontos exportcikk", "Kézzel szedett minőség"],
       ro: ["Produs important de export", "Calitate culeasă manual"],
       en: ["Important export commodity", "Hand-picked quality"]
-    }
-  },
+    }, image: "/poi-images/atakpame-baumwollfelder-life-v2.webp"},
   {
     id: "be-heiliger-wald-life-v2",
     type: "animal-habitat",
@@ -167,8 +163,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Vallási jelentőség", "Városi biodiverzitási hotspot"],
       ro: ["Semnificație religioasă", "Hotspot de biodiversitate urbană"],
       en: ["Religious significance", "Urban biodiversity hotspot"]
-    }
-  },
+    }, image: "/poi-images/be-heiliger-wald-life-v2.webp"},
   {
     id: "kouffo-wildtierreservat-life-v2",
     type: "animal-habitat",
@@ -215,8 +210,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Szavannai állatok védelme", "Száraz ökoszisztéma"],
       ro: ["Protecția animalelor de savană", "Ecosistem arid"],
       en: ["Protection of savanna animals", "Dry ecosystem"]
-    }
-  },
+    }, image: "/poi-images/galangashie-fauna-reservat-life-v2.webp"},
   {
     id: "lome-vergnuegungspark-life-v2",
     type: "kid-landmark",
@@ -239,8 +233,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Családbarát", "Modern játékok"],
       ro: ["Prietenos cu familiile", "Echipamente de joacă moderne"],
       en: ["Family-friendly", "Modern play equipment"]
-    }
-  },
+    }, image: "/poi-images/lome-vergnuegungspark-life-v2.webp"},
   {
     id: "agbodrafo-schildkroetenzentrum-life-v2",
     type: "animal-habitat",
@@ -263,8 +256,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Veszélyeztetett fajok védelme", "Szezonális tojásrakás"],
       ro: ["Protecția speciilor amenințate", "Depunere sezonieră a ouălor"],
       en: ["Protection of endangered species", "Seasonal egg-laying"]
-    }
-  },
+    }, image: "/poi-images/agbodrafo-schildkroetenzentrum-life-v2.webp"},
   {
     id: "mandouri-wildtierkorridor-life-v2",
     type: "animal-habitat",
@@ -287,8 +279,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Fontos vándorlási útvonal", "Határokon átnyúló védelem"],
       ro: ["Rută importantă de migrație", "Protecție transfrontalieră"],
       en: ["Important migration route", "Transboundary protection"]
-    }
-  },
+    }, image: "/poi-images/mandouri-wildtierkorridor-life-v2.webp"},
   {
     id: "plateaux-kakao-gaerten-life-v2",
     type: "agriculture",
@@ -311,8 +302,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Kiváló minőség", "Ökológiai termesztés"],
       ro: ["Calitate excelentă", "Cultivare ecologică"],
       en: ["Excellent quality", "Ecological cultivation"]
-    }
-  },
+    }, image: "/poi-images/plateaux-kakao-gaerten-life-v2.webp"},
   {
     id: "savanes-viehweiden-life-v2",
     type: "agriculture",
@@ -335,8 +325,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Hagyományos állattenyésztés", "Fontos húsbeszállító"],
       ro: ["Creșterea tradițională a vitelor", "Furnizor important de carne"],
       en: ["Traditional cattle herding", "Important meat supplier"]
-    }
-  },
+    }, image: "/poi-images/savanes-viehweiden-life-v2.webp"},
   {
     id: "lome-amitie-park-life-v2",
     type: "kid-landmark",
@@ -359,8 +348,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["A város zöld tüdeje", "Biztonságos játszótér"],
       ro: ["Plămânul verde al orașului", "Spațiu de joacă sigur"],
       en: ["Green lung of the city", "Safe play area"]
-    }
-  },
+    }, image: "/poi-images/lome-amitie-park-life-v2.webp"},
   {
     id: "mono-nilpferd-pool-life-v2",
     type: "animal-habitat",
@@ -383,8 +371,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Vadvilág megfigyelése", "A folyó ökoszisztémájának védelme"],
       ro: ["Observarea animalelor sălbatice", "Protecția ecosistemului râului"],
       en: ["Wildlife spotting", "River ecosystem protection"]
-    }
-  },
+    }, image: "/poi-images/mono-nilpferd-pool-life-v2.webp"},
   {
     id: "oti-elefantenreservat-life-v2",
     type: "animal-habitat",
@@ -407,8 +394,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Legnagyobb szárazföldi emlősök", "Fontos természetvédelmi projekt"],
       ro: ["Cele mai mari mamifere terestre", "Proiect important de conservare"],
       en: ["Largest land mammals", "Significant conservation project"]
-    }
-  },
+    }, image: "/poi-images/oti-elefantenreservat-life-v2.webp"},
   {
     id: "kande-hirsefelder-life-v2",
     type: "agriculture",
@@ -431,8 +417,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Az északi rész alapélelmiszere", "Alkalmazkodás a szárazsághoz"],
       ro: ["Aliment de bază al nordului", "Adaptare la secetă"],
       en: ["Staple food of the North", "Adaptation to drought"]
-    }
-  },
+    }, image: "/poi-images/kande-hirsefelder-life-v2.webp"},
   {
     id: "aneho-lagunen-bootstour-life-v2",
     type: "kid-landmark",
@@ -455,8 +440,7 @@ export const poiExtraTogoLifeV2: POI[] = [
       hu: ["Természeti élmény gyerekeknek", "Betekintés a halászéletbe"],
       ro: ["Experiență în natură pentru copii", "Incursiune în viața pescarilor"],
       en: ["Nature experience for kids", "Insight into fishing life"]
-    }
-  },
+    }, image: "/poi-images/aneho-lagunen-bootstour-life-v2.webp"},
   {
     id: "missahoe-schmetterlingspfad-life-v2",
     type: "animal-habitat",

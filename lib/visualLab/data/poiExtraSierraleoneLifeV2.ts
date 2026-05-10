@@ -23,8 +23,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Több mint 100 csimpánz otthona", "Fontos fajmegőrzési központ", "A Western Area Nemzeti Parkban található"],
       ro: ["Găzduiește peste 100 de cimpanzei", "Centru important pentru conservare", "Situat în Parcul Național Western Area"],
       en: ["Home to over 100 chimpanzees", "Major center for species conservation", "Located in the Western Area National Park"]
-    }
-  },
+    }, image: "/poi-images/tacugama-chimpanzee-life-v2.webp"},
   {
     id: "mamunta-mayosso-life-v2",
     type: "animal-habitat",
@@ -47,8 +46,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Törpe-krokodilok védett területe", "Több mint 250 madárfajt figyeltek meg", "Mocsarakból és szavannából áll"],
       ro: ["Zonă protejată pentru crocodili pitici", "Peste 250 de specii de păsări observate", "Formată din mlaștini și savană"],
       en: ["Protected area for dwarf crocodiles", "Over 250 bird species recorded", "Consists of wetlands and savanna"]
-    }
-  },
+    }, image: "/poi-images/mamunta-mayosso-life-v2.webp"},
   {
     id: "moa-river-elephant-life-v2",
     type: "animal-habitat",
@@ -71,8 +69,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Erdei elefántok menedékhelye", "Sűrű parti növényzet", "Fontos vándorlási útvonal"],
       ro: ["Refugiu pentru elefanții de pădure", "Vegetație de mal densă", "Rută importantă de migrație a faunei"],
       en: ["Refuge for forest elephants", "Dense riparian vegetation", "Critical migration route for wildlife"]
-    }
-  },
+    }, image: "/poi-images/moa-river-elephant-life-v2.webp"},
   {
     id: "bumbuna-forest-life-v2",
     type: "animal-habitat",
@@ -95,8 +92,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Gazdag csimpánzpopuláció", "Változatos rovarvilág", "Hegyi esőerdő"],
       ro: ["Populație bogată de cimpanzei", "Lume diversă a insectelor", "Pădure tropicală muntoasă"],
       en: ["Rich chimpanzee populations", "Diverse insect life", "Mountainous rainforest"]
-    }
-  },
+    }, image: "/poi-images/bumbuna-forest-life-v2.webp"},
   {
     id: "sherbro-river-manatee-life-v2",
     type: "animal-habitat",
@@ -119,8 +115,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Nyugat-afrikai lamantinok védelme", "Mangrove-csatornák labirintusa", "Nyugodt félsós vízi ökoszisztéma"],
       ro: ["Protecție pentru lamantinii africani", "Labirint de canale cu mangrove", "Ecosistem liniștit de apă salmastră"],
       en: ["Protection for West African manatees", "Labyrinth of mangrove channels", "Calm brackish water ecosystem"]
-    }
-  },
+    }, image: "/poi-images/sherbro-river-manatee-life-v2.webp"},
   {
     id: "sankanya-nature-life-v2",
     type: "animal-habitat",
@@ -143,8 +138,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Leopárdok előfordulása", "Jellemző szudáni szavanna", "Távoli vadon"],
       ro: ["Prezența leoparzilor", "Savană tipică sudaneză", "Sălbăticie izolată"],
       en: ["Presence of leopards", "Typical Sudan savanna", "Remote wilderness"]
-    }
-  },
+    }, image: "/poi-images/sankanya-nature-life-v2.webp"},
   {
     id: "pampana-river-hippo-life-v2",
     type: "animal-habitat",
@@ -167,8 +161,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Víziló-megfigyelőhely", "Halakban gazdag folyószakaszok", "Fontos édesvízi élőhely"],
       ro: ["Loc de observare a hipopotamilor", "Secțiuni de râu bogate în pește", "Habitat important de apă dulce"],
       en: ["Hippo observation site", "Fish-rich river sections", "Vital freshwater habitat"]
-    }
-  },
+    }, image: "/poi-images/pampana-river-hippo-life-v2.webp"},
   {
     id: "kabala-cattle-ranch-life-v2",
     type: "agriculture",
@@ -191,8 +184,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Hústermelés központja", "Hagyományos pásztorkultúra", "Dombos legelők"],
       ro: ["Centru al producției de carne", "Cultură pastorală tradițională", "Pășuni deluroase"],
       en: ["Center of meat production", "Traditional pastoralist culture", "Hilly grazing lands"]
-    }
-  },
+    }, image: "/poi-images/kabala-cattle-ranch-life-v2.webp"},
   {
     id: "kenema-cocoa-nurseries-life-v2",
     type: "agriculture",
@@ -215,8 +207,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Fontos exportcikk", "Fenntartható árnyékkultúra", "Kakaótermelés központja"],
       ro: ["Bun important de export", "Cultivare sustenabilă la umbră", "Centrul producției de cacao"],
       en: ["Major export commodity", "Sustainable shade-grown method", "Hub for cocoa production"]
-    }
-  },
+    }, image: "/poi-images/kenema-cocoa-nurseries-life-v2.webp"},
   {
     id: "kailahun-coffee-farms-life-v2",
     type: "agriculture",
@@ -239,8 +230,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["A Robusta fő termőterülete", "Jelentős jövedelemforrás", "Hagyományos betakarítás"],
       ro: ["Zonă principală pentru Robusta", "Sursă importantă de venit", "Metode tradiționale de recoltare"],
       en: ["Primary Robusta growing area", "Significant source of income", "Traditional harvesting methods"]
-    }
-  },
+    }, image: "/poi-images/kailahun-coffee-farms-life-v2.webp"},
   {
     id: "kambia-rice-polders-life-v2",
     type: "agriculture",
@@ -263,8 +253,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Intenzív rizstermesztés", "Árapály-folyók hasznosítása", "Az északnyugat magtára"],
       ro: ["Cultivare intensivă a orezului", "Utilizarea râurilor cu maree", "Grânarul nord-vestului"],
       en: ["Intensive rice cultivation", "Utilization of tidal rivers", "Rice bowl of the northwest"]
-    }
-  },
+    }, image: "/poi-images/kambia-rice-polders-life-v2.webp"},
   {
     id: "magbosi-smallholder-farms-life-v2",
     type: "agriculture",
@@ -287,8 +276,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Vegyes termesztés", "Fontos az élelmezésbiztonságért", "Manióka-termesztés központja"],
       ro: ["Cultivare mixtă", "Important pentru securitatea alimentară", "Centru pentru cultura maniocului"],
       en: ["Mixed cropping systems", "Vital for food security", "Hub for cassava production"]
-    }
-  },
+    }, image: "/poi-images/magbosi-smallholder-farms-life-v2.webp"},
   {
     id: "moyamba-oil-palm-life-v2",
     type: "agriculture",
@@ -335,8 +323,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Növekvő kesudió-export", "Alkalmazkodás a száraz talajhoz", "Fontos szezonális bevétel"],
       ro: ["Export de caju în creștere", "Adaptare la soluri uscate", "Venit sezonier important"],
       en: ["Growing cashew export industry", "Adaptation to dry soils", "Major seasonal income source"]
-    }
-  },
+    }, image: "/poi-images/port-loko-cashew-life-v2.webp"},
   {
     id: "tane-ginger-farms-life-v2",
     type: "agriculture",
@@ -359,8 +346,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Az ország legjobb gyömbére", "Hagyományos kézi munka", "Gyógynövény és fűszer"],
       ro: ["Cel mai bun ghimbir din țară", "Muncă manuală tradițională", "Plantă medicinală și condiment"],
       en: ["Best ginger in the country", "Traditional manual labor", "Medicinal plant and spice"]
-    }
-  },
+    }, image: "/poi-images/tane-ginger-farms-life-v2.webp"},
   {
     id: "victoria-park-playground-life-v2",
     type: "kid-landmark",
@@ -383,8 +369,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Családok kedvelt találkozóhelye", "Zöld oázis a városban", "Rendezvények helyszíne"],
       ro: ["Loc de întâlnire popular pentru familii", "Oază verde în oraș", "Spațiu pentru evenimente"],
       en: ["Popular meeting spot for families", "Green oasis in the city", "Venue for community events"]
-    }
-  },
+    }, image: "/poi-images/victoria-park-playground-life-v2.webp"},
   {
     id: "lakka-childrens-beach-life-v2",
     type: "kid-landmark",
@@ -407,8 +392,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Biztonságos, sekély víz", "Ideális homokvár építéshez", "Friss hal családoknak"],
       ro: ["Apă sigură, puțin adâncă", "Ideal pentru castele de nisip", "Pește proaspăt pentru familii"],
       en: ["Safe, shallow waters", "Ideal for sandcastles", "Fresh seafood for families"]
-    }
-  },
+    }, image: "/poi-images/lakka-childrens-beach-life-v2.webp"},
   {
     id: "bo-childrens-park-life-v2",
     type: "kid-landmark",
@@ -431,8 +415,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Bo központi játszótere", "Árnyat adó fák", "Iskolások találkozóhelye"],
       ro: ["Loc de joacă central în Bo", "Copaci care oferă umbră", "Loc de întâlnire pentru școlari"],
       en: ["Central playground in Bo", "Shady trees for comfort", "Meeting place for school children"]
-    }
-  },
+    }, image: "/poi-images/bo-childrens-park-life-v2.webp"},
   {
     id: "makeni-kids-zone-life-v2",
     type: "kid-landmark",
@@ -455,8 +438,7 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
       hu: ["Modern játékszerek", "Biztonságos szabadidős hely", "Népszerű a hétvégén"],
       ro: ["Echipamente de joacă moderne", "Loc sigur de recreere", "Popular în weekend"],
       en: ["Modern play equipment", "Safe recreational space", "Popular on weekends"]
-    }
-  },
+    }, image: "/poi-images/makeni-kids-zone-life-v2.webp"},
   {
     id: "lumley-beach-playground-life-v2",
     type: "kid-landmark",

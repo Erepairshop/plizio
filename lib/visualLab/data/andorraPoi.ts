@@ -499,8 +499,7 @@ export const andorraLandmarks: POI[] = [
       hu: ["A 11-12. században épült.", "A harangtorony háromszintes, ikerablakokkal.", "Egy 16. századi gótikus oltárképet őriz.", "Az eredeti román kori freskók részben megmaradtak.", "A 16. vagy 17. században egy előcsarnokot építettek hozzá."],
       ro: ["Construită în secolele XI-XII.", "Clopotnița are trei etaje cu ferestre geminate.", "Găzduiește un retablu gotic din secolul al XVI-lea.", "Frescele romanice originale sunt parțial conservate.", "Un pridvor a fost adăugat ulterior, în secolul al XVI-lea sau al XVII-lea."],
       en: ["Built in the 11th-12th centuries.", "The bell tower has three floors with twin windows.", "Houses a 16th-century Gothic altarpiece.", "The original Romanesque frescoes are partially preserved.", "A portico was added later in the 16th or 17th century."]
-    }
-  },
+    }, image: "/poi-images/landmark-sant-joan-caselles.webp"},
   {
     id: "landmark-santa-coloma",
     type: "historical",
@@ -524,8 +523,7 @@ export const andorraLandmarks: POI[] = [
       hu: ["Előromán kori eredetű, a 8. vagy 9. században épült.", "A 12. századi kerek harangtorony egyedülálló a Pireneusokban.", "Az eredeti román kori falfestményeket 1930-ban eltávolították és 2017-ben hozták vissza.", "Egy 12. századi barokk Mária-szobrot őriz.", "A templomhajó téglalap alaprajzú."],
       ro: ["Origine pre-romanică, construită în secolul al VIII-lea sau al IX-lea.", "Clopotnița circulară din secolul al XII-lea este unică în Pirinei.", "Picturile murale romanice originale au fost îndepărtate în 1930 și returnate în 2017.", "Găzduiește o statuie barocă a Fecioarei din secolul al XII-lea.", "Nava bisericii are un plan rectangular."],
       en: ["Pre-Romanesque origin, built in the 8th or 9th century.", "The 12th-century circular bell tower is unique in the Pyrenees.", "Original Romanesque murals were removed in 1930 and returned in 2017.", "Houses a 12th-century Baroque statue of the Virgin Mary.", "The nave of the church has a rectangular floor plan."]
-    }
-  },
+    }, image: "/poi-images/landmark-santa-coloma.webp"},
   {
     id: "landmark-meritxell",
     type: "historical",
@@ -549,8 +547,7 @@ export const andorraLandmarks: POI[] = [
       hu: ["Az eredeti szentély 1972-ben leégett.", "Az új épületet Ricardo Bofill építész tervezte.", "A 'Mária-út' része, amely spanyolországi és franciaországi szentélyeket köt össze.", "2014-ben Ferenc pápa kisbazilika rangra emelte.", "Andorra nemzeti ünnepe, szeptember 8., a Meritxelli Miasszonyunk ünnepe."],
       ro: ["Sanctuarul original a ars în 1972.", "Noua clădire a fost proiectată de arhitectul Ricardo Bofill.", "Face parte din 'Ruta Mariană', care leagă sanctuare din Spania și Franța.", "Declarată Basilica minor de către Papa Francisc în 2014.", "Ziua națională a Andorrei, 8 septembrie, este sărbătoarea Maicii Domnului din Meritxell."],
       en: ["The original sanctuary burned down in 1972.", "The new building was designed by architect Ricardo Bofill.", "It is part of the 'Marian Route', connecting shrines in Spain and France.", "Declared a Minor Basilica by Pope Francis in 2014.", "Andorra's national day, September 8, is the feast of Our Lady of Meritxell."]
-    }
-  }
+    }, image: "/poi-images/landmark-meritxell.webp"}
 ];
 
 export const andorraNature: POI[] = [
@@ -602,8 +599,7 @@ export const andorraNature: POI[] = [
       hu: ["2250 és 2330 méter közötti magasságban fekszenek.", "A legnagyobb tó, az Estany de Més Amunt, 12 hektáros.", "A tavakhoz vezető út a 'Ruta del Ferro' része.", "A tavak télen befagynak és hó borítja őket.", "2021-ben új 'Napkémlelő' kilátót nyitottak."],
       ro: ["Situate la o altitudine între 2.250 și 2.330 de metri.", "Cel mai mare lac, Estany de Més Amunt, are 12 hectare.", "Traseul către lacuri face parte din 'Ruta del Ferro'.", "Lacurile sunt înghețate și acoperite de zăpadă iarna.", "Un nou 'punct de belvedere solar' a fost deschis în 2021."],
       en: ["Located at an altitude between 2,250 and 2,330 meters.", "The largest lake, Estany de Més Amunt, covers 12 hectares.", "The trail to the lakes is part of the 'Iron Route'.", "The lakes are frozen and snow-covered in winter.", "A new 'Solar Viewpoint' was opened in 2021."]
-    }
-  },
+    }, image: "/poi-images/nature-tristaina.webp"},
   {
     id: "nature-madriu",
     type: "region",
@@ -627,8 +623,7 @@ export const andorraNature: POI[] = [
       hu: ["2004-ben nyilvánították az UNESCO Világörökség részévé a 'kultúrtáj' kategóriában.", "A völgyben nincsenek utak, csak gyalogosan közelíthető meg.", "Olyan ritka állatfajoknak ad otthont, mint a siketfajd és a szakállas saskeselyű.", "A hagyományos földhasználat tanúi, mint a teraszos földek és pásztorkunyhók.", "A völgy egy mikrokozmosz, amely bemutatja, hogyan gazdálkodtak az emberek a Pireneusokban évezredekig."],
       ro: ["Declarată sit al Patrimoniului Mondial UNESCO în 2004 la categoria 'peisaj cultural'.", "Valea nu are drumuri și este accesibilă doar pe jos.", "Găzduiește specii rare de animale, cum ar fi cocoșul de munte și vulturul bărbos.", "Mărturii ale utilizării tradiționale a terenurilor, cum ar fi terasele agricole și colibele de păstori.", "Valea este un microcosmos care arată cum oamenii au gestionat Pirineii de-a lungul mileniilor."],
       en: ["Declared a UNESCO World Heritage site in 2004 in the 'cultural landscape' category.", "The valley has no roads and is only accessible on foot.", "Home to rare animal species like the capercaillie and the bearded vulture.", "Evidence of traditional land use such as terraced fields and shepherd's huts.", "The valley is a microcosm showing how people have managed the Pyrenees over millennia."]
-    }
-  },
+    }, image: "/poi-images/nature-madriu.webp"},
   {
     id: "nature-grandvalira",
     type: "landmark",
@@ -652,8 +647,7 @@ export const andorraNature: POI[] = [
       hu: ["Több mint 210 kilométernyi sípályát kínál.", "Összeköti Pas de la Casa, Grau Roig, Soldeu, El Tarter, Canillo és Encamp szektorait.", "Világkupa síversenyek helyszíne.", "Három snowparkkal és egy boardercross pályával rendelkezik.", "A síterep legmagasabb pontja 2640 méteren van."],
       ro: ["Oferă peste 210 de kilometri de pârtii.", "Conectează sectoarele Pas de la Casa, Grau Roig, Soldeu, El Tarter, Canillo și Encamp.", "Găzduiește curse de Cupă Mondială la schi.", "Dispune de trei parcuri de zăpadă și o pistă de boardercross.", "Cel mai înalt punct al zonei de schi este la 2.640 de metri."],
       en: ["Offers over 210 kilometers of ski slopes.", "Connects the sectors of Pas de la Casa, Grau Roig, Soldeu, El Tarter, Canillo, and Encamp.", "Host to World Cup ski racing events.", "Features three snowparks and a boardercross track.", "The highest point of the ski area is at 2,640 meters."]
-    }
-  },
+    }, image: "/poi-images/nature-grandvalira.webp"},
   {
     id: "nature-roc-del-quer",
     type: "landmark",
@@ -677,8 +671,7 @@ export const andorraNature: POI[] = [
       hu: ["2016-ban nyitották meg.", "A platform 20 méterre nyúlik ki a sziklafalból.", "A padló egy része üvegből készült.", "A csúcsán Miguel Ángel Latorre 'A Gondolkodó' című szobra ül.", "180 fokos kilátást nyújt a Canillo-völgyre."],
       ro: ["Inaugurat în 2016.", "Platforma se extinde la 20 de metri de pe versantul muntelui.", "O parte din podea este din sticlă.", "În vârf se află sculptura 'Gânditorul' de Miguel Ángel Latorre.", "Oferă vederi de 180 de grade ale văii Canillo."],
       en: ["Opened in 2016.", "The platform extends 20 meters out from the mountainside.", "Part of the floor is made of glass.", "Features the sculpture 'The Ponderer' by Miguel Ángel Latorre at its tip.", "Offers 180-degree views of the Canillo valley."]
-    }
-  }
+    }, image: "/poi-images/nature-roc-del-quer.webp"}
 ];
 
 export const andorraRegions: POI[] = [

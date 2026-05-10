@@ -24,8 +24,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Phönizische Siedlung dem Gott Baal geweiht.", "Römische Bauarbeiten begannen circa 16 v. Chr. unter Augustus.", "Erweiterungen über mehr als 250 Jahre bis ins 3. Jahrhundert n. Chr.", "Heidnische Kulte verboten unter Kaiser Theodosius I. um 379 n. Chr.", "Während der osmanischen Zeit (1516-1918) weitgehend verfallen.", "Systematische Ausgrabung ab 1898 unter Otto Puchstein.", "UNESCO-Welterbe seit dem Jahr 1984.", "Größte römische Tempelanlage außerhalb Italiens."]
-    }
-  },
+    }, image: "/poi-images/baalbek-ruins-history-v2.webp"},
   {
     id: "byblos-castle-history-v2",
     type: "ruin",
@@ -49,8 +48,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Siedlungsbeginn um 8.800 v. Chr. nachgewiesen.", "Wichtigstes Zedernholz-Handelszentrum für Ägypten.", "Burgbau um 1104 unter Raymond de Saint-Gilles.", "Eroberung durch Saladin im Jahr 1188.", "Endgültige Übernahme durch Mamluken im Jahr 1266.", "Erste wissenschaftliche Grabung 1860 durch Ernest Renan.", "Wiege des phönizischen Alphabets im 11. Jh. v. Chr.", "UNESCO-Welterbe seit dem Jahr 1984."]
-    }
-  },
+    }, image: "/poi-images/byblos-castle-history-v2.webp"},
   {
     id: "tyre-hippodrome-history-v2",
     type: "ruin",
@@ -74,8 +72,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Phönizische Stadtgründung um 2750 v. Chr.", "Tyros gründete Karthago im Jahr 814 v. Chr.", "Belagerung und Eroberung durch Alexander 332 v. Chr.", "Römische Herrschaft begann 64 v. Chr.", "Hippodrom errichtet im 2. Jahrhundert n. Chr.", "Kreuzfahrerherrschaft von 1124 bis 1291.", "Systematische Ausgrabung ab 1947 unter Maurice Chéhab.", "UNESCO-Welterbe seit dem Jahr 1984."]
-    }
-  },
+    }, image: "/poi-images/tyre-hippodrome-history-v2.webp"},
   {
     id: "beiteddine-palace-history-v2",
     type: "historical-site",
@@ -99,8 +96,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Erbaut zwischen 1788 und 1818.", "Bauherr: Emir Bashir Shihab II. (1767-1850).", "Italienische Architekten und syrische Handwerker beteiligt.", "Bashir II. ins Exil nach Malta verbannt im Jahr 1840.", "Verwaltungssitz im französischen Mandat 1923-1943.", "Sommerresidenz des Präsidenten seit 1943.", "Geschützt im Bürgerkrieg 1975-1990 durch Walid Jumblatt.", "Byzantinische Mosaike aus Jiyeh seit 1984 ausgestellt."]
-    }
-  },
+    }, image: "/poi-images/beiteddine-palace-history-v2.webp"},
   {
     id: "anjar-umayyad-city-history-v2",
     type: "ruin",
@@ -124,8 +120,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gegründet um 714 n. Chr. unter Kalif al-Walid I.", "Einzige erhaltene Umayyaden-Stadt im Libanon.", "Stadtraster nach römischen Militärlagern angelegt.", "Aufgabe nach Sturz der Umayyaden im Jahr 744.", "In osmanischer Zeit (1516-1918) in Trümmern.", "Systematische Ausgrabung ab 1949 unter Maurice Chéhab.", "Über 600 Geschäfte und Paläste freigelegt.", "UNESCO-Welterbe seit dem Jahr 1984."]
-    }
-  },
+    }, image: "/poi-images/anjar-umayyad-city-history-v2.webp"},
   {
     id: "sidon-sea-castle-history-v2",
     type: "historical-site",
@@ -149,8 +144,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Sidon als phönizische Stadt belegt seit 4.000 v. Chr.", "Burg erbaut 1228 unter Balian von Sidon.", "Teilweise zerstört bereits im Jahr 1249.", "Eroberung durch Mamluken-Sultan Baibars 1291.", "Wiederaufbau unter Fakhr ad-Din II. (1572-1635).", "Wachposten in osmanischer Zeit 1516-1918.", "Schäden im Bürgerkrieg 1975-1990.", "Restaurierung abgeschlossen im Jahr 1996."]
-    }
-  },
+    }, image: "/poi-images/sidon-sea-castle-history-v2.webp"},
   {
     id: "temple-of-bacchus-history-v2",
     type: "ruin",
@@ -174,8 +168,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Vollendet um 150 n. Chr. unter Antoninus Pius.", "Abmessungen: 69 mal 36 Meter Grundfläche.", "Korinthische Säulen erreichen 19 Meter Höhe.", "Vermutlich der Göttin Atargatis geweiht.", "Umbau zur Kirche unter Theodosius I. um 379 n. Chr.", "Besuch durch Wilhelm II. im Jahr 1898.", "Deutsche Mission unter Otto Puchstein 1898-1905.", "UNESCO-Welterbe seit 1984, kaum Bürgerkriegsschäden."]
-    }
-  },
+    }, image: "/poi-images/temple-of-bacchus-history-v2.webp"},
   {
     id: "temple-of-jupiter-history-v2",
     type: "ruin",
@@ -199,8 +192,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Baubeginn um 16 v. Chr. unter Kaiser Augustus.", "Vollendung um 60 n. Chr. unter Nero.", "Ursprünglich 54 korinthische Säulen mit 22 Metern Höhe.", "Heute nur noch sechs Säulen erhalten.", "Trilithon-Megalithen wiegen je rund 800 Tonnen.", "Erdbeben von 1759 zerstörten zahlreiche Säulen.", "Dokumentation durch deutsche Mission ab 1898.", "UNESCO-Welterbe seit dem Jahr 1984."]
-    }
-  },
+    }, image: "/poi-images/temple-of-jupiter-history-v2.webp"},
   {
     id: "tripoli-citadel-history-v2",
     type: "historical-site",
@@ -224,8 +216,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gegründet 1103 durch Raymond de Saint-Gilles.", "Tripoli fiel an Kreuzfahrer im Jahr 1109.", "Eroberung durch Mamluken-Sultan Qalawun 1289.", "Erweiterung 1521-1522 unter Süleyman dem Prächtigen.", "Ausbau ab 1808 durch Mustafa Agha Barbar.", "Kaserne im französischen Mandat 1923-1943.", "Zeitweise besetzt im Bürgerkrieg 1975-1990.", "Beherbergt heute ein historisches Museum."]
-    }
-  },
+    }, image: "/poi-images/tripoli-citadel-history-v2.webp"},
   {
     id: "beaufort-castle-history-v2",
     type: "ruin",
@@ -249,8 +240,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Erbaut ab 1139 unter Fulko von Anjou.", "Eroberung durch Saladin im Jahr 1190.", "Endgültige Einnahme durch Baibars 1268.", "Verstärkung um 1620 unter Fakhr ad-Din II.", "Erdbeben von 1837 zerstörte große Teile.", "Israelische Besetzung von 1982 bis 24. Mai 2000.", "Strategisch wichtig im Bürgerkrieg 1975-1990.", "Restaurierungsarbeiten begannen im Jahr 2008."]
-    }
-  },
+    }, image: "/poi-images/beaufort-castle-history-v2.webp"},
   {
     id: "roman-baths-beirut-history-v2",
     type: "ruin",
@@ -274,8 +264,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Berytus wurde römische Kolonie im Jahr 14 v. Chr.", "Berühmte Rechtsschule vom 3. bis 6. Jahrhundert.", "Thermen erbaut zwischen 1. und 3. Jh. n. Chr.", "Erdbeben von 551 zerstörte antikes Berytus.", "Wiederentdeckung im Jahr 1968 beim Grand Serail.", "In osmanischer Zeit (1516-1918) verschüttet.", "Restaurierung 1995-1997 durch Solidere.", "Öffentlich zugänglich seit dem Jahr 1998."]
-    }
-  },
+    }, image: "/poi-images/roman-baths-beirut-history-v2.webp"},
   {
     id: "our-lady-of-lebanon-history-v2",
     type: "monument",
@@ -299,8 +288,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Eingeweiht im Jahr 1908 zum 50. Jubiläum des Mariendogmas.", "Gegossen in der Werkstatt Imbert in Lyon, Frankreich.", "Initiiert vom maronitischen Patriarchen Elias Hoyek.", "Höhe der Statue 8,5 Meter, Gewicht 15 Tonnen.", "Hungersnot im Libanon 1915-1918 mit 200.000 Toten.", "Wallfahrtszentrum im französischen Mandat 1923-1943.", "Besuch von Papst Johannes Paul II. am 11. Mai 1997.", "Jährlich rund zwei Millionen Pilger."]
-    }
-  },
+    }, image: "/poi-images/our-lady-of-lebanon-history-v2.webp"},
   {
     id: "eshmun-sanctuary-history-v2",
     type: "ruin",
@@ -324,8 +312,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Baubeginn um 600 v. Chr. unter Eshmunazar II.", "Erweiterung unter Bodashtart Ende 6. Jh. v. Chr.", "Eshmun entsprach dem griechischen Asklepios.", "Mosaikerweiterungen in römischer Zeit ab 64 v. Chr.", "Funktionsverlust nach Theodosius I. um 379 n. Chr.", "In osmanischer Zeit (1516-1918) verschüttet.", "Systematische Freilegung ab 1963 unter Maurice Dunand.", "Arbeiten unterbrochen im Bürgerkrieg 1975-1990."]
-    }
-  },
+    }, image: "/poi-images/eshmun-sanctuary-history-v2.webp"},
   {
     id: "mseilha-fort-history-v2",
     type: "historical-site",
@@ -349,8 +336,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Erbaut im 17. Jahrhundert unter Fakhr ad-Din II.", "Fakhr ad-Din lebte von 1572 bis 1635.", "Hinrichtung Fakhr ad-Dins in Konstantinopel 1635.", "Wachposten in osmanischer Zeit 1516-1918.", "Denkmalschutz im französischen Mandat 1923-1943.", "Auf der 25-Lira-Banknote von 1983 abgebildet.", "Unbeschädigt im Bürgerkrieg 1975-1990.", "Restaurierung zwischen 2002 und 2004 abgeschlossen."]
-    }
-  },
+    }, image: "/poi-images/mseilha-fort-history-v2.webp"},
   {
     id: "deir-el-qamar-historic-square-history-v2",
     type: "historical-site",
@@ -374,8 +360,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt des Berglibanon von 1590 bis 1840.", "Regierungssitz seit 1590 unter Fakhr ad-Din II.", "Moschee von 1493 als ältester Bau erhalten.", "Bashir Shihab II. verlegte Residenz nach Beiteddine 1812.", "Massaker am Christen 1860 mit rund 2.000 Toten.", "Synagoge aus dem 17. Jahrhundert vorhanden.", "Denkmalschutz im französischen Mandat 1923-1943.", "Weitgehend unversehrt im Bürgerkrieg 1975-1990."]
-    }
-  },
+    }, image: "/poi-images/deir-el-qamar-historic-square-history-v2.webp"},
   {
     id: "temple-of-obelisks-history-v2",
     type: "ruin",
@@ -399,8 +384,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Errichtet zwischen 1900 und 1600 v. Chr.", "Geweiht dem kanaanäischen Gott Reschef.", "Mehr als 26 Obelisken aus Kalkstein und Sandstein.", "Freilegung ab 1928 durch Maurice Dunand.", "Verschoben um 40 Meter nach 1932.", "Tausende Gold- und Bronzestatuetten geborgen.", "Plünderung des Nationalmuseums im Bürgerkrieg 1975-1990.", "UNESCO-Welterbe seit dem Jahr 1984."]
-    }
-  },
+    }, image: "/poi-images/temple-of-obelisks-history-v2.webp"},
   {
     id: "faqra-ruins-history-v2",
     type: "ruin",
@@ -424,8 +408,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Höhe: 1.550 Meter im Kesrouan-Gebirge.", "Tempelweihe datiert auf das Jahr 43 n. Chr.", "Errichtet unter Kaiser Claudius (41-54 n. Chr.).", "Geweiht der Atargatis und Bel-Marqod.", "Altarturm aus dem 2. Jahrhundert n. Chr.", "Byzantinische Basilika nach Theodosius I. um 379.", "Dokumentation ab 1937 durch Dunand und Krencker.", "Unbeschädigt im Bürgerkrieg 1975-1990."]
-    }
-  },
+    }, image: "/poi-images/faqra-ruins-history-v2.webp"},
   {
     id: "martyrs-monument-beirut-history-v2",
     type: "monument",
@@ -449,8 +432,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hinrichtung der 21 Märtyrer am 6. Mai 1916.", "Veranlasst von Gouverneur Djemal Pascha.", "Erstes Denkmal aus dem Jahr 1930 zerstört.", "Heutige Statue von 1960 von Renato Marino Mazzacurati.", "Eingeweiht unter Präsident Fuad Shihab.", "Demarkationslinie im Bürgerkrieg 1975-1990.", "Einschusslöcher als Mahnmal bewusst erhalten.", "Restauriert zwischen 1996 und 2004."]
-    }
-  },
+    }, image: "/poi-images/martyrs-monument-beirut-history-v2.webp"},
   {
     id: "monastery-mar-sarkis-history-v2",
     type: "historical-site",
@@ -474,8 +456,7 @@ export const poiExtraLebanonHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gegründet im 7. Jahrhundert von syrisch-jakobitischen Mönchen.", "Übernahme durch maronitische Kirche im 12. Jahrhundert.", "Wiederaufbau nach Erdbeben im Jahr 1862.", "Khalil Gibran lebte von 1883 bis 1931.", "Mariana Gibran kaufte das Kloster 1932.", "Gibran-Museum eröffnet im Jahr 1975.", "Über 440 Originalwerke im Museumsbestand.", "Qadisha-Tal als UNESCO-Welterbe seit 1998."]
-    }
-  },
+    }, image: "/poi-images/monastery-mar-sarkis-history-v2.webp"},
   {
     id: "rachaya-citadel-history-v2",
     type: "historical-site",

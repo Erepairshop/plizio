@@ -66,13 +66,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein flacher See im Äquatorbecken des Kongos.",
       hu: "Sekély tó a Kongó egyenlítői medencéjében.",
-      ro: "Un lac puțin adânc în bazinul ecuatorial al fluviului Congo.",
+      ro: "Lacul Tumba este un corp de apă de mică adâncime, legat de fluviul Congo printr-un canal. Este recunoscut pentru biodiversitatea sa acvatică bogată și importanța pentru ecosistemele zonelor umede.",
       en: "A shallow lake in the equatorial basin of the Congo."
     },
     facts: {
       de: ["Sehr fischreich", "Moosiger Untergrund", "Bedeutendes Feuchtgebiet", "Nahe dem Mai-Ndombe-See"],
       hu: ["Halban igen gazdag", "Mohás aljzat", "Jelentős vizes élőhely", "A Mai-Ndombe-tó közelében"],
-      ro: ["Foarte bogat în pește", "Fund muntos", "Zonă umedă importantă", "Aproape de Lacul Mai-Ndombe"],
+      ro: ["Arie de mică adâncime", "Legat de fluviul Congo", "Biodiversitate bogată"],
       en: ["Very rich in fish", "Mossy bottom", "Significant wetland", "Near Lake Mai-Ndombe"]
     }, image: "/poi-images/tumba-lake-nature-v2.webp"},
   {
@@ -174,13 +174,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Die größte Binneninsel Afrikas, gelegen im Kivusee.",
       hu: "Afrika legnagyobb szárazföldi szigete a Kivu-tóban.",
-      ro: "Cea mai mare insulă interioară din Africa, situată în Lacul Kivu.",
+      ro: "Situată în lacul Kivu, Idjwi este una dintre cele mai mari insule interioare din Africa. Insula are un relief muntos și un microclimat propice agriculturii tradiționale.",
       en: "Africa's largest inland island, located in Lake Kivu."
     },
     facts: {
       de: ["Zweitgrößte Binneninsel der Welt", "Dicht besiedelt", "Kaffeeplantagen", "Keine Autos"],
       hu: ["A világ második legnagyobb szárazföldi szigete", "Sűrűn lakott", "Kávéültetvények", "Nincsenek autók"],
-      ro: ["A doua cea mai mare insulă interioară din lume", "Dens populată", "Plantații de cafea", "Fără mașini"],
+      ro: ["Situată în lacul Kivu", "Insulă interioară vastă", "Relief muntos"],
       en: ["World's second-largest inland island", "Densely populated", "Coffee plantations", "No cars"]
     }, image: "/poi-images/idjwi-island-nature-v2.webp"},
   {
@@ -192,13 +192,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Eine große Insel im Mündungsdelta des Kongo-Flusses.",
       hu: "Nagy sziget a Kongó-folyó torkolati deltájában.",
-      ro: "O insulă mare în delta de vărsare a fluviului Congo.",
+      ro: "Insula Mateba se află în estuarul fluviului Congo și este o rezervație naturală protejată. Aceasta găzduiește păduri riverane și o varietate de specii de păsări și reptile.",
       en: "A large island in the mouth delta of the Congo River."
     },
     facts: {
       de: ["Viel Viehzucht", "Sumpfgebiete", "In der Nähe von Boma", "Bedeutende Landwirtschaft"],
       hu: ["Sok állattenyésztés", "Mocsaras területek", "Boma közelében", "Jelentős mezőgazdaság"],
-      ro: ["Creșterea animalelor", "Zone mlăștinoase", "Lângă Boma", "Agricultură semnificativă"],
+      ro: ["În estuarul Congo", "Rezervație naturală", "Habitat de păduri riverane"],
       en: ["Much cattle ranching", "Marshy areas", "Near Boma", "Significant agriculture"]
     }, image: "/poi-images/mateba-island-nature-v2.webp"},
   {
@@ -210,13 +210,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Der einzige Küstenabschnitt der DR Kongo am Atlantik.",
       hu: "A Kongói DK egyetlen tengerparti szakasza az Atlanti-óceánnál.",
-      ro: "Singura porțiune de coastă a RD Congo la Oceanul Atlantic.",
+      ro: "Coasta din jurul localității Muanda reprezintă singura ieșire la Oceanul Atlantic a țării. Zona este caracterizată de mangrove, plaje nisipoase și un estuar important.",
       en: "The only coastal stretch of the DRC on the Atlantic Ocean."
     },
     facts: {
       de: ["Sandstrände", "Mündung des Kongos", "Erdölförderung", "Tourismuspotential"],
       hu: ["Homokos strandok", "A Kongó torkolata", "Kőolajkitermelés", "Turisztikai potenciál"],
-      ro: ["Plaje cu nisip", "Gura de vărsare a fluviului Congo", "Extracția petrolului", "Potențial turistic"],
+      ro: ["Ieșire la Atlantic", "Ecosistem de mangrove", "Estuar important"],
       en: ["Sandy beaches", "Congo River estuary", "Oil extraction", "Tourist potential"]
     }, image: "/poi-images/muanda-coast-nature-v2.webp"},
   {
@@ -228,13 +228,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein Fluss im Nordosten, bekannt für das Okapi-Zentrum.",
       hu: "Folyó északkeleten, az Okapi-központról ismert.",
-      ro: "Un râu în nord-est, cunoscut pentru centrul Okapi.",
+      ro: "Râul Epulu traversează rezervația de faună Okapi din regiunea Ituri. Este un curs de apă vital pentru conservarea speciilor endemice și a pădurilor tropicale dese.",
       en: "A river in the northeast, known for the Okapi center."
     },
     facts: {
       de: ["Nebenfluss des Ituri", "Klares Wasser", "Regenwaldumgebung", "Wichtiger Forschungsort"],
       hu: ["Az Ituri mellékfolyója", "Tiszta víz", "Esőerdei környezet", "Fontos kutatóhely"],
-      ro: ["Afluent al râului Ituri", "Apă limpede", "Mediu de pădure tropicală", "Loc important de cercetare"],
+      ro: ["Traversează rezervația Okapi", "Situat în Ituri", "Vital pentru conservare"],
       en: ["Tributary of the Ituri", "Clear water", "Rainforest setting", "Important research site"]
     }, image: "/poi-images/epulu-river-nature-v2.webp"},
   {
@@ -246,13 +246,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein Grenzfluss zwischen der DR Kongo und Zentralafrika.",
       hu: "Határfolyó a Kongói DK és Közép-Afrika között.",
-      ro: "Un râu de graniță între RD Congo și Republica Centrafricană.",
+      ro: "Râul Mbomou formează o parte din granița naturală a țării și este un afluent important al fluviului Ubangi. Zona sa adiacentă este acoperită de păduri tropicale virgine.",
       en: "A border river between the DRC and Central Africa."
     },
     facts: {
       de: ["Bildet den Ubangi", "Sehr abgelegen", "Wilde Natur", "Geringe Besiedlung"],
       hu: ["Az Ubangi forrásfolyója", "Nagyon távoli", "Vadon élő természet", "Ritka lakosság"],
-      ro: ["Formează râul Ubangi", "Foarte izolat", "Natură sălbatică", "Densitate scăzută a populației"],
+      ro: ["Afluent al râului Ubangi", "Graniță naturală", "Păduri tropicale dese"],
       en: ["Forms the Ubangi", "Very remote", "Wild nature", "Sparse population"]
     }, image: "/poi-images/mbomou-river-nature-v2.webp"},
   {
@@ -282,13 +282,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein bedeutender Nebenfluss des Kongos im Norden.",
       hu: "A Kongó jelentős északi mellékfolyója.",
-      ro: "Un afluent important al fluviului Congo în nord.",
+      ro: "Râul Aruwimi este un afluent major al fluviului Congo, având un bazin hidrografic extins. Acesta curge prin inima bazinului Congo, susținând habitate forestiere dense.",
       en: "A major tributary of the Congo River in the north."
     },
     facts: {
       de: ["Bekannt durch Stanleys Expedition", "Fließt durch den Ituri-Wald", "Viele Stromschnellen", "Wichtiger Transportweg"],
       hu: ["Stanley expedíciójáról ismert", "Az Ituri-erdőn folyik át", "Sok zuhatag", "Fontos szállítási útvonal"],
-      ro: ["Cunoscut prin expediția lui Stanley", "Curge prin pădurea Ituri", "Multe rapide", "Rută importantă de transport"],
+      ro: ["Afluent al fluviului Congo", "Bazin hidrografic extins", "Păduri tropicale"],
       en: ["Known from Stanley's expedition", "Flows through Ituri Forest", "Many rapids", "Important transport route"]
     }, image: "/poi-images/aruwimi-river-nature-v2.webp"},
   {
@@ -300,13 +300,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Eine seeartige Ausweitung des Kongo-Flusses bei Kinshasa.",
       hu: "A Kongó-folyó tószerű kiszélesedése Kinshasa közelében.",
-      ro: "O dilatare asemănătoare unui lac a fluviului Congo lângă Kinshasa.",
+      ro: "Pool Malebo este o secțiune largă, asemănătoare unui lac, a fluviului Congo între Kinshasa și Brazzaville. Este un nod vital pentru navigația fluvială și ecosistemele de coastă.",
       en: "A lake-like expansion of the Congo River near Kinshasa."
     },
     facts: {
       de: ["Einst Stanley Pool genannt", "Grenzt an zwei Hauptstädte", "Inselreich", "Verlangsamte Strömung"],
       hu: ["Korábban Stanley Pool", "Két fővárossal határos", "Szigetekben gazdag", "Lassabb áramlás"],
-      ro: ["Anterior numit Stanley Pool", "Se învecinează cu două capitale", "Multe insule", "Curent încetinit"],
+      ro: ["Secțiune lărgită a râului", "Nod de navigație", "Între două capitale"],
       en: ["Formerly Stanley Pool", "Borders two capitals", "Island-rich", "Slowed current"]
     }, image: "/poi-images/pool-malebo-nature-v2.webp"},
   {
@@ -354,13 +354,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein rechter Nebenfluss des Lualaba im Osten der DR Kongo.",
       hu: "A Lualaba jobb oldali mellékfolyója a Kongói DK keleti részén.",
-      ro: "Un afluent de dreapta al râului Lualaba în estul RD Congo.",
+      ro: "Râul Elila este un afluent situat în partea de est a țării, parcurgând regiuni muntoase și forestiere. Este un curs de apă important pentru comunitățile locale.",
       en: "A right tributary of the Lualaba River in the eastern DRC."
     },
     facts: {
       de: ["Fließt durch Maniema", "Wasserreich", "Urwaldregion", "Gering erforscht"],
       hu: ["Maniema tartományon folyik át", "Bővízű", "Őserdő régió", "Kevéssé kutatott"],
-      ro: ["Curge prin Maniema", "Debit bogat", "Regiune de pădure virgină", "Puțin explorat"],
+      ro: ["Afluent din est", "Zone muntoase", "Importanță locală"],
       en: ["Flows through Maniema", "Water-rich", "Primary forest region", "Little explored"]
     }, image: "/poi-images/elila-river-nature-v2.webp"},
   {
@@ -372,13 +372,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein Gebirgsfluss, der in den Lualaba mündet.",
       hu: "A Lualabába torkolló hegyi folyó.",
-      ro: "Un râu de munte care se varsă în Lualaba.",
+      ro: "Râul Ulindi curge prin regiuni dense din provincia Kivu, fiind un afluent al râului Lualaba. Zona este marcată de relief variat și păduri tropicale.",
       en: "A mountain river that flows into the Lualaba."
     },
     facts: {
       de: ["Goldvorkommen im Flussbett", "Süd-Kivu Region", "Schnelle Strömung", "Dichter Dschungel"],
       hu: ["Aranylelőhelyek a mederben", "Dél-Kivu régió", "Gyors áramlás", "Sűrű dzsungel"],
-      ro: ["Zăcăminte de aur în albie", "Regiunea Sud-Kivu", "Curent rapid", "Junglă densă"],
+      ro: ["Afluent al râului Lualaba", "Situat în Kivu", "Păduri tropicale"],
       en: ["Gold deposits in riverbed", "South Kivu region", "Fast current", "Dense jungle"]
     }, image: "/poi-images/ulindi-river-nature-v2.webp"},
   {
@@ -390,13 +390,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein wunderschöner See in der Provinz Kasaï-Central.",
       hu: "Gyönyörű tó Kasaï-Central tartományban.",
-      ro: "Un lac frumos în provincia Kasaï-Central.",
+      ro: "Lacul Mukamba este un lac natural situat în provincia Kasaï, cunoscut pentru împrejurimile sale pitorești. Este un punct de atracție pentru ecosistemele acvatice locale.",
       en: "A beautiful lake in the Kasaï-Central province."
     },
     facts: {
       de: ["Touristische Erholung", "Klares blaues Wasser", "Legendenumwoben", "Heiliger Ort"],
       hu: ["Turisztikai üdülőhely", "Tiszta kék víz", "Legendák övezik", "Szent hely"],
-      ro: ["Agrement turistic", "Apă albastră limpede", "Înconjurat de legende", "Loc sfânt"],
+      ro: ["Situat în Kasaï", "Lac natural", "Ecosisteme acvatice"],
       en: ["Tourist recreation", "Clear blue water", "Surrounded by legends", "Sacred site"]
     }, image: "/poi-images/mukamba-lake-nature-v2.webp"},
   {
@@ -408,13 +408,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein markanter Berg in der Nähe von Kinshasa, ein Ziel für Pilger.",
       hu: "Jellegzetes hegy Kinshasa közelében, zarándokhely.",
-      ro: "Un munte proeminent lângă Kinshasa, loc de pelerinaj.",
+      ro: "Muntele Mangengenge este un punct de reper natural notabil în apropierea capitalei Kinshasa. Traseele de pe acest munte oferă o vedere asupra regiunii și a vegetației locale.",
       en: "A prominent mountain near Kinshasa, a destination for pilgrims."
     },
     facts: {
       de: ["Panoramablick auf Kinshasa", "Religiöse Bedeutung", "Wanderziel", "Steiler Aufstieg"],
       hu: ["Panoráma Kinshasára", "Vallási jelentőség", "Túraútvonal", "Meredek emelkedő"],
-      ro: ["Vedere panoramică asupra Kinshasa", "Semnificație religioasă", "Destinație de drumeție", "Urcuș abrupt"],
+      ro: ["Lângă Kinshasa", "Punct de reper", "Trasee montane"],
       en: ["Panoramic view of Kinshasa", "Religious significance", "Hiking destination", "Steep climb"]
     }, image: "/poi-images/mangengenge-mountain-nature-v2.webp"},
   {
@@ -426,13 +426,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Ein unberührtes Regenwaldgebiet im Herzen des Kongos.",
       hu: "Érintetlen esőerdő terület Kongó szívében.",
-      ro: "O zonă de pădure tropicală neatinsă în inima Congoului.",
+      ro: "Pădurea Lomami este o regiune vastă de pădure tropicală care găzduiește numeroase specii rare. Este una dintre cele mai importante zone pentru conservarea biodiversității din țară.",
       en: "An untouched rainforest area in the heart of the Congo."
     },
     facts: {
       de: ["Entdeckung des Lesula-Affen", "Neuer Nationalpark", "Extreme Abgeschiedenheit", "Primärwald"],
       hu: ["A Lesula majom felfedezése", "Új nemzeti park", "Rendkívüli elszigeteltség", "Őserdő"],
-      ro: ["Descoperirea maimuței Lesula", "Parc național nou", "Izolare extremă", "Pădure primară"],
+      ro: ["Pădure tropicală vastă", "Specii rare", "Zona de conservare"],
       en: ["Discovery of Lesula monkey", "New national park", "Extreme remoteness", "Primary forest"]
     }
   },
@@ -445,13 +445,13 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     description: {
       de: "Einzigartige Mangrovenwälder an der Meeresmündung des Kongos.",
       hu: "Egyedülálló mangroveerdők a Kongó torkolatánál.",
-      ro: "Păduri de mangrove unice la gura de vărsare a fluviului Congo.",
+      ro: "Pădurile de mangrove din estuarul fluviului Congo constituie un ecosistem marin și terestru deosebit. Acestea protejează linia de coastă și oferă refugiu pentru fauna locală.",
       en: "Unique mangrove forests at the marine mouth of the Congo."
     },
     facts: {
       de: ["Schutz von Seekühen", "Küsten-Ökosystem", "Nationalpark", "Brackwasserzone"],
       hu: ["Manátuszok védelme", "Part menti ökoszisztéma", "Nemzeti park", "Brakkvizes zóna"],
-      ro: ["Protecția lamantinilor", "Ecosistem costier", "Parc național", "Zonă de apă salmastră"],
+      ro: ["În estuarul Congo", "Ecosistem de coastă", "Refugiu faunistic"],
       en: ["Manatee protection", "Coastal ecosystem", "National park", "Brackish water zone"]
     }
   }

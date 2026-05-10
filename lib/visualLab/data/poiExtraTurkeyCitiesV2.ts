@@ -13,8 +13,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["1923-ban lett főváros", "Itt található az Anıtkabir"],
       ro: ["A devenit capitală în 1923", "Găzduiește mausoleul Anıtkabir"],
       en: ["Became the capital in 1923", "Home to the Anıtkabir mausoleum"]
-    }
-  },
+    }, image: "/poi-images/ankara-cities-v2.webp"},
   {
     id: "istanbul-cities-v2",
     type: "city",
@@ -27,8 +26,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["Korábban Bizáncként és Konstantinápolyként ismerték", "A Boszporusz osztja ketté a várost"],
       ro: ["Cunoscut anterior sub numele de Bizanț și Constantinopol", "Strâmtoarea Bosfor desparte orașul"],
       en: ["Formerly known as Byzantium and Constantinople", "The Bosphorus strait divides the city"]
-    }
-  },
+    }, image: "/poi-images/istanbul-cities-v2.webp"},
   {
     id: "izmir-cities-v2",
     type: "city",
@@ -41,8 +39,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["Az ókorban Szmirna néven ismerték", "A Konak téren álló óratorony 1901-ben épült"],
       ro: ["Cunoscută în antichitate sub numele de Smyrna", "Turnul cu Ceas din Piața Konak a fost construit în 1901"],
       en: ["Known as Smyrna in antiquity", "The Clock Tower at Konak Square was built in 1901"]
-    }
-  },
+    }, image: "/poi-images/izmir-cities-v2.webp"},
   {
     id: "bursa-cities-v2",
     type: "city",
@@ -55,8 +52,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["Parkjai miatt gyakran \"Zöld Bursa\" néven emlegetik", "Az Uludağ hegy lábánál fekszik"],
       ro: ["Deseori numită \"Bursa Verde\" datorită parcurilor sale", "Este situată la poalele muntelui Uludağ"],
       en: ["Often called \"Green Bursa\" due to its parks", "Located at the foothills of Mount Uludağ"]
-    }
-  },
+    }, image: "/poi-images/bursa-cities-v2.webp"},
   {
     id: "adana-cities-v2",
     type: "city",
@@ -69,8 +65,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A Taşköprü híd a római korból származik", "A Sabancı Központi Mecset 28 500 hívőt tud befogadni"],
       ro: ["Podul Taşköprü datează din perioada romană", "Moscheea Centrală Sabancı poate găzdui 28.500 de credincioși"],
       en: ["The Taşköprü bridge dates back to the Roman era", "The Sabancı Central Mosque can accommodate 28,500 worshippers"]
-    }
-  },
+    }, image: "/poi-images/adana-cities-v2.webp"},
   {
     id: "gaziantep-cities-v2",
     type: "city",
@@ -83,8 +78,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A legrégebb óta folyamatosan lakott városok egyike", "A Zeugma Mozaikmúzeum 2011-ben nyílt meg"],
       ro: ["Una dintre cele mai vechi așezări locuite continuu", "Muzeul de Mozaicuri Zeugma a fost deschis în 2011"],
       en: ["Among the oldest continuously inhabited cities", "The Zeugma Mosaic Museum opened in 2011"]
-    }
-  },
+    }, image: "/poi-images/gaziantep-cities-v2.webp"},
   {
     id: "konya-cities-v2",
     type: "city",
@@ -97,8 +91,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A város több mint 1000 méteres tengerszint feletti magasságban fekszik", "Itt található a perzsa költő, Rúmí sírja"],
       ro: ["Orașul se află la o altitudine de peste 1000 de metri", "Aici se află mormântul poetului persan Rumi"],
       en: ["The city is located at an altitude of over 1000 meters", "It houses the tomb of the Persian poet Rumi"]
-    }
-  },
+    }, image: "/poi-images/konya-cities-v2.webp"},
   {
     id: "antalya-cities-v2",
     type: "city",
@@ -111,8 +104,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A Hadrianus-kapu i.sz. 130-ban épült", "A történelmi óvárost Kaleiçinek hívják"],
       ro: ["Poarta lui Hadrian a fost construită în anul 130 d.Hr.", "Orașul vechi istoric se numește Kaleiçi"],
       en: ["Hadrian's Gate was built in the year 130 AD", "The historical old town is called Kaleiçi"]
-    }
-  },
+    }, image: "/poi-images/antalya-cities-v2.webp"},
   {
     id: "kayseri-cities-v2",
     type: "city",
@@ -125,8 +117,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A várost az ókorban Caesarea Mazaca néven ismerték", "Az Erciyes Dağı vulkán határozza meg a tájat"],
       ro: ["Orașul a fost numit Caesarea Mazaca în antichitate", "Vulcanul Erciyes Dağı domină peisajul"],
       en: ["The city was called Caesarea Mazaca in antiquity", "The Erciyes Dağı volcano dominates the landscape"]
-    }
-  },
+    }, image: "/poi-images/kayseri-cities-v2.webp"},
   {
     id: "mersin-cities-v2",
     type: "city",
@@ -139,8 +130,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A tartomány tengerpartja 321 kilométer hosszú", "Az 52 emeletes Mertim-épület sokáig az ország legmagasabbja volt"],
       ro: ["Litoralul provinciei are o lungime de 321 de kilometri", "Clădirea Mertim cu 52 de etaje a fost mult timp cea mai înaltă din țară"],
       en: ["The province's coastline is 321 kilometers long", "The 52-story Mertim building was the tallest in the country for a long time"]
-    }
-  },
+    }, image: "/poi-images/mersin-cities-v2.webp"},
   {
     id: "eskisehir-cities-v2",
     type: "city",
@@ -153,8 +143,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A város nevének szó szerinti jelentése \"öreg város\"", "Itt található az Anadolu Egyetem és az Osmangazi Egyetem"],
       ro: ["Numele orașului înseamnă literal \"oraș vechi\"", "Aici se află Universitatea Anadolu și Universitatea Osmangazi"],
       en: ["The city's name literally translates to \"old city\"", "It is home to Anadolu University and Osmangazi University"]
-    }
-  },
+    }, image: "/poi-images/eskisehir-cities-v2.webp"},
   {
     id: "diyarbakir-cities-v2",
     type: "city",
@@ -167,8 +156,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A városfalak az UNESCO Világörökség részét képezik", "Az erődítmény 5,5 kilométer hosszú"],
       ro: ["Zidurile orașului fac parte din Patrimoniul Mondial UNESCO", "Fortăreața are o lungime de 5,5 kilometri"],
       en: ["The city walls are a UNESCO World Heritage site", "The fortress has a length of 5.5 kilometers"]
-    }
-  },
+    }, image: "/poi-images/diyarbakir-cities-v2.webp"},
   {
     id: "samsun-cities-v2",
     type: "city",
@@ -181,8 +169,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["Atatürk 1919-ben szállt itt partra, ami a függetlenségi háború kezdetét jelentette", "Az ókorban a települést Amiszosznak hívták"],
       ro: ["Atatürk a debarcat aici în 1919, marcând începutul Războiului de Independență", "În antichitate, așezarea se numea Amisos"],
       en: ["Atatürk landed here in 1919, marking the start of the War of Independence", "In antiquity, the settlement was called Amisos"]
-    }
-  },
+    }, image: "/poi-images/samsun-cities-v2.webp"},
   {
     id: "denizli-cities-v2",
     type: "city",
@@ -195,8 +182,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["Az ókori Laodicea a Lükosz folyó mentén csak néhány kilométerre található", "A helyi Denizli kakas a város szimbóluma"],
       ro: ["Orașul antic Laodiceea pe Lycus se află la doar câțiva kilometri distanță", "Cocoșul local Denizli este simbolul orașului"],
       en: ["The ancient city of Laodicea on the Lycus is just a few kilometers away", "The local Denizli rooster is the symbol of the city"]
-    }
-  },
+    }, image: "/poi-images/denizli-cities-v2.webp"},
   {
     id: "sanliurfa-cities-v2",
     type: "city",
@@ -209,8 +195,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A közelben található a Göbekli Tepe régészeti lelőhely", "Az iszlám hagyomány szerint Ábrahám próféta szülővárosa"],
       ro: ["Sit-ul arheologic Göbekli Tepe se află în apropiere", "Conform tradiției islamice, este locul de naștere al profetului Avraam"],
       en: ["The archaeological site of Göbekli Tepe is located nearby", "According to Islamic tradition, it is the birthplace of the prophet Abraham"]
-    }
-  },
+    }, image: "/poi-images/sanliurfa-cities-v2.webp"},
   {
     id: "adapazari-cities-v2",
     type: "city",
@@ -223,8 +208,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["Az 1999-es földrengésben súlyosan megrongálódott", "Itt található a Toyota Europe egyik nagy gyára"],
       ro: ["A fost grav avariat în timpul cutremurului din 1999", "Aici se află o mare fabrică a Toyota Europe"],
       en: ["Was severely damaged in the 1999 earthquake", "Home to a major Toyota Europe manufacturing plant"]
-    }
-  },
+    }, image: "/poi-images/adapazari-cities-v2.webp"},
   {
     id: "malatya-cities-v2",
     type: "city",
@@ -237,8 +221,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A helyén lévő római települést Melitene-nek hívták", "Az Arslantepe-halom az UNESCO Világörökség része"],
       ro: ["Așezarea romană din aceeași locație se numea Melitene", "Movila Arslantepe este un sit al Patrimoniului Mondial UNESCO"],
       en: ["The Roman settlement at the same location was called Melitene", "The Arslantepe mound is a UNESCO World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/malatya-cities-v2.webp"},
   {
     id: "kahramanmaras-cities-v2",
     type: "city",
@@ -251,8 +234,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A város 1973-ban kapta meg a \"Kahraman\" (hősies) előtagot", "A 2023-as földrengések egyik epicentruma volt"],
       ro: ["Orașul a primit prefixul \"Kahraman\" (eroic) în 1973", "Unul dintre epicentrele cutremurelor din 2023"],
       en: ["The city received the prefix \"Kahraman\" (heroic) in 1973", "One of the epicenters of the 2023 earthquakes"]
-    }
-  },
+    }, image: "/poi-images/kahramanmaras-cities-v2.webp"},
   {
     id: "erzurum-cities-v2",
     type: "city",
@@ -265,8 +247,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A város rendezte a 2011-es Téli Universiadét", "A Çifte Minareli Medresze a város egyik szimbóluma"],
       ro: ["Orașul a găzduit Universiada de Iarnă din 2011", "Medresa Çifte Minareli este un punct de reper al orașului"],
       en: ["The city hosted the 2011 Winter Universiade", "The Çifte Minareli Medrese is a landmark of the city"]
-    }
-  },
+    }, image: "/poi-images/erzurum-cities-v2.webp"},
   {
     id: "van-cities-v2",
     type: "city",
@@ -279,8 +260,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["Tuspának nevezve az Urartu Királyság fővárosa volt", "A különböző színű szemekkel rendelkező van-macska innen származik"],
       ro: ["Sub numele Tushpa a fost capitala Regatului Urartu", "Pisica Van, cu ochii săi de culori diferite, provine de aici"],
       en: ["Under the name Tushpa, it was the capital of the Kingdom of Urartu", "The Van cat, with its odd-colored eyes, originates from here"]
-    }
-  },
+    }, image: "/poi-images/van-cities-v2.webp"},
   {
     id: "batman-cities-v2",
     type: "city",
@@ -293,8 +273,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A közeli Batman folyóról kapta a nevét", "Az első olajfinomító építése 1955-ben kezdődött"],
       ro: ["A fost numit după râul din apropiere, Batman", "Construcția primei rafinării de petrol a început în 1955"],
       en: ["Was named after the nearby Batman River", "Construction of the first oil refinery began in 1955"]
-    }
-  },
+    }, image: "/poi-images/batman-cities-v2.webp"},
   {
     id: "elazig-cities-v2",
     type: "city",
@@ -307,8 +286,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["1834-ben oszmán uralom alatt alapították", "A Keban-gát a várostól északnyugatra található"],
       ro: ["A fost fondat în 1834 sub dominație otomană", "Barajul Keban este situat la nord-vest de oraș"],
       en: ["Was founded in 1834 under Ottoman rule", "The Keban Dam is located northwest of the city"]
-    }
-  },
+    }, image: "/poi-images/elazig-cities-v2.webp"},
   {
     id: "izmit-cities-v2",
     type: "city",
@@ -321,8 +299,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["286-ban Diocletianus alatt a Római Birodalom keleti fővárosa volt", "Törökország egyik legnagyobb papírgyárával rendelkezik"],
       ro: ["A fost capitala estică a Imperiului Roman în 286 sub Dioclețian", "Are una dintre cele mai mari fabrici de hârtie din Turcia"],
       en: ["Was the eastern capital of the Roman Empire in 286 under Diocletian", "Has one of the largest paper mills in Turkey"]
-    }
-  },
+    }, image: "/poi-images/izmit-cities-v2.webp"},
   {
     id: "manisa-cities-v2",
     type: "city",
@@ -335,8 +312,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A Spil-hegy melletti várost az ókorban Magnesia ad Sipylum-nak hívták", "Az éves Mesir Macunu Fesztivál helyszíne"],
       ro: ["Orașul de pe Muntele Spil a fost numit Magnesia ad Sipylum în antichitate", "Locul festivalului anual Mesir Macunu"],
       en: ["The city on Mount Spil was called Magnesia ad Sipylum in antiquity", "Host of the annual Mesir Macunu Festival"]
-    }
-  },
+    }, image: "/poi-images/manisa-cities-v2.webp"},
   {
     id: "sivas-cities-v2",
     type: "city",
@@ -349,8 +325,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A római korban a Sebasteia nevet viselte", "Itt rendezték meg a fontos sivasi kongresszust 1919-ben"],
       ro: ["S-a numit Sebasteia în perioada romană", "Aici a avut loc importantul Congres de la Sivas în 1919"],
       en: ["Was called Sebasteia in Roman times", "The important Sivas Congress took place here in 1919"]
-    }
-  },
+    }, image: "/poi-images/sivas-cities-v2.webp"},
   {
     id: "balikesir-cities-v2",
     type: "city",
@@ -377,8 +352,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A Sumela-kolostor a várostól délre, a hegyekben található", "Híres a mogyorótermesztésről"],
       ro: ["Mănăstirea Sumela se află la sud de oraș, în munți", "Faimos pentru producția de alune de pădure"],
       en: ["The Sumela Monastery is located south of the city in the mountains", "Famous for the production of hazelnuts"]
-    }
-  },
+    }, image: "/poi-images/trabzon-cities-v2.webp"},
   {
     id: "tekirdag-cities-v2",
     type: "city",
@@ -391,8 +365,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["II. Rákóczi Ferenc itt töltötte száműzetésének utolsó éveit", "A helyi ánizsos párlatról, a rakıról ismert"],
       ro: ["Francisc Rákóczi al II-lea și-a petrecut ultimii ani de exil aici", "Cunoscut pentru rakı-ul local, o băutură cu aromă de anason"],
       en: ["Francis II Rákóczi spent his last years in exile here", "Known for the local rakı, an anise-flavored spirit"]
-    }
-  },
+    }, image: "/poi-images/tekirdag-cities-v2.webp"},
   {
     id: "osmaniye-cities-v2",
     type: "city",
@@ -405,8 +378,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
       hu: ["A régió nagy mennyiségű földimogyorót termel", "A Karatepe-Aslantaş régészeti szabadtéri múzeum a közelben található"],
       ro: ["Regiunea produce o cantitate mare de arahide", "Muzeul arheologic în aer liber Karatepe-Aslantaş se află în apropiere"],
       en: ["The region produces a large amount of peanuts", "The Karatepe-Aslantaş archaeological open-air museum is nearby"]
-    }
-  },
+    }, image: "/poi-images/osmaniye-cities-v2.webp"},
   {
     id: "kutahya-cities-v2",
     type: "city",

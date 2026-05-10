@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "karuzi-cities-v2",
+      "description": "Karuzi ist eine kleine Stadt im Osten des zentralen Burundi. Der Ort dient als lokales Zentrum für Märkte und landwirtschaftliche Versorgung.",
+      "facts": ["Ostburundi", "Marktort", "ländliche Umgebung"]
+    },
+    {
+      "id": "cankuzo-cities-v2",
+      "description": "Cankuzo liegt im Osten des Landes in einer eher ruhigen Hügellandschaft. Die Stadt ist eng mit kleinbäuerlicher Landwirtschaft verbunden.",
+      "facts": ["östliches Hochland", "Hügelland", "Agrarregion"]
+    },
+    {
+      "id": "ruyigi-cities-v2",
+      "description": "Ruyigi ist ein wichtiger Ort im Südosten Burundis. Die Stadt verbindet Verwaltung, Handel und den Verkehr in Richtung der Grenze zu Tansania.",
+      "facts": ["Südosten", "Verwaltung", "Grenzverkehr"]
+    },
+    {
+      "id": "cibitoke-cities-v2",
+      "description": "Cibitoke liegt im Nordwesten Burundis nahe den Nachbargrenzen. Die Stadt ist ein regionaler Knotenpunkt für Handel und Durchreise.",
+      "facts": ["Nordwesten", "Grenzraum", "Handelsort"]
+    },
+    {
+      "id": "mwaro-cities-v2",
+      "description": "Mwaro liegt im zentralen Hochland und ist von Hügeln und Feldern umgeben. Die Stadt hat vor allem eine lokale Verwaltungs- und Marktfunktion.",
+      "facts": ["Zentralburundi", "Hochlandlage", "Verwaltung"]
+    },
+    {
+      "id": "mabanda-cities-v2",
+      "description": "Mabanda ist eine Stadt im Süden Burundis nahe der tansanischen Grenze. Sie versorgt ein ländlich geprägtes Umland mit Handel und Dienstleistungen.",
+      "facts": ["Südburundi", "Grenznähe", "ländlicher Markt"]
+    },
+    {
+      "id": "nyanza-lac-cities-v2",
+      "description": "Nyanza-Lac liegt am Tanganjikasee und gehört zu den wichtigsten Orten am südlichen Seeufer. Fischerei und Grenzhandel prägen den Alltag der Stadt.",
+      "facts": ["am See", "Fischerei", "Handel mit Tansania"]
+    },
+    {
+      "id": "rugombo-cities-v2",
+      "description": "Rugombo liegt im Nordwesten Burundis nahe den Grenzräumen zur Demokratischen Republik Kongo und zu Ruanda. Der Ort ist vor allem als lokaler Handelsplatz wichtig.",
+      "facts": ["Nordwesten", "Grenzlage", "regionaler Handel"]
+    },
+    {
+      "id": "gatumba-cities-v2",
+      "description": "Gatumba liegt direkt nördlich von Bujumbura in einer flachen, feuchten Niederung. Der Ort ist eng mit dem Rusizi-Gebiet und den Uferlandschaften verbunden.",
+      "facts": ["nahe Bujumbura", "Feuchtgebiet", "Rusizi-Niederung"]
+    },
+    {
+      "id": "kobero-cities-v2",
+      "description": "Kobero ist ein Grenzort im Nordosten Burundis. Die Lage macht den Ort zu einem wichtigen Punkt für Transit und kleinen Grenzhandel.",
+      "facts": ["Nordosten", "Grenzposten", "Transit"]
+    },
+    {
+      "id": "gashikanwa-cities-v2",
+      "description": "Gashikanwa liegt im Norden Burundis und ist von einer intensiven Agrarlandschaft umgeben. Der Ort dient als lokaler Markt für die umliegenden Dörfer.",
+      "facts": ["Nordburundi", "Agrarland", "Markt für das Umland"]
+    },
+    {
+      "id": "matana-cities-v2",
+      "description": "Matana liegt im Süden Burundis in einer kühleren Höhenlage. Der Ort ist von Landwirtschaft und kleinen Siedlungen in den Hügeln geprägt.",
+      "facts": ["südliches Hochland", "kühler", "Hügelsiedlungen"]
+    }
+  ]
+}

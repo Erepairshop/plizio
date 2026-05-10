@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCubaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCubaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCubaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCubaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cu-fidel-industry-economic-v2",
+      "description": "Ein Industriekomplex in Havanna mit verschiedenen Fertigungsanlagen. Der Standort steht für die industrielle Basis der Hauptstadt.",
+      "facts": ["In Havanna", "Verschiedene Fertigungsanlagen", "Wichtiger Industriebereich"]
+    },
+    {
+      "id": "cu-santiago-industry-economic-v2",
+      "description": "Die Industriezone von Santiago de Cuba bündelt Produktion und Arbeitsplätze im Osten der Insel. Sie ist ein wichtiger Teil der regionalen Wirtschaft.",
+      "facts": ["Im Osten Kubas", "Regionaler Industriehub", "Arbeitsplätze und Produktion"]
+    },
+    {
+      "id": "cu-sugar-mill-1-economic-v2",
+      "description": "Diese Zuckermühle in Camagüey steht für die klassische kubanische Zuckerindustrie. Sie verarbeitet das landwirtschaftliche Rohmaterial der Region.",
+      "facts": ["In Camagüey", "Zuckerverarbeitung", "Teil der Agroindustrie"]
+    },
+    {
+      "id": "cu-sugar-mill-2-economic-v2",
+      "description": "Die große Zuckermühle in Holguín ist auf hohe Verarbeitungskapazitäten ausgelegt. Sie gehört zur industriellen Zuckerwirtschaft im Osten Kubas.",
+      "facts": ["In Holguín", "Hohe Verarbeitungskapazität", "Zuckerindustrie"]
+    },
+    {
+      "id": "cu-cement-plant-economic-v2",
+      "description": "Das Zementwerk in Matanzas liefert Baustoffe für den regionalen Bedarf. Es ist eng mit der Bauwirtschaft der Provinz verbunden.",
+      "facts": ["In Matanzas", "Zementproduktion", "Baustoffindustrie"]
+    },
+    {
+      "id": "cu-fishing-port-economic-v2",
+      "description": "Der Fischereihafen von Havanna ist ein Zentrum für Fang, Verarbeitung und Logistik. Er verbindet die Hauptstadt mit den maritimen Ressourcen der Küste.",
+      "facts": ["In Havanna", "Fischverarbeitung", "Basis der Fischereiflotte"]
+    },
+    {
+      "id": "cu-thermal-power-economic-v2",
+      "description": "Das Wärmekraftwerk in Santiago de Cuba versorgt den Osten der Insel mit Strom. Es ist Teil der regionalen Energieinfrastruktur.",
+      "facts": ["In Santiago de Cuba", "Stromerzeugung", "Netzstabilität"]
+    },
+    {
+      "id": "cu-fruit-industry-economic-v2",
+      "description": "Die Obstverarbeitung in Pinar del Río konzentriert sich auf Fruchtprodukte für den Export. Sie ist Teil der agrarischen Verarbeitungskette im Westen.",
+      "facts": ["In Pinar del Río", "Fruchtkonzentrate", "Exportprodukte"]
+    },
+    {
+      "id": "cu-tobacco-industry-economic-v2",
+      "description": "Die Tabakindustrie von Pinar del Río steht für die Zigarrenproduktion im Westen Kubas. Hier treffen Tradition, Export und Markenwert zusammen.",
+      "facts": ["In Pinar del Río", "Premium-Zigarren", "Export und Tradition"]
+    },
+    {
+      "id": "cu-salt-production-economic-v2",
+      "description": "Die Salzgewinnung in Holguín nutzt die Küstenlage und die vorhandenen Meersalzressourcen. Das Produkt bleibt ein wichtiges Handelsgut.",
+      "facts": ["In Holguín", "Meersalzgewinnung", "Industrielle Ressource"]
+    },
+    {
+      "id": "cu-steel-plant-economic-v2",
+      "description": "Das Stahlwerk von Havanna gehört zur Schwerindustrie der Hauptstadt. Es verarbeitet Metall und unterstützt die industrielle Basis der Stadt.",
+      "facts": ["In Havanna", "Stahlproduktion", "Schwerindustrie"]
+    },
+    {
+      "id": "cu-rum-distillery-1-economic-v2",
+      "description": "Die Rum-Destillerie in Cienfuegos produziert lokalen Rum für den kubanischen Markt und den Export. Sie ist eng mit der Zuckerrohrkette verbunden.",
+      "facts": ["In Cienfuegos", "Rumproduktion", "Teil der Zuckerrohrwirtschaft"]
+    }
+  ]
+}

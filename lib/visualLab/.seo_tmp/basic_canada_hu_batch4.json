@@ -1,0 +1,65 @@
+{
+  "lang": "hu",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "calgary-zoo-life-v2",
+      "description": "A Calgary Zoo Alberta egyik legismertebb állatkertje. A Bow folyó melletti területen kanadai és nemzetközi állatfajokat is bemutat.",
+      "facts": ["Calgaryban található", "A Bow folyó közelében van", "Kanadai és külföldi fajokat tart"]
+    },
+    {
+      "id": "granby-zoo-life-v2",
+      "description": "A Granby Zoo Québec egyik legnagyobb állatkertje. Családi látogatóhely, amely állatbemutatókat és szezonális programokat kínál.",
+      "facts": ["Québecben van", "A tartomány egyik nagy állatkertje", "Családi látványosság"]
+    },
+    {
+      "id": "vancouver-aquarium-life-v2",
+      "description": "A Vancouver Aquarium a Stanley Park egyik fő látványossága. Tengeri élővilágot, partmenti fajokat és oktatási programokat mutat be.",
+      "facts": ["Stanley Parkban található", "Tengeri élővilágot mutat be", "Fontos oktatási központ"]
+    },
+    {
+      "id": "ripleys-aquarium-canada-life-v2",
+      "description": "A Ripley's Aquarium of Canada Toronto belvárosának egyik népszerű látványossága. Hatalmas vízi élőhelyekkel és üvegtunellel mutatja be a tengeri világot.",
+      "facts": ["Toronto belvárosában van", "Nagy akvárium", "Üvegtunellel rendelkezik"]
+    },
+    {
+      "id": "african-lion-safari-life-v2",
+      "description": "Az African Lion Safari Ontario egyik legismertebb szafari parkja. A látogatók autóval járhatják be a nagy, nyílt kifutókat.",
+      "facts": ["Ontarioban, Cambridge közelében van", "Szafari park", "Autós bejárásra épül"]
+    },
+    {
+      "id": "saskatoon-forestry-farm-park-zoo-life-v2",
+      "description": "A Saskatoon Forestry Farm Park & Zoo egy park és kis állatkert Saskatchewanban. Történeti gazdasági környezetet és állatbemutatókat is kínál.",
+      "facts": ["Saskatoonban található", "Park és állatkert együtt", "Történeti gazdasági helyszín"]
+    },
+    {
+      "id": "edmonton-valley-zoo-life-v2",
+      "description": "Az Edmonton Valley Zoo egy kisebb, jól ismert városi állatkert Alberta fővárosában. Főként oktatási és családi programokra épül.",
+      "facts": ["Edmontonban van", "Városi állatkert", "Oktatási programokat kínál"]
+    },
+    {
+      "id": "annapolis-valley-apples-life-v2",
+      "description": "Az Annapolis-völgy Nova Scotia híres almatermő vidéke. A mérsékelt éghajlat és a termékeny talaj kedvez az ültetvényeknek.",
+      "facts": ["Nova Scotiában található", "Híres almatermő vidék", "Ültetvények jellemzik"]
+    },
+    {
+      "id": "la-mauricie-black-bears-life-v2",
+      "description": "A La Mauricie térsége Québec erdős vidékeinek jellegzetes fekete medvéiről ismert. Az erdők és tavak természetes élőhelyet adnak nekik.",
+      "facts": ["Québec erdős vidékéhez kötődik", "Fekete medvék élőhelye", "Tavak és erdők jellemzik"]
+    },
+    {
+      "id": "calaway-park-life-v2",
+      "description": "A Calaway Park Alberta egyik legnagyobb vidámparkja, Calgary közelében. Családi szórakozóhely játékokkal és szezonális attrakciókkal.",
+      "facts": ["Calgary közelében van", "Nagy vidámpark", "Családi attrakciók helyszíne"]
+    }
+  ]
+}

@@ -18,8 +18,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Egy időben Nur-Szultan volt a neve.", "A Bajterek-toronyról ismert."],
       ro: ["S-a numit temporar Nur-Sultan.", "Cunoscut pentru Turnul Bayterek."],
       en: ["Was temporarily called Nur-Sultan.", "Famous for the Bayterek Tower."]
-    }
-  },
+    }, image: "/poi-images/astana-cities-v2.webp"},
   {
     id: "almaty-cities-v2",
     type: "city",
@@ -37,8 +36,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Az ország legnagyobb városa.", "1997-ig az ország fővárosa volt."],
       ro: ["Cel mai mare oraș din țară.", "A fost capitala până în 1997."],
       en: ["Largest city in the country.", "Was the capital until 1997."]
-    }
-  },
+    }, image: "/poi-images/almaty-cities-v2.webp"},
   {
     id: "shymkent-cities-v2",
     type: "city",
@@ -56,8 +54,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Kazahsztán harmadik legnagyobb városa.", "Fontos mezőgazdasági központ."],
       ro: ["Al treilea oraș ca mărime din Kazahstan.", "Important centru agricol."],
       en: ["Third largest city in Kazakhstan.", "Important agricultural center."]
-    }
-  },
+    }, image: "/poi-images/shymkent-cities-v2.webp"},
   {
     id: "karaganda-cities-v2",
     type: "city",
@@ -75,8 +72,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["A szénbányászat központja.", "Ismert a Karlag-múzeumról."],
       ro: ["Centrul mineritului de cărbune.", "Cunoscut pentru muzeul Karlag."],
       en: ["Center of coal mining.", "Known for the Karlag Museum."]
-    }
-  },
+    }, image: "/poi-images/karaganda-cities-v2.webp"},
   {
     id: "aktobe-cities-v2",
     type: "city",
@@ -94,8 +90,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Fontos olaj- és gázipari központ.", "Orosz erődként alapították 1869-ben."],
       ro: ["Centru important pentru petrol și gaze.", "Fondată ca cetate rusă în 1869."],
       en: ["Important center for oil and gas.", "Founded as a Russian fortress in 1869."]
-    }
-  },
+    }, image: "/poi-images/aktobe-cities-v2.webp"},
   {
     id: "taraz-cities-v2",
     type: "city",
@@ -113,8 +108,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Az ország egyik legrégebbi városa.", "A Selyemút fontos csomópontja."],
       ro: ["Unul dintre cele mai vechi orașe din țară.", "Nod important pe Drumul Mătăsii."],
       en: ["One of the oldest cities in the country.", "Important hub on the Silk Road."]
-    }
-  },
+    }, image: "/poi-images/taraz-cities-v2.webp"},
   {
     id: "pavlodar-cities-v2",
     type: "city",
@@ -132,8 +126,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Az alumíniumgyártás központja.", "Hatalmas folyóparti sétánnyal rendelkezik."],
       ro: ["Centru pentru producția de aluminiu.", "Are o mare promenadă pe râu."],
       en: ["Center for aluminum production.", "Has a large river promenade."]
-    }
-  },
+    }, image: "/poi-images/pavlodar-cities-v2.webp"},
   {
     id: "oskemen-cities-v2",
     type: "city",
@@ -151,8 +144,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Uszty-Kamenogorszk néven is ismert.", "A színesfémkohászat központja."],
       ro: ["Cunoscut și sub numele de Ust-Kamenogorsk.", "Centrul metalurgiei neferoase."],
       en: ["Also known as Ust-Kamenogorsk.", "Center of non-ferrous metallurgy."]
-    }
-  },
+    }, image: "/poi-images/oskemen-cities-v2.webp"},
   {
     id: "semey-cities-v2",
     type: "city",
@@ -170,8 +162,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Szemipalatyinszk néven is ismert.", "Az egykori atomkísérleti telep közelében fekszik."],
       ro: ["Cunoscut sub numele de Semipalatinsk.", "Aproape de fostul poligon de teste nucleare."],
       en: ["Known as Semipalatinsk.", "Close to the former nuclear test site."]
-    }
-  },
+    }, image: "/poi-images/semey-cities-v2.webp"},
   {
     id: "atyrau-cities-v2",
     type: "city",
@@ -189,8 +180,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["A kazah olajipar központja.", "Európa és Ázsia határán fekszik."],
       ro: ["Centrul industriei petroliere kazahe.", "Situat la granița dintre Europa și Asia."],
       en: ["The center of the Kazakh oil industry.", "Located on the border between Europe and Asia."]
-    }
-  },
+    }, image: "/poi-images/atyrau-cities-v2.webp"},
   {
     id: "kostanay-cities-v2",
     type: "city",
@@ -208,8 +198,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["A gabonatermesztés fontos központja.", "A Tobol folyó partján fekszik."],
       ro: ["Important centru de cultivare a cerealelor.", "Situat pe râul Tobol."],
       en: ["Important center for grain cultivation.", "Located on the Tobol River."]
-    }
-  },
+    }, image: "/poi-images/kostanay-cities-v2.webp"},
   {
     id: "kyzylorda-cities-v2",
     type: "city",
@@ -227,8 +216,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["A rizstermelés központja Kazahsztánban.", "A Kazah ASZSZK egykori fővárosa."],
       ro: ["Centrul producției de orez din Kazahstan.", "Fosta capitală a RASS Kazahe."],
       en: ["Center of rice production in Kazakhstan.", "Former capital of the Kazakh ASSR."]
-    }
-  },
+    }, image: "/poi-images/kyzylorda-cities-v2.webp"},
   {
     id: "oral-cities-v2",
     type: "city",
@@ -246,8 +234,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Uralszk néven is ismert.", "Földrajzilag Európában található."],
       ro: ["Cunoscut și sub numele de Uralsk.", "Situat geografic în Europa."],
       en: ["Also known as Uralsk.", "Geographically located in Europe."]
-    }
-  },
+    }, image: "/poi-images/oral-cities-v2.webp"},
   {
     id: "petropavl-cities-v2",
     type: "city",
@@ -265,8 +252,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Katonai erődként alapították.", "Kazahsztán legészakibb városa."],
       ro: ["Fondată ca cetate militară.", "Cel mai nordic oraș din Kazahstan."],
       en: ["Founded as a military fortress.", "The northernmost city in Kazakhstan."]
-    }
-  },
+    }, image: "/poi-images/petropavl-cities-v2.webp"},
   {
     id: "aktau-cities-v2",
     type: "city",
@@ -284,8 +270,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Az ország egyetlen tengeri kikötője.", "Nagy lepárlóüzemmel rendelkezik az ivóvíz előállításához."],
       ro: ["Singurul port maritim al țării.", "Are o mare uzină de desalinizare pentru apa potabilă."],
       en: ["The country's only seaport.", "Has a large desalination plant for drinking water."]
-    }
-  },
+    }, image: "/poi-images/aktau-cities-v2.webp"},
   {
     id: "temirtau-cities-v2",
     type: "city",
@@ -303,8 +288,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Az acélipar fontos központja.", "Jelentése 'Vashegy' kazahul."],
       ro: ["Important centru al industriei siderurgice.", "Înseamnă 'Muntele de Fier' în kazahă."],
       en: ["Important center of the steel industry.", "Means 'Iron Mountain' in Kazakh."]
-    }
-  },
+    }, image: "/poi-images/temirtau-cities-v2.webp"},
   {
     id: "turkistan-cities-v2",
     type: "city",
@@ -322,8 +306,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Khoja Ahmed Yasawi mauzóleumának otthona.", "Közép-Ázsia egyik legfontosabb zarándokhelye."],
       ro: ["Găzduiește mausoleul lui Khoja Ahmed Yasawi.", "Important loc de pelerinaj în Asia Centrală."],
       en: ["Home to the Mausoleum of Khoja Ahmed Yasawi.", "Important pilgrimage site in Central Asia."]
-    }
-  },
+    }, image: "/poi-images/turkistan-cities-v2.webp"},
   {
     id: "kokshetau-cities-v2",
     type: "city",
@@ -341,8 +324,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Akmola tartomány központja.", "A közeli Burabaj Nemzeti Parkról ismert."],
       ro: ["Centrul provinciei Akmola.", "Cunoscut pentru Parcul Național Burabay din apropiere."],
       en: ["Center of the Akmola region.", "Known for the nearby Burabay National Park."]
-    }
-  },
+    }, image: "/poi-images/kokshetau-cities-v2.webp"},
   {
     id: "taldykorgan-cities-v2",
     type: "city",
@@ -360,8 +342,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Zsetiszu régió fővárosa.", "Neve azt jelenti, hogy 'Fűzfák dombja'."],
       ro: ["Capitala regiunii Jetîsu.", "Numele său înseamnă 'Dealul Sălciilor'."],
       en: ["Capital of the Zhetysu region.", "Its name means 'Willow Hill'."]
-    }
-  },
+    }, image: "/poi-images/taldykorgan-cities-v2.webp"},
   {
     id: "ekibastuz-cities-v2",
     type: "city",
@@ -379,8 +360,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Itt található a világ legnagyobb külszíni szénbányája.", "Az Ekibasztuz–Koksetau távvezeték rendelkezik a legmagasabb feszültséggel."],
       ro: ["Găzduiește cea mai mare mină de cărbune la suprafață din lume.", "Linia de înaltă tensiune Ekibastuz-Kokshetau are cea mai mare tensiune de transmisie."],
       en: ["Home to the world's largest open-pit coal mine.", "The Ekibastuz-Kokshetau power line has the highest transmission voltage."]
-    }
-  },
+    }, image: "/poi-images/ekibastuz-cities-v2.webp"},
   {
     id: "rudny-cities-v2",
     type: "city",
@@ -398,8 +378,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["1957-ben alapították.", "Kazahsztán egyik legnagyobb vasércbányászati területe."],
       ro: ["Fondată în 1957.", "Una dintre cele mai mari zone de extracție a minereului de fier din Kazahstan."],
       en: ["Founded in 1957.", "One of the largest iron ore mining areas in Kazakhstan."]
-    }
-  },
+    }, image: "/poi-images/rudny-cities-v2.webp"},
   {
     id: "zhanaozen-cities-v2",
     type: "city",
@@ -436,8 +415,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["A rézbányászat központja.", "A város gyakran a Szojuz űrkapszulák leszállóhelye volt."],
       ro: ["Centrul mineritului de cupru.", "Orașul a fost adesea locul de aterizare al capsulelor Soyuz."],
       en: ["Center of copper mining.", "The city was often the landing site for Soyuz capsules."]
-    }
-  },
+    }, image: "/poi-images/jezkazgan-cities-v2.webp"},
   {
     id: "balkhash-cities-v2",
     type: "city",
@@ -455,8 +433,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["A Balkas-tó északi partján fekszik.", "A régió egyik legfontosabb iparvárosa."],
       ro: ["Situat pe malul nordic al lacului Balhaș.", "Unul dintre cele mai importante orașe industriale din regiune."],
       en: ["Located on the northern shore of Lake Balkhash.", "One of the most important industrial cities in the region."]
-    }
-  },
+    }, image: "/poi-images/balkhash-cities-v2.webp"},
   {
     id: "satpayev-cities-v2",
     type: "city",
@@ -474,8 +451,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Kanis Szatpajevről nevezték el.", "A Zsezkazgan-rézmedence része."],
       ro: ["Numit după Kanîș Satpaev.", "Parte a bazinului de cupru Jezkazgan."],
       en: ["Named after Kanysh Satpayev.", "Part of the Jezkazgan copper basin."]
-    }
-  },
+    }, image: "/poi-images/satpayev-cities-v2.webp"},
   {
     id: "kaskelen-cities-v2",
     type: "city",
@@ -493,8 +469,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["A Karaszaj járás közigazgatási központja.", "A kirgiz határ közelében található."],
       ro: ["Centrul administrativ al districtului Karasay.", "Situat aproape de granița cu Kârgâzstanul."],
       en: ["Administrative center of the Karasay district.", "Located near the border with Kyrgyzstan."]
-    }
-  },
+    }, image: "/poi-images/kaskelen-cities-v2.webp"},
   {
     id: "ridder-cities-v2",
     type: "city",
@@ -512,8 +487,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["A szovjet korszakban Leninogorszk volt a neve.", "Jelentős a cink- és ólomtermelése."],
       ro: ["S-a numit Leninogorsk în perioada sovietică.", "Important pentru producția de zinc și plumb."],
       en: ["Was called Leninogorsk during the Soviet era.", "Significant for zinc and lead production."]
-    }
-  },
+    }, image: "/poi-images/ridder-cities-v2.webp"},
   {
     id: "stepnogorsk-cities-v2",
     type: "city",
@@ -531,8 +505,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["1991-ig nem szerepelt a térképeken.", "Az urán- és aranyfeldolgozás központja."],
       ro: ["Nu a apărut pe hărți până în 1991.", "Centru pentru prelucrarea uraniului și aurului."],
       en: ["Was not on maps until 1991.", "Center for uranium and gold processing."]
-    }
-  },
+    }, image: "/poi-images/stepnogorsk-cities-v2.webp"},
   {
     id: "aksu-cities-v2",
     type: "city",
@@ -550,8 +523,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
       hu: ["Hatalmas hőerőművel rendelkezik.", "Korábbi neve Jermak volt."],
       ro: ["Are o uriașă centrală termică.", "Numele anterior a fost Yermak."],
       en: ["Has a huge thermal power plant.", "Former name was Yermak."]
-    }
-  },
+    }, image: "/poi-images/aksu-cities-v2.webp"},
   {
     id: "konayev-cities-v2",
     type: "city",

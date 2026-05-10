@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "palace-of-rey-bouba-history-v2",
+      "description": "A Rey Bouba palota Észak-Kamerun egyik legnagyobb hagyományos uralkodói központja. A fulani lamidó egyik kiemelt emléke.",
+      "facts": ["Rey Bouba lamidó", "Észak-Kamerun", "nagy uralkodói komplexum"]
+    },
+    {
+      "id": "bandjoun-chiefdom-history-v2",
+      "description": "A bandjouni chiefdom a nyugati régió fontos hagyományos központja. A helyi királyság és művészeti örökség része.",
+      "facts": ["Nyugat-Kamerun", "hagyományos chiefdom", "kulturális örökség"]
+    },
+    {
+      "id": "diy-gid-biy-ruins-history-v2",
+      "description": "A Diy-Gid-Biy romok egy ősi régészeti lelőhely a Mandara-hegységben. A korai településtörténet ritka emléke.",
+      "facts": ["Mandara-hegység", "ősrégi rommező", "régészeti lelőhely"]
+    },
+    {
+      "id": "old-german-cemetery-douala-history-v2",
+      "description": "A doualai régi német temető a gyarmati korszak egyik csendes emlékhelye. Német telepesek és tisztviselők nyughelye.",
+      "facts": ["Douala története", "gyarmati temető", "német korszak"]
+    },
+    {
+      "id": "general-leclerc-monument-history-v2",
+      "description": "A Leclerc-emlékmű a francia katonai jelenlét emléke Kamerunban. A második világháború utáni korszakhoz kapcsolódik.",
+      "facts": ["francia emlékmű", "a fővárosban", "háború utáni időszak"]
+    },
+    {
+      "id": "banyo-lamidat-history-v2",
+      "description": "A banyo-i lamidát a helyi muszlim uralkodói hagyomány központja. Az Adamaoua térség történeti emléke.",
+      "facts": ["Banyo városa", "lamidati központ", "Adamaoua örökség"]
+    },
+    {
+      "id": "ngaoundere-lamidat-history-v2",
+      "description": "A Ngaoundéré-i lamidát az Adamaoua egyik legfontosabb hagyományos rezidenciája. A fulani uralom történetét idézi.",
+      "facts": ["Ngaoundérében áll", "hagyományos rezidencia", "fulani örökség"]
+    },
+    {
+      "id": "king-bell-palace-history-v2",
+      "description": "A King Bell palota Douala történeti uralkodói központja. A Duala nép egyik fontos dinasztikus emléke.",
+      "facts": ["Douala városa", "King Bell dinasztia", "uralkodói palota"]
+    },
+    {
+      "id": "german-bridge-edea-history-v2",
+      "description": "A német híd Edeában a gyarmati infrastruktúra emléke. A Sanaga menti korai közlekedést idézi.",
+      "facts": ["Edea városában", "gyarmati híd", "Sanaga menti örökség"]
+    },
+    {
+      "id": "batoufam-chiefdom-history-v2",
+      "description": "A batoufami chiefdom a nyugat-kameruni hagyományos vezetés része. A helyi királyság kulturális központja.",
+      "facts": ["Batoufam térsége", "hagyományos vezetés", "kulturális központ"]
+    }
+  ]
+}

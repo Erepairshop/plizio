@@ -1,0 +1,114 @@
+{
+  "lang": "ro",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "toronto-zoo-life-v2",
+      "description": "Toronto Zoo este una dintre cele mai mari gr?dini zoologice din Canada. Are zone tematice ?i programe de conservare pentru multe specii.",
+      "facts": [
+        "?n Toronto",
+        "Printre cele mai mari gr?dini zoologice",
+        "Programe de conservare"
+      ]
+    },
+    {
+      "id": "calgary-zoo-life-v2",
+      "description": "Calgary Zoo se afl? la est de centrul ora?ului Calgary. Este cunoscut pentru colec?iile sale de animale ?i pentru proiectele de conservare.",
+      "facts": [
+        "?n Calgary",
+        "La est de centru",
+        "Conservare ?i educa?ie"
+      ]
+    },
+    {
+      "id": "granby-zoo-life-v2",
+      "description": "Zoo de Granby este o gr?din? zoologic? important? din Quebec. Include zone pentru animale s?lbatice ?i spa?ii de agrement pentru familii.",
+      "facts": [
+        "?n Quebec",
+        "Gr?din? zoologic? major?",
+        "Spa?ii pentru familii"
+      ]
+    },
+    {
+      "id": "vancouver-aquarium-life-v2",
+      "description": "Vancouver Aquarium din Stanley Park prezint? specii marine ?i programe de cercetare. Este un reper cunoscut al ora?ului Vancouver.",
+      "facts": [
+        "?n Stanley Park",
+        "Specii marine",
+        "Cercetare ?i educa?ie"
+      ]
+    },
+    {
+      "id": "ripleys-aquarium-canada-life-v2",
+      "description": "Ripley's Aquarium of Canada este acvariul din Toronto, aproape de CN Tower. Este cunoscut pentru tunelul subacvatic ?i pentru rechini.",
+      "facts": [
+        "?n Toronto",
+        "L?ng? CN Tower",
+        "Tunel subacvatic"
+      ]
+    },
+    {
+      "id": "african-lion-safari-life-v2",
+      "description": "African Lion Safari este un parc de safari din sudul Ontariului, unde animalele pot fi observate din ma?in?. Este orientat spre vizitare ?i educa?ie.",
+      "facts": [
+        "?n sudul Ontariului",
+        "Parc de safari",
+        "Vizitare cu ma?ina"
+      ]
+    },
+    {
+      "id": "saskatoon-forestry-farm-park-zoo-life-v2",
+      "description": "Saskatoon Forestry Farm Park and Zoo combin? un parc istoric cu o mic? gr?din? zoologic?. Este un loc popular pentru familii ?n Saskatchewan.",
+      "facts": [
+        "?n Saskatoon",
+        "Parc istoric ?i zoo",
+        "Popular pentru familii"
+      ]
+    },
+    {
+      "id": "assiniboine-park-zoo-life-v2",
+      "description": "Assiniboine Park Zoo din Winnipeg este cunoscut pentru accentul pus pe fauna nordic?. Include zona Journey to Churchill.",
+      "facts": [
+        "?n Winnipeg",
+        "Zoo urban",
+        "Legat de fauna nordic?"
+      ]
+    },
+    {
+      "id": "fraser-valley-blueberries-life-v2",
+      "description": "Fraser Valley este una dintre principalele zone de cultivare a afinelor din Columbia Britanic?. Produc?ia agricol? este puternic legat? de export.",
+      "facts": [
+        "?n Columbia Britanic?",
+        "Cultur? de afine",
+        "Legat? de export"
+      ]
+    },
+    {
+      "id": "churchill-beluga-whales-life-v2",
+      "description": "Churchill, pe ??rmul golfului Hudson, este cunoscut pentru belugalele care apar vara. Zona atrage vizitatori interesa?i de fauna arctic?.",
+      "facts": [
+        "?n Manitoba",
+        "Pe golful Hudson",
+        "Belugale de var?"
+      ]
+    },
+    {
+      "id": "la-mauricie-black-bears-life-v2",
+      "description": "Parcul Na?ional La Mauricie ad?poste?te ur?i negri ?i p?duri boreale extinse. Este o arie natural? important? din Quebec.",
+      "facts": [
+        "?n Quebec",
+        "Parc na?ional",
+        "Ur?i negri ?i p?duri boreale"
+      ]
+    }
+  ]
+}

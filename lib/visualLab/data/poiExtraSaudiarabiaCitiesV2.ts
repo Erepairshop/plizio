@@ -36,8 +36,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt seit der Proklamation des Königreichs am 23. September 1932", "Über 7,6 Millionen Einwohner im Großraum (2022)", "Auf dem Najd-Plateau auf rund 600 Metern Höhe", "Rückeroberung der Masmak-Festung am 14. Januar 1902 durch Ibn Saud", "Saudisch-wahhabitisches Bündnis 1744 in Diriyya geschlossen", "Kingdom Centre 302 Meter hoch, eröffnet 2002", "Diriyya (UNESCO-Welterbe seit 2010) liegt im Stadtgebiet", "Megaprojekt New Murabba mit 400-Meter-Würfel angekündigt"]
-    }
-  },
+    }, image: "/poi-images/riyadh-cities-v2.webp"},
   {
     id: "jeddah-cities-v2",
     type: "city",
@@ -73,8 +72,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 4,7 Millionen Einwohner, zweitgrößte Stadt des Königreichs", "Offizieller Pilgerhafen seit 647 n. Chr. unter Kalif Uthman", "Etwa 80 Kilometer westlich von Mekka", "Altstadt al-Balad seit 2014 UNESCO-Weltkulturerbe", "King Fahd Fountain mit Wasserstrahl bis 260 Meter Höhe", "Flughafen King Abdulaziz seit 1981 in Betrieb", "Bis 1925 Hauptstadt des Königreichs Hedschas", "Jeddah Tower (geplant über 1.000 Meter) im Bau seit 2013"]
-    }
-  },
+    }, image: "/poi-images/jeddah-cities-v2.webp"},
   {
     id: "mecca-cities-v2",
     type: "state-capital",
@@ -110,8 +108,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Geburtsstadt des Propheten Mohammed im Jahr 570 n. Chr.", "Eroberung Mekkas durch Mohammed im Jahr 630 n. Chr.", "Rund 2 Millionen Einwohner, bis 4 Millionen während der Hadsch", "Kaaba im Zentrum der Heiligen Moschee al-Masdschid al-Haram", "Hadsch-Pilgerfahrt jährlich im Monat Dhu l-Hiddscha", "Königlicher Uhrenturm Abradsch al-Bait seit 2012, 601 Meter hoch", "Königstitel seit 1986: Hüter der zwei heiligen Stätten", "Zutritt für Nicht-Muslime traditionell verboten"]
-    }
-  },
+    }, image: "/poi-images/mecca-cities-v2.webp"},
   {
     id: "medina-cities-v2",
     type: "state-capital",
@@ -147,8 +144,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Etwa 1,5 Millionen Einwohner", "Rund 340 Kilometer nördlich von Mekka", "Hidschra Mohammeds nach Yathrib im Jahr 622 n. Chr.", "Beginn der islamischen Zeitrechnung mit der Hidschra", "Grab des Propheten Mohammed in der Prophetenmoschee seit 632", "Osmanische Herrschaft von 1517 bis 1916", "Eingliederung in Saudi-Arabien 1932", "Zutritt zum Stadtzentrum nur für Muslime"]
-    }
-  },
+    }, image: "/poi-images/medina-cities-v2.webp"},
   {
     id: "dammam-cities-v2",
     type: "state-capital",
@@ -184,8 +180,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt der Ostprovinz mit rund 1,5 Millionen Einwohnern", "Erstes kommerzielles Erdöl in Saudi-Arabien am 4. März 1938 in Dammam Nr. 7", "Aramco-Konzession 1933 mit Standard Oil of California", "König-Abdulaziz-Hafen seit 1949 größter Hafen am Persischen Golf", "Bohrung Dammam Nr. 7 in 1.441 Metern Tiefe fündig", "Ballungsraum mit Dhahran und al-Khobar (rund 4,5 Mio. Einwohner)", "Zentrum der saudischen Erdölverwaltung", "King Fahd International Airport seit 1999"]
-    }
-  },
+    }, image: "/poi-images/dammam-cities-v2.webp"},
   {
     id: "taif-cities-v2",
     type: "city",
@@ -258,8 +253,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt der Provinz Tabuk mit rund 670.000 Einwohnern", "Auf einem Plateau auf rund 770 Metern Höhe", "Tabuk-Expedition Mohammeds im Jahr 630 n. Chr.", "Tabuk-Festung 1559 unter Sultan Süleyman I. errichtet", "Hedschas-Bahn seit 1908 mit Bahnhof in Tabuk", "Gelegentlicher Schneefall im Winter", "NEOM-Megaprojekt seit 2017 in der Provinz angekündigt", "500 Milliarden US-Dollar geplantes NEOM-Investitionsvolumen"]
-    }
-  },
+    }, image: "/poi-images/tabuk-cities-v2.webp"},
   {
     id: "buraidah-cities-v2",
     type: "state-capital",
@@ -295,8 +289,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt der Region al-Qasim mit rund 750.000 Einwohnern", "Größter Dattelmarkt der Welt laut Guinness-Buch 2017", "Auf rund 600 Metern Höhe im Najd", "330 Kilometer nordwestlich von Riad", "Eingliederung in das saudische Reich 1906 unter Ibn Saud", "Wichtiges Bewässerungsgebiet mit Hunderttausenden Dattelpalmen", "Buraydah Dates Festival jährlich im Spätsommer", "Konservatives religiöses Zentrum des Königreichs"]
-    }
-  },
+    }, image: "/poi-images/buraidah-cities-v2.webp"},
   {
     id: "khamis-mushait-cities-v2",
     type: "city",
@@ -332,8 +325,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Auf rund 2.000 Metern Höhe im Asir-Gebirge", "Rund 630.000 Einwohner in der Provinz Asir", "Name vom traditionellen Donnerstagsmarkt (chamis)", "König-Khaled-Luftwaffenstützpunkt seit 1965", "Bedeutender Einsatzort im Zweiten Golfkrieg 1990/91", "Eingliederung ins Königreich Saudi-Arabien 1932", "Sommertemperaturen unter 30 Grad Celsius", "Bildet mit Abha einen zusammenhängenden Ballungsraum"]
-    }
-  },
+    }, image: "/poi-images/khamis-mushait-cities-v2.webp"},
   {
     id: "abha-cities-v2",
     type: "state-capital",
@@ -369,8 +361,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Höchstgelegene Großstadt Saudi-Arabiens auf rund 2.270 Metern", "Hauptstadt der Provinz Asir mit etwa 366.000 Einwohnern", "Asir-Nationalpark seit 1981, erster Nationalpark des Landes", "Nationalpark umfasst 4.500 Quadratkilometer", "Al-Qatt al-Asiri-Wandmalerei UNESCO-Welterbe seit 2017", "Sommertemperaturen um 25 Grad Celsius", "Eroberung durch Ibn Saud 1922", "Eingliederung ins Königreich 1932"]
-    }
-  },
+    }, image: "/poi-images/abha-cities-v2.webp"},
   {
     id: "al-hofuf-cities-v2",
     type: "city",
@@ -406,8 +397,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 660.000 Einwohner im Zentrum der al-Ahsa-Oase", "Größte Palmenoase der Welt mit über 2,5 Millionen Dattelpalmen", "Al-Ahsa seit 2018 UNESCO-Welterbe", "Rund 280 artesische Quellen speisen die Oase", "Eroberung durch Ibn Saud 1913 von den Osmanen", "Festung Ibrahim seit 1556 aus osmanischer Zeit", "Karmatischer Staat in der Region 899 bis 1077", "Qaisariah-Souq als historischer überdachter Markt"]
-    }
-  },
+    }, image: "/poi-images/al-hofuf-cities-v2.webp"},
   {
     id: "al-mubarraz-cities-v2",
     type: "city",
@@ -443,8 +433,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 300.000 Einwohner in der al-Ahsa-Oase", "Zwillingsstadt von Hofuf in der Ostprovinz", "Schloss-Khuzam-Festung aus dem 19. Jahrhundert", "Eroberung durch Ibn Saud 1913", "Bedeutendes Zentrum schiitischer Bevölkerung", "Al-Ahsa-Oase seit 2018 UNESCO-Welterbe", "Wirtschaft auf Dattelpalmen und Erdöldienstleistungen", "Eingliederung ins Königreich Saudi-Arabien 1932"]
-    }
-  },
+    }, image: "/poi-images/al-mubarraz-cities-v2.webp"},
   {
     id: "hail-cities-v2",
     type: "state-capital",
@@ -517,8 +506,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt der Provinz Nadschran mit rund 380.000 Einwohnern", "Im Wadi Nadschran auf rund 1.300 Metern Höhe", "Al-Ukhdud archäologische Stätte mit Bezug zur Sure 85", "Christenverfolgung 523 n. Chr. unter Dhu Nuwas", "Eingliederung ins Königreich nach Vertrag von Ta'if 1934", "Saudisch-jemenitischer Krieg 1934 entschied Zugehörigkeit", "Al-Aan-Palast als bedeutendes Lehmgebäude", "Turmartige Lehmhäuser mit bis zu sieben Etagen"]
-    }
-  },
+    }, image: "/poi-images/najran-cities-v2.webp"},
   {
     id: "al-jubail-cities-v2",
     type: "city",
@@ -554,8 +542,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Königliches Dekret zur Industriestadt am 21. September 1975", "Rund 380.000 Einwohner in der Ostprovinz", "Eine der größten petrochemischen Zonen der Welt", "King Fahd Industrial Port mit Kapazität über 80 Millionen Tonnen", "Hauptquartier der US-Marines im Zweiten Golfkrieg 1991", "Royal Commission for Jubail and Yanbu eigens gegründet 1975", "Christliche Ruinen aus dem 4. Jahrhundert 1986 entdeckt", "Sitz wichtiger SABIC-Anlagen"]
-    }
-  },
+    }, image: "/poi-images/al-jubail-cities-v2.webp"},
   {
     id: "al-kharj-cities-v2",
     type: "city",
@@ -591,8 +578,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 425.000 Einwohner, 90 Kilometer südöstlich von Riad", "Natürliche Dahl-Kalksteinbrunnen aus großer Tiefe", "Modellfarm König Abd al-Aziz' in den 1930er und 1940er Jahren", "Al-Salam-Palast aus der Zeit des Staatsgründers", "Almarai-Farm als größter Milchbetrieb des Nahen Ostens", "Über 100.000 Kühe auf der Almarai-Farm", "Prinz-Sultan-Luftwaffenstützpunkt seit 1991 für US-Truppen", "US-amerikanische Lend-Lease-Hilfe im Zweiten Weltkrieg"]
-    }
-  },
+    }, image: "/poi-images/al-kharj-cities-v2.webp"},
   {
     id: "yanbu-cities-v2",
     type: "city",
@@ -628,8 +614,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 332.000 Einwohner am Roten Meer", "Königliches Dekret zur Industriestadt am 21. September 1975", "Endpunkt der 1.200 km langen Petroline (East-West-Pipeline) seit 1981", "Hauptquartier von Lawrence von Arabien 1916/17", "Drei große Raffinerien und mehrere petrochemische Anlagen", "Historische Altstadt Yanbu al-Bahr als Pilgerhafen", "Wichtige Korallenriffe vor der Küste", "Alter Versorgungsort der Karawanen nach Medina"]
-    }
-  },
+    }, image: "/poi-images/yanbu-cities-v2.webp"},
   {
     id: "qatif-cities-v2",
     type: "city",
@@ -665,8 +650,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 524.000 Einwohner am Persischen Golf", "Spuren der Dilmun-Kultur ab dem 3. Jahrtausend v. Chr.", "Karmatischer Staat von etwa 899 bis 1077", "Portugiesische Herrschaft von 1521 bis 1551", "Eroberung durch Ibn Saud 1913", "Mehrheitlich schiitische Bevölkerung", "Qatif-Oase mit über 1 Million Dattelpalmen", "Lange Fischerei-Tradition im Persischen Golf"]
-    }
-  },
+    }, image: "/poi-images/qatif-cities-v2.webp"},
   {
     id: "arar-cities-v2",
     type: "state-capital",
@@ -702,8 +686,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt der Provinz Nördliche Grenzen mit rund 192.000 Einwohnern", "Gegründet in den 1950er Jahren als TAPLINE-Pumpstation Nr. 5", "Trans-Arabian Pipeline 1.214 Kilometer lang von Qaisuma nach Sidon", "TAPLINE in Betrieb von 1950 bis 1990", "Rund 55 Kilometer von der irakischen Grenze entfernt", "Beliebtes Frühlingsziel mit blühenden Steppen", "Tradition des Wüstencampings nach dem Winterregen", "Endgültige Stilllegung der TAPLINE im Zweiten Golfkrieg"]
-    }
-  },
+    }, image: "/poi-images/arar-cities-v2.webp"},
   {
     id: "sakakah-cities-v2",
     type: "state-capital",
@@ -739,8 +722,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt der Region al-Dschauf mit rund 250.000 Einwohnern", "Auf rund 580 Metern Höhe in einer fruchtbaren Senke", "Über 20 Millionen Olivenbäume in der Region", "Za'abal-Schloss vermutlich aus dem 1. Jahrhundert v. Chr.", "Rajajil als Stonehenge von Saudi-Arabien aus dem 4. Jahrtausend v. Chr.", "Eingliederung ins saudische Reich 1922", "Photovoltaikanlage Sakaka mit 300 MW seit 2019", "Artesische Brunnen seit dem Altertum"]
-    }
-  },
+    }, image: "/poi-images/sakakah-cities-v2.webp"},
   {
     id: "jizan-cities-v2",
     type: "state-capital",
@@ -776,8 +758,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt der Provinz Dschisan mit rund 157.000 Einwohnern", "Am Roten Meer nahe der jemenitischen Grenze", "Farasan-Inseln 700 Quadratkilometer Naturschutzgebiet seit 1989", "Eingliederung ins Königreich nach Vertrag von Ta'if 1934", "Tropischer Anbau von Papaya, Mango und Banane", "Schutz der Arabischen Gazelle in den Farasan-Inseln", "Jazan Economic City seit 2007 im Aufbau", "Raffinerie Jazan seit 2018 in Betrieb"]
-    }
-  },
+    }, image: "/poi-images/jizan-cities-v2.webp"},
   {
     id: "al-qurayyat-cities-v2",
     type: "city",
@@ -813,8 +794,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 147.000 Einwohner an der jordanischen Grenze", "Auf rund 540 Metern Höhe in der Region al-Dschauf", "Festung Kaf aus osmanischer Zeit", "Grenzübergang Halat Ammar nach Jordanien", "Salzgewinnung aus dem Sabkhat al-Qurayyat", "Eroberung durch Ibn Saud 1922", "Hedschas-Bahn-Bahnhof aus den Jahren 1908 bis 1916", "Eines der größten Olivenanbaugebiete des Königreichs"]
-    }
-  },
+    }, image: "/poi-images/al-qurayyat-cities-v2.webp"},
   {
     id: "dhahran-cities-v2",
     type: "city",
@@ -850,8 +830,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptsitz von Saudi Aramco mit rund 152.000 Einwohnern", "Erstes kommerzielles Erdöl Saudi-Arabiens am 4. März 1938", "Aramco-Gründung 1933 als California Arabian Standard Oil", "Vollständige Verstaatlichung 1980, Umbenennung 1988", "Aramco-Börsengang Dezember 2019 mit rund 2 Billionen Dollar Bewertung", "Ithra-Kulturzentrum seit 2017 geöffnet", "King Fahd University of Petroleum and Minerals seit 1963", "Bohrung Dammam Nr. 7 in 1.441 Metern Tiefe fündig"]
-    }
-  },
+    }, image: "/poi-images/dhahran-cities-v2.webp"},
   {
     id: "al-bahah-cities-v2",
     type: "state-capital",
@@ -887,8 +866,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt der kleinsten Provinz Saudi-Arabiens mit rund 110.000 Einwohnern", "Auf rund 2.155 Metern Höhe im Asir-Gebirge", "Rund 40 Wälder umgeben die Stadt", "Sommertemperaturen selten über 25 Grad Celsius", "Eingliederung ins Königreich 1934", "Dhee Ayn Marmordorf aus dem 9. Jahrhundert", "Rund 60 Steinhäuser auf einem Marmorhügel in Dhee Ayn", "Stämme der Ghamid und Zahran historisch ansässig"]
-    }
-  },
+    }, image: "/poi-images/al-bahah-cities-v2.webp"},
   {
     id: "tarut-cities-v2",
     type: "city",
@@ -924,8 +902,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 80.000 Einwohner auf der Insel Tarut", "Spuren der Ubaid-Kultur ab dem 5. Jahrtausend v. Chr.", "Wichtiger Dilmun-Hafen im 3. Jahrtausend v. Chr.", "Portugiesische Herrschaft von 1515 bis 1551", "Tarut-Festung 1515 von den Portugiesen errichtet", "Eingliederung ins saudische Reich durch Ibn Saud 1913", "Über mehrere Dammwege mit dem Festland verbunden", "Süßwasserquelle Lulu bewässerte historisch die Palmenhaine"]
-    }
-  },
+    }, image: "/poi-images/tarut-cities-v2.webp"},
   {
     id: "al-khobar-cities-v2",
     type: "city",
@@ -961,8 +938,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 626.000 Einwohner am Persischen Golf", "King Fahd Causeway nach Bahrain seit 25. November 1986", "25 Kilometer lange Brücken- und Dammverbindung", "Wachstum nach dem Erdölfund 1938", "Scud-Raketenangriff am 25. Februar 1991 mit 28 toten US-Soldaten", "Anschlag auf Khobar Towers 1996 mit 19 Toten", "Corniche-Promenade als Hauptfreizeitort", "Wichtigstes Tor zur Golfregion über Bahrain"]
-    }
-  },
+    }, image: "/poi-images/al-khobar-cities-v2.webp"},
   {
     id: "al-khafji-cities-v2",
     type: "city",
@@ -998,8 +974,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 76.000 Einwohner an der kuwaitischen Grenze", "Erdölfund in der Neutralen Zone 1957/58", "Vertrag von Uqair 1922 schuf die Neutrale Zone", "Aufteilung der Neutralen Zone 1965 (SA) und 1969 (KW)", "Schlacht von al-Chafdschi vom 29. Januar bis 1. Februar 1991", "Erster größerer Bodenkampf des Zweiten Golfkriegs", "Khafji Joint Operations fördern rund 300.000 Barrel Rohöl täglich", "Vergleichsweise unberührte Strände am Persischen Golf"]
-    }
-  },
+    }, image: "/poi-images/al-khafji-cities-v2.webp"},
   {
     id: "hafar-al-batin-cities-v2",
     type: "city",
@@ -1035,8 +1010,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 360.000 Einwohner im Wadi al-Batin", "Brunnen aus dem 7. Jahrhundert von Kalif Uthman gegraben", "Auf der historischen Karawanenroute Basra–Mekka", "König-Khaled-Militärstadt (KKMC) seit den 1980er Jahren", "Eine der größten Militärstädte Saudi-Arabiens", "Sammelpunkt der Koalitionstruppen 1990/91", "Etwa 90 Kilometer von der irakisch-kuwaitischen Grenze", "Stammesgrenze zwischen Mutair und Ajman"]
-    }
-  },
+    }, image: "/poi-images/hafar-al-batin-cities-v2.webp"},
   {
     id: "unayzah-cities-v2",
     type: "city",
@@ -1072,8 +1046,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Rund 165.000 Einwohner, zweitgrößte Stadt al-Qasims", "Auf rund 720 Metern Höhe im Najd", "Spitzname Paris von Najd wegen literarischer Tradition", "Eingliederung ins saudische Reich 1906 unter Ibn Saud", "Berühmt für die Dattelsorte Sukkari", "Al-Bassam-Haus aus dem 19. Jahrhundert restauriert", "Wichtige Karawanenstation im 19. Jahrhundert", "30 Kilometer südwestlich von Buraida"]
-    }
-  },
+    }, image: "/poi-images/unayzah-cities-v2.webp"},
   {
     id: "al-majmaah-cities-v2",
     type: "city",

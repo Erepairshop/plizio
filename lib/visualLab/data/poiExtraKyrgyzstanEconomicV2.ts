@@ -13,8 +13,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Több mint 4000 méteres magasságban található.", "A kirgiz export jelentős részét adja."],
       ro: ["Situată la peste 4.000 de metri altitudine.", "Produce o mare parte din exporturile Kârgâzstanului."],
       en: ["Located at over 4,000 meters altitude.", "Produces a large portion of Kyrgyz exports."]
-    }
-  },
+    }, image: "/poi-images/kumtor-gold-mine-economic-v2.webp"},
   {
     id: "makmal-gold-mine-economic-v2",
     type: "mine",
@@ -27,8 +26,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["A régió fontos munkaadója.", "Hozzájárul az országos aranytermeléshez."],
       ro: ["Angajator important din regiune.", "Contribuie la producția națională de aur."],
       en: ["Important employer in the region.", "Contributes to the national gold production."]
-    }
-  },
+    }, image: "/poi-images/makmal-gold-mine-economic-v2.webp"},
   {
     id: "toktogul-hpp-economic-v2",
     type: "energy",
@@ -41,8 +39,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["1200 megawattos kapacitással rendelkezik.", "Kirgizisztán áramellátásának nagy részét biztosítja."],
       ro: ["Are o capacitate de 1.200 de megawați.", "Asigură o mare parte din alimentarea cu energie a Kârgâzstanului."],
       en: ["Has a capacity of 1,200 megawatts.", "Secures a large part of Kyrgyzstan's power supply."]
-    }
-  },
+    }, image: "/poi-images/toktogul-hpp-economic-v2.webp"},
   {
     id: "kurpsai-hpp-economic-v2",
     type: "energy",
@@ -55,8 +52,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["A Narin-kaszkád második legnagyobb erőműve.", "1981-ben helyezték üzembe."],
       ro: ["A doua centrală ca mărime din cascada Naryn.", "A fost pusă în funcțiune în 1981."],
       en: ["Second largest plant of the Naryn cascade.", "Was commissioned in 1981."]
-    }
-  },
+    }, image: "/poi-images/kurpsai-hpp-economic-v2.webp"},
   {
     id: "tash-kumyr-hpp-economic-v2",
     type: "energy",
@@ -69,8 +65,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["A Narin vízerőmű-kaszkád része.", "A létesítmény három turbinával rendelkezik."],
       ro: ["Parte a cascadei hidroelectrice Naryn.", "Instalația are trei turbine."],
       en: ["Part of the Naryn hydroelectric cascade.", "The facility has three turbines."]
-    }
-  },
+    }, image: "/poi-images/tash-kumyr-hpp-economic-v2.webp"},
   {
     id: "shamaldy-say-hpp-economic-v2",
     type: "energy",
@@ -83,8 +78,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Tas-Kümürtől folyásirányban lefelé található.", "Megújuló energiát termel."],
       ro: ["Situată în aval de Tash-Kumyr.", "Produce energie regenerabilă."],
       en: ["Located downstream of Tash-Kumyr.", "Produces renewable energy."]
-    }
-  },
+    }, image: "/poi-images/shamaldy-say-hpp-economic-v2.webp"},
   {
     id: "uch-kurgan-hpp-economic-v2",
     type: "energy",
@@ -97,8 +91,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["1961-ben nyitották meg.", "Fontos szerepet játszik az öntözésben és az áramtermelésben."],
       ro: ["Deschisă în 1961.", "Joacă un rol important în irigații și producția de energie."],
       en: ["Opened in 1961.", "Plays an important role in irrigation and power generation."]
-    }
-  },
+    }, image: "/poi-images/uch-kurgan-hpp-economic-v2.webp"},
   {
     id: "kambar-ata-2-hpp-economic-v2",
     type: "energy",
@@ -111,8 +104,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Az első blokk 2010-ben kezdte meg működését.", "Részben irányított robbantással építették."],
       ro: ["Primul bloc a intrat în funcțiune în 2010.", "A fost construit parțial cu explozii controlate."],
       en: ["The first unit started operating in 2010.", "Was partially built using a controlled explosion."]
-    }
-  },
+    }, image: "/poi-images/kambar-ata-2-hpp-economic-v2.webp"},
   {
     id: "bishkek-tpp-economic-v2",
     type: "energy",
@@ -125,8 +117,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Főként szenet használ tüzelőanyagként.", "Az elmúlt években jelentősen korszerűsítették."],
       ro: ["Folosește în principal cărbune drept combustibil.", "A fost modernizată masiv în ultimii ani."],
       en: ["Mainly uses coal as fuel.", "Has been extensively modernized in recent years."]
-    }
-  },
+    }, image: "/poi-images/bishkek-tpp-economic-v2.webp"},
   {
     id: "dordoi-bazaar-economic-v2",
     type: "trade-hub",
@@ -139,8 +130,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Hatalmas tranzitállomás a Kínából származó áruk számára.", "Tízezreknek ad munkát."],
       ro: ["Un hub masiv de tranzit pentru mărfurile din China.", "Oferă locuri de muncă pentru zeci de mii de oameni."],
       en: ["A massive transit hub for goods from China.", "Provides employment for tens of thousands of people."]
-    }
-  },
+    }, image: "/poi-images/dordoi-bazaar-economic-v2.webp"},
   {
     id: "kara-suu-bazaar-economic-v2",
     type: "trade-hub",
@@ -153,8 +143,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Központi szerepet játszik a határokon átnyúló kereskedelemben.", "Dél-Kirgizisztán egyik legnagyobb piaca."],
       ro: ["Joacă un rol central în comerțul transfrontalier.", "Este una dintre cele mai mari piețe din sudul Kârgâzstanului."],
       en: ["Plays a central role in cross-border trade.", "Is one of the largest markets in southern Kyrgyzstan."]
-    }
-  },
+    }, image: "/poi-images/kara-suu-bazaar-economic-v2.webp"},
   {
     id: "osh-bazaar-bishkek-economic-v2",
     type: "trade-hub",
@@ -167,8 +156,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["A dél-kirgizisztáni Os városáról nevezték el.", "Élelmiszert, ruházatot és kézműves termékeket árulnak."],
       ro: ["Numită după orașul Osh din sudul Kârgâzstanului.", "Vinde alimente, haine și obiecte de artizanat."],
       en: ["Named after the southern Kyrgyz city of Osh.", "Sells food, clothing, and handicrafts."]
-    }
-  },
+    }, image: "/poi-images/osh-bazaar-bishkek-economic-v2.webp"},
   {
     id: "kara-balta-mining-plant-economic-v2",
     type: "industry",
@@ -181,8 +169,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Eredetileg a szovjet időkben alapították.", "A régió egyik legnagyobb ilyen jellegű üzeme."],
       ro: ["Fondată inițial în epoca sovietică.", "Una dintre cele mai mari fabrici de acest gen din regiune."],
       en: ["Originally founded in the Soviet era.", "One of the largest plants of its kind in the region."]
-    }
-  },
+    }, image: "/poi-images/kara-balta-mining-plant-economic-v2.webp"},
   {
     id: "khaidarkan-mercury-plant-economic-v2",
     type: "industry",
@@ -195,8 +182,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["A második világháború alatt nyitották meg.", "Világszerte exportált higanyt."],
       ro: ["A fost deschisă în timpul celui de-Al Doilea Război Mondial.", "A exportat mercur la nivel global."],
       en: ["Was opened during World War II.", "Exported mercury globally."]
-    }
-  },
+    }, image: "/poi-images/khaidarkan-mercury-plant-economic-v2.webp"},
   {
     id: "kadamjay-antimony-plant-economic-v2",
     type: "industry",
@@ -209,8 +195,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Az itt előállított antimont a Szovjetunióban minőségi szabványnak tekintették.", "Batken tartomány egyik központi gazdasági motorja."],
       ro: ["Antimoniul produs aici a fost considerat un standard în Uniunea Sovietică.", "Un motor economic central al regiunii Batken."],
       en: ["The antimony produced here was considered a standard in the Soviet Union.", "A central economic driver of the Batken Region."]
-    }
-  },
+    }, image: "/poi-images/kadamjay-antimony-plant-economic-v2.webp"},
   {
     id: "kyzyl-kiya-coal-mine-economic-v2",
     type: "mine",
@@ -237,8 +222,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Közép-Ázsia egyik legrégebbi szénközpontja.", "A szenet főként helyben használják fel."],
       ro: ["Unul dintre cele mai vechi centre de cărbune din Asia Centrală.", "Cărbunele este consumat în principal local."],
       en: ["One of the oldest coal centers in Central Asia.", "The coal is mainly consumed locally."]
-    }
-  },
+    }, image: "/poi-images/sulukta-coal-mine-economic-v2.webp"},
   {
     id: "kant-cement-plant-economic-v2",
     type: "industry",
@@ -251,8 +235,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Cementet termel a hazai piacra és exportra.", "Fontos a kirgiz építőipar számára."],
       ro: ["Produce ciment pentru piața internă și export.", "Important pentru industria construcțiilor din Kârgâzstan."],
       en: ["Produces cement for the domestic market and export.", "Important for Kyrgyzstan's construction industry."]
-    }
-  },
+    }, image: "/poi-images/kant-cement-plant-economic-v2.webp"},
   {
     id: "mailuu-suu-lightbulb-factory-economic-v2",
     type: "industry",
@@ -265,8 +248,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       hu: ["Az uránbányászat utáni helyi ipar fellendítésére alapították.", "Évente több millió izzót állít elő."],
       ro: ["Fondată pentru a consolida industria locală după extracția uraniului.", "Produce milioane de becuri anual."],
       en: ["Founded to strengthen local industry after uranium mining.", "Produces millions of lightbulbs annually."]
-    }
-  },
+    }, image: "/poi-images/mailuu-suu-lightbulb-factory-economic-v2.webp"},
   {
     id: "balykchy-port-economic-v2",
     type: "port",

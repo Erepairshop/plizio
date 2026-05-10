@@ -47,8 +47,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Fókuszban a 3T ásványok", "Eros export szektor"],
       ro: ["Focar pe minerale 3T", "Sector de export puternic"],
       en: ["Focus on 3T minerals", "Strong export sector"]
-    }
-  },
+    }, image: "/poi-images/rw-baryx-economic-v2.webp"},
   {
     id: "rw-kivu-methane-economic-v2",
     type: "industry",
@@ -71,8 +70,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["26 MW teljesítmény az 1. fázisban", "Világszinten innovatív projekt"],
       ro: ["Furnizeaza 26 MW în faza 1", "Proiect inovator la nivel mondial"],
       en: ["Provides 26 MW in phase 1", "Globally innovative project"]
-    }
-  },
+    }, image: "/poi-images/rw-kivu-methane-economic-v2.webp"},
   {
     id: "rw-buse_coffee-economic-v2",
     type: "industry",
@@ -95,8 +93,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["A kávétermelés központja", "Fontos bevételi forrás"],
       ro: ["Centrul producției de cafea", "Sursa importanta de venit"],
       en: ["Center of coffee production", "Important source of income"]
-    }
-  },
+    }, image: "/poi-images/rw-buse_coffee-economic-v2.webp"},
   {
     id: "rw-bugesera-industrial-economic-v2",
     type: "industry",
@@ -119,8 +116,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Fókuszban a könnyuipar", "Stratégiailag kedvezo elhelyezkedés"],
       ro: ["Concentrat pe industria u?oara", "Locație strategica excelenta"],
       en: ["Focus on light industry", "Strategically located"]
-    }
-  },
+    }, image: "/poi-images/rw-bugesera-industrial-economic-v2.webp"},
   {
     id: "rw-rwamagana-solar-economic-v2",
     type: "industry",
@@ -143,8 +139,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["8,5 MW kapacitás", "15 000 háztartást lát el árammal"],
       ro: ["Capacitate de 8,5 MW", "Furnizeaza energie pentru 15.000 de gospodarii"],
       en: ["8.5 MW capacity", "Supplies power for 15,000 homes"]
-    }
-  },
+    }, image: "/poi-images/rw-rwamagana-solar-economic-v2.webp"},
   {
     id: "rw-karongi-tea-economic-v2",
     type: "industry",
@@ -191,8 +186,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["28 megawatt teljesítmény", "Az építés 110 millió dollárba került"],
       ro: ["Capacitate de 28 megawați", "Construcția a costat 110 milioane USD"],
       en: ["28 megawatt capacity", "Construction cost $110 million"]
-    }
-  },
+    }, image: "/poi-images/rw-nyabarongo-hydro-economic-v2.webp"},
   {
     id: "rw-bweramvura-mining-economic-v2",
     type: "industry",
@@ -215,8 +209,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Jelentos az ónexport szempontjából", "A 3T ásványok része"],
       ro: ["Semnificativ pentru exportul de staniu", "Parte a mineralelor 3T"],
       en: ["Significant for tin export", "Part of the 3T minerals"]
-    }
-  },
+    }, image: "/poi-images/rw-bweramvura-mining-economic-v2.webp"},
   {
     id: "rw-gishoma-peat-economic-v2",
     type: "industry",
@@ -239,8 +232,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["15 MW kapacitás", "Hazai eroforrásokat használ"],
       ro: ["Capacitate de 15 MW", "Utilizeaza resurse interne"],
       en: ["15 MW capacity", "Uses domestic resources"]
-    }
-  },
+    }, image: "/poi-images/rw-gishoma-peat-economic-v2.webp"},
   {
     id: "rw-rubavu-port-economic-v2",
     type: "port",
@@ -263,8 +255,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Átrakodóhely a Kivu-tavon", "Elosegíti a regionális kereskedelmet"],
       ro: ["Centru de transbordare pe Lacul Kivu", "Promoveaza comer?ul regional"],
       en: ["Transshipment hub on Lake Kivu", "Promotes regional trade"]
-    }
-  },
+    }, image: "/poi-images/rw-rubavu-port-economic-v2.webp"},
   {
     id: "rw-rusizi-port-economic-v2",
     type: "port",
@@ -311,8 +302,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Az 1930-as évek óta muködik", "Kassziteritet termel"],
       ro: ["Activa din anii 1930", "Produce casiterit"],
       en: ["Active since the 1930s", "Produces cassiterite"]
-    }
-  },
+    }, image: "/poi-images/rw-rutongo-mining-economic-v2.webp"},
   {
     id: "rw-bakhresa-grain-economic-v2",
     type: "industry",
@@ -335,8 +325,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Kapacitás: 500 tonna/nap", "Javítja az élelmezésbiztonságot"],
       ro: ["Capacitate: 500 tone/zi", "Îmbunata?ește securitatea alimentara"],
       en: ["Capacity: 500 tons/day", "Improves food security"]
-    }
-  },
+    }, image: "/poi-images/rw-bakhresa-grain-economic-v2.webp"},
   {
     id: "rw-cimerwa-cement-economic-v2",
     type: "industry",
@@ -359,8 +348,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Évente 600 000 tonnát termel", "Fontos az építoipar számára"],
       ro: ["Produce 600.000 tone anual", "Important pentru industria construcțiilor"],
       en: ["Produces 600,000 tons annually", "Vital for the construction industry"]
-    }
-  },
+    }, image: "/poi-images/rw-cimerwa-cement-economic-v2.webp"},
   {
     id: "rw-inya-dairy-economic-v2",
     type: "industry",
@@ -383,8 +371,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Legnagyobb tejfeldolgozó", "Biztosítja a gazdák helyi jövedelmét"],
       ro: ["Cel mai mare procesator de lapte", "Asigura venituri pentru fermieri"],
       en: ["Largest milk processor", "Secures local income for farmers"]
-    }
-  },
+    }, image: "/poi-images/rw-inya-dairy-economic-v2.webp"},
   {
     id: "rw-pfunda-tea-economic-v2",
     type: "industry",
@@ -407,8 +394,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Az 1970-es években alapították", "A régió nagy munkaadója"],
       ro: ["Fondata în anii 1970", "Mare angajator în regiune"],
       en: ["Founded in the 1970s", "Major employer in the region"]
-    }
-  },
+    }, image: "/poi-images/rw-pfunda-tea-economic-v2.webp"},
   {
     id: "rw-rutsiro-mining-economic-v2",
     type: "industry",
@@ -455,8 +441,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["80 MW kapacitás", "A maga nemében az egyik legnagyobb"],
       ro: ["Capacitate de 80 MW", "Una dintre cele mai mari de acest gen"],
       en: ["80 MW capacity", "One of the largest of its kind"]
-    }
-  },
+    }, image: "/poi-images/rw-gisagara-peat-economic-v2.webp"},
   {
     id: "rw-ruli-mining-economic-v2",
     type: "industry",
@@ -479,8 +464,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Volfrámot termel", "Nemzetközi piacokra exportál"],
       ro: ["Produce wolframit", "Exporta pe piețele internaționale"],
       en: ["Produces wolframite", "Exports to international markets"]
-    }
-  },
+    }, image: "/poi-images/rw-ruli-mining-economic-v2.webp"},
   {
     id: "rw-bramin-farm-economic-v2",
     type: "industry",
@@ -503,8 +487,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Támogatja az agráripart", "Állati takarmányt és lisztet állít elo"],
       ro: ["Promoveaza agroindustria", "Produce hrana pentru animale ?i faina"],
       en: ["Promotes agro-industry", "Produces animal feed and flour"]
-    }
-  },
+    }, image: "/poi-images/rw-bramin-farm-economic-v2.webp"},
   {
     id: "rw-positivo-bgh-economic-v2",
     type: "industry",
@@ -527,8 +510,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["A KSEZ-ben található", "A 'Smart Rwanda' jövokép része"],
       ro: ["Situata în KSEZ", "Parte a viziunii 'Smart Rwanda'"],
       en: ["Located in the KSEZ", "Part of the 'Smart Rwanda' vision"]
-    }
-  },
+    }, image: "/poi-images/rw-positivo-bgh-economic-v2.webp"},
   {
     id: "rw-volkswagen-kigali-economic-v2",
     type: "industry",
@@ -575,8 +557,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Féldrágakövek kitermelése", "Réspiac a bányászatban"],
       ro: ["Extracția pietrelor semipre?ioase", "Pia?a de ni?a în minerit"],
       en: ["Extraction of semi-precious stones", "Niche market in mining"]
-    }
-  },
+    }, image: "/poi-images/rw-maramagambo-mining-economic-v2.webp"},
   {
     id: "rw-shorongi-quarry-economic-v2",
     type: "industry",
@@ -599,8 +580,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Zúzott követ termel", "Fontos az útépítéshez"],
       ro: ["Produce piatra concasata", "Importanta pentru construcția de drumuri"],
       en: ["Produces crushed stone", "Important for road construction"]
-    }
-  },
+    }, image: "/poi-images/rw-shorongi-quarry-economic-v2.webp"},
   {
     id: "rw-bralirwa-brewery-economic-v2",
     type: "industry",
@@ -623,8 +603,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["1957-ben alapították", "Helyi és nemzetközi sörmárkákat gyárt"],
       ro: ["Fondata în 1957", "Produce marci locale ?i internaționale de bere"],
       en: ["Founded in 1957", "Produces local and international beer brands"]
-    }
-  },
+    }, image: "/poi-images/rw-bralirwa-brewery-economic-v2.webp"},
   {
     id: "rw-sotoma-textile-economic-v2",
     type: "industry",
@@ -647,8 +626,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Egyenruhákat gyárt", "Selymet is feldolgoz"],
       ro: ["Produce uniforme", "De asemenea prelucreaza matasea"],
       en: ["Produces uniforms", "Also processes silk"]
-    }
-  },
+    }, image: "/poi-images/rw-sotoma-textile-economic-v2.webp"},
   {
     id: "rw-pharmalab-economic-v2",
     type: "industry",
@@ -671,8 +649,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Támogatja az egészségügyi rendszert", "Orvosi fogyóeszközök gyártása"],
       ro: ["Sprijina sistemul de sanatate", "Producția de consumabile medicale"],
       en: ["Supports the healthcare system", "Manufacturing of medical consumables"]
-    }
-  },
+    }, image: "/poi-images/rw-pharmalab-economic-v2.webp"},
   {
     id: "rw-kigali-dryport-economic-v2",
     type: "port",
@@ -695,8 +672,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       hu: ["Modern logisztikai központ", "Csökkenti a szállítási költségeket"],
       ro: ["Centru logistic modern", "Reduce costurile de transport"],
       en: ["Modern logistics hub", "Reduces transport costs"]
-    }
-  },
+    }, image: "/poi-images/rw-kigali-dryport-economic-v2.webp"},
   {
     id: "rw-bugesera-mining-economic-v2",
     type: "industry",

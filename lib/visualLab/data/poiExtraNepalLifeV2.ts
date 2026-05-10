@@ -18,8 +18,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["1932-ben alapították.", "Lalitpurban található.", "Több mint 800 állatnak ad otthont.", "Népszerű családi kirándulóhely."],
       ro: ["Fondată în 1932.", "Situată în Lalitpur.", "Găzduiește peste 800 de animale.", "Destinație populară pentru familii."],
       en: ["Founded in 1932.", "Located in Lalitpur.", "Houses over 800 animals.", "Popular family destination."]
-    }
-  },
+    }, image: "/poi-images/central-zoo-life-v2.webp"},
   {
     id: "kathmandu-fun-park-life-v2",
     type: "kid-friendly",
@@ -37,8 +36,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["A Bhrikuti Mandap mellett található.", "Klasszikus vidámparki játékok.", "Helyi utcai ételek kaphatók.", "Különösen hétvégén népszerű."],
       ro: ["Situat central la Bhrikuti Mandap.", "Atracții clasice.", "Mâncare stradală locală disponibilă.", "Foarte aglomerat în weekenduri."],
       en: ["Centrally located at Bhrikuti Mandap.", "Classic amusement rides.", "Local street food available.", "Especially crowded on weekends."]
-    }
-  },
+    }, image: "/poi-images/kathmandu-fun-park-life-v2.webp"},
   {
     id: "ilam-tea-gardens-life-v2",
     type: "agriculture",
@@ -56,8 +54,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["Nepál legnagyobb teatermelő régiója.", "Hagyományos teakészítési eljárások.", "Az ország keleti részén fekszik.", "Népszerű agroturisztikai célpont."],
       ro: ["Cea mai mare regiune de ceai din Nepal.", "Cultivarea ceaiului ortodox.", "Situată în estul țării.", "Destinație populară pentru agroturism."],
       en: ["Nepal's largest tea-producing region.", "Orthodox tea cultivation.", "Located in the eastern part of the country.", "Popular agrotourism destination."]
-    }
-  },
+    }, image: "/poi-images/ilam-tea-gardens-life-v2.webp"},
   {
     id: "godawari-botanical-garden-life-v2",
     type: "park",
@@ -75,8 +72,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["1962-ben nyitották meg.", "Több mint 500 növényfaj.", "Híres a rododendronokról és orchideákról.", "Nepál legnagyobb botanikus kertje."],
       ro: ["Deschis în 1962.", "Peste 500 de specii de plante.", "Faimoasă pentru rododendroni și orhidee.", "Cea mai mare grădină botanică din Nepal."],
       en: ["Opened in 1962.", "Over 500 plant species.", "Famous for rhododendrons and orchids.", "Largest botanical garden in Nepal."]
-    }
-  },
+    }, image: "/poi-images/godawari-botanical-garden-life-v2.webp"},
   {
     id: "lumbini-crane-sanctuary-life-v2",
     type: "wildlife-area",
@@ -94,8 +90,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["A veszélyeztetett antigonédarut védi.", "A Lumbini mesterterv része.", "Globális jelentőségű vizes élőhely.", "Népszerű madármegfigyelő hely."],
       ro: ["Protejează cocorul Sarus pe cale de dispariție.", "Integrat în zona planului director Lumbini.", "Zonă umedă de importanță globală.", "Popular pentru observarea păsărilor."],
       en: ["Protects the endangered Sarus crane.", "Integrated into the Lumbini Masterplan area.", "Wetland of global importance.", "Popular for bird watching."]
-    }
-  },
+    }, image: "/poi-images/lumbini-crane-sanctuary-life-v2.webp"},
   {
     id: "phulchowki-bird-watching-area-life-v2",
     type: "wildlife-area",
@@ -113,8 +108,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["A Katmandu-völgy legmagasabb pontja (2782 m).", "Több mint 300 madárfaj otthona.", "A ritka tüskés rigótimália is megtalálható itt.", "Sűrű szubtrópusi erdők borítják."],
       ro: ["Cel mai înalt punct din Valea Kathmandu (2.782 m).", "Găzduiește peste 300 de specii de păsări.", "Aici se găsește rara pasăre Spiny Babbler.", "Păduri subtropicale dense."],
       en: ["Highest point in the Kathmandu Valley (2,782 m).", "Home to over 300 bird species.", "Rare Spiny Babbler can be found here.", "Dense subtropical forests."]
-    }
-  },
+    }, image: "/poi-images/phulchowki-bird-watching-area-life-v2.webp"},
   {
     id: "parsa-national-park-life-v2",
     type: "wildlife-area",
@@ -132,8 +126,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["1984-ben alapították vadvédelmi területként.", "2017-ben nemzeti parkká nyilvánították.", "Közvetlenül határos a Chitwan Nemzeti Parkkal.", "A vadon élő elefántok fontos élőhelye."],
       ro: ["Fondat în 1984 ca rezervație naturală.", "A devenit parc național în 2017.", "Învecinat direct cu Parcul Național Chitwan.", "Habitat important pentru elefanții sălbatici."],
       en: ["Established in 1984 as a wildlife reserve.", "Upgraded to a national park in 2017.", "Directly adjacent to Chitwan National Park.", "Important habitat for wild elephants."]
-    }
-  },
+    }, image: "/poi-images/parsa-national-park-life-v2.webp"},
   {
     id: "banke-national-park-life-v2",
     type: "wildlife-area",
@@ -151,8 +144,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["2010-ben alapították.", "Fontos tigris-folyosó.", "Több mint 550 négyzetkilométeren terül el.", "A Terai Arc tájegység része."],
       ro: ["Fondat în 2010.", "Coridor important pentru tigri.", "Se întinde pe 550 de kilometri pătrați.", "Parte a peisajului Terai Arc."],
       en: ["Established in 2010.", "Important tiger corridor.", "Spans 550 square kilometers.", "Part of the Terai Arc Landscape."]
-    }
-  },
+    }, image: "/poi-images/banke-national-park-life-v2.webp"},
   {
     id: "khaptad-national-park-life-v2",
     type: "wildlife-area",
@@ -170,8 +162,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["A Khaptad Baba Asram otthona.", "Ritka gyógynövények nőnek itt.", "Leopárdoknak és feketemedvéknek ad otthont.", "22 nyitott legelővel (Patan) rendelkezik."],
       ro: ["Căminul Ashramului Khaptad Baba.", "Aici cresc plante medicinale rare.", "Găzduiește leoparzi și urși negri.", "22 de pășuni deschise (Patan)."],
       en: ["Home of the Khaptad Baba Ashram.", "Rare medicinal herbs grow here.", "Harbors leopards and black bears.", "Features 22 open pastures (Patans)."]
-    }
-  },
+    }, image: "/poi-images/khaptad-national-park-life-v2.webp"},
   {
     id: "api-nampa-conservation-area-life-v2",
     type: "wildlife-area",
@@ -189,8 +180,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["Az Api és a Nampa hegyekről nevezték el.", "Hópárduc élőhely.", "Indiával és Tibettel határos.", "Magas biológiai sokféleség az elszigetelt fekvés miatt."],
       ro: ["Numit după munții Api și Nampa.", "Habitat al leopardului de zăpadă.", "Se învecinează cu India și Tibet.", "Biodiversitate ridicată datorită izolării."],
       en: ["Named after the Api and Nampa mountains.", "Snow leopard habitat.", "Borders India and Tibet.", "High biodiversity due to its isolated location."]
-    }
-  },
+    }, image: "/poi-images/api-nampa-conservation-area-life-v2.webp"},
   {
     id: "manaslu-conservation-area-life-v2",
     type: "wildlife-area",
@@ -208,8 +198,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["1663 négyzetkilométeres területet fed le.", "33 emlősfajnak ad otthont.", "1998-ban hozták létre.", "A közösségi alapú ökoturizmust támogatja."],
       ro: ["Acoperă o suprafață de 1.663 km².", "Găzduiește 33 de specii de mamifere.", "Fondată în 1998.", "Promovează ecoturismul comunitar."],
       en: ["Covers an area of 1,663 sq km.", "Home to 33 species of mammals.", "Established in 1998.", "Promotes community-based ecotourism."]
-    }
-  },
+    }, image: "/poi-images/manaslu-conservation-area-life-v2.webp"},
   {
     id: "gaurishankar-conservation-area-life-v2",
     type: "wildlife-area",
@@ -227,8 +216,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["Összeköti a Langtang és a Sagarmatha parkokat.", "Gazdag vörös macskamedve-populációban.", "34 különböző falu található benne.", "A Gaurishankar hegyről nevezték el."],
       ro: ["Conectează Langtang și Sagarmatha.", "Bogat în panda roșii.", "Conține 34 de sate diferite.", "Numit după muntele Gaurishankar."],
       en: ["Connects Langtang and Sagarmatha.", "Rich in red pandas.", "Contains 34 different villages.", "Named after the Gaurishankar mountain."]
-    }
-  },
+    }, image: "/poi-images/gaurishankar-conservation-area-life-v2.webp"},
   {
     id: "krishnasar-conservation-area-life-v2",
     type: "wildlife-area",
@@ -246,8 +234,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["Fő fókusza az indiai antilop (Blackbuck).", "Sikeres populáció-helyreállítási program.", "Mindössze 16,95 négyzetkilométeres.", "2009-ben alapították."],
       ro: ["Axat pe antilopa indiană (Blackbuck).", "Program de recuperare a populației reușit.", "Are doar 16,95 kilometri pătrați.", "Fondată în 2009."],
       en: ["Focuses on the Blackbuck antelope.", "Successful population recovery program.", "Only 16.95 square kilometers in size.", "Established in 2009."]
-    }
-  },
+    }, image: "/poi-images/krishnasar-conservation-area-life-v2.webp"},
   {
     id: "dhorpatan-hunting-reserve-life-v2",
     type: "wildlife-area",
@@ -265,8 +252,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["Az egyetlen vadászrezervátum Nepálban.", "Szigorú kvóták a kékjuhok vadászatára.", "A tájat mocsárvidékek és erdők jellemzik.", "2850 és 5500 méter közötti tengerszint feletti magasság."],
       ro: ["Singura rezervație de vânătoare din Nepal.", "Cote stricte pentru vânătoarea de oi albastre.", "Peisaj dominat de mlaștini și păduri.", "Altitudine între 2.850 și 5.500 de metri."],
       en: ["The only hunting reserve in Nepal.", "Strict quotas for hunting blue sheep.", "Landscape characterized by marshland and forests.", "Altitude ranges from 2,850 to 5,500 meters."]
-    }
-  },
+    }, image: "/poi-images/dhorpatan-hunting-reserve-life-v2.webp"},
   {
     id: "mustang-apple-orchards-life-v2",
     type: "agriculture",
@@ -284,8 +270,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["A központja Marpha falu.", "Híres az almaborról és a szárított almáról.", "Az alma több mint 2600 méteres magasságban terem.", "Megélhetést biztosít a helyi thakali népnek."],
       ro: ["Centrul este satul Marpha.", "Faimoase pentru cidru și mere uscate.", "Merele cresc la peste 2.600 de metri.", "Oferă un mijloc de trai pentru poporul local Thakali."],
       en: ["Centered around the village of Marpha.", "Famous for apple cider and dried apples.", "Apples grow at over 2,600 meters.", "Provides a livelihood for the local Thakali people."]
-    }
-  },
+    }, image: "/poi-images/mustang-apple-orchards-life-v2.webp"},
   {
     id: "gulmi-coffee-plantations-life-v2",
     type: "agriculture",
@@ -303,8 +288,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["A nepáli kávé úttörő régiója.", "Kizárólag organikus termesztés.", "Csúcsminőségű arabica kávébabok.", "Több ezer kisgazdálkodót támogat."],
       ro: ["Regiune pionier pentru cafeaua nepaleză.", "Cultivare exclusiv organică.", "Boabe Arabica de calitate superioară.", "Sprijină mii de mici fermieri."],
       en: ["Pioneer region for Nepali coffee.", "Exclusively organic cultivation.", "Top-grade Arabica beans.", "Supports thousands of smallholder farmers."]
-    }
-  },
+    }, image: "/poi-images/gulmi-coffee-plantations-life-v2.webp"},
   {
     id: "whoopee-land-amusement-park-life-v2",
     type: "kid-friendly",
@@ -322,8 +306,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["A völgy legnagyobb modern víziparkja.", "Életnagyságú dinoszaurusz-replikák.", "Hullámmedence és óriáscsúszdák.", "Főleg nyáron vonz nagy tömegeket."],
       ro: ["Cel mai mare parc acvatic modern din vale.", "Replici de dinozauri în mărime naturală.", "Piscină cu valuri și tobogane uriașe.", "Atrage mulțimi mari, mai ales vara."],
       en: ["Largest modern water park in the valley.", "Life-size dinosaur replicas.", "Wave pool and giant slides.", "Draws large crowds, especially in summer."]
-    }
-  },
+    }, image: "/poi-images/whoopee-land-amusement-park-life-v2.webp"},
   {
     id: "kulekhani-fish-farms-life-v2",
     type: "agriculture",
@@ -341,8 +324,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["Nepál legnagyobb víztározója (Indra Sarobar).", "A kereskedelmi pisztrángtenyésztésről ismert.", "Biztosítja a helyi halászok megélhetését.", "Népszerű pihenőövezet is egyben."],
       ro: ["Cel mai mare lac de acumulare din Nepal (Indra Sarobar).", "Faimos pentru creșterea comercială a păstrăvului.", "Asigură existența pescarilor locali.", "De asemenea, o zonă de recreere populară."],
       en: ["Largest reservoir in Nepal (Indra Sarobar).", "Famous for commercial trout farming.", "Secures the livelihood of local fishermen.", "Also a popular recreational area."]
-    }
-  },
+    }, image: "/poi-images/kulekhani-fish-farms-life-v2.webp"},
   {
     id: "ostrich-nepal-farm-life-v2",
     type: "agriculture",
@@ -360,8 +342,7 @@ export const poiExtraNepalLifeV2: POI[] = [
       hu: ["Az első kereskedelmi struccfarm Nepálban.", "A Rupandehi kerületi Gangoliyában található.", "Több ezer struccnak ad otthont.", "Vezetett túrákat kínál a látogatóknak."],
       ro: ["Prima fermă comercială de struți din Nepal.", "Situată în Gangoliya, Rupandehi.", "Găzduiește mii de struți.", "Oferă tururi ghidate pentru vizitatori."],
       en: ["First commercial ostrich farm in Nepal.", "Located in Gangoliya, Rupandehi.", "Houses thousands of ostriches.", "Offers guided tours for visitors."]
-    }
-  },
+    }, image: "/poi-images/ostrich-nepal-farm-life-v2.webp"},
   {
     id: "chitlang-organic-village-life-v2",
     type: "agriculture",

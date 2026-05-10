@@ -24,8 +24,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Erbaut von König Herodes dem Großen zwischen 37 und 31 v. Chr.", "Höhe des Felsplateaus etwa 450 Meter über dem Toten Meer.", "Belagerung durch die römische Legio X Fretensis im Jahr 73 n. Chr.", "Rund 960 jüdische Verteidiger fanden den Tod (laut Josephus).", "Die römische Belagerungsrampe ist bis heute erhalten.", "2001 zum UNESCO-Welterbe erklärt.", "Beherbergte luxuriöse Paläste mit römischen Bädern und Mosaiken.", "Symbol jüdischen Widerstands; israelische Soldaten leisten hier Eid."]
-    }
-  },
+    }, image: "/poi-images/masada-history-v2.webp"},
   {
     id: "western-wall-history-v2",
     type: "historical-site",
@@ -49,8 +48,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Errichtet um 19 v. Chr. unter König Herodes dem Großen.", "Der Zweite Tempel wurde 70 n. Chr. von den Römern unter Titus zerstört.", "Sichtbarer Mauerteil ist 57 m lang und etwa 19 m hoch.", "Größter Stein („Western Stone“) wiegt rund 570 Tonnen.", "Von 1948 bis 1967 unter jordanischer Kontrolle, Juden untersagt.", "Nach dem Sechs-Tage-Krieg 1967 wieder zugänglich.", "Über 1 Million handgeschriebene Gebetszettel jährlich in den Ritzen.", "Geschlechtertrennung beim Gebet seit der Mischna-Zeit."]
-    }
-  },
+    }, image: "/poi-images/western-wall-history-v2.webp"},
   {
     id: "tel-megiddo-history-v2",
     type: "ruin",
@@ -74,8 +72,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["26 übereinander liegende Siedlungsschichten von 7000 v. Chr. bis 350 v. Chr.", "Pharao Thutmosis III. siegte hier 1457 v. Chr. (erste dokumentierte Schlacht).", "König Salomo befestigte die Stadt im 10. Jahrhundert v. Chr.", "Wassersystem mit 36 m tiefem Schacht und 70 m langem Tunnel.", "Namensgeber für das biblische „Armageddon“ (Offb 16,16).", "2005 zum UNESCO-Welterbe erklärt.", "Über 30 historische Schlachten in der Megiddo-Ebene gezählt.", "Ab 1903 systematisch ausgegraben, seither permanente Forschung."]
-    }
-  },
+    }, image: "/poi-images/tel-megiddo-history-v2.webp"},
   {
     id: "caesarea-maritima-history-v2",
     type: "ruin",
@@ -99,8 +96,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Erbaut zwischen 22 und 10 v. Chr. von Herodes dem Großen.", "Hauptstadt der römischen Provinz Judäa ab 6 n. Chr.", "Pontius-Pilatus-Inschrift hier 1961 gefunden (einziger archäologischer Beleg).", "Künstlicher Hafen Sebastos – größter Tiefseehafen der Antike.", "Heimat der berühmten Bibliothek des Kirchenvaters Origenes (3. Jh.).", "Aquädukt aus römischer Zeit erstreckt sich über 9 Kilometer.", "1265 vom Mamluken-Sultan Baibars zerstört.", "Hippodrom für 10.000 Zuschauer und römisches Theater erhalten."]
-    }
-  },
+    }, image: "/poi-images/caesarea-maritima-history-v2.webp"},
   {
     id: "qumran-caves-history-v2",
     type: "historical-site",
@@ -124,8 +120,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Erste Schriftrollen 1947 vom Beduinen Mohammed edh-Dhib entdeckt.", "Bis 1956 wurden 11 Höhlen mit Manuskripten erforscht.", "Rund 900 Schriftrollen und Fragmente sichergestellt.", "Jesaja-Rolle ist 1.000 Jahre älter als alle vorher bekannten Texte.", "Siedlung der Essener-Sekte zwischen 134 v. Chr. und 68 n. Chr.", "Versteck vor dem römischen Vormarsch im Ersten Jüdischen Krieg.", "Höhle 4 enthielt allein 15.000 Manuskript-Fragmente.", "Datierung mittels Radiokarbon und Paläographie 250 v. Chr. – 70 n. Chr."]
-    }
-  },
+    }, image: "/poi-images/qumran-caves-history-v2.webp"},
   {
     id: "tower-of-david-history-v2",
     type: "monument",
@@ -149,8 +144,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Drei herodianische Türme um 24 v. Chr. (Phasael, Hippicus, Mariamne).", "Phasael-Turm überlebte die Zerstörung Jerusalems 70 n. Chr.", "Namensgebung „Davidsturm“ stammt aus byzantinischer Zeit (5. Jh.).", "Sultan Süleyman fügte 1535 das markante Minarett hinzu.", "Über 2.700 Jahre durchgehende Bautätigkeit nachgewiesen.", "Während des britischen Mandats (1917-1948) als Kunstmuseum genutzt.", "Heute Sitz des Museums für die Geschichte Jerusalems (seit 1989).", "Standort der spektakulären „Night Spectacular“ Lichtshow."]
-    }
-  },
+    }, image: "/poi-images/tower-of-david-history-v2.webp"},
   {
     id: "holy-sepulchre-history-v2",
     type: "historical-site",
@@ -174,8 +168,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Erbaut 326 n. Chr. unter Kaiser Konstantin und Kaiserin Helena.", "Helena entdeckte hier angeblich das wahre Kreuz Christi.", "614 von den persischen Sassaniden unter Chosrau II. geplündert.", "1009 vom Fatimiden-Kalifen Al-Hakim zerstört.", "Kreuzfahrer bauten 1149 die heutige Hauptstruktur wieder auf.", "Sechs christliche Konfessionen teilen sich seit 1853 die Kirche.", "Schlüssel seit 1187 von muslimischen Familien (Joudeh und Nuseibeh) verwahrt.", "„Immovable Ladder“ über dem Eingang seit mindestens 1728 unverändert."]
-    }
-  },
+    }, image: "/poi-images/holy-sepulchre-history-v2.webp"},
   {
     id: "beit-shean-history-v2",
     type: "ruin",
@@ -199,8 +192,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Über 6.000 Jahre durchgehende Besiedlung nachgewiesen.", "Ägyptischer Verwaltungssitz im 15.-12. Jahrhundert v. Chr.", "König Sauls Leichnam hier von Philistern aufgehängt (1010 v. Chr.).", "Hauptstadt der hellenistischen Dekapolis als „Skythopolis“.", "Bevölkerung in römisch-byzantinischer Zeit auf 30.000-40.000 angewachsen.", "Erdbeben vom 18. Januar 749 n. Chr. zerstörte die Stadt.", "Theater fasste 7.000 Zuschauer; eines der besterhaltenen Israels.", "Cardo-Säulenstraße mit Originalsäulen rekonstruiert."]
-    }
-  },
+    }, image: "/poi-images/beit-shean-history-v2.webp"},
   {
     id: "avdat-history-v2",
     type: "ruin",
@@ -224,8 +216,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Im 3. Jahrhundert v. Chr. von den Nabatäern gegründet.", "Wichtiger Halt auf der Weihrauchstraße von Petra nach Gaza.", "Benannt nach König Obodas II. (30-9 v. Chr.).", "106 n. Chr. von Kaiser Trajan in die Provinz Arabia eingegliedert.", "Byzantinischer Weinbau auf Terrassen mit ausgeklügeltem Wassersystem.", "Persische Eroberung 614 und Erdbeben 749 markierten das Ende.", "2005 zum UNESCO-Welterbe als Teil der Weihrauchstraße erklärt.", "Akropolis auf einem 65 m hohen Felsvorsprung im Negev."]
-    }
-  },
+    }, image: "/poi-images/avdat-history-v2.webp"},
   {
     id: "tel-hazor-history-v2",
     type: "ruin",
@@ -249,8 +240,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Größte Stadt im biblischen Israel (über 80 Hektar Fläche).", "In den Mari-Archiven (18. Jh. v. Chr.) als Handelsmetropole erwähnt.", "In Josua 11,10 als „Haupt aller dieser Königreiche“ bezeichnet.", "Brandzerstörung durch Josua um 1230 v. Chr. archäologisch belegt.", "Befestigt von König Salomo im 10. Jh. v. Chr. (1. Könige 9,15).", "732 v. Chr. von Tiglat-Pileser III. von Assyrien endgültig zerstört.", "Seit 2005 UNESCO-Welterbe als Teil der biblischen Tells.", "Wassersystem mit 40 m tiefem Schacht aus dem 9. Jh. v. Chr."]
-    }
-  },
+    }, image: "/poi-images/tel-hazor-history-v2.webp"},
   {
     id: "akko-old-city-walls-history-v2",
     type: "historical-site",
@@ -274,8 +264,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt des Kreuzfahrer-Königreichs Jerusalem ab 1191.", "Fall an die Mamluken am 18. Mai 1291 (Ende der Kreuzfahrerzeit).", "Heutige Mauern größtenteils aus osmanischer Zeit (18. Jh.).", "1799 erfolgreich gegen Napoleon Bonapartes Belagerung verteidigt.", "Ahmad Pasha al-Jazzar leitete die Verteidigung gegen Napoleon.", "Mauerdicke an manchen Stellen über 9 Meter.", "Über 4.000 Jahre durchgehende Befestigungsgeschichte.", "2001 zum UNESCO-Welterbe erklärt (Altstadt von Akko)."]
-    }
-  },
+    }, image: "/poi-images/akko-old-city-walls-history-v2.webp"},
   {
     id: "tel-lachish-history-v2",
     type: "ruin",
@@ -299,8 +288,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Nach Jerusalem zweitwichtigste Stadt im Königreich Juda.", "701 v. Chr. von Sanherib von Assyrien erobert.", "Belagerung auf 25 m langen Ninive-Reliefs verewigt (heute British Museum).", "Erste archäologisch dokumentierte Belagerungsrampe (701 v. Chr.).", "587 v. Chr. von Nebukadnezar II. von Babylon endgültig zerstört.", "„Lachisch-Briefe“ aus 587 v. Chr. dokumentieren die letzten Tage.", "Sechskammertor von König Rehabeam (10. Jh. v. Chr.) erhalten.", "2014 zum UNESCO-Welterbe als biblischer Tell erklärt."]
-    }
-  },
+    }, image: "/poi-images/tel-lachish-history-v2.webp"},
   {
     id: "apollonia-arsuf-history-v2",
     type: "ruin",
@@ -324,8 +312,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Im 6. Jh. v. Chr. von Phöniziern als Reschef-Heiligtum gegründet.", "Wichtiges Zentrum der römischen Purpurfärberei (Murex-Schnecken).", "640 n. Chr. von Arabern erobert und in Arsuf umbenannt.", "Schlacht von Arsuf am 7. September 1191: Richard Löwenherz vs. Saladin.", "1265 nach 40-tägiger Belagerung von Sultan Baibars zerstört.", "Kreuzfahrerburg (1241) auf 30 m hoher Mittelmeerklippe.", "Nationalpark seit 2002 mit gut erhaltenen Mauern.", "Strategischer Punkt der Via Maris zwischen Caesarea und Jaffa."]
-    }
-  },
+    }, image: "/poi-images/apollonia-arsuf-history-v2.webp"},
   {
     id: "nimrod-fortress-history-v2",
     type: "ruin",
@@ -349,8 +336,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1228 vom ayyubidischen Prinzen Al-Aziz Uthman erbaut.", "Größte mittelalterliche Festung Israels (420 × 150 Meter).", "Liegt auf 815 Metern Höhe an den Hängen des Hermon.", "Unter Mamluken-Sultan Baibars nach 1260 erweitert.", "Verteidigte die strategische Straße Damaskus-Tyrus.", "Nach Fall Akkos 1291 militärisch bedeutungslos.", "Erdbeben von 1759 zerstörte große Teile.", "Seit 1989 israelischer Nationalpark (Mivtzar Nimrod)."]
-    }
-  },
+    }, image: "/poi-images/nimrod-fortress-history-v2.webp"},
   {
     id: "beit-shearim-history-v2",
     type: "ruin",
@@ -374,8 +360,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Sitz des Sanhedrin im 2.-4. Jahrhundert n. Chr.", "Rabbi Jehuda haNassi (Mischna-Redaktor) hier um 217 n. Chr. begraben.", "Über 300 reich verzierte Sarkophage in den Katakomben.", "Inschriften in Hebräisch, Aramäisch, Griechisch und Palmyrenisch.", "Bevorzugte Bestattungsstätte der jüdischen Diaspora.", "352 n. Chr. während des Gallus-Aufstands zerstört.", "2015 zum UNESCO-Welterbe erklärt.", "Über 30 Katakombenkomplexe systematisch erforscht."]
-    }
-  },
+    }, image: "/poi-images/beit-shearim-history-v2.webp"},
   {
     id: "capernaum-history-v2",
     type: "ruin",
@@ -399,8 +384,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Im 1. Jh. n. Chr. wohlhabende Fischerstadt mit 1.500 Einwohnern.", "Römische Zollstation an der Via Maris (Mt 9,9).", "Von Jesus als „eigene Stadt“ bezeichnet (Mt 9,1).", "Berufungsort der Apostel Petrus, Andreas, Jakobus, Johannes und Matthäus.", "Synagoge des 4./5. Jh. auf den Basaltfundamenten aus Jesu Zeit.", "Vermutetes Haus des Petrus 1968 freigelegt; oktagonale Kirche darüber.", "Im 7./8. Jh. durch Erdbeben zerstört und aufgegeben.", "Heute Eigentum der Franziskaner und der Griechisch-Orthodoxen Kirche."]
-    }
-  },
+    }, image: "/poi-images/capernaum-history-v2.webp"},
   {
     id: "horns-of-hattin-history-v2",
     type: "battlefield",
@@ -424,8 +408,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Schlacht am 4. Juli 1187 zwischen Saladin und den Kreuzfahrern.", "Über 18.000 Kreuzfahrer gefallen oder gefangen.", "Saladin schnitt die Wasserquellen ab und setzte das Land in Brand.", "Tempelritter-Großmeister Gérard de Ridefort gefangengenommen.", "König Guy von Lusignan in die Gefangenschaft Saladins geraten.", "Verlust des „Wahren Kreuzes“ aus der Grabeskirche.", "Drei Monate später (Oktober 1187) Saladins Rückeroberung Jerusalems.", "Anlass für Papst Gregors VIII. Aufruf zum Dritten Kreuzzug."]
-    }
-  },
+    }, image: "/poi-images/horns-of-hattin-history-v2.webp"},
   {
     id: "belvoir-fortress-history-v2",
     type: "ruin",
@@ -449,8 +432,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1168 vom Johanniterorden auf 500 m Höhe errichtet.", "Erstes und perfektes Beispiel konzentrischer Burgenarchitektur.", "Saladin belagerte 18 Monate erfolglos nach Hattin 1187.", "Verteidiger ergaben sich 1189 nach erfolgreicher Untergrabung.", "Konnten ehrenhaft nach Tyrus abziehen.", "1220 von Sultan Al-Muazzam geschleift.", "Von Hochebene 500 m Sicht ins Jordantal nach Osten.", "Hebräischer Name Kochav HaJarden („Stern des Jordans“)."]
-    }
-  },
+    }, image: "/poi-images/belvoir-fortress-history-v2.webp"},
   {
     id: "herodium-history-v2",
     type: "ruin",
@@ -474,8 +456,7 @@ export const poiExtraIsraelHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Erbaut zwischen 23 und 15 v. Chr. von Herodes dem Großen.", "Einziges nach seinem Erbauer benanntes Bauwerk Herodes'.", "Künstlich aufgeschütteter Hügel mit kegelförmiger Festung.", "Theater für 450 Zuschauer mit aufwendigen Fresken.", "Herodes' Grab 2007 von Ehud Netzer nach 35 Jahren Suche entdeckt.", "Festung im Ersten Jüdischen Krieg (66-72 n. Chr.) genutzt.", "Während des Bar-Kochba-Aufstands (132-135 n. Chr.) erneut Festung.", "Tunnelnetzwerk der Bar-Kochba-Aufständischen erhalten."]
-    }
-  },
+    }, image: "/poi-images/herodium-history-v2.webp"},
   {
     id: "valley-of-elah-history-v2",
     type: "battlefield",

@@ -245,15 +245,15 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
     description: {
-      de: "Ein ehrgeiziges Projekt für erneuerbare Energien in der Wüste, das die Abhängigkeit Dschibutis von Energieimporten verringert.",
+      de: "Die Grand-Bara-Wüste dient als Standort für bedeutende Solarenergieprojekte zur Stromversorgung des Landes.",
       hu: "Nagyszabású sivatagi megújuló energia projekt, amely csökkenti Dzsibuti energiaimport-függőségét.",
-      ro: "Un proiect ambițios de energie regenerabilă în deșert, care reduce dependența Djibouti-ului de importurile de energie.",
+      ro: "O vastă câmpie deșertică utilizată pentru proiecte de energie solară, valorificând radiația solară intensă din regiune.",
       en: "An ambitious renewable energy project in the desert, reducing Djibouti's dependence on energy imports."
     },
     facts: {
-      de: ["Grüne Energie", "Photovoltaik-Großanlage"],
+      de: ["Großes Solarkraftwerk", "Wüstenstandort", "Energiewende Djiboutis"],
       hu: ["Zöld energia", "Nagy fotovoltaikus létesítmény"],
-      ro: ["Energie verde", "Instalație fotovoltaică de mari dimensiuni"],
+      ro: ["Regiune deșertică aridă.", "Potențial mare pentru energie solară.", "Proiecte energetice durabile."],
       en: ["Green energy", "Large-scale photovoltaic plant"]
     }
   },
@@ -306,15 +306,15 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
     description: {
-      de: "Ein schnell wachsendes Industriegebiet am Rande der Hauptstadt, das zahlreiche Fabriken und Logistikunternehmen beherbergt.",
+      de: "Die Industriezone PK12 bei Djibouti-Stadt ist ein zentraler Umschlagplatz für Handel und Produktion.",
       hu: "Gyorsan növekvő ipari terület a főváros szélén, amely számos gyárnak és logisztikai cégnek ad otthont.",
-      ro: "O zonă industrială cu creștere rapidă la marginea capitalei, care găzduiește numeroase fabrici și companii de logistică.",
+      ro: "Zona industrială situată strategic la periferia orașului Djibouti, facilitând activitățile de producție și distribuție.",
       en: "A rapidly growing industrial area on the outskirts of the capital, home to numerous factories and logistics companies."
     },
     facts: {
-      de: ["Zentrum der verarbeitenden Industrie", "Logistik-Hub"],
+      de: ["Industrie-Hotspot", "Logistikzentrum", "Wirtschaftsmotor"],
       hu: ["Feldolgozóipari központ", "Logisztikai csomópont"],
-      ro: ["Centru al industriei prelucrătoare", "Hub logistic"],
+      ro: ["Hub industrial cheie.", "Acces facil la rețelele de transport.", "Centru pentru dezvoltare economică."],
       en: ["Manufacturing center", "Logistics hub"]
     }, image: "/poi-images/pk12-industrial-zone-economic-v2.webp"},
   {
@@ -428,13 +428,13 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
     description: {
-      de: "Eine der größten Freihandelszonen Afrikas, die ausländischen Unternehmen attraktive Bedingungen für Produktion und Handel bietet.",
+      de: "Diese Freihandelszone am Roten Meer ist eine der größten ihrer Art auf dem afrikanischen Kontinent.",
       hu: "Afrika egyik legnagyobb szabadkereskedelmi övezete, amely vonzó feltételeket kínál a külföldi cégeknek a gyártáshoz és kereskedelemhez.",
       ro: "Una dintre cele mai mari zone de comerț liber din Africa, oferind companiilor străine condiții atractive pentru producție și comerț.",
       en: "One of Africa's largest free trade zones, offering foreign companies attractive conditions for manufacturing and trade."
     },
     facts: {
-      de: ["Steuervorteile", "Internationaler Wirtschaftshub"],
+      de: ["Internationale Handelsdrehscheibe", "Direkt am Roten Meer", "Wirtschaftszentrum"],
       hu: ["Adókedvezmények", "Nemzetközi gazdasági csomópont"],
       ro: ["Avantaje fiscale", "Hub economic internațional"],
       en: ["Tax incentives", "International economic hub"]
@@ -459,15 +459,15 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
     description: {
-      de: "Ein spezialisierter Hafen für den Import und Export von Flüssiggas und anderen chemischen Produkten.",
+      de: "Der Hafen von Damerjog ist auf den Umschlag von Flüssiggütern wie Öl spezialisiert.",
       hu: "Speciális kikötő a folyékony gáz és más vegyipari termékek importjára és exportjára.",
-      ro: "Un port specializat pentru importul și exportul de gaz lichid și alte produse chimice.",
+      ro: "Terminal portuar specializat în manipularea mărfurilor lichide în vrac, esențial pentru importul și exportul de petrol și combustibili.",
       en: "A specialized port for the import and export of liquid gas and other chemical products."
     },
     facts: {
-      de: ["LNG-Umschlag", "Energielogistik-Zentrum"],
+      de: ["Flüssiggut-Terminal", "Spezialhafen", "Strategische Lage"],
       hu: ["LNG átrakodás", "Energia-logisztikai központ"],
-      ro: ["Manipulare GNL", "Centru de logistică energetică"],
+      ro: ["Terminal portuar modern.", "Specializat pe mărfuri lichide.", "Infrastructură energetică strategică."],
       en: ["LNG handling", "Energy logistics center"]
     }, image: "/poi-images/damerjog-liquid-bulk-port-economic-v2.webp"},
   {
@@ -489,15 +489,15 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     }
   },
     description: {
-      de: "Der Abbau von Perlit, einem vulkanischen Gestein, das weltweit in der Bauindustrie und im Gartenbau verwendet wird.",
+      de: "In der Ghoubbet-Region wird Perlit abgebaut, ein wertvolles vulkanisches Glas für industrielle Zwecke.",
       hu: "Perlit bányászata, amely egy vulkáni kőzet, és világszerte használják az építőiparban és a kertészetben.",
-      ro: "Exploatarea perlitei, o rocă vulcanică utilizată la nivel mondial în industria construcțiilor și în horticultură.",
+      ro: "Locația unei exploatări miniere de perlit, un material vulcanic utilizat în diverse industrii, situată lângă Golful Ghoubbet.",
       en: "Mining of perlite, a volcanic rock used worldwide in the construction industry and horticulture."
     },
     facts: {
-      de: ["Vulkanisches Gestein", "Exportprodukt"],
+      de: ["Perlit-Vorkommen", "Vulkanisches Gestein", "Bergbau"],
       hu: ["Vulkanikus kőzet", "Exporttermék"],
-      ro: ["Rocă vulcanică", "Produs de export"],
+      ro: ["Exploatare de minerale vulcanice.", "Resursă naturală importantă.", "Situată lângă Golful Ghoubbet."],
       en: ["Volcanic rock", "Export product"]
     }, image: "/poi-images/ghoubbet-perlite-mine-economic-v2.webp"},
   {
@@ -582,13 +582,13 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     description: {
       de: "Eine industrielle Anlage zur Herstellung von Stahlprodukten, die für den lokalen Bau- und Infrastruktursektor entscheidend sind.",
       hu: "Stáltermékeket gyártó ipari létesítmény, amely döntő fontosságú a helyi építőipari és infrastrukturális szektor számára.",
-      ro: "O unitate industrială pentru producția de produse siderurgice, crucială pentru sectorul local de construcții și infrastructură.",
+      ro: "Unitate de producție siderurgică destinată procesării oțelului pentru infrastructura locală și regională.",
       en: "An industrial facility for producing steel products, crucial for the local construction and infrastructure sector."
     },
     facts: {
       de: ["Schwerindustrie", "Bewehrungsstahl-Produktion"],
       hu: ["Nehézipar", "Betonacél-gyártás"],
-      ro: ["Industrie grea", "Producție de oțel beton"],
+      ro: ["Fabrică de procesare a oțelului.", "Susține dezvoltarea construcțiilor.", "Industrie grea locală."],
       en: ["Heavy industry", "Reinforcing steel production"]
     }
   },

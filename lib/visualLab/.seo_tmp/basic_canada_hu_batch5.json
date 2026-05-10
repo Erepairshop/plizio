@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "blainville-cities-v2",
+      "description": "Blainville Québec északi partjának gyorsan növekvő külvárosi városa. Montréal vonzáskörzetéhez tartozik, és erős lakóövezeti jellege van.",
+      "facts": ["Montréal északi előterében van", "Gyorsan növekvő város", "Elsősorban lakóövezet"]
+    },
+    {
+      "id": "saint-hyacinthe-cities-v2",
+      "description": "Saint-Hyacinthe a québeci Montérégie egyik fontos mezőgazdasági központja. Az élelmiszer-feldolgozás és az agrárkutatás is erős itt.",
+      "facts": ["Montérégie térségében található", "Mezőgazdasági központ", "Erős élelmiszeripar"]
+    },
+    {
+      "id": "granby-cities-v2",
+      "description": "Granby Québec egyik ismert regionális városa, Montréal keleti oldalán. A környék a Granby Zoo és a közeli tavak miatt is látogatott.",
+      "facts": ["Québecben, Montréal keletén van", "Regionális központ", "A Granby Zoo közelében található"]
+    },
+    {
+      "id": "prince-albert-cities-v2",
+      "description": "Prince Albert Saskatchewan északi kapujának számít a North Saskatchewan folyó mellett. A város fontos kiindulópont az északi erdős és tavakkal teli térségek felé.",
+      "facts": ["A North Saskatchewan folyónál van", "Északi kapuváros", "Az északi térségek felé vezet"]
+    },
+    {
+      "id": "belleville-cities-v2",
+      "description": "Belleville Ontarioban, a Bay of Quinte partján fekszik. Közlekedési és szolgáltatási központ a Toronto és Ottawa közötti sávban.",
+      "facts": ["A Bay of Quinte partján van", "Ontario keleti részén található", "Regionális szolgáltató központ"]
+    },
+    {
+      "id": "sault-ste-marie-cities-v2",
+      "description": "Sault Ste. Marie a Szent Mária-folyó mellett, a Nagy-tavak térségében fekszik. A határváros szerepe és az ipari múltja is meghatározó.",
+      "facts": ["A Szent Mária-folyónál van", "Határváros az USA közelében", "Erős ipari múltja van"]
+    },
+    {
+      "id": "kawartha-lakes-cities-v2",
+      "description": "Kawartha Lakes Ontario tóvidéki területe, sok tóval, csatornával és üdülőhellyel. A vidéki és rekreációs jelleg dominál.",
+      "facts": ["Ontario tóvidékéhez tartozik", "Sok tó és csatorna jellemzi", "Üdülőövezeti térség"]
+    },
+    {
+      "id": "cape-breton-cities-v2",
+      "description": "Cape Breton a Nova Scotia keleti részén fekvő nagy regionális központ. A szigethez kötődő kikötők, bányászati emlékek és tengerparti közösségek formálják.",
+      "facts": ["Nova Scotia keleti részén van", "Cape Breton-szigethez kötődik", "Fontos regionális központ"]
+    },
+    {
+      "id": "clarington-cities-v2",
+      "description": "Clarington a Greater Toronto Area keleti peremén található ontariói önkormányzat. Lakóövezeti és ingázó szerepe miatt fontos a térségben.",
+      "facts": ["Toronto keleti előterében van", "Durham régió része", "Ingázó közösség"]
+    },
+    {
+      "id": "halton-hills-cities-v2",
+      "description": "Halton Hills Ontario nyugati részén, a Greater Toronto Area peremén fekszik. A települést kisebb városok, zöldterületek és falusias részek alkotják.",
+      "facts": ["Toronto nyugati előterében van", "Kisebb városokból áll", "Sok zöldterület jellemzi"]
+    },
+    {
+      "id": "oilsands-pipe-infrastructure-economic-v2",
+      "description": "Az olajhomok vezetékes infrastruktúrája Alberta északi energiatérségének része. Az olaj szállítását köti össze a feldolgozó és exportáló pontokkal.",
+      "facts": ["Alberta olajhomok-régiójához kötődik", "Szállítási hálózat", "Az energiaexportot szolgálja"]
+    },
+    {
+      "id": "st-johns-port-economic-v2",
+      "description": "St. John's kikötője Newfoundland és Labrador legfontosabb tengeri kapcsolatai közé tartozik. A halászat, a teherforgalom és az atlanti kereskedelem is fontos benne.",
+      "facts": ["Newfoundland és Labradorban van", "Atlanti kikötő", "Halászat és teherforgalom is használja"]
+    },
+    {
+      "id": "guelph-manufacturing-hub-economic-v2",
+      "description": "Guelph Ontario egyik erős gyártóipari központja. Az autóipari beszállítás, az élelmiszer-feldolgozás és a gépgyártás is jelen van itt.",
+      "facts": ["Ontarioban található", "Gyártóipari központ", "Autóipari beszállítók is működnek"]
+    },
+    {
+      "id": "fraser-valley-agriculture-logistics-economic-v2",
+      "description": "A Fraser-völgy Brit Columbiában fontos mezőgazdasági és logisztikai térség. A termékeny síkságok a Vancouver felé irányuló ellátást is támogatják.",
+      "facts": ["Brit Columbiában van", "Mezőgazdasági térség", "Vancouver ellátásában szerepet kap"]
+    }
+  ]
+}

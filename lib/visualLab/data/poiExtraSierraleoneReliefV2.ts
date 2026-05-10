@@ -39,8 +39,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Important catchment area for the Rokel River.",
         "Characterized by steep slopes and dense vegetation."
       ]
-    }
-  },
+    }, image: "/poi-images/sula-mountains-relief-v2.webp"},
   {
     id: "kambui-hills-relief-v2",
     type: "mountain",
@@ -79,8 +78,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Provides habitat for rare bird species.",
         "Important for local water regulation."
       ]
-    }
-  },
+    }, image: "/poi-images/kambui-hills-relief-v2.webp"},
   {
     id: "nimini-hills-relief-v2",
     type: "mountain",
@@ -119,8 +117,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Composed of very ancient Precambrian rocks.",
         "Hiking is difficult due to the dense jungle cover."
       ]
-    }
-  },
+    }, image: "/poi-images/nimini-hills-relief-v2.webp"},
   {
     id: "gori-hills-relief-v2",
     type: "mountain",
@@ -199,8 +196,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Important site for local legends and traditions.",
         "Offer sweeping views over the savanna landscape."
       ]
-    }
-  },
+    }, image: "/poi-images/malal-hills-relief-v2.webp"},
   {
     id: "sankan-biriwa-peak-relief-v2",
     type: "mountain",
@@ -239,8 +235,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Surrounded by unique montane grasslands.",
         "A target for ambitious trekking expeditions."
       ]
-    }
-  },
+    }, image: "/poi-images/sankan-biriwa-peak-relief-v2.webp"},
   {
     id: "leicester-peak-relief-v2",
     type: "mountain",
@@ -279,8 +274,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "A popular spot for watching sunsets.",
         "Surrounded by remnants of tropical montane forest."
       ]
-    }
-  },
+    }, image: "/poi-images/leicester-peak-relief-v2.webp"},
   {
     id: "sugar-loaf-mountain-relief-v2",
     type: "mountain",
@@ -319,8 +313,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Important catchment area for Freetown's water supply.",
         "Offers challenging hiking trails to the summit."
       ]
-    }
-  },
+    }, image: "/poi-images/sugar-loaf-mountain-relief-v2.webp"},
   {
     id: "koinadugu-highlands-relief-v2",
     type: "relief",
@@ -359,8 +352,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Center for vegetable cultivation due to the temperatures.",
         "Characterized by hilly terrain and wide valleys."
       ]
-    }
-  },
+    }, image: "/poi-images/koinadugu-highlands-relief-v2.webp"},
   {
     id: "bolum-plateau-relief-v2",
     type: "relief",
@@ -439,8 +431,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Rich in small rivers and waterfalls.",
         "Home to many traditional villages."
       ]
-    }
-  },
+    }, image: "/poi-images/mende-highlands-relief-v2.webp"},
   {
     id: "dodo-hills-forest-relief-v2",
     type: "forest",
@@ -479,8 +470,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Home to an enormous diversity of tree species.",
         "Center for scientific conservation studies."
       ]
-    }
-  },
+    }, image: "/poi-images/dodo-hills-forest-relief-v2.webp"},
   {
     id: "tama-forest-relief-v2",
     type: "forest",
@@ -519,8 +509,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Known for its high density of precious hardwoods.",
         "Protects the headwaters of several tributaries."
       ]
-    }
-  },
+    }, image: "/poi-images/tama-forest-relief-v2.webp"},
   {
     id: "toncoli-forest-relief-v2",
     type: "forest",
@@ -559,8 +548,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Plays a role in protecting against soil erosion.",
         "A retreat for forest elephants (rare)."
       ]
-    }
-  },
+    }, image: "/poi-images/toncoli-forest-relief-v2.webp"},
   {
     id: "kasewe-forest-relief-v2",
     type: "forest",
@@ -599,8 +587,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "An important site for botanical discoveries.",
         "Surrounded by intensively used agricultural lands."
       ]
-    }
-  },
+    }, image: "/poi-images/kasewe-forest-relief-v2.webp"},
   {
     id: "kuru-hills-forest-relief-v2",
     type: "forest",
@@ -639,8 +626,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Home to many bird species of the Guinean highlands.",
         "The vegetation is adapted to drier conditions."
       ]
-    }
-  },
+    }, image: "/poi-images/kuru-hills-forest-relief-v2.webp"},
   {
     id: "singamba-forest-relief-v2",
     type: "forest",
@@ -679,8 +665,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Important for protecting local water sources.",
         "Consists primarily of secondary forest growth."
       ]
-    }
-  },
+    }, image: "/poi-images/singamba-forest-relief-v2.webp"},
   {
     id: "lui-plateau-relief-v2",
     type: "relief",
@@ -719,8 +704,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Characterized by a mosaic of fields and forests.",
         "Offers ideal conditions for livestock farming."
       ]
-    }
-  },
+    }, image: "/poi-images/lui-plateau-relief-v2.webp"},
   {
     id: "gola-forest-north-relief-v2",
     type: "forest",
@@ -759,8 +743,7 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
         "Contains very old giant trees.",
         "Difficult to access for visitors."
       ]
-    }
-  },
+    }, image: "/poi-images/gola-forest-north-relief-v2.webp"},
   {
     id: "sankara-plateau-relief-v2",
     type: "relief",

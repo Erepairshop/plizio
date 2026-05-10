@@ -18,8 +18,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Az ország legnagyobb városa.", "Legfontosabb kikötő.", "1520-ban alapították.", "Gazdasági központ.", "Az északi parton fekszik."],
       ro: ["Cel mai mare oraș din țară.", "Cel mai important port.", "Fondat în anul 1520.", "Centru economic.", "Situat pe coasta de nord."],
       en: ["Largest city in the country.", "Most important port.", "Founded in 1520.", "Economic center.", "Located on the north coast."]
-    }
-  },
+    }, image: "/poi-images/dili-cities-v2.webp"},
   {
     id: "baucau-cities-v2",
     type: "city",
@@ -37,8 +36,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Második legnagyobb város.", "Rendelkezik repülőtérrel.", "Gyarmati építészet.", "Régi piaca fennmaradt.", "Keleten fekszik."],
       ro: ["Al doilea oraș ca mărime.", "Are un aeroport.", "Arhitectură colonială.", "Piață veche păstrată.", "Situat în est."],
       en: ["Second largest city.", "Has an airport.", "Colonial architecture.", "Old market preserved.", "Located in the east."]
-    }
-  },
+    }, image: "/poi-images/baucau-cities-v2.webp"},
   {
     id: "maliana-cities-v2",
     type: "city",
@@ -56,8 +54,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Fontos agráközpont.", "A határ közelében van.", "A rizstermesztés dominál.", "Meleg hőmérséklet.", "Kereskedelmi hely."],
       ro: ["Centru agricol important.", "Aproape de graniță.", "Domină cultivarea orezului.", "Temperaturi calde.", "Loc de comerț."],
       en: ["Important agricultural center.", "Near the border.", "Rice cultivation dominates.", "Warm temperatures.", "Trading place."]
-    }
-  },
+    }, image: "/poi-images/maliana-cities-v2.webp"},
   {
     id: "suai-cities-v2",
     type: "city",
@@ -75,8 +72,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Délnyugati város.", "A Timor-tenger közelében.", "Kőolajlelőhelyek.", "Gyorsan növekszik.", "Van repülőtere."],
       ro: ["Oraș în sud-vest.", "Aproape de Marea Timor.", "Zăcăminte de petrol.", "Crește rapid.", "Are un aerodrom."],
       en: ["Southwestern city.", "Near the Timor Sea.", "Oil deposits.", "Growing rapidly.", "Has an airfield."]
-    }
-  },
+    }, image: "/poi-images/suai-cities-v2.webp"},
   {
     id: "lospalos-cities-v2",
     type: "city",
@@ -94,8 +90,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Fataluku házakról ismert.", "Keleti régió.", "Kulturális központ.", "Agrárgazdaság.", "Nincs tengerpartja."],
       ro: ["Cunoscut pentru case Fataluku.", "Regiunea de est.", "Centru cultural.", "Economie agricolă.", "Fără ieșire la mare."],
       en: ["Known for Fataluku houses.", "Eastern region.", "Cultural center.", "Agricultural economy.", "No sea access."]
-    }
-  },
+    }, image: "/poi-images/lospalos-cities-v2.webp"},
   {
     id: "viqueque-cities-v2",
     type: "city",
@@ -113,8 +108,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["A legnagyobb község fővárosa.", "Déli régió.", "Hagyományos falvak.", "Gazdag természet.", "Trópusi éghajlat."],
       ro: ["Capitala celui mai mare municipiu.", "Regiunea de sud.", "Sate tradiționale.", "Natură bogată.", "Climă tropicală."],
       en: ["Largest municipality capital.", "Southern region.", "Traditional villages.", "Rich nature.", "Tropical climate."]
-    }
-  },
+    }, image: "/poi-images/viqueque-cities-v2.webp"},
   {
     id: "pante-macassar-cities-v2",
     type: "city",
@@ -132,8 +126,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Oecusse fővárosa.", "Portugál enklávé.", "Történelmi kikötő.", "Kulturális elszigeteltség.", "Első település."],
       ro: ["Capitala Oecusse.", "Enclavă portugheză.", "Port istoric.", "Izolare culturală.", "Prima așezare."],
       en: ["Capital of Oecusse.", "Portuguese enclave.", "Historical port.", "Cultural isolation.", "First settlement."]
-    }
-  },
+    }, image: "/poi-images/pante-macassar-cities-v2.webp"},
   {
     id: "same-cities-v2",
     type: "city",
@@ -151,8 +144,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Hegyekkel övezett.", "Szárazföldi város.", "Nyugodt légkör.", "Történelmi templom.", "Helyi piac."],
       ro: ["Înconjurat de munți.", "Oraș interior.", "Atmosferă liniștită.", "Biserică istorică.", "Piață locală."],
       en: ["Surrounded by mountains.", "Inland city.", "Quiet atmosphere.", "Historical church.", "Local market."]
-    }
-  },
+    }, image: "/poi-images/same-cities-v2.webp"},
   {
     id: "liquica-cities-v2",
     type: "city",
@@ -170,8 +162,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Nyugati parti város.", "Gyönyörű strandok.", "Egykori börtönhely.", "Növekvő turizmus.", "Dili közelében."],
       ro: ["Oraș de coastă în vest.", "Plaje frumoase.", "Fost loc de detenție.", "Turism în creștere.", "Aproape de Dili."],
       en: ["Coastal city in the west.", "Beautiful beaches.", "Former prison site.", "Growing tourism.", "Near Dili."]
-    }
-  },
+    }, image: "/poi-images/liquica-cities-v2.webp"},
   {
     id: "aileu-cities-v2",
     type: "city",
@@ -189,8 +180,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["A hegyvidéken fekszik.", "Hűvösebb éghajlat.", "Mezőgazdasági jellegű.", "Egykori lázadó központ.", "Jó utak."],
       ro: ["Situat în zonele muntoase.", "Climă mai răcoroasă.", "Caracter agricol.", "Fost centru rebel.", "Drumuri bune."],
       en: ["Located in the highlands.", "Cooler climate.", "Agricultural character.", "Former rebel center.", "Good roads."]
-    }
-  },
+    }, image: "/poi-images/aileu-cities-v2.webp"},
   {
     id: "ainaro-cities-v2",
     type: "city",
@@ -208,8 +198,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Hegyvidéki táj.", "Kávéról ismert.", "Történelmi épületek.", "Gyönyörű kilátás.", "Nehezen megközelíthető."],
       ro: ["Peisaj montan.", "Cunoscut pentru cafea.", "Clădiri istorice.", "Vedere frumoasă.", "Greu de accesat."],
       en: ["Mountainous landscape.", "Known for coffee.", "Historical buildings.", "Beautiful view.", "Hard to reach."]
-    }
-  },
+    }, image: "/poi-images/ainaro-cities-v2.webp"},
   {
     id: "manatuto-cities-v2",
     type: "city",
@@ -227,8 +216,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Középső fekvésű város.", "Fazekasságáról ismert.", "Hosszú partszakasz.", "Száraz éghajlat.", "Rizstermesztés."],
       ro: ["Oraș în mijloc.", "Cunoscut pentru ceramică.", "Fâșie de coastă lungă.", "Climă uscată.", "Cultivarea orezului."],
       en: ["City in the middle.", "Known for pottery.", "Long coastline.", "Dry climate.", "Rice cultivation."]
-    }
-  },
+    }, image: "/poi-images/manatuto-cities-v2.webp"},
   {
     id: "gleno-cities-v2",
     type: "city",
@@ -246,8 +234,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Ermera központja.", "Kávékereskedelmi központ.", "Erős növekedés.", "Szárazföldi fekvés.", "Sok kereskedő."],
       ro: ["Centru administrativ Ermera.", "Centru de comerț cu cafea.", "Creștere puternică.", "Așezare interioară.", "Mulți comercianți."],
       en: ["Ermera administrative seat.", "Coffee trade center.", "Strong growth.", "Inland location.", "Many traders."]
-    }
-  },
+    }, image: "/poi-images/gleno-cities-v2.webp"},
   {
     id: "vila-de-atauro-cities-v2",
     type: "city",
@@ -265,8 +252,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["A sziget fővárosa.", "Népszerű a búvárok körében.", "Nyugodt élet.", "Kompjárat Dilibe.", "Halászat."],
       ro: ["Așezarea principală a insulei.", "Popular pentru scafandri.", "Viață liniștită.", "Ferry spre Dili.", "Pescuit."],
       en: ["Main town of the island.", "Popular with divers.", "Quiet life.", "Ferry to Dili.", "Fishing."]
-    }
-  },
+    }, image: "/poi-images/vila-de-atauro-cities-v2.webp"},
   {
     id: "maubisse-cities-v2",
     type: "city",
@@ -284,8 +270,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Történelmi hegyi város.", "Egykori Pousada.", "Nagyon hűvös éghajlat.", "Zöldségtermesztés.", "Turisztikai látványosság."],
       ro: ["Oraș montan istoric.", "Fosta Pousada.", "Climă foarte rece.", "Cultivarea legumelor.", "Atracție turistică."],
       en: ["Historical mountain town.", "Former Pousada.", "Very cool climate.", "Vegetable farming.", "Tourist attraction."]
-    }
-  },
+    }, image: "/poi-images/maubisse-cities-v2.webp"},
   {
     id: "venilale-cities-v2",
     type: "city",
@@ -303,8 +288,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Egykori üdülőhely.", "Hőforrások a közelben.", "Régi iskolaépület.", "Dombvidéki táj.", "Gazdag történelem."],
       ro: ["Fostă stațiune.", "Izvoare termale aproape.", "Clădire veche de școală.", "Peisaj deluros.", "Istorie bogată."],
       en: ["Former resort.", "Thermal springs nearby.", "Old school building.", "Hilly landscape.", "Rich history."]
-    }
-  },
+    }, image: "/poi-images/venilale-cities-v2.webp"},
   {
     id: "tutuala-cities-v2",
     type: "city",
@@ -322,8 +306,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Legkeletibb pont.", "A nemzeti park közelében.", "Gyönyörű strand.", "Szent barlangok.", "Elszigetelt fekvés."],
       ro: ["Cel mai estic punct.", "Aproape de parcul național.", "Plajă frumoasă.", "Peșteri sacre.", "Locație izolată."],
       en: ["Easternmost point.", "Near the national park.", "Beautiful beach.", "Sacred caves.", "Isolated location."]
-    }
-  },
+    }, image: "/poi-images/tutuala-cities-v2.webp"},
   {
     id: "balibo-cities-v2",
     type: "city",
@@ -341,8 +324,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Az erődről ismert.", "Történelmi esemény.", "Határváros.", "Jó kilátás.", "Kis piac."],
       ro: ["Cunoscut pentru fort.", "Eveniment istoric.", "Oraș de graniță.", "Vedere bună.", "Piață mică."],
       en: ["Known for the fort.", "Historical event.", "Border town.", "Good view.", "Small market."]
-    }
-  },
+    }, image: "/poi-images/balibo-cities-v2.webp"},
   {
     id: "ermera-cities-v2",
     type: "city",
@@ -360,8 +342,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Ismert kávérégió.", "Sűrű erdők.", "Hegyvidéki terep.", "Hagyományos kultúra.", "Mezőgazdaság."],
       ro: ["Regiune cunoscută de cafea.", "Păduri dese.", "Teren montan.", "Cultură tradițională.", "Agricultură."],
       en: ["Known coffee region.", "Dense forests.", "Mountainous terrain.", "Traditional culture.", "Agriculture."]
-    }
-  },
+    }, image: "/poi-images/ermera-cities-v2.webp"},
   {
     id: "iliomar-cities-v2",
     type: "city",
@@ -379,8 +360,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Vidéki község.", "Lautém déli részén.", "Erdős környék.", "Elszigetelt.", "Hagyományos jellegű."],
       ro: ["Comunitate rurală.", "În sudul Lautém.", "Împrejurimi împădurite.", "Izolat.", "Caracter tradițional."],
       en: ["Rural community.", "In the south of Lautém.", "Wooded surroundings.", "Isolated.", "Traditionally shaped."]
-    }
-  },
+    }, image: "/poi-images/iliomar-cities-v2.webp"},
   {
     id: "luro-cities-v2",
     type: "city",
@@ -398,8 +378,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Közigazgatási központ Lautémban.", "Hegyvidéki terület.", "Kis lakosság.", "Természetes állapot.", "Mezőgazdaság."],
       ro: ["Sediu administrativ în Lautém.", "Zonă montană.", "Populație mică.", "Stare naturală.", "Agricultură."],
       en: ["Administrative seat in Lautém.", "Mountainous area.", "Small population.", "Natural state.", "Agriculture."]
-    }
-  },
+    }, image: "/poi-images/luro-cities-v2.webp"},
   {
     id: "uatucarbau-cities-v2",
     type: "city",
@@ -417,8 +396,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Viqueque-től délre.", "A part közelében.", "Rizstermesztő terület.", "Nedves éghajlat.", "Csendes hely."],
       ro: ["La sud de Viqueque.", "Aproape de coastă.", "Zonă de cultură a orezului.", "Climă umedă.", "Loc liniștit."],
       en: ["South of Viqueque.", "Near the coast.", "Rice-growing area.", "Humid climate.", "Quiet place."]
-    }
-  },
+    }, image: "/poi-images/uatucarbau-cities-v2.webp"},
   {
     id: "ossu-cities-v2",
     type: "city",
@@ -436,8 +414,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Hegyi falu Viqueque-ben.", "Hűvös hegyi klíma.", "Túrázó terület.", "Gyönyörű tájak.", "Agrárközpont."],
       ro: ["Sat montan în Viqueque.", "Climă montană rece.", "Zonă de drumeții.", "Peisaje frumoase.", "Centru agricol."],
       en: ["Mountain village in Viqueque.", "Cool mountain climate.", "Hiking area.", "Beautiful landscapes.", "Agricultural center."]
-    }
-  },
+    }, image: "/poi-images/ossu-cities-v2.webp"},
   {
     id: "alas-cities-v2",
     type: "city",
@@ -455,8 +432,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Manufahi község.", "Történelmi jelentőség.", "Természettel övezve.", "Kis település.", "Helyi kultúra."],
       ro: ["Comuna Manufahi.", "Semnificație istorică.", "Înconjurat de natură.", "Mică așezare.", "Cultură locală."],
       en: ["Manufahi municipality.", "Historical significance.", "Surrounded by nature.", "Small settlement.", "Local culture."]
-    }
-  },
+    }, image: "/poi-images/alas-cities-v2.webp"},
   {
     id: "fatuberlio-cities-v2",
     type: "city",
@@ -474,8 +450,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Déli tengerparti város.", "Félreeső.", "Halászat.", "Gyönyörű strandok.", "Egyszerű élet."],
       ro: ["Oraș de coastă în sud.", "Izolat.", "Pescuit.", "Plaje frumoase.", "Viață simplă."],
       en: ["Coastal town in the south.", "Remote.", "Fishing.", "Beautiful beaches.", "Simple life."]
-    }
-  },
+    }, image: "/poi-images/fatuberlio-cities-v2.webp"},
   {
     id: "turiscai-cities-v2",
     type: "city",
@@ -493,8 +468,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Magasan fekvő Manufahiban.", "Kávétermelés.", "Panorámás kilátás.", "Nehezen megközelíthető.", "Hagyományos fesztiválok."],
       ro: ["Situat la mare altitudine în Manufahi.", "Producție de cafea.", "Vedere panoramică.", "Greu accesibil.", "Festivaluri tradiționale."],
       en: ["High altitude in Manufahi.", "Coffee production.", "Panoramic view.", "Hard to access.", "Traditional festivals."]
-    }
-  },
+    }, image: "/poi-images/turiscai-cities-v2.webp"},
   {
     id: "laleia-cities-v2",
     type: "city",
@@ -512,8 +486,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Széles folyóvölgyben.", "Az északi parton.", "A rizstermesztés dominál.", "Száraz terület.", "Csendes közösség."],
       ro: ["Într-o vale largă de râu.", "Pe coasta de nord.", "Cultivarea orezului domină.", "Zonă uscată.", "Comunitate liniștită."],
       en: ["In a wide river valley.", "On the north coast.", "Rice farming dominant.", "Dry area.", "Quiet community."]
-    }
-  },
+    }, image: "/poi-images/laleia-cities-v2.webp"},
   {
     id: "laclubar-cities-v2",
     type: "city",
@@ -531,8 +504,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Hagyományos hegyi falu.", "Manatuto községben.", "Régi szokások.", "Gyönyörű természet.", "Mezőgazdaság."],
       ro: ["Sat montan tradițional.", "În municipiul Manatuto.", "Obiceiuri vechi.", "Natură frumoasă.", "Agricultură."],
       en: ["Traditional mountain village.", "In Manatuto municipality.", "Old customs.", "Beautiful nature.", "Agriculture."]
-    }
-  },
+    }, image: "/poi-images/laclubar-cities-v2.webp"},
   {
     id: "zumalai-cities-v2",
     type: "city",
@@ -550,8 +522,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Folyóparti város.", "A Timor-tengerrel határos.", "Mezőgazdaságilag fontos.", "Déli régió.", "Festői kilátás."],
       ro: ["Oraș pe un râu.", "Se învecinează cu Marea Timor.", "Important din punct de vedere agricol.", "Regiunea de sud.", "Vedere pitorească."],
       en: ["City on a river.", "Borders the Timor Sea.", "Agriculturally important.", "Southern region.", "Picturesque view."]
-    }
-  },
+    }, image: "/poi-images/zumalai-cities-v2.webp"},
   {
     id: "fohorem-cities-v2",
     type: "city",

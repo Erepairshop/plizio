@@ -1,0 +1,149 @@
+{
+  "lang": "en",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-cameroon-relief-v2",
+      "description": "Mount Cameroon is a steep volcanic massif on the coast of southwestern Cameroon. It rises sharply above the Atlantic lowlands.",
+      "facts": [
+        "coastal volcanic massif",
+        "southwest Cameroon",
+        "steep mountain relief"
+      ]
+    },
+    {
+      "id": "mandara-mountains-relief-v2",
+      "description": "The Mandara Mountains run along Cameroon's far northern border. They form a rugged upland landscape with narrow valleys and rocky ridges.",
+      "facts": [
+        "far north border range",
+        "rugged uplands",
+        "rocky valleys"
+      ]
+    },
+    {
+      "id": "bamenda-highlands-relief-v2",
+      "description": "The Bamenda Highlands are a cool, elevated region in northwest Cameroon. Their plateau terrain shapes settlement and farming.",
+      "facts": [
+        "northwest plateau",
+        "cool elevated terrain",
+        "important farming area"
+      ]
+    },
+    {
+      "id": "sanaga-basin-relief-v2",
+      "description": "The Sanaga basin covers a vast central drainage area. It is one of the main structural landscapes of Cameroon.",
+      "facts": [
+        "central drainage basin",
+        "large river system",
+        "key national landscape"
+      ]
+    },
+    {
+      "id": "mount-manengouba-relief-v2",
+      "description": "Mount Manengouba is a volcanic mountain with crater lakes in western Cameroon. Its high slopes stand above the surrounding countryside.",
+      "facts": [
+        "volcanic mountain",
+        "crater lakes",
+        "western Cameroon"
+      ]
+    },
+    {
+      "id": "mount-kupe-relief-v2",
+      "description": "Mount Kupe is a steep forested peak in southwestern Cameroon. It rises above the coastal plain and supports dense mountain vegetation.",
+      "facts": [
+        "southwest peak",
+        "forested slopes",
+        "rises above the coast"
+      ]
+    },
+    {
+      "id": "mount-oissa-relief-v2",
+      "description": "Mount Oissa is part of the highland relief in western Cameroon. It belongs to the hill country that breaks up the plateau surface.",
+      "facts": [
+        "western highlands",
+        "hill landscape",
+        "plateau relief"
+      ]
+    },
+    {
+      "id": "nlonako-mountains-relief-v2",
+      "description": "The Nlonako Mountains form a rugged range in western Cameroon. They add steep relief and forest cover to the area.",
+      "facts": [
+        "western mountain range",
+        "steep relief",
+        "forest-covered hills"
+      ]
+    },
+    {
+      "id": "mount-bambouto-relief-v2",
+      "description": "Mount Bambouto is a volcanic highland in western Cameroon. It forms part of the country's well known grassland mountain belt.",
+      "facts": [
+        "volcanic highland",
+        "western grasslands",
+        "mountain belt"
+      ]
+    },
+    {
+      "id": "mount-tchabal-mbabo-relief-v2",
+      "description": "Mount Tchabal Mbabo rises in the Adamawa region as a high volcanic massif. It is one of the area's prominent upland forms.",
+      "facts": [
+        "in Adamawa",
+        "volcanic massif",
+        "prominent upland"
+      ]
+    },
+    {
+      "id": "mount-o-ku-relief-v2",
+      "description": "Mount Oku is a high mountain in northwest Cameroon. It belongs to the volcanic chain that shapes the Bamenda highlands.",
+      "facts": [
+        "northwest Cameroon",
+        "high volcanic peak",
+        "part of the highlands"
+      ]
+    },
+    {
+      "id": "mount-rumpi-relief-v2",
+      "description": "The Rumpi Hills are a rugged mountain group in the southwest. Their steep slopes and wet forests create a distinct relief zone.",
+      "facts": [
+        "southwest hills",
+        "rugged slopes",
+        "wet forest relief"
+      ]
+    },
+    {
+      "id": "mount-bakossi-relief-v2",
+      "description": "The Bakossi Mountains form a forested highland in western Cameroon. They are known for steep slopes and a wet mountain climate.",
+      "facts": [
+        "western highland",
+        "forested mountains",
+        "wet mountain climate"
+      ]
+    },
+    {
+      "id": "mount-koupe-relief-v2",
+      "description": "Mount Koupe is a steep forest mountain in southwestern Cameroon. It overlooks the coastal lowlands with a sharp rise in elevation.",
+      "facts": [
+        "southwest mountain",
+        "forest-covered slopes",
+        "coastal overlook"
+      ]
+    },
+    {
+      "id": "mount-ntem-relief-v2",
+      "description": "The Ntem area includes elevated terrain in the south of Cameroon. Its relief is shaped by forested hills and river valleys.",
+      "facts": [
+        "southern Cameroon",
+        "forested hills",
+        "river valleys"
+      ]
+    }
+  ]
+}

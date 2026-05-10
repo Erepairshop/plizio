@@ -38,8 +38,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Important natural water source.",
         "Habitat for rare leopards."
       ]
-    }
-  },
+    }, image: "/poi-images/kopet-dag-nature-v2.webp"},
   {
     id: "amu-darya-nature-v2",
     type: "river",
@@ -77,8 +76,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Crucial for local agriculture.",
         "Forms the border with Uzbekistan."
       ]
-    }
-  },
+    }, image: "/poi-images/amu-darya-nature-v2.webp"},
   {
     id: "murghab-river-nature-v2",
     type: "river",
@@ -116,8 +114,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Dissipates completely in the desert.",
         "Approximately 850 kilometers long."
       ]
-    }
-  },
+    }, image: "/poi-images/murghab-river-nature-v2.webp"},
   {
     id: "tejen-river-nature-v2",
     type: "river",
@@ -155,8 +152,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Ends in the Karakum Desert.",
         "Important for cotton cultivation."
       ]
-    }
-  },
+    }, image: "/poi-images/tejen-river-nature-v2.webp"},
   {
     id: "atrek-river-nature-v2",
     type: "river",
@@ -194,8 +190,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "A border river with Iran.",
         "Flows into the Caspian Sea."
       ]
-    }
-  },
+    }, image: "/poi-images/atrek-river-nature-v2.webp"},
   {
     id: "sarygamysh-lake-nature-v2",
     type: "lake",
@@ -233,8 +228,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Located in a deep depression.",
         "Important stop for migratory birds."
       ]
-    }
-  },
+    }, image: "/poi-images/sarygamysh-lake-nature-v2.webp"},
   {
     id: "repetek-reserve-nature-v2",
     type: "national-park",
@@ -272,8 +266,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Famous for giant monitor lizards.",
         "Recognized UNESCO biosphere reserve."
       ]
-    }
-  },
+    }, image: "/poi-images/repetek-reserve-nature-v2.webp"},
   {
     id: "koytendag-reserve-nature-v2",
     type: "national-park",
@@ -311,8 +304,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Rare Markhor goats live here.",
         "Protects deep gorges and caves."
       ]
-    }
-  },
+    }, image: "/poi-images/koytendag-reserve-nature-v2.webp"},
   {
     id: "kaplankyr-reserve-nature-v2",
     type: "national-park",
@@ -350,8 +342,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Hosts a great diversity of birds.",
         "Officially founded in the year 1979."
       ]
-    }
-  },
+    }, image: "/poi-images/kaplankyr-reserve-nature-v2.webp"},
   {
     id: "syunt-hasardag-reserve-nature-v2",
     type: "national-park",
@@ -467,8 +458,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Is a significant wetland area.",
         "Well-known resting place for flamingos."
       ]
-    }
-  },
+    }, image: "/poi-images/hazar-reserve-nature-v2.webp"},
   {
     id: "badhyz-reserve-nature-v2",
     type: "national-park",
@@ -506,8 +496,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Located in the southernmost region.",
         "Characterized by volcanic depressions."
       ]
-    }
-  },
+    }, image: "/poi-images/badhyz-reserve-nature-v2.webp"},
   {
     id: "kopetdag-reserve-nature-v2",
     type: "national-park",
@@ -545,8 +534,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Numerous rare mountain plants.",
         "Important habitat of the Urial sheep."
       ]
-    }
-  },
+    }, image: "/poi-images/kopetdag-reserve-nature-v2.webp"},
   {
     id: "mount-ayrybaba-nature-v2",
     type: "mountain",
@@ -584,8 +572,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "The peak is often fully snow-capped.",
         "It is clearly the highest point in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/mount-ayrybaba-nature-v2.webp"},
   {
     id: "mount-arlan-nature-v2",
     type: "mountain",
@@ -623,8 +610,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Is characterized by dry, stony terrain.",
         "Offers extremely vast and clear views."
       ]
-    }
-  },
+    }, image: "/poi-images/mount-arlan-nature-v2.webp"},
   {
     id: "kow-ata-lake-nature-v2",
     type: "lake",
@@ -662,8 +648,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "The water is strongly sulfurous.",
         "Home to huge native bat colonies."
       ]
-    }
-  },
+    }, image: "/poi-images/kow-ata-lake-nature-v2.webp"},
   {
     id: "sumbar-river-nature-v2",
     type: "river",
@@ -701,8 +686,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Supports very lush local flora.",
         "Has a comparatively milder microclimate."
       ]
-    }
-  },
+    }, image: "/poi-images/sumbar-river-nature-v2.webp"},
   {
     id: "chandyr-river-nature-v2",
     type: "river",
@@ -740,8 +724,7 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Partially dries up during the hot summer.",
         "Rare bird species breed on its banks."
       ]
-    }
-  },
+    }, image: "/poi-images/chandyr-river-nature-v2.webp"},
   {
     id: "mount-dushakeredag-nature-v2",
     type: "mountain",

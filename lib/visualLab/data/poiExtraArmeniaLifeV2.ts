@@ -103,8 +103,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["Korábban Puskin parkként ismerték.", "A felújítás 2005-től 2008-ig tartott.", "A teljes területe 2,5 hektár.", "Akadálymentesített a fogyatékkal élők számára.", "A Marsall Bagramjan metróállomás mellette található.", "Több formatervezési díj nyertese."],
       ro: ["Cunoscut anterior ca Parcul Pușkin.", "Renovarea a durat din 2005 până în 2008.", "Suprafața totală este de 2,5 hectare.", "Accesibil pentru persoanele cu dizabilități.", "Stația de metrou Mareșal Baghramyan este situată alături.", "Câștigător a mai multor premii de design."],
       en: ["Formerly known as Pushkin Park.", "The renovation lasted from 2005 to 2008.", "The total area is 2.5 hectares.", "Accessible for people with disabilities.", "Marshal Baghramyan metro station is located next to it.", "Winner of several design awards."]
-    }
-  },
+    }, image: "/poi-images/armenia-lovers-park-yerevan-life-v2.webp"},
   {
     id: "armenia-tumanyan-park-life-v2",
     type: "park",
@@ -129,8 +128,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["Hovhannes Tumanjan 100. születésnapjára nyitották meg.", "Területe 7 hektár.", "A Tumo Központot 2011-ben nyitották meg.", "Közvetlen hozzáférés a Hrazdan folyóhoz.", "Kültéri fitneszeszközökkel rendelkezik.", "Az 'Anahit' kitalált szereplő emlékműve."],
       ro: ["Deschis la 100 de ani de la nașterea lui Hovhannes Tumanyan.", "Se întinde pe o suprafață de 7 hectare.", "Centrul Tumo a fost deschis în 2011.", "Acces direct la râul Hrazdan.", "Dispune de echipamente de fitness în aer liber.", "Un monument pentru personajul fictiv 'Anahit'."],
       en: ["Opened for the 100th anniversary of Hovhannes Tumanyan.", "Covers an area of 7 hectares.", "The Tumo Center was opened in 2011.", "Direct access to the Hrazdan River.", "Features outdoor fitness equipment.", "A monument to the fictional character 'Anahit'."]
-    }
-  },
+    }, image: "/poi-images/armenia-tumanyan-park-life-v2.webp"},
   {
     id: "armenia-victory-park-life-v2",
     type: "park",
@@ -155,8 +153,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["Eredeti neve 'Arabkir Park' volt.", "Az Örményország Anyja szobor 22 méter magas.", "A talapzatot Rafael Israelyan építész tervezte.", "A múzeum a Hegyi-Karabah-i háborúból származó tárgyakat mutat be.", "Itt található az Ismeretlen Katona sírja.", "A parkot 1950 és 1959 között hozták létre."],
       ro: ["Numele original a fost 'Parcul Arabkir'.", "Statuia Mama Armenia are 22 de metri înălțime.", "Piedestalul a fost proiectat de arhitectul Rafael Israelyan.", "Muzeul expune artefacte din războiul din Nagorno-Karabah.", "Conține Mormântul Soldatului Necunoscut.", "Parcul a fost amenajat între 1950 și 1959."],
       en: ["The original name was 'Arabkir Park'.", "The Mother Armenia statue is 22 meters high.", "The pedestal was designed by architect Rafael Israelyan.", "The museum displays artifacts from the Nagorno-Karabakh War.", "Contains the Tomb of the Unknown Soldier.", "The park was laid out from 1950 to 1959."]
-    }
-  },
+    }, image: "/poi-images/armenia-victory-park-life-v2.webp"},
   {
     id: "armenia-ijevan-dendropark-life-v2",
     type: "park",
@@ -181,8 +178,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["Idzseván város közelében található.", "Az 'Idzseván' Állami Rezervátum Komplexum része.", "Észak-amerikai, európai és ázsiai fajoknak ad otthont.", "A kaukázusi flóra génbankjaként szolgál.", "A gyűjteményt magcsere útján bővítették.", "Az alapító egy ismert erdész volt."],
       ro: ["Situat în apropierea orașului Ijevan.", "Parte a Complexului Rezervației de Stat 'Ijevan'.", "Găzduiește specii din America de Nord, Europa și Asia.", "Servește ca bancă de gene pentru flora caucaziană.", "Colecția a fost extinsă prin schimb de semințe.", "Fondatorul a fost un silvicultor renumit."],
       en: ["Located near the town of Ijevan.", "Part of the 'Ijevan' State Sanctuary Complex.", "Houses species from North America, Europe, and Asia.", "Serves as a gene bank for Caucasian flora.", "The collection was expanded through seed exchange.", "The founder was a well-known forester."]
-    }
-  },
+    }, image: "/poi-images/armenia-ijevan-dendropark-life-v2.webp"},
   {
     id: "armenia-stepanavan-dendropark-life-v2",
     type: "park",
@@ -207,8 +203,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["'Lori csodájaként' tartják számon.", "Az alapító Edmon Leonowicz a parkban van eltemetve.", "Körülbelül 15 hektár természetes erdő, 20 hektár díszfa.", "A magok a világ botanikus kertjeiből származnak.", "A méztermelők körében népszerű a növényvilág sokfélesége miatt.", "A hűvös levegő felüdülést nyújt a nyári hőségben."],
       ro: ["Considerat 'Minunea din Lori'.", "Fondatorul Edmon Leonowicz este îngropat în parc.", "Aproximativ 15 hectare sunt pădure naturală, 20 de hectare sunt arbori ornamentali.", "Semințele provin din grădini botanice din întreaga lume.", "Popular printre producătorii de miere datorită diversității plantelor.", "Aerul răcoros oferă o evadare de la căldura verii."],
       en: ["Considered the 'Miracle of Lori'.", "The founder Edmon Leonowicz is buried in the park.", "About 15 hectares are natural forest, 20 hectares are ornamental trees.", "The seeds come from botanical gardens worldwide.", "Popular with honey producers due to the plant diversity.", "The cool air offers a respite from the summer heat."]
-    }
-  },
+    }, image: "/poi-images/armenia-stepanavan-dendropark-life-v2.webp"},
   {
     id: "armenia-erebuni-state-reserve-life-v2",
     type: "wildlife-area",
@@ -259,8 +254,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["A tó területe körülbelül 2 km².", "A tó maximális mélysége körülbelül 7,5 méter.", "Olvadékvíz és csapadék táplálja.", "A Zangezur Bioszféra Komplexum része.", "Otthont ad a ritka kaukázusi hegyi viperának.", "A rezervátum területe 240 hektár."],
       ro: ["Lacul are o suprafață de aproximativ 2 km².", "Adâncimea maximă a lacului este de aproximativ 7,5 metri.", "Este alimentat de topirea zăpezii și de precipitații.", "Parte a Complexului Biosferei Zangezur.", "Găzduiește rara viperă de munte caucaziană.", "Sanctuarul acoperă 240 de hectare."],
       en: ["The lake has an area of about 2 km².", "The maximum depth of the lake is about 7.5 meters.", "Is fed by snowmelt and precipitation.", "Part of the Zangezur Biosphere Complex.", "Home to the rare Caucasian mountain viper.", "The sanctuary covers 240 hectares."]
-    }
-  },
+    }, image: "/poi-images/armenia-sev-lich-sanctuary-life-v2.webp"},
   {
     id: "armenia-goris-state-sanctuary-life-v2",
     type: "wildlife-area",
@@ -337,8 +331,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["A völgy magassága körülbelül 850 méter.", "A völgy adja az örmény bortermelés 40%-át.", "Fontos szőlőfajták a Kangun, a Voskehat és a Kakhet.", "Az öntözőrendszert az Aras folyó táplálja.", "Sok pincészet kínál kóstolókat és túrákat.", "A brandy gyártása a 19. század végén kezdődött itt."],
       ro: ["Altitudinea văii este de aproximativ 850 de metri.", "Valea reprezintă 40% din producția de vin a Armeniei.", "Soiurile importante de struguri sunt Kangun, Voskehat și Kakhet.", "Sistemul de irigații este alimentat de râul Aras.", "Multe crame oferă degustări și tururi.", "Producția de coniac a început aici la sfârșitul secolului al XIX-lea."],
       en: ["The altitude of the valley is about 850 meters.", "The valley accounts for 40% of Armenia's wine production.", "Important grape varieties are Kangun, Voskehat, and Kakhet.", "The irrigation system is fed by the Aras River.", "Many wineries offer tastings and tours.", "Brandy production began here in the late 19th century."]
-    }
-  },
+    }, image: "/poi-images/armenia-ararat-valley-vineyards-life-v2.webp"},
   {
     id: "armenia-areni-wine-region-life-v2",
     type: "agriculture",
@@ -363,8 +356,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["Az Areni-1 barlangot 2007-ben fedezték fel.", "A szőlőültetvények 1000-1250 méteres magasságban fekszenek.", "Az Areni Noir genetikailag egyedülálló.", "A 'karas' technika a szellemi kulturális örökség része.", "A borfesztivált minden év októberében rendezik meg.", "A szőlőtőkék ellenállnak a filoxérának."],
       ro: ["Peștera Areni-1 a fost descoperită în 2007.", "Podiile se află la o altitudine de 1000-1250 de metri.", "Areni Noir este unic din punct de vedere genetic.", "Tehnica 'karas' face parte din patrimoniul cultural imaterial.", "Festivalul vinului are loc în fiecare an în octombrie.", "Vița de vie este rezistentă la filoxeră."],
       en: ["The Areni-1 cave was discovered in 2007.", "The vineyards are located at an altitude of 1000-1250 meters.", "Areni Noir is genetically unique.", "The 'karas' technique is part of the intangible cultural heritage.", "The wine festival takes place every year in October.", "The vines are resistant to phylloxera."]
-    }
-  },
+    }, image: "/poi-images/armenia-areni-wine-region-life-v2.webp"},
   {
     id: "armenia-armavir-apricot-orchards-life-v2",
     type: "agriculture",
@@ -389,8 +381,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["Az örmény zászló színe a sárgabarackot jelképezi.", "Örményország a világ egyik legnagyobb sárgabarack-termelője.", "A 'Shalakh' fajta különösen híres.", "Az aszalt sárgabarack ('Tsiran') csemege.", "A sárgabarack-termesztés több ezer éves múltra tekint vissza.", "A sárgabarackfák tavaszi virágzása lenyűgöző látvány."],
       ro: ["Culoarea steagului armean se spune că reprezintă caisa.", "Armenia este un producător de top de caise.", "Soiul 'Shalakh' este deosebit de faimos.", "Caisele uscate ('Tsiran') sunt o delicatesă.", "Cultivarea caiselor datează de mii de ani.", "Înflorirea caisilor primăvara este o priveliște impresionantă."],
       en: ["The color of the Armenian flag is said to represent the apricot.", "Armenia is a top producer of apricots.", "The 'Shalakh' variety is particularly famous.", "Dried apricots ('Tsiran') are a delicacy.", "Apricot cultivation dates back thousands of years.", "The blossoming of apricot trees in spring is an impressive sight."]
-    }
-  },
+    }, image: "/poi-images/armenia-armavir-apricot-orchards-life-v2.webp"},
   {
     id: "armenia-vayots-dzor-pomegranate-orchards-life-v2",
     type: "agriculture",
@@ -415,8 +406,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["A gránátalma az örmény nép szimbóluma.", "A 'Gránátalma színe' című filmben örökítették meg.", "A gránátalmabor helyi specialitás.", "A héját szőnyegek festésére használják.", "A szüret jellemzően októberben van.", "A 'Goulosha' fajta vékony héjáról ismert."],
       ro: ["Rodia este un simbol al poporului armean.", "Imortalizată în filmul 'Culoarea rodiei'.", "Vinul de rodie este o specialitate locală.", "Coaja este folosită pentru vopsirea covoarelor.", "Recoltarea are loc de obicei în octombrie.", "Soiul 'Goulosha' este cunoscut pentru coaja sa subțire."],
       en: ["The pomegranate is a symbol of the Armenian people.", "Immortalized in the film 'The Color of Pomegranates'.", "Pomegranate wine is a local specialty.", "The peel is used for dyeing carpets.", "The harvest typically takes place in October.", "The 'Goulosha' variety is known for its thin skin."]
-    }
-  },
+    }, image: "/poi-images/armenia-vayots-dzor-pomegranate-orchards-life-v2.webp"},
   {
     id: "armenia-shirak-wheat-fields-life-v2",
     type: "agriculture",
@@ -441,8 +431,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["Sirak tartomány 1500-2000 méteres magasságban fekszik.", "Gjumri a tartomány fővárosa.", "A termesztés a durumbúza fajtákra összpontosít.", "Az aratás általában a nyár végén történik.", "A lavash-t 'tonir'-ban sütik.", "A régió állattenyésztéséről is ismert."],
       ro: ["Provincia Shirak este situată la o altitudine de 1500-2000 de metri.", "Gyumri este capitala provinciei.", "Cultivarea se concentrează pe soiurile de grâu dur.", "Recoltarea are loc de obicei la sfârșitul verii.", "Lavash-ul este copt într-un 'tonir'.", "Regiunea este cunoscută și pentru creșterea animalelor."],
       en: ["Shirak province is located at an altitude of 1500-2000 meters.", "Gyumri is the capital of the province.", "Cultivation focuses on durum wheat varieties.", "The harvest usually takes place in late summer.", "Lavash is baked in a 'tonir'.", "The region is also known for its livestock breeding."]
-    }
-  },
+    }, image: "/poi-images/armenia-shirak-wheat-fields-life-v2.webp"},
   {
     id: "armenia-gegharkunik-potato-farms-life-v2",
     type: "agriculture",
@@ -467,8 +456,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["Gegarkunik több mint 1900 méteres magasságban fekszik.", "A Szeván-tó a Kaukázus legnagyobb tava.", "A burgonyatermesztés a 19. században kezdődött Örményországban.", "Népszerű fajták a 'Csernij Princ' és a 'Nyevszkij'.", "A betakarítás szeptemberben és októberben történik.", "A régió sajttermeléséről is ismert."],
       ro: ["Gegharkunik este situat la o altitudine de peste 1900 de metri.", "Lacul Sevan este cel mai mare lac din Caucaz.", "Cultivarea cartofilor a început în Armenia în secolul al XIX-lea.", "Soiurile populare sunt 'Cherniy Prints' și 'Nevskiy'.", "Recoltarea are loc în septembrie și octombrie.", "Regiunea este cunoscută și pentru producția de brânzeturi."],
       en: ["Gegharkunik is located at an altitude of over 1900 meters.", "Lake Sevan is the largest lake in the Caucasus.", "Potato cultivation began in Armenia in the 19th century.", "Popular varieties are 'Cherniy Prints' and 'Nevskiy'.", "The harvest takes place in September and October.", "The region is also known for its cheese production."]
-    }
-  },
+    }, image: "/poi-images/armenia-gegharkunik-potato-farms-life-v2.webp"},
   {
     id: "armenia-water-world-yerevan-life-v2",
     type: "kid-friendly",
@@ -493,8 +481,7 @@ export const poiExtraArmeniaLifeV2: POI[] = [
       hu: ["A Nor Nork kerületben található.", "A park befogadóképessége körülbelül 3000 látogató.", "Az egyik leghíresebb csúszda a 'Kamikaze'.", "Rendszeres medencés bulik DJ-kkel nyáron.", "Úszótanfolyamokat kínál gyerekeknek.", "A jégpálya területe 500 m²."],
       ro: ["Situat în districtul Nor Nork.", "Parcul are o capacitate de aproximativ 3.000 de vizitatori.", "Unul dintre cele mai faimoase tobogane este 'Kamikaze'.", "Petreceri regulate la piscină cu DJ-i vara.", "Oferă cursuri de înot pentru copii.", "Patinoarul are o suprafață de 500 m²."],
       en: ["Located in the Nor Nork district.", "The park has a capacity of about 3,000 visitors.", "One of the most famous slides is the 'Kamikaze'.", "Regular pool parties with DJs in the summer.", "Offers swimming lessons for children.", "The ice rink has an area of 500 m²."]
-    }
-  },
+    }, image: "/poi-images/armenia-water-world-yerevan-life-v2.webp"},
   {
     id: "armenia-play-city-yerevan-life-v2",
     type: "kid-friendly",

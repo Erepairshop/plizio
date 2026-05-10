@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "Congo",
+  "files": [
+    "lib/visualLab/data/poiExtraCongoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cg-kindamba-cities-v2",
+      "description": "Kindamba is a town in Pool south-west of Brazzaville. It serves as a rural center for the surrounding communities and local administration.",
+      "facts": ["In Pool", "South-west of Brazzaville", "Rural service center"]
+    },
+    {
+      "id": "cg-boko-cities-v2",
+      "description": "Boko is a town in Pool close to Brazzaville. It belongs to the capital's wider rural belt and supports nearby farming areas.",
+      "facts": ["In Pool", "Near Brazzaville", "Farming area"]
+    },
+    {
+      "id": "cg-louingui-cities-v2",
+      "description": "Louingui is a small town in Pool south of Brazzaville. It has a local role in transport, trade, and village supply.",
+      "facts": ["In Pool", "South of Brazzaville", "Local supply point"]
+    },
+    {
+      "id": "cg-loudima-cities-v2",
+      "description": "Loudima is a town in Bouenza in south-central Congo. It lies along the main transport corridor between Brazzaville and Pointe-Noire.",
+      "facts": ["In Bouenza", "On a key corridor", "Links capital and port"]
+    },
+    {
+      "id": "cg-souanke-cities-v2",
+      "description": "Souanké is a town in Sangha in northern Congo. Its position near the border gives it a clear role as a frontier settlement.",
+      "facts": ["In Sangha", "Near the border", "Frontier settlement"]
+    },
+    {
+      "id": "cg-okoyo-cities-v2",
+      "description": "Okoyo is a small town in Cuvette-Ouest in north-western Congo. It is a rural stop for the local road network and nearby villages.",
+      "facts": ["In Cuvette-Ouest", "North-western Congo", "Rural road stop"]
+    },
+    {
+      "id": "cg-mpouya-cities-v2",
+      "description": "Mpouya is a town in the Plateaux department of central Congo. It sits along the inland route toward the Congo River basin.",
+      "facts": ["In Plateaux", "Central Congo", "Inland route"]
+    },
+    {
+      "id": "cg-ngo-cities-v2",
+      "description": "Ngo is a town in Plateaux in central Congo. It is a known stop on National Road 2 between Brazzaville and the north.",
+      "facts": ["In Plateaux", "On National Road 2", "Between Brazzaville and the north"]
+    },
+    {
+      "id": "cg-allembe-cities-v2",
+      "description": "Allembé is a small town in the Plateaux department of central Congo. It has a local agricultural and trading role in the region.",
+      "facts": ["In Plateaux", "Small regional town", "Agricultural trade"]
+    },
+    {
+      "id": "cg-dongou-cities-v2",
+      "description": "Dongou is a town in Likouala in northern Congo. It lies in a river landscape shaped by wetlands and slow-moving waterways.",
+      "facts": ["In Likouala", "Northern Congo", "Wetland landscape"]
+    },
+    {
+      "id": "cg-epena-cities-v2",
+      "description": "Epéna is a town in Likouala in the far north of Congo. It is a remote local center in a region dominated by forest and swamp.",
+      "facts": ["In Likouala", "Far northern Congo", "Forest and swamp zone"]
+    },
+    {
+      "id": "cg-betou-cities-v2",
+      "description": "Betou is a river town in Likouala near the Ubangi corridor. Its location gives it cross-border importance in far northern Congo.",
+      "facts": ["In Likouala", "On the Ubangi corridor", "Near the CAR border"]
+    }
+  ]
+}

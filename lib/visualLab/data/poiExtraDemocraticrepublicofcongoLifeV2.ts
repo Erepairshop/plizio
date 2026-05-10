@@ -200,13 +200,13 @@ export const poiExtraDemocraticrepublicofcongoLifeV2: POI[] = [
     description: {
       de: "Ein riesiger landwirtschaftlicher Komplex, der für die Nahrungsmittelproduktion und die Ausbildung von Arbeitskräften genutzt wird.",
       hu: "Hatalmas mezőgazdasági komplexum, amelyet élelmiszertermelésre és munkaerő-képzésre használnak.",
-      ro: "Un complex agricol uriaș utilizat pentru producția de alimente și formarea forței de muncă.",
+      ro: "Această fermă de stat din provincia Haut-Lomami este o unitate agricolă semnificativă pentru producția locală de alimente. Jucând un rol esențial în securitatea alimentară regională, aceasta gestionează mari suprafețe cultivate.",
       en: "A massive agricultural complex used for food production and labor force training."
     },
     facts: {
       de: ["Schwerpunkt auf Maisanbau.", "Wird vom 'Service National' verwaltet.", "Soll die Ernährungssicherheit verbessern."],
       hu: ["Kukoricatermesztésre összpontosít.", "A 'Service National' kezeli.", "Az élelmiszerbiztonság javítását szolgálja."],
-      ro: ["Accent pe cultivarea porumbului.", "Administrată de \"Service National\".", "Menită să îmbunătățească securitatea alimentară."],
+      ro: ["Situată în Haut-Lomami", "Centru agricol regional", "Focus pe securitatea alimentară"],
       en: ["Focus on maize cultivation.", "Managed by the 'Service National'.", "Aims to improve food security."]
     }, image: "/poi-images/kaniama-state-farm-life-v2.webp"},
   {

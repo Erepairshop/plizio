@@ -41,8 +41,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["Több mint 280 négyzetkilométeres területet foglal el.", "Nyersanyagot biztosít a szomszédos Oroszország petrolkémiai üzemei számára.", "Hatalmas folyékony szénhidrogén-készletekkel rendelkezik."],
       ro: ["Acoperă o suprafață de peste 280 de kilometri pătrați.", "Furnizează materii prime pentru uzinele petrochimice din Rusia vecină.", "Deține rezerve uriașe de hidrocarburi lichide."],
       en: ["Covers an area of over 280 square kilometers.", "Provides raw materials for petrochemical plants in neighboring Russia.", "Holds vast reserves of liquid hydrocarbons."]
-    }
-  },
+    }, image: "/poi-images/karachaganak-field-economic-v2.webp"},
   {
     id: "port-of-aktau-economic-v2",
     type: "port",
@@ -55,8 +54,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["Egész évben jégmentes és hajózható.", "A transzkaszpi nemzetközi szállítási útvonal központi csomópontja.", "Eredetileg az uránipar számára alapították 1963-ban."],
       ro: ["Navigabil și fără gheață pe tot parcursul anului.", "Este un nod central al Rutei de Transport Internațional Transcaspic.", "A fost fondat inițial în 1963 pentru industria uraniului."],
       en: ["Ice-free and navigable year-round.", "A central hub of the Trans-Caspian International Transport Route.", "Originally founded in 1963 for the uranium industry."]
-    }
-  },
+    }, image: "/poi-images/port-of-aktau-economic-v2.webp"},
   {
     id: "port-of-kuryk-economic-v2",
     type: "port",
@@ -69,8 +67,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["Az Új Selyemút fejlesztésének egyik kulcsprojektje.", "Az autókomp-komplexumot 2018-ban adták át.", "Mély megközelítési csatornákkal rendelkezik nagy hajók számára."],
       ro: ["Un proiect cheie pentru dezvoltarea Noului Drum al Mătăsii.", "Complexul de feriboturi auto a fost dat în funcțiune în 2018.", "Dispune de canale de acces adânci pentru nave mari."],
       en: ["A key project for the development of the New Silk Road.", "The auto ferry complex was commissioned in 2018.", "Features deep approach channels for large vessels."]
-    }
-  },
+    }, image: "/poi-images/port-of-kuryk-economic-v2.webp"},
   {
     id: "bogatyr-coal-mine-economic-v2",
     type: "mine",
@@ -83,8 +80,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["Guinness-rekorder, mint a termelési volumen alapján a legnagyobb külszíni szénbánya.", "A bánya méretei olyan nagyok, hogy az űrből is láthatóak.", "Saját, kiterjedt vasúthálózattal rendelkezik."],
       ro: ["Deține recordul mondial Guinness ca cea mai mare mină de cărbune la suprafață după volumul de producție.", "Dimensiunile minei sunt atât de mari încât pot fi văzute din spațiu.", "Are propria rețea feroviară extinsă."],
       en: ["Holds the Guinness World Record as the largest open-pit coal mine by production volume.", "The scale of the mine is so large it can be seen from space.", "Has its own extensive railway network."]
-    }
-  },
+    }, image: "/poi-images/bogatyr-coal-mine-economic-v2.webp"},
   {
     id: "khorgos-gateway-economic-v2",
     type: "trade-hub",
@@ -97,8 +93,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["Gyakran nevezik az eurázsiai vasúti híd legfontosabb csomópontjának.", "Itt találkozik a kínai normál nyomtáv a kazah széles nyomtávval.", "Szó szerint a sivatagi homokból épült fel."],
       ro: ["Adesea numit cel mai important nod al podului feroviar eurasiatic.", "Aici ecartamentul standard chinez se întâlnește cu ecartamentul larg kazah.", "A fost construit literalmente din nisipul deșertului."],
       en: ["Often referred to as the most crucial hub of the Eurasian land bridge.", "This is where the Chinese standard gauge meets the Kazakh broad gauge.", "Was built literally out of the desert sand."]
-    }
-  },
+    }, image: "/poi-images/khorgos-gateway-economic-v2.webp"},
   {
     id: "temirtau-steel-plant-economic-v2",
     type: "industry",
@@ -111,8 +106,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["Kazahsztán első elnöke, Nurszultan Nazarbajev egykor acélmunkásként dolgozott itt.", "A gyár évente több millió tonna acélt termel.", "Az üzem az ArcelorMittal konszernhez tartozik."],
       ro: ["Primul președinte al Kazahstanului, Nursultan Nazarbaev, a lucrat aici cândva ca oțelar.", "Fabrica produce milioane de tone de oțel pe an.", "Uzina aparține grupului ArcelorMittal."],
       en: ["The first President of Kazakhstan, Nursultan Nazarbayev, once worked here as a steelworker.", "The plant produces millions of tons of steel annually.", "The facility belongs to the ArcelorMittal group."]
-    }
-  },
+    }, image: "/poi-images/temirtau-steel-plant-economic-v2.webp"},
   {
     id: "ust-kamenogorsk-titanium-magnesium-plant-economic-v2",
     type: "industry",
@@ -125,8 +119,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["Ismert globális repülőgépgyártókat lát el.", "A világ azon kevés titánüzemeinek egyike, amelyek teljesen integráltak.", "Központi szerepet játszik a régió csúcstechnológiai gazdaságában."],
       ro: ["Aprovizionează producători globali de avioane de renume.", "Este una dintre puținele uzine de titan complet integrate din lume.", "Joacă un rol central în economia de înaltă tehnologie a regiunii."],
       en: ["Supplies major global aircraft manufacturers.", "It is one of the few fully integrated titanium plants in the world.", "Plays a central role in the regional high-tech economy."]
-    }
-  },
+    }, image: "/poi-images/ust-kamenogorsk-titanium-magnesium-plant-economic-v2.webp"},
   {
     id: "zhezkazgan-copper-mine-economic-v2",
     type: "mine",
@@ -139,8 +132,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["A rézkészleteket már az ókorban is bányászták.", "A modern Zsezkazgan várost a bányászok számára alapították.", "A bánya ritkaföldfémeket is termel melléktermékként."],
       ro: ["Zăcămintele de cupru au fost exploatate încă din antichitate.", "Orașul modern Zhezkazgan a fost fondat pentru mineri.", "Mina produce, de asemenea, pământuri rare ca produse secundare."],
       en: ["Copper deposits here have been mined since antiquity.", "The modern city of Zhezkazgan was founded for the miners.", "The mine also produces rare earth elements as by-products."]
-    }
-  },
+    }, image: "/poi-images/zhezkazgan-copper-mine-economic-v2.webp"},
   {
     id: "balkhash-copper-smelter-economic-v2",
     type: "industry",
@@ -167,8 +159,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["1978-ban épült a korabeli fejlett technológiával.", "Magas oktánszámú benzint és repülőgép-üzemanyagot termel.", "Mélyfeldolgozási kapacitásokkal rendelkezik."],
       ro: ["Construită în 1978 folosind o tehnologie avansată la acea vreme.", "Produce benzină cu cifră octanică ridicată și combustibil pentru aviație.", "Dispune de capacități profunde de prelucrare."],
       en: ["Built in 1978 using advanced technology of the time.", "Produces high-octane gasoline and aviation fuel.", "Features deep processing capabilities."]
-    }
-  },
+    }, image: "/poi-images/pavlodar-oil-refinery-economic-v2.webp"},
   {
     id: "atyrau-oil-refinery-economic-v2",
     type: "industry",
@@ -195,8 +186,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["1985-ben helyezték üzembe.", "A déli régiók üzemanyag-igényének nagy részét fedezi.", "Modernizálták az Euro-4 és Euro-5 szabványoknak megfelelően."],
       ro: ["A fost dată în funcțiune în 1985.", "Acoperă majoritatea nevoilor de combustibil din regiunile sudice.", "A fost modernizată pentru a îndeplini standardele Euro 4 și Euro 5."],
       en: ["It was commissioned in 1985.", "Covers the majority of the fuel needs in the southern regions.", "Was modernized to meet Euro-4 and Euro-5 standards."]
-    }
-  },
+    }, image: "/poi-images/shymkent-oil-refinery-economic-v2.webp"},
   {
     id: "ekibastuz-gres-1-power-station-economic-v2",
     type: "energy",
@@ -209,8 +199,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["4000 megawatt beépített kapacitással rendelkezik.", "A hatalmas kémények uralják a sík sztyeppei tájat.", "Kulcsszerepet játszik az ország egységes villamosenergia-hálózatában."],
       ro: ["Are o capacitate instalată de 4.000 de megawați.", "Coșurile de fum uriașe domină peisajul plat de stepă.", "Joacă un rol cheie în rețeaua electrică unificată a țării."],
       en: ["Has an installed capacity of 4,000 megawatts.", "The massive chimneys dominate the flat steppe landscape.", "Plays a key role in the unified national electricity grid."]
-    }
-  },
+    }, image: "/poi-images/ekibastuz-gres-1-power-station-economic-v2.webp"},
   {
     id: "ekibastuz-gres-2-power-station-economic-v2",
     type: "energy",
@@ -223,8 +212,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["A kémény elképesztő, 419,7 méter magas.", "A mérete ellenére az eredetileg tervezett nyolc blokkból csak kettő készült el.", "Az erőmű alacsony szén-dioxid-kibocsátású égőtechnológiákat alkalmaz."],
       ro: ["Coșul de fum are o înălțime incredibilă de 419,7 metri.", "În ciuda dimensiunilor sale, doar două dintre cele opt blocuri planificate inițial au fost finalizate.", "Centrala folosește tehnologii de ardere cu emisii reduse de carbon."],
       en: ["The chimney is an incredible 419.7 meters high.", "Despite its scale, only two of the originally planned eight blocks were completed.", "The power station uses low-carbon burner technologies."]
-    }
-  },
+    }, image: "/poi-images/ekibastuz-gres-2-power-station-economic-v2.webp"},
   {
     id: "aktobe-ferroalloy-plant-economic-v2",
     type: "industry",
@@ -237,8 +225,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["A régió egyik legrégebbi üzeme, amelyet nemrégiben jelentősen modernizáltak.", "Az itteni olvasztókemencék az ágazat leginnovatívabbjai közé tartoznak.", "A krómötvözetek világpiaci kínálatának jelentős része innen származik."],
       ro: ["Una dintre cele mai vechi fabrici din regiune, modernizată masiv recent.", "Cuptoarele de topire de acolo sunt printre cele mai inovatoare din industrie.", "O mare parte din oferta mondială de aliaje de crom provine de aici."],
       en: ["One of the oldest plants in the region, recently heavily modernized.", "The smelting furnaces there are among the most innovative in the industry.", "A large part of the global supply of chromium alloys originates from here."]
-    }
-  },
+    }, image: "/poi-images/aktobe-ferroalloy-plant-economic-v2.webp"},
   {
     id: "sokolov-sarbai-iron-ore-plant-economic-v2",
     type: "mine",
@@ -251,8 +238,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["A vállalat több hatalmas külszíni bányából termeli ki az ércet.", "A létesítmény évente több millió tonna vasércpelletet és koncentrátumot állít elő.", "Rudnij várost az 1950-es években kifejezetten ehhez a gyárhoz alapították."],
       ro: ["Compania extrage minereul din mai multe mine uriașe de suprafață.", "Facilitatea produce milioane de tone de pelete și concentrate de minereu de fier.", "Rudny a fost fondat în anii 1950 special pentru această uzină."],
       en: ["The company extracts ore from several giant open-pit mines.", "The facility produces millions of tons of iron ore pellets and concentrates.", "Rudny was founded in the 1950s specifically for this plant."]
-    }
-  },
+    }, image: "/poi-images/sokolov-sarbai-iron-ore-plant-economic-v2.webp"},
   {
     id: "inkai-uranium-mine-economic-v2",
     type: "mine",
@@ -265,8 +251,7 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       hu: ["Kazahsztán a világ legnagyobb urántermelője, és Inkai ennek kulcsfontosságú tényezője.", "Nemzetközi partnerekkel közös vállalatként működtetik.", "A bányászat nem hagy nyílt gödröket a felszínen."],
       ro: ["Kazahstanul este cel mai mare producător de uraniu din lume, iar Inkai este un factor cheie în acest sens.", "Este operată ca o societate mixtă cu parteneri internaționali.", "Exploatarea nu lasă gropi deschise la suprafață."],
       en: ["Kazakhstan is the largest uranium producer globally, and Inkai is a key contributor.", "Operated as a joint venture with international partners.", "The mining process leaves no open pits on the surface."]
-    }
-  },
+    }, image: "/poi-images/inkai-uranium-mine-economic-v2.webp"},
   {
     id: "bozshakol-copper-mine-economic-v2",
     type: "mine",

@@ -18,8 +18,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Több mint 350 000 négyzetkilométert borít.", "A neve azt jelenti, fekete homok."],
       ro: ["Acoperă peste 350.000 de kilometri pătrați.", "Numele înseamnă nisip negru."],
       en: ["Covers over 350,000 square kilometers.", "The name translates to Black Sand."]
-    }
-  },
+    }, image: "/poi-images/karakum-desert-relief-v2.webp"},
   {
     id: "zaunguz-karakum-relief-v2",
     type: "desert",
@@ -37,8 +36,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Jelentős magasságkülönbséget mutat a központi sivataghoz képest.", "Ősi, tömörített homokdűnékből áll."],
       ro: ["Prezintă diferențe clare de altitudine față de deșertul central.", "Constă din dune de nisip vechi, compactate."],
       en: ["Shows clear elevation differences to the central desert.", "Consists of ancient, compacted sand dunes."]
-    }
-  },
+    }, image: "/poi-images/zaunguz-karakum-relief-v2.webp"},
   {
     id: "central-karakum-relief-v2",
     type: "desert",
@@ -94,8 +92,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Közvetlenül az Amu-darja folyóvölgyével határos.", "Gazdag hüllő fajgazdagsággal rendelkezik."],
       ro: ["Se învecinează direct cu valea râului Amu Daria.", "Are o bogată diversitate de specii de reptile."],
       en: ["Borders directly on the river valley of the Amu Darya.", "Has a rich biodiversity of reptiles."]
-    }
-  },
+    }, image: "/poi-images/sundukli-desert-relief-v2.webp"},
   {
     id: "ustyurt-plateau-tm-relief-v2",
     type: "plateau",
@@ -113,8 +110,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Főleg mállott mészkőből áll.", "Egykor egy történelem előtti óceán feneke volt."],
       ro: ["Constă în principal din calcar erodat.", "A fost odată fundul unui ocean preistoric."],
       en: ["Consists mainly of weathered limestone.", "Was once the bottom of a prehistoric ocean."]
-    }
-  },
+    }, image: "/poi-images/ustyurt-plateau-tm-relief-v2.webp"},
   {
     id: "kaplankyr-plateau-relief-v2",
     type: "plateau",
@@ -132,8 +128,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["A terepet mély mélyedések szelik át.", "Fontos élőhelye a sivatagi gazelláknak."],
       ro: ["Terenul este intersectat de depresiuni adânci.", "Habitat important pentru gazelele de deșert."],
       en: ["The terrain is crisscrossed by deep depressions.", "Important habitat for desert gazelles."]
-    }
-  },
+    }, image: "/poi-images/kaplankyr-plateau-relief-v2.webp"},
   {
     id: "krasnovodsk-plateau-relief-v2",
     type: "plateau",
@@ -170,8 +165,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Tavasszal kiváló legelőként tartják számon.", "500-900 méteres magasságban fekszik."],
       ro: ["Este considerat o pășune excelentă primăvara.", "Se află la o altitudine de 500 până la 900 de metri."],
       en: ["Considered an excellent pasture area in spring.", "Lies at an altitude of 500 to 900 meters."]
-    }
-  },
+    }, image: "/poi-images/karabil-plateau-relief-v2.webp"},
   {
     id: "badhyz-hills-relief-v2",
     type: "plateau",
@@ -189,8 +183,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Hatalmas vad pisztáciafaligetekkel rendelkezik.", "A veszélyeztetett ázsiai vadszamár (kulan) otthona."],
       ro: ["Are plantații uriașe de fistic sălbatic.", "Căminul măgarului sălbatic asiatic pe cale de dispariție (kulan)."],
       en: ["Features huge groves of wild pistachio trees.", "Home to the endangered Asian wild ass (Kulan)."]
-    }
-  },
+    }, image: "/poi-images/badhyz-hills-relief-v2.webp"},
   {
     id: "koytendag-range-relief-v2",
     type: "mountain",
@@ -208,8 +201,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Itt található az Aýrybaba hegy (3139 m).", "A Pamír-Alaj hegységrendszer nyúlványa."],
       ro: ["Găzduiește Muntele Aýrybaba (3.139 m).", "Pinten al sistemului muntos Pamir-Alai."],
       en: ["Hosts Mount Aýrybaba (3,139 m).", "Spur of the Pamir-Alai mountain system."]
-    }
-  },
+    }, image: "/poi-images/koytendag-range-relief-v2.webp"},
   {
     id: "uly-balkan-relief-v2",
     type: "mountain",
@@ -227,8 +219,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Legmagasabb csúcsa az Arlan-hegy (1880 m).", "Nincsenek itt állandó folyók."],
       ro: ["Cel mai înalt vârf este Muntele Arlan cu 1.880 m.", "Aici nu există râuri permanente."],
       en: ["The highest peak is Mount Arlan at 1,880 m.", "There are no permanent rivers here."]
-    }
-  },
+    }, image: "/poi-images/uly-balkan-relief-v2.webp"},
   {
     id: "kici-balkan-relief-v2",
     type: "mountain",
@@ -246,8 +237,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Körülbelül 777 méteres maximális magasságot ér el.", "Elválasztja az északi sivatagot a Kopet-dag előterétől."],
       ro: ["Atinge o altitudine maximă de aproximativ 777 de metri.", "Separă deșertul nordic de poalele Kopet-Dag."],
       en: ["Reaches a maximum altitude of around 777 meters.", "Separates the northern desert from the Kopet-Dag foothills."]
-    }
-  },
+    }, image: "/poi-images/kici-balkan-relief-v2.webp"},
   {
     id: "syunt-peak-relief-v2",
     type: "mountain",
@@ -265,8 +255,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["A régió természetvédelmének központja.", "A termékeny Szumbar-völgy fölé magasodik."],
       ro: ["Centrul conservării naturii din regiune.", "Domină valea fertilă Sumbar."],
       en: ["Center of nature conservation in the region.", "Towers over the fertile Sumbar Valley."]
-    }
-  },
+    }, image: "/poi-images/syunt-peak-relief-v2.webp"},
   {
     id: "hasardag-peak-relief-v2",
     type: "mountain",
@@ -284,8 +273,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["A Szünt-Haszardag ökoszisztéma része.", "A lejtőket gyakran vad gyümölcsfák borítják."],
       ro: ["Parte a ecosistemului Sünt-Hasardag.", "Pantele sunt adesea acoperite cu pomi fructiferi sălbatici."],
       en: ["Part of the Syunt-Hasardag ecosystem.", "The slopes are often covered with wild fruit trees."]
-    }
-  },
+    }, image: "/poi-images/hasardag-peak-relief-v2.webp"},
   {
     id: "uzboy-valley-relief-v2",
     type: "valley",
@@ -303,8 +291,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["A 16. századig még vizet szállított.", "Sós tavak láncolatát hagyta hátra."],
       ro: ["A purtat apă până în secolul al XVI-lea.", "A lăsat în urmă un lanț de lacuri sărate."],
       en: ["Carried water until the 16th century.", "Left behind a chain of salt lakes."]
-    }
-  },
+    }, image: "/poi-images/uzboy-valley-relief-v2.webp"},
   {
     id: "sumbar-valley-relief-v2",
     type: "valley",
@@ -341,8 +328,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Fontos pamuttermesztő régió.", "A folyó vize egy nagy szárazföldi deltában szivárog el."],
       ro: ["Regiune importantă pentru cultivarea bumbacului.", "Apa râului se scurge într-o deltă interioară vastă."],
       en: ["Important region for cotton cultivation.", "The river water seeps into a large inland delta."]
-    }
-  },
+    }, image: "/poi-images/murghab-valley-relief-v2.webp"},
   {
     id: "garabogazkol-coast-relief-v2",
     type: "coast",
@@ -360,8 +346,7 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Az itteni víz sótartalma sokkal magasabb, mint a Kaszpi-tengeré.", "Fontos régió a mirabilit bányászatához."],
       ro: ["Apa de aici are o salinitate mult mai mare decât Marea Caspică.", "Regiune importantă pentru extracția de mirabilit."],
       en: ["The water here has a much higher salinity than the Caspian Sea.", "Important region for the mining of mirabilite."]
-    }
-  },
+    }, image: "/poi-images/garabogazkol-coast-relief-v2.webp"},
   {
     id: "turkmenbashi-gulf-coast-relief-v2",
     type: "coast",

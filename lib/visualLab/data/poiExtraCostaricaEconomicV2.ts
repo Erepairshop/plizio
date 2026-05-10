@@ -8,7 +8,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-LI",
     coords: [-83.0333, 9.9939],
     name: { de: "Puerto Limón", hu: "Puerto Limón", ro: "Puerto Limón", en: "Puerto Limon" },
-    description: { de: "Der wichtigste Hafen Costa Ricas an der Karibikküste.", hu: "Costa Rica legfontosabb kikötője a Karib-tenger partján.", ro: "Cel mai important port al Costa Ricăi la Marea Caraibilor.", en: "The most important port of Costa Rica on the Caribbean coast." },
+    description: { de: "Der wichtigste Hafen Costa Ricas an der Karibikküste.", hu: "Costa Rica legfontosabb karibi kikötővárosa, amely az export és a regionális tengeri forgalom egyik fő kapuja. A város afro-karibi hangulata erősen elkülöníti az ország belső területeitől.", ro: "Cel mai important port de la Marea Caraibilor al Costa Ricăi, cu o identitate afro-caraibiană puternică. Este poarta maritimă principală pentru exporturi și pentru traficul din estul țării.", en: "Costa Rica's main Caribbean port and a key export gateway. It is closely tied to container traffic, banana shipments, and coastal logistics." },
     descriptionAdvanced: {
       de: "Puerto Lim?n ist der wichtigste Karibikhafen Costa Ricas und zugleich ein sichtbares Zentrum afrokaribischer Kultur. Der Ort wurde 1854 als Hafenstadt angelegt und wuchs mit der Atlantikbahn, die San Jos? mit der Küste verband. Heute bestimmen Containerverkehr, Bananenexporte und Küstenlogistik das Bild, w?hrend der Oktoberkarneval der Stadt jedes Jahr zusätzliche Aufmerksamkeit verschafft. Zwischen Hafenbecken, Gleisen und Stadtvierteln zeigt Lim?n sehr direkt, wie Handel und Alltag hier zusammengehören. Geografie K8 ? Seehäfen und Exportwege.",
       hu: "Puerto Limón Costa Rica legjelentősebb karibi kikötővárosa, amely mélyen gyökerezik az afro-karibi kultúrában és a tengeri kereskedelemben. A várost 1870-ben alapították, elsősorban a banán és a kávé exportjának megkönnyítésére az európai piacok felé. Limón hangulata teljesen eltér az ország többi részétől; a színes házak, a calypso zene és a helyi konyha egyedülálló kulturális koktélt alkot. Bár a város gazdaságát a hatalmas kikötői forgalom uralja, a közeli parkok és a tengerparti sétányok megőrizték trópusi bájukat. Minden év októberében itt rendezik meg az ország leglátványosabb karneválját, amely Kolumbusz Kristóf partraszállására emlékezik. Földrajz K8 – világkereskedelem és kikötővárosok.",
@@ -21,9 +21,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Hauptumschlagplatz für Bananen", "Karibischer Hauptknotenpunkt", "Wichtig für Exporte", "Gegründet: 1870"],
-      hu: ["Fő banánátrakodóhely", "Karib-tengeri központi csomópont", "Fontos az export számára", "Alapítva: 1870"],
-      ro: ["Principalul punct de export al bananelor", "Nod central caraibian", "Important pentru exporturi", "Fondat: 1870"],
-      en: ["Primary banana export hub", "Major Caribbean transit point", "Vital for national exports", "Founded: 1870"]
+      hu: ["Karibi kikötőváros", "Fontos exportkapu", "Erős afro-karibi hatás"],
+      ro: ["Pe coasta caraibiană", "Centru major de export", "Cultură afro-caraibiană"],
+      en: ["Caribbean coast", "Major export port", "Banana shipping hub"]
     },
      image: "/poi-images/puerto-limon-economic-v2.webp"},
   {
@@ -104,7 +104,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-C",
     coords: [-83.8967, 9.8700],
     name: { de: "Industriepark Cartago", hu: "Cartago Iparközpont", ro: "Parc Industrial Cartago", en: "Cartago Industrial Park" },
-    description: { de: "Ein bedeutender Industriestandort für Technologie und Fertigung.", hu: "Jelentős ipari helyszín technológiai és gyártási szektorban.", ro: "Un centru industrial semnificativ pentru tehnologie și producție.", en: "A major industrial hub for technology and manufacturing." },
+    description: { de: "Ein bedeutender Industriestandort für Technologie und Fertigung.", hu: "Jelentős ipari helyszín technológiai és gyártási szektorban.", ro: "Parc industrial din Cartago, orientat spre producție avansată și dispozitive medicale. Locația lui susține legătura dintre forța de muncă specializată și exporturile tehnologice.", en: "A major industrial hub for technology and manufacturing." },
     descriptionAdvanced: {
       de: "Der Industriepark Cartago liegt in einer der traditionsreichsten Städte Costa Ricas und verbindet alte Hauptstadtgeschichte mit moderner Fertigung. Der Standort ist besonders stark in der Herstellung medizinischer Gerște, bei Elektronik und im Gesundheitsbereich. Seine Lage im Umfeld von Cartago und in Reichweite von San Jos? macht ihn f?r hochqualifizierte Arbeitskräfte attraktiv, w?hrend das nahe TEC den technologischen Charakter der Region stützt. So ist der Park ein typisches Beispiel daf?r, wie Ausbildung, Exportindustrie und Stadtentwicklung in Costa Rica zusammenwirken. Geografie K8 ? Industriecluster und Qualifikationsräume.",
       hu: "A Cartago Iparközpont Costa Rica egyik legrégebbi és legfontosabb ipari zónája, amely az egykori főváros közelében fekszik. A területet kifejezetten a technológiai orientációjú vállalatok számára alakították ki, így ma számos orvostechnikai, elektronikai és precíziós gyártással foglalkozó nemzetközi cégnek ad otthont. Az iparközpont elhelyezkedése ideális, mivel közel van a rangos Costa Rica-i Technológiai Intézethez (TEC), ami biztosítja a magasan képzett munkaerőt. A modern infrastruktúra és a kedvező adózási környezet miatt a park a régió gazdasági motorjává vált. Az itt gyártott termékek jelentős részét az észak-amerikai és európai piacokra exportálják. Földrajz K8 – ipari körzetek és technológiai transzfer.",
@@ -118,7 +118,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     facts: {
       de: ["Technologiezentrum", "Viele multinationale Firmen", "Regionale Arbeitsplätze", "Wirtschaftsmotor"],
       hu: ["Technológiai központ", "Sok multinacionális cég", "Regionális munkahelyteremtés", "Gazdasági motor"],
-      ro: ["Centru tehnologic", "Multe companii multinaționale", "Locuri de muncă regionale", "Motor economic"],
+      ro: ["În orașul Cartago", "Focus pe dispozitive medicale", "Lângă coridorul tehnologic"],
       en: ["Tech and electronics hub", "Hosting multinational firms", "Regional job creator", "Economic engine"]
     },
      image: "/poi-images/parque-industrial-cartago-economic-v2.webp"},
@@ -128,7 +128,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-P",
     coords: [-84.1633, 9.4267],
     name: { de: "Puerto Quepos", hu: "Puerto Quepos", ro: "Puerto Quepos", en: "Puerto Quepos" },
-    description: { de: "Hafen für Tourismus und Fischerei am Pazifik.", hu: "Turisztikai és halászati kikötő a Csendes-óceánon.", ro: "Port pentru turism și pescuit la Oceanul Pacific.", en: "Port for tourism and fishing on the Pacific." },
+    description: { de: "Hafen für Tourismus und Fischerei am Pazifik.", hu: "A Csendes-óceán partján fekvő kikötő, amely Quepos és Manuel Antonio térségének tengeri bejárata. Inkább turisztikai és sporthorgászati forgalomról ismert, mint nehézáru-rakodásról.", ro: "Portul Quepos este legat mai ales de turism, pescuit și accesul către Manuel Antonio. Atmosfera lui este mai degrabă de marină mică decât de port de marfă.", en: "Port for tourism and fishing on the Pacific." },
     descriptionAdvanced: {
       de: "Puerto Quepos ist weniger ein Massengüterhafen als ein Ort, an dem Fischerei, Marina und Tourismus ineinandergreifen. Der Hafen dient als Ausgangspunkt f?r Sportfischen, maritime Ausflüge und die Erreichbarkeit des Nationalparks Manuel Antonio. Damit ist er eng mit der wirtschaftlichen Identit?t des zentralen Pazifiks verbunden, wo Küstenjobs stark vom Besucheraufkommen abh?ngen. Zwischen Bootsverkehr, Servicebetrieben und Küstenhandel zeigt Quepos, wie ein kleiner Hafen eine ganze Region tragen kann. Geografie K8 ? Küstentourismus und maritime Dienstleistungen.",
       hu: "Puerto Quepos egykor a banánkereskedelem fontos központja volt a csendes-óceáni parton, de mára az ország egyik legfontosabb turisztikai és luxus-kikötőjévé vált. A város kapuként szolgál a világhírű Manuel Antonio Nemzeti Parkhoz, ami meghatározza a gazdasági életét. A nemrégiben felépült modern jachtkikötő (Marina Pez Vela) nemzetközi hírnevet szerzett a sporthorgászat kedvelői körében, és számos vitorlásverseny helyszíne. A helyi halászflotta továbbra is aktív, friss tengeri gyümölcsökkel látva el a környék éttermeit. A kikötő hangulata a professzionális turizmus és a hagyományos tengerparti élet különleges keveréke. Földrajz K8 – turizmusgazdaság és kikötőfejlesztés.",
@@ -141,8 +141,8 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Wichtig für Yachthafen", "Pazifische Küstenfischerei", "Tourismus-Knotenpunkt", "Nahe Manuel Antonio"],
-      hu: ["Fontos kikötő", "Csendes-óceáni halászat", "Turisztikai csomópont", "Manuel Antonio közelében"],
-      ro: ["Important pentru port de agrement", "Pescuit pe coasta Pacificului", "Nod turistic", "Lângă Manuel Antonio"],
+      hu: ["Csendes-óceáni part", "Turisztikai kikötő", "Manuel Antonio közelében"],
+      ro: ["Pe Pacific", "Legat de Manuel Antonio", "Important pentru pescuit"],
       en: ["Key marina infrastructure", "Pacific coastal fishing", "Tourism transit hub", "Near Manuel Antonio"]
     },
     
@@ -177,7 +177,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-P",
     coords: [-84.8333, 9.9833],
     name: { de: "Puerto Puntarenas", hu: "Puerto Puntarenas", ro: "Puerto Puntarenas", en: "Puerto Puntarenas" },
-    description: { de: "Ein bedeutender Hafen und Ausgangspunkt für Kreuzfahrtschiffe.", hu: "Jelentős kikötő és kiindulópont az óceánjáró hajók számára.", ro: "Un port semnificativ și punct de plecare pentru navele de croazieră.", en: "A significant port and departure point for cruise ships." },
+    description: { de: "Ein bedeutender Hafen und Ausgangspunkt für Kreuzfahrtschiffe.", hu: "Jelentős kikötő és kiindulópont az óceánjáró hajók számára.", ro: "Terminalul din Punta Arenas deservește legăturile maritime din Golful Nicoya. Este un punct de plecare util pentru pasageri și vehicule care merg spre peninsula Nicoya.", en: "A significant port and departure point for cruise ships." },
     descriptionAdvanced: {
       de: "Das Terminal in Punta Arenas erinnert daran, dass die Pazifikküste Costa Ricas früher ganz anders organisiert war. Der Standort am Golf von Nicoya war lange Zeit ein zentraler Knotenpunkt f?r den Kaffeeexport und entwickelte sich später zu einem regionalen Verkehrspunkt f?r Inseln, Küstenorte und den Tourismus. Heute ist er vor allem als historischer Hafen im kollektiven Gedächtnis präsent, weil sich hier frühe Wirtschaftsstr?me des Landes b?ndeln ließen. Der Ort macht sichtbar, wie stark sich die Hafenfunktion im Lauf der Zeit verschoben hat. Geografie K8 ? historische Hafenräume und regionale Mobilit?t.",
       hu: "Puerto Puntarenas Costa Rica egyik legpatinásabb kikötője a Csendes-óceán partján, amely egy hosszú, keskeny földnyelven helyezkedik el a Nicoya-öbölben. Történelmileg ez volt az ország fő kikötője a kávéexport aranykorában, bár a nagy teherforgalom mára átkerült a közeli Calderába. Manapság a város gazdaságát a tömegturizmus és az óceánjáró luxushajók fogadása élteti. A híres \\\"Paseo de los Turistas\\\" sétány a kikötő mellett népszerű találkozóhely, ahol a látogatók élvezhetik a helyi ételeket és a tengeri levegőt. A kikötő továbbra is fontos bázisa a kézműves halászatnak és a Nicoya-félszigetre tartó kompjáratoknak. Földrajz K8 – kikötői funkcióváltás és idegenforgalom.",
@@ -191,7 +191,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     facts: {
       de: ["Kreuzfahrtterminal", "Fischerei-Hub", "Tourismus-Ausgangspunkt", "Historischer Hafen"],
       hu: ["Óceánjáró terminál", "Halászati központ", "Turisztikai kiindulópont", "Történelmi kikötő"],
-      ro: ["Terminal de croazieră", "Hub de pescuit", "Punct de plecare pentru turism", "Port istoric"],
+      ro: ["În Puntarenas", "Legătură spre Nicoya", "Folosit de ferry"],
       en: ["Cruise ship terminal", "Fishing industry hub", "Tourism departure point", "Historic port facility"]
     },
     
@@ -226,7 +226,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-S",
     coords: [-84.1000, 9.9500],
     name: { de: "Industriepark La Uruca", hu: "La Uruca Iparközpont", ro: "Parc Industrial La Uruca", en: "La Uruca Industrial Park" },
-    description: { de: "Ein bedeutender industrieller Standort in San José.", hu: "Jelentős ipari terület San Joséban.", ro: "Un sit industrial semnificativ în San José.", en: "A significant industrial site in San Jose." },
+    description: { de: "Ein bedeutender industrieller Standort in San José.", hu: "San José egyik meghatározó ipari negyede, ahol gyártó és logisztikai cégek működnek. A városi ellátási láncok egyik fontos csomópontja.", ro: "Un sit industrial semnificativ în San José.", en: "An industrial park in San Jose used by manufacturing and logistics companies. It supports the capital area's supply chains and urban production network." },
     descriptionAdvanced: {
       de: "Der Parque Industrial La Ureca steht f?r die eher stille, aber wichtige Seite der costa-ricanischen Produktionslandschaft. Hier geht es weniger um große Schlagzeilen als um kleine und mittlere Unternehmen, regionale Besch?ftigung und kurze Wege zu lokalen Märkten. Die Lage im Central Valley verschafft dem Standort gute Logistik und eine stabile Einbindung in den Wirtschaftsraum rund um San Jos?. Genau solche Parks halten viele Lieferketten im Alltag am Laufen, ohne im ?ffentlichen Blick zu stehen. Geografie K8 ? regionale Produktion und Standortentwicklung.",
       hu: "La Uruca San José északi részének meghatározó ipari és kereskedelmi negyede, amely az ország logisztikai hálózatának egyik legfontosabb csomópontja. Ez a terület ad otthont a legtöbb nemzetközi autókereskedésnek, javítóműhelynek és könnyűipari üzemnek. Stratégiai elhelyezkedése a Panamerikai autópálya és a fővárosi körgyűrű mentén ideálissá teszi a disztribúciós központok számára. A negyedben számos nyomda, élelmiszeripari feldolgozó és raktárbázis is működik, kiszolgálva a Központi-völgy növekvő igényeit. Bár urbanizált és forgalmas terület, a modernizációs projektek révén egyre több hatékony és fenntartható ipari létesítmény épül ide. Földrajz K8 – városi ipari övezetek és közlekedés.",
@@ -239,9 +239,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Industriecluster", "Logistikzentrum", "Produktionsstätten", "Arbeitgeber in San José"],
-      hu: ["Ipari klaszter", "Logisztikai központ", "Gyártóüzemek", "San José-i munkáltató"],
+      hu: ["San Joséban van", "Ipari negyed", "Logisztikai szerep"],
       ro: ["Cluster industrial", "Centru logistic", "Unități de producție", "Angajator în San José"],
-      en: ["Industrial cluster", "Logistics hub", "Production facilities", "Major San Jose employer"]
+      en: ["In San Jose", "Industrial and logistics site", "Urban supply chain role"]
     },
      image: "/poi-images/parque-industrial-la-ureca-economic-v2.webp"},
   {
@@ -250,7 +250,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-P",
     coords: [-84.8833, 9.9167],
     name: { de: "Fährterminal Puntarenas-Naranjo", hu: "Puntarenas-Naranjo Faterminál", ro: "Terminal Feribot Puntarenas-Naranjo", en: "Puntarenas-Naranjo Ferry Terminal" },
-    description: { de: "Wichtige Fährverbindung zwischen Festland und Nicoya-Halbinsel.", hu: "Fontos kompjárat a szárazföld és a Nicoya-félsziget között.", ro: "Legătură importantă de feribot între continent și peninsula Nicoya.", en: "Important ferry link between the mainland and the Nicoya Peninsula." },
+    description: { de: "Wichtige Fährverbindung zwischen Festland und Nicoya-Halbinsel.", hu: "A Golfo de Nicoya kompforgalmának egyik fontos part menti terminálja, amely a félsziget és a szárazföld közti közlekedést szolgálja. Fő szerepe az utas- és járműátkelés gyorsítása.", ro: "Terminalul de ferry din zona Nicoya leagă coasta de peninsula Nicoya peste Golful Nicoya. Reduce mult timpul de deplasare față de traseele ocolitoare.", en: "Important ferry link between the mainland and the Nicoya Peninsula." },
     descriptionAdvanced: {
       de: "Das F?hrterminal Nicoya ist die praktische Verbindung zwischen dem Festland und der Nicoya-Halbinsel. ?ber den Golf von Nicoya laufen hier t?gliche Fahrten, die Pendler, Waren, Touristen und regionale Logistik zusammenbringen. Gerade f?r die Mobilit?t im Nordwesten des Landes ist dieser Knotenpunkt unverzichtbar, weil er Straßenwege verkürzt und den Verkehr zwischen Provinzen stabilisiert. Das Terminal zeigt, dass Infrastruktur nicht nur aus großen H?fen besteht, sondern auch aus verlässlichen ?bergängen im Alltag. Geografie K8 ? regionale Verkehrsknoten und Küstenmobilit?t.",
       hu: "A Puntarenas és Playa Naranjo között közlekedő faterminál létfontosságú kapocs a szárazföld és a Nicoya-félsziget déli része között. Ez a kompjárat nemcsak a helyi lakosok számára biztosít gyors eljutást, hanem a turizmus egyik legfontosabb útvonala is. Az átkelés során az utasok a Nicoya-öböl festői szigeteit és tengerparti tájait csodálhatják meg, elkerülve a hosszú és fárasztó autózást a szárazföldön. A terminál infrastruktúrája folyamatosan fejlődik, hogy kiszolgálja a növekvő jármű- és utasforgalmat. A kompjárat megbízható és menetrend szerinti működése alapvető a félsziget gazdasági és turisztikai fejlődéséhez. Földrajz K8 – tengeri közlekedés és regionális kapcsolatok.",
@@ -263,8 +263,8 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Wichtige Transportroute", "Touristen-Logistik", "Auto-Transport", "Guanacaste-Anbindung"],
-      hu: ["Fontos szállítási útvonal", "Turisztikai logisztika", "Autószállítás", "Guanacaste kapcsolat"],
-      ro: ["Rută de transport esențială", "Logistică turistică", "Transport auto", "Conexiune Guanacaste"],
+      hu: ["Golfo de Nicoyánál", "Félszigeti kapcsolat", "Utas- és járműforgalom"],
+      ro: ["Traversare peste golf", "Acces la peninsula Nicoya", "Transport de pasageri și mașini"],
       en: ["Vital transport route", "Tourism logistics", "Vehicle transport", "Gateway to Guanacaste"]
     },
      image: "/poi-images/terminal-ferry-nicoya-economic-v2.webp"},
@@ -274,7 +274,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-P",
     coords: [-83.1667, 8.6500],
     name: { de: "Puerto Golfito", hu: "Puerto Golfito", ro: "Puerto Golfito", en: "Puerto Golfito" },
-    description: { de: "Historischer Hafen im Süden des Landes.", hu: "Történelmi kikötő az ország déli részén.", ro: "Port istoric în sudul țării.", en: "Historic port in the south of the country." },
+    description: { de: "Historischer Hafen im Süden des Landes.", hu: "Golfito-öbölben működő déli csendes-óceáni kikötő, amely közel van a panamai határhoz. Fontos logisztikai pont a térség kereskedelmében és hajóforgalmában.", ro: "Portul Golfito deschide accesul spre Golfo Dulce și spre sudul Pacificului costarican. Zona are o istorie comercială puternică și rămâne importantă pentru transportul regional.", en: "Historic port in the south of the country." },
     descriptionAdvanced: {
       de: "Puerto Golfito verbindet einen tiefen Naturhafen mit einer ungewöhnlichen Handelsgeschichte. Der Ort am Golfo Dulce war lange eng mit den Bananenunternehmen des S?dens verknüpft und besitzt bis heute eine besondere wirtschaftliche Funktion durch die Freizone und den regionalen Handel. Gleichzeitig liegt er an einer Schnittstelle zu empfindlichen ?kosystemen des s?dlichen Pazifiks. Dadurch entstehen hier sehr direkte Beziehungen zwischen Wirtschaft, Küste und Naturräumen. Geografie K8 ? historische H?fen und s?dliche Küstenwirtschaft.",
       hu: "Golfito Costa Rica legdélebbi kikötővárosa, amely egy mély, védett öbölben (Golfo Dulce) fekszik, hegyekkel körülvéve. A város aranykorát a 20. század közepén élte az United Fruit Company központjaként, amikor innen szállították a világhírű Costa Rica-i banánt. A banánkereskedelem kivonulása után a város gazdaságát a vámmentes övezet (Deposito Libre) és az ökoturizmus mentette meg. Ma a sporthorgászok és a természetjárók kedvelt bázisa, akik a közeli esőerdőket és az érintetlen partokat keresik fel. A város építészete ma is őrzi a korábbi amerikai \\\"vállalati város\\\" stílusjegyeit. Földrajz K8 – monokultúrás gazdálkodás és kikötői átalakulás.",
@@ -287,8 +287,8 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Südlicher Hafen", "Zollfreies Einkaufsgebiet", "Früher Bananen-Zentrum", "Fischerei"],
-      hu: ["Déli kikötő", "Vámmentes bevásárlóövezet", "Egykori banánközpont", "Halászat"],
-      ro: ["Port sudic", "Zonă de cumpărături duty-free", "Fost centru de banane", "Pescuit"],
+      hu: ["Golfito-öbölben", "Panamához közel", "Déli kikötői csomópont"],
+      ro: ["În sudul Pacificului", "La Golfo Dulce", "Istoric comercial"],
       en: ["Southern port city", "Duty-free shopping zone", "Former banana hub", "Commercial fishing"]
     },
      image: "/poi-images/puerto-golfito-economic-v2.webp"},
@@ -298,7 +298,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-C",
     coords: [-83.9000, 9.8700],
     name: { de: "Zona Franca Cartago", hu: "Cartago Szabadkereskedelmi Zóna", ro: "Zona Francă Cartago", en: "Zona Franca Cartago" },
-    description: { de: "Industrielles Freihandelsgebiet in Cartago.", hu: "Ipari szabadkereskedelmi terület Cartagóban.", ro: "Zonă industrială de liber schimb în Cartago.", en: "Industrial free trade zone in Cartago." },
+    description: { de: "Industrielles Freihandelsgebiet in Cartago.", hu: "Cartago egyik meghatározó szabadkereskedelmi és ipari övezete, ahol a gyártás és az exportorientált logisztika találkozik. A tartomány képzett munkaereje miatt régóta vonzza a vállalatokat.", ro: "Zonă industrială de liber schimb în Cartago.", en: "Industrial free trade zone in Cartago." },
     descriptionAdvanced: {
       de: "Die Zona Franca Cartago nutzt den Standortvorteil einer traditionsreichen Provinz und verbindet ihn mit moderner Industrie. Besonders wichtig sind dort fortgeschrittene Fertigung, technische Dienstleistungen und die N?he zu Bildungs- und Forschungseinrichtungen. Cartago ist f?r viele Unternehmen attraktiv, weil hier Fachkräfte, Infrastruktur und Exportorientierung zusammenkommen. So entsteht ein Standort, an dem nicht nur produziert, sondern auch technologisches Wissen gebündelt wird. Geografie K8 ? Hightech-Fertigung und Standortnetzwerke.",
       hu: "A Cartago Szabadkereskedelmi Zóna a történelmi főváros mellett fekvő, dinamikusan fejlődő ipari és technológiai park. A zónát úgy alakították ki, hogy vonzó legyen az exportorientált külföldi befektetők számára, különösen az orvostechnikai eszközök gyártása és a precíziós mérnöki ipar területén. A helyszín előnye a hűvösebb klíma, ami kedvez bizonyos technológiai folyamatoknak, valamint a kiváló oktatási intézmények közelsége. A területen belül modern logisztikai terminálok és vámszabad raktárak segítik a gyors árumozgást. A zóna sikere nagyban hozzájárult ahhoz, hogy Cartago városa modern ipari központtá váljon. Földrajz K8 – gazdasági övezetek és regionális fejlesztés.",
@@ -311,7 +311,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Export-Unternehmen", "Investitionsanreize", "Industrie-Cluster", "Wirtschaftliches Wachstum"],
-      hu: ["Exportcégek", "Befektetési ösztönzők", "Ipari klaszter", "Gazdasági növekedés"],
+      hu: ["Cartago tartományban", "Exportorientált ipari zóna", "Képzett munkaerőre épít"],
       ro: ["Companii de export", "Stimulente pentru investiții", "Cluster industrial", "Creștere economică"],
       en: ["Export-based companies", "Investment incentives", "Industrial cluster", "Economic growth site"]
     },
@@ -322,7 +322,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-A",
     coords: [-84.8000, 10.5000],
     name: { de: "Sandillal Wasserkraftwerk", hu: "Sandillal Vízerőmű", ro: "Hidrocentrala Sandillal", en: "Sandillal Hydroelectric Plant" },
-    description: { de: "Wasserkraftwerk in der Arenal-Region.", hu: "Vízerőmű az Arenal régióban.", ro: "Hidrocentrală în regiunea Arenal.", en: "Hydroelectric power plant in the Arenal region." },
+    description: { de: "Wasserkraftwerk in der Arenal-Region.", hu: "Az Arenal térségéhez kötődő vízerőmű, amely a megújuló energia-rendszer része. A vízenergia helyi és országos hálózati stabilitást is támogat.", ro: "Hidrocentrală în regiunea Arenal.", en: "Hydroelectric power plant in the Arenal region." },
     descriptionAdvanced: {
       de: "Die Anlage Sandillal steht f?r die ruhige, aber sehr wirksame Seite der Wasserkraft in Costa Rica. Als Teil der erneuerbaren Stromversorgung hilft sie, das Netz zu stabilisieren und regionale Nachfrage zuverlässig zu decken. Der Standort zeigt, wie Wasserressourcen technisch so genutzt werden k?nnen, dass Versorgungssicherheit und Nachhaltigkeit zusammenlaufen. In einem Land, das seinen Strommix stark auf erneuerbare Quellen stützt, hat Sandillal damit eine wichtige systemische Rolle. Geografie K8 ? Wasserkraft und Netzstabilit?t.",
       hu: "A Sandillal Vízerőmű az Arenal-tó komplex vízenergia-rendszerének egyik fontos láncszeme Costa Rica északi részén. Ez az erőmű az Arenal és Corobicí erőművekből távozó vizet használja fel újra, maximalizálva ezzel a vízkészletek kihasználását. A létesítmény kulcsszerepet játszik az ország villamosenergia-ellátásában, hozzájárulva a fosszilis tüzelőanyagoktól való mentességhez. Az erőmű környezete a mérnöki bravúr és a trópusi természet harmonikus találkozása. A csatornák és a gátak rendszere nemcsak energiát termel, hanem fontos szerepet játszik a környező mezőgazdasági területek öntözésében is. Földrajz K7 – vízenergia és fenntartható vízgazdálkodás.",
@@ -335,7 +335,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Erneuerbare Energie", "Arenal-Flusssystem", "Stromproduktion", "Wichtige Infrastruktur"],
-      hu: ["Megújuló energia", "Arenal folyórendszer", "Áramtermelés", "Fontos infrastruktúra"],
+      hu: ["Arenal régióhoz kötődik", "Vízerőmű", "Megújuló energiát termel"],
       ro: ["Energie regenerabilă", "Sistemul fluvial Arenal", "Producție de energie", "Infrastructură importantă"],
       en: ["Renewable energy plant", "Arenal river system", "Power generation", "Critical infrastructure"]
     },
@@ -346,7 +346,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-LI",
     coords: [-83.3500, 10.2167],
     name: { de: "Puerto Matina", hu: "Puerto Matina", ro: "Puerto Matina", en: "Puerto Matina" },
-    description: { de: "Kleinerer Hafen an der Karibikküste für lokale Güter.", hu: "Kisebb kikötő a Karib-tenger partján helyi áruk számára.", ro: "Port mai mic la coasta Caraibilor pentru bunuri locale.", en: "Smaller port on the Caribbean coast for local goods." },
+    description: { de: "Kleinerer Hafen an der Karibikküste für lokale Güter.", hu: "Matina karibi kikötője Costa Rica korai tengeri kereskedelmének egyik történeti pontja. A környék a kakaótermeléshez és az atlanti partvidékhez is kötődik.", ro: "Port mai mic la coasta Caraibilor pentru bunuri locale.", en: "Smaller port on the Caribbean coast for local goods." },
     descriptionAdvanced: {
       de: "Puerto Matina ist ein eher regionaler Umschlagplatz, dessen Bedeutung vor allem aus der Landwirtschaft kommt. In den Ebenen der Provinz Lim?n werden hier Ernten gesammelt, verteilt und in die großen Handelsströme eingespeist. Der Ort zeigt, wie wichtig kleinere Hafen- und Logistikknoten f?r l?ndliche Produzenten sind, wenn diese ihre Ware zuverlässig auf den Markt bringen wollen. Zwischen Feldern, Küstenwegen und Verteilpunkten entsteht so ein funktionaler, sehr bodennaher Wirtschaftsraum. Geografie K8 ? Agrarlogistik und regionale Verteilung.",
       hu: "Puerto Matina egy történelmileg jelentős, de mára szerényebb forgalmú kikötő és közösség Costa Rica karibi partvidékén. A gyarmati időkben ez volt az egyik legfontosabb pont a kakaóexport számára, bár a kalóztámadások és a mocsaras vidék nehézségei miatt fejlődése gyakran megtorpant. Ma a terület gazdasága elsősorban a környékbeli banán- és kakaóültetvények logisztikai támogatására épül. A kikötő környéke vadregényes, mangrove-erdőkkel és lagúnákkal szabdalt táj, amely gazdag élővilágnak ad otthont. Bár a nagy konténerforgalom elkerüli, a helyi áruszállításban és a kisméretű halászatban továbbra is van szerepe. Történelem K8 – gyarmati kereskedelem és karibi kalózháborúk.",
@@ -359,7 +359,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Regionaler Umschlag", "Ländliche Versorgung", "Karibische Küste", "Lokaler Güterverkehr"],
-      hu: ["Regionális átrakodás", "Vidéki ellátás", "Karib-tengeri part", "Helyi áruszállítás"],
+      hu: ["Limón tartományban", "Történeti karibi kikötő", "Kakaókereskedelemhez kötődik"],
       ro: ["Tranzit regional", "Aprovizionare rurală", "Coasta Caraibilor", "Transport local de mărfuri"],
       en: ["Regional transshipment", "Rural supply hub", "Caribbean coast", "Local goods transport"]
     },
@@ -371,7 +371,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-A",
     coords: [-84.2500, 10.0000],
     name: { de: "Zona Franca El Coyol", hu: "El Coyol Szabadkereskedelmi Zóna", ro: "Zona Francă El Coyol", en: "El Coyol Free Trade Zone" },
-    description: { de: "Ein führender Industriepark für Medizintechnik und Fertigung.", hu: "Vezető ipari park orvostechnológia és gyártás számára.", ro: "Un parc industrial lider pentru tehnologie medicală și producție.", en: "A leading industrial park for medical technology and manufacturing." },
+    description: { de: "Ein führender Industriepark für Medizintechnik und Fertigung.", hu: "Az alajuelai Coyol térségében fekvő modern ipari és szabadkereskedelmi övezet, amely főleg orvostechnikai és gyártó cégeket vonz. Costa Rica egyik legerősebb exportklaszterének része.", ro: "Zona Franca El Coyol este una dintre cele mai cunoscute platforme industriale din Alajuela. Aici s-au concentrat companii de dispozitive medicale și servicii de export.", en: "A major free trade zone in Alajuela focused on advanced manufacturing. It is especially associated with medical device production and exports." },
     descriptionAdvanced: {
       de: "El Coyol z?hlt zu den wichtigsten Industrie- und Freizonenstandorten des Landes, wenn es um Medizintechnik geht. Die N?he zum internationalen Flughafen und die gute Logistik machen den Ort besonders attraktiv f?r globale Hersteller und pharmazeutische Unternehmen. Hier entstehen hochwertige Arbeitsplätze, die stark auf Präzision, Qualitätskontrolle und Exportf?higkeit ausgerichtet sind. El Coyol zeigt damit sehr klar, wie eng moderne Industrie in Costa Rica mit internationalen Lieferketten verbunden ist. Geografie K8 ? Medizintechnik und Exportfertigung.",
       hu: "El Coyol Costa Rica modern ipari forradalmának központja, amely az ország egyik legsikeresebb szabadkereskedelmi zónája. Alajuela tartományban, a nemzetközi repülőtér közelében fekvő park globális vezető szerepet tölt be az orvostechnikai eszközök (Life Sciences) gyártásában. Itt készülnek a világ legfejlettebb szívbillentyűi, katéterei és egyéb precíziós műszerei. A park nemcsak a gazdasági mutatói miatt híres, hanem a \\\"Smart City\\\" koncepciót követő építészete és fenntartható működése miatt is. Számos multinacionális vállalat itt hozta létre latin-amerikai gyártóbázisát, köszönhetően a kiváló infrastruktúrának. Földrajz K8 – high-tech ipar és külföldi tőkebefektetések.",
@@ -384,9 +384,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Medizintechnik", "Spitzen-Technologie", "Export-Hub", "Wirtschaftszentrum"],
-      hu: ["Orvostechnológia", "Csúcstechnológia", "Exportközpont", "Gazdasági központ"],
-      ro: ["Tehnologie medicală", "Tehnologie de vârf", "Hub de export", "Centru economic"],
-      en: ["Medical device manufacturing", "High-end technology", "Export hub", "Economic engine"]
+      hu: ["Alajuela mellett", "Orvostechnikai központ", "Erős exportklaszter"],
+      ro: ["În Alajuela", "Hub pentru dispozitive medicale", "Parte din zona industrială Coyol"],
+      en: ["In Alajuela", "Medical device cluster", "Export-oriented zone"]
     },
      image: "/poi-images/zona-franca-el-coyol-economic-v2.webp"},
   {
@@ -395,7 +395,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-P",
     coords: [-83.0500, 5.5333],
     name: { de: "Puerto Cocos (Isla del Coco)", hu: "Puerto Cocos (Kókusz-sziget)", ro: "Puerto Cocos (Insula Cocos)", en: "Puerto Cocos (Cocos Island)" },
-    description: { de: "Ein geschützter Ankerplatz auf der abgelegenen Kokosinsel.", hu: "Védett horgonyzóhely az elszigetelt Kókusz-szigeten.", ro: "Un ancoraj protejat pe insula îndepărtată Cocos.", en: "A protected anchorage on the remote Cocos Island." },
+    description: { de: "Ein geschützter Ankerplatz auf der abgelegenen Kokosinsel.", hu: "Az Isla del Coco védett horgonyzóhelye és tengeri kapuja. A távoli sziget kutatási és természetvédelmi működését szolgálja.", ro: "Puerto Cocos este numele asociat cu Playa del Coco din Guanacaste, o zonă costieră foarte frecventată. Aici se întâlnesc turismul, navigația de agrement și viața de plajă.", en: "A protected anchorage on the remote Cocos Island." },
     descriptionAdvanced: {
       de: "Puerto Cocos ist ein kleiner Küstenanleger, dessen Bedeutung aus N?he und Alltag entsteht, nicht aus Gr??e. Der Ort unterstützt lokalen Handel, Küstenverkehr und die Verbindung zwischen Gemeinden, die auf kurze maritime Wege angewiesen sind. Gerade solche einfachen Anlagen machen regionale Wirtschaft erst praktikabel, weil sie Fahrzeiten verkürzen und Märkte erreichbar halten. Puerto Cocos steht deshalb f?r die eher unscheinbare, aber funktionale Seite der Küsteninfrastruktur. Geografie K8 ? kleine Hafenorte und lokale Vernetzung.",
       hu: "Puerto Cocos, amely valójában a Chatham-öböl horgonyzóhelyét jelenti az elszigetelt Kókusz-szigeten, a világ egyik legtávolabbi és legvédettebb tengeri állomása. Ez a pont szolgál kapuként a nemzeti park őrei és a tudományos kutatók számára, akik az óceán közepén fekvő \\\"kincses szigetet\\\" tanulmányozzák. Mivel a sziget az UNESCO világörökség része, itt nincsenek állandó lakosok vagy modern kikötői létesítmények, a látogatás szigorúan szabályozott. Az öböl körüli sziklákon évszázados feliratok és vésetek láthatók, amelyeket a korábbi felfedezők és bálnavadászok hagytak hátra. A víz alatti világ itt elképesztő, pörölycápák és ráják hatalmas rajai teszik a világ egyik legjobb búvárhelyévé. Biológia K7 – tengeri ökoszisztémák és elszigetelt szigetek élővilága.",
@@ -408,8 +408,8 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Forschungs-Stützpunkt", "Abgelegen", "UNESCO-Weltnaturerbe", "Ankerplatz"],
-      hu: ["Kutatóbázis", "Elszigetelt helyszín", "UNESCO világörökség", "Horgonyzóhely"],
-      ro: ["Bază de cercetare", "Locație izolată", "Patrimoniu mondial UNESCO", "Ancoraj"],
+      hu: ["Isla del Coco", "Védett horgonyzóhely", "Kutatási és természetvédelmi pont"],
+      ro: ["În Guanacaste", "Cunoscut ca Playa del Coco", "Turism de coastă"],
       en: ["Research support base", "Remote location", "UNESCO World Heritage", "Anchorage point"]
     },
      image: "/poi-images/puerto-cocos-economic-v2.webp"},
@@ -419,7 +419,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-S",
     coords: [-84.0500, 9.9000],
     name: { de: "Windpark Valle Central", hu: "Valle Central Szélpark", ro: "Parc Eolian Valle Central", en: "Valle Central Wind Farm" },
-    description: { de: "Ein bedeutendes Projekt für Windenergie im Zentraltal.", hu: "Jelentős szélenergia projekt a Középső-völgyben.", ro: "Un projekt semnificativ pentru energia eoliană în Valea Centrală.", en: "A significant project for wind energy in the Central Valley." },
+    description: { de: "Ein bedeutendes Projekt für Windenergie im Zentraltal.", hu: "A Központi-völgy megújuló energiaellátásának fontos létesítménye. A San José körüli nagyvárosi térség áramellátásában játszik szerepet.", ro: "Un projekt semnificativ pentru energia eoliană în Valea Centrală.", en: "A renewable energy facility serving the Central Valley area. It reflects Costa Rica's strong shift toward cleaner power sources." },
     descriptionAdvanced: {
       de: "Die Energieanlage im Valle Central versorgt das wirtschaftliche Herz Costa Ricas mit Strom und stützt damit einen großen Teil von Industrie und Stadtleben. Hier wird besonders deutlich, dass Energieinfrastruktur nicht nur eine technische Frage ist, sondern die Grundlage f?r Produktionsketten, Verkehr und Alltagsversorgung. Weil das Central Valley die dichteste Wirtschaftszone des Landes bildet, hat jede Verbesserung bei ?bertragung und Zuverl?ssigkeit unmittelbare Wirkung. Die Anlage ist somit ein stiller, aber zentraler Baustein der nationalen Stabilit?t. Geografie K8 ? urbane Energieversorgung und Netzsysteme.",
       hu: "A Valle Central Szélpark a San José körüli dombság egyik látványos eleme, amely a modern energetikai fejlődést jelképezi. A hatalmas szélturbinák a völgy déli gerincein helyezkednek el, kihasználva azokat az állandó légáramlatokat, amelyek a hegyszorosokon keresztül fújnak. Ez a projekt közvetlenül a fővárosi agglomerációt látja el tiszta, megújuló energiával, csökkentve az üvegházhatású gázok kibocsátását. A turbinák látványa a hegyoldalakon népszerű célpontja lett a hétvégi kirándulóknak, akik élvezni szeretnék a pazar kilátást a völgyre. A projekt része Costa Rica azon ambiciózus tervének, hogy az egész ország energiaigényét zöld forrásokból fedezze. Földrajz K8 – szélenergia és urbanizált térségek ellátása.",
@@ -432,9 +432,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Erneuerbare Energie", "Windkraft", "Strom für San José", "Zentraltal-Lage"],
-      hu: ["Megújuló energia", "Szélenergia", "Áram San José számára", "Középső-völgyi helyszín"],
+      hu: ["Központi-völgyi helyszín", "Szélerőmű", "San José ellátását segíti"],
       ro: ["Energie regenerabilă", "Energie eoliană", "Curent pentru San José", "Locație Valea Centrală"],
-      en: ["Renewable energy", "Wind power", "San Jose power supply", "Central Valley location"]
+      en: ["Central Valley", "Renewable energy", "Supports the power grid"]
     },
      image: "/poi-images/planta-energia-valle-central-economic-v2.webp"},
   {
@@ -443,7 +443,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-P",
     coords: [-83.5000, 8.4000],
     name: { de: "Puerto Balboa (Golfito)", hu: "Puerto Balboa (Golfito)", ro: "Puerto Balboa (Golfito)", en: "Puerto Balboa (Golfito)" },
-    description: { de: "Ein kleiner Terminal für maritime Logistik im Süden.", hu: "Kisebb terminál tengeri logisztika számára délen.", ro: "Un terminal mai mic pentru logistică maritimă în sud.", en: "A small terminal for maritime logistics in the south." },
+    description: { de: "Ein kleiner Terminal für maritime Logistik im Süden.", hu: "Golfito öblének egyik kisebb déli terminálja, amely a helyi tengeri logisztikát támogatja. A sporthorgászat és a part menti ellátás is kötődik hozzá.", ro: "Terminalul Balboa este un nod maritim major la intrarea pacifică a Canalului Panama. Pentru rutele regionale, el este un punct important de transbord și logistică.", en: "A small maritime terminal in the southern Pacific area. It supports local transport, cargo handling, and regional sea access." },
     descriptionAdvanced: {
       de: "Puerto Balboa ist ein kleinerer maritimer Knoten, der regionale Handelsströme und Küstenaktivit?t zusammenführt. Sein Wert liegt weniger in Gr??e als in Funktion: Er ergänzt die maritime Infrastruktur, stärkt lokale Logistik und h?lt den Warenfluss entlang der Küste flexibel. Solche Orte zeigen, dass wirtschaftliche Entwicklung in Costa Rica häufig aus einem Netz kleinerer Verbindungen besteht und nicht nur aus wenigen Großanlagen. Geografie K8 ? regionale Hafeninfrastruktur und Küstenentwicklung.",
       hu: "Puerto Balboa Golfito öblének egyik kisebb, de funkcionálisan fontos terminálja, amely elsősorban a regionális tengeri logisztikát és a sporthorgász turizmust szolgálja ki. A terület eredetileg a nagy banánvállalatok kisegítő bázisaként működött, mára azonban a modern szabadidős hajózás és az ökoturisztikai ellátóhálózat részévé vált. A terminál elhelyezkedése a Golfo Dulce védett vizeiben ideális menedéket nyújt a hajóknak a csendes-óceáni hullámok elől. Itt zajlik a déli partvidék kisebb áruszállításának és az üzemanyag-ellátásnak egy jelentős része. A környék sűrű esőerdői és a tenger közelsége egyedülálló, természetközeli hangulatot kölcsönöz az ipari funkciónak. Földrajz K8 – regionális kikötők és speciális tengeri szolgáltatások.",
@@ -456,9 +456,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Südliche Logistik", "Regionaler Hafen", "Küsten-Versorgung", "Fischerei-Unterstützung"],
-      hu: ["Déli logisztika", "Regionális kikötő", "Parti ellátás", "Halászati támogatás"],
-      ro: ["Logistică sudică", "Port regional", "Aprovizionare de coastă", "Suport pentru pescuit"],
-      en: ["Southern logistics", "Regional port", "Coastal supplies", "Fishing support"]
+      hu: ["Golfito térsége", "Déli terminál", "Helyi tengeri logisztika"],
+      ro: ["La intrarea Pacifică a canalului", "Terminal de transbord", "Rol regional în logistică"],
+      en: ["Southern Pacific", "Local cargo handling", "Regional terminal"]
     },
     
   },
@@ -468,7 +468,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-C",
     coords: [-83.9200, 9.8500],
     name: { de: "Zona Franca La Negrita", hu: "La Negrita Szabadkereskedelmi Zóna", ro: "Zona Francă La Negrita", en: "La Negrita Free Trade Zone" },
-    description: { de: "Industriepark mit Fokus auf Produktion und Export in Cartago.", hu: "Ipari park gyártásra és exportra fókuszálva Cartagóban.", ro: "Parc industrial axat pe producție și export în Cartago.", en: "Industrial park focused on production and export in Cartago." },
+    description: { de: "Industriepark mit Fokus auf Produktion und Export in Cartago.", hu: "Cartago egyik modern szabadkereskedelmi övezete, amely gyártásra és exportra épül. A keleti Központi-völgy fontos üzleti címe.", ro: "Parc industrial axat pe producție și export în Cartago.", en: "A free trade zone in Cartago with a production and export focus. It fits into the industrial network of the eastern Central Valley." },
     descriptionAdvanced: {
       de: "La Negrita ist als Freizone auf internationale Firmen und Investitionen ausgerichtet und profitiert von ihrer guten Einbindung in das kommerzielle Umfeld der Region. Der Standort steht f?r eine Wirtschaft, die nicht nur produziert, sondern auch Kapital, Management und Dienstleistungen anzieht. Gerade solche Zonen sind in Costa Rica wichtig, weil sie Jobs diversifizieren und internationale Verbindungen stärken. La Negrita zeigt damit die Verbindung zwischen Standortpolitik und globalem Interesse sehr direkt. Geografie K8 ? Investitionsstandorte und Unternehmenscluster.",
       hu: "A La Negrita Szabadkereskedelmi Zóna Cartago tartomány egyik dinamikus ipari parkja, amely nevét a város híres bazilikájában tisztelt védőszentről kapta. A zóna elsősorban könnyűipari tevékenységekre, élelmiszer-feldolgozásra és fogyasztási cikkek gyártására specializálódott. Kedvező elhelyezkedése a Központi-völgy keleti részén lehetővé teszi a gyors kijutást a karibi kikötők felé vezető utakra. A parkban számos hazai és közép-amerikai vállalat is jelen van, akik a szabadkereskedelmi övezet nyújtotta adókedvezményeket exporttevékenységük bővítésére használják. A zóna modern raktárbázisai és üzemei fontos munkahelyet teremtenek a környékbeli lakosság számára. Földrajz K8 – könnyűipar és regionális árucsere.",
@@ -481,9 +481,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Exportgüter", "Produktionscluster", "Steuerliche Anreize", "Cartago-Region"],
-      hu: ["Exporttermékek", "Gyártási klaszter", "Adóügyi ösztönzők", "Cartago régió"],
+      hu: ["Cartago tartományban", "Gyártó és exportzóna", "Modern üzleti park"],
       ro: ["Produse de export", "Cluster de producție", "Stimulente fiscale", "Regiunea Cartago"],
-      en: ["Export goods", "Production cluster", "Tax incentives", "Cartago region"]
+      en: ["In Cartago", "Production and export", "Eastern Central Valley"]
     },
     
   },
@@ -493,7 +493,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-LI",
     coords: [-83.1000, 10.0500],
     name: { de: "Puerto Cito", hu: "Puerto Cito", ro: "Puerto Cito", en: "Puerto Cito" },
-    description: { de: "Ein kleiner regionaler Anlegesteg für die Karibikküste.", hu: "Kisebb regionális rakpart a Karib-tenger partján.", ro: "Un mic debarcader regional pentru coasta Caraibilor.", en: "A small regional pier for the Caribbean coast." },
+    description: { de: "Ein kleiner regionaler Anlegesteg für die Karibikküste.", hu: "Karibi kisrakpart, ahol a helyi halászat és a parti ellátás összpontosul. Kicsi, de fontos közösségi kikötő a mindennapi forgalomban.", ro: "Puerto Cito este o mică zonă de coastă de pe Costa Ballena, la sud de Dominical. Este cunoscută pentru poziția ei liniștită lângă plaje și natură.", en: "A small coastal port used for local maritime activity. It serves nearby communities and the everyday rhythm of the coast." },
     descriptionAdvanced: {
       de: "Puerto Cito ist ein kleiner, aber f?r die Karibikküste unverzichtbarer Anleger, an dem der Alltag der Küstengemeinden sichtbar wird. Hier geht es vor allem um handwerkliche Fischerei, kurze Wege zum Markt und kleine Wasserfahrzeuge, die den lokalen Verkehr tragen. Im Gegensatz zu den großen H?fen wirkt der Ort ruhig und direkt, fast wie ein offenes Arbeitszimmer am Meer. Gerade diese Einfachheit macht ihn wertvoll, weil viele Bewohner ihre Versorgung und ihren Verkauf auf solche Punkte stützen. Geografie K8 ? kleine H?fen und lokale Versorgungsketten.",
       hu: "Puerto Cito a Karib-tenger partvidékének egyik szerény, de a helyi közösség számára nélkülözhetetlen rakpartja és halászkikötője. Ez a pont a part menti hajózás és a kézműves halászat egyik központja, ahol a napi fogást partra emelik és értékesítik. A terület mentes a nagy ipari kikötők zajától, így megőrizte autentikus, nyugodt karibi hangulatát. A kikötő környéke népszerű a helyiek körében is, akik friss halért vagy csak a tengerparti kilátásért látogatnak ide. Bár infrastrukturálisan egyszerűbb, mint a közeli Moín, a kisebb vízi járművek számára ez a legbiztonságosabb kikötési pont a partszakaszon. Földrajz K8 – kisméretű halászat és helyi kereskedelmi hálózatok.",
@@ -506,9 +506,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Lokaler Handel", "Fischerei-Pier", "Kleiner Umschlag", "Küstenversorgung"],
-      hu: ["Helyi kereskedelem", "Halászati móló", "Kis átrakodás", "Parti ellátás"],
-      ro: ["Comerț local", "Debarcader de pescuit", "Tranzit mic", "Aprovizionare de coastă"],
-      en: ["Local trade", "Fishing pier", "Small transshipment", "Coastal supply"]
+      hu: ["Karibi part", "Halászati rakpart", "Helyi ellátó szerep"],
+      ro: ["Pe Costa Ballena", "Sud de Dominical", "Zonă de coastă liniștită"],
+      en: ["Small coastal port", "Local activity", "Community support"]
     },
      image: "/poi-images/puerto-cito-economic-v2.webp"},
   {
@@ -517,7 +517,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-A",
     coords: [-84.2800, 10.0100],
     name: { de: "Zona Franca Saret", hu: "Saret Szabadkereskedelmi Zóna", ro: "Zona Francă Saret", en: "Saret Free Trade Zone" },
-    description: { de: "Industriepark für Fertigung bei Alajuela.", hu: "Ipari park gyártás számára Alajuela mellett.", ro: "Parc industrial pentru producție lângă Alajuela.", en: "Industrial park for manufacturing near Alajuela." },
+    description: { de: "Industriepark für Fertigung bei Alajuela.", hu: "A Saret szabadkereskedelmi övezet Costa Rica ipari és logisztikai hálózatának része. Olyan cégeknek ad helyet, amelyek exporthoz kötött gyártással vagy szolgáltatásokkal dolgoznak.", ro: "Parc industrial pentru producție lângă Alajuela.", en: "A free trade zone near Alajuela with a manufacturing and services profile. Its location gives companies easy access to the central business corridor." },
     descriptionAdvanced: {
       de: "Die Zona Franca Saret in Alajuela verbindet Industrieproduktion mit Luftfrachtlogistik und ist deshalb f?r viele Unternehmen attraktiv. Durch die N?he zum internationalen Flughafen Juan Santamar?a k?nnen elektronische Komponenten, Lebensmitteltechnik und andere exportorientierte Produkte schnell verteilt werden. Der Standort verfügt ?ber moderne Kommunikation, stabile Energieversorgung und eine Infrastruktur, die sowohl große Firmen als auch kleinere Zulieferer anzieht. So entsteht ein funktionierendes Gewerbe?kosystem, das auf Geschwindigkeit und Zuverl?ssigkeit ausgelegt ist. Geografie K8 ? Luftlogistik und Industrieentwicklung.",
       hu: "A Saret Szabadkereskedelmi Zóna Alajuela tartomány egyik patinás ipari parkja, amely az ország iparosítási programjának részeként jött létre. A park profilját elsősorban az elektronikai alkatrészek gyártása, az élelmiszer-technológia és a logisztikai szolgáltatások határozzák meg. A Juan Santamaría nemzetközi repülőtér közvetlen szomszédsága miatt ideális bázis azon cégeknek, amelyek légi úton szállítják termékeiket. A területen belül fejlett infrastruktúra, modern hírközlési hálózat és stabil energiaellátás biztosított. A zóna sikere az évek során számos hazai kkv-t is bevonzott a nemzetközi cégek mellé, élénk üzleti környezetet teremtve. Földrajz K8 – légi logisztika és ipari parkok fejlődése.",
@@ -530,9 +530,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Fertigungsindustrie", "Exportzentrum", "Günstige Standortwahl", "Logistik-Nähe"],
-      hu: ["Gyártóipar", "Exportközpont", "Előnyös elhelyezkedés", "Logisztikai közelség"],
+      hu: ["Szabadkereskedelmi övezet", "Ipari-logisztikai funkció", "Exportos cégeknek ad helyet"],
       ro: ["Industrie de producție", "Centru de export", "Localizare avantajoasă", "Proximitate logistică"],
-      en: ["Manufacturing industry", "Export center", "Strategic location", "Logistics proximity"]
+      en: ["Near Alajuela", "Manufacturing site", "Business corridor access"]
     },
     
   },
@@ -542,7 +542,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-P",
     coords: [-84.5000, 9.8000],
     name: { de: "Puerto Villas", hu: "Puerto Villas", ro: "Puerto Villas", en: "Puerto Villas" },
-    description: { de: "Kleiner Hafen für den regionalen Handel im Pazifik.", hu: "Kisebb kikötő a regionális kereskedelem számára a Csendes-óceánon.", ro: "Port mai mic pentru comerțul regional în Pacific.", en: "Small port for regional trade in the Pacific." },
+    description: { de: "Kleiner Hafen für den regionalen Handel im Pazifik.", hu: "Kis csendes-óceáni terminál, amely a regionális áruszállítást és a parti logisztikát segíti. Főleg a környékbeli közösségek mindennapi kapcsolatait támogatja.", ro: "Port mai mic pentru comerțul regional în Pacific.", en: "A small Pacific terminal used for regional trade. It supports coastal supply routes and smaller-scale shipping activity." },
     descriptionAdvanced: {
       de: "Puerto Villas ist ein kleiner Pazifikhafen mit klar regionaler Aufgabe. Er versorgt landwirtschaftliche Betriebe und Fischer, die wegen schwieriger Straßenverbindungen oft auf den Wasserweg angewiesen sind. Der Ort wirkt bewusst unverstellt: traditionelle Boote, einfache Stege und handwerkliche Reparaturen gehören hier noch zum Bild. Zugleich ?ffnen sich in der Umgebung langsam M?glichkeiten f?r ?kotourismus, weil Buchten und Inseln mit viel Natur direkt erreichbar bleiben. Geografie K8 ? kleine Küstenh?fen und regionale Wirtschaft.",
       hu: "Puerto Villas a csendes-óceáni partvidék egyik rejtettebb, regionális jelentőségű kikötőpontja, amely elsősorban a környékbeli mezőgazdasági termelők és halászok igényeit szolgálja ki. Ez a kis terminál kulcsfontosságú a part menti áruszállításban, ahol a nagyobb utak megközelíthetetlensége miatt a vízi út az egyetlen opció. A kikötő hangulata rendkívül barátságos és közvetlen, mentes a nagyvárosi kikötők rohanásától. Itt még találkozhatunk a hagyományos hajóépítési technikákkal és a kézműves hálójavítókkal. A terület lassan az ökoturizmus felé is nyit, mivel a közeli öblök és szigetek érintetlen természeti környezetet kínálnak a látogatóknak. Földrajz K8 – kis kikötők szerepe a regionális gazdaságban.",
@@ -555,9 +555,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Regionaler Handel", "Küstenschifffahrt", "Pazifik-Versorgung", "Lokale Logistik"],
-      hu: ["Regionális kereskedelem", "Parti hajózás", "Csendes-óceáni ellátás", "Helyi logisztika"],
+      hu: ["Csendes-óceáni part", "Regionális áruforgalom", "Parti logisztikai szerep"],
       ro: ["Comerț regional", "Navigație de coastă", "Aprovizionare Pacific", "Logistică locală"],
-      en: ["Regional trade", "Coastal shipping", "Pacific supply", "Local logistics"]
+      en: ["Pacific coast", "Regional trade", "Coastal shipping"]
     },
      image: "/poi-images/terminal-puerto-villas-economic-v2.webp"},
   {
@@ -566,7 +566,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-H",
     coords: [-84.0500, 10.2000],
     name: { de: "Wasserkraftwerk Don Pedro", hu: "Don Pedro Vízerőmű", ro: "Hidrocentrala Don Pedro", en: "Don Pedro Hydroelectric Plant" },
-    description: { de: "Eine Wasserkraftanlage in Heredia.", hu: "Vízerőművi létesítmény Herediában.", ro: "O hidrocentrală în Heredia.", en: "A hydroelectric power plant in Heredia." },
+    description: { de: "Eine Wasserkraftanlage in Heredia.", hu: "Heredia folyóvizeit hasznosító vízerőmű, amely tiszta áramot termel a régiónak. Jó példája a kisebb, környezetkímélő energiatermelésnek.", ro: "Planta Don Pedro este o centrală hidroelectrică mică, dar importantă pentru rețeaua energetică locală. Ea arată rolul energiei regenerabile în mixul costarican.", en: "A hydroelectric power plant in Heredia." },
     descriptionAdvanced: {
       de: "Das Wasserkraftwerk Don Pedro nutzt die Flüsse und die bergige Landschaft von Heredia, um saubere Energie f?r die Region zu erzeugen. Als Laufwasserkraftwerk braucht es keine großen Stauseen und h?lt den Eingriff in die Umgebung vergleichsweise gering. Dadurch l?sst sich Strom gewinnen, ohne das landschaftliche und ?kologische Umfeld unnötig zu belasten. F?r die wachsende Nachfrage von Gemeinden und Gewerbe im Norden des Central Valley ist die Anlage ein verlässlicher Baustein. Geografie K7 ? Wasserkraft und Umweltverträglichkeit.",
       hu: "A Don Pedro Vízerőmű Heredia tartomány buja, hegyvidéki táján fekszik, és a gyors folyású folyók erejét használja ki a tiszta energia előállítására. Ez a létesítmény a \\\"run-of-river\\\" (folyamatos átfolyású) technológiát alkalmazza, amely minimálisra csökkenti a környezeti hatást, mivel nincs szükség hatalmas tározók létrehozására. Az erőmű segít fedezni a környező közösségek és az ipari parkok növekvő energiaigényét. A környék esőerdői nemcsak a vízgyűjtő területet védik, hanem csodálatos hátteret is biztosítanak az ipari építménynek. A projekt sikere ékes bizonyítéka annak, hogyan fér meg egymás mellett a modern technológia és a szigorú természetvédelem Costa Ricában. Földrajz K7 – kis vízerőművek és a környezeti fenntarthatóság.",
@@ -579,8 +579,8 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Erneuerbare Energie", "Heredia-Flusssystem", "Stromnetz-Anbindung", "Wasserkraft"],
-      hu: ["Megújuló energia", "Heredia folyórendszer", "Áramhálózati csatlakozás", "Vízi energia"],
-      ro: ["Energie regenerabilă", "Sistemul fluvial Heredia", "Conexiune la rețeaua electrică", "Energie hidro"],
+      hu: ["Heredia tartományban", "Vízerőmű", "Környezetkímélő energiatermelés"],
+      ro: ["Centrală hidroelectrică", "Putere redusă, rol local", "Parte din energia regenerabilă"],
       en: ["Renewable energy", "Heredia river system", "Grid connection", "Hydroelectric power"]
     },
      image: "/poi-images/planta-energia-don-pedro-economic-v2.webp"},
@@ -590,7 +590,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-H",
     coords: [-84.1000, 10.0200],
     name: { de: "Zona Franca BES", hu: "BES Szabadkereskedelmi Zóna", ro: "Zona Francă BES", en: "BES Free Trade Zone" },
-    description: { de: "Freihandelszone für Dienstleistungen und Tech.", hu: "Szabadkereskedelmi övezet szolgáltatások és technológia számára.", ro: "Zonă de liber schimb pentru servicii și tehnologie.", en: "Free trade zone for services and technology." },
+    description: { de: "Freihandelszone für Dienstleistungen und Tech.", hu: "Szabadkereskedelmi övezet szolgáltatások és technológia számára.", ro: "Zona Franca BES din El Coyol este un parc de afaceri și logistică din Alajuela. Locația îi oferă acces rapid la aeroport și la principalele culoare industriale.", en: "A business and free trade zone in the Heredia area. It is geared toward services, logistics, and export-linked operations." },
     descriptionAdvanced: {
       de: "Die Zona Franca BES in Heredia richtet sich an Unternehmen, die digitale Dienstleistungen und internationale Geschäftsprozesse b?ndeln wollen. Der Standort ist auf Shared-Service-Zentren, Softwarefirmen und moderne B?roarbeit zugeschnitten und bietet daf?r redundante Netzwerke, stabile Energie und eine gut erreichbare Lage im Central Valley. F?r junge Fachkräfte ist das Umfeld attraktiv, weil Arbeitsplätze, Serviceangebote und Grünflächen bewusst zusammen gedacht wurden. BES zeigt damit, wie Costa Rica sich im Wettbewerb um Wissensarbeit positioniert. Geografie K8 ? digitale Exporte und moderne B?rocampus.",
       hu: "A BES Szabadkereskedelmi Zóna Herediában a digitális gazdaság és a nemzetközi üzleti szolgáltatások egyik feltörekvő központja. A parkot kifejezetten arra tervezték, hogy kiszolgálja a globális üzleti szolgáltató központok (Shared Service Centers) és a szoftverfejlesztő cégek igényeit. Modern irodaházai a legmagasabb technológiai elvárásoknak is megfelelnek, redundáns hálózati kapcsolattal és folyamatos energiaellátással. A zóna elhelyezkedése kedvező a fiatal, képzett szakemberek számára, mivel könnyen megközelíthető a Központi-völgy nagyvárosaiból. A parkon belül számos kényelmi szolgáltatás, étterem és zöldfelület teszi kellemessé a munkakörnyezetet. Földrajz K8 – digitális export és irodaparkok szerepe.",
@@ -604,8 +604,8 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     facts: {
       de: ["Technologie-Dienstleistungen", "Exportorientiert", "Wirtschaftszone", "Investitionsvorteile"],
       hu: ["Technológiai szolgáltatások", "Exportorientált", "Gazdasági övezet", "Befektetési előnyök"],
-      ro: ["Servicii tehnologice", "Orientat spre export", "Zonă economică", "Avantaje de investiții"],
-      en: ["Tech services", "Export-oriented", "Economic zone", "Investment advantages"]
+      ro: ["În El Coyol", "Aproape de Alajuela", "Acces bun la aeroport"],
+      en: ["In Heredia", "Business zone", "Export services"]
     },
     
   },
@@ -615,7 +615,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-LI",
     coords: [-83.2500, 10.1500],
     name: { de: "Puerto Cacao", hu: "Puerto Cacao", ro: "Puerto Cacao", en: "Puerto Cacao" },
-    description: { de: "Ein kleiner Hafen für landwirtschaftliche Exporte.", hu: "Kisebb kikötő mezőgazdasági export számára.", ro: "Un port mai mic pentru exporturi agricole.", en: "A smaller port for agricultural exports." },
+    description: { de: "Ein kleiner Hafen für landwirtschaftliche Exporte.", hu: "Kisebb kikötő mezőgazdasági export számára.", ro: "Puerto Cacao este legat de coasta sudică și de peisajele din zona Golfito și Playa Cacao. Numele trimite direct la cultura cacao și la economia tropicală a regiunii.", en: "A small coastal port linked to cacao growing and local export activity. The name points to the agricultural character of the surrounding area." },
     descriptionAdvanced: {
       de: "Puerto Cacao ist ein kleiner karibischer Umschlagpunkt, dessen Name noch an die Zeit erinnert, als Kakao die Region prägte. Heute laufen dort vor allem landwirtschaftliche G?ter zusammen, w?hrend Bananen und Ananas den gr??ten Teil des Volumens stellen. Das umliegende Kanalnetz verbindet die Küstenzone mit dem Hinterland und macht kleinere Boote f?r den Transport wichtig. Der Ort hat sich den Charakter einer ruhigen Handelsstation bewahrt, obwohl die Exportlogik l?ngst moderner geworden ist. Geografie K8 ? Agrarhandel und kleine Hafeninfrastruktur.",
       hu: "Puerto Cacao a karibi partvidék egyik legfontosabb mezőgazdasági gyűjtőpontja és rakpartja, amely nevét az egykor itt domináns kakaótermesztésről kapta. Bár a banán és az ananász ma már nagyobb volument képvisel, a kikötő továbbra is a környékbeli kistermelők elsődleges kijárata a világpiac felé. A területet kiterjedt csatornarendszer veszi körül, ami lehetővé teszi, hogy az árukat kisebb bárkákon szállítsák a szárazföld belsejéből. A kikötő hangulata megőrizte a régi karibi kereskedőtelepek báját, ahol a munka ritmusát a hajók érkezése és a termés érése határozza meg. Az öko-tudatos fejlesztések révén a kikötő egyre több bio-minősítésű árut indít útjára. Földrajz K8 – agrár-export és kisméretű kikötői infrastruktúra.",
@@ -625,8 +625,8 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     facts: {
       de: ["Agrar-Export", "Karibische Küste", "Lokaler Umschlag", "Landwirtschafts-Logistik"],
       hu: ["Mezőgazdasági export", "Karib-tengeri part", "Helyi átrakodás", "Agrár-logisztika"],
-      ro: ["Export agricol", "Coasta Caraibilor", "Tranzit local", "Logistică agricolă"],
-      en: ["Agricultural export", "Caribbean coast", "Local transshipment", "Agro-logistics"]
+      ro: ["Legat de cacao", "În sudul Pacificului", "Aproape de Golfito"],
+      en: ["Cacao-linked name", "Coastal export point", "Agricultural region"]
     },
     factsAdvanced: {
       de: ["Der Name verweist auf die frühere Kakaoproduktion.", "Heute dominieren Bananen und Ananas den Umschlag.", "Ein dichtes Kanalnetz verbindet das Hinterland mit dem Hafen.", "Kleinere Boote spielen f?r den Transport eine wichtige Rolle.", "Der Ort bleibt ein Ausgangspunkt f?r Bio-Waren.", "Puerto Cacao steht f?r karibische Agrarlogistik."],
@@ -640,7 +640,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-H",
     coords: [-84.1500, 10.0000],
     name: { de: "Industriepark Barreal", hu: "Barreal Iparközpont", ro: "Parc Industrial Barreal", en: "Barreal Industrial Park" },
-    description: { de: "Industrieller Standort für Produktion bei Heredia.", hu: "Ipari helyszín gyártás számára Heredia mellett.", ro: "Sit industrial pentru producție lângă Heredia.", en: "Industrial site for production near Heredia." },
+    description: { de: "Industrieller Standort für Produktion bei Heredia.", hu: "Barreal de Heredia ipari parkja a Központi-völgy egyik jól ismert gyártási helyszíne. A térség előnye a jó elérhetőség és a fejlett városi infrastruktúra.", ro: "Parcul industrial din Barreal de Heredia face parte din coridorul tehnologic al zonei centrale. Aici se concentrează activități de producție, servicii și logistică.", en: "An industrial park in Barreal de Heredia with a strong production and logistics profile. It is part of the Central Valley's technology corridor." },
     descriptionAdvanced: {
       de: "Der Industriepark Barreal gehört zu den stabilsten Industriestandorten in Heredia und profitiert von der N?he zu den großen Städten des Central Valley. Im Park arbeiten Firmen aus der Lebensmittelverarbeitung, der Präzisionsmetallurgie und anderen Mischbranchen, die auf zuverlässige Infrastruktur angewiesen sind. Barreal ist auch deshalb bemerkenswert, weil hier viele nationale Unternehmen ihren Aufstieg begonnen haben, bevor sie international expandierten. Heute prägen Modernisierung, Energieeffizienz und gute Verkehrsverbindungen das Bild. Geografie K8 ? industrielle Verdichtung und urbane Erreichbarkeit.",
       hu: "Barreal de Heredia Costa Rica iparosodott szívének egyik legrégebbi és legstabilabb pontja. Ez az ipari negyed a Központi-völgy legnépesebb városai között helyezkedik el, kiváló elérhetőséget biztosítva a munkaerő számára. A parkban vegyes profilú üzemek találhatók, az élelmiszeripari feldolgozástól kezdve a precíziós fémiparig. Barreal híres arról, hogy számos hazai \\\"sikersztori\\\" itt kezdte meg működését, mielőtt nemzetközi piacra lépett volna. A terület modernizációja folyamatos, az újabb épületek már megfelelnek a legszigorúbb energiahatékonysági előírásoknak is. A környék infrastruktúrája, beleértve a közlekedést és a telekommunikációt, az egyik legfejlettebb az országban. Földrajz K8 – ipari körzetek fejlődése és urbanizáció.",
@@ -649,9 +649,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Produktion", "Export", "Industrie-Cluster", "Wirtschaftlicher Standort"],
-      hu: ["Gyártás", "Export", "Ipari klaszter", "Gazdasági helyszín"],
-      ro: ["Producție", "Export", "Cluster industrial", "Locație economică"],
-      en: ["Production", "Export", "Industrial cluster", "Economic location"]
+      hu: ["Barreal de Herediában", "Központi-völgyi helyszín", "Gyártási és logisztikai szerep"],
+      ro: ["În Barreal de Heredia", "Parte din coridorul tehnologic", "Activități de producție și servicii"],
+      en: ["Barreal de Heredia", "Production and logistics", "Technology corridor"]
     },
     factsAdvanced: {
       de: ["Der Standort liegt in Heredia.", "Er ist zwischen den großen Städten des Central Valley gut erreichbar.", "Es gibt dort Betriebe aus der Lebensmittelverarbeitung.", "Auch Präzisionsmetallurgie ist vertreten.", "Viele nationale Erfolgsunternehmen starteten hier.", "Die Infrastruktur gehört zu den stärkeren des Landes."],
@@ -665,7 +665,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-S",
     coords: [-84.1500, 9.9500],
     name: { de: "Global Park", hu: "Global Park", ro: "Global Park", en: "Global Park" },
-    description: { de: "Ein bedeutender Industriepark in der Region San José.", hu: "Jelentős ipari park a San José régióban.", ro: "Un parc industrial semnificativ în regiunea San José.", en: "A significant industrial park in the San Jose region." },
+    description: { de: "Ein bedeutender Industriepark in der Region San José.", hu: "A Global Park Heredia térségének ismert üzleti és ipari parkja, a technológiai folyosó egyik fontos címe. Nemzetközi vállalatok irodái és háttérszolgáltatásai működnek itt.", ro: "Zona Franca Global Park este un parc de afaceri și industrie din Heredia, orientat spre firme internaționale. Amplasarea lui în zona metropolitană îl face atractiv pentru operațiuni de export și servicii.", en: "A well-known free trade and business park in the Heredia area. It hosts international companies and back-office operations." },
     descriptionAdvanced: {
       de: "Global Park ist eine der sichtbarsten Freizonen rund um San Jos? und ein gutes Beispiel f?r Costa Ricas Mischung aus Technologie, Design und Exportorientierung. Der Standort zieht multinationale Unternehmen an, die Software, Biotechnologie und internationale Finanzdienstleistungen b?ndeln wollen. Seine Gebäude sind funktional geplant, wirken aber zugleich wie ein bewusst gestalteter Business-Campus. Genau darin liegt die Stärke des Parks: Er verkauft nicht nur Fläche, sondern ein Umfeld f?r hochqualifizierte Arbeit und globale Prozesse. Geografie K8 ? Innovationsräume und Unternehmensstandorte.",
       hu: "A Global Park egyike Costa Rica legmodernebb és legimpozánsabb szabadkereskedelmi zónáinak, amely a technológia és az innováció élvonalában jár. A San José környéki ipari övezetben található park világszínvonalú irodai és gyártási környezetet kínál a multinacionális vállalatok számára. A Global Park különösen erős a szoftverfejlesztés, a biotechnológia és a nemzetközi pénzügyi szolgáltatások területén. Az épületek tervezésénél kiemelt szempont volt az esztétikum és a funkcionalitás ötvözése, ami barátságos és inspiráló munkakörnyezetet teremt. A zóna központi szerepet játszik abban, hogy Costa Rica a régió \\\"Szilícium-völgyeként\\\" pozicionálja magát. Földrajz K8 – innovációs központok és technológiai beruházások.",
@@ -674,9 +674,9 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     },
     facts: {
       de: ["Technologie", "Business-Services", "Export-Hub", "San-José-Wirtschaft"],
-      hu: ["Technológia", "Üzleti szolgáltatások", "Exportközpont", "San José-i gazdaság"],
-      ro: ["Tehnologie", "Servicii de afaceri", "Hub de export", "Economia San José"],
-      en: ["Technology", "Business services", "Export hub", "San Jose economy"]
+      hu: ["Heredia tartományban", "Üzleti és ipari park", "Nemzetközi cégek helyszíne"],
+      ro: ["În Heredia", "Parc de afaceri și industrie", "Atragere pentru firme internaționale"],
+      en: ["In Heredia", "International firms", "Business park"]
     },
     factsAdvanced: {
       de: ["Der Park liegt im industriellen Umfeld von San Jos?.", "Er richtet sich an multinationale Unternehmen.", "Softwareentwicklung ist ein Schwerpunkt.", "Auch Biotechnologie und Finanzdienstleistungen spielen eine große Rolle.", "Das Gelände ist als moderner Business-Campus gestaltet.", "Global Park unterstützt Costa Ricas Tech-Positionierung."],
@@ -690,7 +690,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     parent: "CR-G",
     coords: [-85.8300, 10.3000],
     name: { de: "Puerto Tamarindo", hu: "Puerto Tamarindo", ro: "Puerto Tamarindo", en: "Puerto Tamarindo" },
-    description: { de: "Kleiner Hafen für den Tourismus-Verkehr.", hu: "Kisebb kikötő a turisztikai forgalom számára.", ro: "Port mai mic pentru traficul turistic.", en: "Small port for tourist traffic." },
+    description: { de: "Kleiner Hafen für den Tourismus-Verkehr.", hu: "Kisebb kikötő a turisztikai forgalom számára.", ro: "Port mai mic pentru traficul turistic.", en: "A small tourist port in Tamarindo on the Guanacaste coast. It serves leisure travel, local boats, and the wider beach economy." },
     descriptionAdvanced: {
       de: "Puerto Tamarindo ist kein Hafen f?r Massengüter, sondern ein Zugangspunkt f?r Erlebnisse auf dem Pazifik. Von hier aus starten Katamarane, Tauchfahrten und Ausflüge zu den bekannten Surfzonen von Tamarindo. Die geschützten Gewässer der Bucht geben kleineren Booten Sicherheit, w?hrend am Ufer eine ganze Tourismuswirtschaft an den Hafen angebunden ist. Abends kehrt der Verkehr zurück in den Ort, und Restaurants, Strandbars und Bootsstege werden Teil desselben Kreislaufs. Geografie K8 ? Tourismush?fen und Küstenerlebnis.",
       hu: "Puerto Tamarindo nem teherhajóiról vagy ipari dokkjairól híres, hanem a csendes-óceáni turizmus egyik legélénkebb kapuja. Ez a kis kikötőpont szolgál kiindulóhelyként a naplementés vitorlázásokhoz, a búvárexpedíciókhoz és a híres szörfhelyek megközelítéséhez. A Tamarindo-öböl védett vizei ideálisak a kisebb katamaránok és motorcsónakok horgonyzásához. A város gazdasága teljesen összefonódott a kikötői tevékenységgel, hiszen a legtöbb látogató a tengeri kalandok miatt érkezik ide. Esténként a partvonal megtelik élettel, ahogy a hajók visszatérnek a kikötőbe, és a turisták elözönlik a tengerparti éttermeket. Földrajz K8 – turisztikai kikötők és partmenti idegenforgalom.",
@@ -701,7 +701,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       de: ["Tourismus-Boote", "Küsten-Logistik", "Guanacaste-Küste", "Freizeit-Hafen"],
       hu: ["Turisztikai hajók", "Parti logisztika", "Guanacaste partvidék", "Szabadidő kikötő"],
       ro: ["Bărci turistice", "Logistică de coastă", "Coasta Guanacaste", "Port de agrement"],
-      en: ["Tourist boats", "Coastal logistics", "Guanacaste coast", "Leisure port"]
+      en: ["In Tamarindo", "Tourist traffic", "Guanacaste coast"]
     },
     factsAdvanced: {
       de: ["Der Hafen dient vor allem dem Tourismus.", "Katamaranfahrten gehören zu den typischen Angeboten.", "Auch Tauch- und Surf-Ausflüge starten hier.", "Die Tamarindo-Bucht bietet geschützte Gewässer.", "Der Standort stützt die Strandwirtschaft des Ortes.", "Der Hafen ist eng mit nachhaltigem Küstentourismus verbunden."],

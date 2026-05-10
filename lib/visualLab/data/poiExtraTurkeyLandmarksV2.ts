@@ -13,8 +13,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Eredetileg 537-ben épült katedrálisként.", "Hatalmas kupolájáról híres.", "Közel ezer évig a világ legnagyobb temploma volt."],
       ro: ["Construită inițial ca o catedrală în anul 537.", "Faimoasă pentru domul său masiv.", "A fost cea mai mare biserică din lume timp de aproape o mie de ani."],
       en: ["Originally built as a cathedral in 537.", "Famous for its massive dome.", "Was the world's largest church for nearly a thousand years."]
-    }
-  },
+    }, image: "/poi-images/hagia-sophia-landmarks-v2.webp"},
   {
     id: "topkapi-palace-landmarks-v2",
     type: "landmark",
@@ -27,8 +26,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["A 15. században épült Isztambul meghódítása után.", "Itt található a hárem és számos szent ereklye.", "1985 óta az UNESCO világörökség része."],
       ro: ["Construit în secolul al XV-lea după cucerirea Istanbulului.", "Găzduiește haremul și relicve sfinte.", "Patrimoniu Mondial UNESCO din 1985."],
       en: ["Built in the 15th century after the conquest of Istanbul.", "Houses the harem and sacred relics.", "A UNESCO World Heritage Site since 1985."]
-    }
-  },
+    }, image: "/poi-images/topkapi-palace-landmarks-v2.webp"},
   {
     id: "blue-mosque-landmarks-v2",
     type: "landmark",
@@ -41,8 +39,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Hat jellegzetes minarettel rendelkezik.", "1609 és 1616 között épült I. Ahmed szultán idején.", "Isztambul egyik legismertebb jelképe."],
       ro: ["Are șase minarete distinctive.", "Construită între 1609 și 1616 sub Sultanul Ahmed I.", "Unul dintre reperele din Istanbul."],
       en: ["Features six distinctive minarets.", "Built between 1609 and 1616 under Sultan Ahmed I.", "One of the landmarks of Istanbul."]
-    }
-  },
+    }, image: "/poi-images/blue-mosque-landmarks-v2.webp"},
   {
     id: "pamukkale-landmarks-v2",
     type: "landmark",
@@ -55,8 +52,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["A név szó szerinti jelentése \"gyapotvár\".", "Közvetlenül Hierapolisz ókori római város mellett fekszik.", "A termálvíz gazdag kalcium-karbonátban."],
       ro: ["Numele înseamnă literal \"Castelul de Bumbac\".", "Chiar lângă orașul antic roman Hierapolis.", "Apele termale sunt bogate în carbonat de calciu."],
       en: ["The name literally means \"Cotton Castle\".", "Right next to the ancient Roman city of Hierapolis.", "The thermal water is rich in calcium carbonate."]
-    }
-  },
+    }, image: "/poi-images/pamukkale-landmarks-v2.webp"},
   {
     id: "ephesus-landmarks-v2",
     type: "landmark",
@@ -69,8 +65,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Egykor Artemisz templomának helyszíne, amely a világ hét csodájának egyike volt.", "A Celsus-könyvtárról híres.", "Nagy színháza 25 000 néző befogadására volt alkalmas."],
       ro: ["Fostul loc al Templului lui Artemis, una dintre Cele Șapte Minuni ale Lumii.", "Faimos pentru Biblioteca lui Celsus.", "Marele teatru putea găzdui 25.000 de spectatori."],
       en: ["Once the site of the Temple of Artemis, one of the Seven Wonders of the World.", "Famous for the Library of Celsus.", "The grand theater could accommodate 25,000 spectators."]
-    }
-  },
+    }, image: "/poi-images/ephesus-landmarks-v2.webp"},
   {
     id: "mount-nemrut-landmarks-v2",
     type: "landmark",
@@ -83,8 +78,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Az ókori istenek hatalmas kőfejeiről ismert.", "A sírszentélyt I. Antiokhosz Teosz király építtette.", "Népszerű úti cél napfelkelte-nézésre."],
       ro: ["Cunoscut pentru capetele uriașe de piatră ale zeilor antici.", "Sanctuarul funerar a fost construit de Regele Antioh I Theos.", "O destinație populară pentru a privi răsăritul."],
       en: ["Known for the giant stone heads of ancient gods.", "The tomb sanctuary was built by King Antiochus I Theos.", "A popular destination to watch the sunrise."]
-    }
-  },
+    }, image: "/poi-images/mount-nemrut-landmarks-v2.webp"},
   {
     id: "goreme-national-park-landmarks-v2",
     type: "landmark",
@@ -97,8 +91,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Tele van a puha kőzetbe vájt, ősi barlangtemplomokkal.", "A hőlégballonozás egyik világközpontja.", "A sziklaalakzatok vulkáni tufából állnak."],
       ro: ["Plin de biserici antice săpate în stânca moale.", "Un centru mondial pentru zborurile cu balonul cu aer cald.", "Formațiunile de stâncă sunt alcătuite din tuf vulcanic."],
       en: ["Full of ancient cave churches carved into the soft rock.", "A world hub for hot air ballooning.", "The rock formations consist of volcanic tuff."]
-    }
-  },
+    }, image: "/poi-images/goreme-national-park-landmarks-v2.webp"},
   {
     id: "sumela-monastery-landmarks-v2",
     type: "landmark",
@@ -111,8 +104,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Krisztus után 386-ban alapították.", "1200 méteres magasságban található.", "Jó állapotban fennmaradt freskóiról híres."],
       ro: ["Fondată în anul 386 d.Hr.", "Se află la o altitudine de 1.200 de metri.", "Faimoasă pentru frescele sale bine conservate."],
       en: ["Founded in the year 386 AD.", "Located at an altitude of 1,200 meters.", "Famous for its well-preserved frescoes."]
-    }
-  },
+    }, image: "/poi-images/sumela-monastery-landmarks-v2.webp"},
   {
     id: "galata-tower-landmarks-v2",
     type: "landmark",
@@ -125,8 +117,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["1348-ban építették a genovaiak.", "Korábban tűztoronyként szolgált.", "Ma a városkép egyik legmeghatározóbb jelképe."],
       ro: ["A fost construit în 1348 de către genovezi.", "A servit anterior ca turn de veghe împotriva incendiilor.", "Este astăzi unul dintre reperele distincte ale orizontului."],
       en: ["Was built by the Genoese in 1348.", "Previously served as a fire watchtower.", "Today it is one of the most distinctive landmarks of the skyline."]
-    }
-  },
+    }, image: "/poi-images/galata-tower-landmarks-v2.webp"},
   {
     id: "troy-landmarks-v2",
     type: "landmark",
@@ -139,8 +130,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Heinrich Schliemann fedezte fel a 19. században.", "Ma egy nagy fa ló áll a bejáratánál.", "Kilenc különböző régészeti rétegből áll."],
       ro: ["Descoperit în secolul al XIX-lea de Heinrich Schliemann.", "Un cal mare de lemn se află astăzi la intrare.", "Se compune din nouă straturi arheologice diferite."],
       en: ["Discovered in the 19th century by Heinrich Schliemann.", "A large wooden horse stands at the entrance today.", "Consists of nine different archaeological layers."]
-    }
-  },
+    }, image: "/poi-images/troy-landmarks-v2.webp"},
   {
     id: "mount-ararat-landmarks-v2",
     type: "landmark",
@@ -153,8 +143,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Törökország legmagasabb hegye, 5137 méter magas.", "Két csúcsa van: a Nagy- és a Kis-Ararát.", "Népszerű, de kihívást jelentő célpont a hegymászók számára."],
       ro: ["Cel mai înalt munte din Turcia, la 5.137 de metri.", "Are două vârfuri: Araratul Mare și cel Mic.", "O destinație populară, dar provocatoare pentru alpiniști."],
       en: ["Turkey's highest mountain at 5,137 meters.", "Has two peaks: Greater and Lesser Ararat.", "A popular but challenging destination for mountaineers."]
-    }
-  },
+    }, image: "/poi-images/mount-ararat-landmarks-v2.webp"},
   {
     id: "grand-bazaar-landmarks-v2",
     type: "landmark",
@@ -167,8 +156,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["61 fedett utcát és több mint 4000 üzletet foglal magában.", "Naponta akár 400 000 látogatót is vonz.", "Röviddel az 1453-as oszmán hódítás után alapították."],
       ro: ["Cuprinde 61 de străzi acoperite și peste 4.000 de magazine.", "Atrage până la 400.000 de vizitatori zilnic.", "A fost fondat la scurt timp după cucerirea otomană din 1453."],
       en: ["Comprises 61 covered streets and over 4,000 shops.", "Attracts up to 400,000 visitors daily.", "Was founded shortly after the Ottoman conquest of 1453."]
-    }
-  },
+    }, image: "/poi-images/grand-bazaar-landmarks-v2.webp"},
   {
     id: "basilica-cistern-landmarks-v2",
     type: "landmark",
@@ -181,8 +169,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["A 6. században épült I. Justinianus császár uralkodása alatt.", "336 márványoszlop tartja a tetőszerkezetet.", "Egykor a Nagy Palota vízellátását biztosította."],
       ro: ["Construită în secolul al VI-lea sub împăratul Iustinian I.", "Este susținută de 336 de coloane de marmură.", "Cândva servea la aprovizionarea cu apă a marelui palat."],
       en: ["Built in the 6th century under Emperor Justinian I.", "Supported by 336 marble columns.", "Once served as the water supply for the Great Palace."]
-    }
-  },
+    }, image: "/poi-images/basilica-cistern-landmarks-v2.webp"},
   {
     id: "anitkabir-landmarks-v2",
     type: "landmark",
@@ -195,8 +182,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["A fővárosban, Ankarában található.", "1953-ban fejezték be kilencéves építkezés után.", "Évente több millió látogatót vonz, akik tiszteletüket teszik."],
       ro: ["Se află în capitala Ankara.", "Finalizat în anul 1953, după nouă ani de construcție.", "Atrage milioane de vizitatori anual care vin să-și arate respectul."],
       en: ["Located in the capital city of Ankara.", "Completed in 1953 after nine years of construction.", "Attracts millions of visitors annually paying their respects."]
-    }
-  },
+    }, image: "/poi-images/anitkabir-landmarks-v2.webp"},
   {
     id: "aspendos-theater-landmarks-v2",
     type: "landmark",
@@ -209,8 +195,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Egykor akár 12 000 nézőt is be tudott fogadni.", "Kiváló akusztikájáról ismert.", "A Kr. u. 2. században épült."],
       ro: ["Putea găzdui odată până la 12.000 de spectatori.", "Cunoscut pentru acustica sa superbă.", "Construit în secolul al II-lea d.Hr."],
       en: ["Could once hold up to 12,000 spectators.", "Known for its superb acoustics.", "Built in the 2nd century AD."]
-    }
-  },
+    }, image: "/poi-images/aspendos-theater-landmarks-v2.webp"},
   {
     id: "gobekli-tepe-landmarks-v2",
     type: "landmark",
@@ -223,8 +208,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["A romok több mint 11 000 évesek.", "Megváltoztatta a korai emberi történelemről alkotott felfogásunkat.", "Hatalmas kőoszlopokat tartalmaz állatfaragványokkal."],
       ro: ["Ruinele au o vechime de peste 11.000 de ani.", "A schimbat înțelegerea istoriei timpurii a umanității.", "Conține stâlpi masivi de piatră cu sculpturi de animale."],
       en: ["The ruins are over 11,000 years old.", "Changed the understanding of early human history.", "Contains massive stone pillars with animal carvings."]
-    }
-  },
+    }, image: "/poi-images/gobekli-tepe-landmarks-v2.webp"},
   {
     id: "bosphorus-bridge-landmarks-v2",
     type: "landmark",
@@ -237,8 +221,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["1973-ban nyitották meg.", "Több mint 1500 méter hosszú.", "Hivatalosan Július 15-i Vértanúk hídjára nevezték át."],
       ro: ["A fost deschis în 1973.", "Are o lungime de peste 1.500 de metri.", "Redenumit oficial Podul Martirilor din 15 Iulie."],
       en: ["Was opened in 1973.", "Is over 1,500 meters long.", "Officially renamed the 15 July Martyrs Bridge."]
-    }
-  },
+    }, image: "/poi-images/bosphorus-bridge-landmarks-v2.webp"},
   {
     id: "maidens-tower-landmarks-v2",
     type: "landmark",
@@ -251,8 +234,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       hu: ["Egykor világítótoronyként és vámállomásként szolgált.", "Törökül Kız Kulesi néven ismert.", "Népszerű fotótéma naplementekor."],
       ro: ["Odată a servit ca far și stație vamală.", "Cunoscut sub numele de Kız Kulesi în turcă.", "Un motiv popular de fotografie la apus."],
       en: ["Once served as a lighthouse and customs station.", "Known as Kız Kulesi in Turkish.", "A popular photography subject at sunset."]
-    }
-  },
+    }, image: "/poi-images/maidens-tower-landmarks-v2.webp"},
   {
     id: "bodrum-castle-landmarks-v2",
     type: "landmark",

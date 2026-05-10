@@ -13,8 +13,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Az ország teljes területének mintegy 5%-át teszi ki.", "Farkasok, vaddisznók és vadmacskák otthona."],
       ro: ["Acoperă aproximativ 5% din suprafața totală a țării.", "Adăpostește lupi, mistreți și pisici sălbatice."],
       en: ["Covers about 5% of the country's total area.", "Home to wolves, wild boars, and wildcats."]
-    }
-  },
+    }, image: "/poi-images/al-shouf-cedar-reserve-life-v2.webp"},
   {
     id: "horsh-ehden-reserve-life-v2",
     type: "wildlife-area",
@@ -27,8 +26,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Több mint 1000 növényfajnak ad otthont.", "Ritka lepkék fontos menedékhelye."],
       ro: ["Găzduiește peste 1000 de specii de plante.", "Un refugiu important pentru fluturii rari."],
       en: ["Home to over 1000 plant species.", "An important refuge for rare butterflies."]
-    }
-  },
+    }, image: "/poi-images/horsh-ehden-reserve-life-v2.webp"},
   {
     id: "palm-islands-reserve-life-v2",
     type: "wildlife-area",
@@ -41,8 +39,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Három lapos mészkőszigetből áll.", "A vonuló madarak fontos pihenőhelye."],
       ro: ["Este format din trei insule plate de calcar.", "Un loc important de odihnă pentru păsările migratoare."],
       en: ["Consists of three flat limestone islands.", "An important resting place for migratory birds."]
-    }
-  },
+    }, image: "/poi-images/palm-islands-reserve-life-v2.webp"},
   {
     id: "tyre-coast-reserve-life-v2",
     type: "wildlife-area",
@@ -55,8 +52,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Az álcserepesteknős fészkelőhelye.", "Ókori régészeti maradványokat is tartalmaz a vízben."],
       ro: ["Loc de cuibărit pentru țestoasa de mare Caretta caretta.", "Conține și vestigii arheologice antice în apă."],
       en: ["Nesting site for the loggerhead sea turtle.", "Also contains ancient archaeological remains in the water."]
-    }
-  },
+    }, image: "/poi-images/tyre-coast-reserve-life-v2.webp"},
   {
     id: "jabal-moussa-reserve-life-v2",
     type: "wildlife-area",
@@ -69,8 +65,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Több mint 130 madárfajnak ad otthont.", "Ősi római lépcsőiről ismert."],
       ro: ["Găzduiește peste 130 de specii de păsări.", "Cunoscută pentru scările sale romane antice."],
       en: ["Home to over 130 bird species.", "Known for its ancient Roman stairs."]
-    }
-  },
+    }, image: "/poi-images/jabal-moussa-reserve-life-v2.webp"},
   {
     id: "bekaa-vineyards-life-v2",
     type: "agriculture",
@@ -83,8 +78,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Itt készül a libanoni borok nagy része.", "A termesztési magasság több mint 1000 méter."],
       ro: ["Produce majoritatea vinurilor libaneze.", "Altitudinea de cultivare este de peste 1000 de metri."],
       en: ["Produces most of the Lebanese wines.", "The cultivation altitude is over 1000 meters."]
-    }
-  },
+    }, image: "/poi-images/bekaa-vineyards-life-v2.webp"},
   {
     id: "tannourine-cedar-life-v2",
     type: "wildlife-area",
@@ -97,8 +91,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["A fák rendkívül meredek lejtőkön nőnek.", "Népszerű terület a hegymászók és túrázók körében."],
       ro: ["Copacii cresc pe pante extrem de abrupte.", "O zonă populară pentru alpiniști și drumeți."],
       en: ["The trees grow on extremely steep slopes.", "A popular area for climbers and hikers."]
-    }
-  },
+    }, image: "/poi-images/tannourine-cedar-life-v2.webp"},
   {
     id: "yammouneh-reserve-life-v2",
     type: "wildlife-area",
@@ -111,8 +104,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["84 természetes vízforrás található itt.", "Egy különleges fürgefaj (Phoxinellus libanicus) otthona."],
       ro: ["Există 84 de izvoare naturale de apă acolo.", "Adăpostește o specie specială de boiștean (Phoxinellus libanicus)."],
       en: ["There are 84 natural water springs there.", "Home to a special species of minnow (Phoxinellus libanicus)."]
-    }
-  },
+    }, image: "/poi-images/yammouneh-reserve-life-v2.webp"},
   {
     id: "bentael-reserve-life-v2",
     type: "wildlife-area",
@@ -125,8 +117,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["A falubeliek maguk kezdeményezték 1981-ben.", "Fontos állomás a tavaszi madárvonulás során."],
       ro: ["A fost inițiată chiar de săteni în 1981.", "O stație importantă pentru migrația păsărilor în primăvară."],
       en: ["Was initiated by the villagers themselves in 1981.", "An important stopover for bird migration in the spring."]
-    }
-  },
+    }, image: "/poi-images/bentael-reserve-life-v2.webp"},
   {
     id: "rene-moawad-garden-life-v2",
     type: "park",
@@ -139,8 +130,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Eredetileg 1907-ben nyílt meg Sanayeh kertként.", "Népszerű találkozóhely családok és sétálók számára."],
       ro: ["Inaugurat inițial în 1907 sub numele de Grădina Sanayeh.", "Punct de întâlnire popular pentru familii și plimbări."],
       en: ["Originally opened in 1907 as Sanayeh Garden.", "A popular meeting place for families and walkers."]
-    }
-  },
+    }, image: "/poi-images/rene-moawad-garden-life-v2.webp"},
   {
     id: "horsh-beirut-life-v2",
     type: "park",
@@ -153,8 +143,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Az erdő területe körülbelül 300 000 négyzetméter.", "Sok éven át tartott az erdő újratelepítése."],
       ro: ["Pădurea are o suprafață de aproximativ 300.000 de metri pătrați.", "A fost reîmpădurită de-a lungul multor ani."],
       en: ["The forest has a size of about 300,000 square meters.", "It was reforested over many years."]
-    }
-  },
+    }, image: "/poi-images/horsh-beirut-life-v2.webp"},
   {
     id: "animal-city-lebanon-life-v2",
     type: "kid-friendly",
@@ -167,8 +156,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Libanon egyik legnagyobb állatkertje.", "Oktatási túrákat is kínál iskolásoknak."],
       ro: ["Unul dintre cele mai mari parcuri de animale din Liban.", "Oferă, de asemenea, tururi educaționale pentru școlari."],
       en: ["One of the largest animal parks in Lebanon.", "Also offers educational tours for schoolchildren."]
-    }
-  },
+    }, image: "/poi-images/animal-city-lebanon-life-v2.webp"},
   {
     id: "waves-aqua-park-life-v2",
     type: "kid-friendly",
@@ -181,8 +169,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["60 000 négyzetméteres területet foglal magában.", "Hatalmas hullámmedencékkel és csúszdákkal rendelkezik."],
       ro: ["Acoperă o suprafață de 60.000 de metri pătrați.", "Are piscine uriașe cu valuri și tobogane."],
       en: ["Covers an area of 60,000 square meters.", "Features giant wave pools and slides."]
-    }
-  },
+    }, image: "/poi-images/waves-aqua-park-life-v2.webp"},
   {
     id: "watergate-aqua-park-life-v2",
     type: "kid-friendly",
@@ -195,8 +182,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Nagysebességű, kanyargós csúszdáiról ismert.", "Saját gyermekrésszel rendelkezik sekély vízzel."],
       ro: ["Este cunoscut pentru toboganele sale de mare viteză și pline de curbe.", "Are o zonă proprie pentru copii cu apă puțin adâncă."],
       en: ["Is known for its high-speed, winding slides.", "Has its own children's area with shallow water."]
-    }
-  },
+    }, image: "/poi-images/watergate-aqua-park-life-v2.webp"},
   {
     id: "rio-lento-park-life-v2",
     type: "kid-friendly",
@@ -209,8 +195,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["A neve spanyolul 'lassú folyót' jelent.", "A létesítményt természetes sziklafalak veszik körül."],
       ro: ["Numele înseamnă 'Râu încet' în spaniolă.", "Complexul este înconjurat de pereți stâncoși naturali."],
       en: ["The name means 'Slow River' in Spanish.", "The facility is surrounded by natural rock walls."]
-    }
-  },
+    }, image: "/poi-images/rio-lento-park-life-v2.webp"},
   {
     id: "bkassine-pine-forest-life-v2",
     type: "park",
@@ -223,8 +208,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["Maga a falu védte és gondozta.", "Függőhidakat és kiterjedt túraútvonalakat kínál."],
       ro: ["A fost protejat și întreținut de satul însuși.", "Oferă poduri suspendate și trasee extinse de drumeții."],
       en: ["Was protected and maintained by the village itself.", "Offers suspension bridges and extensive hiking trails."]
-    }
-  },
+    }, image: "/poi-images/bkassine-pine-forest-life-v2.webp"},
   {
     id: "litani-basin-agri-life-v2",
     type: "agriculture",
@@ -237,8 +221,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["A Litáni a leghosszabb folyó, amely teljes egészében Libanonban folyik.", "A gabona- és zöldségtermesztés fontos központja."],
       ro: ["Litani este cel mai lung râu care curge în întregime în Liban.", "Un centru important pentru cultivarea de cereale și legume."],
       en: ["The Litani is the longest river that flows entirely in Lebanon.", "An important center for growing grains and vegetables."]
-    }
-  },
+    }, image: "/poi-images/litani-basin-agri-life-v2.webp"},
   {
     id: "kfardebian-orchards-life-v2",
     type: "agriculture",
@@ -251,8 +234,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["A hegyek hűvös éjszakái ideálisak az almatermesztéshez.", "Az almát gyakran exportálják az egész Öböl-térségbe."],
       ro: ["Nopțile răcoroase ale munților sunt ideale pentru cultivarea merelor.", "Merele sunt adesea exportate în întreaga regiune a Golfului."],
       en: ["The cool nights of the mountains are ideal for apple growing.", "The apples are often exported throughout the Gulf region."]
-    }
-  },
+    }, image: "/poi-images/kfardebian-orchards-life-v2.webp"},
   {
     id: "hasbaya-olives-life-v2",
     type: "agriculture",
@@ -265,8 +247,7 @@ export const poiExtraLebanonLifeV2: POI[] = [
       hu: ["A környéken néhány olajfa több mint ezer éves.", "Az olajbogyószüret központi társadalmi esemény."],
       ro: ["Unii măslini din zonă au peste o mie de ani.", "Recolta de măsline este un eveniment social central."],
       en: ["Some olive trees in the area are over a thousand years old.", "The olive harvest is a central social event."]
-    }
-  },
+    }, image: "/poi-images/hasbaya-olives-life-v2.webp"},
   {
     id: "ammiq-wetland-life-v2",
     type: "wildlife-area",

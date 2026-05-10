@@ -18,8 +18,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Törökországból folyik Szíriába", "Kiemelkedő a mezőgazdaság számára", "Felduzzasztásával jött létre az Aszad-tó", "A civilizáció történelmi bölcsője"],
       ro: ["Curge din Turcia în Siria", "Esențial pentru agricultură", "Formează Lacul Assad", "Leagăn istoric al civilizației"],
       en: ["Flows from Turkey into Syria", "Crucial for agriculture", "Forms Lake Assad", "Historical cradle of civilization"]
-    }
-  },
+    }, image: "/poi-images/euphrates-river-syria-nature-v2.webp"},
   {
     id: "orontes-river-nature-v2",
     type: "river",
@@ -37,8 +36,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Észak felé folyik", "Hamá régióját látja el vízzel", "Fontos vízforrás", "Helyi neve Nahr al-Aszi"],
       ro: ["Curge spre nord", "Aprovizionează regiunea Hama", "Sursă vitală de apă", "Cunoscut sub numele de Nahr al-Asi"],
       en: ["Flows northwards", "Supplies the Hama region", "Vital water source", "Known locally as Nahr al-Asi"]
-    }
-  },
+    }, image: "/poi-images/orontes-river-nature-v2.webp"},
   {
     id: "khabur-river-nature-v2",
     type: "river",
@@ -56,8 +54,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Az Eufrátesz legnagyobb mellékfolyója", "Ősi kultúrák központja", "Északkelet-Szíriát öntözi", "Törökországban ered"],
       ro: ["Cel mai mare afluent al Eufratului", "Centru al culturilor antice", "Irigă nord-estul țării", "Izvorăște din Turcia"],
       en: ["Largest tributary of the Euphrates", "Center of ancient cultures", "Irrigates the northeast", "Originates in Turkey"]
-    }
-  },
+    }, image: "/poi-images/khabur-river-nature-v2.webp"},
   {
     id: "lake-assad-nature-v2",
     type: "lake",
@@ -75,8 +72,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Az ország legnagyobb tava", "Kiemelkedő az áramtermelésben", "Fontos madárélőhely", "Jelentős ivóvízbázis"],
       ro: ["Cel mai mare lac din țară", "Important pentru energia hidroelectrică", "Habitat pentru păsări", "Rezervor de apă potabilă"],
       en: ["Largest lake in the country", "Important for power generation", "Habitat for various birds", "Drinking water reservoir"]
-    }
-  },
+    }, image: "/poi-images/lake-assad-nature-v2.webp"},
   {
     id: "lake-qattinah-nature-v2",
     type: "lake",
@@ -94,8 +90,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Ókori gátja van", "Az Orontész folyón található", "Homsztól délnyugatra fekszik", "Jelentős a helyi öntözésben"],
       ro: ["Baraj de origine antică", "Situat pe râul Orontes", "La sud-vest de Homs", "Crucial pentru irigațiile locale"],
       en: ["Ancient dam origins", "Located on the Orontes River", "Southwest of Homs", "Crucial for local irrigation"]
-    }
-  },
+    }, image: "/poi-images/lake-qattinah-nature-v2.webp"},
   {
     id: "mount-hermon-syria-nature-v2",
     type: "mountain",
@@ -113,8 +108,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Szíria legmagasabb pontja", "Télen hó fedi", "Libanonnal határos", "Fontos édesvízforrás"],
       ro: ["Cel mai înalt punct din Siria", "Acoperit de zăpadă iarna", "La granița cu Libanul", "Sursă vitală de apă dulce"],
       en: ["Highest point in Syria", "Snow-capped in winter", "Borders Lebanon", "Vital freshwater source"]
-    }
-  },
+    }, image: "/poi-images/mount-hermon-syria-nature-v2.webp"},
   {
     id: "jabal-al-druze-nature-v2",
     type: "mountain",
@@ -132,8 +126,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Vulkanikus eredetű", "A drúz közösség otthona", "Termékeny vulkáni talaj", "Dzsebel el-Arab néven is ismert"],
       ro: ["Origine vulcanică", "Căminul comunității druze", "Soluri vulcanice fertile", "Cunoscut și ca Jabal al-Arab"],
       en: ["Volcanic origin", "Home to the Druze community", "Fertile volcanic soils", "Also known as Jabal al-Arab"]
-    }
-  },
+    }, image: "/poi-images/jabal-al-druze-nature-v2.webp"},
   {
     id: "anti-lebanon-mountains-syria-nature-v2",
     type: "mountain",
@@ -151,8 +144,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Határhegység Libanonnal", "Észak-déli irányú", "Kopár és sziklás", "Ritka növények élőhelye"],
       ro: ["Munți de graniță cu Libanul", "Se întind de la nord la sud", "Pietros și arid", "Adăpostește plante rare"],
       en: ["Border mountains with Lebanon", "Runs north to south", "Barren and rocky", "Home to rare plants"]
-    }
-  },
+    }, image: "/poi-images/anti-lebanon-mountains-syria-nature-v2.webp"},
   {
     id: "syrian-coastal-mountains-nature-v2",
     type: "mountain",
@@ -170,8 +162,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Szíria legzöldebb régiója", "A parttal párhuzamos", "Történelmi várak a régióban", "Dzsebel Anszarija néven is ismert"],
       ro: ["Cea mai verde regiune din Siria", "Paralel cu coasta", "Castele istorice în regiune", "Cunoscut și ca Jabal Ansariyah"],
       en: ["Greenest region in Syria", "Parallel to the coast", "Historical castles in the region", "Also called Jabal Ansariyah"]
-    }
-  },
+    }, image: "/poi-images/syrian-coastal-mountains-nature-v2.webp"},
   {
     id: "jabal-al-bishri-nature-v2",
     type: "mountain",
@@ -189,8 +180,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["A Szíriai-sivatagban található", "Történelmi nomád vidék", "Aszfaltforrásokban gazdag", "Zord sivatagi táj"],
       ro: ["Situat în deșertul sirian", "Ținut nomad istoric", "Bogat în izvoare de asfalt", "Peisaj deșertic aspru"],
       en: ["Located in the Syrian Desert", "Historical nomadic land", "Rich in asphalt springs", "Rugged desert landscape"]
-    }
-  },
+    }, image: "/poi-images/jabal-al-bishri-nature-v2.webp"},
   {
     id: "barada-river-nature-v2",
     type: "river",
@@ -208,8 +198,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Damaszkuszon folyik át", "A Gúta oázist táplálja", "Kiemelkedő történelmi jelentőség", "Vízhiánnyal küzd"],
       ro: ["Traversează Damascul", "Alimentează oaza Ghouta", "Importanță istorică majoră", "Suferă de penurie de apă"],
       en: ["Flows through Damascus", "Feeds the Ghouta oasis", "Major historical importance", "Suffers from water scarcity"]
-    }
-  },
+    }, image: "/poi-images/barada-river-nature-v2.webp"},
   {
     id: "jabal-zawiya-nature-v2",
     type: "mountain",
@@ -227,8 +216,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["A Belus-hegység része", "Számos rom otthona", "Legmagasabb csúcsa 800m felett", "Mészkőhegység"],
       ro: ["Face parte din Masivul Belus", "Găzduiește multe ruine", "Cel mai înalt vârf are peste 800m", "Masiv de calcar"],
       en: ["Part of the Belus Massif", "Home to many ruins", "Highest peak over 800m", "Limestone mountain"]
-    }
-  },
+    }, image: "/poi-images/jabal-zawiya-nature-v2.webp"},
   {
     id: "balikh-river-nature-v2",
     type: "river",
@@ -246,8 +234,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Az Eufrátesz mellékfolyója", "Rakkánál torkollik", "Az ókorban jelentős volt", "A török határnál ered"],
       ro: ["Afluent al Eufratului", "Se varsă lângă Raqqa", "Important în antichitate", "Izvorăște la granița turcă"],
       en: ["Tributary of the Euphrates", "Joins near Raqqa", "Important in antiquity", "Originates at the Turkish border"]
-    }
-  },
+    }, image: "/poi-images/balikh-river-nature-v2.webp"},
   {
     id: "lake-muzairib-nature-v2",
     type: "lake",
@@ -265,8 +252,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Daraa régióban található", "Népszerű kirándulóhely", "Fontos a mezőgazdaság számára", "Források táplálják"],
       ro: ["Situat în regiunea Daraa", "Destinație populară", "Important pentru agricultură", "Alimentat de izvoare"],
       en: ["Located in the Daraa region", "Popular excursion destination", "Important for agriculture", "Fed by springs"]
-    }
-  },
+    }, image: "/poi-images/lake-muzairib-nature-v2.webp"},
   {
     id: "jabal-qasioun-nature-v2",
     type: "mountain",
@@ -303,8 +289,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Mediterrán növényzet", "Népszerű ökoturisztikai célpont", "Partmenti erdők", "Gazdag biodiverzitás"],
       ro: ["Vegetație mediteraneană", "Populară pentru ecoturism", "Păduri de coastă", "Biodiversitate bogată"],
       en: ["Mediterranean vegetation", "Popular for ecotourism", "Coastal forests", "Rich biodiversity"]
-    }
-  },
+    }, image: "/poi-images/baer-bassit-forest-nature-v2.webp"},
   {
     id: "slenfeh-forest-nature-v2",
     type: "forest",
@@ -322,8 +307,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Magasan fekvő erdők", "Cédrusok és fenyők", "Nyári menedék", "Szaladin várának közelében"],
       ro: ["Păduri de mare altitudine", "Cedri și brazi", "Refugiu de vară", "Aproape de Castelul lui Salah al-Din"],
       en: ["High-altitude forests", "Cedars and firs", "Summer resort", "Near Salah Ed-Din Castle"]
-    }
-  },
+    }, image: "/poi-images/slenfeh-forest-nature-v2.webp"},
   {
     id: "afrin-river-nature-v2",
     type: "river",
@@ -341,8 +325,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["Afrin régióján folyik át", "Az Orontész mellékfolyója", "Olajfák övezik", "A Torosz-hegységben ered"],
       ro: ["Curge prin regiunea Afrin", "Afluent al râului Orontes", "Înconjurat de măslini", "Izvorăște din Munții Taurus"],
       en: ["Flows through the Afrin region", "Tributary of the Orontes", "Surrounded by olive trees", "Originates in the Taurus Mountains"]
-    }
-  },
+    }, image: "/poi-images/afrin-river-nature-v2.webp"},
   {
     id: "al-sinn-river-nature-v2",
     type: "river",
@@ -360,8 +343,7 @@ export const poiExtraSyriaNatureV2: POI[] = [
       hu: ["A Földközi-tengerbe ömlik", "Csak néhány kilométer hosszú", "Biztosítja a vízellátást", "Erős karsztforrásokból ered"],
       ro: ["Se varsă în Marea Mediterană", "Are doar câțiva kilometri lungime", "Asigură alimentarea cu apă", "Izvorăște din izvoare carstice"],
       en: ["Flows into the Mediterranean", "Only a few kilometers long", "Secures water supply", "Originates from strong karst springs"]
-    }
-  },
+    }, image: "/poi-images/al-sinn-river-nature-v2.webp"},
   {
     id: "tigris-river-syria-nature-v2",
     type: "river",

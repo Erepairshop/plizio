@@ -39,8 +39,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Generates over 70% of the country's electricity.",
         "Located on the Vakhsh River."
       ]
-    }
-  },
+    }, image: "/poi-images/nurek-hpp-economic-v2.webp"},
   {
     id: "rogun-hpp-economic-v2",
     type: "energy",
@@ -79,8 +78,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "The project started during the Soviet era.",
         "Will secure Tajikistan's energy independence."
       ]
-    }
-  },
+    }, image: "/poi-images/rogun-hpp-economic-v2.webp"},
   {
     id: "talco-aluminium-plant-economic-v2",
     type: "industry",
@@ -159,8 +157,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Operated by a Sino-Tajik joint venture.",
         "Extracts several tons of gold annually."
       ]
-    }
-  },
+    }, image: "/poi-images/zarafshon-gold-mine-economic-v2.webp"},
   {
     id: "sangtuda-1-hpp-economic-v2",
     type: "energy",
@@ -199,8 +196,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Became fully operational in 2009.",
         "Important for reducing power outages."
       ]
-    }
-  },
+    }, image: "/poi-images/sangtuda-1-hpp-economic-v2.webp"},
   {
     id: "kayrakkum-hpp-economic-v2",
     type: "energy",
@@ -239,8 +235,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "The reservoir is often called the Tajik Sea.",
         "Provides energy for Sughd Province."
       ]
-    }
-  },
+    }, image: "/poi-images/kayrakkum-hpp-economic-v2.webp"},
   {
     id: "yovon-chemical-plant-economic-v2",
     type: "industry",
@@ -319,8 +314,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Was expanded with US assistance.",
         "Facilitates trade in Central Asia."
       ]
-    }
-  },
+    }, image: "/poi-images/nizhny-pyanj-port-economic-v2.webp"},
   {
     id: "shurab-coal-mine-economic-v2",
     type: "mine",
@@ -359,8 +353,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Located near the city of Isfara.",
         "Supplies brown coal for local heating plants."
       ]
-    }
-  },
+    }, image: "/poi-images/shurab-coal-mine-economic-v2.webp"},
   {
     id: "khujand-silk-factory-economic-v2",
     type: "industry",
@@ -399,8 +392,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Produces silk and cotton fabrics.",
         "Has a history dating back to the early 20th century."
       ]
-    }
-  },
+    }, image: "/poi-images/khujand-silk-factory-economic-v2.webp"},
   {
     id: "danghara-fez-economic-v2",
     type: "trade-hub",
@@ -439,8 +431,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Houses a large oil refinery.",
         "Established to boost the regional economy."
       ]
-    }
-  },
+    }, image: "/poi-images/danghara-fez-economic-v2.webp"},
   {
     id: "panj-fez-economic-v2",
     type: "trade-hub",
@@ -479,8 +470,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Promotes the export of building materials.",
         "Part of the Belt and Road Initiative."
       ]
-    }
-  },
+    }, image: "/poi-images/panj-fez-economic-v2.webp"},
   {
     id: "sughd-fez-economic-v2",
     type: "trade-hub",
@@ -519,8 +509,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Focuses on processing agricultural products.",
         "Attracts investors from Russia and China."
       ]
-    }
-  },
+    }, image: "/poi-images/sughd-fez-economic-v2.webp"},
   {
     id: "ishkashim-fez-economic-v2",
     type: "trade-hub",
@@ -559,8 +548,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Promotes local handicrafts and agriculture.",
         "Mitigates the economic isolation of the mountainous region."
       ]
-    }
-  },
+    }, image: "/poi-images/ishkashim-fez-economic-v2.webp"},
   {
     id: "dushanbe-tpp-economic-v2",
     type: "energy",
@@ -599,8 +587,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Uses coal from local mines.",
         "Secures the energy supply for the million-person city."
       ]
-    }
-  },
+    }, image: "/poi-images/dushanbe-tpp-economic-v2.webp"},
   {
     id: "takob-fluorite-mine-economic-v2",
     type: "mine",
@@ -639,8 +626,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Was mined intensively during the Soviet Union.",
         "Located in a picturesque mountain gorge."
       ]
-    }
-  },
+    }, image: "/poi-images/takob-fluorite-mine-economic-v2.webp"},
   {
     id: "pakrut-gold-mine-economic-v2",
     type: "mine",
@@ -679,8 +665,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Possesses its own processing facility.",
         "Contributes significantly to state revenues."
       ]
-    }
-  },
+    }, image: "/poi-images/pakrut-gold-mine-economic-v2.webp"},
   {
     id: "adrasmon-lead-zinc-mine-economic-v2",
     type: "mine",
@@ -719,8 +704,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Concentrates are exported by rail.",
         "The region has a long mining tradition."
       ]
-    }
-  },
+    }, image: "/poi-images/adrasmon-lead-zinc-mine-economic-v2.webp"},
   {
     id: "dushanbe-cement-plant-economic-v2",
     type: "industry",
@@ -759,8 +743,7 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Supplies materials for roads and dams.",
         "Has seen efforts to reduce emissions."
       ]
-    }
-  },
+    }, image: "/poi-images/dushanbe-cement-plant-economic-v2.webp"},
   {
     id: "vakhsh-fertilizer-plant-economic-v2",
     type: "industry",

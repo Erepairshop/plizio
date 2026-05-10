@@ -13,8 +13,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["2011-ben lett UNESCO Bioszféra-rezervátum", "Hatalmas mantarája-populációjáról híres", "1200 négyzetkilométernyi korallzátonyt foglal magába"],
       ro: ["Desemnată rezervație a biosferei UNESCO în 2011", "Renumită pentru populațiile de pisici de mare", "Acoperă 1.200 de kilometri pătrați de recife de corali"],
       en: ["Designated a UNESCO Biosphere Reserve in 2011", "Famous for large manta ray populations", "Covers 1,200 square kilometers of coral reefs"]
-    }
-  },
+    }, image: "/poi-images/mv-baa-atoll-biosphere-nature-v2.webp"},
   {
     id: "mv-bandaara-kilhi-nature-v2",
     type: "lake",
@@ -55,8 +54,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Védett mangrove-erdő", "Fontos szaporodási hely a tengeri élőlények számára", "A Huraa szigeten található"],
       ro: ["Pădure de mangrove protejată", "Teren esențial de reproducere pentru viața marină", "Situată pe insula Huraa"],
       en: ["Protected mangrove forest", "Essential breeding ground for marine life", "Located on Huraa island"]
-    }
-  },
+    }, image: "/poi-images/mv-huraa-mangrove-nature-v2.webp"},
   {
     id: "mv-south-ari-atoll-mpa-nature-v2",
     type: "national-park",
@@ -69,8 +67,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Egész évben láthatók itt cetcápák", "42 négyzetkilométeres területet fed le", "2009-ben nyilvánították védetté"],
       ro: ["Observări de rechini-balenă pe tot parcursul anului", "Acoperă 42 de kilometri pătrați", "Desemnată arie protejată în 2009"],
       en: ["Year-round whale shark sightings possible", "Covers 42 square kilometers", "Designated as a protected area in 2009"]
-    }
-  },
+    }, image: "/poi-images/mv-south-ari-atoll-mpa-nature-v2.webp"},
   {
     id: "mv-kuda-haa-nature-v2",
     type: "national-park",
@@ -83,8 +80,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Egy thila (víz alatti zátony) az Észak-Malé-atollban", "1995 óta áll természetvédelem alatt", "Hatalmas szivacsformációiról híres"],
       ro: ["Un Thila (recif scufundat) în Atolul Malé Nord", "Protejat din 1995", "Faimos pentru formațiunile mari de bureți"],
       en: ["A Thila (submerged reef) in North Malé Atoll", "Protected since 1995", "Famous for large sponge formations"]
-    }
-  },
+    }, image: "/poi-images/mv-kuda-haa-nature-v2.webp"},
   {
     id: "mv-dhigali-haa-nature-v2",
     type: "national-park",
@@ -97,8 +93,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Tengeri védett terület a Baa-atollban", "Kemény- és lágykorallokban gazdag", "Mélysége 10 és 30 méter között változik"],
       ro: ["Arie marină protejată în Atolul Baa", "Bogată în corali duri și moi", "Adâncimea variază între 10 și 30 de metri"],
       en: ["Marine protected area in Baa Atoll", "Rich in hard and soft corals", "Depth ranges from 10 to 30 meters"]
-    }
-  },
+    }, image: "/poi-images/mv-dhigali-haa-nature-v2.webp"},
   {
     id: "mv-kandooma-thila-nature-v2",
     type: "national-park",
@@ -111,8 +106,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Könnycsepp alakú víz alatti sziget", "A Dél-Malé-atoll egyik legjobb merülőhelye", "Az erős tengeráramlatok sok tápanyagot hoznak"],
       ro: ["Insulă subacvatică în formă de lacrimă", "Unul dintre cele mai bune locuri de scufundări din Atolul Malé Sud", "Curenți oceanici puternici"],
       en: ["Teardrop-shaped underwater island", "One of the best dive sites in South Malé Atoll", "Strong ocean currents provide nutrients"]
-    }
-  },
+    }, image: "/poi-images/mv-kandooma-thila-nature-v2.webp"},
   {
     id: "mv-rasfari-reef-nature-v2",
     type: "national-park",
@@ -125,8 +119,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["1995 óta védett", "A szürke szirticápák fontos élőhelye", "Látványos mélybe szakadó fallal rendelkezik"],
       ro: ["Protejat din 1995", "Habitat vital pentru rechinii de recif cenușii", "Prezintă o cădere spectaculoasă în adâncuri"],
       en: ["Protected since 1995", "Vital habitat for grey reef sharks", "Features a spectacular drop-off"]
-    }
-  },
+    }, image: "/poi-images/mv-rasfari-reef-nature-v2.webp"},
   {
     id: "mv-filitheyo-kandu-nature-v2",
     type: "national-park",
@@ -139,8 +132,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Védett tengeri csatorna a Faafu-atollban", "Sasráják közötti merüléseiről híres", "A csatorna körülbelül 500 méter széles"],
       ro: ["Canal protejat în Atolul Faafu", "Renumit pentru scufundările cu vulturi de mare", "Lățimea canalului este de aproximativ 500 de metri"],
       en: ["Protected channel in Faafu Atoll", "Famous for diving with eagle rays", "The channel is about 500 meters wide"]
-    }
-  },
+    }, image: "/poi-images/mv-filitheyo-kandu-nature-v2.webp"},
   {
     id: "mv-vashafaru-mangroves-nature-v2",
     type: "forest",
@@ -167,8 +159,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Gyors áramlatairól kapta a nevét", "A nyílt tengeri halak megfigyeléséről híres", "1999-ben nyilvánították védetté"],
       ro: ["Numită după curenții săi rapizi", "Renumită pentru observarea peștilor pelagici", "Declarată arie protejată în 1999"],
       en: ["Named after its fast-flowing currents", "Famous for observing pelagic fish", "Declared a protected area in 1999"]
-    }
-  },
+    }, image: "/poi-images/mv-embudhoo-express-nature-v2.webp"},
   {
     id: "mv-kelaa-mangrove-nature-v2",
     type: "forest",
@@ -181,8 +172,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["A Maldív-szigetek északi részének egyik legnagyobb mangrove-erdeje", "Történelmileg hajóépítő anyagokhoz használták", "Különféle rákpopulációknak ad otthont"],
       ro: ["Una dintre cele mai mari păduri de mangrove din nordul Maldivelor", "Folosită istoric pentru materiale de construcție a bărcilor", "Găzduiește populații diverse de crabi"],
       en: ["One of the largest mangrove forests in northern Maldives", "Historically used for boat building materials", "Supports diverse crab populations"]
-    }
-  },
+    }, image: "/poi-images/mv-kelaa-mangrove-nature-v2.webp"},
   {
     id: "mv-miyaru-kandu-nature-v2",
     type: "national-park",
@@ -195,8 +185,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["A Miyaru jelentése 'cápa' dhivehi nyelven", "Pörölycápa-megfigyeléseiről ismert", "Erős befelé irányuló áramlatok jellemzik"],
       ro: ["Miyaru înseamnă 'rechin' în Dhivehi", "Cunoscută pentru observarea rechinilor-ciocan", "Curenți puternici de intrare"],
       en: ["Miyaru means 'shark' in Dhivehi", "Known for hammerhead shark sightings", "Strong incoming ocean currents"]
-    }
-  },
+    }, image: "/poi-images/mv-miyaru-kandu-nature-v2.webp"},
   {
     id: "mv-eidhigali-kilhi-nature-v2",
     type: "national-park",
@@ -223,8 +212,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Fontos természetes gát a szökőárak ellen", "Kis természetes medencékkel rendelkezik", "Egyedülálló növényvilágnak ad otthont"],
       ro: ["Barieră naturală crucială împotriva valurilor de maree", "Prezintă mici bazine naturale", "Găzduiește o floră unică"],
       en: ["Crucial natural barrier against tidal waves", "Features small natural pools", "Home to unique flora"]
-    }
-  },
+    }, image: "/poi-images/mv-kendhoo-mangroves-nature-v2.webp"},
   {
     id: "mv-kuredhdhoo-express-nature-v2",
     type: "national-park",
@@ -237,8 +225,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Csatorna a Lhaviyani-atollban", "Mosógépszerű, erős áramlatairól híres", "Kiváló a közönséges levesteknősök megfigyelésére"],
       ro: ["Canal în Atolul Lhaviyani", "Renumit pentru curenții săi puternici asemănători unei mașini de spălat", "Excelent pentru observarea țestoaselor verzi"],
       en: ["Channel in Lhaviyani Atoll", "Famous for its strong washing machine currents", "Excellent for observing green turtles"]
-    }
-  },
+    }, image: "/poi-images/mv-kuredhdhoo-express-nature-v2.webp"},
   {
     id: "mv-mendhoo-nature-v2",
     type: "national-park",
@@ -251,8 +238,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["Lakatlan sziget sűrű növényzettel", "Védett fészkelőhely a tengeri teknősök számára", "A Baa-atoll Bioszféra része"],
       ro: ["Insulă nelocuită cu vegetație densă", "Loc de cuibărit protejat pentru broaștele țestoase marine", "Face parte din Biosfera Atolul Baa"],
       en: ["Uninhabited island with dense vegetation", "Protected nesting site for sea turtles", "Part of the Baa Atoll Biosphere"]
-    }
-  },
+    }, image: "/poi-images/mv-mendhoo-nature-v2.webp"},
   {
     id: "mv-olhugiri-nature-v2",
     type: "national-park",
@@ -265,8 +251,7 @@ export const poiExtraMaldivesNatureV2: POI[] = [
       hu: ["A fregattmadarak mindössze két pihenőhelyének egyike a Maldív-szigeteken", "Lakatlan természetes élőhely", "2007 óta védett"],
       ro: ["Unul dintre cele două locuri de odihnă pentru fregate din Maldive", "Habitat natural nelocuit", "Protejată din 2007"],
       en: ["One of the only two roosting sites for frigatebirds in Maldives", "Uninhabited natural habitat", "Protected since 2007"]
-    }
-  },
+    }, image: "/poi-images/mv-olhugiri-nature-v2.webp"},
   {
     id: "mv-farikede-nature-v2",
     type: "national-park",

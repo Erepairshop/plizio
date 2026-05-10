@@ -1,0 +1,93 @@
+
+{
+  "lang": "multi4",
+  "country": "bangladesh",
+  "files": ["lib/visualLab/data/poiExtraBangladeshNatureV2.ts"],
+  "items": [
+    {
+      "id": "bd-teesta-river-nature-v2",
+      "descriptionAdvancedDe": "Der Teesta, ein Nebenfluss des Brahmaputra (in Bangladesch Jamuna genannt), entspringt im Himalaya im indischen Bundesstaat Sikkim. Er fließt durch Westbengalen, bevor er nach Bangladesch gelangt, wo er eine wichtige Rolle für die Landwirtschaft im Norden des Landes spielt. Der Fluss ist bekannt für seine sich schnell ändernde Strömung und seine Neigung zu Überschwemmungen während der Monsunzeit. Die Verteilung der Wässer des Teesta ist seit langem ein Streitpunkt zwischen Indien und Bangladesch, da beide Länder stark von seinen Ressourcen für Bewässerung und andere Zwecke abhängig sind. Die Landschaft entlang des Flusses ist geprägt von fruchtbaren Ebenen und kleinen Dörfern, deren Lebensunterhalt eng mit dem Fluss verbunden ist.",
+      "descriptionAdvancedHu": "A Teesta folyó, a Brahmaputra (Bangladesben Jamuna néven ismert) mellékfolyója, az indiai Szikkim állam Himalájájában ered. Nyugat-Bengálon keresztül folyik, mielőtt Bangladesbe ér, ahol fontos szerepet játszik az ország északi részének mezőgazdaságában. A folyó a gyorsan változó áramlásáról és a monszun idején való árvízi hajlamáról ismert. A Teesta vizeinek elosztása régóta vita tárgyát képezi India és Banglades között, mivel mindkét ország nagymértékben függ erőforrásaitól öntözési és egyéb célokra. A folyó menti tájat termékeny síkságok és kis falvak jellemzik, amelyek megélhetése szorosan kötődik a folyóhoz.",
+      "descriptionAdvancedRo": "Râul Teesta, un afluent al Brahmaputrei (cunoscut sub numele de Jamuna în Bangladesh), izvorăște din Himalaya în statul indian Sikkim. Curge prin Bengalul de Vest înainte de a intra în Bangladesh, unde joacă un rol vital în agricultura din nordul țării. Râul este cunoscut pentru curentul său care se schimbă rapid și pentru tendința sa de a provoca inundații în timpul sezonului musonic. Partajarea apelor râului Teesta a fost mult timp o problemă contencioasă între India și Bangladesh, ambele țări fiind puternic dependente de resursele sale pentru irigații și alte scopuri. Peisajul de-a lungul râului este caracterizat de câmpii fertile și sate mici a căror existență este strâns legată de râu.",
+      "descriptionAdvancedEn": "The Teesta River, a tributary of the Brahmaputra (known as Jamuna in Bangladesh), originates in the Himalayas in the Indian state of Sikkim. It flows through West Bengal before entering Bangladesh, where it plays a vital role in the agriculture of the northern part of the country. The river is known for its rapidly changing course and its tendency to flood during the monsoon season. The sharing of the Teesta's waters has long been a contentious issue between India and Bangladesh, as both countries are heavily dependent on its resources for irrigation and other purposes. The landscape along the river is characterized by fertile plains and small villages whose livelihoods are closely tied to the river.",
+      "factsAdvanced": [
+        "Originates in the Himalayas of Sikkim, India.",
+        "It is a major tributary of the Jamuna River (Brahmaputra) in Bangladesh.",
+        "The river's length is about 414 km.",
+        "It is a major source of irrigation for the northern districts of Bangladesh.",
+        "The Teesta Barrage provides irrigation water to about 750,000 hectares of land.",
+        "The river is prone to flash floods.",
+        "Water sharing of the river is a subject of dispute between India and Bangladesh.",
+        "The river is popular for white water rafting in its upper course in India."
+      ]
+    },
+    {
+      "id": "bd-surma-river-nature-v2",
+      "descriptionAdvancedDe": "Der Surma ist einer der Hauptflüsse im Nordosten von Bangladesch und ein wichtiger Teil des Surma-Meghna-Flusssystems. Er entsteht, wenn der Barak-Fluss aus Indien an der Grenze zu Bangladesch in den Surma und den Kushiyara aufgeteilt wird. Der Surma fließt durch die Stadt Sylhet, das Zentrum der gleichnamigen Region, die für ihre Teeplantagen und ihre reiche Kultur bekannt ist. Der Fluss ist eine wichtige Verkehrsader für den Transport von Waren und Personen in dieser Region. Während der Monsunzeit kann der Surma weit über seine Ufer treten und ausgedehnte Gebiete überfluten, was das Leben der lokalen Bevölkerung stark beeinträchtigt. Trotz der Herausforderungen durch Überschwemmungen sind die fruchtbaren Böden, die der Fluss ablagert, für die Landwirtschaft in der Region von entscheidender Bedeutung.",
+      "descriptionAdvancedHu": "A Surma folyó egyike Banglades északkeleti részének fő folyóinak, és a Surma-Meghna folyórendszer fontos része. Akkor keletkezik, amikor az indiai Barak folyó a bangladesi határnál kettéválik a Surma és a Kushiyara folyókra. A Surma áthalad Szilhet városán, az azonos nevű régió központján, amely teültetvényeiről és gazdag kultúrájáról ismert. A folyó fontos közlekedési útvonal az áruk és személyek szállításában ebben a régióban. A monszun idején a Surma messze kiléphet a medréből, és kiterjedt területeket áraszthat el, ami súlyosan érinti a helyi lakosság életét. Az áradások okozta kihívások ellenére a folyó által lerakott termékeny talajok létfontosságúak a régió mezőgazdasága számára.",
+      "descriptionAdvancedRo": "Râul Surma este unul dintre principalele râuri din nord-estul Bangladeshului și o parte importantă a sistemului fluvial Surma-Meghna. Se formează atunci când râul Barak din India se desparte în râurile Surma și Kushiyara la granița cu Bangladesh. Surma curge prin orașul Sylhet, centrul regiunii cu același nume, cunoscută pentru plantațiile sale de ceai și cultura sa bogată. Râul este o arteră de transport importantă pentru mărfuri și persoane în această regiune. În timpul sezonului musonic, Surma poate ieși din matcă și inunda zone extinse, afectând grav viața populației locale. În ciuda provocărilor legate de inundații, solurile fertile depuse de râu sunt de o importanță crucială pentru agricultura din regiune.",
+      "descriptionAdvancedEn": "The Surma River is one of the main rivers in northeastern Bangladesh and an important part of the Surma-Meghna river system. It is formed when the Barak River from India splits into the Surma and Kushiyara rivers at the border with Bangladesh. The Surma flows through the city of Sylhet, the center of the region of the same name, which is known for its tea plantations and rich culture. The river is an important transportation route for goods and people in this region. During the monsoon season, the Surma can overflow its banks and flood extensive areas, severely affecting the lives of the local population. Despite the challenges posed by floods, the fertile soils deposited by the river are crucial for agriculture in the region.",
+      "factsAdvanced": [
+        "It flows through the city of Sylhet.",
+        "The Surma is part of the Surma-Meghna River System.",
+        "Its total length is about 900 km (including the Barak river).",
+        "The river is prone to flooding during the monsoon.",
+        "It is a major transportation route in the Sylhet region.",
+        "The river is known for its meandering course.",
+        "It is fed by rainfall from the Meghalaya hills in India.",
+        "The Keane Bridge in Sylhet is a famous landmark over the river."
+      ]
+    },
+    {
+      "id": "bd-sangu-river-nature-v2",
+      "descriptionAdvancedDe": "Der Sangu, auch als Shankha bekannt, ist ein malerischer Fluss, der durch die Chittagong Hill Tracts im Südosten von Bangladesch fließt. Er entspringt in den Arakan-Bergen in Myanmar, nahe der Grenze zu Bangladesch. Der Fluss schlängelt sich durch eine atemberaubende Landschaft aus Hügeln, dichten Wäldern und Stammesdörfern. Im Gegensatz zu vielen anderen Flüssen in Bangladesch ist der Sangu weniger von industrieller Verschmutzung betroffen und sein Wasser ist relativ klar. Er ist eine Lebensader für die indigenen Gemeinschaften, die entlang seiner Ufer leben, und dient als wichtige Quelle für Wasser, Nahrung und Transport. Der obere Teil des Flusses ist beliebt bei Abenteuertouristen für Kajak- und Bootsfahrten.",
+      "descriptionAdvancedHu": "A Sangu, más néven Shankha, egy festői folyó, amely Banglades délkeleti részén, a Chittagong-hegyvidéken folyik keresztül. Mianmar Arakan-hegységében ered, közel a bangladesi határhoz. A folyó lenyűgöző tájon kanyarog keresztül, amely hegyekből, sűrű erdőkből és törzsi falvakból áll. Ellentétben sok más bangladesi folyóval, a Sangut kevésbé érinti az ipari szennyezés, és vize viszonylag tiszta. Életfontosságú a partjain élő őslakos közösségek számára, és fontos víz-, élelem- és közlekedési forrásként szolgál. A folyó felső szakasza népszerű a kalandturisták körében kajakozásra és csónakázásra.",
+      "descriptionAdvancedRo": "Râul Sangu, cunoscut și sub numele de Shankha, este un râu pitoresc care curge prin Chittagong Hill Tracts în sud-estul Bangladeshului. Izvorăște din munții Arakan din Myanmar, aproape de granița cu Bangladesh. Râul șerpuiește printr-un peisaj uimitor de dealuri, păduri dese și sate tribale. Spre deosebire de multe alte râuri din Bangladesh, Sangu este mai puțin afectat de poluarea industrială, iar apa sa este relativ limpede. Este o sursă de viață pentru comunitățile indigene care trăiesc de-a lungul malurilor sale, servind ca o sursă importantă de apă, hrană și transport. Partea superioară a râului este populară printre turiștii de aventură pentru caiac și plimbări cu barca.",
+      "descriptionAdvancedEn": "The Sangu River, also known as Shankha, is a picturesque river that flows through the Chittagong Hill Tracts in southeastern Bangladesh. It originates in the Arakan Mountains of Myanmar, near the border with Bangladesh. The river meanders through a stunning landscape of hills, dense forests, and tribal villages. Unlike many other rivers in Bangladesh, the Sangu is less affected by industrial pollution, and its water is relatively clear. It is a lifeline for the indigenous communities living along its banks, serving as an important source of water, food, and transportation. The upper part of the river is popular with adventure tourists for kayaking and boat trips.",
+      "factsAdvanced": [
+        "The river originates in the Arakan hills of Myanmar.",
+        "It enters Bangladesh near Remarki in Thanchi Upazila.",
+        "Its total length is about 270 km.",
+        "The river flows through the Bandarban district.",
+        "It is one of the most scenic rivers in Bangladesh.",
+        "The river is not yet heavily polluted.",
+        "It is an important source of water for the local communities.",
+        "The Sangu Wildlife Sanctuary is located on its banks."
+      ]
+    },
+    {
+      "id": "bd-saka-haphong-nature-v2",
+      "descriptionAdvancedDe": "Saka Haphong, auch bekannt als Mowdok Mual, ist ein Gipfel in der Mowdok-Kette an der Grenze zwischen Bangladesch und Myanmar. Mit einer Höhe von etwa 1.052 Metern wird er oft als der höchste Punkt von Bangladesch angesehen, obwohl dies nicht offiziell von der Regierung bestätigt ist. Der Berg liegt in einer abgelegenen und unzugänglichen Region des Thanchi-Upazila im Distrikt Bandarban. Die Besteigung des Saka Haphong ist eine anspruchsvolle Expedition, die eine gute körperliche Verfassung und Erfahrung im Trekking erfordert. Die Route führt durch dichten Dschungel, über steile Hänge und durch Dörfer verschiedener indigener Stämme. Die Aussicht vom Gipfel ist spektakulär und bietet einen Panoramablick auf die umliegenden Hügel und Täler beider Länder.",
+      "descriptionAdvancedHu": "A Saka Haphong, más néven Mowdok Mual, egy hegycsúcs a Mowdok-hegységben, Banglades és Mianmar határán. Körülbelül 1052 méteres magasságával gyakran Banglades legmagasabb pontjának tartják, bár ezt a kormány hivatalosan nem erősítette meg. A hegy egy távoli és nehezen megközelíthető régióban található, a Bandarban kerület Thanchi Upazila területén. A Saka Haphong megmászása egy kihívást jelentő expedíció, amely jó fizikai állapotot és túrázási tapasztalatot igényel. Az útvonal sűrű dzsungelen, meredek lejtőkön és különböző őslakos törzsek falvain vezet keresztül. A csúcsról nyíló kilátás lenyűgöző, panorámás kilátást nyújt a környező hegyekre és völgyekre mindkét országban.",
+      "descriptionAdvancedRo": "Saka Haphong, cunoscut și sub numele de Mowdok Mual, este un vârf din lanțul muntos Mowdok, la granița dintre Bangladesh și Myanmar. Cu o înălțime de aproximativ 1.052 de metri, este adesea considerat cel mai înalt punct din Bangladesh, deși acest lucru nu este confirmat oficial de guvern. Muntele este situat într-o regiune îndepărtată și inaccesibilă din Thanchi Upazila, în districtul Bandarban. Urcarea pe Saka Haphong este o expediție dificilă, care necesită o bună condiție fizică și experiență în drumeții. Traseul trece prin junglă deasă, pe pante abrupte și prin sate ale diferitelor triburi indigene. Priveliștea de pe vârf este spectaculoasă, oferind o vedere panoramică asupra dealurilor și văilor înconjurătoare din ambele țări.",
+      "descriptionAdvancedEn": "Saka Haphong, also known as Mowdok Mual, is a peak in the Mowdok range on the border between Bangladesh and Myanmar. With an elevation of about 1,052 meters, it is often considered the highest point in Bangladesh, although this is not officially confirmed by the government. The mountain is located in a remote and inaccessible region of Thanchi Upazila in the Bandarban district. Climbing Saka Haphong is a challenging expedition that requires good physical condition and trekking experience. The route leads through dense jungle, over steep slopes, and through villages of various indigenous tribes. The view from the summit is spectacular, offering a panoramic view of the surrounding hills and valleys of both countries.",
+      "factsAdvanced": [
+        "It is located on the border of Bangladesh and Myanmar.",
+        "The peak is approximately 1,052 meters high.",
+        "It is considered by many to be the highest peak in Bangladesh.",
+        "The peak is part of the Mowdok mountain range.",
+        "It is a challenging trek for adventurers.",
+        "The area is home to several indigenous communities.",
+        "The peak offers stunning panoramic views.",
+        "The name Saka Haphong means 'eastern mountain' in the local Tripura language."
+      ]
+    },
+    {
+      "id": "bd-keokradong-nature-v2",
+      "descriptionAdvancedDe": "Keokradong ist einer der höchsten und bekanntesten Gipfel in Bangladesch, gelegen im Distrikt Bandarban in den Chittagong Hill Tracts. Lange Zeit galt er als der höchste Berg des Landes, aber neuere Messungen deuten darauf hin, dass andere Gipfel wie der Saka Haphong höher sein könnten. Mit einer Höhe von etwa 986 Metern ist Keokradong dennoch ein beliebtes Ziel für Trekker und Abenteurer aus dem ganzen Land. Der Weg zum Gipfel führt durch eine malerische Landschaft mit grünen Hügeln, Wasserfällen und Dörfern des indigenen Stammes der Bawm. Auf dem Gipfel befindet sich ein kleines Schutzhaus und ein Hubschrauberlandeplatz. Die Anstrengung des Aufstiegs wird mit einer atemberaubenden 360-Grad-Aussicht auf die umliegende Berglandschaft belohnt.",
+      "descriptionAdvancedHu": "A Keokradong Banglades egyik legmagasabb és legismertebb hegycsúcsa, amely a Bandarban kerületben, a Chittagong-hegyvidéken található. Hosszú ideig az ország legmagasabb hegyének tartották, de a legújabb mérések szerint más csúcsok, mint például a Saka Haphong, magasabbak lehetnek. Körülbelül 986 méteres magasságával a Keokradong mégis népszerű célpont a túrázók és kalandorok számára az egész országból. A csúcsra vezető út festői tájon vezet keresztül, zöldellő dombokkal, vízesésekkel és a bawm őslakos törzs falvaival. A csúcson egy kis menedékház és egy helikopter-leszállóhely található. A mászás fáradalmait a környező hegyvidékre nyíló lélegzetelállító 360 fokos panoráma jutalmazza.",
+      "descriptionAdvancedRo": "Keokradong este unul dintre cele mai înalte și mai faimoase vârfuri din Bangladesh, situat în districtul Bandarban din Chittagong Hill Tracts. Mult timp a fost considerat cel mai înalt munte din țară, dar măsurători recente sugerează că alte vârfuri, cum ar fi Saka Haphong, ar putea fi mai înalte. Cu o înălțime de aproximativ 986 de metri, Keokradong este totuși o destinație populară pentru trekkeri și aventurieri din întreaga țară. Drumul spre vârf trece printr-un peisaj pitoresc cu dealuri verzi, cascade și sate ale tribului indigen Bawm. Pe vârf se află un mic adăpost și un heliport. Efortul urcării este răsplătit cu o priveliște uluitoare de 360 de grade asupra peisajului montan înconjurător.",
+      "descriptionAdvancedEn": "Keokradong is one of the highest and most famous peaks in Bangladesh, located in the Bandarban district in the Chittagong Hill Tracts. For a long time, it was considered the highest mountain in the country, but recent measurements suggest that other peaks, such as Saka Haphong, might be higher. With an elevation of about 986 meters, Keokradong is nevertheless a popular destination for trekkers and adventurers from all over the country. The path to the summit leads through a picturesque landscape with green hills, waterfalls, and villages of the indigenous Bawm tribe. At the top, there is a small shelter and a helipad. The effort of the climb is rewarded with a breathtaking 360-degree view of the surrounding mountain scenery.",
+      "factsAdvanced": [
+        "It is one of the highest peaks in Bangladesh with an elevation of 986 meters.",
+        "It is located in Bandarban district.",
+        "The peak is a popular trekking destination.",
+        "It was once considered the highest peak of Bangladesh.",
+        "The area is inhabited by the Bawm indigenous community.",
+        "There is a small shelter and a helipad at the summit.",
+        "The peak offers a panoramic view of the surrounding hills.",
+        "The name Keokradong means 'great stone mountain' in the Marma language."
+      ]
+    }
+  ]
+}

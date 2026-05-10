@@ -13,8 +13,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Elválasztja Jordániát Izraeltől", "A Nagy-hasadékvölgy része", "Rendkívül száraz és forró éghajlat", "Történelmi rézbányák"],
       ro: ["Separă Iordania de Israel", "Parte a Marelui Rift", "Climă extrem de uscată și caldă", "Mine istorice de cupru"],
       en: ["Separates Jordan from Israel", "Part of the Great Rift Valley", "Extremely dry and hot climate", "Historical copper mines"]
-    }
-  },
+    }, image: "/poi-images/wadi-araba-relief-v2.webp"},
   {
     id: "moab-plateau-relief-v2",
     type: "plateau",
@@ -27,8 +26,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Akár 1000 méteres tengerszint feletti magasság", "Bibliai moábi régió", "Mélyen bevágódott kanyonok", "Fontos mezőgazdasági területek"],
       ro: ["Altitudine de până la 1000 de metri", "Regiune biblică moabită", "Cantoane tăiate adânc", "Terenuri agricole importante"],
       en: ["Elevation up to 1000 meters", "Biblical Moabite region", "Deeply incised canyons", "Important agricultural lands"]
-    }
-  },
+    }, image: "/poi-images/moab-plateau-relief-v2.webp"},
   {
     id: "edom-gebirge-relief-v2",
     type: "mountain",
@@ -41,8 +39,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Több mint 1600 méteres csúcsok", "A nabateus Petra városának otthona", "Zord vörös homokkő sziklák", "Hideg telek alkalmi havazással"],
       ro: ["Vârfuri de peste 1600 de metri", "Căminul orașului nabatean Petra", "Stânci abrupte de gresie roșie", "Ierni reci cu ninsori ocazionale"],
       en: ["Peaks over 1600 meters", "Home to the Nabataean city of Petra", "Rugged red sandstone cliffs", "Cold winters with occasional snow"]
-    }
-  },
+    }, image: "/poi-images/edom-gebirge-relief-v2.webp"},
   {
     id: "schwarze-wueste-relief-v2",
     type: "desert",
@@ -55,8 +52,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Kiterjedt bazaltmezők", "Egészen Szaúd-Arábiáig nyúlik", "Őskori kőépítmények maradtak fenn", "Gyér sivatagi növényzet"],
       ro: ["Câmpuri vaste de bazalt", "Se întinde până în Arabia Saudită", "Clădiri preistorice din piatră păstrate", "Vegetație rară de deșert"],
       en: ["Extensive basalt fields", "Extends into Saudi Arabia", "Prehistoric stone structures preserved", "Sparse desert vegetation"]
-    }
-  },
+    }, image: "/poi-images/schwarze-wueste-relief-v2.webp"},
   {
     id: "badiya-wueste-relief-v2",
     type: "desert",
@@ -69,8 +65,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Jordánia kb. 75%-át teszi ki", "Homok- és kavicssivatag", "A beduin kultúra központja", "Alig van csapadék egész évben"],
       ro: ["Reprezintă aproximativ 75% din Iordania", "Deșert de nisip și pietriș", "Centrul culturii beduine", "Precipitații puține pe tot parcursul anului"],
       en: ["Makes up approx. 75% of Jordan", "Sand and gravel desert", "Center of Bedouin culture", "Barely any rainfall throughout the year"]
-    }
-  },
+    }, image: "/poi-images/badiya-wueste-relief-v2.webp"},
   {
     id: "belqa-plateau-relief-v2",
     type: "plateau",
@@ -83,8 +78,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["A történelmi Gileád központja", "Enyhe mediterrán éghajlat", "Gazdag olajbogyó- és szőlőtermesztés", "Sűrűn lakott régió"],
       ro: ["Centrul istoric al Galaadului", "Climă mediteraneană blândă", "Cultivare bogată de măslini și viță de vie", "Regiune dens populată"],
       en: ["Center of historical Gilead", "Mild Mediterranean climate", "Rich olive and wine cultivation", "Heavily populated region"]
-    }
-  },
+    }, image: "/poi-images/belqa-plateau-relief-v2.webp"},
   {
     id: "schara-gebirge-relief-v2",
     type: "mountain",
@@ -111,8 +105,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Jordánia legzöldebb régiója", "Aleppóifenyőkből és tölgyekből álló erdők", "Hűvös hegyi levegő nyáron", "Mészkőképződmények dominálnak"],
       ro: ["Cea mai verde regiune din Iordania", "Păduri de pini de Alep și stejari", "Aer montan răcoros vara", "Domină formațiunile de calcar"],
       en: ["Greenest region of Jordan", "Forests of Aleppo pines and oaks", "Cool mountain air in summer", "Limestone formations dominate"]
-    }
-  },
+    }, image: "/poi-images/adschlun-gebirge-relief-v2.webp"},
   {
     id: "dschabal-harun-relief-v2",
     type: "mountain",
@@ -125,8 +118,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["1350 méterrel a tengerszint felett", "Fehér szentély a csúcson", "Szent hely három vallás számára", "Kihívást jelentő mászás a zarándokoknak"],
       ro: ["1350 de metri deasupra nivelului mării", "Altar alb pe vârf", "Loc sacru pentru trei religii", "Urcare solicitantă pentru pelerini"],
       en: ["1350 meters above sea level", "White shrine at the summit", "Sacred site for three religions", "Challenging climb for pilgrims"]
-    }
-  },
+    }, image: "/poi-images/dschabal-harun-relief-v2.webp"},
   {
     id: "wadi-ghuweir-relief-v2",
     type: "valley",
@@ -139,8 +131,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Népszerű kanyonozó célpont", "Oázis egy száraz régióban", "Szűk sziklaszorosok", "Egész évben folyó víz"],
       ro: ["Destinație populară pentru canioning", "Oază într-o regiune aridă", "Pasaje înguste de stâncă", "Apă curgătoare tot anul"],
       en: ["Popular destination for canyoning", "Oasis in an arid region", "Narrow rock passages", "Water flowing year-round"]
-    }
-  },
+    }, image: "/poi-images/wadi-ghuweir-relief-v2.webp"},
   {
     id: "wadi-al-karak-relief-v2",
     type: "valley",
@@ -153,8 +144,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Nagy magasságkülönbségeket hidal át", "A történelmi Karak várához vezet", "Számos vízesés a völgyben", "Sűrű növényzet a folyómederben"],
       ro: ["Depășește diferențe mari de altitudine", "Conduce la castelul istoric Karak", "Numeroase cascade în vale", "Vegetație densă albia râului"],
       en: ["Overcomes large altitude differences", "Leads to the historic Karak Castle", "Numerous waterfalls in the valley", "Dense vegetation by the riverbed"]
-    }
-  },
+    }, image: "/poi-images/wadi-al-karak-relief-v2.webp"},
   {
     id: "jordangraben-relief-v2",
     type: "valley",
@@ -167,8 +157,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Akár -430 méterig is süllyed", "A régió legaktívabb tektonikus zónája", "Geotermikus források találhatók itt", "A jordán mezőgazdaság fő ütőere"],
       ro: ["Coboară până la -430 de metri", "Cea mai activă zonă tectonică din regiune", "Izvoare geotermale prezente", "Vena principală a agriculturii iordaniene"],
       en: ["Sinks down to -430 meters", "Most active tectonic zone in the region", "Geothermal springs present", "Main artery of Jordanian agriculture"]
-    }
-  },
+    }, image: "/poi-images/jordangraben-relief-v2.webp"},
   {
     id: "dschabal-al-madhbah-relief-v2",
     type: "mountain",
@@ -181,8 +170,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Ókori áldozati oltár a csúcson", "Csak meredek lépcsőkön érhető el", "Panorámás kilátást nyújt Petrára", "Gyakran azonosítják a bibliai Sínai-heggyel"],
       ro: ["Altar antic de sacrificiu în vârf", "Accesibil doar pe scări abrupte", "Oferă vederi panoramice asupra Petrei", "Adesea echivalat cu Muntele biblic Sinai"],
       en: ["Ancient sacrificial altar at the top", "Only accessible via steep stairs", "Offers panoramic views over Petra", "Often equated with the biblical Mount Sinai"]
-    }
-  },
+    }, image: "/poi-images/dschabal-al-madhbah-relief-v2.webp"},
   {
     id: "wadi-as-sir-relief-v2",
     type: "valley",
@@ -195,8 +183,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Hagyományos menedékhely az ammániak számára", "Qasr al-Abd hellenisztikus palotarom", "Kiterjedt barlangrendszer található itt", "Termékeny füge- és gránátalma-kertek"],
       ro: ["Refugiu tradițional pentru locuitorii din Amman", "Ruinele palatului elenistic Qasr al-Abd", "Sistem extins de peșteri prezent", "Livezi fertile de smochini și rodii"],
       en: ["Traditional retreat for Amman residents", "Hellenistic palace ruin Qasr al-Abd", "Extensive cave system present", "Fertile fig and pomegranate orchards"]
-    }
-  },
+    }, image: "/poi-images/wadi-as-sir-relief-v2.webp"},
   {
     id: "wadi-shuaib-relief-v2",
     type: "valley",
@@ -223,8 +210,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["A Föld legmélyebb szárazföldi pontja", "Nagyon magas sótartalom a vízben", "A gyógyiszap vonzza a turistákat", "A csökkenő vízszint fenyegeti a partot"],
       ro: ["Cel mai jos punct terestru de pe Pământ", "Salinitate foarte ridicată în apă", "Nămolul terapeutic atrage turiștii", "Nivelul scăzut al apei amenință coasta"],
       en: ["Lowest land point on Earth", "Very high salt content in the water", "Healing mud attracts tourists", "Falling water level threatens the coast"]
-    }
-  },
+    }, image: "/poi-images/totes-meer-kueste-relief-v2.webp"},
   {
     id: "akaba-kueste-relief-v2",
     type: "coast",
@@ -237,8 +223,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["Csak mintegy 26 kilométer hosszú", "Az ország egyetlen tengeri kikötője", "Gazdag színes korallzátonyokban", "Népszerű a búvárok körében világszerte"],
       ro: ["Are o lungime de doar aproximativ 26 de kilometri", "Singurul port maritim al țării", "Bogat în recife de corali colorate", "Popular printre scafandrii din întreaga lume"],
       en: ["Only about 26 kilometers long", "The country's only seaport", "Rich in colorful coral reefs", "Popular with divers worldwide"]
-    }
-  },
+    }, image: "/poi-images/akaba-kueste-relief-v2.webp"},
   {
     id: "dschabal-ataruz-relief-v2",
     type: "mountain",
@@ -251,8 +236,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["A Mésa-sztélé is említi", "A moábiták egykori kultuszhelye", "Tiszta időben Jeruzsálemig ellátni", "Ősi falak maradványai maradtak fenn"],
       ro: ["Menționat în Stela lui Mesa", "Fost lăcaș de cult al moabiților", "Oferă vedere clară până la Ierusalim", "Rămășițe de ziduri antice păstrate"],
       en: ["Mentioned in the Mesha Stele", "Former cult site of the Moabites", "Offers clear views to Jerusalem", "Remains of ancient walls preserved"]
-    }
-  },
+    }, image: "/poi-images/dschabal-ataruz-relief-v2.webp"},
   {
     id: "wadi-al-wala-relief-v2",
     type: "valley",
@@ -265,8 +249,7 @@ export const poiExtraJordanReliefV2: POI[] = [
       hu: ["A Múdzsib-völgybe torkollik", "A Wala-gát duzzasztja fel a vizét", "Természetes úszómedencék nyáron", "Madaba fontos vízellátója"],
       ro: ["Se varsă în Valea Mujib", "Barajul Wala stochează apa", "Piscine naturale vara", "Furnizor important de apă pentru Madaba"],
       en: ["Flows into the Mujib Valley", "Wala Dam impounds the water", "Natural swimming pools in summer", "Important water supplier for Madaba"]
-    }
-  },
+    }, image: "/poi-images/wadi-al-wala-relief-v2.webp"},
   {
     id: "amman-plateau-relief-v2",
     type: "plateau",

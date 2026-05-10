@@ -1,0 +1,44 @@
+{
+  "lang": "en",
+  "country": "Congo",
+  "files": [
+    "lib/visualLab/data/poiExtraCongoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cg-likouala-aux-herbes-nature-v2",
+      "description": "Likouala-aux-Herbes is a river and wetland landscape in northern Congo. It is known for slow water, swamp forest, and bird habitat.",
+      "facts": ["Northern Congo", "Swamp forest", "Bird habitat"]
+    },
+    {
+      "id": "cg-mayombe-forest-nature-v2",
+      "description": "Mayombe Forest is a dense tropical forest in south-western Congo. It forms part of the wider Congo Basin forest belt.",
+      "facts": ["South-west Congo", "Dense tropical forest", "Part of the Congo Basin"]
+    },
+    {
+      "id": "cg-atlantic-ocean-cg-nature-v2",
+      "description": "The Atlantic Ocean shapes Congo's western coast and port access. It also influences the country's coastal climate and marine life.",
+      "facts": ["Western coastline", "Port access", "Coastal climate influence"]
+    },
+    {
+      "id": "cg-cayo-lake-nature-v2",
+      "description": "Lake Cayo is a small lake in south-western Congo. It belongs to the coastal landscape of the Kouilou region.",
+      "facts": ["In Kouilou", "Coastal lake", "South-west Congo"]
+    },
+    {
+      "id": "cg-bateke-plateaus-nature-v2",
+      "description": "The Batéké Plateaus are a broad savanna plateau region in central Congo. Their open grasslands stand in contrast to the country's forested lowlands.",
+      "facts": ["Central Congo", "Savanna plateau", "Open grasslands"]
+    },
+    {
+      "id": "cg-mpoulou-river-nature-v2",
+      "description": "The Mpoulou River is a small river in southern Congo. It supports local drainage and rural landscapes along its course.",
+      "facts": ["Southern Congo", "Small river", "Local drainage"]
+    },
+    {
+      "id": "cg-ibenga-river-nature-v2",
+      "description": "The Ibenga River flows through the forested north of Congo. It is part of the river network that shapes the country's inland ecosystems.",
+      "facts": ["Forested north", "River network", "Inland ecosystem"]
+    }
+  ]
+}

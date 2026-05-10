@@ -43,8 +43,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Geological wonder of Togo",
         "Offers dramatic photo opportunities"
       ]
-    }
-  },
+    }, image: "/poi-images/aledjo-fault-relief-v2.webp"},
   {
     id: "danyi-plateau-relief-v2",
     type: "relief",
@@ -87,8 +86,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Refreshing cool-down from the coastal plain",
         "Home to the famous Danyi Monastery"
       ]
-    }
-  },
+    }, image: "/poi-images/danyi-plateau-relief-v2.webp"},
   {
     id: "akposso-plateau-relief-v2",
     type: "relief",
@@ -175,8 +173,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Composed mainly of granite rocks",
         "Center of the Kabyè culture"
       ]
-    }
-  },
+    }, image: "/poi-images/kabye-mountains-relief-v2.webp"},
   {
     id: "bassar-mountains-relief-v2",
     type: "mountain",
@@ -219,8 +216,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Rugged and scenic landscape",
         "Important for early West African industry"
       ]
-    }
-  },
+    }, image: "/poi-images/bassar-mountains-relief-v2.webp"},
   {
     id: "dayes-plateau-relief-v2",
     type: "relief",
@@ -307,8 +303,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Characterized by seasonal flooding",
         "Part of the transboundary biosphere reserve"
       ]
-    }
-  },
+    }, image: "/poi-images/mono-plain-relief-v2.webp"},
   {
     id: "oti-basin-relief-v2",
     type: "relief",
@@ -351,8 +346,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Home to numerous migratory birds",
         "Strong dry season influences"
       ]
-    }
-  },
+    }, image: "/poi-images/oti-basin-relief-v2.webp"},
   {
     id: "mount-torogbani-relief-v2",
     type: "mountain",
@@ -395,8 +389,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Surrounded by dense bush vegetation",
         "Important navigation point"
       ]
-    }
-  },
+    }, image: "/poi-images/mount-torogbani-relief-v2.webp"},
   {
     id: "mount-sourou-relief-v2",
     type: "mountain",
@@ -439,8 +432,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Difficult-to-access terrain",
         "Offers panoramic views"
       ]
-    }
-  },
+    }, image: "/poi-images/mount-sourou-relief-v2.webp"},
   {
     id: "mount-djebobo-relief-v2",
     type: "mountain",
@@ -483,8 +475,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Part of a mountain ridge",
         "Popular for nature exploration"
       ]
-    }
-  },
+    }, image: "/poi-images/mount-djebobo-relief-v2.webp"},
   {
     id: "mount-tado-relief-v2",
     type: "mountain",
@@ -527,8 +518,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Offers wide views over the plain",
         "Geological elevation in the border area"
       ]
-    }
-  },
+    }, image: "/poi-images/mount-tado-relief-v2.webp"},
   {
     id: "kloto-forest-relief-v2",
     type: "forest",
@@ -571,8 +561,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Center for ecological research",
         "Home to many butterfly species"
       ]
-    }
-  },
+    }, image: "/poi-images/kloto-forest-relief-v2.webp"},
   {
     id: "galangashie-forest-relief-v2",
     type: "forest",
@@ -615,8 +604,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Habitat for savanna elephants",
         "Regulates the local microclimate"
       ]
-    }
-  },
+    }, image: "/poi-images/galangashie-forest-relief-v2.webp"},
   {
     id: "mount-afi-relief-v2",
     type: "mountain",
@@ -703,8 +691,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Part of the Atakora mountain range",
         "Home to rare birds of prey"
       ]
-    }
-  },
+    }, image: "/poi-images/mount-atilakoutse-relief-v2.webp"},
   {
     id: "djogbevi-mountain-relief-v2",
     type: "mountain",
@@ -747,8 +734,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Steep and forested slopes",
         "Part of the transboundary ecosystem"
       ]
-    }
-  },
+    }, image: "/poi-images/djogbevi-mountain-relief-v2.webp"},
   {
     id: "notse-plain-relief-v2",
     type: "relief",
@@ -791,8 +777,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Center of Ewe tradition",
         "Flat to gently undulating topography"
       ]
-    }
-  },
+    }, image: "/poi-images/notse-plain-relief-v2.webp"},
   {
     id: "atakora-range-togo-relief-v2",
     type: "mountain",
@@ -835,8 +820,7 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Composed of quartzite and schist",
         "Cross-border into Benin and Ghana"
       ]
-    }
-  },
+    }, image: "/poi-images/atakora-range-togo-relief-v2.webp"},
   {
     id: "tado-hills-relief-v2",
     type: "relief",

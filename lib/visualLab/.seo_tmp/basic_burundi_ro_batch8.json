@@ -1,0 +1,55 @@
+{
+  "lang": "ro",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ryansoro-cities-v2",
+      "description": "Ryansoro este un oraș mic din sud-vestul provinciei Gitega. Are un rol local pentru comerț și pentru viața rurală din zonă.",
+      "facts": ["sud-vestul Gitega", "comerț local", "zone înalte centrale"]
+    },
+    {
+      "id": "bugendana-cities-v2",
+      "description": "Bugendana se află la nord de Gitega și are un caracter rural clar. Câmpurile și piețele mici definesc viața de zi cu zi.",
+      "facts": ["nord de Gitega", "rural", "piețe mici"]
+    },
+    {
+      "id": "giheta-cities-v2",
+      "description": "Giheta este un oraș la vest de Gitega, cunoscut pentru meșteșuguri și locuri culturale. Leagă viața rurală de identitatea regională.",
+      "facts": ["vest de Gitega", "meșteșuguri", "locuri culturale"]
+    },
+    {
+      "id": "songa-cities-v2",
+      "description": "Songa este un oraș din provincia Bururi, așezat într-o zonă deluroasă. Are un profil rural și este legat de peisajul agricol al sudului.",
+      "facts": ["provincia Bururi", "zonă deluroasă", "centru rural"]
+    },
+    {
+      "id": "rutovu-cities-v2",
+      "description": "Rutovu este un oraș din provincia Bururi, cunoscut pentru importanța sa istorică și culturală. Se află în zonele înalte din sudul țării.",
+      "facts": ["provincia Bururi", "istoric", "zone înalte din sud"]
+    },
+    {
+      "id": "kayokwe-cities-v2",
+      "description": "Kayokwe este un oraș din provincia Mwaro, folosit ca punct local pentru agricultură și schimb. Se află pe platoul central al Burundiului.",
+      "facts": ["provincia Mwaro", "agricultură", "platoul central"]
+    },
+    {
+      "id": "kabarore-cities-v2",
+      "description": "Kabarore este un oraș din nordul Burundiului, aproape de granița cu Rwanda. Poziția sa îl face util pentru comerț și tranzit.",
+      "facts": ["aproape de Rwanda", "nordul țării", "tranzit"]
+    },
+    {
+      "id": "bukeye-cities-v2",
+      "description": "Bukeye se află în provincia Muramvya și este cunoscut pentru clima plăcută de altitudine. Grădinile și fermele mici dau ritmul locului.",
+      "facts": ["provincia Muramvya", "climă de altitudine", "grădini și ferme"]
+    }
+  ]
+}

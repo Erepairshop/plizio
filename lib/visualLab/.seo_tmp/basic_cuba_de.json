@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Cuba",
+  "files": [
+    "lib/visualLab/data/poiExtraCubaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCubaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCubaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCubaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCubaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCubaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pinar-del-rio-cities-v2",
+      "description": "Die Provinzhauptstadt im Westen Kubas ist ein Zentrum des Tabakanbaus und ein Ausgangspunkt zum Viñales-Tal. Die Stadt liegt in einer landwirtschaftlich geprägten Region mit Trockenhäusern und Feldern.",
+      "facts": ["Hauptstadt der Provinz Pinar del Río", "Zentrum des Vuelta-Abajo-Tabaks", "Tor zum Viñales-Tal"]
+    },
+    {
+      "id": "colon-cities-v2",
+      "description": "Colón ist eine Stadt in der Provinz Matanzas mit starker landwirtschaftlicher Prägung. Sie liegt im Westen der Insel und ist mit Handel und regionaler Versorgung verbunden.",
+      "facts": ["In der Provinz Matanzas", "Landwirtschaftlich geprägt", "Wichtiger Ort im westlichen Inland"]
+    },
+    {
+      "id": "sancti-spiritus-cities-v2",
+      "description": "Sancti Spíritus gehört zu den älteren Städten Kubas und bewahrt ein kompaktes koloniales Zentrum. Die Stadt liegt am Fluss Yayabo und ist ein regionales Verwaltungszentrum.",
+      "facts": ["Eine der älteren Städte Kubas", "Am Fluss Yayabo", "Koloniales Stadtzentrum"]
+    },
+    {
+      "id": "bayamo-cities-v2",
+      "description": "Bayamo gilt als eine der historischen Wiegen der kubanischen Unabhängigkeitsbewegung. Die Stadt im Osten Kubas verbindet Revolutionsgeschichte mit traditionellem Provinzleben.",
+      "facts": ["Hauptstadt der Provinz Granma", "Frühes Zentrum der Unabhängigkeitsbewegung", "Historische Stadt im Osten Kubas"]
+    },
+    {
+      "id": "contramaestre-cities-v2",
+      "description": "Contramaestre liegt in der Provinz Santiago de Cuba und ist vor allem als landwirtschaftliche Gemeinde bekannt. Die Stadt steht für das ländliche Hinterland im Osten der Insel.",
+      "facts": ["In der Provinz Santiago de Cuba", "Landwirtschaftlich geprägt", "Teil des östlichen Inselinneren"]
+    },
+    {
+      "id": "moa-cities-v2",
+      "description": "Moa ist ein Industrie- und Bergbaustandort an der Nordostküste Kubas. Die Stadt ist vor allem mit dem Abbau von Nickel und Kobalt verbunden.",
+      "facts": ["Nickel- und Kobaltzentrum", "An der Nordostküste Kubas", "Starker Bergbau- und Industrieort"]
+    },
+    {
+      "id": "cu-havana-port-economic-v2",
+      "description": "Der Hafen von Havanna ist der wichtigste Seehafen der kubanischen Hauptstadt. Er verbindet den Großraum Havanna mit dem Küstenschiffverkehr und dem Außenhandel.",
+      "facts": ["Wichtigster Hafen der Hauptstadt", "Drehscheibe für Handel und Fracht", "Liegt an der Bucht von Havanna"]
+    },
+    {
+      "id": "cu-matanzas-port-economic-v2",
+      "description": "Der Hafen von Matanzas liegt an der Bucht von Matanzas und dient der regionalen Versorgung. Er ist eng mit der Hafenstadt im Nordwesten Kubas verbunden.",
+      "facts": ["An der Bucht von Matanzas", "Regionaler Umschlagplatz", "Teil der Küstenwirtschaft"]
+    },
+    {
+      "id": "cu-antilla-port-economic-v2",
+      "description": "Antilla ist ein kleiner Hafen an der Nordküste der Provinz Holguín. Der Ort ist vor allem für Küstentransport und die Anbindung der umliegenden Gemeinden wichtig.",
+      "facts": ["Nordküste von Holguín", "Küstenhafen mit Regionalfunktion", "Wichtig für die lokale Versorgung"]
+    },
+    {
+      "id": "cu-cardenas-port-economic-v2",
+      "description": "Der Hafen von Cárdenas liegt an der Nordküste der Provinz Matanzas und ist mit dem Handel der Stadt verbunden. Die Nähe zu Varadero macht ihn auch logistisch relevant.",
+      "facts": ["Nordküste von Matanzas", "Nähe zu Varadero", "Regionaler Handels- und Versorgungshafen"]
+    },
+    {
+      "id": "cu-guantanamo-port-economic-v2",
+      "description": "Der Hafen von Guantánamo unterstützt den Warenverkehr im äußersten Osten Kubas. Er ist mit der Bucht von Guantánamo und der regionalen Wirtschaft verknüpft.",
+      "facts": ["Im Osten Kubas", "An der Bucht von Guantánamo", "Wichtiger Regionalhafen"]
+    }
+  ]
+}

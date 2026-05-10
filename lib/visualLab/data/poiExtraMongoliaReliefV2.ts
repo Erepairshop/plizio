@@ -35,8 +35,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Reaches a height of 4374 meters.",
         "Borders China and Russia."
       ]
-    }
-  },
+    }, image: "/poi-images/khuiten-peak-relief-v2.webp"},
   {
     id: "tsambagarav-mountain-relief-v2",
     type: "mountain",
@@ -71,8 +70,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Rises to 4195 meters.",
         "Is part of a protected national park."
       ]
-    }
-  },
+    }, image: "/poi-images/tsambagarav-mountain-relief-v2.webp"},
   {
     id: "monkh-saridag-relief-v2",
     type: "mountain",
@@ -107,8 +105,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Reaches 3491 meters.",
         "Provides views of Lake Khövsgöl."
       ]
-    }
-  },
+    }, image: "/poi-images/monkh-saridag-relief-v2.webp"},
   {
     id: "dariganga-plateau-relief-v2",
     type: "plateau",
@@ -143,8 +140,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Has over 200 volcanic cones.",
         "Is an important area for migratory birds."
       ]
-    }
-  },
+    }, image: "/poi-images/dariganga-plateau-relief-v2.webp"},
   {
     id: "darkhad-valley-relief-v2",
     type: "valley",
@@ -179,8 +175,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Is about 160 kilometers long.",
         "Hosts over 300 small lakes."
       ]
-    }
-  },
+    }, image: "/poi-images/darkhad-valley-relief-v2.webp"},
   {
     id: "nemegt-basin-relief-v2",
     type: "valley",
@@ -215,8 +210,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "A center for paleontological research.",
         "The landscape consists of eroded canyons."
       ]
-    }
-  },
+    }, image: "/poi-images/nemegt-basin-relief-v2.webp"},
   {
     id: "sutai-mountain-relief-v2",
     type: "mountain",
@@ -251,8 +245,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Reaches an altitude of 4220 meters.",
         "Is a popular destination for mountaineers."
       ]
-    }
-  },
+    }, image: "/poi-images/sutai-mountain-relief-v2.webp"},
   {
     id: "khasagt-khairkhan-relief-v2",
     type: "mountain",
@@ -287,8 +280,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Is designated as a nature reserve.",
         "Rises to almost 3600 meters."
       ]
-    }
-  },
+    }, image: "/poi-images/khasagt-khairkhan-relief-v2.webp"},
   {
     id: "great-lakes-depression-relief-v2",
     type: "valley",
@@ -323,8 +315,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Covers an area of over 100,000 square kilometers.",
         "Is an important ecosystem for desert animals."
       ]
-    }
-  },
+    }, image: "/poi-images/great-lakes-depression-relief-v2.webp"},
   {
     id: "asralt-khairkhan-relief-v2",
     type: "mountain",
@@ -395,8 +386,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Is the sixth largest desert on Earth.",
         "A large part is covered with ice and snow in winter."
       ]
-    }
-  },
+    }, image: "/poi-images/gobi-desert-relief-v2.webp"},
   {
     id: "tost-mountains-relief-v2",
     type: "mountain",
@@ -431,8 +421,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Located in Ömnögovi Province.",
         "Is a model project for protecting endangered species."
       ]
-    }
-  },
+    }, image: "/poi-images/tost-mountains-relief-v2.webp"},
   {
     id: "malchin-peak-relief-v2",
     type: "mountain",
@@ -467,8 +456,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Stands exactly on the border with Russia.",
         "Is 4050 meters high."
       ]
-    }
-  },
+    }, image: "/poi-images/malchin-peak-relief-v2.webp"},
   {
     id: "nairamdal-peak-relief-v2",
     type: "mountain",
@@ -503,8 +491,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "The name means 'friendship'.",
         "Reaches a height of 4180 meters."
       ]
-    }
-  },
+    }, image: "/poi-images/nairamdal-peak-relief-v2.webp"},
   {
     id: "burkhan-buudai-relief-v2",
     type: "mountain",
@@ -539,8 +526,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Rises to 3765 meters.",
         "Was declared a national protected area in 1996."
       ]
-    }
-  },
+    }, image: "/poi-images/burkhan-buudai-relief-v2.webp"},
   {
     id: "tarvagatai-range-relief-v2",
     type: "mountain",
@@ -575,8 +561,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Forms the western extension of the Khangai Mountains.",
         "Home to brown bears and Siberian musk deer."
       ]
-    }
-  },
+    }, image: "/poi-images/tarvagatai-range-relief-v2.webp"},
   {
     id: "dayan-mountain-relief-v2",
     type: "mountain",
@@ -611,8 +596,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Located near Lake Dayan Nuur.",
         "Is an important archaeological area."
       ]
-    }
-  },
+    }, image: "/poi-images/dayan-mountain-relief-v2.webp"},
   {
     id: "aj-bogd-relief-v2",
     type: "mountain",
@@ -647,8 +631,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Reaches 3802 meters in height.",
         "Is very difficult to access and little explored."
       ]
-    }
-  },
+    }, image: "/poi-images/aj-bogd-relief-v2.webp"},
   {
     id: "saylyugem-mountains-relief-v2",
     type: "mountain",
@@ -683,8 +666,7 @@ export const poiExtraMongoliaReliefV2: POI[] = [
         "Provides habitat for Argali wild sheep.",
         "Was heavily shaped by Ice Age glaciers."
       ]
-    }
-  },
+    }, image: "/poi-images/saylyugem-mountains-relief-v2.webp"},
   {
     id: "uran-togoo-relief-v2",
     type: "mountain",

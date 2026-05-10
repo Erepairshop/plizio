@@ -30,8 +30,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["1958 óta köztársasági főváros", "A metropolisz lakossága körülbelül 7,5 millió fő", "Al-Manszúr kalifa alapította 762-ben", "A Bölcsesség Háza a 9. században működött itt", "1258-ban a mongol sereg lerombolta", "A brit mandátum időszaka 1920 és 1932 közé esett", "Szaddám Huszein uralma 1979-től 2003-ig tartott", "A várost a Tigris folyó szeli ketté"],
       ro: ["Capitala republicii din anul 1958", "Populația zonei metropolitane este de aproximativ 7,5 milioane", "Fondat în anul 762 de către califul al-Mansur", "Găzduia Casa Înțelepciunii în secolul al IX-lea", "Distrus de armata mongolă în anul 1258", "Perioada mandatului britanic a fost între anii 1920 și 1932", "Epoca lui Saddam Hussein s-a desfășurat între anii 1979 și 2003", "Râul Tigru traversează orașul"],
       en: ["Capital of the republic since 1958", "Metropolitan area population is around 7.5 million", "Founded in 762 AD by Caliph Al-Mansur", "Housed the House of Wisdom in the 9th century", "Destroyed by the Mongol army in 1258", "British mandate period lasted from 1920 to 1932", "Saddam Hussein's era spanned from 1979 to 2003", "The Tigris River flows through the city"]
-    }
-  },
+    }, image: "/poi-images/baghdad-cities-v2.webp"},
   {
     id: "basra-cities-v2",
     type: "state-capital",
@@ -61,8 +60,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Körülbelül 2,6 milliós lakosságával a második legnagyobb város", "Omár kalifa alapította 636-ban katonai táborként", "A Satt el-Arab partján található kikötőváros", "Az iraki olajexport több mint 80 százalékát bonyolítja", "A brit mandátum időszaka 1920 és 1932 közé esett", "Az irak-iráni háború 1980 és 1988 között zajlott", "Szaddám Huszein korszaka 1979-től 2003-ig tartott", "Haszan al-Baszri (642-728) szülővárosa"],
       ro: ["A doua așezare ca mărime, cu 2,6 milioane de locuitori", "Fondat ca tabără militară în anul 636 de califul Umar", "Port principal situat pe malul Shatt al-Arab", "Peste 80% din exportul de petrol trece pe aici", "Mandatul britanic a funcționat între anii 1920 și 1932", "Războiul Iran-Irak a avut loc între 1980 și 1988", "Regimul lui Saddam Hussein a durat din 1979 până în 2003", "Locul de baștină al lui Hasan al-Basri (642-728)"],
       en: ["Principal port city on the Shatt al-Arab", "Population is approximately 1.5 million", "Founded in 636 AD by Caliph Umar", "Cultural hub during the Islamic Golden Age", "Economy dominated by crude oil exports", "Historically famous for date palm plantations", "Heavily damaged during the Iran-Iraq War", "Major conflict zone in 1991 and 2003"]
-    }
-  },
+    }, image: "/poi-images/basra-cities-v2.webp"},
   {
     id: "mosul-cities-v2",
     type: "state-capital",
@@ -92,8 +90,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Lakossága hozzávetőlegesen 1,7 millió fő", "Az asszír főváros, Ninive romjaival szemben fekszik", "A 7. század óta folyamatosan lakott település", "A muszlin szövet névadó városa", "Az 1926-os moszuli kérdés során csatolták Irakhoz", "Szaddám Huszein uralma 1979-től 2003-ig tartott", "2014 júniusa és 2017 júliusa között Iszlám Állam uralom alatt állt", "Az 1172-es al-Núri mecset 2017-ben megsemmisült"],
       ro: ["Populația este de aproximativ 1,7 milioane de locuitori", "Situat vis-a-vis de Ninive, fosta capitală a Asiriei", "Locuit continuu începând cu secolul al VII-lea", "A dat numele materialului textil numit muselină", "Anexat definitiv Irakului în urma tratatului din anul 1926", "Dictatura lui Saddam Hussein s-a întins între 1979 și 2003", "Aflat sub controlul Statului Islamic din iunie 2014 până în iulie 2017", "Moscheea al-Nuri din 1172 a fost distrusă în 2017"],
       en: ["Major northern city on the Tigris River", "Located opposite the ancient ruins of Nineveh", "Second-largest city in Iraq", "Historically diverse ethnic and religious population", "Occupied by the Islamic State from 2014 to 2017", "Suffered extensive destruction to historical sites", "Liberated by Iraqi military forces in 2017", "Known for its textile production, originating the word \"muslin\""]
-    }
-  },
+    }, image: "/poi-images/mosul-cities-v2.webp"},
   {
     id: "erbil-cities-v2",
     type: "state-capital",
@@ -123,8 +120,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A lakosság száma nagyjából 1,6 millió fő", "Az Iraki Kurdisztán autonóm régió fővárosa", "A fellegvár 2014 óta UNESCO világörökségi helyszín", "A Kr. e. 5. évezred óta lakott település", "A gaugamélai csata Kr. e. 331-ben zajlott a közelben", "A brit mandátum időszaka 1920 és 1932 közé esett", "Szaddám Huszein diktatúrája 1979-től 2003-ig tartott", "1991 óta de facto autonóm igazgatás alatt áll"],
       ro: ["Populația metropolei atinge circa 1,6 milioane de oameni", "Capitala Regiunii Autonome Kurdistan", "Cetatea istorică este Patrimoniu UNESCO din anul 2014", "Situl a fost locuit continuu din mileniul al V-lea î.Hr.", "Bătălia de la Gaugamela a avut loc în anul 331 î.Hr.", "Perioada mandatului britanic a fost între 1920 și 1932", "Regimul lui Saddam Hussein a durat între 1979 și 2003", "Se află sub administrație kurdă de facto din anul 1991"],
       en: ["Capital of the autonomous Kurdistan Region", "Population is approximately 1.5 million", "One of the oldest continuously inhabited cities globally", "Erbil Citadel is a UNESCO World Heritage Site", "Citadel recognized by UNESCO in 2014", "Experienced rapid modernization since the 2000s", "Considered a stable commercial hub in the region", "Served by the Erbil International Airport"]
-    }
-  },
+    }, image: "/poi-images/erbil-cities-v2.webp"},
   {
     id: "sulaymaniyah-cities-v2",
     type: "state-capital",
@@ -154,8 +150,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Lakossága hozzávetőlegesen 880 ezer fő", "Ibrahim Pasa Baban alapította 1784-ben", "A Baban fejedelemség fővárosa volt 1850-ig", "A rövid életű Kurd Királyság központja volt 1922 és 1924 között", "A brit mandátum 1920 és 1932 között állt fenn", "Az Anfal-hadjárat 1986 és 1989 között zajlott", "A Szaddám-korszak 1979-től 2003-ig tartott", "A Szulejmánijjai Egyetem 1968-ban nyitotta meg kapuit"],
       ro: ["Populația localității atinge aproximativ 880.000 de persoane", "Așezarea a fost fondată în anul 1784 de Ibrahim Pașa Baban", "Capitală a principatului Baban până în anul 1850", "Centrul efemerului Regat al Kurdistanului (1922-1924)", "Perioada mandatului britanic a durat din 1920 până în 1932", "Campania militară Anfal s-a desfășurat între 1986 și 1989", "Dictatura lui Saddam Hussein s-a întins între 1979 și 2003", "Universitatea din Sulaymaniyah a fost fondată în 1968"],
       en: ["Major city in the eastern Kurdistan Region", "Founded in 1784 by Ibrahim Pasha Baban", "Surrounded by the Azmar and Goizha mountains", "Considered a cultural capital for Kurds", "Population is estimated at over 800,000", "Home to the University of Sulaymaniyah (founded 1968)", "Features the Amna Suraka museum", "Known for its vibrant intellectual atmosphere"]
-    }
-  },
+    }, image: "/poi-images/sulaymaniyah-cities-v2.webp"},
   {
     id: "kirkuk-cities-v2",
     type: "state-capital",
@@ -185,8 +180,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Körülbelül 1 milliós többnemzetiségű lakosság", "Az asszír Arrapha a Kr. e. 3. évezredben állt itt", "1927-ben fedezték fel az első kőolajmezőt Baba Gurgurnál", "A brit mandátum 1920 és 1932 között tartott", "Az Iraq Petroleum Company 1934-ben kezdte az exportot", "Az arabosítási kampány a Szaddám-érában (1979-2003) történt", "Dániel próféta mauzóleuma a fellegvárban található", "A kurd régió és Bagdad közötti vitatott státuszú város"],
       ro: ["Numără aproximativ 1 milion de locuitori", "Populație multietnică: kurzi, turkmeni, arabi, asirieni", "Orașul antic asirian Arrapha data din mileniul al III-lea î.Hr.", "Primul câmp petrolier descoperit în 1927 la Baba Gurgur", "Mandatul britanic s-a derulat între anii 1920 și 1932", "Iraq Petroleum Company a început exportul în 1934", "Campania de arabizare a avut loc sub Saddam (1979-2003)", "Mausoleul profetului Daniel se găsește în cetatea istorică"],
       en: ["Ancient city located north of Baghdad", "Built on the site of ancient Arrapha", "Population exceeds one million residents", "Massive oil reserves discovered at Baba Gurgur in 1927", "Characterized by high ethnic diversity", "Center of political disputes over administrative control", "Features the historic Kirkuk Citadel", "Contains the reputed tomb of the prophet Daniel"]
-    }
-  },
+    }, image: "/poi-images/kirkuk-cities-v2.webp"},
   {
     id: "najaf-cities-v2",
     type: "state-capital",
@@ -216,8 +210,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága hozzávetőlegesen 1 millió fő", "Az Ali imám-szentély a 10. században épült", "Bagdadtól 160 kilométerre délre helyezkedik el", "A Vádi asz-Szalam a világ legnagyobb, 6 km²-es temetője", "A britek elleni felkelések 1918-ban és 1920-ban zajlottak", "Szaddám Huszein uralma 1979-től 2003-ig tartott", "Asz-Szadr nagyajatollahot 1999-ben gyilkolták meg", "Ali ibn Abi Tálib (601-661) kalifa nyughelye"],
       ro: ["Numără o populație de aproximativ 1 milion de persoane", "Altarul Imamului Ali a fost construit în secolul al X-lea", "Orașul este situat la 160 km sud de Bagdad", "Wadi-us-Salaam este cel mai mare cimitir global, acoperind 6 km²", "Revoltele anti-britanice s-au desfășurat în 1918 și 1920", "Saddam Hussein a condus țara din anul 1979 până în 2003", "Marele ayatollah al-Sadr a fost asasinat în 1999", "Locul de înmormântare al califului Ali ibn Abi Talib (601-661)"],
       en: ["Located 160 kilometers south of Baghdad", "One of the holiest cities in Shia Islam", "Site of the Imam Ali Shrine", "Major center for Islamic religious learning (Hawza)", "Home to Wadi-us-Salaam, the world's largest cemetery", "Cemetery covers over 1,480 acres", "Receives millions of religious pilgrims annually", "Population is approximately 1.2 million"]
-    }
-  },
+    }, image: "/poi-images/najaf-cities-v2.webp"},
   {
     id: "karbala-cities-v2",
     type: "state-capital",
@@ -247,8 +240,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága megközelítőleg 700 ezer fő", "Bagdadtól 100 kilométerre délnyugatra található", "A kerbelai csata Kr. u. 680-ban zajlott", "Az arbáín zarándoklaton 25 millió résztvevő is lehet", "A brit mandátum 1920 és 1932 között tartott", "Az 1920-as iraki felkelés egyik központja", "Az 1991-es síita felkelést katonai erővel fojtották el", "Szaddám Huszein rendszere 1979-től 2003-ig tartott"],
       ro: ["Populația este estimată la aproximativ 700.000 de locuitori", "Bătălia de la Karbala s-a desfășurat în anul 680 d.Hr.", "Complexul găzduiește altarele lui Hussein și al-Abbas", "Pelerinajul Arbaeen atrage anual circa 25 milioane de persoane", "Mandatul britanic a fost activ între anii 1920 și 1932", "Epicentrul revoltei naționale irakiene din anul 1920", "Rebeliunea șiită a fost reprimată violent în anul 1991", "Regimul dictatorial a lui Saddam a durat din 1979 până în 2003"],
       en: ["Located 100 kilometers southwest of Baghdad", "Site of the historical Battle of Karbala in 680 AD", "Contains the Imam Husayn Shrine", "Home to the Al Abbas Mosque", "Hosts the massive Arbaeen religious pilgrimage", "Population is approximately 1.1 million", "Economy heavily reliant on religious tourism", "Surrounding region is an important agricultural area"]
-    }
-  },
+    }, image: "/poi-images/karbala-cities-v2.webp"},
   {
     id: "nasiriyah-cities-v2",
     type: "state-capital",
@@ -278,8 +270,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Lakossága megközelítőleg 560 ezer fő", "Nászir asz-Szaadún alapította 1872-ben", "Úr városát Kr. e. 3800 körül alapították", "Az úri zikkurat Kr. e. 2100 körül épült", "A brit mandátum időszaka 1920 és 1932 közé esett", "A környező mocsarakat az 1990-es években csapolták le", "A Szaddám-korszak 1979-től 2003-ig tartott", "A nászirijjai csata 2003-ban zajlott le"],
       ro: ["Populația ajunge la aproximativ 560.000 de locuitori", "Orașul a fost fondat în anul 1872 de Nasir al-Saadun", "Ur, vechea metropolă sumeriană, a apărut în 3800 î.Hr.", "Ziguratul din Ur datează din preajma anului 2100 î.Hr.", "Perioada administrației britanice a fost între 1920 și 1932", "Mlaștinile au fost asanate intensiv în anii 1990", "Epoca lui Saddam Hussein a avut loc între 1979 și 2003", "Bătălia de la Nasiriyah a avut loc pe parcursul anului 2003"],
       en: ["Capital of the Dhi Qar Governorate", "Situated along the Euphrates River", "Founded in 1872 by the Muntafiq tribal confederation", "Population is approximately 500,000", "Located near the ancient Sumerian ruins of Ur", "Close proximity to the famous Ziggurat of Ur", "Important regional transportation and commercial hub", "Predominantly Shia Muslim population"]
-    }
-  },
+    }, image: "/poi-images/nasiriyah-cities-v2.webp"},
   {
     id: "amarah-cities-v2",
     type: "state-capital",
@@ -309,8 +300,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága mintegy 420 ezer fő", "Az oszmán adminisztráció alapította 1862-ben", "A mocsári arabok kultúrája a Kr. e. 5. évezredre nyúlik vissza", "Az Es Sinn-i csata 1915-ben zajlott a közelben", "A brit mandátum 1920 és 1932 között tartott fenn", "A mocsarakat 1991 és 2003 között csapolták le", "A régió 2016 óta UNESCO világörökségi terület", "Szaddám Huszein rendszere 1979-től 2003-ig tartott"],
       ro: ["Aproximativ 420.000 de persoane locuiesc în acest oraș", "Fondat de către oficialii otomani în anul 1862", "Cultura arabilor din mlaștini datează din mileniul V î.Hr.", "Bătălia de la Es Sinn s-a desfășurat în anul 1915", "Mandatul britanic a fost activ între anii 1920 și 1932", "Secarea mlaștinilor a avut loc între anii 1991 și 2003", "Aria protejată a fost inclusă pe lista UNESCO în 2016", "Saddam Hussein a condus țara între 1979 și 2003"],
       en: ["Capital of the Maysan Governorate", "Located on the banks of the Tigris River", "Situated 50 kilometers from the Iranian border", "Founded in the 1860s as an Ottoman military outpost", "Population is approximately 500,000", "Surrounded by historical Mesopotamian marshlands", "Economy based on agriculture and livestock", "Predominantly inhabited by Shia Muslims"]
-    }
-  },
+    }, image: "/poi-images/amarah-cities-v2.webp"},
   {
     id: "al-diwaniyah-cities-v2",
     type: "state-capital",
@@ -340,8 +330,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága hozzávetőlegesen 460 ezer fő", "Bagdadtól 180 kilométerre délre található", "A település a 17. században jött létre", "Az oszmánok 1869-ben szandzsák rangra emelték", "A brit mandátum időszaka 1920 és 1932 közé esett", "Szaddám Huszein uralma 1979-től 2003-ig tartott", "Az al-Kádiszijja Egyetemet 1987-ben alapították", "Nippur romjai 10 kilométerre délre fekszenek"],
       ro: ["Populația localității numără în jur de 460.000 de rezidenți", "Orașul este poziționat la 180 km sud de capitala Bagdad", "A luat naștere ca loc de întrunire tribală în secolul al XVII-lea", "A fost ridicat la rangul de sangeac otoman în 1869", "Perioada mandatului britanic a avut loc între 1920 și 1932", "Regimul lui Saddam Hussein a dominat din 1979 până în 2003", "Universitatea al-Qadisiyyah a fost înființată în anul 1987", "Ruinele centrului religios Nippur sunt la 10 km spre sud"],
       en: ["Capital of the Al-Qadisiyyah Governorate", "Located on a branch of the Euphrates River", "Estimated population of over 400,000", "Major center for agricultural production", "Particularly known for extensive rice cultivation", "Important hub for surrounding farming communities", "Situated on the Baghdad-Basra railway line", "Area is known for its diverse bird populations"]
-    }
-  },
+    }, image: "/poi-images/al-diwaniyah-cities-v2.webp"},
   {
     id: "kut-cities-v2",
     type: "state-capital",
@@ -371,8 +360,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Lakossága megközelítőleg 380 ezer fő", "Bagdadtól 160 kilométerre délkeletre fekszik", "A kúti ostrom 1915-1916-ban zajlott le", "A brit kapituláció során 13 ezer katona esett fogságba", "A brit mandátum korszaka 1920 és 1932 közé esett", "A Tigrisen lévő kúti gát 1939-ben épült fel", "Vászit kormányzóság fővárosa 1976 óta", "Az irak-iráni háború 1980 és 1988 között tartott"],
       ro: ["Are o populație de aproximativ 380.000 de locuitori", "Este situat la 160 de kilometri sud-est de orașul Bagdad", "Asediul de la Kut a avut loc între anii 1915 și 1916", "Capitularea din 1916 s-a soldat cu 13.000 de prizonieri britanici", "Perioada mandatului britanic a durat din 1920 până în 1932", "Barajul monumental de pe Tigru a fost finalizat în 1939", "Orașul este capitala guvernoratului Wasit încă din anul 1976", "Războiul sângeros Iran-Irak a avut loc între 1980 și 1988"],
       en: ["Capital of the Wasit Governorate", "Situated on the left bank of the Tigris River", "Located 160 kilometers southeast of Baghdad", "Site of the historic WWI Siege of Kut (1915-1916)", "Population is approximately 400,000", "Features the Kut Barrage, built in the 1930s", "Economy is heavily reliant on regional agriculture", "Primary local crops include wheat and barley"]
-    }
-  },
+    }, image: "/poi-images/kut-cities-v2.webp"},
   {
     id: "hillah-cities-v2",
     type: "state-capital",
@@ -402,8 +390,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága mintegy 540 ezer fő", "Szaif ad-Daula alapította 1101-ben", "Babilon romjai 5 kilométerre északra fekszenek", "A brit mandátum 1920 és 1932 között tartott", "Szaddám Huszein 1983-tól indította a babiloni rekonstrukciókat", "Babilon 2019-ben lett UNESCO világörökség", "II. Nabú-kudurri-uszur (Kr. e. 605-562) fővárosa volt az ókorban", "Bagdadtól 100 kilométerre délre található"],
       ro: ["Așezarea numără aproape 540.000 de locuitori", "A fost fondată de către Saif al-Daula în anul 1101", "Ruinele Babilonului se află la o distanță de 5 kilometri nord", "Mandatul britanic a funcționat între anii 1920 și 1932", "Saddam Hussein a inițiat reconstrucția Babilonului în 1983", "Sit arheologic inclus în Patrimoniul Mondial UNESCO în 2019", "Nabucodonosor al II-lea a domnit între anii 605 și 562 î.Hr.", "Orașul se găsește la o distanță de 100 km sud de Bagdad"],
       en: ["Capital of the Babylon Governorate", "Located on the Hilla branch of the Euphrates River", "Situated adjacent to the ancient ruins of Babylon", "Founded in the year 1101 AD", "Population is approximately 500,000", "Historical center for administration and education", "Surrounded by highly fertile, irrigated agricultural land", "Important center for the preservation of cultural heritage"]
-    }
-  },
+    }, image: "/poi-images/hillah-cities-v2.webp"},
   {
     id: "ramadi-cities-v2",
     type: "state-capital",
@@ -433,8 +420,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága hozzávetőlegesen 480 ezer fő", "Bagdadtól 110 kilométerre nyugatra fekszik", "Midhat Pasa alapította 1869-ben", "A ramádi csata 1917 szeptemberében történt", "El-Anbár fővárosa lett 1932-ben", "A brit mandátum időszaka 1920 és 1932 közé esett", "Az Iszlám Állam 2014 és 2016 között uralta", "A felszabadító harcokban az épületek 80 százaléka elpusztult"],
       ro: ["Orașul are un număr de aproximativ 480.000 de locuitori", "Situat pe râul Eufrat la 110 km distanță vestică de Bagdad", "A fost înființat de otomanul Midhat Pașa în anul 1869", "Bătălia cheie de la Ramadi s-a desfășurat în septembrie 1917", "A devenit capitala provinciei Al-Anbar în anul 1932", "Administrația britanică a durat din anul 1920 până în 1932", "Gruparea Statul Islamic a ocupat orașul între 2014 și 2016", "Luptele de eliberare au distrus circa 80% din fondul construit"],
       en: ["Capital of the Al Anbar Governorate", "Located 110 kilometers west of Baghdad", "Situated along the Euphrates River", "Founded in 1869 by the Ottoman Empire", "Important transit hub for trade with Syria and Jordan", "Captured by the Islamic State in May 2015", "Recaptured by Iraqi forces in late 2015", "Suffered extensive damage during recent urban conflicts"]
-    }
-  },
+    }, image: "/poi-images/ramadi-cities-v2.webp"},
   {
     id: "fallujah-cities-v2",
     type: "city",
@@ -464,8 +450,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A lakosság száma megközelítőleg 330 ezer fő", "Bagdadtól 70 kilométerre nyugatra található", "Több mint 200 mecsetje miatt kapta a nevét", "Az ókori Pumbedita helyén épült fel", "Az angol-iraki háború fallúdzsai csatája 1941-ben zajlott", "A két nagy amerikai csatát 2004-ben vívták", "Az Iszlám Állam 2014 és 2016 között birtokolta", "A brit mandátum 1920 és 1932 között állt fenn"],
       ro: ["Populația orașului numără aproximativ 330.000 de locuitori", "Situat la o distanță de 70 km vest de capitala Bagdad", "Poreclit Orașul Moscheilor, având peste 200 de astfel de edificii", "A fost fondat pe locul vechii academii talmudice din Pumbedita", "Bătălia din războiul anglo-irakian s-a desfășurat în anul 1941", "Bătăliile sângeroase cu forțele militare americane au avut loc în 2004", "Așezarea a fost ocupată de Statul Islamic din 2014 până în 2016", "Mandatul britanic a funcționat între anii 1920 și 1932"],
       en: ["Located 69 kilometers west of Baghdad", "Situated on the Euphrates River in Al Anbar", "Colloquially known as the \"City of Mosques\"", "Contains over 200 mosques in the area", "Site of intense battles during the 2004 Iraq War", "Fell to the Islamic State in early 2014", "Recaptured by Iraqi government forces in 2016", "Population is approximately 300,000"]
-    }
-  },
+    }, image: "/poi-images/fallujah-cities-v2.webp"},
   {
     id: "baqubah-cities-v2",
     type: "state-capital",
@@ -495,8 +480,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A lakossága nagyjából 470 ezer fő", "Az abbászidák alapították a 8. században", "Bagdadtól 50 kilométerre északkeletre található", "Az iraki citrusfélék 80 százalékát termeli a régió", "A brit menekülttábor 1918 és 1921 között működött", "A brit mandátum időszaka 1920 és 1932 közé esett", "Az irak-iráni háború 1980 és 1988 között zajlott", "A Szaddám-korszak 1979-től 2003-ig tartott"],
       ro: ["Populația metropolei se cifrează la aproximativ 470.000 de persoane", "Fondat sub patronajul abbasid în cursul secolului al VIII-lea", "Așezarea este localizată la 50 km nord-est de Bagdad", "Regiunea generează 80% din producția națională de citrice", "Lagărul pentru refugiați a fost funcțional între 1918 și 1921", "Perioada administrației britanice a fost activă între 1920 și 1932", "Sângerosul Război Iran-Irak s-a desfășurat între 1980 și 1988", "Saddam Hussein s-a menținut la putere din 1979 până în 2003"],
       en: ["Capital of the Diyala Governorate", "Situated on the Diyala River", "Located 50 kilometers northeast of Baghdad", "Name is derived from Aramaic for \"House of Jacob\"", "Population is approximately 460,000", "Renowned for extensive orange and citrus orchards", "Historical waystation on the route to Khorasan", "Experienced severe conflict during the Iraq War"]
-    }
-  },
+    }, image: "/poi-images/baqubah-cities-v2.webp"},
   {
     id: "tikrit-cities-v2",
     type: "state-capital",
@@ -526,8 +510,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Lakossága megközelítőleg 160 ezer fő", "Szaladin (1138-1193) szultán szülővárosa", "Szaddám Huszein (1937-2006) szülőhelye", "Bagdadtól 140 kilométerre északnyugatra fekszik", "A brit mandátum 1920 és 1932 között tartott fenn", "Szaddám Huszeint 2003. december 13-án fogták el a közelben", "Az Iszlám Állam 2014 júniusa és 2015 áprilisa között uralta", "Szalah ad-Dín kormányzóság fővárosa"],
       ro: ["Comunitatea înregistrează aproximativ 160.000 de locuitori", "Orașul natal al legendarului sultan Saladin (1138-1193)", "Locul de naștere al dictatorului irakian Saddam Hussein (1937-2006)", "Amplasat pe Tigru, la 140 km distanță de Bagdad", "Epoca mandatului britanic a durat între anii 1920 și 1932", "Saddam Hussein a fost capturat la data de 13 decembrie 2003", "Ocupat de luptătorii Statului Islamic din 2014 până în aprilie 2015", "Reședință oficială a unității administrative Saladin"],
       en: ["Capital of the Saladin Governorate", "Located 140 kilometers northwest of Baghdad", "Situated on the banks of the Tigris River", "Historical birthplace of the Muslim leader Saladin", "Birthplace of former Iraqi President Saddam Hussein", "Population is roughly 100,000", "Captured by the Islamic State in 2014", "Retaken by Iraqi forces during a major battle in 2015"]
-    }
-  },
+    }, image: "/poi-images/tikrit-cities-v2.webp"},
   {
     id: "samarra-cities-v2",
     type: "city",
@@ -557,8 +540,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága hozzávetőlegesen 360 ezer fő", "Bagdadtól 125 kilométerre északra helyezkedik el", "Az Abbászida Kalifátus fővárosa volt 836 és 892 között", "Az al-Malvija minaret 52 méter magas", "Szamarra 2007-ben került az UNESCO világörökségi listájára", "A 2006. február 22-i merénylet az al-Aszkari-szentélyt pusztította el", "A brit mandátum 1920 és 1932 között állt fenn", "Szaddám Huszein uralma 1979-től 2003-ig tartott"],
       ro: ["Găzduiește o populație estimată la 360.000 de persoane", "Orașul se găsește la o depărtare de 125 km nord de Bagdad", "A îndeplinit rolul de capitală abbasidă din 836 până în 892", "Cunoscutul minaret spiralat al-Malwiya măsoară 52 de metri", "A obținut oficial statutul de Patrimoniu Mondial UNESCO în 2007", "Atentatul major asupra altarului Al-Askari a avut loc la 22 februarie 2006", "Timpul de administrație britanică s-a desfășurat între 1920 și 1932", "Dictatura prezidată de Saddam Hussein s-a consumat între 1979 și 2003"],
       en: ["Located on the eastern bank of the Tigris River", "Capital of the Abbasid Caliphate in the 9th century", "Features the Great Mosque with its spiral minaret", "Home to the Shia Al-Askari Shrine", "Designated a UNESCO World Heritage Site in 2007", "Site of major sectarian bombings in 2006", "Located 125 kilometers north of Baghdad", "Contains vast, mostly unexcavated archaeological ruins"]
-    }
-  },
+    }, image: "/poi-images/samarra-cities-v2.webp"},
   {
     id: "samawah-cities-v2",
     type: "state-capital",
@@ -588,8 +570,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága megközelítőleg 250 ezer fő", "A 16. században jött létre karavánállomásként", "Uruk romjai mintegy 30 kilométerre keletre találhatók", "Az ékírást itt fejlesztették ki Kr. e. 3500 és 3200 között", "Az 1920-as iraki felkelés egyik központja volt", "A brit mandátum időszaka 1920 és 1932 közé esett", "A japán önvédelmi erők 2004 és 2006 között állomásoztak itt", "A Szaddám-korszak 1979-től 2003-ig tartott"],
       ro: ["Rezidenții orașului însumează un total de aproximativ 250.000", "Inițiat în cursul secolului al XVI-lea ca punct de reper pentru rulote", "Anticul Uruk e situat la o aruncătură de 30 km spre est", "Alfabetul cuneiform antic s-a elaborat între anii 3500 și 3200 î.Hr.", "Revolta națională masivă contra conducerii britanice a izbucnit în 1920", "Sub mandatul Marii Britanii teritoriul a stat din 1920 până în 1932", "Forțele de securitate japoneze au fost repartizate aici între 2004 și 2006", "Conducerea președintelui Saddam Hussein a existat din 1979 până în 2003"],
       en: ["Capital of the Al Muthanna Governorate", "Positioned halfway between Baghdad and Basra", "Situated on the banks of the Euphrates River", "Population is approximately 300,000", "Located near the unique desert Lake Sawa", "Economy supported by local cement production", "Surrounded by a harsh, arid desert environment", "Important node on trade routes towards Saudi Arabia"]
-    }
-  },
+    }, image: "/poi-images/samawah-cities-v2.webp"},
   {
     id: "duhok-cities-v2",
     type: "state-capital",
@@ -619,8 +600,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Lakossága mintegy 350 ezer fő", "Tengerszint feletti magassága 575 méter", "A hiniszi domborművek Kr. e. 700 körüliek", "Duhokot 1921-ben csatolták az Iraki Királysághoz", "A brit mandátum 1920 és 1932 között tartott fenn", "Az Anfal-hadjárat 1986 és 1989 között zajlott", "1991 óta a kurd védőzóna része", "A Duhoki Egyetem 1992-ben nyitotta meg kapuit"],
       ro: ["Populația zonei metropolitane conține în jur de 350.000 de inși", "Orașul s-a zidit la elevația montană de fix 575 de metri altitudine", "Valoroasele vestigii stâncoase vizibile din Khinis provin din jurul anului 700 î.Hr.", "Marea Britanie a oficializat includerea regiunii în regatul național în 1921", "Perioada istorică marcată prin mandatul britanic se delimitează între 1920 și 1932", "Operațiunea militară Anfal s-a impus nemiloasă din anul 1986 până în 1989", "Acest district e adăpost sigur autonom kurd protejat oficial încă din 1991", "Respectabila Universitate comunitară din Duhok s-a materializat efectiv în 1992"],
       en: ["Capital of the Duhok Governorate in Kurdistan", "Located in a valley between mountain ranges", "Population is over 300,000", "History connected to Assyrian civilizations", "Popular tourist destination due to its landscape", "Home to the University of Duhok (founded 1992)", "Important commercial gateway to Turkey and Syria", "Characterized by a relatively cool, mountainous climate"]
-    }
-  },
+    }, image: "/poi-images/duhok-cities-v2.webp"},
   {
     id: "zakho-cities-v2",
     type: "city",
@@ -650,8 +630,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A lakosság száma megközelítőleg 350 ezer fő", "A legfontosabb iraki határátkelő Törökország felé", "A Delal kőhíd legalább a 8-9. századból származik", "A zsidó-arámi közösség 1948-ig élt itt", "A város a Hábúr folyó partján terül el", "A brit mandátum korszaka 1920 és 1932 közé esett", "Az Anfal-hadjárat 1986 és 1989 között zajlott le", "Szaddám Huszein uralma 1979-től 2003-ig tartott"],
       ro: ["Orașul deține o populație de circa 350.000 de locuitori", "Cel mai esențial punct de tranzit de frontieră irakiano-turc", "Podul istoric Delal provine măcar din secolele VIII-IX", "Minoritatea iudeo-arameică a viețuit aici până în anul 1948", "Amplasat pe malurile apelor fluviului curgător Khabur", "Perioada aferentă mandatului britanic a ținut din 1920 până în 1932", "Oprimanta campanie Anfal s-a materializat între anii 1986 și 1989", "Dictatura președintelui Saddam Hussein a dăinuit din 1979 până în 2003"],
       en: ["Located in the Duhok Governorate of Kurdistan", "Situated near the border with Turkey", "Crucial transit point via the Ibrahim Khalil border crossing", "Population is approximately 100,000", "Features the ancient stone Delal Bridge over the Khabur River", "Historically diverse population including Kurds and Assyrians", "Economy heavily dependent on cross-border trade", "Important regional center for transportation services"]
-    }
-  },
+    }, image: "/poi-images/zakho-cities-v2.webp"},
   {
     id: "tal-afar-cities-v2",
     type: "city",
@@ -681,8 +660,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Körülbelül 200 ezer fős, többségében türkmén lakosság", "Moszultól 60 kilométerre nyugatra található", "Tengerszint feletti magassága 280 méter", "A 16. században épült oszmán fellegvár uralja a várost", "A britek elleni felkelés 1920-ban történt", "A brit mandátum időszaka 1920 és 1932 közé esett", "Az arabosítási politika Szaddám Huszein (1979-2003) idején zajlott", "Az Iszlám Állam 2014 júniusa és 2017 augusztusa között birtokolta"],
       ro: ["Găzduiește un număr de circa 200.000 de inși, predominant turkmeni", "Zidit la distanța rutieră de 60 km spre vest de Mosul", "Situat vizual la cota de 280 metri pe deasupra nivelului mării", "Maiestuoasa citadelă otomană datează de prin secolul al XVI-lea", "Masiva răscoală antibritanică s-a dezlănțuit pe parcursul anului 1920", "Controlul asigurat de mandatul britanic a persistat între 1920 și 1932", "Programele nemiloase de arabizare s-au desfășurat în regimul 1979-2003", "Statul Islamic a prădat orașul din iunie 2014 până în august 2017"],
       en: ["Located 63 kilometers west of Mosul in Nineveh Governorate", "Predominantly populated by Iraqi Turkmen", "Pre-conflict population was roughly 200,000", "Features a historic Ottoman-era citadel in the city center", "One of the largest Turkmen-majority cities in Iraq", "Occupied by the Islamic State in 2014", "Recaptured by Iraqi military forces in August 2017", "Experienced significant infrastructural damage during conflicts"]
-    }
-  },
+    }, image: "/poi-images/tal-afar-cities-v2.webp"},
   {
     id: "halabja-cities-v2",
     type: "state-capital",
@@ -712,8 +690,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága hozzávetőlegesen 100 ezer fő", "2014 óta önálló kormányzóság fővárosa", "Bagdadtól 240 kilométerre északkeletre fekszik", "A vegyifegyver-támadás 1988. március 16-án történt", "A támadás során megközelítőleg 5000 ember vesztette életét", "Az Anfal-hadjárat 1986 és 1989 között zajlott", "A brit mandátum 1920 és 1932 között állt fenn", "Szaddám Huszein rendszere 1979-től 2003-ig tartott"],
       ro: ["Reședința metropolei numără aproximativ 100.000 de trăitori", "Proclamat oficial drept reședință de guvernorat kurd în anul 2014", "Este localizat geografic la 240 kilometri la nord-est de Bagdad", "Masacrul cu armament de natură chimică a lovit în 16 martie 1988", "Exploziile din epocă au produs pierderea imediată a circa 5000 de vieți", "A făcut parte din necruțătoarea campanie militară Anfal (1986-1989)", "Autoritatea bazată pe mandatul britanic a durat din 1920 până în 1932", "Epoca opresiunilor generalizate sub Saddam Hussein a dominat din 1979 până în 2003"],
       en: ["Capital of the Halabja Governorate in the Kurdistan Region", "Located 14 kilometers from the Iranian border", "Population is over 100,000 residents", "Site of the infamous 1988 chemical weapons attack", "An estimated 5,000 civilians died in the 1988 massacre", "Home to the Halabja Monument memorializing the victims", "Historically an important center for Kurdish literature", "Surrounded by the scenic Hawraman mountains"]
-    }
-  },
+    }, image: "/poi-images/halabja-cities-v2.webp"},
   {
     id: "kufa-cities-v2",
     type: "city",
@@ -743,8 +720,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Lakossága az elővárosokkal együtt 110 ezer fő", "Szaad ibn Abi Vakkász alapította 638-ban", "Ali kalifa uralkodása alatt 656 és 661 között főváros volt", "Ali kalifát 661 januárjában gyilkolták meg a városban", "Innen származik a korai arab kúfi írás", "A brit mandátum időszaka 1920 és 1932 közé esett", "A síita felkelést 1991-ben leverték a Szaddám-érában"],
       ro: ["Masa populației metropolitane este de în jur de 110.000 persoane", "Bazele acestui stabiliment militar au fost puse în anul 638", "S-a instituit drept centrul califatului islamic pe perioada 656-661", "Liderul spiritual Ali a fost crunt asasinat în anul 661", "Scrierea antică kufică din caligrafia arabă își trage direct originea de aici", "Zonă marcată direct de efectele din mandatul britanic stabilit între anii 1920 și 1932", "Trista rebeliune spirituală a șiiților a fost dizolvată brutal cu arme în 1991", "Conducerea președintelui Saddam Hussein a existat din 1979 până în 2003"],
       en: ["Located on the banks of the Euphrates River", "Founded in 638 AD by Caliph Umar", "Served briefly as the capital of the Rashidun Caliphate", "Home to the historically significant Great Mosque of Kufa", "Population is approximately 150,000", "Forms a continuous urban area with neighboring Najaf", "Contains the historic house of Ali ibn Abi Talib", "Major destination for international Shia pilgrims"]
-    }
-  },
+    }, image: "/poi-images/kufa-cities-v2.webp"},
   {
     id: "al-musayyib-cities-v2",
     type: "city",
@@ -774,8 +750,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A lakosság száma megközelítőleg 80 ezer fő", "Bagdadtól 60 kilométerre délre helyezkedik el", "A 19. században fejlődött karavánállomássá", "A Hindijja-gát 1928-ban épült 800 ezer hektár öntözésére", "A brit mandátum 1920 és 1932 között tartott fenn", "Az 1200 MW-os hőerőmű 1978-ban kezdte meg működését", "Szaddám Huszein uralma 1979-től 2003-ig tartott", "A 2005. július 16-i robbantásban 98 ember halt meg"],
       ro: ["Contabilizează printre blocurile sale urbane cam 80.000 de locuitori", "Ocupă o așezare pe teren stabil la 60 km sub linia capitalei Bagdad", "Evoluția sa majoră drept popas esențial al caravanelor s-a desăvârșit în secolul al XIX-lea", "Grandiosul Baraj monumental Hindiyya a fost adăugat oficial în anul 1928", "Bazinul britanic de mandat al Mesopotamiei s-a aplicat din 1920 până în 1932", "Focarul termoelectric național capabil de 1200 MW putere electrică a demarat pe 1978", "Îndelungata administrație condusă de președinte a fost stabilită din 1979 până pe 2003", "Explozia devastatoare ce a urmat atacului a suprimat 98 de vieți pe 16 iulie 2005"],
       en: ["Located in the Babylon Governorate of central Iraq", "Situated on both banks of the Euphrates River", "Population is approximately 50,000", "Functions as a local commercial and agricultural hub", "Features the significant Al-Musayyib thermal power plant", "Historically a critical crossing point on the Euphrates", "Surrounding region is highly fertile and heavily irrigated", "Located on the main route between Baghdad and southern cities"]
-    }
-  },
+    }, image: "/poi-images/al-musayyib-cities-v2.webp"},
   {
     id: "baiji-cities-v2",
     type: "city",
@@ -805,8 +780,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakossága mintegy 200 ezer fő", "Bagdadtól 200 kilométerre északra fekszik", "A kőolajfinomító 1985-ben készült el, kapacitása napi 310 ezer hordó", "A baidzsi hőerőmű 1500 MW teljesítményű", "A brit mandátum korszaka 1920 és 1932 közé esett", "Szaddám Huszein uralma 1979-től 2003-ig tartott", "Az Iszlám Állam 2014 júniusa és 2015 októbere között uralta", "A finomító infrastruktúrájának 70 százaléka megsemmisült"],
       ro: ["Masa populației metropolitane este de în jur de 200.000 persoane", "Situat la nord extrem, fix la distanța stradală de 200 kilometri de orașul Bagdad", "Firma rafinăriei principale de prelucrare națională uriașă s-a finisat tocmai în 1985", "Centrala de forță care operează cu o productivitate generală de capacitate de 1500 MW", "Structurile administrative din mandatul britanic militar alături au continuat din 1920 tocmai pe 1932", "Durata completă care stă la baza erei Saddam se definește ca a fi parcursul din anii 1979 pe 2003", "Inamicii de război fundamentaliști s-au impus teritorial din iunie 2014 și a menținut forțat terenul pe octombrie 2015", "Rafinăria colosală de prelucrare de produse derivate de mare preț e redusă cu procente trecute de cota de 70%"],
       en: ["Located in the Saladin Governorate, 200 kilometers north of Baghdad", "Home to the Baiji Oil Refinery, the largest in Iraq", "Strategically important industrial and energy hub", "Site of intense battles with the Islamic State (2014-2015)", "Refinery and city suffered massive infrastructural destruction", "Pre-conflict population was significantly tied to the oil industry", "Located near the historical Baghdad-Mosul railway line", "Ongoing efforts are focused on post-conflict rehabilitation"]
-    }
-  },
+    }, image: "/poi-images/baiji-cities-v2.webp"},
   {
     id: "al-qasim-cities-v2",
     type: "city",
@@ -836,8 +810,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Lakossága megközelítőleg 90 ezer fő", "Bagdadtól 90 kilométerre délre található", "A Szajjid al-Kászim-szentély a 13. században épült", "A régió biztosítja az iraki datolyatermés 15 százalékát", "A brit mandátum 1920 és 1932 között tartott fenn", "Szaddám Huszein rendszere 1979-től 2003-ig állt fenn", "Az 1991-es síita lázadás után kemény megtorlások érték", "A város a Hindijja-csatorna öntözési rendszerén fekszik"],
       ro: ["Prezenta mulțime rezidentă care s-a fixat la o densitate populațională se apropie masiv de nivelul a 90.000", "Poziționată spre meridianele sudice chiar la fix 90 kilometri decalați sub capitala metropolitană Bagdad", "Mausoleul sanctuar glorios istoric a luat un aspect final undeva în perioada de pe parcurs a secolului al XIII-lea", "Teritoriul cu livezi susține constant de unul singur aproximativ 15% recoltă brută pură a stocului de preț de curmale naționale", "Organizarea politică condusă prin mandat exterior britanic a condus națiunea exact în decada fixă de din 1920 către 1932", "Conducerea președintelui autocrat Saddam Hussein s-a consumat pe parcurs de durată de mai mulți ani clari pe 1979 cu oprire final în 2003", "Guvernul tiranic bazat de partid a sugrumat opoziția ostenită după izbucnirea șiită generalizată finalizată pe parcurs târziu în 1991", "Sistemul comunitar complex s-a amplasat favorabil aproape fix direct la periferiile apelor prin faimosul canal Hindiyya irigat complet"],
       en: ["Located in the Babylon Governorate, southeast of Hillah", "Important religious destination for Shia Muslims", "Home to the shrine of Al-Qasim ibn Musa al-Kadhim", "Economy is significantly supported by religious tourism", "Surrounded by fertile plains irrigated by the Euphrates", "Local agriculture includes date palm and grain cultivation", "Hosts numerous pilgrims during significant Islamic religious dates", "Serves as a local commercial center for surrounding villages"]
-    }
-  },
+    }, image: "/poi-images/al-qasim-cities-v2.webp"},
   {
     id: "abu-ghraib-cities-v2",
     type: "city",
@@ -867,8 +840,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["A város lakóinak száma mintegy 190 ezer fő", "Bagdadtól 32 kilométerre nyugatra helyezkedik el", "A börtön a Szaddám-korszakban (1979-2003) hírhedt kivégzőhely volt", "Az amerikai kínzási botrány 2004-ben pattant ki", "A brit mandátum 1920 és 1932 között állt fenn", "Az Abu Graib börtönt 2014-ben zárták be véglegesen", "Az Iszlám Állam 2014 és 2016 között fenyegette a várost", "Jelentős agrártelepülés, főleg datolya- és gránátalma-termesztéssel"],
       ro: ["Populația localității atinge nivelul cu numărul de aproximație total valabil la numărătoare chiar estimativ de cam aproape 190.000", "Punctul de repere se fixează de-a lungul distanței rutiere pe direcția pură spre un parcurs apusean fix cam 32 kilometri față direct cu faimosul oraș mamă Bagdad", "Punctajul negru la notorietate națională este reținut sub faimoasa structură penală din era Saddam Hussein, direct din 1979 către 2003", "Nenorocirea mondială vizuală condusă cu brutalitate severă s-a retransmis fix sub anul internațional asiduu plin asediat cu ecou fix pe 2004", "Perioada mandatului britanic condus exterior militar de forță a fost activ din 1920 asigurat cu continuitate strict pe 1932", "Poarta de fortificație penală de celule mari de fier masiv au forțat blocarea zidurilor sub o dată finală ireparabilă decisă spre anul 2014", "Invazia cu teroare absolută impusă extrem la nivel comunal și asalturile masive s-au simțit crunt în aerul comunitar greu între orizontul din anii 2014 către 2016", "Zonă agrară de culturi masive naturale cultivate sub recolta dulce de rodii fructuoase precum și datoli"],
       en: ["Located in the Baghdad Governorate, 30 km west of the capital", "Population is over 100,000 residents", "Internationally infamous for the Abu Ghraib prison complex", "Site of extreme abuses under the regime of Saddam Hussein", "Site of a major prisoner abuse scandal following the 2003 invasion", "Historically a significant agricultural and dairy production area", "Acts as a transitional urban-rural zone west of Baghdad", "Experienced significant instability during the Iraq War"]
-    }
-  },
+    }, image: "/poi-images/abu-ghraib-cities-v2.webp"},
   {
     id: "hit-cities-v2",
     type: "city",
@@ -898,8 +870,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       hu: ["Lakossága megközelítőleg 100 ezer fő", "Bagdadtól 145 kilométerre északnyugatra fekszik", "Több mint 5000 éve folyamatosan lakott település", "Hérodotosz a Kr. e. 5. században említi a bitumenforrásokat", "Bitumenjét használták Szemiramisz függőkertjeihez", "A brit mandátum 1920 és 1932 között tartott", "Szaddám Huszein korszaka 1979-től 2003-ig állt fenn", "Az Iszlám Állam 2014 októbere és 2016 áprilisa között birtokolta"],
       ro: ["Pământenii statornici ce stau zilnic stabil cu forme de reședințe la fix numărul care strânge aproximație masivă e o valoare ce arată undeva 100.000", "Așezarea urbei de temelie este centrată stabil decalat spre zona îndreptată cu nord-vest pe o traiectorie de șosea la fix estimat 145 kilometri stradali din Bagdad", "Se poate afirma cert stabil cu dovezi că un ansamblu statornicit populat se regăsește în acel loc de peste o sumă istorică care urcă enorm vizual cu cifra spre 5000 ani", "Scribul literar elen Herodot menționează vizibil așezarea elen direct undeva fix în timpul de pe secolul al V-lea î.Hr.", "Bitumul neprețuit ca izolare din pământ se zice cert că s-a folosit sub cunoștințe inginerești aplicate intens în timpul măreț pentru grădinile reginei asiriene", "Stăpânirea ce ținea cont ca autoritate birocratică din ramura britanică militară a condus mandatul din 1920 spre anul plin fix 1932", "Administrația ce controla structura supremă a fost condusă asiduu sub domnia rigidă condusă dictatorial de președintele irakian Saddam pe timpul vizibil dintre 1979-2003", "Invazia cu teroare dinspre combatanții insurgenți s-a instituit dur de spaimă pentru tărâmurile citadine din octombrie 2014 la aprilie 2016"],
       en: ["Located in the Al Anbar Governorate on the Euphrates River", "Situated approximately 190 kilometers northwest of Baghdad", "Historically famous for natural bitumen (asphalt) springs", "Bitumen used in ancient Mesopotamian boat building and construction", "Features a historic walled citadel overlooking the river", "Population is approximately 100,000", "Captured by the Islamic State in 2014", "Liberated by Iraqi security forces in 2016"]
-    }
-  },
+    }, image: "/poi-images/hit-cities-v2.webp"},
   {
     id: "rawandiz-cities-v2",
     type: "city",

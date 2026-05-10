@@ -1,0 +1,45 @@
+{
+  "lang": "ro",
+  "country": "Cambodia",
+  "files": [
+    "lib/visualLab/data/poiExtraCambodiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCambodiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ta-prohm-history-v2",
+      "description": "Un templu din complexul Angkor, lăsat parțial în starea în care a fost găsit, cu rădăcini mari de arbori care cresc peste ziduri. Este unul dintre cele mai cunoscute situri khmere.",
+      "facts": ["Parte din Angkor", "Ridicat la sfârșitul secolului al XII-lea", "Dedicat mamei lui Jayavarman VII", "Cunoscut pentru rădăcinile de copac"]
+    },
+    {
+      "id": "preah-khan-history-v2",
+      "description": "Un complex templar mare din Angkor, construit în 1191 sub Jayavarman VII. A servit ca mănăstire budistă și centru de învățare.",
+      "facts": ["Parte din Angkor", "Construit în 1191", "Ridicat de Jayavarman VII", "A funcționat ca mănăstire și școală"]
+    },
+    {
+      "id": "tuol-sleng-history-v2",
+      "description": "Un fost liceu transformat de regimul Khmerilor Roșii în închisoarea S-21. Astăzi este muzeu și memorial în Phnom Penh.",
+      "facts": ["Fost liceu", "Cunoscut ca S-21", "Folosit de Khmerii Roșii", "Acum muzeu al genocidului"]
+    },
+    {
+      "id": "neak-pean-history-v2",
+      "description": "Un templu-bazin din Angkor, construit pe o insulă artificială. A fost legat de ideea de vindecare și de apa sacralizată.",
+      "facts": ["Parte din Angkor", "Ridicat în secolul al XII-lea", "Insulă artificială", "Asociat cu vindecarea"]
+    },
+    {
+      "id": "phnom-kulen-national-park-nature-v2",
+      "description": "Un parc național de pe muntele sacru Phnom Kulen, la nord de Siem Reap. Zona include cascade și situri vechi khmere, inclusiv Râul celor 1000 de lingamuri.",
+      "facts": ["Munte sacru pentru khmeri", "Aproape 487 m altitudine", "Include cascade cunoscute", "Legat de începuturile imperiului Khmer"]
+    },
+    {
+      "id": "kirirom-national-park-nature-v2",
+      "description": "Un parc național de platou, cu climat mai răcoros decât în restul Cambodgiei. Este cunoscut pentru pădurile de pin și traseele liniștite.",
+      "facts": ["Creat ca parc național în 1993", "În provincia Kampong Speu", "Cunoscut pentru păduri de pin", "Are relief de platou montan"]
+    },
+    {
+      "id": "prey-lang-forest-nature-v2",
+      "description": "Cea mai mare pădure de câmpie rămasă în Cambodgia, întinsă pe mai multe provincii. Comunitățile locale o apără de tăierile ilegale.",
+      "facts": ["Se întinde pe patru provincii", "Pădure tropicală de câmpie", "Habitat pentru specii rare", "Amenințată de defrișări ilegale"]
+    }
+  ]
+}

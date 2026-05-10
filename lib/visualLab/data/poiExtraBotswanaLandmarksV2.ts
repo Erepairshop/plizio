@@ -900,7 +900,6 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       hu: ["Botswana első elnöke", "Emlékmű", "Gaborone-ban"],
       ro: [],
       en: ["Seretse Khama", "First president", "National symbol"]
-    }
-  },
+    }, image: "/poi-images/seretse-khama-statue-landmarks-v2.webp"},
 ];
 

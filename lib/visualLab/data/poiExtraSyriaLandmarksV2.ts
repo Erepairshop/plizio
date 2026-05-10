@@ -13,8 +13,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["Fekete és fehér kövek (Ablaq) váltakozásából épült.", "Ma a Művészeti és Néphagyományok Múzeumának ad otthont."],
       ro: ["A fost construit din pietre albe și negre alternate (Ablaq).", "Astăzi găzduiește Muzeul de Artă și Tradiții Populare."],
       en: ["Constructed using alternating black and white stones (Ablaq).", "Today it houses the Museum of Arts and Popular Traditions."]
-    }
-  },
+    }, image: "/poi-images/azem-palace-landmarks-v2.webp"},
   {
     id: "national-museum-damascus-landmarks-v2",
     type: "landmark",
@@ -27,8 +26,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["Homlokzata a Qasr al-Hayr al-Gharbi omajjád sivatagi kastélyból származik.", "Itt található az ugariti ábécé, a világ egyik legrégebbi ábécéje."],
       ro: ["Fațada provine de la castelul deșertic omeyad Qasr al-Hayr al-Gharbi.", "Găzduiește alfabetul de la Ugarit, unul dintre cele mai vechi din lume."],
       en: ["Its facade comes from the Umayyad desert castle Qasr al-Hayr al-Gharbi.", "It houses the Ugaritic alphabet, one of the oldest in the world."]
-    }
-  },
+    }, image: "/poi-images/national-museum-damascus-landmarks-v2.webp"},
   {
     id: "tekkiye-mosque-landmarks-v2",
     type: "landmark",
@@ -41,8 +39,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A komplexumot Nagy Szulejmán szultán megbízásából építették.", "Egykor a Mekkába tartó zarándokok szállásaként szolgált."],
       ro: ["Complexul a fost construit din ordinul sultanului Soliman Magnificul.", "A servit cândva ca adăpost pentru pelerinii aflați în drum spre Mecca."],
       en: ["The complex was built by order of Sultan Suleiman the Magnificent.", "It once served as a hostel for pilgrims on their way to Mecca."]
-    }
-  },
+    }, image: "/poi-images/tekkiye-mosque-landmarks-v2.webp"},
   {
     id: "khan-asad-pasha-landmarks-v2",
     type: "landmark",
@@ -55,8 +52,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["1751-ben építtette Aszad Pasa al-Azem.", "Az épület a késő oszmán kori építészet egyik kiemelkedő példája."],
       ro: ["A fost comandat în 1751 de As'ad Pasha al-Azem.", "Clădirea este un exemplu excelent al arhitecturii din perioada otomană târzie."],
       en: ["It was commissioned in 1751 by As'ad Pasha al-Azem.", "The building is a prime example of late Ottoman architecture."]
-    }
-  },
+    }, image: "/poi-images/khan-asad-pasha-landmarks-v2.webp"},
   {
     id: "sayyidah-zaynab-mosque-landmarks-v2",
     type: "landmark",
@@ -69,8 +65,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["Aranykupolája és csempékkel díszített minaretjei építészeti fénypontot jelentenek.", "Évente zarándokok milliói látogatják meg."],
       ro: ["Cupola sa aurie și minaretele decorate cu faianță sunt o capodoperă arhitecturală.", "Este destinația a milioane de pelerini în fiecare an."],
       en: ["Its golden dome and tile-decorated minarets are an architectural highlight.", "It is the destination of millions of pilgrims every year."]
-    }
-  },
+    }, image: "/poi-images/sayyidah-zaynab-mosque-landmarks-v2.webp"},
   {
     id: "sayyidah-ruqayya-mosque-landmarks-v2",
     type: "landmark",
@@ -83,8 +78,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A mecset 1985-ben épült iráni építészeti stílusban.", "A belsejét szinte teljesen csillogó tükrök borítják."],
       ro: ["Moscheea a fost construită în 1985 în stil arhitectural iranian.", "Interiorul său este aproape complet acoperit cu oglinzi strălucitoare."],
       en: ["The mosque was built in 1985 in an Iranian architectural style.", "Its interior is almost entirely covered with glittering mirrors."]
-    }
-  },
+    }, image: "/poi-images/sayyidah-ruqayya-mosque-landmarks-v2.webp"},
   {
     id: "church-saint-simeon-stylites-landmarks-v2",
     type: "landmark",
@@ -97,8 +91,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["Oszlopos Szent Simeon 37 évet töltött egy oszlopon ezen a helyen.", "A kereszt alakú bazilika az 5. századból származik."],
       ro: ["Sfântul Simeon Stâlpnicul a petrecut 37 de ani pe un stâlp în acest loc.", "Bazilica în formă de cruce datează din secolul al V-lea."],
       en: ["Saint Simeon the Stylite spent 37 years on a pillar at this site.", "The cross-shaped basilica dates back to the 5th century."]
-    }
-  },
+    }, image: "/poi-images/church-saint-simeon-stylites-landmarks-v2.webp"},
   {
     id: "great-mosque-aleppo-landmarks-v2",
     type: "landmark",
@@ -111,8 +104,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A 8. században alapították az Omajjádok.", "A 11. századi történelmi szeldzsuk minaret 2013-ban elpusztult."],
       ro: ["A fost fondată în secolul al VIII-lea de către omeyazi.", "Minaretul istoric selgiucizi din secolul al XI-lea a fost distrus în 2013."],
       en: ["It was founded in the 8th century by the Umayyads.", "The historic 11th-century Seljuk minaret was destroyed in 2013."]
-    }
-  },
+    }, image: "/poi-images/great-mosque-aleppo-landmarks-v2.webp"},
   {
     id: "monastery-saint-thecla-landmarks-v2",
     type: "landmark",
@@ -125,8 +117,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A kolostor egy barlang köré épült, ahol Szent Tekla menedéket keresett.", "A zarándokok azért jönnek, hogy a szent forrás vizéből igyanak."],
       ro: ["Mănăstirea este construită în jurul unei peșteri în care Sfânta Tecla s-a refugiat.", "Pelerinii vin să bea apă din izvorul sfânt."],
       en: ["The monastery is built around a cave where Saint Thecla sought refuge.", "Pilgrims come to drink water from the holy spring."]
-    }
-  },
+    }, image: "/poi-images/monastery-saint-thecla-landmarks-v2.webp"},
   {
     id: "saidnaya-monastery-landmarks-v2",
     type: "landmark",
@@ -139,8 +130,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["Jeruzsálem után a Közel-Kelet legfontosabb keresztény zarándokközpontja.", "A kolostorban őriznek egy Szűz Mária-ikont, amelyet Szent Lukácsnak tulajdonítanak."],
       ro: ["Este cel mai important centru de pelerinaj pentru creștinii din Orientul Mijlociu după Ierusalim.", "Mănăstirea adăpostește o icoană a Fecioarei Maria, atribuită Sfântului Luca."],
       en: ["It is the most important pilgrimage center for Christians in the Middle East after Jerusalem.", "The monastery houses an icon of the Virgin Mary attributed to Saint Luke."]
-    }
-  },
+    }, image: "/poi-images/saidnaya-monastery-landmarks-v2.webp"},
   {
     id: "qalat-jabar-landmarks-v2",
     type: "landmark",
@@ -153,8 +143,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A Tabka-gát megépítése előtt a vár az Eufrátesz egyik szikláján állt.", "A belső feltűnő minaret a 12. századból származik."],
       ro: ["Înainte de construirea barajului Tabqa, castelul se afla pe o stâncă lângă Eufrat.", "Minaretul impresionant din interior datează din secolul al XII-lea."],
       en: ["Before the construction of the Tabqa Dam, the castle stood on a cliff by the Euphrates.", "The striking minaret inside dates back to the 12th century."]
-    }
-  },
+    }, image: "/poi-images/qalat-jabar-landmarks-v2.webp"},
   {
     id: "masyaf-castle-landmarks-v2",
     type: "landmark",
@@ -167,8 +156,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A várat sikeresen megvédték Szaladin szultán ostromával szemben.", "Az \"Assassin's Creed\" videojáték-sorozat tette világszerte ismertté."],
       ro: ["Castelul a fost apărat cu succes împotriva unui asediu al sultanului Saladin.", "Este cunoscut la nivel mondial datorită seriei de jocuri video \"Assassin's Creed\"."],
       en: ["The castle was successfully defended against a siege by Sultan Saladin.", "It is known worldwide through the \"Assassin's Creed\" video game series."]
-    }
-  },
+    }, image: "/poi-images/masyaf-castle-landmarks-v2.webp"},
   {
     id: "cathedral-of-tartus-landmarks-v2",
     type: "landmark",
@@ -181,8 +169,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A 12. században építették a templomos lovagok.", "A templomot később mecsetté, majd múzeummá alakították."],
       ro: ["A fost construită în secolul al XII-lea de către Cavalerii Templieri.", "Biserica a fost transformată ulterior într-o moschee, apoi într-un muzeu."],
       en: ["It was built in the 12th century by the Knights Templar.", "The church was later converted into a mosque, and then into a museum."]
-    }
-  },
+    }, image: "/poi-images/cathedral-of-tartus-landmarks-v2.webp"},
   {
     id: "arwad-citadel-landmarks-v2",
     type: "landmark",
@@ -195,8 +182,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["Arwad az egyetlen lakott sziget Szíria vizein.", "Az erődöt még a 20. században is börtönként használták."],
       ro: ["Arwad este singura insulă locuită din apele siriene.", "Fortăreața a fost folosită ca închisoare chiar și în secolul al XX-lea."],
       en: ["Arwad is the only inhabited island in Syrian waters.", "The fortress was used as a prison well into the 20th century."]
-    }
-  },
+    }, image: "/poi-images/arwad-citadel-landmarks-v2.webp"},
   {
     id: "hejaz-railway-station-landmarks-v2",
     type: "landmark",
@@ -209,8 +195,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["1917-ben készült el neo-iszlám stílusban.", "A Hedzsasz-vasút Damaszkuszt hivatott összekötni a medinai szent helyekkel."],
       ro: ["A fost finalizată în 1917 în stil neo-islamic.", "Calea ferată Hejaz avea scopul de a conecta Damascul cu locurile sfinte din Medina."],
       en: ["It was completed in 1917 in a neo-Islamic style.", "The Hejaz Railway was intended to connect Damascus with the holy sites in Medina."]
-    }
-  },
+    }, image: "/poi-images/hejaz-railway-station-landmarks-v2.webp"},
   {
     id: "qasr-ibn-wardan-landmarks-v2",
     type: "landmark",
@@ -223,8 +208,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["I. Justinianus császár építette védelmi vonalának részeként.", "Az egyedi vályogtéglás és bazaltos építészeti stílust erősen befolyásolta Konstantinápoly."],
       ro: ["A fost construit de împăratul Iustinian I ca parte a liniei sale de apărare.", "Stilul arhitectural unic, cu cărămizi de lut și bazalt, este puternic influențat de Constantinopol."],
       en: ["It was built by Emperor Justinian I as part of his defensive line.", "The unique architectural style of mud bricks and basalt is heavily influenced by Constantinople."]
-    }
-  },
+    }, image: "/poi-images/qasr-ibn-wardan-landmarks-v2.webp"},
   {
     id: "bab-sharqi-landmarks-v2",
     type: "landmark",
@@ -237,8 +221,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A kapu a bibliai \"Egyenes utca\" keleti végét jelöli.", "A név szó szerinti fordítása: \"Keleti kapu\"."],
       ro: ["Poarta marchează capătul estic al \"Străzii Drepte\" menționate în Biblie.", "Numele tradus literal înseamnă \"Poarta de Est\"."],
       en: ["The gate marks the eastern end of the biblical \"Straight Street\".", "The name literally translates to \"Eastern Gate\"."]
-    }
-  },
+    }, image: "/poi-images/bab-sharqi-landmarks-v2.webp"},
   {
     id: "mausoleum-of-saladin-landmarks-v2",
     type: "landmark",
@@ -251,8 +234,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A sírban két szarkofág található: egy fából és egy márványból készült.", "A márvány szarkofág II. Vilmos német császár ajándéka volt."],
       ro: ["Mormântul adăpostește două sarcofage: unul din lemn și unul din marmură.", "Sarcofagul de marmură a fost un cadou din partea împăratului german Wilhelm al II-lea."],
       en: ["The tomb houses two sarcophagi: one made of wood and one of marble.", "The marble sarcophagus was a gift from the German Emperor Wilhelm II."]
-    }
-  },
+    }, image: "/poi-images/mausoleum-of-saladin-landmarks-v2.webp"},
   {
     id: "deir-mar-musa-landmarks-v2",
     type: "landmark",
@@ -265,8 +247,7 @@ export const poiExtraSyriaLandmarksV2: POI[] = [
       hu: ["A kolostor híres a 11. és 12. századi értékes freskóiról.", "A vallásközi párbeszéd helyszíneként élesztették újjá."],
       ro: ["Mănăstirea este faimoasă pentru frescele sale prețioase din secolele al XI-lea și al XII-lea.", "A fost revitalizată ca un loc pentru dialogul interreligios."],
       en: ["The monastery is famous for its valuable frescoes from the 11th and 12th centuries.", "It was revitalized as a place for interfaith dialogue."]
-    }
-  },
+    }, image: "/poi-images/deir-mar-musa-landmarks-v2.webp"},
   {
     id: "bab-al-faraj-clock-tower-landmarks-v2",
     type: "landmark",

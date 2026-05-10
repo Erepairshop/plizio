@@ -1,0 +1,39 @@
+{
+  "lang": "ro",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pitoa-slave-market-site-history-v2",
+      "description": "Sitului vechiului târg de sclavi din Pitoa i se leagă o parte dureroasă a istoriei regionale. Locul amintește de rețelele comerciale din nordul Camerunului.",
+      "facts": ["în Pitoa", "legat de comerțul cu sclavi", "memorie istorică dureroasă"]
+    },
+    {
+      "id": "rio-dos-camaroes-discovery-history-v2",
+      "description": "Denumirea Rio dos Camarões trimite la prima reprezentare portugheză a zonei estuarului Wouri. Episodul face parte din începuturile contactului european cu coasta.",
+      "facts": ["legat de estuarul Wouri", "nume portughez istoric", "episod de contact european"]
+    },
+    {
+      "id": "fort-of-yaounde-site-history-v2",
+      "description": "Situl vechiului fort din Yaoundé păstrează memoria ocupației și a administrației coloniale. Zona este legată de primele forme de control militar în capitală.",
+      "facts": ["în Yaoundé", "sit colonial", "legat de administrația militară"]
+    },
+    {
+      "id": "saints-peter-and-paul-cathedral-history-v2",
+      "description": "Catedrala Sfinții Petru și Paul este unul dintre reperele religioase istorice ale orașului Douala. Edificiul are un loc important în viața catolică locală.",
+      "facts": ["în Douala", "catedrală catolică", "reper religios istoric"]
+    },
+    {
+      "id": "old-post-office-buea-history-v2",
+      "description": "Vechiul oficiu poștal din Buea este un vestigiu al administrației coloniale. Clădirea amintește de rolul orașului în perioada germană și britanică.",
+      "facts": ["în Buea", "clădire colonială", "legat de poșta veche"]
+    },
+    {
+      "id": "babungo-palace-history-v2",
+      "description": "Palatul din Babungo este un centru tradițional important din nord-vestul Camerunului. El păstrează simbolurile puterii locale și ale identității comunitare.",
+      "facts": ["în nord-vest", "palat tradițional", "identitate comunitară"]
+    }
+  ]
+}

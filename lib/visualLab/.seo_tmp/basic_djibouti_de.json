@@ -1,0 +1,128 @@
+{
+  "lang": "de",
+  "country": "Djibouti",
+  "files": [
+    "lib/visualLab/data/poiExtraDjiboutiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiLifeV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "medeho-cities-v2",
+      "description": "Medeho ist eine kleine Siedlung, die vor allem durch ihre Lage in einer ariden Region geprägt ist.",
+      "facts": ["Kleine Siedlung", "Aride Umgebung", "Regionaler Knotenpunkt"]
+    },
+    {
+      "id": "grand-bara-solar-industry-economic-v2",
+      "description": "Die Grand-Bara-Wüste dient als Standort für bedeutende Solarenergieprojekte zur Stromversorgung des Landes.",
+      "facts": ["Großes Solarkraftwerk", "Wüstenstandort", "Energiewende Djiboutis"]
+    },
+    {
+      "id": "pk12-industrial-zone-economic-v2",
+      "description": "Die Industriezone PK12 bei Djibouti-Stadt ist ein zentraler Umschlagplatz für Handel und Produktion.",
+      "facts": ["Industrie-Hotspot", "Logistikzentrum", "Wirtschaftsmotor"]
+    },
+    {
+      "id": "red-sea-free-trade-zone-economic-v2",
+      "description": "Diese Freihandelszone am Roten Meer ist eine der größten ihrer Art auf dem afrikanischen Kontinent.",
+      "facts": ["Internationale Handelsdrehscheibe", "Direkt am Roten Meer", "Wirtschaftszentrum"]
+    },
+    {
+      "id": "damerjog-liquid-bulk-port-economic-v2",
+      "description": "Der Hafen von Damerjog ist auf den Umschlag von Flüssiggütern wie Öl spezialisiert.",
+      "facts": ["Flüssiggut-Terminal", "Spezialhafen", "Strategische Lage"]
+    },
+    {
+      "id": "ghoubbet-perlite-mine-economic-v2",
+      "description": "In der Ghoubbet-Region wird Perlit abgebaut, ein wertvolles vulkanisches Glas für industrielle Zwecke.",
+      "facts": ["Perlit-Vorkommen", "Vulkanisches Gestein", "Bergbau"]
+    },
+    {
+      "id": "hamoudi-mosque-history-v2",
+      "description": "Die Hamoudi-Moschee ist ein zentrales religiöses und historisches Gebäude im Herzen von Djibouti-Stadt.",
+      "facts": ["Historische Architektur", "Religiöses Zentrum", "Stadtmarke"]
+    },
+    {
+      "id": "obock-residency-history-v2",
+      "description": "Das historische Gebäude in Obock diente während der französischen Kolonialzeit als offizielle Residenz.",
+      "facts": ["Kolonialgeschichte", "Ehemalige Residenz", "Obock-Standort"]
+    },
+    {
+      "id": "gaerten-von-bankouale-life-v2",
+      "description": "Die Gärten von Bankouale bieten in den Goda-Bergen eine grüne Oase für den lokalen Gartenbau.",
+      "facts": ["Oase in den Bergen", "Gartenbau", "Kühle Höhenlage"]
+    },
+    {
+      "id": "vogelschutzgebiet-khor-angar-life-v2",
+      "description": "Khor Angar ist ein wichtiges Schutzgebiet für Zugvögel an der Küste des Roten Meeres.",
+      "facts": ["Vogelschutz", "Mangroven-Lebensraum", "Rotes Meer"]
+    },
+    {
+      "id": "obstgaerten-von-randa-life-v2",
+      "description": "In den Obstgärten von Randa wird dank des milderen Gebirgsklimas vielfältiges Obst kultiviert.",
+      "facts": ["Gebirgsklima", "Obstbau", "Lokale Landwirtschaft"]
+    },
+    {
+      "id": "palmenhaine-von-loyada-life-v2",
+      "description": "Die Palmenhaine von Loyada säumen die Küstenzone nahe der Grenze zu Somalia.",
+      "facts": ["Palmenhain", "Grenzregion", "Küstenzone"]
+    },
+    {
+      "id": "hochland-farmen-von-arta-life-v2",
+      "description": "Die Farmen auf dem Hochland von Arta profitieren von etwas kühleren Temperaturen als im Tiefland.",
+      "facts": ["Hochlandlage", "Landwirtschaft", "Arta-Region"]
+    },
+    {
+      "id": "weidegruende-der-hanle-ebene-life-v2",
+      "description": "Die Hanle-Ebene bietet weitläufige Weidegründe für die nomadische Viehzucht.",
+      "facts": ["Nomaden-Weide", "Große Ebene", "Viehzucht"]
+    },
+    {
+      "id": "freizeitpark-lunite-life-v2",
+      "description": "Der Freizeitpark L'Unite in Djibouti-Stadt ist ein beliebter Erholungsort für Familien.",
+      "facts": ["Stadtpark", "Freizeitangebot", "Familientreffpunkt"]
+    },
+    {
+      "id": "bienenwirtschaft-im-goda-gebirge-life-v2",
+      "description": "Die Bienenzucht in den Goda-Bergen produziert hochwertigen Honig aus Bergblüten.",
+      "facts": ["Imkerei", "Honigproduktion", "Goda-Berge"]
+    },
+    {
+      "id": "wildtiere-der-allols-senke-life-v2",
+      "description": "Die Allols-Senke beherbergt eine einzigartige Fauna, die an das trockene Klima angepasst ist.",
+      "facts": ["Wüstenfauna", "Einzigartige Arten", "Allols-Senke"]
+    },
+    {
+      "id": "seevogelkolonie-von-doumera-life-v2",
+      "description": "Doumera ist bekannt für seine bedeutenden Brutkolonien von Seevögeln entlang der Küste.",
+      "facts": ["Brutgebiet", "Seevögel", "Küstennatur"]
+    },
+    {
+      "id": "gaggade-becken-relief-v2",
+      "description": "Das Gaggade-Becken ist eine geologisch interessante Senke mit weiten, flachen Ebenen.",
+      "facts": ["Geologische Senke", "Flache Ebene", "Wüstenrelief"]
+    },
+    {
+      "id": "boura-gebirgsmassiv-relief-v2",
+      "description": "Das Boura-Massiv erhebt sich markant über die umliegenden Wüstenlandschaften.",
+      "facts": ["Gebirgsmassiv", "Markante Erhebung", "Felslandschaft"]
+    },
+    {
+      "id": "dakhatou-huegel-relief-v2",
+      "description": "Die Dakhatou-Hügel bilden eine sanfte Hügellandschaft im Hinterland von Djibouti.",
+      "facts": ["Hügellandschaft", "Sanfte Erhebungen", "Hinterland"]
+    },
+    {
+      "id": "mount-borawli-relief-v2",
+      "description": "Der Mount Borawli ist eine markante vulkanische Erhebung in der Nähe der äthiopischen Grenze.",
+      "facts": ["Vulkanischer Berg", "Grenzregion", "Markanter Gipfel"]
+    },
+    {
+      "id": "yaguer-hochland-relief-v2",
+      "description": "Das Yaguer-Hochland prägt mit seinen Plateaus das Relief im Nordwesten des Landes.",
+      "facts": ["Plateau-Landschaft", "Hochland", "Geografie"]
+    }
+  ]
+}

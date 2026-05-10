@@ -18,8 +18,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Az ország legmagasabb pontja", "A Drakensberg-hegység része"],
       ro: ["Cel mai înalt punct al țării", "Face parte din Munții Dragonului"],
       en: ["Highest point in the country", "Part of the Drakensberg range"]
-    }
-  },
+    }, image: "/poi-images/emlembe-nature-v2.webp"},
   {
     id: "sibebe-rock-nature-v2",
     type: "mountain",
@@ -37,8 +36,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["A világ második legnagyobb monolitja", "Népszerű túracélpont"],
       ro: ["Al doilea cel mai mare monolit din lume", "Destinație populară pentru drumeții"],
       en: ["Second largest monolith in the world", "Popular destination for hikers"]
-    }
-  },
+    }, image: "/poi-images/sibebe-rock-nature-v2.webp"},
   {
     id: "lusutfu-river-nature-v2",
     type: "river",
@@ -56,8 +54,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Eswatini leghosszabb folyója", "Fontos a mezőgazdaság számára"],
       ro: ["Cel mai lung râu din Eswatini", "Important pentru agricultură"],
       en: ["Longest river in Eswatini", "Important for agriculture"]
-    }
-  },
+    }, image: "/poi-images/lusutfu-river-nature-v2.webp"},
   {
     id: "komati-river-nature-v2",
     type: "river",
@@ -75,8 +72,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["A Maguga-víztározót táplálja", "Gazdag biodiverzitású"],
       ro: ["Alimentează barajul Maguga", "Bogat în biodiversitate"],
       en: ["Feeds the Maguga Dam", "Rich in biodiversity"]
-    }
-  },
+    }, image: "/poi-images/komati-river-nature-v2.webp"},
   {
     id: "mbuluzi-river-nature-v2",
     type: "river",
@@ -94,8 +90,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["A Mlawula rezervátumon folyik át", "Fontos a cukornádtermesztéshez"],
       ro: ["Curge prin rezervația Mlawula", "Important pentru trestia de zahăr"],
       en: ["Flows through Mlawula Reserve", "Important for sugar cane farming"]
-    }
-  },
+    }, image: "/poi-images/mbuluzi-river-nature-v2.webp"},
   {
     id: "ngwempisi-river-nature-v2",
     type: "river",
@@ -113,8 +108,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Híres a Ngwempisi-szurdokról", "Ideális az ökoturizmus számára"],
       ro: ["Faimos pentru cheile Ngwempisi", "Ideal pentru ecoturism"],
       en: ["Famous for the Ngwempisi Gorge", "Ideal for ecotourism"]
-    }
-  },
+    }, image: "/poi-images/ngwempisi-river-nature-v2.webp"},
   {
     id: "mkondo-river-nature-v2",
     type: "river",
@@ -132,8 +126,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Dél fő folyója", "Számos madárfaj élőhelye"],
       ro: ["Râul principal din sud", "Habitat pentru multe specii de păsări"],
       en: ["Main river in the south", "Habitat for many bird species"]
-    }
-  },
+    }, image: "/poi-images/mkondo-river-nature-v2.webp"},
   {
     id: "maguga-dam-nature-v2",
     type: "lake",
@@ -189,8 +182,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Vízerőmű működik itt", "Zöld dombok veszik körül"],
       ro: ["Centrală hidroelectrică locală", "Înconjurat de dealuri verzi"],
       en: ["Hydroelectric power station on site", "Surrounded by green hills"]
-    }
-  },
+    }, image: "/poi-images/luphohlo-dam-nature-v2.webp"},
   {
     id: "sand-river-dam-nature-v2",
     type: "lake",
@@ -208,8 +200,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Létfontosságú az agrárszektor számára", "Sok vízimadarat vonz"],
       ro: ["Vital pentru sectorul agricol", "Atrage multe păsări de apă"],
       en: ["Vital for the agricultural sector", "Attracts many water birds"]
-    }
-  },
+    }, image: "/poi-images/sand-river-dam-nature-v2.webp"},
   {
     id: "lubombo-mountains-nature-v2",
     type: "mountain",
@@ -227,8 +218,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Mozambikkal határos", "Gazdag endemikus növényekben"],
       ro: ["Se învecinează cu Mozambic", "Bogat în plante endemice"],
       en: ["Borders Mozambique", "Rich in endemic plants"]
-    }
-  },
+    }, image: "/poi-images/lubombo-mountains-nature-v2.webp"},
   {
     id: "shewula-forest-nature-v2",
     type: "forest",
@@ -246,8 +236,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Első ökoturisztikai projekt", "Nagyszerű kilátás a síkságra"],
       ro: ["Primul proiect de ecoturism", "Vedere excelentă asupra câmpiei"],
       en: ["First ecotourism project", "Great views of the plains"]
-    }
-  },
+    }, image: "/poi-images/shewula-forest-nature-v2.webp"},
   {
     id: "malolotja-mountains-nature-v2",
     type: "mountain",
@@ -265,8 +254,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["A világ legősibb hegyei", "A túrázók paradicsoma"],
       ro: ["Cei mai vechi munți din lume", "Paradis pentru drumeți"],
       en: ["Oldest mountains in the world", "Paradise for hikers"]
-    }
-  },
+    }, image: "/poi-images/malolotja-mountains-nature-v2.webp"},
   {
     id: "hlane-forest-nature-v2",
     type: "forest",
@@ -303,8 +291,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Ritka növényfajok", "A Lubombo-hegység lábánál"],
       ro: ["Specii de plante rare", "La poalele munților Lubombo"],
       en: ["Rare plant species", "At the foot of the Lubombo Mountains"]
-    }
-  },
+    }, image: "/poi-images/mlawula-forest-nature-v2.webp"},
   {
     id: "mantenga-falls-nature-v2",
     type: "river",
@@ -341,8 +328,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Festői kaskádok", "Természetvédelmi terület közepén"],
       ro: ["Cascade pitorești", "În mijlocul unei rezervații naturale"],
       en: ["Scenic cascades", "In the middle of a nature reserve"]
-    }
-  },
+    }, image: "/poi-images/phophonyane-falls-nature-v2.webp"},
   {
     id: "malolotja-falls-nature-v2",
     type: "river",
@@ -360,8 +346,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Az ország legmagasabb vízesése", "Csak túrázással érhető el"],
       ro: ["Cea mai înaltă cascadă din țară", "Accesibilă doar prin drumeție"],
       en: ["Highest waterfall in the country", "Accessible only by hiking"]
-    }
-  },
+    }, image: "/poi-images/malolotja-falls-nature-v2.webp"},
   {
     id: "usutu-forest-nature-v2",
     type: "forest",
@@ -379,8 +364,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Fontos a faipar számára", "Mesterséges ökoszisztéma"],
       ro: ["Important pentru industria lemnului", "Ecosistem creat de om"],
       en: ["Major timber industry hub", "Man-made ecosystem"]
-    }
-  },
+    }, image: "/poi-images/usutu-forest-nature-v2.webp"},
   {
     id: "mlumati-river-nature-v2",
     type: "river",
@@ -398,8 +382,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Az Inkomati-medence része", "Fontos a helyi flóra számára"],
       ro: ["Parte a bazinului Inkomati", "Important pentru flora locală"],
       en: ["Part of the Inkomati basin", "Important for local flora"]
-    }
-  },
+    }, image: "/poi-images/mlumati-river-nature-v2.webp"},
   {
     id: "pongola-river-nature-v2",
     type: "river",
@@ -417,8 +400,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Déli határfolyó", "Népszerű a tigrishal-horgászat számára"],
       ro: ["Râu de frontieră în sud", "Popular pentru pescuitul de pește tigru"],
       en: ["Southern border river", "Popular for tiger fishing"]
-    }
-  },
+    }, image: "/poi-images/pongola-river-nature-v2.webp"},
   {
     id: "ngwenya-mountain-nature-v2",
     type: "mountain",
@@ -436,8 +418,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["A legősibb bánya helyszíne", "Vasércben gazdag"],
       ro: ["Locația celei mai vechi mine", "Bogat în minereu de fier"],
       en: ["Site of the oldest mine", "Rich in iron ore"]
-    }
-  },
+    }, image: "/poi-images/ngwenya-mountain-nature-v2.webp"},
   {
     id: "mlilwane-forest-nature-v2",
     type: "forest",
@@ -455,8 +436,7 @@ export const poiExtraSwazilandNatureV2: POI[] = [
       hu: ["Az ország első védett területe", "Számos őshonos faj otthona"],
       ro: ["Prima zonă protejată a țării", "Găzduiește multe specii native"],
       en: ["First protected area in the country", "Home to many native species"]
-    }
-  },
+    }, image: "/poi-images/mlilwane-forest-nature-v2.webp"},
   {
     id: "mahamba-gorge-nature-v2",
     type: "river",

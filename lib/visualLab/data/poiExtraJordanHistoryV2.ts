@@ -39,8 +39,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Famous for its advanced water management systems.",
         "The Treasury (Al-Khazneh) is its most iconic structure."
       ]
-    }
-  },
+    }, image: "/poi-images/petra-history-v2.webp"},
   {
     id: "jerash-history-v2",
     type: "ruin",
@@ -79,8 +78,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "The oval Forum is unique in Roman architecture.",
         "The Temple of Artemis dominated the ancient skyline."
       ]
-    }
-  },
+    }, image: "/poi-images/jerash-history-v2.webp"},
   {
     id: "amman-citadel-history-v2",
     type: "historical-site",
@@ -119,8 +117,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "The Umayyad Palace dates back to the 8th century.",
         "The hill has been continuously inhabited since the Bronze Age."
       ]
-    }
-  },
+    }, image: "/poi-images/amman-citadel-history-v2.webp"},
   {
     id: "roman-theater-amman-history-v2",
     type: "monument",
@@ -159,8 +156,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Its north-facing orientation kept spectators out of the direct sun.",
         "Still used today for cultural events and concerts."
       ]
-    }
-  },
+    }, image: "/poi-images/roman-theater-amman-history-v2.webp"},
   {
     id: "ajloun-castle-history-v2",
     type: "historical-site",
@@ -199,8 +195,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Controlled the iron ore mines of Ajloun.",
         "Was damaged by the Mongols in 1260."
       ]
-    }
-  },
+    }, image: "/poi-images/ajloun-castle-history-v2.webp"},
   {
     id: "kerak-castle-history-v2",
     type: "historical-site",
@@ -239,8 +234,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Played a crucial role during the Crusades.",
         "Fell to Saladin in 1189 after a long siege."
       ]
-    }
-  },
+    }, image: "/poi-images/kerak-castle-history-v2.webp"},
   {
     id: "mount-nebo-history-v2",
     type: "historical-site",
@@ -279,8 +273,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Houses the remains of a Byzantine church.",
         "Famous for its beautifully preserved ancient mosaics."
       ]
-    }
-  },
+    }, image: "/poi-images/mount-nebo-history-v2.webp"},
   {
     id: "madaba-map-history-v2",
     type: "historical-site",
@@ -319,8 +312,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Shows details like fish in the Jordan River and boats on the Dead Sea.",
         "Rediscovered in 1884 during the construction of a new church."
       ]
-    }
-  },
+    }, image: "/poi-images/madaba-map-history-v2.webp"},
   {
     id: "quseir-amra-history-v2",
     type: "monument",
@@ -359,8 +351,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Frescoes depict hunting scenes and zodiac constellations.",
         "Has been a UNESCO World Heritage Site since 1985."
       ]
-    }
-  },
+    }, image: "/poi-images/quseir-amra-history-v2.webp"},
   {
     id: "shobak-castle-history-v2",
     type: "historical-site",
@@ -399,8 +390,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Originally named Montreal or Mons Regalis.",
         "Fell to Saladin in 1189 after an 18-month siege."
       ]
-    }
-  },
+    }, image: "/poi-images/shobak-castle-history-v2.webp"},
   {
     id: "umm-qais-history-v2",
     type: "ruin",
@@ -439,8 +429,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Features a striking amphitheater built from black basalt.",
         "Was an intellectual hub during the classical period."
       ]
-    }
-  },
+    }, image: "/poi-images/umm-qais-history-v2.webp"},
   {
     id: "pella-history-v2",
     type: "ruin",
@@ -479,8 +468,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Served as a refuge for early Christians during the Jewish-Roman wars.",
         "Features Canaanite temples and early Islamic residential areas."
       ]
-    }
-  },
+    }, image: "/poi-images/pella-history-v2.webp"},
   {
     id: "qasr-kharana-history-v2",
     type: "historical-site",
@@ -519,8 +507,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Despite arrow slits, it was not designed for military use.",
         "Probably served as a caravanserai or a meeting place for Bedouin leaders."
       ]
-    }
-  },
+    }, image: "/poi-images/qasr-kharana-history-v2.webp"},
   {
     id: "qasr-azraq-history-v2",
     type: "historical-site",
@@ -559,8 +546,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "The fort is strategically located near the Azraq Oasis.",
         "A massive stone door at the fort still operates today."
       ]
-    }
-  },
+    }, image: "/poi-images/qasr-azraq-history-v2.webp"},
   {
     id: "machaerus-history-v2",
     type: "ruin",
@@ -599,8 +585,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Destroyed and subsequently rebuilt by Herod the Great.",
         "The last Jewish fortress to fall to the Romans in 72 AD."
       ]
-    }
-  },
+    }, image: "/poi-images/machaerus-history-v2.webp"},
   {
     id: "al-maghtas-history-v2",
     type: "historical-site",
@@ -639,8 +624,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Archaeological finds include Byzantine monasteries and baptism pools.",
         "Also known as Bethabara or Bethany Beyond the Jordan."
       ]
-    }
-  },
+    }, image: "/poi-images/al-maghtas-history-v2.webp"},
   {
     id: "umm-ar-rasas-history-v2",
     type: "ruin",
@@ -679,8 +663,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "The mosaic in the Church of St. Stephen perfectly depicts major regional cities.",
         "A stylized tower nearby once housed an ascetic stylite monk."
       ]
-    }
-  },
+    }, image: "/poi-images/umm-ar-rasas-history-v2.webp"},
   {
     id: "aqaba-fort-history-v2",
     type: "historical-site",
@@ -719,8 +702,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Captured by forces led by T.E. Lawrence in a surprise landward attack.",
         "The Hashemite coat of arms is placed above the entrance."
       ]
-    }
-  },
+    }, image: "/poi-images/aqaba-fort-history-v2.webp"},
   {
     id: "temple-of-hercules-amman-history-v2",
     type: "ruin",
@@ -759,8 +741,7 @@ export const poiExtraJordanHistoryV2: POI[] = [
         "Fragments of a colossal marble hand were discovered at the site.",
         "Likely left unfinished due to a major earthquake in the region."
       ]
-    }
-  },
+    }, image: "/poi-images/temple-of-hercules-amman-history-v2.webp"},
   {
     id: "yarmouk-battlefield-history-v2",
     type: "battlefield",

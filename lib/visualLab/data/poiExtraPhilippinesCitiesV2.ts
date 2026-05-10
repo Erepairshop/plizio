@@ -18,8 +18,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A spanyolok alapították 1571-ben.", "A világ legsűrűbben lakott városa.", "Az Intramuros történelmi negyed otthona.", "Ázsia egyik legrégebbi egyetemi központja."],
       ro: ["Fondată de spanioli în 1571.", "Cel mai dens populat oraș din lume.", "Găzduiește cartierul istoric Intramuros.", "Unul dintre cele mai vechi centre universitare din Asia."],
       en: ["Founded by the Spanish in 1571.", "The most densely populated city proper in the world.", "Home to the historic walled area of Intramuros.", "One of the oldest university centers in Asia."]
-    }
-  },
+    }, image: "/poi-images/ph-manila-cities-v2.webp"},
   {
     id: "ph-quezon-city-cities-v2",
     type: "city",
@@ -37,8 +36,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Manuel L. Quezon után kapta a nevét.", "Főváros volt 1948 és 1976 között.", "A képviselőház székhelye.", "A legnagyobb tévécsatornák központja."],
       ro: ["Numit după Manuel L. Quezon.", "Capitală între 1948 și 1976.", "Sediul Camerei Reprezentanților.", "Găzduiește rețelele majore de televiziune."],
       en: ["Named after Manuel L. Quezon.", "Served as the capital from 1948 to 1976.", "Seat of the House of Representatives.", "Home to major television broadcasting networks."]
-    }
-  },
+    }, image: "/poi-images/ph-quezon-city-cities-v2.webp"},
   {
     id: "ph-davao-city-cities-v2",
     type: "city",
@@ -56,8 +54,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A durián fővárosa néven ismert.", "Az Apo-hegy a közelben található.", "Fontos orchideatermesztő központ.", "Szigorú helyi törvényei vannak."],
       ro: ["Cunoscut drept Capitala Durianului.", "Muntele Apo este situat în apropiere.", "Un centru pentru cultivarea orhideelor.", "Are legi locale stricte."],
       en: ["Known as the Durian Capital.", "Mount Apo is located nearby.", "A major center for orchid cultivation.", "Has strict local order laws."]
-    }
-  },
+    }, image: "/poi-images/ph-davao-city-cities-v2.webp"},
   {
     id: "ph-cebu-city-cities-v2",
     type: "city",
@@ -75,8 +72,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["1565-ben alapították.", "A híres Magellán-kereszt otthona.", "A legfontosabb belföldi hajózási kikötő.", "Híres a Sinulog fesztiválról."],
       ro: ["Fondat în anul 1565.", "Găzduiește faimoasa Cruce a lui Magellan.", "Principalul port intern de transport maritim.", "Cunoscut pentru festivalul Sinulog."],
       en: ["Founded in the year 1565.", "Home to the famous Magellan's Cross.", "The most important domestic shipping port.", "Known for the Sinulog Festival."]
-    }
-  },
+    }, image: "/poi-images/ph-cebu-city-cities-v2.webp"},
   {
     id: "ph-zamboanga-city-cities-v2",
     type: "city",
@@ -94,8 +90,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Ázsia latin városa néven ismert.", "Itt található a Fort Pilar erőd.", "Híres a színes vinta csónakokról.", "Kiváló minőségű tengeri füvet termel."],
       ro: ["Supranumit Orașul latin al Asiei.", "Aici se află fortăreața Fort Pilar.", "Faimos pentru bărcile colorate vinta.", "Produce alge marine de înaltă calitate."],
       en: ["Dubbed as Asia's Latin City.", "The Fort Pilar shrine is located here.", "Famous for the colorful vinta boats.", "Produces high-quality seaweed."]
-    }
-  },
+    }, image: "/poi-images/ph-zamboanga-city-cities-v2.webp"},
   {
     id: "ph-antipolo-cities-v2",
     type: "city",
@@ -113,8 +108,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Híres az antipolói katedrálisról.", "Panorámás kilátást nyújt Metro Manilára.", "Híres a kesudiójáról.", "Népszerű nyári menedékhely."],
       ro: ["Cunoscut pentru Catedrala din Antipolo.", "Oferă o vedere panoramică asupra Metro Manila.", "Faimos pentru nucile caju.", "Un refugiu popular de vară."],
       en: ["Known for the Antipolo Cathedral.", "Offers a panoramic view of Metro Manila.", "Famous for cashew nuts.", "A popular retreat during the summer."]
-    }
-  },
+    }, image: "/poi-images/ph-antipolo-cities-v2.webp"},
   {
     id: "ph-pasig-cities-v2",
     type: "city",
@@ -132,8 +126,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Az Ortigas Center otthona.", "A Pasig-folyó folyik át a városon.", "A Fülöp-szigetek egyik legrégebbi települése.", "Korábban Rizal tartomány fővárosa volt."],
       ro: ["Găzduiește Ortigas Center.", "Râul Pasig traversează orașul.", "Una dintre cele mai vechi așezări din Filipine.", "Fostă capitală a provinciei Rizal."],
       en: ["Home to the Ortigas Center business district.", "The Pasig River flows through the city.", "One of the oldest towns in the Philippines.", "Formerly the capital of Rizal province."]
-    }
-  },
+    }, image: "/poi-images/ph-pasig-cities-v2.webp"},
   {
     id: "ph-taguig-cities-v2",
     type: "city",
@@ -170,8 +163,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Az arany barátság városa néven ismert.", "Népszerű rafting célpont.", "Logisztikai csomópont Mindanao szigetén.", "Gyorsan növekvő szolgáltatóközpont iparág."],
       ro: ["Numit Orașul prieteniei de aur.", "O destinație populară pentru rafting.", "Un hub logistic în Mindanao.", "Industrie BPO în creștere rapidă."],
       en: ["Known as the City of Golden Friendship.", "A popular destination for whitewater rafting.", "A major logistics hub in Mindanao.", "Has a rapidly growing BPO industry."]
-    }
-  },
+    }, image: "/poi-images/ph-cagayan-de-oro-cities-v2.webp"},
   {
     id: "ph-paranaque-cities-v2",
     type: "city",
@@ -189,8 +181,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Az Entertainment City otthona.", "Itt van az ország egyik legnagyobb plázája.", "A Baclaran templomról ismert.", "Eredetileg sókészítők központja volt."],
       ro: ["Găzduiește Entertainment City.", "Are unul dintre cele mai mari mall-uri.", "Cunoscut pentru Biserica Baclaran.", "Inițial un centru pentru producătorii de sare."],
       en: ["Home to the Entertainment City strip.", "Hosts one of the largest malls in the country.", "Famous for the Baclaran National Shrine.", "Originally a center of trade for salt makers."]
-    }
-  },
+    }, image: "/poi-images/ph-paranaque-cities-v2.webp"},
   {
     id: "ph-dasmarinas-cities-v2",
     type: "city",
@@ -208,8 +199,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Cavite legnépesebb városa.", "Cavite egyetemi fővárosaként ismert.", "Erősen urbanizált település.", "Egy spanyol kormányzóról kapta a nevét."],
       ro: ["Cel mai mare oraș din Cavite.", "Cunoscut ca orașul universitar din Cavite.", "O comunitate puternic urbanizată.", "Numit după un guvernator spaniol."],
       en: ["Largest city in Cavite by population.", "Known as the University Capital of Cavite.", "A highly urbanized community.", "Named after a Spanish Governor-General."]
-    }
-  },
+    }, image: "/poi-images/ph-dasmarinas-cities-v2.webp"},
   {
     id: "ph-valenzuela-cities-v2",
     type: "city",
@@ -227,8 +217,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Metro Manila ipari központja.", "Pio Valenzuela után kapta a nevét.", "Dinamikus gyári szektoráról ismert.", "Korábban Bulacan tartomány része volt."],
       ro: ["Centrul industrial al Metro Manila.", "Numit după Pio Valenzuela.", "Cunoscut pentru sectorul său fabricii dinamic.", "Făcea parte anterior din provincia Bulacan."],
       en: ["Industrial hub of Metro Manila.", "Named after Pio Valenzuela.", "Known for its vibrant factory sector.", "Formerly part of Bulacan province."]
-    }
-  },
+    }, image: "/poi-images/ph-valenzuela-cities-v2.webp"},
   {
     id: "ph-bacoor-cities-v2",
     type: "city",
@@ -246,8 +235,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Cavite kapuja Manila felől.", "Kagylóiparáról (tahong) ismert.", "A Zapote-hídi csata helyszíne.", "2012-ben kapott városi rangot."],
       ro: ["Poarta către Cavite dinspre Manila.", "Cunoscut pentru industria scoicilor.", "Locul Bătăliei de la Podul Zapote.", "A devenit oraș în 2012."],
       en: ["Gateway to Cavite from Metro Manila.", "Known for its tahong (mussel) industry.", "Site of the Battle of Zapote Bridge.", "Became a city in 2012."]
-    }
-  },
+    }, image: "/poi-images/ph-bacoor-cities-v2.webp"},
   {
     id: "ph-general-santos-cities-v2",
     type: "city",
@@ -265,8 +253,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A Fülöp-szigetek tonhal-fővárosa.", "Manny Pacquiao szülővárosa.", "Az ország legdélebbi nagyvárosa.", "Jelentős kereskedelmi repülőtérrel rendelkezik."],
       ro: ["Capitala tonului din Filipine.", "Orașul natal al lui Manny Pacquiao.", "Cel mai sudic oraș major din țară.", "Deține un aeroport comercial important."],
       en: ["Tuna Capital of the Philippines.", "Hometown of boxer Manny Pacquiao.", "Southernmost major city in the country.", "Boasts a major commercial airport."]
-    }
-  },
+    }, image: "/poi-images/ph-general-santos-cities-v2.webp"},
   {
     id: "ph-las-pinas-cities-v2",
     type: "city",
@@ -284,8 +271,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A világhírű bambuszorgona otthona.", "Történelmi sólepárlóiról ismert.", "Hagyományos jeepney-ket gyártanak itt.", "Itt rendezik a Vízililiom fesztivált."],
       ro: ["Găzduiește faimoasa orgă de bambus.", "Cunoscut pentru bazinele istorice de sare.", "Fabrică jeepney-uri tradiționale.", "Găzduiește Festivalul Nuferilor."],
       en: ["Home to the world-famous Bamboo Organ.", "Known for its historic salt beds.", "Manufactures traditional jeepneys.", "Hosts an annual Water Lily Festival."]
-    }
-  },
+    }, image: "/poi-images/ph-las-pinas-cities-v2.webp"},
   {
     id: "ph-makati-cities-v2",
     type: "city",
@@ -303,8 +289,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A Fülöp-szigetek pénzügyi központja.", "A fülöp-szigeteki tőzsde székhelye.", "Itt a legmagasabb a multinacionális cégek sűrűsége.", "Az Ayala Avenue az ország Wall Streetje."],
       ro: ["Centrul financiar al Filipinelor.", "Sediul Bursei de Valori din Filipine.", "Cea mai mare concentrare de firme multinaționale.", "Ayala Avenue este Wall Street-ul țării."],
       en: ["Financial center of the Philippines.", "Home to the Philippine Stock Exchange.", "Highest concentration of multinational corporations.", "Known for Ayala Avenue, the local Wall Street."]
-    }
-  },
+    }, image: "/poi-images/ph-makati-cities-v2.webp"},
   {
     id: "ph-bacolod-cities-v2",
     type: "city",
@@ -322,8 +307,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A mosolyok városaként ismert.", "Híres a MassKara fesztiválról.", "A helyi piaya édességről ismert.", "A fülöp-szigeteki cukoripar történelmi központja."],
       ro: ["Cunoscut ca Orașul Zâmbetelor.", "Faimos pentru Festivalul MassKara.", "Cunoscut pentru delicatesa locală piaya.", "Centrul istoric al industriei zahărului."],
       en: ["Known as the City of Smiles.", "Famous for the MassKara Festival.", "Known for its local delicacy, piaya.", "Historic center of the Philippine sugar industry."]
-    }
-  },
+    }, image: "/poi-images/ph-bacolod-cities-v2.webp"},
   {
     id: "ph-muntinlupa-cities-v2",
     type: "city",
@@ -341,8 +325,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A Fülöp-szigetek smaragdvárosa.", "A New Bilibid börtön otthona.", "Itt található az Ayala Alabang Village.", "A Laguna de Bay-jel határos."],
       ro: ["Orașul de Smarald al Filipinelor.", "Găzduiește închisoarea New Bilibid.", "Include satul luxos Ayala Alabang.", "Mărginit de Laguna de Bay."],
       en: ["Emerald City of the Philippines.", "Home to the New Bilibid Prison.", "Houses the affluent Ayala Alabang Village.", "Bordered by Laguna de Bay."]
-    }
-  },
+    }, image: "/poi-images/ph-muntinlupa-cities-v2.webp"},
   {
     id: "ph-san-jose-del-monte-cities-v2",
     type: "city",
@@ -360,8 +343,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Bulacan legnépesebb városa.", "A metropolisz erkélye néven ismert.", "Számos áttelepülési terület otthona.", "Itt található a festői Balagbag-hegy."],
       ro: ["Cel mai populat oraș din Bulacan.", "Balconul Metropolei.", "Găzduiește numeroase zone de relocare.", "Prezintă pitorescul Munte Balagbag."],
       en: ["Largest city in Bulacan by population.", "Known as the Balcony of the Metropolis.", "Home to numerous resettlement areas.", "Features the scenic Mount Balagbag."]
-    }
-  },
+    }, image: "/poi-images/ph-san-jose-del-monte-cities-v2.webp"},
   {
     id: "ph-marikina-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A Fülöp-szigetek cipőfővárosa.", "Egy hatalmas cipőmúzeum található itt.", "Szigorú köztisztasági rendeleteiről ismert.", "Hegyláncok közötti völgyben fekszik."],
       ro: ["Capitala încălțămintei din Filipine.", "Găzduiește un muzeu masiv al pantofilor.", "Cunoscut pentru regulile stricte de curățenie.", "Situat într-o vale între lanțuri muntoase."],
       en: ["Shoe Capital of the Philippines.", "Hosts a massive shoe museum.", "Known for strict cleanliness ordinances.", "Located in a valley between mountain ranges."]
-    }
-  },
+    }, image: "/poi-images/ph-marikina-cities-v2.webp"},
   {
     id: "ph-iloilo-city-cities-v2",
     type: "city",
@@ -398,8 +379,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A szerelem városának is nevezik.", "Híres a Dinagyang fesztiválról.", "Régi spanyol templomairól ismert.", "A Nyugat-Visayas régió központja."],
       ro: ["Numit Orașul Iubirii.", "Faimos pentru Festivalul Dinagyang.", "Cunoscut pentru vechile biserici spaniole.", "Un centru regional în Western Visayas."],
       en: ["Known as the City of Love.", "Famous for the Dinagyang Festival.", "Known for its heritage Spanish colonial churches.", "A regional center of Western Visayas."]
-    }
-  },
+    }, image: "/poi-images/ph-iloilo-city-cities-v2.webp"},
   {
     id: "ph-pasay-cities-v2",
     type: "city",
@@ -417,8 +397,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A Fülöp-szigetek utazási fővárosa.", "Itt található a nemzetközi repülőtér.", "Az SM Mall of Asia komplexum helyszíne.", "Eredetileg egy hercegnőről nevezték el."],
       ro: ["Capitala călătoriilor din Filipine.", "Găzduiește aeroportul internațional.", "Locația complexului SM Mall of Asia.", "Numit inițial după o prințesă."],
       en: ["The Travel Capital of the Philippines.", "Houses the Ninoy Aquino International Airport.", "Contains the SM Mall of Asia complex.", "Originally named after a princess of Namayan."]
-    }
-  },
+    }, image: "/poi-images/ph-pasay-cities-v2.webp"},
   {
     id: "ph-caloocan-cities-v2",
     type: "city",
@@ -436,8 +415,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Két földrajzi területre oszlik.", "Az ország harmadik legnépesebb városa.", "A Bonifacio-emlékműről ismert.", "Jelentős lakó- és ipari központ."],
       ro: ["Împărțit în două locații geografice.", "Al treilea cel mai populat oraș din țară.", "Cunoscut pentru Monumentul Bonifacio.", "Un hub rezidențial și industrial major."],
       en: ["Divided into two geographical locations.", "Third most populous city in the country.", "Known for the Bonifacio Monument.", "A major residential and industrial hub."]
-    }
-  },
+    }, image: "/poi-images/ph-caloocan-cities-v2.webp"},
   {
     id: "ph-angeles-city-cities-v2",
     type: "city",
@@ -455,8 +433,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A Fülöp-szigetek kulináris fővárosa.", "A volt Clark amerikai támaszpont közelében.", "Éjszakai életéről híres.", "A helyi sisig étel szülőhelye."],
       ro: ["Capitala culinară a Filipinelor.", "Aproape de fosta bază americană Clark.", "Faimos pentru viața de noapte vibrantă.", "Locul de naștere al preparatului local sisig."],
       en: ["Culinary Capital of the Philippines.", "Adjacent to the former Clark Air Base.", "Famous for its vibrant nightlife.", "Birthplace of the local dish sisig."]
-    }
-  },
+    }, image: "/poi-images/ph-angeles-city-cities-v2.webp"},
   {
     id: "ph-lapu-lapu-city-cities-v2",
     type: "city",
@@ -474,8 +451,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Teljesen a Mactan-szigeten fekszik.", "Az első fülöp-szigeteki hősről kapta nevét.", "Luxusüdülőhelyek központja.", "Itt található a Mactan-Cebu repülőtér."],
       ro: ["Situat complet pe Insula Mactan.", "Numit după primul erou filipinez.", "Centru pentru stațiuni de lux.", "Găzduiește Aeroportul Mactan-Cebu."],
       en: ["Located entirely on Mactan Island.", "Named after the first Philippine hero.", "Hub for luxury resorts and beaches.", "Houses the Mactan-Cebu International Airport."]
-    }
-  },
+    }, image: "/poi-images/ph-lapu-lapu-city-cities-v2.webp"},
   {
     id: "ph-imus-cities-v2",
     type: "city",
@@ -493,8 +469,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A Fülöp-szigetek zászló-fővárosa.", "Cavite tartomány hivatalos fővárosa.", "Az alapani csata történelmi helyszíne.", "A Wagayway fesztivál otthona."],
       ro: ["Capitala drapelului din Filipine.", "Capitala oficială a provinciei Cavite.", "Locul bătăliei istorice de la Alapan.", "Găzduiește Festivalul Wagayway."],
       en: ["Flag Capital of the Philippines.", "Official capital of Cavite province.", "Site of the historic Battle of Alapan.", "Hosts the annual Wagayway Festival."]
-    }
-  },
+    }, image: "/poi-images/ph-imus-cities-v2.webp"},
   {
     id: "ph-mandaluyong-cities-v2",
     type: "city",
@@ -512,8 +487,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A Fülöp-szigetek tigrisvárosa néven ismert.", "Itt van az Ortigas Center (Pasiggal közösen).", "A hatalmas SM Megamall otthona.", "Itt működik a Nemzeti Mentálhigiénés Központ."],
       ro: ["Cunoscut ca Orașul Tigru al Filipinelor.", "Împarte Ortigas Center cu Pasig.", "Găzduiește masivul SM Megamall.", "Conține Centrul Național pentru Sănătate Mintală."],
       en: ["Known as the Tiger City of the Philippines.", "Houses the Ortigas Center along with Pasig.", "Home to the massive SM Megamall.", "Contains the National Center for Mental Health."]
-    }
-  },
+    }, image: "/poi-images/ph-mandaluyong-cities-v2.webp"},
   {
     id: "ph-malabon-cities-v2",
     type: "city",
@@ -531,8 +505,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["Híres a Pancit Malabon ételről.", "Jól karbantartott régi házairól ismert.", "Alacsony fekvése miatt hajlamos az áradásokra.", "Történelmileg fontos halászfalu."],
       ro: ["Faimos pentru preparatul Pancit Malabon.", "Cunoscut pentru casele de patrimoniu bine conservate.", "Predispus la inundații frecvente.", "Un sat de pescari proeminent istoric."],
       en: ["Famous for the local dish Pancit Malabon.", "Known for its well-preserved heritage houses.", "Prone to frequent flooding due to low elevation.", "A historically prominent fishing village."]
-    }
-  },
+    }, image: "/poi-images/ph-malabon-cities-v2.webp"},
   {
     id: "ph-mandaue-cities-v2",
     type: "city",
@@ -550,8 +523,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       hu: ["A Fülöp-szigetek bútorfővárosa.", "Erősen urbanizált város Cebu tartományban.", "Két híd köti össze a Mactan-szigettel.", "Jelentős ipari és kereskedelmi hatalom."],
       ro: ["Capitala mobilei din Filipine.", "Oraș puternic urbanizat în provincia Cebu.", "Conectat de Insula Mactan prin două poduri.", "O putere industrială și comercială."],
       en: ["The Furniture Capital of the Philippines.", "Highly urbanized city in the Cebu province.", "Connected to Mactan Island by two bridges.", "An industrial and commercial powerhouse."]
-    }
-  },
+    }, image: "/poi-images/ph-mandaue-cities-v2.webp"},
   {
     id: "ph-baguio-cities-v2",
     type: "city",

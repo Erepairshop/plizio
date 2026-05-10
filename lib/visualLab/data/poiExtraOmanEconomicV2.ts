@@ -34,8 +34,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "One of the fastest-growing ports in the world.",
         "Features dedicated terminals for agro, petro, and general cargo."
       ]
-    }
-  },
+    }, image: "/poi-images/port-sohar-economic-v2.webp"},
   {
     id: "port-salalah-economic-v2",
     type: "port",
@@ -69,8 +68,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "A major hub for global container transshipment.",
         "Offers direct connections to markets in Asia, Europe, and Africa."
       ]
-    }
-  },
+    }, image: "/poi-images/port-salalah-economic-v2.webp"},
   {
     id: "port-duqm-economic-v2",
     type: "port",
@@ -104,8 +102,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Part of the massive Duqm Special Economic Zone (SEZAD).",
         "A key pillar in Oman's economic diversification strategy."
       ]
-    }
-  },
+    }, image: "/poi-images/port-duqm-economic-v2.webp"},
   {
     id: "port-sultan-qaboos-economic-v2",
     type: "port",
@@ -174,8 +171,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Headquarters of Petroleum Development Oman (PDO).",
         "Provides safe anchorages for giant oil tankers just offshore."
       ]
-    }
-  },
+    }, image: "/poi-images/mina-al-fahal-economic-v2.webp"},
   {
     id: "sur-industrial-city-economic-v2",
     type: "industry",
@@ -209,8 +205,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Attracts significant foreign direct investment.",
         "A major driver of regional employment in Ash Sharqiyah."
       ]
-    }
-  },
+    }, image: "/poi-images/sur-industrial-city-economic-v2.webp"},
   {
     id: "oman-lng-plant-economic-v2",
     type: "energy",
@@ -244,8 +239,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Produces millions of tons of liquefied natural gas annually.",
         "Contributes significantly to the Sultanate's export revenues."
       ]
-    }
-  },
+    }, image: "/poi-images/oman-lng-plant-economic-v2.webp"},
   {
     id: "rusayl-industrial-city-economic-v2",
     type: "industry",
@@ -349,8 +343,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Operates with one of the highest capacities in the region.",
         "Has its own captive power plant to meet massive energy demands."
       ]
-    }
-  },
+    }, image: "/poi-images/sohar-aluminium-economic-v2.webp"},
   {
     id: "salalah-free-zone-economic-v2",
     type: "trade-hub",
@@ -419,8 +412,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Offers duty-free warehousing and commercial facilities.",
         "Aims to boost the development of the local border region."
       ]
-    }
-  },
+    }, image: "/poi-images/al-mazunah-free-zone-economic-v2.webp"},
   {
     id: "khazzan-gas-field-economic-v2",
     type: "energy",
@@ -454,8 +446,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Drastically increases Oman's total natural gas production.",
         "Employs advanced horizontal drilling and fracking technologies."
       ]
-    }
-  },
+    }, image: "/poi-images/khazzan-gas-field-economic-v2.webp"},
   {
     id: "fahud-oil-field-economic-v2",
     type: "energy",
@@ -489,8 +480,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Operated by Petroleum Development Oman (PDO).",
         "One of the oldest still-producing oil fields in the Middle East."
       ]
-    }
-  },
+    }, image: "/poi-images/fahud-oil-field-economic-v2.webp"},
   {
     id: "yibal-oil-field-economic-v2",
     type: "energy",
@@ -524,8 +514,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Discovered in 1968 and remains a primary pillar of production.",
         "Utilizes complex enhanced oil recovery (EOR) techniques."
       ]
-    }
-  },
+    }, image: "/poi-images/yibal-oil-field-economic-v2.webp"},
   {
     id: "marmul-oil-field-economic-v2",
     type: "energy",
@@ -559,8 +548,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "A pioneer in using polymer flooding technology to boost extraction.",
         "Helps offset the declining production of mature fields."
       ]
-    }
-  },
+    }, image: "/poi-images/marmul-oil-field-economic-v2.webp"},
   {
     id: "mukhaizna-oil-field-economic-v2",
     type: "energy",
@@ -594,8 +582,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Transforms formerly uneconomic heavy oil into a highly profitable resource.",
         "Operated by Occidental Petroleum Oman."
       ]
-    }
-  },
+    }, image: "/poi-images/mukhaizna-oil-field-economic-v2.webp"},
   {
     id: "yanqul-copper-mine-economic-v2",
     type: "mine",
@@ -629,8 +616,7 @@ export const poiExtraOmanEconomicV2: POI[] = [
         "Connects to a millennia-old history of copper mining in the region.",
         "Part of Oman's Vision 2040 economic diversification strategy."
       ]
-    }
-  },
+    }, image: "/poi-images/yanqul-copper-mine-economic-v2.webp"},
   {
     id: "duqm-refinery-economic-v2",
     type: "industry",

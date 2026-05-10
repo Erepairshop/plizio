@@ -36,8 +36,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Founded in 782 BC as Erebuni.",
         "Features the massive Cascade complex."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-yerevan-cities-v2.webp"},
   {
     id: "armenia-gyumri-cities-v2",
     type: "city",
@@ -73,8 +72,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Severely damaged by the 1988 earthquake.",
         "Known as the cultural capital of Armenia."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-gyumri-cities-v2.webp"},
   {
     id: "armenia-vanadzor-cities-v2",
     type: "city",
@@ -110,8 +108,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Formerly known as Kirovakan.",
         "Capital of the Lori Province."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-vanadzor-cities-v2.webp"},
   {
     id: "armenia-vagharshapat-cities-v2",
     type: "city",
@@ -147,8 +144,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to the Mother See of Holy Etchmiadzin.",
         "One of the oldest continuously inhabited cities in Armenia."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-vagharshapat-cities-v2.webp"},
   {
     id: "armenia-abovyan-cities-v2",
     type: "city",
@@ -184,8 +180,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Named after the writer Khachatur Abovian.",
         "Rapidly developed during the Soviet era."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-abovyan-cities-v2.webp"},
   {
     id: "armenia-kapan-cities-v2",
     type: "city",
@@ -221,8 +216,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "A major center for copper mining.",
         "The city is shadowed by Mount Khustup."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-kapan-cities-v2.webp"},
   {
     id: "armenia-hrazdan-cities-v2",
     type: "city",
@@ -258,8 +252,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to a significant thermal power plant.",
         "Capital of the Kotayk Province."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-hrazdan-cities-v2.webp"},
   {
     id: "armenia-armavir-cities-v2",
     type: "city",
@@ -295,8 +288,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Armavir Province.",
         "Located in the fertile Ararat Plain."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-armavir-cities-v2.webp"},
   {
     id: "armenia-artashat-cities-v2",
     type: "city",
@@ -332,8 +324,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Known for its prominent winery.",
         "Founded by King Artaxias I in 176 BC."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-artashat-cities-v2.webp"},
   {
     id: "armenia-ijevan-cities-v2",
     type: "city",
@@ -369,8 +360,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Tavush Province.",
         "Known as the center of wood carving in the region."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-ijevan-cities-v2.webp"},
   {
     id: "armenia-gavar-cities-v2",
     type: "city",
@@ -406,8 +396,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Gegharkunik Province.",
         "Famous for a traditional pastry called pakhlava."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-gavar-cities-v2.webp"},
   {
     id: "armenia-goris-cities-v2",
     type: "city",
@@ -443,8 +432,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Features unique stone pyramid formations.",
         "A major stop on the road to Artsakh."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-goris-cities-v2.webp"},
   {
     id: "armenia-charentsavan-cities-v2",
     type: "city",
@@ -480,8 +468,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Named after the poet Yeghishe Charents.",
         "Grew around a major hydroelectric plant."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-charentsavan-cities-v2.webp"},
   {
     id: "armenia-ararat-cities-v2",
     type: "city",
@@ -517,8 +504,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Shares its name with the famous Mount Ararat.",
         "Founded in 1927 for cement production."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-ararat-cities-v2.webp"},
   {
     id: "armenia-masis-cities-v2",
     type: "city",
@@ -554,8 +540,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "An important hub for regional transport.",
         "Located near the left bank of the Hrazdan River."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-masis-cities-v2.webp"},
   {
     id: "armenia-ashtarak-cities-v2",
     type: "city",
@@ -591,8 +576,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Aragatsotn Province.",
         "Known for Karmravor and other ancient churches."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-ashtarak-cities-v2.webp"},
   {
     id: "armenia-sevan-cities-v2",
     type: "city",
@@ -628,8 +612,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Features the Sevanavank monastery on a peninsula.",
         "A major destination for summer tourism."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-sevan-cities-v2.webp"},
   {
     id: "armenia-artik-cities-v2",
     type: "city",
@@ -665,8 +648,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "A major center for the extraction of pink tufa.",
         "Located on the slopes of Mount Aragats."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-artik-cities-v2.webp"},
   {
     id: "armenia-dilijan-cities-v2",
     type: "city",
@@ -702,8 +684,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to the United World College Dilijan.",
         "Famous for its mineral water springs."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-dilijan-cities-v2.webp"},
   {
     id: "armenia-sisian-cities-v2",
     type: "city",
@@ -739,8 +720,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Near the ancient Zorats Karer observatory.",
         "Famous for the nearby Shaki Waterfall."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-sisian-cities-v2.webp"},
   {
     id: "armenia-alaverdi-cities-v2",
     type: "city",
@@ -776,8 +756,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Features a famous 12th-century stone bridge.",
         "The nearby Sanahin monastery is a UNESCO site."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-alaverdi-cities-v2.webp"},
   {
     id: "armenia-stepanavan-cities-v2",
     type: "city",
@@ -813,8 +792,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to the Stepanavan Dendropark.",
         "Historically known as Jalaloghli."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-stepanavan-cities-v2.webp"},
   {
     id: "armenia-spitak-cities-v2",
     type: "city",
@@ -850,8 +828,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "The epicenter of the devastating 1988 earthquake.",
         "The name Spitak means 'white' in Armenian."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-spitak-cities-v2.webp"},
   {
     id: "armenia-vardenis-cities-v2",
     type: "city",
@@ -887,8 +864,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Known for farming and livestock.",
         "Historically part of the Sotk canton."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-vardenis-cities-v2.webp"},
   {
     id: "armenia-yeghegnadzor-cities-v2",
     type: "city",
@@ -924,8 +900,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Vayots Dzor Province.",
         "Close to the historic Areni-1 cave complex."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-yeghegnadzor-cities-v2.webp"},
   {
     id: "armenia-yeghvard-cities-v2",
     type: "city",
@@ -961,8 +936,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Known for its two-story medieval church.",
         "Surrounded by fertile agricultural lands."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-yeghvard-cities-v2.webp"},
   {
     id: "armenia-martuni-cities-v2",
     type: "city",
@@ -998,8 +972,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "A major center for Lake Sevan's fishing industry.",
         "Named after the revolutionary Alexander Miasnikian."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-martuni-cities-v2.webp"},
   {
     id: "armenia-metsamor-cities-v2",
     type: "city",
@@ -1035,8 +1008,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to the Armenian Nuclear Power Plant.",
         "Features an important Bronze Age archaeological site."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-metsamor-cities-v2.webp"},
   {
     id: "armenia-tashir-cities-v2",
     type: "city",
@@ -1072,8 +1044,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Formerly known as Kalinino.",
         "Famous for producing high-quality Lori cheese."
       ]
-    }
-  },
+    }, image: "/poi-images/armenia-tashir-cities-v2.webp"},
   {
     id: "armenia-vayk-cities-v2",
     type: "city",

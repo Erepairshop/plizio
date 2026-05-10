@@ -13,8 +13,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Mintegy 500 000 négyzetkilométert fed le", "Több országon átível", "A beduinok hagyományos hazája"],
       ro: ["Acoperă aproximativ 500.000 de kilometri pătrați", "Se întinde pe mai multe țări", "Casa tradițională a beduinilor"],
       en: ["Covers about 500,000 square kilometers", "Extends across multiple countries", "Traditional home of the Bedouins"]
-    }
-  },
+    }, image: "/poi-images/syrian-desert-relief-v2.webp"},
   {
     id: "al-jazira-plateau-relief-v2",
     type: "plateau",
@@ -55,8 +54,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Magassága 1709 méter", "Az ókorban szent hegyként tisztelték", "Közvetlenül a tengerparton fekszik"],
       ro: ["Înălțime de 1.709 metri", "Venerat ca munte sfânt în antichitate", "Situat direct pe coastă"],
       en: ["Elevation of 1,709 meters", "Revered as a sacred mountain in antiquity", "Located directly on the coast"]
-    }
-  },
+    }, image: "/poi-images/jabal-al-akra-relief-v2.webp"},
   {
     id: "al-ghab-plain-relief-v2",
     type: "valley",
@@ -69,8 +67,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Eredetileg egy nagy mocsárvidék volt", "Több mint 80 kilométer hosszú", "Fontos a mezőgazdaság számára"],
       ro: ["Inițial o zonă mare de mlaștină", "Peste 80 de kilometri lungime", "Importantă pentru agricultură"],
       en: ["Originally a large swamp area", "Over 80 kilometers long", "Important for agriculture"]
-    }
-  },
+    }, image: "/poi-images/al-ghab-plain-relief-v2.webp"},
   {
     id: "kurd-dagh-relief-v2",
     type: "mountain",
@@ -83,8 +80,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Az olajbogyó-termesztésről ismert", "A Torosz-hegység része", "Számos ókori rom otthona"],
       ro: ["Cunoscut pentru cultivarea măslinelor", "Parte a Munților Taurus", "Găzduiește multe ruine antice"],
       en: ["Known for olive cultivation", "Part of the Taurus Mountains", "Home to many ancient ruins"]
-    }
-  },
+    }, image: "/poi-images/kurd-dagh-relief-v2.webp"},
   {
     id: "jabal-samaan-relief-v2",
     type: "mountain",
@@ -97,8 +93,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Legmagasabb pontja meghaladja a 800 métert", "Bizánci romok otthona", "Geológiailag a mészkő dominálja"],
       ro: ["Cel mai înalt punct depășește 800 de metri", "Găzduiește ruine bizantine", "Geologic dominat de calcar"],
       en: ["Highest point reaches over 800 meters", "Home to Byzantine ruins", "Geologically dominated by limestone"]
-    }
-  },
+    }, image: "/poi-images/jabal-samaan-relief-v2.webp"},
   {
     id: "hauran-plateau-relief-v2",
     type: "plateau",
@@ -111,8 +106,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Vulkanikus eredetű", "Egykori római provincia", "Bazaltkőzetekben gazdag"],
       ro: ["De origine vulcanică", "Fostă provincie romană", "Bogat în rocă bazaltică"],
       en: ["Of volcanic origin", "Former Roman province", "Rich in basalt rock"]
-    }
-  },
+    }, image: "/poi-images/hauran-plateau-relief-v2.webp"},
   {
     id: "al-safa-relief-v2",
     type: "plateau",
@@ -125,8 +119,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Járhatatlan terepnek számít", "Megszilárdult lávafolyamokból áll", "Kevés növényzet található itt"],
       ro: ["Considerat teren accidentat", "Alcătuit din fluxuri de lavă solidificată", "Vegetație redusă"],
       en: ["Considered rugged terrain", "Consists of solidified lava flows", "Little vegetation present"]
-    }
-  },
+    }, image: "/poi-images/al-safa-relief-v2.webp"},
   {
     id: "al-lajat-relief-v2",
     type: "plateau",
@@ -139,8 +132,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Nehezen megközelíthető terület", "Történelmileg Trachonitis néven ismert", "Geológiai akadály délen"],
       ro: ["Zonă greu accesibilă", "Cunoscută istoric ca Trachonitis", "Barieră geologică în sud"],
       en: ["Difficult to access area", "Historically known as Trachonitis", "Geological barrier in the south"]
-    }
-  },
+    }, image: "/poi-images/al-lajat-relief-v2.webp"},
   {
     id: "jabal-abu-rujmayn-relief-v2",
     type: "mountain",
@@ -153,8 +145,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Palmyrától északra található", "Sivatagi hegység", "Körülbelül 1100 méteres magasságot ér el"],
       ro: ["Situat la nord de Palmyra", "Munte de deșert", "Atinge înălțimi de aproximativ 1.100 de metri"],
       en: ["Located north of Palmyra", "Desert mountain range", "Reaches heights around 1,100 meters"]
-    }
-  },
+    }, image: "/poi-images/jabal-abu-rujmayn-relief-v2.webp"},
   {
     id: "jabal-al-bilas-relief-v2",
     type: "mountain",
@@ -167,8 +158,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Szíria központjában található", "Éghajlata száraz vagy félszáraz", "Fontos legelőterület"],
       ro: ["Situat în centrul Siriei", "Clima este aridă până la semi-aridă", "Pășune importantă"],
       en: ["Located centrally in Syria", "Climate is arid to semi-arid", "Important grazing land"]
-    }
-  },
+    }, image: "/poi-images/jabal-al-bilas-relief-v2.webp"},
   {
     id: "rouj-valley-relief-v2",
     type: "valley",
@@ -181,8 +171,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Idlib városától nyugatra található", "Nagyon termékeny talaj", "Sűrűn lakott mezőgazdasági terület"],
       ro: ["La vest de orașul Idlib", "Soluri foarte fertile", "Zonă agricolă dens populată"],
       en: ["West of the city of Idlib", "Very fertile soils", "Densely populated agricultural area"]
-    }
-  },
+    }, image: "/poi-images/rouj-valley-relief-v2.webp"},
   {
     id: "qalamoun-mountains-relief-v2",
     type: "mountain",
@@ -195,8 +184,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Legmagasabb pontja meghaladja a 2000 métert", "Damaszkuszt köti össze Közép-Szíriával", "Zord téli körülmények"],
       ro: ["Cea mai înaltă altitudine depășește 2.000 de metri", "Leagă Damascul de centrul Siriei", "Condiții de iarnă aspre"],
       en: ["Highest elevation over 2,000 meters", "Connects Damascus with central Syria", "Harsh winter conditions"]
-    }
-  },
+    }, image: "/poi-images/qalamoun-mountains-relief-v2.webp"},
   {
     id: "syrian-coast-relief-v2",
     type: "coast",
@@ -223,8 +211,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Az Ansarija-hegység legmagasabb pontja", "Magassága 1562 méter", "Télen gyakran hó borítja"],
       ro: ["Cel mai înalt punct din Munții Ansariyah", "Înălțime de 1.562 de metri", "Adesea acoperit de zăpadă iarna"],
       en: ["Highest point of the Ansariyah Mountains", "Elevation of 1,562 meters", "Often snow-capped in winter"]
-    }
-  },
+    }, image: "/poi-images/jabal-al-nabi-yunis-relief-v2.webp"},
   {
     id: "orontes-valley-relief-v2",
     type: "valley",
@@ -237,8 +224,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Fontos öntözési terület", "Régészeti lelőhelyekben gazdag", "Olyan városokat határoz meg, mint Homsz és Hamá"],
       ro: ["Zonă importantă de irigare", "Bogată în situri arheologice", "Definește orașe precum Homs și Hama"],
       en: ["Important irrigation area", "Rich in archaeological sites", "Defines cities like Homs and Hama"]
-    }
-  },
+    }, image: "/poi-images/orontes-valley-relief-v2.webp"},
   {
     id: "wadi-barada-relief-v2",
     type: "valley",
@@ -251,8 +237,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Damaszkusz legfontosabb vízforrása", "Az Antilibanon-hegységben található", "Meredek sziklák veszik körül"],
       ro: ["Cea mai importantă sursă de apă pentru Damasc", "Situat în Munții Anti-Liban", "Înconjurat de stânci abrupte"],
       en: ["Most important water source for Damascus", "Located in the Anti-Lebanon Mountains", "Surrounded by steep cliffs"]
-    }
-  },
+    }, image: "/poi-images/wadi-barada-relief-v2.webp"},
   {
     id: "jabal-al-shumariyah-relief-v2",
     type: "mountain",
@@ -265,8 +250,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       hu: ["Homsztól keletre található", "Száraz éghajlat", "Ritkán lakott régió"],
       ro: ["Situat la est de Homs", "Climă aridă", "Regiune slab populată"],
       en: ["Located east of Homs", "Arid climate", "Sparsely populated region"]
-    }
-  },
+    }, image: "/poi-images/jabal-al-shumariyah-relief-v2.webp"},
   {
     id: "jabal-al-shaar-relief-v2",
     type: "mountain",

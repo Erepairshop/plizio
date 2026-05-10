@@ -18,8 +18,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["A Föld legmélyebb pontja", "Több mint 30 százalékos sótartalom", "Nincs benne hal", "Híres a gyógyhatású iszapjáról"],
       ro: ["Cel mai jos punct de pe Pământ", "Salinitate de peste 30 la sută", "Nu există pești", "Faimoasă pentru nămolul curativ"],
       en: ["Lowest point on Earth", "Salinity over 30 percent", "No fish population", "Famous for its healing mud"]
-    }
-  },
+    }, image: "/poi-images/il-dead-sea-nature-v2.webp"},
   {
     id: "il-sea-of-galilee-nature-v2",
     type: "lake",
@@ -37,8 +36,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["A legmélyebben fekvő édesvizű tó", "Fontos helyszín az Újszövetségben", "Izrael legnagyobb ivóvíztározója", "Hegyek veszik körül"],
       ro: ["Cel mai jos lac de apă dulce", "Loc important în Noul Testament", "Cel mai mare rezervor de apă potabilă", "Înconjurat de munți"],
       en: ["Lowest freshwater lake", "Important site in the New Testament", "Israel's largest drinking water reservoir", "Surrounded by mountains"]
-    }
-  },
+    }, image: "/poi-images/il-sea-of-galilee-nature-v2.webp"},
   {
     id: "il-mount-hermon-nature-v2",
     type: "mountain",
@@ -56,8 +54,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Izrael legmagasabb hegye", "Síközponttal rendelkezik", "Fontos vízforrás", "Szíria határvidékén fekszik"],
       ro: ["Cel mai înalt munte din Israel", "Găzduiește o stațiune de schi", "Sursă importantă de apă", "La granița cu Siria"],
       en: ["Highest mountain in Israel", "Home to a ski resort", "Important water source", "On the border with Syria"]
-    }
-  },
+    }, image: "/poi-images/il-mount-hermon-nature-v2.webp"},
   {
     id: "il-jordan-river-nature-v2",
     type: "river",
@@ -75,8 +72,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["A Holt-tengerbe ömlik", "Természetes határvonal", "Több mint 250 km hosszú", "Jézus megkeresztelkedésének helye"],
       ro: ["Se varsă în Marea Moartă", "Graniță naturală", "Lungime de peste 250 km", "Locul botezului lui Iisus"],
       en: ["Empties into the Dead Sea", "Natural border", "Over 250 km long", "Site of the baptism of Jesus"]
-    }
-  },
+    }, image: "/poi-images/il-jordan-river-nature-v2.webp"},
   {
     id: "il-ein-gedi-nature-v2",
     type: "national-park",
@@ -94,8 +90,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Sivatagi oázis", "Népszerű túrahelyszín", "Kőszáli kecskék otthona", "Bibliai menedékhely"],
       ro: ["Oază în deșert", "Populară pentru drumeții", "Casa ibecșilor", "Refugiu biblic"],
       en: ["Desert oasis", "Popular for hiking", "Home to ibexes", "Biblical refuge"]
-    }
-  },
+    }, image: "/poi-images/il-ein-gedi-nature-v2.webp"},
   {
     id: "il-mount-carmel-nature-v2",
     type: "mountain",
@@ -113,8 +108,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Örökzöld növényzet", "UNESCO bioszféra-rezervátum", "Jelentős az Ószövetségben", "Egészen a tengerig ér"],
       ro: ["Vegetație veșnic verde", "Rezervație a biosferei UNESCO", "Semnificativ în Vechiul Testament", "Ajunge până la mare"],
       en: ["Evergreen vegetation", "UNESCO Biosphere Reserve", "Significant in the Old Testament", "Reaches the sea"]
-    }
-  },
+    }, image: "/poi-images/il-mount-carmel-nature-v2.webp"},
   {
     id: "il-yehudiya-forest-nature-v2",
     type: "forest",
@@ -132,8 +126,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Látványos bazaltoszlopok", "Számos vízesés", "Mély szurdokok", "Természetes medencék"],
       ro: ["Coloane spectaculoase de bazalt", "Numeroase cascade", "Defilee adânci", "Piscine naturale"],
       en: ["Spectacular basalt columns", "Numerous waterfalls", "Deep canyons", "Natural pools"]
-    }
-  },
+    }, image: "/poi-images/il-yehudiya-forest-nature-v2.webp"},
   {
     id: "il-banias-nature-v2",
     type: "national-park",
@@ -151,8 +144,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Izrael legnagyobb vízesése", "Ókori templomromok", "A Jordán folyó egyik forrása", "Buja növényzet"],
       ro: ["Cea mai mare cascadă din Israel", "Ruine ale unor temple antice", "Sursa râului Iordan", "Vegetație luxuriantă"],
       en: ["Largest waterfall in Israel", "Ancient temple ruins", "Source of the Jordan River", "Lush vegetation"]
-    }
-  },
+    }, image: "/poi-images/il-banias-nature-v2.webp"},
   {
     id: "il-yarkon-river-nature-v2",
     type: "river",
@@ -170,8 +162,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Tel-Avivon folyik keresztül", "Népszerű pihenőövezet", "A Földközi-tengerbe ömlik", "Történelmi malmok a part mentén"],
       ro: ["Curge prin Tel Aviv", "Zonă populară de recreere", "Se varsă în Marea Mediterană", "Mori istorice de-a lungul râului"],
       en: ["Flows through Tel Aviv", "Popular recreation area", "Empties into the Mediterranean Sea", "Historical mills along the river"]
-    }
-  },
+    }, image: "/poi-images/il-yarkon-river-nature-v2.webp"},
   {
     id: "il-mount-meron-nature-v2",
     type: "mountain",
@@ -189,8 +180,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Több mint 1200 méter magas", "Fontos természetvédelmi terület", "Zarándoklatok kedvelt helyszíne", "Sűrű tölgyerdők borítják"],
       ro: ["Peste 1200 de metri înălțime", "Importantă rezervație naturală", "Popular pentru pelerinaje", "Păduri dense de stejari"],
       en: ["Over 1200 meters high", "Important nature reserve", "Popular for pilgrimages", "Dense oak forests"]
-    }
-  },
+    }, image: "/poi-images/il-mount-meron-nature-v2.webp"},
   {
     id: "il-hula-valley-nature-v2",
     type: "national-park",
@@ -208,8 +198,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["A madármegfigyelők paradicsoma", "Jelentős vizes élőhelyek", "Ritka állatfajok otthona", "Sikeresen helyreállított terület"],
       ro: ["Paradis pentru ornitologi", "Zone umede importante", "Găzduiește specii rare", "Zonă renaturată cu succes"],
       en: ["Birdwatcher's paradise", "Significant wetlands", "Home to rare animal species", "Successfully restored area"]
-    }
-  },
+    }, image: "/poi-images/il-hula-valley-nature-v2.webp"},
   {
     id: "il-carmel-forest-nature-v2",
     type: "forest",
@@ -227,8 +216,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Izrael legnagyobb erdeje", "Népszerű piknikezőhely", "Kiterjedt túraútvonal-hálózat", "Vaddisznók élőhelye"],
       ro: ["Cea mai mare pădure din Israel", "Populară pentru picnicuri", "Rețea extinsă de trasee", "Habitat pentru mistreți"],
       en: ["Largest forest in Israel", "Popular for picnics", "Extensive trail network", "Habitat for wild boars"]
-    }
-  },
+    }, image: "/poi-images/il-carmel-forest-nature-v2.webp"},
   {
     id: "il-dan-river-nature-v2",
     type: "river",
@@ -246,8 +234,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["A Jordán legbővizűbb ága", "Nagyon tiszta vizű", "Sűrű növényzet a parton", "Fontos ivóvízforrás"],
       ro: ["Cel mai mare afluent al Iordanului", "Apă foarte curată", "Maluri dens împădurite", "Sursă importantă de apă potabilă"],
       en: ["Largest source of the Jordan River", "Very clean water", "Densely vegetated banks", "Important source of drinking water"]
-    }
-  },
+    }, image: "/poi-images/il-dan-river-nature-v2.webp"},
   {
     id: "il-mount-arbel-nature-v2",
     type: "mountain",
@@ -265,8 +252,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Látványos sziklafalak", "Kilátás a Galileai-tengerre", "Történelmi barlangerődök", "Népszerű túracélpont"],
       ro: ["Stânci impresionante", "Vedere spre Marea Galileei", "Cetăți rupestre istorice", "Destinație populară pentru drumeții"],
       en: ["Impressive cliffs", "View of the Sea of Galilee", "Historical cave fortresses", "Popular hiking destination"]
-    }
-  },
+    }, image: "/poi-images/il-mount-arbel-nature-v2.webp"},
   {
     id: "il-yatir-forest-nature-v2",
     type: "forest",
@@ -284,8 +270,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["A legnagyobb telepített erdő", "Védvonal a sivatag ellen", "Fák milliói alkotják", "Egy borászat is található itt"],
       ro: ["Cea mai mare pădure plantată", "Barieră împotriva deșertului", "Milioane de copaci", "Găzduiește o cramă"],
       en: ["Largest planted forest", "Bulwark against the desert", "Millions of trees", "Home to a winery"]
-    }
-  },
+    }, image: "/poi-images/il-yatir-forest-nature-v2.webp"},
   {
     id: "il-snir-stream-nature-v2",
     type: "national-park",
@@ -303,8 +288,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["A Jordán leghosszabb forrásága", "Sűrű parti növényzet", "Egész évben folyó víz", "A vízben haladó túraútvonalak"],
       ro: ["Cel mai lung afluent al Iordanului", "Vegetație riverană densă", "Apă curgătoare tot anul", "Trasee de drumeție prin apă"],
       en: ["Longest source of the Jordan River", "Dense riparian vegetation", "Year-round flowing water", "Hiking trails through the water"]
-    }
-  },
+    }, image: "/poi-images/il-snir-stream-nature-v2.webp"},
   {
     id: "il-lake-ram-nature-v2",
     type: "lake",
@@ -322,8 +306,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Vulkáni krátertó", "A Golán-fennsíkon fekszik", "Almaültetvények veszik körül", "Nincs természetes lefolyása"],
       ro: ["Lac de crater vulcanic", "Situat în Înălțimile Golan", "Înconjurat de livezi de meri", "Fără scurgere naturală"],
       en: ["Volcanic crater lake", "Located in the Golan Heights", "Surrounded by apple orchards", "No natural outlet"]
-    }
-  },
+    }, image: "/poi-images/il-lake-ram-nature-v2.webp"},
   {
     id: "il-mount-gilboa-nature-v2",
     type: "mountain",
@@ -341,8 +324,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Híres tavaszi nősziromvirágzás", "Bibliai csaták helyszíne", "Kilátás a Jezréel-völgyre", "Népszerű panorámaút"],
       ro: ["Înflorirea faimoasă a irișilor", "Locul unor bătălii biblice", "Vedere spre Valea Izreel", "Drum panoramic popular"],
       en: ["Famous iris blossom in spring", "Site of biblical battles", "Overlooks the Jezreel Valley", "Popular scenic route"]
-    }
-  },
+    }, image: "/poi-images/il-mount-gilboa-nature-v2.webp"},
   {
     id: "il-ben-shemen-forest-nature-v2",
     type: "forest",
@@ -360,8 +342,7 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Közép-Izrael zöld tüdeje", "Számos kerékpárút", "Ókori sírokat rejt", "Hétvégén nagyon népszerű"],
       ro: ["Plămânul verde al centrului Israelului", "Numeroase piste de biciclete", "Găzduiește morminte antice", "Foarte populară la sfârșit de săptămână"],
       en: ["Green lung of central Israel", "Numerous cycling trails", "Houses ancient tombs", "Very popular on weekends"]
-    }
-  },
+    }, image: "/poi-images/il-ben-shemen-forest-nature-v2.webp"},
   {
     id: "il-alexander-river-nature-v2",
     type: "river",

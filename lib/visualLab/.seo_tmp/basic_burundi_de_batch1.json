@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bujumbura-cities-v2",
+      "description": "Bujumbura liegt am Nordostufer des Tanganjikasees und ist Burundis wichtigste Hafen- und Handelsstadt. Die Stadt verbindet Seeverkehr, Verwaltung und städtisches Leben dicht am Wasser.",
+      "facts": ["am Tanganjikasee", "wichtigster Hafen", "größte Stadt des Landes"]
+    },
+    {
+      "id": "gitega-cities-v2",
+      "description": "Gitega ist die politische Hauptstadt Burundis im zentralen Hochland. Die Stadt ist zugleich ein Kultur- und Verwaltungszentrum mit ruhigerem Tempo als Bujumbura.",
+      "facts": ["politische Hauptstadt", "Zentralhochland", "königliche Tradition"]
+    },
+    {
+      "id": "muyinga-cities-v2",
+      "description": "Muyinga ist eine Regionalstadt im Nordosten Burundis. Das Umland ist landwirtschaftlich geprägt und dient als Markt für die Umgebung.",
+      "facts": ["Nordosten", "Agrarhandel", "hohe Lage"]
+    },
+    {
+      "id": "ngozi-cities-v2",
+      "description": "Ngozi ist ein wichtiges Zentrum im Norden Burundis. Die Stadt steht für Handel, Bildung und das umliegende Kaffeeanbaugebiet.",
+      "facts": ["Nordburundi", "Bildungsstandort", "Kaffeeanbau"]
+    },
+    {
+      "id": "rumonge-cities-v2",
+      "description": "Rumonge liegt direkt am Tanganjikasee und ist ein bedeutender Ort für Fischerei und Handel. Die Uferlage macht die Stadt zu einem lebendigen Knotenpunkt im Süden.",
+      "facts": ["Seeufer", "Fischerei", "südlicher Hafen"]
+    },
+    {
+      "id": "kayanza-cities-v2",
+      "description": "Kayanza liegt im nördlichen Hochland und ist stark vom Kaffee- und Teeanbau geprägt. Der Ort ist ein wichtiger Sammel- und Marktpunkt für die Region.",
+      "facts": ["Hochlandlage", "Kaffee", "Tee"]
+    },
+    {
+      "id": "bururi-cities-v2",
+      "description": "Bururi ist eine Stadt im Süden Burundis mit kühlerer Höhenlage. In der Umgebung spielen Landwirtschaft und Naturräume eine wichtige Rolle.",
+      "facts": ["südliches Hochland", "kühles Klima", "Landwirtschaft"]
+    },
+    {
+      "id": "rutana-cities-v2",
+      "description": "Rutana liegt im Südosten des Landes und ist von Hügelland und landwirtschaftlichen Flächen umgeben. Die Region ist eng mit dem Alltag kleiner Bauernbetriebe verbunden.",
+      "facts": ["Südosten", "Hügelland", "ländliche Wirtschaft"]
+    },
+    {
+      "id": "muramvya-cities-v2",
+      "description": "Muramvya ist eine traditionsreiche Stadt im zentralen Westen Burundis. Der Ort gilt als Teil des historischen Kernlandes des Landes.",
+      "facts": ["historisches Zentrum", "Zentralwesten", "ehemaliger Königssitz"]
+    },
+    {
+      "id": "makamba-cities-v2",
+      "description": "Makamba liegt nahe der tansanischen Grenze im Süden Burundis. Die Stadt ist ein regionaler Verwaltungspunkt und profitiert vom Grenzverkehr.",
+      "facts": ["Grenznähe zu Tansania", "Südburundi", "Verwaltungssitz"]
+    },
+    {
+      "id": "kirundo-cities-v2",
+      "description": "Kirundo liegt im Norden Burundis in einer Region mit Seen und Feuchtgebieten. Der Ort dient als lokales Zentrum für Handel und Versorgung.",
+      "facts": ["Nordgrenze", "Seenlandschaft", "Feuchtgebiete"]
+    },
+    {
+      "id": "bubanza-cities-v2",
+      "description": "Bubanza liegt im Nordwesten Burundis und ist ein wichtiger Ort für die Versorgung des Umlands. Die Gegend verbindet Landwirtschaft mit der Nähe zu geschützten Waldgebieten.",
+      "facts": ["Nordwesten", "Agrarzentrum", "nahe Kibira"]
+    }
+  ]
+}

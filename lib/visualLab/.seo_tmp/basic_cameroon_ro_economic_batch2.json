@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "Cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nkout-iron-deposit-economic-v2",
+      "description": "Nkout este un zăcământ important de minereu de fier din sudul Camerunului. A atras interes pentru potențialul său industrial și de export.",
+      "facts": ["zăcământ de fier", "în sudul Camerunului", "potențial industrial ridicat"]
+    },
+    {
+      "id": "minim-martap-bauxite-economic-v2",
+      "description": "Minim Martap este unul dintre cele mai cunoscute zăcăminte de bauxită din Adamawa. Resursa este urmărită pentru dezvoltarea industriei aluminiului.",
+      "facts": ["în regiunea Adamawa", "zăcământ de bauxită", "legat de aluminiu"]
+    },
+    {
+      "id": "akonolinga-rutile-mine-economic-v2",
+      "description": "Zona Akonolinga este asociată cu exploatări de rutil și alte minerale grele. Este un punct relevant pentru resursele minerale din centru.",
+      "facts": ["în regiunea Centre", "asociată cu rutilul", "minerale grele"]
+    },
+    {
+      "id": "cimencam-douala-economic-v2",
+      "description": "Cimencam din Douala este una dintre unitățile importante ale industriei cimentului din Camerun. Fabrica servește piața construcțiilor din zona de coastă.",
+      "facts": ["în Douala", "producție de ciment", "importantă pentru construcții"]
+    },
+    {
+      "id": "dangote-cement-douala-economic-v2",
+      "description": "Unitatea Dangote Cement din Douala face parte din lanțul modern al cimentului din Camerun. Poziția sa portuară ajută distribuția către piața internă.",
+      "facts": ["în Douala", "unitate de ciment", "legată de logistica portuară"]
+    },
+    {
+      "id": "chococam-factory-douala-economic-v2",
+      "description": "Fabrica Chococam din Douala produce ciocolată și dulciuri pentru piața locală. Este unul dintre numele cunoscute ale industriei alimentare din oraș.",
+      "facts": ["în Douala", "industrie alimentară", "ciocolată și dulciuri"]
+    },
+    {
+      "id": "cdc-rubber-tiko-economic-v2",
+      "description": "CDC din Tiko este legată de plantațiile și procesarea cauciucului din sud-vestul Camerunului. Activitatea sa susține o parte din economia agricolă regională.",
+      "facts": ["în Tiko", "legată de cauciuc", "parte din CDC"]
+    },
+    {
+      "id": "socapalm-dibombari-economic-v2",
+      "description": "SOCAPALM din Dibombari este asociată cu palmierul de ulei și procesarea sa. Site-ul are un rol important în agroindustria cameruneză.",
+      "facts": ["în Dibombari", "palmier de ulei", "agroindustrie"]
+    },
+    {
+      "id": "hevecam-niete-economic-v2",
+      "description": "HEVECAM din Niété este cunoscută pentru plantațiile de cauciuc din sudul Camerunului. Compania are o poziție importantă în sectorul agricol și industrial.",
+      "facts": ["în Niété", "plantații de cauciuc", "sector agroindustrial"]
+    },
+    {
+      "id": "sabc-brewery-yaounde-economic-v2",
+      "description": "Brewery-ul SABC din Yaoundé este legat de producția de băuturi pentru piața națională. Unitatea face parte din rețeaua industrială a capitalei.",
+      "facts": ["în Yaoundé", "producție de băuturi", "unitate industrială urbană"]
+    },
+    {
+      "id": "cicam-garoua-economic-v2",
+      "description": "CICAM din Garoua este asociată cu industria textilă cameruneză. Fabrica a avut un rol cunoscut în prelucrarea fibrelor și a țesăturilor.",
+      "facts": ["în Garoua", "industrie textilă", "prelucrare de fibre"]
+    },
+    {
+      "id": "sodecoton-maroua-economic-v2",
+      "description": "SODECOTON din Maroua este compania de referință pentru bumbacul din nordul Camerunului. Ea conectează producția agricolă cu prelucrarea industrială.",
+      "facts": ["în Maroua", "companie de bumbac", "legătură între agricultură și industrie"]
+    },
+    {
+      "id": "cimencam-figuil-economic-v2",
+      "description": "Cimencam din Figuil este o fabrică importantă de ciment din nordul Camerunului. Amplasarea ei sprijină aprovizionarea regiunilor din interior.",
+      "facts": ["în Figuil", "producție de ciment", "importantă pentru nord"]
+    },
+    {
+      "id": "kribi-gas-plant-economic-v2",
+      "description": "Centrala pe gaz din Kribi întărește producția de electricitate din sudul Camerunului. Amplasarea de coastă o face relevantă pentru infrastructura energetică.",
+      "facts": ["în Kribi", "centrală pe gaz", "sprijină rețeaua electrică"]
+    },
+    {
+      "id": "foumban-bauxite-economic-v2",
+      "description": "Zona Foumban este menționată în legătură cu resurse de bauxită din vestul Camerunului. Proiectul arată potențialul mineral al regiunii.",
+      "facts": ["în vestul Camerunului", "asociată cu bauxita", "potențial minier"]
+    }
+  ]
+}

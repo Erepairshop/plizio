@@ -25,8 +25,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/rumaila-oil-field-economic-v2.webp"},
   {
     id: "majnoon-oil-field-economic-v2",
     type: "energy",
@@ -77,8 +76,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/umm-qasr-port-economic-v2.webp"},
   {
     id: "al-faw-grand-port-economic-v2",
     type: "port",
@@ -103,8 +101,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/al-faw-grand-port-economic-v2.webp"},
   {
     id: "khor-al-zubair-port-economic-v2",
     type: "port",
@@ -129,8 +126,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/khor-al-zubair-port-economic-v2.webp"},
   {
     id: "basra-oil-terminal-economic-v2",
     type: "port",
@@ -155,8 +151,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/basra-oil-terminal-economic-v2.webp"},
   {
     id: "baiji-oil-refinery-economic-v2",
     type: "industry",
@@ -181,8 +176,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/baiji-oil-refinery-economic-v2.webp"},
   {
     id: "daura-refinery-economic-v2",
     type: "industry",
@@ -233,8 +227,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/basra-refinery-economic-v2.webp"},
   {
     id: "karbala-refinery-economic-v2",
     type: "industry",
@@ -259,8 +252,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/karbala-refinery-economic-v2.webp"},
   {
     id: "mishraq-sulphur-mine-economic-v2",
     type: "mine",
@@ -285,8 +277,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mishraq-sulphur-mine-economic-v2.webp"},
   {
     id: "akashat-phosphate-mine-economic-v2",
     type: "mine",
@@ -311,8 +302,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/akashat-phosphate-mine-economic-v2.webp"},
   {
     id: "haditha-dam-economic-v2",
     type: "energy",
@@ -337,8 +327,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/haditha-dam-economic-v2.webp"},
   {
     id: "mosul-dam-economic-v2",
     type: "energy",
@@ -363,8 +352,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mosul-dam-economic-v2.webp"},
   {
     id: "dukan-dam-economic-v2",
     type: "energy",
@@ -389,8 +377,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/dukan-dam-economic-v2.webp"},
   {
     id: "derbendikhan-dam-economic-v2",
     type: "energy",
@@ -415,8 +402,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/derbendikhan-dam-economic-v2.webp"},
   {
     id: "ibrahim-khalil-border-crossing-economic-v2",
     type: "trade-hub",
@@ -441,8 +427,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ibrahim-khalil-border-crossing-economic-v2.webp"},
   {
     id: "trebil-border-crossing-economic-v2",
     type: "trade-hub",
@@ -467,8 +452,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/trebil-border-crossing-economic-v2.webp"},
   {
     id: "safwan-border-crossing-economic-v2",
     type: "trade-hub",
@@ -493,8 +477,7 @@ export const poiExtraIraqEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/safwan-border-crossing-economic-v2.webp"},
   {
     id: "iskandariya-industrial-complex-economic-v2",
     type: "industry",
