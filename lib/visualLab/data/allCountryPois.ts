@@ -1194,6 +1194,40 @@ import { zambiaAllPoi } from "./zambiaAllPoi";
 import { zimbabweAllPoi } from "./zimbabweAllPoi";
 
 export const ALL_COUNTRY_POIS: POI[] = ([
+  // === Added orphan POI refs (auto) ===
+  ...algeriaAllPoi,
+  ...croatiaAllPoi,
+  ...icelandCountry,
+  ...latviaAllPoi,
+  ...latviaCities,
+  ...latviaCulture,
+  ...latviaNature,
+  ...lithuaniaAllPoi,
+  ...mkPoisPart1,
+  ...mkPoisPart2,
+  ...mkPoisPart4,
+  ...mkPoisPart4,
+  ...mkPoisPart5,
+  ...mkPoisPart6,
+  ...mkPoisPart7,
+  ...mkPoisPart8,
+  ...mkPoisPart9,
+  ...poiExtraFrenchguianaNatureV2,
+  ...montenegroCitiesExtra,
+  ...montenegroHistoryExtra,
+  ...montenegroOtherExtra,
+  ...serbiaPoiExtraCities,
+  ...serbiaPoiExtraHistory,
+  ...serbiaPoiExtraOther,
+  ...serbiaCountry,
+  ...serbiaAllPoi,
+  ...slovakiaCountry,
+  ...sloveniaCountry,
+  ...ukraineCountry,
+  ...ukrainePois,
+  ...ukraineAllPoi,
+  ...unitedkingdomCountry,
+  ...unitedkingdomAllPoi,
   ...albaniaCities,
   ...albaniaHistorical,
   ...albaniaNature,
@@ -2393,6 +2427,42 @@ import { poiExtraDe4a } from "./poiExtraDe4a";
 import { poiExtraDe4b } from "./poiExtraDe4b";
 import { poiExtraDeCities } from "./poiExtraDeCities";
 import { poiExtraDeLebenWirtschaft } from "./poiExtraDeLebenWirtschaft";
+
+// === Added orphan imports (auto) ===
+import { algeriaAllPoi } from "./algeriaPoi";
+import { croatiaAllPoi } from "./croatiaPoi";
+import { icelandCountry } from "./icelandPoi";
+// (removed: latviaPoi → latviaPoi_new is canonical)
+import { latviaAllPoi } from "./latviaPoi_new";
+import { latviaCities } from "./latviaPoi_new";
+import { latviaCulture } from "./latviaPoi_new";
+import { latviaNature } from "./latviaPoi_new";
+import { lithuaniaAllPoi } from "./lithuaniaPoi";
+import { mkPoisPart1 } from "./northmacedoniaPois_part1";
+import { mkPoisPart2 } from "./northmacedoniaPois_part2";
+import { mkPoisPart4 } from "./northmacedoniaPois_part3";
+import { mkPoisPart4 } from "./northmacedoniaPois_part4";
+import { mkPoisPart5 } from "./northmacedoniaPois_part5";
+import { mkPoisPart6 } from "./northmacedoniaPois_part6";
+import { mkPoisPart7 } from "./northmacedoniaPois_part7";
+import { mkPoisPart8 } from "./northmacedoniaPois_part8";
+import { mkPoisPart9 } from "./northmacedoniaPois_part9";
+import { poiExtraFrenchguianaNatureV2 } from "./poiExtraFrenchguianaNatureV2";
+import { montenegroCitiesExtra } from "./poiExtraMontenegroCities";
+import { montenegroHistoryExtra } from "./poiExtraMontenegroCities";
+import { montenegroOtherExtra } from "./poiExtraMontenegroCities";
+import { serbiaPoiExtraCities } from "./poiExtraSerbiaCities";
+import { serbiaPoiExtraHistory } from "./poiExtraSerbiaHistory";
+import { serbiaPoiExtraOther } from "./poiExtraSerbiaOther";
+import { serbiaCountry } from "./serbiaPoi";
+import { serbiaAllPoi } from "./serbiaPoi";
+import { slovakiaCountry } from "./slovakiaPoi";
+import { sloveniaCountry } from "./sloveniaPoi";
+import { ukraineCountry } from "./ukrainePoi";
+import { ukrainePois } from "./ukrainePoi";
+import { ukraineAllPoi } from "./ukrainePoi";
+import { unitedkingdomCountry } from "./unitedkingdomPoi";
+import { unitedkingdomAllPoi } from "./unitedkingdomPoi";
 export const ALL_DE_EXTRA_POIS: POI[] = [
   ...poiExtraDe1,
   ...poiExtraDe2,
