@@ -14,10 +14,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Francisco',
     },
     description: {
-      en: 'A major city in Heredia province, known for its commercial activity and residential areas.',
-      de: 'Eine bedeutende Stadt in der Provinz Heredia, bekannt für ihre kommerziellen Aktivitäten und Wohngebiete.',
-      hu: 'Heredia tartomány egyik nagyvárosa, amely kereskedelmi tevékenységéről és lakónegyedeiről ismert.',
-      ro: 'Un oraș important din provincia Heredia, cunoscut pentru activitatea sa comercială și zonele rezidențiale.',
+      en: "A growing suburb located in the Heredia province, known for its mix of residential areas and local commerce. It serves as a key connecting point between Heredia and the capital, San José.",
+      de: "Dieser Vorort der Provinz Heredia ist bekannt für seine ruhige Atmosphäre und die Nähe zum Stadtzentrum von Heredia. Er bietet eine gute Anbindung an die umliegenden Bildungs- und Wirtschaftszentren.",
+      hu: "San Francisco egy dinamikusan fejlődő település Heredia tartományban, szoros kapcsolatban a tartományi székhellyel. A város a helyi kávétermesztés és a szolgáltató szektor központja.",
+      ro: "Oraș situat în provincia Heredia, parte a zonei metropolitane San José.",
     },
     descriptionAdvanced: {
       de: "San Francisco de Heredia ist ein pulsierendes urbanes Zentrum im Herzen des Central Valley von Costa Rica. Als strategisch wichtiger Teil der Provinz Heredia verbindet die Stadt moderne Wohnviertel mit dynamischen Gewerbegebieten. Besucher schätzen die hervorragende Infrastruktur und die Nähe zur Provinzhauptstadt, was den Ort zu einem attraktiven Standort für Familien und Unternehmen macht. Die Region zeichnet sich durch ein angenehmes Klima und eine stetig wachsende Wirtschaft aus, die durch Dienstleistungen und den Handel geprägt ist. Historisch war die Gegend stark landwirtschaftlich durch Kaffeeanbau geprägt, hat sich jedoch erfolgreich zu einem modernen, urbanen Vorort entwickelt. Die Stadt ist ein Paradebeispiel für die nachhaltige urbane Expansion Costa Ricas in den letzten Jahrzehnten. Fächer: Geografie K5, Sozialkunde K6.",
@@ -26,10 +26,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Francisco de Heredia sits inside the capital's northern commuter belt, where housing blocks, small shops, and service businesses share the same streets. Its daily rhythm is shaped by the Heredia-San Jos? corridor, so the district works as both a residential base and a practical stop for people moving through the Central Valley. That mix makes it useful for reading how the metropolitan edge grows around a provincial capital. In Plizio Geography K5, it shows how urban districts form around mobility, services, and the pressure of nearby industry."
     },
     facts: {
-      en: ['Part of the Greater Metropolitan Area', 'Important hub in Heredia', 'Close to industrial zones'],
-      de: ['Teil der Metropolregion Gran Area Metropolitana', 'Wichtiger Knotenpunkt in Heredia', 'Nahe an Industriegebieten'],
-      hu: ['A Nagyvárosi Terület része', 'Fontos csomópont Herediában', 'Közel az ipari zónákhoz'],
-      ro: ['Parte a Marii Zone Metropolitane', 'Nod important în Heredia', 'Aproape de zonele industriale'],
+      en: ["Located in the Heredia province", "Part of the Greater Metropolitan Area", "Rapidly expanding residential zone", "Key transit node"],
+      de: ["Wohngebiet bei Heredia", "Nähe zu Hochschulen", "Ruhiges Stadtleben"],
+      hu: ["Heredia tartományban található", "Szolgáltatóközpont", "Mezőgazdasági háttér", "Közelség Heredia városához"],
+      ro: ["Situat în provincia Heredia", "Parte a zonei metropolitane", "Climat tropical", "Populație urbană"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von etwa 1.100 Metern über dem Meeresspiegel.", "Die Durchschnittstemperatur beträgt ganzjährig ca. 21 Grad Celsius.", "Gehört zur Greater Metropolitan Area (GAM) mit über 2 Millionen Einwohnern.", "Die Entfernung zum Stadtzentrum der Hauptstadt San José beträgt lediglich 10 Kilometer.", "Der Kanton Heredia, zu dem der Distrikt San Francisco gehört, umfasst 10 Distrikte.", "Die Bevölkerung im Distrikt San Francisco liegt heute bei über 55.000 Menschen.", "Die jährliche Niederschlagsmenge beträgt etwa 2.300 Millimeter."],
@@ -55,10 +55,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Paraíso',
     },
     description: {
-      en: 'A key agricultural city in Cartago province, near the Lankester Botanical Garden.',
-      de: 'Eine wichtige landwirtschaftliche Stadt in der Provinz Cartago, in der Nähe des Botanischen Gartens Lankester.',
-      hu: 'Fontos mezőgazdasági város Cartago tartományban, a Lankester Botanikus Kert közelében.',
-      ro: 'Un oraș agricol cheie din provincia Cartago, lângă Grădina Botanică Lankester.',
+      en: "Situated in the highlands of Cartago, this city is a gateway to several natural attractions including the Orosi Valley. It is known for its cool climate and proximity to ancient coffee plantations.",
+      de: "Paraíso liegt in der Provinz Cartago und ist ein wichtiges regionales Zentrum für den Anbau von Kaffee und Blumen. Die Gegend besticht durch ihr kühleres Klima und die Nähe zum Orosi-Tal.",
+      hu: "Paraíso egy település Cartago tartományban, mely a közeli Orosi-völgy kapujaként ismert. A város történelmi jelentőségű épületeiről és mezőgazdasági környékéről vált híressé.",
+      ro: "Localitate istorică în provincia Cartago, cunoscută pentru proximitatea față de Valea Orosi.",
     },
     descriptionAdvanced: {
       de: "Paraíso, oft als Tor zum malerischen Orosi-Tal bezeichnet, ist eine geschichtsträchtige Stadt in der Provinz Cartago. Die Stadt besticht durch ihre koloniale Atmosphäre und ihre Rolle als landwirtschaftliches Zentrum, in dem vor allem hochwertige Kaffeesorten und Zuckerrohr gedeihen. Ein absolutes Highlight in der direkten Umgebung ist der Botanische Garten Lankester, der weltweit für seine umfangreiche Orchideensammlung und wissenschaftliche Forschung bekannt ist. Paraíso bietet Besuchern eine perfekte Mischung aus authentischem Naturerlebnis und kulturellem Erbe. Die vulkanisch geprägten, fruchtbaren Böden machen die Region zu einem der produktivsten Agrargebiete Costa Ricas. Wer Ruhe sucht und die traditionelle costa-ricanische Lebensweise abseits der Großstädte erleben möchte, findet hier ein wahres Paradies am Rande der Cordillera Central. Fächer: Sachkunde K4, Biologie K7.",
@@ -67,10 +67,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Paraíso is one of Cartago province's most recognisable towns, set on the route toward the Orosi Valley and shaped by fertile volcanic soil. Coffee, sugarcane, and a steady local market give the town its agricultural backbone, while the nearby Lankester Botanical Garden adds a scientific and botanical layer to the landscape. The area feels closely tied to Cartago's colonial past, but it still functions as an active everyday centre for families, growers, and commuters. In Plizio Geography K5, it helps explain how farming, research, and valley geography intersect."
     },
     facts: {
-      en: ['Gateway to the Orosi Valley', 'Known for coffee and sugarcane plantations', 'Home to a vibrant local community'],
-      de: ['Tor zum Orosi-Tal', 'Bekannt für Kaffee- und Zuckerrohrplantagen', 'Heimat einer lebendigen lokalen Gemeinschaft'],
-      hu: ['Az Orosi-völgy kapuja', 'Kávé- és cukornádültetvényeiről ismert', 'Élénk helyi közösségnek ad otthont'],
-      ro: ['Poarta de acces către Valea Orosi', 'Cunoscut pentru plantațiile de cafea și trestie de zahăr', 'Găzduiește o comunitate locală vibrantă'],
+      en: ["Located in Cartago Province", "Gateway to Orosi Valley", "Highland climate", "Historical coffee region"],
+      de: ["Regionalzentrum in Cartago", "Kaffeeanbaugebiet", "Kühleres Hochlandklima"],
+      hu: ["Cartago tartományban fekszik", "Az Orosi-völgy bejárata", "Történelmi település", "Mezőgazdasági központ"],
+      ro: ["Situat în Cartago", "Regiune agricolă", "Climat temperat", "Altitudine medie"],
     },
     factsAdvanced: {
       de: ["Gegründet im Jahr 1823 durch den damaligen Gouverneur Gregorio José Ramírez.", "Beherbergt den Lankester Botanischen Garten, der über 3.000 Pflanzenarten beheimatet.", "Die Stadt liegt auf einer Höhe von ca. 1.325 Metern in der Cordillera Central.", "Das malerische Orosi-Tal ist nur etwa 15 Fahrminuten vom Stadtzentrum entfernt.", "Die Stadt feiert jährlich am 2. Februar das Fest der Virgen de Candelaria.", "Die Fahrtzeit zur Provinzhauptstadt Cartago beträgt mit dem Auto etwa 15 Minuten.", "Die Region erhält durchschnittlich rund 2.100 mm Niederschlag pro Jahr.", "Über 20 % der Fläche des Kantons Paraíso sind als geschützte Naturgebiete ausgewiesen."],
@@ -96,10 +96,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Isidro de El General',
     },
     description: {
-      en: 'The largest city in the southern zone of Costa Rica, serving as a commercial and transport hub.',
-      de: 'Die größte Stadt in der südlichen Zone von Costa Rica, die als Handels- und Verkehrsknotenpunkt dient.',
-      hu: 'Costa Rica déli zónájának legnagyobb városa, amely kereskedelmi és közlekedési csomópontként szolgál.',
-      ro: 'Cel mai mare oraș din zona de sud a Costa Ricăi, servind drept centru comercial și de transport.',
+      en: "The largest city in the southern region of Costa Rica, acting as a major commercial and agricultural hub for the Perez Zeledon area. It sits in a valley at the foot of the Talamanca mountain range.",
+      de: "Dieses Handelszentrum im Tal von El General ist das größte städtische Gebiet in der Region Pérez Zeledón. Es dient als wichtiger Knotenpunkt für den Zugang zum Cerro Chirripó.",
+      hu: "San Isidro de El General Pérez Zeledón kanton székhelye, a dél-közép-costa ricai régió gazdasági és kereskedelmi központja. A város a Chirripó-hegy lábánál helyezkedik el.",
+      ro: "Cel mai mare oraș din zona sudică a Costa Ricăi, situat în Valea General.",
     },
     descriptionAdvanced: {
       de: "San Isidro de El General ist das pulsierende Herz der südlichen Zone Costa Ricas und dient als wichtigstes Handelszentrum der Region. Die Stadt liegt im fruchtbaren El General Tal und ist von den majestätischen Gipfeln der Talamanca-Gebirgskette umgeben. Als Ausgangspunkt für Expeditionen zum Cerro Chirripó, dem höchsten Berg des Landes, zieht sie Abenteurer aus aller Welt an. San Isidro ist bekannt für seinen lebhaften Wochenmarkt, auf dem lokale Produzenten frisches Obst, Gemüse und handwerkliche Produkte anbieten. Die Stadt verbindet die Annehmlichkeiten eines modernen urbanen Zentrums mit der Herzlichkeit der ländlichen Bevölkerung. Es ist ein ort, an dem Tradition und Fortschritt harmonisch aufeinandertreffen. Sachkunde K4.",
@@ -108,10 +108,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Isidro de El General anchors Costa Rica's southern zone from the broad El General Valley, where agriculture, trade, and transport meet. The city is the main urban centre of P?rez Zeled?n, and its streets are the launch point for journeys toward Cerro Chirrip? and the mountain communities of the Talamanca range. Markets, buses, and farm supply businesses keep the place busy, but the surrounding landscape still gives it a strong regional identity. In Plizio Geography K5, it is a clear example of a valley city serving a large rural hinterland."
     },
     facts: {
-      en: ['Gateway to Cerro Chirripó', 'Important agricultural center', 'Hosts a large weekly market'],
-      de: ['Tor zum Cerro Chirripó', 'Wichtiges landwirtschaftliches Zentrum', 'Veranstaltet einen großen Wochenmarkt'],
-      hu: ['A Cerro Chirripó kapuja', 'Fontos mezőgazdasági központ', 'Nagy heti piacnak ad otthont'],
-      ro: ['Poarta de acces către Cerro Chirripó', 'Centru agricol important', 'Găzduiește o mare piață săptămânală'],
+      en: ["Largest city in Southern Costa Rica", "Major agricultural hub", "Located in Perez Zeledon", "Near Talamanca Mountains"],
+      de: ["Wirtschaftszentrum in Pérez Zeledón", "Tor zum Cerro Chirripó", "Landwirtschaftliche Drehscheibe"],
+      hu: ["Pérez Zeledón központja", "Déli régió gazdasági csomópontja", "A Chirripó-hegy lábánál", "Kereskedelmi központ"],
+      ro: ["Centru agricol major", "Situat în Valea General", "Climat cald", "Conectat prin Autostrada Interamericană"],
     },
     factsAdvanced: {
       de: ["Größte Stadt im Kanton Pérez Zeledón mit über 45.000 Einwohnern im Kern.", "Liegt auf einer Höhe von ca. 700 Metern über dem Meeresspiegel.", "Entfernung zum Chirripó-Nationalpark beträgt etwa 20 Kilometer.", "Der lokale Wochenmarkt (Feria del Produzent) gilt als einer der größten des Landes.", "Die Stadt wurde 1850 offiziell als Siedlung anerkannt.", "Durchschnittliche Jahrestemperatur liegt bei angenehmen 24 Grad Celsius.", "Wichtigster Verkehrsknotenpunkt an der Panamericana im Süden des Landes."],
@@ -137,10 +137,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Curridabat',
     },
     description: {
-      en: 'A vibrant city in San José province, serving as a major residential and commercial hub.',
-      de: 'Eine lebendige Stadt in der Provinz San José, die als wichtiges Wohn- und Geschäftszentrum dient.',
-      hu: 'Élénk város San José tartományban, amely fontos lakó- és kereskedelmi központként szolgál.',
-      ro: 'Un oraș vibrant din provincia San José, servind drept un important centru rezidențial și comercial.',
+      en: "A prosperous suburb on the eastern side of San Jose, recognized for its educational institutions and vibrant residential character. It is a highly developed urban area with significant commercial activity.",
+      de: "Curridabat ist ein moderner Vorort östlich von San José und bekannt für seine wachsende kommerzielle Entwicklung. Der Ort beheimatet viele Einkaufszentren und Wohnviertel für die gehobene Mittelschicht.",
+      hu: "Curridabat a San José agglomeráció része, mely egykor kávéültetvények otthona volt, ma pedig élénk lakó- és kereskedelmi negyed. A terület számos oktatási intézménynek és modern létesítménynek ad otthont.",
+      ro: "Municipiu urban situat la est de San José, cunoscut pentru dezvoltarea rezidențială.",
     },
     descriptionAdvanced: {
       de: "Curridabat ist eine dynamische Stadt östlich von San José, die für ihre Vorreiterrolle in der ökologischen Stadtplanung bekannt ist. Unter dem Motto \\\"Stadt der Süße\\\" setzt Curridabat auf die Integration von Flora und Fauna in den urbanen Raum, um Bestäubern wie Bienen und Schmetterlingen Lebensraum zu bieten. Die Stadt beherbergt exklusive Wohnviertel, moderne Bürokomplexe und renommierte Bildungseinrichtungen. Die hohe Lebensqualität und die innovative Infrastruktur machen Curridabat zu einem der begehrtesten Wohnorte im Central Valley. Besucher finden hier eine Vielzahl an Parks, erstklassigen Restaurants und kulturellen Angeboten. Curridabat zeigt eindrucksvoll, wie moderne Stadtentwicklung im Einklang mit der Natur funktionieren kann. Sachkunde K4.",
@@ -149,10 +149,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Curridabat sits on the eastern side of San Jos?, where dense neighbourhoods, business zones, and new housing projects overlap in a compact urban grid. The canton is often associated with the Ciudad Dulce idea, which treats streets and green spaces as habitat for pollinators rather than only as traffic corridors. Shopping centres, schools, and apartment towers make the district feel modern and highly connected, yet it still belongs to the wider Central Valley pattern of commuting and commercial flow. In Plizio Geography K5, it illustrates contemporary urban planning in Costa Rica."
     },
     facts: {
-      en: ['Part of the Greater Metropolitan Area', 'Known for its modern urban development', 'Features numerous shopping centers and parks'],
-      de: ['Teil der Metropolregion Gran Area Metropolitana', 'Bekannt für seine moderne Stadtentwicklung', 'Bietet zahlreiche Einkaufszentren und Parks'],
-      hu: ['A Nagyvárosi Terület (Gran Area Metropolitana) része', 'Modern városfejlesztéséről ismert', 'Számos bevásárlóközpontnak ets parknak ad otthont'],
-      ro: ['Parte a Marii Zone Metropolitane (Gran Area Metropolitana)', 'Cunoscut pentru dezvoltarea sa urbană modernă', 'Dispune de numeroase centre comerciale și parcuri'],
+      en: ["Suburb of San Jose", "Known for educational centers", "Prosperous residential area", "Developed urban zone"],
+      de: ["Wachsender Vorort von San José", "Kommerzielles Zentrum", "Moderne Wohnviertel"],
+      hu: ["San José agglomerációjában", "Egykor kávétermesztő terület", "Modern kereskedelmi zóna", "Oktatási központ"],
+      ro: ["Parte a provinciei San José", "Zonă rezidențială", "Climat plăcut", "Densitate urbană ridicată"],
     },
     factsAdvanced: {
       de: ["Fläche des Kantons beträgt ca. 15,95 Quadratkilometer.", "Curridabat wurde 1930 offiziell zur Stadt (Ciudad) ernannt.", "Liegt auf einer durchschnittlichen Höhe von 1.200 Metern.", "Beherbergt über 70 öffentliche Parks und Grünflächen.", "Die Stadt ist in 4 Distrikte unterteilt: Curridabat, Granadilla, Sánchez und Tirrases.", "Die Einwohnerzahl des Kantons liegt bei über 75.000 Menschen.", "Jährliche Niederschlagsmenge beträgt etwa 2.000 Millimeter."],
@@ -178,10 +178,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Vicente',
     },
     description: {
-      en: 'The capital of Moravia canton, known for its crafts and quiet residential neighborhoods.',
-      de: 'Die Hauptstadt des Kantons Moravia, bekannt für ihr Kunsthandwerk und ihre ruhigen Wohnviertel.',
-      hu: 'Moravia kanton fővárosa, amely kézművességéről és csendes lakónegyedeiről ismert.',
-      ro: 'Capitala cantonului Moravia, cunoscută pentru artizanatul său și cartierele rezidențiale liniștite.',
+      en: "Part of the Moravia canton, this area combines traditional suburban living with modern commercial growth. It is well-known for its cultural life and local artisan markets.",
+      de: "San Vicente ist das Verwaltungszentrum des Kantons Moravia und liegt nördlich der Hauptstadt San José. Die Region bewahrt einen gewissen traditionellen Charme inmitten der städtischen Ausbreitung.",
+      hu: "San Vicente de Moravia a San José nagyvárosi terület északi részén helyezkedik el, ismert a kulturális életéről és a környező hegyvidéki tájról. A kanton dinamikusan nőtt az elmúlt évtizedekben.",
+      ro: "Oraș și centru administrativ al cantonului Moravia din provincia San José.",
     },
     descriptionAdvanced: {
       de: "San Vicente de Moravia, nördlich der Hauptstadt San José gelegen, ist weit über die Landesgrenzen hinaus für sein exquisites Kunsthandwerk bekannt. Besonders die Lederverarbeitung hat hier eine lange Tradition und zieht viele Besucher an, die hochwertige Taschen, Gürtel und Schuhe suchen. Die Stadt bewahrt sich trotz ihrer Lage in der Metropolregion einen charmanten, fast dörflichen Charakter mit gepflegten Parks und ruhigen Wohnstraßen. San Vicente dient als Tor zu den kühleren Bergregionen des Nordens und bietet eine angenehme Atempause vom Trubel der Hauptstadt. Kulturell ist die Stadt tief verwurzelt und stolz auf ihre Identität als Zentrum für Kunst und Design in Costa Rica. Sachkunde K4.",
@@ -190,10 +190,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Vicente is the administrative heart of Moravia, a district where suburban streets, neighbourhood commerce, and a strong craft tradition sit close to the capital. Its reputation is closely tied to leather goods and small workshops, which give the area a more specialised identity than many other north-eastern San Jos? districts. At the same time, it functions as a normal urban centre with schools, services, and daily commuting links into the metro region. In Plizio Geography K5, it is a useful case study in suburban diversification."
     },
     facts: {
-      en: ['Located northeast of San José', 'Famous for leather goods', 'Offers a mix of urban and suburban life'],
-      de: ['Liegt nordöstlich von San José', 'Berühmt für Lederwaren', 'Bietet eine Mischung aus städtischem und vorstädtischem Leben'],
-      hu: ['San Josétól északkeletre található', 'Bőráruiról híres', 'Városi és külvárosi élet keverékét kínálja'],
-      ro: ['Situat la nord-est de San José', 'Renumit pentru articolele din piele', 'Oferă un amestec de viață urbană și suburbană'],
+      en: ["Located in Moravia canton", "Cultural suburban hub", "Modern residential growth", "Local artisan markets"],
+      de: ["Verwaltungssitz von Moravia", "Nördlich von San José", "Traditionelle Atmosphäre"],
+      hu: ["Moravia kanton központja", "San José agglomeráció része", "Kulturális központ", "Hegyvidéki környezet"],
+      ro: ["Situat în San José", "Centru cultural", "Zonă urbană", "Altitudine moderată"],
     },
     factsAdvanced: {
       de: ["Höhenlage beträgt rund 1.230 Meter über dem Meeresspiegel.", "Hauptstadt des Kantons Moravia, gegründet im Jahr 1843.", "Bekannt als das Zentrum des costa-ricanischen Lederhandwerks.", "Die Durchschnittstemperatur liegt bei kühlen 20 Grad Celsius.", "Entfernung zum Stadtzentrum von San José beträgt ca. 7 Kilometer.", "Der Distrikt San Vicente umfasst eine Fläche von etwa 5,4 Quadratkilometern.", "Die Bevölkerung im Distrikt beträgt ca. 32.000 Einwohner."],
@@ -219,10 +219,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Purral',
     },
     description: {
-      en: 'A densely populated district in the Goicoechea canton, part of the San José metropolitan area.',
-      de: 'Ein dicht besiedelter Bezirk im Kanton Goicoechea, Teil der Metropolregion San José.',
-      hu: 'Sűrűn lakott kerület Goicoechea kantonban, San José nagyvárosi területének része.',
-      ro: 'Un district dens populat din cantonul Goicoechea, parte a zonei metropolitane San José.',
+      en: "A densely populated district within the Goicoechea canton, serving as a significant residential area close to San Jose. It plays a central role in the local socio-economic structure of the capital's periphery.",
+      de: "Purral gehört zum Kanton Goicoechea und ist ein dicht besiedeltes Wohngebiet am Rande von San José. Es spiegelt die urbane Expansion des Zentraltals wider.",
+      hu: "Purral egy sűrűn lakott település Goicoechea kantonban, San José közvetlen közelében. A város elsősorban lakónegyedként funkcionál a fővárosi ingázók számára.",
+      ro: "Zonă urbană dens populată situată în cantonul Goicoechea din provincia San José.",
     },
     descriptionAdvanced: {
       de: "Purral ist ein lebendiger Distrikt im Kanton Goicoechea und ein integraler Bestandteil der Metropolregion San José. Das Gebiet zeichnet sich durch eine hohe Bevölkerungsdichte und eine Mischung aus Wohn- und kleinen Gewerbegebieten aus. In den letzten Jahrzehnten hat Purral eine rasante urbane Entwicklung erlebt, die durch die Nähe zur Hauptstadt begünstigt wurde. Die Bewohner profitieren von einer guten Anbindung an das öffentliche Verkehrsnetz und zahlreichen lokalen Dienstleistungen. Purral spiegelt das moderne Alltagsleben in Costa Ricas Städten wider, wo Gemeinschaft und nachbarschaftliche Strukturen eine wichtige Rolle spielen. Die Region bietet Einblicke in die Herausforderungen und Chancen der urbanen Expansion im zentralen Hochland des Landes. Sachkunde K4.",
@@ -231,10 +231,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Purral is one of the more densely built districts on the eastern side of the capital, with hillside neighbourhoods, schools, and local commerce packed into a compact urban area. As part of Goicoechea, it belongs to the everyday commuter belt of San Jos?, yet it has its own identity through street-level activity and a constant flow of families moving between home, work, and study. The district shows how fast metropolitan growth can reshape the edges of a city without erasing local life. In Plizio Geography K5, it supports lessons on urban density."
     },
     facts: {
-      en: ['Primarily a residential area', 'Located east of the capital city', 'Well-connected by public transport'],
-      de: ['Hauptsächlich ein Wohngebiet', 'Östlich der Hauptstadt gelegen', 'Gut an den öffentlichen Verkehr angebunden'],
-      hu: ['Elsősorban lakóövezet', 'A fővárostól keletre található', 'Jó tömegközlekedési kapcsolatokkal rendelkezik'],
-      ro: ['În principal o zonă rezidențială', 'Situat la est de capitală', 'Bine conectat prin transport public'],
+      en: ["Located in Goicoechea canton", "Densely populated district", "Proximity to San Jose", "Residential urban center"],
+      de: ["Wohngebiet in Goicoechea", "Teil des Großraums San José", "Dichte städtische Bebauung"],
+      hu: ["Goicoechea kantonban", "San José vonzáskörzetében", "Lakóövezet", "Dinamikus népességnövekedés"],
+      ro: ["Parte a zonei metropolitane", "Densitate ridicată", "Situat în San José", "Dezvoltare rezidențială"],
     },
     factsAdvanced: {
       de: ["Fläche des Distrikts beträgt ungefähr 3,1 Quadratkilometer.", "Die Einwohnerzahl liegt bei über 30.000 Menschen.", "Durchschnittliche Höhe von 1.260 Metern über dem Meeresspiegel.", "Gehört zum Kanton Goicoechea, der 1891 gegründet wurde.", "Befindet sich nordöstlich des Stadtzentrums von San José.", "Das Klima ist durch eine ausgeprägte Regenzeit von Mai bis November geprägt.", "Die Bevölkerungsdichte gehört zu den höchsten in der Provinz San José."],
@@ -261,10 +261,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Turrialba',
     },
     description: {
-      en: 'A city famous for its active volcano, cheese production, and the CATIE research center.',
-      de: 'Eine Stadt, die für ihren aktiven Vulkan, ihre Käseproduktion und das CATIE-Forschungszentrum berühmt ist.',
-      hu: 'A város híres aktív vulkánjáról, sajtgyártásáról és a CATIE kutatóközpontról.',
-      ro: 'Un oraș renumit pentru vulcanul său activ, producția de brânză și centrul de cercetare CATIE.',
+      en: "Nestled in a fertile valley, this city is famous for its proximity to the Turrialba Volcano and various river rafting destinations. It remains a key agricultural center, particularly for sugarcane.",
+      de: "Turrialba ist bekannt für seine Nähe zum aktiven Vulkan Turrialba und das archäologische Monument Guayabo. Es ist ein Zentrum für Outdoor-Aktivitäten wie Rafting.",
+      hu: "Turrialba a hasonló nevű kanton központja, amely a turrialbai vulkánról és a kalandturizmusról ismert. A város fontos mezőgazdasági és oktatási központ a régióban.",
+      ro: "Oraș cunoscut pentru agricultura sa și proximitatea față de Vulcanul Turrialba.",
     },
     descriptionAdvanced: {
       de: "Turrialba ist ein Juwel in der Provinz Cartago, eingebettet in eine üppige Landschaft aus grünen Hügeln und dominiert vom gleichnamigen, majestätischen Vulkan. Die Stadt ist weltbekannt für ihre Käseproduktion, den \\\"Queso Turrialba\\\", der sogar eine geschützte Herkunftsbezeichnung trägt. Abenteurer schätzen die Region als erstklassiges Ziel für Wildwasser-Rafting auf den Flüssen Pacuare und Reventazón. Zudem beherbergt Turrialba das CATIE, ein internationales Forschungszentrum für tropische Landwirtschaft von globaler Bedeutung. Die reiche archäologische Stätte Guayabo, das wichtigste Zeugnis präkolumbianischer Kultur in Costa Rica, liegt ebenfalls ganz in der Nähe. Turrialba verbindet Wissenschaft, Landwirtschaft und Abenteuertourismus auf einzigartige Weise. Sachkunde K4.",
@@ -273,10 +273,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Turrialba combines a volcanic landscape with one of the country's best-known agricultural identities. The town is linked to the active Turrialba Volcano, to the cheese that carries its name, and to CATIE, the international agricultural research centre founded here in the 1940s. Add Pacuare River rafting and the green slopes of eastern Cartago, and the result is a place where science, farming, and outdoor adventure share the same map. In Plizio Geography K5, it helps students connect landforms with economic use."
     },
     facts: {
-      en: ['Home to the Turrialba Volcano National Park', 'Important area for agriculture and education', 'Offers white-water rafting opportunities'],
-      de: ['Heimat des Nationalparks Vulkan Turrialba', 'Wichtiges Gebiet für Landwirtschaft und Bildung', 'Bietet Möglichkeiten zum Wildwasser-Rafting'],
-      hu: ['A Turrialba Vulkán Nemzeti Park otthona', 'Fontos mezőgazdasági és oktatási terület', 'Vadvízi evezési lehetőségeket kínál'],
-      ro: ['Găzduiește Parcul Național Vulcanul Turrialba', 'Zonă importantă pentru agricultură și educație', 'Oferă oportunități de rafting pe ape repezi'],
+      en: ["Near Turrialba Volcano", "Famous for river rafting", "Agricultural center", "Sugarcane production"],
+      de: ["Nahe dem Vulkan Turrialba", "Archäologisches Zentrum Guayabo", "Zentrum für Rafting"],
+      hu: ["A turrialbai vulkán közelében", "Kalandturizmus központja", "Mezőgazdasági központ", "Oktatási intézmények otthona"],
+      ro: ["Situat în Cartago", "Regiune agricolă", "Lângă Vulcanul Turrialba", "Climat tropical umed"],
     },
     factsAdvanced: {
       de: ["Der Vulkan Turrialba ist 3.340 Meter hoch und aktiv.", "CATIE verwaltet eine Fläche von über 1.000 Hektar für Forschung.", "Das Nationaldenkmal Guayabo stammt aus der Zeit zwischen 1000 v. Chr. und 1400 n. Chr.", "Die Stadt liegt auf einer Höhe von 640 Metern über dem Meeresspiegel.", "Turrialba-Käse erhielt 2012 die erste geschützte Ursprungsbezeichnung Costa Ricas.", "Die jährliche Niederschlagsmenge kann bis zu 3.500 mm erreichen.", "Der Kanton Turrialba ist der größte in der Provinz Cartago."],
@@ -302,10 +302,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Miguel',
     },
     description: {
-      en: 'A major district in the Desamparados canton, known for its rapid development and urban character.',
-      de: 'Ein wichtiger Bezirk im Kanton Desamparados, bekannt für seine schnelle Entwicklung und seinen städtischen Charakter.',
-      hu: 'Fontos kerület Desamparados kantonban, amely gyors fejlődéséről és városi jellegéről ismert.',
-      ro: 'Un district important din cantonul Desamparados, cunoscut pentru dezvoltarea sa rapidă și caracterul urban.',
+      en: "A residential district located in the southern part of San Jose, integrated into the urban fabric of the city. It provides housing for many workers commuting into the capital.",
+      de: "San Miguel liegt im Kanton Desamparados und ist ein lokales Wohnzentrum südlich der Hauptstadt. Die Umgebung ist durch hügeliges Gelände und eine starke lokale Gemeinschaft geprägt.",
+      hu: "San Miguel de Desamparados egy fejlődő település a déli nagyvárosi régióban. A terület főként lakóövezet, amely szorosan kapcsolódik a főváros gazdasági életéhez.",
+      ro: "Comunitate suburbană în cadrul cantonului Desamparados din provincia San José.",
     },
     descriptionAdvanced: {
       de: "San Miguel de Desamparados ist ein bedeutender Distrikt südlich von San José, der sich durch seine hügelige Topografie und seinen rasanten Zuwachs an Wohnraum auszeichnet. Von vielen Punkten in San Miguel genießt man einen beeindruckenden Panoramablick über das Central Valley. Die Stadt dient als Bindeglied zwischen der urbanen Metropole und den ländlicheren Gebieten im Süden der Provinz. Trotz der modernen Entwicklung bewahrt sich San Miguel eine lokale Identität mit traditionellen Festen und einem starken Gemeinschaftssinn. Die Region ist ideal für Menschen, die eine etwas ruhigere Wohnlage suchen, aber dennoch die Nähe zu den Arbeitsplätzen und Dienstleistungen der Hauptstadt schätzen. Sachkunde K4.",
@@ -314,10 +314,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Miguel de Desamparados rises over the southern side of the Central Valley in a zone where steep streets, expanding housing, and long views shape the urban experience. It is a district that feels both close to the capital and separated from it by hills and changing altitude. That position has made it a practical residential area for families who depend on San Jos? while living slightly beyond the most crowded core. In Plizio Geography K5, it is a good example of metropolitan fringe growth and hillside settlement."
     },
     facts: {
-      en: ['Located south of central San José', 'A mix of residential and commercial zones', 'Connects the capital with rural southern areas'],
-      de: ['Südlich des zentralen San José gelegen', 'Eine Mischung aus Wohn- und Gewerbezonen', 'Verbindet die Hauptstadt mit ländlichen südlichen Gebieten'],
-      hu: ['San José központjától délre található', 'Lakó- és kereskedelmi zónák keveréke', 'Összeköti a fővárost a déli vidéki területekkel'],
-      ro: ['Situat la sud de centrul orașului San José', 'Un amestec de zone rezidențiale și comerciale', 'Conectează capitala cu zonele rurale din sud'],
+      en: ["Southern San Jose district", "Residential focus", "Commuter area", "Integrated urban zone"],
+      de: ["Südlich von San José", "Hügelige Umgebung", "Lokale Wohnsiedlung"],
+      hu: ["Desamparados kanton része", "Déli nagyvárosi övezet", "Fővárosi lakóövezet", "Folyamatos fejlődés"],
+      ro: ["Situat în San José", "Zonă suburbană", "Dezvoltare rezidențială", "Climat temperat"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer durchschnittlichen Höhe von 1.150 Metern.", "Der Distrikt San Miguel erstreckt sich über ca. 4,5 Quadratkilometer.", "Die Bevölkerung übersteigt 35.000 Einwohner.", "Gehört zum Kanton Desamparados, dem drittbevölkerungsreichsten des Landes.", "Gegründet wurde der Kanton Desamparados im Jahr 1862.", "Das Klima ist moderat mit Temperaturen zwischen 18 und 26 Grad Celsius.", "Wichtige Verkehrsader verbindet die Stadt mit den südlichen Bergregionen."],
@@ -343,10 +343,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Pedro',
     },
     description: {
-      en: 'A bustling university town, home to the University of Costa Rica and a vibrant cultural scene.',
-      de: 'Eine lebhafte Universitätsstadt, Heimat der Universität von Costa Rica und einer pulsierenden Kulturszene.',
-      hu: 'Élénk egyetemi város, a Costa Rica-i Egyetem otthona és pezsgő kulturális élettel.',
-      ro: 'Un oraș universitar plin de viață, care găzduiește Universitatea din Costa Rica și o scenă culturală vibrantă.',
+      en: "A bustling urban center serving as home to the University of Costa Rica, creating a vibrant, student-oriented atmosphere. It is widely regarded as a hub for nightlife, cafes, and education.",
+      de: "San Pedro ist das akademische Zentrum von Costa Rica und beherbergt die Universität von Costa Rica. Das Stadtviertel ist jung, dynamisch und das Herz des studentischen Lebens.",
+      hu: "San Pedro a Costa Rica-i egyetemi élet szíve, ahol a Costa Rica-i Egyetem központi kampusza található. A terület a városi kultúra és az éjszakai élet központja.",
+      ro: "Sediul principal al Universității din Costa Rica, situat în provincia San José.",
     },
     descriptionAdvanced: {
       de: "San Pedro de Montes de Oca ist das akademische und kulturelle Kraftzentrum Costa Ricas. Als Heimat des Hauptcampus der Universität von Costa Rica (UCR) pulsiert die Stadt vor jugendlicher Energie und intellektuellem Austausch. Entlang der Hauptstraßen finden sich unzählige Buchläden, Cafés, Bars und kulturelle Einrichtungen, die San Pedro zu einem Magneten für Studenten und Künstler machen. Die Stadt ist bekannt für ihr lebendiges Nachtleben und ihre vielfältige Gastronomie. Neben der Universität prägen moderne Bürogebäude und Einkaufszentren wie die Mall San Pedro das Stadtbild. San Pedro ist ein Ort, an dem Bildung, Kultur und moderner Lebensstil auf engem Raum miteinander verschmelzen. Sachkunde K4.",
@@ -355,10 +355,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Pedro is one of Costa Rica's clearest university districts, with the main campus of the University of Costa Rica shaping its streets, caf?s, bookstores, and transport routes. The district carries a youthful energy that mixes academic life with culture, nightlife, and a dense urban rhythm. Because it lies just east of San Jos?, it also acts as a bridge between the capital and the eastern suburban belt. In Plizio Geography K5, it is ideal for discussing how higher education reshapes a city quarter."
     },
     facts: {
-      en: ['Major educational and cultural hub', 'Features numerous bars, restaurants, and bookstores', 'Known as the "University City"'],
-      de: ['Bedeutendes Bildungs- und Kulturzentrum', 'Bietet zahlreiche Bars, Restaurants und Buchhandlungen', 'Bekannt als die "Universitätsstadt"'],
-      hu: ['Jelentős oktatási és kulturális központ', 'Számos bár, étterem és könyvesbolt található itt', '"Egyetemi városként" ismert'],
-      ro: ['Centru educațional și cultural major', 'Dispune de numeroase baruri, restaurante și librării', 'Cunoscut ca "Orașul Universitar"'],
+      en: ["Home to University of Costa Rica", "Vibrant student life", "Nightlife and cafe hub", "Key academic center"],
+      de: ["Akademisches Herz des Landes", "Sitz der Universität von Costa Rica", "Lebhaftes studentisches Viertel", "Zentrum für Kultur und Nachtleben"],
+      hu: ["Egyetemi városrész", "Costa Rica-i Egyetem székhelye", "Kulturális központ", "Élénk éjszakai élet"],
+      ro: ["Centru academic", "Lângă Universitate", "Zonă urbană", "Activitate socială intensă"],
     },
     factsAdvanced: {
       de: ["Beherbergt die Universidad de Costa Rica mit über 40.000 Studenten.", "Höhenlage von ca. 1.205 Metern über dem Meeresspiegel.", "Die Distriktfläche beträgt lediglich 1,9 Quadratkilometer.", "Gegründet als Kanton Montes de Oca im Jahr 1915.", "Die \\\"Calle de la Amargura\\\" ist eine berühmte Studentenmeile der Stadt.", "Über 50 % der Bevölkerung im Kanton sind zwischen 15 und 44 Jahre alt.", "Entfernung zum Stadtzentrum von San José beträgt ca. 3 Kilometer."],
@@ -384,10 +384,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Quesada',
     },
     description: {
-      en: 'The capital of San Carlos canton, a major hub for agriculture, commerce, and tourism in the northern plains.',
-      de: 'Die Hauptstadt des Kantons San Carlos, ein wichtiges Zentrum für Landwirtschaft, Handel und Tourismus in den nördlichen Ebenen.',
-      hu: 'San Carlos kanton fővárosa, a mezőgazdaság, a kereskedelem és a turizmus egyik fő központja az északi síkságon.',
-      ro: 'Capitala cantonului San Carlos, un important centru agricol, comercial și turistic în câmpiile nordice.',
+      en: "The administrative center of the San Carlos canton, serving as a critical commercial and logistics hub for northern Costa Rica. It is surrounded by lush agricultural lands and cattle farms.",
+      de: "Quesada ist die größte Stadt im Kanton San Carlos und ein wichtiges landwirtschaftliches Zentrum für Viehzucht und Milchprodukte. Sie ist das Tor zur nördlichen Tieflandregion.",
+      hu: "Quesada San Carlos kanton közigazgatási központja, az északi síkságok gazdasági motorja. A mezőgazdaság, különösen a tejtermelés és a gyümölcstermesztés, meghatározó a város életében.",
+      ro: "Capitala cantonului San Carlos, un important centru comercial și agricol.",
     },
     descriptionAdvanced: {
       de: "Quesada, oft einfach als San Carlos bezeichnet, ist die größte Stadt im Norden Costa Ricas und ein vitales Zentrum für Landwirtschaft und Handel. Gelegen am Fuße der Cordillera Central, dient sie als Tor zu den Ebenen des Nordens und dem berühmten Vulkan Arenal. Die Stadt ist umgeben von fruchtbaren Weiden und riesigen Plantagen, auf denen Ananas und Zuckerrohr angebaut werden. Quesada ist bekannt für seine florierende Viehwirtschaft und die Produktion hochwertiger Milchprodukte. Besucher finden hier eine authentische costa-ricanische Atmosphäre, fernab vom Massentourismus der Küsten. Die Stadt bietet alle Annehmlichkeiten eines modernen urbanen Zentrums inmitten einer spektakulären Naturkulisse. Sachkunde K4.",
@@ -396,10 +396,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Quesada, better known locally as Ciudad Quesada, is the main urban centre of San Carlos and the commercial heart of Costa Rica's northern plains. The city sits on the route toward Arenal and the northern lowlands, so it serves both farm communities and travellers moving through the region. Dairy production, cattle, pineapple fields, and public services all feed into its everyday role as a practical regional hub. In Plizio Geography K5, it shows how a canton capital can organise a wide agricultural territory."
     },
     facts: {
-      en: ['Often referred to as San Carlos', 'Gateway to the Arenal Volcano area', 'Surrounded by pineapple and sugarcane fields'],
-      de: ['Wird oft als San Carlos bezeichnet', 'Tor zum Gebiet des Vulkans Arenal', 'Umgeben von Ananas- und Zuckerrohrfeldern'],
-      hu: ['Gyakran San Carlos néven emlegetik', 'Az Arenal vulkán területének kapuja', 'Ananász- és cukornádföldekkel körülvéve'],
-      ro: ['Adesea denumit San Carlos', 'Poarta de acces către zona Vulcanului Arenal', 'Înconjurat de câmpuri de ananas și trestie de zahăr'],
+      en: ["San Carlos administrative center", "Northern commercial hub", "Agricultural region", "Cattle farming area"],
+      de: ["Zentrum des Kantons San Carlos", "Milchwirtschaftliche Region", "Tor zum Norden"],
+      hu: ["San Carlos kanton székhelye", "Északi régió gazdasági központja", "Mezőgazdasági központ", "Tejtermelés és gyümölcsök"],
+      ro: ["Centru comercial", "Regiune agricolă", "Situat în Alajuela", "Climat cald"],
     },
     factsAdvanced: {
       de: ["Höhenlage von 650 Metern über dem Meeresspiegel.", "Hauptstadt des Kantons San Carlos, dem flächenmäßig größten des Landes.", "Die Einwohnerzahl von Quesada beträgt über 40.000 Menschen.", "Entfernung zum Vulkan Arenal beträgt ca. 45 Kilometer.", "Wichtigster Umschlagplatz für Rindfleisch in Costa Rica.", "Durchschnittstemperatur liegt bei 24 Grad Celsius.", "Der Kanton San Carlos produziert über 50 % der Milch des Landes."],
@@ -425,10 +425,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Ipís',
     },
     description: {
-      en: 'A district in the Goicoechea canton, primarily a residential area within the Greater Metropolitan Area.',
-      de: 'Ein Bezirk im Kanton Goicoechea, hauptsächlich ein Wohngebiet innerhalb der Metropolregion Gran Area Metropolitana.',
-      hu: 'Goicoechea kanton egyik kerülete, elsősorban a Nagyvárosi Területen belüli lakóövezet.',
-      ro: 'Un district din cantonul Goicoechea, în principal o zonă rezidențială din Marea Zonă Metropolitană.',
+      en: "A notable district in Goicoechea, primarily characterized by its residential development and steady local population growth. It is part of the continuous urban expansion from San Jose.",
+      de: "Ipís ist ein Stadtviertel im Kanton Goicoechea, das eng mit dem Großraum San José verbunden ist. Es fungiert hauptsächlich als Wohngegend mit lokaler Infrastruktur.",
+      hu: "Ipís Goicoechea kanton egyik jelentős települése San José tartományban. A városrész elsősorban lakó funkciókat tölt be, jó kapcsolattal a főváros irányába.",
+      ro: "Zonă rezidențială în cadrul cantonului Goicoechea, provincia San José.",
     },
     descriptionAdvanced: {
       de: "Ipís ist ein bedeutender Wohn- und Gewerbedistrikt innerhalb des Kantons Goicoechea, nordöstlich von San José. Die Region hat in den letzten Jahrzehnten eine enorme urbane Transformation durchlaufen und ist heute ein fester Bestandteil der Metropolregion. Geprägt durch eine dichte Besiedlung, bietet Ipís eine Vielzahl an lokalen Dienstleistungen, Schulen und Einkaufsmöglichkeiten, die den täglichen Bedarf der Bewohner decken. Die Stadt liegt in einer zone mit angenehmem Klima und bietet von höheren Lagen aus weite Ausblicke über das Central Valley. Ipís ist ein klassisches Beispiel für die Vorstadtentwicklung Costa Ricas, in der Wohnraum für die wachsende Mittelschicht der Hauptstadt geschaffen wurde. Sachkunde K4.",
@@ -437,10 +437,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Ip?s is a fast-growing residential district in Goicoechea, where everyday life is built around schools, small businesses, and commuting toward the capital. Its urban form reflects the pressure of San Jos?'s eastern expansion, with neighbourhoods spreading across a corridor that still feels more local than the city centre. The district is not a tourist headline, but it matters as a living example of how metropolitan suburbs absorb population and services over time. In Plizio Geography K5, it works well for lessons on suburbanisation."
     },
     facts: {
-      en: ['Located northeast of the capital', 'Characterized by its urban development', 'Hosts local schools and businesses'],
-      de: ['Nordöstlich der Hauptstadt gelegen', 'Gekennzeichnet durch seine städtische Entwicklung', 'Beherbergt lokale Schulen und Unternehmen'],
-      hu: ['A fővárostól északkeletre található', 'Városfejlesztése jellemzi', 'Helyi iskoláknak ets vállalkozásoknak ad otthont'],
-      ro: ['Situat la nord-est de capitală', 'Caracterizat prin dezvoltarea sa urbană', 'Găzduiește școli și afaceri locale'],
+      en: ["Located in Goicoechea", "Residential district", "Steady population growth", "Urban expansion zone"],
+      de: ["Wohnviertel in Goicoechea", "Städtische Infrastruktur", "Teil der Metropolregion"],
+      hu: ["Goicoechea kanton része", "San José tartomány", "Lakótelepülés", "Fővárosi kapcsolat"],
+      ro: ["Parte a provinciei San José", "Zonă urbană", "Dezvoltare mixtă", "Climat temperat"],
     },
     factsAdvanced: {
       de: ["Fläche des Distrikts beträgt ca. 2,4 Quadratkilometer.", "Die Bevölkerung liegt bei über 25.000 Einwohnern.", "Durchschnittliche Höhe von 1.340 Metern über dem Meeresspiegel.", "Teil des Kantons Goicoechea, benannt nach dem Franziskaner José Antonio Goicoechea.", "Das Klima ist durch die Passatwinde und eine milde Trockenzeit geprägt.", "Liegt etwa 8 Kilometer vom Zentrum der Hauptstadt entfernt.", "Wirtschaftlich dominieren Einzelhandel und Dienstleistungen."],
@@ -466,10 +466,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Chacarita',
     },
     description: {
-      en: 'A coastal district in Puntarenas, serving as an important residential area for the port city.',
-      de: 'Ein Küstenbezirk in Puntarenas, der als wichtiges Wohngebiet für die Hafenstadt dient.',
-      hu: 'Puntarenas part menti kerülete, amely a kikötőváros fontos lakónegyedeként szolgál.',
-      ro: 'Un district de coastă din Puntarenas, care servește ca o zonă rezidențială importantă pentru orașul-port.',
+      en: "Located on the Pacific coast, this town serves as a residential and secondary service center for the port city of Puntarenas. It is known for its close connection to the local fishing economy.",
+      de: "Chacarita liegt in der Provinz Puntarenas und ist ein wichtiges Küstenviertel direkt an der Pazifikküste. Es profitiert von seiner direkten Hafenlage und dem Fischfang.",
+      hu: "Chacarita Puntarenas kikötővárosának egyik legnépesebb kerülete a Csendes-óceán partján. A település szorosan kötődik a helyi halászathoz és a tengeri kereskedelemhez.",
+      ro: "Cartier important al orașului Puntarenas, situat de-a lungul coastei Pacificului.",
     },
     descriptionAdvanced: {
       de: "Chacarita ist ein wichtiger Küstendistrikt am östlichen Ende der Landzunge von Puntarenas, direkt am Pazifik. Als bedeutendes Wohngebiet für die Hafenstadt Puntarenas bietet Chacarita eine Mischung aus maritimer Atmosphäre und urbanem Leben. Die Stadt verfügt über lange Strandabschnitte, die besonders bei Einheimischen für Wochenendausflüge beliebt sind. Fischerei spielt eine zentrale Rolle in der lokalen Wirtschaft und prägt das tägliche Bild an den Ufern des Golfs von Nicoya. Chacarita ist ein wichtiger Verkehrsknotenpunkt, da hier die Hauptstraße zur berühmten \\\"Paseo de los Turistas\\\" führt. Die Region steht für das authentische Leben an der Pazifikküste mit all seiner Wärme und Lebendigkeit. Sachkunde K4.",
@@ -478,10 +478,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Chacarita sits beside Puntarenas city on the Pacific coast, where neighbourhood life, fishing traditions, and port-side movement shape the district. The area is closely tied to the larger harbour city, but it also has its own beach-facing identity and dense local community. Its location at the edge of the Nicoya-facing shoreline makes it a good place to understand how Costa Rican coastal settlements adapt to ports, trade, and everyday residence at the same time. In Plizio Geography K5, it illustrates coastal urban geography."
     },
     facts: {
-      en: ['Adjacent to the city of Puntarenas', 'Home to local fishing communities', 'Features long stretches of beach'],
-      de: ['Angrenzend an die Stadt Puntarenas', 'Heimat lokaler Fischergemeinden', 'Verfügt über lange Strandabschnitte'],
-      hu: ['Puntarenas városa mellett található', 'Helyi halászközösségeknek ad otthont', 'Hosszú strandokkal rendelkezik'],
-      ro: ['Adiacent orașului Puntarenas', 'Găzduiește comunități locale de pescari', 'Dispune de porțiuni lungi de plajă'],
+      en: ["Pacific coastal town", "Secondary service center", "Near Puntarenas port", "Fishing economy base"],
+      de: ["Küstenstadt am Pazifik", "Hafennähe", "Traditioneller Fischfang"],
+      hu: ["Puntarenas része", "Csendes-óceáni partvidék", "Halászati központ", "Tengeri kereskedelem"],
+      ro: ["Situat pe coasta Pacificului", "Parte din Puntarenas", "Climat tropical", "Activitate portuară"],
     },
     factsAdvanced: {
       de: ["Liegt auf Meereshöhe am Golf von Nicoya.", "Der Distrikt umfasst eine Fläche von ca. 4,2 Quadratkilometern.", "Die Bevölkerung von Chacarita beträgt über 20.000 Menschen.", "Beherbergt wichtige Bildungseinrichtungen der Region Puntarenas.", "Durchschnittstemperatur liegt bei heißen 28 Grad Celsius.", "Die jährliche Niederschlagsmenge beträgt etwa 1.600 mm.", "Direkte Anbindung an die Autobahn 17 (Panamericana-Zubringer)."],
@@ -506,10 +506,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Juan',
     },
     description: {
-      en: 'The capital city of the Tibás canton, a bustling commercial and residential area north of San José.',
-      de: 'Die Hauptstadt des Kantons Tibás, ein belebtes Geschäfts- und Wohnviertel nördlich von San José.',
-      hu: 'Tibás kanton fővárosa, nyüzsgő kereskedelmi és lakónegyed San Josétól északra.',
-      ro: 'Capitala cantonului Tibás, o zonă comercială și rezidențială plină de viață la nord de San José.',
+      en: "The heart of the Tibas canton, acting as a busy residential and commercial area north of the capital. It is famous for hosting the national football stadium of Costa Rica.",
+      de: "San Juan ist das administrative Zentrum des Kantons Tibás und liegt nördlich der Hauptstadt San José. Es ist ein dichtes, überwiegend wohnwirtschaftlich geprägtes Gebiet.",
+      hu: "San Juan de Tibás az északi nagyvárosi övezet fontos kereskedelmi és közigazgatási központja. A város a sportlétesítményeiről, különösen a nemzeti stadion közeléről ismert.",
+      ro: "Sediul administrativ al cantonului Tibás, în provincia San José.",
     },
     descriptionAdvanced: {
       de: "San Juan de Tibás ist eine pulsierende Stadt nördlich von San José und dient als Verwaltungshauptstadt des Kantons Tibás. Die Region ist bekannt für ihre hohe wirtschaftliche Aktivität und ihre Rolle als wichtiger Verkehrsknotenpunkt zwischen der Hauptstadt und den Provinzen Heredia und Alajuela. San Juan beherbergt das berühmte Fußballstadion Ricardo Saprissa, eines der bedeutendsten Sportzentren Mittelamerikas. Das Stadtbild ist geprägt von einer Mischung aus traditionellen Vierteln und modernen Gewerbezonen. Trotz der hohen Bebauungsdichte bietet die Stadt gepflegte Parks und eine lebendige lokale Kultur. San Juan de Tibás ist ein Ort, der niemals schläft und ein Herzstück der Metropolregion darstellt. Sachkunde K4.",
@@ -518,10 +518,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Juan de Tib?s is a compact but influential urban district north of San Jos?, known for commerce, transport, and a strong sporting identity. The presence of Estadio Ricardo Saprissa Aym? gives it a national landmark that many Costa Ricans recognise immediately, while the surrounding streets remain firmly everyday and residential. As the capital of Tib?s canton, it plays a central role in the northern edge of the metro area. In Plizio Geography K5, it helps connect urban neighbourhoods with public infrastructure and city identity."
     },
     facts: {
-      en: ['Known for its busy central market', 'Part of the Greater Metropolitan Area', 'Important transport corridor'],
-      de: ['Bekannt für seinen belebten Zentralmarkt', 'Teil der Metropolregion Gran Area Metropolitana', 'Wichtiger Verkehrskorridor'],
-      hu: ['Forgalmas központi piacáról ismert', 'A Nagyvárosi Terület része', 'Fontos közlekedési folyosó'],
-      ro: ['Cunoscut pentru piața sa centrală aglomerată', 'Parte a Marii Zone Metropolitane', 'Coridor de transport important'],
+      en: ["Center of Tibas canton", "Busy residential area", "Hosts national stadium", "North of San Jose"],
+      de: ["Verwaltungssitz von Tibás", "Nördlich von San José", "Dichte Bebauung"],
+      hu: ["Tibás kanton központja", "Északi nagyvárosi övezet", "Kereskedelmi központ", "Sportlétesítmények"],
+      ro: ["Parte a provinciei San José", "Zonă urbană", "Centru comercial", "Climat temperat"],
     },
     factsAdvanced: {
       de: ["Höhenlage von ca. 1.160 Metern über dem Meeresspiegel.", "Der Kanton Tibás wurde 1914 offiziell gegründet.", "Das Saprissa-Stadion hat eine Kapazität von über 20.000 Zuschauern.", "Die Fläche des Distrikts San Juan beträgt etwa 3,5 Quadratkilometer.", "Die Einwohnerzahl des Kantons Tibás übersteigt 60.000 Menschen.", "Durchschnittstemperatur liegt ganzjährig bei ca. 21 Grad Celsius.", "Wichtigster Industriestandort für die Produktion von Textilien und Lebensmitteln."],
@@ -546,10 +546,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Mercedes',
     },
     description: {
-      en: 'A district in Heredia province, experiencing significant growth in both residential and commercial sectors.',
-      de: 'Ein Bezirk in der Provinz Heredia, der ein erhebliches Wachstum im Wohn- und Gewerbesektor verzeichnet.',
-      hu: 'Heredia tartomány egyik kerülete, amely jelentős növekedést mutat mind a lakossági, mind a kereskedelmi szektorban.',
-      ro: 'Un district din provincia Heredia, care se confruntă cu o creștere semnificativă atât în sectorul rezidențial, cât și în cel comercial.',
+      en: "A residential district in Heredia, reflecting the province's transition between urban and rural landscapes. It features many green spaces and peaceful neighborhoods.",
+      de: "Mercedes ist ein bedeutendes Wohngebiet in der Provinz Heredia. Die Lage bietet schnellen Zugang zu den industriellen und akademischen Zentren im Umfeld von Heredia.",
+      hu: "Mercedes egy rendezett település Heredia kantonban, szoros kapcsolatban a tartományi székhellyel. Az infrastruktúra folyamatos fejlesztése jellemzi a lakónegyedet.",
+      ro: "Localitate urbană în cadrul provinciei Heredia.",
     },
     descriptionAdvanced: {
       de: "Mercedes de Heredia ist ein dynamischer Distrikt westlich der Provinzhauptstadt Heredia, der in den letzten Jahren ein signifikantes Wachstum erlebt hat. Die Stadt verbindet den Charme alter Kaffeestädte mit der Modernität neuer Wohnanlagen und Bildungszentren. Besonders bekannt ist Mercedes als Standort des Hauptcampus der Nationalen Universität von Costa Rica (UNA), was der Gegend ein akademisches und lebendiges Flair verleiht. Die strategische Lage zwischen Heredia und Alajuela macht Mercedes zu einem beliebten Wohnort für Fachkräfte und Studenten. Trotz der Urbanisierung finden sich noch immer grüne Oasen und Reste der einst alles beherrschenden Kaffeeplantagen. Sachkunde K4.",
@@ -558,10 +558,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Mercedes de Heredia sits just west of the provincial centre, where older neighbourhood patterns meet newer housing and everyday services. The district belongs to a compact part of the Central Valley that is shaped by short travel times, local commerce, and the gravitational pull of the city of Heredia. It is not a place of big monuments, but it shows how medium-sized urban districts evolve quietly inside a strong metropolitan system. In Plizio Geography K5, it is useful for studying suburban change near a provincial capital."
     },
     facts: {
-      en: ['Located west of Heredia city center', 'Mix of traditional neighborhoods and modern developments', 'Hosts a variety of businesses'],
-      de: ['Westlich des Stadtzentrums von Heredia gelegen', 'Mischung aus traditionellen Vierteln und modernen Entwicklungen', 'Beherbergt eine Vielzahl von Unternehmen'],
-      hu: ['Heredia városközpontjától nyugatra található', 'Hagyományos negyedek és modern fejlesztések keveréke', 'Számos vállalkozásnak ad otthont'],
-      ro: ['Situat la vest de centrul orașului Heredia', 'Amestec de cartiere tradiționale și dezvoltări moderne', 'Găzduiește o varietate de afaceri'],
+      en: ["Heredia residential district", "Urban-rural mix", "Green residential spaces", "Peaceful environment"],
+      de: ["Wohngebiet in Heredia", "Industrienähe", "Gute Infrastruktur"],
+      hu: ["Heredia kantonban", "Fejlődő lakónegyed", "Tartományi kapcsolatok", "Infrastrukturális beruházások"],
+      ro: ["Situat în Heredia", "Zonă rezidențială", "Climat plăcut", "Parte a zonei metropolitane"],
     },
     factsAdvanced: {
       de: ["Durchschnittliche Höhe von 1.130 Metern über dem Meeresspiegel.", "Sitz der Universidad Nacional (UNA), einer der Top-Universitäten des Landes.", "Der Distrikt Mercedes erstreckt sich über ca. 4,1 Quadratkilometer.", "Die Bevölkerung im Distrikt beträgt über 28.000 Einwohner.", "Gegründet wurde der Kanton Heredia bereits im Jahr 1848.", "Das Klima ist mild mit Temperaturen zwischen 17 und 25 Grad Celsius.", "Wichtiger Standort für Technologieunternehmen und Callcenter."],
@@ -586,10 +586,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Guadalupe',
     },
     description: {
-      en: 'The capital city of the Goicoechea canton, a significant commercial and residential hub east of San José.',
-      de: 'Die Hauptstadt des Kantons Goicoechea, ein bedeutendes Handels- und Wohnzentrum östlich von San José.',
-      hu: 'Goicoechea kanton fővárosa, fontos kereskedelmi és lakossági központ San Josétól keletre.',
-      ro: 'Capitala cantonului Goicoechea, un important centru comercial și rezidențial la est de San José.',
+      en: "The main district of Goicoechea, serving as a bustling commercial and administrative hub for the eastern suburbs of San Jose. It is well-connected and densely populated.",
+      de: "Guadalupe ist der Verwaltungssitz des Kantons Goicoechea und verbindet städtische Entwicklung mit lokaler Tradition. Es liegt am Rande des Zentrums von San José.",
+      hu: "Guadalupe Goicoechea kanton székhelye és San José egyik fontos elővárosa. A város történelmi épületei és modern központja az üzleti élet számára is jelentős.",
+      ro: "Sediul cantonului Goicoechea, o zonă urbană cheie în provincia San José.",
     },
     descriptionAdvanced: {
       de: "Guadalupe ist das pulsierende Verwaltungszentrum des Kantons Goicoechea und liegt unmittelbar nordöstlich von San José. Die Stadt ist bekannt für ihre lebhafte Hauptstraße, gesäumt von Geschäften, Banken und Regierungsgebäuden, die sie zu einem wichtigen kommerziellen Knotenpunkt machen. Das Wahrzeichen der Stadt ist der zentrale Park mit seiner imposanten Kirche, die den kulturellen Mittelpunkt der Gemeinde bildet. Guadalupe hat sich von einer einstigen Kaffeeregion zu einem modernen städtischen Raum entwickelt, der dennoch seine historischen Wurzeln ehrt. Die hohe Lebensqualität und die exzellente Anbindung an die Hauptstadt machen Guadalupe zu einem attraktiven Standort für Arbeit und Wohnen. Sachkunde K4.",
@@ -598,10 +598,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Guadalupe is one of the busiest urban centres east of San Jos?, acting as the canton capital of Goicoechea and a major commercial node in the metro area. Its streets concentrate offices, shops, services, and everyday movement, so the district feels like a working city within the capital region rather than a quiet suburb. The central park and parish church remain its most recognisable landmarks, but the real story is the density of daily life around them. In Plizio Geography K5, it demonstrates how district capitals organise local commerce."
     },
     facts: {
-      en: ['Hosts many government offices and businesses', 'Known for its central park and church', 'A key district in the capital\\\\\\\'s metropolitan area'],
-      de: ['Beherbergt viele Regierungsbüros und Unternehmen', 'Bekannt für seinen zentralen Park und seine Kirche', 'Ein wichtiger Bezirk im Metropolbereich der Hauptstadt'],
-      hu: ['Számos kormányzati hivatalnak és vállalkozásnak ad otthont', 'Központi parkjáról és templomáról ismert', 'A főváros nagyvárosi területének kulcsfontosságú kerülete'],
-      ro: ['Găzduiește multe birouri guvernamentale și afaceri', 'Cunoscut pentru parcul său central și biserică', 'Un district cheie în zona metropolitană a capitalei'],
+      en: ["Goicoechea administrative center", "Eastern San Jose suburb", "Commercial hub", "High population density"],
+      de: ["Hauptort von Goicoechea", "Städtisch geprägt", "Verkehrsknotenpunkt"],
+      hu: ["Goicoechea kanton székhelye", "San José elővárosa", "Történelmi épületek", "Üzleti központ"],
+      ro: ["Centru administrativ", "Situat în San José", "Zonă urbană", "Dezvoltare comercială"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 1.200 Metern über dem Meeresspiegel.", "Hauptstadt des Kantons Goicoechea, gegründet 1891.", "Die Einwohnerzahl von Guadalupe beträgt ca. 22.000 Menschen.", "Der Kanton hat eine Gesamtbevölkerung von über 130.000 Einwohnern.", "Beherbergt den Hauptsitz des Justizministeriums von Costa Rica.", "Die Fahrzeit ins Zentrum von San José beträgt oft weniger als 15 Minuten.", "Das Klima ist durch gemäßigte Temperaturen und hohe Luftfeuchtigkeit geprägt."],
@@ -626,10 +626,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Aserrí',
     },
     description: {
-      en: 'A city south of San José, known for its tamales, mountain views, and the "Indian Witch" legend.',
-      de: 'Eine Stadt südlich von San José, bekannt für ihre Tamales, den Bergblick und die Legende von der "indianischen Hexe".',
-      hu: 'San Josétól délre fekvő város, amely tamaleséről, hegyi kilátásáról és az "indián boszorkány" legendájáról ismert.',
-      ro: 'Un oraș la sud de San José, cunoscut pentru tamalele sale, priveliștile montane și legenda "Vrăjitoarei Indiene".',
+      en: "Situated on the southern mountains overlooking San Jose, this area offers a cooler climate and traditional cultural experiences. It is historically significant for its colonial roots.",
+      de: "Aserrí liegt südlich von San José und ist bekannt für seine bergige Landschaft und traditionelle costaricanische Küche. Der Ort bietet Ausblicke auf das zentrale Hochland.",
+      hu: "Aserrí egy hagyományos hangulatú település San José déli peremén, ismert a helyi kézművességről és gasztronómiáról. A városból panorámás kilátás nyílik a fővárosra.",
+      ro: "Oraș istoric situat la sud de capitala San José.",
     },
     descriptionAdvanced: {
       de: "Aserrí, gelegen in den südlichen Ausläufern des Central Valley, ist eine Stadt voller Legenden und kulinarischer Traditionen. Berühmt ist der Ort vor allem für seine Tamales, ein traditionelles Gericht aus Maisteig, das hier in höchster Qualität zubereitet wird. Die Stadt ist eng mit der Legende der \\\"Hexe von Escazú und Aserrí\\\" verbunden, die in den umliegenden Bergen gelebt haben soll. Von den Hügeln Aserrís bietet sich ein spektakulärer Blick auf die nächtlichen Lichter von San José. Die kühleren Temperaturen und die bergige Landschaft machen die Stadt zu einem beliebten Ausflugsziel für Städter. Aserrí bewahrt sich einen rustikalen Charme und eine tiefe Verbundenheit mit der Folklore Costa Ricas. Sachkunde K4.",
@@ -638,10 +638,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Aserr? lies in the southern foothills beyond San Jos?, where cooler air, mountain scenery, and strong food traditions define the town's identity. It is especially famous for tamales and for the local legend of the Indian Witch, which gives the canton a memorable cultural story beyond its geography. The place feels close to the capital but still retains a semi-rural mountain character that distinguishes it from denser metro districts. In Plizio Geography K5, it is a useful example of foothill settlement and regional culture."
     },
     facts: {
-      en: ['Famous for its culinary traditions', 'Located in the foothills of the Escazú Mountains', 'Offers a cooler climate than the central valley'],
-      de: ['Berühmt für seine kulinarischen Traditionen', 'In den Ausläufern der Escazú-Berge gelegen', 'Bietet ein kühleres Klima als das Zentraltal'],
-      hu: ['Kulináris hagyományairól híres', 'Az Escazú-hegység lábánál található', 'Hűvösebb éghajlatot kínál, mint a központi völgy'],
-      ro: ['Renumit pentru tradițiile sale culinare', 'Situat la poalele Munților Escazú', 'Oferă o climă mai răcoroasă decât valea centrală'],
+      en: ["Southern mountain location", "Overlooks San Jose", "Cool highland climate", "Colonial heritage"],
+      de: ["Südlich von San José", "Bergige Landschaft", "Regionale Gastronomie"],
+      hu: ["San José déli pereme", "Helyi kézművesség", "Gastronómiai központ", "Panoráma a fővárosra"],
+      ro: ["Zonă istorică", "Situat în San José", "Climat montan moderat", "Tradiții culturale"],
     },
     factsAdvanced: {
       de: ["Höhenlage von ca. 1.300 Metern über dem Meeresspiegel.", "Wird oft als die \\\"Hauptstadt der Tamales\\\" in Costa Rica bezeichnet.", "Die Gebirgskette Cerros de Escazú dominiert das Landschaftsbild.", "Gegründet wurde der Kanton Aserrí im Jahr 1882.", "Die Einwohnerzahl des Kantons liegt bei über 60.000 Menschen.", "Das Klima ist spürbar kühler als im Zentrum von San José.", "Feiert jährlich im August das Fest des Heiligen Ludwig von Toulouse.", "Über 50 % der Fläche des Kantons sind gebirgig und bewaldet."],
@@ -666,10 +666,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Rafael de Escazú',
     },
     description: {
-      en: 'An affluent district in Escazú, known for its exclusive residential areas, fine dining, and commercial centers.',
-      de: 'Ein wohlhabender Bezirk in Escazú, bekannt für seine exklusiven Wohngegenden, gehobene Gastronomie und Einkaufszentren.',
-      hu: 'Escazú egyik jómódú kerülete, amely exkluzív lakónegyedeiről, finom éttermeiről és kereskedelmi központjairól ismert.',
-      ro: 'Un district bogat din Escazú, cunoscut pentru zonele sale rezidențiale exclusive, restaurantele rafinate și centrele comerciale.',
+      en: "An upscale residential district within Escazu, known for its high-end housing and modern infrastructure. It serves as a central hub for commercial services and international business.",
+      de: "San Rafael de Escazú ist ein exklusiver Wohnort am westlichen Stadtrand von San José. Die Gegend zeichnet sich durch moderne Wohnanlagen und hochwertige Dienstleistungen aus.",
+      hu: "San Rafael de Escazú a modern, magas státuszú lakó- és üzleti negyed központja Escazúban. A terület számos nemzetközi cég irodájának és luxuslakásnak ad otthont.",
+      ro: "Zonă rezidențială exclusivistă în cantonul Escazú, provincia San José.",
     },
     descriptionAdvanced: {
       de: "San Rafael de Escazú gilt als das exklusivste Wohn- und Geschäftsviertel von Costa Rica. Hier trifft Luxus auf moderne Architektur, gepaart mit erstklassiger Infrastruktur. Die Stadt beherbergt die prestigeträchtigsten Einkaufszentren des Landes, wie das Multiplaza Escazú, sowie eine beeindruckende Auswahl an Gourmet-Restaurants und Luxushotels. San Rafael ist die bevorzugte Adresse für Diplomaten, Expatriates und die lokale Elite. Trotz des modernen Flairs bietet die Stadt wunderschöne Ausblicke auf die grünen Berge von Escazú. Die Sicherheit, die hohe Qualität der Dienstleistungen und das internationale Ambiente machen San Rafael zu einem einzigartigen Ort in Mittelamerika. Hier wird das moderne, kosmopolitische Gesicht Costa Ricas sichtbar. Sachkunde K4.",
@@ -678,10 +678,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Rafael de Escaz? is the district most often associated with upscale housing, premium shopping, and business life on the western side of the capital region. Multiplaza Escaz? and nearby restaurants make the area one of the best-known consumer zones in Costa Rica, while the hillside setting opens broad views over the Central Valley. It is a place where urban wealth, international residents, and modern services all meet in a compact district. In Plizio Geography K5, it shows how affluent suburban districts are built around commerce and prestige."
     },
     facts: {
-      en: ['One of the most developed areas in Costa Rica', 'Home to many expatriates', 'Offers a view of the Central Valley'],
-      de: ['Eines der am weitesten entwickelten Gebiete in Costa Rica', 'Heimat vieler Expatriates', 'Bietet einen Blick auf das Zentraltal'],
-      hu: ['Costa Rica egyik legfejlettebb területe', 'Sok külföldi otthona', 'Kilátást nyújt a Központi-völgyre'],
-      ro: ['Una dintre cele mai dezvoltate zone din Costa Rica', 'Găzduiește mulți expatriați', 'Oferă o vedere asupra Văii Centrale'],
+      en: ["Escazu residential district", "Upscale housing", "Modern infrastructure", "Commercial service hub"],
+      de: ["Westlich von San José", "Gehobene Wohngegend", "Kommerzielle Entwicklung"],
+      hu: ["Escazú kanton része", "Modern üzleti negyed", "Luxus lakóövezet", "Nemzetközi cégek központja"],
+      ro: ["Parte din Escazú", "Zonă de lux", "Situat în San José", "Climat temperat"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer durchschnittlichen Höhe von 1.050 Metern.", "Beherbergt über 50 % der Luxusimmobilien des Central Valley.", "Das Multiplaza Escazú ist eines der größten Einkaufszentren Mittelamerikas.", "Entfernung zum Stadtzentrum von San José beträgt ca. 8 Kilometer.", "Das Klima ist sonniger und trockener als im Osten der Hauptstadt.", "San Rafael ist einer von drei Distrikten des Kantons Escazú.", "Die majority der internationalen Botschaften befindet sich in oder nahe San Rafael."],
@@ -706,10 +706,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Felipe',
     },
     description: {
-      en: 'A district of Alajuelita canton, this urban area is part of the southern San José metropolitan region.',
-      de: 'Ein Bezirk des Kantons Alajuelita, dieses städtische Gebiet ist Teil der südlichen Metropolregion San José.',
-      hu: 'Alajuelita kanton egyik kerülete, ez a városi terület a déli San José nagyvárosi régió része.',
-      ro: 'Un district al cantonului Alajuelita, această zonă urbană face parte din regiunea metropolitană de sud a San José.',
+      en: "The core of the Alajuelita canton, a densely settled residential area south of San Jose. It is known for its local markets and community-focused atmosphere.",
+      de: "San Felipe ist ein zentrales Viertel im Kanton Alajuelita. Die Region ist eng mit der städtischen Struktur des südlichen Ballungsraums von San José verbunden.",
+      hu: "San Felipe Alajuelita kanton egyik központi települése San José déli részén. A városrész népessége gyorsan nőtt, kereskedelmi és lakó funkciói meghatározóak.",
+      ro: "Localitate în cantonul Alajuelita, provincia San José.",
     },
     descriptionAdvanced: {
       de: "San Felipe ist ein dicht besiedelter Distrikt im Kanton Alajuelita, südwestlich von San José. Die Region dient primär als wichtiges Wohngebiet innerhalb der Metropolregion und beherbergt eine Vielzahl von Arbeitervierteln und Wohnsiedlungen. In den letzten Jahren hat San Felipe eine starke urbane Expansion erlebt, was zu einer lebhaften lokalen Wirtschaft mit zahlreichen kleinen Geschäften und Dienstleistern geführt hat. Die Stadt liegt in einer hügeligen Landschaft, die den Bewohnern oft schöne Ausblicke auf die Hauptstadt bietet. San Felipe steht für das pulsierende Alltagsleben der costa-ricanischen Bevölkerung, wo Gemeinschaft und lokales Engagement eine große Rolle spielen. Die Nähe zum Stadtzentrum von San José macht es zu einem strategischen Wohnstandort. Sachkunde K4.",
@@ -718,10 +718,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Felipe is a dense urban district in Alajuelita, where residential blocks, local services, and commuting patterns dominate the landscape. It belongs to the southern side of the San Jos? metropolitan area and sits close to Escaz?, so it often functions as part of a larger urban chain rather than as an isolated place. The district is a reminder that metro growth is not only about business centres and wealthy suburbs; it also depends on compact working neighbourhoods. In Plizio Geography K5, it helps explain the structure of a dense commuter district."
     },
     facts: {
-      en: ['A densely populated residential district', 'Borders the canton of Escazú', 'Contains numerous local businesses and services'],
-      de: ['Ein dicht besiedeltes Wohnviertel', 'Grenzt an den Kanton Escazú', 'Enthält zahlreiche lokale Unternehmen und Dienstleistungen'],
-      hu: ['Sűrűn lakott lakókerület', 'Escazú kantonnal határos', 'Számos helyi vállalkozást és szolgáltatást tartalmaz'],
-      ro: ['Un district rezidențial dens populat', 'Se învecinează cu cantonul Escazú', 'Conține numeroase afaceri și servicii locale'],
+      en: ["Alajuelita canton center", "Dense residential area", "South of San Jose", "Community focus"],
+      de: ["Zentrales Viertel in Alajuelita", "Südlich von San José", "Städtisches Wohngebiet"],
+      hu: ["Alajuelita kanton része", "Déli régió", "Gyorsan növő lakosság", "Kereskedelmi funkciók"],
+      ro: ["Situat în San José", "Zonă urbană", "Dezvoltare rezidențială", "Climat plăcut"],
     },
     factsAdvanced: {
       de: ["Fläche des Distrikts beträgt ca. 1,6 Quadratkilometer.", "Die Einwohnerzahl von San Felipe übersteigt 30.000 Menschen.", "Liegt auf einer Höhe von rund 1.100 Metern über dem Meeresspiegel.", "Gehört zum Kanton Alajuelita, der 1909 gegründet wurde.", "Durchschnittstemperatur liegt zwischen 19 und 27 Grad Celsius.", "Grenzt direkt an die wohlhabenden Kantone Escazú und San José.", "Wichtigster Sektor der lokalen Wirtschaft ist der Einzelhandel."],
@@ -746,10 +746,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Patarrá',
     },
     description: {
-      en: 'A district in the Desamparados canton, located in a valley southeast of the capital.',
-      de: 'Ein Bezirk im Kanton Desamparados, in einem Tal südöstlich der Hauptstadt gelegen.',
-      hu: 'Desamparados kanton egyik kerülete, a fővárostól délkeletre fekvő völgyben.',
-      ro: 'Un district din cantonul Desamparados, situat într-o vale la sud-est de capitală.',
+      en: "A district in Desamparados, providing essential residential space and local services to the southern metropolitan area. It is characterized by its hilly terrain.",
+      de: "Patarrá liegt in einer hügeligen Region im Kanton Desamparados. Es ist vorwiegend durch eine ländlich-urbane Mischstruktur geprägt.",
+      hu: "Patarrá Desamparados kanton része, egy fejlődő település a főváros közelében. A terület a hagyományos települési forma és az urbanizáció metszetében található.",
+      ro: "Comunitate în cantonul Desamparados, cunoscută pentru peisajul său variat.",
     },
     descriptionAdvanced: {
       de: "Patarrá, ein malerischer Distrikt im Kanton Desamparados, liegt in einem grünen Tal südöstlich der Hauptstadt. Die Region ist bekannt für ihre ländliche Atmosphäre, die trotz der Nähe zur Metropole erhalten geblieben ist. Historisch war Patarrá ein Zentrum der Kalksteinproduktion, was die Entwicklung der Gegend maßgeblich prägte. Heute ist es ein beliebtes Ziel für Wanderer und Naturliebhaber, die die umliegenden Hügel und kleinen Wasserfälle erkunden möchten. Die Stadt bietet eine willkommene Ruhepause vom hektischen Stadtleben und besticht durch ihre freundlichen Bewohner und traditionellen Märkte. Patarrá zeigt eine andere, naturnahere Seite des Kantons Desamparados und ist ein Ort, an dem Traditionen noch aktiv gelebt werden. Sachkunde K4.",
@@ -758,10 +758,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Patarr? lies southeast of San Jos? in a valley landscape that still holds onto a semi-rural rhythm despite steady suburban pressure. Small farms, hill slopes, and family neighbourhoods sit side by side, while the district's history includes limestone production that shaped local development. The area therefore tells two stories at once: one of older rural land use and one of modern metropolitan expansion. In Plizio Geography K5, it is a strong example of land-use transition on the edge of the capital."
     },
     facts: {
-      en: ['Known for its agricultural past', 'Transitioning from rural to suburban', 'Surrounded by hills and small farms'],
-      de: ['Bekannt für seine landwirtschaftliche Vergangenheit', 'Übergang von ländlich zu vorstädtisch', 'Umgeben von Hügeln und kleinen Bauernhöfen'],
-      hu: ['Mezőgazdasági múltjáról ismert', 'Vidékről külvárosivá alakul', 'Hegyek és kis gazdaságok veszik körül'],
-      ro: ['Cunoscut pentru trecutul său agricol', 'În tranziție de la rural la suburban', 'Înconjurat de dealuri și ferme mici'],
+      en: ["Desamparados district", "Residential services", "Southern metro area", "Hilly landscape"],
+      de: ["Teil von Desamparados", "Hügelige Region", "Ländlich-urbaner Mix"],
+      hu: ["Desamparados kantonban", "Főváros közelsége", "Fejlődő terület", "Hagyományos és modern keveredése"],
+      ro: ["Situat în Desamparados", "Zonă rezidențială", "Climat temperat", "Peisaj montan"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer durchschnittlichen Höhe von 1.250 Metern.", "Die Fläche des Distrikts Patarrá beträgt ca. 12,6 Quadratkilometer.", "Die Bevölkerung liegt bei rund 13.000 Einwohnern.", "Historisch bekannt für seine bedeutenden Kalksteinbrüche.", "Das Klima ist gemäßigt mit viel Niederschlag in der Regenzeit.", "Bietet Zugang zu Wanderwegen in den Cerros de Escazú.", "Entfernung zum Zentrum von San José beträgt etwa 9 Kilometer."],
@@ -787,10 +787,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Tejar',
     },
     description: {
-      en: 'The capital city of El Guarco canton, located just west of Cartago, known for industry and agriculture.',
-      de: 'Die Hauptstadt des Kantons El Guarco, westlich von Cartago gelegen, bekannt für Industrie und Landwirtschaft.',
-      hu: 'El Guarco kanton fővárosa, Cartagótól nyugatra, iparáról és mezőgazdaságáról ismert.',
-      ro: 'Capitala cantonului El Guarco, situată la vest de Cartago, cunoscută pentru industrie și agricultură.',
+      en: "The main center of the El Guarco canton, acting as a residential bridge between the city of Cartago and the surrounding rural areas. It features steady urban development.",
+      de: "Tejar ist der Hauptort des Kantons El Guarco in der Provinz Cartago. Der Ort ist bekannt für seine industrielle Entwicklung und die Nähe zum Zentrum von Cartago.",
+      hu: "Tejar El Guarco kanton székhelye Cartago tartományban. A település egyre inkább integrálódik Cartago nagyvárosi területébe, növekvő ipari és szolgáltató szektorral.",
+      ro: "Sediul cantonului El Guarco, în provincia Cartago.",
     },
     descriptionAdvanced: {
       de: "Tejar ist die dynamische Hauptstadt des Kantons El Guarco in der Provinz Cartago. Die Stadt liegt strategisch günstig am westlichen Eingang von Cartago und hat sich zu einem bedeutenden Zentrum für Industrie und Handel entwickelt. Gleichzeitig bleibt die Region tief mit der Landwirtschaft verwurzelt, insbesondere mit dem Anbau von Gemüse, das das Central Valley versorgt. Tejar ist bekannt für seine moderne Infrastruktur, die zahlreiche Unternehmen und Fabriken angezogen hat. Besucher finden hier eine Stadt im Aufbruch, die dennoch ihren traditionellen Kern bewahrt. Die Nähe zur Provinzhauptstadt und die gute Anbindung an die Panamericana machen Tejar zu einem attraktiven Standort für wirtschaftliche Aktivitäten und modernes Wohnen. Sachkunde K4.",
@@ -799,10 +799,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Tejar is the canton capital of El Guarco and one of the most practical urban nodes in the Cartago corridor. Its location just west of Cartago city gives it a role in manufacturing, logistics, and the movement of goods, while the surrounding fields still support vegetable farming. The district blends industry with agriculture in a way that makes it easy to understand why the Cartago region remains economically diverse. In Plizio Geography K5, it is ideal for studying mixed-use regional centres."
     },
     facts: {
-      en: ['Part of the Cartago metropolitan area', 'Home to several industrial parks', 'Important for vegetable farming'],
-      de: ['Teil der Metropolregion Cartago', 'Heimat mehrerer Industrieparks', 'Wichtig für den Gemüseanbau'],
-      hu: ['Cartago nagyvárosi területének része', 'Több ipari parknak ad otthont', 'Fontos a zöldségtermesztés szempontjából'],
-      ro: ['Parte a zonei metropolitane Cartago', 'Găzduiește mai multe parcuri industriale', 'Important pentru cultivarea legumelor'],
+      en: ["El Guarco center", "Cartago residential bridge", "Steady development", "Rural-urban interface"],
+      de: ["Hauptort von El Guarco", "Industriestandort", "Nahe Cartago"],
+      hu: ["El Guarco kanton székhelye", "Cartago tartomány", "Növekvő ipar", "Szolgáltató szektor"],
+      ro: ["Centru administrativ", "Situat în Cartago", "Zonă agricolă", "Climat temperat"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 1.350 Metern über dem Meeresspiegel.", "Hauptstadt des Kantons El Guarco, gegründet im Jahr 1939.", "Der Distrikt Tejar umfasst eine Fläche von ca. 6,1 Quadratkilometern.", "Die Bevölkerung in Tejar beträgt über 25.000 Einwohner.", "Durchschnittstemperatur liegt bei kühleren 19 Grad Celsius.", "Wichtiger Standort für mehrere große Industrieparks der Region.", "Direkte Lage an der Panamericana (Interamericana Sur)."],
@@ -828,10 +828,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Pablo',
     },
     description: {
-      en: 'A historic city and canton in Heredia, featuring a mix of colonial architecture and modern development.',
-      de: 'Eine historische Stadt und ein Kanton in Heredia, die eine Mischung aus Kolonialarchitektur und moderner Entwicklung aufweisen.',
-      hu: 'Történelmi város és kanton Herediában, ahol a gyarmati építészet és a modern fejlesztések keverednek.',
-      ro: 'Un oraș istoric și canton din Heredia, care prezintă un amestec de arhitectură colonială și dezvoltare modernă.',
+      en: "A fast-growing residential community in Heredia, popular for its proximity to San Jose and its pleasant suburban environment. It offers a balance of urban amenities and green space.",
+      de: "San Pablo ist ein schnell wachsender Vorort in der Provinz Heredia. Aufgrund seiner strategischen Lage zwischen Heredia und San José ist er ein beliebter Wohnstandort.",
+      hu: "San Pablo Heredia tartomány egyik központi kantonja, mely a modernizáció és a hagyományos kisvárosi hangulat keverékét nyújtja. A település kiváló elhelyezkedése miatt népszerű lakóhely.",
+      ro: "Canton și oraș în provincia Heredia, parte a zonei metropolitane.",
     },
     descriptionAdvanced: {
       de: "San Pablo de Heredia ist eine charmante Stadt, die eine perfekte Balance zwischen historischem Erbe und moderner Entwicklung findet. Als Hauptstadt des gleichnamigen Kantons zeichnet sich San Pablo durch seine gepflegten Wohnviertel und seine ruhige Atmosphäre aus. Ein besonderes Merkmal der Stadt ist die beeindruckende Kirche im Kolonialstil, die den zentralen Platz dominiert. In den letzten Jahrzehnten hat sich San Pablo von einer landwirtschaftlich geprägten Zone zu einem beliebten Wohnort für die Mittelschicht entwickelt, ohne dabei seine Identität zu verlieren. Die Stadt ist bekannt für ihre Sicherheit, ihre grünen Parks und ihre exzellenten Bildungseinrichtungen. San Pablo bietet eine hohe Lebensqualität im Herzen der Provinz Heredia. Sachkunde K4.",
@@ -840,10 +840,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Pablo de Heredia combines a calm residential feel with the status of a canton capital, which gives it both local function and regional relevance. The district is closely tied to Heredia city, yet it retains a quieter pace, a visible parish church, and neighbourhoods that feel more compact than the larger urban centres nearby. Its setting is a good reminder that not every provincial city grows through heavy industry; some are defined by steady community life and short-distance commuting. In Plizio Geography K5, it supports lessons on small urban centres."
     },
     facts: {
-      en: ['Known for its large colonial-style church', 'Maintains a quiet, traditional atmosphere', 'Located just east of Heredia city'],
-      de: ['Bekannt für seine große Kirche im Kolonialstil', 'Bewahrt eine ruhige, traditionelle Atmosphäre', 'Östlich der Stadt Heredia gelegen'],
-      hu: ['Nagy, gyarmati stílusú templomáról ismert', 'Csendes, hagyományos légkört tart fenn', 'Heredia városától keletre található'],
-      ro: ['Cunoscut pentru biserica sa mare în stil colonial', 'Păstrează o atmosferă liniștită, tradițională', 'Situat la est de orașul Heredia'],
+      en: ["Heredia residential community", "Fast-growing population", "Near San Jose", "Suburban balance"],
+      de: ["Wachsender Vorort", "Strategische Lage", "Wohnstandort"],
+      hu: ["Heredia tartományban", "Kisvárosi hangulat", "Népszerű lakóhely", "Kiváló elhelyezkedés"],
+      ro: ["Situat în Heredia", "Zonă urbană", "Climat plăcut", "Dezvoltare economică"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 1.200 Metern über dem Meeresspiegel.", "Der Kanton San Pablo wurde 1961 offiziell gegründet.", "Die Fläche des Kantons beträgt nur ca. 7,5 Quadratkilometer.", "Die Einwohnerzahl liegt bei über 30.000 Menschen.", "Das Klima ist mild mit einer Durchschnittstemperatur von 21 Grad Celsius.", "Entfernung zum Stadtzentrum von Heredia beträgt ca. 2 Kilometer.", "Wurde früher \\\"Pueblo Nuevo\\\" (Neues Dorf) genannt."],
@@ -869,10 +869,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Calle Blancos',
     },
     description: {
-      en: 'An important industrial and commercial district in the Goicoechea canton, north of San José.',
-      de: 'Ein wichtiger Industrie- und Handelsbezirk im Kanton Goicoechea, nördlich von San José.',
-      hu: 'Fontos ipari és kereskedelmi negyed Goicoechea kantonban, San Josétól északra.',
-      ro: 'Un important district industrial și comercial din cantonul Goicoechea, la nord de San José.',
+      en: "A strategic industrial and commercial district in Goicoechea, positioned close to the major roads connecting the capital to the north and east.",
+      de: "Calle Blancos ist ein bedeutender industrieller und kommerzieller Knotenpunkt innerhalb des Kantons Goicoechea. Die Lage ermöglicht eine schnelle Anbindung an San José.",
+      hu: "Calle Blancos Goicoechea kanton egyik fontos ipari és kereskedelmi övezete San José északkeleti peremén. A területen számos raktár és logisztikai központ található.",
+      ro: "Zonă urbană importantă în cantonul Goicoechea, provincia San José.",
     },
     descriptionAdvanced: {
       de: "Calle Blancos ist ein bedeutender Industrie- und Gewerbedistrikt nördlich von San José, der eine Schlüsselrolle in der Wirtschaft der Hauptstadtregion spielt. Die Stadt beherbergt zahlreiche Fabriken, Logistikzentren und Firmenzentralen nationaler sowie internationaler Unternehmen. Besonders bekannt ist Calle Blancos für den Standort der nationalen Ölraffinerie RECOPE und bedeutende Sendeanstalten. Trotz des industriellen Fokus gibt es etablierte Wohngebiete, die von der hervorragenden Anbindung an das Verkehrsnetz profitieren. Calle Blancos ist ein Ort der Arbeit und des Fortschritts, an dem täglich tausende Menschen ihrem Beruf nachgehen. Die ständige Modernisierung der Infrastruktur macht die Region zu einem unverzichtbaren Wirtschaftsmotor im Central Valley. Sachkunde K4.",
@@ -881,10 +881,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Calle Blancos is one of the capital region's strongest industrial and commercial districts, with warehouses, office buildings, and factory sites shaping much of its identity. Because it sits north of San Jos? in Goicoechea, it also functions as a key movement corridor where goods, workers, and services converge. The district is less about scenic landmarks than about the operational backbone of the metropolitan economy. In Plizio Geography K5, it is a straightforward example of urban industrial geography."
     },
     facts: {
-      en: ['Home to many factories and company headquarters', 'Site of the country\\\\\\\'s main oil refinery', 'A key area for employment in the capital region'],
-      de: ['Heimat vieler Fabriken und Firmenzentralen', 'Standort der wichtigsten Ölraffinerie des Landes', 'Ein Schlüsselbereich für die Beschäftigung in der Hauptstadtregion'],
-      hu: ['Számos gyárnak és vállalati központnak ad otthont', 'Az ország fő olajfinomítójának helyszíne', 'A fővárosi régió foglalkoztatásának kulcsfontosságú területe'],
-      ro: ['Găzduiește multe fabrici și sedii de companii', 'Locația principalei rafinării de petrol a țării', 'O zonă cheie pentru ocuparea forței de muncă în regiunea capitalei'],
+      en: ["Goicoechea industrial zone", "Strategic location", "Near major transit routes", "Commercial hub"],
+      de: ["Industrieller Knotenpunkt", "Teil von Goicoechea", "Nahe San José"],
+      hu: ["Goicoechea kanton", "Ipari övezet", "Kereskedelmi központ", "Logisztikai csomópont"],
+      ro: ["Situat în San José", "Zonă industrială și rezidențială", "Climat temperat", "Aproape de centru"],
     },
     factsAdvanced: {
       de: ["Höhenlage von ca. 1.180 Metern über dem Meeresspiegel.", "Der Distrikt Calle Blancos umfasst ca. 2,4 Quadratkilometer.", "Die Bevölkerung beträgt rund 20.000 Einwohner.", "Beherbergt den Hauptstandort der costaricanischen Sozialversicherung (CCSS).", "Wichtigstes Industriegebiet im Norden der Metropolregion San José.", "Direkte Anbindung an die Ringstraße (Circunvalación).", "Durchschnittliche Jahrestemperatur liegt bei 22 Grad Celsius."],
@@ -910,10 +910,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Cañas',
     },
     description: {
-      en: 'A city in Guanacaste province, known for its hot, dry climate and proximity to wind energy projects.',
-      de: 'Eine Stadt in der Provinz Guanacaste, bekannt für ihr heißes, trockenes Klima und die Nähe zu Windenergieprojekten.',
-      hu: 'Guanacaste tartomány egyik városa, amely forró, száraz éghajlatáról és a szélenergia-projektek közelségéről ismert.',
-      ro: 'Un oraș din provincia Guanacaste, cunoscut pentru climatul său cald și uscat și apropierea de proiectele de energie eoliană.',
+      en: "A vital town in Guanacaste, known for its hot climate and agricultural prominence in the region. It serves as a gateway to several ecological tourism sites in the north.",
+      de: "Cañas liegt in der Provinz Guanacaste und ist ein Zentrum der landwirtschaftlichen Produktion. Die Region profitiert von der intensiven Bewässerungslandwirtschaft.",
+      hu: "Cañas Guanacaste tartomány központjában fekvő település, a mezőgazdaság és az állattenyésztés egyik fellegvára. A város a régió fontos kereskedelmi pontja.",
+      ro: "Centru agricol și comercial în provincia Guanacaste.",
     },
     descriptionAdvanced: {
       de: "Cañas ist eine sonnenverwöhnte Stadt im Herzen von Guanacaste, gelegen an der geschäftigen Panamericana. Die Region ist bekannt für ihre weiten Ebenen, die ideal für die Rinderzucht und den Reisanbau sind. Das heiße und trockene Klima prägt den Lebensstil der Bewohner und macht Cañas zu einem wichtigen Rastplatz für Reisende auf dem Weg zu den Stränden des Pazifiks. In der Umgebung von Cañas finden sich bedeutende Energieprojekte, insbesondere Windparks und Geothermieanlagen, die Costa Rica mit sauberem Strom versorgen. Zudem ist die Stadt ein Tor zum Palo Verde Nationalpark, einem Paradies für Vogelbeobachter. Cañas verbindet die traditionelle Sabanero-Kultur mit moderner Energietechnologie und Landwirtschaft. Sachkunde K4.",
@@ -922,10 +922,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Ca?as is a hot, dry Guanacaste town where the Pan-American Highway, cattle ranching, and energy projects meet open lowland scenery. Its climate is part of the story: long dry months shape agriculture, work patterns, and the feel of the streets themselves. The town is also close enough to protected wetlands and the Palo Verde zone to connect farming with conservation. That combination makes Ca?as a good place to understand Guanacaste's economic landscape beyond the beach coast. In Plizio Geography K5, it shows how climate drives regional land use."
     },
     facts: {
-      en: ['Located on the Pan-American Highway', 'An important center for cattle ranching', 'Near the Palo Verde National Park'],
-      de: ['An der Panamericana gelegen', 'Ein wichtiges Zentrum für die Rinderzucht', 'In der Nähe des Nationalparks Palo Verde'],
-      hu: ['A Pánamerikai főútvonalon található', 'A szarvasmarha-tenyésztés fontos központja', 'A Palo Verde Nemzeti Park közelében'],
-      ro: ['Situat pe autostrada Pan-Americană', 'Un centru important pentru creșterea vitelor', 'Aproape de Parcul Național Palo Verde'],
+      en: ["Guanacaste region", "Hot tropical climate", "Agricultural prominence", "Eco-tourism gateway"],
+      de: ["Guanacaste-Region", "Landwirtschaftszentrum", "Bewässerungslandwirtschaft"],
+      hu: ["Guanacaste tartomány", "Mezőgazdasági központ", "Állattenyésztés", "Kereskedelmi pont"],
+      ro: ["Situat în Guanacaste", "Climat tropical", "Regiune agricolă", "Temperaturi ridicate"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von nur 84 Metern über dem Meeresspiegel.", "Durchschnittstemperatur beträgt ganzjährig ca. 28 Grad Celsius.", "Wichtiger Knotenpunkt an der Route 1 (Panamericana).", "Die Einwohnerzahl des Kantons Cañas liegt bei über 30.000 Menschen.", "Der Name der Stadt stammt von den Schilfrohren (Cañas) an den Flussufern.", "Hauptzentrum für die Bewässerungssysteme der Region Guanacaste.", "Nahegelegener Windpark Tilarán ist einer der größten der Region."],
@@ -951,10 +951,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Guápiles',
     },
     description: {
-      en: 'A major commercial center in the Caribbean lowlands, serving as a hub for banana and pineapple plantations.',
-      de: 'Ein wichtiges Handelszentrum im karibischen Tiefland, das als Drehscheibe für Bananen- und Ananasplantagen dient.',
-      hu: 'Fontos kereskedelmi központ a karibi alföldön, a banán- és ananászültetvények csomópontja.',
-      ro: 'Un centru comercial major în câmpiile din Caraibe, servind drept centru pentru plantațiile de banane și ananas.',
+      en: "The main town of the Pococi canton, serving as a primary commercial and transit point on the route to the Caribbean coast. It is surrounded by tropical rainforest and agricultural plantations.",
+      de: "Guápiles ist das wirtschaftliche Zentrum des Kantons Pococí in der Provinz Limón. Die Stadt dient als wichtiger Transitpunkt zwischen dem Hochland und der Karibikküste.",
+      hu: "Guápiles Pococi kanton székhelye, a karibi régióba vezető út fontos állomása. A város a trópusi mezőgazdaság, különösen a banántermelés központja.",
+      ro: "Oraș principal în cantonul Pococí, cunoscut pentru agricultura sa.",
     },
     descriptionAdvanced: {
       de: "Guápiles ist das pulsierende Tor zur Karibikregion Costa Ricas und das wichtigste Handelszentrum des Kantons Pococí. Gelegen in den fruchtbaren Tiefebenen, ist die Stadt umgeben von endlosen Bananen- und Ananasplantagen, die das wirtschaftliche Rückgrat der Region bilden. Guápiles dient als strategischer Stützpunkt für Reisende, die den Tortuguero Nationalpark besuchen möchten. Das Klima ist hier tropisch feucht, was eine üppige, tiefgrüne Vegetation begünstigt. Die Stadt selbst bietet eine moderne Infrastruktur mit zahlreichen Geschäften, Banken und Hotels. Guápiles ist ein Ort der Kontraste, wo die harte Arbeit auf den Plantagen auf eine dynamische Stadtentwicklung trifft. Für Besucher bietet die Stadt einen authentischen Einblick in das Leben im karibischen Tiefland. Sachkunde K4.",
@@ -963,10 +963,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Gu?piles is the commercial core of Pococ? and one of the clearest gateways from the Central Valley to the Caribbean lowlands. The town is surrounded by banana and pineapple plantations, so agriculture and logistics dominate daily life, yet it also serves as a normal urban centre with shops, services, and transport connections. For travellers, it is often the first major stop on the way to Tortuguero or further into Lim?n province. In Plizio Geography K5, it explains how export crops shape a regional town."
     },
     facts: {
-      en: ['Located along the main highway to Limón', 'Gateway to Tortuguero National Park', 'Has a large population of workers for fruit companies'],
-      de: ['An der Hauptstraße nach Limón gelegen', 'Tor zum Nationalpark Tortuguero', 'Hat eine große Bevölkerung von Arbeitern für Obstfirmen'],
-      hu: ['A Limónba vezető főút mentén található', 'A Tortuguero Nemzeti Park kapuja', 'Nagy számú gyümölcsipari dolgozó lakossággal rendelkezik'],
-      ro: ['Situat de-a lungul autostrăzii principale către Limón', 'Poarta de acces către Parcul Național Tortuguero', 'Are o populație mare de muncitori pentru companiile de fructe'],
+      en: ["Pococi canton center", "Caribbean route transit", "Tropical setting", "Agricultural hub"],
+      de: ["Zentrum von Pococí", "Transitstadt", "Karibische Region"],
+      hu: ["Pococi kanton székhelye", "Karibi régió kapuja", "Banántermesztés", "Trópusi mezőgazdaság"],
+      ro: ["Situat în Limón", "Zonă agricolă", "Climat tropical umed", "Conectat prin rute principale"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 260 Metern über dem Meeresspiegel.", "Hauptstadt des Kantons Pococí, dem zweitbevölkerungsreichsten der Provinz Limón.", "Die Bevölkerung von Guápiles beträgt über 35.000 Menschen.", "Wichtigster Umschlagplatz für landwirtschaftliche Exporte zur Karibikküste.", "Das Klima ist durch hohe Niederschläge von bis zu 4.000 mm pro Jahr geprägt.", "Entfernung zur Hauptstadt San José beträgt ca. 60 Kilometer.", "Beherbergt mehrere regionale Krankenhäuser und Bildungseinrichtungen."],
@@ -992,10 +992,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Siquirres',
     },
     description: {
-      en: 'An important city in Limón province, known as a crossroads for transport and agriculture.',
-      de: 'Eine wichtige Stadt in der Provinz Limón, bekannt als Verkehrsknotenpunkt für Transport und Landwirtschaft.',
-      hu: 'Limón tartomány fontos városa, amely a közlekedés és a mezőgazdaság kereszteződéseként ismert.',
-      ro: 'Un oraș important din provincia Limón, cunoscut ca o răscruce pentru transport și agricultură.',
+      en: "A bustling town in the Limon province, positioned between the highlands and the Caribbean coast. It is known for its diverse culture and role in the banana industry.",
+      de: "Siquirres liegt in der Provinz Limón und ist durch tropische Landwirtschaft und die Nähe zu großen Bananenplantagen geprägt. Die Region ist ein wichtiger Wirtschaftsstandort.",
+      hu: "Siquirres egy központi fekvésű város Limón tartományban, mely az infrastruktúra és a mezőgazdaság terén játszik kulcsszerepet. A környék bővelkedik vadvízi túrázási lehetőségekben.",
+      ro: "Oraș strategic în provincia Limón, nod de transport și agricultură.",
     },
     descriptionAdvanced: {
       de: "Siquirres ist eine geschäftige Stadt in der Provinz Limón, die als zentraler Knotenpunkt für den Schienen- und Straßenverkehr zwischen dem Hochland und der Küste dient. Die Geschichte der Stadt ist eng mit dem Bau der Eisenbahn zum Atlantik und dem Aufstieg der Bananenindustrie verbunden. Heute ist Siquirres ein Schmelztiegel der Kulturen, in dem afro-karibische Einflüsse auf indigene und spanische Traditionen treffen. Die Umgebung ist geprägt von mächtigen Flüssen wie dem Pacuare, der weltberühmte Bedingungen für Rafting bietet. Die üppige tropische Natur und die Bedeutung als logistisches Zentrum machen Siquirres zu einem dynamischen Ort. Hier erlebt man die echte Karibik-Atmosphäre Costa Ricas mit ihrer Lebensfreude und wirtschaftlichen Tatkraft. Sachkunde K4.",
@@ -1004,10 +1004,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Siquirres works as a transport crossroads in Lim?n province, linking the banana belt, the Atlantic corridor, and the interior routes that lead back toward the highlands. The town grew in the shadow of rail and road development, so its identity is tied to movement, exports, and the multicultural labour history of the Caribbean side of Costa Rica. That makes it more than a stop on the map: it is a regional hinge where agriculture and transport meet. In Plizio Geography K5, it helps students read corridor geography."
     },
     facts: {
-      en: ['Key hub for the banana industry', 'Located at the junction of routes to the coast and the highlands', 'Home to diverse cultural influences'],
-      de: ['Wichtiger Knotenpunkt für die Bananenindustrie', 'Am Knotenpunkt der Routen zur Küste und ins Hochland gelegen', 'Heimat vielfältiger kultureller Einflüsse'],
-      hu: ['A banánipar kulcsfontosságú csomópontja', 'A partra és a felföldre vezető útvonalak kereszteződésében található', 'Változatos kulturális hatások otthona'],
-      ro: ['Nod cheie pentru industria bananelor', 'Situat la intersecția rutelor către coastă și zonele înalte', 'Găzduiește diverse influențe culturale'],
+      en: ["Limon province town", "Between highlands and coast", "Diverse culture", "Banana industry hub"],
+      de: ["Provinz Limón", "Bananenproduktion", "Landwirtschaftsregion"],
+      hu: ["Limón tartomány", "Infrastrukturális csomópont", "Mezőgazdasági központ", "Vadvízi túrázás"],
+      ro: ["Situat în Limón", "Nod de transport", "Climat tropical", "Economie agricolă"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 70 Metern über dem Meeresspiegel.", "Der Name Siquirres stammt aus einer indigenen Sprache und bedeutet \\\"Roter Fluss\\\".", "Wichtiger Eisenbahnknotenpunkt für den Export von Bananen.", "Die Einwohnerzahl des Kantons Siquirres liegt bei über 60.000 Menschen.", "Durchschnittstemperatur liegt bei tropischen 26 Grad Celsius.", "Der Pacuare-Fluss ist nur wenige Kilometer vom Stadtzentrum entfernt.", "Gegründet wurde der Kanton Siquirres im Jahr 1911."],
@@ -1033,10 +1033,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Diego',
     },
     description: {
-      en: 'A fast-growing residential district in La Unión canton, part of the eastern Greater Metropolitan Area.',
-      de: 'Ein schnell wachsender Wohnbezirk im Kanton La Unión, Teil der östlichen Metropolregion Gran Area Metropolitana.',
-      hu: 'Gyorsan növekvő lakónegyed La Unión kantonban, a keleti Nagyvárosi Terület része.',
-      ro: 'Un district rezidențial cu creștere rapidă în cantonul La Unión, parte a Marii Zone Metropolitane de est.',
+      en: "A key district in La Union, serving as a rapidly urbanizing area east of San Jose. It is known for its residential estates and proximity to major commercial routes.",
+      de: "San Diego liegt im Kanton La Unión und ist ein beliebtes Wohngebiet im östlichen Teil des Zentraltals. Die Gegend ist durch eine gute Anbindung an Cartago und San José geprägt.",
+      hu: "San Diego La Unión kanton része Cartago tartományban. A település az elmúlt években jelentős lakossági növekedésen ment keresztül a San José felé történő migráció miatt.",
+      ro: "Localitate în cantonul La Unión, provincia Cartago.",
     },
     descriptionAdvanced: {
       de: "San Diego ist ein prosperierender Distrikt im Kanton La Unión, der am östlichen Rand der Metropolregion San José liegt. Die Stadt hat sich in den letzten Jahren zu einem der am schnellsten wachsenden Wohngebiete entwickelt, da sie eine ideale Kombination aus kühlerem Bergklima und Nähe zur Hauptstadt bietet. San Diego beherbergt zahlreiche moderne Wohnanlagen und exklusive Wohnviertel, die besonders bei Familien beliebt sind. Die Infrastruktur ist hervorragend mit schnellem Zugang zu großen Einkaufszentren und Schulen. Trotz der Modernisierung finden sich in den Randgebieten noch Reste der einstigen Kaffeeplantagen, die der Gegend ihren ursprünglichen Charakter verliehen. San Diego steht für den modernen, gehobenen Lebensstil im östlichen Central Valley. Sachkunde K4.",
@@ -1045,10 +1045,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Diego de la Uni?n is one of the fastest-growing residential districts on the eastern side of the Greater Metropolitan Area. Its streets are packed with housing, schools, and local commerce, and that makes the district feel like a practical extension of Cartago's urban belt rather than a separate town. The growth here reflects the pressure of families seeking space, transport access, and modern services close to the capital. In Plizio Geography K5, it is a clear example of suburban expansion at the edge of a metropolitan corridor."
     },
     facts: {
-      en: ['Borders the province of San José', 'Characterized by modern housing developments', 'Close to many shopping centers and services'],
-      de: ['Grenzt an die Provinz San José', 'Gekennzeichnet durch moderne Wohnsiedlungen', 'In der Nähe vieler Einkaufszentren und Dienstleistungen'],
-      hu: ['San José tartománnyal határos', 'Modern lakóparkok jellemzik', 'Közel számos bevásárlóközponthoz és szolgáltatáshoz'],
-      ro: ['Se învecinează cu provincia San José', 'Caracterizat prin dezvoltări imobiliare moderne', 'Aproape de multe centre comerciale și servicii'],
+      en: ["La Union district", "Rapid urbanization", "East of San Jose", "Commercial proximity"],
+      de: ["Wohngebiet in La Unión", "Östliches Zentraltal", "Gute Verkehrslage"],
+      hu: ["La Unión kanton", "Cartago tartomány", "Lakossági növekedés", "Migrációs célpont"],
+      ro: ["Situat în Cartago", "Zonă rezidențială", "Climat temperat", "Parte a zonei metropolitane"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von ca. 1.270 Metern über dem Meeresspiegel.", "Der Distrikt San Diego umfasst eine Fläche von etwa 8,8 Quadratkilometern.", "Die Bevölkerung übersteigt 22.000 Einwohner.", "Grenzt direkt an die Provinz San José (Distrikt Curridabat).", "Das Klima ist gemäßigt mit Temperaturen zwischen 17 und 25 Grad Celsius.", "Wichtiger Standort für neue kommerzielle Entwicklungen entlang der Autobahn Florencio del Castillo.", "Gehört zum Kanton La Unión, dessen Hauptstadt Tres Ríos ist."],
@@ -1074,10 +1074,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Esparza',
     },
     description: {
-      en: 'One of the oldest colonial cities in Costa Rica, now a quiet town serving surrounding agricultural areas.',
-      de: 'Eine der ältesten Kolonialstädte Costa Ricas, heute eine ruhige Stadt, die die umliegenden landwirtschaftlichen Gebiete versorgt.',
-      hu: 'Costa Rica egyik legrégebbi gyarmati városa, ma csendes kisváros, amely a környező mezőgazdasági területeket szolgálja ki.',
-      ro: 'Unul dintre cele mai vechi orașe coloniale din Costa Rica, acum un oraș liniștit care deservește zonele agricole înconjurătoare.',
+      en: "One of the oldest towns in Costa Rica, strategically located on the way to the Pacific coast. It retains a traditional charm and serves as a local commercial center.",
+      de: "Esparza ist eine der ältesten Städte des Landes und liegt strategisch günstig zwischen dem Zentraltal und dem Pazifik. Sie ist ein historischer wichtiger Handelsort.",
+      hu: "Esparza Costa Rica egyik legrégebbi városa, amely a központi völgy és a Csendes-óceán közötti útvonalon fekszik. Történelmi öröksége a gyarmati korszakba nyúlik vissza.",
+      ro: "Unul dintre cele mai vechi orașe din Costa Rica, situat în Puntarenas.",
     },
     descriptionAdvanced: {
       de: "Esparza ist eine der ältesten und geschichtsträchtigsten Städte Costa Ricas, gelegen in der Provinz Puntarenas. Gegründet in der frühen Kolonialzeit, bewahrt die Stadt einen Teil ihres historischen Erbes in Form von kolonialer Architektur und einer altehrwürdigen Kirche. Esparza dient heute als wichtiges Dienstleistungszentrum für die umliegenden Agrargebiete und als Rastplatz für Reisende auf dem Weg zum Pazifik. Die Atmosphäre ist ruhig und traditionell, geprägt von einem weitläufigen zentralen Park, der den Mittelpunkt des sozialen Lebens bildet. Die Stadt liegt in einer Übergangszone zwischen dem trockenen Norden und dem feuchteren Süden der Pazifikküste. Esparza bietet einen faszinierenden Einblick in die koloniale Vergangenheit des Landes und das entspannte Leben in den Küstenprovinzen. Sachkunde K4.",
@@ -1086,10 +1086,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Esparza is one of Costa Rica's oldest colonial towns, and that long history still shapes its calmer streets and civic identity. Set in Puntarenas province, it works today as a service town for surrounding agricultural land and as a reminder of the country's early Spanish-era settlement patterns. The urban core is smaller and quieter than the coastal ports nearby, but its role is important for understanding how older inland centres survived even as trade shifted toward the Pacific coast. In Plizio Geography K5, it introduces colonial urban geography in Costa Rica."
     },
     facts: {
-      en: ['Located on the main route to the Pacific coast', 'Retains some of its colonial-era architecture', 'Known for its historic church'],
-      de: ['An der Hauptroute zur Pazifikküste gelegen', 'Bewahrt einen Teil seiner Architektur aus der Kolonialzeit', 'Bekannt für seine historische Kirche'],
-      hu: ['A csendes-óceáni partvidékre vezető főútvonalon található', 'Megőrizte gyarmati korabeli építészetének egy részét', 'Történelmi templomáról ismert'],
-      ro: ['Situat pe ruta principală către coasta Pacificului', 'Păstrează o parte din arhitectura sa din epoca colonială', 'Cunoscut pentru biserica sa istorică'],
+      en: ["Historical town", "Near Pacific coast", "Traditional charm", "Local commercial center"],
+      de: ["Historische Stadt", "Zwischen Hochland und Pazifik", "Handelstradition"],
+      hu: ["Egyik legrégebbi város", "Csendes-óceáni útvonal", "Gyarmati történelem", "Központi helyzet"],
+      ro: ["Oraș istoric", "Situat în Puntarenas", "Climat cald", "Economie diversificată"],
     },
     factsAdvanced: {
       de: ["Gegründet im Jahr 1574 vom spanischen Eroberer Diego de Artieda Chirino.", "Liegt auf einer Höhe von 208 Metern über dem Meeresspiegel.", "Die Einwohnerzahl des Kantons Esparza beträgt ca. 35.000 Menschen.", "Zweitälteste Stadt Costa Ricas nach Cartago.", "Die Durchschnittstemperatur liegt bei heißen 27 Grad Celsius.", "Wichtiger Knotenpunkt an der Route 1 (Panamericana) und Route 27.", "Bekannt für seine Produktion von hochwertigem Rindfleisch und Getreide."],
@@ -1115,10 +1115,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Nicoya',
     },
     description: {
-      en: 'A major colonial-era city in Guanacaste and a hub for the Nicoya Peninsula, a world-renowned Blue Zone.',
-      de: 'Eine bedeutende Stadt aus der Kolonialzeit in Guanacaste und ein Zentrum für die Nicoya-Halbinsel, eine weltberühmte Blaue Zone.',
-      hu: 'Jelentős gyarmati korú város Guanacastéban és a Nicoya-félsziget központja, egy világhírű Kék Zóna.',
-      ro: 'Un oraș important din epoca colonială din Guanacaste și un centru pentru Peninsula Nicoya, o Zonă Albastră de renume mondial.',
+      en: "Considered a historical and cultural heart of the Guanacaste province, famous for its colonial architecture and traditional local cuisine. It is a central point for the Nicoya Peninsula.",
+      de: "Nicoya ist eine historische Stadt auf der Nicoya-Halbinsel und ein Zentrum der indigenen Kultur. Die Region ist berühmt als eine der sogenannten Blue Zones.",
+      hu: "Nicoya a félsziget kulturális és történelmi szíve, híres a koloniális építészetéről és a helyi tradíciókról. A város környéke az úgynevezett Kék Zóna része, ahol hosszú életűek élnek.",
+      ro: "Oraș istoric și centru cultural în provincia Guanacaste.",
     },
     descriptionAdvanced: {
       de: "Nicoya ist die kulturelle Seele von Guanacaste und eine der bedeutendsten Kolonialstädte Costa Ricas. Sie liegt im Herzen der Nicoya-Halbinsel, einer der wenigen weltweiten \\\"Blue Zones\\\", in denen Menschen ein ungewöhnlich hohes Alter erreichen. Die Stadt beherbergt eine der ältesten Kirchen des Landes, die \\\"Parroquia de San Blas\\\", ein Symbol des spanischen Erbes. Nicoya ist stolz auf seine Folklore, seine traditionelle Musik und seine einzigartige Küche auf Maisbasis. Als administratives Zentrum der Halbinsel verbindet die Stadt historische Bedeutung mit moderner Funktion. Besucher tauchen hier tief in die Traditionen der Sabaneros (Cowboys) ein und erleben eine Gastfreundschaft, die von Generation zu Generation weitergegeben wurde. Sachkunde K4.",
@@ -1127,10 +1127,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Nicoya is the cultural heart of the Nicoya Peninsula and one of Costa Rica's best-known colonial cities. Its importance goes beyond history: the town sits inside a region internationally recognised as a Blue Zone, where longevity, family ties, and a strong local food culture all matter. The city also reflects Chorotega heritage, Catholic traditions, and the geography of Guanacaste's dry Pacific side. With the San Blas church, local fiestas, and its role as a regional hub, Nicoya combines memory and everyday life in one place. In Plizio Geography K5, it connects heritage with regional identity."
     },
     facts: {
-      en: ['Home to one of Costa Rica\\\\\\\'s oldest churches', 'Center of the Guanacastecan culture and folklore', 'Known for the longevity of its inhabitants'],
-      de: ['Heimat einer der ältesten Kirchen Costa Ricas', 'Zentrum der guanacastekischen Kultur und Folklore', 'Bekannt für die Langlebigkeit seiner Bewohner'],
-      hu: ['Costa Rica egyik legrégebbi templomának otthona', 'A guanacastecai kultúra és folklór központja', 'Lakóinak hosszú élettartamáról ismert'],
-      ro: ['Găzduiește una dintre cele mai vechi biserici din Costa Rica', 'Centrul culturii și folclorului din Guanacaste', 'Cunoscut pentru longevitatea locuitorilor săi'],
+      en: ["Historical heart of Guanacaste", "Colonial architecture", "Traditional local cuisine", "Nicoya Peninsula hub"],
+      de: ["Halbinsel Nicoya", "Indigene Wurzeln", "Blue Zone Region"],
+      hu: ["Félszigeti kulturális központ", "Koloniális építészet", "Helyi hagyományok", "Kék Zóna része"],
+      ro: ["Centru istoric", "Situat în Guanacaste", "Climat tropical", "Importanță culturală"],
     },
     factsAdvanced: {
       de: ["Die Kirche San Blas wurde ursprünglich 1644 erbaut.", "Nicoya gehört zu den weltweit 5 offiziellen Blue Zones.", "Liegt auf einer Höhe von 123 Metern über dem Meeresspiegel.", "Die Einwohnerzahl des Kantons Nicoya beträgt über 50.000 Menschen.", "Durchschnittstemperatur liegt bei 28 Grad Celsius.", "Wichtigstes Zentrum für die Feierlichkeiten zum Anschluss von Nicoya an Costa Rica (25. Juli).", "Einer der ältesten bewohnten Orte des Landes mit präkolumbianischen Wurzeln."],
@@ -1156,10 +1156,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Santa Cruz',
     },
     description: {
-      en: 'Known as the "Folklore City" of Costa Rica, it is a cultural and commercial hub in Guanacaste.',
-      de: 'Bekannt als die "Folklore-Stadt" Costa Ricas, ist sie ein kulturelles und kommerzielles Zentrum in Guanacaste.',
-      hu: 'Costa Rica "folklórvárosaként" ismert, Guanacaste kulturális és kereskedelmi központja.',
-      ro: 'Cunoscut ca "Orașul Folclorului" din Costa Rica, este un centru cultural și comercial în Guanacaste.',
+      en: "Known as the 'National Folklore City' of Costa Rica, it is a primary hub for cultural celebrations and traditional music in the Guanacaste region.",
+      de: "Santa Cruz gilt als das kulturelle Zentrum von Guanacaste und ist bekannt für seine Folklore und Traditionen. Die Stadt ist ein wichtiger Knotenpunkt für den Tourismus.",
+      hu: "Santa Cruz a népi folklór városa, amely a Guanacaste-i tradíciók, táncok és gasztronómia központja. A város a régió egyik legjelentősebb kulturális bástyája.",
+      ro: "Cunoscut drept capitala folclorului din Costa Rica, în Guanacaste.",
     },
     descriptionAdvanced: {
       de: "Santa Cruz wird stolz als die \\\"Folklore-Stadt\\\" Costa Ricas bezeichnet und ist ein lebendiges Zentrum für Musik, Tanz und Tradition in der Provinz Guanacaste. Die Stadt ist weltberühmt für ihre traditionellen Feste, insbesondere die Rodeos und die farbenfrohen Paraden, die die Kultur der Sabaneros feiern. Santa Cruz liegt im Herzen einer fruchtbaren Ebene und dient als wichtiger kommerzieller Knotenpunkt für Reisende auf dem Weg zu den berühmten Stränden der Goldküste. Die Bewohner von Santa Cruz sind bekannt für ihre Lebensfreude und ihre Liebe zu traditionellen Instrumenten wie der Marimba. Die Stadt bietet eine authentische Atmosphäre, in der die Identität Guanacastes an jeder Ecke spürbar ist. Sachkunde K4.",
@@ -1168,10 +1168,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Santa Cruz is widely known as the Folklore City of Costa Rica, and that title is visible in its music, dance, and festival culture. Located in Guanacaste, it serves as a commercial and cultural centre for the surrounding dry plains and nearby beach routes. The town's identity is tied to marimba music, traditional dress, bull-running festivals, and strong local pride in Guanacastecan customs. Visitors who arrive expecting only a provincial town quickly realise that Santa Cruz is one of the country's main cultural stages. In Plizio Geography K5, it shows how folklore can shape urban identity."
     },
     facts: {
-      en: ['Famous for its traditional festivals and rodeos', 'An important stop for tourists heading to nearby beaches', 'Heart of the Guanacastecan sabanero (cowboy) culture'],
-      de: ['Berühmt für seine traditionellen Feste und Rodeos', 'Ein wichtiger Halt für Touristen auf dem Weg zu den nahegelegenen Stränden', 'Herz der guanacastekischen Sabanero- (Cowboy-) Kultur'],
-      hu: ['Híres hagyományos fesztiváljairól és rodeóiról', 'Fontos megálló a közeli strandokra tartó turisták számára', 'A guanacastecai sabanero (cowboy) kultúra szíve'],
-      ro: ['Renumit pentru festivalurile și rodeourile sale tradiționale', 'O oprire importantă pentru turiștii care se îndreaptă spre plajele din apropiere', 'Inima culturii sabanero (cowboy) din Guanacaste'],
+      en: ["National Folklore City", "Cultural hub", "Traditional music focus", "Guanacaste region"],
+      de: ["Kulturelles Zentrum", "Guanacaste-Traditionen", "Tourismus-Knotenpunkt"],
+      hu: ["Guanacaste-i folklór központ", "Helyi táncok", "Gasztronómia", "Kulturális központ"],
+      ro: ["Centru folcloric", "Situat în Guanacaste", "Climat tropical", "Tradiții locale"],
     },
     factsAdvanced: {
       de: ["Offiziell zur \\\"Ciudad Folclórica de Costa Rica\\\" erklärt.", "Liegt auf einer Höhe von ca. 50 Metern über dem Meeresspiegel.", "Die Einwohnerzahl des Kantons Santa Cruz beträgt über 60.000 Menschen.", "Feiert jährlich im Januar die großen \\\"Fiestas Típicas Nacionales\\\".", "Wichtiges Zentrum für die Keramikherstellung im nahegelegenen Guaitil.", "Durchschnittliche Jahrestemperatur liegt bei ca. 29 Grad Celsius.", "Die Fahrzeit zu den Stränden Tamarindo und Flamingo beträgt ca. 45 Minuten."],
@@ -1197,10 +1197,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Naranjo',
     },
     description: {
-      en: 'A city in the Western Central Valley, renowned for its high-quality coffee and beautiful landscapes.',
-      de: 'Eine Stadt im westlichen Zentraltal, bekannt für ihren hochwertigen Kaffee und ihre wunderschönen Landschaften.',
-      hu: 'A Nyugati-Központi-völgyben található város, amely kiváló minőségű kávéjáról és gyönyörű tájairól híres.',
-      ro: 'Un oraș din Valea Centrală de Vest, renumit pentru cafeaua sa de înaltă calitate și peisajele frumoase.',
+      en: "A charming town nestled in the coffee-growing region of Alajuela, known for its scenic mountains and agricultural productivity. It is a key producer of high-quality Costa Rican coffee.",
+      de: "Naranjo liegt in der Provinz Alajuela und ist von Kaffeeplantagen umgeben. Die hügelige Landschaft bietet einen typischen Blick auf das costaricanische Hochland.",
+      hu: "Naranjo egy tipikus kávétermesztő város Alajuela tartományban. A települést hegyek ölelik körül, klímája és talaja kiváló feltételeket biztosít a magas minőségű kávétermelésnek.",
+      ro: "Oraș situat în provincia Alajuela, cunoscut pentru producția de cafea.",
     },
     descriptionAdvanced: {
       de: "Naranjo, eingebettet in die sanften Hügel des westlichen Central Valley, ist ein Paradies für Kaffeeliebhaber und Naturbewunderer. Die Stadt ist berühmt für die Produktion einiger der besten Kaffeebohnen des Landes, die auf den fruchtbaren vulkanischen Böden der Umgebung gedeihen. Ein architektonisches Highlight ist die prachtvolle Basilika im Stadtzentrum, die mit ihren kunstvollen Holzschnitzereien und Malereien beeindruckt. Naranjo bietet eine entspannte Atmosphäre und dient als Tor zu den Bergregionen von Zarcero. Das milde Klima und die üppige Vegetation machen die Region zu einem attraktiven Wohnort und Ausflugsziel. Hier erlebt man die traditionelle Kaffeekultur Costa Ricas in ihrer authentischsten Form, geprägt von harter Arbeit und tiefem Stolz auf das lokale Produkt. Sachkunde K4.",
@@ -1209,10 +1209,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Naranjo sits in the western Central Valley, where coffee hills and a mild mountain setting define the landscape. The town is associated with high-quality coffee production, but it also functions as a practical service centre for nearby rural communities and commuters moving through Alajuela province. From here, the valley opens toward the Pacific slope, so the district feels connected to both agriculture and transport. Its balanced character makes it a useful example of how small cities can grow around a strong agricultural economy without losing their local scale. In Plizio Geography K5, it highlights coffee-region settlement."
     },
     facts: {
-      en: ['Home to many specialty coffee farms', 'Features a unique basilica with ornate decorations', 'Part of the Costa Rican coffee trail'],
-      de: ['Heimat vieler Spezialitätenkaffeefarmen', 'Verfügt über eine einzigartige Basilika mit kunstvollen Verzierungen', 'Teil des costa-ricanischen Kaffeepfades'],
-      hu: ['Számos különleges kávéfarmnak ad otthont', 'Egyedülálló, díszes bazilikával rendelkezik', 'A Costa Rica-i kávéútvonal része'],
-      ro: ['Găzduiește multe ferme de cafea de specialitate', 'Prezintă o bazilică unică cu decorațiuni ornamentate', 'Parte a traseului cafelei din Costa Rica'],
+      en: ["Alajuela coffee region", "Scenic mountain views", "Agricultural producer", "Coffee specialty"],
+      de: ["Provinz Alajuela", "Kaffeeanbaugebiet", "Hügelige Landschaft"],
+      hu: ["Alajuela tartomány", "Kávétermesztő környék", "Hegyvidéki klíma", "Magas minőségű kávé"],
+      ro: ["Regiune producătoare de cafea", "Situat în Alajuela", "Climat temperat", "Peisaj rural"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 1.031 Metern über dem Meeresspiegel.", "Die Basilika Nuestra Señora de las Piedades ist ein Nationaldenkmal.", "Naranjo gehört zur Provinz Alajuela und wurde 1886 als Kanton gegründet.", "Die Einwohnerzahl des Kantons Naranjo liegt bei über 45.000 Menschen.", "Produziert preisgekrönten Spezialitätenkaffee für den Weltmarkt.", "Das Klima ist gemäßigt mit Temperaturen zwischen 18 und 26 Grad Celsius.", "Wichtiger Stopp an der Panamericana Richtung Norden."],
@@ -1238,10 +1238,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Ramón',
     },
     description: {
-      en: 'Known as the "City of Poets and Presidents," it is a historical and cultural center in the Alajuela province.',
-      de: 'Bekannt als die "Stadt der Dichter und Präsidenten", ist es ein historisches und kulturelles Zentrum in der Provinz Alajuela.',
-      hu: 'A "költők és elnökök városaként" ismert, Alajuela tartomány történelmi és kulturális központja.',
-      ro: 'Cunoscut ca "Orașul Poeților și Președinților", este un centru istoric și cultural în provincia Alajuela.',
+      en: "A prominent city in the Alajuela province, celebrated for its cultural activity and academic environment. It is surrounded by lush hills and agricultural fields.",
+      de: "San Ramón ist bekannt als die Stadt der Dichter und ein wichtiges akademisches Zentrum im Westen von Alajuela. Die Stadt liegt in einer fruchtbaren Agrarregion.",
+      hu: "San Ramón Alajuela tartomány nyugati részének kulturális és oktatási központja. A város híres a művészeti életéről és az írói hagyományairól.",
+      ro: "Oraș universitar și agricol în provincia Alajuela.",
     },
     descriptionAdvanced: {
       de: "San Ramón wird ehrfurchtsvoll als die \\\"Stadt der Dichter und Präsidenten\\\" bezeichnet, da sie die Geburtsstätte zahlreicher bedeutender Denker und Politiker Costa Ricas ist. Diese kulturelle Tiefe spiegelt sich im Stadtbild wider, das von einem großzügigen zentralen Park und einer markanten Kirche geprägt wird. San Ramón ist ein wichtiges regionales Zentrum mit einer eigenen Niederlassung der Universität von Costa Rica, was der Stadt ein akademisches Flair verleiht. Die Umgebung ist bekannt für ihre Nebelwälder und Kaffeeplantagen, die zu Erkundungen einladen. Die Bewohner schätzen ihre Traditionen, was sich in zahlreichen lokalen Festen und Märkten zeigt. San Ramón verbindet Bildung, Geschichte und Natur auf eine Weise, die den Geist des Landes perfekt einfängt. Sachkunde K4.",
@@ -1250,10 +1250,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Ram?n is one of the most culturally visible cities in western Alajuela province, proudly known as the City of Poets and Presidents. That nickname reflects a long civic tradition shaped by writers, politicians, and a strong educational presence. The town also works as a regional gateway between the Central Valley and the routes descending toward the Pacific side of the country. Coffee, schools, civic life, and a busy urban centre all sit together here, giving San Ram?n a distinctive place in the national map. In Plizio Geography K5, it is ideal for studying cultural regional centres."
     },
     facts: {
-      en: ['Birthplace of several Costa Rican presidents', 'Has a large central park and a prominent church', 'Home to a regional branch of the University of Costa Rica'],
-      de: ['Geburtsort mehrerer costa-ricanischer Präsidenten', 'Hat einen großen zentralen Park und eine markante Kirche', 'Heimat einer regionalen Niederlassung der Universität von Costa Rica'],
-      hu: ['Több Costa Rica-i elnök szülőhelye', 'Nagy központi parkkal és egy kiemelkedő templommal rendelkezik', 'A Costa Rica-i Egyetem regionális fiókjának otthona'],
-      ro: ['Locul de naștere al mai multor președinți din Costa Rica', 'Are un parc central mare și o biserică proeminentă', 'Găzduiește o filială regională a Universității din Costa Rica'],
+      en: ["Alajuela province city", "Cultural activity hub", "Academic environment", "Lush hilly terrain"],
+      de: ["Stadt der Dichter", "Akademisches Zentrum", "Fruchtbares Umland"],
+      hu: ["Alajuela tartomány", "Kulturális központ", "Oktatási csomópont", "Művészeti élet"],
+      ro: ["Centru academic", "Regiune agricolă", "Situat în Alajuela", "Climat temperat"],
     },
     factsAdvanced: {
       de: ["Geburtsort von drei ehemaligen Präsidenten Costa Ricas.", "Liegt auf einer Höhe von 1.057 Metern in der Cordillera Central.", "Die Fläche des Kantons San Ramón ist eine der größten in Alajuela.", "Die Einwohnerzahl der Stadt beträgt ca. 15.000, des Kantons über 80.000.", "Beherbergt ein bedeutendes regionales Museum zur Stadtgeschichte.", "Durchschnittstemperatur liegt bei angenehmen 21 Grad Celsius.", "Der lokale Wochenmarkt (Feria) gilt als einer der besten der Region."],
@@ -1279,10 +1279,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'La Garita',
     },
     description: {
-      en: 'A district known for its plant nurseries, pleasant climate, and the Zoo Ave wildlife rescue center.',
-      de: 'Ein Bezirk, der für seine Gärtnereien, sein angenehmes Klima und das Zoo Ave Wildtier-Rettungszentrum bekannt ist.',
-      hu: 'A kerület növénykertjeiről, kellemes éghajlatáról és a Zoo Ave vadmentő központról ismert.',
-      ro: 'Un district cunoscut pentru pepinierele sale de plante, climatul plăcut și centrul de salvare a animalelor sălbatice Zoo Ave.',
+      en: "A town known for its favorable climate and abundance of nurseries and botanical centers, making it a popular destination for plant enthusiasts.",
+      de: "La Garita ist eine malerische Gegend nahe Alajuela, bekannt für ihre Blumenfarmen und Baumschulen. Das angenehme Klima zieht viele Besucher an.",
+      hu: "La Garita Alajuela közelében fekvő település, amely különleges mikroklímájáról és kertészetekről ismert. Sokan látogatják növénytermesztési szakértelme és faiskolái miatt.",
+      ro: "Localitate pitorească în provincia Alajuela, renumită pentru floricultură.",
     },
     descriptionAdvanced: {
       de: "La Garita de Alajuela ist bekannt für eines der besten Klimas der Welt, was die Region zu einem Paradies für Gärtnereien und Naturliebhaber macht. Entlang der Straßen finden sich unzählige Baumschulen, die eine enorme Vielfalt an tropischen Pflanzen und Blumen anbieten. Ein Muss für Besucher ist das \\\"Zoo Ave\\\", ein Rettungszentrum für Wildtiere, das sich der Rehabilitation und Erhaltung der costa-ricanischen Fauna widmet. La Garita ist ein beliebtes Ausflugsziel für Einheimische, die am Wochenende die traditionelle Küche in den zahlreichen \\\"Restaurantes Típicos\\\" genießen. Die entspannte Atmosphäre, das sonnige Wetter und die üppige Flora machen den Ort zu einer grünen Oase am Rande der Metropolregion. Hier zeigt sich die natürliche Schönheit Costa Ricas in ihrer ganzen Pracht. Sachkunde K4.",
@@ -1291,10 +1291,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "La Garita is a pleasant district in Alajuela known for plant nurseries, a warm climate, and one of the best-known wildlife rescue centres in the country. The area has a suburban feel, but its road-side nurseries and carefully kept gardens give it a very specific identity tied to horticulture and nature tourism. Because it sits in the Central Valley near the capital-region transport network, it also attracts households and businesses that want space without losing access to city services. In Plizio Geography K5, it shows how specialised districts emerge around climate and landscape."
     },
     facts: {
-      en: ['Considered to have one of the best climates in the world', 'A popular destination for locals on weekends', 'Produces a wide variety of ornamental plants'],
-      de: ['Gilt als eines der besten Klimas der Welt', 'Ein beliebtes Ziel für Einheimische am Wochenende', 'Produziert eine Vielzahl von Zierpflanzen'],
-      hu: ['A világ egyik legjobb éghajlatú helyének tartják', 'Népszerű hétvégi úti cél a helyiek körében', 'Sokféle dísznövényt termel'],
-      ro: ['Considerat a avea una dintre cele mai bune climate din lume', 'O destinație populară pentru localnici în weekend', 'Produce o mare varietate de plante ornamentale'],
+      en: ["Favorable climate", "Nurseries and botanical centers", "Plant enthusiast destination", "Alajuela location"],
+      de: ["Nahe Alajuela", "Blumenzucht", "Angenehmes Klima"],
+      hu: ["Alajuela közelsége", "Különleges mikroklíma", "Kertészeti központ", "Faiskolák"],
+      ro: ["Centru de floricultură", "Situat în Alajuela", "Climat plăcut", "Peisaj natural"],
     },
     factsAdvanced: {
       de: ["Wurde von National Geographic für sein ideales Klima ausgezeichnet.", "Liegt auf einer Höhe von ca. 600 bis 800 Metern.", "Beherbergt das Zoo Ave (Rescate Wildlife Centre) auf über 14 Hektar.", "Wichtigster Standort für die Produktion von Zierpflanzen im Land.", "Durchschnittstemperatur liegt konstant bei ca. 24 Grad Celsius.", "Gehört zum Kanton Alajuela und liegt nahe dem internationalen Flughafen.", "Beliebtes Ziel für gastronomische Touren (Spezialität: Chifrijo)."],
@@ -1320,10 +1320,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Antonio',
     },
     description: {
-      en: 'A densely populated district of Alajuela canton, forming part of the Greater Metropolitan Area.',
-      de: 'Ein dicht besiedelter Bezirk des Kantons Alajuela, der Teil der Metropolregion Gran Area Metropolitana ist.',
-      hu: 'Alajuela kanton sűrűn lakott kerülete, a Nagyvárosi Terület része.',
-      ro: 'Un district dens populat al cantonului Alajuela, care face parte din Marea Zonă Metropolitană.',
+      en: "A residential district near the city of Alajuela, close to the international airport. It serves as an important housing area for airport workers and airline personnel.",
+      de: "San Antonio ist ein stadtnahes Gebiet im Kanton Alajuela. Die Region dient hauptsächlich als Wohnsiedlung mit guter Anbindung an den internationalen Flughafen.",
+      hu: "San Antonio egy csendes lakótelepülés Alajuela kantonban, közvetlenül a főváros repülőterének közelében. A város szorosan kapcsolódik a logisztikai szolgáltatásokhoz.",
+      ro: "Comunitate în provincia Alajuela, apropiată de aeroportul internațional.",
     },
     descriptionAdvanced: {
       de: "San Antonio de Alajuela ist ein dynamischer und dicht besiedelter Distrikt, der eine strategische Brücke zwischen der Stadt Alajuela und den Industriezonen der Metropolregion bildet. Die Nähe zum internationalen Flughafen Juan Santamaría hat die Region zu einem bevorzugten Standort für Logistikunternehmen und Hotels gemacht. Gleichzeitig bietet San Antonio etablierte Wohnviertel, in denen das traditionelle Leben Costa Ricas pulsiert. Das Stadtbild ist geprägt von einer Mischung aus moderner Infrastruktur und lokalen Märkten. Die Bewohner profitieren von einer exzellenten Anbindung an die Provinzhauptstädte San José und Heredia. San Antonio ist ein Ort der Bewegung und des Wachstums, der das wirtschaftliche Tempo des modernen Costa Rica widerspiegelt. Sachkunde K4.",
@@ -1332,10 +1332,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Antonio de Alajuela is a densely populated district that sits inside one of the most active growth zones near the country's main airport corridor. Its population density, residential blocks, and everyday services reflect the pressure created by Alajuela's expansion and the wider Greater Metropolitan Area. The district is not defined by one monument, but by its function: it helps absorb urban growth, support commuters, and connect neighbourhood life to the business zones around it. In Plizio Geography K5, it is a useful example of airport-adjacent suburbanisation."
     },
     facts: {
-      en: ['A mix of residential and industrial zones', 'Located near the Juan Santamaría International Airport', 'Well-connected to San José and Heredia'],
-      de: ['Eine Mischung aus Wohn- und Industriezonen', 'In der Nähe des internationalen Flughafens Juan Santamaría gelegen', 'Gut an San José und Heredia angebunden'],
-      hu: ['Lakó- és ipari zónák keveréke', 'A Juan Santamaría nemzetközi repülőtér közelében található', 'Jó összeköttetéssel rendelkezik San Joséval és Herediával'],
-      ro: ['Un amestec de zone rezidențiale și industriale', 'Situat în apropierea Aeroportului Internațional Juan Santamaría', 'Bine conectat cu San José și Heredia'],
+      en: ["Near Alajuela city", "Proximity to airport", "Housing for staff", "Residential district"],
+      de: ["Kanton Alajuela", "Wohnsiedlung", "Flughafennähe"],
+      hu: ["Alajuela kantonban", "Repülőtér közelsége", "Lakótelepülés", "Logisztikai kapcsolatok"],
+      ro: ["Situat în Alajuela", "Zonă rezidențială", "Aproape de aeroport", "Climat temperat"],
     },
     factsAdvanced: {
       de: ["Höhenlage von ca. 900 Metern über dem Meeresspiegel.", "Der Distrikt San Antonio erstreckt sich über ca. 8,8 Quadratkilometer.", "Die Bevölkerung beträgt über 25.000 Einwohner.", "Direkte Nachbarschaft zum wichtigsten Flughafen des Landes.", "Beherbergt zahlreiche Freihandelszonen (Zonas Francas).", "Das Klima ist warm mit Temperaturen zwischen 20 und 30 Grad Celsius.", "Wichtigster Sektor ist die Industrie und der Dienstleistungssektor."],
@@ -1361,10 +1361,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Zarcero',
     },
     description: {
-      en: 'A picturesque mountain town famous for its topiary garden in front of the main church.',
-      de: 'Eine malerische Bergstadt, berühmt für ihren Formschnittgarten vor der Hauptkirche.',
-      hu: 'Festői hegyi város, amely a főtemplom előtti alakfa-kertjéről híres.',
-      ro: 'Un oraș montan pitoresc, renumit pentru grădina sa topiară din fața bisericii principale.',
+      en: "Famous for its unique topiary garden located in the main park, this mountain town is known for its crisp, cool climate and beautiful landscape.",
+      de: "Zarcero ist berühmt für seinen kunstvoll beschnittenen Park vor der Kirche. Die Stadt liegt in einer kühlen Bergregion und ist ein beliebtes Ausflugsziel.",
+      hu: "Zarcero a hegyvidéki Alajuela egyik legkedveltebb városa, híres a központi parkban lévő formára nyírt sövényeiről. A területen hűvös klíma és gyönyörű hegyi kilátás várja a látogatókat.",
+      ro: "Oraș montan celebru pentru grădinile sale sculptate, în Alajuela.",
     },
     descriptionAdvanced: {
       de: "Zarcero ist eine malerische Bergstadt in der Provinz Alajuela, die vor allem für ihren skurrilen Formschnittgarten im Stadtzentrum berühmt ist. Vor der imposanten Kirche San Rafael hat der Künstler Evangelista Blanco Zypressen in fantastische Figuren, Bögen und Tiere verwandelt, was den Ort zu einem weltweit einzigartigen Fotomotiv macht. Zarcero liegt in den kühlen Höhenlagen der Cordillera Central und ist bekannt für seine erstklassigen Milchprodukte, insbesondere den lokalen Käse und die Sauerrahm. Das Klima ist hier oft neblig und kühl, was eine willkommene Abwechslung zur Hitze der Ebenen bietet. Die Stadt strahlt eine Ruhe und Sauberkeit aus, die Besucher sofort verzaubert. Zarcero ist ein Paradebeispiel für den Charme der costa-ricanischen Bergregionen. Sachkunde K4.",
@@ -1373,10 +1373,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Zarcero is a mountain town that has become famous far beyond Alajuela because of the sculpted garden in front of its main church. The neatly trimmed trees and the red-and-white church of San Rafael create a visual identity that is immediately recognisable, but the town also has a strong dairy and highland farming base. Cool air, rolling hills, and a compact centre give Zarcero a different rhythm from the hotter lowlands. In Plizio Geography K5, it is a strong example of how tourism can grow around a local landmark."
     },
     facts: {
-      en: ['Known for its cool climate and dairy products', 'The topiary garden features arches and whimsical figures', 'A popular stop for tourists'],
-      de: ['Bekannt für sein kühles Klima und seine Milchprodukte', 'Der Formschnittgarten zeigt Bögen und skurrile Figuren', 'Ein beliebter Halt für Touristen'],
-      hu: ['Hűvös éghajlatáról és tejtermékeiről ismert', 'Az alakfa-kertben boltívek és szeszélyes figurák láthatók', 'Népszerű megálló a turisták számára'],
-      ro: ['Cunoscut pentru climatul său răcoros și produsele lactate', 'Grădina topiară prezintă arcade și figuri fanteziste', 'O oprire populară pentru turiști'],
+      en: ["Unique topiary garden", "Mountain town", "Crisp, cool climate", "Beautiful landscaping"],
+      de: ["Berühmter Park", "Kühle Bergregion", "Ausflugsziel"],
+      hu: ["Hegyvidéki Alajuela", "Formára nyírt sövények", "Hűvös klíma", "Hegyi kilátás"],
+      ro: ["Grădini celebre", "Climat montan", "Situat în Alajuela", "Peisaj pitoresc"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 1.736 Metern über dem Meeresspiegel.", "Der Formschnittgarten wurde ab den 1960er Jahren gestaltet.", "Die Durchschnittstemperatur liegt bei kühlen 16 Grad Celsius.", "Hauptstadt des Kantons Alfaro Ruiz (heute Kanton Zarcero).", "Berühmt für \\\"Natilla\\\" (Sauerrahm) und hausgemachten Pfirsichlikör.", "Die Kirche San Rafael besitzt beeindruckende Deckenmalereien.", "Einwohnerzahl des Kantons Zarcero liegt bei ca. 14.000 Menschen."],
@@ -1402,10 +1402,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Pital',
     },
     description: {
-      en: 'An agricultural district in the San Carlos canton, important for pineapple and other tropical fruit production.',
-      de: 'Ein landwirtschaftlicher Bezirk im Kanton San Carlos, wichtig für die Produktion von Ananas und anderen tropischen Früchten.',
-      hu: 'Mezőgazdasági kerület San Carlos kantonban, fontos az ananász és más trópusi gyümölcsök termesztésében.',
-      ro: 'Un district agricol din cantonul San Carlos, important pentru producția de ananas și alte fructe tropicale.',
+      en: "A productive agricultural community in the San Carlos region, known for its large-scale pineapple and citrus cultivation. It plays a significant role in the local economy.",
+      de: "Pital ist ein wichtiges Agrarzentrum im Norden des Kantons San Carlos. Die Region zeichnet sich durch den Anbau von Ananas und anderen tropischen Früchten aus.",
+      hu: "Pital San Carlos kanton egyik jelentős mezőgazdasági települése az északi síkságon. A régió meghatározó termékei a gyümölcsök és a húsipar.",
+      ro: "Zonă agricolă importantă în cantonul San Carlos.",
     },
     descriptionAdvanced: {
       de: "Pital ist ein bedeutender landwirtschaftlicher Distrikt im Kanton San Carlos, gelegen in den weiten nördlichen Ebenen Costa Ricas. Die Region ist einer der wichtigsten Produzenten von Ananas für den Weltmarkt, was das Landschaftsbild durch riesige Plantagen prägt. Pital dient als vitales Zentrum für die ländlichen Gemeinden des Nordens und bietet die notwendige Infrastruktur für Handel und Bildung. Das Klima ist hier tropisch heiß und feucht, ideal für den Anbau exotischer Früchte und die Rinderzucht. Trotz der Dominanz der Agrarindustrie bewahrt sich Pital eine starke lokale Gemeinschaft und feiert seine Traditionen mit Begeisterung. Für Reisende bietet die Stadt einen authentischen Einblick in die produktive Kraft der costa-ricanischen Landwirtschaft fernab der touristischen Pfade. Sachkunde K4.",
@@ -1414,10 +1414,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Pital is an agricultural district in San Carlos, where pineapple fields and other tropical crops dominate the surrounding lowland landscape. The district is built around export agriculture, so roads, farms, and local services all support the movement of produce rather than heavy industry or tourism. Its location in the northern plains makes it part of a large productive zone that supplies Costa Rica and international markets alike. In Plizio Geography K5, it is a clear example of tropical agricultural geography."
     },
     facts: {
-      en: ['Located in the northern plains of Costa Rica', 'A major center for pineapple farming', 'Connects rural communities in the region'],
-      de: ['In den nördlichen Ebenen von Costa Rica gelegen', 'Ein wichtiges Zentrum für den Ananasanbau', 'Verbindet ländliche Gemeinden in der Region'],
-      hu: ['Costa Rica északi síkságain található', 'Az ananásztermesztés egyik fő központja', 'Összeköti a régió vidéki közösségeit'],
-      ro: ['Situat în câmpiile nordice ale Costa Ricăi', 'Un centru major pentru cultivarea ananasului', 'Conectează comunitățile rurale din regiune'],
+      en: ["San Carlos agricultural community", "Pineapple cultivation", "Citrus production", "Economic driver"],
+      de: ["Nördliches San Carlos", "Ananasanbau", "Agrarzentrum"],
+      hu: ["San Carlos kanton", "Mezőgazdasági település", "Északi síkság", "Húsipar"],
+      ro: ["Economie agricolă", "Situat în Alajuela", "Climat tropical", "Zonă rurală dezvoltată"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 150 Metern über dem Meeresspiegel.", "Der Distrikt Pital umfasst eine Fläche von ca. 380 Quadratkilometern.", "Die Bevölkerung beträgt über 18.000 Einwohner.", "Wichtigster Standort für multinationale Fruchtexportunternehmen.", "Die Jahresniederschlagsmenge liegt bei rund 3.000 Millimetern.", "Entfernung zur Grenze nach Nicaragua beträgt ca. 40 Kilometer.", "Besitzt ein regionales Flugfeld für Agrarflüge und kleine Maschinen."],
@@ -1443,10 +1443,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Aguas Zarcas',
     },
     description: {
-      en: 'A town in San Carlos known for its hot springs and surrounding natural beauty.',
-      de: 'Eine Stadt in San Carlos, die für ihre heißen Quellen und die umliegende Naturschönheit bekannt ist.',
-      hu: 'San Carlos egyik városa, amely hőforrásairól és környező természeti szépségéről ismert.',
-      ro: 'Un oraș din San Carlos, cunoscut pentru izvoarele sale termale și frumusețea naturală înconjurătoare.',
+      en: "A dynamic town in San Carlos known for its fertile lands and connection to nature. It is a major center for cattle farming and agricultural services.",
+      de: "Aguas Zarcas ist eine lebhafte Stadt im Kanton San Carlos, die für ihre Thermalquellen und den umliegenden Regenwald bekannt ist.",
+      hu: "Aguas Zarcas egy dinamikusan fejlődő település San Carlos kantonban. A várost a természeti környezet közelsége és a növekvő kereskedelmi tevékenység jellemzi.",
+      ro: "Localitate în San Carlos, cunoscută pentru resursele sale naturale.",
     },
     descriptionAdvanced: {
       de: "Aguas Zarcas, dessen Name \\\"hellblaues Wasser\\\" bedeutet, ist eine florierende Stadt im Kanton San Carlos, bekannt für ihre natürlichen Thermalquellen. Gelegen am Fuße der Vulkankette, profitiert die Region von geothermischer Aktivität, die entspannende heiße Quellen speist. Die Stadt ist ein wichtiges Zentrum für Tourismus und Landwirtschaft, umgeben von üppigem Regenwald und fruchtbarem Ackerland. Aguas Zarcas bietet eine Mischung aus Abenteuer und Erholung, mit Zugang zu Wasserfällen und Wanderwegen. Die wirtschaftliche Bedeutung der Stadt ist in den letzten Jahren stetig gewachsen, was sich in einer modernen Infrastruktur und einem regen Geschäftsleben widerspiegelt. Besucher schätzen die Kombination aus lokaler Gastfreundschaft und der spektakulären Natur der nördlichen Zone. Sachkunde K4.",
@@ -1455,10 +1455,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Aguas Zarcas is a lively San Carlos town whose identity is tied to its springs, its warm lowland setting, and the agricultural region around it. The name itself evokes clear water, while the district's economy mixes trade, farming, and the everyday services needed by nearby communities. It belongs to the broad northern zone of Alajuela province, where heat, rainfall, and fertile land shape both work and settlement. In Plizio Geography K5, it connects hydrology, naming, and local development."
     },
     facts: {
-      en: ['"Aguas Zarcas" means "light-blue waters"', 'Popular for local tourism', 'Located in a region with significant geological activity'],
-      de: ['"Aguas Zarcas" bedeutet "hellblaues Wasser"', 'Beliebt für den lokalen Tourismus', 'In einer Region mit erheblicher geologischer Aktivität gelegen'],
-      hu: ['Az "Aguas Zarcas" jelentése "világoskék vizek"', 'Népszerű a helyi turizmus körében', 'Jelentős geológiai aktivitású régióban található'],
-      ro: ['"Aguas Zarcas" înseamnă "ape albastre deschise"', 'Popular pentru turismul local', 'Situat într-o regiune cu activitate geologică semnificativă'],
+      en: ["Located in San Carlos", "Fertile agricultural land", "Cattle farming center", "Agricultural services"],
+      de: ["Bekannt für natürliche Thermalquellen", "Zentrum für Viehzucht", "Nahe üppigen Regenwäldern", "Wachsender Wirtschaftsstandort"],
+      hu: ["San Carlos kanton", "Dinamikus fejlődés", "Természeti környezet", "Kereskedelmi tevékenység"],
+      ro: ["Situat în Alajuela", "Resurse naturale", "Climat cald", "Zonă agricolă"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 500 Metern über dem Meeresspiegel.", "Der Distrikt Aguas Zarcas erstreckt sich über ca. 160 Quadratkilometer.", "Die Bevölkerung liegt bei über 20.000 Einwohnern.", "Bekannt für die hohe Qualität seines Quellwassers.", "Durchschnittstemperatur liegt bei angenehmen 23 Grad Celsius.", "Wichtigster Standort für Molkereiprodukte in der Region Nord.", "Entfernung zur Provinzhauptstadt Quesada beträgt ca. 15 Kilometer."],
@@ -1484,10 +1484,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Florencia',
     },
     description: {
-      en: 'A district west of Quesada, serving as a residential and agricultural community in San Carlos.',
-      de: 'Ein Bezirk westlich von Quesada, der als Wohn- und Landwirtschaftsgemeinde in San Carlos dient.',
-      hu: 'Quesadától nyugatra fekvő kerület, amely San Carlos lakó- és mezőgazdasági közösségeként szolgál.',
-      ro: 'Un district la vest de Quesada, care servește ca o comunitate rezidențială și agricolă în San Carlos.',
+      en: "An agricultural town in the San Carlos region, characterized by its wide fields and active rural economy. It serves as an important hub for regional farm logistics.",
+      de: "Florencia ist ein lokales Zentrum im Kanton San Carlos. Die Stadt dient als wichtiger Zwischenstopp auf den Routen in die nördlichen Ebenen.",
+      hu: "Florencia egy San Carlos kantonhoz tartozó település, amely a regionális mezőgazdaságban játszik fontos szerepet. A környéket termékeny földek és trópusi éghajlat jellemzi.",
+      ro: "Comunitate în San Carlos, centru pentru agricultură.",
     },
     descriptionAdvanced: {
       de: "Florencia ist ein wichtiger Distrikt im Kanton San Carlos, der strategisch günstig an der Kreuzung wichtiger Routen nach Norden und Westen liegt. Die Stadt dient als bedeutendes Wohngebiet für Menschen, die in der nahegelegenen Stadt Quesada arbeiten, bewahrt jedoch ihren eigenständigen agrarischen Charakter. Umgeben von grünen Weiden und Plantagen, ist Florencia ein Zentrum der Viehwirtschaft und des Anbaus von Grundnahrungsmitteln. In den letzten Jahren hat die Region durch die Verbesserung der Straßenanbindung an Bedeutung gewonnen. Die Atmosphäre ist ruhig und traditionell, geprägt von landwirtschaftlichen Betrieben und einer engen Gemeinschaft. Florencia bietet die perfekte Verbindung zwischen ländlicher Ruhe und dem Zugang zu den städtischen Dienstleistungen von San Carlos. Sachkunde K4.",
@@ -1496,10 +1496,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Florencia is a residential and agricultural district west of Ciudad Quesada, and its role is closely tied to the movement of people and goods inside San Carlos. The town does not dominate headlines, but it matters as part of the network that supports the northern plains: family housing, roads, farms, and daily services all converge here. That makes Florencia a good example of how a district can serve both local residents and the larger regional economy. In Plizio Geography K5, it supports lessons on mixed rural-urban districts."
     },
     facts: {
-      en: ['Important for cattle ranching and farming', 'Part of the wider San Carlos commercial area', 'Connects Quesada with the western parts of the canton'],
-      de: ['Wichtig für die Rinderzucht und Landwirtschaft', 'Teil des weiteren Gewerbegebiets von San Carlos', 'Verbindet Quesada mit den westlichen Teilen des Kantons'],
-      hu: ['Fontos a szarvasmarha-tenyésztés és a gazdálkodás szempontjából', 'San Carlos tágabb kereskedelmi területének része', 'Összeköti Quesadát a kanton nyugati részeivel'],
-      ro: ['Important pentru creșterea vitelor și agricultură', 'Parte a zonei comerciale mai largi San Carlos', 'Conectează Quesada cu părțile de vest ale cantonului'],
+      en: ["San Carlos agricultural town", "Rural economy hub", "Farm logistics center", "Wide open fields"],
+      de: ["Kanton San Carlos", "Wichtiger Zwischenstopp", "Transitort"],
+      hu: ["San Carlos kanton", "Mezőgazdasági szerep", "Termékeny földek", "Trópusi éghajlat"],
+      ro: ["Situat în Alajuela", "Zonă agricolă", "Climat tropical", "Dezvoltare locală"],
     },
     factsAdvanced: {
       de: ["Liegt auf einer Höhe von 225 Metern über dem Meeresspiegel.", "Der Distrikt Florencia umfasst eine Fläche von ca. 190 Quadratkilometern.", "Die Bevölkerung übersteigt 16.000 Einwohner.", "Wichtiger Knotenpunkt für den Transport landwirtschaftlicher Güter.", "Durchschnittliche Jahrestemperatur liegt bei 25 Grad Celsius.", "Beherbergt mehrere agroindustrielle Verarbeitungsanlagen.", "Entfernung zum Vulkan Arenal (La Fortuna) beträgt ca. 35 Kilometer."],
@@ -1525,10 +1525,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Palmares',
     },
     description: {
-      en: 'A city famous for hosting one of Costa Rica\\\\\\\'s largest and most popular annual festivals.',
-      de: 'Eine Stadt, die für die Ausrichtung eines der größten und beliebtesten jährlichen Feste Costa Ricas berühmt ist.',
-      hu: 'A város arról híres, hogy Costa Rica egyik legnagyobb és legnépszerűbb éves fesztiváljának ad otthont.',
-      ro: 'Un oraș renumit pentru găzduirea unuia dintre cele mai mari și mai populare festivaluri anuale din Costa Rica.',
+      en: "Renowned for its annual festival, this town is a lively cultural hub in Alajuela. It is known for its strong community spirit and regional trade events.",
+      de: "Palmares ist bekannt für seine jährlichen Fiestas und seine starke lokale Gemeinschaft. Die Stadt liegt in einer produktiven landwirtschaftlichen Zone.",
+      hu: "Palmares városa híres az éves kulturális fesztiváljairól, amelyek az ország egyik legrangosabb eseményei közé tartoznak. A település Alajuela kanton szívében fekszik.",
+      ro: "Oraș cunoscut pentru festivalurile sale, situat în Alajuela.",
     },
     descriptionAdvanced: {
       de: "Palmares, oft als die \\\"Stadt der Freunde\\\" bezeichnet, liegt eingebettet in das westliche Zentraltal von Costa Rica auf einer Höhe von etwa 1.000 Metern. Die Stadt ist weltberühmt für ihre \\\"Fiestas de Palmares\\\", das größte Volksfest des Landes, das jedes Jahr im Januar Zehntausende Besucher anlockt. Doch abseits des Trubels besticht Palmares durch seine außergewöhnliche Sauberkeit und den preisgekrönten Stadtpark. Die lokale Wirtschaft wird stark vom Kaffeeanbau und der Tabakverarbeitung geprägt, was der Region einen wohlhabenden und gepflegten Charakter verleiht. Besucher schätzen die authentische costaricanische Gastfreundschaft und die malerische Kulisse der umliegenden grünen Hügel. Die neugotische Kirche im Stadtzentrum ist ein architektonisches Highlight und ein stolzes Symbol der Gemeinschaft. Sachkunde K4",
@@ -1537,10 +1537,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Palmares is best known nationwide for its January festival season, when the town fills with concerts, social events, and the famous Fiestas de Palmares. Outside that celebration, it remains a western Central Valley town with coffee hills, a compact urban core, and the social identity of a place that likes to gather. The nickname City of Friends reflects that welcoming reputation, while the setting near the valley's higher ground keeps the climate comfortable. In Plizio Geography K5, it is a good example of festival-led place branding."
     },
     facts: {
-      en: ['The "Fiestas de Palmares" attract thousands of visitors', 'Known for its clean and well-maintained central park', 'Located in the Western Central Valley'],
-      de: ['Die "Fiestas de Palmares" ziehen Tausende von Besuchern an', 'Bekannt für seinen sauberen und gepflegten zentralen Park', 'Im westlichen Zentraltal gelegen'],
-      hu: ['A "Fiestas de Palmares" több ezer látogatót vonz', 'Tiszta és jól karbantartott központi parkjáról ismert', 'A Nyugati-Központi-völgyben található'],
-      ro: ['"Fiestas de Palmares" atrage mii de vizitatori', 'Cunoscut pentru parcul său central curat și bine întreținut', 'Situat în Valea Centrală de Vest'],
+      en: ["Renowned annual festival", "Lively cultural hub", "Alajuela region", "Community and trade"],
+      de: ["Berühmt für jährliche Volksfeste", "Gilt als sehr saubere Stadt", "Starker Gemeinschaftssinn", "Regionales Handelszentrum"],
+      hu: ["Alajuela kanton", "Kulturális fesztiválok", "Rendkívül népszerű események", "Kulturális szív"],
+      ro: ["Celebru pentru festivaluri", "Situat în Alajuela", "Climat temperat", "Tradiții locale"],
     },
     factsAdvanced: {
       de: ["Das jährliche Festival 'Fiestas de Palmares' dauert 2 Wochen und zählt über 100.000 Besucher.", "Die Stadt liegt auf einer durchschnittlichen Höhe von 1.017 Metern über dem Meeresspiegel.", "Palmares wurde mehrfach als die sauberste Stadt Costa Ricas ausgezeichnet.", "Die Region produziert jährlich etwa 45.000 Säcke hochwertigen Hochlandkaffees.", "Der zentrale Park 'Parque de Palmares' umfasst eine Fläche von rund 5.000 Quadratmetern.", "Die markante Kirche 'Iglesia de las Mercedes' wurde aus Stein und Ziegeln im neugotischen Stil erbaut.", "Der Kanton Palmares umfasst eine Gesamtfläche von nur 38 Quadratkilometern."],
@@ -1566,10 +1566,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Atenas',
     },
     description: {
-      en: 'A town renowned for what National Geographic once called "the best climate in the world."',
-      de: 'Eine Stadt, die für das bekannt ist, was National Geographic einmal als "das beste Klima der Welt" bezeichnete.',
-      hu: 'Egy város, amely arról híres, amit a National Geographic egykor "a világ legjobb éghajlatának" nevezett.',
-      ro: 'Un oraș renumit pentru ceea ce National Geographic a numit odată "cel mai bun climat din lume".',
+      en: "Often cited for having one of the best climates in the world, this tranquil town attracts many residents looking for a comfortable and temperate environment.",
+      de: "Atenas gilt als eine Stadt mit einem der besten Klimas der Welt. Die ruhige Atmosphäre macht sie zu einem bevorzugten Wohnort für Einheimische und Auswanderer.",
+      hu: "Atenas híres a világ egyik legjobb klímájáról, melyet sokan a legkellemesebb éghajlatú helyként emlegetnek. A város Alajuela tartomány hegyvidéki területén fekszik.",
+      ro: "Oraș situat în Alajuela, renumit pentru climatul său excelent.",
     },
     descriptionAdvanced: {
       de: "Atenas genießt den Ruf, eines der besten Klimas der Welt zu besitzen – eine Auszeichnung, die einst sogar von National Geographic hervorgehoben wurde. Die Stadt liegt strategisch günstig zwischen dem geschäftigen Zentraltal und den sonnigen Stränden der Pazifikküste. Diese ideale Lage und die milden Temperaturen von durchschnittlich 24 Grad machen Atenas zu einem bevorzugten Wohnort für Expats und Rentner aus aller Welt. Der charmante Stadtkern ist geprägt von einer imposanten Kirche und einem lebendigen Park, in dem man das echte \\\"Pura Vida\\\"-Gefühl hautnah erleben kann. Umgeben von ausgedehnten Kaffeeplantagen und üppigen Wäldern bietet Atenas zahlreiche Möglichkeiten für Naturbeobachtungen, insbesondere für Vogelliebhaber, die hier Tukane und Papageien sichten können. Sachkunde K4",
@@ -1578,10 +1578,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Atenas has a reputation that reaches well beyond its size because of the climate story attached to its name. Located in the western Central Valley, the town combines coffee farming, hill scenery, and a compact urban centre that still feels strongly local. Its position between the capital region and the Pacific slope has made it attractive to commuters and residents who value a milder setting. The place works as both an agricultural district and a residential town, which is why it remains a constant reference point in discussions of Costa Rican quality of life. In Plizio Geography K5, it illustrates climate-based attraction."
     },
     facts: {
-      en: ['Popular retirement destination for expatriates', 'Surrounded by mountains and coffee plantations', 'Located halfway between the Central Valley and the Pacific coast'],
-      de: ['Beliebtes Ruhestandsziel für Expatriates', 'Umgeben von Bergen und Kaffeeplantagen', 'Auf halbem Weg zwischen dem Zentraltal und der Pazifikküste gelegen'],
-      hu: ['Népszerű nyugdíjas célpont a külföldiek számára', 'Hegyek és kávéültetvények veszik körül', 'Félúton található a Központi-völgy és a Csendes-óceán partja között'],
-      ro: ['Destinație populară de pensionare pentru expatriați', 'Înconjurat de munți și plantații de cafea', 'Situat la jumătatea distanței dintre Valea Centrală și coasta Pacificului'],
+      en: ["World-class climate", "Tranquil environment", "Temperate weather", "Popular residential choice"],
+      de: ["Bestes Klima weltweit", "Ruhige Atmosphäre", "Wohnort für viele"],
+      hu: ["Legjobb klíma", "Kellemes éghajlat", "Alajuela tartomány", "Hegyvidéki terület"],
+      ro: ["Climat ideal", "Situat în Alajuela", "Zonă rezidențială", "Peisaj colinar"],
     },
     factsAdvanced: {
       de: ["Die Durchschnittstemperatur in Atenas schwankt das ganze Jahr über nur minimal zwischen 23 und 26 Grad Celsius.", "Atenas liegt auf einer Höhe von 698 Metern über dem Meeresspiegel.", "Die Stadt ist bekannt für den 'Puente de Piedra', eine natürliche Steinbrücke über den Fluss Porrosatí.", "Der lokale Bauernmarkt (Feria) findet jeden Freitag statt und bietet Produkte von über 50 lokalen Farmen.", "Die Stadt beherbergt eine der größten Expat-Gemeinden Costa Ricas im Verhältnis zur Einwohnerzahl.", "Atenas liegt genau 35 Kilometer westlich des internationalen Flughafens Juan Santamaría.", "Die Region ist berühmt für die Produktion von 'Toronja Rellena', einer mit Dulce de Leche gefüllten Grapefruit-Süßigkeit."],
@@ -1607,10 +1607,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Grecia',
     },
     description: {
-      en: 'A city famous for its unique all-metal church, the "Iglesia de Nuestra Señora de las Mercedes."',
-      de: 'Eine Stadt, die für ihre einzigartige Ganzmetallkirche, die "Iglesia de Nuestra Señora de las Mercedes", berühmt ist.',
-      hu: 'A város egyedülálló, teljesen fémből készült templomáról, az "Iglesia de Nuestra Señora de las Mercedes"-ről híres.',
-      ro: 'Un oraș renumit pentru biserica sa unică, realizată integral din metal, "Iglesia de Nuestra Señora de las Mercedes".',
+      en: "Best known for its iconic red metal church, this city is a significant agricultural and manufacturing hub in the Alajuela province.",
+      de: "Grecia ist bekannt für seine einzigartige metallische Kirche, die aus europäischen Bauteilen errichtet wurde. Die Stadt liegt inmitten ausgedehnter Zuckerrohrfelder.",
+      hu: "Grecia városa különleges, fémből készült templomáról híres, amely Costa Rica egyik legfontosabb építészeti emléke. A város Alajuela tartományban található.",
+      ro: "Oraș celebru pentru biserica sa metalică, situat în Alajuela.",
     },
     descriptionAdvanced: {
       de: "Grecia ist eine architektonische Besonderheit in Costa Rica und weit über die Landesgrenzen hinaus bekannt für seine tiefrote Kirche, die vollständig aus Metall gefertigt wurde. Diese \\\"Iglesia de la Nuestra Señora de las Mercedes\\\" wurde Ende des 19. Jahrhunderts in Belgien vorgefertigt und per Schiff nach Mittelamerika transportiert. Neben diesem stählernen Wunderwerk gilt Grecia als eine der saubersten Städte Lateinamerikas. Die Wirtschaft der Region blüht dank der intensiven Produktion von Zuckerrohr und Kaffee. Besucher können hier das ländliche Leben in seiner modernsten Form erleben, während sie die sanften Hänge der umliegenden Vulkanausläufer erkunden. Der nahegelegene Nationalpark Los Chorros lockt zudem mit beeindruckenden Wasserfällen und einer reichen Artenvielfalt, die Grecia zu einem perfekten Ziel für Natur- und Kulturliebhaber macht. Sachkunde K4",
@@ -1619,10 +1619,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Grecia is instantly recognisable because of the red metal church in its centre, but the town is more than an architectural curiosity. As a canton capital in Alajuela, it balances commerce, housing, and coffee-region agriculture, all set within the western Central Valley's green hills. The church of Nuestra Se?ora de las Mercedes gives the city a landmark that people remember, while the surrounding district remains rooted in ordinary daily life. In Plizio Geography K5, it shows how a single building can define a whole urban identity."
     },
     facts: {
-      en: ['The church was prefabricated in Belgium in the 1890s', 'Considered one of the cleanest cities in Latin America', 'A major producer of sugarcane'],
-      de: ['Die Kirche wurde in den 1890er Jahren in Belgien vorgefertigt', 'Gilt als eine der saubersten Städte Lateinamerikas', 'Ein wichtiger Produzent von Zuckerrohr'],
-      hu: ['A templomot az 1890-es években Belgiumban gyártották előre', 'Latin-Amerika egyik legtisztább városának tartják', 'Jelentős cukornádtermelő'],
-      ro: ['Biserica a fost prefabricată în Belgia în anii 1890', 'Considerat unul dintre cele mai curate orașe din America Latină', 'Un producător major de trestie de zahăr'],
+      en: ["Iconic red metal church", "Alajuela province", "Agricultural center", "Manufacturing hub"],
+      de: ["Einzigartige Metallkirche", "Zuckerrohrfelder", "Historisches Bauwerk"],
+      hu: ["Fém templom", "Építészeti emlék", "Alajuela tartomány", "Kulturális központ"],
+      ro: ["Biserică metalică unică", "Situat în Alajuela", "Climat temperat", "Regiune agricolă"],
     },
     factsAdvanced: {
       de: ["Die Metallkirche von Grecia besteht aus hunderten in Belgien gegossenen Stahlplatten.", "Grecia liegt auf einer Höhe von 999 Metern über dem Meeresspiegel im Zentraltal.", "Die Stadt wurde 1989 offiziell zur saubersten Stadt Lateinamerikas ernannt.", "In der Region werden jährlich über 200.000 Tonnen Zuckerrohr geerntet.", "Der Wasserfall 'Los Chorros' besteht aus zwei Kaskaden mit einer Fallhöhe von jeweils über 20 Metern.", "Die Fahrt von der Hauptstadt San José nach Grecia dauert mit dem Auto etwa 45 Minuten.", "Grecia war die erste Stadt Mittelamerikas, die eine organisierte Müllabfuhr einführte."],
@@ -1648,10 +1648,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Sarchí',
     },
     description: {
-      en: 'The cradle of Costa Rican arts and crafts, famous for its beautifully painted oxcarts.',
-      de: 'Die Wiege des costa-ricanischen Kunsthandwerks, berühmt für seine wunderschön bemalten Ochsenkarren.',
-      hu: 'A Costa Rica-i művészetek és kézművesség bölcsője, híres gyönyörűen festett ökrösszekereiről.',
-      ro: 'Leagănul artelor și meșteșugurilor din Costa Rica, renumit pentru carele sale cu boi frumos pictate.',
+      en: "The center of traditional wooden cart craftsmanship, Sarchí is famous for its artisans and colorful, hand-painted oxcarts.",
+      de: "Sarchí ist das handwerkliche Zentrum von Costa Rica und berühmt für die kunstvoll bemalten Ochsenkarren. Die Stadt zieht viele Touristen an.",
+      hu: "Sarchí Costa Rica kézművességének fővárosa, ahol hagyományos, festett ökörfogatok készülnek. A város Alajuela tartományban található, a kézműves ipar központja.",
+      ro: "Centru de artizanat și mobilier, în provincia Alajuela.",
     },
     descriptionAdvanced: {
       de: "Sarchí gilt als das kunsthandwerkliche Zentrum Costa Ricas und ist weltweit berühmt für die Herstellung der farbenprächtigen Ochsenkarren (Carretas), die von der UNESCO zum immateriellen Weltkulturerbe erklärt wurden. Diese kunstvoll bemalten Wagen waren einst das Rückgrat der Kaffeeindustrie und sind heute das Nationalsymbol des Landes. Ein Spaziergang durch Sarchí führt vorbei an unzähligen Werkstätten, in denen geschickte Handwerker feine Möbel aus Edelhölzern wie Zeder und Mahagoni fertigen. Besonders beeindruckend ist der zentrale Platz, auf dem der größte Ochsenkarren der Welt thront – ein Meisterwerk aus Holz und Farbe. Die Stadt ist zudem ein hervorragender Ausgangspunkt für Ausflüge in den Nationalpark Juan Castro Blanco. Hier verschmelzen Tradition, Kunst und Natur zu einem einzigartigen Erlebnis für jeden Reisenden. Sachkunde K4",
@@ -1660,10 +1660,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Sarch? is one of Costa Rica's clearest craft towns, famous for brightly painted oxcarts that turned local woodworking into a national symbol. The district's identity is tied to artisans, workshops, and family businesses that keep traditional design alive while also drawing visitors. Set in Alajuela province, it feels smaller and more handmade than many nearby urban centres, and that is exactly what gives it power as a place brand. In Plizio Geography K5, it is ideal for lessons on cultural industries and heritage tourism."
     },
     facts: {
-      en: ['Home to the world\\\\\\\'s largest oxcart', 'Oxcarts are a UNESCO Intangible Cultural Heritage', 'A hub for woodworking and furniture making'],
-      de: ['Heimat des größten Ochsenkarrens der Welt', 'Ochsenkarren gehören zum immateriellen UNESCO-Weltkulturerbe', 'Ein Zentrum für Holzbearbeitung und Möbelherstellung'],
-      hu: ['A világ legnagyobb ökrösszekerének otthona', 'Az ökrösszekerek az UNESCO szellemi kulturális örökség részét képezik', 'A famegmunkálás és bútorgyártás központja'],
-      ro: ['Găzduiește cel mai mare car cu boi din lume', 'Carele cu boi fac parte din Patrimoniul Cultural Imaterial UNESCO', 'Un centru pentru prelucrarea lemnului și fabricarea mobilei'],
+      en: ["Center of wooden crafts", "Famous artisans", "Hand-painted oxcarts", "Cultural landmark"],
+      de: ["Handwerkszentrum", "Bunte Ochsenkarren", "Touristisches Ziel"],
+      hu: ["Kézműves főváros", "Festett ökörfogatok", "Alajuela tartomány", "Kézműves ipar"],
+      ro: ["Centru de artizanat", "Situat în Alajuela", "Climat temperat", "Tradiții meșteșugărești"],
     },
     factsAdvanced: {
       de: ["Der größte Ochsenkarren der Welt in Sarchí ist über 14 Meter lang und wiegt etwa 2 Tonnen.", "Sarchí liegt am Fuße des Poás-Vulkans auf einer Höhe von 970 Metern.", "Die Kunst der Ochsenkarren-Bemalung wird in Sarchí seit over 100 Jahren von Generation zu Generation weitergegeben.", "Die Stadt beherbergt mehr als 200 spezialisierte Möbel- und Kunsthandwerkswerkstätten.", "Sarchí ist in zwei Bezirke unterteilt: Sarchí Norte (Handelszentrum) und Sarchí Sur (Wohngebiet).", "Die lokale Kirche besitzt eine auffällige Fassade mit über 1.000 individuellen Ornamenten.", "Jährlich werden in Sarchí tausende Miniatur-Ochsenkarren als Souvenirs für Touristen handgefertigt."],
@@ -1689,10 +1689,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Tres Ríos',
     },
     description: {
-      en: 'The capital city of La Unión canton, known for its history as a premier coffee-growing region.',
-      de: 'Die Hauptstadt des Kantons La Unión, bekannt für ihre Geschichte als erstklassiges Kaffeeanbaugebiet.',
-      hu: 'La Unión kanton fővárosa, amely a prémium kávétermő régióként való múltjáról ismert.',
-      ro: 'Capitala cantonului La Unión, cunoscută pentru istoria sa ca regiune de prim rang în cultivarea cafelei.',
+      en: "The capital of La Union, a key residential and commercial zone east of San Jose. It is known for its traditional coffee history.",
+      de: "Tres Ríos ist ein wichtiges Zentrum im Kanton La Unión und historisch für seinen Kaffeeanbau bekannt. Die Stadt ist heute stark urbanisiert.",
+      hu: "Tres Ríos La Unión kanton székhelye Cartago tartományban. A település a hegyvidéki kávétermesztéséről ismert, amely az egész országban elismert minőséget képvisel.",
+      ro: "Sediul cantonului La Unión, cunoscut pentru producția de cafea.",
     },
     descriptionAdvanced: {
       de: "Tres Ríos, strategisch am östlichen Rand der Metropolregion San José gelegen, ist historisch eng mit der Entwicklung der costaricanischen Kaffeeindustrie verknüpft. Der Name \\\"Drei Flüsse\\\" deutet bereits auf die wasserreiche Topografie hin, die diese Region ideal für den Anbau von hochwertigem Kaffee macht. Einst ein kleines Dorf, hat sich Tres Ríos heute zu einem modernen Wohn- und Geschäftszentrum entwickelt, ohne seinen kolonialen Charme völlig zu verlieren. Besonders bekannt ist die Stadt für ihre kühlen Brisen und den Blick auf die umliegenden Berge. In der Nähe befinden sich exklusive Wohngebiete und moderne Einkaufszentren, die Tres Ríos zu einem attraktiven Standort für junge Familien und Fachkräfte machen. Für Geschichtsinteressierte bietet die lokale Architektur Spuren der glorreichen Ära der Kaffeebarone. Sachkunde K4",
@@ -1701,10 +1701,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Tres R?os is the canton capital of La Uni?n and one of the most historic coffee towns on the eastern edge of the Greater Metropolitan Area. Its name points to the waterways that shaped the local landscape, while its place in Cartago province links it to both agriculture and commuter life. Over time, the town has shifted from a classic coffee-growing setting into a busy urban district with schools, services, and road traffic. In Plizio Geography K5, it is a useful case for studying how coffee towns become suburbs."
     },
     facts: {
-      en: ['Part of the eastern Greater Metropolitan Area', 'Its name means "Three Rivers"', 'A blend of urban development and agricultural tradition'],
-      de: ['Teil der östlichen Metropolregion Gran Area Metropolitana', 'Sein Name bedeutet "Drei Flüsse"', 'Eine Mischung aus Stadtentwicklung und landwirtschaftlicher Tradition'],
-      hu: ['A keleti Nagyvárosi Terület része', 'Neve "Három Folyót" jelent', 'A városfejlesztés és a mezőgazdasági hagyományok keveréke'],
-      ro: ['Parte a Marii Zone Metropolitane de est', 'Numele său înseamnă "Trei Râuri"', 'Un amestec de dezvoltare urbană și tradiție agricolă'],
+      en: ["La Union capital", "East of San Jose", "Residential hub", "Coffee history"],
+      de: ["Historische Kaffeeregion", "Östliches Tor zu San José", "Wachsendes Wohnviertel", "Kühleres Höhenklima"],
+      hu: ["La Unión kanton", "Cartago tartomány", "Kávétermesztés", "Magas minőség"],
+      ro: ["Regiune producătoare de cafea", "Situat în Cartago", "Climat temperat", "Peisaj deluros"],
     },
     factsAdvanced: {
       de: ["Tres Ríos liegt auf einer Höhe von etwa 1.342 Metern, was für ein angenehm kühles Klima sorgt.", "Die Stadt ist der Verwaltungssitz des Kantons La Unión in der Provinz Cartago.", "Der Kaffee aus Tres Ríos trägt oft die geschützte Bezeichnung 'Caffé de Tres Ríos'.", "Die Region profitiert von den fruchtbaren Vulkanböden des nahegelegenen Vulkans Irazú.", "Tres Ríos liegt etwa 12 Kilometer östlich des Zentrums der Hauptstadt San José.", "In der Stadt kreuzen sich wichtige Verkehrsverbindungen zwischen San José und der alten Hauptstadt Cartago.", "Die Einwohnerzahl des Bezirks Tres Ríos wird auf über 10.000 Personen geschätzt."],
@@ -1730,10 +1730,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Cot',
     },
     description: {
-      en: 'A small, traditional town in Cartago province, located on the slopes of the Irazú Volcano.',
-      de: 'Eine kleine, traditionelle Stadt in der Provinz Cartago an den Hängen des Vulkans Irazú.',
+      en: "A mountain town known for its high-altitude agriculture and cool climate. It offers scenic views of the Cartago valley.",
+      de: "Cot ist ein charmantes Dorf in der Provinz Cartago, das für seine Kartoffelfelder und die Nähe zum Irazú-Vulkan bekannt ist.",
       hu: 'Kicsi, hagyományos város Cartago tartományban, az Irazú-vulkán lejtőin.',
-      ro: 'Un mic oraș tradițional din provincia Cartago, situat pe versanții vulcanului Irazú.',
+      ro: "Comunitate agricolă în cantonul Oreamuno, provincia Cartago.",
     },
     descriptionAdvanced: {
       de: "Cot liegt an den steilen Hängen des Vulkans Irazú und ist eine der höchstgelegenen Siedlungen in der Provinz Cartago. Die Stadt ist geprägt von einer tiefen landwirtschaftlichen Tradition, insbesondere dem Anbau von Kartoffeln und Zwiebeln, die auf den nährstoffreichen Vulkanböden hervorragend gedeihen. Die Atmosphäre in Cot ist ruhig und traditionell, weit entfernt vom hektischen Treiben der Metropolen. Ein markantes Merkmal ist die alte Steinkirche, die trotz zahlreicher Erdbeben und Vulkanausbrüche in der Geschichte der Region ein stolzes Wahrzeichen geblieben ist. Von hier aus bietet sich ein atemberaubender Blick über das Cartago-Tal. Die kühle Bergluft und der oft neblige Himmel verleihen dem Ort eine fast mystische Aura, die Wanderer und Naturfreunde gleichermaßen fasziniert. Sachkunde K4",
@@ -1742,10 +1742,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Cot is a small traditional town on the slopes of the Iraz? Volcano, and its altitude gives it both a cool climate and a strong agricultural identity. Potatoes, onions, and other highland crops fit the terrain here better than tropical plantation farming, so the district looks and works differently from the lowlands. The place feels rural, but it is part of Cartago's wider settlement pattern and helps explain how volcanic terrain shapes daily life. In Plizio Geography K5, it is a clear example of highland agriculture."
     },
     facts: {
-      en: ['Known for its potato and vegetable farming', 'Features a historic colonial-era church', 'Offers a cool, high-altitude climate'],
-      de: ['Bekannt für seinen Kartoffel- und Gemüseanbau', 'Verfügt über eine historische Kirche aus der Kolonialzeit', 'Bietet ein kühles, hochgelegenes Klima'],
+      en: ["Mountain town", "High-altitude agriculture", "Cool climate", "Cartago valley views"],
+      de: ["Provinz Cartago", "Kartoffelanbau", "Nahe Irazú-Vulkan"],
       hu: ['Burgonya- és zöldségtermesztéséről ismert', 'Történelmi, gyarmati korabeli templommal rendelkezik', 'Hűvös, magaslati éghajlatot kínál'],
-      ro: ['Cunoscut pentru cultivarea cartofilor și legumelor', 'Prezintă o biserică istorică din epoca colonială', 'Oferă o climă răcoroasă, de mare altitudine'],
+      ro: ["Zonă agricolă", "Situat în Cartago", "Climat rece", "Peisaj montan"],
     },
     factsAdvanced: {
       de: ["Cot liegt auf einer beeindruckenden Höhe von ca. 1.810 Metern über dem Meeresspiegel.", "Die Region ist für etwa 60% der gesamten Kartoffelproduktion Costa Ricas mitverantwortlich.", "Die Temperaturen in Cot können nachts auf bis zu 10 Grad Celsius sinken.", "Cot ist einer der ältesten Orte der Region und wurde bereits in der Kolonialzeit besiedelt.", "Die Stadt liegt an der Hauptstraße, die zum Gipfel des Vulkans Irazú führt.", "In Cot befindet sich die älteste noch bestehende Adobekirche der Region Cartago.", "Die fruchtbaren Böden in der Umgebung von Cot erreichen eine Tiefe von bis zu 2 Metern reinem Vulkanasche-Humus."],
@@ -1772,10 +1772,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Orosi',
     },
     description: {
-      en: 'A historic town in a lush valley, home to Costa Rica\\\\\\\'s oldest still-in-use colonial church.',
-      de: 'Eine historische Stadt in einem üppigen Tal, Heimat der ältesten noch genutzten Kolonialkirche Costa Ricas.',
-      hu: 'Történelmi város egy buja völgyben, ahol Costa Rica legrégebbi, még mindig használatban lévő gyarmati temploma található.',
-      ro: 'Un oraș istoric într-o vale luxuriantă, care găzduiește cea mai veche biserică colonială încă în uz din Costa Rica.',
+      en: "Located in a beautiful valley, Orosi is home to one of the oldest churches in the country and is surrounded by stunning nature and thermal springs.",
+      de: "Orosi ist ein malerisches Tal mit einer der ältesten Kirchen Costa Ricas. Die Region ist geprägt von Kaffeeplantagen und üppiger Natur.",
+      hu: "Orosi városa a gyönyörű Orosi-völgyben található, híres az ország legrégebbi működő templomáról és a dús természeti környezetéről.",
+      ro: "Valea Orosi, renumită pentru frumusețea naturală și istorie.",
     },
     descriptionAdvanced: {
       de: "Das Orosi-Tal gilt als eines der malerischsten Gebiete Costa Ricas, und die Stadt Orosi ist sein kulturelles Herzstück. Hier steht die älteste noch genutzte Kirche des Landes, die \\\"Iglesia de San José de Orosi\\\", ein schlichtes, weißes Kolonialbauwerk aus dem 18. Jahrhundert. Das Tal wird vom mächtigen Reventazón-Fluss durchquert und ist umgeben von tiefgrünen Bergen und ausgedehnten Kaffeeplantagen. Dank zahlreicher heißer Quellen hat sich Orosi auch als Wellness-Ziel etabliert. Besucher können in mineralhaltigem Wasser entspannen, während sie den Blick auf den Vulkan Irazú genießen. Die Region ist zudem ein Paradies für Outdoor-Aktivitäten wie Mountainbiken, Wandern und Rafting. In Orosi scheint die Zeit langsamer zu vergehen, was den Ort zu einem perfekten Rückzugsort für Erholungssuchende macht. Sachkunde K4",
@@ -1784,10 +1784,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Orosi is one of Costa Rica's most atmospheric valley towns, where colonial heritage, lush scenery, and religious history come together in a compact setting. The old church of San Jos? de Orosi is the key landmark, and its presence reminds visitors that this valley was settled early and has kept a strong historical profile. Coffee, small farms, and the green bowl of the Orosi Valley all add to the town's character. In Plizio Geography K5, it is ideal for showing how landscape and heritage can reinforce each other."
     },
     facts: {
-      en: ['The church of Orosi dates back to 1743', 'The Orosi Valley is a major coffee-producing region', 'Surrounded by rainforest and hot springs'],
-      de: ['Die Kirche von Orosi stammt aus dem Jahr 1743', 'Das Orosi-Tal ist eine wichtige Kaffeeanbauregion', 'Umgeben von Regenwald und heißen Quellen'],
-      hu: ['Az orosi-i templom 1743-ból származik', 'Az Orosi-völgy jelentős kávétermelő régió', 'Esőerdő és hőforrások veszik körül'],
-      ro: ['Biserica din Orosi datează din 1743', 'Valea Orosi este o importantă regiune producătoare de cafea', 'Înconjurat de pădure tropicală și izvoare termale'],
+      en: ["Beautiful valley location", "Historic colonial church", "Stunning nature", "Thermal springs"],
+      de: ["Malerisches Tal", "Historische Kirche", "Kaffeeplantagen"],
+      hu: ["Orosi-völgy", "Lgrégebbi templom", "Dús természet", "Turisztikai célpont"],
+      ro: ["Valea pitorească", "Biserică istorică", "Situat în Cartago", "Climat temperat"],
     },
     factsAdvanced: {
       de: ["Die Kirche von Orosi wurde im Jahr 1743 erbaut und überstand schwere Erdbeben nahezu unbeschadet.", "Orosi liegt in einem Tal auf ca. 1.050 Metern Höhe, umgeben von Berggipfeln bis zu 2.000 Metern.", "Die Region erhält jährlich durchschnittlich 2.500 mm Niederschlag, was für üppiges Grün sorgt.", "In Orosi gibt es mehr als 5 verschiedene Thermalbad-Anlagen mit Temperaturen bis zu 40 Grad Celsius.", "Der Aussichtspunkt 'Mirador de Orosi' bietet einen Panoramablick über das gesamte 15 km lange Tal.", "Die Kaffeeproduktion in Orosi ist für ihre schokoladigen Noten und milden Säuregehalt bekannt.", "Das nahegelegene Tapantí Nationalreservat ist eines der regenreichsten Gebiete Costa Ricas."],
@@ -1813,10 +1813,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Juan Viñas',
     },
     description: {
-      en: 'A town in the Jiménez canton, historically significant for its large-scale coffee and sugar plantations.',
-      de: 'Eine Stadt im Kanton Jiménez, historisch bedeutsam für ihre großflächigen Kaffee- und Zuckerplantagen.',
-      hu: 'Város Jiménez kantonban, történelmileg jelentős a nagyszabású kávé- és cukorültetvényei miatt.',
-      ro: 'Un oraș din cantonul Jiménez, important din punct de vedere istoric pentru plantațiile sale la scară largă de cafea și zahăr.',
+      en: "A historic agricultural town known for its extensive coffee plantations and scenic rural landscapes in the Cartago province.",
+      de: "Juan Viñas liegt in einer Bergregion und ist ein Zentrum für den Zuckerrohranbau. Die Stadt bietet einen beeindruckenden Blick auf die umliegenden Täler.",
+      hu: "Juan Viñas Jiménez kanton része Cartago tartományban. A település gazdasága szorosan kötődik a cukornád- és kávétermesztéshez.",
+      ro: "Localitate în provincia Cartago, tradițional dedicată zahărului.",
     },
     descriptionAdvanced: {
       de: "Juan Viñas ist eine bedeutende Agrarstadt in der Provinz Cartago, die tief in der Geschichte des costaricanischen Zucker- und Kaffeeexports verwurzelt ist. Die Stadt ist umgeben von riesigen Plantagen, die sich über die hügelige Landschaft erstrecken. Besonders markant ist die Architektur der Stadt, die noch Spuren der alten Eisenbahnzeit und der großen Haciendas aufweist. Das Klima hier ist warm und feucht, ideal für das Wachstum der Nutzpflanzen. Reisende, die von Cartago in Richtung Karibikküste fahren, passieren oft diese Stadt, die durch ihre steilen Schluchten und zahlreichen Brücken beeindruckt. Die lokale Gemeinschaft pflegt stolz ihre bäuerlichen Traditionen, was sich in regelmäßigen Dorffesten und Märkten widerspiegelt. Juan Viñas bietet authentische Einblicke in das Arbeitsleben abseits der touristischen Hauptpfade. Sachkunde K4",
@@ -1825,10 +1825,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Juan Vi?as is an agricultural town in Jim?nez canton whose history is closely tied to coffee and sugar production. The surrounding plantations shaped the local economy for generations, and the settlement still reflects that farm-centred geography even as modern services and roads have grown around it. Its position in Cartago province places it within the eastern highland corridor, where valleys and rivers support productive land use. In Plizio Geography K5, it helps students connect plantation history with regional settlement."
     },
     facts: {
-      en: ['Surrounded by deep canyons and rivers', 'One of the first areas in Costa Rica to cultivate coffee', 'Retains a sense of historic agricultural wealth'],
-      de: ['Umgeben von tiefen Schluchten und Flüssen', 'Eines der ersten Gebiete in Costa Rica, in denen Kaffee angebaut wurde', 'Bewahrt ein Gefühl von historischem landwirtschaftlichem Reichtum'],
-      hu: ['Mély kanyonok és folyók veszik körül', 'Costa Rica egyik első területe, ahol kávét termesztettek', 'Megőrzi a történelmi mezőgazdasági gazdagság érzetét'],
-      ro: ['Înconjurat de canioane adânci și râuri', 'Una dintre primele zone din Costa Rica unde s-a cultivat cafea', 'Păstrează un sentiment de bogăție agricolă istorică'],
+      en: ["Historic agricultural town", "Coffee plantations", "Scenic rural landscape", "Cartago province"],
+      de: ["Bergregion", "Zuckerrohranbau", "Landschaftsblick"],
+      hu: ["Jiménez kanton", "Cartago tartomány", "Cukornádtermesztés", "Kávétermesztés"],
+      ro: ["Istorie agricolă", "Situat în Cartago", "Climat umed", "Producție zahăr"],
     },
     factsAdvanced: {
       de: ["Juan Viñas liegt auf einer Höhe von 1.165 Metern über dem Meeresspiegel.", "In der Stadt befindet sich eine der größten Zuckerfabriken des Landes, die Ingenio Juan Viñas.", "Die Region ist durch tiefe Schluchten des Flusses Reventazón geografisch geprägt.", "Die erste Kaffeepflanzung in dieser Zone datiert zurück auf die Mitte des 19. Jahrhunderts.", "Juan Viñas war früher eine wichtige Station der Eisenbahnstrecke 'Ferrocarril al Atlántico'.", "Der Ort verzeichnet eine der höchsten Beschäftigungsquoten im Agrarsektor der Provinz Cartago.", "Jährlich werden in Juan Viñas tausende Tonnen Rohzucker für den Export verarbeitet."],
@@ -1854,10 +1854,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Pacayas',
     },
     description: {
-      en: 'The capital of Alvarado canton, a high-altitude town known for its dairy farming and potato cultivation.',
-      de: 'Die Hauptstadt des Kantons Alvarado, eine hochgelegene Stadt, die für ihre Milchwirtschaft und ihren Kartoffelanbau bekannt ist.',
-      hu: 'Alvarado kanton fővárosa, egy magaslati város, amely tejgazdálkodásáról és burgonyatermesztéséről ismert.',
-      ro: 'Capitala cantonului Alvarado, un oraș de mare altitudine cunoscut pentru creșterea animalelor de lapte și cultivarea cartofilor.',
+      en: "A high-altitude village known for its potato production and spectacular views of the Irazu Volcano.",
+      de: "Pacayas ist ein landwirtschaftlich geprägter Ort im Kanton Alvarado. Die Region profitiert von ihrem fruchtbaren Boden und dem kühlen Hochlandklima.",
+      hu: "Pacayas Alvarado kanton székhelye Cartago tartományban. A hegyvidéki település mezőgazdasági és kertészeti szempontból kiemelt jelentőséggel bír.",
+      ro: "Oraș agricol în cantonul Alvarado, provincia Cartago.",
     },
     descriptionAdvanced: {
       de: "Pacayas, der Verwaltungssitz des Kantons Alvarado, ist eine charmante Hochlandstadt, die für ihre Milchwirtschaft und ihren Gemüseanbau bekannt ist. Auf einer Höhe von über 1.700 Metern gelegen, bietet Pacayas ein erfrischend kühles Klima und oft einen spektakulären Blick über das Zentraltal bis hin zu den Küstengebirgen. Die Region ist berühmt für die Produktion von hochwertigem Käse und frischen Kartoffeln. Ein Spaziergang durch die Stadt offenbart ein gepflegtes Stadtbild mit einer modernen Kirche und freundlichen Bewohnern. Für Touristen ist Pacayas oft ein strategischer Halt auf dem Weg zum Vulkan Irazú oder zum Vulkan Turrialba. Die saftig grünen Weiden und die grasenden Rinder erinnern fast an eine alpine Landschaft mitten in den Tropen. Sachkunde K4",
@@ -1866,10 +1866,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Pacayas is the canton capital of Alvarado, and its highland setting gives it a cool climate that suits dairy farming and potato fields. The town sits in the Cartago mountains not far from Iraz?, so altitude is part of everyday life rather than just a map detail. Local agriculture, vegetables, and livestock all benefit from that environment, and the district keeps a distinctly upland character. In Plizio Geography K5, it is a useful example of how elevation shapes agriculture and settlement."
     },
     facts: {
-      en: ['Located on the slopes of Irazú Volcano', 'Offers a cool, crisp mountain climate', 'Produces some of the best potatoes in the country'],
-      de: ['An den Hängen des Vulkans Irazú gelegen', 'Bietet ein kühles, frisches Bergklima', 'Produziert einige der besten Kartoffeln des Landes'],
-      hu: ['Az Irazú-vulkán lejtőin található', 'Hűvös, friss hegyi éghajlatot kínál', 'Az ország legjobb burgonyáinak egy részét termeli'],
-      ro: ['Situat pe versanții vulcanului Irazú', 'Oferă o climă montană răcoroasă și proaspătă', 'Produce unii dintre cei mai buni cartofi din țară'],
+      en: ["High-altitude village", "Potato production hub", "Irazu Volcano views", "Alvarado canton"],
+      de: ["Kanton Alvarado", "Fruchtbarer Boden", "Kühles Hochlandklima"],
+      hu: ["Alvarado kanton", "Cartago tartomány", "Hegyvidéki település", "Mezőgazdasági központ"],
+      ro: ["Zonă agricolă", "Situat în Cartago", "Climat rece", "Peisaj montan"],
     },
     factsAdvanced: {
       de: ["Pacayas liegt auf einer stolzen Höhe von 1.735 Metern über dem Meeresspiegel.", "Die Durchschnittstemperatur in der Stadt liegt bei kühlen 16 bis 18 Grad Celsius.", "Pacayas ist das Zentrum für die Versorgung der umliegenden Milchfarmen in der Provinz Cartago.", "Die Stadt wurde 1848 gegründet und nach einer in der Region vorkommenden Palmenart benannt.", "Etwa 70% der lokalen Bevölkerung sind direkt oder indirekt in der Landwirtschaft tätig.", "Pacayas liegt ca. 20 Kilometer nordöstlich der Stadt Cartago.", "Die Region ist bekannt für die 'Feria Agrícola', auf der lokale Bauern ihre Erzeugnisse präsentieren."],
@@ -1896,10 +1896,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Filadelfia',
     },
     description: {
-      en: 'The capital city of Carrillo canton in Guanacaste, situated along the Tempisque River.',
-      de: 'Die Hauptstadt des Kantons Carrillo in Guanacaste, am Fluss Tempisque gelegen.',
-      hu: 'Carrillo kanton fővárosa Guanacastéban, a Tempisque folyó mentén.',
-      ro: 'Capitala cantonului Carrillo din Guanacaste, situată de-a lungul râului Tempisque.',
+      en: "The administrative center of the Carrillo canton, situated in the dry tropical region of Guanacaste. It serves as a key commercial hub for the surrounding area.",
+      de: "Filadelfia ist das Verwaltungszentrum des Kantons Carrillo in Guanacaste. Die Stadt dient als Basis für den Zugang zu den nahegelegenen Pazifikstränden.",
+      hu: "Filadelfia Carrillo kanton székhelye Guanacaste tartományban. A város a régió egyik fontos adminisztratív és gazdasági központja.",
+      ro: "Centru administrativ în cantonul Carrillo, Guanacaste.",
     },
     descriptionAdvanced: {
       de: "Filadelfia liegt im Herzen der Provinz Guanacaste am Ufer des Tempisque-Flusses und ist als die \\\"Archäologische Stadt Costa Ricas\\\" bekannt. Die Region war einst ein bedeutendes Siedlungszentrum präkolumbianischer Kulturen, wovon zahlreiche Funde in der Umgebung zeugen. Heute ist Filadelfia ein pulsierendes Zentrum für die Agrarindustrie, insbesondere für den Anbau von Melonen und Zuckerrohr. Das Klima ist heiß und trocken, typisch für die nordpazifische Ebene. Die Stadt dient als wichtiger Verkehrsknotenpunkt für Reisende, die zu den berühmten Stränden der Halbinsel Nicoya oder in den Nationalpark Palo Verde unterwegs sind. Trotz der Modernisierung hat sich Filadelfia seinen traditionellen Charme mit kolonialen Gebäuden und einem lebendigen zentralen Park bewahrt. Sachkunde K4",
@@ -1908,10 +1908,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Filadelfia is the capital of Carrillo canton in Guanacaste and a town whose identity is tied to the Tempisque River and the lowland plains around it. The settlement has a strong agricultural base, but it also carries an archaeological reputation that gives it a deeper historical layer than many people expect from a provincial town. Its role is practical and regional: it organises services, routes, and farm activity in a broad dry landscape. In Plizio Geography K5, it shows how river corridors support settlement in Guanacaste."
     },
     facts: {
-      en: ['An important center for melon and sugarcane production', 'Known for its extremely hot and dry weather', 'Connects the interior of Guanacaste with the Nicoya Peninsula'],
-      de: ['Ein wichtiges Zentrum für die Melonen- und Zuckerrohrproduktion', 'Bekannt für sein extrem heißes und trockenes Wetter', 'Verbindet das Innere von Guanacaste mit der Nicoya-Halbinsel'],
-      hu: ['A dinnye- és cukornádtermesztés fontos központja', 'Rendkívül meleg és száraz időjárásáról ismert', 'Összeköti Guanacaste belsejét a Nicoya-félszigettel'],
-      ro: ['Un centru important pentru producția de pepeni și trestie de zahăr', 'Cunoscut pentru vremea sa extrem de caldă și uscată', 'Conectează interiorul Guanacaste cu Peninsula Nicoya'],
+      en: ["Carrillo administrative center", "Dry tropical region", "Guanacaste location", "Commercial hub"],
+      de: ["Zentrum von Carrillo", "Basis für Strände", "Guanacaste-Region"],
+      hu: ["Carrillo kanton", "Guanacaste tartomány", "Adminisztratív központ", "Gazdasági központ"],
+      ro: ["Situat în Guanacaste", "Zonă comercială", "Climat tropical", "Dezvoltare locală"],
     },
     factsAdvanced: {
       de: ["Filadelfia liegt auf einer geringen Höhe von nur 17 Metern über dem Meeresspiegel.", "Die Stadt wird im Osten vom Río Tempisque begrenzt, einem der wichtigsten Flüsse Guanacastes.", "Die Temperaturen in Filadelfia steigen in der Trockenzeit regelmäßig auf über 35 Grad Celsius.", "In der Umgebung wurden Gräber und Artefakte gefunden, die über 1.500 Jahre alt sind.", "Filadelfia ist einer der größten Exporteure von Honigmelonen für den US-amerikanischen Markt.", "Die Stadt liegt etwa 30 Kilometer südlich der Provinzhauptstadt Liberia.", "Der Ort wurde nach Philadelphos, einem prominenten Einwohner im 19. Jahrhundert, benannt."],
@@ -1937,10 +1937,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Tilarán',
     },
     description: {
-      en: 'A city overlooking Lake Arenal, known for its strong winds, cattle ranching, and renewable energy.',
-      de: 'Eine Stadt mit Blick auf den Arenal-See, bekannt für ihre starken Winde, Rinderzucht und erneuerbare Energien.',
-      hu: 'Az Arenal-tóra néző város, amely erős szeléről, szarvasmarha-tenyésztéséről és megújuló energiájáról ismert.',
-      ro: 'Un oraș cu vedere la Lacul Arenal, cunoscut pentru vânturile sale puternice, creșterea vitelor și energia regenerabilă.',
+      en: "A town known for its pleasant climate and its role as a gateway to Lake Arenal. It is a center for wind energy and sustainable living.",
+      de: "Tilarán liegt in der Nähe des Arenal-Stausees und ist ein Zentrum für Windenergie. Die Stadt bietet eine spektakuläre Aussicht auf den See und die Berge.",
+      hu: "Tilarán a szélenergia hasznosításának központja Guanacaste-ben. A város a tó közelében fekszik, és a megújuló energiaforrások egyik legfontosabb városa az országban.",
+      ro: "Oraș montan în Guanacaste, cunoscut pentru energia eoliană.",
     },
     descriptionAdvanced: {
       de: "Tilarán ist das windige Tor zum Arenal-See und ein Pionier in der Nutzung erneuerbarer Energien in Costa Rica. Die Stadt liegt im Hochland von Guanacaste und profitiert von den starken Passatwinden, die hier durch die Gebirgspässe wehen. Hunderte von Windkraftanlagen prägen das Landschaftsbild und versorgen weite Teile des Landes mit grünem Strom. Tilarán bietet ein deutlich kühleres und angenehmeres Klima als die heißen Küstenebenen. Für Outdoor-Fans ist die Stadt der ideale Ausgangspunkt für Windsurfen, Kitesurfen und Mountainbiken rund um den Lake Arenal. Die Umgebung ist geprägt von sanften grünen Hügeln und einer blühenden Viehzucht. Mit seiner entspannten Atmosphäre und der Nähe zu Nationalparks wie Monteverde ist Tilarán ein Muss für Ökotouristen. Sachkunde K4",
@@ -1949,10 +1949,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Tilar?n stands above Lake Arenal in the Guanacaste highlands, where wind, cattle, and renewable energy define the landscape. The town is widely associated with strong air currents, which have helped make the region a reference point for wind power in Costa Rica. At the same time, the agricultural setting keeps cattle ranching important, so energy and farming share the same ridge-and-lake environment. In Plizio Geography K5, it is a strong example of how topography can support both industry and rural work."
     },
     facts: {
-      en: ['A major center for wind power generation in Costa Rica', 'Popular for windsurfing and kitesurfing on Lake Arenal', 'Gateway to the Monteverde Cloud Forest'],
-      de: ['Ein wichtiges Zentrum für die Windkrafterzeugung in Costa Rica', 'Beliebt zum Windsurfen und Kitesurfen auf dem Arenal-See', 'Tor zum Nebelwald von Monteverde'],
-      hu: ['Costa Rica egyik fő szélenergia-termelő központja', 'Népszerű a szörfözés és a sárkányrepülés az Arenal-tavon', 'A Monteverdei Köderdő kapuja'],
-      ro: ['Un centru major pentru generarea de energie eoliană în Costa Rica', 'Popular pentru windsurfing și kitesurfing pe Lacul Arenal', 'Poarta de acces către Pădurea de Nori Monteverde'],
+      en: ["Lake Arenal gateway", "Pleasant climate", "Wind energy center", "Sustainable living"],
+      de: ["Nahe Arenal-See", "Windenergie-Standort", "Bergpanorama"],
+      hu: ["Szélenergia központ", "Guanacaste", "Tó közelsége", "Megújuló energia"],
+      ro: ["Energie eoliană", "Situat în Guanacaste", "Climat temperat", "Peisaj natural"],
     },
     factsAdvanced: {
       de: ["Tilarán liegt auf einer Höhe von 506 Metern am Übergang zwischen Zentral- und Nordkordillere.", "In der Umgebung befindet sich der größte Windpark Mittelamerikas mit über 100 Turbinen.", "Der Name Tilarán stammt aus der Sprache der Ureinwohner und bedeutet 'Ort vieler Winde'.", "Der Arenal-See bei Tilarán gilt als eines der weltweit besten Reviere für Windsurfing.", "Die Stadt wurde in den 1970er Jahren durch den Bau des Arenal-Staudamms wirtschaftlich gestärkt.", "Die jährliche Durchschnittstemperatur liegt bei sehr angenehmen 22 Grad Celsius.", "Tilarán liegt ca. 80 Kilometer südöstlich von Liberia und ist über die Panamericana erreichbar."],
@@ -1978,10 +1978,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Bagaces',
     },
     description: {
-      en: 'A quiet town in Guanacaste, located near the Miravalles Volcano and its geothermal energy projects.',
-      de: 'Eine ruhige Stadt in Guanacaste, in der Nähe des Vulkans Miravalles und seiner Geothermieprojekte gelegen.',
-      hu: 'Csendes város Guanacastéban, a Miravalles-vulkán és geotermikus energia projektjei közelében.',
-      ro: 'Un oraș liniștit din Guanacaste, situat în apropierea Vulcanului Miravalles și a proiectelor sale de energie geotermală.',
+      en: "Located in the dry forest region, Bagaces is famous for its hot springs, waterfalls, and its proximity to the Rincon de la Vieja National Park.",
+      de: "Bagaces ist ein wichtiger Ort in Guanacaste, bekannt für seine geothermalen Aktivitäten und die Nähe zu Nationalparks wie dem Rincón de la Vieja.",
+      hu: "Bagaces egy történelmi jelentőségű település Guanacaste-ben, amely a vulkáni területek és a síkságok találkozásánál fekszik. A térség geológiai képződményeiről is ismert.",
+      ro: "Localitate în Guanacaste, poartă către parcurile naționale.",
     },
     descriptionAdvanced: {
       de: "Bagaces ist eine geschichtsträchtige Stadt in Guanacaste, die oft als \\\"Stadt der Cowboys\\\" bezeichnet wird. Sie liegt strategisch günstig an der Panamericana, unweit des beeindruckenden Vulkans Miravalles. Die Region ist bekannt für ihre heißen Quellen und geothermischen Aktivitäten, die zur Stromgewinnung genutzt werden. Für Naturliebhaber ist Bagaces der perfekte Ausgangspunkt zum Nationalpark Palo Verde, einem der wichtigsten Feuchtgebiete Mittelamerikas für Zugvögel. Ein absolutes Highlight in der Nähe ist der Wasserfall \\\"Llanos de Cortés\\\", der mit seinem weißen Vorhang und dem natürlichen Pool zum Baden einlädt. Die Stadt selbst versprüht den rauen Charme der Viehzüchter-Kultur Guanacastes, mit traditionellen Festen und einer herzlichen, bodenständigen Bevölkerung. Sachkunde K4",
@@ -1990,10 +1990,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Bagaces is a Guanacaste town with a strong western lowland identity, shaped by the Pan-American Highway, cattle culture, and the geothermal presence of Miravalles Volcano. That combination gives it a practical but distinctive role in the province: it is both a transport stop and a place tied to energy projects and rural traditions. Hot, dry weather and open landscape are part of the setting, but the town also belongs to a long history of ranching in the northwest. In Plizio Geography K5, it demonstrates how infrastructure and geology meet in one district."
     },
     facts: {
-      en: ['Gateway to Miravalles Volcano National Park', 'Important for cattle ranching', 'The area features hot springs and volcanic mud pots'],
-      de: ['Tor zum Nationalpark Vulkan Miravalles', 'Wichtig für die Rinderzucht', 'Das Gebiet verfügt über heiße Quellen und vulkanische Schlammtöpfe'],
-      hu: ['A Miravalles Vulkán Nemzeti Park kapuja', 'Fontos a szarvasmarha-tenyésztés szempontjából', 'A területen hőforrások és vulkáni iszapfortyogók találhatók'],
-      ro: ['Poarta de acces către Parcul Național Vulcanul Miravalles', 'Important pentru creșterea vitelor', 'Zona dispune de izvoare termale și oale de noroi vulcanic'],
+      en: ["Dry forest region", "Hot springs", "Waterfalls", "Near Rincon de la Vieja"],
+      de: ["Guanacaste-Region", "Geothermie", "Nahe Nationalparks"],
+      hu: ["Guanacaste", "Történelmi jelentőség", "Vulkáni környék", "Geológia"],
+      ro: ["Situat în Guanacaste", "Aproape de parcuri", "Climat cald", "Zonă agricolă"],
     },
     factsAdvanced: {
       de: ["Bagaces liegt auf einer Höhe von ca. 80 Metern über dem Meeresspiegel in der Tiefebene.", "Der Wasserfall 'Llanos de Cortés' hat eine Fallhöhe von etwa 12 Metern und ist 15 Meter breit.", "In der Nähe befindet sich das Geothermiekraftwerk Miravalles, das ca. 15% des Stroms Costa Ricas liefert.", "Bagaces ist der zweitgrößte Kanton der Provinz Guanacaste nach Fläche.", "Die Region ist Heimat des 'Lomas de Barbudal' Reservats, das über 250 Bienenarten beherbergt.", "Die Stadt wurde bereits im 18. Jahrhundert als Rastplatz für Reisende gegründet.", "Der Nationalpark Palo Verde liegt nur ca. 30 Kilometer südlich des Stadtzentrums."],
@@ -2020,10 +2020,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Hojancha',
     },
     description: {
-      en: 'A small town in the hills of the Nicoya Peninsula, known for its community-led reforestation efforts.',
-      de: 'Eine kleine Stadt in den Hügeln der Nicoya-Halbinsel, bekannt für ihre von der Gemeinde geführten Wiederaufforstungsbemühungen.',
-      hu: 'Kisváros a Nicoya-félsziget dombjain, amely közösség által vezetett erdőtelepítési erőfeszítéseiről ismert.',
-      ro: 'Un mic oraș pe dealurile Peninsulei Nicoya, cunoscut pentru eforturile sale de reîmpădurire conduse de comunitate.',
+      en: "A community recognized for its efforts in reforestation and environmental conservation, located in the mountainous part of the Nicoya Peninsula.",
+      de: "Hojancha ist ein kleiner, friedlicher Ort auf der Nicoya-Halbinsel, der für seine nachhaltigen Forstwirtschaftsprojekte bekannt ist.",
+      hu: "Hojancha egy példaértékű város a fenntartható környezetgazdálkodás terén Guanacaste-ben. A település az újraerdősítési sikereiről vált világszerte ismertté.",
+      ro: "Comunitate în Guanacaste, recunoscută pentru conservarea mediului.",
     },
     descriptionAdvanced: {
       de: "Hojancha ist ein leuchtendes Beispiel für nachhaltige Entwicklung und Umweltschutz in Costa Rica. In den 1970er Jahren litt die Region unter massiver Entwaldung, doch durch eine beispiellose Gemeinschaftsleistung wurde Hojancha wieder aufgeforstet und ist heute ein grünes Paradies. Die Stadt liegt in den Hügeln der Halbinsel Nicoya und genießt ein frischeres Mikroklima als die umliegenden Küstengebiete. Hojancha ist bekannt für den Anbau von biologischem Kaffee und Teakholz. Das Waldreservat Monte Alto ist das Stolzprojekt der Bewohner und schützt wichtige Wasserquellen der Region. Besucher schätzen die sauberen Straßen, die hohe Lebensqualität und die authentische ländliche Kultur. Hojancha beweist eindrucksvoll, dass wirtschaftlicher Fortschritt und ökologische Verantwortung Hand in Hand gehen können. Sachkunde K4",
@@ -2032,10 +2032,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Hojancha is a hillside town on the Nicoya Peninsula where community-led reforestation turned environmental recovery into a local identity. The district is not defined by large-scale tourism or coastal nightlife; instead, it stands out for sustainability, rural organisation, and a landscape that was deliberately restored after heavy deforestation. That makes Hojancha an important example of how a small Costa Rican town can rebuild its economy and scenery around conservation. In Plizio Geography K5, it is ideal for lessons on reforestation and land management."
     },
     facts: {
-      en: ['A leader in sustainable development and forestry', 'Has a cooler climate than the coastal areas', 'Close to the Monte Alto Forest Reserve'],
-      de: ['Ein führendes Unternehmen in der nachhaltigen Entwicklung und Forstwirtschaft', 'Hat ein kühleres Klima als die Küstengebiete', 'In der Nähe des Waldreservats Monte Alto'],
-      hu: ['A fenntartható fejlődés és az erdészet vezető szereplője', 'Hűvösebb éghajlattal rendelkezik, mint a tengerparti területek', 'Közel a Monte Alto Erdőrezervátumhoz'],
-      ro: ['Un lider în dezvoltarea durabilă și silvicultură', 'Are un climat mai răcoros decât zonele de coastă', 'Aproape de Rezervația Forestieră Monte Alto'],
+      en: ["Reforestation leader", "Environmental conservation", "Nicoya Peninsula", "Mountainous region"],
+      de: ["Nicoya-Halbinsel", "Friedlicher Ort", "Nachhaltige Forstwirtschaft"],
+      hu: ["Fenntartható gazdálkodás", "Guanacaste", "Újraerdősítés", "Környezetvédelmi modell"],
+      ro: ["Protecția mediului", "Situat în Guanacaste", "Climat tropical", "Zonă rurală"],
     },
     factsAdvanced: {
       de: ["Hojancha liegt auf einer Höhe von 350 Metern über dem Meeresspiegel auf der Nicoya-Halbinsel.", "Der Kanton Hojancha gilt als einer der sichersten und am besten verwalteten Orte Costa Ricas.", "Das Waldreservat Monte Alto umfasst mehr als 900 Hektar regenerierten Tropenwald.", "Hojancha ist Teil der 'Blauen Zone' von Nicoya, bekannt für die Langlebigkeit der Bewohner.", "In der Region werden jährlich tausende Tonnen zertifiziertes Teakholz nachhaltig produziert.", "Die Stadt hat die höchste Pro-Kopf-Dichte an Bäumen in einem urbanen Bereich in Guanacaste.", "Hojancha liegt etwa 45 Fahrminuten von den Stränden von Carrillo und Sámara entfernt."],
@@ -2061,10 +2061,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Sámara',
     },
     description: {
-      en: 'A laid-back beach town on the Pacific coast, popular with families and tourists for its calm bay.',
-      de: 'Ein entspannter Strandort an der Pazifikküste, der bei Familien und Touristen wegen seiner ruhigen Bucht beliebt ist.',
-      hu: 'Nyugodt tengerparti város a Csendes-óceán partján, amely nyugodt öble miatt népszerű a családok és a turisták körében.',
-      ro: 'Un oraș de plajă relaxat pe coasta Pacificului, popular printre familii și turiști pentru golful său calm.',
+      en: "A popular coastal village on the Nicoya Peninsula, known for its beautiful bay, sandy beach, and laid-back surf culture.",
+      de: "Sámara ist einer der beliebtesten Küstenorte an der Pazifikküste. Der Strand ist für sein ruhiges Wasser bekannt und ideal für Familien.",
+      hu: "Sámara egy népszerű tengerparti város Nicoya-félszigeten, amely nyugodt öbléről és kristálytiszta vizéről ismert. A turizmus a település legfontosabb gazdasági ágazata.",
+      ro: "Stațiune de coastă populară, situată în Peninsula Nicoya.",
     },
     descriptionAdvanced: {
       de: "Sámara ist ein wahres Strandparadies an der Pazifikküste der Halbinsel Nicoya. Bekannt für seine weite, sichelförmige Bucht und das ruhige Wasser, ist Sámara besonders bei Familien und Anfängern im Surfen beliebt. Ein vorgelagertes Korallenriff schützt den Strand vor starker Brandung und macht ihn zu einem der sichersten Badeorte des Landes. Das Städtchen selbst hat eine entspannte, unaufgeregte Atmosphäre mit gemütlichen Cafés, Kunstgalerien und Surfschulen direkt am Meer. Die umliegende Natur bietet Möglichkeiten für Kajaktouren zur einsamen Insel Chora oder Wanderungen durch den tropischen Trockenwald. Sámara hat es geschafft, seinen ursprünglichen Charme trotz wachsender Beliebtheit zu bewahren, und ist ein idealer Ort für alle, die das \\\"Pura Vida\\\" in seiner reinsten Form suchen. Sachkunde K4",
@@ -2073,10 +2073,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "S?mara is one of the most approachable beach towns on the Nicoya Peninsula, with a calm bay that makes the shoreline feel safe and easy to read. Families, beginner surfers, and travellers who want a slower Pacific rhythm all find a place here. The town still works as a coastal community first, even though tourism gives it much of its visibility. Its bay, reefs, and relaxed streets make S?mara a strong example of a small town built around a soft-water coastline rather than a hard surf break. In Plizio Geography K5, it introduces coastal tourism geography."
     },
     facts: {
-      en: ['The beach is protected by a coral reef', 'Ideal for swimming and learning to surf', 'Offers a variety of restaurants and small hotels'],
-      de: ['Der Strand ist durch ein Korallenriff geschützt', 'Ideal zum Schwimmen und Surfen lernen', 'Bietet eine Vielzahl von Restaurants und kleinen Hotels'],
-      hu: ['A strandot korallzátony védi', 'Ideális úszáshoz és szörfözés tanulásához', 'Változatos éttermeket és kis szállodákat kínál'],
-      ro: ['Plaja este protejată de un recif de corali', 'Ideal pentru înot și pentru a învăța să faci surf', 'Oferă o varietate de restaurante și hoteluri mici'],
+      en: ["Nicoya Peninsula coast", "Beautiful bay", "Sandy beach", "Surf culture"],
+      de: ["Pazifikküste", "Ruhiges Wasser", "Familienfreundlich"],
+      hu: ["Tengerparti város", "Nicoya-félsziget", "Nyugodt öböl", "Turizmus"],
+      ro: ["Stațiune balneară", "Coasta Pacificului", "Climat tropical", "Turism"],
     },
     factsAdvanced: {
       de: ["Playa Sámara erstreckt sich über eine Länge von etwa 5 Kilometern weißem Sand.", "Die Insel 'Isla Chora' liegt ca. 1,5 Kilometer vor der Küste und ist ein Nistplatz für Seevögel.", "Das Korallenriff vor Sámara dämpft Wellenhöhen um bis zu 70%, was das Schwimmen sehr sicher macht.", "Sámara liegt in der Provinz Guanacaste, etwa 35 Kilometer von der Stadt Nicoya entfernt.", "In der Region können Brüllaffen, Leguane and over 100 Vogelarten beobachtet werden.", "Der Ort verfügt über eine der wenigen staatlichen Schulen Costa Ricas mit direktem Strandzugang.", "Während der Hochsaison von Dezember bis April gibt es hier nahezu 100% Sonnengarantie."],
@@ -2102,10 +2102,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Nosara',
     },
     description: {
-      en: 'A village spread out along the coast, famous as a center for yoga, wellness, and surfing.',
-      de: 'Ein Dorf, das sich entlang der Küste erstreckt und als Zentrum für Yoga, Wellness und Surfen bekannt ist.',
-      hu: 'A part mentén elterülő falu, amely a jóga, a wellness és a szörfözés központjaként híres.',
-      ro: 'Un sat întins de-a lungul coastei, renumit ca centru pentru yoga, wellness și surfing.',
+      en: "A renowned destination for yoga, surf, and wellness, known for its pristine beaches and focus on sustainable development.",
+      de: "Nosara ist weltweit bekannt als Yoga- und Surf-Destination. Die unberührte Natur und die ökologische Ausrichtung ziehen Reisende aus aller Welt an.",
+      hu: "Nosara a szörfösök és a jógázók paradicsoma a Nicoya-félszigeten. A település a fenntartható turizmus és a természetközeli életmód elkötelezett híve.",
+      ro: "Destinație celebră pentru surfing și yoga, în Nicoya.",
     },
     descriptionAdvanced: {
       de: "Nosara ist das Wellness- und Yoga-Zentrum Costa Ricas und ein Magnet für alle, die einen bewussten Lebensstil inmitten wilder Natur suchen. Der Ort ist einzigartig, da strenge Bauvorschriften verhindert haben, dass Hotels direkt am Strand gebaut werden. So bleibt die Küste von Playa Guiones ein unberührtes Refugium für Surfer und Schildkröten. Nosara ist bekannt für seine erstklassigen Yoga-Retreats, Bio-Restaurants und eine internationale Gemeinschaft von Freigeistern. In der Nähe befindet sich das Ostional Wildlife Refuge, wo Tausende von Oliv-Bastardschildkröten zur Eiablage an Land kommen – ein spektakuläres Naturschauspiel. Die holprigen Straßen Nosaras tragen zu seinem exklusiven und doch abenteuerlichen Charakter bei. Hier verschmelzen Luxus-Wellness und rauer Dschungel zu einer unvergleichlichen Symbiose. Sachkunde K4",
@@ -2114,10 +2114,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Nosara has become one of Costa Rica's best-known wellness destinations, but its identity is still rooted in the coast, the surf, and the protected landscape around it. Strict building patterns kept the town from turning into a dense beach strip, which is one reason it feels so open and low-rise. Yoga studios, surf breaks, and the nearby Ostional area give Nosara a very specific mix of nature and lifestyle branding. In Plizio Geography K5, it is a strong example of how planning and ecology shape a tourist town."
     },
     facts: {
-      en: ['Comprised of several beaches, including Playa Guiones', 'Strong focus on environmental conservation', 'Home to the Ostional Wildlife Refuge for sea turtles'],
-      de: ['Besteht aus mehreren Stränden, einschließlich Playa Guiones', 'Starker Fokus auf den Umweltschutz', 'Heimat des Ostional Wildlife Refuge für Meeresschildkröten'],
-      hu: ['Több strandból áll, köztük a Playa Guiones-ből', 'Erős hangsúlyt fektet a környezetvédelemre', 'Az Ostional Vadvédelmi Menedékhely otthona a tengeri teknősök számára'],
-      ro: ['Compus din mai multe plaje, inclusiv Playa Guiones', 'Accent puternic pe conservarea mediului', 'Găzduiește Refugiul de Viață Sălbatică Ostional pentru țestoasele marine'],
+      en: ["Yoga and surf destination", "Wellness center", "Pristine beaches", "Sustainable development"],
+      de: ["Yoga- & Surfzentrum", "Ökologische Ausrichtung", "Unberührte Natur"],
+      hu: ["Szörfös központ", "Jógázó paradicsom", "Nicoya-félsziget", "Fenntartható turizmus"],
+      ro: ["Destinație de surfing", "Situat în Guanacaste", "Climat tropical", "Turism ecologic"],
     },
     factsAdvanced: {
       de: ["Playa Guiones in Nosara ist über 7 Kilometer lang und berühmt für seine konstanten Surfwellen.", "Das Schutzgebiet Ostional liegt nur 10 Kilometer nördlich von Nosara.", "Nosara besitzt einen eigenen kleinen Inlandsflughafen für Verbindungen nach San José.", "In Nosara gibt es mehr registrierte Yoga-Lehrer pro Quadratkilometer als fast überall sonst in Mittelamerika.", "Die Region ist durch das 'Nosara Civic Association' geschützt, das 250 Hektar Grünfläche verwaltet.", "Es gibt keine Gebäude in Nosara, die höher sind als die umliegenden Palmen.", "Die Monate September und Oktober sind die Hauptmonate für die 'Arribadas' (Schildkröten-Ankünfte)."],
@@ -2143,10 +2143,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Playas del Coco',
     },
     description: {
-      en: 'A lively beach town in Guanacaste, one of the most established tourist destinations on the Papagayo Gulf.',
-      de: 'Ein lebhafter Strandort in Guanacaste, eines der etabliertesten Touristenziele am Golf von Papagayo.',
-      hu: 'Élénk tengerparti város Guanacastéban, a Papagayo-öböl egyik leginkább bejáratott turisztikai célpontja.',
-      ro: 'Un oraș de plajă plin de viață în Guanacaste, una dintre cele mai consacrate destinații turistice din Golful Papagayo.',
+      en: "One of the most popular beach towns in Guanacaste, well-known for its vibrant nightlife, boat tours, and proximity to great diving sites.",
+      de: "Playas del Coco ist ein lebhafter Küstenort, der für sein Nachtleben und als Ausgangspunkt für Bootstouren und Tauchexkursionen dient.",
+      hu: "Playas del Coco az egyik legélénkebb tengerparti üdülőhely Guanacaste tartományban. A település az éjszakai életéről és a búvárkodási lehetőségeiről híres.",
+      ro: "Una dintre cele mai accesibile și populare plaje din Guanacaste.",
     },
     descriptionAdvanced: {
       de: "Playas del Coco ist einer der ältesten und lebhaftesten Badeorte in der Provinz Guanacaste. Gelegen am wunderschönen Golf von Papagayo, bietet der Ort eine perfekte Mischung aus touristischer Infrastruktur und lokalem Charme. \\\"El Coco\\\", wie es die Einheimischen nennen, ist ein Paradies für Wassersportler, insbesondere für Taucher, die von hier aus zu den berühmten Catalina- und Bat-Inseln aufbrechen. Die Promenade \\\"Amor de Temporada\\\" lädt zu abendlichen Spaziergängen bei spektakulären Sonnenuntergängen ein. Das Nachtleben ist pulsierend, mit zahlreichen Bars und Restaurants, die fangfrischen Fisch servieren. Dank der Nähe zum internationalen Flughafen Liberia ist Playas del Coco ein idealer erster Stopp für viele Costa Rica-Reisende, die Sonne, Strand und Spaß suchen. Sachkunde K4",
@@ -2155,10 +2155,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Playas del Coco is one of Guanacaste's oldest and most established beach towns, and that long tourism history is visible in its restaurants, services, and harbour-side energy. Located in the Gulf of Papagayo area, it combines a lively local community with the infrastructure needed by visitors, boat operators, and coastal businesses. The town feels more urban than many nearby beaches, which makes it an important reference point for the modern Pacific resort strip. In Plizio Geography K5, it helps show how tourism towns mature over time."
     },
     facts: {
-      en: ['Known for its nightlife and restaurants', 'A popular hub for scuba diving and sport fishing', 'Located close to the Liberia International Airport'],
-      de: ['Bekannt für sein Nachtleben und seine Restaurants', 'Ein beliebter Knotenpunkt für Gerätetauchen und Sportfischen', 'In der Nähe des internationalen Flughafens Liberia gelegen'],
-      hu: ['Éjszakai életéről és éttermeiről ismert', 'A búvárkodás és a sporthorgászat népszerű központja', 'A libériai nemzetközi repülőtér közelében található'],
-      ro: ['Cunoscut pentru viața de noapte și restaurantele sale', 'Un centru popular pentru scufundări și pescuit sportiv', 'Situat aproape de Aeroportul Internațional Liberia'],
+      en: ["Guanacaste beach town", "Vibrant nightlife", "Boat tour hub", "Diving site proximity"],
+      de: ["Lebhafter Küstenort", "Nachtleben", "Ausgangspunkt für Touren"],
+      hu: ["Guanacaste", "Üdülőhely", "Éjszakai élet", "Búvárkodás"],
+      ro: ["Stațiune populară", "Coasta Pacificului", "Climat tropical", "Viață de noapte"],
     },
     factsAdvanced: {
       de: ["Playas del Coco liegt nur ca. 25 Kilometer (20 Autominuten) vom Flughafen Liberia (LIR) entfernt.", "Der hufeisenförmige Strand erstreckt sich über eine Länge von etwa 3 Kilometern.", "Die Stadt war ursprünglich ein kleines Fischerdorf und wurde in den 1950er Jahren touristisch entdeckt.", "Von hier aus erreicht man mit dem Boot die 'Bat Islands', bekannt für Sichtungen von Bullenhaien.", "Der Golf von Papagayo schützt den Strand vor starken Strömungen und hohen Wellen.", "Die Stadt verfügt über drei große Supermärkte und zahlreiche medizinische Einrichtungen.", "Die Wassertemperaturen in der Bucht liegen das ganze Jahr über konstant zwischen 26 und 29 Grad."],
@@ -2184,10 +2184,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Belén de Carrillo',
     },
     description: {
-      en: 'An agricultural town in the heart of Guanacaste, serving the surrounding rural communities.',
-      de: 'Eine landwirtschaftliche Stadt im Herzen von Guanacaste, die die umliegenden ländlichen Gemeinden versorgt.',
-      hu: 'Mezőgazdasági város Guanacaste szívében, amely a környező vidéki közösségeket szolgálja ki.',
-      ro: 'Un oraș agricol în inima Guanacaste, care deservește comunitățile rurale din jur.',
+      en: "A small town in the Guanacaste province, serving as a local center for agriculture and cattle production in the Carrillo canton.",
+      de: "Belén de Carrillo ist eine Gemeinde in der Provinz Guanacaste, die stark von der lokalen Viehzucht und dem Handel geprägt ist.",
+      hu: "Belén de Carrillo Guanacaste tartomány egyik csendes települése. A város a helyi közösségi élet és a környék mezőgazdasági tevékenységeire épít.",
+      ro: "Localitate în cantonul Carrillo, Guanacaste.",
     },
     descriptionAdvanced: {
       de: "Belén de Carrillo ist ein wichtiger Knotenpunkt im Herzen der ländlichen Tiefebene von Guanacaste. Die Stadt dient als zentrales Versorgungszentrum für die umliegenden Landwirtschaftsgebiete und liegt strategisch günstig an der Kreuzung der Wege zu den Stränden von Flamingo, Conchal und Tamarindo. Die Atmosphäre in Belén ist typisch für das \\\"alte Guanacaste\\\": heiß, staubig in der Trockenzeit und tief verwurzelt in der Viehzüchter-Tradition. Besucher können hier das authentische Leben der Sabaneros (Cowboys) beobachten. Die Wirtschaft wird stark vom Zuckerrohranbau und der Rinderzucht geprägt. Trotz des Durchgangsverkehrs zu den Luxusresorts an der Küste hat sich Belén seine Bodenständigkeit bewahrt. Ein kurzer Stopp lohnt sich, um in einer der lokalen Sodas (traditionelle Restaurants) ein herzhaftes Casado zu genießen. Sachkunde K4",
@@ -2196,10 +2196,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Bel?n de Carrillo is a rural service town in Guanacaste that supports the farms and small settlements spread across the dry lowlands. It is not a major resort, but that is exactly why it matters: the town organises local trade, school life, and transport for the surrounding agricultural territory. In a province often defined by beaches, Bel?n de Carrillo represents the inland working side of Guanacaste, where cattle, rice, and regional roads matter more than hotels. In Plizio Geography K5, it is useful for understanding rural service centres."
     },
     facts: {
-      en: ['Located in a hot, dry region', 'Economy based on cattle ranching and farming', 'Reflects the traditional Guanacastecan way of life'],
-      de: ['In einer heißen, trockenen Region gelegen', 'Wirtschaft basiert auf Rinderzucht und Landwirtschaft', 'Spiegelt die traditionelle Lebensweise der Guanacastecaner wider'],
-      hu: ['Forró, száraz régióban található', 'Gazdasága a szarvasmarha-tenyésztésen és a gazdálkodáson alapul', 'Tükrözi a hagyományos guanacastecai életmódot'],
-      ro: ['Situat într-o regiune caldă și uscată', 'Economia se bazează pe creșterea vitelor și agricultură', 'Reflectă modul de viață tradițional din Guanacaste'],
+      en: ["Guanacaste town", "Local agriculture hub", "Cattle production", "Carrillo canton"],
+      de: ["Guanacaste-Region", "Viehzucht", "Handelsort"],
+      hu: ["Guanacaste", "Csendes település", "Közösségi élet", "Mezőgazdaság"],
+      ro: ["Situat în Guanacaste", "Zonă rurală", "Climat tropical", "Economie locală"],
     },
     factsAdvanced: {
       de: ["Belén liegt auf einer Höhe von ca. 35 Metern über dem Meeresspiegel.", "Die Stadt ist der Verwaltungssitz des 4. Bezirks des Kantons Carrillo.", "Belén ist ein wichtiger Umstiegspunkt für das regionale Busnetz zwischen Liberia und den Pazifikstränden.", "Die Region verzeichnet in der Trockenzeit (Januar bis März) oft über 100 Tage ohne Regen.", "Die lokale Bevölkerung feiert im Januar ihre traditionellen 'Fiestas Cívicas' mit Rodeos.", "Große Zuckerrohrplantagen umgeben die Stadt und prägen das Landschaftsbild während der Erntezeit.", "Belén liegt etwa 20 Kilometer südlich des internationalen Flughafens Daniel Oduber Quirós."],
@@ -2225,10 +2225,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Joaquín',
     },
     description: {
-      en: 'The capital city of the Flores canton, known for its well-preserved colonial-era adobe houses.',
-      de: 'Die Hauptstadt des Kantons Flores, bekannt für ihre gut erhaltenen Lehmhäuser aus der Kolonialzeit.',
-      hu: 'Flores kanton fővárosa, amely jól megőrzött, gyarmati korabeli vályogházairól ismert.',
-      ro: 'Capitala cantonului Flores, cunoscută pentru casele sale din chirpici bine conservate din epoca colonială.',
+      en: "A quiet residential town in Heredia, noted for its traditional architecture and its central location in the province.",
+      de: "San Joaquín de Flores ist eine strategisch günstig gelegene Stadt in der Provinz Heredia. Sie zeichnet sich durch eine Mischung aus Wohnsiedlungen und Industrie aus.",
+      hu: "San Joaquín de Flores egy Heredia tartománybeli település, amely a városias fejlődés és a kisvárosi jelleg harmonikus ötvözete. Fontos lakó- és kereskedelmi központ.",
+      ro: "Oraș în provincia Heredia, renumit pentru viața sa liniștită.",
     },
     descriptionAdvanced: {
       de: "San Joaquín de Flores ist eine der charmantesten und am besten erhaltenen Kleinstädte im Zentraltal von Costa Rica. Als Hauptstadt des Kantons Flores besticht sie durch ihre historische Architektur, insbesondere die gut erhaltenen Adobe-Häuser aus der Kolonialzeit. Das Wahrzeichen der Stadt ist die wunderschöne Kirche mit ihrem gepflegten Park, der oft als einer der schönsten des Landes bezeichnet wird. San Joaquín bietet eine friedliche, fast aristokratische Atmosphäre, nur einen Steinwurf von den geschäftigen Städten Heredia und Alajuela entfernt. Die Einwohner sind stolz auf ihre Traditionen und die Sauberkeit ihres Ortes. Dank der Nähe zum Flughafen und zur Hauptstadt ist es ein beliebter Wohnort für Menschen, die Ruhe suchen, aber dennoch zentral leben möchten. Ein Spaziergang durch die blühenden Straßen ist wie eine Reise in die Vergangenheit. Sachkunde K4",
@@ -2237,10 +2237,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Joaqu?n de Flores is a compact Central Valley town known for its preserved adobe houses and the quiet dignity of an old provincial centre. As the capital of Flores canton, it combines a traditional streetscape with easy access to the busy Heredia corridor, which means it still feels small even while sitting close to major urban growth. The town is a reminder that Costa Rica's colonial architecture did not disappear everywhere; in places like San Joaqu?n, it remains part of daily life. In Plizio Geography K5, it works well for historic urban heritage."
     },
     facts: {
-      en: ['One of the smallest cantons in Costa Rica', 'Features a beautiful central park and historic church', 'Maintains a peaceful, small-town atmosphere'],
-      de: ['Einer der kleinsten Kantone in Costa Rica', 'Verfügt über einen schönen zentralen Park und eine historische Kirche', 'Bewahrt eine friedliche, kleinstädtische Atmosphäre'],
-      hu: ['Costa Rica egyik legkisebb kantonja', 'Gyönyörű központi parkkal és történelmi templommal rendelkezik', 'Békés, kisvárosi hangulatot tart fenn'],
-      ro: ['Unul dintre cele mai mici cantoane din Costa Rica', 'Dispune de un frumos parc central și o biserică istorică', 'Păstrează o atmosferă pașnică, de oraș mic'],
+      en: ["Heredia residential town", "Traditional architecture", "Central province location", "Peaceful atmosphere"],
+      de: ["Provinz Heredia", "Strategische Lage", "Wohn- & Industriemix"],
+      hu: ["Heredia tartomány", "Városias fejlődés", "Lakó központ", "Kereskedelmi központ"],
+      ro: ["Situat în Heredia", "Zonă urbană", "Climat temperat", "Dezvoltare rezidențială"],
     },
     factsAdvanced: {
       de: ["San Joaquín liegt auf einer Höhe von ca. 1.054 Metern über dem Meeresspiegel.", "Der Kanton Flores ist mit nur 6,96 Quadratkilometern der flächenmäßig kleinste Kanton Costa Ricas.", "Die heutige Kirche von San Joaquín wurde im Jahr 1865 eingeweiht.", "Die Stadt ist bekannt für ihre handgefertigten 'Mascaradas' (traditionelle Masken).", "Mehr als 20 historische Gebäude im Stadtzentrum stehen unter offiziellem Denkmalschutz.", "Flores gilt als einer der Kantone mit dem höchsten Index für menschliche Entwicklung (HDI) im Land.", "San Joaquín liegt exakt 10 Kilometer westlich des Stadtzentrums von Heredia."],
@@ -2266,10 +2266,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Santo Domingo',
     },
     description: {
-      en: 'A historic city in Heredia province, characterized by its elegant basilica and traditional coffee-growing culture.',
-      de: 'Eine historische Stadt in der Provinz Heredia, die durch ihre elegante Basilika und ihre traditionelle Kaffeeanbaukultur gekennzeichnet ist.',
-      hu: 'Történelmi város Heredia tartományban, amelyet elegáns bazilikája és hagyományos kávétermesztő kultúrája jellemez.',
-      ro: 'Un oraș istoric din provincia Heredia, caracterizat prin bazilica sa elegantă și cultura tradițională a cultivării cafelei.',
+      en: "A suburban town in Heredia known for its colonial church and being a popular residential choice for professionals working in the city.",
+      de: "Santo Domingo ist bekannt für seine koloniale Architektur und seine ruhige, grüne Umgebung. Die Stadt liegt zentral zwischen Heredia und San José.",
+      hu: "Santo Domingo Heredia tartományban fekszik, és ismert a hagyományos templomáról és a nyugodt, parkosított környezetéről. Fontos lakóövezet a főváros közelében.",
+      ro: "Canton în provincia Heredia, cu o bogată istorie agricolă.",
     },
     descriptionAdvanced: {
       de: "Santo Domingo de Heredia ist eine elegante Stadt, die für ihr reiches kulturelles Erbe und ihre aristokratische Geschichte bekannt ist. Gelegen zwischen San José und Heredia, hat sich die Stadt zu einem der begehrtesten Wohnorte im Zentraltal entwickelt. Das Stadtbild ist geprägt von prächtigen Kolonialbauten, grünen Kaffeegärten und der imposanten Basilika de Santo Domingo. Die Region war früher ein bedeutendes Zentrum des Kaffeeadels, was sich noch heute in den weitläufigen Grundstücken und der gepflegten Architektur widerspiegelt. Für Naturinteressierte ist das INBio-Parque (Nationales Institut für Biodiversität) ein absolutes Highlight, das die enorme Artenvielfalt Costa Ricas auf engem Raum erlebbar macht. Santo Domingo verbindet auf harmonische Weise urbane Annehmlichkeiten mit ländlicher Tradition und Ruhe. Sachkunde K4",
@@ -2278,10 +2278,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Santo Domingo de Heredia blends historic coffee-town identity with the polish of a desirable suburban centre. Its basilica is one of the most visible landmarks in the province, but the town's real strength lies in the balance between tradition, residential quality, and its position between Heredia and San Jos?. Coffee culture, old neighbourhood patterns, and steady urban demand all meet here. In Plizio Geography K5, it is a strong case of a historic district that remains highly liveable inside a modern metro region."
     },
     facts: {
-      en: ['Known for its aristocratic colonial past', 'Home to many historic buildings and coffee estates', 'Offers a quiet, upscale residential environment'],
-      de: ['Bekannt für seine aristokratische koloniale Vergangenheit', 'Heimat vieler historischer Gebäude und Kaffeeplantagen', 'Bietet eine ruhige, gehobene Wohnumgebung'],
-      hu: ['Arisztokrata gyarmati múltjáról ismert', 'Számos történelmi épületnek és kávéültetvénynek ad otthont', 'Csendes, előkelő lakókörnyezetet kínál'],
-      ro: ['Cunoscut pentru trecutul său aristocratic colonial', 'Găzduiește multe clădiri istorice și moșii de cafea', 'Oferă un mediu rezidențial liniștit și de lux'],
+      en: ["Heredia suburb", "Colonial church", "Professional residency", "Well-connected"],
+      de: ["Koloniale Architektur", "Grüne Umgebung", "Zentral gelegen"],
+      hu: ["Heredia tartomány", "Hagyományos templom", "Parkosított környezet", "Lakóövezet"],
+      ro: ["Situat în Heredia", "Tradiții rurale", "Climat temperat", "Zonă rezidențială"],
     },
     factsAdvanced: {
       de: ["Santo Domingo liegt auf einer durchschnittlichen Höhe von 1.173 Metern.", "Die Basilika de Santo Domingo wurde Ende des 19. Jahrhunderts erbaut und ist für ihre kunstvolle Deckenmalerei bekannt.", "Die Stadt wurde 1848 offiziell zum Kanton erklärt und gehört zur Provinz Heredia.", "In Santo Domingo befindet sich das Hauptquartier der costaricanischen Kriminalpolizei (OIJ).", "Die Region ist berühmt für ihre Blumenzucht und den Export von Zierpflanzen.", "Santo Domingo liegt nur 7 Kilometer nördlich des Zentrums der Hauptstadt San José.", "Jährlich am 8. August feiert die Stadt das Fest ihres Schutzpatrons mit großen Prozessionen."],
@@ -2307,10 +2307,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Barva',
     },
     description: {
-      en: 'A colonial town with a rich history, a designated National Historic Landmark, located near the Barva Volcano.',
-      de: 'Eine Kolonialstadt mit reicher Geschichte, ein ausgewiesenes nationales historisches Wahrzeichen, in der Nähe des Vulkans Barva gelegen.',
-      hu: 'Gyarmati város gazdag történelemmel, nemzeti történelmi nevezetesség, a Barva-vulkán közelében.',
-      ro: 'Un oraș colonial cu o istorie bogată, un reper istoric național desemnat, situat lângă vulcanul Barva.',
+      en: "A historic town near the Barva Volcano, known for its well-preserved colonial traditions and beautiful surroundings.",
+      de: "Barva ist eine historische Stadt in der Nähe von Heredia und berühmt für ihre traditionelle Bauweise sowie den Zugang zum Barva-Vulkan.",
+      hu: "Barva egy történelmi város Heredia tartományban, a vulkán lábánál. Híres a hagyományos építészetéről és a környező kávéültetvényekről.",
+      ro: "Oraș istoric în provincia Heredia, situat la poalele munților.",
     },
     descriptionAdvanced: {
       de: "Barva de Heredia ist eine der ältesten und geschichtsträchtigsten Städte Costa Ricas. Das historische Zentrum der Stadt wurde zum nationalen Denkmal erklärt und ist berühmt für seine niedrigen Adobe-Häuser mit roten Ziegeldächern. Die Stadt liegt am Fuße des majestätischen Vulkans Barva, der Teil des Nationalparks Braulio Carrillo ist. Barva ist zudem die Hauptstadt der traditionellen Maskeraden; hier werden die berühmten riesigen Masken gefertigt, die bei keinem Volksfest fehlen dürfen. Das Klima ist angenehm kühl, und die Umgebung ist von üppigen Kaffeewäldern geprägt. Ein Besuch in Barva bietet die seltene Gelegenheit, das koloniale Erbe Costa Ricas in einer authentischen und lebendigen Umgebung zu erleben, während die Natur des Hochlandes direkt vor der Haustür liegt. Sachkunde K4",
@@ -2319,10 +2319,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Barva is one of the classic colonial towns of Heredia province, and its old centre has preserved enough character to remain a national historic landmark. The town sits close to Barva Volcano, which gives the surrounding hills a strong geographic identity, while the streets themselves still reflect an older Central Valley settlement pattern. Adobe houses, church landmarks, and coffee-era neighbourhoods all contribute to its special atmosphere. In Plizio Geography K5, it is ideal for teaching how historic centres survive beside modern suburban growth."
     },
     facts: {
-      en: ['Its town center preserves its colonial layout', 'Gateway to the Barva Volcano sector of Braulio Carrillo National Park', 'Known for its traditional masquerades'],
-      de: ['Sein Stadtzentrum bewahrt sein koloniales Layout', 'Tor zum Sektor Vulkan Barva des Nationalparks Braulio Carrillo', 'Bekannt für seine traditionellen Maskeraden'],
-      hu: ['Városközpontja megőrizte gyarmati elrendezését', 'A Braulio Carrillo Nemzeti Park Barva-vulkán szektorának kapuja', 'Hagyományos álarcosbáljairól ismert'],
-      ro: ['Centrul său urban își păstrează aspectul colonial', 'Poarta de acces către sectorul Vulcanul Barva al Parcului Național Braulio Carrillo', 'Cunoscut pentru mascaradele sale tradiționale'],
+      en: ["Historic town", "Near Barva Volcano", "Colonial traditions", "Beautiful landscape"],
+      de: ["Historische Stadt", "Traditionelle Architektur", "Nahe Barva-Vulkan"],
+      hu: ["Heredia tartomány", "Vulkán lábánál", "Történelmi építészet", "Kávéültetvények"],
+      ro: ["Oraș istoric", "Situat în Heredia", "Climat rece", "Peisaj montan"],
     },
     factsAdvanced: {
       de: ["Barva liegt auf einer stolzen Höhe von 1.176 Metern über dem Meeresspiegel.", "Die Stadt wurde bereits im Jahr 1561 gegründet und ist eine der ältesten europäischen Siedlungen im Zentraltal.", "Der Vulkan Barva überragt die Stadt mit einer Gipfelhöhe von 2.906 Metern.", "Das historische Zentrum von Barva umfasst eine Fläche von mehreren Häuserblocks rund um den zentralen Park.", "Barva ist bekannt für die 'Baile de la Polilla', eine traditionelle Tanzveranstaltung im August.", "In der Region gibt es über 15 spezialisierte Werkstätten für den Bau traditioneller Riesenmasken.", "Die Fahrt von Heredia-Stadt nach Barva dauert mit dem Bus nur etwa 10 Minuten."],
@@ -2348,10 +2348,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Santa Bárbara',
     },
     description: {
-      en: 'A charming city in the hills of Heredia, known for its agricultural traditions and peaceful atmosphere.',
-      de: 'Eine charmante Stadt in den Hügeln von Heredia, bekannt für ihre landwirtschaftlichen Traditionen und ihre friedliche Atmosphäre.',
-      hu: 'Bájos város Heredia dombjain, amely mezőgazdasági hagyományairól és békés légköréről ismert.',
-      ro: 'Un oraș fermecător pe dealurile din Heredia, cunoscut pentru tradițiile sale agricole și atmosfera pașnică.',
+      en: "A town in the Heredia mountains, known for its coffee cultivation and panoramic views of the Central Valley.",
+      de: "Santa Bárbara liegt in der Provinz Heredia und bietet durch seine erhöhte Lage eine fantastische Aussicht auf das gesamte Zentraltal.",
+      hu: "Santa Bárbara Heredia tartomány egyik hegyvidéki városa. A településről szép kilátás nyílik a nagyvárosi völgyre és a környék mezőgazdasági területeire.",
+      ro: "Localitate în Heredia, cunoscută pentru peisajele sale panoramice.",
     },
     descriptionAdvanced: {
       de: "Santa Bárbara de Heredia ist eine malerische Stadt, die sich sanft an die Hänge des Zentralkordillere schmiegt. Bekannt für ihre tiefen Wurzeln im Kaffeeanbau und ihre ruhige, ländliche Atmosphäre, bietet Santa Bárbara spektakuläre Ausblicke über das gesamte Zentraltal. Die Stadt ist ein beliebtes Ziel für Wanderer und Naturliebhaber, die die kühlen Bergwälder erkunden möchten. Das Stadtbild wird von einer imposanten Kirche im gotischen Stil dominiert, die majestätisch über den zentralen Platz wacht. In Santa Bárbara wird Tradition noch großgeschrieben; bäuerliche Märkte und Pferdeparaden gehören zum festen Bestandteil des Lebens. Es ist der ideale Ort, um dem Trubel der Großstädte zu entfliehen und die frische Bergluft sowie die unverfälschte costaricanische Gastfreundschaft zu genießen. Sachkunde K4",
@@ -2360,10 +2360,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Santa B?rbara de Heredia is a hillside town where coffee fields, cooler air, and strong views define the local landscape. The district keeps a rural tone even as it connects to the broader Heredia urban zone, which gives it a balanced identity between agriculture and commuting. Its location on the slopes of the Central Range makes the geography feel immediate: altitude, rainfall, and productive soil all shape life here. In Plizio Geography K5, it is a clear example of a highland community built around farming and residential growth."
     },
     facts: {
-      en: ['Important center for coffee and vegetable farming', 'Features a large, impressive gothic-style church', 'Offers scenic views of the Central Valley'],
-      de: ['Wichtiges Zentrum für den Kaffee- und Gemüseanbau', 'Verfügt über eine große, beeindruckende Kirche im gotischen Stil', 'Bietet malerische Ausblicke auf das Zentraltal'],
-      hu: ['A kávé- és zöldségtermesztés fontos központja', 'Nagy, lenyűgöző gótikus stílusú templommal rendelkezik', 'Festői kilátást nyújt a Központi-völgyre'],
-      ro: ['Centru important pentru cultivarea cafelei și legumelor', 'Dispune de o biserică mare și impresionantă în stil gotic', 'Oferă vederi pitorești ale Văii Centrale'],
+      en: ["Heredia mountains", "Coffee cultivation", "Central Valley views", "Panoramic setting"],
+      de: ["Provinz Heredia", "Erhöhte Lage", "Ausblick aufs Tal"],
+      hu: ["Heredia tartomány", "Hegyvidéki város", "Kilátás a völgyre", "Mezőgazdaság"],
+      ro: ["Vederi panoramice", "Situat în Heredia", "Climat temperat", "Agricultură"],
     },
     factsAdvanced: {
       de: ["Santa Bárbara liegt auf einer Höhe von ca. 1.140 Metern über dem Meeresspiegel.", "Die Stadt ist der Verwaltungssitz des gleichnamigen Kantons in der Provinz Heredia.", "Die Region ist einer der größten Produzenten von 'Strictly Hard Bean' (SHB) Hochlandkaffee im Zentraltal.", "Santa Bárbara liegt etwa 12 Kilometer nördlich des internationalen Flughafens Juan Santamaría.", "In den höheren Lagen des Kantons befinden sich bedeutende Wasserschutzgebiete.", "Die Durchschnittstemperatur liegt das ganze Jahr über bei sehr milden 20 Grad Celsius.", "Der Kanton Santa Bárbara ist in 6 Distrikte unterteilt, die sich bis auf 2.000 Meter Höhe erstrecken."],
@@ -2389,10 +2389,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Belén',
     },
     description: {
-      en: 'A modern and prosperous canton, home to many multinational corporations and upscale residential areas.',
-      de: 'Ein moderner und wohlhabender Kanton, Heimat vieler multinationaler Konzerne und gehobener Wohngebiete.',
-      hu: 'Modern és virágzó kanton, számos multinacionális vállalatnak és előkelő lakónegyednek ad otthont.',
-      ro: 'Un canton modern și prosper, care găzduiește multe corporații multinaționale și zone rezidențiale de lux.',
+      en: "A key industrial and residential hub in Heredia, featuring modern business parks and easy access to the airport and the capital.",
+      de: "Belén in der Provinz Heredia ist ein bedeutendes Wirtschaftszentrum mit zahlreichen Firmensitzen und technologischer Infrastruktur.",
+      hu: "Belén egy fontos ipari és üzleti központ Heredia tartományban, közel az országos repülőtérhez. A város fejlett infrastruktúrával és dinamikus gazdasággal rendelkezik.",
+      ro: "Centru tehnologic și comercial important în provincia Heredia.",
     },
     descriptionAdvanced: {
       de: "Belén, in der Provinz Heredia gelegen, ist einer der wohlhabendsten und am weitesten entwickelten Kantone Costa Ricas. Strategisch günstig zwischen San José, Alajuela und Heredia platziert, hat sich Belén zu einem bedeutenden Zentrum für multinationale Unternehmen und Hightech-Industrien entwickelt. Trotz des rasanten wirtschaftlichen Wachstums hat die Stadt ihren Charme bewahrt und bietet exklusive Wohngegenden sowie erstklassige Freizeiteinrichtungen. Ein bekanntes Wahrzeichen ist das \\\"Pedregal\\\"-Veranstaltungszentrum und der Hauptsitz des costaricanischen Fußballverbandes. Belén zeichnet sich durch eine exzellente Infrastruktur, hohe Sicherheit und saubere Parks aus. Es ist der Prototyp einer modernen costaricanischen Stadt, in der Tradition und globaler Fortschritt nahtlos ineinandergreifen. Sachkunde K4",
@@ -2401,10 +2401,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Bel?n has a reputation for being one of the most prosperous and business-friendly cantons in Costa Rica, with multinational offices, modern housing, and an especially strategic location. Sitting between San Jos?, Heredia, and Alajuela, it works as a major logistics and corporate zone rather than a traditional historic town. Its modern profile is reinforced by residential developments and strong road access, which make it a favourite for firms and professionals who need quick connections across the capital region. In Plizio Geography K5, it is a key case of contemporary urban development."
     },
     facts: {
-      en: ['Strategically located near the airport and free trade zones', 'High standard of living and urban development', 'Hosts the headquarters of the Costa Rican Football Federation'],
-      de: ['Strategisch günstig in der Nähe des Flughafens und der Freihandelszonen gelegen', 'Hoher Lebensstandard und städtische Entwicklung', 'Beherbergt den Hauptsitz des costa-ricanischen Fußballverbands'],
-      hu: ['Stratégiailag a repülőtér és a szabadkereskedelmi övezetek közelében található', 'Magas életszínvonal és városfejlesztés', 'A Costa Rica-i Labdarúgó-szövetség székhelyének ad otthont'],
-      ro: ['Situat strategic în apropierea aeroportului și a zonelor de liber schimb', 'Standard ridicat de viață și dezvoltare urbană', 'Găzduiește sediul Federației de Fotbal din Costa Rica'],
+      en: ["Heredia industrial hub", "Modern business parks", "Near airport", "Access to capital"],
+      de: ["Provinz Heredia", "Wirtschaftszentrum", "Technologiestandort"],
+      hu: ["Heredia tartomány", "Ipari központ", "Repülőtér közelsége", "Fejlett infrastruktúra"],
+      ro: ["Hub tehnologic", "Situat în Heredia", "Zonă dezvoltată", "Climat plăcut"],
     },
     factsAdvanced: {
       de: ["Belén liegt auf einer Höhe von 939 Metern über dem Meeresspiegel.", "Der Kanton belegt regelmäßig Spitzenplätze im Index für soziale Entwicklung in Costa Rica.", "In Belén befinden sich die Zentralen von Weltkonzernen wie Intel und Bridgestone.", "Das Klima in Belén ist etwas wärmer als in Heredia-Stadt, mit ca. 24 Grad im Durchschnitt.", "Belén ist die Heimat des Ojo de Agua, einer riesigen natürlichen Quelle und Badeanlage.", "Die Stadt liegt nur 15 Autominuten vom internationalen Flughafen Juan Santamaría entfernt.", "Der Kanton Belén umfasst eine Fläche von ca. 12 Quadratkilometern."],
@@ -2430,10 +2430,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Bribri',
     },
     description: {
-      en: 'The administrative center of the Talamanca canton and a gateway to the largest indigenous territories in Costa Rica.',
-      de: 'Das Verwaltungszentrum des Kantons Talamanca und ein Tor zu den größten indigenen Territorien in Costa Rica.',
-      hu: 'Talamanca kanton közigazgatási központja és Costa Rica legnagyobb bennszülött területeinek kapuja.',
-      ro: 'Centrul administrativ al cantonului Talamanca și o poartă de acces către cele mai mari teritorii indigene din Costa Rica.',
+      en: "The administrative center of Talamanca, reflecting the strong indigenous presence and culture of the region near the border with Panama.",
+      de: "Bribri ist der Hauptort des Kantons Talamanca und das kulturelle Zentrum der indigenen Bribri-Gemeinschaft. Die Region ist von tiefem Regenwald umgeben.",
+      hu: "Bribri Talamanca kanton székhelye, az őslakosok kultúrájának és a Karib-tenger felőli hegyvidéknek a központja. A település a biodiverzitásról ismert régióban fekszik.",
+      ro: "Centru administrativ al cantonului Talamanca, casa comunității indigene Bribri.",
     },
     descriptionAdvanced: {
       de: "Bribri ist das administrative Zentrum des Kantons Talamanca und das Tor zu den faszinierenden indigenen Territorien im Südosten Costa Ricas. Gelegen in den feuchten Tropen der Karibikküste, ist die Stadt ein Schmelztiegel der Kulturen, in dem Bribri-Ureinwohner, Afro-Costaricaner und Mestizen zusammenleben. Bribri dient als wichtiger Ausgangspunkt für Expeditionen in die Talamanca-Berge und Besuche bei indigenen Gemeinschaften, die ihre alten Traditionen, Sprachen und handwerklichen Fähigkeiten wie die Schokoladenherstellung bewahrt haben. Die Umgebung ist geprägt von dichten Regenwäldern, mächtigen Flüssen wie dem Sixaola und weitläufigen Bananenplantagen. Ein Besuch in Bribri bietet tiefgreifende Einblicke in die ursprüngliche Seele Costa Ricas und die Bedeutung des Schutzes kultureller Identität. Sachkunde K4",
@@ -2442,10 +2442,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Bribri is the administrative centre of Talamanca and a key gateway into the indigenous landscapes of southeastern Costa Rica. The town sits in the humid Caribbean zone, where river corridors, forest edges, and Bribri cultural presence all shape the setting. Its importance is both practical and symbolic: it helps organise local administration while also connecting visitors and residents to some of the country's most significant indigenous territories. In Plizio Geography K5, it is a vital example of indigenous regional geography and cultural continuity."
     },
     facts: {
-      en: ['Heart of the Bribri indigenous culture', 'Located near the border with Panama', 'Surrounded by dense rainforests and banana plantations'],
-      de: ['Herz der indigenen Kultur der Bribri', 'Nahe der Grenze zu Panama gelegen', 'Umgeben von dichten Regenwäldern und Bananenplantagen'],
-      hu: ['A bribri bennszülött kultúra szíve', 'A panamai határ közelében található', 'Sűrű esőerdők és banánültetvények veszik körül'],
-      ro: ['Inima culturii indigene Bribri', 'Situat lângă granița cu Panama', 'Înconjurat de păduri tropicale dese și plantații de banane'],
+      en: ["Talamanca administrative center", "Indigenous culture", "Border region", "Cultural significance"],
+      de: ["Zentrum der Bribri", "Indigene Gemeinschaft", "Regenwaldregion"],
+      hu: ["Talamanca kanton székhelye", "Őslakos kultúra", "Karibi régió", "Biodiverzitás"],
+      ro: ["Centru indigen", "Situat în Limón", "Climat tropical", "Tradiții culturale"],
     },
     factsAdvanced: {
       de: ["Bribri liegt auf einer geringen Höhe von ca. 32 Metern über dem Meeresspiegel.", "Die Stadt liegt nur etwa 10 Kilometer entfernt von der Grenze zu Panama (Sixaola).", "Talamanca ist der Kanton mit dem höchsten Anteil an indigener Bevölkerung in Costa Rica (über 40%).", "In der Region wird Kakao nach traditionellen Methoden der Bribri-Frauen verarbeitet.", "Das Klima ist tropisch-feucht mit einer Jahresniederschlagsmenge von über 3.000 mm.", "Bribri ist der Verwaltungssitz des größten Kantons der Provinz Limón.", "In der Nähe befinden sich beeindruckende Wasserfälle wie der Volio-Wasserfall."],
@@ -2471,10 +2471,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Matina',
     },
     description: {
-      en: 'A town in the Caribbean lowlands, historically important for its cacao plantations and railroad connection.',
-      de: 'Eine Stadt im karibischen Tiefland, historisch bedeutsam für ihre Kakaoplantagen und ihre Eisenbahnverbindung.',
-      hu: 'Város a karibi alföldön, történelmileg fontos a kakaóültetvényei és a vasúti összeköttetése miatt.',
-      ro: 'Un oraș în câmpiile din Caraibe, important din punct de vedere istoric pentru plantațiile sale de cacao și legătura feroviară.',
+      en: "A town in Limon, primarily driven by large-scale banana and pineapple production. It is a vital agricultural hub for the Caribbean coast.",
+      de: "Matina in der Provinz Limón ist stark von der karibischen Bananenproduktion und dem Anbau tropischer Früchte geprägt.",
+      hu: "Matina Limón tartomány egyik mezőgazdasági települése, a karibi régióban. A város gazdasága főként az exportra szánt banán- és ananásztermesztésre épül.",
+      ro: "Comunitate agricolă în provincia Limón.",
     },
     descriptionAdvanced: {
       de: "Matina liegt im Herzen der karibischen Tiefebene und ist tief in der Geschichte des Kakao- und Bananenanbaus verwurzelt. Die Stadt war einst ein strategisch wichtiger Punkt am Matina-Fluss, der während der Kolonialzeit als Transportweg für kostbaren Kakao diente, aber auch Ziel von Piratenüberfällen war. Heute ist Matina ein pulsierendes Zentrum der Bananenindustrie, umgeben von riesigen Plantagen, die das wirtschaftliche Rückgrat der Region bilden. Die Atmosphäre ist geprägt von der afro-karibischen Kultur Limóns, mit ihrer einzigartigen Sprache, Musik und Küche. Für Naturfreunde bietet die nahegelegene Kanallandschaft von Tortuguero und die Küste Möglichkeiten zur Tierbeobachtung. Matina ist ein Ort, an dem die tropische Hitze und die harte Arbeit auf den Feldern den Rhythmus des Lebens bestimmen. Sachkunde K4",
@@ -2483,10 +2483,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Matina is a Caribbean lowland town whose history is closely tied to cacao, later bananas, and the old transport networks that connected the coast with the interior. The landscape is humid, green, and shaped by rivers, which is why plantation agriculture left such a strong mark here. Matina also matters as a historical point on the Caribbean side of Costa Rica, where trade routes and labour history are part of the place itself. In Plizio Geography K5, it is a useful example of lowland plantation geography."
     },
     facts: {
-      en: ['Located along the Matina River', 'The economy is now dominated by banana production', 'Reflects the Afro-Caribbean culture of the region'],
-      de: ['Am Matina-Fluss gelegen', 'Die Wirtschaft wird heute von der Bananenproduktion dominiert', 'Spiegelt die afro-karibische Kultur der Region wider'],
-      hu: ['A Matina folyó mentén található', 'Gazdaságát ma a banántermelés uralja', 'Tükrözi a régió afro-karibi kultúráját'],
-      ro: ['Situat de-a lungul râului Matina', 'Economia este acum dominată de producția de banane', 'Reflectă cultura afro-caraibiană a regiunii'],
+      en: ["Limon province", "Banana production", "Pineapple production", "Agricultural hub"],
+      de: ["Provinz Limón", "Bananenproduktion", "Tropenfrüchte"],
+      hu: ["Limón tartomány", "Mezőgazdaság", "Karibi régió", "Banántermesztés"],
+      ro: ["Situat în Limón", "Zonă agricolă", "Climat tropical umed", "Economie diversă"],
     },
     factsAdvanced: {
       de: ["Matina liegt auf einer Höhe von nur 12 Metern über dem Meeresspiegel.", "Der Name Matina stammt vermutlich von einer indigenen Bezeichnung für den lokalen Fluss.", "Im 18. Jahrhundert war Matina das wichtigste Kakaoanbaugebiet Mittelamerikas.", "Die Region ist heute für etwa 15% der gesamten Bananenexporte Costa Ricas verantwortlich.", "Die Eisenbahnstrecke 'Ferrocarril al Atlántico' führt direkt durch Matina.", "Das Klima ist extrem feucht mit Temperaturen, die oft 30 Grad Celsius überschreiten.", "In der Nähe von Matina befindet sich das private Schutzgebiet Pacuare für Meeresschildkröten."],
@@ -2512,10 +2512,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Puerto Viejo de Talamanca',
     },
     description: {
-      en: 'A vibrant beach town on the Caribbean coast, famous for its laid-back atmosphere, surfing, and reggae culture.',
-      de: 'Ein lebhafter Strandort an der Karibikküste, berühmt für seine entspannte Atmosphäre, sein Surfen und seine Reggae-Kultur.',
-      hu: 'Élénk tengerparti város a Karib-tenger partján, híres laza hangulatáról, szörfözéséről és reggae kultúrájáról.',
-      ro: 'Un oraș de plajă vibrant pe coasta Caraibelor, renumit pentru atmosfera sa relaxată, surfing și cultura reggae.',
+      en: "A vibrant coastal town famous for its eclectic Caribbean culture, reggae music, world-class surf, and proximity to wildlife sanctuaries.",
+      de: "Puerto Viejo ist ein beliebter Küstenort an der Karibik, bekannt für seine entspannte Atmosphäre, Surf-Strände und die afro-karibische Kultur.",
+      hu: "Puerto Viejo de Talamanca az egyik legnépszerűbb karibi üdülőhely, híres a reggae zenéről, a kiváló ételeiről és az érintetlen trópusi strandjairól.",
+      ro: "Stațiune faimoasă în Limón, cunoscută pentru cultura sa afro-caraibiană.",
     },
     descriptionAdvanced: {
       de: "Puerto Viejo de Talamanca ist der Inbegriff des entspannten karibischen Lebensgefühls in Costa Rica. Einst ein verschlafenes Fischerdorf, hat sich Puerto Viejo zu einem weltberühmten Ziel für Surfer, Backpacker und Naturliebhaber entwickelt. Berühmt für die \\\"Salsa Brava\\\", eine der kraftvollsten Wellen des Landes, lockt der Ort Profisurfer aus aller Welt an. Doch Puerto Viejo ist mehr als nur Surfen: Die Mischung aus afro-karibischen Rhythmen, Bribri-Kultur und internationalem Flair schafft eine einzigartige Atmosphäre. Besucher erkunden die Küste meist mit dem Fahrrad, vorbei an Traumstränden wie Playa Cocles und Playa Chiquita. In der Nähe bietet der Nationalpark Cahuita unberührte Korallenriffe und Regenwälder voller Faultiere und Brüllaffen. Puerto Viejo ist bunt, laut, herzlich und absolut unvergesslich. Sachkunde K4",
@@ -2524,10 +2524,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Puerto Viejo de Talamanca is one of the most recognisable Caribbean beach towns in Costa Rica, with surfing, reggae culture, and an easygoing rhythm that feels distinct from the Pacific coast. The town grew from a small coastal settlement into a major destination, yet it still keeps a strong Afro-Caribbean identity and a relaxed street life. Nearby reefs, beaches, and national park access give it both ecological and tourism value. In Plizio Geography K5, it is a strong example of cultural coastal geography."
     },
     facts: {
-      en: ['A popular destination for backpackers and eco-tourists', 'Offers a unique blend of Afro-Caribbean, Bribri, and international cultures', 'Close to Cahuita National Park'],
-      de: ['Ein beliebtes Ziel für Rucksacktouristen und Ökotouristen', 'Bietet eine einzigartige Mischung aus afro-karibischen, Bribri- und internationalen Kulturen', 'In der Nähe des Cahuita-Nationalparks'],
-      hu: ['Népszerű úti cél a hátizsákos turisták és az ökoturisták számára', 'Az afro-karibi, a bribri és a nemzetközi kultúrák egyedülálló keverékét kínálja', 'Közel a Cahuita Nemzeti Parkhoz'],
-      ro: ['O destinație populară pentru backpackeri și ecoturiști', 'Oferă un amestec unic de culturi afro-caraibiene, bribri și internaționale', 'Aproape de Parcul Național Cahuita'],
+      en: ["Caribbean coastal town", "Eclectic culture", "Reggae music hub", "Surf and wildlife"],
+      de: ["Karibikküste", "Entspannte Stimmung", "Surfen & Kultur"],
+      hu: ["Karibi üdülőhely", "Reggae zene", "Kiváló ételek", "Trópusi strandok"],
+      ro: ["Cultură caraibiană", "Stațiune balneară", "Climat tropical", "Turism"],
     },
     factsAdvanced: {
       de: ["Puerto Viejo de Talamanca liegt direkt an der Karibikküste in der Provinz Limón.", "Die Welle 'Salsa Brava' bricht über einem flachen Korallenriff und gilt als die schwerste Welle Costa Ricas.", "Der Ort ist berühmt für seine 'Rice and Beans' Küche, die mit Kokosmilch zubereitet wird.", "Innerhalb von 10 Kilometern findet man über 5 verschiedene Sandfarben (von weiß über gelb bis schwarz).", "Das 'Jaguar Rescue Center' in Puerto Viejo ist eine der bekanntesten Tierauffangstationen des Landes.", "Die Mehrheit der Wege im Ort sind noch unbefestigt, was den rustikalen Charme bewahrt.", "Die beste Reisezeit für die Karibikküste ist oft im September und Oktober, wenn der Rest des Landes Regenzeit hat."],
@@ -2553,10 +2553,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Guácimo',
     },
     description: {
-      en: 'An agricultural town on the Caribbean slope, serving the vast banana plantations in the region.',
-      de: 'Eine landwirtschaftliche Stadt am karibischen Hang, die die riesigen Bananenplantagen in der Region versorgt.',
-      hu: 'Mezőgazdasági város a karibi lejtőn, a régió hatalmas banánültetvényeit szolgálja ki.',
-      ro: 'Un oraș agricol pe versantul Caraibelor, care deservește vastele plantații de banane din regiune.',
+      en: "An agricultural town in Limon, known for its lush surroundings and its role in the banana industry.",
+      de: "Guácimo liegt in der Provinz Limón und ist ein wichtiger landwirtschaftlicher Standort im karibischen Tiefland.",
+      hu: "Guácimo Limón tartomány központi részén fekszik, az út mentén fontos állomás a karibi partok felé. Mezőgazdasága a térség egyik fő motorja.",
+      ro: "Oraș în provincia Limón, cu o economie bazată pe agricultură.",
     },
     descriptionAdvanced: {
       de: "Guácimo ist ein bedeutendes agrarwirtschaftliches Zentrum an der karibischen Flanke der Zentralkordillere. Die Stadt liegt strategisch günstig an der Hauptstraße, die das Zentraltal mit dem wichtigen Hafen Puerto Limón verbindet. Guácimo ist umgeben von endlosen Bananen- und Ananasplantagen, die das Landschaftsbild dominieren. Eine Besonderheit der Region ist die EARTH University, eine weltweit anerkannte Institution für nachhaltige Landwirtschaft, die Studenten aus aller Welt anzieht. Für Touristen bietet Guácimo Zugang zu versteckten Naturschätzen wie Wasserfällen und Regenwaldreservaten abseits der Massen. Die Stadt spiegelt das emsige Arbeitsleben der Karibikregion wider und ist ein wichtiger Knotenpunkt für den Gütertransport und die ländliche Entwicklung im Osten Costa Ricas. Sachkunde K4",
@@ -2565,10 +2565,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Gu?cimo is a Caribbean-slope agricultural town whose life is shaped by plantations, road transport, and the movement of produce toward Puerto Lim?n. The district is a key service point for banana-growing territory, but it also has an academic edge because EARTH University is located nearby. That combination of agriculture, education, and transport gives Gu?cimo a broader regional role than its size alone suggests. In Plizio Geography K5, it connects export farming with higher education."
     },
     facts: {
-      en: ['Located on the highway connecting San José and Limón', 'Home to the EARTH University, a sustainable agriculture school', 'The economy is heavily reliant on fruit exports'],
-      de: ['An der Autobahn zwischen San José und Limón gelegen', 'Heimat der EARTH University, einer Schule für nachhaltige Landwirtschaft', 'Die Wirtschaft ist stark von Fruchtexporten abhängig'],
-      hu: ['A San Josét és Limónt összekötő autópályán található', 'Az EARTH Egyetem, egy fenntartható mezőgazdasági iskola otthona', 'A gazdaság nagymértékben függ a gyümölcsexporttól'],
-      ro: ['Situat pe autostrada care leagă San José și Limón', 'Găzduiește Universitatea EARTH, o școală de agricultură durabilă', 'Economia este puternic dependentă de exporturile de fructe'],
+      en: ["Limon province", "Agricultural town", "Lush environment", "Banana industry"],
+      de: ["Provinz Limón", "Agrarstandort", "Karibisches Tiefland"],
+      hu: ["Limón tartomány", "Központi fekvés", "Karibi útvonal", "Mezőgazdaság"],
+      ro: ["Situat în Limón", "Zonă agricolă", "Climat tropical", "Dezvoltare locală"],
     },
     factsAdvanced: {
       de: ["Guácimo liegt auf einer Höhe von ca. 114 Metern über dem Meeresspiegel.", "Die Stadt ist der Verwaltungssitz des 6. Kantons der Provinz Limón.", "Die EARTH University umfasst einen Campus von über 3.000 Hektar Primär- und Sekundärwald.", "In Guácimo regnet es durchschnittlich an über 200 Tagen im Jahr.", "Die Region ist ein wichtiger Produzent von Zierpflanzen für den europäischen Markt.", "Der Name Guácimo stammt von einem im tropischen Amerika weit verbreiteten Baum (Guazuma ulmifolia).", "Guácimo liegt etwa 70 Kilometer östlich der Hauptstadt San José."],
@@ -2594,10 +2594,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Jacó',
     },
     description: {
-      en: 'A major tourist destination and surf town on the central Pacific coast, known for its vibrant nightlife.',
-      de: 'Ein wichtiges Touristenziel und eine Surfstadt an der zentralen Pazifikküste, bekannt für ihr pulsierendes Nachtleben.',
-      hu: 'Jelentős turisztikai célpont és szörfváros a közép-csendes-óceáni parton, amely élénk éjszakai életéről ismert.',
-      ro: 'O destinație turistică majoră și un oraș de surf pe coasta centrală a Pacificului, cunoscut pentru viața sa de noapte vibrantă.',
+      en: "A major beach destination on the central Pacific coast, world-famous for its surfing, nightlife, and proximity to San Jose.",
+      de: "Jacó ist einer der meistbesuchten Badeorte an der Pazifikküste, berühmt für seine Surfwellen und das lebhafte Unterhaltungsangebot.",
+      hu: "Jacó Costa Rica legnépszerűbb szörfös városa a Csendes-óceán partján, híres az éjszakai életéről és a fővároshoz való közelségéről.",
+      ro: "Cea mai apropiată stațiune de coastă de capitala San José.",
     },
     descriptionAdvanced: {
       de: "Jacó ist die lebhafteste und am besten entwickelte Strandstadt an der zentralen Pazikküste Costa Ricas. Dank der kurzen Entfernung zur Hauptstadt San José hat sich Jacó zu einem Hotspot für Surfer, Wochenendausflügler und internationale Touristen entwickelt. Die kilometerlange Bucht bietet konstante Wellen, die ideal für Anfänger und Fortgeschrittene sind. Abseits des Strandes ist Jacó für sein pulsierendes Nachtleben, erstklassige Restaurants und moderne Einkaufszentren bekannt. Die Stadt ist zudem ein perfekter Ausgangspunkt für Abenteuer-Touren wie Ziplining, ATV-Fahrten und Ausflüge in den nahegelegenen Nationalpark Carara, wo man die majestätischen Hellroten Aras beobachten kann. Jacó verbindet den Komfort einer modernen Stadt mit der Energie des tropischen Ozeans und ist das Ziel für alle, die Action und Unterhaltung suchen. Sachkunde K4",
@@ -2606,10 +2606,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Jac? is the best-known surf and nightlife town on Costa Rica's central Pacific coast, and its development reflects decades of tourism demand from San Jos? and the wider valley. Hotels, restaurants, rentals, and beach activity dominate the local economy, while the town also serves as the urban centre of Garabito canton. Its quick access from the capital region makes it a classic weekend escape, but it is also a year-round destination with a strong service base. In Plizio Geography K5, it shows how a beach town becomes a mature resort city."
     },
     facts: {
-      en: ['One of the closest major beach towns to San José', 'Offers consistent waves for surfers of all levels', 'Features a wide range of hotels, restaurants, and bars'],
-      de: ['Einer der nächstgelegenen großen Strandorte zu San José', 'Bietet konstante Wellen für Surfer aller Niveaus', 'Verfügt über eine große Auswahl an Hotels, Restaurants und Bars'],
-      hu: ['Az egyik legközelebbi nagyobb tengerparti város San Joséhoz', 'Állandó hullámokat kínál minden szintű szörfös számára', 'Szállodák, éttermek és bárok széles választékával rendelkezik'],
-      ro: ['Unul dintre cele mai apropiate orașe de plajă majore de San José', 'Oferă valuri constante pentru surferi de toate nivelurile', 'Dispune de o gamă largă de hoteluri, restaurante și baruri'],
+      en: ["Pacific beach destination", "World-famous surfing", "Nightlife hub", "Near San Jose"],
+      de: ["Beliebter Badeort", "Surfen", "Unterhaltungszentrum"],
+      hu: ["Szörfös város", "Csendes-óceáni part", "Éjszakai élet", "Főváros közelsége"],
+      ro: ["Stațiune populară", "Aproape de San José", "Climat tropical", "Surfing"],
     },
     factsAdvanced: {
       de: ["Playa Jacó erstreckt sich über eine Länge von etwa 4 Kilometern in einer weiten Bucht.", "Jacó ist die Hauptstadt des Kantons Garabito, dem am schnellsten wachsenden Kanton des Landes.", "Von San José aus erreicht man Jacó über die moderne Autobahn Route 27 in nur ca. 90 Minuten.", "Die Stadt beherbergt über 100 verschiedene Restaurants mit internationaler Küche.", "In der Nähe befindet sich der Aussichtspunkt 'El Miro', der einen Panoramablick über die gesamte Bucht bietet.", "Jacó war die erste Stadt Costa Ricas, die eine barrierefreie Rampe für Rollstuhlfahrer direkt zum Meer baute.", "Der Nationalpark Carara, nur 15 km entfernt, beherbergt eine der größten Populationen von Scharlacharas."],
@@ -2635,10 +2635,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Parrita',
     },
     description: {
-      en: 'A town on the central Pacific coast, surrounded by large African palm oil plantations.',
-      de: 'Eine Stadt an der zentralen Pazifikküste, umgeben von großen afrikanischen Palmölplantagen.',
-      hu: 'Város a közép-csendes-óceáni parton, amelyet nagy afrikai pálmaolaj-ültetvények vesznek körül.',
-      ro: 'Un oraș pe coasta centrală a Pacificului, înconjurat de mari plantații de palmier de ulei african.',
+      en: "A town located between Jaco and Manuel Antonio, primarily serving as an agricultural center known for oil palm plantations.",
+      de: "Parrita ist ein wichtiges landwirtschaftliches Zentrum an der Pazifikküste, das primär auf die Produktion von Palmöl ausgerichtet ist.",
+      hu: "Parrita egy mezőgazdasági város a Csendes-óceáni parton, Puntarenas tartományban. A település a pálmaolaj-termeléséről és a közeli üdülőhelyekről ismert.",
+      ro: "Localitate în Puntarenas, centru agricol între Jacó și Quepos.",
     },
     descriptionAdvanced: {
       de: "Parrita liegt in der sonnigen Zentralküste des Pazifiks und ist das Zentrum der afrikanischen Ölpalmenindustrie Costa Ricas. Die weiten Ebenen rund um die Stadt sind mit geometrisch angeordneten Palmenplantagen bedeckt, die eine fast surreale Landschaft schaffen. Parrita dient als wichtiger Zwischenstopp auf der Route zwischen den touristischen Zentren Jacó und Quepos. Die Stadt hat eine bodenständige Atmosphäre und ist bekannt für ihre jährlichen Festivals, die das landwirtschaftliche Erbe feiern. In der Nähe finden Besucher ruhige, fast unberührte Strände wie Playa Bandera, die einen starken Kontrast zum Trubel der Nachbarstädte bilden. Der Fluss Parrita, der durch die Stadt fließt, bietet Möglichkeiten zum Angeln und zur Naturbeobachtung. Parrita ist ein authentisches Stück Arbeits-Costa-Rica am Rande des Pazifiks. Sachkunde K4",
@@ -2647,10 +2647,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Parrita sits on the central Pacific coast in a broad, hot lowland zone where African palm plantations dominate the landscape. The town is not a flashy resort; instead, it reflects the agricultural side of the coast, with long flat fields and a production chain tied to palms, roads, and rural labour. That makes Parrita a valuable reminder that coastal regions can be industrially agricultural as well as tourist-oriented. In Plizio Geography K5, it illustrates plantation geography on the Pacific side."
     },
     facts: {
-      en: ['The economy is based on agriculture, particularly palm oil', 'Located between the popular destinations of Jacó and Quepos', 'Offers access to quiet, undeveloped beaches'],
-      de: ['Die Wirtschaft basiert auf der Landwirtschaft, insbesondere auf Palmöl', 'Zwischen den beliebten Zielen Jacó und Quepos gelegen', 'Bietet Zugang zu ruhigen, unentwickelten Stränden'],
-      hu: ['Gazdasága a mezőgazdaságon, különösen a pálmaolajon alapul', 'Jacó és Quepos népszerű úti céljai között található', 'Hozzáférést biztosít csendes, fejletlen strandokhoz'],
-      ro: ['Economia se bazează pe agricultură, în special pe uleiul de palmier', 'Situat între destinațiile populare Jacó și Quepos', 'Oferă acces la plaje liniștite, nedezvoltate'],
+      en: ["Between Jaco and Manuel Antonio", "Agricultural center", "Oil palm plantations", "Puntarenas province"],
+      de: ["Pazifikküste", "Palmölproduktion", "Agrarzentrum"],
+      hu: ["Mezőgazdasági város", "Csendes-óceáni part", "Puntarenas tartomány", "Pálmaolaj"],
+      ro: ["Situat în Puntarenas", "Zonă agricolă", "Climat tropical", "Poziție strategică"],
     },
     factsAdvanced: {
       de: ["Parrita liegt auf einer Höhe von nur 4 Metern über dem Meeresspiegel.", "Die Stadt wird im Norden von den Ausläufern der Talamanca-Kordillere begrenzt.", "In der Region werden jährlich tausende Tonnen Palmöl für den nationalen und internationalen Markt produziert.", "Die 'Fiesta de la Mula' (Maultier-Fest) ist ein einzigartiges lokales Ereignis in Parrita.", "Das Klima ist tropisch-heiß mit einer ausgeprägten Trockenzeit von Dezember bis April.", "Parrita liegt ca. 25 Kilometer südlich von Jacó und 40 Kilometer nördlich von Quepos.", "Der Río Parrita ist bekannt für seine gelegentlichen Überschwemmungen während extremer Regenfälle."],
@@ -2677,10 +2677,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Ciudad Neily',
     },
     description: {
-      en: 'The capital of Corredores canton, a bustling commercial hub in southern Costa Rica near the Panamanian border.',
-      de: 'Die Hauptstadt des Kantons Corredores, ein belebtes Handelszentrum im Süden Costa Ricas nahe der panamaischen Grenze.',
-      hu: 'Corredores kanton fővárosa, nyüzsgő kereskedelmi központ Costa Rica déli részén, a panamai határ közelében.',
-      ro: 'Capitala cantonului Corredores, un centru comercial plin de viață în sudul Costa Ricăi, lângă granița cu Panama.',
+      en: "The main commercial hub in the southern border region of Corredores, serving as a primary link for trade with Panama.",
+      de: "Ciudad Neily liegt nahe der Grenze zu Panama und fungiert als wichtiges Handels- und Dienstleistungszentrum für die südliche Region.",
+      hu: "Ciudad Neily Corredores kanton székhelye a panamai határ közelében. A kereskedelmi központ fontos szerepet játszik az ország déli részének gazdaságában.",
+      ro: "Centru comercial în sudul țării, aproape de granița cu Panama.",
     },
     descriptionAdvanced: {
       de: "Ciudad Neily ist das pulsierende Handelszentrum im tiefen Süden Costa Ricas, nahe der Grenze zu Panama. Als Hauptstadt des Kantons Corredores spielt die Stadt eine entscheidende Rolle für den grenzüberschreitenden Handel und die Versorgung der abgelegenen Regionen im Süden. Die Stadt ist benannt nach Ricardo Neily, einem Pionier, der hier in den 1940er Jahren ein Versorgungszentrum für Bananenarbeiter errichtete. Heute ist Ciudad Neily ein moderner Hub mit Krankenhäusern, Schulen und einer Vielzahl von Geschäften. Für Reisende ist es oft ein strategischer Basispunkt für Expeditionen zum Golfo Dulce oder zum Grenzübergang Paso Canoas. Das Klima ist heiß und feucht, typisch für den tropischen Regenwald der Region. Die Stadt bietet einen faszinierenden Einblick in die Dynamik einer Grenzregion fernab der touristischen Hauptpfade. Sachkunde K4",
@@ -2689,10 +2689,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Ciudad Neily is the commercial heart of southern Costa Rica near the border with Panama, and its role is shaped by trade, transport, and cross-border movement. As the capital of Corredores canton, it supports a district that is more businesslike than scenic, with shops, services, and logistics all focused on the flow between countries. The town's southern position gives it a border-town energy that distinguishes it from the central valley and the tourist coast. In Plizio Geography K5, it helps explain frontier urban centres."
     },
     facts: {
-      en: ['An important stop on the Inter-American Highway', 'Serves as a base for exploring the Golfo Dulce region', 'Strong commercial ties with the border town of Paso Canoas'],
-      de: ['Ein wichtiger Halt an der Interamericana', 'Dient als Ausgangspunkt für die Erkundung der Region Golfo Dulce', 'Starke Handelsbeziehungen mit der Grenzstadt Paso Canoas'],
-      hu: ['Fontos megálló az Interamerikai főúton', 'A Golfo Dulce régió felfedezésének kiindulópontjaként szolgál', 'Erős kereskedelmi kapcsolatok Paso Canoas határvárossal'],
-      ro: ['O oprire importantă pe autostrada Inter-Americană', 'Servește ca bază pentru explorarea regiunii Golfo Dulce', 'Legături comerciale puternice cu orașul de graniță Paso Canoas'],
+      en: ["Southern commercial hub", "Corredores canton", "Panama trade link", "Border town"],
+      de: ["Nahe Panama-Grenze", "Handelszentrum", "Südliche Region"],
+      hu: ["Corredores kanton székhelye", "Panamai határ", "Kereskedelmi központ", "Déli régió"],
+      ro: ["Aproape de graniță", "Situat în Puntarenas", "Climat cald", "Zonă comercială"],
     },
     factsAdvanced: {
       de: ["Ciudad Neily liegt auf einer Höhe von 46 Metern über dem Meeresspiegel.", "Die Stadt wurde offiziell erst im Jahr 1946 gegründet.", "Ciudad Neily liegt nur etwa 18 Kilometer westlich des großen Grenzübergangs Paso Canoas zu Panama.", "Die Region ist von den Ausläufern der Fila Cruces Gebirgskette umgeben.", "In Ciudad Neily befindet sich das wichtigste staatliche Krankenhaus (Hospital Ciudad Neily) der Südzone.", "Die Durchschnittstemperatur liegt das ganze Jahr über bei ca. 27 Grad Celsius.", "Die Panamericana führt direkt durch das Stadtgebiet und verbindet es mit San José."],
@@ -2718,10 +2718,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Uvita',
     },
     description: {
-      en: 'A growing coastal town famous for the "Whale Tail" sandbar formation within the Marino Ballena National Park.',
-      de: 'Eine wachsende Küstenstadt, berühmt für die Sandbankformation "Walflosse" im Nationalpark Marino Ballena.',
-      hu: 'Növekvő tengerparti város, amely a Marino Ballena Nemzeti Parkban található "bálnafarok" homokpadról híres.',
-      ro: 'Un oraș de coastă în creștere, renumit pentru formațiunea de nisip "Coada de Balenă" din Parcul Național Marino Ballena.',
+      en: "Known for the 'Whale Tail' rock formation and the Marino Ballena National Park, it is a key destination for whale watching and nature lovers.",
+      de: "Uvita ist berühmt für den Marino Ballena Nationalpark und seine 'Walschwanz'-Sandbank, die bei Ebbe sichtbar wird.",
+      hu: "Uvita a Marino Ballena Nemzeti Park bejárata, híres a bálnalesési lehetőségekről és a természetes, bálnafarok alakú homokpadról.",
+      ro: "Cunoscut pentru Parcul Național Marino Ballena și faimoasa coadă de balenă.",
     },
     descriptionAdvanced: {
       de: "Uvita ist ein magischer Ort an der Südpazikküste, wo der Regenwald direkt auf das Meer trifft. Weltberühmt ist die Stadt für den Marino Ballena Nationalpark und die spektakuläre \\\"Walflosse\\\" (Cola de Ballena) – eine natürliche Sandbankformation, die bei Ebbe genau die Form eines Walfisches annimmt. Uvita hat sich in den letzten Jahren von einem verschlafenen Dorf zu einem beliebten Ziel für Ökotouristen entwickelt, ohne seinen wilden Charakter zu verlieren. Hier finden die besten Walbeobachtungstouren Costa Ricas statt, insbesondere für Buckelwale, die zweimal im Jahr in diese warmen Gewässer kommen. Abseits des Wassers locken versteckte Wasserfälle und eine lebendige Gemeinschaft von Künstlern und Aussteigern. Uvita ist der perfekte Ort für alle, die unberührte Natur, majestätische Tiere und ein entspanntes, naturnahes Leben suchen. Sachkunde K4",
@@ -2730,10 +2730,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Uvita is a growing coastal town on the southern Pacific side, famous for the Whale Tail sandbar inside Marino Ballena National Park. The town sits where rainforest, ocean, and tourism infrastructure meet, so it attracts whale watchers, surfers, and visitors moving through the Osa region. Its rise from a small settlement into a recognised destination shows how protected nature can drive local economies when the landscape itself becomes the attraction. In Plizio Geography K5, it is a clear example of eco-tourism geography."
     },
     facts: {
-      en: ['Prime location for humpback whale watching', 'Home to the annual Envision Festival', 'Part of the rapidly developing Costa Ballena region'],
-      de: ['Erstklassiger Ort zur Beobachtung von Buckelwalen', 'Heimat des jährlichen Envision Festivals', 'Teil der sich schnell entwickelnden Region Costa Ballena'],
-      hu: ['Kiváló hely a púpos bálnák megfigyelésére', 'Az éves Envision Fesztivál otthona', 'A gyorsan fejlődő Costa Ballena régió része'],
-      ro: ['Locație de prim rang pentru observarea balenelor cu cocoașă', 'Găzduiește festivalul anual Envision', 'Parte a regiunii Costa Ballena în dezvoltare rapidă'],
+      en: ["Whale Tail formation", "Marino Ballena National Park", "Whale watching hub", "Nature destination"],
+      de: ["Marino Ballena Park", "Walschwanz-Sandbank", "Naturschönheit"],
+      hu: ["Nemzeti Park kapuja", "Bálnalesés", "Bálnafarok homokpad", "Ökoturizmus"],
+      ro: ["Parcul Marino Ballena", "Situat în Puntarenas", "Climat tropical", "Observarea balenelor"],
     },
     factsAdvanced: {
       de: ["Die 'Walflosse' in Uvita ist eine Tombolo-Formation, die ca. 600 Meter in den Ozean ragt.", "Uvita liegt in einer der biologisch vielfältigsten Regionen der Erde, der Costa Ballena.", "Zweimal jährlich (Januar-März und Juli-Oktober) kommen Buckelwale zur Paarung in die Bucht von Uvita.", "Der Nationalpark Marino Ballena umfasst 110 Hektar Land und über 5.300 Hektar Meeresfläche.", "Die Wasserfälle von Uvita (Catarata Uvita) verfügen über eine natürliche Steinrutsche.", "Die Stadt ist Gastgeber des jährlichen 'Envision Festival', einem großen Kunst- und Musikereignis.", "In Uvita gibt es keine großen Hotelketten, was den Fokus auf nachhaltigen Tourismus stärkt."],
@@ -2759,10 +2759,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Montezuma',
     },
     description: {
-      en: 'A bohemian beach village on the southern tip of the Nicoya Peninsula, known for its waterfalls and artistic community.',
-      de: 'Ein unkonventionelles Stranddorf an der Südspitze der Nicoya-Halbinsel, bekannt für seine Wasserfälle und seine Künstlergemeinde.',
-      hu: 'Bohém tengerparti falu a Nicoya-félsziget déli csücskén, amely vízeséseiről és művészi közösségéről ismert.',
-      ro: 'Un sat boem de plajă la capătul sudic al Peninsulei Nicoya, cunoscut pentru cascadele și comunitatea sa artistică.',
+      en: "A bohemian coastal village at the tip of the Nicoya Peninsula, popular for its waterfalls, pristine beaches, and relaxed, artistic vibe.",
+      de: "Montezuma ist ein unkonventioneller Küstenort auf der Nicoya-Halbinsel, bekannt für seine Wasserfälle und alternative Lebensweise.",
+      hu: "Montezuma egy bohém hangulatú település a Nicoya-félsziget déli csücskén. Híres a vízeséseiről, a természetközeli életmódjáról és a művészvilágáról.",
+      ro: "Sat boem situat la vârful Peninsulei Nicoya.",
     },
     descriptionAdvanced: {
       de: "Montezuma, an der Südspitze der Halbinsel Nicoya gelegen, ist ein legendäres Ziel für Individualreisende und Freigeister. Das Dorf ist bekannt für seine unkonventionelle Atmosphäre, seine bunte Künstlergemeinde und die atemberaubende Natur. Ein absolutes Muss sind die Montezuma-Wasserfälle, eine Reihe von drei Kaskaden im Dschungel, die über natürliche Pfade erreichbar sind. Der Ort ist umgeben von wilden Stränden und dem Cabo Blanco Absolute Natural Reserve, dem ersten Naturschutzgebiet Costa Ricas. Abends verwandelt sich das kleine Zentrum in einen lebendigen Treffpunkt mit Live-Musik und Handwerksmärkten. Montezuma hat sich trotz seiner Beliebtheit einen rustikalen und authentischen Charme bewahrt. Es ist ein Ort, an dem man morgens im Regenwald wandert und nachmittags in den Gezeitenpools des Pazifiks entspannt. Sachkunde K4",
@@ -2771,10 +2771,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Montezuma is a bohemian beach village on the southern tip of the Nicoya Peninsula, where waterfalls, art, and a small-scale travel culture define the setting. The town became famous with independent travellers because it feels less engineered than many resort beaches, and that atmosphere still shapes its identity today. Its coastal location, waterfall access, and artistic community make Montezuma a place where nature and creativity mix in a very visible way. In Plizio Geography K5, it is a classic example of alternative tourism on the Pacific coast."
     },
     facts: {
-      en: ['Popular with backpackers and wellness travelers', 'Access to Cabo Blanco Absolute Natural Reserve', 'Features a series of scenic waterfalls near the town center'],
-      de: ['Beliebt bei Rucksacktouristen und Wellness-Reisenden', 'Zugang zum Absoluten Naturreservat Cabo Blanco', 'Verfügt über eine Reihe von malerischen Wasserfällen in der Nähe des Stadtzentrums'],
-      hu: ['Népszerű a hátizsákos turisták és a wellness utazók körében', 'Hozzáférés a Cabo Blanco Abszolút Természetvédelmi Területhez', 'Festői vízesések sorozatával rendelkezik a városközpont közelében'],
-      ro: ['Popular printre backpackeri și călătorii de wellness', 'Acces la Rezervația Naturală Absolută Cabo Blanco', 'Prezintă o serie de cascade pitorești în apropierea centrului orașului'],
+      en: ["Bohemian village", "Nicoya Peninsula", "Waterfalls", "Artistic vibe"],
+      de: ["Nicoya-Halbinsel", "Wasserfälle", "Alternative Szene"],
+      hu: ["Bohém hangulat", "Nicoya-félsziget", "Vízesések", "Művészvilág"],
+      ro: ["Sat boem", "Peninsula Nicoya", "Climat tropical", "Peisaj pitoresc"],
     },
     factsAdvanced: {
       de: ["Der Hauptwasserfall von Montezuma hat eine beeindruckende Fallhöhe von etwa 24 Metern.", "Montezuma liegt in der Provinz Puntarenas, ist aber am besten per Fähre von Paquera aus erreichbar.", "Das nahegelegene Cabo Blanco Reservat wurde bereits 1963 gegründet.", "Der Strand 'Playa Grande' in Montezuma ist ein wichtiger Nistplatz für Meeresschildkröten.", "In Montezuma findet jedes Jahr ein internationales Filmfestival statt.", "Der Ort war in den 1970er Jahren ein klassisches Ziel der Hippie-Bewegung.", "Die Küstenlinie von Montezuma ist geprägt von vulkanischen Felsformationen und zahlreichen Gezeitenpools."],
@@ -2800,10 +2800,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Escazú',
     },
     description: {
-      en: 'An upscale city in the San José suburbs, known as the premier location for luxury living, shopping, and dining.',
-      de: 'Eine gehobene Stadt in den Vororten von San José, bekannt als der führende Ort für luxuriöses Wohnen, Einkaufen und Essen.',
-      hu: 'Előkelő város San José külvárosában, a luxus élet, vásárlás és étkezés elsőszámú helyszíneként ismert.',
-      ro: 'Un oraș de lux în suburbiile din San José, cunoscut ca locația principală pentru viață de lux, cumpărături și restaurante.',
+      en: "An affluent suburb of San Jose known for its luxury homes, shopping malls, and high concentration of international services.",
+      de: "Escazú ist bekannt als ein wohlhabender Vorort von San José mit einer hohen Dichte an exklusiven Wohnvierteln und internationalen Restaurants.",
+      hu: "Escazú San José legelőkelőbb kerülete, ahol a modern luxuslakások, bevásárlóközpontok és nemzetközi éttermek dominálnak. A terület a gazdasági elit központja.",
+      ro: "Suburbie de elită a capitalei San José, cunoscută pentru facilitățile sale.",
     },
     descriptionAdvanced: {
       de: "Escazú ist bekannt als das \\\"Beverly Hills von Costa Rica\\\" und ist die exklusivste Stadt im Großraum San José. Gelegen an den Hängen der Escazú-Berge, bietet sie eine faszinierende Mischung aus moderner Urbanität und traditionellen Legenden. Hier finden sich die prachtvollsten Villen des Landes, Botschaften, Luxushotels und die modernsten Einkaufszentren wie die Multiplaza. Doch Escazú hat auch eine geheimnisvolle Seite: Es gilt als die \\\"Stadt der Hexen\\\" (Ciudad de las Brujas), was auf zahlreiche lokale Legenden zurückzuführen ist. Die höheren Lagen von San Antonio bieten noch heute ein traditionelles Bild mit Ochsenkarren und Kaffeegärten, während man im Tal in exklusiven Restaurants speisen kann. Escazú ist das pulsierende Zentrum für Wirtschaft, Diplomatie und High-End-Lifestyle in Costa Rica. Sachkunde K4",
@@ -2812,10 +2812,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Escaz? is one of the most famous upscale districts in Costa Rica, with luxury shopping, fine dining, and hillside neighbourhoods all contributing to its reputation. The district sits west of San Jos? and has long been associated with affluent living, international residents, and modern urban services. That mix of prestige and convenience has made it a reference point for the country's new middle and upper urban culture. In Plizio Geography K5, it is a clear study in suburban wealth and service concentration."
     },
     facts: {
-      en: ['Home to many embassies and foreign residents', 'Features Costa Rica\\\\\\\'s most exclusive shopping malls', 'Blends modern city life with views of the surrounding mountains'],
-      de: ['Heimat vieler Botschaften und ausländischer Einwohner', 'Verfügt über die exklusivsten Einkaufszentren Costa Ricas', 'Verbindet modernes Stadtleben mit Blick auf die umliegenden Berge'],
-      hu: ['Számos nagykövetségnek és külföldi lakosnak ad otthont', 'Costa Rica legexkluzívabb bevásárlóközpontjaival rendelkezik', 'Ötvözi a modern városi életet a környező hegyekre nyíló kilátással'],
-      ro: ['Găzduiește multe ambasade și rezidenți străini', 'Dispune de cele mai exclusive centre comerciale din Costa Rica', 'Îmbină viața modernă a orașului cu priveliști ale munților din jur'],
+      en: ["Affluent suburb", "Luxury housing", "Shopping centers", "International services"],
+      de: ["Vorort von San José", "Wohlhabende Wohngegend", "Exklusive Gastronomie"],
+      hu: ["Előkelő kerület", "Luxuslakások", "Bevásárlóközpontok", "Gazdasági elit"],
+      ro: ["Zonă rezidențială de lux", "Situat în San José", "Facilități moderne", "Climat temperat"],
     },
     factsAdvanced: {
       de: ["Escazú ist in drei Hauptbezirke unterteilt: San Rafael (modern), Escazú Centro und San Antonio (traditionell).", "Der Name stammt aus der indigenen Sprache Huetar und bedeutet 'Rastplatz'.", "In Escazú befindet sich die höchste Konzentration an privaten Fitnessstudios und Gourmetrestaurants des Landes.", "Die Stadt liegt auf einer Höhe zwischen 1.000 und 2.500 Metern über dem Meeresspiegel.", "Escazú ist Sitz vieler internationaler Institutionen und der Residenz des US-Botschafters.", "Das Einkaufszentrum Multiplaza Escazú ist das größte und exklusivste Einkaufszentrum Costa Ricas.", "Jährlich am 31. Oktober feiert die Stadt den 'Tag der Maskeraden' als Hommage an ihre Mythen."],
@@ -2841,10 +2841,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Santa Ana',
     },
     description: {
-      en: 'A rapidly growing city west of Escazú, offering a mix of a traditional town center and modern commercial hubs.',
-      de: 'Eine schnell wachsende Stadt westlich von Escazú, die eine Mischung aus einem traditionellen Stadtzentrum und modernen Handelszentren bietet.',
-      hu: 'Gyorsan növekvő város Escazútól nyugatra, amely a hagyományos városközpont és a modern kereskedelmi központok keverékét kínálja.',
-      ro: 'Un oraș în creștere rapidă la vest de Escazú, care oferă un amestec de centru urban tradițional și centre comerciale moderne.',
+      en: "A rapidly developing suburb of San Jose, recognized for its modern residential projects and its pleasant, valley climate.",
+      de: "Santa Ana ist eine dynamische Stadt westlich von San José, die eine Mischung aus modernem Leben, kommerzieller Entwicklung und Tradition bietet.",
+      hu: "Santa Ana egy dinamikusan fejlődő város San José és Escazú között, mely a modern üzleti élet, a lakóparkok és a nemzetközi iskola központja.",
+      ro: "Localitate înfloritoare în San José, cunoscută pentru climatul său.",
     },
     descriptionAdvanced: {
       de: "Santa Ana ist eine der am schnellsten wachsenden und modernsten Städte westlich von San José. Bekannt für ihr hervorragendes Klima, das sonniger und trockener ist als in der Hauptstadt, hat sich Santa Ana zu einem bevorzugten Standort für Technologieunternehmen und gehobene Wohnanlagen entwickelt. Trotz des rasanten Booms der letzten Jahre hat sich der Stadtkern seinen traditionellen Charakter bewahrt, was sich besonders in der alten Kirche und dem wöchentlichen Bauernmarkt zeigt. Santa Ana ist auch als \\\"Stadt der Zwiebeln\\\" bekannt, ein Erbe seiner landwirtschaftlichen Vergangenheit. Heute ist sie ein Hub für erstklassige Gastronomie und Golfplätze. Die Stadt bietet eine perfekte Balance zwischen dem Komfort moderner Infrastruktur und der natürlichen Schönheit der umliegenden Berge des Cerros de Escazú. Sachkunde K4",
@@ -2853,10 +2853,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Santa Ana has grown quickly into one of the most dynamic western suburbs of San Jos?, balancing a traditional town core with modern business parks and residential developments. Its slightly drier, sunnier climate and easy access to major road corridors have made it attractive to companies and families alike. The result is a district where old and new coexist: a small historic centre still matters, but the surrounding area increasingly reflects contemporary urban expansion. In Plizio Geography K5, it is ideal for studying suburban growth along a transport corridor."
     },
     facts: {
-      en: ['Known for its sunny and drier climate', 'A hub for new business parks and office centers', 'Famous for its tradition of onion farming and annual onion fair'],
-      de: ['Bekannt für sein sonniges und trockeneres Klima', 'Ein Zentrum für neue Gewerbeparks und Bürozentren', 'Berühmt für seine Tradition des Zwiebelanbaus und den jährlichen Zwiebelmarkt'],
-      hu: ['Napos és szárazabb éghajlatáról ismert', 'Új üzleti parkok és irodaközpontok központja', 'Híres a hagymatermesztési hagyományáról és az éves hagymavásárról'],
-      ro: ['Cunoscut pentru climatul său însorit și mai uscat', 'Un centru pentru noi parcuri de afaceri și centre de birouri', 'Renumit pentru tradiția sa în cultivarea cepei și târgul anual al cepei'],
+      en: ["San Jose suburb", "Modern residential projects", "Pleasant climate", "Growing community"],
+      de: ["Westlich von San José", "Dynamisches Leben", "Kommerzielle Entwicklung"],
+      hu: ["Fejlődő város", "Modern üzleti élet", "Lakóparkok", "Nemzetközi iskolák"],
+      ro: ["Zonă de dezvoltare", "Situat în San José", "Climat plăcut", "Zonă comercială"],
     },
     factsAdvanced: {
       de: ["Santa Ana liegt auf einer durchschnittlichen Höhe von 904 Metern über dem Meeresspiegel.", "Die Stadt verzeichnet durchschnittlich mehr Sonnenstunden pro Jahr als das benachbarte San José.", "Die 'Feria de la Cebolla' (Zwiebelmesse) ist das wichtigste traditionelle Fest der Stadt.", "In Santa Ana befinden sich wichtige Business-Parks wie Forum 1 und Forum 2.", "Das Valle del Sol in Santa Ana beherbergt einen der wenigen Meisterschafts-Golfplätze des Zentraltals.", "Die Stadt grenzt im Osten direkt an den exklusiven Stadtteil Escazú.", "Santa Ana wurde mehrfach als einer der Kantone mit der höchsten Lebensqualität in Costa Rica ausgezeichnet."],
@@ -2882,10 +2882,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Ciudad Colón',
     },
     description: {
-      en: 'The capital of Mora canton, home to the University for Peace and known for its multicultural environment.',
-      de: 'Die Hauptstadt des Kantons Mora, Sitz der Universität für den Frieden und bekannt für ihr multikulturelles Umfeld.',
-      hu: 'Mora kanton fővárosa, a Béke Egyetem otthona és multikulturális környezetéről ismert.',
-      ro: 'Capitala cantonului Mora, care găzduiește Universitatea pentru Pace și este cunoscută pentru mediul său multicultural.',
+      en: "The administrative center of Mora, known for its proximity to nature and its focus on education, being the home of the University for Peace.",
+      de: "Ciudad Colón ist ein wichtiger Ort im Kanton Mora, bekannt für seine entspannte Lebensart und die Nähe zur Universität für Frieden.",
+      hu: "Ciudad Colón Mora kanton központja, ismert a békés, zöld környezetéről és a híres Costa Rica-i Béketechnológiai Egyetem (University for Peace) közelségéről.",
+      ro: "Sediul cantonului Mora, situat la vest de San José.",
     },
     descriptionAdvanced: {
       de: "Ciudad Colón ist eine charmante, multikulturelle Stadt, die für ihr entspanntes Ambiente und ihr starkes Engagement für Frieden und Umwelt bekannt ist. Sie ist die Heimat der Universität für den Frieden (UPACE), einer von den Vereinten Nationen gegründeten Institution. Die Stadt liegt in einem malerischen Übergangsbereich zwischen dem Zentraltal und den Bergen der Pazifikküste. Ciudad Colón hat sich zu einem beliebten Wohnort für Künstler, Akademiker und Naturliebhaber entwickelt. Besonders bekannt ist die Stadt für ihren ökologischen Bauernmarkt und das indigene Reservat Quitirrisí in der Nähe, das letzte seiner Art im Zentraltal. Die Architektur ist eine Mischung aus modernem Design und traditionellen Holzhäusern. Wer Ruhe sucht und Wert auf eine nachhaltige Gemeinschaft legt, findet in Ciudad Colón sein ideales Ziel. Sachkunde K4",
@@ -2894,10 +2894,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Ciudad Col?n is the main town of Mora canton and one of the most internationally connected small cities in the western Central Valley. Its multicultural profile is strongly influenced by the University for Peace, which brings students and researchers from around the world. The town feels relaxed and leafy, yet it plays an important role in linking the capital region with the mountain communities to the west. In Plizio Geography K5, it is a strong example of a small city shaped by global education and local community life."
     },
     facts: {
-      en: ['Promotes a culture of peace and international understanding', 'Surrounded by rolling hills and natural reserves', 'Has a popular weekly farmers market'],
-      de: ['Fördert eine Kultur des Friedens und der internationalen Verständigung', 'Umgeben von sanften Hügeln und Naturschutzgebieten', 'Hat einen beliebten wöchentlichen Bauernmarkt'],
-      hu: ['Elősegíti a béke és a nemzetközi megértés kultúráját', 'Gördülő dombok és természetvédelmi területek veszik körül', 'Népszerű heti termelői piaccal rendelkezik'],
-      ro: ['Promovează o cultură a păcii și a înțelegerii internaționale', 'Înconjurat de dealuri și rezervații naturale', 'Are o piață agricolă săptămânală populară'],
+      en: ["Mora administrative center", "Near nature", "Education focus", "University for Peace"],
+      de: ["Kanton Mora", "Entspanntes Leben", "Friedensuniversität"],
+      hu: ["Mora kanton központja", "Békés környezet", "Béketechnológiai Egyetem", "Zöld övezet"],
+      ro: ["Zonă rezidențială", "Situat în San José", "Climat temperat", "Dezvoltare mixtă"],
     },
     factsAdvanced: {
       de: ["Ciudad Colón liegt auf einer Höhe von ca. 840 Metern über dem Meeresspiegel.", "Die Universität für den Frieden (University for Peace) wurde 1980 auf Initiative von Präsident Rodrigo Carazo gegründet.", "In Ciudad Colón befindet sich das einzige indigene Reservat der Provinz San José (Quitirrisí).", "Die Stadt war früher unter dem Namen Pacaca bekannt.", "Der wöchentliche 'Mercado Orgánico' ist einer der ältesten und größten seiner Art in der Region.", "Die Umgebung bietet hervorragende Trails für Mountainbiking und Trailrunning.", "Ciudad Colón liegt etwa 22 Kilometer westlich des Zentrums von San José."],
@@ -2923,10 +2923,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Ignacio',
     },
     description: {
-      en: 'The main town of the rural Acosta canton, located in the mountains southwest of the Central Valley.',
-      de: 'Die Hauptstadt des ländlichen Kantons Acosta in den Bergen südwestlich des Zentraltals.',
-      hu: 'Acosta vidéki kanton fővárosa, a Központi-völgytől délnyugatra fekvő hegyekben.',
-      ro: 'Orașul principal al cantonului rural Acosta, situat în munții de la sud-vest de Valea Centrală.',
+      en: "A mountain town in the southern region of San Jose, known for its peaceful environment and traditional coffee and fruit agriculture.",
+      de: "San Ignacio ist das Zentrum von Acosta, einer bergigen Region, die für ihre landschaftliche Schönheit und landwirtschaftliche Produktion bekannt ist.",
+      hu: "San Ignacio de Acosta a hegyvidéki Acosta kanton központja. A terület hagyományos kávé- és zöldségtermeléséről, valamint a természeti látnivalóiról ismert.",
+      ro: "Centru administrativ al cantonului Acosta, situat în zona montană.",
     },
     descriptionAdvanced: {
       de: "San Ignacio ist das malerische Herz des ländlichen Kantons Acosta, der sich in den zerklüfteten Bergen südwestlich von San José erstreckt. Diese Stadt bietet eine authentische Reise in das traditionelle Costa Rica, weit weg von den üblichen Touristenpfaden. Die Landschaft ist geprägt von extrem steilen Hängen, dichten Wäldern und zahllosen kleinen Kaffeeplantagen, die sich an die Berge klammern. San Ignacio ist bekannt für seine herzlichen Bewohner und seine tief verwurzelte bäuerliche Kultur. Besucher kommen hierher, um die spektakuläre Aussicht zu genießen, in den lokalen Sodas traditionelle Gerichte zu probieren und die kühle, saubere Bergluft zu atmen. Die Stadt dient als wichtigster Handelsplatz für die umliegenden Bergdörfer und bewahrt ein Lebensgefühl, das an vergangene Jahrzehnte erinnert. Sachkunde K4",
@@ -2935,10 +2935,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Ignacio is the main town of rural Acosta, set in the mountains southwest of the Central Valley where coffee, small farms, and winding roads shape everyday life. The town feels distinctly inland and highland, far from the dense capital districts, and that distance gives it a stronger rural identity. As the canton centre, it concentrates services for a wide surrounding area and shows how mountain communities organise commerce and administration in Costa Rica. In Plizio Geography K5, it is a useful example of a highland service town."
     },
     facts: {
-      en: ['Known for its agricultural production, especially coffee', 'Offers a glimpse into traditional rural Costa Rican life', 'Surrounded by steep terrain and forests'],
-      de: ['Bekannt für seine landwirtschaftliche Produktion, insbesondere Kaffee', 'Bietet einen Einblick in das traditionelle ländliche Leben Costa Ricas', 'Umgeben von steilem Gelände und Wäldern'],
-      hu: ['Mezőgazdasági termeléséről, különösen a kávéról ismert', 'Bebiztosítást nyújt a hagyományos vidéki Costa Rica-i életbe', 'Meredek terep és erdők veszik körül'],
-      ro: ['Cunoscut pentru producția sa agricolă, în special cafea', 'Oferă o privire asupra vieții rurale tradiționale din Costa Rica', 'Înconjurat de teren abrupt și păduri'],
+      en: ["Southern mountain town", "Peaceful environment", "Coffee agriculture", "Fruit farming"],
+      de: ["Zentrum von Acosta", "Bergregion", "Landschaftliche Schönheit"],
+      hu: ["Acosta kanton központja", "Hegyvidéki terület", "Kávétermesztés", "Zöldségtermelés"],
+      ro: ["Zonă montană", "Situat în San José", "Climat răcoros", "Tradiții rurale"],
     },
     factsAdvanced: {
       de: ["San Ignacio liegt auf einer Höhe von 1.095 Metern in einem Gebirgskessel.", "Der Kanton Acosta ist bekannt für seine extrem steile Topografie mit Steigungen von über 30%.", "Die Region ist ein bedeutender Produzent von hochwertigem Arabica-Kaffee.", "San Ignacio liegt etwa 30 Kilometer südlich der Hauptstadt San José.", "Jedes Jahr im Januar findet in Acosta ein berühmtes Folklore-Festival statt.", "Die Straßenverbindungen nach San Ignacio sind kurvenreich und bieten atemberaubende Panoramen.", "Der Kanton Acosta wurde 1910 gegründet und nach dem ehemaligen Präsidenten Tomás Acosta benannt."],
@@ -2964,10 +2964,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'San Marcos',
     },
     description: {
-      en: 'The heart of the world-famous Tarrazú coffee region, nestled in a high-altitude mountain valley.',
-      de: 'Das Herz der weltberühmten Kaffeeregion Tarrazú, eingebettet in ein Hochgebirgstal.',
-      hu: 'A világhírű Tarrazú kávérégió szíve, egy magaslati hegyi völgyben fészkel.',
-      ro: 'Inima regiunii de cafea Tarrazú, de renume mondial, amplasată într-o vale montană de mare altitudine.',
+      en: "The center of the world-renowned Tarrazu coffee region, famous for its high-altitude, high-quality coffee production.",
+      de: "San Marcos de Tarrazú liegt in einer der besten Kaffeeanbauregionen der Welt, berühmt für die Qualität seines Hochlandkaffees.",
+      hu: "San Marcos de Tarrazú a Costa Rica-i kávétermesztés egyik legnevesebb központja, híres a kiváló minőségű arabica kávéjáról.",
+      ro: "Oraș cunoscut pentru cafeaua sa de înaltă calitate, în zona Los Santos.",
     },
     descriptionAdvanced: {
       de: "San Marcos de Tarrazú ist die unbestrittene Hauptstadt des Kaffees in Costa Rica. Gelegen in einem tiefen Gebirgstal der \\\"Zone der Heiligen\\\" (Zona de los Santos), produziert diese Region einige der weltweit am höchsten bewerteten Spezialitätenkaffees. Das Stadtbild ist in der Erntezeit von einer emsigen Betriebsamkeit geprägt, wenn Lastwagen vollgepackt mit roten Kaffeekirschen zu den Mühlen (Beneficios) fahren. Die steilen Hänge rund um San Marcos sind lückenlos mit Kaffeesträuchern bedeckt, was der Landschaft ein einzigartiges, grünes Muster verleiht. Abgesehen vom Kaffee ist San Marcos ein ruhiger Ort mit einer starken religiösen Tradition und einer beeindruckenden neugotischen Kirche. Für Kaffeeliebhaber ist ein Besuch in San Marcos eine Pilgerreise zu den Ursprüngen des feinsten Aromas des Landes. Sachkunde K4",
@@ -2976,10 +2976,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "San Marcos is the core town of the Tarraz? coffee region, and its identity is tied almost entirely to high-altitude coffee production. The mountain valley setting gives the town cool air, steep slopes, and a strong agricultural rhythm, while the wider area produces some of Costa Rica's most respected beans. That connection between altitude and quality is easy to see here, making the town a natural reference point for specialty coffee geography. In Plizio Geography K5, it is a textbook example of premium mountain agriculture."
     },
     facts: {
-      en: ['Produces some of the world\\\\\\\'s finest single-origin coffee', 'Surrounded by steep slopes covered in coffee plants', 'Known as the "Zona de los Santos" (Zone of the Saints)'],
-      de: ['Produziert einige der besten sortenreinen Kaffees der Welt', 'Umgeben von steilen, mit Kaffeepflanzen bewachsenen Hängen', 'Bekannt als die "Zona de los Santos" (Zone der Heiligen)'],
-      hu: ['A világ legjobb egyedi eredetű kávéinak egy részét termeli', 'Meredek, kávénövényekkel borított lejtők veszik körül', 'A "Zona de los Santos" (Szentek Zónája) néven ismert'],
-      ro: ['Produce unele dintre cele mai bune cafele de origine unică din lume', 'Înconjurat de pante abrupte acoperite cu plante de cafea', 'Cunoscut ca "Zona de los Santos" (Zona Sfinților)'],
+      en: ["Tarrazu coffee hub", "High-altitude coffee", "Quality focus", "Agriculture center"],
+      de: ["Kaffeeanbau-Region", "Weltklasse-Kaffee", "Hochlandklima"],
+      hu: ["Tarrazú régió", "Kávétermesztés központja", "Arabica kávé", "Hegyvidéki régió"],
+      ro: ["Producție de cafea", "Situat în San José", "Climat montan", "Regiune agricolă"],
     },
     factsAdvanced: {
       de: ["San Marcos liegt auf einer Höhe von 1.429 Metern über dem Meeresspiegel.", "Kaffee aus Tarrazú wurde bereits mehrfach bei internationalen Wettbewerben (Cup of Excellence) als bester Kaffee der Welt ausgezeichnet.", "In der Hochsaison verdoppelt sich die Bevölkerung durch Kaffeepflücker aus Panama und Nicaragua.", "Die Durchschnittstemperatur liegt bei kühlen 19 Grad Celsius.", "San Marcos liegt ca. 70 Kilometer südlich von San José in den Talamanca-Bergen.", "Die Region ist berühmt für die Kooperative 'CoopeTarrazú', die über 3.000 lokale Bauern vereint.", "Der Name 'Tarrazú' leitet sich von einer indigenen Bezeichnung für ein lokales Gebüsch ab."],
@@ -3005,10 +3005,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       ro: 'Santa María',
     },
     description: {
-      en: 'Another key town in the "Zone of the Saints," renowned for its high-quality coffee and apple orchards.',
-      de: 'Eine weitere wichtige Stadt in der "Zone der Heiligen", bekannt für ihren hochwertigen Kaffee und ihre Apfelplantagen.',
-      hu: 'A "Szentek Zónájának" másik kulcsfontosságú városa, amely kiváló minőségű kávéjáról és almaültetvényeiről híres.',
-      ro: 'Un alt oraș cheie din "Zona Sfinților", renumit pentru cafeaua sa de înaltă calitate și livezile de meri.',
+      en: "A high-altitude town famous for its exceptional coffee and its role as a gateway to the Cerro de la Muerte mountain pass.",
+      de: "Santa María de Dota liegt in einem Hochtal und ist berühmt für die Produktion von exzellentem Spezialitätenkaffee.",
+      hu: "Santa María de Dota a hűvös, hegyvidéki Tarrazú-régió része, világszerte ismert a különlegesen magas minőségű kávéültetvényeiről.",
+      ro: "Localitate în zona Los Santos, renumită pentru cafeaua de specialitate.",
     },
     descriptionAdvanced: {
       de: "Santa María de Dota ist ein verstecktes Juwel in den Hochlandtälern der Provinz San José. Als Teil der berühmten Kaffeezone Tarrazú ist Dota bekannt für seine außergewöhnlichen Bohnen, die regelmäßig Rekordpreise erzielen. Doch Dota bietet mehr als nur Kaffee: Das Tal ist berühmt für seine Apfel- und Pfirsichplantagen, was es von anderen Regionen des Landes abhebt. Die Stadt selbst ist friedlich und von einer tiefen Stille umgeben, die nur durch das Zwitschern der Vögel unterbrochen wird. Santa María ist zudem das Tor zum Nationalpark Los Quetzales, wo man den göttlichen Göttervogel der Maya in den Nebelwäldern beobachten kann. Die kühle Bergluft und die herzliche Atmosphäre machen Santa María zu einem idealen Ziel für Naturfotografen und Ruhesuchende. Sachkunde K4",
@@ -3017,10 +3017,10 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
       en: "Santa Mar?a de Dota belongs to the famous Zona de los Santos, where cool highland valleys support coffee, apples, and bird-rich forests. The town has a quieter profile than the main tourist centres, but it stands out because agriculture and landscape are so closely linked here. Coffee is the main reputation, yet the broader mountain environment makes it a strong place for quetzal watching and rural travel as well. In Plizio Geography K5, it is a clear example of highland diversification beyond a single crop."
     },
     facts: {
-      en: ['Part of the Tarrazú coffee region', 'Gateway to the Los Quetzales National Park', 'Hosts an annual national apple festival'],
-      de: ['Teil der Kaffeeregion Tarrazú', 'Tor zum Nationalpark Los Quetzales', 'Veranstaltet ein jährliches nationales Apfelfest'],
-      hu: ['A Tarrazú kávérégió része', 'A Los Quetzales Nemzeti Park kapuja', 'Évente megrendezésre kerülő nemzeti almafesztiválnak ad otthont'],
-      ro: ['Parte a regiunii de cafea Tarrazú', 'Poarta de acces către Parcul Național Los Quetzales', 'Găzduiește un festival național anual al merelor'],
+      en: ["High-altitude town", "Exceptional coffee", "Gateway to Cerro de la Muerte", "Mountain region"],
+      de: ["Hochtal-Lage", "Spezialitätenkaffee", "Region Dota"],
+      hu: ["Tarrazú régió", "Hegyvidéki klíma", "Kávétermesztés", "Magas minőség"],
+      ro: ["Regiune producătoare de cafea", "Situat în San José", "Climat montan", "Peisaj natural"],
     },
     factsAdvanced: {
       de: ["Santa María de Dota liegt auf einer Höhe von 1.548 Metern über dem Meeresspiegel.", "Die Region Dota produziert über 90% der gesamten Apfelernte Costa Ricas.", "Der Nationalpark Los Quetzales liegt nur ca. 15 Fahrminuten vom Stadtzentrum entfernt.", "In Santa María befindet sich die älteste Kaffeekooperative des Landes, die CoopeDota.", "Die Temperaturen können in den klaren Nächten der Trockenzeit auf unter 8 Grad Celsius sinken.", "Dota ist eines der weltweit besten Gebiete zur Beobachtung des seltenen Quetzal-Vogels.", "Die Stadt liegt ca. 80 Kilometer südlich der Hauptstadt San José."],
