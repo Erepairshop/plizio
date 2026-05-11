@@ -416,13 +416,13 @@ export const poiExtraYemenCitiesV2: POI[] = [
     coords: [52.1760, 16.2079],
     name: { de: "Al Ghaydah", hu: "Al-Gajda", ro: "Al Ghaydah", en: "Al Ghaydah" },
     description: {
-      de: "Al Ghaydah ist die östlichste Provinzhauptstadt des Jemen und liegt in der Region Mahra nahe der Grenze zum Oman. Die Bewohner sprechen eine eigene semitische Sprache, das Mehri.",
+      de: "Al-Ghaydah ist eine Küstenstadt im Osten des Jemen und die Hauptstadt des Gouvernements Al-Mahrah. Sie ist bekannt für ihre strategische Lage am Arabischen Meer.",
       hu: "Al-Gajda Jemen legkeletibb tartományi fővárosa, a Mahra régióban, az ománi határ közelében fekszik. A helyiek egy különleges sémi nyelvet, a mehrit beszélik.",
       ro: "Al Ghaydah este cea mai estică capitală de provincie din Yemen, situată în regiunea Mahra, la granița cu Oman. Locuitorii de aici vorbesc o limbă semitică distinctă, Mehri.",
       en: "Al Ghaydah is the easternmost provincial capital of Yemen, located in the Mahra region near the Oman border. The local inhabitants speak a distinct Semitic language called Mehri."
     },
     facts: {
-      de: ["Östlichste Provinzhauptstadt.", "Region Mahra.", "Lokale Sprache ist Mehri.", "Nahe der Grenze zum Oman."],
+      de: ["Liegt an der Küste des Arabischen Meeres.", "Hauptstadt des Gouvernements Al-Mahrah.", "Wichtiger Hafen für die Region."],
       hu: ["A legkeletibb tartományi főváros.", "Mahra régió központja.", "A helyi nyelv a mehri.", "Az ománi határ közelében fekszik."],
       ro: ["Cea mai estică capitală de provincie.", "Regiunea Mahra.", "Limba locală este Mehri.", "Aproape de granița cu Oman."],
       en: ["Easternmost provincial capital.", "Mahra region center.", "Local language is Mehri.", "Near the Oman border."]
@@ -635,13 +635,13 @@ export const poiExtraYemenCitiesV2: POI[] = [
       de: "Ash Shihr ist eine alte Hafenstadt am Arabischen Meer, die früher ein Zentrum des Weihrauchhandels war. Die historische Stadtmauer und die alten Festungen zeugen von einer glorreichen Vergangenheit.",
       hu: "As-Sihr egy ősi kikötőváros az Arab-tenger partján, amely egykor a tömjénkereskedelem központja volt. A történelmi városfal és az ősi erődök a dicsőséges múltról tanúskodnak.",
       ro: "Ash Shihr este un vechi oraș portuar la Marea Arabiei, care în trecut a fost un centru al comerțului cu tămâie. Zidul istoric al orașului și fortărețele vechi mărturisesc un trecut glorios.",
-      en: "Ash Shihr is an ancient port city on the Arabian Sea, which used to be a center of the frankincense trade. The historic city wall and old forts bear witness to a glorious past."
+      en: "Ash Shihr is a historic coastal town in Hadhramaut, Yemen, known for its traditional architecture. It served as a significant port for trade in the Indian Ocean."
     },
     facts: {
       de: ["Alte Hafenstadt.", "Ehemaliges Weihrauchzentrum.", "Historische Stadtmauern.", "Am Arabischen Meer."],
       hu: ["Régi kikötőváros.", "Egykori tömjénközpont.", "Történelmi városfalak.", "Az Arab-tenger partján."],
       ro: ["Vechi oraș portuar.", "Fost centru al tămâiei.", "Ziduri istorice ale orașului.", "La Marea Arabiei."],
-      en: ["Old port city.", "Former frankincense center.", "Historical city walls.", "On the Arabian Sea."]
+      en: ["Historic coastal town", "Located in Hadhramaut", "Important trade port", "Traditional architecture"]
     },
     descriptionAdvanced: {
       de: "Ash Shihr ist eine der ältesten Hafenstädte am Arabischen Meer und liegt rund 50 Kilometer östlich von Mukalla. Schon im 10. Jahrhundert wurde die Stadt von arabischen Geographen wie al-Hamdani und al-Idrisi als bedeutendes Zentrum des Indischen Ozean-Handels beschrieben. Über Ash Shihr wurden Weihrauch, Drachenblut von Sokotra, getrockneter Fisch, Pferde aus dem Hadramaut sowie indische Gewürze und chinesisches Porzellan gehandelt. In der Mamlukenzeit entwickelte sich die Stadt zu einem regen Hafen, der enge Beziehungen mit Aden, Hormus und Kalikut pflegte. Aus der historischen Glanzzeit sind Reste der Stadtmauer, mehrere alte Moscheen aus dem 14. bis 16. Jahrhundert sowie traditionelle Steinhäuser am Hafen erhalten. Ash Shihr wurde später durch Aden und Mukalla im Welthandel überholt, behielt aber seine Bedeutung als Fischereihafen. Heute leben die Bewohner überwiegend von Hochseefischerei mit traditionellen Sambuken sowie kleinhandwerklicher Schiffsreparatur, ergänzt durch lokale Industrie und Handelsbetriebe in der Region.",

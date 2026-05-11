@@ -151,12 +151,12 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-HD",
     coords: [48.8000, 15.5000],
     name: { de: "Hadramaut-Plateau", hu: "Hadramaut-fennsík", ro: "Platoul Hadhramaut", en: "Hadhramaut Plateau" },
-    description: { de: "Eine weitläufige, felsige Hochebene, die von einem Netzwerk tiefer Wadis durchschnitten wird.", hu: "Egy kiterjedt, sziklás fennsík, amelyet mély vádik hálózata szabdal át.", ro: "Un platou stâncos extins, intersectat de o rețea de wadi-uri adânci.", en: "An expansive, rocky plateau intersected by a network of deep wadis." },
+    description: { de: "Eine weitläufige, felsige Hochebene, die von einem Netzwerk tiefer Wadis durchschnitten wird.", hu: "Egy kiterjedt, sziklás fennsík, amelyet mély vádik hálózata szabdal át.", ro: "Un platou stâncos extins, intersectat de o rețea de wadi-uri adânci.", en: "The Hadhramaut Plateau is a vast and arid elevated region in Yemen, characterized by deep wadis and sparse vegetation. It is a defining geological feature of the Hadhramaut Governorate." },
     facts: {
       de: ["Felsige Hochebene.", "Durchschnitten von tiefen Flusstälern."],
       hu: ["Sziklás fennsík.", "Mély folyóvölgyek szabdalják."],
       ro: ["Platou stâncos.", "Intersectat de văi adânci de râuri."],
-      en: ["Rocky plateau.", "Intersected by deep river valleys."]
+      en: ["Arid elevated region", "Deep wadi systems", "Sparse vegetation", "In Hadhramaut Governorate"]
     }, image: "/poi-images/hadhramaut-plateau-relief-v2.webp"},
   {
     id: "jabal-bura-relief-v2",
@@ -231,12 +231,12 @@ export const poiExtraYemenReliefV2: POI[] = [
     parent: "YE-MR",
     coords: [51.5000, 16.5000],
     name: { de: "Mahra-Plateau", hu: "Mahra-fennsík", ro: "Platoul Mahra", en: "Mahra Plateau" },
-    description: { de: "Eine abgelegene, trockene Hochebene im äußersten Osten des Jemen nahe der Grenze zum Oman.", hu: "Egy távoli, száraz fennsík Jemen legkeletibb részén, az ománi határ közelében.", ro: "Un platou arid și izolat în extremul estic al Yemenului, lângă granița cu Oman.", en: "A remote, arid plateau in the far east of Yemen near the border with Oman." },
+    description: { de: "Eine abgelegene, trockene Hochebene im äußersten Osten des Jemen nahe der Grenze zum Oman.", hu: "Egy távoli, száraz fennsík Jemen legkeletibb részén, az ománi határ közelében.", ro: "Un platou arid și izolat în extremul estic al Yemenului, lângă granița cu Oman.", en: "The Mahra Plateau is a rugged and remote elevated area in eastern Yemen, extending into Oman. It is known for its unique flora and challenging terrain." },
     facts: {
       de: ["Sehr trockenes Klima.", "Grenzt an den Oman."],
       hu: ["Nagyon száraz éghajlat.", "Ománnal határos."],
       ro: ["Climat foarte uscat.", "Se învecinează cu Oman."],
-      en: ["Very dry climate.", "Borders Oman."]
+      en: ["Rugged eastern Yemen", "Extends into Oman", "Unique flora", "Challenging terrain"]
     }
   },
   {

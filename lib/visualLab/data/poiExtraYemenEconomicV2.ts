@@ -33,12 +33,12 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HD",
     coords: [49.15, 14.53],
     name: { de: "Hafen von Mukalla", hu: "Mukalla kikötője", ro: "Portul Mukalla", en: "Port of Mukalla" },
-    description: { de: "Ein bedeutender Seehafen in der Region Hadramaut, der dem Fischfang und dem regionalen Handel dient.", hu: "Jelentős tengeri kikötő a Hadramaut régióban, amely a halászatot és a regionális kereskedelmet szolgálja.", ro: "Un port maritim major în regiunea Hadhramaut, deservind pescuitul și comerțul regional.", en: "A major seaport in the Hadhramaut region, serving fishing and regional trade." },
+    description: { de: "Ein bedeutender Seehafen in der Region Hadramaut, der dem Fischfang und dem regionalen Handel dient.", hu: "Jelentős tengeri kikötő a Hadramaut régióban, amely a halászatot és a regionális kereskedelmet szolgálja.", ro: "Un port maritim major în regiunea Hadhramaut, deservind pescuitul și comerțul regional.", en: "Mukalla Port is a major maritime gateway in Yemen, situated on the Arabian Sea. It plays a crucial role in regional trade and imports." },
     facts: {
       de: ["Zentrum für Fischerei", "Wichtig für Hadramaut"],
       hu: ["Halászati központ", "Fontos Hadramaut számára"],
       ro: ["Centru de pescuit", "Important pentru Hadhramaut"],
-      en: ["Fishing hub", "Important for Hadhramaut"]
+      en: ["Major Yemeni port", "On the Arabian Sea", "Key for regional trade", "Handles imports"]
     }, image: "/poi-images/mukalla-port-economic-v2.webp"},
   {
     id: "balhaf-lng-terminal-economic-v2",
@@ -245,12 +245,11 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-AD",
     coords: [44.93, 12.83],
     name: { de: "Kraftwerk Hiswa", hu: "Hiszva erőmű", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station" },
-    description: { de: "Eines der größten Wärmekraftwerke im Süd-Jemen, das die Stadt Aden mit Strom versorgt.", hu: "Dél-Jemen egyik legnagyobb hőerőműve, amely Áden városát látja el árammal.", ro: "Una dintre cele mai mari centrale termice din sudul Yemenului, furnizând energie orașului Aden.", en: "One of the largest thermal power stations in South Yemen, supplying electricity to the city of Aden." },
+    description: { de: "Das Hiswa-Kraftwerk ist eine wichtige Energieanlage in der Nähe von Aden im Jemen. Es spielt eine zentrale Rolle bei der Stromversorgung der südlichen Regionen des Landes.", hu: "Hiszva erőmű", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station" },
     facts: {
-      de: ["Versorgt Aden mit Strom", "Wärmekraftwerk"],
+      de: ["Befindet sich nahe der Stadt Aden.", "Wesentliche Quelle der Stromversorgung.", "Trägt zur Energieinfrastruktur des Jemen bei."],
       hu: ["Ádent látja el árammal", "Hőerőmű"],
       ro: ["Furnizează energie pentru Aden", "Centrală termică"],
-      en: ["Supplies power to Aden", "Thermal power plant"]
     }, image: "/poi-images/hiswa-power-station-economic-v2.webp"},
   {
     id: "marib-gas-power-plant-economic-v2",

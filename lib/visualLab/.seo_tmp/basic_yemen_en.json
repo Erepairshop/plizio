@@ -1,0 +1,37 @@
+{
+  "lang": "en",
+  "country": "Yemen",
+  "files": [
+    "lib/visualLab/data/poiExtraYemenCitiesV2.ts",
+    "lib/visualLab/data/poiExtraYemenEconomicV2.ts",
+    "lib/visualLab/data/poiExtraYemenLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraYemenReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ash-shihr-cities-v2",
+      "description": "Ash Shihr is a historic coastal town in Hadhramaut, Yemen, known for its traditional architecture. It served as a significant port for trade in the Indian Ocean.",
+      "facts": ["Historic coastal town", "Located in Hadhramaut", "Important trade port", "Traditional architecture"]
+    },
+    {
+      "id": "mukalla-port-economic-v2",
+      "description": "Mukalla Port is a major maritime gateway in Yemen, situated on the Arabian Sea. It plays a crucial role in regional trade and imports.",
+      "facts": ["Major Yemeni port", "On the Arabian Sea", "Key for regional trade", "Handles imports"]
+    },
+    {
+      "id": "al-saleh-mosque-landmarks-v2",
+      "description": "The Al Saleh Mosque is the largest mosque in Yemen, located in the capital city of Sana'a. It features a blend of Yemeni and Islamic architectural styles.",
+      "facts": ["Largest mosque in Yemen", "Located in Sana'a", "Blend of Islamic and Yemeni architecture", "Modern construction"]
+    },
+    {
+      "id": "hadhramaut-plateau-relief-v2",
+      "description": "The Hadhramaut Plateau is a vast and arid elevated region in Yemen, characterized by deep wadis and sparse vegetation. It is a defining geological feature of the Hadhramaut Governorate.",
+      "facts": ["Arid elevated region", "Deep wadi systems", "Sparse vegetation", "In Hadhramaut Governorate"]
+    },
+    {
+      "id": "mahra-plateau-relief-v2",
+      "description": "The Mahra Plateau is a rugged and remote elevated area in eastern Yemen, extending into Oman. It is known for its unique flora and challenging terrain.",
+      "facts": ["Rugged eastern Yemen", "Extends into Oman", "Unique flora", "Challenging terrain"]
+    }
+  ]
+}

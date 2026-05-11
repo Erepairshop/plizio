@@ -47,13 +47,13 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       de: "Die Al-Saleh-Moschee ist die größte moderne Moschee des Jemen, eröffnet im Jahr 2008 in Sanaa. Sie verbindet jemenitische Architektur mit modernen Bautechniken und fasst bis zu 44.000 Gläubige.",
       hu: "Az Al-Száleh mecset Jemen legnagyobb modern mecsetje, amelyet 2008-ban nyitottak meg Szanaában. A jemeni építészetet modern építési technikákkal ötvözi, és akár 44 000 hívő befogadására is alkalmas.",
       ro: "Moscheea Al-Saleh este cea mai mare moschee modernă din Yemen, deschisă în 2008 în Sana'a. Combină arhitectura yemenită cu tehnicile moderne de construcție și poate găzdui până la 44.000 de credincioși.",
-      en: "The Al Saleh Mosque is the largest modern mosque in Yemen, opened in 2008 in Sanaa. It blends Yemeni architecture with modern construction techniques and accommodates up to 44,000 worshippers."
+      en: "The Al Saleh Mosque is the largest mosque in Yemen, located in the capital city of Sana'a. It features a blend of Yemeni and Islamic architectural styles."
     },
     facts: {
       de: ["Jemens größte Moschee", "Bietet Platz für 44.000 Menschen", "Eröffnet im Jahr 2008"],
       hu: ["Jemen legnagyobb mecsetje", "44 000 ember befogadására alkalmas", "2008-ban nyitották meg"],
       ro: ["Cea mai mare moschee din Yemen", "Poate găzdui 44.000 de persoane", "Inaugurată în anul 2008"],
-      en: ["Yemen's largest mosque", "Accommodates 44,000 people", "Opened in 2008"]
+      en: ["Largest mosque in Yemen", "Located in Sana'a", "Blend of Islamic and Yemeni architecture", "Modern construction"]
     }, image: "/poi-images/al-saleh-mosque-landmarks-v2.webp"},
   {
     id: "great-mosque-of-sanaa-landmarks-v2",
