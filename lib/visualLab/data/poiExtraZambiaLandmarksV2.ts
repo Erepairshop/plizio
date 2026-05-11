@@ -69,13 +69,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     description: {
       de: "Ein traditionsreiches Fußballstadion in Kitwe, das die Heimat des Nkana FC ist.",
       hu: "Nagy múltú labdarúgó-stadion Kitwében, amely az Nkana FC otthona.",
-      ro: "Un stadion de fotbal cu tradiție din Kitwe, care este casa clubului Nkana FC.",
+      ro: "Stadionul Nkana este o arenă sportivă legendară din Kitwe, fiind sediul clubului de fotbal Nkana FC.",
       en: "A traditional football stadium in Kitwe that is the home of Nkana FC."
     },
     facts: {
       de: ["Heimat des Nkana FC", "Erbaut im Herzen des Copperbelt", "Fasst rund 10.000 Zuschauer"],
       hu: ["Az Nkana FC otthona", "A Copperbelt szívében épült", "Körülbelül 10 000 nézőt fogad be"],
-      ro: ["Casa Nkana FC", "Construit în inima Copperbelt", "Găzduiește aproximativ 10.000 de spectatori"],
+      ro: ["Capacitate de circa 10.000 de locuri", "Gazdă a numeroase meciuri internaționale", "Unul dintre cele mai vechi stadioane", "Atmosferă vibrantă la meciurile locale"],
       en: ["Home of Nkana FC", "Built in the heart of the Copperbelt", "Holds about 10,000 spectators"]
     }, image: "/poi-images/nkana-stadium-landmarks-v2.webp"},
   {
@@ -144,13 +144,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       en: "Luangwa Bridge"
     },
     description: {
-      de: "Eine auffällige Hängebrücke auf der Great East Road, die eine tiefe Schlucht des Luangwa-Flusses überspannt.",
+      de: "Die Luangwa-Brücke ist eine strategisch wichtige Hängebrücke, die den Luangwa-Fluss an der Great East Road überspannt.",
       hu: "Feltűnő függőhíd a Great East Roadon, amely a Luangwa folyó mély szurdokát íveli át.",
       ro: "Un pod suspendat impresionant pe Great East Road, care traversează un defileu adânc al râului Luangwa.",
       en: "A striking suspension bridge on the Great East Road that spans a deep gorge of the Luangwa River."
     },
     facts: {
-      de: ["Bedeutende Straßenverbindung nach Malawi", "Spektakuläre Aussicht", "1968 eröffnet"],
+      de: ["Wichtige Verkehrsverbindung nach Osten", "Spektakuläre Hängekonstruktion", "Grenznähe zu Mosambik"],
       hu: ["Jelentős közúti kapcsolat Malawi felé", "Látványos kilátás", "1968-ban nyílt meg"],
       ro: ["Legătură rutieră semnificativă către Malawi", "Vedere spectaculoasă", "Deschis în 1968"],
       en: ["Significant road link to Malawi", "Spectacular view", "Opened in 1968"]
@@ -191,13 +191,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     },
     description: {
       de: "Eines der größten und modernsten Einkaufszentren in Ndola und der gesamten Copperbelt-Provinz.",
-      hu: "Ndola és az egész Copperbelt tartomány egyik legnagyobb és legmodernebb bevásárlóközpontja.",
+      hu: "Ndola egyik legmodernebb bevásárlóközpontja, amely a város kereskedelmi és közösségi életének központja.",
       ro: "Unul dintre cele mai mari și moderne centre comerciale din Ndola și din întreaga Provincie Copperbelt.",
       en: "One of the largest and most modern shopping centers in Ndola and the entire Copperbelt Province."
     },
     facts: {
       de: ["Beliebtes Einkaufsziel", "Zahlreiche internationale Marken", "Im Herzen von Ndola"],
-      hu: ["Népszerű bevásárlási célpont", "Számos nemzetközi márka", "Ndola szívében"],
+      hu: ["Ndolában található", "Modern bevásárlóközpont", "Közösségi találkozóhely"],
       ro: ["Destinație de cumpărături populară", "Numeroase branduri internaționale", "În inima orașului Ndola"],
       en: ["Popular shopping destination", "Numerous international brands", "In the heart of Ndola"]
     }, image: "/poi-images/mukuba-mall-landmarks-v2.webp"},
@@ -213,13 +213,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       en: "Manda Hill Mall"
     },
     description: {
-      de: "Das erste moderne Einkaufszentrum Sambias in Lusaka, das heute eine Vielzahl an Geschäften und Restaurants bietet.",
+      de: "Die Manda Hill Mall in Lusaka war das erste moderne Einkaufszentrum Sambias und ist ein beliebter Treffpunkt.",
       hu: "Zambia első modern bevásárlóközpontja Lusakában, amely ma számos üzletet és éttermet kínál.",
       ro: "Primul centru comercial modern din Zambia, situat în Lusaka, care oferă astăzi o varietate de magazine și restaurante.",
       en: "Zambia's first modern shopping center in Lusaka, today offering a variety of shops and restaurants."
     },
     facts: {
-      de: ["1999 eröffnet", "Umfangreich renoviert", "Pionier des modernen Einzelhandels"],
+      de: ["Größtes Einkaufszentrum in Lusaka", "Zahlreiche internationale Marken", "Zentraler Standort in der Stadt"],
       hu: ["1999-ben nyílt meg", "Átfogóan felújították", "A modern kiskereskedelem úttörője"],
       ro: ["Deschis în 1999", "Renovat pe scară largă", "Pionier al retailului modern"],
       en: ["Opened in 1999", "Extensively renovated", "Pioneer of modern retail"]
@@ -285,15 +285,15 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       en: "University of Zambia"
     },
     description: {
-      de: "Die älteste und größte öffentliche Universität des Landes, mit dem Hauptcampus an der Great East Road in Lusaka.",
+      de: "Die University of Zambia (UNZA) in Lusaka ist die größte und älteste Universität des Landes.",
       hu: "Az ország legrégebbi és legnagyobb állami egyeteme, amelynek fő campusa a Great East Roadon található Lusakában.",
-      ro: "Cea mai veche și mai mare universitate publică din țară, cu campusul principal pe Great East Road în Lusaka.",
+      ro: "Universitatea din Zambia (UNZA) este cea mai mare și mai veche instituție de învățământ superior din țară, situată în Lusaka.",
       en: "The oldest and largest public university in the country, with its main campus on the Great East Road in Lusaka."
     },
     facts: {
-      de: ["1965 gegründet", "Bedeutende Bildungseinrichtung", "Weitläufiger Campus"],
+      de: ["Gegründet im Jahr 1966", "Hauptcampus an der Great East Road", "Führende akademische Institution"],
       hu: ["1965-ben alapították", "Jelentős oktatási intézmény", "Kiterjedt campus"],
-      ro: ["Fondată în 1965", "Instituție de învățământ semnificativă", "Campus extins"],
+      ro: ["Fondată în anul 1965", "Centru academic de elită în regiune", "Campus vast cu arhitectură modernistă", "Formează viitoarea conducere a țării"],
       en: ["Founded in 1965", "Significant educational institution", "Sprawling campus"]
     }, image: "/poi-images/university-of-zambia-landmarks-v2.webp",
     descriptionAdvanced: {
@@ -338,14 +338,14 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       en: "Kariba Dam Wall"
     },
     description: {
-      de: "Eine kolossale doppelt gekrümmte Bogenstaumauer am Sambesi-Fluss, die den massiven Kariba-Stausee bildet.",
-      hu: "Kolosszális, kétszeresen görbült ívgát a Zambézi folyón, amely a hatalmas Kariba-tavat hozza létre.",
+      de: "Die Kariba-Talsperre ist eine der größten Talsperren der Welt und staut den Sambesi-Fluss zur Stromerzeugung auf.",
+      hu: "A Kariba-tavat feltartóztató monumentális völgyzárógát, amely a világ egyik legnagyobb mesterséges tavát hozta létre.",
       ro: "Un baraj colosal în arc cu dublă curbură pe râul Zambezi, care formează masivul Lac Kariba.",
       en: "A colossal double-curvature arch dam on the Zambezi River that forms the massive Lake Kariba."
     },
     facts: {
-      de: ["128 Meter hoch", "Erbaut 1959", "Wichtig für Wasserkraft"],
-      hu: ["128 méter magas", "1959-ben épült", "Fontos a vízenergia szempontjából"],
+      de: ["Bogenstaumauer aus Beton", "Versorgt Sambia und Simbabwe mit Strom", "Bildet den Kariba-Stausee"],
+      hu: ["Hatalmas betonépítmény", "Vízerőmű működik itt", "Zambia és Zimbabwe határán"],
       ro: ["128 de metri înălțime", "Construit în 1959", "Important pentru hidroenergie"],
       en: ["128 meters high", "Built in 1959", "Important for hydroelectric power"]
     }, image: "/poi-images/kariba-dam-wall-landmarks-v2.webp",
@@ -391,13 +391,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       en: "The Big Tree National Monument"
     },
     description: {
-      de: "Ein riesiger und uralter Feigenbaum im Zentrum von Kabwe, der historisch als Versammlungsort genutzt wurde.",
+      de: "Der 'Big Tree' ist ein riesiger, jahrhundertealter Baobab-Baum in der Nähe der Victoriafälle.",
       hu: "Egy hatalmas és ősi fügefa Kabwe központjában, amelyet történelmileg gyülekezési helyként használtak.",
       ro: "Un smochin uriaș și străvechi în centrul orașului Kabwe, folosit istoric ca loc de adunare.",
       en: "A huge and ancient fig tree in the center of Kabwe, historically used as a gathering place."
     },
     facts: {
-      de: ["Naturdenkmal", "Wahrzeichen von Kabwe", "Schatten für frühe Reisende"],
+      de: ["Eindrucksvolles Naturdenkmal", "Hunderte von Jahren alt", "Beliebtes Fotomotiv bei Livingstone"],
       hu: ["Természeti emlékmű", "Kabwe nevezetessége", "Árnyékot adott a korai utazóknak"],
       ro: ["Monument al naturii", "Reper al orașului Kabwe", "Umbră pentru primii călători"],
       en: ["Natural monument", "Landmark of Kabwe", "Provided shade for early travelers"]
@@ -546,13 +546,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     description: {
       de: "Eine der größten Institutionen für technische und berufliche Ausbildung in Sambia mit einem markanten Campus im Zentrum von Lusaka.",
       hu: "Zambia egyik legnagyobb műszaki és szakképző intézménye, amelynek jellegzetes campusa Lusaka központjában van.",
-      ro: "Una dintre cele mai mari instituții de educație tehnică și profesională din Zambia, cu un campus proeminent în centrul orașului Lusaka.",
+      ro: "Colegiul Evelyn Hone este o instituție de prestigiu din Lusaka, specializată în arte aplicate, comerț și studii tehnice.",
       en: "One of the largest institutions for technical and vocational training in Zambia with a prominent campus in central Lusaka."
     },
     facts: {
       de: ["Benannt nach einem britischen Gouverneur", "Gründung im Jahr 1963", "Zentrale Bildungseinrichtung"],
       hu: ["Egy brit kormányzóról nevezték el", "1963-ban alapították", "Központi oktatási intézmény"],
-      ro: ["Numit după un guvernator britanic", "Fondat în 1963", "Instituție educațională centrală"],
+      ro: ["Cel mai mare colegiu vocațional", "Gamă largă de programe de formare", "Situat în zona centrală a capitalei", "Pilon al educației profesionale"],
       en: ["Named after a British governor", "Founded in 1963", "Central educational institution"]
     }, image: "/poi-images/evelyn-hone-college-landmarks-v2.webp"},
   {
@@ -637,13 +637,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       en: "Zambezi River Authority Building"
     },
     description: {
-      de: "Der Hauptsitz der Organisation, die die Gewässer des Sambesi zwischen Sambia und Simbabwe verwaltet.",
+      de: "Dieses Verwaltungsgebäude in Lusaka ist der Sitz der Organisation, die die Wasserressourcen des Sambesi-Flusses verwaltet.",
       hu: "A szervezet központja, amely a Zambézi vizét kezeli Zambia és Zimbabwe között.",
       ro: "Sediul organizației care gestionează apele râului Zambezi între Zambia și Zimbabwe.",
       en: "The headquarters of the organization that manages the waters of the Zambezi between Zambia and Zimbabwe."
     },
     facts: {
-      de: ["Verwaltet den Kariba-Staudamm", "Zentrale Koordination", "Sitz in Lusaka"],
+      de: ["Sitz der binationalen Behörde", "Wichtig für das Kariba-Wasserkraftwerk", "Zentrales Gebäude in Lusaka"],
       hu: ["Kezeli a Kariba-gátat", "Központi koordináció", "Lusakában van a székhelye"],
       ro: ["Gestionează barajul Kariba", "Coordonare centrală", "Cu sediul în Lusaka"],
       en: ["Manages the Kariba Dam", "Central coordination", "Headquartered in Lusaka"]
@@ -686,13 +686,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     description: {
       de: "Das führende Theaterhaus in der Hauptstadt, in dem viele nationale Theater- und Kunstproduktionen stattfinden.",
       hu: "A főváros vezető színháza, amely számos nemzeti színházi és művészeti produkciónak ad otthont.",
-      ro: "Principalul teatru din capitală, unde au loc multe producții naționale de teatru și artă.",
+      ro: "Lusaka Playhouse este un centru cultural și teatru emblematic, pilon al scenei artistice din capitala Zambiei.",
       en: "The leading theater house in the capital, where many national theater and art productions take place."
     },
     facts: {
       de: ["Historischer Kulturschauplatz", "Fokus auf lokale Kunst", "Zentral gelegen"],
       hu: ["Történelmi kulturális helyszín", "A helyi művészetre fókuszál", "Központilag helyezkedik el"],
-      ro: ["Locație culturală istorică", "Concentrează-te pe arta locală", "Situat central"],
+      ro: ["Găzduiește producții de teatru local", "Centru pentru arte spectacolului", "Clădire cu valoare istorică și culturală", "Loc de întâlnire pentru artiști"],
       en: ["Historic cultural venue", "Focus on local art", "Centrally located"]
     }, image: "/poi-images/lusaka-playhouse-landmarks-v2.webp"},
   {

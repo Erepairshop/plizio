@@ -86,10 +86,10 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HU",
     coords: [42.72, 15.20],
     name: { de: "Ölterminal Ras Isa", hu: "Rász Isza olajterminál", ro: "Terminalul petrolier Ras Isa", en: "Ras Isa Oil Terminal" },
-    description: { de: "Ein bedeutender Offshore-Ölexporthafen am Roten Meer für das Rohöl aus der Marib-Region.", hu: "Jelentős tengeri olajexportáló kikötő a Vörös-tengeren a Márib régióból származó nyersolaj számára.", ro: "Un port offshore major de export de petrol la Marea Roșie pentru țițeiul din regiunea Marib.", en: "A major offshore oil export port on the Red Sea for crude oil from the Marib region." },
+    description: { de: "Ein bedeutender Offshore-Ölexporthafen am Roten Meer für das Rohöl aus der Marib-Region.", hu: "Fontos tengeri kőolaj-exportáló terminál a Vörös-tenger partján, amely a Márib régióból érkező nyersolajat kezeli. Ez a létesítmény kulcsszerepet játszik Jemen energiakivitelében.", ro: "Un port offshore major de export de petrol la Marea Roșie pentru țițeiul din regiunea Marib.", en: "A major offshore oil export port on the Red Sea for crude oil from the Marib region." },
     facts: {
       de: ["Schwimmendes Terminal", "Exportiert Marib-Rohöl"],
-      hu: ["Úszó terminál", "Máribi nyersolajat exportál"],
+      hu: ["Vörös-tengeri olajkikötő", "Máribi nyersolaj exportja", "Úszó tárolóegység (FSO)", "Stratégiai energetikai pont"],
       ro: ["Terminal plutitor", "Exportă țiței din Marib"],
       en: ["Floating terminal", "Exports Marib crude oil"]
     }
@@ -126,10 +126,10 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-HU",
     coords: [42.67, 15.30],
     name: { de: "Hafen von Salif", hu: "Szalif kikötője", ro: "Portul Salif", en: "Port of Salif" },
-    description: { de: "Ein Tiefseehafen nördlich von Al-Hudaida, der für Massengüter und Salzexporte genutzt wird.", hu: "Al-Hudajdától északra fekvő mélyvízi kikötő, amelyet ömlesztett áruk és só exportjára használnak.", ro: "Un port de mare adâncime la nord de Al Hudaydah, utilizat pentru mărfuri în vrac și exportul de sare.", en: "A deep-water port north of Hodeidah, used for bulk cargo and salt exports." },
+    description: { de: "Ein Tiefseehafen nördlich von Al-Hudaida, der für Massengüter und Salzexporte genutzt wird.", hu: "Jelentős mélyvízi kikötő Al-Hudajdától északra, amely alkalmas a legnagyobb teherhajók fogadására is. Elsősorban ömlesztett áruk és bányászott kősó kivitelére specializálódott.", ro: "Un port de mare adâncime la nord de Al Hudaydah, utilizat pentru mărfuri în vrac și exportul de sare.", en: "A deep-water port north of Hodeidah, used for bulk cargo and salt exports." },
     facts: {
       de: ["Natürlicher Tiefseehafen", "Exportiert Steinsalz"],
-      hu: ["Természetes mélyvízi kikötő", "Kősót exportál"],
+      hu: ["Mélyvízi tengeri kikötő", "Fontos gabonaimport-helyszín", "Kősó-export központja", "Természetes védett öböl"],
       ro: ["Port natural de mare adâncime", "Exportă sare gemă"],
       en: ["Natural deep-water port", "Exports rock salt"]
     }, image: "/poi-images/salif-port-economic-v2.webp"},
@@ -245,10 +245,10 @@ export const poiExtraYemenEconomicV2: POI[] = [
     parent: "YE-AD",
     coords: [44.93, 12.83],
     name: { de: "Kraftwerk Hiswa", hu: "Hiszva erőmű", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station" },
-    description: { de: "Das Hiswa-Kraftwerk ist eine wichtige Energieanlage in der Nähe von Aden im Jemen. Es spielt eine zentrale Rolle bei der Stromversorgung der südlichen Regionen des Landes.", hu: "Hiszva erőmű", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station" },
+    description: { de: "Das Hiswa-Kraftwerk ist eine wichtige Energieanlage in der Nähe von Aden im Jemen. Es spielt eine zentrale Rolle bei der Stromversorgung der südlichen Regionen des Landes.", hu: "Áden városának egyik legfontosabb villamosenergia-forrása, amely a déli régiók áramellátásáért felelős. A hőerőmű létfontosságú infrastruktúra a helyi lakosság számára.", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station" },
     facts: {
       de: ["Befindet sich nahe der Stadt Aden.", "Wesentliche Quelle der Stromversorgung.", "Trägt zur Energieinfrastruktur des Jemen bei."],
-      hu: ["Ádent látja el árammal", "Hőerőmű"],
+      hu: ["Ádeni hőerőmű", "Kritikus energetikai egység", "Dél-Jemen áramellátója", "Hőenergiát termelő üzem"],
       ro: ["Furnizează energie pentru Aden", "Centrală termică"],
     }, image: "/poi-images/hiswa-power-station-economic-v2.webp"},
   {

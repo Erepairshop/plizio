@@ -186,11 +186,11 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-06",
     coords: [25.0, -12.0],
     name: { de: "Nordwest-Hochland", hu: "Északnyugati felföld", ro: "Podișul de nord-vest", en: "Northwestern Highlands" },
-    description: { de: "Hügeliges Gelände im Nordwesten Sambias.", hu: "Hilly terület Zambia északnyugati részén.", ro: "Teren deluros în nord-vestul Zambiei.", en: "Hilly terrain in northwestern Zambia." },
+    description: { de: "Hügeliges Gelände im Nordwesten Sambias.", hu: "Hilly terület Zambia északnyugati részén.", ro: "Podișul de Nord-Vest reprezintă o regiune înaltă a Zambiei, caracterizată prin soluri bogate și precipitații abundente.", en: "Hilly terrain in northwestern Zambia." },
     facts: {
       de: ["Wichtiger Wasserspeicher für Flüsse.", "Sehr regenreich."],
       hu: ["Fontos víztároló a folyók számára.", "Nagyon csapadékos."],
-      ro: ["Rezervor de apă important pentru râuri.", "Foarte ploios."],
+      ro: ["Zona cu cea mai mare umiditate", "Relief dominat de platouri ondulate", "Sursă a multor afluenți ai Zambeziului", "Acoperit de păduri dense de tip uscat"],
       en: ["Important water reservoir for rivers.", "Very rainy."]
     }, image: "/poi-images/northwestern-highlands-relief-v2.webp",
     descriptionAdvanced: {
@@ -344,11 +344,11 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-05",
     coords: [31.5, -14.0],
     name: { de: "Luangwa-Steilabfall", hu: "Luangwa-lépcső", ro: "Povârnișul Luangwa", en: "Luangwa Escarpment" },
-    description: { de: "Eine dramatische Abbruchkante zum Luangwa-Tal.", hu: "Drámai perem a Luangwa-völgy felé.", ro: "O margine dramatică spre Valea Luangwa.", en: "A dramatic cliff edge to the Luangwa Valley." },
+    description: { de: "Eine dramatische Abbruchkante zum Luangwa-Tal.", hu: "Drámai perem a Luangwa-völgy felé.", ro: "Escarpamentul Luangwa este o barieră naturală abruptă care delimitează valea râului Luangwa spre vest.", en: "A dramatic cliff edge to the Luangwa Valley." },
     facts: {
       de: ["Großer Höhenunterschied.", "Herausforderndes Gelände."],
       hu: ["Nagy szintkülönbség.", "Kihívást jelentő terep."],
-      ro: ["Diferență mare de nivel.", "Teren dificil."],
+      ro: ["Diferențe mari de nivel", "Peisaje panoramice spectaculoase", "Zonă dificil de traversat rutier", "Vegetație variată pe pantele sale"],
       en: ["Great height difference.", "Challenging terrain."]
     }, image: "/poi-images/luangwa-escarpment-relief-v2.webp",
     descriptionAdvanced: {
@@ -384,10 +384,10 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-08",
     coords: [31.5, -9.5],
     name: { de: "Chola-Hügel", hu: "Chola-dombság", ro: "Dealurile Chola", en: "Chola Hills" },
-    description: { de: "Eine Bergkette im Nordosten.", hu: "Hegylánc északkeleten.", ro: "Un lanț muntos în nord-est.", en: "A mountain range in the northeast." },
+    description: { de: "Eine Bergkette im Nordosten.", hu: "Zambia északkeleti részén húzódó dombvidék, amely változatos domborzati formáival színesíti a fennsíkot.", ro: "Un lanț muntos în nord-est.", en: "A mountain range in the northeast." },
     facts: {
       de: ["Bewaldete Hänge.", "Relativ abgelegen."],
-      hu: ["Erdős lejtők.", "Viszonylag távoli."],
+      hu: ["Dombvidéki táj", "Északkelet-Zambia", "Változatos eróziós formák"],
       ro: ["Versanți împăduriți.", "Relativ izolat."],
       en: ["Forested slopes.", "Relatively remote."]
     }, image: "/poi-images/chola-hills-relief-v2.webp",
@@ -444,11 +444,11 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-06",
     coords: [26.0, -11.0],
     name: { de: "Katanga-Plateau-Ausläufer", hu: "Katanga-fennsík nyúlványa", ro: "Prelungirea Platoului Katanga", en: "Katanga Plateau Extension" },
-    description: { de: "Ein nördlicher Ausläufer des Katanga-Plateaus.", hu: "A Katanga-fennsík északi nyúlványa.", ro: "O prelungire nordică a Platoului Katanga.", en: "A northern extension of the Katanga Plateau." },
+    description: { de: "Ein nördlicher Ausläufer des Katanga-Plateaus.", hu: "A közép-afrikai Katanga-fennsík Zambiába átnyúló része, amely ásványkincsekben rendkívül gazdag terület.", ro: "Extensia Podișului Katanga pătrunde în nordul Zambiei, fiind o regiune celebră pentru bogățiile sale minerale.", en: "A northern extension of the Katanga Plateau." },
     facts: {
       de: ["Reich an Mineralien.", "Hügeliges Gelände."],
-      hu: ["Ásványokban gazdag.", "Hilly terep."],
-      ro: ["Bogată în minerale.", "Teren deluros."],
+      hu: ["Magasföldi domborzat", "Ásványkincsekben gazdag", "Geológiai folytonosság"],
+      ro: ["Geologie bogată în cupru și cobalt", "Relief de platou cu altitudini medii", "Parte a complexului geologic african", "Zonă cu activitate minieră intensă"],
       en: ["Rich in minerals.", "Hilly terrain."]
     }, image: "/poi-images/katanga-plateau-extension-relief-v2.webp",
     descriptionAdvanced: {

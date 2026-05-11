@@ -187,7 +187,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Standort: Manama, auf künstlich aufgeschüttetem Land", "Fertigstellung: 2007", "Architektonisches Merkmal: Zwei 53-stöckige Zwillingstürme (Harbour Towers)", "Höhe der Türme: 260 Meter", "Hauptnutzer: Finanzinstitute, Anwaltskanzleien, Beratungsunternehmen", "Institutionen: Sitz der Bahrain Bourse (Börse)", "Fläche: Über 380.000 Quadratmeter Gesamtfläche", "Zweck: Stärkung der Position Bahrains als regionales Finanzzentrum"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }, image: "/poi-images/bahrain-financial-harbour-economic-v2.webp"},
   {
@@ -235,7 +234,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Gründung: 1977 von der OAPEC (Organisation der arabischen Erdöl exportierenden Länder)", "Standort: Hidd, Bahrain", "Hauptanlage: Trockendock mit 500.000 DWT Kapazität", "Weitere Anlagen: Zwei Schwimmdocks, zwei Slipanlagen", "Dienstleistungen: Schiffsreparatur, Umbauten, Offshore- und Marine-Dienstleistungen", "Mitarbeiter: Über 5.000 Beschäftigte (inkl. Subunternehmer)", "Zertifizierungen: ISO 9001 (Qualität), ISO 14001 (Umwelt), OHSAS 18001 (Sicherheit)", "Bedeutung: Strategisches maritimes Dienstleistungszentrum im Persischen Golf"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }, image: "/poi-images/bahrain-asry-economic-v2.webp"},
   {
@@ -283,7 +281,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Eröffnung: 1962", "Ehemalige Rolle: Haupt-Handelshafen von Bahrain", "Heutige Hauptnutzung: Marinestützpunkt (Bahrain & USA)", "Standort: Manama", "Ersetzt durch: Khalifa Bin Salman Port (2009)", "Verbleibende Funktionen: Spezialfracht, Kreuzfahrtschiff-Terminal (zeitweise)", "Tiefe: Geeignet für Schiffe bis zu 11 Meter Tiefgang", "Historische Bedeutung: Zentraler Motor für Bahrains Nachkriegswirtschaft"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }, image: "/poi-images/bahrain-mina-salman-economic-v2.webp"},
   {
@@ -331,7 +328,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Eröffnung: 2005", "Standort: Hidd, Muharraq Island", "Fläche: 2,5 Millionen Quadratmeter", "Fokus: Exportorientierte Unternehmen", "Vorteile: 100% ausländisches Eigentum, 0% Körperschaftssteuer (garantiert für 10 Jahre)", "Zollstatus: Zollfreier Zugang zu den Märkten des Golf-Kooperationsrates (GCC)", "Infrastruktur: Nähe zu Hafen und Flughafen", "Ansässige Branchen: Kraft Heinz, Siemens, Mondelez, BASF"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }
   },
@@ -380,7 +376,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Typ: Zollfreie Logistikzone", "Standort: Direkt neben dem Khalifa Bin Salman Port", "Gründung: 2008", "Ziel: Positionierung Bahrains als multimodales Logistikzentrum", "Vorteile: Geringe Betriebskosten, 100% ausländisches Eigentum", "Betreiber: Hafen- und Schifffahrtsbehörde des Verkehrsministeriums", "Anbindung: Direkter Zugang zum Hafen, Nähe zum Flughafen und zur saudi-arabischen Autobahn", "Dienstleistungen: Lagerung, Etikettierung, Verpackung, Montage"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }
   },
@@ -429,7 +424,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Typ: Gemischt genutztes Industrie-, Logistik- und Gewerbegebiet", "Standort: Hidd", "Fläche: 1,7 Millionen Quadratmeter", "Entwickler: Ein privates Unternehmen (Tameer)", "Konzept: Integrierte Entwicklung mit Arbeits-, Wohn- und Freizeitmöglichkeiten", "Zielbranchen: Leichtindustrie, Montage, Logistik, Handel", "Status: In Betrieb mit fortlaufender Entwicklung", "Besonderheit: Eines der größten privat geführten Industrieprojekte in Bahrain"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }
   },
@@ -478,7 +472,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Gründung: 1987 (als Bahrain Stock Exchange)", "Standort: Bahrain Financial Harbour, Manama", "Gelistete Instrumente: Aktien, konventionelle Anleihen, Sukuk (islamische Anleihen), Investmentfonds", "Handelsindex: Bahrain All Share Index (BASI)", "Regulierungsbehörde: Central Bank of Bahrain", "Mitgliedschaften: World Federation of Exchanges (WFE), Arab Federation of Exchanges (AFE)", "Digitalisierung: Implementierung des X-Stream Handelssystems von NASDAQ", "Ziel: Entwicklung zum führenden regionalen Marktplatz für Kapitalbeschaffung"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }, image: "/poi-images/bahrain-bourse-economic-v2.webp"},
   {
@@ -620,7 +613,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Standort: Insel Muharraq, Hidd", "Typ: Kraft-Wärme-Kopplung (Strom & Wasser)", "Bauphasen: Phase 1 (1999), Phase 2 (2004), Phase 3 (Wasser, 2007)", "Stromkapazität: ca. 1.000 MW", "Wasserkapazität: ca. 409.000 Kubikmeter/Tag", "Stromtechnologie: Gasturbinen", "Wassertechnologie: Multi-Stage Flash (MSF) Destillation", "Privatisierung: Teil des ersten IWPP-Modells (Independent Water and Power Producer) in Bahrain"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }, image: "/poi-images/bahrain-hidd-power-economic-v2.webp"},
   {
@@ -715,7 +707,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Gründung: 1979", "Eigentümer: Joint Venture von Bahrain, Saudi-Arabien und Kuwait", "Standort: Sitra, Bahrain", "Hauptprodukte: Ammoniak, Methanol, Harnstoff (als Granulat)", "Rohstoff: Erdgas aus Bahrain", "Jahreskapazität: ca. 1,6 Millionen Tonnen Gesamtproduktion", "Export: Produkte werden in Märkte wie die USA, Australien, Indien und China geliefert", "Auszeichnungen: Mehrfacher Gewinner von Sicherheits- und Umweltpreisen (z.B. RoSPA)"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }
   },
@@ -758,7 +749,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: "Die Salman Industrial City ist einer der größten und umfassendsten Industriekomplexe in Bahrain. Sie befindet sich in der Region Hidd und integriert drei wichtige Industrie- und Logistikzonen: den Bahrain International Investment Park (BIIP), die Bahrain Logistics Zone (BLZ) und den Bahrain Investment Wharf (BIW). Diese Integration schafft ein riesiges, synergetisches Ökosystem für Fertigung, Logistik und Handel. Benannt nach Kronprinz Salman bin Hamad Al Khalifa, ist der Komplex ein zentrales Element der 'Bahrain Economic Vision 2030', die darauf abzielt, die Wirtschaft zu diversifizieren und private Investitionen zu fördern. Durch die Bündelung von erstklassiger Infrastruktur, strategischer Lage nahe Hafen und Flughafen sowie vorteilhaften regulatorischen Rahmenbedingungen positioniert die Salman Industrial City Bahrain als führenden Industriestandort in der Golfregion und zieht globale Unternehmen an.",
       hu: "A Salman Ipari Város Bahrein egyik legnagyobb és legátfogóbb ipari komplexuma. Hidd régióban található, és három fontos ipari és logisztikai zónát integrál: a Bahrein Nemzetközi Befektetési Parkot (BIIP), a Bahreini Logisztikai Zónát (BLZ) és a Bahrain Investment Wharfot (BIW). Ez az integráció egy hatalmas, szinergikus ökoszisztémát hoz létre a termelés, a logisztika és a kereskedelem számára. A Salman bin Hamad Al Khalifa koronahercegről elnevezett komplexum a 'Bahrein Gazdasági Jövőkép 2030' központi eleme, amelynek célja a gazdaság diverzifikálása és a magánbefektetések ösztönzése. Az első osztályú infrastruktúra, a kikötő és repülőtér közeli stratégiai elhelyezkedés, valamint a kedvező szabályozási keretek egyesítésével a Salman Ipari Város Bahreint az Öböl-régió vezető ipari helyszínévé teszi, és globális vállalatokat vonz.",
       ro: "Orașul Industrial Salman este unul dintre cele mai mari și mai cuprinzătoare complexe industriale din Bahrain. Situat în regiunea Hidd, acesta integrează trei zone industriale și logistice majore: Bahrain International Investment Park (BIIP), Bahrain Logistics Zone (BLZ) și Bahrain Investment Wharf (BIW). Această integrare creează un ecosistem vast și sinergic pentru producție, logistică și comerț. Numit după Prințul Moștenitor Salman bin Hamad Al Khalifa, complexul este un element central al 'Viziunii Economice a Bahrainului 2030', care urmărește diversificarea economiei și promovarea investițiilor private. Prin combinarea unei infrastructuri de primă clasă, a unei locații strategice aproape de port și aeroport și a unor cadre de reglementare avantajoase, Orașul Industrial Salman poziționează Bahrainul ca o locație industrială de top în regiunea Golfului și atrage companii globale.",
-      en: "",
       en: "Salman Industrial City is one of the largest and most comprehensive industrial complexes in Bahrain. Located in the Hidd region, it integrates three major industrial and logistics zones: the Bahrain International Investment Park (BIIP), the Bahrain Logistics Zone (BLZ), and the Bahrain Investment Wharf (BIW). This integration creates a vast, synergistic ecosystem for manufacturing, logistics, and trade. Named after Crown Prince Salman bin Hamad Al Khalifa, the complex is a central element of the 'Bahrain Economic Vision 2030', which aims to diversify the economy and promote private investment. By combining first-class infrastructure, a strategic location near the port and airport, and advantageous regulatory frameworks, Salman Industrial City positions Bahrain as a leading industrial location in the Gulf region, attracting global companies."
     },
     factsAdvanced: {
@@ -812,7 +802,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Lage: Südlich von Sitra", "Charakter: Organisch gewachsenes Industriegebiet", "Fokus: Kleine und mittlere Unternehmen (KMU)", "Branchen: Leichtindustrie, Werkstätten, Baugewerbe, Lagerhaltung", "Bedeutung: Wichtiger Arbeitgeber und Versorger für den lokalen Markt", "Entwicklung: Laufende Bemühungen zur Verbesserung der Infrastruktur", "Herausforderungen: Umwelt- und Verkehrsbelastung aufgrund hoher Dichte", "Kontrast: Im Gegensatz zu den modernen, geplanten Investmentparks"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }, image: "/poi-images/bahrain-maameer-industrial-economic-v2.webp"},
   {
@@ -860,7 +849,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Standort: Nordspitze der Insel Muharraq", "Funktion: Hauptanlandehafen für die traditionelle Fischerei", "Boots-Typen: Traditionelle Daus und moderne Fiberglasboote", "Typischer Fang: Hamour, Safi, Garnelen, Krabben", "Wirtschaftliche Rolle: Versorgung der lokalen Märkte und Restaurants", "Kulturelle Bedeutung: Bewahrung der Fischerei- und Dau-Bautraditionen", "Atmosphäre: Geschäftig und authentisch, besonders am frühen Morgen", "Verbindung: In der Nähe des historischen Muharraq Souq"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }, image: "/poi-images/bahrain-muharraq-fishing-port-economic-v2.webp"},
   {
@@ -955,7 +943,6 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       de: ["Typ: Gemischt genutztes Uferprojekt", "Standort: Nordküste von Manama", "Landgewinnung: Erbaut auf künstlich aufgeschüttetem Land", "Masterplaner: Skidmore, Owings & Merrill (SOM)", "Zentrales Wahrzeichen: Four Seasons Hotel Bahrain Bay", "Weitere bemerkenswerte Gebäude: Arcapita Building, United Tower (mit Windturbine)", "Nutzung: Firmensitze, Luxuswohnungen, Einzelhandel, Gastronomie", "Vision: Schaffung eines erstklassigen Geschäftsviertels und Lifestyle-Ziels"],
       hu: [],
       ro: [],
-      en: [],
       en: []
     }
   }

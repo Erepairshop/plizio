@@ -38,6 +38,12 @@ Auto-loadolt context. Legtöbb feladat: SEO-tartalom feltöltés POI fájlokba.
 - `historyYear: [1914, 1918]` tartomány formátum
 - `historyPeriod`: lowercase string (`"modern"`, `"colonial"`)
 
+## TILTOTT TOOL-OK
+
+- **`google_web_search` / `web_search` / `googleSearch` TILOS** — NE hívd egyik web-search tool-t sem. A taskhoz minden szükséges információ a promptban van (Wikipedia kontextus blokk) + a saját általános tudásod. Ha hiányzik egy adat, ne találd ki és ne keresd web-en — hagyd ki azt a mezőt.
+- **`web_fetch`** csak akkor, ha a prompt EXPLICITE megadja az URL-t. Spontán fetch TILOS.
+- **`run_shell_command`**: csak az apply scriptek futtatására (apply_seo_json.py, apply_basic_poi.py, add_new_city_pois.py).
+
 ## WORKFLOW
 
 1. Olvasd a célfájlt 1×, ne ismételd.

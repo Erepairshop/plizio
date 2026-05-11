@@ -153,22 +153,33 @@ def apply_seo(json_file):
                 
                 # MULTI4 factsAdvanced
                 if 'factsAdvanced' in item:
-                    new_facts = item['factsAdvanced']
-                    facts_json = json.dumps(new_facts, ensure_ascii=False)
-                    
+                    facts_adv_items = item['factsAdvanced']
+
                     if 'factsAdvanced:' not in new_poi_block:
-                        addition = f',\n    factsAdvanced: {{ multi4: {facts_json} }}'
+                        # Add the whole block
+                        json_str = json.dumps(facts_adv_items, ensure_ascii=False, indent=8)
+                        # Quick format to match desired style
+                        json_str = json.dumps(facts_adv_items, ensure_ascii=False, indent=4).replace('}', '    }')
+                        
+                        addition = f',\n    factsAdvanced: {json_str}'
                         last_brace = new_poi_block.rfind('}')
                         new_poi_block = new_poi_block[:last_brace] + addition + new_poi_block[last_brace:]
                     else:
-                        bounds = get_field_inner_bounds(new_poi_block, "factsAdvanced", 'multi4')
-                        if bounds:
-                            new_poi_block = new_poi_block[:bounds[0]] + facts_json + new_poi_block[bounds[1]:]
-                        else:
-                            match = re.search(r'factsAdvanced:\s*\{', new_poi_block)
-                            if match:
-                                insert_pos = match.end()
-                                new_poi_block = new_poi_block[:insert_pos] + f' multi4: {facts_json},' + new_poi_block[insert_pos:]
+                        # Field exists, add languages one by one
+                        for lang_code, facts_list in facts_adv_items.items():
+                            bounds = get_field_inner_bounds(new_poi_block, "factsAdvanced", lang_code)
+                            facts_json = json.dumps(facts_list, ensure_ascii=False)
+                            if bounds:
+                                # Language already exists, replace it
+                                new_poi_block = new_poi_block[:bounds[0]] + facts_json + new_poi_block[bounds[1]:]
+                            else:
+                                # Add new language to existing object
+                                match = re.search(r'factsAdvanced:\s*\{', new_poi_block)
+                                if match:
+                                    insert_pos = match.end()
+                                    # Ensure there is a line break if the object is not empty
+                                    leading_char = '' if new_poi_block[insert_pos-2] == '{' else '\n'
+                                    new_poi_block = new_poi_block[:insert_pos] + f'{leading_char}        {lang_code}: {facts_json},' + new_poi_block[insert_pos:]
 
             else: # Single language logic
                 # Handle descriptionAdvanced

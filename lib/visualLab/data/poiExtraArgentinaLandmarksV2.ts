@@ -4,13 +4,21 @@ import type { POI } from "./poi";
 export const poiExtraArgentinaLandmarksV2: POI[] = [
   {
     id: "obelisco-buenos-aires-landmarks-v2",
-    description: "An iconic monument located in the center of Buenos Aires, symbolising the city's identity.",
-    facts: [
+    description: { en: "An iconic monument located in the center of Buenos Aires, symbolising the city's identity.",
+      hu: "Buenos Aires legismertebb jelképe az Avenida 9 de Julio sugárúton. A város alapításának 400. évfordulójára épült 1936-ban.",
+      de: "Das ikonische Denkmal im Zentrum von Buenos Aires ist das Wahrzeichen der Stadt und ein nationales Symbol.",
+      ro: "Obeliscul din Buenos Aires este simbolul iconic al orașului, situat în inima celei mai late străzi din lume, Avenida 9 de Julio."
+    },
+    facts: { en: [
       "Iconic monument",
       "Buenos Aires",
       "City symbol",
       "Modern landmark"
 ],
+      hu: ["67 méter magas", "Négy fontos történelmi dátumot jelöl", "A város modern szimbóluma", "Gyakori tüntetések és ünneplések helyszíne"],
+      de: ["Erbaut 1936 zum 400. Stadtjubiläum", "67 Meter hoher Betonobelisk", "Zentraler Treffpunkt für Feierlichkeiten", "Gelegen an der Avenida 9 de Julio"],
+      ro: ["Inaugurat în 1936", "Măsoară 67,5 metri în înălțime", "Construit pentru a marca 400 de ani de la fondarea orașului", "Punct central pentru marile sărbători naționale"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3816, -34.6037],
@@ -34,13 +42,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/obelisco-buenos-aires-landmarks-v2.webp"},
   {
     id: "casa-rosada-landmarks-v2",
-    description: "The executive mansion and office of the President of Argentina, famous for its pink exterior.",
-    facts: [
+    description: { en: "The executive mansion and office of the President of Argentina, famous for its pink exterior.",
+      hu: "Az argentin elnöki palota a Plaza de Mayo téren, jellegzetes rózsaszín falairól kapta a nevét. Itt található az elnök hivatala.",
+      de: "Der markante rosafarbene Regierungspalast an der Plaza de Mayo ist der Sitz des argentinischen Präsidenten.",
+      ro: "Casa Rosada este sediul guvernului argentinian, faimoasă pentru culoarea sa roz distinctivă și pentru balconul istoric din Plaza de Mayo."
+    },
+    facts: { en: [
       "Executive mansion",
       "Presidential office",
       "Buenos Aires",
       "Historic landmark"
 ],
+      hu: ["Híres elnöki erkély", "Belsejében elnöki múzeum található", "Rózsaszín színe legendák övezik", "Kormányzati központ"],
+      de: ["Sitz der Exekutive Argentiniens", "Bekannt für seine charakteristische rosa Farbe", "Berühmt durch die Reden von Eva Perón", "Nationales historisches Monument"],
+      ro: ["Reședința oficială a puterii executive", "Culoarea roz simbolizează uniunea politică istorică", "Include un muzeu al președinților", "Declarată Monument Istoric Național"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3702, -34.6081],
@@ -64,13 +80,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/casa-rosada-landmarks-v2.webp"},
   {
     id: "teatro-colon-landmarks-v2",
-    description: "One of the world's most acclaimed opera houses, known for its incredible acoustics and beauty.",
-    facts: [
+    description: { en: "One of the world's most acclaimed opera houses, known for its incredible acoustics and beauty.",
+      hu: "A világ egyik legfontosabb operaháza Buenos Airesben, amely világhírű akusztikájáról és pazar belső díszítéséről ismert.",
+      de: "Eines der bedeutendsten Opernhäuser der Welt, berühmt für seine außergewöhnliche Akustik und prunkvolle Architektur.",
+      ro: "Teatrul Colón din Buenos Aires este considerat una dintre cele mai bune săli de operă din lume datorită acusticii sale excepționale."
+    },
+    facts: { en: [
       "Opera house",
       "Acoustics",
       "Buenos Aires",
       "Cultural landmark"
 ],
+      hu: ["Világelsők között van akusztikailag", "Európai stílusú eklektikus építészet", "Híres kupolafestmény", "Saját kézműves műhelyek"],
+      de: ["Weltklasse-Akustik", "Eröffnet im Jahr 1908", "Erbaut im eklektischen Stil", "Sitz der Nationaloper und des Balletts"],
+      ro: ["Inaugurat în 1908", "Arhitectură eclectică somptuoasă", "Capacitate de aproape 2.500 de locuri", "Centru mondial pentru muzică clasică și balet"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3831, -34.6011],
@@ -94,13 +118,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/teatro-colon-landmarks-v2.webp"},
   {
     id: "puente-de-la-mujer-landmarks-v2",
-    description: "A modern, rotating footbridge in the Puerto Madero district, symbolising female grace.",
-    facts: [
+    description: { en: "A modern, rotating footbridge in the Puerto Madero district, symbolising female grace.",
+      hu: "Modern gyalogoshíd Puerto Madero negyedben, Santiago Calatrava tervezte. A híd egy tangót táncoló párt jelképez absztrakt formában.",
+      de: "Eine moderne, elegante Drehbrücke im Stadtteil Puerto Madero, entworfen von Santiago Calatrava.",
+      ro: "Puente de la Mujer este un pod pietonal modern din Puerto Madero, proiectat de celebrul arhitect Santiago Calatrava."
+    },
+    facts: { en: [
       "Footbridge",
       "Puerto Madero",
       "Modern design",
       "Buenos Aires"
 ],
+      hu: ["Puerto Madero jelképe", "Forgatható középső rész", "Fehér, elegáns szerkezet", "Női hídnak is nevezik"],
+      de: ["Symbol für das moderne Buenos Aires", "Stellt ein tanzendes Paar dar", "Einzigartige Drehmechanik für Schiffe", "Wahrzeichen von Puerto Madero"],
+      ro: ["Simbolizează un cuplu care dansează tango", "Inaugurat în anul 2001", "Pod pivotant care permite trecerea navelor", "Reprezentativ pentru arhitectura contemporană"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3646, -34.6083],
@@ -124,13 +156,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/puente-de-la-mujer-landmarks-v2.webp"},
   {
     id: "floralis-generica-landmarks-v2",
-    description: "A giant metal flower sculpture that opens and closes throughout the day.",
-    facts: [
+    description: { en: "A giant metal flower sculpture that opens and closes throughout the day.",
+      hu: "Hatalmas acélból készült virágszobor a Recoleta negyedben. A sziromszerű lemezek a napszaknak megfelelően nyílnak ki és csukódnak be.",
+      de: "Eine riesige mechanische Blume aus Edelstahl, die sich je nach Tageszeit öffnet und schließt.",
+      ro: "Floralis Genérica este o sculptură gigantică din oțel în formă de floare care își deschide și închide petalele în funcție de lumina soarelui."
+    },
+    facts: { en: [
       "Metal sculpture",
       "Flower design",
       "Modern art",
       "Buenos Aires"
 ],
+      hu: ["Napenergiával működő mechanizmus", "23 méter magas", "Egy víztükör közepén áll", "Modern művészeti alkotás"],
+      de: ["23 Meter hohe Stahlskulptur", "Symbolisiert alle Blumen der Welt", "Mechanische Bewegungen im Sonnenlicht", "Gelegen im Park der Vereinten Nationen"],
+      ro: ["Creată de arhitectul Eduardo Catalano", "Situată în Plaza de las Naciones Unidas", "Cântărește peste 18 tone", "Inaugurată la 13 aprilie 2002"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3934, -34.5830],
@@ -154,13 +194,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/floralis-generica-landmarks-v2.webp"},
   {
     id: "palacio-barolo-landmarks-v2",
-    description: "An exquisite building inspired by Dante's Divine Comedy, known for its unique tower.",
-    facts: [
+    description: { en: "An exquisite building inspired by Dante's Divine Comedy, known for its unique tower.",
+      hu: "Egyedülálló épület Buenos Airesben, amelyet Dante Isteni színjátéka ihletett. A torony tetején található világítótoronyból csodás a kilátás.",
+      de: "Ein architektonisches Meisterwerk, dessen Design von Dantes 'Göttlicher Komödie' inspiriert wurde.",
+      ro: "Palacio Barolo este o clădire de birouri unică, inspirată de Divina Comedie a lui Dante Alighieri, având o structură simbolică fascinantă."
+    },
+    facts: { en: [
       "Inspirational design",
       "Dante's Divine Comedy",
       "Unique tower",
       "Buenos Aires"
 ],
+      hu: ["Dante művének építészeti mása", "100 méter magas (100 ének)", "Világítótorony a tetején", "Különleges neogótikus stílus"],
+      de: ["Einzigartige neugotische Architektur", "Unterteilt in Hölle, Fegefeuer und Himmel", "Leuchtturm an der Spitze des Gebäudes", "Ehemaliges höchstes Gebäude Südamerikas"],
+      ro: ["Finalizat în 1923", "Cea mai înaltă clădire din America de Sud la acea vreme", "Farul de la ultimul etaj este încă funcțional", "Împarte elemente de design cu Palacio Salvo din Uruguay"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3858, -34.6095],
@@ -184,13 +232,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/palacio-barolo-landmarks-v2.webp"},
   {
     id: "recoleta-cemetery-landmarks-v2",
-    description: "A historic cemetery featuring elaborate mausoleums, including the grave of Eva Perón.",
-    facts: [
+    description: { en: "A historic cemetery featuring elaborate mausoleums, including the grave of Eva Perón.",
+      hu: "A világ egyik legszebb temetője, ahol Argentína legfontosabb történelmi alakjai nyugszanak, köztük Eva Perón.",
+      de: "Ein prachtvoller Friedhof, der wie eine kleine Stadt aus Marmorstatuen und Mausoleen wirkt.",
+      ro: "Cimitirul Recoleta este una dintre cele mai vizitate atracții din Buenos Aires, fiind celebru pentru mausoleele sale somptuoase."
+    },
+    facts: { en: [
       "Historic cemetery",
       "Elaborate tombs",
       "Eva Perón",
       "Cultural site"
 ],
+      hu: ["Művészi kripták és szobrok", "Eva Perón nyughelye", "Gazdag arisztokrata családok panteonjai", "Buenos Aires elegáns negyedében"],
+      de: ["Letzte Ruhestätte von Eva Perón", "Meisterwerke der Bestattungskunst", "Gelegen im eleganten Viertel Recoleta", "Nationales historisches Denkmal"],
+      ro: ["Locul de odihnă al Evei Perón", "Arhitectură funerară de clasă mondială", "Fondat în 1822", "Găzduiește mormintele marilor personalități argentiniene"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3929, -34.5875],
@@ -214,13 +270,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/recoleta-cemetery-landmarks-v2.webp"},
   {
     id: "metropolitan-cathedral-landmarks-v2",
-    description: "The main Catholic church in Buenos Aires, reflecting neoclassical architecture and history.",
-    facts: [
+    description: { en: "The main Catholic church in Buenos Aires, reflecting neoclassical architecture and history.",
+      hu: "Buenos Aires főtemploma a Plaza de Mayo téren. Itt található San Martín tábornok, a nemzeti hős mauzóleuma.",
+      de: "Die Hauptkirche von Buenos Aires, in der sich das Mausoleum des Nationalhelden José de San Martín befindet.",
+      ro: "Catedrala Metropolitană din Buenos Aires este principala biserică catolică a țării și adăpostește mausoleul generalului San Martín."
+    },
+    facts: { en: [
       "Cathedral",
       "Neoclassical style",
       "Buenos Aires",
       "Religious site"
 ],
+      hu: ["Mauzóleum a nemzeti hősnek", "Neoklasszicista homlokzat", "Az érsekség székhelye", "Fontos vallási és állami ceremóniák"],
+      de: ["Sitz des Erzbistums Buenos Aires", "Klassizistische Fassade wie ein Tempel", "Grabstätte von General San Martín", "Ehemalige Wirkungsstätte von Papst Franziskus"],
+      ro: ["Arhitectură neoclasică impunătoare", "Situată în fața Plaza de Mayo", "Găzduiește resturile pământești ale „Eliberatorului”", "Biserica unde a slujit Papa Francisc ca arhiepiscop"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3734, -34.6075],
@@ -244,13 +308,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/metropolitan-cathedral-landmarks-v2.webp"},
   {
     id: "la-bombonera-landmarks-v2",
-    description: "The legendary home stadium of Boca Juniors, known for its unique shape and fan atmosphere.",
-    facts: [
+    description: { en: "The legendary home stadium of Boca Juniors, known for its unique shape and fan atmosphere.",
+      hu: "A Boca Juniors futballklub világhírű stadionja La Boca negyedben. Különleges, meredek kialakítása miatt híres a hangulatáról.",
+      de: "Das legendäre Heimstadion von Boca Juniors, bekannt für seine steilen Tribünen und intensive Atmosphäre.",
+      ro: "Stadionul Alberto J. Armando, cunoscut sub numele de La Bombonera, este sediul legendar al clubului de fotbal Boca Juniors."
+    },
+    facts: { en: [
       "Football stadium",
       "Boca Juniors",
       "Buenos Aires",
       "Iconic venue"
 ],
+      hu: ["Kék és sárga színek", "Meredek lelátók", "A futball egyik szentélye", "Híres muráliák a falakon"],
+      de: ["Heimat des Fußballclubs Boca Juniors", "Einzigartige 'Pralinenschachtel'-Form", "Weltberühmt für die Fan-Leidenschaft", "Gelegen im Viertel La Boca"],
+      ro: ["Inaugurat în 1940 în cartierul La Boca", "Faimos pentru forma sa de „cutie de bomboane”", "Cunoscut pentru atmosfera sa vibrantă și acustică", "Simbol al pasiunii argentiniene pentru fotbal"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3647, -34.6356],
@@ -274,13 +346,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/la-bombonera-landmarks-v2.webp"},
   {
     id: "estadio-monumental-landmarks-v2",
-    description: "The largest football stadium in Argentina and home to the national team.",
-    facts: [
+    description: { en: "The largest football stadium in Argentina and home to the national team.",
+      hu: "A River Plate klub és az argentin nemzeti válogatott otthona. Ez az ország legnagyobb stadionja, számos nagy mérkőzés helyszíne.",
+      de: "Das größte Stadion Argentiniens und Heimstätte der Nationalmannschaft sowie des Clubs River Plate.",
+      ro: "Estadio Monumental este cel mai mare stadion din Argentina și casa clubului River Plate, fiind și gazda finalei Cupei Mondiale din 1978."
+    },
+    facts: { en: [
       "Football stadium",
       "River Plate",
       "Largest venue",
       "Buenos Aires"
 ],
+      hu: ["Legnagyobb argentin stadion", "1978-as VB döntő helyszíne", "River Plate múzeum", "Hatalmas befogadóképesség"],
+      de: ["Größtes Stadion des Landes", "Austragungsort des WM-Finales 1978", "Heimat von River Plate", "Wichtiger Ort für Großkonzerte"],
+      ro: ["Sediul oficial al echipei naționale de fotbal", "Capacitate record de peste 80.000 de spectatori", "Inaugurat la 26 mai 1938", "Găzduiește mari evenimente sportive și concerte"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.4498, -34.5453],
@@ -304,13 +384,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/estadio-monumental-landmarks-v2.webp"},
   {
     id: "cabildo-buenos-aires-landmarks-v2",
-    description: "The site of the May Revolution, representing the birth of Argentine independence.",
-    facts: [
+    description: { en: "The site of the May Revolution, representing the birth of Argentine independence.",
+      hu: "A gyarmati kori városháza a Plaza de Mayo téren, ahol az 1810-es májusi forradalom eseményei zajlottak.",
+      de: "Das historische Regierungsgebäude an der Plaza de Mayo, in dem die Unabhängigkeitsbewegung ihren Anfang nahm.",
+      ro: "Cabildo din Buenos Aires este o clădire colonială istorică situată în Plaza de Mayo, fiind inima revoluției din mai 1810."
+    },
+    facts: { en: [
       "Historic building",
       "May Revolution",
       "Buenos Aires",
       "Independence site"
 ],
+      hu: ["A májusi forradalom központja", "Múzeum és történelmi emlékhely", "Jellegzetes gyarmati árkádok", "A város egyik legrégebbi épülete"],
+      de: ["Zentrum der Mai-Revolution von 1810", "Typische koloniale Architektur", "Heute ein historisches Museum", "Symbol der argentinischen Freiheit"],
+      ro: ["Fostul sediu al administrației coloniale spaniole", "Găzduiește Muzeul Național al Cabildo", "Păstrează arhitectura originală a arcurilor", "Locul unde s-a format primul guvern patriote"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3742, -34.6083],
@@ -334,13 +422,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/cabildo-buenos-aires-landmarks-v2.webp"},
   {
     id: "monumento-nacional-bandera-landmarks-v2",
-    description: "An imposing monument in Rosario, dedicated to the creation of the Argentine flag.",
-    facts: [
+    description: { en: "An imposing monument in Rosario, dedicated to the creation of the Argentine flag.",
+      hu: "Impozáns emlékmű Rosario városában a nemzeti zászló tiszteletére. Azon a helyen áll, ahol először vonták fel a lobogót.",
+      de: "Ein monumentaler Komplex in Rosario, der an den Ort erinnert, an dem die Nationalflagge zum ersten Mal gehisst wurde.",
+      ro: "Monumentul Național al Steagului este o structură impunătoare în Rosario, ridicată pe locul unde a fost arborat pentru prima dată drapelul țării."
+    },
+    facts: { en: [
       "National monument",
       "Rosario city",
       "Flag creation",
       "Patriotic landmark"
 ],
+      hu: ["70 méter magas torony", "Emlékcsarnok", "Hatalmas szabadtéri lépcsősor", "Paraná folyó partján"],
+      de: ["Eindrucksvoller 70 Meter hoher Turm", "Schrein der argentinischen Flagge", "Gelegen am Ufer des Paraná", "Bedeutendstes Monument in Rosario"],
+      ro: ["Simbol al unității și independenței naționale", "Turnul central oferă o vedere panoramică asupra râului", "Inaugurat la 20 iunie 1957", "Punct de pelerinaj patriotic major"]
+    },
     type: "landmark",
     parent: "AR-S",
     coords: [-60.6272, -32.9479],
@@ -364,13 +460,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/monumento-nacional-bandera-landmarks-v2.webp"},
   {
     id: "cristo-redentor-andes-landmarks-v2",
-    description: "A symbolic statue on the border with Chile, representing peace between the two nations.",
-    facts: [
+    description: { en: "A symbolic statue on the border with Chile, representing peace between the two nations.",
+      hu: "Hatalmas Krisztus-szobor az Andok hegycsúcsai között, az argentin-chilei határon. A két ország közötti békét szimbolizálja.",
+      de: "Eine imposante Christusstatue in den Anden, die als Symbol für den Frieden zwischen Argentinien und Chile errichtet wurde.",
+      ro: "Cristo Redentor de los Andes este un monument situat la granița dintre Argentina și Chile, simbolizând pacea eternă între cele două națiuni."
+    },
+    facts: { en: [
       "Peace monument",
       "Andes border",
       "Christ statue",
       "Symbolic site"
 ],
+      hu: ["3832 méteres magasságban", "Béke szimbólum", "Andoki panoráma", "1904-ben állították fel"],
+      de: ["Gelegen auf 3.832 Metern Höhe", "Denkmal der brüderlichen Verbundenheit", "Bronzestatue auf der Passhöhe", "Wahrzeichen des andinen Grenzgebiets"],
+      ro: ["Situat la 3.832 metri deasupra nivelului mării", "Inaugurat în martie 1904", "Turnat din bronzul vechilor tunuri", "Aproape de pasul montan istoric Uspallata"]
+    },
     type: "landmark",
     parent: "AR-M",
     coords: [-70.0710, -32.8257],
@@ -394,13 +498,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/cristo-redentor-andes-landmarks-v2.webp"},
   {
     id: "basilica-de-lujan-landmarks-v2",
-    description: "A massive Neo-Gothic basilica and a major pilgrimage site for Catholics in Argentina.",
-    facts: [
+    description: { en: "A massive Neo-Gothic basilica and a major pilgrimage site for Catholics in Argentina.",
+      hu: "Hatalmas neogótikus bazilika Luján városában, Argentína legfontosabb zarándokhelye. A Lujáni Szűzanya tiszteletére épült.",
+      de: "Das wichtigste religiöse Zentrum Argentiniens, gewidmet der Schutzpatronin des Landes.",
+      ro: "Bazilica Maicii Domnului din Luján este principalul sanctuar catolic din Argentina, atrăgând milioane de pelerini anual."
+    },
+    facts: { en: [
       "Major basilica",
       "Neo-Gothic style",
       "Pilgrimage site",
       "Religious landmark"
 ],
+      hu: ["Nemzeti kegyhely", "Évente több millió zarándok", "Látványos neogótikus tornyok", "Közép-Argentína szívében"],
+      de: ["Bedeutendster Wallfahrtsort des Landes", "Prächtige neugotische Architektur", "Heimat des Gnadenbildes der Jungfrau von Luján", "Ziel von Millionen Pilgern jährlich"],
+      ro: ["Arhitectură neogotică franceză impresionantă", "Găzduiește mica imagine a Fecioarei din Luján", "Inaugurată oficial în 1910", "Punctul final al marii peregrinări anuale de la Buenos Aires"]
+    },
     type: "landmark",
     parent: "AR-B",
     coords: [-59.1215, -34.5645],
@@ -424,13 +536,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/basilica-de-lujan-landmarks-v2.webp"},
   {
     id: "iglesia-san-francisco-salta-landmarks-v2",
-    description: "A famous church in Salta, known for its striking red and yellow facade and colonial beauty.",
-    facts: [
+    description: { en: "A famous church in Salta, known for its striking red and yellow facade and colonial beauty.",
+      hu: "Salta egyik legszebb temploma, amely vibráló vörös és arany színeiről, valamint rendkívül magas harangtornyáról híres.",
+      de: "Eine der farbenprächtigsten Kirchen Argentiniens, bekannt für ihren leuchtend roten Turm und die barocke Verzierung.",
+      ro: "Biserica San Francisco din Salta este celebră pentru culorile sale vibrante, teracota și aurul, având unul dintre cele mai înalte turnuri din America de Sud."
+    },
+    facts: { en: [
       "Historic church",
       "Salta city",
       "Colonial style",
       "Visual landmark"
 ],
+      hu: ["Dél-Amerika legmagasabb harangtornya", "Barokk és neoklasszicista stílus", "Vörös-arany homlokzat", "Nemzeti Történelmi Műemlék"],
+      de: ["Höchster Kirchturm Südamerikas", "Markante Terrakotta-Fassade", "Meisterwerk des andinen Barocks", "Wahrzeichen der Stadt Salta"],
+      ro: ["Fațadă barocă târzie de un roșu și galben faimos", "Turnul clopotniță măsoară 54 de metri", "Declarată Monument Istoric Național", "Arhitectură emblematică a nordului argentinian"]
+    },
     type: "landmark",
     parent: "AR-A",
     coords: [-65.4080, -24.7895],
@@ -454,13 +574,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/iglesia-san-francisco-salta-landmarks-v2.webp"},
   {
     id: "pucara-de-tilcara-landmarks-v2",
-    description: "A restored pre-Inca fortress located in the dramatic landscape of Tilcara.",
-    facts: [
+    description: { en: "A restored pre-Inca fortress located in the dramatic landscape of Tilcara.",
+      hu: "Pre-inka kori erődítmény Jujuy tartományban, a Humahuaca-völgyben. A részben rekonstruált romok bepillantást engednek az őslakosok életébe.",
+      de: "Eine rekonstruierte präkolumbianische Festung in der Quebrada de Humahuaca mit Blick über das Tal.",
+      ro: "Pucará de Tilcara este o fortăreață pre-incașă reconstruită, oferind o perspectivă fascinantă asupra vieții popoarelor indigene din Quebrada de Humahuaca."
+    },
+    facts: { en: [
       "Pre-Inca site",
       "Fortress ruins",
       "Tilcara region",
       "Historic landmark"
 ],
+      hu: ["Humahuaca-völgy központja", "Sziklára épült védelmi rendszer", "Régészeti park és botanikus kert", "Csodás kilátás a völgyre"],
+      de: ["Wichtige archäologische Stätte der Omaguaca", "Gelegen in der Provinz Jujuy", "Beeindruckende Steinarchitektur", "Nationales historisches Monument"],
+      ro: ["Situată pe un deal cu vedere strategică asupra văii", "Construită inițial de tribul Omaguaca", "Include locuințe de piatră și centre ceremoniale", "Unul dintre cele mai importante situri arheologice din nord"]
+    },
     type: "landmark",
     parent: "AR-Y",
     coords: [-65.4027, -23.5855],
@@ -484,13 +612,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/pucara-de-tilcara-landmarks-v2.webp"},
   {
     id: "ruinas-de-quilmes-landmarks-v2",
-    description: "Remains of an ancient city, illustrating the resistance of the Quilmes people against colonization.",
-    facts: [
+    description: { en: "Remains of an ancient city, illustrating the resistance of the Quilmes people against colonization.",
+      hu: "Az ország egyik legnagyobb pre-kolumbiai településének romjai Tucumán tartományban. A quilmes indiánok utolsó bástyája volt a spanyolok ellen.",
+      de: "Die Überreste der größten präkolumbianischen Siedlung Argentiniens, erbaut vom Volk der Quilmes.",
+      ro: "Ruinele din Quilmes sunt vestigiile celei mai mari așezări pre-columbiene din Argentina, un simbol al rezistenței împotriva spaniolilor."
+    },
+    facts: { en: [
       "Ancient ruins",
       "Quilmes people",
       "History of resistance",
       "Tucumán"
 ],
+      hu: ["Összetett teraszos építkezés", "Akár 5000 ember otthona volt", "Szent hegy lábánál fekszik", "Erős ellenállási központ"],
+      de: ["Bedeutende Siedlung der Diaguita-Kultur", "Zentrum des indigenen Widerstands", "Gelegen in den Calchaquí-Tälern", "Herausragende Terrassenbauweise"],
+      ro: ["Adăpostea peste 5.000 de locuitori la apogeu", "Complex complex de terase și ziduri defensive", "Tribul Quilmes a rezistat aici timp de 130 de ani", "Situat în provincia Tucumán pe Drumul Incașilor"]
+    },
     type: "landmark",
     parent: "AR-T",
     coords: [-66.0270, -26.5160],
@@ -515,13 +651,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
   },
   {
     id: "san-ignacio-mini-landmarks-v2",
-    description: "Well-preserved remains of a Jesuit mission, providing insight into 17th-century missionary life.",
-    facts: [
+    description: { en: "Well-preserved remains of a Jesuit mission, providing insight into 17th-century missionary life.",
+      hu: "A legjobban megőrzött jezsuita misszió Argentínában. A vörös homokkőből épült monumentális romok Misiones tartomány ékkövei.",
+      de: "Die am besten erhaltene Jesuitenmission Argentiniens, bekannt für ihre prachtvollen Reliefs aus rotem Sandstein.",
+      ro: "San Ignacio Miní este cea mai bine conservată misiune iezuite din Argentina, celebră pentru stilul său „baroc guarani” sculptat în gresie roșie."
+    },
+    facts: { en: [
       "Jesuit mission",
       "UNESCO site",
       "Misiones region",
       "Historic ruins"
 ],
+      hu: ["UNESCO Világörökség része", "Guarani barokk stílus", "Lenyűgöző templomhomlokzat", "Éjszakai fény- és hangjáték"],
+      de: ["UNESCO-Weltkulturerbe", "Herausragendes Beispiel des Guarani-Barocks", "Gelegen in der Provinz Misiones", "Bedeutendes kulturelles Denkmal"],
+      ro: ["Parte din Patrimoniul Mondial UNESCO", "Fondată în 1610 și relocată în 1696", "Păstrează detalii sculpturale indigene unice", "Situată în provincia Misiones"]
+    },
     type: "landmark",
     parent: "AR-N",
     coords: [-55.5312, -27.2562],
@@ -545,13 +689,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/san-ignacio-mini-landmarks-v2.webp"},
   {
     id: "manzana-jesuitica-landmarks-v2",
-    description: "A collection of historic Jesuit buildings in Córdoba, listed as a world heritage site.",
-    facts: [
+    description: { en: "A collection of historic Jesuit buildings in Córdoba, listed as a world heritage site.",
+      hu: "Történelmi tömb Córdoba központjában, amely a jezsuita rend oktatási és hitéleti központja volt Dél-Amerikában.",
+      de: "Das historische Jesuitenviertel im Herzen von Córdoba, ein Zeugnis kolonialer Bildung und Religion.",
+      ro: "Manzana Jesuítica din Córdoba este inima istorică a ordinului iezuit în regiune, cuprinzând biserici, școli și universități coloniale."
+    },
+    facts: { en: [
       "Jesuit site",
       "Córdoba city",
       "World heritage",
       "Historic landmark"
 ],
+      hu: ["Nemzeti Egyetem székhelye", "Történelmi könyvtár", "17. századi épületegyüttes", "UNESCO Világörökség"],
+      de: ["UNESCO-Weltkulturerbe", "Sitz der ersten Universität Argentiniens", "Enthält die älteste Jesuitenkirche des Landes", "Kulturelles Wahrzeichen von Córdoba"],
+      ro: ["Centru cultural și spiritual de o valoare imensă", "Include cea mai veche universitate din Argentina", "Arhitectură colonială spaniolă exemplară", "Parte a listei Patrimoniului UNESCO"]
+    },
     type: "landmark",
     parent: "AR-X",
     coords: [-64.1865, -31.4183],
@@ -575,13 +727,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/manzana-jesuitica-landmarks-v2.webp"},
   {
     id: "faro-les-eclaireurs-landmarks-v2",
-    description: "A scenic lighthouse in the Beagle Channel, often called the lighthouse at the end of the world.",
-    facts: [
+    description: { en: "A scenic lighthouse in the Beagle Channel, often called the lighthouse at the end of the world.",
+      hu: "Ikonikus vörös-fehér világítótorony a Beagle-csatornán, Ushuaia közelében. Gyakran nevezik tévesen a világvégi világítótoronynak.",
+      de: "Der berühmte rot-weiße Leuchtturm im Beagle-Kanal, oft als der Leuchtturm am Ende der Welt bezeichnet.",
+      ro: "Faro Les Eclaireurs este un far pitoresc situat în Canalul Beagle, fiind cunoscut în mod popular sub numele de „Farul de la Capătul Lumii”."
+    },
+    facts: { en: [
       "Scenic lighthouse",
       "Beagle Channel",
       "Ushuaia region",
       "Iconic structure"
 ],
+      hu: ["A Beagle-csatorna jelképe", "Csak hajóval közelíthető meg", "Oroszlánfókák és kormoránok a közelben", "Híres fotótéma"],
+      de: ["Wahrzeichen von Ushuaia", "Erbaut im Jahr 1920", "Wichtiger Navigationspunkt am Beagle-Kanal", "Beliebtes Ziel für Bootstouren"],
+      ro: ["Situat pe o insulă stâncoasă lângă Ushuaia", "Inaugurat la 23 decembrie 1920", "Vopsit în dungi roșii și albe emblematice", "Ghid esențial pentru navele care navighează spre Antarctica"]
+    },
     type: "landmark",
     parent: "AR-V",
     coords: [-68.1833, -54.8700],
@@ -605,13 +765,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/faro-les-eclaireurs-landmarks-v2.webp"},
   {
     id: "monumento-al-indio-landmarks-v2",
-    description: "A tribute monument celebrating the indigenous roots and heritage of Argentina's northwestern region.",
-    facts: [
+    description: { en: "A tribute monument celebrating the indigenous roots and heritage of Argentina's northwestern region.",
+      hu: "Az őslakos népek tiszteletére emelt monumentális szobor Tucumán tartományban, az Andok völgyében.",
+      de: "Ein monumentales Denkmal in den Bergen von Tucumán, das den indigenen Völkern der Region gewidmet ist.",
+      ro: "Monumento al Indio este o statuie impunătoare în provincia Tucumán, ridicată pentru a onora popoarele indigene și moștenirea lor culturală."
+    },
+    facts: { en: [
       "Indigenous monument",
       "Tribute site",
       "Cultural landmark",
       "Northwest region"
 ],
+      hu: ["6 méter magas szobor", "A völgyi népek szimbóluma", "Látványos hegyi út mentén", "Kulturális emlékhely"],
+      de: ["Symbol für das indigene Erbe", "Gelegen in der Quebrada de los Sosa", "Beeindruckende Skulptur in der Natur", "Wichtiger Punkt auf der Route nach Tafí del Valle"],
+      ro: ["Situat pe drumul către Valle de Tafí", "O sculptură de 6 metri pe un postament înalt", "Inaugurat în anul 1943", "Punct de oprire turistic obligatoriu în Quebrada de los Sosa"]
+    },
     type: "landmark",
     parent: "AR-T",
     coords: [-65.6592, -27.0683],
@@ -635,13 +803,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/monumento-al-indio-landmarks-v2.webp"},
   {
     id: "planetario-galileo-galilei-landmarks-v2",
-    description: "A popular planetarium in Buenos Aires, recognized for its distinctive modern design.",
-    facts: [
+    description: { en: "A popular planetarium in Buenos Aires, recognized for its distinctive modern design.",
+      hu: "Buenos Aires futurisztikus megjelenésű planetáriuma a Palermo negyedben. Az épület egy Szaturnusz-gyűrűt formáz.",
+      de: "Das futuristische Planetarium von Buenos Aires, das für seine markante kugelförmige Architektur bekannt ist.",
+      ro: "Planetariul Galileo Galilei este o clădire futuristă în parcul Palermo, servind ca principal centru de astronomie din Buenos Aires."
+    },
+    facts: { en: [
       "Planetarium",
       "Modern design",
       "Buenos Aires",
       "Educational landmark"
 ],
+      hu: ["Modern csillagászati központ", "Különleges kör alakú építészet", "Interaktív kiállítások", "Éjszakai díszkivilágítás"],
+      de: ["Zentrum für astronomische Bildung", "Ikone der modernen Architektur", "Gelegen im Stadtteil Palermo", "Besitzt ein echtes Meteoritenfragment"],
+      ro: ["Inaugurat în 1967", "Formă sferică inspirată de planeta Saturn", "Include o colecție de meteoriți reali", "Sistem de proiecție digitală de ultimă generație"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.4116, -34.5695],
@@ -665,13 +841,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/planetario-galileo-galilei-landmarks-v2.webp"},
   {
     id: "torre-monumental-landmarks-v2",
-    description: "A historic clock tower in Buenos Aires, formerly known as the Torre de los Ingleses.",
-    facts: [
+    description: { en: "A historic clock tower in Buenos Aires, formerly known as the Torre de los Ingleses.",
+      hu: "A brit közösség ajándékaként épült óratorony Buenos Airesben. Gyakran 'Torre de los Ingleses'-nek (Angolok tornyának) is nevezik.",
+      de: "Ein prachtvoller Uhrturm im britischen Stil, ein Geschenk der britischen Gemeinschaft an Buenos Aires.",
+      ro: "Torre Monumental, cunoscută anterior sub numele de Torre de los Ingleses, este un turn cu ceas elegant donat de comunitatea britanică."
+    },
+    facts: { en: [
       "Historic clock tower",
       "Buenos Aires",
       "British gift",
       "Landmark structure"
 ],
+      hu: ["Palladiánus stílus", "Hatalmas harangjáték", "A Retiro negyedben található", "Egykori gyarmati emlék"],
+      de: ["Früher als 'Torre de los Ingleses' bekannt", "Erbaut im palladianischen Stil", "Gelegen im Viertel Retiro", "Nationales historisches Denkmal"],
+      ro: ["Construit în stil palladian în 1916", "Situat în Plaza Fuerza Aérea Argentina", "Inspirat de Turnul cu Ceas al Parlamentului din Londra", "Oferă o vedere panoramică asupra Retiro și portului"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3746, -34.5919],
@@ -695,13 +879,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/torre-monumental-landmarks-v2.webp"},
   {
     id: "palacio-aguas-corrientes-landmarks-v2",
-    description: "A visually stunning building that once served as a major water pumping station, known for its facade.",
-    facts: [
+    description: { en: "A visually stunning building that once served as a major water pumping station, known for its facade.",
+      hu: "A világ egyik legszebb víztározó épülete Buenos Airesben. A pazar terrakotta díszítésű homlokzat egy hatalmas víztartály-rendszert rejt.",
+      de: "Eines der prachtvollsten Gebäude der Welt, das hinter seiner verzierten Fassade riesige Wassertanks verbirgt.",
+      ro: "Palatul Apelor Curente este una dintre cele mai frumoase clădiri din Buenos Aires, fiind inițial un imens rezervor de apă deghizat în palat."
+    },
+    facts: { en: [
       "Historic facade",
       "Water station",
       "Buenos Aires",
       "Architectural landmark"
 ],
+      hu: ["Vízművek múzeuma", "300 000 darabos színes kerámia díszítés", "Francia eklektikus stílus", "Eredetileg víztározó volt"],
+      de: ["Ehemaliges Wasserwerk von Buenos Aires", "Fassade mit über 300.000 Terrakotta-Fliesen", "Meisterwerk des eklektischen Stils", "Nationales historisches Denkmal"],
+      ro: ["Fațadă decorată cu 300.000 de piese ceramice britanice", "Finalizat în 1894 în stil eclectic", "Găzduiește Muzeul Patrimoniului Istoric", "O capodoperă a ingineriei și arhitecturii sanitare"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3941, -34.5997],
@@ -725,13 +917,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/palacio-aguas-corrientes-landmarks-v2.webp"},
   {
     id: "mnba-buenos-aires-landmarks-v2",
-    description: "The National Museum of Fine Arts, housing a vast collection of Argentine and international art.",
-    facts: [
+    description: { en: "The National Museum of Fine Arts, housing a vast collection of Argentine and international art.",
+      hu: "Az Argentin Szépművészeti Múzeum, amely az ország legjelentősebb művészeti gyűjteményének ad otthont a Recoleta negyedben.",
+      de: "Das Nationalmuseum der Schönen Künste beherbergt die bedeutendste Kunstsammlung Argentiniens.",
+      ro: "Muzeul Național de Arte Frumoase (MNBA) deține cea mai mare colecție de artă publică din Argentina, de la maestrii europeni la arta națională."
+    },
+    facts: { en: [
       "Fine Arts Museum",
       "National institution",
       "Buenos Aires",
       "Cultural landmark"
 ],
+      hu: ["Legnagyobb állami művészeti gyűjtemény", "Európai és argentin mesterek művei", "Egykori szivattyúállomás épülete", "Ingyenesen látogatható állandó kiállítás"],
+      de: ["Größtes Kunstmuseum des Landes", "Werke von Goya, Rembrandt und Van Gogh", "Umfangreiche Sammlung argentinischer Kunst", "Gelegen im Viertel Recoleta"],
+      ro: ["Găzduiește opere de Goya, Rembrandt și Van Gogh", "Situat în cartierul Recoleta", "Fondat în 1895", "Clădirea actuală a fost o veche stație de pompare a apei"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3929, -34.5841],
@@ -755,13 +955,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/mnba-buenos-aires-landmarks-v2.webp"},
   {
     id: "centro-cultural-kirchner-landmarks-v2",
-    description: "A large cultural center housed in a historic building, hosting various arts and musical performances.",
-    facts: [
+    description: { en: "A large cultural center housed in a historic building, hosting various arts and musical performances.",
+      hu: "Hatalmas kulturális központ Buenos Airesben, amely a felújított egykori Központi Postapalota épületében kapott helyet.",
+      de: "Eines der größten Kulturzentren der Welt, untergebracht im prächtigen ehemaligen Postpalast.",
+      ro: "Centro Cultural Kirchner (CCK) este cel mai mare centru cultural din America Latină, situat în fosta clădire somptuoasă a Poștei Centrale."
+    },
+    facts: { en: [
       "Cultural center",
       "Historic building",
       "Buenos Aires",
       "Arts venue"
 ],
+      hu: ["Latin-Amerika legnagyobb kulturális központja", "Híres 'Kék bálna' koncertterem", "Postatörténeti emlékek", "Lenyűgöző belső terek"],
+      de: ["Größtes Kulturzentrum Lateinamerikas", "Bekannt für den 'Blauen Wal'-Konzertsaal", "Ehemals der zentrale Postpalast", "Wichtiges Zentrum für Kunst und Musik"],
+      ro: ["Găzduiește faimoasa sală de concerte „Balena Albastră”", "Arhitectură ce îmbină stilul clasic cu cel modern", "Inaugurat în mai 2015", "Centru multidisciplinar pentru artă și muzică"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3697, -34.6036],
@@ -786,13 +994,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
   },
   {
     id: "congreso-nacion-argentina-landmarks-v2",
-    description: "The monumental building housing the Argentine National Congress, with a prominent dome.",
-    facts: [
+    description: { en: "The monumental building housing the Argentine National Congress, with a prominent dome.",
+      hu: "Az argentin parlament monumentális neoklasszicista épülete Buenos Airesben, hatalmas zöld kupolájáról ismert.",
+      de: "Der Sitz des argentinischen Parlaments, ein monumentales Gebäude mit einer beeindruckenden Kuppel.",
+      ro: "Palatul Congresului Național este sediul puterii legislative, fiind remarcabil prin cupola sa imensă de cupru și stilul greco-roman."
+    },
+    facts: { en: [
       "Congress building",
       "Monumental dome",
       "Buenos Aires",
       "Political landmark"
 ],
+      hu: ["Argentína törvényhozásának székhelye", "Hatalmas rézkupola", "Pazar belső díszítés", "A Kongresszus téren található"],
+      de: ["Sitz der Legislative Argentiniens", "Eine der größten Kuppeln der Welt", "Erbaut im neoklassizistischen Stil", "Zentraler Punkt politischer Demonstrationen"],
+      ro: ["Inaugurat în 1906", "Cupola are o înălțime de 80 de metri", "Situat la capătul bulevardului Avenida de Mayo", "Unul dintre cele mai mari palate legislative din lume"]
+    },
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3927, -34.6097],
@@ -816,13 +1032,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/congreso-nacion-argentina-landmarks-v2.webp"},
   {
     id: "dique-san-roque-landmarks-v2",
-    description: "A large dam in the Córdoba province, significant for its role in energy and tourism.",
-    facts: [
+    description: { en: "A large dam in the Córdoba province, significant for its role in energy and tourism.",
+      hu: "Történelmi és mérnöki jelentőségű gát Córdoba tartományban, amely a San Roque-tavat hozta létre. Fontos szerepe van a vízellátásban.",
+      de: "Ein monumentaler Staudamm in Córdoba, der den San-Roque-See bildet und für seine Ingenieurskunst bekannt ist.",
+      ro: "Barajul San Roque este un punct de reper în provincia Córdoba, fiind crucial pentru controlul apelor și generarea de energie în regiune."
+    },
+    facts: { en: [
       "Historic dam",
       "Córdoba province",
       "Tourist attraction",
       "Energy landmark"
 ],
+      hu: ["A világ egyik legnagyobb mesterséges tava a maga korában", "Híres tölcsérszerű túlfolyó (Embudo)", "Közeli Villa Carlos Paz", "Látványos hegyvidéki gát"],
+      de: ["Wichtigstes Wasserreservoir der Region", "Bekannt für den 'Embudo' (Trichter-Überlauf)", "Meisterwerk der argentinischen Ingenieurskunst", "Zentrum für Wassersport in Carlos Paz"],
+      ro: ["Formează lacul artificial San Roque", "Originalul a fost cel mai mare din lume la finalizarea sa", "Punct turistic major lângă Villa Carlos Paz", "Cunoscut pentru descărcătorul său spectaculos tip pâlnie"]
+    },
     type: "landmark",
     parent: "AR-X",
     coords: [-64.4428, -31.3789],
@@ -846,13 +1070,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/dique-san-roque-landmarks-v2.webp"},
   {
     id: "puente-rosario-victoria-landmarks-v2",
-    description: "A long cable-stayed bridge spanning the Paraná River, connecting the provinces of Santa Fe and Entre Ríos.",
-    facts: [
+    description: { en: "A long cable-stayed bridge spanning the Paraná River, connecting the provinces of Santa Fe and Entre Ríos.",
+      hu: "Hatalmas hídrendszer a Paraná folyó felett, amely Rosario városát köti össze Victoria településsel. Fontos kereskedelmi útvonal.",
+      de: "Eine gewaltige Schrägseilbrücke, die die Städte Rosario und Victoria über den Paraná-Fluss verbindet.",
+      ro: "Podul Rosario-Victoria este o realizare majoră de inginerie care leagă provinciile Santa Fe și Entre Ríos peste fluviul Paraná."
+    },
+    facts: { en: [
       "Cable-stayed bridge",
       "Paraná River",
       "Engineering landmark",
       "Regional connection"
 ],
+      hu: ["600 méter hosszú főkábelhíd", "Hatalmas ártéri viaduktok", "Két tartományt köt össze", "Látványos folyami panoráma"],
+      de: ["Wichtige Verkehrsverbindung im Mercosur", "Beeindruckende Spannweite über dem Fluss", "Modernes Wahrzeichen der Region Litoral", "Kombination aus Brücken und Viadukten"],
+      ro: ["Are o lungime totală de 60 de kilometri", "Inaugurat în mai 2003", "Pod hobanat impunător deasupra canalului navigabil", "Nod vital pentru transportul în cadrul Mercosur"]
+    },
     type: "landmark",
     parent: "AR-S",
     coords: [-60.6775, -32.8681],
@@ -876,13 +1108,21 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/puente-rosario-victoria-landmarks-v2.webp"},
   {
     id: "viaducto-la-polvorilla-landmarks-v2",
-    description: "A famous high-altitude railway viaduct, a marvel of engineering on the Train to the Clouds route.",
-    facts: [
+    description: { en: "A famous high-altitude railway viaduct, a marvel of engineering on the Train to the Clouds route.",
+      hu: "A Felhők Vonatának leghíresebb viaduktja Salta tartományban. A hatalmas acélszerkezet 4200 méteres magasságban ível át a völgy felett.",
+      de: "Ein spektakuläres Eisenbahnviadukt in den Anden, das Teil der Route des berühmten 'Zugs in die Wolken' ist.",
+      ro: "Viaductul La Polvorilla este punctul culminant al Trenului Norilor, o structură metalică impresionantă suspendată la o altitudine amețitoare."
+    },
+    facts: { en: [
       "Railway viaduct",
       "Engineering marvel",
       "Salta province",
       "High altitude"
 ],
+      hu: ["4200 méter tengerszint feletti magasság", "Ikonikus vasúti híd", "64 méter magas tartópillérek", "A mérnöki zsenialitás jelképe"],
+      de: ["Höchstgelegener Punkt des 'Tren a las Nubes'", "Stahlkonstruktion in 4.220 Metern Höhe", "Wunder der Eisenbahntechnik", "Gelegen in der unwirtlichen Puna-Wüste"],
+      ro: ["Situat la 4.220 metri deasupra nivelului mării", "O capodoperă a ingineriei feroviare de la începutul secolului XX", "Are o formă curbă de 224 de metri lungime", "Simbol al regiunii Puna din Salta"]
+    },
     type: "landmark",
     parent: "AR-A",
     coords: [-66.2307, -24.1994],

@@ -346,13 +346,13 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     },
     description: {
       de: "Ein 1896 von europäischen Prospektoren erbautes Steinfort zur Verteidigung gegen das Ngoni-Volk.",
-      hu: "1896-ban európai kutatók által épített kőerőd a ngoni nép elleni védekezésül.",
+      hu: "Az 1900-as évek elején épült erődítmény a tanzániai határ közelében, amely a brit gyarmati terjeszkedés egyik történelmi emléke.",
       ro: "Un fort de piatră construit în 1896 de prospectorii europeni pentru a se apăra împotriva poporului Ngoni.",
       en: "A stone fort built in 1896 by European prospectors to defend against the Ngoni people."
     },
     facts: {
       de: ["Ohne Mörtel konstruiert.", "Nach der Niederschlagung des Ngoni-Aufstands verlassen."],
-      hu: ["Habarcs nélkül épült.", "A ngoni felkelés leverése után hamarosan elhagyták."],
+      hu: ["Gyarmati kori erőd", "1900-as évek eleje", "Történelmi romok"],
       ro: ["Construit fără mortar.", "Abandonat la scurt timp după ce revolta Ngoni a fost suprimată."],
       en: ["Constructed without mortar.", "Abandoned shortly after the Ngoni uprising was suppressed."]
     }, image: "/poi-images/fort-elwes-history-v2.webp"},

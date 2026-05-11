@@ -266,20 +266,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
       en: "Chibuluma Copper Mine"
     },
     description: {
-      de: "Eine historisch bedeutsame Mine im sambischen Kupfergürtel.",
-      hu: "Történelmileg jelentős bánya a zambiai rézövezetben.",
+      de: "Die Chibuluma-Mine bei Kalulushi ist eines der ältesten und effizientesten Kupferbergwerke im Copperbelt.",
+      hu: "Zambia egyik legrégebbi és legfontosabb rézbányája a Copperbelt tartományban, amely évtizedek óta hozzájárul az ország gazdaságához.",
       ro: "O mină cu importanță istorică în Centura de Cupru din Zambia.",
       en: "A historically significant mine in the Zambian Copperbelt."
     },
     facts: {
-      de: [
-        "Untertagebau.",
-        "Wurde privatisiert.",
-      ],
-      hu: [
-        "Mélyszíni bánya.",
-        "Privatizálták.",
-      ],
+      de: ["Bedeutende Kupferlagerstätte", "Modernisierte Untertagemine", "Wichtiger Arbeitgeber in Kalulushi"],
+      hu: ["Fontos rézbánya", "A Copperbelt területén", "Jelentős exportforrás"],
       ro: [
         "Mină subterană.",
         "A fost privatizată.",
